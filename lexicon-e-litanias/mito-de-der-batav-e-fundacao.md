@@ -20,15 +20,3 @@ Adoção e Rebatismo Tático: Percebendo o poder tático e psicológico dessa co
 
 * **Interno:** Homenagear o povo que agora compõe a *Auxilia Batavorum* e a base de recrutamento, reforçando a Doutrina do Suor Compartilhado**.**  
 * **Externo:** Estabelecer uma identidade de "Monstros da Fronteira", projetando uma imagem de letalidade fria que intimida tanto piratas quanto a burocracia imperial.
-
-## 
-
-## MENTALIDADE E FILOSOFIA
-
-* **O Axioma da Razão (*Axioma Rationis*):** A pedra angular da cultura. A emoção não é negada, mas estritamente regulada pela lógica.  
-  *"O Serviço exige razão, não devoção. A Razão direciona o dever sem submissão cega. O Dever é mantido através da regulação do eu. Eu sirvo ao Imperador; um lobo leal."*  
-* **Instrumentum Solum:** A crença de que o Astartes não é um semideus ou um herói, mas apenas uma Ferramenta de alta precisão. "Apenas uma Ferramenta" é a resposta padrão obrigatória para qualquer elogio ou glória recebida.  
-* **Filosofia "Unbent" (Nativa):** A resiliência do Capítulo não vem de doutrinação hipnótica externa, mas da psique inquebrável de Alaric. Refere-se à capacidade de permanecer ereto e funcional sob pressões que quebrariam outros. É a recusa lógica em ceder à falha.  
-* **Doutrina do Suor Compartilhado:** A integração laboral. Astartes fora de combate trabalham na construção civil e manutenção industrial ao lado da população para criar laços de lealdade e "ancorar" sua humanidade na realidade do cidadão comum.  
-* **O Dogma da Prisão Voluntária (A Catraca Biológica):** A Falange de Nove mundos não é apenas a fortaleza da *Cohors Batavorum*; é a sua quarentena médica inegociável. O Triunvirato compreende que a sua biologia quimérica, violentamente ativada pelas pressões da fronteira, é uma catraca de via única. Se um Batavi for despachado em uma cruzada galáctica distante, privado da infraestrutura gélida de Noviomagus, destituído dos protocolos químicos do Apotecário Drusus, do terror analítico de Varro e, principalmente, do calor das forjas civis (A Doutrina do Suor Compartilhado), a sua mente colapsará. Sem a âncora de sua população, o guerreiro sucumbirá invariavelmente ao *Execratio*, tornando-se um monstro irracional. Eles nasceram para o Muro, forjam o Muro e, por restrição orgânica irreversível, apodrecerão no Muro.
-

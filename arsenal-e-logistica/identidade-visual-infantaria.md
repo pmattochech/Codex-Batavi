@@ -1,0 +1,10 @@
+## 2\. IDENTIDADE VISUAL (INFANTARIA DE LINHA)
+
+O esquema visual padrão para a vasta maioria dos Irmãos de Batalha reflete a humildade da ferramenta e o sangue da proteção.
+
+* **Cor Primária (Chassi):** **Cinza Industrial** (*Mechanicus Standard Grey*). Aplicado no peitoral, pernas, braços, mochila e capacete. Representa o ferro, o concreto, a fuligem e a ausência de ego.  
+* **Ombreiras (Ambas):** **Vermelho Carmesim** (*Mephiston Red*). Simboliza o "Sangue da Raiz" — a vida da população civil e a linhagem que o "ferro" (corpo cinza) deve proteger.  
+* **Símbolo do Capítulo (Ombreira Esquerda):** Cabeça de Lobo de Ferro (*Iron Wolf*) de perfil, sobreposta a uma engrenagem e ondas. Cor: Preto Fosco.  
+* **Guarnições e Detalhes:** Aço Polido ou Chumbo. O uso de ouro é estritamente funcional, indicando veterania ou patente de comando.  
+* **Lentes do Elmo:** **Laranja**. (O vermelho nas lentes é proibido para a tropa comum).
+
