@@ -1,6 +1,6 @@
 # SISTEMA II: O CADINHO (Atlas detalhado)
 
-> Contexto macro e atlas resumido: [`ATLAS_E_TOPOGRAFIA.md`](../ATLAS_E_TOPOGRAFIA.md)
+> Contexto macro e atlas resumido: [`atlas-geral.md`](../atlas-geral.md)
 
 ## SISTEMA II: O CADINHO (A Trindade do Caos Gravitacional)
 
@@ -48,31 +48,4 @@ Viajar por este sistema sem acionar a destruição da nave requer cruzar dois in
 
 ### 6\. MATRIZ BIOGEOGRÁFICA (O Cadinho)
 
-* **Incus-Gravis Tertius**
-  **Topologia:** Super-terra plana de 2.8G, mares de cascalho e colmeias invertidas escavadas.
-  **Flora:** Escassa na superfície; microflora subterrânea de caverna e biofilmes mineralizados.
-  **Fauna:** Macroinvertebrados rastejantes e organismos adaptados à hipergravidade.
-  **Risco biológico:** Esmagamento sistêmico, falhas ósseas e síndrome de adaptação gravitacional.
-
-* **Incus-Gravis Secundus**
-  **Topologia:** Mundo-túnel, geologia habitável em profundidade e cúpulas de mineração cristalina.
-  **Flora:** Fungos de substrato, liquens de caverna e cultivo em espectro artificial.
-  **Fauna:** Predadores cavernícolas, artrópodes de poço e parasitas de duto térmico.
-  **Risco biológico:** Deficiência crônica de luz (Peste Branca), surtos em habs fechados e fungemia.
-
-* **Incus-Gravis-I**
-  **Topologia:** Mundo travado tidalmente com face de calor extremo e zonas de radar blindadas.
-  **Flora/Fauna:** Quase nulas fora de nichos de infraestrutura penal.
-  **Risco biológico:** Radiação solar, falência térmica e degradação tecidual acelerada.
-
-* **Bifrons-Ferrum / Vitreus / Anel de Logus**
-  **Topologia:** Planeta partido, mundo-lente vitrificado e disco de acreção industrial.
-  **Flora:** Mínima e confinada a bolsões técnicos.
-  **Fauna:** Fauna refletida/silicática residual, pragas de sucata e organismos de metal oxidado.
-  **Risco biológico:** Trauma ótico, contaminação de estase, vetores de ferrugem biológica e poeira ionizada.
-
-* **Aethelgard Prime / Ignis-Minor / Tempestas-Major-VII**
-  **Topologia:** Lua de marés ciclópicas, lua vulcânica de fricção tectônica e pântano ácido hiperpressurizado.
-  **Flora:** Costeira de choque e maré (Aethelgard), flora mineral termófila (Ignis), fungos-de-ferro predatórios (VII).
-  **Fauna:** Predadores anfíbios de maré, megafauna de basalto e *Tyrannus Lutum* encouraçados.
-  **Risco biológico:** Pressão osmótica extrema, queimadura química e predação territorial.
+*Matriz canónica:* [`../../enciclopedia-biologica-e-bestiario/matriz-biogeografica-cadinho.md`](../../enciclopedia-biologica-e-bestiario/matriz-biogeografica-cadinho.md). *Espécimes nomeados (ex.: Tyrannus Lutum, fungos-de-ferro):* [`fauna-flora-e-especimes-nomeados.md`](../../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md).

@@ -17,3 +17,5 @@ As armaduras forjadas nas luas-fábrica do sistema, sob a supervisão dos Mestre
   * *Uso Tático:* Originalmente desenhadas para escalada em infraestruturas verticais (refinarias e colmeias), tornaram-se armas brutais em combate corpo a corpo (CQC), permitindo rasgar blindagens inimigas ou fixar-se em cascos de naves durante abordagens no vácuo.  
 * **Vedação Industrial:** Devido à atmosfera poluída de Noviomagus e ao combate frequente contra armas químicas (como as da Death Guard), as juntas possuem vedação tripla reforçada com borracha sintética vulcanizada, tornando a armadura virtualmente imune a toxinas ambientais e pressão de vácuo.
 
+*Catálogo de chassis e armamento excepcional (referência aos dossiês):* [catalogo-chassis-e-armaduras.md](catalogo-chassis-e-armaduras.md) · [catalogo-armas-e-equipamento.md](catalogo-armas-e-equipamento.md)
+

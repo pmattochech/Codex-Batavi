@@ -1,7 +1,7 @@
 # Atlas e topografia
 
-- [ATLAS_E_TOPOGRAFIA.md](ATLAS_E_TOPOGRAFIA.md) — contexto macro, atlas resumido, ligações
-- **sistemas/**
-  - [ATLAS_SISTEMA_I_BASTIAO_CENTRAL.md](sistemas/ATLAS_SISTEMA_I_BASTIAO_CENTRAL.md)
-  - [ATLAS_SISTEMA_II_CADINHO.md](sistemas/ATLAS_SISTEMA_II_CADINHO.md)
-  - [ATLAS_SISTEMA_III_LIMIAR.md](sistemas/ATLAS_SISTEMA_III_LIMIAR.md)
+- [atlas-geral.md](atlas-geral.md) — contexto macro, atlas resumido, ligações
+- **sistemas/** (topografia e geopolítica; matrizes flora/fauna canónicas na [enciclopédia](../enciclopedia-biologica-e-bestiario/INDEX.md))
+  - [sistema-i-bastiao-central.md](sistemas/sistema-i-bastiao-central.md)
+  - [sistema-ii-cadinho.md](sistemas/sistema-ii-cadinho.md)
+  - [sistema-iii-limiar.md](sistemas/sistema-iii-limiar.md)

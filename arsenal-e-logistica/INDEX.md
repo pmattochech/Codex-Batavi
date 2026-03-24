@@ -1,6 +1,11 @@
 # Arsenal e logística
 
-- [intro-e-engenharia-padrao-noviomagus.md](intro-e-engenharia-padrao-noviomagus.md)
+## Padrão e heráldica
+- [engenharia-padrao-noviomagus.md](engenharia-padrao-noviomagus.md)
 - [identidade-visual-infantaria.md](identidade-visual-infantaria.md)
 - [coortes-de-especialidade.md](coortes-de-especialidade.md)
-- [coorte-das-falanges-e-resumo-visual.md](coorte-das-falanges-e-resumo-visual.md)
+- [falanges-e-resumo-visual.md](falanges-e-resumo-visual.md)
+
+## Catálogos (referência cruzada com dossiês e crónicas)
+- [catalogo-chassis-e-armaduras.md](catalogo-chassis-e-armaduras.md)
+- [catalogo-armas-e-equipamento.md](catalogo-armas-e-equipamento.md)

@@ -37,10 +37,7 @@ Corredores sub-luz ultra congestionados, com tráfego contínuo de dízimo, esco
 * **Bator-Tertius [NOVO]**
 
 #### 5. Matriz Biogeográfica (Bastião Central)
-* **Noviomagus Prime** — topologia industrial; flora residual controlada; fauna de pragas industriais; risco químico/respiratório.
-* **Castra-Vetera Prime** — ecumenópole administrativa; ecossistema sanitizado; risco psicossocial.
-* **Khan-Bator Prime** — monocultura extensiva; agroecossistema controlado; risco de contaminação/sabotagem.
-* **Horreum-Secundus** — plataformas oceânicas; algas e cadeias tróficas artificiais; risco de bloom tóxico.
+*Entrada canónica (flora/fauna/risco por corpo):* [`../enciclopedia-biologica-e-bestiario/matriz-biogeografica-bastiao-central.md`](../enciclopedia-biologica-e-bestiario/matriz-biogeografica-bastiao-central.md) · *Espécimes nomeados:* [`../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md`](../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md)
 
 ### SISTEMA II: O CADINHO (A Trindade do Caos Gravitacional)
 
@@ -70,11 +67,7 @@ Corredores sub-luz ultra congestionados, com tráfego contínuo de dízimo, esco
 * **Solaris-Alpha**
 
 #### 6. Matriz Biogeográfica (Cadinho)
-* **Incus-Gravis Tertius** — super-terra 2.8G; biota subterrânea; risco de esmagamento sistêmico.
-* **Incus-Gravis Secundus** — mundo-túnel; fungos/liquens; risco de Peste Branca.
-* **Incus-Gravis-I** — mundo térmico extremo; biota quase nula; risco radiológico.
-* **Bifrons-Ferrum / Vitreus / Anel de Logus** — geologias extremas; pragas de sucata; risco ótico/estase.
-* **Aethelgard Prime / Ignis-Minor / Tempestas-Major-VII** — maré/vulcanismo/pântano ácido; biota predatória; risco químico e territorial.
+*Entrada canónica:* [`../enciclopedia-biologica-e-bestiario/matriz-biogeografica-cadinho.md`](../enciclopedia-biologica-e-bestiario/matriz-biogeografica-cadinho.md) · *Espécimes nomeados:* [`../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md`](../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md)
 
 ### SISTEMA III: O LIMIAR (A Trindade Terminal)
 
@@ -104,13 +97,10 @@ Corredores sub-luz ultra congestionados, com tráfego contínuo de dízimo, esco
 * **Vigil-Secundus [NOVA INSERÇÃO]**
 
 #### 6. Matriz Biogeográfica (Limiar)
-* **Tempest-V / Grande Recife / Station-Maleventum** — vazio hostil e ecologia de casco.
-* **Nox / Abyssal-Anchor / Singularity-Point** — alta gravidade e risco dimensional.
-* **Station-IX / Cinturão Silencioso / Olho de Vidro / Marco de Vetra** — rede sensorial; desgaste humano.
-* **Vigil-Secundus / Sentinelas de Gelo** — ambiente criogênico com predadores por sonar.
+*Entrada canónica:* [`../enciclopedia-biologica-e-bestiario/matriz-biogeografica-limiar.md`](../enciclopedia-biologica-e-bestiario/matriz-biogeografica-limiar.md) · *Espécimes nomeados:* [`../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md`](../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md)
 
 ## Arquivos detalhados
 
-* `sistemas/ATLAS_SISTEMA_I_BASTIAO_CENTRAL.md`
-* `sistemas/ATLAS_SISTEMA_II_CADINHO.md`
-* `sistemas/ATLAS_SISTEMA_III_LIMIAR.md`
+* `sistemas/sistema-i-bastiao-central.md`
+* `sistemas/sistema-ii-cadinho.md`
+* `sistemas/sistema-iii-limiar.md`
