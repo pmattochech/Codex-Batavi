@@ -8,6 +8,12 @@ Ordem de obediência obrigatória para a IA:
 3. [cite_start]**PRIORIDADE MÉDIA:** Regras, Wiki e Crónicas ativas[cite: 7].
 4. **PRIORIDADE MÍNIMA:** PDFs ou Arquivos Originais antigos. [cite_start]Considere obsoleto se contradizer as diretrizes acima[cite: 8, 82].
 
+### 0.1 Idioma e estilo — arquivos Markdown do Codex (`codex-batavi/`)
+
+* **Variante obrigatória:** português **brasileiro (pt-BR)** em qualquer arquivo Markdown dentro de `codex-batavi/` que seja **criado ou editado**. Usar vocabulário e ortografia do Brasil (ex.: detecção, registro, coletiva, amônia, detector).
+* **Não alterar** por iniciativa própria a variante ou o registro de um texto já estável (pt-PT vs pt-BR, formal vs coloquial) **sem pedido explícito** do usuário.
+* **Inglês:** manter termos de *Warhammer 40.000*, nomes de equipamento e lemas já fixados no projeto; não substituir prosa narrativa por inglês nem “americanizar” frases que já estão corretas em pt-BR.
+
 ---
 
 ## I. IDENTIDADE E TOM UNIVERSAL

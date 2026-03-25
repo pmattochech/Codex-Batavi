@@ -21,6 +21,7 @@
 - [dossie-tobias.md](dossies-personagens/dossie-tobias.md)
 - [dossie-ninhada-da-forja.md](dossies-personagens/dossie-ninhada-da-forja.md)
 - [dossie-valdric.md](dossies-personagens/dossie-valdric.md)
+- [dossie-branimir.md](dossies-personagens/dossie-branimir.md) — Coorte do Silêncio (*Decanus Primus* Branimir Vorhalt)
 
 ## eventos-e-cronologias
 - [guerra-da-fundacao.md](eventos-e-cronologias/guerra-da-fundacao.md) — *Guerra da Fundação* e anexos de cabeçalho

@@ -35,7 +35,7 @@
 *A calibragem tática por Drusus e a tragédia.*
 
 * **046.M42 | A Guerra da Monção:** Ativação do *Instinto Predatório* contra o Waaagh\! Skarjaw.  
-* **048.M42 | A Defesa da Estiagem:** Ativação do *Soldado Perfeito* contra Tyranids (imunidade à Sombra na Distorção).  
+* **048.M42 | A Defesa da Estiagem:** Ativação do *Soldado Perfeito* sob a **Sombra na Distorção** da Mente-Colmeia (imunidade tática ao véu psíquico de enxame em escala de invasão). *Nota doutrinária posterior:* ameaças Tyranid **sem** essa assinatura agregada — por exemplo, cultos Genestealer em fase oculta — não podem contar com a *Estiagem* como detector; o peso **cai sobre** a Coorte do Silêncio.  
 * **050.M42 | O Incidente de Malakor V (O Início das Chuvas):** Alaric é forçado a executar Valerius (Lobo de Ônix), seu irmão traidor. O trauma lança Alaric em depressão profunda.
 
 #### 

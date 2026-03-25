@@ -45,7 +45,7 @@ Os tecidos dos *Bataves* não estavam "cicatrizando"; eles estavam se reconstrui
 
 **Conclusão Doutrinária do Apothecarion:** Não estamos sofrendo de uma doença degenerativa. Estamos operando sob um *Overclock* Biológico.
 
-A nossa semente genética identifica a "Força Bruta" e o caos (Orks) e desacorrenta a "Fera" (*Monção*) para combatê-la em seus próprios termos. Se a semente identificar o "Horror Cósmico" e a inibição psíquica (Tyranids), ela desativará o sistema límbico e trará à tona a "Máquina" (*Estiagem*).
+A nossa semente genética identifica a "Força Bruta" e o caos (Orks) e desacorrenta a "Fera" (*Monção*) para combatê-la em seus próprios termos. Se a semente identificar o horror cósmico e a **supressão psíquica em massa da Mente-Colmeia** — na prática, a **Sombra na Distorção** que acompanha incursões de enxame / bio-frota —, ela desativará o sistema límbico e trará à tona a "Máquina" (*Estiagem*). **Redes cultuais Genestealer sem essa assinatura agregada não são gatilho confiável;** exigem outra geometria de guerra (ver doutrina da Coorte do Silêncio).
 
 Nós somos um organismo paramilitar puramente reativo. O segredo da nossa sobrevivência secular não reside em tentar impedir a transformação; o segredo é encontrar métodos químicos e psíquicos para garantir que os corpos sobrevivam ao rebote quando a tempestade passar.
 

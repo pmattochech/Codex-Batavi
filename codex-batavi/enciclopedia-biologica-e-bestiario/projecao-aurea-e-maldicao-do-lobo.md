@@ -4,8 +4,9 @@ O Capítulo opera sob uma distinção biológica rígida entre "Ferramenta" (Uso
 
 **A) A PIRÂMIDE DA PROJEÇÃO ÁUREA (O Design de Cawl)** *Um sistema de resposta neuroquímica adaptativa induzido involuntariamente para enfrentar inimigos específicos, e apenas contra esses inimigos.*
 
-1. **Estiagem (Vs. Tyranids):** O Soldado Perfeito. Foco em lógica pura e processamento cerebral extremo, operando fora da "Sombra na Distorção".  
+1. **Estiagem (vs. pressão psíquica da Mente-Colmeia / Sombra na Distorção):** O Soldado Perfeito. Foco em lógica pura e processamento cerebral extremo, permitindo operar sob o véu que esmaga afeto e pânico imposto pelo enxame em **escala de frota**. O gatilho não é “ver um Tyranid”, e sim a **assinatura agregada** de fome de colmeia que seca o Imaterial local — a **Sombra na Distorção**.  
    * *Rebote:* Exaustão mental severa e comportamento robótico repetitivo.  
+   * *Limite doutrinário:* **Cultos Genestealer** e infestações **larvais** (rede planetária oculta, sem a massa psíquica de uma invasão de bio-navios), em regra, **não** geram a mesma pressão. A semente **não** entra em *Estiagem* só porque híbridos respiram na cidade. Esse vazio no pêndulo biológico é conhecido no *Apothecarion*; a contramedida **cai sobre** a **Coorte do Silêncio** (patrulha urbana, análise multimodal de padrões) e a *Lex Imperialis*, não sobre a ideia de “ligar a Máquina” contra um culto.  
 2. **Monção (Vs. Orks):** O Instinto Predatório. Agressividade e força física aumentadas para superar a brutalidade Ork no corpo a corpo.  
    * *Rebote:* Exaustão física, danos musculares e risco de deslize para o ***Furor***.  
 3. **Chuvas Pesadas / Tormenta (Vs. Caos):** O Vetor de Vingança. Foco obsessivo e frio na extirpação de traidores do Caos (prioridade: Black Legion).  
