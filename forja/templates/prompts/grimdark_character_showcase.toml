@@ -1,0 +1,25 @@
+# Template genérico — demonstração de personagem em tom grimdark (primeira pipeline / referência).
+# Use -m para descrever o personagem, armadura, pose e raça (em inglês costuma render melhor no SD).
+# Ex.: batavi-img generate --preset grimdark_character --template grimdark_character_showcase -m "tall space marine, wolf skull helm, standing in rain"
+# O campo negative não vai na API: copie para o segundo CLIP Text Encode (prompt negativo) no ComfyUI.
+
+character = "Showcase genérico grimdark (personagem = texto em -m)"
+
+positive_prefix = """
+grimdark science fiction character showcase, single clear subject, full body or three-quarter view,
+industrial gothic environment, imperial forge world or fortress rampart, rain-slick stone and rusted metal,
+acid rain mist, drifting smoke and sparks, distant fires,
+dramatic cinematic lighting, amber warning lamps and cold cyan rim light, volumetric fog, wet reflective surfaces,
+oppressive monumental scale, war-torn architecture in background,
+oil painting texture, high detail, moody atmosphere, epic composition
+"""
+
+positive_suffix = """
+readable silhouette, character focus, no text, no watermark
+"""
+
+negative = """
+cartoon, anime, chibi, bright pastel, clean toy plastic, cheerful, smiling stock photo,
+lowres, blurry, deformed hands, extra fingers, extra limbs, duplicate character,
+text, watermark, logo, modern casual clothing, selfie, oversaturated happy colors
+"""

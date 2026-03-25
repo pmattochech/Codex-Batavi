@@ -1,0 +1,34 @@
+# Template de prompt — Alaric no Castra-Lupus (alinhado a dossie-alaric.md §1.2).
+# Elmo: ceramite Mechanicus Grey fosca (canon técnico do dossiê). Olhos das peles: vermelho (negro) / azul-pálido (Viggo).
+# Variante narrativa (elmo carmesim): use template `alaric_castra_lupus_crimson_helm.toml`.
+# Uso: batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "chuva na amurada, fumo"
+# O negative não é enviado à API automaticamente: copie para o nó CLIP negativo do ComfyUI.
+
+character = "Alaric von Helis — Castra-Lupus (Exterminadora Noviomagus-Pattern, elmo cinza dossie)"
+
+positive_prefix = """
+vivid full color image, rich color saturation, not monochrome, crimson red cape and pauldrons, amber orange helm lenses, pale blue and red taxidermy eye glow, orange firelight and colored smoke,
+colossal transhuman warlord, 3.5 meters tall, massive armored giant, roughly three tons silhouette,
+oversized tactical dreadnought inspired power armor, hybrid terminator plates fused with dreadnought structural segments,
+industrial mechanicus grey ceramite ninety percent of chassis arms and legs, weathered colored metal not grayscale, mephiston red strictly on pauldrons and forearm gauntlets only,
+full helmet is enlarged wolf skull sculpted in thick matte mechanicus grey ceramite, not red painted helm, pointed ceramite wolf ears, long projected muzzle, closed mechanical jaw, retracted steel lips in frozen snarl, lower adamantium fangs visible,
+amber orange lenses seated inside wolf eye sockets correct lateral anatomy, no flat human visor, no human face,
+taxidermy memorial pelts on massive pauldrons: on character right shoulder intact white thunderwolf head Viggo with pale blue glowing taxidermy eyes, white front paws crossed around neck collar like embrace,
+on character left shoulder black Aethelgard wolf pelt, missing lower jaw, lips curled perpetual snarl on grey ceramite, black front paws draped down upper chest, heavy imperial aquila brooch clasping the black pelt,
+crimson ballistic cape over back, triple mantle read as cape plus two asymmetric wolf trophies,
+siege fortress interior or storm, acid rain, sparks, smoke,
+grimdark science fiction, gothic industrial, cinematic dramatic lighting, high detail, colored oil painting, wide shot
+"""
+
+positive_suffix = """
+anchored stance, immovable wall, cold authority, Batavian iron guard aesthetic, no text no watermark
+"""
+
+negative = """
+grayscale, monochrome, black and white, desaturated, sepia only, noir, ink wash only,
+cartoon, anime, bright pastel, clean chrome, toy, lowres, blurry, deformed hands, extra fingers, extra limbs,
+crimson red wolf helmet, red painted wolf skull helm, bright red entire wolf head helmet,
+both wolf pelt heads with same eye color, yellow eyes on white wolf, amber eyes on taxidermy white wolf,
+quadruped wolf as subject, literal wolf walking, game UI frame, vector art,
+text, watermark, logo, modern military, cheerful, smiling helmet-off portrait
+"""

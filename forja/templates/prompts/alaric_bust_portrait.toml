@@ -1,0 +1,31 @@
+# Busto — Castra-Lupus com detalhe canónico do dossie (elmo cinza por defeito).
+# Elmo carmesim: duplique este ficheiro ou use -m curto "crimson red wolf skull helmet" e retire "grey ceramite helmet" do fluxo mental; melhor usar full-body template crimson + crop em pós.
+# Uso: batavi-img generate --preset alaric_armor --template alaric_bust_portrait -m "three-quarter view, slight turn left"
+
+character = "Alaric von Helis — busto Castra-Lupus, manto triplo, olhos taxidermizados canónicos"
+
+positive_prefix = """
+vivid full color portrait, rich saturation, not black and white, crimson cloak, mephiston red pauldrons, amber helm lenses, pale blue and red taxidermy wolf eyes,
+shoulder bust portrait, head and upper chest visible only, framed like a classical portrait, single humanoid biped,
+massive armored torso, Castra-Lupus exterminator pattern, terminator scale bulk,
+industrial mechanicus grey ceramite most of visible torso and helm, weathered colored metal, mephiston red only on pauldrons and visible forearm plates,
+helmet is enlarged wolf skull in matte mechanicus grey thick ceramite, pointed ears, long muzzle, adamantium fangs, amber orange lenses in wolf eye sockets, not a real wolf animal, not quadruped,
+taxidermy on pauldrons in frame: character right shoulder white wolf head pale blue glowing taxidermy eyes, paws crossed at neck if visible,
+character left black wolf pelt missing lower jaw snarling on ceramite, red glowing taxidermy eyes, imperial aquila brooch on black pelt,
+crimson ballistic cloak fabric behind shoulders, layered ceremonial memorial heraldry,
+Warhammer 40k grimdark gothic, oil painting on canvas in full color, visible brushstrokes, impasto, dramatic colored light and shadow, not grayscale,
+no text, no watermark, no decorative UI frame
+"""
+
+positive_suffix = """
+tight portrait crop, immovable authority, Batavian iron guard, focus on grey wolf helm and asymmetric pelts
+"""
+
+negative = """
+grayscale, monochrome, black and white, desaturated, sepia, noir,
+quadruped wolf, wolf walking on four legs, literal wolf creature, full body wolf, wolf as main subject, dog, hyena,
+crimson red entire wolf helmet, red wolf skull helm, both taxidermy wolves same eye color, yellow eyes on white wolf pelt,
+game card frame, trading card border, UI mockup, vector art, flat graphic design, clean corporate illustration, infographic,
+anime, chibi, bright pastel, lowres, blurry, deformed hands, extra fingers, text, watermark, logo,
+helmet off, human bare face, smiling, cheerful
+"""

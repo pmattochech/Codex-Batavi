@@ -9,7 +9,8 @@ import os
 import re
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+REPO_ROOT = Path(__file__).resolve().parents[1]
+ROOT = REPO_ROOT / "codex-batavi"
 
 # ──────────────────────────────────────────────
 # RENAME MAP   old path (relative to ROOT) → new filename (in same folder)
@@ -71,7 +72,7 @@ RENAMES: list[tuple[str, str]] = [
 
     # ── arsenal ────────────────────────────────────────────────────────────
     ("arsenal-e-logistica/intro-e-engenharia-padrao-noviomagus.md",  "engenharia-padrao-noviomagus.md"),
-    ("arsenal-e-logistica/coorte-das-falanges-e-resumo-visual.md",   "falanges-e-resumo-visual.md"),
+    ("arsenal-e-logistica/coorte-das-falanges-e-resumo-visual.md",   "vexillationes-e-resumo-visual.md"),
 
     # ── enciclopédia ───────────────────────────────────────────────────────
     ("enciclopedia-biologica-e-bestiario/wiki-reliquia-biologica-viggo.md", "reliquia-viggo.md"),

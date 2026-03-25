@@ -1,0 +1,31 @@
+# Mesmo bloco que `alaric_castra_lupus.toml`, mas elmo em carmesim (prosa narrativa, ex. Dízimo dos Rejeitados).
+# Pelos, capa e esquema cinza/vermelho de chassis mantêm-se; só o acabamento do elmo muda.
+# Uso: batavi-img generate --preset alaric_armor --template alaric_castra_lupus_crimson_helm -m "fogo ao fundo, fumo"
+
+character = "Alaric von Helis — Castra-Lupus (elmo carmesim, variante narrativa)"
+
+positive_prefix = """
+vivid full color image, rich color saturation, not monochrome, blood red wolf helm, crimson cape, amber lenses, pale blue and red taxidermy eye glow, orange firelight and colored smoke,
+colossal transhuman warlord, 3.5 meters tall, massive armored giant, roughly three tons silhouette,
+oversized tactical dreadnought inspired power armor, hybrid terminator plates fused with dreadnought structural segments,
+industrial mechanicus grey ceramite ninety percent of chassis arms and legs, weathered colored metal not grayscale, mephiston red strictly on pauldrons and forearm gauntlets only,
+full helmet is enlarged wolf skull sculpted in thick ceramite finished mephiston blood red crimson, pointed ceramite wolf ears, long projected muzzle, closed mechanical jaw, retracted steel lips in frozen snarl, lower adamantium fangs visible,
+amber orange lenses seated inside wolf eye sockets correct lateral anatomy, no flat human visor, no human face,
+taxidermy memorial pelts on massive pauldrons: on character right shoulder intact white thunderwolf head Viggo with pale blue glowing taxidermy eyes, white front paws crossed around neck collar like embrace,
+on character left shoulder black Aethelgard wolf pelt, missing lower jaw, lips curled perpetual snarl on grey ceramite, black front paws draped down upper chest, heavy imperial aquila brooch clasping the black pelt,
+crimson ballistic cape over back, triple mantle read as cape plus two asymmetric wolf trophies,
+siege fortress interior or storm, acid rain, sparks, smoke,
+grimdark science fiction, gothic industrial, cinematic dramatic lighting, high detail, colored oil painting, wide shot
+"""
+
+positive_suffix = """
+anchored stance, immovable wall, cold authority, Batavian iron guard aesthetic, no text no watermark
+"""
+
+negative = """
+grayscale, monochrome, black and white, desaturated, sepia only, noir, ink wash only,
+cartoon, anime, bright pastel, clean chrome, toy, lowres, blurry, deformed hands, extra fingers, extra limbs,
+both wolf pelt heads with same eye color, yellow eyes on white wolf, amber eyes on taxidermy white wolf,
+quadruped wolf as subject, literal wolf walking, game UI frame, vector art,
+text, watermark, logo, modern military, cheerful, smiling helmet-off portrait
+"""

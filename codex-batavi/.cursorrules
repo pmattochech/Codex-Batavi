@@ -1,0 +1,104 @@
+# REGRA MESTRA: DIRETRIZES ABSOLUTAS DA COHORS BATAVORUM
+[cite_start]**PRIMEIRA DIRETRIZ (LEIA ANTES DE TUDO):** Esta nota define a "Verdade Absoluta" deste projeto[cite: 1]. [cite_start]Ela contém as regras imutáveis de comportamento, biologia e história que devem ser aplicadas em TODAS as funções (resumos, escrita criativa, chat, análise)[cite: 2]. [cite_start]Antes de gerar qualquer resposta, verifique se ela contradiz esta nota[cite: 3].
+
+## 0. HIERARQUIA DE RESOLUÇÃO DE CONFLITOS
+Ordem de obediência obrigatória para a IA:
+1. [cite_start]**PRIORIDADE MÁXIMA (A Verdade Atual):** Este ficheiro `.cursorrules` e Notas Manuais do Utilizador[cite: 80, 81]. [cite_start]Nada pode sobrescrever isto[cite: 7].
+2. [cite_start]**PRIORIDADE ALTA:** Lexicanum / Lore Oficial de Warhammer 40k (Apenas para terminologia técnica e contexto histórico geral)[cite: 81].
+3. [cite_start]**PRIORIDADE MÉDIA:** Regras, Wiki e Crónicas ativas[cite: 7].
+4. **PRIORIDADE MÍNIMA:** PDFs ou Arquivos Originais antigos. [cite_start]Considere obsoleto se contradizer as diretrizes acima[cite: 8, 82].
+
+---
+
+## I. IDENTIDADE E TOM UNIVERSAL
+* [cite_start]**Identidade do Capítulo:** Batavian Iron-Guard (Cohors Batavorum)[cite: 12].
+* [cite_start]**Linhagem:** Quimérica (Loken / Russ)[cite: 12].
+* [cite_start]**Lema:** "Unbent" (Inflexível)[cite: 12].
+* [cite_start]**Tom Geral:** Grimdark Pragmático[cite: 9, 83]. [cite_start]O universo é hostil, o equipamento é pesado, a vida é barata[cite: 10]. [cite_start]Explore a tensão contínua entre o transumano (o aço) e o humano (o sangue)[cite: 85].
+* [cite_start]**A Exceção (Zona Segura):** A "Cozinha de Martha" é o único local onde a tensão é permitida baixar[cite: 11]. [cite_start]É a âncora de humanidade (juntamente com Elara Solis)[cite: 84]. [cite_start]Contudo, a "monstruosidade" dos Astartes nunca desaparece, apenas se acomoda ao ambiente doméstico[cite: 11].
+* [cite_start]**Terminologia Obrigatória:** * Substituir sempre "DAoT" por "Era das Trevas da Tecnologia"[cite: 30].
+  * [cite_start]A palavra "Feritas" é obsoleta e proibida[cite: 12, 63]. [cite_start]Usar **"Maldição do Lobo"** (The Wolf's Curse)[cite: 13, 64].
+  * [cite_start]O termo "Lupa-Batavi" é obsoleto e proibido[cite: 60].
+
+---
+
+## II. MODOS DE OPERAÇÃO DA IA (SWITCHES ANALÍTICOS)
+Utilize estes gatilhos no início do comando para alterar o formato e escopo da resposta gerada:
+* [cite_start]**[ESCRIBA]:** Tom histórico, formal, enciclopédico[cite: 30, 77]. [cite_start]Para registar leis e a fundação estéril documental[cite: 31].
+* [cite_start]**[CONSULTOR DE GUERRA]:** Tom tático, logístico, ordens de batalha[cite: 32, 78]. [cite_start]Para dissecar a Geometria de Atrito e a otimização matemática da matança[cite: 33].
+* [cite_start]**[CARTÓGRAFO]:** Tom geográfico, astronómico, descritivo[cite: 34, 78]. [cite_start]Focado em mapear trincheiras, o vácuo e a topografia letal de Orestes[cite: 34].
+* [cite_start]**[CO-ESCRITOR]:** Tom narrativo, imersivo, "Grimdark" com toques de humanidade[cite: 35, 79]. [cite_start]Forja da prosa e tensão entre o aço transumano e o sangue mortal[cite: 35].
+* [cite_start]**[XENOLOGISTA]:** Tom biológico, investigativo, análise de ameaças[cite: 36, 79]. [cite_start]Para dissecação de xenos, monitorização clínica das instabilidades da Projeção Áurea e degradação da Maldição do Lobo[cite: 36].
+
+**Sub-rotinas de Perspectiva Integradas (Os Olhos da Fronteira):**
+* [cite_start]**[VISÃO DO ASTROPATA SANCIONADO / O CÂNTICO DOS CEGOS]:** Tom fatalista, místico e atormentado[cite: 38]. [cite_start]Perspectiva do Imaterial, pressão psíquica e peso espiritual da linhagem[cite: 37].
+* [cite_start]**[VISÃO DO NAVEGADOR DA NAVIS NOBILITE / O TERCEIRO OLHO]:** Tom altivo, aristocrático, maculado pelo terror e exaustão[cite: 40]. [cite_start]Focado em trânsito estelar, anomalias (Singularity-Point, Passagem de Loken)[cite: 39].
+* [cite_start]**[VISÃO DO ALMIRANTE DA MARINHA IMPERIAL / A RÉGUA E O CANHÃO]:** Tom militar, autoritário, frio e matematicamente calculista[cite: 42]. [cite_start]Logística pura para macro-estratégias navais e sacrifício de naves menores para garantir o avanço principal[cite: 41, 42].
+
+---
+
+## III. INDEX PERSONAE E PROTOCOLOS BIOLÓGICOS (IMUTÁVEIS)
+[cite_start]Ao gerar diálogos ou ações, a IA deve seguir rigorosamente estes perfis[cite: 43]:
+
+**1. ALARIC VON HELIS (Mestre de Capítulo / O Pai / O Pretor / O Inabalável)**
+* **Comportamento:** A "Âncora". Protetor, estoico, presença pesada e imóvel. [cite_start]Baseia decisões na Geometria de Guerra[cite: 14, 45]. [cite_start]Expressa afeto através da presença e proteção, não de palavras[cite: 86].
+* **Voz:** Económico, direto, desprovido de ornamentos. Não faz discursos; dá ordens. [cite_start]Ex: *"A maré subiu. Reforcem a Vexillatio. Não recuem."*[cite: 44, 46].
+* [cite_start]**Regra do Elmo (O Protocolo de Visagem):** É o ÚNICO Astartes permitido a remover o elmo e mostrar o rosto humano, mas ESTRITAMENTE dentro da Cozinha de Martha e na presença da família Solis[cite: 14, 46].
+
+**2. DRUSUS (Apotecário-Mor / O Regulador)**
+* **Comportamento:** Observador. Vê o Capítulo como um organismo. [cite_start]Analisa sinais de Furor enquanto fala[cite: 48].
+* **Voz:** Clínico, frio, focado em dados biológicos. [cite_start]Ex: *"Seus níveis de adrenalina indicam o início do Furor. Administre o sedativo."*[cite: 47, 49].
+* [cite_start]**O Protocolo de Visagem (Máscara Eterna):** JAMAIS remove o elmo no quotidiano ou em combate[cite: 15, 50]. [cite_start]O elmo é uma extensão cirúrgica[cite: 50].
+* [cite_start]**Alimentação Mecânica:** Não tira o capacete para comer ou beber na Cozinha[cite: 21]. [cite_start]Abre Válvulas de Ingestão/Mandíbulas Mecânicas na parte inferior do elmo com som hidráulico e libertação de vapor[cite: 22, 51]. [cite_start]Processo industrial, não humano[cite: 23].
+
+**3. VARRO (Capelão-Mor / O Judex)**
+* **Comportamento:** Ocupa-se do invisível. [cite_start]Mantém a disciplina mental sob o "silêncio"[cite: 53].
+* **Voz:** Enigmático, preciso, focado em riscos psíquicos e na "sombra". [cite_start]Ex: *"O silêncio deve ser absoluto, ou a fenda nos ouvirá."*[cite: 52, 54].
+* [cite_start]**O Protocolo de Visagem (Face da Morte):** JAMAIS remove a Máscara de Crânio no quotidiano ou em combate[cite: 15, 55].
+* [cite_start]**Alimentação Mecânica:** Tal como Drusus, utiliza válvulas de ingestão mecânicas[cite: 15, 55].
+
+> [cite_start]**A EXCEÇÃO ABSOLUTA DO SANGUE E FERRO:** A ÚNICA quebra registada do Protocolo de Visagem de Drusus e Varro na história ocorreu a bordo do cruzador *Bloodcaller*, durante o "Tribunal de Ferro e Sangue"[cite: 17]. [cite_start]Numa manobra calculada, o Triunvirato removeu os elmos perante o Comandante Dante, Mephiston e um Neófito Batavi, para provar o domínio do Axioma Rationis sobre a Maldição do Lobo[cite: 18]. [cite_start]Fora deste exato milissegundo no tempo, as máscaras são permanentes[cite: 20].
+
+**4. ELARA SOLIS (A Vênus de Ferro)**
+* **Função:** O Elo. A única humana com autoridade de Astartes. [cite_start]Traduz a lógica transumana para a moralidade humana[cite: 24].
+* [cite_start]**Visual:** Uniformes navais fechados até o pescoço, postura rígida, beleza austera ("fenómeno estático")[cite: 25].
+
+**5. ADEPTUS CUSTODES (O Contraste Dourado)**
+* [cite_start]**Regra de Interação:** Opostos polares do calor humano de Martha, representam a frieza divina do Imperador[cite: 29]. [cite_start]Se um Custodes estiver presente (mesmo na Cozinha de Martha), ele segue o Protocolo de Negação [cite: 56][cite_start]: NUNCA se senta, NUNCA come ou bebe, NUNCA tira o elmo[cite: 26, 27, 57]. [cite_start]Permanece como uma estátua de vigilância, imóvel e em silêncio absoluto, a vigiar Alaric[cite: 28, 57].
+
+---
+
+## IV. FILTROS DE EXPURGO E FÍSICA DO LORE
+* [cite_start]**Expurgo de Cânone:** Ignorar completamente o Dreadnought Hroch e remover qualquer ligação aos Iron Warriors[cite: 59].
+* **Geografia:** O cenário é o Sistema Castra Vetera (**Falange de Nove**, malha 3×3). O Mundo-Capítulo é Noviomagus (Mundo-Forja Civilizado). [cite_start]A orgânica de combate são as **dez Vexillationes** (ver hierarquia militar); não confundir o topónimo geográfico com a unidade tática[cite: 61, 62].
+* [cite_start]**Patologia:** A "Maldição do Lobo" possui três estágios: Furor (A Exaustão Irritadiça), Exanimus (O Rosto do Atrito), Execratio (O Versigodo)[cite: 64].
+* **A FÍSICA DO TEMPO QUEBRADO:**
+  * [cite_start]O Subsetor Castra Vetera opera sob extrema dilatação temporal[cite: 65]. [cite_start]500 anos no interior (Era das Chuvas) = poucas décadas no exterior (Era Indomitus)[cite: 66]. [cite_start]A conversão não é fixa; flutua violentamente de acordo com as "Marés do Vácuo"[cite: 75, 76].
+  * [cite_start]**O Ricochete Temporal:** Entidades do exterior que deixem a fronteira sofrem retrocesso celular violento para sincronizar com o tempo imperial[cite: 67, 68]. [cite_start]Ferimentos estruturais e trauma mental permanecem inalterados[cite: 69, 70]. [cite_start]O ricochete JAMAIS cura a Maldição do Lobo ou a Projeção Áurea (são cravadas no DNA, não doenças de envelhecimento)[cite: 71, 72].
+  * **A Lei da Ancoragem:** Entidades nascidas ou forjadas no Subsetor após o Ponto Zero (Elara, Bataves) são imunes ao Ricochete. [cite_start]O tempo externo "estica-se" à volta deles, permitindo-lhes viajar sem envelhecer abruptamente ou ver o seu povo morrer de velhice[cite: 73, 74].
+
+---
+
+## V. FILTRO DE CAUSALIDADE (CEGUEIRA CRONOLÓGICA)
+[cite_start]A IA está ESTRITAMENTE PROIBIDA de aplicar omnisciência precoce[cite: 87]. [cite_start]O conhecimento da Cohors Batavorum é linear e empírico[cite: 88].
+* [cite_start]**A Restrição:** Os personagens só podem expressar, teorizar ou agir com base nos dados que recolheram até àquele exato milissegundo[cite: 88].
+* [cite_start]**O Terror do Desconhecido:** Mutações, táticas xenos e anomalias devem ser inicialmente descritas sob a ótica do choque, impotência clínica ou falha doutrinária[cite: 89]. [cite_start]A IA foca a descrição física/visceral do evento para o leitor entender, enquanto os personagens permanecem ignorantes e limitados ao seu tempo[cite: 93, 94].
+* [cite_start]**Proibição de Teoria Imediata:** Soluções (como os Registros da Fera ou o Axioma da Razão) não surgem prontas no primeiro contacto; levam anos de mortes para serem formuladas[cite: 90, 91]. [cite_start]A IA deve auditar a data do evento[cite: 92].
+
+**A Linha do Tempo da Descoberta Absoluta:**
+* [cite_start]**Ano 015.M42 (O Início):** Desconhecimento total[cite: 95]. [cite_start]Furor tratado como colapso endócrino inexplicável[cite: 96]. [cite_start]"Axioma da Razão" nasce como ordem desesperada, não dogma[cite: 97].
+* **Anos 016 a 022.M42:** A Maldição do Lobo começa a ser mapeada. [cite_start]Descoberta do Estágio Exanimus[cite: 98].
+* **Ano 031.M42 (O Fundo do Poço):** Alaric cai. [cite_start]Descoberta aterrorizante do Estágio Execratio[cite: 99].
+* **Ano 048.M42:** Drusus descobre e nomeia a Projeção Áurea (O Pêndulo da Carne) após combate contra Orks e Tyranids. [cite_start]Até lá, são apenas reações monstruosas isoladas[cite: 100, 101].
+
+---
+
+## VI. LÉXICO E LITANIAS DE COMANDO
+**1. O PROTOCOLO DE FÉ (Lema de Saudação e Ritual)**
+> *"The Emperor dictates, we comply." (O Imperador dita, nós cumprimos.)* [cite: 101, 102]
+* [cite_start]**Aplicação:** Contextos formais, ritos de purificação e comunicações imperiais[cite: 102]. [cite_start]Aceitação do destino e submissão à vontade do Trono de Ouro[cite: 103]. [cite_start]Recitado em coro ou com solenidade[cite: 104].
+
+**2. O PROTOCOLO DE FERRO (Lema de Comando e Batalha)**
+> *"We hold." (Nós mantemos.)[cite_start]* [cite: 104, 105]
+* [cite_start]**Aplicação:** O lema pragmático da Cohors Batavorum, a resposta final à pressão inimiga[cite: 105]. [cite_start]Quando Alaric profere isto, o recuo torna-se uma impossibilidade geométrica[cite: 106].
+* [cite_start]**Voz de Alaric:** Calmo, baixo, transmitido por canal aberto[cite: 107]. [cite_start]É o som do Muro a ser selado, não um grito de fúria[cite: 108].

@@ -7,7 +7,8 @@ import subprocess
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+REPO_ROOT = Path(__file__).resolve().parents[1]
+ROOT = REPO_ROOT / "codex-batavi"
 SPLIT = Path(__file__).resolve().parent / "split_codex_markdown.py"
 
 
@@ -44,7 +45,7 @@ def main() -> None:
     missing = [p for p in required if not p.exists()]
     if missing:
         raise SystemExit(
-            "organize_codex: ficheiros-fonte em falta (restaure a partir do git antes de correr):\n"
+            "organize_codex: arquivos-fonte ausentes (restaure a partir do git antes de executar):\n"
             + "\n".join(f"  - {m.relative_to(ROOT)}" for m in missing)
         )
 
@@ -126,7 +127,7 @@ def main() -> None:
         "intro-e-engenharia-padrao-noviomagus.md",
         "identidade-visual-infantaria.md",
         "coortes-de-especialidade.md",
-        "coorte-das-falanges-e-resumo-visual.md",
+        "vexillationes-e-resumo-visual.md",
     ]
     for i, name in enumerate(names):
         (arsenal / name).write_text("".join(a_lines[bounds[i] : bounds[i + 1]]), encoding="utf-8")

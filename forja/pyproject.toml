@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "batavi-forja"
+version = "0.1.0"
+description = "CLI para gerar imagens de lore via ComfyUI (Cohors Batavorum)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.28",
+    "websockets>=12",
+]
+
+[project.scripts]
+batavi-img = "batavi_forja.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["batavi_forja*"]

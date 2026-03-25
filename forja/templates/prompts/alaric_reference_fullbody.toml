@@ -1,0 +1,36 @@
+# Corpo inteiro — alvo próximo da imagem modelo (Gemini + ajustes lore Codex).
+# Elmo carmesim; ombros: à ESQUERDA do observador = lobo BRANCO (Viggo), à DIREITA = lobo PRETO (Aethelgard).
+# Olhos taxidermizados: azul-pálido (branco), vermelho (preto); negro sem mandíbula inferior (dossie).
+# SDXL/Comfy: sem pesos (( )); use -m para cenário extra. Ver TUTORIAL.md §9 (roadmap).
+# Uso: batavi-img generate --preset alaric_armor --template alaric_reference_fullbody -m "optional scene tweak"
+
+character = "Alaric — full-body referência modelo (Castra-Lupus, elmo carmesim)"
+
+positive_prefix = """
+vivid full color, rich saturation, not monochrome, orange firelight and colored smoke,
+full body shot, single imposing massive armored warrior, humanoid biped, front three-quarter or hero stance,
+war torn post-apocalyptic urban battlefield, ruined smoking buildings, distant active fires,
+bulky textured power armor gunmetal grey aged industrial steel, blood red crimson mephiston accents on pauldrons and forearms,
+helmet is crimson red mechanical wolf head sculpt, frozen snarl closed jaw, detailed mechanical fangs, glowing orange amber wolf eye lenses, small skull emblem on forehead,
+taxidermy style wolf heads on pauldrons: on viewer left shoulder arctic white wolf head detailed fur pale blue glowing taxidermy eyes,
+on viewer right shoulder black wolf head missing lower jaw perpetual snarl against grey armor red glowing taxidermy eyes,
+large detailed Imperial Aquila aged metal on chest plate, heavy utility belt ornate skull buckle,
+long flowing dark red fabric cape over shoulders, red frontal tabard from waist large stylized horned skull emblem on tabard,
+character right hand holds heavy greatsword with faint runic etchings blade tip resting on cracked concrete ground,
+character left hand massive closed armored gauntlet fist,
+background chain-link and concertina wire fence, extensive volumetric smoke, empty shell casings scattered on cracked pavement,
+dark dramatic atmospheric lighting flickering warm firelight, detailed metal scratches and fur texture,
+cinematic character render, high detail, sharp focus, Warhammer 40k grimdark science fiction
+"""
+
+positive_suffix = """
+anchored stance, photorealistic materials, no text, no watermark, no UI frame
+"""
+
+negative = """
+grayscale, monochrome, black and white, desaturated, sepia, noir,
+quadruped wolf, wolf walking on four legs, literal wolf creature as main subject, dog,
+cartoon, anime, chibi, lowres, blurry, deformed hands, extra fingers, extra limbs,
+game card frame, vector art, infographic,
+text, watermark, logo, helmet off, bare human face
+"""
