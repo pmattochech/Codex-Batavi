@@ -10,13 +10,13 @@ O Adeptus Mechanicus cultua a engrenagem com a devoção de ignorantes, e a dout
 
 Mas enquanto eu caminhava pelas fileiras de tanques de fluido amniótico em meu *Apothecarion*, após a quebra da Muralha Sul, percebi o quão limitados são os dogmas do Império frente à nossa semente genética.
 
-A *Monção* não é apenas um dilúvio de estimulantes que induz à carnificina. Aquilo é a superfície da equação. O que eu observei naquelas cubas de hibernação roça a heresia biológica. Meus irmãos amputados não estavam apenas cicatrizando; eles estavam entrando em um estado de hipermetabolismo agressivo. A *Monção* ativou uma "Reconstrução Predatória". Eu vi tocos umerais não formarem queloides, mas tecerem novas matrizes ósseas, nervos e músculos do zero. Eles canibalizavam suas próprias reservas lipídicas, forjando a parte faltante de dentro para fora, como se a carne se recusasse a aceitar a derrota. Até mesmo falhas crônicas de órgãos secundários estavam sendo "reiniciadas" e curadas. A tempestade incinera o corpo, sim. Mas a cinza que resta decide formar uma máquina superior.
+A *Jagd* não é apenas um dilúvio de estimulantes que induz à carnificina. Aquilo é a superfície da equação. O que eu observei naquelas cubas de hibernação roça a heresia biológica. Meus irmãos amputados não estavam apenas cicatrizando; eles estavam entrando em um estado de hipermetabolismo agressivo. A *Jagd* ativou uma "Reconstrução Predatória". Eu vi tocos umerais não formarem queloides, mas tecerem novas matrizes ósseas, nervos e músculos do zero. Eles canibalizavam suas próprias reservas lipídicas, forjando a parte faltante de dentro para fora, como se a carne se recusasse a aceitar a derrota. Até mesmo falhas crônicas de órgãos secundários estavam sendo "reiniciadas" e curadas. A tempestade incinera o corpo, sim. Mas a cinza que resta decide formar uma máquina superior.
 
 Isso por si só já exigiria o expurgo por inquisidores menos iluminados. Contudo, o que aconteceu no tanque central — o Casulo Alfa — desafiou tudo o que sei sobre a anatomia transumana.
 
 Eles me trouxeram os restos de Alaric von Helis horas após ele arrancar a mandíbula do *Warboss* Skarjaw.
 
-O diagnóstico era um atestado de óbito. Fraturas cranianas massivas com hemorragia severa no lobo frontal. Ruptura ventricular dupla; o coração primário e o secundário haviam estourado sob a pressão da *Monção*. Três pulmões colapsados e afogados em toxinas xenos. E, por fim, o braço esquerdo não existia do úmero para baixo, esmagado pelas garras hidráulicas do Ork.
+O diagnóstico era um atestado de óbito. Fraturas cranianas massivas com hemorragia severa no lobo frontal. Ruptura ventricular dupla; o coração primário e o secundário haviam estourado sob a pressão da *Jagd*. Três pulmões colapsados e afogados em toxinas xenos. E, por fim, o braço esquerdo não existia do úmero para baixo, esmagado pelas garras hidráulicas do Ork.
 
 Ele estava clinicamente morto. Pelos protocolos do *Codex*, eu ordenei que os Tech-Priests aquecessem o reator de um chassi *Dreadnought* para sepultar o que restava de sua mente.
 

@@ -30,7 +30,7 @@ Aquilo não era ansiedade tática. Era fome.
 
 Vinte e quatro horas antes do impacto orbital, a realidade biológica da linhagem quimérica (Loken/Russ) colidiu violentamente com a energia psíquica efervescente dos Orks.
 
-A transição ocorreu simultaneamente em toda a extensão da Muralha Sul. Não houve ordem de comando pelo canal de *Vox*; foi uma detonação celular uníssona. A simples proximidade de milhões de xenos sedentos por guerra fraturou os inibidores químicos que mantinham a "Besta" enjaulada no código genético. O **Expoente Monção** havia começado.
+A transição ocorreu simultaneamente em toda a extensão da Muralha Sul. Não houve ordem de comando pelo canal de *Vox*; foi uma detonação celular uníssona. A simples proximidade de milhões de xenos sedentos por guerra fraturou os inibidores químicos que mantinham a "Besta" enjaulada no código genético. O **Expoente Jagd** havia começado.
 
 O Irmão Hrolf, patrulhando uma via de evacuação retardatária, parou abruptamente. Ele sentiu a própria musculatura hipertrofiar dentro da ceramite, as placas seladas de sua armadura rangendo em protesto contra a súbita expansão de massa física. Sob as lentes vermelhas do capacete tático, sua fisiologia retrocedia: a íris dilatou-se, consumida por um halo laranja, enquanto a pupila retraía-se em uma fenda vertical predatória.
 
@@ -46,7 +46,7 @@ Quando os asteroides ocos de desembarque Ork finalmente perfuraram a atmosfera, 
 
 A maré verde fluiu das crateras de impacto aos milhares. Eles rugiam, antecipando a resposta padrão da máquina de guerra do Império: trincheiras de tiros disciplinados, tempestades de bólteres, artilharia de saturação e o lento recuo estratégico. Os Orks vieram para quebrar escudos.
 
-O que encontraram foi o silêncio predatório da Monção.
+O que encontraram foi o silêncio predatório da Jagd.
 
 Os *Batavian Iron-Guard* não estavam agachados nas trincheiras. Eles estavam de pé, expostos sobre os parapeitos das barricadas. Seus bólteres jaziam travados magneticamente em suas cinturas. Em suas mãos, espadas-motossera (*chainswords*), machados de energia e facas de trincheira pesadas zumbiam, sedentas.
 
@@ -62,11 +62,11 @@ No epicentro do moedor de carne, a tempestade verde abriu espaço para o seu ava
 
 O líder Ork era um leviatã de tecido cicatricial, presas irregulares e pistões hidráulicos, gargalhando em meio à carnificina. Ele ergueu sua massiva Garra de Poder, projetada para esmagar tanques, visando decapitar o "hume" cinzento. Alaric não tentou uma esquiva. Ele não recorreu às paradas ensaiadas da esgrima de Castra-Vetera.
 
-O Lorde-Castellan, com a sua letal Frequência Alfa estilhaçando o ar ao seu redor, desativou e largou seu gládio de energia. A Monção não tolerava intermediários; ela exigia a intimidade do contato físico. Alaric recebeu a investida total do *Warboss* de frente. Os servos de sua armadura *Terminator* guincharam sob o impacto de toneladas de força cinética, mas as botas de adamante não recuaram um único centímetro no solo manchado de sangue.
+O Lorde-Castellan, com a sua letal Frequência Alfa estilhaçando o ar ao seu redor, desativou e largou seu gládio de energia. A Jagd não tolerava intermediários; ela exigia a intimidade do contato físico. Alaric recebeu a investida total do *Warboss* de frente. Os servos de sua armadura *Terminator* guincharam sob o impacto de toneladas de força cinética, mas as botas de adamante não recuaram um único centímetro no solo manchado de sangue.
 
 Com as duas mãos agora livres, Alaric cravou os dedos na mandíbula inferior, feita de metal rebitado e osso espesso, do *Warboss*.
 
-Por uma fração de segundo, a cacofonia da guerra pareceu emudecer. Skarjaw olhou no fundo das lentes do capacete de Alaric e, talvez pela primeira vez em sua longa vida de massacres, encontrou uma atrocidade mais antiga e selvagem do que a sua própria espécie. Utilizando um movimento brutal de alavanca, impulsionado pela biomecânica aberrante do Expoente Monção, Alaric estraçalhou os reforços cranianos e arrancou a mandíbula de Skarjaw da própria face.
+Por uma fração de segundo, a cacofonia da guerra pareceu emudecer. Skarjaw olhou no fundo das lentes do capacete de Alaric e, talvez pela primeira vez em sua longa vida de massacres, encontrou uma atrocidade mais antiga e selvagem do que a sua própria espécie. Utilizando um movimento brutal de alavanca, impulsionado pela biomecânica aberrante do Expoente Jagd, Alaric estraçalhou os reforços cranianos e arrancou a mandíbula de Skarjaw da própria face.
 
 O leviatã desabou, engasgando em litros de sangue negro e óleo. Alaric ergueu o troféu gotejante e soltou um urro estrondoso — não um grito de vitória militar, mas a proclamação absoluta de domínio territorial.
 
@@ -76,7 +76,7 @@ A energia *Waaagh\!* estalou e quebrou. Os Orks, organismos desenhados geneticam
 
 A erradicação foi completa. Noviomagus permaneceria sob o domínio do Aquila. No entanto, assim que o último motor de fuga Ork sumiu no horizonte e o silêncio retornou ao platô, a fatura foi apresentada.
 
-A Monção não cria energia a partir do nada; ela é um empréstimo violento contra o futuro do próprio organismo. Quando o pico de adrenalina despencou, a biologia dos Batavi colapsou em dominó. Não houve cânticos de vitória ou hasteamento de estandartes. Houve apenas o som oco e surdo de centenas de toneladas de ceramite colidindo contra o chão manchado de sangue, à medida que irmãos de batalha caíam inconscientes.
+A Jagd não cria energia a partir do nada; ela é um empréstimo violento contra o futuro do próprio organismo. Quando o pico de adrenalina despencou, a biologia dos Batavi colapsou em dominó. Não houve cânticos de vitória ou hasteamento de estandartes. Houve apenas o som oco e surdo de centenas de toneladas de ceramite colidindo contra o chão manchado de sangue, à medida que irmãos de batalha caíam inconscientes.
 
 Alaric, ainda banhado no icor inimigo, deu dois passos trôpegos em direção à linha de triagem imperial antes de desabar como uma estátua decapitada.
 

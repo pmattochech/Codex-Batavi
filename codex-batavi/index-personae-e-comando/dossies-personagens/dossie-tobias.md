@@ -34,5 +34,28 @@ Tobias evitava o combate, mas não era indefeso.
 * **Bengala de Eletrochoque:** Ele carregava uma bengala de latão pesada que escondia um gerador de pulsos elétricos, usada principalmente para disciplinar servidores com mau funcionamento ou afastar ratos de metal nos subníveis.  
 * **Data-Slate de Comando:** Sua "arma" principal era um painel de dados reforçado que lhe permitia trancar portas, desviar energia e ativar sistemas de ventilação, transformando a própria fortaleza em uma armadilha contra intrusos.
 
-  ## 
+## 5\. Relações
+
+*O pedreiro entre os gigantes.*
+
+Tobias era o único mortal não modificado que os três membros do Triunvirato tratavam como par sem nunca verbalizar isso. Ele nunca recebeu título militar, nunca foi convocado a um conselho de guerra, e nunca pediu nada além de suprimentos para os seus operários. Talvez exatamente por isso, ele era o único que eles ouviam quando a voz humana precisava ser ouvida.
+
+* **Alaric von Helis:** A relação mais improvável do Capítulo. Tobias foi o primeiro civil que tratou Alaric como alguém que precisava de uma cadeira — não de um trono. Na noite em que Alaric apareceu na cozinha com Elara recém-encontrada, Tobias simplesmente arrastou a única cadeira reforçada da sala e disse: *"Sente-se, senhor. O senhor parece que carregou o mundo nas costas hoje."* O Castellan sentou. Tobias não recuou. Desse equilíbrio improvável nasceu uma das poucas amizades funcionais que Alaric manteve durante a Vigília Silenciosa. Tobias nunca perguntou sobre a guerra; Alaric nunca precisou explicar o peso dela.
+* **Martha:** Casamento de duas décadas, arquitetado sobre o mesmo princípio que regia a doutrina Batava: função antes de forma. Tobias construía as paredes e os móveis; Martha esquentava o que havia dentro delas. Eles raramente precisavam de muitas palavras para coordenar a logística de uma cozinha frequentada por gigantes de três metros.
+* **Elara Solis:** Tobias foi o pai substituto que ensinou Elara a rir. Enquanto Alaric ensinava geometria de atrito e Varro ensinava o peso do dever, Tobias ensinava como amassar pão, como consertar uma faca de cozinha e por que as muralhas existem para proteger as famílias que jantam dentro delas. A espada de madeira que Elara empunhou para defender Alaric de um lorde regente imperial foi esculpida pelas mãos de Tobias numa tarde de oficina. Para Elara, perder Tobias foi perder a metade humana do mundo.
+* **O Triunvirato (coletivo):** Drusus monitorava os indicadores de saúde de Tobias com a mesma frequência com que monitorava os Bataves de linha — sem informar ao paciente. Varro nunca conversou diretamente com Tobias além do protocolo, mas inclinou a cabeça a cada saída, um gesto que os veteranos do Capítulo reconhecem como respeito funcional. Tobias tratava os três com a mesma naturalidade desarmante: a Varro, chamava de "Tio Caveira"; a Drusus, de "o que não sorri mas não é grosso"; a Alaric, simplesmente de "milorde" — e às vezes de "senhor", nos dias difíceis, com um tom que tornava a diferença entre os dois títulos perfeitamente compreensível.
+
+## 6\. Morte e legado
+
+*570.M42 — Acidente Radiativo nas Forjas Inferiores de Noviomagus Prime.*
+
+A falha foi catastrófica e sem glória: um reator de plasma envelhecido no subnível quarenta e dois entrou em colapso térmico durante um turno noturno. Os protocolos de evacuação foram ativados. Tobias, que inspecionava o corredor adjacente, acessou o painel de controle manual das comportas de segurança para garantir a saída dos doze operários presos no setor interno. As comportas eram antigas; o mecanismo elétrico havia fundido com o calor. Ele segurou o travamento manual com o braço direito enquanto os trabalhadores passavam um a um.
+
+Quando a equipe de resgate de Drusus chegou, encontrou Tobias sentado contra o painel, a pele carbonizada pela radiação, o polegar ainda pressionado sobre a alavanca. Ele morreu segurando a porta aberta para os outros.
+
+Alaric permaneceu de guarda ao lado do caixão por três dias e três noites, armado e paramentado, sem comer e sem dormir. Não foi ordenado; aconteceu. Quando os Arbites perguntaram qual protocolo deveria ser registrado para a vigília, Varro respondeu: *"Honra militar de Capitão Astartes. Registre exatamente assim."*
+
+O cargo de Servo-Mor nunca foi preenchido por uma única pessoa. Após a morte de Tobias, as funções foram distribuídas entre quatro servidores, cada um cobrindo uma fração do que ele fazia sozinho. Nenhum dos quatro chegou perto do conjunto.
+
+O filho mais velho de Tobias herdou a aptidão do pai e trabalha hoje em sincronia com os Tech-Acólitos de Kadmos, tratando as tubulações da fortaleza como artérias de um organismo vivo. O recém-nascido no dia do funeral tornou-se o mais jovem dos filhos registrados — e cresceu sem nunca ter conhecido o homem cujo nome carrega na ficha de trabalho da forja.
 

@@ -6,7 +6,7 @@
 **Patente:** *Decanus Primus* (equivalente funcional a sargento-mor de contra-espionagem urbana).  
 **Especialização:** Análise multimodal de **padrões** (olfato, audição corporal, marcha, fala, para onde olha), *perfilagem somática*, prisão viva para a *Lex Imperialis*.  
 **Capítulo:** *Cohors Batavorum*.  
-**Vexillatio de origem operacional:** 4.ª Vexillatio (*Quarta* — registrada como unidade que endureceu na *Estiagem* de Noviomagus Secundus; Branimir transferido para instrução cruzada na Coorte do Silêncio após o rebote).  
+**Vexillatio de origem operacional:** 4.ª Vexillatio (*Quarta* — registrada como unidade que endureceu na *Ruhe* de Noviomagus Secundus; Branimir transferido para instrução cruzada na Coorte do Silêncio após o rebote).  
 **Origem:** *Castrum Ferrum*, níveis médios (filho de turno triplo e fiscal de linha de montagem).  
 **Idade aparente de serviço:** ~180–220 anos terranos (estimativa; imune ao Ricochete).
 
@@ -28,7 +28,7 @@
 
 * **Temperamento:** Frio, metódico, impaciente com relatórios que substituem presença física. Considera *cogitadores* prolongados sem patrulha “cegueira por comodidade”.  
 * **Voz:** Frases curtas, sem metáfora; ao interpelar suspeitos usa o tom burocrático dos Arbites, não o brado de trincheira.  
-* **Falha reconhecida:** Após a *Estiagem* **coletiva** da 4.ª Coorte, desenvolveu aversão a operações que dependam de “esperar o corpo acordar sozinho” para ameaças xeno — alimenta a doutrina do **padrão e da anomalia** como contramedida a cultos **sem** Sombra na Distorção.  
+* **Falha reconhecida:** Após a *Ruhe* **coletiva** da 4.ª Coorte, desenvolveu aversão a operações que dependam de “esperar o corpo acordar sozinho” para ameaças xeno — alimenta a doutrina do **padrão e da anomalia** como contramedida a cultos **sem** Sombra na Distorção.  
 * **Citações de campo (atribuídas):** *"O arquivo diz que é você. O suor diz que não."* / *"Perfeito demais. Corta."*
 
 ---
@@ -73,6 +73,6 @@
 
 ## 7\. Notas de narrador
 
-Personagem pronto para histórias de **thriller urbano** em Noviomagus: infiltrados, cultos, sabotagem. Útil como POV que explica ao leitor por que a *Estiagem* **não** acende contra Genestealers ocultos — e por que o Muro ainda não está cego.
+Personagem pronto para histórias de **thriller urbano** em Noviomagus: infiltrados, cultos, sabotagem. Útil como POV que explica ao leitor por que a *Ruhe* **não** acende contra Genestealers ocultos — e por que o Muro ainda não está cego.
 
 **Referência cruzada:** [coortes-de-especialidade.md](../../arsenal-e-logistica/coortes-de-especialidade.md) §3; [lex-imperialis-e-justica-de-ferro.md](../../relacoes-politicas/lex-imperialis-e-justica-de-ferro.md) §III.

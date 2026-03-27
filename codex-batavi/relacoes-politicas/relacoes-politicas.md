@@ -26,7 +26,7 @@ Este princípio desdobra-se em três vectores táticos:
 
 * **O Super-Dízimo (Indispensabilidade Económica):** Noviomagus entrega sistematicamente 15% acima da cota estipulada pelo Administratum. O Capítulo transforma-se numa fonte de receita que nenhum burocrata sã consegue justificar encerrar. *Ver:* [Pax Batavorum](../index-personae-e-comando/doutrina-e-orgaos/pax-batavorum.md).
 
-* **A Transparência como Escudo (Indispensabilidade Táctica):** Em vez de esconder as suas anomalias biológicas (os *Versigodos*, a *Projeção Áurea*, a expansão ilegal para Meia-Legião), o Capítulo expõe-nas de forma controlada. A monstruosidade catalogada, engaiolada e gerida não é heresia; é conformidade documental. O inimigo que tenta acusá-los precisa primeiro convencer um auditório de que os monstros não estão devidamente presos.
+* **A Transparência como Escudo (Indispensabilidade Táctica):** Em vez de esconder as suas anomalias biológicas (os *Versigodos*, a *Das Erbe*, a expansão ilegal para Meia-Legião), o Capítulo expõe-nas de forma controlada. A monstruosidade catalogada, engaiolada e gerida não é heresia; é conformidade documental. O inimigo que tenta acusá-los precisa primeiro convencer um auditório de que os monstros não estão devidamente presos.
 
 * **A Cláusula da Testemunha (Indispensabilidade Reputacional):** Em todas as operações conjuntas e acordos institucionais, o Triunvirato exige a presença de um observador externo. Cada vitória, cada eficiência, cada sacrifício é testemunhado e registado. O Capítulo constrói um historial de utilidade irrefutável que precede qualquer acusação.
 
@@ -39,7 +39,7 @@ A **única linha vermelha** desta diplomacia é a vaidade institucional. Qualque
 ### [A Geometria da Inquisição](geometria-da-inquisicao.md)
 *— A Guerra Fria Burocrática*
 
-A relação mais delicada da fronteira. Os *Ordos Sagrados* mantêm o Capítulo sob vigilância constante devido às anomalias genéticas (Projeção Áurea, Versigodos) e à expansão não-codex da Meia-Legião. A resposta do Triunvirato não é a confrontação, mas a **matemática da neutralização**: o Super-Dízimo, o Tratado do *Limes Lupus* (que inclui a presença do Capitão-Escudo Tyvar como garantia viva de contenção), e a política de transparência que transforma segredos vergonhosos em provas de conformidade. Contudo, a égide tem limites — um Inquisidor que demonstre vaidade metodológica é encaminhado para as celas de Varro, de onde regressa como uma casca funcional mas sem ilusões de grandeza.
+A relação mais delicada da fronteira. Os *Ordos Sagrados* mantêm o Capítulo sob vigilância constante devido às anomalias genéticas (Das Erbe, Versigodos) e à expansão não-codex da Meia-Legião. A resposta do Triunvirato não é a confrontação, mas a **matemática da neutralização**: o Super-Dízimo, o Tratado do *Limes Lupus* (que inclui a presença do Capitão-Escudo Tyvar como garantia viva de contenção), e a política de transparência que transforma segredos vergonhosos em provas de conformidade. Contudo, a égide tem limites — um Inquisidor que demonstre vaidade metodológica é encaminhado para as celas de Varro, de onde regressa como uma casca funcional mas sem ilusões de grandeza.
 
 ### [A Eclesiarquia na Fronteira](eclesiarquia-na-fronteira.md)
 *— O Deus que Trabalha*

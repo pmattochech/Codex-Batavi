@@ -26,6 +26,8 @@ Ela se colocou entre Alaric e Guilliman, apontando a lâmina de brinquedo para a
 
 Helbrecht levou a mão ao punho da espada, um reflexo condicionado. Alaric deu um passo à frente, pronto para interceptar qualquer golpe, mesmo que viesse de um filho do Imperador. Mas Guilliman levantou uma mão.
 
+*Primeiro encontro Helbrecht–Alaric na Passagem de Loken (Vigília Silenciosa): ver [helbrecht-primeira-passagem-de-loken.md](../08-auditoria-e-diplomacia/helbrecht-primeira-passagem-de-loken.md).*
+
 O Primarca olhou para a menina, depois para a espada de madeira, e finalmente para os olhos cinzentos que queimavam com uma ferocidade protetora. — *A Raiz sustenta a pedra* — murmurou Guilliman, uma conclusão lógica formando-se em sua mente divina. — *Ela não é sua fraqueza, von Helis. Ela é a sua justificativa.*
 
 Alaric colocou a manopla pesada no ombro de Elara. Naquele dia, perante a elite da galáxia, o vínculo foi santificado.

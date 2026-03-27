@@ -56,7 +56,7 @@ Tu'Shan balançou a cabeça, um movimento pesado. Ele apontou primeiro para Elar
 
 — **Observe a sua retaguarda. O ferro é o material que constrói as paredes e o teto da casa, Alaric. Mas é o fogo contido em uma lareira que converte o abrigo em um lar viável. Uma ferramenta não ama o que constrói.** — Tu'Shan inclinou-se à frente, sobrepondo seu calor à frieza da mesa. — **Eu analiso a sua leitura de espaço. A forma como você posiciona sua massa para bloquear qualquer corrente de ar que atinja a Almirante. Você não é uma ferramenta cega, Lobo de Ferro. Você é o Artesão. E a sua obra de arte não é este Castrum... é a preservação dessa família.**
 
-Alaric parou. Ele baixou o alimento. Treinado por cinco séculos de chuva ácida e perda para não ceder um milímetro de humanidade, ele foi cercado pela lógica irrefutável de Nocturne. Uma contração submilimétrica travou sua mandíbula.
+Alaric parou. Ele baixou o alimento. Treinado pela Vigília Silenciosa — chuva ácida lá fora, luto nos corredores — a não ceder um milímetro de humanidade, ele foi cercado pela lógica irrefutável de Nocturne. Uma contração submilimétrica travou sua mandíbula.
 
 — **A teoria é estatisticamente... viável,** — cedeu o Lorde-Castellan, em um tom que mal rompeu a estática do recinto. — **Mas se você reportar esta dedução a Grimnar, a margem de erro na nossa aliança tática com Fenris pode flutuar.**
 

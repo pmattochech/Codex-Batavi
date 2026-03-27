@@ -1,10 +1,10 @@
 # A Vênus de Ferro
 
-# O FIM DA CHUVA E O INÍCIO DA MATILHA
+# O FIM DA VIGÍLIA E O INÍCIO DA MATILHA
 
 #### **ATO I: A QUEBRA DO MONÓLITO E O DIAGNÓSTICO DA ALMA**
 
-A chuva em Noviomagus não possuía a virtude da limpeza; ela era uma força corrosiva, um subproduto oleoso e ácido da atividade industrial que fustigava o mundo-fortaleza. As gotas pesadas tamborilavam contra a armadura de Alaric von Helis com a cadência rítmica de disparos de baixo calibre. Por quinhentos anos, aquele som fora a única sinfonia permitida ao Mestre de Capítulo. Ele permanecia imóvel na borda do *Castrum Ferrum*, uma gárgula colossal de três metros e meio de altura, fundida ao horizonte cinzento das manufaturas.
+A chuva em Noviomagus não possuía a virtude da limpeza; ela era uma força corrosiva, um subproduto oleoso e ácido da atividade industrial que fustigava o mundo-fortaleza. As gotas pesadas tamborilavam contra a armadura de Alaric von Helis com a cadência rítmica de disparos de baixo calibre. Durante a Vigília Silenciosa, aquele som da chuva ácida fora a única sinfonia permitida ao Mestre de Capítulo. Ele permanecia imóvel na borda do *Castrum Ferrum*, uma gárgula colossal de três metros e meio de altura, fundida ao horizonte cinzento das manufaturas.
 
 Dentro da blindagem, o Versigodo — a fera adormecida em seu código genético — agitava-se em um sono inquieto, mantido sob o jugo de ferro da lógica Astartes. Alaric não sentia frio, nem fadiga, nem esperança. Ele era apenas o hospedeiro da vibração constante dos servos de sua armadura e do eco distante de uma guerra eterna.
 
@@ -16,7 +16,7 @@ Os giroscópios da armadura zumbiram quando Alaric girou o tronco. Ali, em um ce
 
 Alaric von Helis ajoelhou-se. O pavimento de adamante cedeu e trincou sob as toneladas de pressão da armadura. Ele estendeu uma manopla de combate capaz de esmagar o crânio de um Warboss Ork e, com uma delicadeza que desafiava a física, tocou o pano úmido. O bebê cessou o pranto por um segundo e agarrou o dedo indicador de metal do gigante.
 
-Naquele segundo, o Axioma da Razão — o pilar de ferro de sua existência — colapsou. Não havia lógica em desviar a atenção do Lorde-Castellan para uma única vida insignificante em um setor com bilhões de almas. Contudo, Alaric sentiu um calor anômalo subir pelo braço, uma descarga elétrica que não emanava do reator dorsal, mas de uma frequência dourada e há muito esquecida. O gelo de cinco séculos rachou.
+Naquele segundo, o Axioma da Razão — o pilar de ferro de sua existência — colapsou. Não havia lógica em desviar a atenção do Lorde-Castellan para uma única vida insignificante em um setor com bilhões de almas. Contudo, Alaric sentiu um calor anômalo subir pelo braço, uma descarga elétrica que não emanava do reator dorsal, mas de uma frequência dourada e há muito esquecida. O gelo da Vigília Silenciosa rachou.
 
 Ele aninhou o cesto contra o peito, curvando os ombros largos para criar um bunker de ceramite contra a chuva ácida. O Mestre de Capítulo correu. Ele não corria para a glória das frentes de batalha, mas para a salvação de uma chama que mal emitia calor.
 
@@ -36,7 +36,7 @@ Drusus avançou, estendendo as mãos enluvadas para recolher o "espécime". Foi 
 
 Um rosnado gutural, vibrando nas placas peitorais da armadura, emanou do elmo de Alaric. Ele recuou um passo, girando o corpo para proteger o cesto, ocultando a criança do alcance de Drusus. Foi um ato puramente territorial. O Lobo não permitiria que ninguém tocasse no filhote, nem mesmo o curador da alcateia.
 
-Drusus parou, as mãos suspensas no ar. Ele abriu um canal de *vox* privado com o Capelão. — *Varro, ele está em Monção? Ele está entrando em frenesi?*
+Drusus parou, as mãos suspensas no ar. Ele abriu um canal de *vox* privado com o Capelão. — *Varro, ele está em Jagd? Ele está entrando em frenesi?*
 
 Varro não desviou os olhos de Alaric. As lentes vermelhas de seu elmo de crânio analisavam não a ameaça física, mas a maré psíquica que inundava a sala. — *Não* — respondeu Varro, em um sussurro de assombro reverente. — *Ele não está caçando, Drusus. Ele está ancorado. A tempestade dentro dele... ela parou. Pela primeira vez em séculos, há silêncio em sua alma.*
 

@@ -16,11 +16,11 @@ O Lorde-Castellan **Alaric von Helis** permanecia imóvel junto ao vidro blindad
 
 Ele era a personificação da doutrina Batavi: *Ferro por dentro, Ferro por fora*. Alaric estava integrado à **Armadura Castra-Lupus**, o ápice do gênio brutalista do Mestre de Forja Kadmos. O chassi, um híbrido colossal entre um Dreadnought e uma armadura Terminator, não possuía pistões que estalavam ou servos que gemiam sob o peso. Kadmos projetou os sistemas de reforço da Castra-Lupus com um propósito singular: impedir que a armadura se desintegrasse sob a força bruta do próprio Alaric.
 
-A fisiologia do Lorde-Castellan, refinada pela Projeção Áurea, concedia-lhe uma agilidade e uma potência física que faziam uma armadura *Tacticus* parecer um grilhão lento. Dentro daquela montanha de cinza industrial (*Mechanicus Standard Grey*), Alaric movia-se com uma leveza herética, como se estivesse vestindo apenas uma túnica de linho e calças de seda. A armadura não o carregava; ela tentava, desesperadamente, acompanhá-lo.
+A fisiologia do Lorde-Castellan, refinada pela Das Erbe, concedia-lhe uma agilidade e uma potência física que faziam uma armadura *Tacticus* parecer um grilhão lento. Dentro daquela montanha de cinza industrial (*Mechanicus Standard Grey*), Alaric movia-se com uma leveza herética, como se estivesse vestindo apenas uma túnica de linho e calças de seda. A armadura não o carregava; ela tentava, desesperadamente, acompanhá-lo.
 
 O elmo **Vermelho Carmesim**, com sua carranca de lobo, brilhava com lentes amarelas que escaneavam o vazio. Nas mãos, as garras afiadas eram extensões de sua própria vontade. Atrás dele, a capa vermelha feita da pele de um Lobo Batavi e de seu *Thunderwolf* branco repousava sobre as placas de ombro carmesim, onde o Lobo com Gládio e a Áquila Imperial marcavam sua linhagem.
 
-Através do visor, Alaric observava a fenda na realidade se abrir a dez mil quilômetros. O Warp cuspiu a frota "Misericórdia de Terra". Eram cargueiros de classe *Bovine-Mass* e *Bulk-Heavers*, carcaças enferrujadas vazando radiação e desespero.
+Através do visor, Alaric observava a fenda na realidade se abrir a dez mil quilômetros. A Distorção cuspiu a frota "Misericórdia de Terra". Eram cargueiros de classe *Bovine-Mass* e *Bulk-Heavers*, carcaças enferrujadas vazando radiação e desespero.
 
 Para Alaric, aquela frota não representava reforços; era o subproduto de uma heresia logística cometida pelo Alto Comando. O desperdício de ativos era uma falha que seu sangue não podia ignorar. Ele habitava o **Axioma da Razão**, mas o instinto predatório em seus tendões já vibrava contra a ineficiência vinda de Malakor.
 
@@ -428,7 +428,7 @@ Varro deu um passo à frente, e o som do seu pé blindado contra o adamante soou
 
 — **Triunvirato...** — a voz de Varro no canal privado não era mais uma voz; era o rosnado de um animal ferido que havia encontrado o seu carrasco. — **Meus sensores estão saturados com o rastro do estupro e da mutilação lúdica. Isso não é dízimo. Isso é a latrina moral de Malakor Majoris sendo despejada em nossa casa.**
 
-Alaric von Helis permaneceu imóvel, mas na Noosphere, sua mente estava em chamas. Ele olhou para a jovem mutilada e, por um microssegundo, a Projeção Áurea falhou. Ele não viu uma abhumana desconhecida; ele projetou a imagem das meninas de Noviomagus, as filhas dos operários que ele protegia, as humanas imprintadas que os seus irmãos de armas amavam com uma devoção silenciosa.
+Alaric von Helis permaneceu imóvel, mas na Noosphere, sua mente estava em chamas. Ele olhou para a jovem mutilada e, por um microssegundo, a Das Erbe falhou. Ele não viu uma abhumana desconhecida; ele projetou a imagem das meninas de Noviomagus, as filhas dos operários que ele protegia, as humanas imprintadas que os seus irmãos de armas amavam com uma devoção silenciosa.
 
 Em todo o hangar, bólteres foram segurados com tal força que o metal das luvas rangia. Os Batavi não demonstravam sentimentos através de expressões faciais, mas a fúria da matilha era uma pressão física que começou a fazer os servidores de Malakor, no topo da rampa, começarem a tremer de um terror que eles ainda não compreendiam.
 

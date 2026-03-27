@@ -1,4 +1,4 @@
-## MENTALIDADE E FILOSOFIA
+# [WIKI] MENTALIDADE E FILOSOFIA DA COHORS BATAVORUM
 
 * **O Axioma da Razão (*Axioma Rationis*):** A pedra angular da cultura. A emoção não é negada, mas estritamente regulada pela lógica.  
   *"O Serviço exige razão, não devoção. A Razão direciona o dever sem submissão cega. O Dever é mantido através da regulação do eu. Eu sirvo ao Imperador; um lobo leal."*  

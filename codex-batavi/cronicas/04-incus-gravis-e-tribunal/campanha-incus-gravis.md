@@ -110,7 +110,7 @@ Alaric deu um passo à frente, cobrindo a frieza de Drusus com a sua massa desco
 
 Ele ergueu a mão blindada, apontando para os pesados adornos orgânicos sobre os seus ombros.
 
-— E estas peles não são um insulto a Ullanor. Elas são o meu luto intocável. A pele negra do Lobo Batav atesta o vínculo com a fronteira, a libertação do nosso povo. E a pele branca... é Viggo. O aliado letal que estabilizou a minha sanidade durante quinhentos anos de chuva ácida e depressão silenciosa, quando eu não tinha nada a oferecer além de frio. É o respeito por uma utilidade que o tempo levou cedo demais. Eu carrego os meus mortos sobre a ceramita porque não posso plantá-los na terra.
+— E estas peles não são um insulto a Ullanor. Elas são o meu luto intocável. A pele negra do Lobo Batav atesta o vínculo com a fronteira, a libertação do nosso povo. E a pele branca... é Viggo. O aliado letal que estabilizou a minha sanidade durante a Vigília Silenciosa — sob a chuva ácida do mundo e sem nada a oferecer além de frio. É o respeito por uma utilidade que o tempo levou cedo demais. Eu carrego os meus mortos sobre a ceramita porque não posso plantá-los na terra.
 
 Alaric virou milimetricamente o pescoço para o Neófito Batavi que tremia no fundo da sala.
 
@@ -182,7 +182,7 @@ No centro da cratera coberta de fuligem, Alaric von Helis ajoelhou-se ao lado do
 
 Lá de dentro, ele encontrou e retirou duas correntes banhadas em sangue escuro. A primeira placa era o retângulo de ferro bruto que todo cidadão recebia nas colmeias da fronteira, o selo da humanidade; a segunda, a aquila de ceramite que marcou a sua ascensão como guerreiro Batavi.
 
-Alaric ergueu as duas placas. Lentamente, ele as amarrou a um pesado cordão de aço oculto que repousava por baixo do forro de pelo branco do *Thunderwolf* Viggo, sobre o seu ombro direito. Dezenas de outras placas tilintaram suavemente no escuro contra o peitoral da armadura.
+Alaric ergueu as duas placas. Lentamente, ele as amarrou a um pesado cordão de aço oculto que repousava por baixo do forro de pelo branco do *Thunderwolf* Viggo, sobre o seu ombro direito. O peso da pelagem prendia a maior parte do cordão em silêncio contra a ceramite — mas nas bordas expostas, onde o metal escapava ao peso da pele, dezenas de placas tilintaram suavemente no escuro contra o peitoral da armadura.
 
 Dante e Mephiston observaram o rito em absoluto silêncio. O entendimento abateu-se sobre os anjos de Baal. Para a *Cohors Batavorum*, o Batavi não morrera como um monstro amaldiçoado; ele morrera como um filho de Noviomagus. O seu legado permaneceria intacto, limpo e eternamente catalogado nos ombros de seu mestre. O sangue falhava, mas a memória do Muro jamais oxidaria.
 

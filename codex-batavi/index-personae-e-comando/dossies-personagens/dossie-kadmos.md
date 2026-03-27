@@ -108,5 +108,4 @@
 * **Interface Direta**: A prótese possui um link neural direto com o "Martelo de Noviomagus" (seu Bolter Pesado). Isso permite que ele ajuste a taxa de tiro e o fluxo de resfriamento da arma por meio de pensamento puro, sem precisar tirar o dedo do gatilho.  
 * **O Selo de Noviomagus Prime**: No ombro da prótese, está gravado o selo do Mechanicus de seu mundo natal. Diz-se que o braço contém uma pequena relíquia: um fragmento da primeira bigorna usada na fundação do Capítulo.
 
-### 
 

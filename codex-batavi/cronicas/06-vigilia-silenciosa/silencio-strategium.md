@@ -1,6 +1,6 @@
-# O SILÊNCIO DA ERA DAS CHUVAS
+# O SILÊNCIO DA VIGÍLIA SILENCIOSA
 
-O Strategium de Noviomagus Prime não era uma sala de comando governada por brados de glória; durante a Era das Chuvas, era um mausoléu de dados e ecos. O ambiente circular e abobadado cheirava a cobre velho e ozônio estagnado. Para economizar a energia necessária para as forjas nos níveis inferiores, o Lorde-Castellan havia ordenado o desligamento dos sistemas de suporte vital não essenciais da torre. Não havia aquecimento. O ar condensava a cada respiração, formando nuvens ralas que rapidamente se dissipavam na penumbra iluminada apenas pelo brilho esverdeado dos hololíticos táticos.
+O Strategium de Noviomagus Prime não era uma sala de comando governada por brados de glória; durante a Vigília Silenciosa, era um mausoléu de dados e ecos. O ambiente circular e abobadado cheirava a cobre velho e ozônio estagnado. Para economizar a energia necessária para as forjas nos níveis inferiores, o Lorde-Castellan havia ordenado o desligamento dos sistemas de suporte vital não essenciais da torre. Não havia aquecimento. O ar condensava a cada respiração, formando nuvens ralas que rapidamente se dissipavam na penumbra iluminada apenas pelo brilho esverdeado dos hololíticos táticos.
 
 No centro da sala erguia-se o Trono de Adamante. Sobre ele, imóvel como uma gárgula esquecida em uma catedral abandonada, estava Alaric von Helis.
 
@@ -28,7 +28,7 @@ Naquele oceano de silêncio e depressão absoluta, onde Alaric frequentemente se
 
 — Isolamento térmico posicionado — a voz de Alaric ecoou solitária e robótica no escuro da sala. E, pela primeira vez em dias, ele continuou a vigiar.
 
-O conceito de "refeição" havia perdido todo o seu significado cerimonial ou biológico para Alaric von Helis durante a Era das Chuvas. No ambiente asséptico e gélido do Strategium, alimentar-se era apenas a reintrodução mecânica de combustível em um motor que ameaçava falhar. Sentado no Trono de Adamante, o Lorde-Castellan recebia sua ração diária de pasta de nutrientes superdensa através de tubos umbilicais conectados diretamente ao colar de sua armadura Exterminadora. Era um processo asséptico, insípido e silencioso.
+O conceito de "refeição" havia perdido todo o seu significado cerimonial ou biológico para Alaric von Helis durante a Vigília Silenciosa. No ambiente asséptico e gélido do Strategium, alimentar-se era apenas a reintrodução mecânica de combustível em um motor que ameaçava falhar. Sentado no Trono de Adamante, o Lorde-Castellan recebia sua ração diária de pasta de nutrientes superdensa através de tubos umbilicais conectados diretamente ao colar de sua armadura Exterminadora. Era um processo asséptico, insípido e silencioso.
 
 A manutenção da "unidade biológica" aos seus pés, no entanto, exigia um protocolo diferente.
 
@@ -68,9 +68,9 @@ Era a justificativa mais patética e desesperada que um Lorde-Castellan já havi
 
 No entanto, ele manteve o braço estendido por muito mais tempo do que o necessário. Mesmo depois que a mão de adamantium estava completamente limpa de qualquer resquício de carne, Alaric permaneceu imóvel, os olhos laranjas de seu elmo fixos no animal. Ele deixou a língua do lobo raspar o metal até que Viggo, satisfeito, soltasse um suspiro e voltasse a se enroscar sobre as botas de ferro.
 
-O Lorde-Castellan recolheu a manopla lentamente. O calor biológico dissipou-se em segundos no ar gélido do Strategium, mas o eco tátil permaneceu vibrando em sua espinha. O Rito da Mão havia terminado. O abismo dos 500 Anos de Chuva continuava tão escuro quanto antes, mas por breves momentos diários, Alaric lembrava-se da sensação de não estar em guerra.
+O Lorde-Castellan recolheu a manopla lentamente. O calor biológico dissipou-se em segundos no ar gélido do Strategium, mas o eco tátil permaneceu vibrando em sua espinha. O Rito da Mão havia terminado. O abismo da Vigília Silenciosa continuava tão escuro quanto antes, mas por breves momentos diários, Alaric lembrava-se da sensação de não estar em guerra.
 
-O silêncio de Alaric von Helis durante a Era das Chuvas era uma arma por si só. Para os Capitães da Cohors Batavorum e os Magos da Forja de Noviomagus, a mudez prolongada do Lorde-Castellan era aterrorizante. Quando um Exterminador daquele tamanho parava de emitir ordens e se trancava no Strategium por semanas a fio, o Capítulo assumia que ele estava calculando estratagemas insondáveis ou pesando a culpa de cada alma sob seu comando.
+O silêncio de Alaric von Helis durante a Vigília Silenciosa era uma arma por si só. Para os Capitães da Cohors Batavorum e os Magos da Forja de Noviomagus, a mudez prolongada do Lorde-Castellan era aterrorizante. Quando um Exterminador daquele tamanho parava de emitir ordens e se trancava no Strategium por semanas a fio, o Capítulo assumia que ele estava calculando estratagemas insondáveis ou pesando a culpa de cada alma sob seu comando.
 
 Eles estavam errados. O silêncio não era uma tática; era um sintoma. A mente de Alaric estava tão exaurida pela traição e pela logística da sobrevivência que o simples ato de formar uma frase exigia mais energia do que ele estava disposto a gastar. Falar significava liderar, e liderar significava ter esperança de que o futuro pudesse ser moldado. Alaric já não acreditava nisso.
 
@@ -112,7 +112,7 @@ O Lorde-Castellan recostou a pesada placa peitoral no Trono de Adamante. As luze
 
 E o silêncio retornou ao Strategium, mas desta vez, não era o silêncio de uma tumba. Era o silêncio de uma vigília compartilhada.
 
-A Era das Chuvas não afetou apenas a mente de Alaric; ela paralisou a cadeia de comando da Cohors Batavorum. Com o Lorde-Castellan trancado no Strategium, recusando-se a realizar *briefings* táticos presenciais ou a falar pelos canais abertos do vox, a máquina de guerra de Noviomagus Prime começou a apresentar falhas de comunicação. Os Capitães das companhias precisavam de ordens diretas para reposicionar as frotas de mineração e coordenar a defesa contra invasores xenos ou renegados que testavam as defesas do setor.
+A Vigília Silenciosa não afetou apenas a mente de Alaric; ela paralisou a cadeia de comando da Cohors Batavorum. Com o Lorde-Castellan trancado no Strategium, recusando-se a realizar *briefings* táticos presenciais ou a falar pelos canais abertos do vox, a máquina de guerra de Noviomagus Prime começou a apresentar falhas de comunicação. Os Capitães das companhias precisavam de ordens diretas para reposicionar as frotas de mineração e coordenar a defesa contra invasores xenos ou renegados que testavam as defesas do setor.
 
 A depressão de Alaric o impedia de encarar seus subordinados. Ele não suportava ver a expectativa nos olhos deles, o peso da lealdade que ele sentia não merecer após a catástrofe com Valerius. Ele precisava gerenciar a guerra de forma estritamente impessoal. Ele precisava de uma ferramenta de interface.
 
@@ -154,7 +154,7 @@ O Lorde-Castellan recostou a cabeça no metal de seu trono. A máquina de guerra
 
 Era mais uma mentira técnica de sua mente deprimida. Alaric não usava Viggo porque ele era mais eficiente que um servitor de mensagens. Ele o usava porque o lobo era a única entidade na fortaleza que não pedia explicações. E porque enviar Viggo para fora da sala era a única forma de garantir que o animal voltaria para ele, correndo de volta para a escuridão do Strategium, provando que, no universo caótico, algo sempre escolhia retornar ao seu pé.
 
-A mente de um Adeptus Astartes é uma maravilha da bioengenharia, projetada para processar a geometria da guerra em velocidades que estilhaçariam a sanidade de um mortal. No entanto, mesmo a biologia de um semideus possui um limite absoluto de tolerância ao atrito contínuo. Alaric von Helis, em sua recusa teimosa em sentir o luto da Era das Chuvas, havia transformado seu próprio cérebro em um processador de dados rodando em sobrecarga letal.
+A mente de um Adeptus Astartes é uma maravilha da bioengenharia, projetada para processar a geometria da guerra em velocidades que estilhaçariam a sanidade de um mortal. No entanto, mesmo a biologia de um semideus possui um limite absoluto de tolerância ao atrito contínuo. Alaric von Helis, em sua recusa teimosa em sentir o luto da Vigília Silenciosa, havia transformado seu próprio cérebro em um processador de dados rodando em sobrecarga letal.
 
 Setenta e duas horas. Três ciclos planetários ininterruptos. Esse foi o tempo que o Lorde-Castellan permaneceu estático no Trono de Adamante, com os cabos de interface neural da Noosphere cravados diretamente nas portas espinhais de sua armadura Exterminadora.
 
@@ -182,7 +182,7 @@ O HUD por trás das lentes laranjas de seu elmo lupino era um caos de runas pisc
 
 Ele não conseguia piscar o comando rúnico para chamar os Apothecários. Ele não conseguia sequer mover a Mão da Sentença para se apoiar. Seus pulmões lutavam para puxar o ar gélido, a respiração saindo em engasgos metálicos pelas grades de exaustão do focinho de aço. Inconscientemente, os grandes pistões de suas pernas e braços se contraíram, puxando-se lentamente em direção ao centro de massa. Era uma posição fetal — o máximo que o chassi quadrado e opressivo da armadura Indomitus permitia.
 
-O Lorde-Castellan estava completamente exposto. Reduzido ao seu estado mais patético. O frio implacável do piso de ferrocreto começou a drenar o calor de seu reator com uma rapidez assustadora, penetrando pelas juntas blindadas e atingindo o homem quebrado lá dentro. A lógica o abandonou. Pela primeira vez durante a Era das Chuvas, Alaric sentiu o terror da inércia absoluta. Ele era uma fortaleza desmoronada no escuro.
+O Lorde-Castellan estava completamente exposto. Reduzido ao seu estado mais patético. O frio implacável do piso de ferrocreto começou a drenar o calor de seu reator com uma rapidez assustadora, penetrando pelas juntas blindadas e atingindo o homem quebrado lá dentro. A lógica o abandonou. Pela primeira vez durante a Vigília Silenciosa, Alaric sentiu o terror da inércia absoluta. Ele era uma fortaleza desmoronada no escuro.
 
 Na penumbra da sala, um leve farfalhar arranhou o silêncio.
 
@@ -210,7 +210,7 @@ O feixe de luz revelou o Senhor de Noviomagus imobilizado no chão, e o predador
 
 A leitura do auspex confirmou o que os olhos de Drusus já suspeitavam.
 
-Durante os últimos séculos da Era das Chuvas, os registros de sono de Alaric (quando ele se permitia o luxo de desligar) eram uma tempestade de picos de adrenalina, arritmia cardíaca e ciclos REM inundados por pesadelos táticos. O cérebro do Castellan nunca parava de lutar a guerra que ele já havia perdido.
+Durante os últimos séculos da Vigília Silenciosa, os registros de sono de Alaric (quando ele se permitia o luxo de desligar) eram uma tempestade de picos de adrenalina, arritmia cardíaca e ciclos REM inundados por pesadelos táticos. O cérebro do Castellan nunca parava de lutar a guerra que ele já havia perdido.
 
 Mas agora, o auspex mostrava uma linha de dados incrivelmente estável.
 

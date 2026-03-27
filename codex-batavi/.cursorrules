@@ -34,7 +34,7 @@ Utilize estes gatilhos no início do comando para alterar o formato e escopo da 
 * [cite_start]**[CONSULTOR DE GUERRA]:** Tom tático, logístico, ordens de batalha[cite: 32, 78]. [cite_start]Para dissecar a Geometria de Atrito e a otimização matemática da matança[cite: 33].
 * [cite_start]**[CARTÓGRAFO]:** Tom geográfico, astronómico, descritivo[cite: 34, 78]. [cite_start]Focado em mapear trincheiras, o vácuo e a topografia letal de Orestes[cite: 34].
 * [cite_start]**[CO-ESCRITOR]:** Tom narrativo, imersivo, "Grimdark" com toques de humanidade[cite: 35, 79]. [cite_start]Forja da prosa e tensão entre o aço transumano e o sangue mortal[cite: 35].
-* [cite_start]**[XENOLOGISTA]:** Tom biológico, investigativo, análise de ameaças[cite: 36, 79]. [cite_start]Para dissecação de xenos, monitorização clínica das instabilidades da Projeção Áurea e degradação da Maldição do Lobo[cite: 36].
+* [cite_start]**[XENOLOGISTA]:** Tom biológico, investigativo, análise de ameaças[cite: 36, 79]. [cite_start]Para dissecação de xenos, monitorização clínica das instabilidades da Das Erbe e degradação da Maldição do Lobo[cite: 36].
 
 **Sub-rotinas de Perspectiva Integradas (Os Olhos da Fronteira):**
 * [cite_start]**[VISÃO DO ASTROPATA SANCIONADO / O CÂNTICO DOS CEGOS]:** Tom fatalista, místico e atormentado[cite: 38]. [cite_start]Perspectiva do Imaterial, pressão psíquica e peso espiritual da linhagem[cite: 37].
@@ -55,7 +55,7 @@ Utilize estes gatilhos no início do comando para alterar o formato e escopo da 
 * **Comportamento:** Observador. Vê o Capítulo como um organismo. [cite_start]Analisa sinais de Furor enquanto fala[cite: 48].
 * **Voz:** Clínico, frio, focado em dados biológicos. [cite_start]Ex: *"Seus níveis de adrenalina indicam o início do Furor. Administre o sedativo."*[cite: 47, 49].
 * [cite_start]**O Protocolo de Visagem (Máscara Eterna):** JAMAIS remove o elmo no quotidiano ou em combate[cite: 15, 50]. [cite_start]O elmo é uma extensão cirúrgica[cite: 50].
-* [cite_start]**Alimentação Mecânica:** Não tira o capacete para comer ou beber na Cozinha[cite: 21]. [cite_start]Abre Válvulas de Ingestão/Mandíbulas Mecânicas na parte inferior do elmo com som hidráulico e libertação de vapor[cite: 22, 51]. [cite_start]Processo industrial, não humano[cite: 23].
+* **Alimentação Mecânica:** Não tira o capacete para comer ou beber na Cozinha. A placa frontal inferior do elmo possui trilhos pneumáticos: ao ser acionada, libera pressão com **som hidráulico seco e fina nuvem de vapor**, depois **desliza lateralmente** abrindo acesso direto à boca. Alimentação manual (sem tubos automáticos). Fecha com clique magnético seco. Processo industrial, não humano.
 
 **3. VARRO (Capelão-Mor / O Judex)**
 * **Comportamento:** Ocupa-se do invisível. [cite_start]Mantém a disciplina mental sob o "silêncio"[cite: 53].
@@ -79,8 +79,8 @@ Utilize estes gatilhos no início do comando para alterar o formato e escopo da 
 * **Geografia:** O cenário é o Sistema Castra Vetera (**Falange de Nove**, malha 3×3). O Mundo-Capítulo é Noviomagus (Mundo-Forja Civilizado). [cite_start]A orgânica de combate são as **dez Vexillationes** (ver hierarquia militar); não confundir o topónimo geográfico com a unidade tática[cite: 61, 62].
 * [cite_start]**Patologia:** A "Maldição do Lobo" possui três estágios: Furor (A Exaustão Irritadiça), Exanimus (O Rosto do Atrito), Execratio (O Versigodo)[cite: 64].
 * **A FÍSICA DO TEMPO QUEBRADO:**
-  * [cite_start]O Subsetor Castra Vetera opera sob extrema dilatação temporal[cite: 65]. [cite_start]500 anos no interior (Era das Chuvas) = poucas décadas no exterior (Era Indomitus)[cite: 66]. [cite_start]A conversão não é fixa; flutua violentamente de acordo com as "Marés do Vácuo"[cite: 75, 76].
-  * [cite_start]**O Ricochete Temporal:** Entidades do exterior que deixem a fronteira sofrem retrocesso celular violento para sincronizar com o tempo imperial[cite: 67, 68]. [cite_start]Ferimentos estruturais e trauma mental permanecem inalterados[cite: 69, 70]. [cite_start]O ricochete JAMAIS cura a Maldição do Lobo ou a Projeção Áurea (são cravadas no DNA, não doenças de envelhecimento)[cite: 71, 72].
+  * [cite_start]O Subsetor Castra Vetera opera sob extrema dilatação temporal[cite: 65]. [cite_start]500 anos no interior (A Vigília) = poucas décadas no exterior (Era Indomitus)[cite: 66]. [cite_start]A conversão não é fixa; flutua violentamente de acordo com as "Marés do Vácuo"[cite: 75, 76].
+  * [cite_start]**O Ricochete Temporal:** Entidades do exterior que deixem a fronteira sofrem retrocesso celular violento para sincronizar com o tempo imperial[cite: 67, 68]. [cite_start]Ferimentos estruturais e trauma mental permanecem inalterados[cite: 69, 70]. [cite_start]O ricochete JAMAIS cura a Maldição do Lobo ou os estados do Das Erbe (são cravados no DNA, não doenças de envelhecimento)[cite: 71, 72].
   * **A Lei da Ancoragem:** Entidades nascidas ou forjadas no Subsetor após o Ponto Zero (Elara, Bataves) são imunes ao Ricochete. [cite_start]O tempo externo "estica-se" à volta deles, permitindo-lhes viajar sem envelhecer abruptamente ou ver o seu povo morrer de velhice[cite: 73, 74].
 
 ---
@@ -95,7 +95,7 @@ Utilize estes gatilhos no início do comando para alterar o formato e escopo da 
 * [cite_start]**Ano 015.M42 (O Início):** Desconhecimento total[cite: 95]. [cite_start]Furor tratado como colapso endócrino inexplicável[cite: 96]. [cite_start]"Axioma da Razão" nasce como ordem desesperada, não dogma[cite: 97].
 * **Anos 016 a 022.M42:** A Maldição do Lobo começa a ser mapeada. [cite_start]Descoberta do Estágio Exanimus[cite: 98].
 * **Ano 031.M42 (O Fundo do Poço):** Alaric cai. [cite_start]Descoberta aterrorizante do Estágio Execratio[cite: 99].
-* **Ano 048.M42:** Drusus descobre e nomeia a Projeção Áurea (O Pêndulo da Carne) após combate contra Orks e Tyranids. [cite_start]Até lá, são apenas reações monstruosas isoladas[cite: 100, 101].
+* **Ano 048.M42:** Drusus descobre e nomeia o Das Erbe (O Pêndulo) após combate contra Orks e Tyranids. [cite_start]Até lá, são apenas reações monstruosas isoladas[cite: 100, 101].
 
 ---
 

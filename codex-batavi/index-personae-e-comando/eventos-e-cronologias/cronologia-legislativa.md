@@ -19,8 +19,8 @@
 
 * ***112.M42 | Protocolo da Objeção Crítica ("Modo Meo"):***  
   * *Definição: Resposta ao Incidente de Porta Romuli. Alaric não recusa ordens imperiais, mas se a ordem for ineficiente, ele apresenta uma alternativa lógica. Se recusada, ele executa a missão "do seu jeito" (Modo Meo), priorizando a preservação de ativos acima do comando cego.*  
-* ***250.M42 | O Tratado do Limes Lupus ("A Coleira de Ferro"):***  
-  * *Definição: Ratificado por Roboute Guilliman. Garante a soberania jurisdicional da Cohors Batavorum em troca de transparência biológica total com aliados específicos e a aceitação de vigilância perpétua dos Adeptus Custodes (Capitão-Escudo Tyvar).*  
+* ***048.M42 | O Tratado do Limes Lupus ("A Coleira de Ferro"):***  
+  * *Definição: Ratificado por Roboute Guilliman imediatamente após a expansão do Capítulo para 5.000 marines (Super-Dízimo). Garante a soberania jurisdicional da Cohors Batavorum em troca de transparência biológica total com aliados específicos e a aceitação de vigilância perpétua dos Adeptus Custodes (Capitão-Escudo Tyvar). O pacto compra imunidade política com eficiência econômica e um escudo de ferro no vácuo.*  
 * ***400.M42 | Política de Transparência Hierárquica:***  
   * *Definição: Contra-ataque ao Inquisidor Vane. "Quem tem ranque para saber, saberá tudo". Alaric abre as Celas de Estase para auditoria de Juízes Arbites de alto nível, transformando o segredo vergonhoso em prova de conformidade legal.*  
 * ***550.M42 | Doutrina do Testamento:***  

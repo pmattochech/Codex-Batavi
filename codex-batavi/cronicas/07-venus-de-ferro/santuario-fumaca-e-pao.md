@@ -6,7 +6,7 @@ Lá fora, a chuva ácida de Noviomagus açoitava as gárgulas da catedral, corro
 
 A "Matilha Real" estava reunida.
 
-No topo da mesa, ocupando um banco que mais parecia um trono de pedra reforçado, estava Alaric von Helis. Ele não usava o elmo. O rosto, marcado pelas cicatrizes profundas da *Anomalia Alfa* e pelo peso de 500 anos de chuva, estava exposto. As feições lupinas, a mandíbula larga e os olhos de íris carmesim com bordas esverdeadas — uma visão que faria governadores planetários tremerem e orks fugirem — ali eram recebidos com familiaridade, exceto por um par de olhos.
+No topo da mesa, ocupando um banco que mais parecia um trono de pedra reforçado, estava Alaric von Helis. Ele não usava o elmo. O rosto, marcado pelas cicatrizes profundas da *Anomalia Alfa* e pelo peso da Vigília Silenciosa, estava exposto. As feições lupinas, a mandíbula larga e os olhos de íris carmesim com bordas esverdeadas — uma visão que faria governadores planetários tremerem e orks fugirem — ali eram recebidos com familiaridade, exceto por um par de olhos.
 
 Sara, a esposa de Jonas, estava sentada na outra ponta, segurando o ventre de oito meses com as duas mãos, como se tentasse criar uma barreira física. Ela olhava para os três gigantes de ceramite — Alaric, Drusus e Varro — e, apesar das garantias de Jonas, seus instintos gritavam perigo. Eram máquinas de matar sentadas à mesa de jantar. Eram monstros que cheiravam a promécio e sangue antigo.
 

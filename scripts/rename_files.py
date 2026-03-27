@@ -60,6 +60,7 @@ RENAMES: list[tuple[str, str]] = [
     ("cronicas/05-saga-viggo/a-saga-de-viggo.md",                                       "saga-viggo.md"),
     ("cronicas/06-era-das-chuvas/o-silencio-da-era-das-chuvas.md",                      "silencio-era-das-chuvas.md"),
     ("cronicas/06-era-das-chuvas/o-ultimo-calor-do-muro.md",                            "ultimo-calor-do-muro.md"),
+    ("cronicas/06-vigilia-silenciosa/silencio-era-das-chuvas.md",                       "silencio-strategium.md"),
     ("cronicas/07-venus-de-ferro/a-venus-de-ferro.md",                                  "venus-de-ferro.md"),
     ("cronicas/07-venus-de-ferro/o-santuario-da-fumaca-e-do-pao.md",                    "santuario-fumaca-e-pao.md"),
     ("cronicas/07-venus-de-ferro/a-venus-de-ferro-a-filha-do-lobo-e-a-vigilia-do-ferro.md", "filha-do-lobo.md"),

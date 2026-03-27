@@ -128,7 +128,7 @@ O Lorde-Castellan processou a cena através dos seus rígidos parâmetros de gue
 
 Alaric não entrou na sala para oferecer o calor de seu próprio reator. A equação já estava equilibrada. Ele apenas abaixou levemente a cabeça, um cumprimento silencioso de um sentinela de ferro para um sentinela de carne, e fechou as portas do alojamento para manter o ar quente lá dentro.
 
-A tempestade durou três dias. O aquecimento central só foi restaurado no quarto ciclo. Durante todo esse tempo, Viggo só levantou-se para comer a carne que Martha trazia, voltando imediatamente para o meio das crianças. Ele era o escudo orgânico da fortaleza. A estufa biológica que garantiu que a Vênus de Ferro tivesse súditos vivos para liderar no
+A tempestade durou três dias. O aquecimento central só foi restaurado no quarto ciclo. Durante todo esse tempo, Viggo só levantou-se para comer a carne que Martha trazia, voltando imediatamente para o meio das crianças. Ele era o escudo orgânico da fortaleza. A estufa biológica que garantiu que a Vênus de Ferro tivesse súditos vivos para liderar no único ciclo que Castra Vetera sempre prometeu: o próximo.
 
 Crianças nascidas na fortaleza de Noviomagus Prime não brincavam de heróis e vilões; elas brincavam de cerco e sobrevivência. Seus brinquedos não eram de plástico colorido, mas lascas de ferrocreto desgastado, tubos de ventilação descartados e espadas esculpidas em madeira sintética rígida. O mundo delas era cinza, e a guerra era a única linguagem cultural que conheciam.
 
@@ -218,7 +218,7 @@ O som pesado e rítmico do rabo batendo contra o chão de ferrocreto ecoava pela
 
 O *thump-thump* de Viggo era a última linha de defesa contra o silêncio esmagador de Noviomagus Prime, uma declaração teimosa de que, enquanto houvesse ar em seus pulmões, o velho lobo vigiaria a Vênus de Ferro. Mesmo que não pudesse mais correr por ela.
 
-Noviomagus Prime estava chorando. A Era das Chuvas, o luto meteorológico que afogava o mundo-forja desde a traição de Valerius, atingiu um pico de violência naquela noite. A chuva ácida martelava contra as espessas cúpulas de ferrocreto da fortaleza com o som de um milhão de martelos de forja batendo em uníssono. Era uma sinfonia de esmagamento lá fora, mas dentro da Cozinha de Martha, o ar era denso e terrivelmente silencioso.
+Noviomagus Prime estava chorando: a chuva ácida martelava contra as espessas cúpulas de ferrocreto da fortaleza com o som de um milhão de martelos de forja batendo em uníssono — temporal em seu pico. Lá fora era uma sinfonia de esmagamento; dentro da Cozinha de Martha, o ar era denso e terrivelmente silencioso — o tipo de quietude que a Vigília Silenciosa carregava desde Valerius, com ou sem tempestade no céu.
 
 A alcateia estava reunida.
 
@@ -326,7 +326,7 @@ Os dois servitores lobotomizados pararam instantaneamente. Tobias engoliu em sec
 
 O Senhor do Muro ergueu-se lentamente do assento improvisado. A cada milímetro, os pesados pistões de sua armadura Indomitus estalaram, e os servos rugiram em compensação de peso. Ele marchou dois passos à frente, as botas colossais parando a centímetros do corpo imóvel do Thunderwolf. Alaric olhou para o animal que havia sido sua âncora, o confessor mudo de sua loucura e o berço vivo de sua filhote.
 
-Para a mente mergulhada nos 500 Anos de Chuva, a morte do lobo era a perda da ferramenta mais eficiente de manutenção de sanidade. A única resposta lógica era a estase.
+Para a mente mergulhada na Vigília Silenciosa, a morte do lobo era a perda da ferramenta mais eficiente de manutenção de sanidade. A única resposta lógica era a estase.
 
 Alaric levou a Mão da Sentença até a placa de controle primária em seu próprio plastrão. Com uma precisão deliberada, ele acionou uma sequência de runas que nenhum Astartes em sã consciência tocaria fora de uma câmara de manutenção.
 
@@ -406,7 +406,7 @@ Do interior de seu elmo mecânico, a voz de Alaric ecoou profunda e controlada.
 
 Alaric fez um gesto. Dois de seus guardas pessoais de honra avançaram, carregando um pesado relicário de adamantium cravejado com os selos da Cohors Batavorum. Eles o depositaram aos pés de Logan Grimnar.
 
-O Lorde-Castellan desligou os selos herméticos de seu elmo e o ergueu, revelando seu rosto humano, pálido e marcado pelas cicatrizes da Era das Chuvas. Ele olhou diretamente para o Grande Lobo.
+O Lorde-Castellan desligou os selos herméticos de seu elmo e o ergueu, revelando seu rosto humano, pálido e marcado pelas cicatrizes da Vigília Silenciosa. Ele olhou diretamente para o Grande Lobo.
 
 — O Muro não descarta o que é valioso, Lorde Grimnar. O couro de Viggo aquece o meu chassi, mas o cálcio de sua estrutura é forte demais para ser reduzido a cinzas. Eu trago seus ossos de volta ao gelo que o gerou, mas não para enterrá-los.
 

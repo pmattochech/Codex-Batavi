@@ -16,7 +16,7 @@
 
 *Olhei para os meus irmãos da 4ª Coorte. As lentes de seus elmos não mostravam medo, nem raiva, nem devoção, nem honra. Eles haviam se tornado espelhos do vazio que nos atacava. Onde o Apotecário Drusus via uma adaptação tática milagrosa (a gênese do seu "Soldado Perfeito"), eu via a morte imediata do espírito. O nosso Axioma da Razão entrou em um overclock aberrante; a lógica estéril devorou a fé.*
 
-***\[Auto-análise Confessional\]** Eu tentei rezar no campo de batalha. As palavras saíram da minha boca, mas eu não senti o peso delas na minha alma. Em um momento de horror lúcido, percebi que eu mesmo estava calculando o ângulo geométrico de dispersão cinética do meu Crozius Arcanum em vez de focar na pureza e na fé do golpe. A Estiagem não infectava apenas os soldados; ela estava secando a minha própria alma.*
+***\[Auto-análise Confessional\]** Eu tentei rezar no campo de batalha. As palavras saíram da minha boca, mas eu não senti o peso delas na minha alma. Em um momento de horror lúcido, percebi que eu mesmo estava calculando o ângulo geométrico de dispersão cinética do meu Crozius Arcanum em vez de focar na pureza e na fé do golpe. A Ruhe não infectava apenas os soldados; ela estava secando a minha própria alma.*
 
 ## II. A LITURGIA INÚTIL (Observação de Campo)
 
@@ -45,11 +45,11 @@
 
 *Eu testemunhei o exato momento em que a alma do Sargento Karras retornou ao seu invólucro.*
 
-*Ele estava parado, inerte, diante de uma operária civil que lhe oferecia, com as mãos trêmulas, um copo de água metálico. Karras estendeu a manopla imensa. Ele pegou o copo e a mão dele hesitou. Tremeu. A lógica fria e perfeita da Estiagem entrou em colapso total diante da gratidão irracional e desnecessária de um humano fraco. Karras quebrou o lacre do capacete, removeu o elmo e chorou silenciosamente. Não chorou puramente de tristeza, mas porque o sistema emocional reiniciou abruptamente e a dor de ter mandado seus próprios homens para a morte finalmente o atingiu com o peso de um martelo.*
+*Ele estava parado, inerte, diante de uma operária civil que lhe oferecia, com as mãos trêmulas, um copo de água metálico. Karras estendeu a manopla imensa. Ele pegou o copo e a mão dele hesitou. Tremeu. A lógica fria e perfeita da Ruhe entrou em colapso total diante da gratidão irracional e desnecessária de um humano fraco. Karras quebrou o lacre do capacete, removeu o elmo e chorou silenciosamente. Não chorou puramente de tristeza, mas porque o sistema emocional reiniciou abruptamente e a dor de ter mandado seus próprios homens para a morte finalmente o atingiu com o peso de um martelo.*
 
 ## Veredito Teológico do Reclusiam:
 
-*A Monção nos rebaixa a bestas, e as bestas, com coleiras de ferro, podem ser domadas pela disciplina. A Estiagem nos eleva a máquinas lógicas, e as máquinas não sentem lealdade a nada, apenas seguem a programação matemática.*
+*A Jagd nos rebaixa a bestas, e as bestas, com coleiras de ferro, podem ser domadas pela disciplina. A Ruhe nos eleva a máquinas lógicas, e as máquinas não sentem lealdade a nada, apenas seguem a programação matemática.*
 
 *Se o Capítulo ficar neste estado por muito tempo, não precisaremos dos deuses do Caos para nos corromper e nos destruir; nós nos tornaremos indiferentes à própria sobrevivência do Império que juramos defender.*
 

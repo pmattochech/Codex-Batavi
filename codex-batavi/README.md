@@ -8,7 +8,7 @@ Estrutura por tema. Regras imutáveis: `.cursorrules` (nesta pasta; symlink na r
 | [cronicas](cronicas/INDEX.md) | Prosa por saga / arco narrativo |
 | [atlas-e-topografia](atlas-e-topografia/INDEX.md) | Atlas geral + `sistemas/` (detalhe por sistema) |
 | [arsenal-e-logistica](arsenal-e-logistica/INDEX.md) | Padrão Noviomagus, coortes; catálogos de chassis/armas (ref. cruzada com dossiês) |
-| [enciclopedia-biologica-e-bestiario](enciclopedia-biologica-e-bestiario/INDEX.md) | Projeção Áurea, Maldição do Lobo, matrizes biogeográficas, espécimes nomeados, Viggo |
+| [enciclopedia-biologica-e-bestiario](enciclopedia-biologica-e-bestiario/INDEX.md) | Das Erbe, Maldição do Lobo, matrizes biogeográficas, espécimes nomeados, Viggo |
 | [lexicon-e-litanias](lexicon-e-litanias/INDEX.md) | Mito de Der Batav, filosofia operacional |
 | [relacoes-politicas](relacoes-politicas/INDEX.md) | Eclesiarquia, Inquisição, Lex Imperialis |
 

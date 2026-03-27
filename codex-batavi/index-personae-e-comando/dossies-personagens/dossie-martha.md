@@ -28,5 +28,5 @@ Martha não porta armas de fogo, mas sua autoridade é exercida com ferramentas 
 
 ## 4\. RELAÇÃO COM A VÊNUS DE FERRO (ELARA)
 
-Martha é a figura materna de Elara. Foi ela quem cuidou da menina quando Alaric estava mergulhado em seus silêncios de 500 anos. Martha ensinou a Elara que a diplomacia e a liderança começam com a compreensão das necessidades básicas daqueles que servem. Enquanto Alaric ensinou Elara a ser o ferro, Martha ensinou Elara a ser o fogo que o molda.
+Martha é a figura materna de Elara. Foi ela quem cuidou da menina quando Alaric estava mergulhado em seus silêncios da Vigília Silenciosa. Martha ensinou a Elara que a diplomacia e a liderança começam com a compreensão das necessidades básicas daqueles que servem. Enquanto Alaric ensinou Elara a ser o ferro, Martha ensinou Elara a ser o fogo que o molda.
 

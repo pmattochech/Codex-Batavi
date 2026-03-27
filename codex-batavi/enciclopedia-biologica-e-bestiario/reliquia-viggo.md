@@ -21,9 +21,9 @@ Devido ao seu tamanho reduzido (comparável a um touro jovem, não a um rinocero
 * **A Agulha e o Muro**: Em combate de *Zone Mortalis* (corredores de naves e colmeias industriais), Alaric bloqueava o corredor principal atraindo todo o fogo, enquanto Viggo flanqueava pelos dutos de ventilação, rasgando gargantas e tendões desprotegidos no escuro.  
 * **Mensageiro de Cerco**: Em zonas de "Cegueira de Vox" — comuns no ambiente de Orestes —, Viggo corria entre os esquadrões carregando cilindros de ordens e fitas de dados na boca, sendo rápido e furtivo demais para ser alvejado pela artilharia inimiga.
 
-## 3\. A ÂNCORA TÉRMICA (A ERA DAS CHUVAS)
+## 3\. A ÂNCORA TÉRMICA (A VIGÍLIA SILENCIOSA)
 
-Durante a profunda depressão clínica de Alaric (os 500 Anos de Chuva), Viggo foi a âncora que impediu o Lorde-Castellan de se tornar puramente máquina.
+Durante a profunda depressão clínica de Alaric na Vigília Silenciosa, Viggo foi a âncora que impediu o Lorde-Castellan de se tornar puramente máquina.
 
 * **A Desculpa Logística**: Alaric justificava a presença do animal com lógica fria: o lobo era um "isolante orgânico" útil para reter calor residual nas juntas inferiores da armadura durante as longas vigílias no Trono de Adamante.  
 * **O Rito da Mão**: Alaric não permitia que servos o alimentassem. Viggo comia carne sintética diretamente da "Mão do Pai" (a manopla esquerda com garras de adamantium). O toque da língua do animal no metal era o único contato biológico não-hostil que Alaric tolerou durante séculos.

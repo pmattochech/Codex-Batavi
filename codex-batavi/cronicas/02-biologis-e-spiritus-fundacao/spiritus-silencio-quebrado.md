@@ -1,6 +1,6 @@
 # LIBER SPIRITUS: O EVANGELHO DO SILÊNCIO QUEBRADO
 
-*(Registro: 046.M42 | Evento: A Guerra da Monção / Waaagh\! Skarjaw)*
+*(Registro: 046.M42 | Evento: A Guerra da Jagd / Waaagh\! Skarjaw)*
 
 **Classificação:** *Vermilion* / Olhos do Judex.   
 **Relator:** Capelão-Mor Varro (O Guardião da Alma).
@@ -9,7 +9,7 @@
 
 A guerra não começou quando os sensores augúrios de Drusus registraram a anomalia gravitacional. A guerra começou quando o silêncio absoluto do meu *Reclusiam* foi violado por uma frequência que não existia no espectro auditivo, mas no estrutural-espiritual.
 
-Sete dias antes da primeira nave de sucata rasgar a atmosfera do planeta Noviomagus, eu senti a vibração. Não era o hino estático do Imperador, nem o sussurro insidioso do Warp convencional. Era uma fome psíquica crua. A *Waaagh\!* Ork não é apenas um movimento de tropas xenos; é uma tempestade de entropia na alma, um grito coletivo de milhões de bestas que ecoa e fratura a psique de qualquer ser senciente nas proximidades.
+Sete dias antes da primeira nave de sucata rasgar a atmosfera do planeta Noviomagus, eu senti a vibração. Não era o hino estático do Imperador, nem o sussurro insidioso da Distorção convencional. Era uma fome psíquica crua. A *Waaagh\!* Ork não é apenas um movimento de tropas xenos; é uma tempestade de entropia na alma, um grito coletivo de milhões de bestas que ecoa e fratura a psique de qualquer ser senciente nas proximidades.
 
 Para nós, os *Batavian Iron-Guard*, esse eco não serviu como um mero aviso tático. Foi um teste de estresse na integridade estrutural de nossas almas.
 
@@ -25,7 +25,7 @@ Meu dever não era pregar fervor religioso cego; era impor o Silêncio Analític
 
 Precisei intervir fisicamente nas celas de meditação, empunhando meu *Crozius Arcanum* não para ferir, mas como um bastão de ancoragem para mentes que estavam deslizando irremediavelmente para o esquecimento vermelho. *"Não sintam,"* eu ordenava através do *vox-caster*, minha voz quebrando a estática. *"O sentimento é um dado tático irrelevante. Ajam pela lógica da contenção."*
 
-**Dia 6: A Monção da Alma (A Quebra do Dique)** Drusus, em sua frieza clínica, cataloga este evento como "Ativação Hormonal Prévia". Eu o batizo de *A Comunhão do Ódio*.
+**Dia 6: A Jagd da Alma (A Quebra do Dique)** Drusus, em sua frieza clínica, cataloga este evento como "Ativação Hormonal Prévia". Eu o batizo de *A Comunhão do Ódio*.
 
 Vinte e quatro horas antes da queda das rochas, a barreira espiritual rompeu-se de forma sistêmica. Não houve ordem de liberação do Triunvirato. Foi uma resposta simpática, um reflexo de defesa da nossa alma coletiva à proximidade da anarquia absoluta.
 
@@ -41,7 +41,7 @@ Nenhum humano foi arranhado. Eles redirecionaram todo aquele oceano de violênci
 
 Quando os asteroides de sucata finalmente caíram, não executamos manobras táticas complexas. Houve apenas uma exalação coletiva.
 
-A liberação do expoente Monção não foi um engajamento militar; foi um exorcismo. Quando os Orks desembarcaram, rugindo e esperando farejar o medo humano, colidiram contra a nossa fome abyssal. Não efetuamos disparos de supressão. O bólter é uma ferramenta de distanciamento asseado, e a nossa alma fraturada exigia o batismo do contato físico. Nós nos transformamos no Muro de Lâminas.
+A liberação do expoente Jagd não foi um engajamento militar; foi um exorcismo. Quando os Orks desembarcaram, rugindo e esperando farejar o medo humano, colidiram contra a nossa fome abyssal. Não efetuamos disparos de supressão. O bólter é uma ferramenta de distanciamento asseado, e a nossa alma fraturada exigia o batismo do contato físico. Nós nos transformamos no Muro de Lâminas.
 
 Observando do alto da Muralha Sul, eu não vi soldados imperiais. Vi a encarnação do abate calculado. A brutalidade com que os *Batavian Iron-Guard* desmembraram a vanguarda xeno não abrigava a "honra" marcial do duelo. Era eficiência industrial de matadouro aplicada com fúria biológica inextinguível. Era o Lobo utilizando o intelecto superior de um Astartes para calcular a artéria exata a ser cortada para otimizar o tempo de morte.
 
@@ -55,11 +55,11 @@ O urro que ele emitiu a seguir sobre o cadáver não foi uma proclamação de vi
 
 Drusus preencheu pergaminhos relatando como os órgãos internos falharam e exigiram reconstrução biológica. Eu preenchi o *Liber Spiritus* relatando como as almas se esvaziaram por completo.
 
-Assim que a ameaça xeno foi obliterada, o propósito diretivo que ancorava aquele nível de atrocidade evaporou. Meus irmãos não desmoronaram no solo manchado de sangue apenas por exaustão química limitante; eles desabaram porque o retorno à realidade basal tornou-se insuportavelmente pesado após o zênite da Monção.
+Assim que a ameaça xeno foi obliterada, o propósito diretivo que ancorava aquele nível de atrocidade evaporou. Meus irmãos não desmoronaram no solo manchado de sangue apenas por exaustão química limitante; eles desabaram porque o retorno à realidade basal tornou-se insuportavelmente pesado após o zênite da Jagd.
 
 Caminhei em silêncio entre as fileiras de Astartes caídos, suas armaduras cinzentas inertes assemelhando-se a lápides em um cemitério industrial. Não pairava glória no ar frio de Noviomagus, apenas o odor persistente de ozônio e o vácuo absoluto de homens que gastaram tudo o que eram — e tudo o que poderiam vir a ser — em um único ciclo solar.
 
-**Conclusão Teológica do Reclusiam:** A Monção é um empréstimo predatório. Nós bebemos de bom grado da taça da Besta para impedir que a casa do Homem queime. Naquele dia sangrento, reafirmamos que podemos nos transmutar em monstros sob comando estrito. O custo, no entanto, é que quando a tempestade passa e voltamos a ser soldados, o silêncio que se instaura dentro de nós é tão vasto e profundo que é indistinguível da morte.
+**Conclusão Teológica do Reclusiam:** A Jagd é um empréstimo predatório. Nós bebemos de bom grado da taça da Besta para impedir que a casa do Homem queime. Naquele dia sangrento, reafirmamos que podemos nos transmutar em monstros sob comando estrito. O custo, no entanto, é que quando a tempestade passa e voltamos a ser soldados, o silêncio que se instaura dentro de nós é tão vasto e profundo que é indistinguível da morte.
 
 Nós vencemos. Mas levamos meses de terapia de estase para nos lembrarmos de como ser algo além de meras armas soltas no escuro.
 

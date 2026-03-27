@@ -10,7 +10,7 @@ A máquina de guerra da *Cohors Batavorum* é uma aberração matemática susten
 
 ## 2\. OS EXECUTORES TÁTICOS (A Matemática do Abate)
 
-**O Sargento (O Calculista de Esquadrão):** Líder tático direto responsável por uma unidade de 5 a 10 Bataves. O Sargento não inspira os seus homens com brados gloriosos; ele dita o ritmo de disparo, os ângulos de cobertura e a eficiência de munição da sua célula. Eles são os reguladores de pressão da linha de frente. Se o pêndulo endócrino da *Projeção Áurea* empurrar os guerreiros para a combustão metabólica da *Monção* ou para o gelo absoluto da *Estiagem*, cabe ao Sargento reajustar a formação para extrair a letalidade máxima antes do colapso físico de seus irmãos.
+**O Sargento (O Calculista de Esquadrão):** Líder tático direto responsável por uma unidade de 5 a 10 Bataves. O Sargento não inspira os seus homens com brados gloriosos; ele dita o ritmo de disparo, os ângulos de cobertura e a eficiência de munição da sua célula. Eles são os reguladores de pressão da linha de frente. Se o pêndulo endócrino da *Das Erbe* empurrar os guerreiros para a combustão metabólica da *Jagd* ou para o gelo absoluto da *Ruhe*, cabe ao Sargento reajustar a formação para extrair a letalidade máxima antes do colapso físico de seus irmãos.
 
 **O Tenente (O Executor da Zona Mortalis):** O maestro da carnificina de curta distância. Comandando meia sub-coorte (fração rigorosa de 50 guerreiros), o Tenente é o oficial que desce ao matadouro. Enquanto os níveis superiores da cadeia de comando desenham o cerco, o Tenente é quem aplica a *Geometria de Atrito* milímetro a milímetro em corredores sufocantes e trincheiras lamacentas. Ele traduz a macro-estratégia em ordens diretas de execução e avanço, garantindo que o sangue inimigo seja derramado de forma otimizada.
 
@@ -42,9 +42,9 @@ Os **5.000** guerreiros da Meia-Legião são **todo** o Astartes com **geneseed*
 
 | Ordem | Chefe | Função na Meia-Legião |
 |-------|--------|------------------------|
-| **Medicinae** | Apotecário-Mor **Drusus** | Continuidade biológica, *Projeção Áurea*, prisões clínicas, triagem de *Furor*. |
+| **Medicinae** | Apotecário-Mor **Drusus** | Continuidade biológica, *Das Erbe*, prisões clínicas, triagem de *Furor*. |
 | **Reclusiam** | Capelão-Mor **Varro** | Disciplina do *Axioma Rationis*, liturgia homologada, terror útil, auditoria de fé como dado. |
-| **Librarium** | Bibliotecário-Mor **Otho** | *Cifra Batava*, radar passivo na *Warp*, codificação de ritos como algoritmo; ver [conselho-e-librarium.md](conselho-e-librarium.md). |
+| **Librarium** | Bibliotecário-Mor **Otho** | *Cifra Batava*, radar passivo na *Distorção*, codificação de ritos como algoritmo; ver [conselho-e-librarium.md](conselho-e-librarium.md). |
 | **Armourium** | Mestre de Forja **Kadmos** | *Machine Spirit*, forjas, Techmarines, manutenção de chassi e de arquitecturas de cerco; ver [conselho-e-librarium.md](conselho-e-librarium.md) §3. |
 
 **Conselho Extendido:** Kadmos e Otho integram o **Conselho** sob o Triunvirato; Drusus e Varro **são** o Triunvirato — os quatro ordres convergem no *Strategium*, não em silos isolados.
@@ -59,7 +59,7 @@ Os especialistas dos quatro ordres **não** formam um bloco paralelo: estão **d
 |------------|-----------|--------|
 | Coortes (Silêncio, Sombras, Estase, Nulidade) | **200** | 4 × 50 |
 | **Batavi de linha pura** (Supressão / Ruína / Cerco) | **284** | Borda de divisão; ver [vexillationes-e-resumo-visual.md](../../arsenal-e-logistica/vexillationes-e-resumo-visual.md) §3 |
-| Apotecários de Vexillatio (*Medicinae*) | **4** | ~1 por Sub-Coorte de 100; *Zone Mortalis* / *Monção* |
+| Apotecários de Vexillatio (*Medicinae*) | **4** | ~1 por Sub-Coorte de 100; *Zone Mortalis* / *Jagd* |
 | Techmarines de campanha (*Armourium*) | **4** | Armadura, *auspex* de engenharia, veículos leves |
 | Capelães adjuntos / Judex menor (*Reclusiam*) | **3** | Ancoragem como variável tática |
 | Bibliotecários da *Cifra* (*Librarium*) | **5** | Radar passivo; enlace com Coorte da Nulidade |

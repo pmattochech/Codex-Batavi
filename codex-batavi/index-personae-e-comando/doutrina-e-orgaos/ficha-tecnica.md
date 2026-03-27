@@ -2,6 +2,8 @@
 
 ## 1\. IDENTIDADE E HERÁLDICA
 
+*Ver também: [intro-e-heraldica.md](../intro-heraldica/intro-e-heraldica.md) — título, mito e heráldica resumida.*
+
 * **Nome Oficial:** Batavian Iron-Guard (Alto Gótico: *Cohors Batavorum*).  
 * **Nome Operacional:** *Cohors Batavorum* (Lobos da Fronteira). Usado em comunicações de rádio e registros táticos.  
 * **Símbolo:** Um Lobo Negro (remetendo à linhagem quimérica de Russ/Loken) segurando um Gládio Horizontal na boca, posicionado sobre ondas estilizadas (origem anfíbia).  
@@ -11,19 +13,17 @@
   * **Detalhes:** Bronze ou Ouro Envelhecido (apenas para Oficiais e Guarda de Honra). O brilho é removido quimicamente para evitar reflexo.  
 * **Estética:** Design industrial pesado. Incorpora elementos romanos (pteruges de couro reforçado, cristas transversais para oficiais), mas sempre priorizando a função sobre a forma.
 
-## 3\. ESTRATÉGIAS DE GUERRA
+## 2\. ESTRATÉGIAS DE GUERRA
 
 * **Geometria de Atrito:** O estilo de combate primário. Envolve transformar a infraestrutura existente em zonas de morte modulares. O objetivo é o desgaste matemático do inimigo com o menor custo de recursos possível (munição/vidas).  
 * **Estilo "Segunda Lâmina":** Técnica de CQC (Combate a Curta Distância) onde o Marine utiliza os membros livres (ombros, cotovelos, manoplas) como armas contundentes integradas aos golpes de gládio, criando sequências de impacto contínuo e desestabilização.  
 * **Silêncio Analítico:** O Capítulo rejeita gritos de guerra ou uivos. Eles combatem em silêncio de voz quase absoluto, comunicando-se apenas por dados táticos (*Noosphere*), o que desestabiliza inimigos que esperam a fúria vocal típica da linhagem de Russ.
 
-## 4\. A BIOLOGIA: A PROJEÇÃO ÁUREA E A MALDIÇÃO
+## 3\. A BIOLOGIA: A PROJEÇÃO ÁUREA E A MALDIÇÃO
 
-O Capítulo opera sob uma distinção biológica rígida entre "Ferramenta" (Uso Tático) e "Falha" (Degeneração). Consultar o material 06\_ENCICLOPEDIA\_BIOLOGICA\_E\_BESTIARIO
+O Capítulo opera sob uma distinção biológica rígida entre "Ferramenta" (Uso Tático) e "Falha" (Degeneração). Ver: [projecao-aurea-e-maldicao-do-lobo.md](../../enciclopedia-biologica-e-bestiario/projecao-aurea-e-maldicao-do-lobo.md).
 
-## 
-
-## 5\. A FORJA DA FERRAMENTA
+## 4\. A FORJA DA FERRAMENTA
 
 *Filosofia Central: Non Herois, Sed Instrumentum (Não Heróis, mas Ferramentas).*
 

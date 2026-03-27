@@ -4,7 +4,7 @@
 
 ## SISTEMA I: O BASTIÃO CENTRAL (A Trindade da Ordem)
 
-O Bastião Central não é um sistema estelar natural; é uma aberração de engenharia orbital e a resposta definitiva ao isolamento do *Imperium Nihilus*. Ao fundir os mundos essenciais do Capítulo em um único e sufocante poço gravitacional, o Muro eliminou a dependência do *Warp* para a sua logística diária. O espaço aqui não é vazio, mas um ecossistema claustrofóbico de matéria, luz e poluição ininterrupta.
+O Bastião Central não é um sistema estelar natural; é uma aberração de engenharia orbital e a resposta definitiva ao isolamento do *Imperium Nihilus*. Ao fundir os mundos essenciais do Capítulo em um único e sufocante poço gravitacional, o Muro eliminou a dependência da *Distorção* para a sua logística diária. O espaço aqui não é vazio, mas um ecossistema claustrofóbico de matéria, luz e poluição ininterrupta.
 
 ### 1\. A FUNDAÇÃO ESTELAR (O TRINÁRIO ESTÁVEL)
 

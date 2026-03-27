@@ -4,7 +4,7 @@
 
 A tempestade em Hoth-Secundus não era um fenômeno meteorológico; era um processo de usinagem natural. O vento carregava cristais de gelo tão afiados e densos que agiam como um jato de areia industrial, raspando a tinta cinza-ferro das placas de ceramite da armadura Exterminadora Indomitus de Alaric von Helis. Cada passo que o Lorde-Castellan dava era um cálculo de atrito e gravidade. As garras de adamantium de suas botas — os *Pilares de Noviomagus* — perfuravam o permafrost com um som de fratura surda, ancorando a tonelagem de seu chassi contra rajadas que teriam arremessado um homem comum aos ares.
 
-Ele caminhava sozinho, afastado do flanco principal. Estavam no epicentro da Era das Chuvas, o período de quinhentos anos de luto e ferrugem que se abateu sobre a Cohors Batavorum após a traição de Valerius. Para Alaric, a traição não havia quebrado seu coração; havia obliterado sua capacidade de processar a realidade fora de parâmetros puramente matemáticos. Ele não vivia mais. Ele operava. Sua mente era um cofre trancado por dentro, onde a depressão se manifestava não como tristeza, mas como um silêncio absoluto, estéril e mecânico. O universo era um motor defeituoso, e ele era apenas a peça pesada demais para ser descartada.
+Ele caminhava sozinho, afastado do flanco principal. Estavam no epicentro da Vigília Silenciosa, o período de quinhentos anos de luto e ferrugem que se abateu sobre a Cohors Batavorum após a traição de Valerius. Para Alaric, a traição não havia quebrado seu coração; havia obliterado sua capacidade de processar a realidade fora de parâmetros puramente matemáticos. Ele não vivia mais. Ele operava. Sua mente era um cofre trancado por dentro, onde a depressão se manifestava não como tristeza, mas como um silêncio absoluto, estéril e mecânico. O universo era um motor defeituoso, e ele era apenas a peça pesada demais para ser descartada.
 
 Dentro do elmo adornado com a máscara de crânio lupino, o display retiniano (HUD) banhava o rosto de Alaric em uma luz laranja e anêmica. Runas de diagnóstico piscavam nos cantos de sua visão. Pressão hidráulica: nominal. Integridade do reator: 98%. Nível de dopamina e serotonina no sangue: irrelevante. Ele havia desligado os inibidores de dor, preferindo o desconforto agudo dos cabos de interface neural espetados em sua espinha ao vazio anestesiado que o ameaçava engolir. A dor física provava que a carne sob o metal ainda não havia necrosado.
 
@@ -24,7 +24,7 @@ Ele observou a neve se mexer. De baixo do couro endurecido da fêmea morta, algo
 
 O pequeno animal tremia violentamente, as patas curtas falhando ao tentar se firmar no gelo manchado de sangue. Ele soltou um ganido patético, um som fino que foi quase engolido pelo uivo da tempestade. Suas reservas calóricas estavam esgotadas. Em termos mecânicos, o motor estava falhando por congelamento das linhas de combustível.
 
-Alaric olhou para a criatura do alto de seus quase três metros. Ele não sentiu empatia. Sua mente, mergulhada na apatia dos 500 Anos de Chuva, não tinha espaço para compaixão. O que o paralisou, no entanto, foi o espelho lógico daquela visão. Ele viu um sistema isolado, abandonado em um ambiente hostil, lutando ineficazmente contra uma entropia inevitável. O filhote era um erro de cálculo do universo, rejeitado por ser fraco, sozinho em uma escuridão gelada.
+Alaric olhou para a criatura do alto de seus quase três metros. Ele não sentiu empatia. Sua mente, mergulhada na apatia dos Vigília Silenciosa, não tinha espaço para compaixão. O que o paralisou, no entanto, foi o espelho lógico daquela visão. Ele viu um sistema isolado, abandonado em um ambiente hostil, lutando ineficazmente contra uma entropia inevitável. O filhote era um erro de cálculo do universo, rejeitado por ser fraco, sozinho em uma escuridão gelada.
 
 O display retiniano de Alaric projetava o colapso iminente com uma precisão gélida. *Sessenta segundos.* A pulsação da criatura, captada pelos sensores biométricos da armadura Indomitus, era um gráfico trêmulo em queda livre. *Cinquenta segundos.* O vento cortante de Hoth-Secundus já começava a cobrir o pelo branco do filhote com uma mortalha de cristais translúcidos. O animal parou de ganir. A energia necessária para vocalizar a dor havia se esgotado; agora, restava apenas o tremor espasmódico dos músculos tentando, em vão, gerar atrito interno.
 
@@ -76,7 +76,7 @@ A diferença filosófica era um abismo intransponível. Ragnar via a morte como 
 
 Os sensores do elmo de Alaric fixaram-se nos olhos amarelos e selvagens de Ragnar Blackmane. O gigante cinza não se moveu um milímetro. A nevasca batia contra os dois comandantes, um contraste brutal entre o Rei Selvagem e o Rei de Ferro.
 
-— O inverno não é uma lei moral, Ragnar. É apenas uma variável de temperatura — respondeu Alaric, a letargia de seus 500 Anos de Chuva pesando em cada sílaba estéril. Ele apontou o dedo da Mão da Sentença para o filhote encolhido. — A falha não está na biologia, Jovem Rei. Está na falta de isolamento térmico.
+— O inverno não é uma lei moral, Ragnar. É apenas uma variável de temperatura — respondeu Alaric, a letargia de seus Vigília Silenciosa pesando em cada sílaba estéril. Ele apontou o dedo da Mão da Sentença para o filhote encolhido. — A falha não está na biologia, Jovem Rei. Está na falta de isolamento térmico.
 
 Ragnar ficou em silêncio por um longo momento. O vento sibilou através dos fetiches de ossos pendurados em sua armadura. Então, o Space Wolf guardou a pistola bolter no coldre magnético com um estalo alto, balançando a cabeça em uma mistura de incredulidade e diversão sombria.
 
@@ -108,13 +108,13 @@ Alaric observou a cena com a mesma apatia clínica de antes. Ele reposicionou as
 
 Ele não sentiu afeto. Não sentiu o coração aquecer. O que ele sentiu, no entanto, foi uma mudança tátil. Através da interface espinhal de sua armadura, ele agora podia sentir uma vibração rítmica, rápida e leve, batendo contra o lado interno de seu plastrão. *Thump-thump-thump.* Um batimento cardíaco alienígena, alheio ao seu próprio, ocorrendo dentro de seu chassi.
 
-Para a mente mergulhada nos 500 Anos de Chuva, aquele pequeno motor biológico funcionando dentro dele não era uma companhia, era uma responsabilidade térmica. Um medidor de eficiência. Ele havia estabilizado o sistema. A anomalia estava contida.
+Para a mente mergulhada nos Vigília Silenciosa, aquele pequeno motor biológico funcionando dentro dele não era uma companhia, era uma responsabilidade térmica. Um medidor de eficiência. Ele havia estabilizado o sistema. A anomalia estava contida.
 
 — Manutenção concluída — murmurou Alaric para o vento vazio, sua voz ecoando metálica e fria. — Retomando vetor de marcha.
 
 Os Pilares de Noviomagus pisaram fundo na neve mais uma vez. O Lorde-Castellan voltou a caminhar pelo desfiladeiro. Mas agora, o silêncio dentro da armadura não era mais absoluto.
 
-A marcha de Alaric von Helis pelo desfiladeiro de gelo retomou seu ritmo mecânico, mas a geometria de sua existência havia sofrido uma leve alteração. Através da interface neural espetada em sua espina dorsal, o Lorde-Castellan recebia o *feedback* tátil do interior de seu próprio chassi. Ali, aninhado entre as tubulações do reator superaquecido e as placas de ceramite internas, um pequeno motor biológico pulsava. *Thump-thump-thump.* Para a mente anestesiada pelos 500 Anos de Chuva, aquele batimento acelerado não era um símbolo de esperança. Era uma anomalia em seu sistema, um "ativo térmico" que exigia monitoramento constante. Para acomodar a respiração do filhote, Alaric havia deixado uma fresta de exatos quatro centímetros na selagem do plastrão peitoral. Em termos de engenharia de cerco militar, ele havia criado uma falha estrutural deliberada no centro de sua própria massa defensiva.
+A marcha de Alaric von Helis pelo desfiladeiro de gelo retomou seu ritmo mecânico, mas a geometria de sua existência havia sofrido uma leve alteração. Através da interface neural espetada em sua espina dorsal, o Lorde-Castellan recebia o *feedback* tátil do interior de seu próprio chassi. Ali, aninhado entre as tubulações do reator superaquecido e as placas de ceramite internas, um pequeno motor biológico pulsava. *Thump-thump-thump.* Para a mente anestesiada pelos Vigília Silenciosa, aquele batimento acelerado não era um símbolo de esperança. Era uma anomalia em seu sistema, um "ativo térmico" que exigia monitoramento constante. Para acomodar a respiração do filhote, Alaric havia deixado uma fresta de exatos quatro centímetros na selagem do plastrão peitoral. Em termos de engenharia de cerco militar, ele havia criado uma falha estrutural deliberada no centro de sua própria massa defensiva.
 
 Ele não teve muito tempo para ponderar sobre a ineficiência dessa escolha.
 
@@ -176,7 +176,7 @@ Ragnar recolheu a mão, um sorriso largo quebrando suas feições selvagens.
 
 — Ele rejeitou a Presa e escolheu a Bigorna — o Space Wolf bateu no pauldron de Alaric com força amigável. — O que fará com ele, Senhor do Muro? Ele é fraco demais para a linha de frente. Um disparo de artilharia o desintegrará.
 
-Alaric olhou para baixo. A mente do Batavo, afundada nos 500 Anos de Chuva, ainda se recusava a registrar a cena como um ato de adoção ou compaixão. Para ele, o universo era um sistema de utilidade e eficiência. Se uma ferramenta havia sido salva do descarte, ela precisava de uma função. Ele escaneou o animal com o visor retiniano.
+Alaric olhou para baixo. A mente do Batavo, afundada nos Vigília Silenciosa, ainda se recusava a registrar a cena como um ato de adoção ou compaixão. Para ele, o universo era um sistema de utilidade e eficiência. Se uma ferramenta havia sido salva do descarte, ela precisava de uma função. Ele escaneou o animal com o visor retiniano.
 
 — O chassi dele é diminuto. A massa óssea não suportará blindagem pesada — analisou Alaric, a voz saindo pelo vox-caster com a mesma frieza monótona de quem lê um relatório de mineração. — Mas a assinatura térmica é baixa. A furtividade é alta. Em zonas de negação de Vox e operações de *Zone Mortalis*, minha massa é um obstáculo. Eu sou o Muro. Mas este ativo biológico pode flanquear através de dutos de ventilação. Ele será a Agulha. Um corredor de túneis.
 

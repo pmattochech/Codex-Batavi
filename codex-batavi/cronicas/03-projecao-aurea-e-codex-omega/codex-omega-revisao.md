@@ -10,13 +10,13 @@
 
 **(Data de Gravação: 050.M42 – Pós-Malakor V)** *Transcrição de áudio gravada nas horas vazias após a execução de Valerius, o Lobo de Ônix.*
 
-**I. A GEOMETRIA DA VINGANÇA** O Apotecário-Mor Drusus teorizou por décadas que a nossa biologia operava como um pêndulo. Que oscilávamos horizontalmente entre a Fera (*Monção*) para sobreviver à força bruta, e a Máquina (*Estiagem*) para sobreviver ao horror psíquico e à entropia. Eu construí toda a minha doutrina de comando sobre essa dualidade matemática. Eu estava errado.
+**I. A GEOMETRIA DA VINGANÇA** O Apotecário-Mor Drusus teorizou por décadas que a nossa biologia operava como um pêndulo. Que oscilávamos horizontalmente entre a Fera (*Jagd*) para sobreviver à força bruta, e a Máquina (*Ruhe*) para sobreviver ao horror psíquico e à entropia. Eu construí toda a minha doutrina de comando sobre essa dualidade matemática. Eu estava errado.
 
 Em Malakor V, diante da traição abjeta do meu próprio sangue, descobri que o nosso mapa interno estava incorreto. Quando pousei na fortaleza de sílica negra e vi os estandartes profanados da Matilha do Eclipse, não senti a necessidade orgânica de me tornar uma besta atávica, nem o desligamento frígido da máquina. O que senti foi uma Ascensão Vertical.
 
-O vetor não se moveu para os lados. Ele subiu. Minha semente genética quimérica não reconheceu Valerius como um inimigo tático ou como um predador rival. Ela o reconheceu puramente como um Erro Sistêmico. A função primária do sangue que corre em minhas veias é a correção de erros. Chamaremos este terceiro estado de *A Tormenta*.
+O vetor não se moveu para os lados. Ele subiu. Minha semente genética quimérica não reconheceu Valerius como um inimigo tático ou como um predador rival. Ela o reconheceu puramente como um Erro Sistêmico. A função primária do sangue que corre em minhas veias é a correção de erros. Chamaremos este terceiro estado de *A Blutrecht*.
 
-**II. O ESTADO DO JUIZ** Não houve o "nevoeiro vermelho" da *Monção*. Meus pensamentos estavam cristalinos, afiados como obsidiana. Meus batimentos cardíacos duplos não aceleraram; eles se sincronizaram com o ritmo impiedoso de uma contagem regressiva.
+**II. O ESTADO DO JUIZ** Não houve o "nevoeiro vermelho" da *Jagd*. Meus pensamentos estavam cristalinos, afiados como obsidiana. Meus batimentos cardíacos duplos não aceleraram; eles se sincronizaram com o ritmo impiedoso de uma contagem regressiva.
 
 Eu não duelei com ele. Um duelo implica respeito marcial ou igualdade de direito à vida. Eu o desmontei. Quando ele golpeou com suas garras de energia corrompidas, eu não bloqueei para sobreviver; eu bloqueei usando ângulos que fraturariam a articulação dele. Eu queria que ele sentisse, em seus últimos e patéticos momentos, que a traição aos seus juramentos não o tornou mais forte. Apenas o tornou quebrável.
 
@@ -34,13 +34,13 @@ Olho para as estrelas do Império e vejo apenas planilhas de manutenção interm
 
 **ADENDO A.1: A FALÁCIA DO INVENTÁRIO (Correção de Comando)** Na entrada original acima, eu descrevi a morte de Valerius como uma "retificação de inventário". Releio essas palavras hoje, com a mente limpa, e vejo a mentira grotesca que contei a mim mesmo para não estilhaçar. Não foi burocracia tática; foi luto envenenado.
 
-A *Tormenta* não consome apenas o propósito tático; ela incinera a esperança basal de que somos algo além de armas de assassinato. Eu acreditei que, ao matar o traidor de forma clínica, eu mataria a possibilidade de traição em mim mesmo. Erro crasso. Eu apenas matei a parte de mim que sentia calor. O "Grande Silêncio" em que me enterrei por quinhentos anos não foi uma vigília estoica e honrada. Foi covardia emocional. Foi a recusa patética de um gigante em lidar com a dor de ter perdido um irmão, disfarçada sob o manto cinzento da eficiência brutal.
+A *Blutrecht* não consome apenas o propósito tático; ela incinera a esperança basal de que somos algo além de armas de assassinato. Eu acreditei que, ao matar o traidor de forma clínica, eu mataria a possibilidade de traição em mim mesmo. Erro crasso. Eu apenas matei a parte de mim que sentia calor. O "Grande Silêncio" em que me enterrei durante a Vigília Silenciosa não foi uma vigília estoica e honrada. Foi covardia emocional. Foi a recusa patética de um gigante em lidar com a dor de ter perdido um irmão, disfarçada sob o manto cinzento da eficiência brutal.
 
-**ADENDO A.2: A NATUREZA DA TORMENTA E O PONTO ZERO (Atualização Doutrinária)** A *Tormenta* é, de fato empírico, o vértice superior da nossa pirâmide genética. Mas ela é estruturalmente instável por design de Cawl. O Juiz torna-se o Carrasco, e o Carrasco, sem um herege para sangrar, torna-se rapidamente o Niilista.
+**ADENDO A.2: A NATUREZA DA TORMENTA E O PONTO ZERO (Atualização Doutrinária)** A *Blutrecht* é, de fato empírico, o vértice superior da nossa pirâmide genética. Mas ela é estruturalmente instável por design de Cawl. O Juiz torna-se o Carrasco, e o Carrasco, sem um herege para sangrar, torna-se rapidamente o Niilista.
 
-Eu passei cinco séculos sentado no escuro do meu próprio crânio porque não tinha nada na galáxia para proteger; eu tinha apenas coisas para matar. A descoberta da "Raiz" (Elara) e a integração civil com a "Matilha de Marta" me provaram que a *Tormenta* só é segura se tivermos um Jardim para o qual voltar após a tempestade passar.
+Eu passei cinco séculos sentado no escuro do meu próprio crânio porque não tinha nada na galáxia para proteger; eu tinha apenas coisas para matar. A descoberta da "Raiz" (Elara) e a integração civil com a "Matilha de Marta" me provaram que a *Blutrecht* só é segura se tivermos um Jardim para o qual voltar após a tempestade passar.
 
-O ódio justificado ao traidor deve ser milimetricamente equilibrado pelo amor àquilo que o traidor ameaça destruir. Sem esse contrapeso fundamental — sem o *Ponto Zero* de afeto humano que Elara reinstalou em minha biologia —, ascender à *Tormenta* é assinar um pacto de suicídio espiritual.
+O ódio justificado ao traidor deve ser milimetricamente equilibrado pelo amor àquilo que o traidor ameaça destruir. Sem esse contrapeso fundamental — sem o *Ponto Zero* de afeto humano que Elara reinstalou em minha biologia —, ascender à *Blutrecht* é assinar um pacto de suicídio espiritual.
 
 **ADENDO A.3: O NOVO AXIOMA (Retificação Final)** Eu escrevi, em minha arrogância depressiva, que "uma ferramenta sem uso deve ser guardada na caixa".
 

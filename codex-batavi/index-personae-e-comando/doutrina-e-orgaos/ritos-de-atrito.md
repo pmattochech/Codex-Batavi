@@ -1,12 +1,12 @@
 # OS RITOS DE ATRITO (O MISTICISMO HOMOLOGADO)
 
-A biologia de um Batavi, constantemente pressionada pela *Projeção Áurea* e pela ameaça do *Estágio Furor*, desenvolveu mecanismos de defesa subconscientes baseados nas tradições dos nativos de Aethelgard e Noviomagus. O Capítulo não condena estas práticas; ele as absorve, pois o legionário as executa mascarando-as de lógica estrita.
+A biologia de um Batavi, constantemente pressionada pela *Das Erbe* e pela ameaça do *Estágio Furor*, desenvolveu mecanismos de defesa subconscientes baseados nas tradições dos nativos de Aethelgard e Noviomagus. O Capítulo não condena estas práticas; ele as absorve, pois o legionário as executa mascarando-as de lógica estrita.
 
 ## 1\. O Voto de Civilis (O Rito da Fuligem)
 
 *Inspirado no juramento do líder Batavo da antiguidade, que se recusou a cortar o cabelo ou a barba até ver seu inimigo destruído, tingindo os fios de vermelho.*
 
-**A Prática:** Antes de uma campanha prolongada de cerco, é comum que um esquadrão de Bataves esfregue cinzas vulcânicas ou fuligem de escapamento sobre as lentes e a face de seus elmos, e recusem-se a realizar a limpeza estética daquela placa específica de ceramite até que o alvo principal da missão seja aniquilado. **A Desculpa Lógica:** Se questionado, um Batavi responderá em tom clínico: *"A fuligem adicional atua como um difusor de refração, reduzindo o brilho do visor óptico em 12% e anulando a nossa assinatura térmica perante sensores inimigos de curto alcance."* **A Realidade Visceral:** É um juramento de sangue primitivo. A sujeira no elmo é um peso psicológico, um lembrete físico e tátil da tarefa inacabada. O cérebro do Batavi ancora-se na "sujeira", utilizando-a como uma trava mental que impede a frustração do combate de evoluir para o hipermetabolismo da *Monção*.
+**A Prática:** Antes de uma campanha prolongada de cerco, é comum que um esquadrão de Bataves esfregue cinzas vulcânicas ou fuligem de escapamento sobre as lentes e a face de seus elmos, e recusem-se a realizar a limpeza estética daquela placa específica de ceramite até que o alvo principal da missão seja aniquilado. **A Desculpa Lógica:** Se questionado, um Batavi responderá em tom clínico: *"A fuligem adicional atua como um difusor de refração, reduzindo o brilho do visor óptico em 12% e anulando a nossa assinatura térmica perante sensores inimigos de curto alcance."* **A Realidade Visceral:** É um juramento de sangue primitivo. A sujeira no elmo é um peso psicológico, um lembrete físico e tátil da tarefa inacabada. O cérebro do Batavi ancora-se na "sujeira", utilizando-a como uma trava mental que impede a frustração do combate de evoluir para o hipermetabolismo da *Jagd*.
 
 ## 2\. A Trindade do Ferro (O Toque de Verificação)
 
@@ -18,9 +18,13 @@ A biologia de um Batavi, constantemente pressionada pela *Projeção Áurea* e p
 
 *Inspirado nas tradições das tribos germânicas de selar pactos de lealdade dividindo sal, e o rito romano de colocar a moeda de Caronte na boca ou consumir o "panis militaris".*
 
-**A Prática:** Antes de assumir a linha de frente de uma Parede de Escudos, os Bataves frequentemente aceitam um grão de sal grosso ou uma lasca minúscula de pão duro das mãos de um operário mortal da *Auxilia Batavorum*, colocando-o na boca antes de travar os selos herméticos do elmo. **A Desculpa Lógica:** *"Prevenção de colapso metabólico. A absorção imediata de cloreto de sódio estabiliza os níveis de eletrólitos no sangue transumano, mitigando as cãibras musculares agudas que sucedem o rebote calórico da Projeção Áurea."* **A Realidade Visceral:** É o reconhecimento mudo da fragilidade mortal. O sal queima a língua transumana. O gosto acre e simples lembra o gigante de ferro da fragilidade daqueles que estão nas costas dele. É uma âncora química e espiritual. Quando a *Estiagem* se impõe — sob a **Sombra na Distorção** de enxame em escala de invasão, não na presença solta de xenos ou cultos sem esse véu agregado —, o gosto do sal humano lembra ao Batavi que ele não é autômato de ferro, mas protetor de carne.
+**A Prática:** Antes de assumir a linha de frente de uma Parede de Escudos, os Bataves frequentemente aceitam um grão de sal grosso ou uma lasca minúscula de pão duro das mãos de um operário mortal da *Auxilia Batavorum*, colocando-o na boca antes de travar os selos herméticos do elmo. **A Desculpa Lógica:** *"Prevenção de colapso metabólico. A absorção imediata de cloreto de sódio estabiliza os níveis de eletrólitos no sangue transumano, mitigando as cãibras musculares agudas que sucedem o rebote calórico do Das Erbe."* **A Realidade Visceral:** É o reconhecimento mudo da fragilidade mortal. O sal queima a língua transumana. O gosto acre e simples lembra o gigante de ferro da fragilidade daqueles que estão nas costas dele. É uma âncora química e espiritual. Quando a *Ruhe* se impõe — sob a **Sombra na Distorção** de enxame em escala de invasão, não na presença solta de xenos ou cultos sem esse véu agregado —, o gosto do sal humano lembra ao Batavi que ele não é autômato de ferro, mas protetor de carne.
 
 ## 4\. O Passo do Raso (A Marcha da Água)
+
+*Referência — Rito Maior:* O rito funerário completo para Bataves que atingem o Estágio Execratio está documentado separadamente em **[rito-do-lobo-da-fronteira.md](rito-do-lobo-da-fronteira.md)**. Inclui o *Conclamatio*, a Pira do Ferro, o sistema de placas de identificação e a Corrente dos Nomes de Alaric.
+
+---
 
 *Inspirado na habilidade histórica e infame dos Batavos de cruzar rios profundos e pântanos mantendo a formação e a armadura completas sem se afogar.*
 
