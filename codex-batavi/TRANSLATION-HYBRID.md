@@ -24,7 +24,7 @@ This document defines **what to translate when**, not a single giant commit. Wor
 |------|--------|-----------|
 | **P0** | [`chronicles/INDEX.md`](chronicles/INDEX.md), [`codex-batavi/README.md`](README.md), hub `INDEX.md` files in each top-level folder | Navigation and discoverability |
 | **P1** | Arcs you extend most often (e.g. `chronicles/07-iron-venus/`, `11-sigma-moon/`, `12-vigilax/`, `13-apotheosis/`) | High reader and author traffic |
-| **P2** | `index-personae-e-comando/` (dossiers, doctrine, master chronology) | Reference for all writing |
+| **P2** | `personae-command-index/` (dossiers, doctrine, master chronology) | Reference for all writing |
 | **P3** | `atlas-and-topography/`, `arsenal-and-logistics/`, `relacoes-politicas/`, `lexicon-e-litanias/` | Supporting lore |
 | **P4** | `biological-encyclopedia-bestiary/` | Large, stable blocks — translate when edited or in dedicated sprints |
 | **P5** | Deferred `chronicles/` arcs (`00`–`06`, `08`–`10`) — see progress log | Migrated (body files); planned quarter-fics still unwritten |
@@ -59,9 +59,9 @@ Section **0.1** states the default language for **new and edited** Markdown. Thi
 
 | Batch | Scope | Status |
 |-------|--------|--------|
-| **P0** | Root `README.md`, `codex-batavi/README.md`, all hub `INDEX.md` files (`chronicles/`, `index-personae-e-comando/`, `atlas-and-topography/`, `arsenal-and-logistics/`, `biological-encyclopedia-bestiary/`, `lexicon-e-litanias/`, `relacoes-politicas/`) | **Done** |
+| **P0** | Root `README.md`, `codex-batavi/README.md`, all hub `INDEX.md` files (`chronicles/`, `personae-command-index/`, `atlas-and-topography/`, `arsenal-and-logistics/`, `biological-encyclopedia-bestiary/`, `lexicon-e-litanias/`, `relacoes-politicas/`) | **Done** |
 | **P1** | `chronicles/07-iron-venus/`, `11-sigma-moon/`, `12-vigilax/`, `13-apotheosis/` (prose in place; English path slugs) | **Done** |
-| **P2** | `index-personae-e-comando/` — doctrine (`doutrina-e-orgaos/`), events (`eventos-e-cronologias/`), intro/heraldry (`intro-heraldica/`), all `dossies-personagens/*.md` | **Done** (hub `INDEX.md` was P0; body files English; PT filenames unchanged) |
+| **P2** | `personae-command-index/` — doctrine (`doctrine-and-organs/`), events (`events-and-chronologies/`), intro/heraldry (`intro-and-heraldry/`), all `character-dossiers/*.md` | **Done** (hub `INDEX.md` was P0; body files English; English path slugs; legacy stubs under `index-personae-e-comando/`) |
 | **P3** | `atlas-and-topography/` (incl. `systems/`), `arsenal-and-logistics/`, `relacoes-politicas/`, `lexicon-e-litanias/` (prose in English; English path slugs) | **Done** |
 | **P4** | `biological-encyclopedia-bestiary/` (biology encyclopedia, matrices, Viggo dossier; English path slugs) | **Done** |
 | **P5** | Deferred `chronicles/` narrative: `00`–`06`, `08`–`10` (all body `.md` listed in [`chronicles/INDEX.md`](chronicles/INDEX.md) for those arcs; English path slugs) | **Done** |
@@ -72,9 +72,9 @@ Section **0.1** states the default language for **new and edited** Markdown. Thi
 
 **`codex-batavi/` Markdown prose:** Tiers **P0–P5** are migrated to **US English** where a body file existed. Terminology aligns with [`.cursorrules`](../.cursorrules) and [`GLOSSARY-EN.md`](GLOSSARY-EN.md) (**Wolf’s Curse**, **Versibar**, **Warp** / **Shadow in the Warp**, **Batav Wolf** / *Canis Batavorum*, **Thunderwolf**, **Axiom of Reason** / *Axioma Rationis*, no **DAoT** as main form in EN).
 
-**Compatibility:** `chronicles/06-era-das-chuvas` symlinks to `06-silent-vigil`. Legacy `cronicas/06-vigilia-silenciosa/silencio-era-das-chuvas.md` is a **redirect stub** to `strategium-silence.md` (see [`chronicles/INDEX.md`](chronicles/INDEX.md)).
+**Compatibility:** `chronicles/06-era-das-chuvas` symlinks to `06-silent-vigil`. Legacy `cronicas/06-vigilia-silenciosa/silencio-era-das-chuvas.md` is a **redirect stub** to `strategium-silence.md` (see [`chronicles/INDEX.md`](chronicles/INDEX.md)). Legacy `index-personae-e-comando/` paths are **redirect stubs** to [`personae-command-index/`](personae-command-index/INDEX.md).
 
-**Still not written (not a translation gap):** Planned quarter chronicles under `00-foundation-war/` (`segundo-quarto.md`, etc.) — summaries live in `guerra-da-fundacao.md` until you author those files.
+**Still not written (not a translation gap):** Planned quarter chronicles under `00-foundation-war/` (`segundo-quarto.md`, etc.) — summaries live in `foundation-war.md` until you author those files.
 
 **`forja/`:** Markdown docs, CLI help strings, and package metadata are **US English** (same repo convention as `codex-batavi/`).
 

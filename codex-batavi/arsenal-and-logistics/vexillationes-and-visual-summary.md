@@ -1,6 +1,6 @@
 # VEXILLATIONES AND VISUAL HIERARCHY
 
-*Cross-reference document for [hierarquia-militar.md](../index-personae-e-comando/doutrina-e-orgaos/hierarquia-militar.md) (§3 — macro-command, Legatus and 10th Vexillatio; §4 — frozen table).*
+*Cross-reference document for [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) (§3 — macro-command, Legatus and 10th Vexillatio; §4 — frozen table).*
 
 ---
 
@@ -17,7 +17,7 @@ The *Cohors Batavorum* fields **5,000** battle-brothers in **ten Vexillationes**
 
 ### 1.1 Internal split of the 500 (*Standard Order of Battle*, ca. 570.M42)
 
-The **500** ceiling breaks into **cohorts (200)**, **pure line**, **organic support (16)**, and, **only in the Tenth**, **five supreme posts**. Detail and Chapter totals: [hierarquia-militar.md](../index-personae-e-comando/doutrina-e-orgaos/hierarquia-militar.md) §4.3.
+The **500** ceiling breaks into **cohorts (200)**, **pure line**, **organic support (16)**, and, **only in the Tenth**, **five supreme posts**. Detail and Chapter totals: [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §4.3.
 
 #### Vexillationes **I through IX** (each)
 
@@ -48,7 +48,7 @@ The **500** ceiling breaks into **cohorts (200)**, **pure line**, **organic supp
 
 **Training:** the fifty-Marine detachments are **not** self-taught; they receive **certification modules** from **10th Vexillatio** veterans on rotation (instructors deployed from *Strategium* / anchor guard). The local Legatus keeps operational command; tactical standard and aptitude seal come from the Tenth.
 
-*Requirements to move from line and detachments into the 10th itself:* [hierarquia-militar.md](../index-personae-e-comando/doutrina-e-orgaos/hierarquia-militar.md) (§3 — Batav Wolf trial and career).
+*Requirements to move from line and detachments into the 10th itself:* [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) (§3 — Batav Wolf trial and career).
 
 ---
 

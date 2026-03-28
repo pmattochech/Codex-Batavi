@@ -268,4 +268,4 @@ And the sound, still sometimes dreamed in Serragris, of something heavy descendi
 
 ---
 
-*Cross-reference: [cronologia-mestra.md](../../index-personae-e-comando/eventos-e-cronologias/cronologia-mestra.md) — 350.M42 | The Vigilax Incident.*
+*Cross-reference: [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) — 350.M42 | The Vigilax Incident.*

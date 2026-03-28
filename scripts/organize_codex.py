@@ -56,29 +56,29 @@ def main() -> None:
 
     # --- 02 Index Personae ---
     run_split(ROOT / "02_INDEX_PERSONAE_E_COMANDO.md", tmp / "02", 8)
-    base = ROOT / "index-personae-e-comando"
+    base = ROOT / "personae-command-index"
     move_map(
         tmp / "02",
         [
-            ("codex-batavorum.md", base / "intro-heraldica"),
-            ("ficha-tecnica-o-codex-batavorum.md", base / "doutrina-e-orgaos"),
-            ("o-conselho-extendido-e-o-librarium.md", base / "doutrina-e-orgaos"),
-            ("a-cadeia-de-atrito-hierarquia-militar-da-meia-legiao.md", base / "doutrina-e-orgaos"),
-            ("os-ritos-de-atrito-o-misticismo-homologado.md", base / "doutrina-e-orgaos"),
-            ("doutrina-estrategica-geometria-de-atrito.md", base / "doutrina-e-orgaos"),
-            ("adendo-estrategico-a-pax-batavorum.md", base / "doutrina-e-orgaos"),
-            ("fichas-de-personagens.md", base / "dossies-personagens"),
-            ("wiki-dossie-capelao-varro.md", base / "dossies-personagens"),
-            ("wiki-dossie-apotecario-drusus.md", base / "dossies-personagens"),
-            ("wiki-dossie-de-personagem-a-venus-de-ferro-a-vida-de-elara-solis.md", base / "dossies-personagens"),
-            ("wiki-dossie-de-personagem-kadmos.md", base / "dossies-personagens"),
-            ("wiki-dossie-martha.md", base / "dossies-personagens"),
-            ("wiki-dossie-tobias.md", base / "dossies-personagens"),
-            ("wiki-dossie-a-ninhada-da-forja-os-filhos-de-martha.md", base / "dossies-personagens"),
-            ("wiki-dossie-de-personagem-valdric.md", base / "dossies-personagens"),
-            ("eventos-historicos.md", base / "eventos-e-cronologias"),
-            ("cronologia-mestra-o-legado-de-ferro.md", base / "eventos-e-cronologias"),
-            ("cronologia-legislativa-e-doutrinas.md", base / "eventos-e-cronologias"),
+            ("codex-batavorum.md", base / "intro-and-heraldry"),
+            ("ficha-tecnica-o-codex-batavorum.md", base / "doctrine-and-organs"),
+            ("o-conselho-extendido-e-o-librarium.md", base / "doctrine-and-organs"),
+            ("a-cadeia-de-atrito-hierarquia-militar-da-meia-legiao.md", base / "doctrine-and-organs"),
+            ("os-ritos-de-atrito-o-misticismo-homologado.md", base / "doctrine-and-organs"),
+            ("doutrina-estrategica-geometria-de-atrito.md", base / "doctrine-and-organs"),
+            ("adendo-estrategico-a-pax-batavorum.md", base / "doctrine-and-organs"),
+            ("fichas-de-personagens.md", base / "character-dossiers"),
+            ("wiki-dossie-capelao-varro.md", base / "character-dossiers"),
+            ("wiki-dossie-apotecario-drusus.md", base / "character-dossiers"),
+            ("wiki-dossie-de-personagem-a-venus-de-ferro-a-vida-de-elara-solis.md", base / "character-dossiers"),
+            ("wiki-dossie-de-personagem-kadmos.md", base / "character-dossiers"),
+            ("wiki-dossie-martha.md", base / "character-dossiers"),
+            ("wiki-dossie-tobias.md", base / "character-dossiers"),
+            ("wiki-dossie-a-ninhada-da-forja-os-filhos-de-martha.md", base / "character-dossiers"),
+            ("wiki-dossie-de-personagem-valdric.md", base / "character-dossiers"),
+            ("eventos-historicos.md", base / "events-and-chronologies"),
+            ("cronologia-mestra-o-legado-de-ferro.md", base / "events-and-chronologies"),
+            ("cronologia-legislativa-e-doutrinas.md", base / "events-and-chronologies"),
         ],
     )
 

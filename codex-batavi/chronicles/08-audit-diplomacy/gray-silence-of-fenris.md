@@ -68,4 +68,4 @@ That night, while Fenrisians slept dreaming of loud battles, Alaric von Helis st
 
 ---
 
-***Strategium* note (symbolic parallel):** *Ash* does not replace the **Batav Wolf trial** (*Canis Batavorum* in a containment chamber; see [diplomacy-aethelgard.md](diplomacy-aethelgard.md)), but **mirrors** the psychic criterion demanded of the candidate: impose **dominance** without vocal spectacle, without uncontrolled *Furor*—the “different frequency” as advantage, not flaw. *See:* [hierarquia-militar.md](../../index-personae-e-comando/doutrina-e-orgaos/hierarquia-militar.md) §3.
+***Strategium* note (symbolic parallel):** *Ash* does not replace the **Batav Wolf trial** (*Canis Batavorum* in a containment chamber; see [diplomacy-aethelgard.md](diplomacy-aethelgard.md)), but **mirrors** the psychic criterion demanded of the candidate: impose **dominance** without vocal spectacle, without uncontrolled *Furor*—the “different frequency” as advantage, not flaw. *See:* [military-hierarchy.md](../../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.

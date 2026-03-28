@@ -4,7 +4,7 @@ The **four specialty cohorts** are not units “apart” from the Half-Legion: i
 
 **Instruction:** veterans of the **10th Vexillatio** (*anchor guard*) rotate as **certified instructors** through the other nine Vexillationes, so each fifty-Marine detachment reproduces the same tactical *standard* (Silence, Shadows, Stasis, Nullity) without doctrinal fragmentation.
 
-**Path to the Tenth:** time in line + sequential service in all four specialty detachments + extreme merit + **Batav Wolf trial** (see [hierarquia-militar.md](../index-personae-e-comando/doutrina-e-orgaos/hierarquia-militar.md) §3). Narrative reading of *Canis Batavorum* and “silent wolf” symbolism: [diplomacy-aethelgard.md](../chronicles/08-audit-diplomacy/diplomacy-aethelgard.md), [gray-silence-of-fenris.md](../chronicles/08-audit-diplomacy/gray-silence-of-fenris.md).
+**Path to the Tenth:** time in line + sequential service in all four specialty detachments + extreme merit + **Batav Wolf trial** (see [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3). Narrative reading of *Canis Batavorum* and “silent wolf” symbolism: [diplomacy-aethelgard.md](../chronicles/08-audit-diplomacy/diplomacy-aethelgard.md), [gray-silence-of-fenris.md](../chronicles/08-audit-diplomacy/gray-silence-of-fenris.md).
 
 *Numeric map and summary heraldry:* [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md).
 
@@ -48,4 +48,4 @@ Another anomaly class: movement almost right but **out of phase on transition** 
 **IV. Combined employment**  
 Pattern analysis **does not replace** *Lex Imperialis* or custody for interrogation: it **selects targets**, isolates cells, and avoids mass false positives. Where the threat is purely psychic or hive-scale fleet, Chapter biology and other cohorts take different vectors; where the enemy **mimics the Imperium**, ivory is the first **triage barrier**.
 
-*Reference character (urban patrol / doctrinal calibration):* [dossie-branimir.md](../index-personae-e-comando/dossies-personagens/dossie-branimir.md).
+*Reference character (urban patrol / doctrinal calibration):* [dossier-branimir.md](../personae-command-index/character-dossiers/dossier-branimir.md).

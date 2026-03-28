@@ -6,7 +6,7 @@ Thematic structure. Immutable rules: `.cursorrules` (in this folder; symlink at 
 
 | Folder | Contents |
 |--------|-----------|
-| [index-personae-e-comando](index-personae-e-comando/INDEX.md) | Heraldry, doctrine, hierarchy, dossiers, events & chronologies |
+| [personae-command-index](personae-command-index/INDEX.md) | Heraldry, doctrine, hierarchy, dossiers, events & chronologies |
 | [chronicles](chronicles/INDEX.md) | Prose by saga / narrative arc |
 | [atlas-and-topography](atlas-and-topography/INDEX.md) | General atlas + `systems/` (per-system detail) |
 | [arsenal-and-logistics](arsenal-and-logistics/INDEX.md) | Noviomagus standard, cohorts; chassis/weapons catalogs (cross-ref. dossiers) |

@@ -2,21 +2,21 @@
 
 ## 00-foundation-war
 
-**Summary of the four quarters:** [guerra-da-fundacao.md](../index-personae-e-comando/eventos-e-cronologias/guerra-da-fundacao.md) — reference document with outcomes, key events, and established lore for all war periods. Consult before writing any chronicle in this saga.
+**Summary of the four quarters:** [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md) — reference document with outcomes, key events, and established lore for all war periods. Consult before writing any chronicle in this saga.
 
 **Chronicles written:**
 - [predator-war.md](00-foundation-war/predator-war.md) — 1st Quarter (015–022.M42): the *Venator-Alpha* Enclave, first manifestations of the Furor, the embryo of the *Axioma Rationis*, and the cost of learning to be Batavi.
 
 **Narrative chronicles — deferred (enemies and events still under revision):**
 
-The four quarters are summarized with canonical milestones in [guerra-da-fundacao.md](../index-personae-e-comando/eventos-e-cronologias/guerra-da-fundacao.md). Full narrative chronicles will be written when *Venator-Alpha* Enclave details and period-specific events are finalized.
+The four quarters are summarized with canonical milestones in [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md). Full narrative chronicles will be written when *Venator-Alpha* Enclave details and period-specific events are finalized.
 
 | Planned file | Period | Summary available in |
 |---|---|---|
-| `segundo-quarto.md` | 022–030.M42 | guerra-da-fundacao.md — Section II |
-| `o-abismo-e-o-retorno.md` | 030–037.M42 | guerra-da-fundacao.md — Section III |
-| `der-batav.md` | 037–045.M42 | guerra-da-fundacao.md — Section IV |
-| `super-dizimo-e-limes-lupus.md` | 045–048.M42 | guerra-da-fundacao.md — Section IV + pax-batavorum.md |
+| `segundo-quarto.md` | 022–030.M42 | foundation-war.md — Section II |
+| `o-abismo-e-o-retorno.md` | 030–037.M42 | foundation-war.md — Section III |
+| `der-batav.md` | 037–045.M42 | foundation-war.md — Section IV |
+| `super-dizimo-e-limes-lupus.md` | 045–048.M42 | foundation-war.md — Section IV + pax-batavorum.md |
 
 ---
 
@@ -60,7 +60,7 @@ The four quarters are summarized with canonical milestones in [guerra-da-fundaca
 - **Parapet — personal records (Drusus + Varro), frame 578.M42**
   - [record-drusus-elara.md](07-iron-venus/record-drusus-elara.md) ✅ — clinical voice; retroactive wall log + live room (*Apothecarion*); snarl, telemetry, calibrated gestures; two patients; Varro / purpose–fear; kitchen (thermal anchor, name, decibels, cortisol); growth (checkups, touch on the white sleeve, parapet, tear / Primarch recalibration); 565.M42; Tobias, antechamber (BP / pupil); Academy as load; close 578.M42.
   - [record-varro-elara.md](07-iron-venus/record-varro-elara.md) ✅ — doctrinal voice; arrival at the *Apothecarion* (snarl, *vox* to Drusus, anchoring, fear vs. purpose); Triumvirate; kitchen, name **Elara Solis**, growth beats (sleep, helm, parapet); 565.M42; Tobias; Naval Academy through reports; Malakor / close 578.M42.
-  - *Note:* records are **retrospective**, not fiction locked to a single instant; canonical Parapet / kitchen scene in [iron-venus.md](07-iron-venus/iron-venus.md). See [dossie-elara-solis.md](../index-personae-e-comando/dossies-personagens/dossie-elara-solis.md).
+  - *Note:* records are **retrospective**, not fiction locked to a single instant; canonical Parapet / kitchen scene in [iron-venus.md](07-iron-venus/iron-venus.md). See [dossier-elara-solis.md](../personae-command-index/character-dossiers/dossier-elara-solis.md).
 
 ## 08-audit-diplomacy
 - [logic-audit.md](08-audit-diplomacy/logic-audit.md)
