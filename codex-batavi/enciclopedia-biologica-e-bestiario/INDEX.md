@@ -1,13 +1,3 @@
-# Enciclopédia biológica e bestiário
+# Redirect: `enciclopedia-biologica-e-bestiario`
 
-## Biologia do Capítulo
-- [projecao-aurea-e-maldicao-do-lobo.md](projecao-aurea-e-maldicao-do-lobo.md)
-- [reliquia-viggo.md](reliquia-viggo.md)
-
-## Ecologia do subsetor (atlas → enciclopédia)
-- [matriz-biogeografica-bastiao-central.md](matriz-biogeografica-bastiao-central.md)
-- [matriz-biogeografica-cadinho.md](matriz-biogeografica-cadinho.md)
-- [matriz-biogeografica-limiar.md](matriz-biogeografica-limiar.md)
-- [fauna-flora-e-especimes-nomeados.md](fauna-flora-e-especimes-nomeados.md)
-
-*Geografia e topografia narrativa:* [`../atlas-and-topography/INDEX.md`](../atlas-and-topography/INDEX.md)
+This hub moved to [`../biological-encyclopedia-bestiary/INDEX.md`](../biological-encyclopedia-bestiary/INDEX.md).

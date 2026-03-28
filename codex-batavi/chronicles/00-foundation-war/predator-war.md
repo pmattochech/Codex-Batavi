@@ -3,7 +3,7 @@
 **Classification:** Foundation Archive — Unrestricted Chapter Access  
 **Period:** 015.M42 – 023.M42 (First Quarter of the Foundation War)  
 **Narrator:** Chief Apothecary Drusus — Retrospective record, compiled ca. 048.M42  
-**Cross-references:** [cronologia-mestra.md](../../index-personae-e-comando/eventos-e-cronologias/cronologia-mestra.md) | [projecao-aurea-e-maldicao-do-lobo.md](../../enciclopedia-biologica-e-bestiario/projecao-aurea-e-maldicao-do-lobo.md)
+**Cross-references:** [cronologia-mestra.md](../../index-personae-e-comando/eventos-e-cronologias/cronologia-mestra.md) | [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)
 
 ---
 

@@ -37,7 +37,7 @@ Ultra-congested sublight corridors with continuous tithe traffic, escorts, and i
 * **Bator-Tertius [NEW]**
 
 #### 5. Biogeographic matrix (Central Bastion)
-*Canonical entry (flora / fauna / risk by body):* [`../enciclopedia-biologica-e-bestiario/matriz-biogeografica-bastiao-central.md`](../enciclopedia-biologica-e-bestiario/matriz-biogeografica-bastiao-central.md) · *Named specimens:* [`../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md`](../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md)
+*Canonical entry (flora / fauna / risk by body):* [`../biological-encyclopedia-bestiary/biogeographic-matrix-central-bastion.md`](../biological-encyclopedia-bestiary/biogeographic-matrix-central-bastion.md) · *Named specimens:* [`../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md`](../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md)
 
 ### SYSTEM II: THE CRUCIBLE (Trinity of Gravitational Chaos)
 
@@ -67,7 +67,7 @@ Ultra-congested sublight corridors with continuous tithe traffic, escorts, and i
 * **Solaris-Alpha**
 
 #### 6. Biogeographic matrix (Crucible)
-*Canonical entry:* [`../enciclopedia-biologica-e-bestiario/matriz-biogeografica-cadinho.md`](../enciclopedia-biologica-e-bestiario/matriz-biogeografica-cadinho.md) · *Named specimens:* [`../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md`](../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md)
+*Canonical entry:* [`../biological-encyclopedia-bestiary/biogeographic-matrix-crucible.md`](../biological-encyclopedia-bestiary/biogeographic-matrix-crucible.md) · *Named specimens:* [`../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md`](../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md)
 
 ### SYSTEM III: THE THRESHOLD (Terminal Trinity)
 
@@ -97,7 +97,7 @@ Ultra-congested sublight corridors with continuous tithe traffic, escorts, and i
 * **Vigil-Secundus [NEW INSERTION]**
 
 #### 6. Biogeographic matrix (Threshold)
-*Canonical entry:* [`../enciclopedia-biologica-e-bestiario/matriz-biogeografica-limiar.md`](../enciclopedia-biologica-e-bestiario/matriz-biogeografica-limiar.md) · *Named specimens:* [`../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md`](../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md)
+*Canonical entry:* [`../biological-encyclopedia-bestiary/biogeographic-matrix-threshold.md`](../biological-encyclopedia-bestiary/biogeographic-matrix-threshold.md) · *Named specimens:* [`../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md`](../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md)
 
 ## Detailed files
 

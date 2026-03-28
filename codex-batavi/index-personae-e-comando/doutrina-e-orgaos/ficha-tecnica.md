@@ -21,7 +21,7 @@
 
 ## 3\. A BIOLOGIA: A PROJEÇÃO ÁUREA E A MALDIÇÃO
 
-O Capítulo opera sob uma distinção biológica rígida entre "Ferramenta" (Uso Tático) e "Falha" (Degeneração). Ver: [projecao-aurea-e-maldicao-do-lobo.md](../../enciclopedia-biologica-e-bestiario/projecao-aurea-e-maldicao-do-lobo.md).
+O Capítulo opera sob uma distinção biológica rígida entre "Ferramenta" (Uso Tático) e "Falha" (Degeneração). Ver: [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md).
 
 ## 4\. A FORJA DA FERRAMENTA
 

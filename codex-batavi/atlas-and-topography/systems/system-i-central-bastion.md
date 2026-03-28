@@ -40,4 +40,4 @@ The gravity well traps dozens of minor bodies, shattered or forged to strict uti
 
 ### 5\. BIOGEOGRAPHIC MATRIX (Central Bastion)
 
-*Canonical matrix (flora, fauna, risk by body):* [`../../enciclopedia-biologica-e-bestiario/matriz-biogeografica-bastiao-central.md`](../../enciclopedia-biologica-e-bestiario/matriz-biogeografica-bastiao-central.md). *Named specimens:* [`fauna-flora-e-especimes-nomeados.md`](../../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md).
+*Canonical matrix (flora, fauna, risk by body):* [`../../biological-encyclopedia-bestiary/biogeographic-matrix-central-bastion.md`](../../biological-encyclopedia-bestiary/biogeographic-matrix-central-bastion.md). *Named specimens:* [`fauna-flora-named-specimens.md`](../../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md).

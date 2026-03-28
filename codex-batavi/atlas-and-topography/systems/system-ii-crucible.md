@@ -48,4 +48,4 @@ Crossing this system without triggering ship destruction means threading two ino
 
 ### 6\. BIOGEOGRAPHIC MATRIX (The Crucible)
 
-*Canonical matrix:* [`../../enciclopedia-biologica-e-bestiario/matriz-biogeografica-cadinho.md`](../../enciclopedia-biologica-e-bestiario/matriz-biogeografica-cadinho.md). *Named specimens (e.g. Tyrannus Lutum, iron fungi):* [`fauna-flora-e-especimes-nomeados.md`](../../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md).
+*Canonical matrix:* [`../../biological-encyclopedia-bestiary/biogeographic-matrix-crucible.md`](../../biological-encyclopedia-bestiary/biogeographic-matrix-crucible.md). *Named specimens (e.g. Tyrannus Lutum, iron fungi):* [`fauna-flora-named-specimens.md`](../../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md).

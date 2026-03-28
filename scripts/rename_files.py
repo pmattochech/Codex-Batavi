@@ -75,7 +75,7 @@ RENAMES: list[tuple[str, str]] = [
     ("arsenal-and-logistics/coorte-das-falanges-e-resumo-visual.md", "vexillationes-and-visual-summary.md"),
 
     # ── enciclopédia ───────────────────────────────────────────────────────
-    ("enciclopedia-biologica-e-bestiario/wiki-reliquia-biologica-viggo.md", "reliquia-viggo.md"),
+    ("biological-encyclopedia-bestiary/wiki-reliquia-biologica-viggo.md", "viggo-relic.md"),
 
     # ── relações políticas ─────────────────────────────────────────────────
     ("relacoes-politicas/README.md",  "relacoes-politicas.md"),

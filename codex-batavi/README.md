@@ -10,7 +10,7 @@ Thematic structure. Immutable rules: `.cursorrules` (in this folder; symlink at 
 | [chronicles](chronicles/INDEX.md) | Prose by saga / narrative arc |
 | [atlas-and-topography](atlas-and-topography/INDEX.md) | General atlas + `systems/` (per-system detail) |
 | [arsenal-and-logistics](arsenal-and-logistics/INDEX.md) | Noviomagus standard, cohorts; chassis/weapons catalogs (cross-ref. dossiers) |
-| [enciclopedia-biologica-e-bestiario](enciclopedia-biologica-e-bestiario/INDEX.md) | *Das Erbe*, Wolf’s Curse, biogeographic matrices, named specimens, Viggo |
+| [biological-encyclopedia-bestiary](biological-encyclopedia-bestiary/INDEX.md) | *Das Erbe*, Wolf’s Curse, biogeographic matrices, named specimens, Viggo |
 | [lexicon-e-litanias](lexicon-e-litanias/INDEX.md) | Der Batav myth, operational philosophy |
 | [relacoes-politicas](relacoes-politicas/INDEX.md) | Ecclesiarchy, Inquisition, Lex Imperialis |
 

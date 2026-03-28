@@ -1,7 +1,7 @@
 # [WIKI] O MITO DE DER BATAV E A FUNDAÇÃO DA COHORS BATAVORUM
 
 **Classificação:** Léxico e Litanias — Mito Fundador / Identidade do Capítulo  
-**Referências cruzadas:** [fauna-flora-e-especimes-nomeados.md](../enciclopedia-biologica-e-bestiario/fauna-flora-e-especimes-nomeados.md) | [guerra-da-fundacao.md](../index-personae-e-comando/eventos-e-cronologias/guerra-da-fundacao.md) | [intro-e-heraldica.md](../index-personae-e-comando/intro-heraldica/intro-e-heraldica.md) | [mentalidade-e-filosofia.md](mentalidade-e-filosofia.md)
+**Referências cruzadas:** [fauna-flora-named-specimens.md](../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md) | [guerra-da-fundacao.md](../index-personae-e-comando/eventos-e-cronologias/guerra-da-fundacao.md) | [intro-e-heraldica.md](../index-personae-e-comando/intro-heraldica/intro-e-heraldica.md) | [mentalidade-e-filosofia.md](mentalidade-e-filosofia.md)
 
 ---
 

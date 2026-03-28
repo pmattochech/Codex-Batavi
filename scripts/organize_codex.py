@@ -132,14 +132,14 @@ def main() -> None:
     for i, name in enumerate(names):
         (arsenal / name).write_text("".join(a_lines[bounds[i] : bounds[i + 1]]), encoding="utf-8")
 
-    bio = ROOT / "enciclopedia-biologica-e-bestiario"
+    bio = ROOT / "biological-encyclopedia-bestiary"
     bio.mkdir(parents=True, exist_ok=True)
     btext = (ROOT / "06_ENCICLOPEDIA_BIOLOGICA_E_BESTIARIO.md").read_text(encoding="utf-8")
     # Fonte usa título com colchetes escapados para Markdown
     sep2 = r"# \[WIKI\] DOSSIÊ DE RELÍQUIA BIOLÓGICA: VIGGO"
     if sep2 in btext:
         a, _, rest = btext.partition(sep2)
-        (bio / "projecao-aurea-e-maldicao-do-lobo.md").write_text(a.rstrip() + "\n", encoding="utf-8")
+        (bio / "projection-aurea-wolfs-curse.md").write_text(a.rstrip() + "\n", encoding="utf-8")
         (bio / "wiki-reliquia-biologica-viggo.md").write_text(sep2 + rest, encoding="utf-8")
     else:
         shutil.copy(ROOT / "06_ENCICLOPEDIA_BIOLOGICA_E_BESTIARIO.md", bio / "enciclopedia-completa.md")

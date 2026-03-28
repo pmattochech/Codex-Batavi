@@ -26,7 +26,7 @@ This document defines **what to translate when**, not a single giant commit. Wor
 | **P1** | Arcs you extend most often (e.g. `chronicles/07-iron-venus/`, `11-sigma-moon/`, `12-vigilax/`, `13-apotheosis/`) | High reader and author traffic |
 | **P2** | `index-personae-e-comando/` (dossiers, doctrine, master chronology) | Reference for all writing |
 | **P3** | `atlas-and-topography/`, `arsenal-and-logistics/`, `relacoes-politicas/`, `lexicon-e-litanias/` | Supporting lore |
-| **P4** | `enciclopedia-biologica-e-bestiario/` | Large, stable blocks — translate when edited or in dedicated sprints |
+| **P4** | `biological-encyclopedia-bestiary/` | Large, stable blocks — translate when edited or in dedicated sprints |
 | **P5** | Deferred `chronicles/` arcs (`00`–`06`, `08`–`10`) — see progress log | Migrated (body files); planned quarter-fics still unwritten |
 
 ---
@@ -59,11 +59,11 @@ Section **0.1** states the default language for **new and edited** Markdown. Thi
 
 | Batch | Scope | Status |
 |-------|--------|--------|
-| **P0** | Root `README.md`, `codex-batavi/README.md`, all hub `INDEX.md` files (`chronicles/`, `index-personae-e-comando/`, `atlas-and-topography/`, `arsenal-and-logistics/`, `enciclopedia-biologica-e-bestiario/`, `lexicon-e-litanias/`, `relacoes-politicas/`) | **Done** |
+| **P0** | Root `README.md`, `codex-batavi/README.md`, all hub `INDEX.md` files (`chronicles/`, `index-personae-e-comando/`, `atlas-and-topography/`, `arsenal-and-logistics/`, `biological-encyclopedia-bestiary/`, `lexicon-e-litanias/`, `relacoes-politicas/`) | **Done** |
 | **P1** | `chronicles/07-iron-venus/`, `11-sigma-moon/`, `12-vigilax/`, `13-apotheosis/` (prose in place; English path slugs) | **Done** |
 | **P2** | `index-personae-e-comando/` — doctrine (`doutrina-e-orgaos/`), events (`eventos-e-cronologias/`), intro/heraldry (`intro-heraldica/`), all `dossies-personagens/*.md` | **Done** (hub `INDEX.md` was P0; body files English; PT filenames unchanged) |
 | **P3** | `atlas-and-topography/` (incl. `systems/`), `arsenal-and-logistics/`, `relacoes-politicas/`, `lexicon-e-litanias/` (prose in English; English path slugs) | **Done** |
-| **P4** | `enciclopedia-biologica-e-bestiario/` (biology encyclopedia, matrices, Viggo dossier; filenames unchanged) | **Done** |
+| **P4** | `biological-encyclopedia-bestiary/` (biology encyclopedia, matrices, Viggo dossier; English path slugs) | **Done** |
 | **P5** | Deferred `chronicles/` narrative: `00`–`06`, `08`–`10` (all body `.md` listed in [`chronicles/INDEX.md`](chronicles/INDEX.md) for those arcs; English path slugs) | **Done** |
 
 ---
