@@ -2,7 +2,7 @@
 
 Protocolo Doutrinário — Classificação: Uso Interno / Triunvirato e Vexillationes
 
-*Referência cruzada: [ritos-de-atrito.md](ritos-de-atrito.md) § Rito Maior | [projecao-aurea-e-maldicao-do-lobo.md](../../enciclopedia-biologica-e-bestiario/projecao-aurea-e-maldicao-do-lobo.md) § Estágio Execratio | [campanha-incus-gravis.md](../../cronicas/04-incus-gravis-e-tribunal/campanha-incus-gravis.md) — registro primário*
+*Referência cruzada: [ritos-de-atrito.md](ritos-de-atrito.md) § Rito Maior | [projecao-aurea-e-maldicao-do-lobo.md](../../enciclopedia-biologica-e-bestiario/projecao-aurea-e-maldicao-do-lobo.md) § Estágio Execratio | [incus-gravis-campaign.md](../../chronicles/04-incus-gravis-tribunal/incus-gravis-campaign.md) — registro primário*
 
 ---
 

@@ -7,7 +7,7 @@ Thematic structure. Immutable rules: `.cursorrules` (in this folder; symlink at 
 | Folder | Contents |
 |--------|-----------|
 | [index-personae-e-comando](index-personae-e-comando/INDEX.md) | Heraldry, doctrine, hierarchy, dossiers, events & chronologies |
-| [cronicas](cronicas/INDEX.md) | Prose by saga / narrative arc |
+| [chronicles](chronicles/INDEX.md) | Prose by saga / narrative arc |
 | [atlas-and-topography](atlas-and-topography/INDEX.md) | General atlas + `systems/` (per-system detail) |
 | [arsenal-and-logistics](arsenal-and-logistics/INDEX.md) | Noviomagus standard, cohorts; chassis/weapons catalogs (cross-ref. dossiers) |
 | [enciclopedia-biologica-e-bestiario](enciclopedia-biologica-e-bestiario/INDEX.md) | *Das Erbe*, Wolf’s Curse, biogeographic matrices, named specimens, Viggo |

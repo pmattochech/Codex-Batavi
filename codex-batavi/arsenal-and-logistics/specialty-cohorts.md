@@ -4,7 +4,7 @@ The **four specialty cohorts** are not units “apart” from the Half-Legion: i
 
 **Instruction:** veterans of the **10th Vexillatio** (*anchor guard*) rotate as **certified instructors** through the other nine Vexillationes, so each fifty-Marine detachment reproduces the same tactical *standard* (Silence, Shadows, Stasis, Nullity) without doctrinal fragmentation.
 
-**Path to the Tenth:** time in line + sequential service in all four specialty detachments + extreme merit + **Batav Wolf trial** (see [hierarquia-militar.md](../index-personae-e-comando/doutrina-e-orgaos/hierarquia-militar.md) §3). Narrative reading of *Canis Batavorum* and “silent wolf” symbolism: [diplomacia-aethelgard.md](../cronicas/08-auditoria-e-diplomacia/diplomacia-aethelgard.md), [cinza-silencio-de-fenris.md](../cronicas/08-auditoria-e-diplomacia/cinza-silencio-de-fenris.md).
+**Path to the Tenth:** time in line + sequential service in all four specialty detachments + extreme merit + **Batav Wolf trial** (see [hierarquia-militar.md](../index-personae-e-comando/doutrina-e-orgaos/hierarquia-militar.md) §3). Narrative reading of *Canis Batavorum* and “silent wolf” symbolism: [diplomacy-aethelgard.md](../chronicles/08-audit-diplomacy/diplomacy-aethelgard.md), [gray-silence-of-fenris.md](../chronicles/08-audit-diplomacy/gray-silence-of-fenris.md).
 
 *Numeric map and summary heraldry:* [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md).
 

@@ -4,7 +4,7 @@
 **Inimigo:** Enclave *Venator-Alpha* (Espécie xenos caçadora — táticas de emboscada e terror, sem padrão previsto pelo *Codex Astartes*)  
 **Teatros:** Selvas e pântanos de Aethelgard Prime; colmeias e túneis de Incus-Gravis  
 **Status:** Vitória Total — Fundação da Doutrina Batavi  
-**Referências narrativas:** [guerra-dos-predadores.md](../../cronicas/00-guerra-da-fundacao/guerra-dos-predadores.md) (1º Quarto, crônica completa) | [mito-de-der-batav-e-fundacao.md](../../lexicon-e-litanias/mito-de-der-batav-e-fundacao.md) | [pax-batavorum.md](../doutrina-e-orgaos/pax-batavorum.md)
+**Referências narrativas:** [predator-war.md](../../chronicles/00-foundation-war/predator-war.md) (1º Quarto, crônica completa) | [mito-de-der-batav-e-fundacao.md](../../lexicon-e-litanias/mito-de-der-batav-e-fundacao.md) | [pax-batavorum.md](../doutrina-e-orgaos/pax-batavorum.md)
 
 ---
 

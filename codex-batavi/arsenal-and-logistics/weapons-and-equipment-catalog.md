@@ -23,13 +23,13 @@ Cross-reference for armament cited outside the arsenal. Full narrative specifica
 |-------------|--------|-------|----------|
 | ***Absolution* bolt pistol** | Varro | Heavy drum; single shots (“sentence”). | [dossie-varro.md](../index-personae-e-comando/dossies-personagens/dossie-varro.md) §4 |
 | ***Morkai’s Bite*** | Alaric (gift from Logan Grimnar) | Great Wolf’s axe; one-handed use; Kraken / true ice. | [dossie-alaric.md](../index-personae-e-comando/dossies-personagens/dossie-alaric.md) §5 |
-| **Bolt pistol** (diplomatic scene) | Ragnar Blackmane | Narrative use (mercy to the *runt*). | [saga-viggo.md](../cronicas/05-saga-viggo/saga-viggo.md) |
+| **Bolt pistol** (diplomatic scene) | Ragnar Blackmane | Narrative use (mercy to the *runt*). | [viggo-saga.md](../chronicles/05-viggo-saga/viggo-saga.md) |
 
 ## Field tactical designations (operational metaphor)
 
 | Term | Meaning | Where it appears |
 |------|---------|------------------|
-| **Pillars of Noviomagus** | Boots / traction claws — ground anchoring | Chronicles, [saga-viggo.md](../cronicas/05-saga-viggo/saga-viggo.md) |
+| **Pillars of Noviomagus** | Boots / traction claws — ground anchoring | Chronicles, [viggo-saga.md](../chronicles/05-viggo-saga/viggo-saga.md) |
 | **Father’s Hand** / **Sentence Hand** | Left / right gauntlet (Alaric combat doctrine) | [dossie-alaric.md](../index-personae-e-comando/dossies-personagens/dossie-alaric.md), chronicles |
 
 ## Related
