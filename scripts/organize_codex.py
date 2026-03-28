@@ -152,7 +152,7 @@ def main() -> None:
     (lex / "der-batav-myth-foundation.md").write_text("".join(lx[:split_at]).rstrip() + "\n", encoding="utf-8")
     (lex / "mentality-and-philosophy.md").write_text("".join(lx[split_at:]), encoding="utf-8")
 
-    pol = ROOT / "relacoes-politicas"
+    pol = ROOT / "political-relations"
     pol.mkdir(parents=True, exist_ok=True)
     p_lines = (ROOT / "08_RELACOES_POLITICAS.md").read_text(encoding="utf-8").splitlines(keepends=True)
     # H2 sections
@@ -162,10 +162,10 @@ def main() -> None:
         end = idxs[j + 1] if j + 1 < len(idxs) else len(p_lines)
         chunks_p.append(p_lines[start:end])
     pol_titles = [
-        "README.md",
-        "eclesiarquia-na-fronteira.md",
-        "geometria-da-inquisicao.md",
-        "lex-imperialis-e-justica-de-ferro.md",
+        "border-political-relations.md",
+        "ecclesiarchy-on-the-frontier.md",
+        "inquisition-geometry.md",
+        "lex-imperialis-iron-justice.md",
     ]
     for name, chunk in zip(pol_titles, chunks_p):
         (pol / name).write_text("".join(chunk), encoding="utf-8")

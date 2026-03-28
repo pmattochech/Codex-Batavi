@@ -17,4 +17,4 @@
 | **Biofilmes de casco / de radiação** | Microbiota | Órbita e cascos — Limiar e satélites do Bastião. |
 
 ### Patologias e síndromes ambientais
-* **Peste Branca** — deficiência de luz / vitamina D em habs subterrâneos (Incus-Gravis Secundus); tratamento espiritual-médico local descrito em [eclesiarquia na fronteira](../relacoes-politicas/eclesiarquia-na-fronteira.md).
+* **Peste Branca** — deficiência de luz / vitamina D em habs subterrâneos (Incus-Gravis Secundus); tratamento espiritual-médico local descrito em [Ecclesiarchy on the frontier](../political-relations/ecclesiarchy-on-the-frontier.md).

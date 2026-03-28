@@ -1,0 +1,23 @@
+## WIKI: INQUISITION GEOMETRY (RELATIONS WITH THE ORDOS)
+
+Where other Astartes Chapters answer the Inquisition with wounded pride or blind submission, the *Cohors Batavorum* treats Inquisitors as risk variables in a survival equation. The Chapter’s relation to the Holy Ordos is defined by cold bureaucratic war, mathematical containment limits, and absolute refusal to tolerate wasted human life.
+
+The lethal nature of *Das Erbe* and **Versibar** mutation always kept the Chapter in puritan crosshairs. During the Silent Vigil (050.M42 – 550.M42), Inquisitor Vane repeatedly tried to audit and annihilate the Batavi for genetic heresy. He failed because Alaric von Helis armored the Chapter with pure mathematics. Through the **super-tithe** (*Exactus Extremis*), Noviomagus voluntarily delivers 15% more war materiel than required. The Imperial Administratum calculated that snuffing Noviomagus would collapse sector logistics, forcing the Inquisition to stand down. The Chapter buys its immunity with industrial efficiency.
+
+To disarm Inquisitorial paranoia about isolationism, Alaric drafted three protocols that impose consented limits on the Chapter itself:
+
+* ***Limes Lupus* Treaty (The Iron Collar):** Alaric agreed to surrender privacy in exchange for absolute jurisdiction on the frontier, allowing perpetual watch by an Adeptus Custodes (Shield-Captain Tyvar). This guarantee of “personal *Exterminatus*” reassures the Ordos.  
+* **Hierarchical transparency policy:** Instead of hiding its worst nightmares — brothers degenerated to Stage 3 (**Versibars**) — Alaric opened abyssal cells to Inquisition and high Judges’ audits. By proving the monsters are cataloged, caged, and contained by tactical doctrine, he turned “heretic sorcery” into prison compliance.  
+* **Witness clause:** In joint operations with other Chapters, the Batavi demand an Inquisitorial auditor. The Wall insists the Imperium record its sterile utility, killing whispered conspiracy.
+
+In Castra Vetera jurisdiction, Ordo Hereticus and minor Ordos members enjoy absolute physical protection. If an Inquisitor is marked for murder by cults or enemies, the Nine Phalanx guarantees survival at any cost.
+
+Yet that aegis carries a lethal caveat. The Chapter abhors vanity. If an Inquisitor shows the slightest sign of corruption or “blind ego” — the heretical need to prove himself right to stroke pride instead of seeking truth — his utility is voided. At the first sign of that failure (the same flaw that corrupted Horus), the Inquisitor is intercepted and taken into *Reclusiam*’s depths. There Master Chaplain Varro tests the foundation of his faith. If the Inquisitor fails, he is not executed; Varro performs psychological dismantlement in the dark that crushes the individual’s ego. The Inquisitor is returned to the Ordos a stammering, humiliated shell.
+
+The Batavi repudiate fundamentalists such as Lord Inquisitor Karamazov (who preaches that *“innocence proves nothing”*). For Alaric and Varro, injustice and false accusation are crimes of supreme inefficiency that waste the “Root” (civilian biomass) the Wall must protect.
+
+To avoid useless purges, Varro demands to take part personally in frontier interrogations. His presence is meant to unnerve the Inquisitorial accuser and ensure punishment falls only on the guilty. If an Inquisitor condemns an innocent by method failure, the Triumvirate intervenes in person: they purge the true target with documented annihilating efficiency, only to rub the Inquisitor’s pathetic incompetence in his peers’ faces.
+
+Citizens or local bureaucrats who invent false heresies suffer a worse fate. They are handed to Master of the Forge Kadmos for the **Awakened Servitor** protocol. Their limbs are amputated and they are forged into heavy exhaustion servitors, but **without** lobotomy. Consciousness stays intact to contemplate the weight of their lies, monitored at close range by Varro’s red lenses so extreme pain spawns no heretical anomaly in the **Warp**.
+
+The Inquisition is also a tool for the Triumvirate. When Malakor Majoris’ aristocracy committed genetic heresy, Alaric did not declare rebel war. The Shadows Cohort infiltrated, gathered proof, and delivered it to Inquisitor Vane. In a fully legalized operation, the Inquisitor excommunicated the nobles, and the Batavi stormed the palaces as the Inquisition’s own hammer, turning aristocrats into mechanical serfs. On the sector rim, as at *Obsidian-Void*, governance is actively shared. At *Abyssal-Anchor* fortress, the 4th Company holds physical space while the Inquisition keeps sealed offices to interrogate anomalies dragged from the shadows. A symbiosis of friction and intelligence.

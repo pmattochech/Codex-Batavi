@@ -77,8 +77,8 @@ RENAMES: list[tuple[str, str]] = [
     # ── enciclopédia ───────────────────────────────────────────────────────
     ("biological-encyclopedia-bestiary/wiki-reliquia-biologica-viggo.md", "viggo-relic.md"),
 
-    # ── relações políticas ─────────────────────────────────────────────────
-    ("relacoes-politicas/README.md",  "relacoes-politicas.md"),
+    # ── political relations (canonical: political-relations/ + English slugs) ──
+    ("political-relations/README.md", "border-political-relations.md"),
 ]
 
 

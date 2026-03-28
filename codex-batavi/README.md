@@ -12,6 +12,6 @@ Thematic structure. Immutable rules: `.cursorrules` (in this folder; symlink at 
 | [arsenal-and-logistics](arsenal-and-logistics/INDEX.md) | Noviomagus standard, cohorts; chassis/weapons catalogs (cross-ref. dossiers) |
 | [biological-encyclopedia-bestiary](biological-encyclopedia-bestiary/INDEX.md) | *Das Erbe*, Wolf’s Curse, biogeographic matrices, named specimens, Viggo |
 | [lexicon-and-litanies](lexicon-and-litanies/INDEX.md) | Der Batav myth, operational philosophy |
-| [relacoes-politicas](relacoes-politicas/INDEX.md) | Ecclesiarchy, Inquisition, Lex Imperialis |
+| [political-relations](political-relations/INDEX.md) | Ecclesiarchy, Inquisition, Lex Imperialis |
 
 **Maintenance:** automatic split from legacy monoliths — `../scripts/split_codex_markdown.py` and `../scripts/organize_codex.py` (the latter expects files `02_…`–`08_…` **in this** `codex-batavi/` folder; do not rerun without restoring sources).
