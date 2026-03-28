@@ -10,7 +10,7 @@ The *Cohors Batavorum* fields **5,000** battle-brothers in **ten Vexillationes**
 
 | # | Designation | Anchor / employment | Command |
 |---|------------|---------------------|---------|
-| **I through IX** | *Vexillatio Prima* … *Nona* (*Strategium* register) | Each of the **nine super-systems** of the **Nine Phalanx** (3×3 mesh; see [atlas-geral.md](../atlas-e-topografia/atlas-geral.md)) | **Legatus** (*Elder-Master*), bearer of the *Alabarda Vexillum* |
+| **I through IX** | *Vexillatio Prima* … *Nona* (*Strategium* register) | Each of the **nine super-systems** of the **Nine Phalanx** (3×3 mesh; see [general-atlas.md](../atlas-and-topography/general-atlas.md)) | **Legatus** (*Elder-Master*), bearer of the *Alabarda Vexillum* |
 | **X** | *Vexillatio Decima* — **anchor guard** | Mobile; lethal escort to the Lord Castellan | Direct subordination to the **Triumvirate** / tactical **liaison** on Alaric’s frequency |
 
 **Terminology note:** **Nine Phalanx** names the **geographic block** of nine systems (administrative toponym), **not** a combat unit. The combat unit of 500 is always **Vexillatio**.

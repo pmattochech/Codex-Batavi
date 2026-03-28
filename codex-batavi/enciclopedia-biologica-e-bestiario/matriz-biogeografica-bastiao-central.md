@@ -1,6 +1,6 @@
 # Matriz biogeográfica — Sistema I (Bastião Central)
 
-*Entrada canónica de flora, fauna e risco por corpo celeste. O atlas narrativo completo permanece em [`../atlas-e-topografia/sistemas/sistema-i-bastiao-central.md`](../atlas-e-topografia/sistemas/sistema-i-bastiao-central.md).*
+*Entrada canónica de flora, fauna e risco por corpo celeste. O atlas narrativo completo permanece em [`../atlas-and-topography/systems/system-i-central-bastion.md`](../atlas-and-topography/systems/system-i-central-bastion.md).*
 
 ## Corpos habitáveis e satélites principais
 

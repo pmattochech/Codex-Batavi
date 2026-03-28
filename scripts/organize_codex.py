@@ -171,8 +171,8 @@ def main() -> None:
         (pol / name).write_text("".join(chunk), encoding="utf-8")
 
     # Atlas tree
-    atlas = ROOT / "atlas-e-topografia"
-    sys_m = atlas / "sistemas"
+    atlas = ROOT / "atlas-and-topography"
+    sys_m = atlas / "systems"
     atlas.mkdir(parents=True, exist_ok=True)
     sys_m.mkdir(parents=True, exist_ok=True)
     shutil.move(str(ROOT / "04_ATLAS_E_TOPOGRAFIA.md"), str(atlas / "ATLAS_E_TOPOGRAFIA.md"))

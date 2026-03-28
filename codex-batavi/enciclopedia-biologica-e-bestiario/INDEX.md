@@ -10,4 +10,4 @@
 - [matriz-biogeografica-limiar.md](matriz-biogeografica-limiar.md)
 - [fauna-flora-e-especimes-nomeados.md](fauna-flora-e-especimes-nomeados.md)
 
-*Geografia e topografia narrativa:* [`../atlas-e-topografia/INDEX.md`](../atlas-e-topografia/INDEX.md)
+*Geografia e topografia narrativa:* [`../atlas-and-topography/INDEX.md`](../atlas-and-topography/INDEX.md)

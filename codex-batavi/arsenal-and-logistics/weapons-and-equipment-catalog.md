@@ -34,4 +34,4 @@ Cross-reference for armament cited outside the arsenal. Full narrative specifica
 
 ## Related
 
-* **Dreadnoughts** in stasis (Bifrons-Ferrum) — see [sistema-ii-cadinho](../atlas-e-topografia/sistemas/sistema-ii-cadinho.md) (Chapter vaults).
+* **Dreadnoughts** in stasis (Bifrons-Ferrum) — see [system-ii-crucible](../atlas-and-topography/systems/system-ii-crucible.md) (Chapter vaults).

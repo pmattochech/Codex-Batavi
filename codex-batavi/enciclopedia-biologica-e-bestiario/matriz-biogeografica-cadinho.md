@@ -1,6 +1,6 @@
 # Matriz biogeográfica — Sistema II (Cadinho)
 
-*Entrada canónica de flora, fauna e risco por corpo celeste. Atlas narrativo: [`../atlas-e-topografia/sistemas/sistema-ii-cadinho.md`](../atlas-e-topografia/sistemas/sistema-ii-cadinho.md).*
+*Entrada canónica de flora, fauna e risco por corpo celeste. Atlas narrativo: [`../atlas-and-topography/systems/system-ii-crucible.md`](../atlas-and-topography/systems/system-ii-crucible.md).*
 
 ## Incus-Gravis Tertius
 * **Topologia:** Super-terra plana de 2.8G, mares de cascalho e colmeias invertidas escavadas.

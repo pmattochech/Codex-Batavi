@@ -16,12 +16,12 @@ ROOT = REPO_ROOT / "codex-batavi"
 # RENAME MAP   old path (relative to ROOT) → new filename (in same folder)
 # ──────────────────────────────────────────────
 RENAMES: list[tuple[str, str]] = [
-    # ── atlas ──────────────────────────────────────────────────────────────
-    ("atlas-e-topografia/ATLAS_E_TOPOGRAFIA.md",               "atlas-geral.md"),
-    ("atlas-e-topografia/INDEX.md",                            "INDEX.md"),          # unchanged
-    ("atlas-e-topografia/sistemas/ATLAS_SISTEMA_I_BASTIAO_CENTRAL.md",  "sistema-i-bastiao-central.md"),
-    ("atlas-e-topografia/sistemas/ATLAS_SISTEMA_II_CADINHO.md",         "sistema-ii-cadinho.md"),
-    ("atlas-e-topografia/sistemas/ATLAS_SISTEMA_III_LIMIAR.md",         "sistema-iii-limiar.md"),
+    # ── atlas (canonical tree: atlas-and-topography/ + systems/) ───────────
+    ("atlas-and-topography/ATLAS_E_TOPOGRAFIA.md",               "general-atlas.md"),
+    ("atlas-and-topography/INDEX.md",                            "INDEX.md"),
+    ("atlas-and-topography/systems/ATLAS_SISTEMA_I_BASTIAO_CENTRAL.md",  "system-i-central-bastion.md"),
+    ("atlas-and-topography/systems/ATLAS_SISTEMA_II_CADINHO.md",         "system-ii-crucible.md"),
+    ("atlas-and-topography/systems/ATLAS_SISTEMA_III_LIMIAR.md",         "system-iii-threshold.md"),
 
     # ── index personae ─────────────────────────────────────────────────────
     ("index-personae-e-comando/intro-heraldica/codex-batavorum.md",       "intro-e-heraldica.md"),

@@ -1,6 +1,6 @@
 # Matriz biogeográfica — Sistema III (Limiar)
 
-*Entrada canónica de flora, fauna e risco por corpo celeste. Atlas narrativo: [`../atlas-e-topografia/sistemas/sistema-iii-limiar.md`](../atlas-e-topografia/sistemas/sistema-iii-limiar.md).*
+*Entrada canónica de flora, fauna e risco por corpo celeste. Atlas narrativo: [`../atlas-and-topography/systems/system-iii-threshold.md`](../atlas-and-topography/systems/system-iii-threshold.md).*
 
 ## Tempest-V / Grande Recife / Station-Maleventum
 * **Topologia:** Mundo-sentinela sem atmosfera, cinturão eletrostático condutor e fortaleza-asteroide de negação absoluta.
