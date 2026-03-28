@@ -71,9 +71,9 @@ RENAMES: list[tuple[str, str]] = [
     ("cronicas/09-vida-na-fronteira/a-vida-na-fronteira.md",                            "dizimo-dos-rejeitados.md"),
     ("cronicas/10-dizimo-da-docura/o-dizimo-da-docura.md",                              "dizimo-da-docura.md"),
 
-    # ── arsenal ────────────────────────────────────────────────────────────
-    ("arsenal-e-logistica/intro-e-engenharia-padrao-noviomagus.md",  "engenharia-padrao-noviomagus.md"),
-    ("arsenal-e-logistica/coorte-das-falanges-e-resumo-visual.md",   "vexillationes-e-resumo-visual.md"),
+    # ── arsenal (historical; current tree uses arsenal-and-logistics/ + English slugs) ──
+    ("arsenal-and-logistics/intro-e-engenharia-padrao-noviomagus.md", "noviomagus-standard-engineering.md"),
+    ("arsenal-and-logistics/coorte-das-falanges-e-resumo-visual.md", "vexillationes-and-visual-summary.md"),
 
     # ── enciclopédia ───────────────────────────────────────────────────────
     ("enciclopedia-biologica-e-bestiario/wiki-reliquia-biologica-viggo.md", "reliquia-viggo.md"),

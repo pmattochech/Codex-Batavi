@@ -1,48 +1,45 @@
-# A diplomacia das Presas e da Forja
+# Aethelgard: Diplomacy of Fangs and the Batav Wolf
 
-# Aethelgard: A Diplomacia das Presas e o Lobo Batav
+**Location:** Aethelgard Prime, North Spire Pinnacle (above the tideline).  
+**Present:** Lord Castellan Alaric von Helis, Great Wolf Logan Grimnar, Young King Ragnar Blackmane.  
+**Context:** Informal diplomatic visit after the Hoth-Secundus campaign.
 
-**Local:** Aethelgard Prime, Pináculo da Agulha Norte (Acima da Linha da Maré).   
-**Presentes:** Lorde-Castellan Alaric von Helis, Grande Lobo Logan Grimnar, Jovem Rei Ragnar Blackmane.   
-**Contexto:** Visita diplomática informal após a Campanha de Hoth-Secundus.
+The storm on Aethelgard was not like Fenris’s snow. Snow burned with cold; Aethelgard’s rain crushed with weight. Atop the *High-Anchor* landing platform, lashed by two-hundred-kilometer winds, three giants stood motionless.
 
-A tempestade em Aethelgard não era como a neve de Fenris. A neve queimava com o frio; a chuva de Aethelgard esmagava com o peso. No topo da plataforma de pouso de *High-Anchor*, açoitada por ventos de duzentos quilômetros por hora, três gigantes permaneciam imóveis.
+Ragnar Blackmane, hair in the wind and fangs bared, ran a gloved hand over the heavy cloak Alaric wore on his shoulders. The hide was gunmetal gray, thick as tank leather, and smelled of brine, oil, and old blood. Unlike the soft, voluminous pelts of Fenris’s wolves, it was short, dense, and oily to the touch.
 
-Ragnar Blackmane, com seus cabelos ao vento e presas à mostra, passou a mão enluvada sobre a capa pesada que Alaric usava sobre os ombros. A pele era cinza-chumbo, espessa como couro de tanque, e cheirava a salmoura, óleo e sangue antigo. Diferente das peles macias e volumosas dos lobos de Fenris, aquela era curta, densa e oleosa ao toque.
+— That is not terrestrial animal hide, brother — Ragnar commented, testing the texture. — It does not hold heat like ours. It sheds water. And the claw marks on that scar… — he pointed to a deep old tear in the leather — …suggest the beast tried to hug you, not bite you. Where did you find that thing? At the bottom of an ocean?
 
-— Isso não é pele de animal terrestre, Irmão — comentou Ragnar, testando a textura. — Não retém calor como as nossas. Ela repele água. E as marcas de garra nessa cicatriz... — ele apontou para um rasgo profundo e antigo no couro — ...sugerem que a besta tentou te abraçar, não te morder. Onde você encontrou essa coisa? No fundo de um oceano?
+Logan Grimnar, the Great Wolf, watched the horizon where the black sea slammed vertical cliffs. His old wise eyes read the ground.
 
-Logan Grimnar, o Grande Lobo, observava o horizonte onde o mar negro se chocava contra as falésias verticais. Seus olhos velhos e sábios analisavam o terreno.
+— The right question, Ragnar, is not where. It is *how*. — Logan turned to Alaric. — That hide is armored. A common combat blade would slide on it. You killed it with your hands, Batav?
 
-— A pergunta certa, Ragnar, não é onde. É *como*. — Logan virou-se para Alaric. — Essa pele é blindada. Uma lâmina de combate comum deslizaria nela. Você a matou com as mãos, Batav?
+Alaric, motionless as an iron gargoyle, confirmed with a sub-millimeter jaw clench and a slight nod.
 
-Alaric, imóvel como uma gárgula de ferro, confirmou com uma contração submilimétrica da mandíbula e um leve aceno.
+— Foundation War. Year 015. In the Lowlands. — His voice competed with thunder, flat and without boast. — They are not runners, Young King. They are anvils with teeth.
 
-— Guerra da Fundação. Ano 015\. Nas Terras Baixas. — Sua voz competia com o trovão, plana e desprovida de jactância. — Eles não são corredores, Jovem Rei. Eles são bigornas com dentes.
+Alaric walked to the platform edge, where the abyss dropped two kilometers to the churning sea. He pointed with an adamantium gauntlet. — Watch.
 
-Alaric caminhou até a borda da plataforma, onde o abismo despencava por dois quilômetros até o mar revolto. Ele apontou com a manopla de adamantium. — Observem.
+Down in the breaker zone, where thirty-meter waves exploded against black volcanic rock, something moved. It was not a coordinated pack running the tundra. It was solitary, massive, fluid motion. A *Canis Batavorum* rose from the foam. Ragnar narrowed his eyes. The beast was huge—two meters of pure muscle packed in the shoulders. It did not look canine; it looked like armored granite shaped like a cat. The animal did not shake off water; oil in its pelt shed the sea at once.
 
-Lá embaixo, na zona de arrebentação, onde as ondas de trinta metros explodiam contra a rocha vulcânica negra, algo se moveu. Não era uma matilha coordenada correndo pela tundra. Era um movimento solitário, massivo e fluido. Um *Canis Batavorum* emergiu da espuma. Ragnar estreitou os olhos. A besta era enorme, dois metros de puro músculo compactado nos ombros. Não parecia um canídeo; parecia um felino blindado feito de granito. O animal não se sacudiu para tirar a água; o óleo em seu pelo fez o mar escorrer instantaneamente.
+The creature was climbing. With black non-retractable obsidian claws it drove its paws into the cliff’s vertical face, ascending with explosive force that defied gravity. In its short square jaw, built for hydraulic crushing bite, it dragged the carcass of a “drag-crab,” a leviathan crustacean weighing half a ton.
 
-A criatura estava escalando. Com garras negras de obsidiana não-retráteis, ela cravou as patas na parede vertical da falésia, subindo com uma força explosiva que desafiava a gravidade. Em sua mandíbula quadrada e curta, projetada para força de esmagamento hidráulico, ela arrastava a carcaça de um "Caranguejo-de-Draga", um crustáceo leviatã que pesava meia tonelada.
+— He is climbing a ninety-degree wall carrying his own weight in meat — murmured Ragnar, amusement replaced by tactical awe. — No momentum. Just pure traction.
 
-— Ele está escalando uma parede de noventa graus carregando o próprio peso em carne — murmurou Ragnar, a diversão substituída por assombro tático. — Sem impulso. Apenas tração pura.
+The alpha predator reached a rocky ledge. It did not howl. It dropped the prey and, with a single neck-and-jaw motion—*CRACK*—split the crab’s biological adamant carapace like glass. The fracture’s sound echoed up to the platform where the Astartes stood.
 
-O predador alfa chegou a um platô rochoso. Ele não uivou. Ele largou a presa e, com um único movimento de pescoço e mandíbula — *CRACK* — partiu a carapaça de adamante biológico do caranguejo como se fosse vidro. O som da fratura ecoou até a plataforma onde os Astartes estavam.
+— Fenris breeds runners — said Logan Grimnar, arms crossed over Terminator armor. — Wolves that win by exhaustion and numbers. This… — he pointed to the beast below, now processing its meal in silence, ignoring the storm — …this is a living hydraulic compactor. He fights like you, Alaric.
 
-— Fenris cria corredores — disse Logan Grimnar, cruzando os braços sobre a armadura de Exterminador. — Lobos que vencem pelo cansaço e pelo número. Isso... — ele apontou para a besta lá embaixo, que agora processava sua refeição em silêncio, ignorando a tempestade — ...isso é um compactador hidráulico vivo. Ele luta como você, Alaric.
+Alaric looked at the hide on his shoulder. It was the patriarch of that species—a beast that, in the war’s early years, had required lethal release of Alaric’s *Furor* before he could drown it in acid mud and crush its neck.
 
-Alaric olhou para a pele em seu ombro. Era a pele do Patriarca daquela espécie, uma besta que, durante os anos incipientes da Guerra, exigiu a liberação letal do *Furor* de Alaric antes que ele conseguisse afogá-la na lama ácida e esmagar seu pescoço.
+— On Noviomagus and Aethelgard, speed is inefficient, — Alaric explained, cold logic anchoring the scene’s savagery. — The ground is vertical. Pressure is crushing. Our biology demands adaptation. My wolves do not chase. They wait, anchor, and break. The hide I carry is proof against water, acid, and fire. It reminds me that structural resistance always beats agility.
 
-— Em Noviomagus e Aethelgard, a velocidade é ineficiente, — explicou Alaric, a sua lógica fria ancorando a selvageria da cena. — O terreno é vertical. A pressão é esmagadora. A nossa biologia exige adaptação. Meus lobos não perseguem. Eles esperam, ancoram e quebram. A pele que carrego é à prova de água, ácido e fogo. Ela me lembra que a resistência estrutural sempre supera a agilidade.
+Ragnar made a guttural sound of approval. — I prefer speed. But I admit… that cloak suits a Wall perfectly.
 
-Ragnar emitiu um som gutural de aprovação. — Eu prefiro a velocidade. Mas admito... essa capa serve perfeitamente a um Muro.
+Logan Grimnar set a heavy gauntlet on Alaric’s shoulder, beside the gray hide.
 
-Logan Grimnar colocou a pesada manopla no ombro de Alaric, ao lado da pele cinzenta.
-
-— Gelo e Ferro, irmão. Na fúria cega do universo, Fenris respeita o que não quebra.
+— Ice and Iron, brother. In the universe’s blind fury, Fenris respects what does not break.
 
 ---
 
-**Registro do *Strategium* (encadeamento doutrinário):** A espécie *Canis Batavorum* documentada neste encontro — predador ancorado, silencioso, de pelagem oleosa e resistência estrutural — tornou-se o **arquétipo biológico** da **Prova do Lobo Batav**: o candidato à **10.ª Vexillatio** deve submeter um exemplar em contenção **sem** sacrificar a fera por comodidade **e sem** ruptura do *Furor*, provando a mesma economia de violência que o Castellan exige de si. *Ver organica:* [vexillationes-e-resumo-visual.md](../../arsenal-e-logistica/vexillationes-e-resumo-visual.md), [hierarquia-militar.md](../../index-personae-e-comando/doutrina-e-orgaos/hierarquia-militar.md) §3.
-
+***Strategium* note (doctrinal linkage):** The *Canis Batavorum* species documented in this encounter—anchored, silent predator, oily coat, structural endurance—became the **biological archetype** of the **Batav Wolf trial**: the **10th Vexillatio** candidate must subdue a specimen in containment **without** killing the beast for convenience **and without** *Furor* breach, proving the same economy of violence the Castellan demands of himself. *See organica:* [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md), [hierarquia-militar.md](../../index-personae-e-comando/doutrina-e-orgaos/hierarquia-militar.md) §3.

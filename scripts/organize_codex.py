@@ -118,16 +118,16 @@ def main() -> None:
     shutil.rmtree(tmp)
 
     # --- 05 / 06 / 07 / 08 manual splits (small files) ---
-    arsenal = ROOT / "arsenal-e-logistica"
+    arsenal = ROOT / "arsenal-and-logistics"
     arsenal.mkdir(parents=True, exist_ok=True)
     a_lines = (ROOT / "05_ARSENAL_E_LOGISTICA.md").read_text(encoding="utf-8").splitlines(keepends=True)
     # 0-based slice ends: before "## 2", "## 3", "## 4", end
     bounds = [0, 19, 29, 46, len(a_lines)]
     names = [
-        "intro-e-engenharia-padrao-noviomagus.md",
-        "identidade-visual-infantaria.md",
-        "coortes-de-especialidade.md",
-        "vexillationes-e-resumo-visual.md",
+        "noviomagus-standard-engineering.md",
+        "infantry-visual-identity.md",
+        "specialty-cohorts.md",
+        "vexillationes-and-visual-summary.md",
     ]
     for i, name in enumerate(names):
         (arsenal / name).write_text("".join(a_lines[bounds[i] : bounds[i + 1]]), encoding="utf-8")

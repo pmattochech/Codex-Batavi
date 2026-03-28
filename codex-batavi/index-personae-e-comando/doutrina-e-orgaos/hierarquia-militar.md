@@ -1,107 +1,107 @@
-# A CADEIA DE ATRITO (HIERARQUIA MILITAR DA MEIA-LEGIÃO)
+# THE FRICTION CHAIN (HALF-LEGION MILITARY HIERARCHY)
 
-A máquina de guerra da *Cohors Batavorum* é uma aberração matemática sustentada pela termodinâmica da sobrevivência. Para operar com um contingente de 5.000 guerreiros na fronteira letal da *Passagem de Loken*, o Capítulo ignorou a burocracia do *Codex Astartes* e adotou uma cadeia de comando projetada puramente para a eliminação de gargalos logísticos. A hierarquia abaixo dita como a nossa *Geometria de Atrito* é aplicada, desde o combate corpo a corpo nas trincheiras até a obliteração macro-orbital.
+The *Cohors Batavorum* war machine is a mathematical aberration sustained by survival thermodynamics. To run a 5,000-warrior contingent on the lethal **Loken Passage** frontier, the Chapter ignored *Codex Astartes* bureaucracy and adopted a command chain built purely to kill logistical bottlenecks. The hierarchy below governs how our **Friction Geometry** applies from trench melee to macro-orbital obliteration.
 
-## 1\. A MATÉRIA-PRIMA E A FERRAMENTA PADRÃO (A Base de Cada Vexillatio)
+## 1. RAW STOCK AND STANDARD TOOL (BASE OF EACH VEXILLATIO)
 
-**O Neófito (O Minério na Forja):** O recruta ainda não é uma engrenagem; é um bloco de carne mortal sendo brutalmente usinado. O Neófito é submetido aos estágios de letalidade contínua em Aethelgard e Incus-Gravis, suportando pressões atmosféricas e gravitacionais extremas. A sua biologia está em constante fervura endócrina, lutando para domar o choque inicial da Semente Genética. Eles operam como batedores e trabalhadores braçais pesados, queimando a agressividade através do esforço físico para evitar que o terror da *Maldição do Lobo* despedace as suas mentes antes de receberem as placas de ceramite.
+**The neophyte (ore in the forge):** The recruit is not yet a gear; he is a block of mortal flesh being brutally machined. The neophyte endures continuous lethality stages on Aethelgard and Incus-Gravis, surviving extreme atmospheric and gravitational pressure. His biology seethes endocrinally, fighting to tame gene-seed’s first shock. They operate as scouts and heavy labor, burning aggression through physical effort so Wolf’s Curse terror shatters their minds before they receive ceramite plates.
 
-**O Irmão de Batalha (O Batavi):** A infantaria de linha e a base matemática da nossa guerra. Um único Batavi é a ferramenta transumana aperfeiçoada: destituído de ego, imune à vaidade e focado no abate calculado. Operando sob o *Axioma Rationis*, a sua mente funciona como uma represa gélida contra os horrores de sua própria biologia. Quando engajados em zonas de *Zone Mortalis*, eles utilizam a *Segunda Lâmina* (o próprio corpo blindado como arma contusa) e marcham em *Silêncio Analítico*, sem gritos de guerra ou fanatismo fútil. A pluralidade desta força, os Bataves, compõe a intransponível Parede de Ferro.
+**The battle-brother (the Batavi):** Line infantry and the mathematical base of our war. A single Batavi is the perfected transhuman tool: ego-stripped, vanity-immune, focused on calculated kills. Under the *Axioma Rationis*, his mind works as a cold dam against his own biology’s horrors. In *Zone Mortalis* they use the *second blade* (armored body as blunt weapon) and march in *Analytical Silence* — no battle cries or futile fanaticism. The mass of these warriors, the Batavi, forms the impassable Iron Wall.
 
-## 2\. OS EXECUTORES TÁTICOS (A Matemática do Abate)
+## 2. TACTICAL EXECUTORS (KILL MATH)
 
-**O Sargento (O Calculista de Esquadrão):** Líder tático direto responsável por uma unidade de 5 a 10 Bataves. O Sargento não inspira os seus homens com brados gloriosos; ele dita o ritmo de disparo, os ângulos de cobertura e a eficiência de munição da sua célula. Eles são os reguladores de pressão da linha de frente. Se o pêndulo endócrino da *Das Erbe* empurrar os guerreiros para a combustão metabólica da *Jagd* ou para o gelo absoluto da *Ruhe*, cabe ao Sargento reajustar a formação para extrair a letalidade máxima antes do colapso físico de seus irmãos.
+**The sergeant (squad calculator):** Direct tactical lead for a 5–10 Batavi cell. The sergeant does not inspire with glorious shouts; he sets fire rhythm, cover angles, and ammo efficiency for his cell. They are the front line’s pressure regulators. If *Das Erbe*’s pendulum pushes warriors toward *Jagd* metabolic burn or *Ruhe*’s absolute ice, the sergeant realigns formation to extract maximum lethality before his brothers’ physical collapse.
 
-**O Tenente (O Executor da Zona Mortalis):** O maestro da carnificina de curta distância. Comandando meia sub-coorte (fração rigorosa de 50 guerreiros), o Tenente é o oficial que desce ao matadouro. Enquanto os níveis superiores da cadeia de comando desenham o cerco, o Tenente é quem aplica a *Geometria de Atrito* milímetro a milímetro em corredores sufocantes e trincheiras lamacentas. Ele traduz a macro-estratégia em ordens diretas de execução e avanço, garantindo que o sangue inimigo seja derramado de forma otimizada.
+**The lieutenant (*Zone Mortalis* executor):** Maestro of short-range slaughter. Commanding half a sub-cohort (strict fifty-warrior fraction), the lieutenant is the officer who descends into the abattoir. While upper chain draws the siege, the lieutenant applies **Friction Geometry** millimeter by millimeter in choking corridors and mud trenches. He translates macro-strategy into direct execution and advance orders, ensuring enemy blood spills in optimized patterns.
 
-## 3\. O MACRO-COMANDO E OS GOVERNADORES DE POÇO (A Estrutura de Vexillatio)
+## 3. MACRO-COMMAND AND WELL GOVERNORS (VEXILLATIO STRUCTURE)
 
-**O Capitão (O Macro-Estrategista):** O comandante de uma Sub-Coorte completa (100 Irmãos de Batalha). Subordinado diretamente ao Legatus, o Capitão gere o teatro de operações planetário. Ele orquestra os vetores de bombardeio, as rotas de suprimento de adamantium e a sobreposição das Zonas de Morte. A sua função é garantir que, antes da **Vexillatio** colidir fisicamente com a ameaça, o inimigo já tenha sido logisticamente mutilado pelo posicionamento das nossas trincheiras.
+**The captain (macro-strategist):** Commander of a full sub-cohort (100 battle-brothers). Directly subordinate to the Legatus, the captain runs planetary operations theater. He orchestrates bombardment vectors, adamantium supply routes, and kill-zone overlap. His job is to ensure before the **Vexillatio** physically hits the threat, the enemy is already logistically mauled by trench positioning.
 
-**O Legatus / Ancião-Mestre (O Pilar do Sistema):** O governador militar descentralizado e a autoridade máxima de um dos 9 mundos/super-sistemas da **Falange de Nove** (bloco geográfico 3×3; não confundir com a unidade de combate). Um Legatus comanda uma **Vexillatio** (força indivisível de 500 Bataves). Ele é o portador da *Alabarda Vexillum*, o monólito de ferro que ancora a linha e inunda os visores laranjas da tropa com *auspex* tático e telemetria de falhas biológicas. O Legatus é a extensão fria e autônoma da vontade do Triunvirato. Onde ele crava a sua lâmina, o recuo é matematicamente anulado.
+**The Legatus / Elder-Master (system pillar):** Decentralized military governor and supreme authority over one of the Nine Phalanx’s nine worlds / super-systems (3×3 geographic block — do not confuse with the tactical **Vexillatio**). A Legatus commands one **Vexillatio** (indivisible force of 500 Batavi). He bears the *Alabarda Vexillum*, the iron monolith that anchors the line and floods orange-lensed troop visors with tactical *auspex* and biological-failure telemetry. The Legatus is the cold, autonomous extension of Triumvirate will. Where he plants his blade, retreat is mathematically nullified.
 
-**A 10ª Vexillatio e o Lorde-Castellan (A Guarda da Âncora):** O vértice absoluto da nossa máquina de guerra. Diferente das Vexillationes I a IX, que guarnecem os sistemas fronteiriços sob os seus Legatus, a **10.ª Vexillatio** opera **sem Legatus intermédio**: é a escolta letal e pessoal do Lorde-Castellan Alaric von Helis, em simbiose com o *Castra-Lupus*. Os seus membros são a elite em estabilidade psicológica e eficiência de atrito; **instrutores veteranos** da Décima desdobram-se pelas outras nove Vexillationes para adestrar os contingentes das **coortes de especialidade** (ver [vexillationes-e-resumo-visual.md](../../arsenal-e-logistica/vexillationes-e-resumo-visual.md)).
+**The 10th Vexillatio and the Lord Castellan (anchor guard):** The absolute apex of our machine. Unlike Vexillationes I–IX garrisoning frontier systems under their Legati, the **10th Vexillatio** operates **without intermediate Legatus**: lethal personal escort to Lord Castellan Alaric von Helis, symbiotic with *Castra-Lupus*. Its members are elite in psychological stability and friction efficiency; **veteran instructors** from the Tenth deploy across the other nine Vexillationes to train **specialty cohort** contingents (see [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md)).
 
-**Requisitos para ingresso na 10.ª Vexillatio (síntese):** não basta veterania nem heroísmo isolado. O candidato deve (1) cumprir **tempo mínimo comprovado em infantaria de linha** nas divisões de Supressão, Ruína e Cerco — a “ferramenta” antes da “função de elite”; (2) servir **em cada uma das quatro coortes de especialidade**, em destacamento orgânico de cinquenta guerreiros por Vexillatio, por **ao menos um ciclo de campanha** (ou intervalo equivalente definido pelo *Strategium*) **por coorte**, com fichas de aptidão assinadas pelo Legatus de origem e pelo instrutor da Décima; (3) figurar **no topo estatístico** do seu pool (precisão logística, *kill-ratio* documentado, zero falhas de disciplina do *Axioma Rationis* nos períodos de auditoria); (4) suportar a **Prova do Lobo Batav** — confronto protocolado com um exemplar de *Canis Batavorum* em câmara de contenção, no qual o candidato deve impor **domínio absoluto** à besta **sem** morte desnecessária da fera **e sem** perda de contenção do *Furor* (o paralelo simbólico do lobo que guarda em silêncio encontra-se em [cinza-silencio-de-fenris.md](../../cronicas/08-auditoria-e-diplomacia/cinza-silencio-de-fenris.md); a natureza da espécie e o peso do *pelo negro* em [diplomacia-aethelgard.md](../../cronicas/08-auditoria-e-diplomacia/diplomacia-aethelgard.md)). A aprovação final é **unânime do Triunvirato**; não há apelo.
+**10th Vexillatio entry requirements (summary):** veteran status or isolated heroism is insufficient. The candidate must (1) complete **proven minimum time in line infantry** across Suppression, Ruin, and Siege divisions — “tool” before “elite function”; (2) serve **in each of the four specialty cohorts**, in organic fifty-warrior detachments per Vexillatio, for **at least one campaign cycle** (or *Strategium*-equivalent interval) **per cohort**, with aptitude files signed by home Legatus and Tenth instructor; (3) rank **at the top of his pool** (logistical precision, documented kill ratio, zero *Axiom of Reason* discipline failures in audit windows); (4) endure the **Batav Wolf trial** — protocol confrontation with a *Canis Batavorum* specimen in a containment chamber, imposing **absolute dominance** on the beast **without** unnecessary death **and without** losing **Furor** containment (symbolic parallel to the silently guarding wolf: [cinza-silencio-de-fenris.md](../../cronicas/08-auditoria-e-diplomacia/cinza-silencio-de-fenris.md); species nature and *black pelt* weight: [diplomacia-aethelgard.md](../../cronicas/08-auditoria-e-diplomacia/diplomacia-aethelgard.md)). Final approval is **unanimous Triumvirate**; no appeal.
 
-**Nota:** O Neófito testemunha no *Tribunal de Ferro e Sangue* a vulnerabilidade do Triunvirato e a geometria do dever ([campanha-incus-gravis.md](../../cronicas/04-incus-gravis-e-tribunal/campanha-incus-gravis.md)) — preparação moral, **não** substituto da Prova do Lobo Batav.
+**Note:** The neophyte witnesses Triumvirate vulnerability and duty geometry at the *Iron and Blood Tribunal* ([campanha-incus-gravis.md](../../cronicas/04-incus-gravis-e-tribunal/campanha-incus-gravis.md)) — moral preparation, **not** a substitute for the Batav Wolf trial.
 
-Acima de todos eles, repousa o Triunvirato — O Muro (Alaric), o Bisturi (Drusus) e o Juiz (Varro) — as três mentes que mantêm a fera algemada à forja.
+Above them all rests the Triumvirate — the Wall (Alaric), the Scalpel (Drusus), and the Judge (Varro) — the three minds that keep the beast chained to the forge.
 
-*Heráldica, divisões de linha e grelha de coortes:* [vexillationes-e-resumo-visual.md](../../arsenal-e-logistica/vexillationes-e-resumo-visual.md).
+*Heraldry, line divisions, cohort grid:* [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md).
 
 ---
 
-## 4\. ORDRES DEPARTAMENTAIS E O TECTO DOS 5.000
+## 4. DEPARTMENTAL ORDERS AND THE 5,000 CEILING
 
-### 4.1 Princípio de contagem
+### 4.1 Counting principle
 
-Os **5.000** guerreiros da Meia-Legião são **todo** o Astartes com **geneseed** e estatuto *Cohors Batavorum* — **sem** reserva “extra” fora do livro. **Linha**, **coortes de especialidade**, **Triunvirato**, **Mestre de Forja**, **Bibliotecário-Mor** e **toda** a rede de Apotecários, Techmarines, Capelães e Bibliotecários de campanha **entram neste tecto**. Não existe legião paralela de “especialistas invisíveis”: o que não está em estase, exílio ou pena capital **consome** uma das cinco mil vagas.
+The Half-Legion’s **5,000** warriors are **every** Astartes with **gene-seed** and *Cohors Batavorum* status — **no** “extra” reserve off-books. **Line**, **specialty cohorts**, **Triumvirate**, **Master of the Forge**, **Chief Librarian**, and the full networks of Apothecaries, Techmarines, Chaplains, and campaign Librarians **count toward this ceiling**. There is no parallel legion of “invisible specialists”: anything not in stasis, exile, or capital sentence **consumes** one of five thousand slots.
 
-### 4.2 Os quatro ordres (estrutura *Codex* adaptada)
+### 4.2 The four orders (adapted *Codex* structure)
 
-| Ordem | Chefe | Função na Meia-Legião |
-|-------|--------|------------------------|
-| **Medicinae** | Apotecário-Mor **Drusus** | Continuidade biológica, *Das Erbe*, prisões clínicas, triagem de *Furor*. |
-| **Reclusiam** | Capelão-Mor **Varro** | Disciplina do *Axioma Rationis*, liturgia homologada, terror útil, auditoria de fé como dado. |
-| **Librarium** | Bibliotecário-Mor **Otho** | *Cifra Batava*, radar passivo na *Distorção*, codificação de ritos como algoritmo; ver [conselho-e-librarium.md](conselho-e-librarium.md). |
-| **Armourium** | Mestre de Forja **Kadmos** | *Machine Spirit*, forjas, Techmarines, manutenção de chassi e de arquitecturas de cerco; ver [conselho-e-librarium.md](conselho-e-librarium.md) §3. |
+| Order | Head | Role in the Half-Legion |
+|-------|------|-------------------------|
+| **Medicinae** | Chief Apothecary **Drusus** | Biological continuity, *Das Erbe*, clinical prisons, **Furor** triage. |
+| **Reclusiam** | Master Chaplain **Varro** | *Axiom of Reason* discipline, approved liturgy, useful terror, faith audited as data. |
+| **Librarium** | Chief Librarian **Otho** | **Batavian Cipher**, passive radar in the **Warp**, rites coded as algorithm; see [conselho-e-librarium.md](conselho-e-librarium.md). |
+| **Armourium** | Master of the Forge **Kadmos** | *Machine Spirit*, forges, Techmarines, chassis and siege-architecture maintenance; see [conselho-e-librarium.md](conselho-e-librarium.md) §3. |
 
-**Conselho Extendido:** Kadmos e Otho integram o **Conselho** sob o Triunvirato; Drusus e Varro **são** o Triunvirato — os quatro ordres convergem no *Strategium*, não em silos isolados.
+**Extended Council:** Kadmos and Otho sit on the **Council** under the Triumvirate; Drusus and Varro **are** the Triumvirate — the four orders converge in the *Strategium*, not isolated silos.
 
-### 4.3 Quadro congelado (*Ordem de Batalho Standard*, ca. 570.M42)
+### 4.3 Frozen table (*Standard Order of Battle*, ca. 570.M42)
 
-Os especialistas dos quatro ordres **não** formam um bloco paralelo: estão **dentro** do tecto de **500** por Vexillatio, **junto** com a infantaria de linha pura e as quatro coortes.
+Specialists from the four orders **do not** form a parallel block: they sit **inside** the **500** per Vexillatio **with** pure line infantry and the four cohorts.
 
-#### Vexillationes **I a IX** (cada uma)
+#### Vexillationes **I through IX** (each)
 
-| Componente | Efectivos | Notas |
-|------------|-----------|--------|
-| Coortes (Silêncio, Sombras, Estase, Nulidade) | **200** | 4 × 50 |
-| **Batavi de linha pura** (Supressão / Ruína / Cerco) | **284** | Borda de divisão; ver [vexillationes-e-resumo-visual.md](../../arsenal-e-logistica/vexillationes-e-resumo-visual.md) §3 |
-| Apotecários de Vexillatio (*Medicinae*) | **4** | ~1 por Sub-Coorte de 100; *Zone Mortalis* / *Jagd* |
-| Techmarines de campanha (*Armourium*) | **4** | Armadura, *auspex* de engenharia, veículos leves |
-| Capelães adjuntos / Judex menor (*Reclusiam*) | **3** | Ancoragem como variável tática |
-| Bibliotecários da *Cifra* (*Librarium*) | **5** | Radar passivo; enlace com Coorte da Nulidade |
-| **Suporte orgânico (subtotal)** | **16** | |
+| Component | Headcount | Notes |
+|-----------|-----------|--------|
+| Cohorts (Silence, Shadows, Stasis, Nullity) | **200** | 4 × 50 |
+| **Pure-line Batavi** (Suppression / Ruin / Siege) | **284** | Division edge; see [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md) §3 |
+| Vexillatio Apothecaries (*Medicinae*) | **4** | ~1 per 100 sub-cohort; *Zone Mortalis* / *Jagd* |
+| Campaign Techmarines (*Armourium*) | **4** | Armor, engineering *auspex*, light vehicles |
+| Adjutant Chaplains / lesser Judex (*Reclusiam*) | **3** | Anchoring as tactical variable |
+| **Batavian Cipher** Librarians (*Librarium*) | **5** | Passive radar; link to Nullity Cohort |
+| **Organic support (subtotal)** | **16** | |
 | **Total** | **500** | |
 
-#### 10.ª Vexillatio (*Guarda da Âncora*)
+#### 10th Vexillatio (*anchor guard*)
 
-| Componente | Efectivos | Notas |
-|------------|-----------|--------|
-| Coortes (4 × 50) | **200** | Igual às outras |
-| Batavi de linha pura | **279** | Cinco vagas cedidas ao comando supremo (linha seguinte) |
-| Suporte orgânico | **16** | Mesma repartição 4 / 4 / 3 / 5 |
-| **Postos supremos** (*Strategium* em campo) | **5** | **Alaric** (Lorde-Castellan), **Drusus** (Apotecário-Mor), **Varro** (Capelão-Mor), **Kadmos** (Mestre de Forja), **Otho** (Bibliotecário-Mor) |
+| Component | Headcount | Notes |
+|-----------|-----------|--------|
+| Cohorts (4 × 50) | **200** | Same as others |
+| Pure-line Batavi | **279** | Five slots ceded to supreme command (next row) |
+| Organic support | **16** | Same split 4 / 4 / 3 / 5 |
+| **Supreme posts** (field *Strategium*) | **5** | **Alaric** (Lord Castellan), **Drusus** (Chief Apothecary), **Varro** (Master Chaplain), **Kadmos** (Master of the Forge), **Otho** (Chief Librarian) |
 | **Total** | **500** | |
 
-Os cinco postos supremos **contam** nos **5.000** e **substituem** cinco lugares que, nas outras nove Vexillationes, seriam Batavi de linha pura — por isso **279** em vez de **284** na Décima. **Não há dupla contagem.**
+The five supreme posts **count** in the **5,000** and **replace** five slots that, in the other nine Vexillationes, would be pure-line Batavi — hence **279** not **284** in the Tenth. **No double counting.**
 
-#### Conferência global (Capítulo)
+#### Chapter aggregate
 
-| Agregado | Cálculo | Total |
-|----------|---------|--------|
-| Coortes | 10 × 200 | **2.000** |
-| Linha pura | 9 × 284 + 279 | **2.835** |
-| Suporte orgânico (4+4+3+5) | 10 × 16 | **160** |
-| Comando supremo (*Strategium* em campo) | Só na Décima | **5** |
-| **Total** | 2.000 + 2.835 + 160 + 5 | **5.000** |
+| Aggregate | Calculation | Total |
+|-----------|-------------|-------|
+| Cohorts | 10 × 200 | **2,000** |
+| Pure line | 9 × 284 + 279 | **2,835** |
+| Organic support (4+4+3+5) | 10 × 16 | **160** |
+| Supreme command (field *Strategium*) | Tenth only | **5** |
+| **Total** | 2,000 + 2,835 + 160 + 5 | **5,000** |
 
-Os **cinco** supremos **não** entram na coluna “linha pura”; somam-se ao final para fechar o tecto.
+The **five** supremes **do not** enter the “pure line” column; they close the ceiling at the end.
 
-*Ver tabela espelho:* [vexillationes-e-resumo-visual.md](../../arsenal-e-logistica/vexillationes-e-resumo-visual.md) §1.1.
+*Mirror table:* [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md) §1.1.
 
-O **Legatus** (ou o Lorde-Castellan na Décima) desdobra Sub-Coortes sobre os **284**/**279**; **Otho** e **Kadmos** vetam certificações de *cifra* e de *Machine Spirit*; **Varro** e **Drusus** vetam aptidão *Reclusiam* / *Medicinae*.
+The **Legatus** (or Lord Castellan in the Tenth) deploys sub-cohorts across the **284**/**279**; **Otho** and **Kadmos** certify *cipher* and *Machine Spirit*; **Varro** and **Drusus** veto *Reclusiam* / *Medicinae* fitness.
 
-### 4.4 Onde não entram os 5.000
+### 4.4 What the 5,000 excludes
 
-**Neófitos** em pipeline (ainda sem armadura completa e geneseed selado como Irmão) podem operar em números variáveis **fora** da grelha de combate até a cerimônia de elevação — política do *Strategium*, não inflação do tecto. **Servidores**, **Auxilia**, **abhumanos** alistados e **Skitarii** aliados **não** contam nos 5.000.
+**Neophytes** in the pipeline (not yet full armor and gene-seed sealed as brother) may operate at variable numbers **outside** the combat grid until elevation — *Strategium* policy, not ceiling inflation. **Servitors**, **Auxilia**, **listed abhumans**, and allied **Skitarii** **do not** count in the 5,000.
 
-### 4.5 Ajustes operacionais (sem alterar o quadro congelado)
+### 4.5 Operational adjustments (without changing the frozen table)
 
-* **Rotação Noviomagus ↔ linha** para Techmarines (os **4** por Vexillatio mantêm-se; quem ocupa cada vaga roda pelo *Strategium*).  
-* **Liação formal** entre cada Bibliotecário da *Cifra* e a **Coorte da Nulidade** (canal de *vox* psíquico e protocolo de *blank* support).  
-* **Revisão decenal** do *Ordem de Batalho Standard* — só por decreto unânime do Triunvirato (guerra de atrito extrema, perdas irrecuperáveis, ou mudança de ameaça psíquica estrutural).
+* **Noviomagus ↔ line rotation** for Techmarines (the **4** per Vexillatio hold; *Strategium* rotates who fills each slot).  
+* **Formal liaison** between each **Batavian Cipher** Librarian and the **Nullity Cohort** (psychic *vox* channel and *blank* support protocol).  
+* **Decadal review** of *Standard Order of Battle* — only by unanimous Triumvirate decree (extreme friction war, irrecoverable losses, or structural psychic threat shift).
 
-*Documentação complementar:* [conselho-e-librarium.md](conselho-e-librarium.md), [vexillationes-e-resumo-visual.md](../../arsenal-e-logistica/vexillationes-e-resumo-visual.md) §1.1.
+*Supporting docs:* [conselho-e-librarium.md](conselho-e-librarium.md), [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md) §1.1.
