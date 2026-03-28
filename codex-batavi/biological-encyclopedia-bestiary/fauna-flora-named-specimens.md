@@ -4,7 +4,7 @@
 
 | Designação | Tipo | Ocorrência / notas |
 |------------|------|---------------------|
-| **Canis Batavorum** (*Batav*) | Fauna nativa (superpredador aquático) | Aethelgard Prime — base do mito *Der Batav*; ver [mito de Der Batav](../lexicon-e-litanias/mito-de-der-batav-e-fundacao.md). |
+| **Canis Batavorum** (*Batav*) | Fauna nativa (superpredador aquático) | Aethelgard Prime — base do mito *Der Batav*; ver [mito de Der Batav](../lexicon-and-litanies/der-batav-myth-foundation.md). |
 | **Thunderwolf** (*Canis Fenrisian*) | Fauna / relíquia | Fenris e operações aliadas; [Viggo relic](viggo-relic.md). |
 | **Árvores-Guilhotina** | Flora mutada (cinética, predatória) | Bator-Tertius — radiação de *Bator-Sol*; treino Coorte das Sombras. |
 | ***Grox-Prime*** (variantes irradiadas) | Fauna de dízimo | Bator-Tertius — proteína de elite para metabolismo transumano. |

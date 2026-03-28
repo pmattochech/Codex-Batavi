@@ -144,13 +144,13 @@ def main() -> None:
     else:
         shutil.copy(ROOT / "06_ENCICLOPEDIA_BIOLOGICA_E_BESTIARIO.md", bio / "enciclopedia-completa.md")
 
-    lex = ROOT / "lexicon-e-litanias"
+    lex = ROOT / "lexicon-and-litanies"
     lex.mkdir(parents=True, exist_ok=True)
     lx = (ROOT / "07_LEXICON_E_LITANIAS.md").read_text(encoding="utf-8").splitlines(keepends=True)
     # split before "## MENTALIDADE E FILOSOFIA"
     split_at = next(i for i, L in enumerate(lx) if L.startswith("## MENTALIDADE"))
-    (lex / "mito-de-der-batav-e-fundacao.md").write_text("".join(lx[:split_at]).rstrip() + "\n", encoding="utf-8")
-    (lex / "mentalidade-e-filosofia.md").write_text("".join(lx[split_at:]), encoding="utf-8")
+    (lex / "der-batav-myth-foundation.md").write_text("".join(lx[:split_at]).rstrip() + "\n", encoding="utf-8")
+    (lex / "mentality-and-philosophy.md").write_text("".join(lx[split_at:]), encoding="utf-8")
 
     pol = ROOT / "relacoes-politicas"
     pol.mkdir(parents=True, exist_ok=True)

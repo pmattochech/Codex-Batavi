@@ -1,4 +1,3 @@
-# Lexicon e litanias
+# Redirect: `lexicon-e-litanias`
 
-- [mito-de-der-batav-e-fundacao.md](mito-de-der-batav-e-fundacao.md)
-- [mentalidade-e-filosofia.md](mentalidade-e-filosofia.md)
+This hub moved to [`../lexicon-and-litanies/INDEX.md`](../lexicon-and-litanies/INDEX.md).
