@@ -10,4 +10,4 @@ Monorepo with three areas at **repository root**:
 
 **Lore index:** [codex-batavi/README.md](codex-batavi/README.md)
 
-Project rules (Cursor): canonical file is `codex-batavi/.cursorrules`; a **symlink** with the same name exists at repo root for the IDE.
+Project rules (Cursor): canonical file is `codex-batavi/.cursorrules`; a **copy** with the same name exists at repo root for the IDE (keep both in sync when editing rules).
