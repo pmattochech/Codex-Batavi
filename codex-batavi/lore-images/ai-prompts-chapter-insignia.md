@@ -5,6 +5,8 @@
 
 **If the site forces “Space Wolves”:** Keep that selection only as a **menu hack**. Your text must **override** the style: explicitly say **not** Fenris, **not** furs and runes, **not** sky-blue wolf — **industrial forge-world** Imperial Chapter.
 
+**Geometry rule (Batavi seal):** The **wolf’s head is built only from straight line segments and sharp angles** — polygonal / low-poly / “plasma-cut plate” look. **No curves** on the wolf (no circular muzzle, no smooth Bezier snout, no round ear tips). Optional: the **outer roundel border** alone may use circles as pure drafting geometry; everything **inside** stays rectilinear. **Waves** read as **angled zigzags or stepped lines**, not sine curves.
+
 ---
 
 ## Shared negatives (append to any prompt)
@@ -12,7 +14,7 @@
 Use as a second paragraph or “negative prompt” field if the tool has one:
 
 ```text
-Do NOT include: any moon, crescent moon, lunar disk, half-black-half-white circle, night sky, stars, Eye of Horus, serpents, Chaos stars, skulls as primary focus, totemic bones, wolf pelts hanging, snow, ice, Fenris runes, tribal knotwork, Space Wolves blue-grey wolf palette, cartoon style, photorealistic fur, 3D render look, text labels, watermark.
+Do NOT include: any moon, crescent moon, lunar disk, half-black-half-white circle, night sky, stars, Eye of Horus, serpents, Chaos stars, skulls as primary focus, totemic bones, wolf pelts hanging, snow, ice, Fenris runes, tribal knotwork, Space Wolves blue-grey wolf palette, cartoon style, photorealistic fur, 3D render look, text labels, watermark. On the WOLF only: no curves, no rounded muzzle, no smooth arcs, no circular eyes — only straight edges and sharp corners.
 ```
 
 ---
@@ -22,21 +24,23 @@ Do NOT include: any moon, crescent moon, lunar disk, half-black-half-white circl
 **Short version (fits small text boxes):**
 
 ```text
-Imperial Space Marine chapter heraldry, flat 2D vector-style emblem, transparent background. Front-facing symmetrical wolf head, angular geometric military stencil design (inspired by formal legion heraldry, not fantasy illustration). Solid black wolf silhouette with small white or negative-space slit eyes. NO moon, NO crescent, NO circular lunar phase split behind the head. Behind or beneath the wolf: one horizontal Roman gladius blade crossing the field edge-to-edge. Bottom of emblem: two or three simple horizontal wave lines suggesting water. Optional thin double circular border in black line art only. Color version alternate: industrial gunmetal grey wolf and crimson red accent on gladius hilt or wave crests only — plate reads cold and austere. Forge-world industrial aesthetic, not barbarian or shamanic.
+Imperial Space Marine chapter heraldry, flat 2D vector-style emblem, transparent background. Front-facing symmetrical wolf head made ONLY of straight line segments and sharp angles — polygonal faceted silhouette like machine-cut steel plate, low-poly military stencil; zero curved edges on the wolf (no round snout, no soft cheeks). Small eye slits as narrow angled cutouts or triangles. NO moon, NO crescent. Behind or beneath the wolf: one horizontal Roman gladius (already straight-edged) crossing the field. Bottom: water suggested by two or three ANGULAR zigzag or stepped horizontal lines — not smooth waves. Optional double circular BORDER only as thin rings; interior charges stay non-circular. Gunmetal grey + crimson accents optional. Forge-world industrial, not organic or tribal.
 ```
 
 **Long version (Gemini / detailed tools):**
 
 ```text
-Design a minimalist chapter seal for a loyalist Adeptus Astartes successor chapter. Central charge: a wolf’s head in strict front view, built from sharp straight segments and tight curves — readable at small size on a shoulder pad. The wolf is a clean silhouette (black on transparent, or dark grey), with narrow aggressive eye slits. Absolutely exclude any moon shape: no crescent behind the ears, no white disk, no yin-yang style half circles framing the face.
+Design a minimalist chapter seal for a loyalist Adeptus Astartes successor chapter. Central charge: a wolf’s head in strict front view, constructed EXCLUSIVELY from straight line segments meeting at sharp angles — a faceted polygonal silhouette (origami-fold or plasma-cut plate aesthetic). The entire wolf outline must have NO curved edges: no circular muzzle, no smooth jawline arcs, no rounded ear tips, no oval eyes. Use triangular or trapezoidal facets for cheeks and brow; ears as two sharp isosceles peaks. Readable at small shoulder-pad scale. Silhouette: black on transparent, or dark industrial grey.
 
-Secondary charge: a single gladius sword laid perfectly horizontal, passing behind the lower part of the wolf’s muzzle or under the jaw — blade parallel to the bottom of the image.
+Absolutely exclude any moon: no crescent, no white disk, no half-circle frame around the face.
 
-Tertiary charge: a narrow band of stylized waves under the gladius — two parallel wavy lines, not ornate.
+Secondary charge: a single Roman gladius, perfectly horizontal, straight-edged rectangle or taper for the blade — passing behind the lower muzzle or under the jaw.
 
-Framing: optional concentric circle outline (technical drafting style), no decoration inside the rings except the charges listed.
+Tertiary charge: “water” as two or three parallel ZIGZAG or stepped broken lines under the gladius — angular only, no sine curves, no soft wave shapes.
 
-Style: military insignia, NATO-style clarity, high contrast, no shading gradients (or very subtle). No text, no skulls, no totems, no snow, no runes. Mood: grim, disciplined, industrial — Noviomagus forge world, not Fenris tribe.
+Framing: optional concentric circles as the OUTERMOST border only (technical drafting rings). No circular shapes inside the field except that border.
+
+Style: military insignia, NATO / armory stencil clarity, high contrast, flat fill (no gradients or very subtle). No text, no skulls, no totems, no snow, no runes. Mood: grim, machined, disciplined — Noviomagus forge world, not Fenris tribe, not organic wildlife art.
 ```
 
 ---
@@ -46,13 +50,13 @@ Style: military insignia, NATO-style clarity, high contrast, no shading gradient
 **Short version:**
 
 ```text
-Simple shoulder-pad icon, transparent background, 2D flat heraldry. Frontal wolf head only, angular geometric stencil, black silhouette, small white eye slits. No moon, no crescent, no halo. Extremely legible at 10mm scale. No extra symbols — wolf only. Loyalist Space Marine, industrial grimdark, not Space Wolves tribal style.
+Simple shoulder-pad icon, transparent background, 2D flat heraldry. Frontal wolf head ONLY — silhouette built from straight lines and sharp angles only (polygonal / faceted), no curves on the wolf, no rounded snout. Small eyes as narrow angled slits or triangles. No moon, no crescent. Extremely legible at 10mm scale; chunky facets, not hair strands. Wolf only, no extra symbols. Loyalist industrial Space Marine, not Space Wolves tribal style.
 ```
 
 **Slightly more detail (if the field is larger):**
 
 ```text
-Adeptus Astartes right pauldron decal design. Single frontal wolf head emblem, symmetrical, constructed from bold black shapes and cut negative space — same design language as formal legion transfers but original geometry. No crescent, no moon, no planetary disk, no starfield. No runes, no bones, no pelts. Flat color, transparent background, crisp edges for print. Scale-aware: keep cheek fur jags chunky, not fine hairs.
+Adeptus Astartes right pauldron decal design. Single frontal wolf head emblem, symmetrical. Geometry: 100% rectilinear — only straight edges and sharp vertices forming a faceted wolf mask (think folded steel or vector polygons). No arcs, no Bezier curves, no circular features on the wolf. Cheek “fur” as a serrated row of short straight spikes. No crescent, no moon. Flat black fill, transparent background, print-sharp. Original geometry, not a copy of any official transfer.
 ```
 
 ---
@@ -74,7 +78,7 @@ Adeptus Astartes right pauldron decal design. Single frontal wolf head emblem, s
 ## One-line “style lock” for any tool
 
 ```text
-Flat 2D military heraldry, black silhouette frontal wolf head, no moon no crescent, horizontal gladius optional, minimal waves, transparent background, loyalist industrial Space Marine chapter — not Space Wolves, not Sons of Horus.
+Flat 2D military heraldry, frontal wolf head built only from straight lines and sharp angles (polygonal faceted silhouette, no curves on wolf), no moon no crescent, horizontal straight gladius optional, angular zigzag water lines only, transparent background, loyalist industrial forge-world chapter — not Space Wolves, not Sons of Horus.
 ```
 
 ---
