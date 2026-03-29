@@ -72,11 +72,19 @@ Section **0.1** states the default language for **new and edited** Markdown. Thi
 
 **`codex-batavi/` Markdown prose:** Tiers **P0–P5** are migrated to **US English** where a body file existed. Terminology aligns with [`.cursorrules`](../.cursorrules) and [`GLOSSARY-EN.md`](GLOSSARY-EN.md) (**Wolf’s Curse**, **Versibar**, **Warp** / **Shadow in the Warp**, **Batav Wolf** / *Canis Batavorum*, **Thunderwolf**, **Axiom of Reason** / *Axioma Rationis*, no **DAoT** as main form in EN).
 
-**Compatibility:** `chronicles/06-era-das-chuvas` symlinks to `06-silent-vigil`. Legacy `cronicas/06-vigilia-silenciosa/silencio-era-das-chuvas.md` is a **redirect stub** to `strategium-silence.md` (see [`chronicles/INDEX.md`](chronicles/INDEX.md)). Legacy `index-personae-e-comando/` paths are **redirect stubs** to [`personae-command-index/`](personae-command-index/INDEX.md). Legacy `lexicon-e-litanias/` paths are **redirect stubs** to [`lexicon-and-litanies/`](lexicon-and-litanies/INDEX.md). Legacy `relacoes-politicas/` paths are **redirect stubs** to [`political-relations/`](political-relations/INDEX.md). **`imagens-lore/`** is a **symbolic link** to [`lore-images/`](lore-images/) for PNG assets (CLI default and docs use `lore-images/`).
+**Compatibility (legacy paths → canonical English hubs):**
+
+- **`cronicas/`** — Hub [`cronicas/INDEX.md`](cronicas/INDEX.md) redirects to [`chronicles/INDEX.md`](chronicles/INDEX.md). Every chronicle file under the old Portuguese arc folders is a **one-line stub** (body is only a **`Moved:`** line linking to the matching `chronicles/…` file).
+- **`chronicles/06-era-das-chuvas`** — Symbolic link to `06-silent-vigil` (see [`chronicles/INDEX.md`](chronicles/INDEX.md)).
+- **`atlas-e-topografia/`**, **`arsenal-e-logistica/`**, **`enciclopedia-biologica-e-bestiario/`** — Redirect stubs to [`atlas-and-topography/`](atlas-and-topography/INDEX.md), [`arsenal-and-logistics/`](arsenal-and-logistics/INDEX.md), [`biological-encyclopedia-bestiary/`](biological-encyclopedia-bestiary/INDEX.md).
+- **`index-personae-e-comando/`** — Redirect stubs to [`personae-command-index/`](personae-command-index/INDEX.md).
+- **`lexicon-e-litanias/`** — Redirect stubs to [`lexicon-and-litanies/`](lexicon-and-litanies/INDEX.md).
+- **`relacoes-politicas/`** — Redirect stubs to [`political-relations/`](political-relations/INDEX.md).
+- **`imagens-lore/`** — Symbolic link to [`lore-images/`](lore-images/) (PNG assets; CLI default uses `lore-images/`).
 
 **Still not written (not a translation gap):** Planned quarter chronicles under `00-foundation-war/` (`segundo-quarto.md`, etc.) — summaries live in `foundation-war.md` until you author those files.
 
-**`forja/`:** Markdown docs, CLI help strings, and package metadata are **US English** (same repo convention as `codex-batavi/`).
+**`forja/`:** Code, defaults, and `PKG-INFO` snippets follow the same path conventions as `codex-batavi/`. Top-level `forja/*.md` guides may still be **Portuguese** until an explicit translation pass; treat that as editorial backlog, not a lore contradiction.
 
 ### Legacy PT → EN cheatsheet (for quotes, forks, or `forja`)
 
