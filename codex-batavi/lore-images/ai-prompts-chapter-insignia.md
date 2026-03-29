@@ -146,11 +146,67 @@ EXCLUDE: Curves on the wolf, moon, crescent, runes, snow, cartoon style, photore
 
 ---
 
+## Gemini — full paste (image generation)
+
+Use in **Google Gemini** when you have **image output** enabled (Imagen / Nano Banana / whatever image model your account shows). Send **one** user message; if the app allows **image attachments**, read **Reference images** below first.
+
+### Should you attach Luna Wolves reference PNGs?
+
+| Attach? | When it helps | Risk |
+|--------|----------------|------|
+| **Optional** | You want “frontal wolf attitude” (snout width, ear height, symmetry) | Those sheets are **curved** and **moon-backed** — the model may **copy curves** or **bring the moon back** unless you override hard in text. |
+| **Skip** | You want the **strict rectilinear** look with zero debate | Text-only is often **cleaner** for polygon wolves. |
+
+**If you attach 1–3 refs:** Add this line **above** the main prompt in the same message:
+
+```text
+REFERENCE IMAGES: Official-style Legion decals for MOOD AND POSE ONLY — frontal wolf facing camera. You must NOT copy them. REDRAW from scratch: (1) remove every moon, crescent, and split black/white disk; (2) replace ALL curved edges on the wolf with STRAIGHT LINE SEGMENTS and SHARP ANGLES only (polygonal / faceted). Output must be original geometry suitable for a homebrew chapter, not a duplicate of the reference artwork.
+```
+
+**Repo copies of those refs (optional upload):** [`reference-gw-luna-wolves-source/`](reference-gw-luna-wolves-source/README.md)
+
+---
+
+### Prompt A — Chapter seal (paste into Gemini)
+
+```text
+Generate a flat 2D chapter emblem image (original design, not copying any existing decal).
+
+SETTING: Loyalist Adeptus Astartes successor chapter with Space Wolves gene-line symbolism on paper, but culture is a cold INDUSTRIAL FORGE-WORLD (Noviomagus tone) — not Fenris, no runes, no pelts, no snow, no sky-blue feral wolf palette.
+
+MASTER GEOMETRY — NON-NEGOTIABLE: The wolf’s head is built ONLY from straight line segments meeting at sharp angles — polygonal / low-poly / plasma-cut steel stencil. ZERO curved edges on the wolf (no round muzzle, no smooth jaw, no rounded ears, no circular eyes). Eyes = small triangles or narrow parallelogram slits. Cheeks = sawtooth straight spikes. Optional perfect circles ONLY as a thin double OUTER border around the whole seal — no moon, no crescent, no disk behind the wolf’s head.
+
+COMPOSITION: (1) Primary: frontal symmetrical wolf head. (2) Secondary: one horizontal Roman gladius, straight-edged blade, behind or under the lower jaw. (3) Tertiary: two or three parallel ANGULAR zigzag lines under the gladius for water — not smooth waves.
+
+STYLE: Military insignia, vector-like, solid fills, high contrast, transparent background if possible. Gunmetal grey wolf with optional crimson accents on gladius hilt or zigzag tips. No text, no skulls, no Chaos, no Eye of Horus, no cartoon, no photoreal fur, no 3D gloss.
+
+EXCLUDE: moon, crescent, lunar disk, half-black-half-white roundel, curved wolf outline, Bezier snout, oval eyes, Fenris tribal decoration, watermark.
+```
+
+**Follow-up** (if the first image is wrong): *“Regenerate: wolf must be 100% straight-line polygon facets, zero curves on the animal; still no moon.”*
+
+---
+
+### Prompt B — Shoulder icon only (second message or new chat)
+
+```text
+Generate a flat 2D shoulder-pad decal: SINGLE frontal wolf head only, symmetrical, original design.
+
+Same loyalist forge-world successor tone — not Fenris tribal.
+
+MASTER GEOMETRY — NON-NEGOTIABLE: Wolf silhouette uses ONLY straight edges and sharp vertices — polygonal faceted mask. No curves on the wolf. Triangular or slit eyes (straight sides only). No gladius, no waves, no border circle required.
+
+Black or dark gunmetal on transparent background if possible; must stay legible when very small. No moon, no crescent, no runes, no text, no photoreal fur.
+```
+
+---
+
 ## Tools (brief)
 
 | Tool | Tip |
 |------|-----|
-| **Gemini / Imagen** | Paste **Master instruction** + **Chapter long**; ask for “flat vector-style PNG, transparent.” |
+| **Gemini** | Use **Prompt A** / **Prompt B** in the section above; add reference-image disclaimer only if you upload refs. |
+| **Imagen** (via Gemini) | Same prompts; ask for “square image, centered emblem, flat colors.” |
 | **Midjourney** | Append: `no curves, no rounded shapes, straight line polygon wolf --no circle, moon, crescent` (tune as needed). |
 | **Firefly / Ideogram / Leonardo** | Add “technical stencil, origami polygon logo, straight-edge only.” |
 
