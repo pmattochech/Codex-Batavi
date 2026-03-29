@@ -412,7 +412,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     ps.set_defaults(func=cmd_serve)
 
-    pg = sub.add_parser("generate", help="Enfileirar prompt e salvar PNG (codex-batavi/imagens-lore por padrão)")
+    pg = sub.add_parser("generate", help="Enfileirar prompt e salvar PNG (codex-batavi/lore-images por padrão)")
     pg.add_argument("--preset", type=str, default=None, help="Nome do preset (presets.toml)")
     pg.add_argument(
         "--workflow",
@@ -444,7 +444,7 @@ def build_parser() -> argparse.ArgumentParser:
         "--assets-dir",
         type=str,
         default=None,
-        help="Destino das PNG (padrão: FORJA_ASSETS_DIR ou ~/Codex-Batavi/codex-batavi/imagens-lore)",
+        help="Destino das PNG (padrão: FORJA_ASSETS_DIR ou ~/Codex-Batavi/codex-batavi/lore-images)",
     )
     pg.add_argument(
         "--settle",

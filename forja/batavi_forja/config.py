@@ -36,4 +36,4 @@ def assets_dir() -> Path:
     raw = os.environ.get("FORJA_ASSETS_DIR")
     if raw:
         return Path(raw).expanduser().resolve()
-    return (Path.home() / "Codex-Batavi" / "codex-batavi" / "imagens-lore").resolve()
+    return (Path.home() / "Codex-Batavi" / "codex-batavi" / "lore-images").resolve()

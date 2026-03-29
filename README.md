@@ -4,7 +4,7 @@ Monorepo com três áreas na **raiz**:
 
 | Pasta | Conteúdo |
 |--------|----------|
-| **`codex-batavi/`** | Lore em Markdown, `.cursorrules`, `imagens-lore/` |
+| **`codex-batavi/`** | Lore em Markdown, `.cursorrules`, `lore-images/` (symlink `imagens-lore/`) |
 | **`forja/`** | Pacote `batavi-forja` / CLI `batavi-img`; [tutorial](forja/TUTORIAL.md) · [README](forja/README.md) · [cheat sheet](forja/CHEATSHEET.md) |
 | **`scripts/`** | Utilitários de manutenção do codex |
 

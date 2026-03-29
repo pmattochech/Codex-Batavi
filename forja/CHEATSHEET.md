@@ -122,12 +122,12 @@ batavi-img generate --preset default --node-id "7" -m "..."
 
 | Flag | O que faz |
 |------|-----------|
-| `--skip-move` | Não move a PNG para `imagens-lore` (só gera no ComfyUI). |
+| `--skip-move` | Não move a PNG para `lore-images` (só gera no ComfyUI). |
 | `--poll-fallback` | Confirma de novo via `GET /history` após o WebSocket. |
 | `--timeout N` | Tempo máximo de espera em segundos (padrão em `generate`: 900). |
 | `--url URL` | Base do ComfyUI (padrão: env `FORJA_COMFY_URL` ou `http://127.0.0.1:8188`). |
 | `--comfy-output DIR` | Pasta de saída do ComfyUI (padrão: `~/ComfyUI/output` ou `FORJA_COMFY_OUTPUT`). |
-| `--assets-dir DIR` | Onde salvar a PNG final (padrão: `~/Codex-Batavi/codex-batavi/imagens-lore` ou `FORJA_ASSETS_DIR`). |
+| `--assets-dir DIR` | Onde salvar a PNG final (padrão: `~/Codex-Batavi/codex-batavi/lore-images` ou `FORJA_ASSETS_DIR`). |
 | `--settle N` | Segundos de espera após o fim do job antes de achar o `.png` mais recente (padrão: 0.75). |
 
 Exemplo combinado:
@@ -136,7 +136,7 @@ Exemplo combinado:
 batavi-img generate --preset default -m "teste" \
   --timeout 1200 \
   --comfy-output ~/ComfyUI/output \
-  --assets-dir ~/Codex-Batavi/codex-batavi/imagens-lore \
+  --assets-dir ~/Codex-Batavi/codex-batavi/lore-images \
   --poll-fallback
 ```
 
@@ -149,7 +149,7 @@ export FORJA_COMFY_HOME=~/ComfyUI
 export FORJA_COMFY_PYTHON=~/miniconda3/envs/forja_batavi/bin/python
 export FORJA_COMFY_URL=http://127.0.0.1:8188
 export FORJA_COMFY_OUTPUT=~/ComfyUI/output
-export FORJA_ASSETS_DIR=~/Codex-Batavi/codex-batavi/imagens-lore
+export FORJA_ASSETS_DIR=~/Codex-Batavi/codex-batavi/lore-images
 ```
 
 ---
@@ -167,6 +167,6 @@ batavi-img check --help
 
 Por padrão, a PNG mais nova em `~/ComfyUI/output` é renomeada (slug do prompt + data UTC) e movida para:
 
-`~/Codex-Batavi/codex-batavi/imagens-lore/`
+`~/Codex-Batavi/codex-batavi/lore-images/`
 
 (ou o que você definir em `FORJA_ASSETS_DIR` / `--assets-dir`.)

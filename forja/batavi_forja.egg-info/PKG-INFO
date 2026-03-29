@@ -39,7 +39,7 @@ Variáveis de ambiente (opcional):
 | `FORJA_COMFY_HOME` | Pasta do clone ComfyUI onde está `main.py` (padrão: `~/ComfyUI`) — usado por `serve` |
 | `FORJA_COMFY_PYTHON` | Interpretador para `main.py` no `serve` (padrão: o mesmo `python` do `batavi-img`) |
 | `FORJA_COMFY_OUTPUT` | Pasta de saída do ComfyUI (padrão: `~/ComfyUI/output`) |
-| `FORJA_ASSETS_DIR` | Onde salvar PNG renomeadas (padrão: `~/Codex-Batavi/codex-batavi/imagens-lore`) |
+| `FORJA_ASSETS_DIR` | Onde salvar PNG renomeadas (padrão: `~/Codex-Batavi/codex-batavi/lore-images`) |
 
 ## Workflow (ComfyUI)
 
@@ -54,7 +54,7 @@ Variáveis de ambiente (opcional):
 | `serve` | Inicia o ComfyUI (`python main.py` em `FORJA_COMFY_HOME` / `~/ComfyUI`). |
 | `check` | Testa se o ComfyUI responde (`GET /system_stats`). |
 | `presets` | Lista entradas de `presets.toml` (workflow + `prompt_node_id`). |
-| `generate` | Enfileira o workflow, aguarda (WebSocket + `/history`), move o PNG mais recente para `imagens-lore` (ou `--assets-dir`). |
+| `generate` | Enfileira o workflow, aguarda (WebSocket + `/history`), move o PNG mais recente para `lore-images` (ou `--assets-dir`). |
 | `templates` | Lista arquivos `templates/prompts/*.toml` (personagens / cenários). |
 
 **Global**
@@ -138,7 +138,7 @@ batavi-img generate --preset default -m "..." --poll-fallback
 # Pastas e tempo
 batavi-img generate --preset default -m "..." --timeout 1200 \
   --comfy-output ~/ComfyUI/output \
-  --assets-dir ~/Codex-Batavi/codex-batavi/imagens-lore \
+  --assets-dir ~/Codex-Batavi/codex-batavi/lore-images \
   --settle 1.5
 ```
 

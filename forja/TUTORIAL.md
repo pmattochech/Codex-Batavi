@@ -2,7 +2,7 @@
 
 Este guia assume que **você acabou de instalar o ComfyUI** no seu Nobara (GPU AMD) e que o repositório **Codex-Batavi** já está na máquina com a estrutura:
 
-- `codex-batavi/` — lore Markdown e `imagens-lore/`
+- `codex-batavi/` — lore Markdown e `lore-images/`
 - `forja/` — esta CLI (`batavi-img`)
 - `scripts/` — manutenção do codex (opcional para imagens)
 
@@ -62,7 +62,7 @@ export FORJA_COMFY_PYTHON=/caminho/para/o/python/que/roda/o/ComfyUI
 export FORJA_COMFY_HOME=~/ComfyUI              # pasta com main.py
 export FORJA_COMFY_URL=http://127.0.0.1:8188   # URL da API
 export FORJA_COMFY_OUTPUT=~/ComfyUI/output     # saída das imagens
-export FORJA_ASSETS_DIR=~/Codex-Batavi/codex-batavi/imagens-lore
+export FORJA_ASSETS_DIR=~/Codex-Batavi/codex-batavi/lore-images
 ```
 
 (Você pode colocar `export` permanentes no `~/.bashrc` se quiser.)
@@ -161,7 +161,7 @@ conda activate forja_batavi
 batavi-img generate --preset default -m "grimdark, space marine, gothic, rain"
 ```
 
-Fluxo resumido: injeta o texto no nó → **POST** `/prompt` → aguarda (WebSocket + histórico) → pega o `.png` mais recente em **`~/ComfyUI/output`** → renomeia e move para **`codex-batavi/imagens-lore/`** (ou `FORJA_ASSETS_DIR`).
+Fluxo resumido: injeta o texto no nó → **POST** `/prompt` → aguarda (WebSocket + histórico) → pega o `.png` mais recente em **`~/ComfyUI/output`** → renomeia e move para **`codex-batavi/lore-images/`** (ou `FORJA_ASSETS_DIR`).
 
 ---
 
@@ -181,7 +181,7 @@ Objetivo de longo prazo: aproximar o pipeline local do **visual de referência**
 | Fase | O quê | Notas |
 |------|--------|--------|
 | **0** | Baseline | Um `workflow_api.json` fixo, mesmo checkpoint, `batavi-img generate` reprodutível; negativo com anti-monocromático (ver `workflows/workflow_api.json` nó 7). |
-| **1** | Alvo explícito | Guarde a PNG modelo com nome estável (ex. copiar para `codex-batavi/imagens-lore/referencia-alaric-modelo.png`) e uma checklist mental (pose, lados dos lobos, espada, cenário). |
+| **1** | Alvo explícito | Guarde a PNG modelo com nome estável (ex. copiar para `codex-batavi/lore-images/referencia-alaric-modelo.png`) e uma checklist mental (pose, lados dos lobos, espada, cenário). |
 | **2** | Prompt só texto | Template **`alaric_reference_fullbody`** + várias seeds; medir o teto do checkpoint antes de nós extras. |
 | **3** | Pilha de modelo | SDXL Refiner no grafo; opcionalmente outro checkpoint ou uma LoRA — **uma mudança de cada vez**. |
 | **4** | Ancoragem visual | IP-Adapter (ou ControlNet pose/depth) a partir da referência, quando texto + modelo não chegarem. |
