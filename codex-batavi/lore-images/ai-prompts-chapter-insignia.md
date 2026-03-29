@@ -113,6 +113,39 @@ Rectilinear polygonal frontal wolf head only, straight edges sharp corners, tria
 
 ---
 
+## Web form: “Space Wolves successor” (dropdown hack)
+
+**In the tool:** Set **Chapter** = **Space Wolves** (or “successor / successor chapter” if available).  
+**In the text boxes:** Paste the blocks below so the art is **not** Fenris — **loyalist forge-world successor**, rectilinear wolf, **no moon**, Batavian heraldry (gladius + angular water).
+
+### Field — “Chapter Insignia” (paste entire block)
+
+```text
+CONTEXT: Loyalist Adeptus Astartes chapter presented in records as a Space Wolves successor (shared gene-line symbolism), but culture and heraldry are NOVIOMAGUS FORGE-WORLD — cold industrial, mathematical, not Fenris tribal. No wolf pelts, no runes, no snow, no sky-blue feral palette. Plate psychology: gunmetal industrial grey with crimson accents only where noted.
+
+MASTER GEOMETRY — NON-NEGOTIABLE: The wolf’s head uses ONLY straight line segments meeting at sharp angles — polygonal / faceted / plasma-cut steel stencil. ZERO curves on the wolf (no round muzzle, no smooth snout, no rounded ears). Eyes = narrow triangles or angled slits. Cheek detail = short straight spikes or sawteeth. “Water” = zigzag or stepped lines only, never smooth waves. Perfect circles allowed ONLY as the outer double-ring border of the seal, not behind the wolf’s head.
+
+DESIGN THE CHAPTER SEAL: Flat 2D vector-style emblem, transparent background, high contrast. Front-facing symmetrical wolf head (primary charge). No moon, no crescent, no half-black-half-white disk, no lunar phase roundel — those are explicitly forbidden. Horizontal Roman gladius (straight-edged blade) behind or beneath the lower jaw. Below the gladius: two or three parallel angular zigzag bands suggesting water. Optional thin concentric circle frame around the whole composition only. Style: military stencil, armory insignia, grimdark industrial loyalist — NOT Sons of Horus, NOT Chaos, NOT cartoon.
+
+EXCLUDE: Eye of Horus, Chaos marks, skull as main icon, bones, totems, photoreal fur, 3D glossy render, text, watermark, any curved edge on the wolf silhouette.
+```
+
+### Field — “Shoulder Insignia” (paste entire block)
+
+```text
+CONTEXT: Same loyalist chapter as above — Space Wolves successor on paper, Noviomagus industrial forge-world in heraldry. NOT Fenris: no runes, no tribal knots, no pelt, no blue-grey Space Wolves style wolf.
+
+MASTER GEOMETRY — NON-NEGOTIABLE: Wolf head = ONLY straight lines and sharp corners — polygonal faceted frontal mask, zero curves on the animal. Triangular or slit eyes (straight edges only). Sawtooth cheeks if needed — every tooth a short straight segment.
+
+SHOULDER DECAL: Single charge only — the frontal wolf, symmetrical, black or dark gunmetal silhouette on transparent background, optimized for small pauldron (legible when tiny). No moon, no crescent, no gladius, no waves on this field — wolf head alone. Flat 2D heraldry, print-sharp edges, original geometry (not a copy of official transfers).
+
+EXCLUDE: Curves on the wolf, moon, crescent, runes, snow, cartoon style, photoreal fur, text, watermark.
+```
+
+**After “Enhance Prompt” (if the tool rewrites you):** paste the **Enhance prompt add-on** from the section above so rectilinear + no-moon stay locked.
+
+---
+
 ## Tools (brief)
 
 | Tool | Tip |
