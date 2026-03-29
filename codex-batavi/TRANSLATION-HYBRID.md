@@ -14,7 +14,7 @@ This document defines **what to translate when**, not a single giant commit. Wor
 3. **No silent mass rewrite** — Do not convert stable Portuguese files “while passing through” unless this doc or the user puts them in scope.
 4. **Glossary first** — Use and extend [`GLOSSARY-EN.md`](GLOSSARY-EN.md) before large batches so names and coinages stay consistent.
 5. **Machine translation** — Allowed as **draft only**; always pass for voice (grimdark pragmatic, Triumvirate registers) and for 40k terminology.
-6. **English path slugs** — Folder and file names under `chronicles/` use kebab-case English; legacy `cronicas/` paths remain as **redirect stubs** (and one symlink) for bookmarks and external links.
+6. **English path slugs** — Folder and file names under `chronicles/` use kebab-case English. One optional alias remains: `chronicles/06-era-das-chuvas` → `06-silent-vigil` (symlink).
 
 ---
 
@@ -45,7 +45,7 @@ This document defines **what to translate when**, not a single giant commit. Wor
 
 - **High Gothic** tags, fixed battle cries, and established **English** quotes (e.g. *“We hold.”*, *“The Emperor dictates, we comply.”*).
 - **Proper nouns** (person, ship, fortress names) unless you choose a deliberate Anglicization — record in the glossary.
-- **Legacy `cronicas/` paths** — Stub `.md` files and `06-era-das-chuvas` symlink under `cronicas/` point to `chronicles/` (see `chronicles/INDEX.md`).
+- **Legacy Portuguese folder names** — Removed from the repo (2026 cleanup). Use canonical hubs only (`chronicles/`, `personae-command-index/`, etc.).
 
 ---
 
@@ -61,8 +61,8 @@ Section **0.1** states the default language for **new and edited** Markdown. Thi
 |-------|--------|--------|
 | **P0** | Root `README.md`, `codex-batavi/README.md`, all hub `INDEX.md` files (`chronicles/`, `personae-command-index/`, `atlas-and-topography/`, `arsenal-and-logistics/`, `biological-encyclopedia-bestiary/`, `lexicon-and-litanies/`, `political-relations/`) | **Done** |
 | **P1** | `chronicles/07-iron-venus/`, `11-sigma-moon/`, `12-vigilax/`, `13-apotheosis/` (prose in place; English path slugs) | **Done** |
-| **P2** | `personae-command-index/` — doctrine (`doctrine-and-organs/`), events (`events-and-chronologies/`), intro/heraldry (`intro-and-heraldry/`), all `character-dossiers/*.md` | **Done** (hub `INDEX.md` was P0; body files English; English path slugs; legacy stubs under `index-personae-e-comando/`) |
-| **P3** | `atlas-and-topography/` (incl. `systems/`), `arsenal-and-logistics/`, `political-relations/`, `lexicon-and-litanies/` (prose in English; English path slugs; legacy stubs under `lexicon-e-litanias/`, `relacoes-politicas/`) | **Done** |
+| **P2** | `personae-command-index/` — doctrine (`doctrine-and-organs/`), events (`events-and-chronologies/`), intro/heraldry (`intro-and-heraldry/`), all `character-dossiers/*.md` | **Done** (hub `INDEX.md` was P0; body files English; English path slugs) |
+| **P3** | `atlas-and-topography/` (incl. `systems/`), `arsenal-and-logistics/`, `political-relations/`, `lexicon-and-litanies/` (prose in English; English path slugs) | **Done** |
 | **P4** | `biological-encyclopedia-bestiary/` (biology encyclopedia, matrices, Viggo dossier; English path slugs) | **Done** |
 | **P5** | Deferred `chronicles/` narrative: `00`–`06`, `08`–`10` (all body `.md` listed in [`chronicles/INDEX.md`](chronicles/INDEX.md) for those arcs; English path slugs) | **Done** |
 
@@ -72,15 +72,9 @@ Section **0.1** states the default language for **new and edited** Markdown. Thi
 
 **`codex-batavi/` Markdown prose:** Tiers **P0–P5** are migrated to **US English** where a body file existed. Terminology aligns with [`.cursorrules`](../.cursorrules) and [`GLOSSARY-EN.md`](GLOSSARY-EN.md) (**Wolf’s Curse**, **Versibar**, **Warp** / **Shadow in the Warp**, **Batav Wolf** / *Canis Batavorum*, **Thunderwolf**, **Axiom of Reason** / *Axioma Rationis*, no **DAoT** as main form in EN).
 
-**Compatibility (legacy paths → canonical English hubs):**
+**Canonical paths only:** Legacy Portuguese hub trees (`cronicas/`, `index-personae-e-comando/`, `lexicon-e-litanias/`, `relacoes-politicas/`, `atlas-e-topografia/`, `arsenal-e-logistica/`, `enciclopedia-biologica-e-bestiario/`) and the `imagens-lore/` symlink were **removed** in a 2026 cleanup. Bookmarks must use the English hubs listed in [`codex-batavi/README.md`](README.md).
 
-- **`cronicas/`** — Hub [`cronicas/INDEX.md`](cronicas/INDEX.md) redirects to [`chronicles/INDEX.md`](chronicles/INDEX.md). Every chronicle file under the old Portuguese arc folders is a **one-line stub** (body is only a **`Moved:`** line linking to the matching `chronicles/…` file).
-- **`chronicles/06-era-das-chuvas`** — Symbolic link to `06-silent-vigil` (see [`chronicles/INDEX.md`](chronicles/INDEX.md)).
-- **`atlas-e-topografia/`**, **`arsenal-e-logistica/`**, **`enciclopedia-biologica-e-bestiario/`** — Redirect stubs to [`atlas-and-topography/`](atlas-and-topography/INDEX.md), [`arsenal-and-logistics/`](arsenal-and-logistics/INDEX.md), [`biological-encyclopedia-bestiary/`](biological-encyclopedia-bestiary/INDEX.md).
-- **`index-personae-e-comando/`** — Redirect stubs to [`personae-command-index/`](personae-command-index/INDEX.md).
-- **`lexicon-e-litanias/`** — Redirect stubs to [`lexicon-and-litanies/`](lexicon-and-litanies/INDEX.md).
-- **`relacoes-politicas/`** — Redirect stubs to [`political-relations/`](political-relations/INDEX.md).
-- **`imagens-lore/`** — Symbolic link to [`lore-images/`](lore-images/) (PNG assets; CLI default uses `lore-images/`).
+**Optional alias:** [`chronicles/06-era-das-chuvas`](chronicles/06-era-das-chuvas) remains a **symlink** to `06-silent-vigil` (see [`chronicles/INDEX.md`](chronicles/INDEX.md)). PNG assets live under [`lore-images/`](lore-images/); the `batavi-img` CLI defaults there.
 
 **Still not written (not a translation gap):** Planned quarter chronicles under `00-foundation-war/` (`segundo-quarto.md`, etc.) — summaries live in `foundation-war.md` until you author those files.
 

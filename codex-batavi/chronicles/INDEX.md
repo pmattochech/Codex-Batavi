@@ -51,7 +51,7 @@ The four quarters are summarized with canonical milestones in [foundation-war.md
 - [last-heat-of-the-wall.md](06-silent-vigil/last-heat-of-the-wall.md) ✅ — Martha’s kitchen, Elara as infant and childhood with Viggo, Viggo’s death (Elara age twelve, after Luna Sigma), Mantle of Providence, bones on Fenris.
 - [without-distinction.md](06-silent-vigil/without-distinction.md) ✅ — ca. 280.M42. Halvard, Legatus of the I Vexillatio. Post-battle protocol without celebration or praise: maintenance, replenishment, chaplain, descent to the cells. The weight of being functional as the only form of honor.
 
-**Path backward compatibility:** `chronicles/06-era-das-chuvas` is a symbolic link to `06-silent-vigil`. Legacy filenames in that arc (`silencio-era-das-chuvas.md`, `silencio-strategium.md`, `ultimo-calor-do-muro.md`, `sem-destaque.md`) are redirect stubs to the English-slug files. Old `cronicas/` paths remain available via stub files at the previous locations.
+**Path alias:** `chronicles/06-era-das-chuvas` is a symbolic link to `06-silent-vigil` (legacy arc folder name).
 
 ## 07-iron-venus
 - [iron-venus.md](07-iron-venus/iron-venus.md) — aggregated block (short merged H1s: *The End of the Vigil*, Tyvar, Aethelgard, etc.)

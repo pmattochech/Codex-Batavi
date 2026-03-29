@@ -23,7 +23,7 @@ RENAMES: list[tuple[str, str]] = [
     ("atlas-and-topography/systems/ATLAS_SISTEMA_II_CADINHO.md",         "system-ii-crucible.md"),
     ("atlas-and-topography/systems/ATLAS_SISTEMA_III_LIMIAR.md",         "system-iii-threshold.md"),
 
-    # ── personae command index (canonical tree; stubs under index-personae-e-comando/) ──
+    # ── personae command index (canonical tree) ──
     ("personae-command-index/intro-and-heraldry/codex-batavorum.md", "intro-and-heraldry.md"),
     ("personae-command-index/doctrine-and-organs/ficha-tecnica-o-codex-batavorum.md", "technical-datasheet.md"),
     ("personae-command-index/doctrine-and-organs/o-conselho-extendido-e-o-librarium.md", "council-and-librarium.md"),
