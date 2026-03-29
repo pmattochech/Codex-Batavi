@@ -4,7 +4,7 @@
 
 **Prose rule:** In chronicles and wiki narrative, prefer **generic descriptions** (*industrial grey* plate, *crimson* oath-tracery, *crimson* lenses) so text stays immersive. This file holds the **exact** paint names.
 
-**Related:** [infantry-visual-identity.md](arsenal-and-logistics/infantry-visual-identity.md) — infantry breakdown; [dossier-alaric.md](personae-command-index/character-dossiers/dossier-alaric.md) — Castellan chassis notes.
+**Related:** [infantry-visual-identity.md](arsenal-and-logistics/infantry-visual-identity.md) — infantry breakdown; [dossier-alaric.md](personae-command-index/character-dossiers/dossier-alaric.md) — Castellan chassis notes; [intro-and-heraldry.md](personae-command-index/intro-and-heraldry/intro-and-heraldry.md) — frontal wolf charge (**no lunar field**); GW silhouette refs in [`lore-images/reference-gw-luna-wolves-source/`](lore-images/reference-gw-luna-wolves-source/README.md).
 
 ---
 

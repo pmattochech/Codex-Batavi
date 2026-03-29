@@ -13,6 +13,7 @@ The *Batav* mythic base justifies the *Cohors Batavorum*’s visual elements and
 **Heraldry (The Wolf, the Gladius, and the Waves)**
 
 * **The black wolf — primary charge:** The Chapter’s **master emblem** uses a **front-facing wolf’s head** (full face or slight three-quarter), echoing the **Luna Wolves / XVI Legion** legibility: a frontal predator mask readable at pauldron scale and on seals. It signals **Loken-line** inheritance without claiming Legion identity — the Batavi are *Cohors Batavorum*, not a Sons of Horus successor. Visually: lean, industrial silhouette (forge-world austerity), not parade ornament; ears and muzzle aligned for symmetry on a roundel or shield.  
+* **Lunar field — explicitly removed:** Official XVI transfer art often frames the wolf with a **crescent moon**, a **half-black / half-white “lunar” disk**, or both. For *Cohors Batavorum* those elements are **stripped in full** — no moon, no crescent, no mimicked “Luna” roundel. What may remain is a **plain** geometric frame if needed for print (single or double **circular rule**, **shield**, or unbounded field on plate), optionally carrying **waves** and **horizontal gladius** as separate charges. Reference captures for tracing geometry live under [`lore-images/reference-gw-luna-wolves-source/`](../../lore-images/reference-gw-luna-wolves-source/README.md); adaptation work deletes lunar negative space behind the muzzle and any crescent cradling the skull.  
 * **The horizontal gladius:** Secondary charge — symbolizes Loken’s tactical lineage and the “second blade” doctrine (dry, economical strikes, friction geometry). **Composition:** typically **behind** or **beneath** the wolf’s head (crossing the field horizontally) or **in the jaws** as a simplified monogram for very small decals; the **horizontal** orientation is non-negotiable where space allows — it distinguishes the blade from vertical “trophy sword” heraldry.  
 * **The waves at the base:** Tertiary charge — mythic amphibious origin and the waterborne insertion that marked sector sovereignty; usually a **reduced** band on small icons (single or two crest lines).
 
@@ -25,7 +26,7 @@ The frontal wolf invites comparison to old XVI iconography. Canonical separation
 | Horizontal gladius + waves + industrial grey plate | Full traitor Legion “dress mimicry” without in-universe reason (Batavi are Imperial oath-bound) |
 | Stoic / hollow-eye helm treatments on characters (Varro, line officers) | Marketing the Chapter as disguised Heretic Astartes |
 
-If you use a **reference sheet** (e.g. Luna Wolves decal layout), treat it as **silhouette and frontal attitude** only; final geometry, negative space, and supporting charges remain **Batav** (waves, horizontal blade, Noviomagus greys).
+If you use a **reference sheet** (e.g. Luna Wolves decal layout), treat it as **silhouette and frontal attitude** only — **never** import the **moon** (crescent or split disk). Final geometry, negative space, and supporting charges remain **Batav** (waves, horizontal blade, Noviomagus greys).
 
 **Specialization in high-pressure environments**  
 Inspired by *Batav* biology, the warriors specialized in fights where atmospheric or hydrostatic pressure would crush a baseline human.
