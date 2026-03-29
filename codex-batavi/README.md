@@ -4,6 +4,8 @@ Thematic structure. Immutable rules: `.cursorrules` (in this folder; symlink at 
 
 **English migration (hybrid):** phased Portuguese → English translation — priorities, batches, and principles: [**TRANSLATION-HYBRID.md**](TRANSLATION-HYBRID.md) · working terms: [**GLOSSARY-EN.md**](GLOSSARY-EN.md) · models / exact colours: [**visual-identity-paint-guide.md**](visual-identity-paint-guide.md).
 
+**Legacy hub paths** (Portuguese folder names, redirect stubs, symlinks): see the **Compatibility** bullets in [**TRANSLATION-HYBRID.md**](TRANSLATION-HYBRID.md) (section *Audit — post-migration notes*).
+
 | Folder | Contents |
 |--------|-----------|
 | [personae-command-index](personae-command-index/INDEX.md) | Heraldry, doctrine, hierarchy, dossiers, events & chronologies |

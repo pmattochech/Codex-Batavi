@@ -1,19 +1,19 @@
-# Tutorial — do ComfyUI recém-instalado ao primeiro `batavi-img generate`
+# Tutorial — from a fresh ComfyUI install to your first `batavi-img generate`
 
-Este guia assume que **você acabou de instalar o ComfyUI** no seu Nobara (GPU AMD) e que o repositório **Codex-Batavi** já está na máquina com a estrutura:
+This guide assumes you **just installed ComfyUI** on Nobara (AMD GPU) and that the **Codex-Batavi** repo is already on disk with:
 
-- `codex-batavi/` — lore Markdown e `lore-images/`
-- `forja/` — esta CLI (`batavi-img`)
-- `scripts/` — manutenção do codex (opcional para imagens)
+- `codex-batavi/` — lore Markdown and `lore-images/`
+- `forja/` — this CLI (`batavi-img`)
+- `scripts/` — codex maintenance (optional for images)
 
 ---
 
-## 1. Confirmar a instalação do ComfyUI
+## 1. Verify the ComfyUI install
 
-1. Localize a pasta do ComfyUI. O mais comum é **`~/ComfyUI/`**, com **`main.py`** na raiz dessa pasta.
-2. Se você instalou em outro lugar, anote o caminho — você vai usar **`FORJA_COMFY_HOME`** ou **`batavi-img serve --comfy-home ...`**.
+1. Locate the ComfyUI folder. The usual case is **`~/ComfyUI/`** with **`main.py`** at that root.
+2. If you installed elsewhere, note the path — you will use **`FORJA_COMFY_HOME`** or **`batavi-img serve --comfy-home ...`**.
 
-**Teste rápido (sem a CLI forja ainda):** use o **mesmo** conda onde instalou torch + `pip install -r requirements.txt` do ComfyUI:
+**Quick test (without the forja CLI yet):** use the **same** conda env where you installed torch + ComfyUI’s `pip install -r requirements.txt`:
 
 ```bash
 conda activate forja_batavi
@@ -21,20 +21,20 @@ cd ~/ComfyUI
 python main.py
 ```
 
-Abra o navegador em **`http://127.0.0.1:8188`** (ou a porta que o terminal mostrar). Se o grafo abrir, a instalação base está ok. **Ctrl+C** no terminal para parar.
+Open the browser at **`http://127.0.0.1:8188`** (or the port the terminal prints). If the graph loads, the base install is fine. **Ctrl+C** in the terminal to stop.
 
-> **AMD (RDNA3):** siga a documentação do ComfyUI/PyTorch para Linux com ROCm (ou a stack que você escolheu na instalação). Se `python main.py` falhar por GPU, resolva isso **antes** de depender do `batavi-img generate`.
+> **AMD (RDNA3):** follow ComfyUI/PyTorch docs for Linux with ROCm (or whatever stack you chose). If `python main.py` fails on GPU, fix that **before** relying on `batavi-img generate`.
 
 ---
 
-## 2. Ambiente Python único (recomendado)
+## 2. Single Python environment (recommended)
 
-Para **`serve`** e **`generate`** funcionarem sem surpresas, o ideal é **um só ambiente conda/venv** onde:
+For **`serve`** and **`generate`** to behave predictably, prefer **one** conda/venv where:
 
-- estão as dependências do **ComfyUI**;
-- você instala o pacote **`batavi-forja`** (`pip install -e .`).
+- **ComfyUI** dependencies live;
+- you install **`batavi-forja`** (`pip install -e .`).
 
-Exemplo com conda **`forja_batavi`**:
+Example with conda **`forja_batavi`**:
 
 ```bash
 conda activate forja_batavi
@@ -42,43 +42,43 @@ cd ~/Codex-Batavi/forja
 pip install -e .
 ```
 
-Confirme:
+Confirm:
 
 ```bash
 batavi-img --version
 ```
 
-Se o ComfyUI **não** estiver no mesmo ambiente, você pode apontar outro interpretador:
+If ComfyUI is **not** in the same environment, point at another interpreter:
 
 ```bash
-export FORJA_COMFY_PYTHON=/caminho/para/o/python/que/roda/o/ComfyUI
+export FORJA_COMFY_PYTHON=/path/to/python/that/runs/ComfyUI
 ```
 
 ---
 
-## 3. Variáveis opcionais (se você não usa os caminhos padrão)
+## 3. Optional variables (if you do not use default paths)
 
 ```bash
-export FORJA_COMFY_HOME=~/ComfyUI              # pasta com main.py
-export FORJA_COMFY_URL=http://127.0.0.1:8188   # URL da API
-export FORJA_COMFY_OUTPUT=~/ComfyUI/output     # saída das imagens
+export FORJA_COMFY_HOME=~/ComfyUI              # folder with main.py
+export FORJA_COMFY_URL=http://127.0.0.1:8188   # API URL
+export FORJA_COMFY_OUTPUT=~/ComfyUI/output     # image output
 export FORJA_ASSETS_DIR=~/Codex-Batavi/codex-batavi/lore-images
 ```
 
-(Você pode colocar `export` permanentes no `~/.bashrc` se quiser.)
+(You can add permanent `export` lines to `~/.bashrc` if you want.)
 
 ---
 
-## 4. Subir o ComfyUI com a CLI (opcional mas prático)
+## 4. Start ComfyUI with the CLI (optional but handy)
 
-Num terminal com o ambiente certo:
+In a terminal with the right environment:
 
 ```bash
 conda activate forja_batavi
 batavi-img serve --port 8188 --listen 127.0.0.1
 ```
 
-Se o `serve` rodar noutro terminal **sem** `conda activate`, fixe o interpretador e a pasta do ComfyUI:
+If `serve` runs in another terminal **without** `conda activate`, set interpreter and ComfyUI home:
 
 ```bash
 export FORJA_COMFY_PYTHON="$HOME/miniconda3/envs/forja_batavi/bin/python"
@@ -86,109 +86,109 @@ export FORJA_COMFY_HOME="$HOME/ComfyUI"
 batavi-img serve --port 8188 --listen 127.0.0.1
 ```
 
-Deixe este terminal aberto. Em **outro** terminal:
+Leave this terminal open. In **another** terminal:
 
 ```bash
 conda activate forja_batavi
 batavi-img check
 ```
 
-Deve indicar que o ComfyUI está acessível.
+It should report that ComfyUI is reachable.
 
-**Alternativa:** continuar iniciando com `cd ~/ComfyUI && python main.py` — o `generate` só precisa que o servidor esteja **rodando**.
+**Alternative:** keep starting with `cd ~/ComfyUI && python main.py` — `generate` only needs the server **running**.
 
-**Terminal “travado” (processo em primeiro plano):** enquanto o ComfyUI corre, esse terminal não volta ao prompt. Opções:
+**“Stuck” terminal (foreground process):** while ComfyUI runs, that shell has no prompt. Options:
 
-- **`batavi-img serve --detach`** — sobe em segundo plano e liberta o terminal (log em `~/ComfyUI/batavi-forja-comfyui.log` ou `--log-file`).
-- **Dois terminais** — um só para o ComfyUI (`python main.py`); outro com `conda activate` para `batavi-img check` / `generate`.
-- **`tmux` / `screen`** — uma sessão para o servidor, outra para comandos.
-- **`nohup python main.py >>~/ComfyUI/comfyui.log 2>&1 &`** — segundo plano manual.
+- **`batavi-img serve --detach`** — background, frees the terminal (log at `~/ComfyUI/batavi-forja-comfyui.log` or `--log-file`).
+- **Two terminals** — one only for ComfyUI (`python main.py`); another with `conda activate` for `batavi-img check` / `generate`.
+- **`tmux` / `screen`** — one session for the server, one for commands.
+- **`nohup python main.py >>~/ComfyUI/comfyui.log 2>&1 &`** — manual background.
 
 ---
 
-## 5. Preparar o workflow para a API
+## 5. Prepare the workflow for the API
 
-1. Na interface web do ComfyUI, monte seu pipeline (checkpoint, prompts, Save Image, etc.) até gerar uma imagem **manualmente** uma vez (garanta que está estável).
-2. **Exporte em formato API** (opção do tipo *Save (API Format)* / *Export API* — o nome varia conforme a build).
-3. Salve o JSON em:
+1. In the ComfyUI web UI, build your pipeline (checkpoint, prompts, Save Image, etc.) until you can generate an image **manually** once (stable graph).
+2. **Export in API format** (e.g. *Save (API Format)* / *Export API* — wording depends on build).
+3. Save the JSON under:
 
    **`~/Codex-Batavi/forja/workflows/`**
 
-   Nome mínimo para começar: **`workflow_api.json`** — os presets **`default`**, **`portrait`**, **`scene`** e **`alaric_armor`** usam-no por padrão. Mais tarde você pode duplicar o arquivo (ex.: `scene_wide.api.json`) e apontar só um preset para ele.
+   Minimum name to start: **`workflow_api.json`** — presets **`default`**, **`portrait`**, **`scene`**, and **`alaric_armor`** use it by default. Later you can duplicate the file (e.g. `scene_wide.api.json`) and point a single preset at it.
 
-4. Abra o JSON e identifique o nó **`CLIPTextEncode`** do prompt que você quer substituir pela CLI. A chave é um número em string, ex. **`"6"`**.  
-   - Se no **`presets.toml`** você deixar `prompt_node_id = ""`, a CLI usa o **primeiro** `CLIPTextEncode` com `inputs.text` (cuidado se houver positivo e negativo).
+4. Open the JSON and find the **`CLIPTextEncode`** node for the prompt the CLI should replace. The key is a stringified number, e.g. **`"6"`**.  
+   - If **`presets.toml`** has `prompt_node_id = ""`, the CLI uses the **first** `CLIPTextEncode` with `inputs.text` (watch out if you have separate positive and negative nodes).
 
 ---
 
-## 6. Ajustar `presets.toml`
+## 6. Tune `presets.toml`
 
-Arquivo: **`forja/presets.toml`**
+File: **`forja/presets.toml`**
 
-- **`workflow`** — caminho **relativo à pasta `forja/`** (ex.: `workflows/workflow_api.json`).
-- **`prompt_node_id`** — ID do nó de texto, ou vazio para autodetecção.
+- **`workflow`** — path **relative to the `forja/` folder** (e.g. `workflows/workflow_api.json`).
+- **`prompt_node_id`** — text node ID, or empty for auto-detection.
 
-O preset **`alaric_armor`** usa o mesmo arquivo que **`default`**: **`workflows/workflow_api.json`**. Quando você tiver um grafo só para o Alaric, duplique o JSON e altere `presets.toml`.
+Preset **`alaric_armor`** uses the same file as **`default`**: **`workflows/workflow_api.json`**. When you have a graph just for Alaric, duplicate the JSON and update `presets.toml`.
 
 ```bash
 batavi-img presets
 ```
 
-Deve listar os presets e os arquivos configurados.
+You should see presets and configured files.
 
-### 6.1 Templates de prompt (personagens)
+### 6.1 Prompt templates (characters)
 
-Em **`forja/templates/prompts/`** há arquivos **`.toml`** com blocos `positive_prefix` / `positive_suffix` / `negative` (este último só sugerido no terminal).
+Under **`forja/templates/prompts/`** there are **`.toml`** files with `positive_prefix` / `positive_suffix` / `negative` (the last is only suggested in the terminal).
 
 ```bash
 batavi-img templates
 ```
 
-Ver **`templates/prompts/README.md`**. Exemplo mínimo com Alaric de armadura:
+See **`templates/prompts/README.md`**. Minimal Alaric armor example:
 
 ```bash
-batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "cena que você quer acrescentar"
+batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "extra scene detail you want"
 ```
 
 ---
 
-## 7. Primeira geração pela CLI
+## 7. First CLI generation
 
-Com o ComfyUI **rodando** e o ambiente conda ativo:
+With ComfyUI **running** and the conda env active:
 
 ```bash
 conda activate forja_batavi
 batavi-img generate --preset default -m "grimdark, space marine, gothic, rain"
 ```
 
-Fluxo resumido: injeta o texto no nó → **POST** `/prompt` → aguarda (WebSocket + histórico) → pega o `.png` mais recente em **`~/ComfyUI/output`** → renomeia e move para **`codex-batavi/lore-images/`** (ou `FORJA_ASSETS_DIR`).
+Short flow: inject text into the node → **POST** `/prompt` → wait (WebSocket + history) → take the newest `.png` in **`~/ComfyUI/output`** → rename and move to **`codex-batavi/lore-images/`** (or `FORJA_ASSETS_DIR`).
 
 ---
 
-## 8. Sessão típica daqui para a frente
+## 8. Typical session from here on
 
 1. `conda activate forja_batavi`
-2. `batavi-img serve` (ou seu método habitual)
-3. Em outro terminal: `batavi-img check`
-4. `batavi-img generate --preset default -m "..."` (ou `portrait` / `scene` / `--workflow` + `--node-id`)
+2. `batavi-img serve` (or your usual method)
+3. In another terminal: `batavi-img check`
+4. `batavi-img generate --preset default -m "..."` (or `portrait` / `scene` / `--workflow` + `--node-id`)
 
 ---
 
-## 9. Roadmap: imagem modelo (Alaric — referência)
+## 9. Roadmap: reference image (Alaric)
 
-Objetivo de longo prazo: aproximar o pipeline local do **visual de referência** (corpo inteiro, elmo carmesim, peles assimétricas, cena de cerco). Revisite esta secção quando for adicionar Refiner, LoRA ou IP-Adapter no ComfyUI.
+Long-term goal: align the local pipeline with the **reference look** (full body, crimson helm, asymmetric pelts, siege scene). Revisit this section when you add Refiner, LoRA, or IP-Adapter in ComfyUI.
 
-| Fase | O quê | Notas |
-|------|--------|--------|
-| **0** | Baseline | Um `workflow_api.json` fixo, mesmo checkpoint, `batavi-img generate` reprodutível; negativo com anti-monocromático (ver `workflows/workflow_api.json` nó 7). |
-| **1** | Alvo explícito | Guarde a PNG modelo com nome estável (ex. copiar para `codex-batavi/lore-images/referencia-alaric-modelo.png`) e uma checklist mental (pose, lados dos lobos, espada, cenário). |
-| **2** | Prompt só texto | Template **`alaric_reference_fullbody`** + várias seeds; medir o teto do checkpoint antes de nós extras. |
-| **3** | Pilha de modelo | SDXL Refiner no grafo; opcionalmente outro checkpoint ou uma LoRA — **uma mudança de cada vez**. |
-| **4** | Ancoragem visual | IP-Adapter (ou ControlNet pose/depth) a partir da referência, quando texto + modelo não chegarem. |
-| **5** | Acabamento | Upscale nas finalistas; ajuste leve de cor fora se necessário. |
-| **6** | Congelar | Documentar workflow campeão + checkpoint + pesos no repo. |
+| Phase | What | Notes |
+|------|------|--------|
+| **0** | Baseline | One fixed `workflow_api.json`, same checkpoint, reproducible `batavi-img generate`; negative prompt anti-monochrome (see `workflows/workflow_api.json` node 7). |
+| **1** | Explicit target | Save the model PNG with a stable name (e.g. copy to `codex-batavi/lore-images/reference-alaric-model.png`) and a mental checklist (pose, wolf sides, sword, scene). |
+| **2** | Text only | Template **`alaric_reference_fullbody`** + multiple seeds; measure checkpoint ceiling before extra nodes. |
+| **3** | Model stack | SDXL Refiner in the graph; optionally another checkpoint or a LoRA — **one change at a time**. |
+| **4** | Visual anchor | IP-Adapter (or ControlNet pose/depth) from the reference when text + model are not enough. |
+| **5** | Finish | Upscale finalists; light color tweaks outside if needed. |
+| **6** | Freeze | Document winning workflow + checkpoint + weights in the repo. |
 
-**Comando base (texto apenas):**
+**Base command (text only):**
 
 ```bash
 conda activate forja_batavi
@@ -196,32 +196,32 @@ batavi-img generate --preset alaric_armor --template alaric_reference_fullbody \
   -m "slight wind on cape, more embers"
 ```
 
-**Explorar seeds:** o `workflow_api.json` tem `seed` fixo no KSampler; no ComfyUI altere a seed entre corridas ou reexporte o JSON com `seed` aleatório / controlo manual — a CLI hoje não expõe `--seed` (futuro).
+**Exploring seeds:** `workflow_api.json` may fix `seed` in KSampler; in ComfyUI change seed between runs or re-export with random / manual seed — the CLI does not expose `--seed` yet (future).
 
-Mais detalhes dos templates: `templates/prompts/README.md` e `alaric_reference_fullbody.toml` (cabeçalho com convenções viewer left/right).
-
----
-
-## 10. Documentação de apoio
-
-| Arquivo | Conteúdo |
-|----------|----------|
-| [CHEATSHEET.md](CHEATSHEET.md) | Comandos copy-paste |
-| [README.md](README.md) | Referência completa e tabelas |
-| `batavi-img --help` / `batavi-img generate --help` | Ajuda integrada |
+More template detail: `templates/prompts/README.md` and `alaric_reference_fullbody.toml` (header with viewer left/right conventions).
 
 ---
 
-## 11. Problemas comuns (pós-instalação)
+## 10. Supporting docs
 
-| Situação | O que fazer |
-|----------|-------------|
-| `serve` diz que não encontra `main.py` | `FORJA_COMFY_HOME` ou `--comfy-home` corretos |
-| `check` falha | Servidor não iniciado ou porta/URL errada (`--url` / `FORJA_COMFY_URL`) |
-| Erro ao enfileirar prompt | JSON API inválido ou nó errado — `prompt_node_id` / `--node-id` |
-| PNG errada ou não move | Outra geração em paralelo na mesma `output/`; aumentar `--settle`; `--comfy-output` / `--assets-dir` explícitos |
-| Dependências diferentes | Unificar venv ou `FORJA_COMFY_PYTHON` para o `serve` |
+| File | Contents |
+|------|----------|
+| [CHEATSHEET.md](CHEATSHEET.md) | Copy-paste commands |
+| [README.md](README.md) | Full reference and tables |
+| `batavi-img --help` / `batavi-img generate --help` | Built-in help |
 
 ---
 
-*Boa forja.*
+## 11. Common issues (post-install)
+
+| Situation | What to do |
+|-----------|------------|
+| `serve` cannot find `main.py` | Fix `FORJA_COMFY_HOME` or `--comfy-home` |
+| `check` fails | Server not started or wrong port/URL (`--url` / `FORJA_COMFY_URL`) |
+| Error queueing prompt | Invalid API JSON or wrong node — `prompt_node_id` / `--node-id` |
+| Wrong PNG or no move | Another generation in parallel in the same `output/`; raise `--settle`; explicit `--comfy-output` / `--assets-dir` |
+| Split dependencies | Unify venv or set `FORJA_COMFY_PYTHON` for `serve` |
+
+---
+
+*Good forging.*

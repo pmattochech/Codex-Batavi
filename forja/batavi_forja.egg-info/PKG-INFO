@@ -1,7 +1,7 @@
 Metadata-Version: 2.4
 Name: batavi-forja
 Version: 0.1.0
-Summary: CLI para gerar imagens de lore via ComfyUI (Cohors Batavorum)
+Summary: CLI to generate Cohors Batavorum lore images via ComfyUI
 Requires-Python: >=3.11
 Description-Content-Type: text/markdown
 Requires-Dist: requests>=2.28
@@ -9,53 +9,56 @@ Requires-Dist: websockets>=12
 
 # Batavi Forja — CLI + ComfyUI
 
-Ferramenta de linha de comando para enfileirar gerações no **ComfyUI** local e salvar PNG no repositório de lore.
+Command-line tool to queue generations on a local **ComfyUI** instance and save PNGs into the lore repository.
 
-**Tutorial (ComfyUI recém-instalado → primeira imagem):** [TUTORIAL.md](TUTORIAL.md)  
-**Resumo rápido:** [CHEATSHEET.md](CHEATSHEET.md)
+**Tutorial (fresh ComfyUI install → first image):** [TUTORIAL.md](TUTORIAL.md)  
+**Quick reference:** [CHEATSHEET.md](CHEATSHEET.md)
 
-## Requisitos
+## Requirements
 
 - Python **3.11+**
-- ComfyUI rodando (por padrão `http://127.0.0.1:8188`)
-- Pasta de saída do ComfyUI: `~/ComfyUI/output/`
+- ComfyUI running (default `http://127.0.0.1:8188`)
+- ComfyUI output folder: `~/ComfyUI/output/`
 
-## Instalação (ambiente conda `forja_batavi`)
+## Install (conda env `forja_batavi`)
+
+Use **the same** Python environment where PyTorch (ROCm) and ComfyUI dependencies are installed:
 
 ```bash
-cd /caminho/para/Codex-Batavi/forja   # raiz do git: forja/ é irmã de codex-batavi/
+conda activate forja_batavi
+cd ~/Codex-Batavi/forja    # or your actual repo path
 pip install -e .
 ```
 
-O comando **`batavi-img`** fica disponível no ambiente ativo.
+The **`batavi-img`** command is only available with that environment active (or with `FORJA_COMFY_PYTHON` pointing to its `python`).
 
-## Configuração
+## Configuration
 
-Variáveis de ambiente (opcional):
+Optional environment variables:
 
-| Variável | Significado |
-|----------|-------------|
-| `FORJA_COMFY_URL` | URL base (ex.: `http://127.0.0.1:8188`) |
-| `FORJA_COMFY_HOME` | Pasta do clone ComfyUI onde está `main.py` (padrão: `~/ComfyUI`) — usado por `serve` |
-| `FORJA_COMFY_PYTHON` | Interpretador para `main.py` no `serve` (padrão: o mesmo `python` do `batavi-img`) |
-| `FORJA_COMFY_OUTPUT` | Pasta de saída do ComfyUI (padrão: `~/ComfyUI/output`) |
-| `FORJA_ASSETS_DIR` | Onde salvar PNG renomeadas (padrão: `~/Codex-Batavi/codex-batavi/lore-images`) |
+| Variable | Meaning |
+|----------|---------|
+| `FORJA_COMFY_URL` | Base URL (e.g. `http://127.0.0.1:8188`) |
+| `FORJA_COMFY_HOME` | ComfyUI clone root containing `main.py` (default: `~/ComfyUI`) — used by `serve` |
+| `FORJA_COMFY_PYTHON` | Interpreter for `main.py` in `serve` (default: same `python` as `batavi-img`) |
+| `FORJA_COMFY_OUTPUT` | ComfyUI output folder (default: `~/ComfyUI/output`) |
+| `FORJA_ASSETS_DIR` | Where to save renamed PNGs (default: `~/Codex-Batavi/codex-batavi/lore-images`) |
 
 ## Workflow (ComfyUI)
 
-1. No ComfyUI: **Save (API Format)** → salve o JSON em `forja/workflows/` (ex.: `workflow_api.json`).
-2. Edite `presets.toml` se usar outro nome de arquivo ou nó de texto fixo (`prompt_node_id`).
-3. Identifique o nó **CLIPTextEncode** cujo `inputs.text` deve receber o prompt (veja docstring em `batavi_forja/comfy_client.py`).
+1. In ComfyUI: **Save (API Format)** → save the JSON under `forja/workflows/` (e.g. `workflow_api.json`).
+2. Edit `presets.toml` if you use another filename or fixed text node (`prompt_node_id`).
+3. Identify the **CLIPTextEncode** node whose `inputs.text` should receive the prompt (see docstring in `batavi_forja/comfy_client.py`).
 
-## Comandos (`batavi-img`)
+## Commands (`batavi-img`)
 
-| Subcomando | Função |
-|------------|--------|
-| `serve` | Inicia o ComfyUI (`python main.py` em `FORJA_COMFY_HOME` / `~/ComfyUI`). |
-| `check` | Testa se o ComfyUI responde (`GET /system_stats`). |
-| `presets` | Lista entradas de `presets.toml` (workflow + `prompt_node_id`). |
-| `generate` | Enfileira o workflow, aguarda (WebSocket + `/history`), move o PNG mais recente para `lore-images` (ou `--assets-dir`). |
-| `templates` | Lista arquivos `templates/prompts/*.toml` (personagens / cenários). |
+| Subcommand | Role |
+|------------|------|
+| `serve` | Start ComfyUI (`python main.py` in `FORJA_COMFY_HOME` / `~/ComfyUI`). |
+| `check` | Test whether ComfyUI responds (`GET /system_stats`). |
+| `presets` | List `presets.toml` entries (workflow + `prompt_node_id`). |
+| `generate` | Queue workflow, wait (WebSocket + `/history`), move latest PNG to `lore-images` (or `--assets-dir`). |
+| `templates` | List `templates/prompts/*.toml` files (characters / scenes). |
 
 **Global**
 
@@ -66,22 +69,22 @@ batavi-img generate --help
 batavi-img serve --help
 ```
 
-**serve** — use o **mesmo** ambiente conda/venv onde o ComfyUI tem dependências instaladas (ou defina `FORJA_COMFY_PYTHON`).
+**serve** — use the **same** conda/venv where ComfyUI has its dependencies installed (or set `FORJA_COMFY_PYTHON`).
 
 ```bash
-# Primeiro plano (logs no terminal; Ctrl+C encerra)
+# Foreground (logs in terminal; Ctrl+C stops)
 batavi-img serve
 
-# Porta e interface (repassados ao main.py do ComfyUI)
+# Port and listen address (passed through to ComfyUI’s main.py)
 batavi-img serve --port 8188 --listen 127.0.0.1
 
-# Outra pasta do clone
+# Different clone path
 batavi-img serve --comfy-home ~/src/ComfyUI
 
-# Segundo plano — log em <ComfyUI>/batavi-forja-comfyui.log (ou --log-file)
+# Background — log at `<ComfyUI>/batavi-forja-comfyui.log` (or `--log-file`)
 batavi-img serve --detach --port 8188
 
-# Argumentos extra do ComfyUI (após --)
+# Extra ComfyUI args (after --)
 batavi-img serve -- --preview-method auto
 ```
 
@@ -98,21 +101,21 @@ batavi-img check --url http://127.0.0.1:8188 --timeout 8
 batavi-img presets
 ```
 
-**templates** — prompts reutilizáveis (ver `templates/prompts/README.md`).
+**templates** — reusable prompts (see `templates/prompts/README.md`).
 
 ```bash
 batavi-img templates
 ```
 
-**generate** — obrigatório: `--preset` *ou* `--workflow`; e **`-m` / `--prompt-file`**, **ou** `--template` (prefix/suffix no TOML; `-m` opcional como complemento).
+**generate** — required: `--preset` *or* `--workflow`; and **`-m` / `--prompt-file`**, **or** `--template` (prefix/suffix from TOML; `-m` optional as extra text).
 
-**Exemplo Alaric (Castra-Lupus):** preset `alaric_armor` + template `alaric_castra_lupus`:
+**Alaric (Castra-Lupus) example:** preset `alaric_armor` + template `alaric_castra_lupus`:
 
 ```bash
-batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "chuva na amurada, fumo espesso"
+batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "rain on the battlement, thick smoke"
 ```
 
-**Showcase grimdark genérico** (personagem só em `-m`): preset `grimdark_character` + template `grimdark_character_showcase` — ver `templates/prompts/README.md`.
+**Generic grimdark showcase** (character detail only in `-m`): preset `grimdark_character` + template `grimdark_character_showcase` — see `templates/prompts/README.md`.
 
 ```bash
 batavi-img generate --preset grimdark_character --template grimdark_character_showcase \
@@ -120,35 +123,35 @@ batavi-img generate --preset grimdark_character --template grimdark_character_sh
 ```
 
 ```bash
-# Preset definido em presets.toml (arquivo em workflows/)
-batavi-img generate --preset default -m "grimdark, Orestes, chuva ácida"
+# Preset from presets.toml (file under workflows/)
+batavi-img generate --preset default -m "grimdark, Orestes, acid rain"
 
-# Workflow API à mão (caminho relativo ao diretório atual ou absoluto)
-batavi-img generate --workflow ./workflows/meu.api.json --node-id "7" -m "retrato, armadura gótica"
+# Hand-built API workflow (path relative to cwd or absolute)
+batavi-img generate --workflow ./workflows/my.api.json --node-id "7" -m "portrait, gothic armor"
 
-# Prompt longo a partir de arquivo
+# Long prompt from file
 batavi-img generate --preset portrait --prompt-file ./prompt.txt
 
-# Só gerar no ComfyUI, não mover PNG para o repo
-batavi-img generate --preset default -m "teste" --skip-move
+# Generate in ComfyUI only, do not move PNG into the repo
+batavi-img generate --preset default -m "test" --skip-move
 
-# Confirmação extra no histórico (útil se o WebSocket falhar)
+# Extra confirmation via history (useful if WebSocket flakes)
 batavi-img generate --preset default -m "..." --poll-fallback
 
-# Pastas e tempo
+# Paths and timing
 batavi-img generate --preset default -m "..." --timeout 1200 \
   --comfy-output ~/ComfyUI/output \
   --assets-dir ~/Codex-Batavi/codex-batavi/lore-images \
   --settle 1.5
 ```
 
-**Variáveis de ambiente** (alternativa a `--url`, `--comfy-output`, `--assets-dir`): ver seção *Configuração* acima.
+**Environment variables** (alternative to `--url`, `--comfy-output`, `--assets-dir`): see *Configuration* above.
 
-## Estrutura do pacote
+## Package layout
 
-- `batavi_forja/cli.py` — argumentos e orquestração
-- `batavi_forja/comfy_client.py` — HTTP, WebSocket, histórico, arquivos
-- `batavi_forja/config.py` — URLs e caminhos
-- `presets.toml` — preset → workflow + nó
-- `templates/prompts/*.toml` — prefixos/sufixos de prompt por personagem
-- `workflows/*.json` — workflows exportados do ComfyUI (API)
+- `batavi_forja/cli.py` — arguments and orchestration
+- `batavi_forja/comfy_client.py` — HTTP, WebSocket, history, files
+- `batavi_forja/config.py` — URLs and paths
+- `presets.toml` — preset → workflow + node
+- `templates/prompts/*.toml` — per-character prompt prefix/suffix
+- `workflows/*.json` — workflows exported from ComfyUI (API)

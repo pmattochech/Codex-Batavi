@@ -84,7 +84,7 @@ Section **0.1** states the default language for **new and edited** Markdown. Thi
 
 **Still not written (not a translation gap):** Planned quarter chronicles under `00-foundation-war/` (`segundo-quarto.md`, etc.) — summaries live in `foundation-war.md` until you author those files.
 
-**`forja/`:** Code, defaults, and `PKG-INFO` snippets follow the same path conventions as `codex-batavi/`. Top-level `forja/*.md` guides may still be **Portuguese** until an explicit translation pass; treat that as editorial backlog, not a lore contradiction.
+**`forja/`:** Code, defaults, and path conventions match `codex-batavi/`. Top-level guides **`forja/README.md`**, **`TUTORIAL.md`**, and **`CHEATSHEET.md`** are **US English** (aligned with this doc). Regenerate **`PKG-INFO`** with `pip install -e ./forja` if you need the installed metadata to match `README.md` verbatim.
 
 ### Legacy PT → EN cheatsheet (for quotes, forks, or `forja`)
 

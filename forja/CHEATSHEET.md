@@ -1,58 +1,58 @@
 # Cheat sheet — `batavi-img`
 
-Referência rápida. **Passo a passo desde o ComfyUI novo:** [TUTORIAL.md](TUTORIAL.md) · [README.md](README.md).
+Quick reference. **Step-by-step from a fresh ComfyUI install:** [TUTORIAL.md](TUTORIAL.md) · [README.md](README.md).
 
 ---
 
-## Instalação (uma vez)
+## Install (once)
 
 ```bash
-conda activate forja_batavi    # ou outro venv com Python 3.11+
+conda activate forja_batavi    # or another venv with Python 3.11+
 cd ~/Codex-Batavi/forja
 pip install -e .
 ```
 
 ---
 
-## Antes de gerar
+## Before you generate
 
-1. **Subir o ComfyUI** — `batavi-img serve` (ou seu script habitual).
-2. JSON do workflow em **API Format** dentro de `forja/workflows/` (ex.: `workflow_api.json`).
-3. `batavi-img presets` — confere nomes e arquivos em `presets.toml`.
+1. **Start ComfyUI** — `batavi-img serve` (or your usual script).
+2. Workflow JSON in **API Format** inside `forja/workflows/` (e.g. `workflow_api.json`).
+3. `batavi-img presets` — verify names and files in `presets.toml`.
 
 ---
 
-## Iniciar ComfyUI (`serve`)
+## Start ComfyUI (`serve`)
 
-Usa o Python atual (`sys.executable`) ou `FORJA_COMFY_PYTHON`. Pasta padrão: **`~/ComfyUI`** ou **`FORJA_COMFY_HOME`**.
+Uses the current Python (`sys.executable`) or `FORJA_COMFY_PYTHON`. Default folder: **`~/ComfyUI`** or **`FORJA_COMFY_HOME`**.
 
-**Nobara + Miniconda (env `forja_batavi`):** ative o env antes do `serve`, *ou* exporte o Python:
+**Nobara + Miniconda (env `forja_batavi`):** activate the env before `serve`, *or* export the Python path:
 
 ```bash
 conda activate forja_batavi
-# opcional se outro shell não tiver o env no PATH:
+# optional if another shell does not have the env on PATH:
 # export FORJA_COMFY_PYTHON="$HOME/miniconda3/envs/forja_batavi/bin/python"
 # export FORJA_COMFY_HOME="$HOME/ComfyUI"
 ```
 
 ```bash
-# Terminal em primeiro plano (Ctrl+C para parar)
+# Foreground terminal (Ctrl+C to stop)
 batavi-img serve
 
 batavi-img serve --port 8188 --listen 127.0.0.1
 batavi-img serve --comfy-home ~/ComfyUI
 
-# Segundo plano (PID + caminho do log) — liberta o terminal; use outro terminal para conda/batavi-img
+# Background (PID + log path) — frees the terminal; use another terminal for conda/batavi-img
 batavi-img serve --detach --port 8188
 batavi-img serve --detach --log-file ~/ComfyUI/comfyui.log
 
-# Flags do próprio ComfyUI depois de --
+# ComfyUI’s own flags after --
 batavi-img serve -- --lowvram
 ```
 
 ---
 
-## Comandos básicos
+## Basic commands
 
 ```bash
 batavi-img --version
@@ -65,52 +65,52 @@ batavi-img templates
 
 ---
 
-## Templates de personagem (`--template`)
+## Character templates (`--template`)
 
-Arquivos em `forja/templates/prompts/*.toml`. A CLI junta `positive_prefix` + seu `-m` (ou arquivo) + `positive_suffix`. O campo `negative` só aparece no terminal para você copiar ao Comfy.
+Files in `forja/templates/prompts/*.toml`. The CLI concatenates `positive_prefix` + your `-m` (or file) + `positive_suffix`. The `negative` field is only printed in the terminal for you to paste into ComfyUI.
 
 ```bash
-batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "raio, amurada de ferro"
+batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "lightning, iron battlement"
 ```
 
-Preset `alaric_armor` usa o mesmo arquivo que `default`: `workflows/workflow_api.json` (exporte uma vez do ComfyUI).
+Preset `alaric_armor` uses the same file as `default`: `workflows/workflow_api.json` (export once from ComfyUI).
 
 ---
 
-## Gerar imagem (`generate`)
+## Generate an image (`generate`)
 
-Regra: use **`--preset`** *ou* **`--workflow`**, e sempre **`-m`** *ou* **`--prompt-file`**.
+Rule: use **`--preset`** *or* **`--workflow`**, and always **`-m`** *or* **`--prompt-file`**.
 
-### Por preset (`presets.toml`)
+### By preset (`presets.toml`)
 
-Presets `default`, `portrait`, `scene`, `alaric_armor`, `grimdark_character` compartilham **`workflows/workflow_api.json`** até você editar `presets.toml`.
+Presets `default`, `portrait`, `scene`, `alaric_armor`, `grimdark_character` share **`workflows/workflow_api.json`** until you edit `presets.toml`.
 
 ```bash
-batavi-img generate --preset default  -m "seu prompt aqui"
-batavi-img generate --preset portrait -m "seu prompt aqui"
-batavi-img generate --preset scene    -m "seu prompt aqui"
+batavi-img generate --preset default  -m "your prompt here"
+batavi-img generate --preset portrait -m "your prompt here"
+batavi-img generate --preset scene    -m "your prompt here"
 ```
 
-### Por arquivo de prompt
+### By prompt file
 
 ```bash
 batavi-img generate --preset default --prompt-file ./prompt.txt
 ```
 
-### Workflow JSON manual
+### Manual workflow JSON
 
-Caminho **relativo ao diretório atual** (não ao `forja/`, a menos que você esteja em `forja/`).
+Path is **relative to the current directory** (not to `forja/`, unless your cwd is `forja/`).
 
 ```bash
 cd ~/Codex-Batavi/forja
-batavi-img generate --workflow ./workflows/meu.api.json --node-id "12" -m "..."
+batavi-img generate --workflow ./workflows/my.api.json --node-id "12" -m "..."
 ```
 
-`--node-id` = chave do nó `CLIPTextEncode` no JSON (campo `inputs.text`).
+`--node-id` = `CLIPTextEncode` node key in the JSON (`inputs.text`).
 
-### Nó de texto (opcional)
+### Text node (optional)
 
-Se não passar `--node-id` e o preset tiver `prompt_node_id` vazio, o primeiro `CLIPTextEncode` com `text` é usado.
+If you omit `--node-id` and the preset has empty `prompt_node_id`, the first `CLIPTextEncode` with `text` is used.
 
 ```bash
 batavi-img generate --preset default --node-id "7" -m "..."
@@ -118,22 +118,22 @@ batavi-img generate --preset default --node-id "7" -m "..."
 
 ---
 
-## Flags úteis
+## Useful flags
 
-| Flag | O que faz |
-|------|-----------|
-| `--skip-move` | Não move a PNG para `lore-images` (só gera no ComfyUI). |
-| `--poll-fallback` | Confirma de novo via `GET /history` após o WebSocket. |
-| `--timeout N` | Tempo máximo de espera em segundos (padrão em `generate`: 900). |
-| `--url URL` | Base do ComfyUI (padrão: env `FORJA_COMFY_URL` ou `http://127.0.0.1:8188`). |
-| `--comfy-output DIR` | Pasta de saída do ComfyUI (padrão: `~/ComfyUI/output` ou `FORJA_COMFY_OUTPUT`). |
-| `--assets-dir DIR` | Onde salvar a PNG final (padrão: `~/Codex-Batavi/codex-batavi/lore-images` ou `FORJA_ASSETS_DIR`). |
-| `--settle N` | Segundos de espera após o fim do job antes de achar o `.png` mais recente (padrão: 0.75). |
+| Flag | Effect |
+|------|--------|
+| `--skip-move` | Do not move the PNG to `lore-images` (ComfyUI only). |
+| `--poll-fallback` | Confirm again via `GET /history` after WebSocket. |
+| `--timeout N` | Max wait in seconds (`generate` default: 900). |
+| `--url URL` | ComfyUI base (default: env `FORJA_COMFY_URL` or `http://127.0.0.1:8188`). |
+| `--comfy-output DIR` | ComfyUI output folder (default: `~/ComfyUI/output` or `FORJA_COMFY_OUTPUT`). |
+| `--assets-dir DIR` | Final PNG destination (default: `~/Codex-Batavi/codex-batavi/lore-images` or `FORJA_ASSETS_DIR`). |
+| `--settle N` | Seconds to wait after the job finishes before picking the newest `.png` (default: 0.75). |
 
-Exemplo combinado:
+Combined example:
 
 ```bash
-batavi-img generate --preset default -m "teste" \
+batavi-img generate --preset default -m "test" \
   --timeout 1200 \
   --comfy-output ~/ComfyUI/output \
   --assets-dir ~/Codex-Batavi/codex-batavi/lore-images \
@@ -142,7 +142,7 @@ batavi-img generate --preset default -m "teste" \
 
 ---
 
-## Variáveis de ambiente
+## Environment variables
 
 ```bash
 export FORJA_COMFY_HOME=~/ComfyUI
@@ -154,7 +154,7 @@ export FORJA_ASSETS_DIR=~/Codex-Batavi/codex-batavi/lore-images
 
 ---
 
-## Ajuda por subcomando
+## Help per subcommand
 
 ```bash
 batavi-img generate --help
@@ -163,10 +163,10 @@ batavi-img check --help
 
 ---
 
-## Onde as imagens vão parar
+## Where images end up
 
-Por padrão, a PNG mais nova em `~/ComfyUI/output` é renomeada (slug do prompt + data UTC) e movida para:
+By default, the newest PNG in `~/ComfyUI/output` is renamed (prompt slug + UTC date) and moved to:
 
 `~/Codex-Batavi/codex-batavi/lore-images/`
 
-(ou o que você definir em `FORJA_ASSETS_DIR` / `--assets-dir`.)
+(or whatever you set in `FORJA_ASSETS_DIR` / `--assets-dir`.)
