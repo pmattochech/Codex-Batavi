@@ -13,10 +13,10 @@ The four quarters are summarized with canonical milestones in [foundation-war.md
 
 | Planned file | Period | Summary available in |
 |---|---|---|
-| `segundo-quarto.md` | 022–030.M42 | foundation-war.md — Section II |
-| `o-abismo-e-o-retorno.md` | 030–037.M42 | foundation-war.md — Section III |
+| `second-quarter.md` | 022–030.M42 | foundation-war.md — Section II |
+| `the-abyss-and-return.md` | 030–037.M42 | foundation-war.md — Section III |
 | `der-batav.md` | 037–045.M42 | foundation-war.md — Section IV |
-| `super-dizimo-e-limes-lupus.md` | 045–048.M42 | foundation-war.md — Section IV + pax-batavorum.md |
+| `super-tithe-limes-lupus.md` | 045–048.M42 | foundation-war.md — Section IV + pax-batavorum.md |
 
 ---
 
@@ -50,8 +50,6 @@ The four quarters are summarized with canonical milestones in [foundation-war.md
 - [strategium-silence.md](06-silent-vigil/strategium-silence.md) ✅ — Silent Vigil. Strategium, Viggo as anchor, orders through the wolf, Alaric’s collapse and Drusus’s clinical discovery.
 - [last-heat-of-the-wall.md](06-silent-vigil/last-heat-of-the-wall.md) ✅ — Martha’s kitchen, Elara as infant and childhood with Viggo, Viggo’s death (Elara age twelve, after Luna Sigma), Mantle of Providence, bones on Fenris.
 - [without-distinction.md](06-silent-vigil/without-distinction.md) ✅ — ca. 280.M42. Halvard, Legatus of the I Vexillatio. Post-battle protocol without celebration or praise: maintenance, replenishment, chaplain, descent to the cells. The weight of being functional as the only form of honor.
-
-**Path alias:** `chronicles/06-era-das-chuvas` is a symbolic link to `06-silent-vigil` (legacy arc folder name).
 
 ## 07-iron-venus
 - [iron-venus.md](07-iron-venus/iron-venus.md) — aggregated block (short merged H1s: *The End of the Vigil*, Tyvar, Aethelgard, etc.)

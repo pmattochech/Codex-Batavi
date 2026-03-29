@@ -1,69 +1,72 @@
-# FICHA TÉCNICA: O CODEX BATAVORUM
+# Technical datasheet: the Codex Batavorum
 
-## 1\. IDENTIDADE E HERÁLDICA
+## 1. Identity and heraldry
 
-*Ver também: [intro-and-heraldry.md](../intro-and-heraldry/intro-and-heraldry.md) — título, mito e heráldica resumida.*
+*See also: [intro-and-heraldry.md](../intro-and-heraldry/intro-and-heraldry.md) — title, myth, and heraldry summary.*
 
-* **Nome Oficial:** Batavian Iron-Guard (Alto Gótico: *Cohors Batavorum*).  
-* **Nome Operacional:** *Cohors Batavorum* (Lobos da Fronteira). Usado em comunicações de rádio e registros táticos.  
-* **Símbolo:** Um Lobo Negro (remetendo à linhagem quimérica de Russ/Loken) segurando um Gládio Horizontal na boca, posicionado sobre ondas estilizadas (origem anfíbia).  
-* **Cores da Armadura:**  
-  * **Primária:** **Cinza Industrial** (*Mechanicus Standard Grey*). Simboliza a funcionalidade, o "suor" da forja e a ausência de vaidade.  
-  * **Secundária (Ombreiras):** **Vermelho-Carmesim** (*Mephiston Red*). Representa o sangue da linhagem e a vida civil que juraram proteger.  
-  * **Detalhes:** Bronze ou Ouro Envelhecido (apenas para Oficiais e Guarda de Honra). O brilho é removido quimicamente para evitar reflexo.  
-* **Estética:** Design industrial pesado. Incorpora elementos romanos (pteruges de couro reforçado, cristas transversais para oficiais), mas sempre priorizando a função sobre a forma.
+* **Official name:** Batavian Iron-Guard (High Gothic: *Cohors Batavorum*).  
+* **Operational name:** *Cohors Batavorum* (Frontier Wolves). Used on vox and tactical logs.  
+* **Symbol:** A black wolf (chimeric Russ/Loken lineage) holding a horizontal gladius in its jaws, over stylized waves (amphibious origin).  
+* **Armor colors:**  
+  * **Primary:** Industrial grey (*Mechanicus Standard Grey*). Functionality, forge “sweat,” absence of vanity.  
+  * **Secondary (pauldrons):** Crimson (*Mephiston Red*). Blood of the lineage and civil life sworn to protect.  
+  * **Accents:** Bronze or aged gold (officers and honor guard only). Shine chemically stripped to kill reflection.  
+* **Aesthetic:** Heavy industrial design. Roman elements (reinforced leather pteruges, transverse crests for officers), always function over form.
 
-## 2\. ESTRATÉGIAS DE GUERRA
+## 2. War strategies
 
-* **Geometria de Atrito:** O estilo de combate primário. Envolve transformar a infraestrutura existente em zonas de morte modulares. O objetivo é o desgaste matemático do inimigo com o menor custo de recursos possível (munição/vidas).  
-* **Estilo "Segunda Lâmina":** Técnica de CQC (Combate a Curta Distância) onde o Marine utiliza os membros livres (ombros, cotovelos, manoplas) como armas contundentes integradas aos golpes de gládio, criando sequências de impacto contínuo e desestabilização.  
-* **Silêncio Analítico:** O Capítulo rejeita gritos de guerra ou uivos. Eles combatem em silêncio de voz quase absoluto, comunicando-se apenas por dados táticos (*Noosphere*), o que desestabiliza inimigos que esperam a fúria vocal típica da linhagem de Russ.
+* **Friction geometry:** Primary combat style. Turn existing infrastructure into modular kill zones. Goal is mathematical wear of the enemy at lowest resource cost (ammo/lives).  
+* **“Second blade” style:** CQC where the marine uses free limbs (shoulders, elbows, gauntlets) as integrated blunt weapons with gladius strikes, chaining impacts and destabilization.  
+* **Analytical silence:** The Chapter rejects battle cries or howls. They fight in near-total vocal silence, communicating only in tactical data (*Noosphere*), unsettling enemies who expect Russ-line vocal fury.
 
-## 3\. A BIOLOGIA: A PROJEÇÃO ÁUREA E A MALDIÇÃO
+## 3. Biology: Golden Projection and Wolf’s Curse
 
-O Capítulo opera sob uma distinção biológica rígida entre "Ferramenta" (Uso Tático) e "Falha" (Degeneração). Ver: [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md).
+The Chapter operates under a rigid biological split between “tool” (tactical use) and “failure” (degeneration). See: [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md).
 
-## 4\. A FORJA DA FERRAMENTA
+## 4. Forging the tool
 
-*Filosofia Central: Non Herois, Sed Instrumentum (Não Heróis, mas Ferramentas).*
+*Central philosophy: Non Herois, Sed Instrumentum (Not heroes, but tools).*
 
-O treinamento de um Neófito na *Cohors Batavorum* difere radicalmente dos preceitos do *Codex Astartes* padrão. Enquanto as linhagens de Ultramar buscam o soldado perfeito e as tribos de Fenris buscam o guerreiro glorioso, o Lorde-Castellan Alaric von Helis busca apenas a **Ferramenta de Atrito**. O objetivo do Capítulo não é elevar a carne a um status divino, mas quebrar o ego humano e reconstruí-lo como uma engrenagem de lógica e ferro, capaz de suportar pressões que esmagariam a sanidade de qualquer outro Astartes. O processo é dividido em cinco estágios de letalidade contínua.
+Neophyte training in the *Cohors Batavorum* diverges sharply from standard *Codex Astartes*. While Ultramar lines seek the perfect soldier and Fenris tribes seek the glorious warrior, Lord Castellan Alaric von Helis seeks only the **friction tool**. The Chapter’s goal is not to raise flesh to divine status but to break human ego and rebuild it as logic-and-iron gearing able to endure pressures that would crush any other Astartes’ sanity. The process runs through five stages of continuous lethality.
 
-A matéria-prima de nossa máquina de guerra é colhida de dois mundos de naturezas opostas: a brutalidade da ordem industrial (Noviomagus) e a brutalidade do caos biológico (Aethelgard).
+Raw material for the war machine is drawn from two opposed worlds: industrial order’s brutality (Noviomagus) and biological chaos’s brutality (Aethelgard).
 
-* **Em Noviomagus Prime (O Rito da Engrenagem):** A cada ciclo de cinco anos, as crianças são submetidas a uma triagem impiedosa. Não há torneios marciais. O rito é um teste puramente de Resistência à Dor e Função. Os candidatos devem manter a alavanca de exaustão de uma caldeira pressionada enquanto a temperatura da sala sobe a níveis de queimadura de segundo grau. Aquele que solta a alavanca para salvar a própria pele é reprovado por egoísmo. O candidato que desmaia de dor, mas mantém o peso do corpo sobre a alavanca, é aprovado.  
-* **Em Aethelgard Prime (O Salto da Agulha):** Os jovens nativos devem saltar dos pináculos de pedra negra para o oceano furioso durante a anomalia da "Grande Maré", e então escalar a rocha nua de volta antes que as ondas de dois quilômetros os esmaguem. A sobrevivência é a prova estatística da capacidade do indivíduo de aplicar tração contra a inércia do caos.
+* **On Noviomagus Prime (the gearing rite):** Every five-year cycle, children face ruthless screening. No martial tournaments. The rite tests only pain tolerance and function. Candidates must hold a boiler exhaustion lever while room temperature rises to second-degree burn levels. Whoever releases the lever to save their skin fails for selfishness. Whoever passes out from pain but keeps body weight on the lever passes.  
+* **On Aethelgard Prime (the Spire leap):** Native youths must leap from black stone pinnacles into the raging ocean during the “Great Tide” anomaly, then climb bare rock back before two-kilometer waves crush them. Survival is statistical proof of ability to apply traction against chaos inertia.
 
-Uma vez aceito, o Neófito não recebe a armadura imediatamente. Ele é enviado para o sistema Incus-Gravis, onde a geografia fará o trabalho de forja preliminar.
+Once accepted, the neophyte does not receive armor immediately. He is sent to the Incus-Gravis system, where geography does preliminary forging.
 
-* **A Academia de Gravidade (Incus-Gravis Tertius):** Expostos à gravidade natural de 2.8G, os ossos dos Neófitos são micro-fraturados e reconstruídos com a densidade do ferro.  
-  * **O Teste do Passo:** É o rito de passagem físico definitivo. O Neófito deve marchar cem quilômetros na superfície do planeta carregando todo o equipamento tático pesado de um Astartes, *sem* o exoesqueleto ou o auxílio de uma armadura energética. A falha resulta em morte garantida por esmagamento muscular ou falência cardíaca sob o próprio peso. Quando os sobreviventes retornam à gravidade padrão (1G), eles operam com uma agilidade e velocidade biomecânica aberrante.
+* **Gravity Academy (Incus-Gravis Tertius):** At natural 2.8G, neophytes’ bones are micro-fractured and rebuilt to iron density.  
+  * **The march test:** Definitive physical passage. The neophyte must march one hundred kilometers on the planet’s surface carrying full heavy Astartes kit *without* exoskeleton or powered armor support. Failure means death by muscle crush or cardiac failure under own weight. Survivors returning to 1G move with aberrant biomechanical speed and agility.
 
-Esta é a fase de consolidação, coordenada conjuntamente pelo Apotecário Drusus e pelo Capelão Varro. 
+This consolidation phase is run jointly by Apothecary Drusus and Chaplain Varro.
 
-* **A Vigília Interna:** O Neófito é treinado a monitorar seus próprios níveis hormonais como quem lê o medidor de pressão de um reator. O dogma imposto por Varro é absoluto: *"Sentir é biológico; agir é lógico"*.  
-* **A Doutrina do Suor Compartilhado (Terapia Ocupacional):** Diferente de Capítulos que devotam o tempo ocioso à oração contemplativa ou ao duelo de arena, os Neófitos Bataves são despachados para as fundições civis. Trabalhando ombro a ombro com a *Auxilia*, eles carregam vigas e operam maquinário pesado. O esforço extremo queima o excesso de adrenalina e a agressividade induzida pela Semente, estabilizando as mentes e cimentando neles a obediência civil de que são, e sempre serão, servos da população.
+* **Internal vigil:** The neophyte is trained to read his own hormone levels like a reactor pressure gauge. Varro’s dogma is absolute: *“Feeling is biological; action is logical.”*  
+* **Shared Sweat doctrine (occupational therapy):** Unlike Chapters that fill idle time with contemplation or arena duels, Batavi neophytes are sent to civil foundries. Working shoulder to shoulder with *Auxilia*, they haul beams and run heavy machinery. Extreme effort burns excess adrenaline and Seed-driven aggression, stabilizing minds and fixing civil obedience — they are and will remain servants of the population.
 
-Cada Neófito deve provar que é capaz de manter a função militar ininterrupta em todos os biomas letais da Falange de Nove.
+Each neophyte must prove uninterrupted military function in every lethal biome of the Nine Phalanx.
 
-* **O Teste de Resfriamento (Noviomagus-I):** Candidatos (em especial os aspirantes à Forja de Kadmos) marcham na superfície diurna de Noviomagus-I, enfrentando 500°C. O pânico eleva a temperatura corporal e cega o raciocínio. A calma absoluta é o único sistema de refrigeração que impede que a armadura se transforme em um forno.  
-* **O Teste da Ponte (Ignis-Minor):** Um esquadrão de Neófitos deve projetar e erguer uma ponte de ferrocreto sobre um rio de fluxo magmático em menos de quatro horas. Este teste erradica a falácia do "herói individual". Se a engenharia de um homem falhar, todos caem na lava. A lição é a confiança letal na engrenagem ao seu lado.  
-* **A Queda Cega (Tempestas-Major):** O rito dos pilotos e batedores. Eles mergulham na tempestade eletromagnética do gigante gasoso sofrendo de cegueira total de *vox* e sensores ópticos. Orientam-se puramente pela estática dos relâmpagos e pela vibração do vento no chassi da nave.  
-* **A Casa de Matança (A Nebulosa do Naufrágio):** Treinamento de cerco em gravidade zero dentro de cascos de cruzadores mortos. Aqui eles aprendem a doutrina da "Segunda Lâmina", convertendo ombros, cotovelos e a própria massa do corpo em armas de contusão onde o balanço de uma espada longa é geograficamente impossível.
+* **Cooling test (Noviomagus-I):** Candidates (especially aspirants to Kadmos’s forge) march the planet’s day face at 500°C. Panic raises body temperature and blinds reason. Absolute calm is the only cooling system that keeps armor from becoming an oven.  
+* **Bridge test (Ignis-Minor):** A neophyte squad must design and raise a ferrocrete bridge over a magna-flow river in under four hours. The test kills the “solo hero” lie. If one man’s engineering fails, everyone falls in lava. The lesson is lethal trust in the gear beside you.  
+* **Blind fall (Tempestas-Major):** Pilots and scouts’ rite. They dive into the gas giant’s electromagnetic storm with total *vox* and optical blindness. They navigate only by lightning static and wind vibration on the hull.  
+* **Slaughterhouse (Shipwreck Nebula):** Zero-G siege training inside dead cruiser hulls. Here they learn “second blade” doctrine, turning shoulders, elbows, and body mass into blunt weapons where a longsword swing is geographically impossible.
 
-A cerimônia que eleva um Neófito ao status definitivo de um Irmão de Batalha não possui coros, juramentos de glória ou o toque de clarins. Ela ocorre no silêncio absoluto de uma câmara de estase selada no núcleo do *Castrum Ferrum*. Apenas o Neófito e o Triunvirato estão presentes. Não é uma parabenização; é um aviso fúnebre sobre a inevitabilidade da falha biológica e o desafio excruciante de manter o controle diário.  
-**A Psicologia da Maldição:** Durante o treinamento, o Neófito é condicionado a compreender a hierarquia do terror associada à *Maldição do Lobo*. Embora ceder ao *Furor* não seja o padrão durante a fase de recrutamento — sendo tratado como um deslize perigoso, e não uma regra —, o legionário aprende desde cedo que a mutação não é uma dádiva berserker. Para um Batavi, a maldição é a fonte da mais profunda vergonha funcional, a prova visual de que o guerreiro cedeu ao monstro. Esta percepção gera respostas psicológicas instintivas **na linha** e entre **Vexillationes** perante irmãos afetados:  
-• **Perante o Estágio Furor:** O legionário é ensinado a sentir empatia sombria e tristeza. Ver os olhos em chamas e as presas crescendo em um irmão é testemunhar o início do afogamento. É o luto militar pela perda gradual do homem.  
-• **Perante o Estágio Exanimus:** A presença de um irmão neste estágio gera um desconforto inerente e um medo tático leve. A besta está acorrentada, mas a anomalia visual e o cheiro de tensão contínua exigem vigilância constante dos que estão ao redor.  
-• **Perante o Estágio Execratio:** A reação orgânica não é tristeza ou alerta; é fobia pura. Ver a transformação total em uma abominação de 4,5 metros desperta o horror atávico gravado no DNA transumano. O Versigodo é o espelho do fracasso final, o monstro absoluto que aguarda todos os Bataves se o *Axioma da Razão* ruir.  
-**A Quebra do Protocolo de Visagem:** O estágio final da cerimônia visa erradicar qualquer ilusão de pureza que o Neófito ainda possua sobre a sua liderança. Em um ato de extrema e aterradora vulnerabilidade, o Apotecário-Mor Drusus destrava o seu elmo cirúrgico branco, o Capelão-Mor Varro remove a sua Máscara de Crânio, e o Lorde-Castellan Alaric von Helis retira o seu elmo lupino.  
-O Neófito é forçado a olhar para as faces do Triunvirato. Ele vê a severa hipertrofia maxilar, os longos caninos projetados para fora dos lábios e os olhos flamejantes de Drusus e Varro (ambos marcados pelo *Estágio Exanimus*). Ele vê os olhos de vermelho-carmesim profundo com bordas esverdeadas de Alaric, irradiando a estase inumana de seu Estágio Intermediário.  
-A liderança de Noviomagus revela que eles não são puros; eles são a própria personificação do pesadelo que o Neófito foi ensinado a temer e a ter fobia. Contudo, os três gigantes permanecem em silêncio mortal, perfeitamente asseados, alinhados e disciplinados, controlando as suas próprias monstruosidades através do puro esforço cognitivo.  
-A lição é cravada na mente do novo guerreiro sem a necessidade de palavras: *A maldição é inevitável. O seu corpo se tornará o de um monstro, mas a sua mente deve permanecer a de uma ferramenta militar. Se eles conseguem operar a forja mesmo possuindo as feições da besta, você também o fará.*  
-Somente após suportar este choque visual e compreender a monstruosidade contida de seus mestres, o Neófito recebe as suas placas de ceramite cinza-ferro, tornando-se, oficialmente, um Batavi.
+The rite that elevates a neophyte to full battle-brother has no choirs, glory oaths, or clarions. It happens in absolute silence in a sealed stasis chamber in the *Castrum Ferrum* core. Only the neophyte and Triumvirate are present. It is not congratulations; it is a funeral warning about inevitable biological failure and the excruciating daily challenge of control.  
+**Curse psychology:** During training, the neophyte is conditioned to understand the terror hierarchy of **Wolf’s Curse**. Though yielding to *Furor* is not the norm in recruitment — treated as a dangerous slip, not a rule — the legionary learns early that mutation is not a berserker gift. For a Batavi, the curse is the deepest functional shame, visible proof the warrior gave in to the monster. That perception drives instinctive **line** and **Vexillatio** responses to affected brothers:  
+• **Facing Furor:** The legionary is taught somber empathy and grief. Seeing flame eyes and lengthening fangs in a brother is watching drowning begin — military mourning for gradual loss of the man.  
+• **Facing Exanimus:** A brother in this stage triggers inherent discomfort and light tactical fear. The beast is chained, but visual anomaly and tension smell demand constant vigilance from those nearby.  
+• **Facing Execratio:** The organic reaction is not grief or alert — it is pure phobia. Total transformation into a 4.5-meter abomination triggers atavistic horror in transhuman DNA. The **Versibar** is the mirror of final failure, the absolute monster waiting for every Batavi if *Axiom of Reason* fails.  
+**Visage protocol breach:** The rite’s final stage erases any illusion of purity the neophyte still holds about leadership. In an act of extreme, terrifying vulnerability, Chief Apothecary Drusus unlocks his white surgical helm, Chaplain Varro removes his wolf-skull mask, and Lord Castellan Alaric removes his wolf helm.
 
-O sobrevivente é levado ao *Salão das Lâminas* no planeta partido de Bifrons-Ferrum. Diferente de outras fundações, a *Cohors Batavorum* não possui fanfarras ou coros de anjos. O Neófito recebe as suas placas de ceramite cinza-industrial — o *Padrão Noviomagus*, isento de vaidade e adornos — e ajoelha-se pela única vez perante o Senhor de Noviomagus. O juramento que o converte em um Batavi não é prestado a um deus distante, mas à própria função que ele agora encarna:  
-*"Eu sou a pedra que não sangra.* *Eu sou a engrenagem que não trava.* *Eu não busco a glória, pois a glória enferruja.* *Eu sou apenas uma Ferramenta.* *Indobrável. Inquebravel. Eu seguro. Eu permaneço de pé. Instrumentum Solum."*
+The neophyte is forced to look at the Triumvirate’s faces. He sees severe jaw hypertrophy, long canines past the lips, and burning eyes in Drusus and Varro (both marked by *Exanimus*). He sees Alaric’s deep crimson eyes with greened rims, radiating the inhuman stasis of his intermediate stage.
 
-Ao erguer-se, o novo Irmão de Batalha recebe uma porção de pão duro e sal, não entregue pelas mãos do Capelão, mas pelas mãos de um operário civil do complexo. É a confirmação física final de que, embora ele agora seja um monstro feito de aço e violência, a sua única justificativa para respirar é a carne mortal que ele alimenta.
+Noviomagus leadership shows they are not pure; they are the nightmare the neophyte was taught to fear and phobia. Yet the three giants remain in deadly silence, perfectly groomed, aligned, disciplined, controlling their own monstrosities by pure cognitive effort.
 
+The lesson is driven home without words: *The curse is inevitable. Your body will become a monster’s, but your mind must stay a military tool. If they can run the forge while wearing the beast’s face, so will you.*
+
+Only after enduring that shock and grasping the monstrosity contained in his masters does the neophyte receive his grey-iron ceramite plaques, officially becoming Batavi.
+
+The survivor is taken to the *Hall of Blades* on the broken world Bifrons-Ferrum. Unlike other foundations, the *Cohors Batavorum* has no fanfares or angel choirs. The neophyte receives industrial grey ceramite plaques — *Noviomagus standard*, free of vanity — and kneels once before the Lord of Noviomagus. The oath that makes him Batavi is not sworn to a distant god but to the function he now embodies:  
+*“I am the stone that does not bleed. I am the gear that does not jam. I do not seek glory, for glory rusts. I am only a tool. Unbent. Unbroken. I hold. I stand. Instrumentum Solum.”*
+
+When he rises, the new battle-brother receives hard bread and salt not from the Chaplain’s hands but from a civilian worker at the complex. Final physical confirmation that though he is now steel-and-violence monster, his sole justification to breathe is the mortal flesh he feeds.

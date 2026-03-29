@@ -1,45 +1,39 @@
-# \[WIKI\] DOSSIÊ DE RELÍQUIA BIOLÓGICA: VIGGO
+# Viggo — Thunderwolf relic (Alaric von Helis)
 
-**Designação Tática**: O Corredor de Túneis / A Sombra Rápida  
-**Classificação**: Ativo Biológico (Anterior) / Memento Mori (Atual)  
-**Espécie**: *Canis Fenrisian* (Thunderwolf de Fenris)  
-**Status do Ativo**: "Aposentado" (Falecimento por idade; Integrado ao Arsenal do Lorde-Castellan)  
-**Longevidade Registrada**: \~100 Anos Terrestres (Anomalia biológica sustentada por intervenção do Apothecário Drusus e radiação térmica contínua).
+**Tactical designation:** Tunnel runner / fast shadow  
+**Species:** *Canis Fenrisian* (Fenrisian Thunderwolf)  
+**Status:** Deceased (natural causes, Silent Vigil) — preserved as mantle component and tactical relic
 
 ---
 
-## 1\. ORIGEM E A ANOMALIA (O IMPRINTING DO FERRO)
+## 1. Origin and anomaly (iron imprinting)
 
-Resgatado durante a purga de Genestealers no mundo gélido de Hoth-Secundus (ca. **462.M42**), Viggo era o *runt* (o menor e mais fraco) de uma ninhada dizimada. Condenado pela biologia e prestes a receber a misericórdia de Ragnar Blackmane, foi abrigado por Alaric von Helis dentro do compartimento do reator nuclear de sua armadura Exterminadora para evitar falência sistêmica por hipotermia.
+Rescued during Genestealer purge on ice world Hoth-Secundus (ca. **462.M42**), Viggo was the *runt* (smallest, weakest) of a culled litter. Condemned by biology and about to receive Ragnar Blackmane’s mercy, he was sheltered by Alaric von Helis inside his Terminator suit’s reactor compartment to avoid systemic failure from hypothermia.
 
-* **O Imprinting**: O filhote não reconheceu Fenris ou a matilha; ele imprimiu na vibração do reator e no cheiro de promécio. Ele escolheu o Ferro.
+* **Imprinting:** The pup did not imprint Fenris or the pack; he imprinted on reactor vibration and promethium smell. He chose iron.
 
-## 2\. DOUTRINA TÁTICA: "A SOMBRA RÁPIDA"
+## 2. Tactical doctrine: “fast shadow”
 
-Devido ao seu tamanho reduzido (comparável a um touro jovem, não a um rinoceronte como outros de sua espécie), Viggo não era montaria, mas sim uma ferramenta de infiltração.
+Because of reduced size (young bull, not rhino-scale like others of his kind), Viggo was not mount but infiltration tool.
 
-* **A Agulha e o Muro**: Em combate de *Zone Mortalis* (corredores de naves e colmeias industriais), Alaric bloqueava o corredor principal atraindo todo o fogo, enquanto Viggo flanqueava pelos dutos de ventilação, rasgando gargantas e tendões desprotegidos no escuro.  
-* **Mensageiro de Cerco**: Em zonas de "Cegueira de Vox" — comuns no ambiente de Orestes —, Viggo corria entre os esquadrões carregando cilindros de ordens e fitas de dados na boca, sendo rápido e furtivo demais para ser alvejado pela artilharia inimiga.
+* **Spire and Wall:** In *Zone Mortalis* combat (ship corridors, industrial hives), Alaric blocked the main corridor drawing all fire while Viggo flanked through ventilation ducts, tearing exposed throats and tendons in the dark.  
+* **Siege messenger:** In “*vox* blind” zones — common on Orestes — Viggo ran between squads carrying order cylinders and data spools in his jaws, fast and stealthy enough to evade enemy artillery.
 
-## 3\. A ÂNCORA TÉRMICA (A VIGÍLIA SILENCIOSA)
+## 3. Thermal anchor (Silent Vigil)
 
-Durante a profunda depressão clínica de Alaric na Vigília Silenciosa, Viggo foi a âncora que impediu o Lorde-Castellan de se tornar puramente máquina.
+* **Logistical excuse:** Alaric justified the animal with cold logic: the wolf was unique “organic insulation” retaining residual heat in lower armor joints during long Adamant Throne vigils.  
+* **Hand rite:** Alaric did not allow serfs to feed Viggo. Viggo ate synthetic meat straight from the “Father’s Hand” (left adamantium gauntlet). The animal’s tongue on metal was the only non-hostile biological contact Alaric tolerated for centuries.
 
-* **A Desculpa Logística**: Alaric justificava a presença do animal com lógica fria: o lobo era um "isolante orgânico" útil para reter calor residual nas juntas inferiores da armadura durante as longas vigílias no Trono de Adamante.  
-* **O Rito da Mão**: Alaric não permitia que servos o alimentassem. Viggo comia carne sintética diretamente da "Mão do Pai" (a manopla esquerda com garras de adamantium). O toque da língua do animal no metal era o único contato biológico não-hostil que Alaric tolerou durante séculos.
+## 4. Biosocial integration (Martha’s kitchen)
 
-## 4\. INTEGRAÇÃO BIOSSOCIAL (A COZINHA DE MARTHA)
+* **Fang nanny:** Viggo served as heated cradle and walker for infant Elara. The giant wolf slowed to a fraction of his speed to match the human child’s trembling steps.  
+* **Submission to wooden spoon:** Despite lethal alpha predator status, Viggo obeyed Martha’s “clean zone.” Known to clean paws before entering the kitchen so as not to foul industrial flooring — fearing the matriarch’s scolding.
 
-Fora do campo de batalha, Viggo era um pilar do núcleo familiar na fortaleza:
+## 5. Preservation: triple mantle
 
-* **A Babá de Presas**: Viggo serviu de berço aquecido e andador para a bebê Elara. O lobo gigantesco reduzia seu ritmo a uma fração de sua velocidade para acompanhar os passos trêmulos da criança humana.  
-* **Submissão à Colher de Pau**: Apesar de ser um predador alfa letal, Viggo obedecia cegamente à "Zona de Limpeza" imposta por Martha. Ele era conhecido por limpar as patas obedientemente antes de entrar na cozinha para não sujar o chão industrial, temendo a repreensão da matriarca.
+Viggo did not die in battle but of old age at 100 years, peacefully on Alaric’s boots, with Elara present (then age 12). In silent mourning Alaric shut gyroscopes and stayed motionless 24 hours straight. Refusing cold-earth burial, Alaric rendered remains into functional “thermal maintenance” relic — definitive Lord Castellan back heraldry:
 
-## 5\. A PRESERVAÇÃO: O MANTO TRIPLO
-
-Viggo não morreu em batalha, mas de velhice aos 100 anos, deitado pacificamente sobre as botas de Alaric, na presença de Elara (então com 12 anos). Em sinal de luto silencioso, Alaric desligou seus giroscópios e permaneceu imóvel por 24 horas ininterruptas. Recusando-se a enterrá-lo na terra fria, Alaric transformou seus restos em uma relíquia funcional de "manutenção térmica", criando a heráldica de costas definitiva do Lorde-Castellan:
-
-1. **A Camada do Dever (Externa)**: A Capa Carmesim de tecido balístico.  
-2. **A Camada da Autoridade (Intermediária)**: A pele do Patriarca Batav (Lobo Negro).  
-3. **A Camada do Afeto (Interna)**: A pele macia e branca de Viggo. Fica em contato direto com o cinza-ferro da armadura de Alaric, retendo o calor do reator e aquecendo o chassi e qualquer aliado que precise ser coberto.  
-4. **O Calibrador da Mão do Pai**: A cabeça taxidermizada de Viggo, com olhos de rubi fosco, repousa no ombro direito de Alaric, vigiando os flancos e equilibrando o peso da pele do Batav no ombro esquerdo.
+1. **Duty layer (outer):** Crimson ballistic fabric cloak.  
+2. **Authority layer (middle):** Batav patriarch wolf (black wolf) pelt.  
+3. **Affection layer (inner):** Viggo’s soft white pelt. Direct contact with Alaric’s grey-iron armor, retaining reactor warmth and heating chassis and any ally who must be covered.  
+4. **Father’s Hand calibrator:** Viggo’s taxidermied head, dull ruby eyes, rests on Alaric’s right shoulder, watching flanks and balancing Batav pelt weight on the left.

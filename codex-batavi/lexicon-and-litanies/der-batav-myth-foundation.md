@@ -1,82 +1,82 @@
-# [WIKI] O MITO DE DER BATAV E A FUNDAÇÃO DA COHORS BATAVORUM
+# [WIKI] The Der Batav myth and the founding of the Cohors Batavorum
 
-**Classificação:** Léxico e Litanias — Mito Fundador / Identidade do Capítulo  
-**Referências cruzadas:** [fauna-flora-named-specimens.md](../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md) | [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md) | [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/intro-and-heraldry.md) | [mentality-and-philosophy.md](mentality-and-philosophy.md)
+**Classification:** Lexicon and litanies — founding myth / Chapter identity  
+**Cross-references:** [fauna-flora-named-specimens.md](../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md) | [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md) | [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/intro-and-heraldry.md) | [mentality-and-philosophy.md](mentality-and-philosophy.md)
 
 ---
 
-> *"Nós não escolhemos o nome. O nome nos encontrou emergindo da arrebentação com sangue xenos nas mãos. A população já sabia o que éramos antes de nós sabermos."*
+> *“We did not choose the name. The name found us coming out of the surf with xenos blood on our hands. The people already knew what we were before we knew.”*
 >
 > — Alaric von Helis, ca. 045.M42.
 
 ---
 
-## I. O PREDADOR DE AETHELGARD (A BASE BIOLÓGICA)
+## I. The predator of Aethelgard (the biological basis)
 
-No ecossistema de Aethelgard Prime — Mundo-Tempestade da Linha de Vanguarda, um planeta de pântanos negros, Agulhas de pedra e marés que chegam a trinta metros —, a maior parte da fauna sobrevive fugindo. A exceção é o *Canis Batavorum*, conhecido pelos nativos simplesmente como **o Batav**.
+In the ecosystem of Aethelgard Prime — a storm-line vanguard world of black swamps, stone Spires, and tides up to thirty meters — most fauna survives by fleeing. The exception is *Canis Batavorum*, known to natives simply as **the Batav**.
 
-O Batav não foge da Grande Maré. Ele a usa.
+The Batav does not flee the Great Tide. It uses it.
 
-Um superpredador de emboscada de anatomia compacta e muscular, o animal é conhecido por posicionar-se no topo das Agulhas — os picos de pedra negra que emergem dos estuários durante a vazante — e aguardar. Quando a Grande Maré sobe e traz consigo os Leviatãs jovens que vêm nas correntes para se alimentar das algas dos estuários, o Batav desce sobre eles. Não nada até eles. Cai. Um salto de dez, quinze metros de pedra direto sobre a carcaça blindada do Leviatã, garras de obsidiana cravando no dorso encouraçado, mandíbula trituradora encontrando a única vulnerabilidade anatômica que importa: a articulação posterior do crânio. Morte em segundos. O Batav arrasta a carcaça — que pesa toneladas — de volta para a Agulha pela pura eficiência mecânica dos seus músculos.
+A compact, muscular ambush super-predator, the animal is known to position itself atop the Spires — black rock peaks that emerge from the estuaries at low tide — and wait. When the Great Tide rises and brings young Leviathans in the currents to feed on estuary algae, the Batav drops on them. It does not swim to them. It falls. A ten- to fifteen-meter leap from stone straight onto the armored carcass of a Leviathan, obsidian claws punching the plated back, crushing jaws finding the one anatomical weak point that matters: the rear cranial joint. Death in seconds. The Batav drags the carcass — tons — back to the Spire by raw muscular efficiency.
 
-Ele não é o maior predador de Aethelgard. Ele é o mais eficiente. Domina o caos da tempestade não porque é mais forte do que ela, mas porque a usa como campo de caça.
+It is not Aethelgard’s largest predator. It is the most efficient. It masters storm chaos not because it is stronger than the storm, but because it uses the storm as hunting ground.
 
-Para a população nativa de Aethelgard, o Batav carrega o peso de milênios de folclore. A criatura que não foge da tormenta. O animal que desce sobre o monstro. O símbolo de que o predador de ápice não é o maior, mas o que age quando tudo mais recua.
-
----
-
-## II. A PROFECIA DE DER BATAV (O LORE NATIVO)
-
-A lenda de *Der Batav* não surgiu de um oráculo ou de um texto sagrado. Surgiu de gerações de marinheiros que viram o animal caçar e concluíram que algo com aquela qualidade específica — a disposição de descer sobre o caos em vez de escapar dele — só poderia existir em duas formas: a biológica, e a que ainda estava por vir.
-
-A profecia, transmitida oralmente pelos pescadores das costas de Aethelgard, não falava de anjos nem de salvadores celestes. Falava de guerreiros com a **Alma do Lobo da Maré**: seres que não temem a água negra, mas a atravessam para caçar. Que não constroem muros contra a tempestade, mas emergem dela com a jugular do inimigo entre os dentes. Que viriam *de baixo* — das marés, dos pântanos, dos estuários —, não de cima.
-
-Os nativos esperavam algo parecido com o Batav em escala humana. O que receberam foi pior. E exatamente o que precisavam.
+For Aethelgard’s native population, the Batav carries millennia of folklore. The creature that does not flee the tempest. The animal that drops onto the monster. The symbol that the apex predator is not the biggest, but the one that acts when everything else pulls back.
 
 ---
 
-## III. A REALIZAÇÃO (4º QUARTO DA GUERRA DA FUNDAÇÃO — ca. 037–045.M42)
+## II. The prophecy of Der Batav (native lore)
 
-Por três quartos da Guerra da Fundação, os Astartes combateram nas selvas, nas colmeias e nos túneis do subsetor. O Enclave *Venator-Alpha* foi caçado, catalogado, compreendido e, gradualmente, eliminado. O quarto final foi a ofensiva de extermínio.
+The legend of *Der Batav* did not come from an oracle or sacred text. It came from generations of sailors who watched the animal hunt and concluded that something with that specific quality — the willingness to drop onto chaos instead of escape it — could exist in only two forms: the biological, and the one yet to come.
 
-Alaric von Helis — já transformado pelo *Execratio* e pelo retorno forçado ao estágio intermediário, o chassi de 3,5 metros ainda sem a armadura definitiva que viria a ser o *Castra-Lupus* — escolheu os pântanos e estuários de Aethelgard como teatro para a campanha final. Não porque o terreno fosse estrategicamente neutro. Porque era o terreno onde o Enclave esperava que os Astartes não pudessem funcionar — pesados, lentos, drenados pela lama.
+The prophecy, passed orally by Aethelgard’s coastal fishers, spoke not of angels or celestial saviors. It spoke of warriors with the **soul of the tide-wolf**: beings who do not fear the black water but cross it to hunt. Who do not build walls against the storm but emerge from it with the enemy’s throat between their teeth. Who would come *from below* — from tides, swamps, estuaries — not from above.
 
-Os Drop Pods desceram sobre os estuários em maré alta.
-
-Os Astartes não emergiram da água lentamente, limpos e em formação. Emergiram como o Batav emerge: de baixo, de repente, encharcados e violentos, com o único propósito de fechar a distância antes que a presa pudesse reagir. A ofensiva durou semanas. Cada posição do Enclave era flanqueada pela água. Cada refúgio na lama foi transformado em campo de extermínio.
-
-A população nativa que assistia às margens viu um gigante cinza com cabeça de predador disparar da linha da água — e reconheceu algo que não via desde antes de sua civilização ter sido caçada até quase a extinção.
-
-Eles gritaram *"Der Batav!"* antes que qualquer Astartes dissesse uma palavra.
+Natives expected something like the Batav at human scale. What they received was worse. And exactly what they needed.
 
 ---
 
-## IV. A DECISÃO DE ALARIC (A ADOÇÃO DO NOME)
+## III. The fulfillment (fourth quarter of the Foundation War — ca. 037–045.M42)
 
-O rebatismo do Capítulo não foi um decreto solene. Foi uma conclusão pragmática tirada durante a reunião de revisão de doutrina pós-guerra, com o Triunvirato e os primeiros Legatus ao redor de uma mesa.
+For three quarters of the Foundation War, the Astartes fought in jungles, hives, and tunnels across the subsector. The *Venator-Alpha* Enclave was hunted, cataloged, understood, and gradually eliminated. The final quarter was the extermination offensive.
 
-O Administratum havia designado o Capítulo com uma numeração provisória. O nome oficial estava pendente de ratificação de Terra. Alaric olhou para os registros de campo — para a lista de um milhar de marines que haviam desembarcado, para os 500 sobreviventes que restaram, para os nomes gravados no cordão que já pesava sobre sua armadura — e descartou a burocracia.
+Alaric von Helis — already transformed by *Execratio* and forced return to the intermediate stage, the 3.5-meter chassis still without the definitive armor that would become *Castra-Lupus* — chose Aethelgard’s swamps and estuaries as theater for the final campaign. Not because the ground was strategically neutral. Because it was ground where the Enclave expected heavy Astartes could not function — slow, drained by mud.
 
-*"Cohors Batavorum"* servia a dois propósitos, ambos sem romantismo:
+Drop Pods fell on the estuaries at high tide.
 
-**Internamente:** Homenagear o povo de Aethelgard que agora compunha a base de recrutamento e a *Auxilia*. A Doutrina do Suor Compartilhado exigia que os Astartes trabalhassem ao lado da população. Um capítulo que carregasse o nome dela teria mais dificuldade de tratá-la como recurso descartável.
+The Astartes did not emerge from the water slowly, clean, in formation. They emerged as the Batav emerges: from below, suddenly, soaked and violent, with the sole purpose of closing distance before prey could react. The offensive lasted weeks. Every Enclave position was flanked by water. Every refuge in the mud became an extermination ground.
 
-**Externamente:** Estabelecer uma identidade de monstros da fronteira. Um nome que piratas, burocratas e inimigos potenciais associassem não a cavaleiros celestes, mas ao predador que desce da pedra sobre a tempestade. "Monstros de Noviomagus" como categoria, não como acidente.
+Native onlookers at the margins saw a grey giant with a predator’s head burst from the waterline — and recognized something they had not seen since before their civilization was hunted almost to extinction.
 
-O brasão foi desenhado por Kadmos na semana seguinte. O lobo, o gládio horizontal, as ondas na base. Cada elemento com função tática e identitária clara, nenhum por ornamentação.
-
----
-
-## V. O PESO DO MITO (LORE VIVO)
-
-Quatrocentos anos depois da fundação, o mito de Der Batav não é recitado nos ritos. É operado.
-
-Os Bataves não mencionam a profecia em discursos. Eles não usam o Batav como metáfora em cânticos de batalha. O que fazem — e o que os distingue operacionalmente de qualquer outro capítulo — é escolher, sistematicamente, o terreno que o inimigo considera inutilizável. Planetas de inundação. Estações orbitais submersas em lama de detrito. Trincheiras de vácuo onde a pressão colapsa armaduras padrão. Aqui, a biologia do *Padrão Noviomagus* entra em cena: a armadura foi recalibrada para suportar pressão 40% superior ao padrão Tacticus, para manter tração em lama, para operar onde o inimigo presumiu que nada operaria.
-
-O Batav não é um símbolo de coragem. É um princípio de geometria: transformar a condição adversa em vantagem de posicionamento. O predador que funciona na tormenta tem um campo de caça que nenhum rival ocupa.
-
-*Instrumentum Solum.* A ferramenta que funciona onde as outras afundam.
+They shouted *“Der Batav!”* before any Astartes spoke a word.
 
 ---
 
-*Documento compilado pelo Escriba-Mor do Capítulo — data de última revisão: ca. 580.M42*
+## IV. Alaric’s decision (adopting the name)
+
+The Chapter’s renaming was not a solemn decree. It was a pragmatic conclusion drawn during post-war doctrine review, with the Triumvirate and first Legati around a table.
+
+The Administratum had assigned the Chapter a provisional number. The official name awaited Terra’s ratification. Alaric looked at field records — the list of a thousand marines who had landed, the 500 survivors who remained, the names engraved on the cord already heavy on his armor — and discarded the bureaucracy.
+
+*“Cohors Batavorum”* served two purposes, neither romantic:
+
+**Internally:** Honor the people of Aethelgard who now composed the recruitment base and *Auxilia*. Shared Sweat doctrine required Astartes to work beside the population. A Chapter that carried their name would find it harder to treat them as disposable resource.
+
+**Externally:** Establish a frontier-monster identity. A name pirates, bureaucrats, and potential enemies would associate not with celestial knights, but with the predator that drops from the rock onto the storm. “Monsters of Noviomagus” as category, not accident.
+
+The crest was drawn by Kadmos the following week. Wolf, horizontal gladius, waves at the base. Each element clear tactical and identity function, none for ornament.
+
+---
+
+## V. The weight of the myth (living lore)
+
+Four centuries after founding, the Der Batav myth is not recited in rites. It is operated.
+
+Batavi do not mention the prophecy in speeches. They do not use the Batav as metaphor in battle hymns. What they do — and what distinguishes them operationally from any other Chapter — is systematically choose terrain the enemy considers unusable. Flood worlds. Orbital stations submerged in waste slurry. Vacuum trenches where pressure collapses standard armor. Here Noviomagus-pattern biology matters: armor recalibrated for 40% higher pressure than standard Tacticus, traction in mud, operation where the enemy assumed nothing could.
+
+The Batav is not a courage symbol. It is a geometry principle: turn adverse condition into positioning advantage. The predator that works in the storm has a hunting ground no rival occupies.
+
+*Instrumentum Solum.* The tool that works where others sink.
+
+---
+
+*Compiled by the Chapter’s Chief Scribe — last revision ca. 580.M42*

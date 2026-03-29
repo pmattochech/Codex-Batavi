@@ -1,58 +1,58 @@
-# A GUERRA DA FUNDAÇÃO (A GUERRA DOS PREDADORES)
+# The Foundation War (The Predator War)
 
-**Período:** 015.M42 – 045.M42 (Duração: 30 anos)  
-**Inimigo:** Enclave *Venator-Alpha* (Espécie xenos caçadora — táticas de emboscada e terror, sem padrão previsto pelo *Codex Astartes*)  
-**Teatros:** Selvas e pântanos de Aethelgard Prime; colmeias e túneis de Incus-Gravis  
-**Status:** Vitória Total — Fundação da Doutrina Batavi  
-**Referências narrativas:** [predator-war.md](../../chronicles/00-foundation-war/predator-war.md) (1º Quarto, crônica completa) | [der-batav-myth-foundation.md](../../lexicon-and-litanies/der-batav-myth-foundation.md) | [pax-batavorum.md](../doctrine-and-organs/pax-batavorum.md)
-
----
-
-**Escala:** ~1.000 marines no desembarque (chegando em ondas de transporte). ~500 sobreviventes ao fim dos 30 anos. ~650 mortos como Versigodos — a maioria dos marines fundadores. Os 500 que mantiveram a mente intacta tornaram-se os primeiros Legatus e a elite do Capítulo. Os ~650 que não sobreviveram ficaram no cordão de Alaric.
-
-*Esta guerra não foi apenas uma conquista territorial. Foi o laboratório onde a alma, o corpo e a doutrina da Cohors Batavorum foram forjados — à força, sem manual e sob custo catastrófico.*
+**Period:** 015.M42 – 045.M42 (duration: 30 years)  
+**Enemy:** *Venator-Alpha* Enclave (xenos hunting species — ambush and terror tactics, no pattern foreseen by the *Codex Astartes*)  
+**Theaters:** Jungles and swamps of Aethelgard Prime; hives and tunnels of Incus-Gravis  
+**Outcome:** Total victory — Batavi doctrine founded  
+**Narrative references:** [predator-war.md](../../chronicles/00-foundation-war/predator-war.md) (1st Quarter, full chronicle) | [der-batav-myth-foundation.md](../../lexicon-and-litanies/der-batav-myth-foundation.md) | [pax-batavorum.md](../doctrine-and-organs/pax-batavorum.md)
 
 ---
 
-## I. 1º QUARTO (015–022.M42 / Anos 1–7): O DESPERTAR
+**Scale:** ~1,000 marines on landing (arriving in transport waves). ~500 survivors at the end of 30 years. ~650 dead as **Versibars** — most of the founding marines. The 500 who kept their minds intact became the first Legati and the Chapter elite. The ~650 who did not survive remain on Alaric’s cord.
 
-*O choque inicial. Os Astartes como presa.*
-
-* **O Cenário:** O Enclave *Venator-Alpha* não toma posições, não constrói linhas e não apresenta batalha em campo aberto. Caça. Individualmente, em pares, com paciência de geologia. O *Codex Astartes* não tem protocolo para um inimigo que quer caçar, não vencer. Cada protocolo doutrinário aplicado gera baixas. Patrulhas somem sem sinal de combate. Corpos raramente são recuperados — os mortos ficam como "status não confirmado" porque confirmá-los exigiria admitir que o Enclave levou algo irrecuperável.
-* **A Biologia (Drusus):** O Furor começa a surgir na tropa — não como colapso espiritual, mas como resposta biológica ao estresse de ser presa com gene-seed de predador. Drusus documenta os primeiros casos incluindo o próprio. O gatilho predominante: **acúmulo de estresse sem resolução + incapacidade de ancorar ao Axioma**, precipitado por choque emocional. O estado gravado do Triunvirato — o que ficou fotografado na biologia quando o *Axioma* cedeu — é **Tipo III (Dever)**: a compulsão irrevogável de não largar, mesmo sem saber como segurar.
-* **O Embrião (Triunvirato):** A primeira reunião sem nome no protocolo: Alaric, Drusus e Varro em torno de um mapa e de um relatório de setenta e dois casos de Furor. A observação de Drusus — *"O dever funciona como âncora quando nada mais funciona"* — é o embrião do que se tornará o *Axioma Rationis*. Não uma filosofia; uma observação clínica de que nomear a âncora e ensiná-la poderia ser a diferença entre um Capítulo que se mantém e um que fragmenta.
-* **Resultado:** 183 baixas documentadas no primeiro quarto. A maioria como Versigodos — marines que chegaram ao Furor sem âncora de dever e colapsaram ao Exanimus e ao Execratio antes que qualquer protocolo existisse.
+*This war was not merely a territorial conquest. It was the laboratory where the soul, body, and doctrine of the Cohors Batavorum were forged — by force, without a manual, at catastrophic cost.*
 
 ---
 
-## II. 2º QUARTO (022–030.M42 / Anos 8–15): A ESTABILIZAÇÃO DA ANOMALIA
+## I. First quarter (015–022.M42 / years 1–7): The awakening
 
-*A guerra de atrito nos mundos industriais. A biologia dominada pela disciplina.*
+*The initial shock. The Astartes as prey.*
 
-* **O Cenário:** O combate move-se para as colmeias e túneis de Incus-Gravis. Ambiente fechado, iluminação baixa, pressão constante. O Enclave adapta as táticas ao terreno industrial — os Astartes também.
-* **A Biologia (Drusus):** O Triunvirato atinge o **Estágio Exanimus simultaneamente** — hipertrofia maxilar, garras de queratina, olhos de predador. Enquanto neófitos perdem a mente sob a mesma pressão, os três mantêm a racionalidade pela pura força de vontade e pela âncora do dever gravado. Drusus cataloga isso como **"Estabilização de Comando"**: a prova de que o Exanimus não precisa significar colapso — significa mais trabalho. O *Axioma Rationis* começa a ser formalizado como doutrina escrita, não apenas como prática instintiva dos que sobreviveram.
-* **A Alma (Varro):** Varro desenvolve as **Âncoras Psíquicas** — ritos baseados em função, não em fé. Percebendo que o Exanimus remove a inibição moral, ele reorienta: a fúria não é suprimida, é direcionada. Varro adota o elmo de Crânio de Lobo permanentemente neste período. A mensagem é direta: a única coisa mais aterrorizante que a besta interna é o julgamento do Capelão.
-* **Resultado:** Taxa de Versigodos cai significativamente. O *Axioma Rationis* em versão proto-formal — *"Sentir é biológico; agir é lógico"* — começa a ser ensinado à tropa. Os Bataves aprendem a nomear o que os manteve vivos no primeiro quarto.
-
----
-
-## III. 3º QUARTO (030–037.M42 / Anos 16–22): O ABISMO E O RETORNO
-
-*O ponto de ruptura. O evento que define tudo.*
-
-* **O Evento (031.M42):** Cercado em um complexo industrial de Incus-Gravis, vendo irmãos serem eliminados por uma emboscada que o *Axioma* não preveniu, Alaric quebra. O acúmulo de trinta anos de peso de comando, as placas no cordão, a responsabilidade de cada marine morto como Versigodo por falta de doutrina que ele ainda estava construindo — e o choque emocional específico daquele momento — superam a contenção. Alaric cai ao **Execratio**. A transformação em besta de 4,5 metros é completa. O Versigodo massacra a liderança do Enclave com a eficiência predatória de um animal sem moral e sem plano — apenas o instinto de eliminar a ameaça imediata.
-* **O Retorno (Varro / O Rito do Retorno):** Varro não executa Alaric. Fica de pé diante da besta — desarmado, sem recuar — e grita coordenadas táticas e nomes dos mortos. Não orações. Não apelos emocionais. Dados de missão. Nomes de Versigodos que Alaric carregava no cordão. A lógica que ficou gravada no estado Tipo III — o dever — tem, ainda, um caminho até a besta. A mente de Alaric processa lógica até a consciência retomar o controle. Leva horas.
-* **A Anomalia Alfa:** A biologia de Alaric não retorna ao baseline Primaris. Trava irrevogavelmente no estágio intermediário: 3,5 metros, massa de combate de três toneladas, mente de general intacta. O *Apothecarion* não tem classificação para o que ele é. Drusus documenta como **Anomalia Alfa** e arquiva *Vermilion*.
-* **O Lema (031.M42):** Nos dias que seguem ao retorno, quando a tropa tenta encontrar palavras para o que aconteceu, Alaric não oferece nenhuma. A única coisa que diz, em resposta à primeira pergunta de missão após a recuperação: *"We hold."* O lema não foi escolhido. Saiu como estado biológico. **"Unbent"** — o equivalente formal — vem depois, quando o Triunvirato precisa de uma palavra única para o que o capítulo é. A recusa lógica em ceder à falha, mesmo depois de ter caído nela.
-* **Resultado:** A perda cumulativa do terceiro quarto chega a aproximadamente 50% do efetivo total. O cordão de Alaric passa de pesado para impossível de imaginar que um homem carregue. Kadmos inicia o projeto do *Castra-Lupus* — a armadura não existia antes; era necessária agora.
+* **The scenario:** The *Venator-Alpha* Enclave does not hold positions, build lines, or offer open-field battle. It hunts — alone, in pairs, with geological patience. The *Codex Astartes* has no protocol for an enemy that wants to hunt, not win. Every doctrinal protocol applied costs casualties. Patrols vanish with no sign of combat. Bodies are rarely recovered — the dead stay “status unconfirmed” because confirming them would mean admitting the Enclave took something irrecoverable.
+* **Biology (Drusus):** Furor begins to surface in the ranks — not as spiritual collapse but as biological response to the stress of being prey with predator gene-seed. Drusus documents the first cases, including his own. Dominant trigger: **accumulated stress without resolution + inability to anchor to the Axiom**, precipitated by emotional shock. The Triumvirate’s engraved state — what biology “photographed” when the *Axiom* broke — is **Type III (Duty)**: the irrevocable compulsion not to let go, even without knowing how to hold.
+* **The embryo (Triumvirate):** The first nameless protocol meeting: Alaric, Drusus, and Varro over a map and a report of seventy-two Furor cases. Drusus’s observation — *“Duty works as an anchor when nothing else works”* — is the embryo of what will become the *Axioma Rationis*. Not philosophy; a clinical note that naming the anchor and teaching it might be the difference between a Chapter that holds and one that shatters.
+* **Result:** 183 documented casualties in the first quarter. Most as Versibars — marines who reached Furor without a duty anchor and collapsed through Exanimus to Execratio before any protocol existed.
 
 ---
 
-## IV. 4º QUARTO (037–045.M42 / Anos 23–30): A VITÓRIA DE DER BATAV
+## II. Second quarter (022–030.M42 / years 8–15): Stabilizing the anomaly
 
-*A ofensiva final. O mito que nomeia o Capítulo.*
+*Friction war on industrial worlds. Biology dominated by discipline.*
 
-* **A Estratégia:** Alaric — já no *Castra-Lupus* em versão preliminar — escolhe os pântanos e estuários de Aethelgard como teatro para a campanha de extermínio do Enclave. O terreno que o Enclave considerava inutilizável para Astartes pesados torna-se o campo de caça dos Bataves. Drop Pods caem em maré alta sobre os estuários. Os Astartes emergem da água em ofensiva — encharcados, violentos, fechando distância antes que a presa possa reagir.
-* **Der Batav (ca. 044–045.M42):** A população nativa que assiste às margens reconhece o padrão: gigantes saindo da água sobre o inimigo, exatamente como o *Canis Batavorum* desce das Agulhas sobre os Leviatãs. Gritam *"Der Batav!"* antes que qualquer Astartes pronuncie uma palavra. O mito de milênios — o guerreiro com a Alma do Lobo da Maré, que vem de baixo, que usa a tormenta como campo de caça — se cumpre.
-* **A Decisão (045.M42):** Em reunião pós-guerra, Alaric descarta a numeração provisória do Administratum. *"Cohors Batavorum"* — internamente, para honrar o povo que agora forma a base de recrutamento e a *Auxilia*; externamente, para estabelecer uma identidade de monstros da fronteira que o Império aprenda a não subestimar.
-* **Resultado:** Vitória total. ~500 sobreviventes. O Capítulo tem nome, lema, doutrina e identidade. O que vem a seguir — a expansão para 5.000, o Super-Dízimo e o Tratado do *Limes Lupus* — está documentado em [pax-batavorum.md](../doctrine-and-organs/pax-batavorum.md) e [legislative-chronology.md](legislative-chronology.md).
+* **The scenario:** Combat shifts to the hives and tunnels of Incus-Gravis. Closed environment, low light, constant pressure. The Enclave adapts tactics to industrial terrain — so do the Astartes.
+* **Biology (Drusus):** The Triumvirate reaches **Exanimus simultaneously** — jaw hypertrophy, keratin claws, predator eyes. While neophytes lose their minds under the same pressure, the three keep rationality by raw will and the engraved duty anchor. Drusus catalogs this as **“command stabilization”**: proof that Exanimus need not mean collapse — it means more work. The *Axioma Rationis* begins to be formalized as written doctrine, not only as instinctive practice of survivors.
+* **The soul (Varro):** Varro develops **psychic anchors** — rites based on function, not faith. Seeing that Exanimus strips moral inhibition, he redirects: fury is not suppressed, it is aimed. Varro adopts the wolf-skull helm permanently in this period. The message is blunt: the only thing more terrifying than the inner beast is the Chaplain’s judgment.
+* **Result:** Versibar rate drops sharply. The *Axioma Rationis* in proto-formal version — *“Feeling is biological; action is logical”* — begins to be taught to the ranks. The Batavi learn to name what kept them alive in the first quarter.
+
+---
+
+## III. Third quarter (030–037.M42 / years 16–22): The abyss and the return
+
+*The breaking point. The event that defines everything.*
+
+* **The event (031.M42):** Trapped in an Incus-Gravis industrial complex, watching brothers cut down by an ambush the *Axiom* did not prevent, Alaric breaks. Thirty years of command weight, the plaques on the cord, responsibility for every marine dead as Versibar for lack of doctrine he was still building — and the specific emotional shock of that moment — overwhelm containment. Alaric falls to **Execratio**. Transformation into a 4.5-meter beast is complete. The Versibar massacres Enclave leadership with the predatory efficiency of an animal without morals or plan — only instinct to remove the immediate threat.
+* **The return (Varro / the Return Rite):** Varro does not execute Alaric. He stands before the beast — unarmed, not retreating — and shouts tactical coordinates and names of the dead. No prayers. No emotional appeals. Mission data. Names of Versibars Alaric carried on the cord. The logic engraved in Type III — duty — still has a path to the beast. Alaric’s mind processes logic until consciousness regains control. It takes hours.
+* **Alpha anomaly:** Alaric’s biology does not return to Primaris baseline. It locks irrevocably at the intermediate stage: 3.5 meters, three-ton combat mass, general’s mind intact. The *Apothecarion* has no classification for what he is. Drusus documents **Alpha anomaly** and files *Vermilion*.
+* **The motto (031.M42):** In the days after the return, when the ranks grope for words for what happened, Alaric offers none. The only thing he says, answering the first mission question after recovery: *“We hold.”* The motto was not chosen. It emerged as biological state. **“Unbent”** — the formal equivalent — comes later, when the Triumvirate needs one word for what the Chapter is. Logical refusal to yield to failure, even after having fallen into it.
+* **Result:** Cumulative third-quarter losses reach roughly 50% of total strength. Alaric’s cord goes from heavy to impossible to imagine one man carrying. Kadmos begins the *Castra-Lupus* project — the armor did not exist before; it was necessary now.
+
+---
+
+## IV. Fourth quarter (037–045.M42 / years 23–30): The victory of Der Batav
+
+*The final offensive. The myth that names the Chapter.*
+
+* **Strategy:** Alaric — already in preliminary *Castra-Lupus* — chooses the swamps and estuaries of Aethelgard as theater for the Enclave extermination campaign. Terrain the Enclave thought unusable for heavy Astartes becomes the Batavi hunting ground. Drop Pods fall at high tide on the estuaries. The Astartes emerge from the water on the attack — soaked, violent, closing distance before prey can react.
+* **Der Batav (ca. 044–045.M42):** Native onlookers at the margins recognize the pattern: giants rising from the water onto the enemy, exactly as *Canis Batavorum* drops from the Spires onto young Leviathans. They shout *“Der Batav!”* before any Astartes speaks. The millennia-old myth — the warrior with the soul of the tide-wolf, who comes from below, who uses the storm as hunting ground — fulfills itself.
+* **The decision (045.M42):** In post-war council, Alaric discards the Administratum’s provisional numbering. *“Cohors Batavorum”* — internally, to honor the people who now form the recruitment base and *Auxilia*; externally, to establish a frontier-monster identity the Imperium learns not to underestimate.
+* **Result:** Total victory. ~500 survivors. The Chapter has name, motto, doctrine, and identity. What follows — expansion to 5,000, the Super-Tithe, and the *Limes Lupus* treaty — is documented in [pax-batavorum.md](../doctrine-and-organs/pax-batavorum.md) and [legislative-chronology.md](legislative-chronology.md).

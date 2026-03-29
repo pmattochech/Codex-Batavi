@@ -1,13 +1,13 @@
-# Codex-Batavi (repositório)
+# Codex-Batavi (repository)
 
-Monorepo com três áreas na **raiz**:
+Monorepo with three areas at **repository root**:
 
-| Pasta | Conteúdo |
+| Folder | Contents |
 |--------|----------|
-| **`codex-batavi/`** | Lore em Markdown, `.cursorrules`, `lore-images/` |
-| **`forja/`** | Pacote `batavi-forja` / CLI `batavi-img`; [tutorial](forja/TUTORIAL.md) · [README](forja/README.md) · [cheat sheet](forja/CHEATSHEET.md) |
-| **`scripts/`** | Utilitários de manutenção do codex |
+| **`codex-batavi/`** | Lore in Markdown, `.cursorrules`, `lore-images/` |
+| **`forja/`** | `batavi-forja` package / `batavi-img` CLI; [tutorial](forja/TUTORIAL.md) · [README](forja/README.md) · [cheat sheet](forja/CHEATSHEET.md) |
+| **`scripts/`** | Codex maintenance utilities |
 
-**Índice do lore:** [codex-batavi/README.md](codex-batavi/README.md)
+**Lore index:** [codex-batavi/README.md](codex-batavi/README.md)
 
-Regras do projeto (Cursor): arquivo real em `codex-batavi/.cursorrules`; na raiz existe um **symlink** com o mesmo nome para o IDE encontrar.
+Project rules (Cursor): canonical file is `codex-batavi/.cursorrules`; a **symlink** with the same name exists at repo root for the IDE.

@@ -10,7 +10,7 @@
 
 *"For centuries we walked in the dark, fearing our gene-seed was only a slow disease. A silent countdown to degeneration and the Executioner’s axe. We were wrong. Archmagos Belisarius Cawl did not give us a disease; he forged an arsenal and buried it in our marrow. We are not static warriors. We are a reactive biological organism, meticulously designed to mirror the galaxy’s horror and annihilate it with its own face."* — Lord Castellan’s personal journal, Entry 0-Alpha.
 
-## II. EVENT I: THE MONÇÃO (THE BEAST VECTOR)
+## II. EVENT I: THE MONSOON (THE BEAST VECTOR)
 
 * **Identified trigger:** Ork xenos threat (physical pressure and saturation of the *Waaagh!* psychic field).  
 * **Engagement reference:** The Skarjaw War.

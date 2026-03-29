@@ -1,32 +1,32 @@
-# Matriz biogeográfica — Sistema II (Cadinho)
+# Biogeographic matrix — System II (Crucible)
 
-*Entrada canónica de flora, fauna e risco por corpo celeste. Atlas narrativo: [`../atlas-and-topography/systems/system-ii-crucible.md`](../atlas-and-topography/systems/system-ii-crucible.md).*
+*Canonical flora, fauna, and risk entry per celestial body. Narrative atlas: [`../atlas-and-topography/systems/system-ii-crucible.md`](../atlas-and-topography/systems/system-ii-crucible.md).*
 
 ## Incus-Gravis Tertius
-* **Topologia:** Super-terra plana de 2.8G, mares de cascalho e colmeias invertidas escavadas.
-* **Flora:** Escassa na superfície; microflora subterrânea de caverna e biofilmes mineralizados.
-* **Fauna:** Macroinvertebrados rastejantes e organismos adaptados à hipergravidade.
-* **Risco biológico:** Esmagamento sistêmico, falhas ósseas e síndrome de adaptação gravitacional.
+* **Topology:** Flat super-earth at 2.8G, gravel seas, inverted excavated hives.  
+* **Flora:** Scarce on surface; cave microflora and mineralized biofilms.  
+* **Fauna:** Crawling macro-invertebrates and hypergravity-adapted organisms.  
+* **Biological risk:** Systemic crushing, bone failure, gravitational adaptation syndrome.
 
 ## Incus-Gravis Secundus
-* **Topologia:** Mundo-túnel, geologia habitável em profundidade e cúpulas de mineração cristalina.
-* **Flora:** Fungos de substrato, liquens de caverna e cultivo em espectro artificial.
-* **Fauna:** Predadores cavernícolas, artrópodes de poço e parasitas de duto térmico.
-* **Risco biológico:** Deficiência crônica de luz (Peste Branca), surtos em habs fechados e fungemia.
+* **Topology:** Tunnel-world, habitable geology at depth, crystal mining domes.  
+* **Flora:** Substrate fungi, cave lichens, artificial-spectrum cultivation.  
+* **Fauna:** Cave predators, pit arthropods, thermal duct parasites.  
+* **Biological risk:** Chronic light deficiency (white plague), closed-hab outbreaks, fungemia.
 
 ## Incus-Gravis-I
-* **Topologia:** Mundo travado tidalmente com face de calor extremo e zonas de radar blindadas.
-* **Flora/Fauna:** Quase nulas fora de nichos de infraestrutura penal.
-* **Risco biológico:** Radiação solar, falência térmica e degradação tecidual acelerada.
+* **Topology:** Tidally locked world with extreme heat face and radar-shielded zones.  
+* **Flora/Fauna:** Nearly null outside penal infrastructure niches.  
+* **Biological risk:** Solar radiation, thermal failure, accelerated tissue degradation.
 
-## Bifrons-Ferrum / Vitreus / Anel de Logus
-* **Topologia:** Planeta partido, mundo-lente vitrificado e disco de acreção industrial.
-* **Flora:** Mínima e confinada a bolsões técnicos.
-* **Fauna:** Fauna refletida/silicática residual, pragas de sucata e organismos de metal oxidado.
-* **Risco biológico:** Trauma ótico, contaminação de estase, vetores de ferrugem biológica e poeira ionizada.
+## Bifrons-Ferrum / Vitreus / Logus Ring
+* **Topology:** Broken planet, vitrified lens world, industrial accretion disk.  
+* **Flora:** Minimal, confined to technical pockets.  
+* **Fauna:** Residual reflected/silicatic fauna, scrap vermin, oxidized-metal organisms.  
+* **Biological risk:** Optical trauma, stasis contamination, biological rust vectors, ionized dust.
 
 ## Aethelgard Prime / Ignis-Minor / Tempestas-Major-VII
-* **Topologia:** Lua de marés ciclópicas, lua vulcânica de fricção tectônica e pântano ácido hiperpressurizado.
-* **Flora:** Costeira de choque e maré (Aethelgard), flora mineral termófila (Ignis), fungos-de-ferro predatórios (VII).
-* **Fauna:** Predadores anfíbios de maré, megafauna de basalto e *Tyrannus Lutum* encouraçados.
-* **Risco biológico:** Pressão osmótica extrema, queimadura química e predação territorial.
+* **Topology:** Cyclopean tide moon, friction-tectonic volcanic moon, hyper-pressurized acid swamp.  
+* **Flora:** Shock coast and tide flora (Aethelgard), mineral thermophile flora (Ignis), predatory iron fungi (VII).  
+* **Fauna:** Amphibious tide predators, basalt megafauna, armored *Tyrannus Lutum*.  
+* **Biological risk:** Extreme osmotic pressure, chemical burn, territorial predation.

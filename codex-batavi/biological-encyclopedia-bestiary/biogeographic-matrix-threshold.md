@@ -1,25 +1,25 @@
-# Matriz biogeográfica — Sistema III (Limiar)
+# Biogeographic matrix — System III (Threshold)
 
-*Entrada canónica de flora, fauna e risco por corpo celeste. Atlas narrativo: [`../atlas-and-topography/systems/system-iii-threshold.md`](../atlas-and-topography/systems/system-iii-threshold.md).*
+*Canonical flora, fauna, and risk entry per celestial body. Narrative atlas: [`../atlas-and-topography/systems/system-iii-threshold.md`](../atlas-and-topography/systems/system-iii-threshold.md).*
 
-## Tempest-V / Grande Recife / Station-Maleventum
-* **Topologia:** Mundo-sentinela sem atmosfera, cinturão eletrostático condutor e fortaleza-asteroide de negação absoluta.
-* **Flora/Fauna:** Ausentes em escala planetária; prevalecem ecologias de casco, pragas de vácuo e biofilmes de radiação.
-* **Risco biológico:** Exposição eletromagnética, abrasão por microdetritos e neurose de confinamento.
+## Tempest-V / Great Reef / Station-Maleventum
+* **Topology:** Airless sentinel world, electrostatic conducting belt, absolute-negation asteroid fortress.  
+* **Flora/Fauna:** Absent at planetary scale; hull ecologies, vacuum vermin, radiation biofilms dominate.  
+* **Biological risk:** EM exposure, micro-abrasion, confinement neurosis.
 
 ## Nox / Abyssal-Anchor / Singularity-Point
-* **Topologia:** Obsidiana de alta gravidade, porto de borda gravitacional e fenda temporal instável.
-* **Flora:** Residual em nichos pressurizados de base.
-* **Fauna:** Organismos de sombra e vetores oportunistas de doca fechada.
-* **Risco biológico:** Contaminação dimensional, estresse neuropsíquico e desorientação por eco-visual.
+* **Topology:** High-gravity obsidian, border gravity port, unstable temporal rift.  
+* **Flora:** Residual in pressurized base niches.  
+* **Fauna:** Shadow organisms and closed-dock opportunist vectors.  
+* **Biological risk:** Dimensional contamination, neuropsychic stress, visual-echo disorientation.
 
-## Station-IX / Cinturão Silencioso / Olho de Vidro / Marco de Vetra
-* **Topologia:** Rede sensorial distribuída, asteroides de escuta, plataforma óptica profunda e lua retransmissora.
-* **Flora/Fauna:** Quase nulas; biologia relevante é humana (degradação sensorial ocupacional).
-* **Risco biológico:** Atrofia vocal, fadiga ocular neural, síndrome do murmúrio e saturação psicoacústica.
+## Station-IX / Silent Belt / Glass Eye / Vetra Mark
+* **Topology:** Distributed sensor net, listening asteroids, deep optical platform, relay moon.  
+* **Flora/Fauna:** Nearly null; relevant biology human (occupational sensory degradation).  
+* **Biological risk:** Vocal atrophy, neural ocular fatigue, murmur syndrome, psychoacoustic saturation.
 
-## Vigil-Secundus / Sentinelas de Gelo
-* **Topologia:** Lua cega tectotérmica e nuvem de cometas armados.
-* **Flora:** Líquens radiotróficos de baixa luz e cadeias químicas abissais.
-* **Fauna:** Predadores de sonar em ambiente sem fotopercepção; biota criogênica periférica.
-* **Risco biológico:** Predação por vibração, perfuração criogênica e colapso térmico imediato.
+## Vigil-Secundus / Ice Sentinels
+* **Topology:** Blind tectothermal moon, armed comet cloud.  
+* **Flora:** Low-light radiotrophic lichens and abyssal chemical chains.  
+* **Fauna:** Sonar predators without photoperception; peripheral cryogenic biota.  
+* **Biological risk:** Vibration predation, cryogenic breach, immediate thermal collapse.

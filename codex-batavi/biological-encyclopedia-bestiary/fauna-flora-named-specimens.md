@@ -1,20 +1,20 @@
-# Fauna, flora e espécimes nomeados (subsetor Castra Vetera)
+# Fauna, flora, and named specimens (Castra Vetera subsector)
 
-Índice de organismos citados no atlas detalhado e nas matrizes. Para habitat por mundo, cruzar com as [matrizes biogeográficas](INDEX.md).
+Index of organisms cited in the detailed atlas and matrices. For per-world habitat, cross-reference the [biogeographic matrices](INDEX.md).
 
-| Designação | Tipo | Ocorrência / notas |
+| Designation | Type | Occurrence / notes |
 |------------|------|---------------------|
-| **Canis Batavorum** (*Batav*) | Fauna nativa (superpredador aquático) | Aethelgard Prime — base do mito *Der Batav*; ver [mito de Der Batav](../lexicon-and-litanies/der-batav-myth-foundation.md). |
-| **Thunderwolf** (*Canis Fenrisian*) | Fauna / relíquia | Fenris e operações aliadas; [Viggo relic](viggo-relic.md). |
-| **Árvores-Guilhotina** | Flora mutada (cinética, predatória) | Bator-Tertius — radiação de *Bator-Sol*; treino Coorte das Sombras. |
-| ***Grox-Prime*** (variantes irradiadas) | Fauna de dízimo | Bator-Tertius — proteína de elite para metabolismo transumano. |
-| **Fungos-de-Ferro** | Flora / pseudo-fungal | Tempestas-Major-VII — folhas como estilhaços; pântano ácido. |
-| ***Tyrannus Lutum*** | Fauna (anfíbio encouraçado) | Tempestas-Major-VII — campo de testes biológico. |
-| **Leviatãs** (jovens, presa do Batav) | Fauna oceânica | Folclore de Aethelgard — caça na Grande Maré. |
-| **Leviatãs de Sonar** | Fauna abissal | Vigil-Secundus — predação por vibração sem luz. |
-| **Pragas industriais / de escória** | Fauna sinantrópica | Noviomagus Prime — vetores de colmeia. |
-| **Algas de combate** | Flora aquática técnica | Horreum-Secundus — alto teor proteico, filtragem. |
-| **Biofilmes de casco / de radiação** | Microbiota | Órbita e cascos — Limiar e satélites do Bastião. |
+| **Canis Batavorum** (*Batav*) | Native fauna (aquatic super-predator) | Aethelgard Prime — basis of *Der Batav* myth; see [Der Batav myth](../lexicon-and-litanies/der-batav-myth-foundation.md). |
+| **Thunderwolf** (*Canis Fenrisian*) | Fauna / relic | Fenris and allied operations; [Viggo relic](viggo-relic.md). |
+| **Guillotine trees** | Mutant flora (kinetic, predatory) | Bator-Tertius — *Bator-Sol* radiation; Shadow Cohort training. |
+| ***Grox-Prime*** (irradiated variants) | Tithe fauna | Bator-Tertius — elite protein for transhuman metabolism. |
+| **Iron fungi** | Flora / pseudo-fungal | Tempestas-Major-VII — shard-like leaves; acid swamp. |
+| ***Tyrannus Lutum*** | Fauna (armored amphibian) | Tempestas-Major-VII — biological test range. |
+| **Leviathans** (young, Batav prey) | Ocean fauna | Aethelgard folklore — hunt in Great Tide. |
+| **Sonar leviathans** | Abyssal fauna | Vigil-Secundus — vibration predation without light. |
+| **Industrial / slag vermin** | Synanthropic fauna | Noviomagus Prime — hive vectors. |
+| **Combat algae** | Technical aquatic flora | Horreum-Secundus — high protein, filtration. |
+| **Hull / radiation biofilms** | Microbiota | Orbit and hulls — Threshold and Central Bastion satellites. |
 
-### Patologias e síndromes ambientais
-* **Peste Branca** — deficiência de luz / vitamina D em habs subterrâneos (Incus-Gravis Secundus); tratamento espiritual-médico local descrito em [Ecclesiarchy on the frontier](../political-relations/ecclesiarchy-on-the-frontier.md).
+### Environmental pathologies and syndromes
+* **White plague** — light / vitamin D deficiency in deep habs (Incus-Gravis Secundus); local spiritual-medical treatment in [Ecclesiarchy on the frontier](../political-relations/ecclesiarchy-on-the-frontier.md).

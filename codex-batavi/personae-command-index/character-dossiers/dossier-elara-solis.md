@@ -1,76 +1,75 @@
-# \[WIKI\] DOSSIÊ DE PERSONAGEM: A VÊNUS DE FERRO \-  A VIDA DE ELARA SOLIS
+# [WIKI] Character dossier: Iron Venus — the life of Elara Solis
 
-**Aparência e Comportamento:** Aos 30 anos (no presente ciclo de 580.M42), Elara Solis é a síntese visual e espiritual de Noviomagus. Ela possui uma beleza aristocrática e austera, descrita pelos poetas locais como "um fenômeno estático". Alta para uma humana não modificada, com uma postura que reflete a rigidez da coluna vertebral de um Astartes, ela possui uma figura esbelta, mas com curvas marcantes — uma feminilidade exuberante que ela oculta sob uniformes navais abotoados até o pescoço, não por pudor, mas por eficiência.
+**Appearance and conduct:** At age 30 (current cycle 580.M42), Elara Solis is Noviomagus’s visual and spiritual synthesis. She has austere aristocratic beauty local poets call “a static phenomenon.” Tall for an unmodified human, posture echoing an Astartes spine’s rigidity, slender but marked curves — exuberant femininity she hides under naval uniforms buttoned to the neck, not from modesty but efficiency.
 
-* **Rosto:** Traços finos e simétricos, pele pálida de quem vive sob a luz artificial dos strategiums e a sombra de gigantes.  
-* **Olhos:** De um cinza tempestuoso, analíticos e frios. Quando ela olha para um mapa, vê vetores de atrito; quando olha para um homem, vê sua utilidade para o Trono.  
-* **Cabelo:** Negro como o vácuo, mantido em coques militares severos. Apenas na intimidade da cozinha de Martha, longe dos protocolos, ela permite que caiam como uma cascata noturna.  
-* **Personalidade:** O resultado da colisão entre a Lógica de Guilliman e o Instinto de Russ. Ela ama profundamente, mas seu amor é expresso através da proteção. Ela despreza a fraqueza de caráter e a indolência. Para Elara, o romance é ineficiente se não houver "Ferro no Sangue".
+* **Face:** Fine symmetrical features, pale skin of one who lives under strategium light and giants’ shadow.  
+* **Eyes:** Storm grey, analytical and cold. On a map she sees friction vectors; on a man she sees his utility to the Throne.  
+* **Hair:** Black as the void, kept in severe military buns. Only in Martha’s kitchen intimacy, away from protocol, she lets it fall like a night cascade.  
+* **Personality:** Collision between Guilliman’s logic and Russ’s instinct. She loves deeply but expresses it through protection. She despises weak character and sloth. For Elara, romance is inefficient without “iron in the blood.”
 
-\--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
-## I. O FIM DA CHUVA (Ano 0 a 5\)
+## I. End of the rain (years 0–5)
 
-*A descoberta e a quebra do gelo.*
+*Discovery and ice breaking.*
 
-A vida de Elara começou onde a esperança de Alaric havia terminado no início da Vigília Silenciosa: sob a chuva ácida no **Parapeito de Ferro**. O choro daquele bebê não apenas quebrou o silêncio do Mestre de Capítulo, mas forçou a reativação de protocolos emocionais que ele julgava mortos.
+Elara’s life began where Alaric’s hope had ended at Silent Vigil’s start: under acid rain on the **Iron Parapet**. That infant’s cry broke not only the Chapter Master’s silence but forced reactivation of emotional protocols he thought dead.
 
-Alaric levou-a para dentro, uma montanha de ceramite cinza segurando uma vida frágil. Ele marchou diretamente para a Ala Médica, ignorando a confusão de seus irmãos, e convocou o Triunvirato.
+Alaric carried her inside, a grey ceramite mountain holding fragile life. He marched straight to the medicae wing, ignoring his brothers’ confusion, and summoned the Triumvirate.
 
-* **A Análise:** Drusus, com seus instrumentos frios, declarou-a saudável. Varro, com seu elmo de crânio, declarou-a uma "chama necessária". Mas foi Alaric, com a voz trêmula de um gigante perdido, que definiu o futuro: *"Ela precisa de ajuda... mas eu não sei o que fazer."*  
-* **Paternidade dupla (ferro e barro):** Para a fortaleza e para o Capítulo, **Alaric** é o pai de Elara — dever, proteção, linhagem simbólica. **Tobias** é o pai humano da casa: riso, oficina, espada de madeira, o abraço que não vem da ceramite. Os dois ocupam o mesmo lugar moral; nenhum substitui o outro. O Triunvirato inteiro (Drusus e Varro inclusos) participa da criação dela além de Martha — *crônicas em **registro pessoal retrospectivo** (só Drusus e Varro), enquadramento **578.M42** — [record-drusus-elara.md](../../chronicles/07-iron-venus/record-drusus-elara.md) e [record-varro-elara.md](../../chronicles/07-iron-venus/record-varro-elara.md) (prosa ✅). Cena canônica em [iron-venus.md](../../chronicles/07-iron-venus/iron-venus.md). Índice: [chronicles/INDEX.md](../../chronicles/INDEX.md) (arco 07).*
-* **A Entrada de Martha e Tobias:** Foi então que a governanta Martha foi chamada. Ela não viu um monstro; viu um pai desesperado. Ela tomou a criança e, com ela, tomou o comando da situação.  
-* **A Cozinha:** O berço de Elara não foi o laboratório, mas a cozinha de serviço. Ali, Alaric conheceu **Tobias**, o marido de Martha e Mestre de Obras. Tobias era um homem robusto, de mãos calejadas e riso fácil, que não temia o gigante.  
-  * **A Lição de Tobias**: "Você constrói as paredes, meu senhor, mas eu construo os lares dentro delas. Deixe a menina ver que nem tudo é guerra." Tobias ensinou Alaric a segurar a menina sem esmagá-la, transformando o "Lobo de Isstvan" em um tio gigante e desajeitado.
+* **Analysis:** Drusus, with cold instruments, declared her healthy. Varro, in skull helm, declared her a “necessary flame.” But Alaric, voice trembling like a lost giant, defined the future: *“She needs help… but I don’t know what to do.”*  
+* **Dual parenthood (iron and clay):** For the fortress and Chapter, **Alaric** is Elara’s father — duty, protection, symbolic lineage. **Tobias** is the house’s human father: laughter, workshop, wooden sword, embrace that does not come from ceramite. Both hold the same moral place; neither replaces the other. The full Triumvirate (Drusus and Varro included) raises her beyond Martha — *chronicles in **retrospective personal record** (Drusus and Varro only), frame **578.M42** — [record-drusus-elara.md](../../chronicles/07-iron-venus/record-drusus-elara.md) and [record-varro-elara.md](../../chronicles/07-iron-venus/record-varro-elara.md). Canonical scene in [iron-venus.md](../../chronicles/07-iron-venus/iron-venus.md). Index: [chronicles/INDEX.md](../../chronicles/INDEX.md) (arc 07).*  
+* **Martha and Tobias enter:** The housekeeper Martha was called. She saw not a monster; a desperate father. She took the child and, with her, command of the situation.  
+* **The kitchen:** Elara’s cradle was not the laboratory but the service kitchen. There Alaric met **Tobias**, Martha’s husband and Master of Works. Tobias was a robust man, callused hands, easy laugh, unafraid of the giant.  
+  * **Tobias’s lesson:** “You build the walls, my lord, but I build the homes inside them. Let the girl see not everything is war.” Tobias taught Alaric to hold the girl without crushing her, turning the “Wolf of Isstvan” into a clumsy giant uncle.
 
-\--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
-## II. A INFÂNCIA: ENTRE O AÇO E O PÃO (Anos 6 a 15\)
+## II. Childhood: between steel and bread (years 6–15)
 
-*O crescimento sob duas tutelas.*
+*Growth under two tutelages.*
 
-Elara cresceu dividida entre dois mundos que, em Noviomagus, tornaram-se um só.
+Elara grew split between two worlds that, on Noviomagus, became one.
 
-**A Escola do Triunvirato (O Ferro):**
+**Triumvirate school (iron):**
 
-* **Alaric (O Pai):** Nunca mentiu para ela. Ensinou-lhe que o dever é a forma mais alta de amor. Ele a levava para as muralhas para calcular ângulos de tiro, não para ver o pôr do sol.  
-* **Drusus (O Tutor):** Ensinou-lhe biologia e lógica. Com ele, ela aprendeu que chorar por um ferimento é desperdício de hidratação; estancá-lo é sobrevivência.  
-* **Varro (O Guardião):** O "Tio Caveira". Ele contava histórias de heróis que não morriam, mas que suportavam.  
-* **A Escola de Martha (O Sangue):** Enquanto o Triunvirato lhe dava disciplina, a família de Martha lhe dava vida. Elara cresceu como a irmã adotiva dos filhos de Martha.  
-* **Jonas (O Irmão Mais Velho):** Quatro anos mais velho, Jonas a protegia das brincadeiras brutas das crianças da forja. Eles compartilhavam o sonho de servir Noviomagus.  
-* **A Dinâmica da Matilha:** Alaric, Varro e Drusus passaram a frequentar a cozinha. Tobias tratava-os como iguais. As crianças de Martha subiam nas armaduras dos Astartes. Foi nessa época que Alaric, pela primeira vez, removeu o elmo em público (na cozinha), permitindo que Elara visse seu rosto marcado e compreendesse que a "fera" também podia sorrir.  
-* **O Evento Definidor (8 Anos — 565.M42):** Crônica completa em [wolf-daughter.md](../../chronicles/07-iron-venus/wolf-daughter.md) (*A Espada de Madeira*). Durante a inspeção de Roboute Guilliman, Helbrecht e Calgar, a tensão no pátio era palpável. Quando o Primarca questionou a utilidade de Alaric, a pequena Elara, com apenas 8 anos, correu para o centro do círculo.  
-* **O Desafio:** Com uma espada de madeira esculpida por Tobias, ela apontou para o Lorde Regente: *"Não machuque o meu Alaric\! Ele é o Muro\! Mas se você for mau, eu sou o Muro dele\!"*  
-  * **O Resultado***:* Guilliman viu nela a "Raiz" que justificava o Muro. Alaric colocou a mão no ombro da menina, e o vínculo de Pai e Filha foi selado perante o Império.
+* **Alaric (father):** Never lied to her. Taught duty is love’s highest form. Took her to walls to calculate firing angles, not watch sunsets.  
+* **Drusus (tutor):** Taught biology and logic. With him she learned crying over a wound wastes hydration; staunching it is survival.  
+* **Varro (warden):** “Uncle Skull.” Told stories of heroes who did not die but endured.  
+* **Martha’s school (blood):** While Triumvirate gave discipline, Martha’s family gave life. Elara grew as adoptive sister to Martha’s children.  
+* **Jonas (older brother):** Four years older, Jonas shielded her from brutal forge-yard play. They shared the dream of serving Noviomagus.  
+* **Pack dynamic:** Alaric, Varro, and Drusus began visiting the kitchen. Tobias treated them as equals. Martha’s children climbed Astartes armor. Then Alaric first removed his helm in public (in the kitchen), letting Elara see his scarred face and grasp the “beast” could smile too.  
+* **Defining event (age 8 — 565.M42):** Full chronicle in [wolf-daughter.md](../../chronicles/07-iron-venus/wolf-daughter.md) (*The Wooden Sword*). During inspection by Roboute Guilliman, Helbrecht, and Calgar, yard tension was palpable. When the Primarch questioned Alaric’s utility, young Elara ran to the circle’s center.  
+* **Challenge:** With a wooden sword Tobias carved, she pointed at the Lord Regent: *“Don’t hurt my Alaric! He is the Wall! But if you’re cruel, I am his Wall!”*  
+  * **Result:** Guilliman saw in her the “Root” justifying the Wall. Alaric set hand on the girl’s shoulder; father–daughter bond sealed before the Imperium.
 
-\--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
-## III. O LUTO E A FORJA (Anos 16 a 20\)
+## III. Mourning and forge (years 16–20)
 
-*O fim da inocência e a morte do segundo pai.*
+*Innocence’s end and second father’s death.*
 
-Elara tornou-se uma jovem brilhante, absorvendo táticas navais com a voracidade de um Astartes. Mas a lição final veio com a dor.
+Elara became a brilliant youth, absorbing naval tactics with Astartes voracity. But the final lesson came with pain.
 
-* **A Morte de Tobias (Ano 20 de Elara):** Não foi uma morte gloriosa em batalha, mas um acidente nas forjas inferiores. Tobias recusou-se a evacuar uma área com vazamento de radiação até garantir que seus operários estivessem seguros. Ele salvou doze vidas antes que a estrutura cedesse.  
-* **O Impacto:** Elara sentiu o mundo trincar. Tobias era o abraço quente; Alaric era o escudo frio. Perder Tobias foi perder a metade humana de seu mundo.  
-* **A Vigília do Lobo:** Alaric não chorou lágrimas, pois sua biologia não permitia. Mas ele entrou em vigília. O Mestre de Capítulo permaneceu de guarda ao lado do caixão de Tobias por três dias e três noites, armado e paramentado, prestando a honra de um Capitão Astartes a um pedreiro.  
-* **A Promessa:** No funeral, diante de Martha e dos 8 filhos (incluindo o recém-nascido Leo), Alaric colocou a mão no ombro da viúva e disse: *"Ele sustentou a casa enquanto eu sustentava o muro. Agora, sua matilha é minha matilha. Ninguém desta linhagem jamais caminhará sozinho."*
+* **Tobias’s death (Elara age 20):** Not glorious battlefield death but accident in lower forges. Tobias refused to evacuate a radiation leak zone until his workers were safe. He saved twelve lives before structure failed.  
+* **Impact:** Elara felt the world crack. Tobias was warm embrace; Alaric was cold shield. Losing Tobias was losing half her human world.  
+* **Wolf vigil:** Alaric shed no tears — biology forbade — but entered vigil. The Chapter Master stood guard by Tobias’s casket three days and three nights, armed and armored, paying an Astartes captain’s honor to a stonemason.  
+* **Promise:** At the funeral, before Martha and eight children (including newborn Leo), Alaric set hand on the widow’s shoulder: *“He held the house while I held the wall. Now your pack is my pack. No one of this line walks alone again.”*
 
-Foi ali que Elara endureceu. A garota risonha deu lugar à **Estrategista**. Ela jurou que nenhuma falha por negligência aconteceria sob sua vigília.
+There Elara hardened. The laughing girl became the **strategist**. She swore no negligence failure would happen on her watch.
 
-\--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
-## IV. A ASCENSÃO DA ALMIRANTE (Anos 21 a 30\)
+## IV. Admiral’s ascent (years 21–30)
 
-*A conquista do Vazio.*
+*Conquest of the void.*
 
-Após o luto, Elara mergulhou na Academia Naval com uma obsessão monástica. Ela não era apenas uma cadete; ela era a filha do Lobo.
+After mourning, Elara plunged into the Naval Academy with monastic obsession. She was not merely cadet; she was the Wolf’s daughter.
 
-* **A Academia:** Ela superou todos os filhos da nobreza. Enquanto eles buscavam glória e festas, Elara aplicava a **Geometria de Atrito** dos Astartes nas táticas de vazio. Ela via as naves como extensões da vontade de Alaric.  
-* **Os Pretendentes:** Sua beleza exuberante e seu status atraíam lordes de todo o setor. Eles viam nela um troféu. Elara os rejeitava com uma frieza cortante.  
-  * **A Frase**: "Ouro derrete no fogo, milorde. Meu pai é feito de ferro e cicatrizes. A menos que o senhor tenha metal na alma para suportar o peso do vácuo, não desperdice meu tempo."  
-* **A Consagração (24 Anos):** Elara formou-se com a patente mais alta já registrada na história da Academia de Noviomagus. Sua tese final sobre "Supressão Logística em Bloqueios Orbitais" tornou-se doutrina padrão.  
-* **O Rito de Passagem:** No dia de sua promoção a Almirante, Alaric a encontrou na ponte de comando da nave capitânia *Vigilância*. Ele estava com sua armadura completa. Ele não a abraçou. Ele olhou para o mapa estelar projetado e disse: *"O briefing do Trono agora passa por você. Você é os olhos. Eu sou a mão. Não pisque."*  
-* **A Família Hoje:** Martha, agora matriarca idosa, continua sendo o refúgio. Seus filhos — Jonas (agora casado e pai de família), os enfermeiros Silas e Sofia, e o jovem Leo (agora com 13 anos) — veem Elara como a irmã poderosa e Alaric como o Tio Gigante que protege a casa.  
-* **O Estado Atual:** Aos 30 anos, Elara Solis já consolidou totalmente seu comando sobre a frota do Portão Externo. Ela é a prova viva de que a humanidade pode coexistir com a monstruosidade necessária dos Astartes. Ela é a única pessoa na galáxia que pode olhar para o Versigodo nos olhos de Alaric e ver apenas o pai que a cobriu da chuva.
-
+* **Academy:** She outclassed every noble scion. While they sought glory and feasts, Elara applied Astartes **friction geometry** to void tactics. She saw ships as extensions of Alaric’s will.  
+* **Suitors:** Her striking beauty and status drew sector lords. They saw trophy. Elara rejected them with cutting cold.  
+  * **The line:** “Gold melts in fire, milord. My father is iron and scars. Unless you have metal in your soul to bear the void’s weight, don’t waste my time.”  
+* **Consecration (age 24):** Elara graduated with highest rank ever recorded at Noviomagus Academy. Her thesis “Logistical suppression in orbital blockades” became standard doctrine.  
+* **Passage rite:** On her promotion to admiral, Alaric met her on the chapter flagship’s command bridge. Full armor. No embrace. He looked at the projected stellar map: *“Throne briefing now runs through you. You are the eyes. I am the hand. Don’t blink.”*  
+* **Family today:** Martha, now elderly matriarch, remains refuge. Her children — Jonas (married, father), nurses Silas and Sofia, young Leo (now 13) — see Elara as powerful sister and Alaric as Uncle Giant who guards the house.  
+* **Present state:** At 30, Elara Solis has fully consolidated command of Outer Gate fleet. She is living proof humanity can coexist with necessary Astartes monstrosity. She is the only person in the galaxy who can look Versibar in Alaric’s eyes and see only the father who shielded her from rain.

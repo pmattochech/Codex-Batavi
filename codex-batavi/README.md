@@ -2,7 +2,7 @@
 
 Thematic structure. Immutable rules: `.cursorrules` (in this folder; symlink at repository root).
 
-**English migration (hybrid):** phased Portuguese → English translation — priorities, batches, and principles: [**TRANSLATION-HYBRID.md**](TRANSLATION-HYBRID.md) · working terms: [**GLOSSARY-EN.md**](GLOSSARY-EN.md) · models / exact colours: [**visual-identity-paint-guide.md**](visual-identity-paint-guide.md).
+**Policy and reference:** English-first lore maintenance — [**TRANSLATION-HYBRID.md**](TRANSLATION-HYBRID.md) · working terms: [**GLOSSARY-EN.md**](GLOSSARY-EN.md) · models / exact colours: [**visual-identity-paint-guide.md**](visual-identity-paint-guide.md).
 
 | Folder | Contents |
 |--------|-----------|
