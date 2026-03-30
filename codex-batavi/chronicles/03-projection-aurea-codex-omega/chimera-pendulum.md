@@ -11,11 +11,11 @@ On the central holo-table, two data sets orbited in a ghost-dance of blue light.
 
 Master Chaplain Varro walked slowly around the table, his helm’s skull reflecting the data-glow. The sound of his boots on the metal deck was the only noise beyond the cogitators’ hum.
 
-“You see the ruin, Drusus,” Varro’s voice crackled over the *vox*, thick with worry. “You look at those charts and see numbers. I look at the stasis cells and see Loken’s lineage tearing sanity apart. We have feared the Curse since the Foundation. Blind fury against the *Waaagh!*… and now this inhuman catatonia. The chimera is collapsing.”
+“You see the ruin, Drusus,” Varro’s voice crackled over the *vox*, thick with worry. “You look at those charts and see numbers. I look at the stasis cells and see the **second thread** in the chimera tearing sanity apart — the thread that is **not** the wolf. We have feared the Curse since the Foundation. Blind fury against the *Waaagh!*… and now this inhuman catatonia. The chimera is collapsing.”
 
 Chief Apothecary Drusus stood on the far side. His mechanical arms (*servo-harness*) whined, refocusing the projections. He showed no emotion at the accusation of genetic heresy.
 
-“Ignorance is a vice we cannot afford, Varro,” Drusus answered, voice clinical, sharp as a scalpel. “You call it Curse because we were conditioned to fear Fenris’s inheritance. But study the asymmetry. The Wolf’s Curse is entropic. It is chaos. It degrades the warrior until he cannot tell the enemy’s neck from his brother’s. What I saw these past two months was not chaos. It was lethal mathematics.”
+“Ignorance is a vice we cannot afford, Varro,” Drusus answered, voice clinical, sharp as a scalpel. “You call it Curse because **Apothecarion primers** still map every lupine defect to **Fenris** — a loud ghost in the manuals, **not** a name on our open tithe. But study the asymmetry. The Wolf’s Curse is entropic. It is chaos. It degrades the warrior until he cannot tell the enemy’s neck from his brother’s. What I saw these past two months was not chaos. It was lethal mathematics.”
 
 With a gauntlet gesture Drusus expanded the *Jagd* graphs. “Exponent one. The Ork threat. Physical brutality, tactical stupidity, primal psychic pressure. How did the body respond? It flooded the system with aggressive stimulants. It turned our brothers into apex predators. The Beast was loose — yet it did not turn on our walls. It broke the enemy, then allowed the leash to be drawn tight again, even at the cost of blown organs.”
 

@@ -1,8 +1,8 @@
-# Busto — Castra-Lupus com detalhe canónico do dossie (elmo cinza por defeito).
-# Elmo carmesim: duplique este ficheiro ou use -m curto "crimson red wolf skull helmet" e retire "grey ceramite helmet" do fluxo mental; melhor usar full-body template crimson + crop em pós.
-# Uso: batavi-img generate --preset alaric_armor --template alaric_bust_portrait -m "three-quarter view, slight turn left"
+# Bust — Castra-Lupus with canonical dossier detail (grey helm by default).
+# Crimson helm: duplicate this file or use short -m "crimson red wolf skull helmet" and mentally drop "grey ceramite helmet"; better: crimson full-body template + crop in post.
+# Usage: batavi-img generate --preset alaric_armor --template alaric_bust_portrait -m "three-quarter view, slight turn left"
 
-character = "Alaric von Helis — busto Castra-Lupus, manto triplo, olhos taxidermizados canónicos"
+character = "Alaric von Helis — Castra-Lupus bust, triple mantle, canonical taxidermy eyes"
 
 positive_prefix = """
 vivid full color portrait, rich saturation, not black and white, crimson cloak, mephiston red pauldrons, amber helm lenses, pale blue and red taxidermy wolf eyes,

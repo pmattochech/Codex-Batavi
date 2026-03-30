@@ -28,7 +28,7 @@ That was not tactical anxiety. It was hunger.
 
 ## The Sixth Day: Cellular Ignition
 
-Twenty-four hours before orbital impact, the biological reality of the chimeric line (Loken/Russ) collided violently with the effervescent psychic energy of the Orks.
+Twenty-four hours before orbital impact, the biological reality of the **chimeric** line — **two predator architectures** pulling the same marrow — collided violently with the effervescent psychic energy of the Orks.
 
 The transition happened at once along the entire South Wall. There was no command order on the *vox* channel; it was a unanimous cellular detonation. The mere proximity of millions of xenos hungry for war fractured the chemical inhibitors that kept the “Beast” caged in the genetic code. The **Jagd exponent** had begun.
 

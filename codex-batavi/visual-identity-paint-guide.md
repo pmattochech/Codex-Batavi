@@ -19,6 +19,28 @@
 
 ---
 
+## Chapter seal (roundel / transfer art)
+
+Use for **2D seal**, **decal design**, and **AI prompt** alignment — distinct from “grey plate + crimson trim” on models.
+
+**Approved raster (canonical geometry + palette):** [`lore-images/chapter-seal-canonical.png`](lore-images/chapter-seal-canonical.png) — primary reference for painters and vector trace; table below stays the colour spec.
+
+| Element | Generic prose | Citadel paint (reference) |
+|---------|----------------|---------------------------|
+| Roundel field (inside double ring) | **Crimson** / chapter red | **Mephiston Red** |
+| Wolf silhouette | **Black** | **Abaddon Black** |
+| Eyes (triangle lens: **105°** between **legs**, **not 90°** — **longer hypotenuse**; not equilateral) | **Helm-lens orange** / visor orange | **Troll Slayer Orange** (highlight **Fire Dragon Bright** if needed) |
+| Double ring (two concentric borders) | **Black** strokes (read on crimson field) | **Abaddon Black** (thin ring weight) |
+| Gladius (blade + hilt body) | **White** fill | **White Scar** |
+| Gladius contour (full sword) | **Black** outline on **blade and hilt** | **Abaddon Black** (thin outline) |
+| Zigzag water lines | **Black** main zigzags + **white** (default) or **helm-lens orange** accent stripe — **not** crimson-on-red | **Abaddon Black** lines + **White Scar** or **Troll Slayer Orange** accent |
+
+Pauldron **wolf-only** decal: same **black** wolf and **orange** lens triangles (**105°** leg corner); background typically **transparent** on the transfer, not the full red roundel.
+
+**Prompts / generation:** [`lore-images/ai-prompts-chapter-insignia.md`](lore-images/ai-prompts-chapter-insignia.md).
+
+---
+
 ## Notes
 
 - **Batavi / Batavian** on the table: grey is the “iron” and civic burden; crimson is “blood of the root” — the civilian line the wall exists to shield (see infantry identity doc).

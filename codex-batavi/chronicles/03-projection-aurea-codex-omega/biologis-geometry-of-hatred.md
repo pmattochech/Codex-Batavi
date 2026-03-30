@@ -19,7 +19,7 @@ We devoutly believed the gene-seed Cawl forged oscillated horizontally along a s
 1. **The left (*Ruhe*):** The lethargic automaton. The cold, logical response to Tyranid cosmic horror.  
 2. **The right (*Jagd*):** The atavistic predator. The physical, hypertrophied response to Ork *Waaagh!* brute force.
 
-Yet when we landed on Malakor V to face the betrayal of our own flesh and the latent corruption of Horus’s seed, the biometric sensors embedded in the 1st Company’s breastplates registered a catastrophic divergence in telemetry. The graphs did not lean left or right.
+Yet when we landed on Malakor V to face the betrayal of our own flesh — **traitor Astartes steeped in the arch-traitor’s cadence** — the biometric sensors embedded in the 1st Company’s breastplates registered a catastrophic divergence in telemetry. The graphs did not lean left or right.
 
 My battle-brothers did not enter muscular frenzy (*Jagd*), nor did they shut down their limbic systems into radio silence (*Ruhe*). They kept Castra Vetera’s brutal tactical discipline, but neurochemistry specifically tied to retribution and focused hatred hit absurd vertical scales.
 
@@ -29,7 +29,7 @@ I personally monitored Alaric von Helis’s biometrics through a skull-servo as 
 
 **\[Chief Apothecary’s correction note\]** *"My secular diagnosis was fundamentally wrong. The *Batavian Iron-Guard* organism is not a horizontal line tied at two containment ends. *Das Erbe* is, in fact, a Pyramid of Genetic Response—a triangle of adaptive lethality.*
 
-*When we face Chaos—and more specifically, the arch-traitor’s line or the sacrilege of Astartes heresy—our gene-seed does not seek the automaton’s balance or the beast’s blind slaughter. The biological vector moves inexorably toward the pyramid’s upper vertex. Loken/Russ genetics does not process Valerius’s corruption as an ‘external enemy’ to fight; it processes it as a deep biological insult to be surgically purged. The result in our force’s minds is not chaotic madness, but terrible clarity, focused solely on lethal, sadistic execution of the target."*
+*When we face Chaos—and more specifically, the arch-traitor’s line or the sacrilege of Astartes heresy—our gene-seed does not seek the automaton’s balance or the beast’s blind slaughter. The biological vector moves inexorably toward the pyramid’s upper vertex. The **chimera** — **Strand β** foremost — does not process Valerius’s corruption as an ‘external enemy’ to fight; it processes it as a deep biological insult to be surgically purged. The result in our force’s minds is not chaotic madness, but terrible clarity, focused solely on lethal, sadistic execution of the target."*
 
 ## III. THE THIRD EXPONENT: THE TORMENT
 

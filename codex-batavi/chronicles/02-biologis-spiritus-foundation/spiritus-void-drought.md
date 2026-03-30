@@ -10,7 +10,7 @@
 
 *The **Shadow in the Warp** reached Noviomagus long before bio-ships darkened the sun. It is abyssal cold that does not touch skin but freezes the vital link between soul and the Emperor’s light. Normally an Astartes response to that psychic terror is Hate — the sacred fire we Chaplains keep lit with litanies and war-hymns to burn xenos fear.*
 
-*I prepared to stoke Fury **on the line**. I prepared anchoring rites to keep alien terror from breaking our line. I expected the Fenrisian howl. I expected the titanic will-struggle to cage the Beast.*
+*I prepared to stoke Fury **on the line**. I prepared anchoring rites to keep alien terror from breaking our line. I expected the **fire-and-fury howl** — the **wolf-cult** Chaplain’s model, sacred noise and sacred rage. I expected the titanic will-struggle to cage the Beast.*
 
 *But when the first spore wave veiled the sky, there was no scream. No Wolf’s snarl. Only the metallic dry sound of eight hundred bolter locks snapping open in unnervingly perfect unison.*
 

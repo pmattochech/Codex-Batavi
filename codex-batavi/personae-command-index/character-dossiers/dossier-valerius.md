@@ -16,7 +16,7 @@
 | Vexillatio | I Vexillatio — *Onyx Wolf* |
 | Active service period | 015.M42 – 050.M42 |
 | **Wolf’s Curse** status | Furor stage: **never reached** — Execratio: **reached 049.M42 (preserved by Warp)** |
-| Gene-seed | Loken/Russ (chimeric) — **Warp** contamination confirmed unknown date pre-**Versibar** |
+| Gene-seed | **Chimeric** (Strand α/β) — **Warp** contamination confirmed unknown date pre-**Versibar** |
 
 ---
 
@@ -39,7 +39,7 @@ No Triumvirate member saw problem while war lasted. Chapter had other problems.
 
 ## III. DOCTRINAL RIFT
 
-Varro preaches since Chapter’s first formal operation years death pride spiritual imperative. Loken/Russ chimera gene-seed heir two predators: Russ embraced animal nature; Loken fought life Horus seed carried. Chapter founded that struggle — Loken’s choice *not* be lineage allowed.
+Varro preaches since Chapter’s first formal operation years death pride spiritual imperative. The chimera is heir to **two locked predators**: **Strand α** runs to the beast; **Strand β** learned treason at brotherhood scale and cannot unlearn it. Chapter founded in the friction between them — the second strand’s gift is refusal to pretend oath-breakers are kin.
 
 Valerius disagreed. Not openly — never openly — but talks Alaric veteran circles defended pride positive catalyst: force pushing marine beyond limits, conviction worth fighting something worthy victory. Framed motivation what Varro called poison.
 

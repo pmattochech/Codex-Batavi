@@ -6,7 +6,7 @@
 **Reporter:** Chief Apothecary Drusus, Lord of the *Castrum Medicae*.  
 **Object of study:** 4th Cohort and limbic collapse.
 
-Ignorance is a variable that offends me. Until the incident on Noviomagus Secundus, my predictive models for the chimeric gene-seed (Loken/Russ) rested on a simple dichotomy: either our Astartes operated under basal discipline, or pressure drove them to thermal failure of *Jagd*. I had mapped fury. I believed I understood the Beast.
+Ignorance is a variable that offends me. Until the incident on Noviomagus Secundus, my predictive models for the **chimeric** gene-seed rested on a simple dichotomy: either our Astartes operated under basal discipline, or pressure drove them to thermal failure of *Jagd*. I had mapped fury. I believed I understood the Beast.
 
 Then the Tyranids fell on the mining zones, and the mathematics failed.
 

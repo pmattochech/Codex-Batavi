@@ -12,7 +12,7 @@ Then the world’s frequency changed.
 
 It was not the crackle of a *vox*, nor the wail of an invasion siren. It was an organic sound, sharp and terrifying in its fragility: a human cry.
 
-The armor’s gyros whined as Alaric turned his torso. There, in a basket of degraded synthetic fiber, soaked and on the edge of hypothermia, lay a baby. The moment the Chapter Master approached, the predator instinct of his chimeric seed flared. Normally the “Beast” would process that motion as a threat vector or potential prey. But facing the child’s mottled skin and half-closed eyes, Fenrisian DNA roared an ancestral directive, a memory of wolves shielding their young against pitiless winter: **PROTECT.**
+The armor’s gyros whined as Alaric turned his torso. There, in a basket of degraded synthetic fiber, soaked and on the edge of hypothermia, lay a baby. The moment the Chapter Master approached, the predator instinct of his chimeric seed flared. Normally the “Beast” would process that motion as a threat vector or potential prey. But facing the child’s mottled skin and half-closed eyes, the **Russ-line–adjacent** thread in the chimera flared — no Fenris stamp on any open tithe record, but the same atavistic shape: wolves shielding their young against pitiless winter: **PROTECT.**
 
 Alaric von Helis knelt. The adamant floor gave and cracked under the armor’s tons. He extended a battle gauntlet that could crush an Ork Warboss’s skull and, with a delicacy that defied physics, touched the wet cloth. The baby stopped crying for a second and gripped the giant’s metal index finger.
 

@@ -1,17 +1,17 @@
-# Presets: caminhos relativos à pasta forja/ (onde está este arquivo).
-# prompt_node_id = ID do CLIPTextEncode do prompt POSITIVO (ex.: "6").
-# vazio = autodetectar o primeiro CLIPTextEncode com inputs.text (cuidado se houver 6 e 7).
-# O prompt NEGATIVO (ex. nó "7") não é alterado pela CLI: fica o texto do workflow_api.json
-# ou você reexporta o grafo no ComfyUI depois de editar o segundo campo.
+# Presets: paths relative to forja/ (this file’s folder).
+# prompt_node_id = POSITIVE prompt CLIPTextEncode ID (e.g. "6").
+# empty = auto-pick first CLIPTextEncode with inputs.text (watch for nodes 6 and 7).
+# The NEGATIVE prompt (e.g. node "7") is NOT changed by the CLI: it stays as in workflow_api.json
+# or re-export the graph from ComfyUI after editing the second field.
 #
-# Depois de exportar o workflow em API Format no ComfyUI, salve-o em workflows/
-# e ajuste o nome em [presets.<nome>].
+# After exporting the workflow in API Format from ComfyUI, save it under workflows/
+# and adjust the name in [presets.<name>].
 
 [presets.default]
 workflow = "workflows/workflow_api.json"
 prompt_node_id = "6"
 
-# Retrato / cena / personagem: todos usam o MESMO JSON até você duplicar o grafo no ComfyUI.
+# Portrait / scene / character: all use the SAME JSON until you duplicate the graph in ComfyUI.
 [presets.portrait]
 workflow = "workflows/workflow_api.json"
 prompt_node_id = "6"
@@ -24,7 +24,7 @@ prompt_node_id = "6"
 workflow = "workflows/workflow_api.json"
 prompt_node_id = "6"
 
-# Demonstração genérica grimdark (mesmo grafo ComfyUI; outras pipelines podem apontar para outros JSON depois).
+# Generic grimdark demo (same ComfyUI graph; other pipelines can point at other JSON later).
 [presets.grimdark_character]
 workflow = "workflows/workflow_api.json"
 prompt_node_id = "6"

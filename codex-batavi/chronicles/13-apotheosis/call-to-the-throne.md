@@ -132,7 +132,7 @@ Trajann looked at him.
 
 — Confirm that.
 
-— Confirmed. — Drusus did not hesitate. — Execratio is a genetic expression failure, not daemonic corruption. Loken and Russ gene-seed in chimeric combination produces, under unmanaged extreme biological stress, a phenotypic expression cascade that forces the organism beyond containment parameters. There is no Warp influence in that process. A **Versibar** cannot be possessed by a daemon. It cannot be corrupted by Chaos beyond what it already is. It is a broken biological machine, not an Immaterium aberration.
+— Confirmed. — Drusus did not hesitate. — Execratio is a genetic expression failure, not daemonic corruption. **Chimeric** architecture — **Strand α** primary scaffold, **Strand β** secondary — produces, under unmanaged extreme biological stress, a phenotypic expression cascade that forces the organism beyond containment parameters. There is no Warp influence in that process. A **Versibar** cannot be possessed by a daemon. It cannot be corrupted by Chaos beyond what it already is. It is a broken biological machine, not an Immaterium aberration.
 
 — What makes it different from a fallen Astartes? — asked Trajann.
 

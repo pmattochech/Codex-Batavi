@@ -1,10 +1,10 @@
-# Corpo inteiro — alvo próximo da imagem modelo (Gemini + ajustes lore Codex).
-# Elmo carmesim; ombros: à ESQUERDA do observador = lobo BRANCO (Viggo), à DIREITA = lobo PRETO (Aethelgard).
-# Olhos taxidermizados: azul-pálido (branco), vermelho (preto); negro sem mandíbula inferior (dossie).
-# SDXL/Comfy: sem pesos (( )); use -m para cenário extra. Ver TUTORIAL.md §9 (roadmap).
-# Uso: batavi-img generate --preset alaric_armor --template alaric_reference_fullbody -m "optional scene tweak"
+# Full body — target close to reference image (Gemini + Codex lore tweaks).
+# Crimson helm; shoulders: viewer’s LEFT = WHITE wolf (Viggo), viewer’s RIGHT = BLACK wolf (Aethelgard).
+# Taxidermy eyes: pale blue (white wolf), red (black wolf); black wolf missing lower jaw (dossier).
+# SDXL/Comfy: no ((weight)) syntax; use -m for extra scene. See TUTORIAL.md §9 (roadmap).
+# Usage: batavi-img generate --preset alaric_armor --template alaric_reference_fullbody -m "optional scene tweak"
 
-character = "Alaric — full-body referência modelo (Castra-Lupus, elmo carmesim)"
+character = "Alaric — full-body reference model (Castra-Lupus, crimson helm)"
 
 positive_prefix = """
 vivid full color, rich saturation, not monochrome, orange firelight and colored smoke,

@@ -1,29 +1,29 @@
-# Templates de prompt (`*.toml`)
+# Prompt templates (`*.toml`)
 
-Cada arquivo define **texto positivo** em camadas para a CLI juntar com o que você passar em `-m` ou `--prompt-file`.
+Each file defines **positive** text in layers for the CLI to merge with whatever you pass in `-m` or `--prompt-file`.
 
-## Chaves
+## Keys
 
-| Chave | Obrigatório | Função |
-|--------|-------------|--------|
-| `character` | Não | Metadado (aparece em `batavi-img templates`). |
-| `positive_prefix` | Recomendado | Bloco fixo (visual do personagem / armadura). |
-| `positive_suffix` | Opcional | Estilo, enquadramento, tags finais. |
-| `negative` | Opcional | **Não** é enviado à API: a CLI só imprime no stderr para você copiar ao nó negativo no ComfyUI. |
+| Key | Required | Role |
+|-----|----------|------|
+| `character` | No | Metadata (shown by `batavi-img templates`). |
+| `positive_prefix` | Recommended | Fixed block (character look / armor). |
+| `positive_suffix` | Optional | Style, framing, trailing tags. |
+| `negative` | Optional | **Not** sent to the API: the CLI only prints it to stderr for you to copy into the negative node in ComfyUI. |
 
-A string final enviada ao ComfyUI é:
+The string sent to ComfyUI is:
 
-`positive_prefix` + `, ` + (texto de `-m` / arquivo) + `, ` + `positive_suffix`  
-(partes vazias são omitidas).
+`positive_prefix` + `, ` + (`-m` / file text) + `, ` + `positive_suffix`  
+(empty parts are omitted).
 
-## Exemplo
+## Example
 
 ```bash
 batavi-img templates
 batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "standing on battlements, lightning"
 ```
 
-**Alaric — canon visual (dossie §1.2):** `alaric_castra_lupus` usa elmo lupino em **ceramite cinza** e peles com olhos **azul-pálido (Viggo, ombro direito)** e **vermelho (lobo negro, ombro esquerdo)**. Elmo **carmesim** (prosa narrativa): `alaric_castra_lupus_crimson_helm` (corpo) e `alaric_bust_portrait_crimson_helm` (busto). Busto elmo cinza: `alaric_bust_portrait`.
+**Alaric — canon visual (dossier §1.2):** `alaric_castra_lupus` uses a lupine helm in **grey ceramite** and pelts with **pale blue** eyes (Viggo, right shoulder) and **red** eyes (**Batav Wolf** / black wolf, left shoulder). **Crimson** helm (narrative prose): `alaric_castra_lupus_crimson_helm` (full body) and `alaric_bust_portrait_crimson_helm` (bust). Grey-helm bust: `alaric_bust_portrait`.
 
 ```bash
 batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "lightning, battlements"
@@ -31,25 +31,25 @@ batavi-img generate --preset alaric_armor --template alaric_castra_lupus_crimson
 batavi-img generate --preset alaric_armor --template alaric_bust_portrait -m "three-quarter view"
 ```
 
-**Imagem modelo (corpo inteiro, referência Gemini + lore):** `alaric_reference_fullbody` — elmo carmesim, lobo branco à **esquerda do observador**, preto à **direita**, olhos taxidermizados azul/vermelho. Roadmap em **`TUTORIAL.md` §9**.
+**Reference image (full body, Gemini + lore):** `alaric_reference_fullbody` — crimson helm, white wolf on the **viewer’s left**, black on the **viewer’s right**, taxidermy blue/red eyes. Roadmap in **`TUTORIAL.md` §9**.
 
 ```bash
 batavi-img generate --preset alaric_armor --template alaric_reference_fullbody -m "extra smoke, fire rim light"
 ```
 
-**Showcase grimdark genérico** (`grimdark_character_showcase.toml`): preset `grimdark_character` — o personagem vai todo em `-m` (ou `--prompt-file`).
+**Generic grimdark showcase** (`grimdark_character_showcase.toml`): preset `grimdark_character` — put the whole character in `-m` (or `--prompt-file`).
 
 ```bash
 batavi-img generate --preset grimdark_character --template grimdark_character_showcase \
   -m "tall armored warrior, horned helm, holding bolter, facing camera"
 ```
 
-## Novos personagens
+## New characters
 
-1. Copie `alaric_castra_lupus.toml` para `outro_personagem.toml`.
-2. Ajuste `positive_prefix` ao dossiê (inglês costuma funcionar melhor em SD).
-3. Acrescente um bloco em `presets.toml` se quiser um nome de preset dedicado (pode apontar para o mesmo `workflow`).
+1. Copy `alaric_castra_lupus.toml` to `other_character.toml`.
+2. Adjust `positive_prefix` to match the dossier (English usually works best in SD).
+3. Add a block in `presets.toml` if you want a dedicated preset name (can point at the same `workflow`).
 
-## Workflows ComfyUI
+## ComfyUI workflows
 
-Os **grafos** (`.json` API) ficam em `forja/workflows/` — exportados do ComfyUI. Os templates **não** substituem o workflow; só enriquecem o texto do CLIP positivo.
+**Graphs** (API `.json`) live in `forja/workflows/` — exported from ComfyUI. Templates do **not** replace the workflow; they only enrich the positive CLIP text.

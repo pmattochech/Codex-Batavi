@@ -82,7 +82,7 @@ Varro does not fight front lines as gladiator; walks battlefield like headsman e
 * **Absolution bolt pistol:** Old heavy-drum weapon. Varro does not spray bursts; executes with single calculated shots. Each shot sound of tribunal hammer falling.  
 * **Cold hunt:** In melee Varro advances slowly, immune enemy suppression thanks to *Rosarius* force field. Does not dodge. Picks target, walks to it, obliterates with single Iron Verdict blow, immediately turns to next condemned.
 
-*Cohors Batavorum* demands each legionary operate as strategist. Honoring Loken lineage and Critical Objection Protocol, Batavi who disagrees with order deeming it inefficient, geometrically flawed, or asset waste is not punished; heard and encouraged to present logical alternative. Tactical intelligence is *Axiom Rationis* base.
+*Cohors Batavorum* demands each legionary operate as strategist. Honoring **Mournival-school** tactical dissent (internal doctrine name — not a tithe gene-label) and Critical Objection Protocol, Batavi who disagrees with order deeming it inefficient, geometrically flawed, or asset waste is not punished; heard and encouraged to present logical alternative. Tactical intelligence is *Axiom Rationis* base.
 
 Chapter abhors vanity. Questioning chain of command from pride, vanity, or superiority sense — exact flaw that led Horus to treason — considered unforgivable structural defect. Batavi who lets ego speak louder than logic, or worse shows predatory satisfaction operating under **Wolf’s Curse** influence, becomes rusted tool. To correct flaw before execution only path, Varro administers absolute psychological punishment: Hell Cells.
 

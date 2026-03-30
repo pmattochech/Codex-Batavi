@@ -2,11 +2,11 @@
 
 ## 1. Identity and heraldry
 
-*See also: [intro-and-heraldry.md](../intro-and-heraldry/intro-and-heraldry.md) — title, myth, and heraldry summary.*
+*See also: [intro-and-heraldry.md](../intro-and-heraldry/intro-and-heraldry.md) — title, myth, and heraldry summary. [progenitor-classification.md](progenitor-classification.md) — open vs sealed gene-line framing.*
 
 * **Official name:** Batavian Iron-Guard (High Gothic: *Cohors Batavorum*).  
 * **Operational name:** *Cohors Batavorum* (Frontier Wolves). Used on vox and tactical logs.  
-* **Symbol:** A black wolf (chimeric Russ/Loken lineage) holding a horizontal gladius in its jaws, over stylized waves (amphibious origin).  
+* **Symbol:** A black wolf (**chimeric phenotype** on sealed clinical registers; **open record:** progenitor unknown) holding a horizontal gladius in its jaws, over stylized waves (amphibious origin).  
 * **Armor colors:**  
   * **Primary:** Industrial grey (*Mechanicus Standard Grey*). Functionality, forge “sweat,” absence of vanity.  
   * **Secondary (pauldrons):** Crimson (*Mephiston Red*). Blood of the lineage and civil life sworn to protect.  

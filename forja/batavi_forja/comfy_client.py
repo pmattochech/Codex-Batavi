@@ -1,13 +1,13 @@
 """
-Cliente HTTP + WebSocket para ComfyUI.
+HTTP + WebSocket client for ComfyUI.
 
-Como identificar o nó de texto (prompt) no JSON API
-----------------------------------------------------
-1. Exporte o workflow em *API Format* no ComfyUI.
-2. Cada chave de primeiro nível é um ID de nó (ex.: "12", "45").
-3. Procure `"class_type": "CLIPTextEncode"` (prompt positivo ou negativo).
-4. Confirme `"inputs": { "text": "..." }` — é esse campo que a CLI substitui.
-5. Passe esse ID em --node-id ou em presets.toml como prompt_node_id.
+How to find the text (prompt) node in API JSON
+------------------------------------------------
+1. Export the workflow in *API Format* from ComfyUI.
+2. Each top-level key is a node ID (e.g. "12", "45").
+3. Look for `"class_type": "CLIPTextEncode"` (positive or negative prompt).
+4. Confirm `"inputs": { "text": "..." }` — that is the field the CLI replaces.
+5. Pass that ID as --node-id or in presets.toml as prompt_node_id.
 """
 
 from __future__ import annotations
@@ -30,11 +30,11 @@ from batavi_forja.config import comfy_base_url, comfy_output_dir
 
 def load_workflow_file(path: Path) -> dict[str, Any]:
     if not path.is_file():
-        raise FileNotFoundError(f"Workflow não encontrado: {path}")
+        raise FileNotFoundError(f"Workflow not found: {path}")
     with path.open("r", encoding="utf-8") as f:
         data = json.load(f)
     if not isinstance(data, dict):
-        raise ValueError("O workflow API deve ser um objeto JSON (dicionário de nós).")
+        raise ValueError("API workflow must be a JSON object (dict of nodes).")
     return data
 
 
@@ -52,16 +52,16 @@ def find_first_cliptextencode_node(workflow: dict[str, Any]) -> str | None:
 
 def inject_prompt_text(workflow: dict[str, Any], node_id: str, prompt: str) -> None:
     if node_id not in workflow:
-        raise KeyError(f"Nó '{node_id}' não existe no workflow.")
+        raise KeyError(f"Node '{node_id}' does not exist in workflow.")
     node = workflow[node_id]
     if not isinstance(node, dict):
-        raise TypeError(f"Nó '{node_id}' não é um objeto JSON.")
+        raise TypeError(f"Node '{node_id}' is not a JSON object.")
     inputs = node.get("inputs")
     if not isinstance(inputs, dict):
-        raise KeyError(f"Nó '{node_id}' não tem 'inputs' (dict).")
+        raise KeyError(f"Node '{node_id}' has no 'inputs' (dict).")
     if "text" not in inputs:
         raise KeyError(
-            f"Nó '{node_id}' não tem inputs['text'] (esperado CLIPTextEncode típico)."
+            f"Node '{node_id}' has no inputs['text'] (expected typical CLIPTextEncode)."
         )
     inputs["text"] = prompt
 
@@ -74,7 +74,7 @@ def check_server(base: str | None = None, timeout: float = 3.0) -> None:
         r.raise_for_status()
     except requests.exceptions.RequestException as e:
         raise ConnectionError(
-            f"ComfyUI não respondeu em {base}. Inicie o servidor ComfyUI. Erro: {e}"
+            f"ComfyUI did not respond at {base}. Start the ComfyUI server. Error: {e}"
         ) from e
 
 
@@ -90,13 +90,13 @@ def queue_prompt(
         r = requests.post(url, json=body, timeout=120)
         r.raise_for_status()
     except requests.exceptions.RequestException as e:
-        raise RuntimeError(f"Falha no POST {url}: {e}") from e
+        raise RuntimeError(f"POST {url} failed: {e}") from e
     resp = r.json()
     if resp.get("node_errors"):
-        raise RuntimeError(f"Erros de nó reportados pelo ComfyUI: {resp['node_errors']}")
+        raise RuntimeError(f"ComfyUI reported node errors: {resp['node_errors']}")
     prompt_id = resp.get("prompt_id")
     if not prompt_id:
-        raise RuntimeError(f"Resposta inesperada sem prompt_id: {resp}")
+        raise RuntimeError(f"Unexpected response without prompt_id: {resp}")
     return str(prompt_id)
 
 
@@ -118,7 +118,7 @@ async def wait_execution_websocket(
             while True:
                 remaining = deadline - loop.time()
                 if remaining <= 0:
-                    raise TimeoutError(f"Timeout ({timeout_sec}s) aguardando o WebSocket.")
+                    raise TimeoutError(f"Timeout ({timeout_sec}s) waiting on WebSocket.")
                 raw = await asyncio.wait_for(ws.recv(), timeout=min(remaining, 60.0))
                 if isinstance(raw, (bytes, bytearray)):
                     raw = raw.decode("utf-8", errors="replace")
@@ -136,7 +136,7 @@ async def wait_execution_websocket(
                     if data.get("node") is None:
                         return
     except websockets.exceptions.WebSocketException as e:
-        raise ConnectionError(f"WebSocket falhou ({uri}): {e}") from e
+        raise ConnectionError(f"WebSocket failed ({uri}): {e}") from e
 
 
 def wait_execution_history(
@@ -161,7 +161,7 @@ def wait_execution_history(
             pass
         time.sleep(poll_interval)
     raise TimeoutError(
-        f"Histórico não contém prompt_id={prompt_id} após {timeout_sec}s."
+        f"History does not contain prompt_id={prompt_id} after {timeout_sec}s."
     )
 
 
@@ -178,10 +178,10 @@ def slugify_prompt(text: str, max_len: int = 48) -> str:
 
 def newest_png(directory: Path) -> Path:
     if not directory.is_dir():
-        raise FileNotFoundError(f"Pasta de saída inexistente: {directory}")
+        raise FileNotFoundError(f"Output directory does not exist: {directory}")
     candidates = [p for p in directory.rglob("*.png") if p.is_file()]
     if not candidates:
-        raise FileNotFoundError(f"Nenhum .png encontrado em {directory}")
+        raise FileNotFoundError(f"No .png found under {directory}")
     return max(candidates, key=lambda p: p.stat().st_mtime)
 
 

@@ -1,3 +1,3 @@
-"""Batavi Forja — cliente CLI para ComfyUI."""
+"""Batavi Forja — ComfyUI CLI client."""
 
 __version__ = "0.1.0"

@@ -20,7 +20,7 @@ From the millisecond the Orks’ effervescent psychic shadow touched our system�
 
 Lord Castellan Alaric abandoned the holo-map table. He spends hours motionless on the *Castrum Ferrum* parapet, face to the burning atmosphere. Through my optical monitors I see his pupils are no longer round. The orange halo devoured them, contracted them into vertical predatory slits.
 
-Our biology answers physical threat with acute hypertrophy. As if chimeric gene-seed (Loken/Russ) scented the Orks’ biological challenge — *“Who is strongest in this system?”* — and chose to answer in the exact same guttural tongue.
+Our biology answers physical threat with acute hypertrophy. As if **chimeric** gene-seed scented the Orks’ biological challenge — *“Who is strongest in this system?”* — and chose to answer in the exact same guttural tongue.
 
 **Day 0 (The fall):** Landing rocks split the ground. The stink of fetid xenos spores and burned engine oil flooded the trenches. Logical protocol dictates siege defense and friction. My **Vexillatio** brothers, however, magnet-locked bolters. Through my cranial servo-lenses I saw Sergeant Kael sheathe his firearm and draw his heavy trench knife. No *vox* order from command. Pure chemical consensus. *Jagd* had begun.
 

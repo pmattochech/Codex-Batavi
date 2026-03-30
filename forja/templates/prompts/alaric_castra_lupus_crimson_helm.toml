@@ -1,8 +1,8 @@
-# Mesmo bloco que `alaric_castra_lupus.toml`, mas elmo em carmesim (prosa narrativa, ex. Dízimo dos Rejeitados).
-# Pelos, capa e esquema cinza/vermelho de chassis mantêm-se; só o acabamento do elmo muda.
-# Uso: batavi-img generate --preset alaric_armor --template alaric_castra_lupus_crimson_helm -m "fogo ao fundo, fumo"
+# Same block as `alaric_castra_lupus.toml`, but helm crimson (narrative prose, e.g. Tithe of the Rejected).
+# Pelts, cape, and grey/red chassis scheme unchanged; only helm finish changes.
+# Usage: batavi-img generate --preset alaric_armor --template alaric_castra_lupus_crimson_helm -m "fire behind, smoke"
 
-character = "Alaric von Helis — Castra-Lupus (elmo carmesim, variante narrativa)"
+character = "Alaric von Helis — Castra-Lupus (crimson helm, narrative variant)"
 
 positive_prefix = """
 vivid full color image, rich color saturation, not monochrome, blood red wolf helm, crimson cape, amber lenses, pale blue and red taxidermy eye glow, orange firelight and colored smoke,

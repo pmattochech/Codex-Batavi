@@ -1,7 +1,7 @@
-# Busto com elmo lupino carmesim (variante narrativa); pelos/capa iguais ao dossie.
-# Uso: batavi-img generate --preset alaric_armor --template alaric_bust_portrait_crimson_helm -m "low angle, embers"
+# Bust with crimson wolf-skull helm (narrative variant); pelts/cape per dossier.
+# Usage: batavi-img generate --preset alaric_armor --template alaric_bust_portrait_crimson_helm -m "low angle, embers"
 
-character = "Alaric von Helis — busto Castra-Lupus, elmo carmesim"
+character = "Alaric von Helis — Castra-Lupus bust, crimson helm"
 
 positive_prefix = """
 vivid full color portrait, rich saturation, not black and white, crimson wolf skull helmet, red cloak, amber lenses, pale blue and red taxidermy wolf eyes,

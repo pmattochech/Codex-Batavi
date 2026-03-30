@@ -161,7 +161,7 @@ I logged that too.
 
 The second quarter of the war began when Alaric stopped trying to kill the Enclave and started studying it.
 
-It was not an elegant strategic decision. It was brutal recognition: we were losing because we were using an attacking army’s manual against a hunting enemy. To fight a hunter, we had to think like hunters. And the Chapter, as we came to understand, bore chimeric gene-seed from two primarchs — one of them, Leman Russ, who had hunted ice plains before hunting traitors among the stars.
+It was not an elegant strategic decision. It was brutal recognition: we were losing because we were using an attacking army’s manual against a hunting enemy. To fight a hunter, we had to think like hunters. And the Chapter, as we came to understand, bore **chimeric** gene-seed: one strand answered the war as **apex hunter** — ice-plain instinct, oath before betrayal — and a **second strand** we did not yet have language for, except that it **judged** treason the way the first judged prey.
 
 The inversion was gradual and brutal. We stopped patrolling by the Codex and started patrolling by the environment. We stopped consolidating positions and started using positions as bait. We stopped trying to create predictable patterns and started studying theirs.
 

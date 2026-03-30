@@ -7,6 +7,7 @@
 ## doctrine-and-organs
 
 - [technical-datasheet.md](doctrine-and-organs/technical-datasheet.md) — Codex Batavorum technical sheet
+- [progenitor-classification.md](doctrine-and-organs/progenitor-classification.md) — founding / gene-line POV layers (open record vs sealed *Apothecarion*)
 - [council-and-librarium.md](doctrine-and-organs/council-and-librarium.md)
 - [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md)
 - [friction-rites.md](doctrine-and-organs/friction-rites.md)

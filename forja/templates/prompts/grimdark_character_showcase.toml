@@ -1,9 +1,9 @@
-# Template genérico — demonstração de personagem em tom grimdark (primeira pipeline / referência).
-# Use -m para descrever o personagem, armadura, pose e raça (em inglês costuma render melhor no SD).
-# Ex.: batavi-img generate --preset grimdark_character --template grimdark_character_showcase -m "tall space marine, wolf skull helm, standing in rain"
-# O campo negative não vai na API: copie para o segundo CLIP Text Encode (prompt negativo) no ComfyUI.
+# Generic template — grimdark character showcase (first pipeline / reference).
+# Use -m to describe character, armor, pose, species (English usually renders better in SD).
+# e.g. batavi-img generate --preset grimdark_character --template grimdark_character_showcase -m "tall space marine, wolf skull helm, standing in rain"
+# The negative field is not sent to the API: copy into the second CLIP Text Encode (negative) in ComfyUI.
 
-character = "Showcase genérico grimdark (personagem = texto em -m)"
+character = "Generic grimdark showcase (character = text in -m)"
 
 positive_prefix = """
 grimdark science fiction character showcase, single clear subject, full body or three-quarter view,

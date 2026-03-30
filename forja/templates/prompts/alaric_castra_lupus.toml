@@ -1,10 +1,10 @@
-# Template de prompt — Alaric no Castra-Lupus (alinhado a dossie-alaric.md §1.2).
-# Elmo: ceramite Mechanicus Grey fosca (canon técnico do dossiê). Olhos das peles: vermelho (negro) / azul-pálido (Viggo).
-# Variante narrativa (elmo carmesim): use template `alaric_castra_lupus_crimson_helm.toml`.
-# Uso: batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "chuva na amurada, fumo"
-# O negative não é enviado à API automaticamente: copie para o nó CLIP negativo do ComfyUI.
+# Prompt template — Alaric in Castra-Lupus (aligned with dossier-alaric.md §1.2).
+# Helm: matte Mechanicus Standard Grey ceramite (dossier technical canon). Pelt eyes: red (black wolf) / pale blue (Viggo).
+# Narrative variant (crimson helm): use template `alaric_castra_lupus_crimson_helm.toml`.
+# Usage: batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "rain on battlement, smoke"
+# Negative is not sent to the API automatically: copy into ComfyUI’s negative CLIP node.
 
-character = "Alaric von Helis — Castra-Lupus (Exterminadora Noviomagus-Pattern, elmo cinza dossie)"
+character = "Alaric von Helis — Castra-Lupus (Noviomagus-pattern exterminator, grey helm per dossier)"
 
 positive_prefix = """
 vivid full color image, rich color saturation, not monochrome, crimson red cape and pauldrons, amber orange helm lenses, pale blue and red taxidermy eye glow, orange firelight and colored smoke,

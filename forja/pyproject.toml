@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "batavi-forja"
 version = "0.1.0"
-description = "CLI para gerar imagens de lore via ComfyUI (Cohors Batavorum)"
+description = "CLI to generate Cohors Batavorum lore images via ComfyUI"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

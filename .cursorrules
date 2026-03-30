@@ -14,11 +14,33 @@ Mandatory obedience order for the AI:
 * **Legacy:** Do not silently rewrite stable prose outside an assigned batch or explicit request (see [`TRANSLATION-HYBRID.md`](TRANSLATION-HYBRID.md)).
 * ***Warhammer 40,000*:** Keep game terms, equipment names, and fixed mottoes in canonical English; internal Chapter coinages follow [`GLOSSARY-EN.md`](GLOSSARY-EN.md).
 
+### 0.2 Progenitor, gene-line, and POV — how to write from here on
+
+**Canonical expansion (layers, examples, POV table):** [`codex-batavi/personae-command-index/doctrine-and-organs/progenitor-classification.md`](codex-batavi/personae-command-index/doctrine-and-organs/progenitor-classification.md). The bullets below are **mandatory** for new or edited Markdown in `codex-batavi/` and for in-character voice when the scene’s access level matches.
+
+**Open Imperial / outsider-facing prose (Administratum tone, remembrancers, generic Astartes dialogue, wiki-style summaries):**
+* **Founding** and **formal progenitor chapter:** **unknown**, **redacted**, or **not disclosed** — do not invent a numbered Founding + parent Chapter on the public record unless the plot introduces forged or leaked documents.
+* **Phenotype:** **Russ-line–adjacent** or **wolf-marked Primaris** + **non-standard / second-strand variance**; you may **hint chimerism**, not spell out sealed archives.
+* **Forbidden** as **genetic** fact in this layer: Sons of Horus / Traitor Legion gene-seed successor; “we descend from the XVI Legion”; **Loken-line inheritance** on the tithe scroll; **“Fenrisian DNA”** or any wording that implies a **confirmed** Fenris progenitor stamp; **“two primarchs”** or primarch laundry lists from line troops.
+* **Heraldry:** Frontal-wolf **echo** vs old Legiones transfer art is **visual history**, not a gene-seed receipt.
+
+**Sealed *Apothecarion* / Triumvirate / *Vermilion* clinical prose (Drusus records, inner-circle briefings, post-048.M42 formal biology):**
+* Use **Strand α** (Russ-line–compatible primary scaffold) and **Strand β** (treason-imprint / secondary architecture) as in [`projection-aurea-wolfs-curse.md`](codex-batavi/biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) and the glossary.
+* **Belisarius Cawl** as architect of the reactive template is **in-universe Triumvirate / sealed conviction** — not something every outsider or early-war POV states as settled fact unless the scene grants that intel.
+
+**Chronology (voice hygiene):**
+* **Before ~048.M42:** characters do **not** use **Strand α/β** labels in dialogue or field memoirs — use “chimera,” “second thread,” “twin architecture,” etc. After **048.M42**, Drusus and archives may fix **Strand α/β**; Triumvirate scenes may use them where appropriate.
+
+**Fixed exceptions (do not “clean up” into mistakes):**
+* **Loken Passage** — **astrographic name only**; it is **not** proof of gene-lineage on the open record.
+* **Garviel Loken** (or **Mournival**-school) — allowed as **attributed quotation** or **historical parallel**; that is **not** an Administratum progenitor label.
+* **Prompt / image-generation Markdown** under `codex-batavi/lore-images/` — **tooling**, not in-universe canon unless the user says otherwise.
+
 ---
 
 ## I. UNIVERSAL IDENTITY AND TONE
 * [cite_start]**Chapter identity:** Batavian Iron-Guard (Cohors Batavorum)[cite: 12].
-* [cite_start]**Lineage:** Chimeric (Loken / Russ)[cite: 12].
+* [cite_start]**Lineage:** Chimeric stabilised gene-architecture — **open Imperial record:** unknown Founding / unknown progenitor; **Russ-line–adjacent** phenotype with documented non-standard (second-strand) variance. **Sealed *Apothecarion* shorthand:** Strand α + Strand β — see [`codex-batavi/personae-command-index/doctrine-and-organs/progenitor-classification.md`](codex-batavi/personae-command-index/doctrine-and-organs/progenitor-classification.md). **Do not** present as Traitor Legion or Sons of Horus gene-seed successor in public-facing prose[cite: 12].
 * [cite_start]**Motto:** "Unbent"[cite: 12].
 * [cite_start]**General tone:** Pragmatic grimdark[cite: 9, 83]. [cite_start]The universe is hostile, equipment is heavy, life is cheap[cite: 10]. [cite_start]Explore the ongoing tension between transhuman (steel) and human (blood)[cite: 85].
 * [cite_start]**The exception (safe zone):** “Martha’s kitchen” is the only place where tension may ease[cite: 11]. [cite_start]It is the anchor of humanity (with Elara Solis)[cite: 84]. [cite_start]Yet Astartes “monstrosity” never vanishes; it only fits the domestic frame[cite: 11].

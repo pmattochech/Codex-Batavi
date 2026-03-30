@@ -2,6 +2,7 @@
 
 ## Chapter biology
 - [projection-aurea-wolfs-curse.md](projection-aurea-wolfs-curse.md)
+- *Progenitor / classification layers (open vs sealed record):* [`../personae-command-index/doctrine-and-organs/progenitor-classification.md`](../personae-command-index/doctrine-and-organs/progenitor-classification.md)
 - [viggo-relic.md](viggo-relic.md)
 
 ## Subsector ecology (atlas → encyclopedia)

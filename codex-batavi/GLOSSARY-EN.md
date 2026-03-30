@@ -27,6 +27,7 @@ Use when writing or editing English prose. Extend as you go.
 | **Batav Wolf** | Common name for ***Canis Batavorum***; natives: **the Batav** (*Der Batav* in myth). **Not** Fenrisian **Thunderwolf**. |
 | **Shadow in the Warp** | Standard 40k; do not calque as “shadow in the distortion.” |
 | *Ruhe*, *Jagd*, *Blutrecht* | *Das Erbe* axes — see encyclopedia |
+| **Strand α / Strand β** | Sealed *Apothecarion* shorthand for the two components of chimeric gene-architecture — [`progenitor-classification.md`](personae-command-index/doctrine-and-organs/progenitor-classification.md) |
 | Martha’s kitchen | Human anchor location |
 | **Industrial grey** / **crimson** (prose) | Generic plate wording. Citadel mapping: *Mechanicus Standard Grey*, *Mephiston Red* — [**visual-identity-paint-guide.md**](visual-identity-paint-guide.md). |
 | Varro (visual) | Tie to **wolf-skull helm**; **Judex** role |
