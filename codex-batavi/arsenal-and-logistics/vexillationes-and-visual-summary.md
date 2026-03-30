@@ -58,6 +58,8 @@ The four cohorts are **doctrinal and heraldic identities** present in **all** Ve
 
 *Colors and iconography:* [specialty-cohorts.md](specialty-cohorts.md).
 
+*Cohort weapon table (same in every Vexillatio):* [cohort-standard-kit.md](cohort-standard-kit.md).
+
 ---
 
 ## 3\. PURE LINE INFANTRY DIVISIONS (PURE BATAVI)
@@ -79,3 +81,13 @@ The **284** (Vex. I–IX) or **279** (Vex. X) **pure-line** Batavi keep **both**
 5. **Black body:** Chaplains only (adjutants and Master Chaplain in *Reclusiam* context).  
 6. **Solid right pauldron color (+ iconography):** **specialty cohort** — one of the four fifty-Marine detachments in the Vexillatio.  
 7. **Twin crimson pauldrons with distinct right rim:** **pure line** (284 or 279) + **Apothecary / Techmarine / Librarian** heraldry per order (organic support in the same tactical block).
+
+---
+
+## 5\. ARMORY AND THEATER BIAS (VEXILLATIO CHARACTER)
+
+Heraldry marks **who** a Marine is in the 500-cell grid; **operational armory** marks **what** his Vexillatio usually embarks **first** on the manifest. The two layers stack: a **Shadows** brother in **Vex. VII** still carries the **cohort** kit, but his armory draws **Vitreus-pattern** plasma more often than a brother in **Vex. I**.
+
+* Full register (Legatus seat ↔ Vex. I–IX) and modal weapons / chassis: [vexillatio-operational-armory.md](vexillatio-operational-armory.md).  
+* *World-pattern* Primaris names: [frontier-patterns-primaris.md](frontier-patterns-primaris.md).  
+* Chassis baseline: [noviomagus-standard-engineering.md](noviomagus-standard-engineering.md).

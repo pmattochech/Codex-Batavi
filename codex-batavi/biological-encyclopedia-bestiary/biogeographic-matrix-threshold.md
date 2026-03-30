@@ -13,8 +13,9 @@
 * **Fauna:** Shadow organisms and closed-dock opportunist vectors.  
 * **Biological risk:** Dimensional contamination, neuropsychic stress, visual-echo disorientation.
 
-## Station-IX / Silent Belt / Glass Eye / Vetra Mark
-* **Topology:** Distributed sensor net, listening asteroids, deep optical platform, relay moon.  
+## Station-IX / Silent Belt / Glass Eye / Marco de Vetra
+* **Topology:** Distributed sensor net, listening asteroids, deep optical platform, **relay moon** (*Vacuum Shouter*).  
+* **Garrison note:** **Marco de Vetra** is the **Legatus seat** of **Vexillatio Nona** (*Strategium* IX); occupational loads below include **Batavi** on **laser-shout** duty, not only mortal crew.  
 * **Flora/Fauna:** Nearly null; relevant biology human (occupational sensory degradation).  
 * **Biological risk:** Vocal atrophy, neural ocular fatigue, murmur syndrome, psychoacoustic saturation.
 

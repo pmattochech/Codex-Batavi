@@ -1,3 +1,7 @@
+*Weapon and sidearm table (identical job kit in every Vexillatio):* [cohort-standard-kit.md](cohort-standard-kit.md).
+
+---
+
 ## 1\. COHORTS AND VEXILLATIONES (GRID MODEL)
 
 The **four specialty cohorts** are not units “apart” from the Half-Legion: in **each** Vexillatio there is an **organic contingent of fifty** warriors **per** cohort (4 × 50 = **200**). The remainder of the **500** ceiling is **pure line** (**284** in Vex. I–IX; **279** in X), **organic support** (**16**: 4 Apothecaries, 4 Techmarines, 3 adjutant Chaplains, 5 **Batavian Cipher** Librarians), and, **only in the Tenth**, **five** supreme posts — see [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) §1.1.

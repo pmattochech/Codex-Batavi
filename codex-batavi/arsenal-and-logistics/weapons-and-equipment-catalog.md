@@ -1,5 +1,19 @@
 # Catalog — weapons, shields, and signature gear
 
+## Chapter armory (line and Vexillatio)
+
+**Standard issue and theater bias** are no longer folded into this table. Use:
+
+- [vexillatio-operational-armory.md](vexillatio-operational-armory.md) — what each Vexillatio **leans toward** (bolter vs plasma, jump vs siege, etc.).  
+- [cohort-standard-kit.md](cohort-standard-kit.md) — Silence / Shadows / Stasis / Nullity **job kit** (uniform across Vexillationes).  
+- [frontier-patterns-primaris.md](frontier-patterns-primaris.md) — *World-pattern* names on **Primaris-grade** weapon classes.
+
+This file keeps **named relics**, **character-specific** gear, and **field metaphors** tied to dossiers and chronicles.
+
+---
+
+## Signature and relic entries
+
 Cross-reference for armament cited outside the arsenal. Full narrative specifications in linked dossiers.
 
 ## Melee and power weapons

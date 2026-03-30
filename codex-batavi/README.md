@@ -9,7 +9,7 @@ Thematic structure. Immutable rules: `.cursorrules` (in this folder; copy also a
 | [personae-command-index](personae-command-index/INDEX.md) | Heraldry, doctrine, hierarchy, dossiers, events & chronologies |
 | [chronicles](chronicles/INDEX.md) | Prose by saga / narrative arc |
 | [atlas-and-topography](atlas-and-topography/INDEX.md) | General atlas + `systems/` (per-system detail) |
-| [arsenal-and-logistics](arsenal-and-logistics/INDEX.md) | Noviomagus standard, cohorts; chassis/weapons catalogs (cross-ref. dossiers) |
+| [arsenal-and-logistics](arsenal-and-logistics/INDEX.md) | Noviomagus Standard chassis; **Vexillatio** theater armory; cohort kit; frontier patterns; catalogs (cross-ref. dossiers) |
 | [biological-encyclopedia-bestiary](biological-encyclopedia-bestiary/INDEX.md) | *Das Erbe*, Wolf’s Curse, biogeographic matrices, named specimens, Viggo |
 | [lexicon-and-litanies](lexicon-and-litanies/INDEX.md) | Der Batav myth, operational philosophy |
 | [political-relations](political-relations/INDEX.md) | Ecclesiarchy, Inquisition, Lex Imperialis |

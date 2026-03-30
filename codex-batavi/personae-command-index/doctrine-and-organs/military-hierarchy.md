@@ -28,7 +28,7 @@ The *Cohors Batavorum* war machine is a mathematical aberration sustained by sur
 
 Above them all rests the Triumvirate — the Wall (Alaric), the Scalpel (Drusus), and the Judge (Varro) — the three minds that keep the beast chained to the forge.
 
-*Heraldry, line divisions, cohort grid:* [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md).
+*Heraldry, line divisions, cohort grid:* [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md). *Vexillatio weapon and chassis bias:* [vexillatio-operational-armory.md](../../arsenal-and-logistics/vexillatio-operational-armory.md).
 
 ---
 

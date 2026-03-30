@@ -1,20 +1,41 @@
-# Arsenal and heraldry of the *Cohors Batavorum*
+# Noviomagus Standard — chassis engineering
 
-The *Batavian Iron-Guard*’s war philosophy shows in brutalist equipment engineering. Rejecting aesthetic ornament for pure function, the Chapter developed the **Noviomagus Standard**: an industrial modification of Astartes armor designed not for glory but for **Friction Geometry**. The Astartes is a tool (*Instrumentum*); his armor is the chassis that lets the task execute.
+The *Batavian Iron-Guard* treats equipment as **industrial product**, not parade metal. The **Noviomagus Standard** is the Chapter’s baseline **Mark X Tacticus–class** modification: armor built for **Friction Geometry** (static holds, sealed environments, *Zone Mortalis* economy). The Astartes is the *Instrumentum*; the suit is the **chassis** that executes the geometry.
 
-## 1\. ENGINEERING AND TECHNOLOGY: THE Noviomagus STANDARD
+---
 
-Armor forged in the system’s factory moons under Forge Masters prioritizes static stability and environmental resistance over assault speed.
+## 1. Structural systems and mobility
 
-**Structural systems and mobility**
+Armor forged in the system’s factory moons under Forge Masters prioritizes **static stability** and **environmental resistance** over assault speed.
 
-* **High-density ceramite chassis:** Main plates are thicker than baseline *Mark X Tacticus* *Codex* standard. The alloy includes enriched plasteel filaments, sacrificing a fraction of mobility for extreme durability against kinetic impact and crushing.  
-* **Gravitic anchor points (ground stabilizers):**  
-  * *Technology:* Embedded in boot soles and greaves, these inverted magnetic and gravitic field generators let the Marine “lock” magnetically to soil or metal surfaces.  
-  * *Tactical use:* Core to “Living Wall” doctrine. Lets an Astartes hold heavy weapons recoil, siege-beast impacts, or shock waves without yielding a millimeter of ground, keeping the **closed testudo** in perfect geometry.  
-* **Integrated traction claws:**  
-  * *Technology:* Boot soles mount retractable spikes for anchoring on non-metallic structures.  
-  * *Tactical use:* Originally for vertical infrastructure climbs (refineries, hives), they became brutal close-quarters weapons — tearing enemy armor or fixing to hulls in void boarding.  
-* **Industrial sealing:** Noviomagus’s polluted atmosphere and frequent chemical weapons (e.g. Death Guard) demand triple-reinforced joints with vulcanized synthetic rubber, making the suit virtually immune to environmental toxins and vacuum pressure.
+**High-density ceramite chassis**  
+Main plates are thicker than baseline *Mark X Tacticus* *Codex* standard. The alloy includes enriched plasteel filaments, sacrificing a fraction of mobility for extreme durability against kinetic impact and crushing.
 
-*Chassis and exceptional armament catalog (dossier cross-reference):* [chassis-and-armor-catalog.md](chassis-and-armor-catalog.md) · [weapons-and-equipment-catalog.md](weapons-and-equipment-catalog.md)
+**Gravitic anchor points (ground stabilizers)**  
+Embedded in boot soles and greaves, inverted magnetic and gravitic field generators let the Marine lock to soil or metal. **Tactical use:** core to the Living Wall — holding heavy-weapon recoil, siege impacts, or shock waves without yielding ground, including **closed testudo** with *scuta* ([friction-geometry.md](../personae-command-index/doctrine-and-organs/friction-geometry.md) §2). **Incus-Gravis**–assigned Vexillationes drill this hardest ([vexillatio-operational-armory.md](vexillatio-operational-armory.md) §3).
+
+**Integrated traction claws**  
+Retractable spikes in boot soles for non-metallic structures. Originally for vertical climbs (refineries, hives); in combat they tear armor or pin hulls in void boarding. Field nickname **Pillars of Noviomagus** (boots as anchor metaphor) appears in chronicles.
+
+**Industrial sealing**  
+Triple-reinforced joints with vulcanized synthetic rubber for Noviomagus’s polluted atmosphere, chemical weapons, and hard vacuum.
+
+---
+
+## 2. How this connects to the ten Vexillationes
+
+**Every** battle-brother in the Half-Legion is expected to fight in **Noviomagus Standard** or a **certified variant** (Gravis, jump-rated harness, void-hardened package) issued by the *Armourium*. **Theater** and **Vexillatio** change **what rides on the chassis** (bolter vs plasma vs jump pack), not the core forge philosophy.
+
+- **Vexillatio-level** weapon and formation bias (siege, assault, energy-heavy, etc.): [vexillatio-operational-armory.md](vexillatio-operational-armory.md).  
+- **Cohort** small-arms table (Silence / Shadows / Stasis / Nullity — same jobs everywhere): [cohort-standard-kit.md](cohort-standard-kit.md).  
+- **Frontier pattern** names on Primaris weapon classes: [frontier-patterns-primaris.md](frontier-patterns-primaris.md).
+
+---
+
+## 3. Catalog cross-references
+
+| Topic | Document |
+|-------|----------|
+| Exceptional armor (Terminator, Judgment chassis, etc.) | [chassis-and-armor-catalog.md](chassis-and-armor-catalog.md) |
+| Named weapons and relics (dossiers) | [weapons-and-equipment-catalog.md](weapons-and-equipment-catalog.md) |
+| Heraldry and pauldron logic | [infantry-visual-identity.md](infantry-visual-identity.md), [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) |

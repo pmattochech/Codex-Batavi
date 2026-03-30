@@ -9,6 +9,7 @@ Reference entries for equipment cited in dossiers and chronicles. Full tactical 
 | ----------- | ----------- | -------- |
 | **Noviomagus Standard** | Industrial Astartes chassis mod: high-density ceramite, gravitic anchoring, traction, chemical sealing. | [noviomagus-standard-engineering.md](noviomagus-standard-engineering.md) |
 | **Cohort / Vexillatio heraldry** | Pauldrons, lenses, line divisions by Vexillatio, cross-cutting cohorts. | [infantry-visual-identity.md](infantry-visual-identity.md), [specialty-cohorts.md](specialty-cohorts.md), [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) |
+| **Vexillatio-scale chassis bias** | Modal **Gravis**, **Indomitor**, and **Tactical Dreadnought Armour** pool concentrated under **Vexillatio VI** (*Sexta*, Bifrons-Ferrum); jump-rated packages under **Vex. V**; balanced pool under **Vex. X**. | [vexillatio-operational-armory.md](vexillatio-operational-armory.md) §3 |
 
 
 ## Exceptional chassis and variants
