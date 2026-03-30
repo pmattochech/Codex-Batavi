@@ -4,7 +4,7 @@
 
 ---
 
-## 1\. THE TEN VEXILLATIONES (HALF-LEGION ORGANIC STRUCTURE)
+## 1\. THE TEN VEXILLATIONES (CHAPTER ORGANIC STRUCTURE)
 
 The *Cohors Batavorum* fields **5,000** battle-brothers in **ten Vexillationes** of **500** warriors each — a deliberate structure to cancel *Codex* bottlenecks on the *Loken Passage* frontier.
 
@@ -48,7 +48,7 @@ The **500** ceiling breaks into **cohorts (200)**, **pure line**, **organic supp
 
 **Training:** the fifty-Marine detachments are **not** self-taught; they receive **certification modules** from **10th Vexillatio** veterans on rotation (instructors deployed from *Strategium* / anchor guard). The local Legatus keeps operational command; tactical standard and aptitude seal come from the Tenth.
 
-*Requirements to move from line and detachments into the 10th itself:* [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) (§3 — Batav Wolf trial and career).
+*Requirements to move from line and detachments into the 10th itself:* [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3 — certified *Watch cycle* (Deathwatch), cohort career, Batav Wolf trial, supreme-post exemptions. *Definition:* [deathwatch-and-batavorum.md](../political-relations/deathwatch-and-batavorum.md) §4.1–4.2.
 
 ---
 

@@ -11,12 +11,14 @@
 - [council-and-librarium.md](doctrine-and-organs/council-and-librarium.md)
 - [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md)
 - [friction-rites.md](doctrine-and-organs/friction-rites.md)
+- [steppenwolf-doctrine.md](doctrine-and-organs/steppenwolf-doctrine.md) — detached brothers; perpetual Watch / rim teams; slang etymology (White Scars / Chogoris loan)
 - [frontier-wolf-rite.md](doctrine-and-organs/frontier-wolf-rite.md) — Execratio funeral protocol; plaque system and Alaric’s Chain of Names
 - [friction-geometry.md](doctrine-and-organs/friction-geometry.md)
 - [pax-batavorum.md](doctrine-and-organs/pax-batavorum.md)
 
 ## character-dossiers
 
+- [VEXILLATIO-NAMED-CHARACTERS-PLAN.md](character-dossiers/VEXILLATIO-NAMED-CHARACTERS-PLAN.md) — backlog worksheet: one named figure per *Prima*–*Decima* (status matrix + dossier stub)
 - [dossier-alaric.md](character-dossiers/dossier-alaric.md) — section header + dossier **Alaric von Helis**
 - [dossier-varro.md](character-dossiers/dossier-varro.md)
 - [dossier-drusus.md](character-dossiers/dossier-drusus.md)
@@ -26,7 +28,8 @@
 - [dossier-tobias.md](character-dossiers/dossier-tobias.md)
 - [dossier-forge-brood.md](character-dossiers/dossier-forge-brood.md)
 - [dossier-valdric.md](character-dossiers/dossier-valdric.md)
-- [dossier-branimir.md](character-dossiers/dossier-branimir.md) — Silence Company (*Decanus Primus* Branimir Vorhalt)
+- [dossier-branimir.md](character-dossiers/dossier-branimir.md) — Silence Cohort (*Decanus Primus* Branimir Vorhalt)
+- [dossier-soren-riis.md](character-dossiers/dossier-soren-riis.md) — Apothecary; Liaison-Praefect (Deathwatch / *Medicinae*)
 - [dossier-valerius.md](character-dossiers/dossier-valerius.md) — **EXPUNGED** — First Legatus; the traitor; The Malakor V Incident (050.M42)
 
 ## events-and-chronologies

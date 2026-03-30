@@ -24,7 +24,7 @@ Triple-reinforced joints with vulcanized synthetic rubber for Noviomagus’s pol
 
 ## 2. How this connects to the ten Vexillationes
 
-**Every** battle-brother in the Half-Legion is expected to fight in **Noviomagus Standard** or a **certified variant** (Gravis, jump-rated harness, void-hardened package) issued by the *Armourium*. **Theater** and **Vexillatio** change **what rides on the chassis** (bolter vs plasma vs jump pack), not the core forge philosophy.
+**Every** battle-brother in the Chapter is expected to fight in **Noviomagus Standard** or a **certified variant** (Gravis, jump-rated harness, void-hardened package) issued by the *Armourium*. **Theater** and **Vexillatio** change **what rides on the chassis** (bolter vs plasma vs jump pack), not the core forge philosophy.
 
 - **Vexillatio-level** weapon and formation bias (siege, assault, energy-heavy, etc.): [vexillatio-operational-armory.md](vexillatio-operational-armory.md).  
 - **Cohort** small-arms table (Silence / Shadows / Stasis / Nullity — same jobs everywhere): [cohort-standard-kit.md](cohort-standard-kit.md).  

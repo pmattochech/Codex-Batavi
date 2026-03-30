@@ -36,6 +36,13 @@ Mandatory obedience order for the AI:
 * **Garviel Loken** (or **Mournival**-school) — allowed as **attributed quotation** or **historical parallel**; that is **not** an Administratum progenitor label.
 * **Prompt / image-generation Markdown** under `codex-batavi/lore-images/` — **tooling**, not in-universe canon unless the user says otherwise.
 
+### 0.3 Prompt handling — clarifying questions (**absolute**)
+
+* **Absolute rule:** If the user’s message is **not** a **straight order** (below), the assistant’s **first response** must be **concise, targeted clarifying questions** — scope, format, file targets, canon vs brainstorm, timeline, what “done” means — **not** draft lore, **not** repo writes, **not** multi-step implementation. Wait for answers **or** an **explicit waiver** in the same thread (*e.g.* *“no questions — execute,”* *“draft freely,”* *“your questions are answered — proceed”*). **Brevity, tone, or implied consent** does **not** waive this.
+* **What stays blocked until then:** Creating or editing files (especially under `codex-batavi/`), broad refactors, and **long unsolicited canon** in chat when the user opened a design/lore topic without a bounded spec.
+* **Straight order (sole exemption — act without prior questions):** One **fully specified**, **bounded** instruction: exact path(s), exact replacement, named command, single obvious one-file fix, or a **read-only** request with an unambiguous target. **Act** immediately; ask **only** the minimum if a missing fact would **violate** a higher-priority rule or **corrupt** the repo.
+* **Proportion:** One **tight** batch of questions — high signal, minimal count — but **never skipped** when this section applies.
+
 ---
 
 ## I. UNIVERSAL IDENTITY AND TONE

@@ -5,7 +5,7 @@
 **Classification:** *Magenta* / *Strategium* historical archives.  
 **Reporter:** Scribes of the Inner Circle.
 
-The vaults of the *Castrum Medicae* smelled of ozone, purifying incense, and old blood. The adamant blast doors were sealed. No one beyond the Triumvirate held authorization to witness the dissection of the soul **biologically anchored in the Nine Phalanx** (the Half-Legion in the Crown).
+The vaults of the *Castrum Medicae* smelled of ozone, purifying incense, and old blood. The adamant blast doors were sealed. No one beyond the Triumvirate held authorization to witness the dissection of the soul **biologically anchored in the Nine Phalanx** (the Chapter in the Crown).
 
 On the central holo-table, two data sets orbited in a ghost-dance of blue light. On one side, biometric logs from the South Wall where *Jagd* had torn the Orks apart. On the other, the cold linear graphs of Noviomagus Secundus where *Ruhe* had burned the Tyranids away.
 

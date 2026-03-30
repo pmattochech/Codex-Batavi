@@ -4,7 +4,7 @@
 
 **Workspace enforcement:** The same rules are summarized as mandatory AI/author instructions in **`.cursorrules` §0.2** (repository root).
 
-**Related:** [intro-and-heraldry.md](../intro-and-heraldry/intro-and-heraldry.md) · [technical-datasheet.md](technical-datasheet.md) · [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)
+**Related:** [intro-and-heraldry.md](../intro-and-heraldry/intro-and-heraldry.md) · [technical-datasheet.md](technical-datasheet.md) · [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) · outsider-knowledge worksheet (backlog): [`FOUNDING-OUTSIDER-KNOWLEDGE-PLAN.md`](../../FOUNDING-OUTSIDER-KNOWLEDGE-PLAN.md) · Space Wolves / Traitor framing (backlog): [`SPACE-WOLVES-TRAITOR-RELATIONS-PLAN.md`](../../SPACE-WOLVES-TRAITOR-RELATIONS-PLAN.md)
 
 ---
 

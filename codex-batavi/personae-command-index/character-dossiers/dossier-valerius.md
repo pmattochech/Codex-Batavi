@@ -188,3 +188,7 @@ Stared neophyte three seconds.
 — *Mangy doesn’t deserve iron* — said.
 
 Kept walking.
+
+---
+
+**Post-051.M42 *Strategium* cross-reference:** Mandatory **Deathwatch *Watch cycle*** for **Legatus** and *Decima* admission was **codified after** Valerius’s fall — he was **never** under that requirement. See [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) §4.2, [military-hierarchy.md](../doctrine-and-organs/military-hierarchy.md) §3.

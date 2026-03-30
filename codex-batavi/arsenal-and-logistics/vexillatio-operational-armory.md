@@ -127,7 +127,7 @@ Each **Legatus** commands one **indivisible** Vexillatio of 500. The table maps 
 
 ### Vexillatio IX — *Nona* (Marco de Vetra)
 
-**Proficiency:** **Relay survival and sector cry** — the Legatus seat is the **bait-moon** whose strategic purpose is **hyper-focused laser** traffic to the Wall and, if the Threshold must be bought with blood, the **mobilization shout** that wakes the entire Half-Legion. Tactics skew to **layered delay**, **perimeter fixation**, and **denial** of capture-intact antenna and reactor spines — Friction Geometry where **time** and **signal** matter more than local kill ratios.
+**Proficiency:** **Relay survival and sector cry** — the Legatus seat is the **bait-moon** whose strategic purpose is **hyper-focused laser** traffic to the Wall and, if the Threshold must be bought with blood, the **mobilization shout** that wakes the entire Chapter. Tactics skew to **layered delay**, **perimeter fixation**, and **denial** of capture-intact antenna and reactor spines — Friction Geometry where **time** and **signal** matter more than local kill ratios.
 
 **Modal lean:** **Sustained kinetic** to **pin** assault waves (**boltstorm**-family, **heavy bolter** teams where the *Armourium* assigns them), **tactical missile** for clustered approaches, **melta** and **demo charges** for bulkheads and **scorched** couplings. **Bolt carbines** and **combat shields** for tight industrial alleys between array farms. **EM budget** discipline so friendly noise does not drown the **Shouter** when it must punch through Maleventum-class hash.
 

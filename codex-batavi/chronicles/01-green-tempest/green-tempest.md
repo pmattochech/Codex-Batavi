@@ -16,7 +16,7 @@ Lord Castellan Alaric von Helis was in the *Strategium* when the confirmation ec
 
 The initial response was dictated by the strictest *Codex* doctrine. Orders went out with the indifference of someone inventorying ammunition. Millions of human civilians were drained into bunkers at the roots of the hives. Permacrete walls were reinforced with ablative plating. The **Cohors Batavorum** positioned itself to be what it had been forged to be: the anvil on which the enemy would shatter.
 
-Yet in the depths of the *Castrum Ferrum*, Chief Apothecary Drusus, monitoring the biometrics **of the half-legion on the line**, saw the first tremor in the hormone charts. The gene-seed smelled slaughter before the *auspex* could see the ships.
+Yet in the depths of the *Castrum Ferrum*, Chief Apothecary Drusus, monitoring the biometrics **of the Chapter on the line**, saw the first tremor in the hormone charts. The gene-seed smelled slaughter before the *auspex* could see the ships.
 
 ## The Fifth Day: The Pack’s Shiver
 
