@@ -4,7 +4,7 @@
 
 **Prose rule:** In chronicles and wiki narrative, prefer **generic descriptions** (*industrial grey* plate, *crimson* oath-tracery, *crimson* lenses) so text stays immersive. This file holds the **exact** paint names.
 
-**Related:** [infantry-visual-identity.md](arsenal-and-logistics/infantry-visual-identity.md) — infantry breakdown; [dossier-alaric.md](personae-command-index/character-dossiers/dossier-alaric.md) — Castellan chassis notes; [intro-and-heraldry.md](personae-command-index/intro-and-heraldry/intro-and-heraldry.md) — frontal wolf charge (**no lunar field**); GW silhouette refs in [`lore-images/reference-gw-luna-wolves-source/`](lore-images/reference-gw-luna-wolves-source/README.md).
+**Related:** [infantry-visual-identity.md](arsenal-and-logistics/infantry-visual-identity.md) — infantry breakdown; [dossier-alaric.md](personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) — Castellan chassis notes; [intro-and-heraldry.md](personae-command-index/intro-and-heraldry/intro-and-heraldry.md) — frontal wolf charge (**no lunar field**); [vexilla-by-vexillatio-design.md](personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — *Alabarda* / *justice* vexillum layout; GW silhouette refs in [`lore-images/reference-gw-luna-wolves-source/`](lore-images/reference-gw-luna-wolves-source/README.md).
 
 ---
 
@@ -36,6 +36,8 @@ Use for **2D seal**, **decal design**, and **AI prompt** alignment — distinct 
 | Zigzag water lines | **Black** main zigzags + **white** (default) or **helm-lens orange** accent stripe — **not** crimson-on-red | **Abaddon Black** lines + **White Scar** or **Troll Slayer Orange** accent |
 
 Pauldron **wolf-only** decal: same **black** wolf and **orange** lens triangles (**105°** leg corner); background typically **transparent** on the transfer, not the full red roundel.
+
+**Legatus *Alabarda Vexillum* panel:** Use **this seal palette** on the **vertical / pennant** banner. **Layout:** **four** registered fields per [vexilla-by-vexillatio-design.md](personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — chapter achievement, **Roman** numeral, theater icon, success (*Prima*: **obligation field** only — symbolic geometry, **no** traitor slogans; **§2.2** induction/debt framing). *Decima* **justice** panel (wolf slain by sword) is a **different** brief — same file §4. Abbreviated wolf composition allowed where scale demands; **no** alternate chapter colours or charges. Mount and furl: *Armourium* field spec; base law [`intro-and-heraldry.md`](personae-command-index/intro-and-heraldry/intro-and-heraldry.md).
 
 **Prompts / generation:** [`lore-images/ai-prompts-chapter-insignia.md`](lore-images/ai-prompts-chapter-insignia.md).
 

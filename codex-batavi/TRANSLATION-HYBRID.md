@@ -61,7 +61,7 @@ Section **0.1** states the default language for **new and edited** Markdown. Thi
 |-------|--------|--------|
 | **P0** | Root `README.md`, `codex-batavi/README.md`, all hub `INDEX.md` files (`chronicles/`, `personae-command-index/`, `atlas-and-topography/`, `arsenal-and-logistics/`, `biological-encyclopedia-bestiary/`, `lexicon-and-litanies/`, `political-relations/`) | **Done** |
 | **P1** | `chronicles/07-iron-venus/`, `11-sigma-moon/`, `12-vigilax/`, `13-apotheosis/` (prose in place; English path slugs) | **Done** |
-| **P2** | `personae-command-index/` — doctrine (`doctrine-and-organs/`), events (`events-and-chronologies/`), intro/heraldry (`intro-and-heraldry/`), all `character-dossiers/*.md` | **Done** |
+| **P2** | `personae-command-index/` — doctrine (`doctrine-and-organs/`), events (`events-and-chronologies/`), intro/heraldry (`intro-and-heraldry/`), all `character-dossiers/**/*.md` (subfolders by role: triumvirate, legati, mortals, etc.) | **Done** |
 | **P3** | `atlas-and-topography/` (incl. `systems/`), `arsenal-and-logistics/`, `political-relations/`, `lexicon-and-litanies/` (prose in English; English path slugs) | **Done** |
 | **P4** | `biological-encyclopedia-bestiary/` (biology encyclopedia, matrices, Viggo dossier; English path slugs) | **Done** |
 | **P5** | Deferred `chronicles/` narrative: `00`–`06`, `08`–`10` (all body `.md` listed in [`chronicles/INDEX.md`](chronicles/INDEX.md) for those arcs; English path slugs) | **Done** |

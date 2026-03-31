@@ -261,4 +261,4 @@ MASTER GEOMETRY — NON-NEGOTIABLE: Wolf silhouette uses ONLY straight edges and
 
 ---
 
-**Cross-ref:** Heraldry canon — [`../personae-command-index/intro-and-heraldry/intro-and-heraldry.md`](../personae-command-index/intro-and-heraldry/intro-and-heraldry.md) · colours — [`../visual-identity-paint-guide.md`](../visual-identity-paint-guide.md) · GW ref captures (moon stripped in final art) — [`reference-gw-luna-wolves-source/README.md`](reference-gw-luna-wolves-source/README.md).
+**Cross-ref:** Heraldry canon — [`../personae-command-index/intro-and-heraldry/intro-and-heraldry.md`](../personae-command-index/intro-and-heraldry/intro-and-heraldry.md) · **Legatus vexillum panels** (four-field register, *Prima* obligation §2.2, *Decima* justice charge) — [`../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md`](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · colours — [`../visual-identity-paint-guide.md`](../visual-identity-paint-guide.md) · GW ref captures (moon stripped in final art) — [`reference-gw-luna-wolves-source/README.md`](reference-gw-luna-wolves-source/README.md).

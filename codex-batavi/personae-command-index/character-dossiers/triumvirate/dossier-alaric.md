@@ -42,11 +42,12 @@ Beyond anatomical changes, Alaric von Helis’s intermediate-stage stabilization
   * **Left shoulder (authority/fury):** Aethelgard black wolf pelt. Black wolf head lacks lower jaw, resting lips retracted perpetual snarl on ceramite. Black forepaws drape chest, pinned heavy brooch Imperial arms. Black wolf eyes bright red lenses.  
   * **Right shoulder and inner lining (affection/anchor):** Old Thunderwolf Viggo white pelt lines armor interior retaining reactor heat. Large intact taxidermy Viggo head rests right shoulder, white forepaws crossing Alaric’s neck each side like embrace. White wolf eyes pale blue lenses. Both taxidermy lenses (red and blue) emit same glow Astartes visors.  
 * **Gyro mourning:** Witnessing Viggo’s death by age, Alaric refused wolf burial in “cold earth.” Shut gyros and exterminator armor traction systems, frozen statue-like 24 uninterrupted hours silent mourning rite.  
-* **Fixed sentinel talisman:** Ivory-carved amulet fixed armor. Rune Priests Fenris forged from Viggo bones; relic channels guardian protection watching Alaric’s flanks beside Emperor.
+* **Fixed sentinel talisman:** Ivory-carved amulet fixed armor. Rune Priests Fenris forged from Viggo bones; relic channels guardian protection watching Alaric’s flanks beside Emperor.  
+* ***Decima* escort — justice vexillum:** On formal *Strategium* deployments, the **anchor guard** flies the **justice vexillum** beside the Castellan — **feral wolf slain by sword**, register of **Malakor V** and First Legatus treason **ended** (not Legatus *Alabarda* geometry). [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md) §4; [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3.
 
 ### 1.3. THE CHAIN OF NAMES
 
-*Full reference: [frontier-wolf-rite.md](../doctrine-and-organs/frontier-wolf-rite.md)*
+*Full reference: [frontier-wolf-rite.md](../../doctrine-and-organs/frontier-wolf-rite.md)*
 
 Hidden under Viggo’s white pelt against *Castra-Lupus* right pauldron rests heavy steel cord wound in multiple turns from which hang **743 plate pairs** — 1,486 individual pieces, roughly 97 kg iron and ceramite pressed by wolf hide to armor ceramic.
 

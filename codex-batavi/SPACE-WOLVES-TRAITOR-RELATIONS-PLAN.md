@@ -22,7 +22,7 @@ Use this so **alliance** stays **credible** without **collapsing** unknown found
 
 | Axis | Canon hooks already in repo | Story levers / tensions |
 |------|-----------------------------|-------------------------|
-| **Material diplomacy** | *Morkai’s Bite* (Grimnar gift), **Bjorn** belt talisman, **Fenris**-forged relics on Alaric/Varro (see [dossier-alaric.md](personae-command-index/character-dossiers/dossier-alaric.md), [dossier-varro.md](personae-command-index/character-dossiers/dossier-varro.md)) | Gifts prove **respect**, not **gene-seed disclosure** |
+| **Material diplomacy** | *Morkai’s Bite* (Grimnar gift), **Bjorn** belt talisman, **Fenris**-forged relics on Alaric/Varro (see [dossier-alaric.md](personae-command-index/character-dossiers/triumvirate/dossier-alaric.md), [dossier-varro.md](personae-command-index/character-dossiers/triumvirate/dossier-varro.md)) | Gifts prove **respect**, not **gene-seed disclosure** |
 | **Visual kinship** | *Fenris-pattern* / **wolf-skull** helms as **Noviomagus adaptations** | SW may read **kin**; Batavi read **equipment lineage** + **doctrine difference** (*Analytical Silence* vs howls) |
 | **Biology** | Manuals still map lupine defects to **Fenris** as “loud ghost” ([chimera-pendulum.md](chronicles/03-projection-aurea-codex-omega/chimera-pendulum.md)) | Apothecary **friction**: Fenris baselines **fail** to explain *Das Erbe* fully |
 | **The Thunderwolf line** | **Batav Wolf** / *Canis Batavorum* **≠** Fenris **Thunderwolf** ([GLOSSARY-EN.md](GLOSSARY-EN.md)) | Scene where a Wolf **mistakes** the pelt or the beast — **correct** them in-character |

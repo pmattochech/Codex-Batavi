@@ -75,4 +75,4 @@
 
 Character ready for **urban thriller** stories on Noviomagus: infiltrators, cults, sabotage. Useful as POV explaining why *Ruhe* does **not** trigger against covert Genestealers — and why the Wall is not blind.
 
-**Cross-reference:** [specialty-cohorts.md](../../arsenal-and-logistics/specialty-cohorts.md) §3; [lex-imperialis-iron-justice.md](../../political-relations/lex-imperialis-iron-justice.md) §III.
+**Cross-reference:** [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md) §3; [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md) §III.

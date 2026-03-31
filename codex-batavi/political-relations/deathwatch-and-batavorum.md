@@ -54,8 +54,8 @@ The **Liaison-Praefect** (or Drusus-deputized scribe) files the **certification 
 
 ### 4.2 Career law — Legatus and *Decima* (decree ***ca.* 051.M42**, post–Valerius)
 
-* **Origin:** The rule **did not exist** under **Valerius**, First Legatus (015–050.M42). It was imposed **after** his **elimination** and expungement (**Malakor V, 050.M42**) — *Strategium* response to a Legatus-tier fracture the old lattice had not foreseen. **Codification** is logged ***ca.* 051.M42**; see [dossier-valerius.md](../personae-command-index/character-dossiers/dossier-valerius.md).  
-* **Legatus:** No **new** appointment to **Legatus / Elder-Master** without **≥1** certified *Watch cycle*. Incumbents who held the *Alabarda* **before the 051.M42 decree** retain post; replacements must qualify. See [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.  
+* **Origin:** The rule **did not exist** under **Valerius**, First Legatus (015–050.M42). It was imposed **after** his **elimination** and expungement (**Malakor V, 050.M42**) — *Strategium* response to a Legatus-tier fracture the old lattice had not foreseen. **Codification** is logged ***ca.* 051.M42**; see [dossier-valerius.md](../personae-command-index/character-dossiers/expunged/dossier-valerius.md).  
+* **Legatus:** No **new** appointment to **Legatus / Elder-Master** without **≥1** certified *Watch cycle*. Incumbents who held the *Alabarda* **before the 051.M42 decree** retain post; replacements must qualify. *Alabarda* vexillum **register** (four fields; *Prima* obligation doctrine §2.2): [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md). See [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.  
 * **Vexillatio X:** Every battle-brother in *Decima* **except** the five **supreme posts** (Lord Castellan, Chief Apothecary, Master Chaplain, Master of the Forge, Chief Librarian) **must** have **≥1** certified *Watch cycle* before **final** admission. Brothers **already rostered** in *Decima* when the **051.M42** decree took effect fall under ***clausula retentionis antecedentis*** — the **legacy-lattice clause**: they **retain** lawful standing **without** retroactive Watch service; **every admission** after the seal must certify **(1)**.  
 * **Rationale (Triumvirate register):** A governor of 500 or an anchor-guard **blade** must prove they can **mesh alien gears** — allied Chapters, Inquisitorial eyes, xenos tempo — without dissolving Batavi discipline. After **Malakor V**, that proof became **non-optional**. The Watch is the **cheap forge** for it.  
 * **Why not retroactive:** Stripping posts or **dragging** established commanders backward through the Watch would **break the line** mid-campaign — the same fracture geometry **Valerius** proved lethal. The decree **binds the future**, not as punishment for the **past**. *Strategium* scribes file that logic beside the clause; field officers sometimes gloss it in **Low Gothic** as “**pre-decree incumbency**.”
@@ -70,7 +70,7 @@ Watch medicine and *Medicinae* do not merge; they **handshake** under a written 
 
 **Liaison-Praefect (Deathwatch correspondence)** — a senior Apothecary **appointed by Chief Apothecary Drusus**, not elected by Vexillatio popularity. The office rotates **which Apothecary** holds the title (terms set by *Medicinae*), but **one** named brother is always the **vox-primary** for Watch *Apothecarion* traffic, debrief nodes, and disclosure packets.
 
-* **Current bearer:** **Apothecary Soren Riis** — see [dossier-soren-riis.md](../personae-command-index/character-dossiers/dossier-soren-riis.md).  
+* **Current bearer:** **Apothecary Soren Riis** — see [dossier-soren-riis.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-soren-riis.md).  
 * **Billet fiction:** Riis is **filed** under **Vexillatio I** (*Prima*) for Administratum neatness; his duty is **Chapter-wide** and he travels to agreed **debrief anchors** (Noviomagus, neutral stations, escorted Watch facilities). He does **not** take a permanent Watch fortress posting; absence is **temporary** and he remains on Chapter strength tallies.  
 * **Authority:** Speaks for *Medicinae* on **clearance**, **sedation chemistry**, **xenos biohazard triage** shared with Watch, and **what Watch scanners are allowed to see** in a Batavi’s biologis feed.
 
@@ -122,8 +122,8 @@ Riis (or his delegated *Medicinae* scribe) **personally** downgrades any Watch r
 
 - [steppenwolf-doctrine.md](../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) — perpetual Watch / detached brothers; not Deathwatch-exclusive  
 - [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) — Legatus / *Decima* prerequisites (§3); 5,000 ceiling  
-- [dossier-soren-riis.md](../personae-command-index/character-dossiers/dossier-soren-riis.md) — Liaison-Praefect (Deathwatch)  
-- [dossier-drusus.md](../personae-command-index/character-dossiers/dossier-drusus.md) — Chief Apothecary / *Medicinae*  
+- [dossier-soren-riis.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-soren-riis.md) — Liaison-Praefect (Deathwatch)  
+- [dossier-drusus.md](../personae-command-index/character-dossiers/triumvirate/dossier-drusus.md) — Chief Apothecary / *Medicinae*  
 - [inquisition-geometry.md](inquisition-geometry.md) — Holy Ordos umbrella  
 - [border-political-relations.md](border-political-relations.md) — institutional doctrine  
 - [vexillatio-operational-armory.md](../arsenal-and-logistics/vexillatio-operational-armory.md) — modal specialties (VI, VIII, cohort skills)

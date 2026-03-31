@@ -37,6 +37,8 @@ Each **Legatus** commands one **indivisible** Vexillatio of 500. The table maps 
 
 *Geography:* [general-atlas.md](../atlas-and-topography/general-atlas.md) · *Order of battle:* [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) · *Chain of command:* [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md).
 
+*Named Legati & *Decima* line face (fiction register):* [VEXILLATIO-NAMED-CHARACTERS-PLAN.md](../personae-command-index/character-dossiers/plans/VEXILLATIO-NAMED-CHARACTERS-PLAN.md) §2 matrix + dossiers.
+
 *Archive hygiene:* older sector files may still say “company” where *Strategium* now numbers a **Vexillatio**; treat as the same 500-cell block unless a document is explicitly historical.
 
 ---
@@ -52,6 +54,12 @@ Each **Legatus** commands one **indivisible** Vexillatio of 500. The table maps 
 **Modal lean:** **Bolt weapons** (rifle, pistol, storm/boltstorm-family where issued), **chainswords**, **power gladii**. Highest **sustained automatic fire** culture; *Armourium* treats other Vexillationes’ oddities as deviations from **Noviomagus-pattern** acceptance.
 
 **Pure line:** Suppression-heavy roster; Ruin and Siege maintained at table strength without exaggeration.
+
+***Prima* Legatus seat — seat vs deployment (canonical A + B):**
+
+* **045–050.M42 (First Legatus era):** The **500-cell block** was always **I Vexillatio (*Prima*)**; the **Legatus** exercised command from **forward campaign anchors** in the **Threshold / Cicatrix Maledictum–adjacent** theater — stations, reef-adjacent bodies, and **Malakor V**–class kill-boxes — not from Noviomagus Prime. The Chapter’s **industrial spine and tithe heart** remained the **Central Bastion** (Noviomagus mesh). *Strategium* treated that as **deployment geometry**: worst sector, best operator — without confusing **forge law** with **where the First stood to shoot**.
+* **Post–050.M42 (*Strategium* re-seat):** After the **Malakor V** execution and **I Vexillatio** losses, the Triumvirate **declared** *Prima*’s **registered *Legatus* primary anchor** **Noviomagus Prime** — **logistics** (reference *Armourium*, line-replacement tempo), **tithe neatness**, and **symbolic severance** from the traitor’s forward map. **Rift-lip habit** and relay sacrifice geometry devolve chiefly to **VIII (*Octava*)** and **IX (*Nona*)** in the modern register; *Prima* **still deploys** anywhere the mesh orders. *See* [dossier-valerius.md](../personae-command-index/character-dossiers/expunged/dossier-valerius.md) §IV; [master-chronology.md](../personae-command-index/events-and-chronologies/master-chronology.md) §III.
+* ***Prima* *Alabarda* vexillum:** fourth panel field = **obligation / remembrance** (lattice **debt**, not successor’s personal guilt — §2.2), **broken-cog** border; full nine-grid register [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md).
 
 ---
 

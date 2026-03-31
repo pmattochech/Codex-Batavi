@@ -13,6 +13,8 @@ The *Cohors Batavorum* fields **5,000** battle-brothers in **ten Vexillationes**
 | **I through IX** | *Vexillatio Prima* … *Nona* (*Strategium* register) | Each of the **nine super-systems** of the **Nine Phalanx** (3×3 mesh; see [general-atlas.md](../atlas-and-topography/general-atlas.md)) | **Legatus** (*Elder-Master*), bearer of the *Alabarda Vexillum* |
 | **X** | *Vexillatio Decima* — **anchor guard** | Mobile; lethal escort to the Lord Castellan | Direct subordination to the **Triumvirate** / tactical **liaison** on Alaric’s frequency |
 
+***Alabarda Vexillum* (quick ref):** halberd + **four-field** vexillum (chapter achievement, **large Roman** ordinal I–IX, anchor/specialty icon, **greatest success**; ***Prima***: fourth field = **obligation/remembrance**, **broken-cog** border, **debt not inherited crime** — [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §§1–2) + haft **relay**. ***Decima***: separate **justice vexillum** (feral wolf **slain by sword**) — same file §4. Also: [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/intro-and-heraldry.md); [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
+
 **Terminology note:** **Nine Phalanx** names the **geographic block** of nine systems (administrative toponym), **not** a combat unit. The combat unit of 500 is always **Vexillatio**.
 
 ### 1.1 Internal split of the 500 (*Standard Order of Battle*, ca. 570.M42)

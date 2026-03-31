@@ -6,6 +6,7 @@
 - [Visual identity & paint guide (EN) — Citadel mapping](../visual-identity-paint-guide.md)
 - [specialty-cohorts.md](specialty-cohorts.md)
 - [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md)
+- [../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — Legatus *Alabarda* four-field register; *Prima* §2.2; *Decima* justice vexillum
 
 ## Vexillatio armory (theater bias + cohort kit)
 - [vexillatio-operational-armory.md](vexillatio-operational-armory.md) — Vex. I–X modal weapons and chassis proficiency

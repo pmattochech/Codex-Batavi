@@ -57,6 +57,8 @@ Expected: Alaric honor guard. Closest Castellan position implicit successor role
 
 Received: hardest Subsector command — I Vexillatio allocated highest enemy pressure point, sector nearest Cicatrix Maledictum.
 
+**Register note (post-expungement, *Strategium* clarity):** That allocation was **forward deployment** — campaign HQs and battle anchors in the **Threshold / rift-adjacent** mesh (including **Malakor V**–class bodies), while the Chapter **forge and industrial spine** stayed **Central Bastion** (Noviomagus system). The **500-cell block** remained *Prima*; the First Legatus did **not** “govern Noviomagus” in the sense the register uses **after** **050.M42**. Following Malakor V, *Strategium* **re-seated** *Prima*’s **declared *Legatus* primary anchor** on **Noviomagus Prime** — logistical lock to the reference forge and **deliberate break** from traitor geography. Open charts thereafter show the First on the forge world; rift mouth is chiefly **VIII**/**IX** rotation, with *Prima* still **ordered** anywhere. Full doctrine: [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3 (*Prima*).
+
 Alaric logic pure tactical: Valerius best operator available, worst sector needed best operator. No punishment designation. From Alaric perspective highest trust vote possible.
 
 Valerius heard designation calculated. Doubt — first question Chaos plants before any other — took shape:
@@ -191,4 +193,4 @@ Kept walking.
 
 ---
 
-**Post-051.M42 *Strategium* cross-reference:** Mandatory **Deathwatch *Watch cycle*** for **Legatus** and *Decima* admission was **codified after** Valerius’s fall — he was **never** under that requirement. See [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) §4.2, [military-hierarchy.md](../doctrine-and-organs/military-hierarchy.md) §3.
+**Post-051.M42 *Strategium* cross-reference:** Mandatory **Deathwatch *Watch cycle*** for **Legatus** and *Decima* admission was **codified after** Valerius’s fall — he was **never** under that requirement. See [deathwatch-and-batavorum.md](../../../political-relations/deathwatch-and-batavorum.md) §4.2, [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3.

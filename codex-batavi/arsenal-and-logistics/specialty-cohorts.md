@@ -53,4 +53,4 @@ Another anomaly class: movement almost right but **out of phase on transition** 
 **IV. Combined employment**  
 Pattern analysis **does not replace** *Lex Imperialis* or custody for interrogation: it **selects targets**, isolates cells, and avoids mass false positives. Where the threat is purely psychic or hive-scale fleet, Chapter biology and other cohorts take different vectors; where the enemy **mimics the Imperium**, ivory is the first **triage barrier**.
 
-*Reference character (urban patrol / doctrinal calibration):* [dossier-branimir.md](../personae-command-index/character-dossiers/dossier-branimir.md).
+*Reference character (urban patrol / doctrinal calibration):* [dossier-branimir.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md).

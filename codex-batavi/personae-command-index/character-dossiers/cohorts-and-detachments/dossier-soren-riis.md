@@ -6,7 +6,7 @@
 **Rank:** Apothecary (*Medicinae*).  
 **Title:** **Liaison-Praefect (Deathwatch correspondence)** — bearer of ***Pactum Clavis Sanguinis*** vox-primary for the Watch.  
 **Chapter:** *Cohors Batavorum*.  
-**Administrative file:** Vexillatio I (*Prima*) — **billet fiction** for tithe scrolls; duty is **Chapter-wide** (see [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) §5).  
+**Administrative file:** Vexillatio I (*Prima*) — **billet fiction** for tithe scrolls; duty is **Chapter-wide** (see [deathwatch-and-batavorum.md](../../../political-relations/deathwatch-and-batavorum.md) §5).  
 **Reports to:** Chief Apothecary **Drusus** (absolute).  
 **Apparent service age:** ~140–170 Terran years (estimate).
 
@@ -16,7 +16,7 @@
 
 Riis is the **living seal** between Watch *Apothecarion* curiosity and *Medicinae* secrecy. He does **not** command kill-teams; he **gates** bodies:
 
-* files **certification tiles** on the **aptitude chain** after a completed *Watch cycle* — mandatory paper for **Legatus** and *Decima* tracks ([deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) §4);  
+* files **certification tiles** on the **aptitude chain** after a completed *Watch cycle* — mandatory paper for **Legatus** and *Decima* tracks ([deathwatch-and-batavorum.md](../../../political-relations/deathwatch-and-batavorum.md) §4);  
 * clears rotations for **endocrine** and **Wolf’s Curse** stability windows;  
 * issues **Tier White / Grey** disclosure packets and **withholds** Black-tier genotype data;  
 * travels to **debrief anchors** (Noviomagus, neutral stations, escorted Watch facilities) for return audits and **blood-key** splits;  
@@ -53,6 +53,6 @@ His presence is **bureaucratic violence** dressed as courtesy: polite diction, *
 
 ## 5\. Related
 
-- [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md)  
-- [dossier-drusus.md](dossier-drusus.md)  
-- [inquisition-geometry.md](../../political-relations/inquisition-geometry.md)
+- [deathwatch-and-batavorum.md](../../../political-relations/deathwatch-and-batavorum.md)  
+- [dossier-drusus.md](../triumvirate/dossier-drusus.md)  
+- [inquisition-geometry.md](../../../political-relations/inquisition-geometry.md)

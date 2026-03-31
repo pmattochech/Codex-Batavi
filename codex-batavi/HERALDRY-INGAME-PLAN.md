@@ -2,7 +2,7 @@
 
 **Goal:** Get the **chapter icon** into *Space Marine 2* **beyond** stock Armouring Hall decals — i.e. the **bitmap** from **[`lore-images/chapter-seal-canonical.png`](lore-images/chapter-seal-canonical.png)** (that PNG **is** the seal **and** the icon; no separate game-only asset).
 
-**Prerequisites:** [`SM2-ASTARTES-MOD-PLAN.md`](SM2-ASTARTES-MOD-PLAN.md) (vanilla + mod stack). **Colour law:** [`visual-identity-paint-guide.md`](visual-identity-paint-guide.md). **Export / Anubian folder workflow:** [`lore-images/heraldry-ingame-export-spec.md`](lore-images/heraldry-ingame-export-spec.md). *Optional prompts for future variants:* [`lore-images/ai-prompts-chapter-insignia.md`](lore-images/ai-prompts-chapter-insignia.md).
+**Prerequisites:** [`SM2-ASTARTES-MOD-PLAN.md`](SM2-ASTARTES-MOD-PLAN.md) (vanilla + mod stack). **Colour law:** [`visual-identity-paint-guide.md`](visual-identity-paint-guide.md). **Export / Anubian folder workflow:** [`lore-images/heraldry-ingame-export-spec.md`](lore-images/heraldry-ingame-export-spec.md). *Optional prompts for future variants:* [`lore-images/ai-prompts-chapter-insignia.md`](lore-images/ai-prompts-chapter-insignia.md). *Lore — Legatus vexillum grids (not the same as pauldron seal swap):* [`personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md`](personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md).
 
 **Execution status (owner):** Sessions B–C **deferred** — hand a modder this plan + [`lore-images/heraldry-ingame-export-spec.md`](lore-images/heraldry-ingame-export-spec.md) + canonical raster [`lore-images/chapter-seal-canonical.png`](lore-images/chapter-seal-canonical.png). You keep vanilla/Nexus presets per SM2 plan until they deliver.
 

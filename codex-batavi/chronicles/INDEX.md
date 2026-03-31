@@ -58,7 +58,7 @@ The four quarters are summarized with canonical milestones in [foundation-war.md
 - **Parapet — personal records (Drusus + Varro), frame 578.M42**
   - [record-drusus-elara.md](07-iron-venus/record-drusus-elara.md) ✅ — clinical voice; retroactive wall log + live room (*Apothecarion*); snarl, telemetry, calibrated gestures; two patients; Varro / purpose–fear; kitchen (thermal anchor, name, decibels, cortisol); growth (checkups, touch on the white sleeve, parapet, tear / Primarch recalibration); 565.M42; Tobias, antechamber (BP / pupil); Academy as load; close 578.M42.
   - [record-varro-elara.md](07-iron-venus/record-varro-elara.md) ✅ — doctrinal voice; arrival at the *Apothecarion* (snarl, *vox* to Drusus, anchoring, fear vs. purpose); Triumvirate; kitchen, name **Elara Solis**, growth beats (sleep, helm, parapet); 565.M42; Tobias; Naval Academy through reports; Malakor / close 578.M42.
-  - *Note:* records are **retrospective**, not fiction locked to a single instant; canonical Parapet / kitchen scene in [iron-venus.md](07-iron-venus/iron-venus.md). See [dossier-elara-solis.md](../personae-command-index/character-dossiers/dossier-elara-solis.md).
+  - *Note:* records are **retrospective**, not fiction locked to a single instant; canonical Parapet / kitchen scene in [iron-venus.md](07-iron-venus/iron-venus.md). See [dossier-elara-solis.md](../personae-command-index/character-dossiers/mortals/dossier-elara-solis.md).
 
 ## 08-audit-diplomacy
 - [logic-audit.md](08-audit-diplomacy/logic-audit.md)

@@ -2,7 +2,7 @@
 
 **Goal:** Produce **Batavi** imagery **without generative-AI as the first step**: minis, flat seal / transfer art, or traditional/digital drawing/painting that you **author** line-by-line. (Repo still keeps [`lore-images/ai-prompts-chapter-insignia.md`](lore-images/ai-prompts-chapter-insignia.md) for **optional** tooling later — this plan does **not** depend on it.)
 
-**Colour / geometry law:** [`visual-identity-paint-guide.md`](visual-identity-paint-guide.md) · **canonical seal raster:** [`lore-images/chapter-seal-canonical.png`](lore-images/chapter-seal-canonical.png) · infantry read: [`arsenal-and-logistics/infantry-visual-identity.md`](arsenal-and-logistics/infantry-visual-identity.md).
+**Colour / geometry law:** [`visual-identity-paint-guide.md`](visual-identity-paint-guide.md) · **canonical seal raster:** [`lore-images/chapter-seal-canonical.png`](lore-images/chapter-seal-canonical.png) · infantry read: [`arsenal-and-logistics/infantry-visual-identity.md`](arsenal-and-logistics/infantry-visual-identity.md). **Legatus vexilla (nine + justice):** [`personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md`](personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md).
 
 **Downstream:** Finished **flat** masters feed [`HERALDRY-INGAME-PLAN.md`](HERALDRY-INGAME-PLAN.md) (texture export) and documentation screenshots.
 
