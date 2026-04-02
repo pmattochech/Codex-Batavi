@@ -187,3 +187,7 @@ The Silent Vigil would last five hundred years. What changed was time inside the
 *The period that follows (050.M42 – 550.M42) is catalogued internally as the Silent Vigil. The Chapter’s formal records from that span document campaigns, Vexillatio rotations, alliances, and losses. The informal records — corridor talk, neophyte accounts that never understood why the Castellan seemed to carry more weight than any cord could measure — were not filed.*
 
 *They did not need to be.*
+
+---
+
+*Justice vexillum commission (051.M42 — tenth lattice standard):* [decima-justice-vexillum.md](../14-vexillum-chronicles/decima-justice-vexillum.md) · *Armourium* annex: [register-decima-malakor-justice.md](../vexillum-register/register-decima-malakor-justice.md).

@@ -4,7 +4,7 @@
 
 **Prose rule:** In chronicles and wiki narrative, prefer **generic descriptions** (*industrial grey* plate, *crimson* oath-tracery, *crimson* lenses) so text stays immersive. This file holds the **exact** paint names.
 
-**Related:** [infantry-visual-identity.md](arsenal-and-logistics/infantry-visual-identity.md) — infantry breakdown; [dossier-alaric.md](personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) — Castellan chassis notes; [intro-and-heraldry.md](personae-command-index/intro-and-heraldry/intro-and-heraldry.md) — frontal wolf charge (**no lunar field**); [vexilla-by-vexillatio-design.md](personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — *Alabarda* / *justice* vexillum layout; GW silhouette refs in [`lore-images/reference-gw-luna-wolves-source/`](lore-images/reference-gw-luna-wolves-source/README.md).
+**Related:** [infantry-visual-identity.md](arsenal-and-logistics/infantry-visual-identity.md) — infantry breakdown; [dossier-alaric.md](personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) — Castellan chassis; [dossier-drusus.md](personae-command-index/character-dossiers/triumvirate/dossier-drusus.md) · [dossier-varro.md](personae-command-index/character-dossiers/triumvirate/dossier-varro.md) — Triumvirate *Medicinae* / *Reclusiam*; [dossier-otho.md](personae-command-index/character-dossiers/council-orders/dossier-otho.md) · [dossier-kadmos.md](personae-command-index/character-dossiers/council-orders/dossier-kadmos.md) — Extended Council (*Librarium* / *Armourium*); § **Reference art** below for working PNGs; [intro-and-heraldry.md](personae-command-index/intro-and-heraldry/intro-and-heraldry.md) — frontal wolf charge (**no lunar field**); [vexilla-by-vexillatio-design.md](personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — *Alabarda* / *justice* vexillum layout; GW silhouette refs in [`lore-images/reference-gw-luna-wolves-source/`](lore-images/reference-gw-luna-wolves-source/README.md).
 
 ---
 
@@ -23,7 +23,7 @@
 
 Use for **2D seal**, **decal design**, and **AI prompt** alignment — distinct from “grey plate + crimson trim” on models.
 
-**Approved raster (canonical geometry + palette):** [`lore-images/chapter-seal-canonical.png`](lore-images/chapter-seal-canonical.png) — primary reference for painters and vector trace; table below stays the colour spec.
+**Approved rasters:** [`lore-images/chapter-seal-official.png`](lore-images/chapter-seal-official.png) — **primary chapter roundel** (author-approved crop of the seal from the IV *Quarta* vexillum art; native **381×395** — scale with care for decals / game without stretching aspect). **Do not** replace with an automated re-crop from [`vexillum-vexillatio-iv-quarta.png`](lore-images/vexillum-vexillatio-iv-quarta.png) unless you re-match this framing. Legacy / flat trace target (if present in your tree): [`lore-images/chapter-seal-canonical.png`](lore-images/chapter-seal-canonical.png). **Colour law** remains the table below — do not drift palette from this raster alone.
 
 | Element | Generic prose | Citadel paint (reference) |
 |---------|----------------|---------------------------|
@@ -40,6 +40,19 @@ Pauldron **wolf-only** decal: same **black** wolf and **orange** lens triangles 
 **Legatus *Alabarda Vexillum* panel:** Use **this seal palette** on the **vertical / pennant** banner. **Layout:** **four** registered fields per [vexilla-by-vexillatio-design.md](personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — chapter achievement, **Roman** numeral, theater icon, success (*Prima*: **obligation field** only — symbolic geometry, **no** traitor slogans; **§2.2** induction/debt framing). *Decima* **justice** panel (wolf slain by sword) is a **different** brief — same file §4. Abbreviated wolf composition allowed where scale demands; **no** alternate chapter colours or charges. Mount and furl: *Armourium* field spec; base law [`intro-and-heraldry.md`](personae-command-index/intro-and-heraldry/intro-and-heraldry.md).
 
 **Prompts / generation:** [`lore-images/ai-prompts-chapter-insignia.md`](lore-images/ai-prompts-chapter-insignia.md).
+
+---
+
+## Reference art (working)
+
+AI-generated **starting points** for commissions, paint tests, and SM2/mod facsimiles — dossier and encyclopedia prose stay authoritative where they specify mechanics or heraldry law.
+
+| Subject | File | Notes |
+|---------|------|--------|
+| **Varro** (Master Chaplain / Judex) | [`lore-images/varro-chaplain-judex.png`](lore-images/varro-chaplain-judex.png) | Absolute black plate, crimson pauldrons + gauntlets, rib-grille chest, cowled wolf-skull helm, blood-red lenses, Furor stripe on skull. Full spec: [`dossier-varro.md`](personae-command-index/character-dossiers/triumvirate/dossier-varro.md) §2–§3. |
+| **Drusus** (Chief Apothecary) | [`lore-images/drusus-chief-apothecary.png`](lore-images/drusus-chief-apothecary.png) | Grey base, surgical white right arm / helm / pack, crimson pauldrons (white edge right), multi-lens helm, Furor stripe, red left gauntlet. [`dossier-drusus.md`](personae-command-index/character-dossiers/triumvirate/dossier-drusus.md) §2–§3. |
+| **Otho** (Chief Librarian / Blood Augur) | [`lore-images/otho-chief-librarian.png`](lore-images/otho-chief-librarian.png) | Grey–crimson *Librarius*, third-eye cluster, stave. [`dossier-otho.md`](personae-command-index/character-dossiers/council-orders/dossier-otho.md) §2–§3. |
+| **Kadmos** (Master of the Forge) | [`lore-images/kadmos-master-of-the-forge.png`](lore-images/kadmos-master-of-the-forge.png) | Mark III iron bulk, bronze cyber-arm, sapphire lens, mecadendrites, bronze trim. [`dossier-kadmos.md`](personae-command-index/character-dossiers/council-orders/dossier-kadmos.md) §1. |
 
 ---
 

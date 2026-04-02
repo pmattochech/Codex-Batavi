@@ -4,7 +4,7 @@
 
 ## 1\. COHORTS AND VEXILLATIONES (GRID MODEL)
 
-The **four specialty cohorts** are not units “apart” from the Chapter: in **each** Vexillatio there is an **organic contingent of fifty** warriors **per** cohort (4 × 50 = **200**). The remainder of the **500** ceiling is **pure line** (**284** in Vex. I–IX; **279** in X), **organic support** (**16**: 4 Apothecaries, 4 Techmarines, 3 adjutant Chaplains, 5 **Batavian Cipher** Librarians), and, **only in the Tenth**, **five** supreme posts — see [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) §1.1.
+The **four specialty cohorts** are not units “apart” from the Chapter: in **each** Vexillatio there is an **organic contingent of fifty** warriors **per** cohort (4 × 50 = **200**). The remainder of the **500** ceiling is **pure line** (**284** in Vex. I–IX; **279** in X), **organic support** (**16**: 4 Apothecaries, 4 Techmarines, 3 adjutant Chaplains, 5 **Batavian Haruspices**), and, **only in the Tenth**, **five** supreme posts — see [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) §1.1.
 
 **Instruction:** veterans of the **10th Vexillatio** (*anchor guard*) rotate as **certified instructors** through the other nine Vexillationes, so each fifty-Marine detachment reproduces the same tactical *standard* (Silence, Shadows, Stasis, Nullity) without doctrinal fragmentation.
 
@@ -54,3 +54,11 @@ Another anomaly class: movement almost right but **out of phase on transition** 
 Pattern analysis **does not replace** *Lex Imperialis* or custody for interrogation: it **selects targets**, isolates cells, and avoids mass false positives. Where the threat is purely psychic or hive-scale fleet, Chapter biology and other cohorts take different vectors; where the enemy **mimics the Imperium**, ivory is the first **triage barrier**.
 
 *Reference character (urban patrol / doctrinal calibration):* [dossier-branimir.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md).
+
+---
+
+## 4\. EMBEDDED *LIBRARIUM* (BATAVIAN HARUSPICES)
+
+The **five Batavian Haruspices** per Vexillatio are **not** a specialty-cohort stripe on the right pauldron; they wear *Librarius* order marks under the same grey–crimson base as other organic support. Their job is **Haruspicium Batavorum** — passive Warp telemetry and pattern translation — with **mandatory liaison** to **Nullity** for blank-adjacent tactics and sealed *vox* chains.
+
+**Nullity** carries the cobalt field; the haruspices **feed** it coordinates and hazard class, not the reverse. Full doctrine, **Blindgate**, triangulation with *Medicinae* / *Reclusiam*, and Wolf’s Curse interaction: [council-and-librarium.md](../personae-command-index/doctrine-and-organs/council-and-librarium.md). **Chief Librarian:** [dossier-otho.md](../personae-command-index/character-dossiers/council-orders/dossier-otho.md).

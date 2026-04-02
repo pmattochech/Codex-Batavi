@@ -27,7 +27,7 @@ The Triumvirate’s answer is the same core equation as everywhere else: **indis
 * **Gene-seed and phenotype:** **Russ-line–adjacent** visuals and **Wolf’s Curse** pathology trigger **Ordo Xenos** and **Ordo Hereticus** cross-alarms even when the mission is clean. Watch Apothecaries receive **only** what *Medicinae* clears under **tiered disclosure** — enough to keep the Marine alive, not enough to map **Strand α / β** on an open roster.  
 * ***Das Erbe* and metabolic extremes:** Watch command is wary of *Jagd* / *Ruhe* swings in kill-teams where **vox discipline** and **allied psychology** matter. **Drusus’s** office vets candidates on **endocrine stability windows**; a brother in a bad oscillation phase is **not** offered.  
 * **Non-*Codex* Chapter strength:** The Wall never argues the **5,000 ceiling** with Watch rosters. **Individuals** rotate; the Chapter does not parade its full grid as “available pool.”  
-* **Psykers:** **Batavian Cipher** Librarians are **rarely** seconded. When they are, **Nullity** liaison protocols and **Otho’s** seal apply; Watch **sanctioned psykers** are told what the mission requires, not the full *Librarium* architecture.
+* **Psykers:** **Batavian Haruspices** are **rarely** seconded. When they are, **Nullity** liaison protocols and **Otho’s** seal apply; Watch **sanctioned psykers** are told what the mission requires, not the full *Librarium* architecture.
 
 ---
 

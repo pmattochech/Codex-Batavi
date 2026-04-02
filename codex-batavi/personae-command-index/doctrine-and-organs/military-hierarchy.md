@@ -18,7 +18,7 @@ The *Cohors Batavorum* war machine is a mathematical aberration sustained by sur
 
 **The captain (macro-strategist):** Commander of a full sub-cohort (100 battle-brothers). Directly subordinate to the Legatus, the captain runs planetary operations theater. He orchestrates bombardment vectors, adamantium supply routes, and kill-zone overlap. His job is to ensure before the **Vexillatio** physically hits the threat, the enemy is already logistically mauled by trench positioning.
 
-**The Legatus / Elder-Master (system pillar):** Decentralized military governor and supreme authority over one of the Nine Phalanx’s nine worlds / super-systems (3×3 geographic block — do not confuse with the tactical **Vexillatio**). A Legatus commands one **Vexillatio** (indivisible force of 500 Batavi). He bears the ***Alabarda Vexillum***: a **halberd** (combat polearm — planted blade, strike head, hook geometry per *Armourium* pattern) rigged with the Chapter’s **standard vexillum** — the **same heraldic charges** as the formal seal ([`intro-and-heraldry.md`](../intro-and-heraldry/intro-and-heraldry.md) — Legatus battle standard), mounted in a **field-practical** format (typically **narrow vertical** panel or **pennant**, waves and gladius **abbreviated** so the wolf reads at distance; **furled** against the haft in void, storm, or heavy EM where cloth would lie). The haft integrates a **command relay** that pushes merged tactical *auspex* and *Medicinae* biological-failure telemetry to orange-lensed troop visors. *Strategium* does **not** file the banner as vanity: under *Analytical Silence* and broken vox, **visible Chapter mark + Legatus position** are **orientation instruments** — the five hundred close on a **single** spar and a **single** lattice ID. **Panel register:** **four** vexillum fields — chapter achievement, **large Roman** ordinal (I–IX), anchor/specialty icon, **greatest success**; ***Prima*** substitutes an **obligation / remembrance** fourth field (**debt the lattice carries**, not inherited personal guilt — induction and friction policy: [vexilla-by-vexillatio-design.md](../intro-and-heraldry/vexilla-by-vexillatio-design.md) §2.2). The Legatus is the cold, autonomous extension of Triumvirate will. Where he plants the blade, retreat is mathematically nullified.
+**The Legatus / Elder-Master (system pillar):** Decentralized military governor and supreme authority over one of the Nine Phalanx’s nine worlds / super-systems (3×3 geographic block — do not confuse with the tactical **Vexillatio**). A Legatus commands one **Vexillatio** (indivisible force of 500 Batavi). He bears the ***Alabarda Vexillum***: a **halberd** (combat polearm — planted blade, strike head, hook geometry per *Armourium* pattern) rigged with the Chapter’s **standard vexillum** — the **same heraldic charges** as the formal seal (`[intro-and-heraldry.md](../intro-and-heraldry/intro-and-heraldry.md)` — Legatus battle standard), mounted in a **field-practical** format (typically **narrow vertical** panel or **pennant**, waves and gladius **abbreviated** so the wolf reads at distance; **furled** against the haft in void, storm, or heavy EM where cloth would lie). The haft integrates a **command relay** that pushes merged tactical *auspex* and *Medicinae* biological-failure telemetry to orange-lensed troop visors. *Strategium* does **not** file the banner as vanity: under *Analytical Silence* and broken vox, **visible Chapter mark + Legatus position** are **orientation instruments** — the five hundred close on a **single** spar and a **single** lattice ID. **Panel register:** **four** vexillum fields — chapter achievement, **large Roman** ordinal (I–IX), anchor/specialty icon, **greatest success**; ***Prima*** substitutes an **obligation / remembrance** fourth field (**debt the lattice carries**, not inherited personal guilt — induction and friction policy: [vexilla-by-vexillatio-design.md](../intro-and-heraldry/vexilla-by-vexillatio-design.md) §2.2). The Legatus is the cold, autonomous extension of Triumvirate will. Where he plants the blade, retreat is mathematically nullified.
 
 **Deathwatch prerequisite (Chapter law):** Promulgated **after the fall of the First Legatus** — **Valerius** eliminated at **Malakor V (050.M42)** and struck from the rolls; the prerequisite was **not** in force during his tenure. *Strategium* codified the rule ***ca.* 051.M42** as part of the post-traitor command lattice. No Marine may be **nominated or confirmed** as **Legatus** unless *Medicinae* and *Strategium* certify **at least one full certified *Watch cycle*** (Deathwatch deployment from Chapter embarkation through **return audit** — definition and liaison seals: [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md)). **Pre-decree incumbency (*clausula retentionis antecedentis*):** Legati who already held the *Alabarda* when the **051.M42** seal took effect **retain** command **without** retroactive Watch service — *Strategium* refuses to **vacate** lawful governors to satisfy a **new** proof. **Replacement** appointments must satisfy the prerequisite. **Triumvirate unanimous waiver** may void the requirement for a named successor only in **documented extremis** (*Vermilion* entry required).
 
@@ -44,12 +44,14 @@ The Chapter’s **5,000** warriors are **every** Astartes with **gene-seed** and
 
 ### 4.2 The four orders (adapted *Codex* structure)
 
-| Order | Head | Role in the Chapter |
-|-------|------|-------------------------|
-| **Medicinae** | Chief Apothecary **Drusus** | Biological continuity, *Das Erbe*, clinical prisons, **Furor** triage. |
-| **Reclusiam** | Master Chaplain **Varro** | *Axiom of Reason* discipline, approved liturgy, useful terror, faith audited as data. |
-| **Librarium** | Chief Librarian **Otho** | **Batavian Cipher**, passive radar in the **Warp**, rites coded as algorithm; see [council-and-librarium.md](council-and-librarium.md). |
+
+| Order         | Head                           | Role in the Chapter                                                                                                                             |
+| ------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Medicinae** | Chief Apothecary **Drusus**    | Biological continuity, *Das Erbe*, clinical prisons, **Furor** triage.                                                                          |
+| **Reclusiam** | Master Chaplain **Varro**      | *Axiom of Reason* discipline, approved liturgy, useful terror, faith audited as data.                                                           |
+| **Librarium** | Chief Librarian **Otho**       | **Haruspicium Batavorum**; **Batavian Haruspices** as passive radar in the **Warp**, rites coded as algorithm; **Blindgate** for active mental defense; see [council-and-librarium.md](council-and-librarium.md), [dossier-otho.md](../character-dossiers/council-orders/dossier-otho.md).         |
 | **Armourium** | Master of the Forge **Kadmos** | *Machine Spirit*, forges, Techmarines, chassis and siege-architecture maintenance; see [council-and-librarium.md](council-and-librarium.md) §3. |
+
 
 **Extended Council:** Kadmos and Otho sit on the **Council** under the Triumvirate; Drusus and Varro **are** the Triumvirate — the four orders converge in the *Strategium*, not isolated silos.
 
@@ -59,44 +61,50 @@ Specialists from the four orders **do not** form a parallel block: they sit **in
 
 #### Vexillationes **I through IX** (each)
 
-| Component | Headcount | Notes |
-|-----------|-----------|--------|
-| Cohorts (Silence, Shadows, Stasis, Nullity) | **200** | 4 × 50 |
-| **Pure-line Batavi** (Suppression / Ruin / Siege) | **284** | Division edge; see [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md) §3 |
-| Vexillatio Apothecaries (*Medicinae*) | **4** | ~1 per 100 sub-cohort; *Zone Mortalis* / *Jagd* |
-| Campaign Techmarines (*Armourium*) | **4** | Armor, engineering *auspex*, light vehicles |
-| Adjutant Chaplains / lesser Judex (*Reclusiam*) | **3** | Anchoring as tactical variable |
-| **Batavian Cipher** Librarians (*Librarium*) | **5** | Passive radar; link to Nullity Cohort |
-| **Organic support (subtotal)** | **16** | |
-| **Total** | **500** | |
+
+| Component                                         | Headcount | Notes                                                                                                                        |
+| ------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Cohorts (Silence, Shadows, Stasis, Nullity)       | **200**   | 4 × 50                                                                                                                       |
+| **Pure-line Batavi** (Suppression / Ruin / Siege) | **284**   | Division edge; see [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md) §3 |
+| Vexillatio Apothecaries (*Medicinae*)             | **4**     | ~1 per 100 sub-cohort; *Zone Mortalis* / *Jagd*                                                                              |
+| Campaign Techmarines (*Armourium*)                | **4**     | Armor, engineering *auspex*, light vehicles                                                                                  |
+| Adjutant Chaplains / lesser Judex (*Reclusiam*)   | **3**     | Anchoring as tactical variable                                                                                               |
+| **Batavian Haruspices** (*Librarium*)      | **5**     | Passive radar; link to Nullity Cohort                                                                                        |
+| **Organic support (subtotal)**                    | **16**    |                                                                                                                              |
+| **Total**                                         | **500**   |                                                                                                                              |
+
 
 #### 10th Vexillatio (*anchor guard*)
 
-| Component | Headcount | Notes |
-|-----------|-----------|--------|
-| Cohorts (4 × 50) | **200** | Same as others |
-| Pure-line Batavi | **279** | Five slots ceded to supreme command (next row) |
-| Organic support | **16** | Same split 4 / 4 / 3 / 5 |
-| **Supreme posts** (field *Strategium*) | **5** | **Alaric** (Lord Castellan), **Drusus** (Chief Apothecary), **Varro** (Master Chaplain), **Kadmos** (Master of the Forge), **Otho** (Chief Librarian) |
-| **Total** | **500** | |
+
+| Component                              | Headcount | Notes                                                                                                                                                 |
+| -------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cohorts (4 × 50)                       | **200**   | Same as others                                                                                                                                        |
+| Pure-line Batavi                       | **279**   | Five slots ceded to supreme command (next row)                                                                                                        |
+| Organic support                        | **16**    | Same split 4 / 4 / 3 / 5                                                                                                                              |
+| **Supreme posts** (field *Strategium*) | **5**     | **Alaric** (Lord Castellan), **Drusus** (Chief Apothecary), **Varro** (Master Chaplain), **Kadmos** (Master of the Forge), **Otho** (Chief Librarian) |
+| **Total**                              | **500**   |                                                                                                                                                       |
+
 
 The five supreme posts **count** in the **5,000** and **replace** five slots that, in the other nine Vexillationes, would be pure-line Batavi — hence **279** not **284** in the Tenth. **No double counting.**
 
 #### Chapter aggregate
 
-| Aggregate | Calculation | Total |
-|-----------|-------------|-------|
-| Cohorts | 10 × 200 | **2,000** |
-| Pure line | 9 × 284 + 279 | **2,835** |
-| Organic support (4+4+3+5) | 10 × 16 | **160** |
-| Supreme command (field *Strategium*) | Tenth only | **5** |
-| **Total** | 2,000 + 2,835 + 160 + 5 | **5,000** |
+
+| Aggregate                            | Calculation             | Total     |
+| ------------------------------------ | ----------------------- | --------- |
+| Cohorts                              | 10 × 200                | **2,000** |
+| Pure line                            | 9 × 284 + 279           | **2,835** |
+| Organic support (4+4+3+5)            | 10 × 16                 | **160**   |
+| Supreme command (field *Strategium*) | Tenth only              | **5**     |
+| **Total**                            | 2,000 + 2,835 + 160 + 5 | **5,000** |
+
 
 The **five** supremes **do not** enter the “pure line” column; they close the ceiling at the end.
 
 *Mirror table:* [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md) §1.1.
 
-The **Legatus** (or Lord Castellan in the Tenth) deploys sub-cohorts across the **284**/**279**; **Otho** and **Kadmos** certify *cipher* and *Machine Spirit*; **Varro** and **Drusus** veto *Reclusiam* / *Medicinae* fitness.
+The **Legatus** (or Lord Castellan in the Tenth) deploys sub-cohorts across the **284**/**279**; **Otho** and **Kadmos** certify *Haruspicium* and *Machine Spirit*; **Varro** and **Drusus** veto *Reclusiam* / *Medicinae* fitness.
 
 ### 4.4 What the 5,000 excludes
 
@@ -104,8 +112,8 @@ The **Legatus** (or Lord Castellan in the Tenth) deploys sub-cohorts across the 
 
 ### 4.5 Operational adjustments (without changing the frozen table)
 
-* **Noviomagus ↔ line rotation** for Techmarines (the **4** per Vexillatio hold; *Strategium* rotates who fills each slot).  
-* **Formal liaison** between each **Batavian Cipher** Librarian and the **Nullity Cohort** (psychic *vox* channel and *blank* support protocol).  
-* **Decadal review** of *Standard Order of Battle* — only by unanimous Triumvirate decree (extreme friction war, irrecoverable losses, or structural psychic threat shift).
+- **Noviomagus ↔ line rotation** for Techmarines (the **4** per Vexillatio hold; *Strategium* rotates who fills each slot).  
+- **Formal liaison** between each **Batavian Haruspex** and the **Nullity Cohort** (psychic *vox* channel and *blank* support protocol).  
+- **Decadal review** of *Standard Order of Battle* — only by unanimous Triumvirate decree (extreme friction war, irrecoverable losses, or structural psychic threat shift).
 
 *Supporting docs:* [council-and-librarium.md](council-and-librarium.md), [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md) §1.1.

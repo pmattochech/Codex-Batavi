@@ -82,4 +82,4 @@ They had traded **the only coin that survives in the *Nihilus***: proof each kne
 
 ---
 
-*Cross-reference: [wolf-daughter.md](../07-iron-venus/wolf-daughter.md) — 565.M42, *The Wooden Sword* (second public encounter). [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) — Silent Vigil.*
+*Cross-reference: [wolf-daughter.md](../07-iron-venus/wolf-daughter.md) — 565.M42, *The Wooden Sword* (second public encounter). [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) — Silent Vigil. **VIII** *Octava* / void execution lens: [loken-funnel-octava.md](../14-vexillum-chronicles/loken-funnel-octava.md).*

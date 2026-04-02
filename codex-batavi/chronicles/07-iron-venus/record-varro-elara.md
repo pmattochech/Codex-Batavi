@@ -14,7 +14,7 @@ Before that night, Alaric’s spiritual silence was not absence of sound. It was
 
 The cry **violated** regularity before I saw his face.
 
-It was not heresy. It was not psychic in the sense the Cipher catalogs. It was **wrong frequency** in the bastion’s internal *vox* — a thin organic spike cutting acceptable noise of acid rain and servos. When the *Apothecarion* doors gave under the weight of his pressure, I already had my body turned to the opening by sentinel instinct; what entered was not a message. It was **weather**.
+It was not heresy. It was not psychic in the sense **Haruspicium Batavorum** catalogs. It was **wrong frequency** in the bastion’s internal *vox* — a thin organic spike cutting acceptable noise of acid rain and servos. When the *Apothecarion* doors gave under the weight of his pressure, I already had my body turned to the opening by sentinel instinct; what entered was not a message. It was **weather**.
 
 Alaric as a weather front. The basket against the breastplate — cruel fable proportions, wet cloth, life too small for the armor’s scale. Drusus asked for a report in the tone of one who still believed the world obeyed forms. The Castellan’s voice **trembled**. In that tremor I read more than in a hundred homilies: the Axiom had not vanished; it had been **pushed** to second place by something the *Codex* does not name.
 

@@ -66,6 +66,7 @@ The four quarters are summarized with canonical milestones in [foundation-war.md
 - [dragon-in-the-hearth-tushan.md](08-audit-diplomacy/dragon-in-the-hearth-tushan.md)
 - [gray-silence-of-fenris.md](08-audit-diplomacy/gray-silence-of-fenris.md)
 - [helbrecht-first-loken-passage.md](08-audit-diplomacy/helbrecht-first-loken-passage.md) ✅ — **278.M42 | Silent Vigil.** First Helbrecht–Alaric meeting at the Loken Passage; Templar crusade, xenos attack in the funnel, *We hold*; faith vs. geometry; echoes in [wolf-daughter.md](07-iron-venus/wolf-daughter.md) (565.M42).
+- [loken-funnel-octava.md](14-vexillum-chronicles/loken-funnel-octava.md) — **VIII** *Octava* / *Alabarda* field 4 lens: **Ivar Malevent**, funnel net, nested fire with Black Templars; companion to *helbrecht-first-loken-passage*.
 
 ## 09-frontier-life
 - [tithe-of-the-rejected.md](09-frontier-life/tithe-of-the-rejected.md) — includes ***The Tithe of the Rejected***
@@ -79,7 +80,7 @@ The four quarters are summarized with canonical milestones in [foundation-war.md
 
 **Milestone:** 568.M42 — The Battle of Luna Sigma.
 
-- [battle-of-sigma-moon.md](11-sigma-moon/battle-of-sigma-moon.md) ✅ — Alaric faces Angron in single combat. The Librarians’ signal, the Broken Cipher, the fifty-three-minute fight and the regenerative coma. The Integration Anomaly.
+- [battle-of-sigma-moon.md](11-sigma-moon/battle-of-sigma-moon.md) ✅ — Alaric faces Angron in single combat. The Librarians’ signal, the Broken Haruspicium, the fifty-three-minute fight and the regenerative coma. The Integration Anomaly.
 - [price-of-memory.md](11-sigma-moon/price-of-memory.md) ✅ — Elara and Tobias reach evacuated Luna Sigma. The Inquisitor who lies by omission. Alaric says only what he can. Elara archives everything for when she holds enough rank.
 
 ---
@@ -91,10 +92,31 @@ The four quarters are summarized with canonical milestones in [foundation-war.md
 **Theater:** **Vigilax Prime** — civilians under Castra Vetera mandate; Marines Malevolent in unauthorized operation / disproportionate purge.
 
 - [vigilax-incident.md](12-vigilax/vigilax-incident.md) ✅ — **Novel** prose (literary narrative, grimdark); same beats: Varro (*Crozius* Reeducation mode, two MM killed, banner destroyed); Marna-Down (III Vexillatio triangulation, Drusus, *Vermilion*); *Gray Gargoyle* with Inquisitor and Black Templars; insult to the Castellan (Valerius / *Lupercal*); Alaric kills the MM Chapter Master with his hands; lasting dread in the Vigil.
+- [vigilax-triangulation.md](14-vexillum-chronicles/vigilax-triangulation.md) — **III** *Tertia* / *Alabarda* field 4 lens: Legatus **Theron Brach**, Drusus’s secondary-focus theorem, Marna-Down tube run; companion to *vigilax-incident* (read both).
 
 Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in Vigilax public records). No Elara (not yet born).
 
 **Helbrecht / Loken Passage:** first meeting in the Vigil — [helbrecht-first-loken-passage.md](08-audit-diplomacy/helbrecht-first-loken-passage.md) (**278.M42**). Second meeting in [wolf-daughter.md](07-iron-venus/wolf-daughter.md) (565.M42, with Guilliman and Calgar).
+
+---
+
+## vexillum-register
+
+*Strategium* after-actions and memoranda for ***Alabarda* field 4** (plus *Prima* obligation and *Decima* justice register). Master table: [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3.
+
+- [INDEX.md](vexillum-register/INDEX.md) — list of all register files
+
+## 14-vexillum-chronicles
+
+Longform narrative for field-4 certified operations (each links back to its AAR).
+
+- [INDEX.md](14-vexillum-chronicles/INDEX.md) — chronicle list + pointers to **III** / **VIII** / Malakor-adjacent material
+- [ruhe-defense.md](14-vexillum-chronicles/ruhe-defense.md) — **IV** *Quarta*, **048.M42** Tyranid veil / shingle line; **Branimir Vorhalt** POV; Drusus coefficients; *Alabarda* **Ruhe** reference hold.
+- [gutgrind-descent.md](14-vexillum-chronicles/gutgrind-descent.md) — **V** *Quinta*, **403.M42** Selene-Black; **Armin Sturmwahl** vs Warboss Gutgrind; Ork scrap-spire; *Alabarda* field 4 (post–*Predator War* register).
+- [korvus-twin-breach.md](14-vexillum-chronicles/korvus-twin-breach.md) — **VI** *Sexta*, **289.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; *Alabarda* field 4.
+- [null-vent-covenant.md](14-vexillum-chronicles/null-vent-covenant.md) — **VII** *Septima*, **361.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; *Alabarda* field 4.
+- [silent-hours-marco-de-vetra.md](14-vexillum-chronicles/silent-hours-marco-de-vetra.md) — **IX** *Nona*, **498.M42** Marco de Vetra; **Cassian Vetra**; Shouter relay under EM storm; *Alabarda* field 4.
+- [decima-justice-vexillum.md](14-vexillum-chronicles/decima-justice-vexillum.md) — **X** *Decima* **justice vexillum** (not *Alabarda*); **051.M42** commission; **Kadmos**, **Varro**, first Ancient; **Markus Graile** echo; companion to [malakor-v.md](06-silent-vigil/malakor-v.md).
 
 ---
 

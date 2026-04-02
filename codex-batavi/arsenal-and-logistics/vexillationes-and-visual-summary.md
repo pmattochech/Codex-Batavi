@@ -34,7 +34,7 @@ The **500** ceiling breaks into **cohorts (200)**, **pure line**, **organic supp
 | Apothecaries | **4** | *Medicinae* |
 | Campaign Techmarines | **4** | *Armourium* |
 | Adjutant Chaplains | **3** | *Reclusiam* |
-| **Batavian Cipher** Librarians | **5** | *Librarium* |
+| **Batavian Haruspices** | **5** | *Librarium* |
 | **Support subtotal** | **16** | 4 + 4 + 3 + 5 |
 | **Total** | **500** | |
 

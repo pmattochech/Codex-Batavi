@@ -28,7 +28,7 @@
 | **VII** | *Septima* | Vitreus | **Lucan Phaetron** (Legatus) | [dossier-lucan-phaetron.md](../legati/dossier-lucan-phaetron.md) | Optional: marksman cell lead |
 | **VIII** | *Octava* | Great Reef / Maleventum | **Ivar Malevent** (Legatus) | [dossier-ivar-malevent.md](../legati/dossier-ivar-malevent.md) | Optional: boarding *decanus* |
 | **IX** | *Nona* | Marco de Vetra | **Cassian Vetra** (Legatus) | [dossier-cassian-vetra.md](../legati/dossier-cassian-vetra.md) | Optional: Shouter crew chief |
-| **X** | *Decima* | Anchor guard (mobile) | **Alaric, Drusus, Varro, Kadmos, Otho** (supremes) · **Markus Graile** (Captain, line / instructor face) | [dossier-alaric.md](../triumvirate/dossier-alaric.md) · [dossier-drusus.md](../triumvirate/dossier-drusus.md) · [dossier-varro.md](../triumvirate/dossier-varro.md) · [dossier-kadmos.md](../council-orders/dossier-kadmos.md) · [dossier-markus-graile.md](../cohorts-and-detachments/dossier-markus-graile.md) | Optional: additional *Decima* blade; **Otho** TBD |
+| **X** | *Decima* | Anchor guard (mobile) | **Alaric, Drusus, Varro, Kadmos, Otho** (supremes) · **Markus Graile** (Captain, line / instructor face) | [dossier-alaric.md](../triumvirate/dossier-alaric.md) · [dossier-drusus.md](../triumvirate/dossier-drusus.md) · [dossier-varro.md](../triumvirate/dossier-varro.md) · [dossier-kadmos.md](../council-orders/dossier-kadmos.md) · [dossier-otho.md](../council-orders/dossier-otho.md) · [dossier-markus-graile.md](../cohorts-and-detachments/dossier-markus-graile.md) | Optional: additional *Decima* blade |
 
 **Historical / expunged:** **Valerius** — First Legatus, **I** *Vexillatio*; [dossier-valerius.md](../expunged/dossier-valerius.md) — **do not** resurrect as active grid name without explicit plot.
 

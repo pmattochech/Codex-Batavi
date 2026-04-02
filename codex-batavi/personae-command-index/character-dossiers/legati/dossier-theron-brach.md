@@ -57,4 +57,4 @@
 
 POV for **industrial disaster**, **agri-moon horror**, and **thermal** set-pieces. Good contrast to measured-fire *Secunda*.
 
-**Cross-reference:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.3.
+**Cross-reference:** **350.M42 | Vigilax triangulation** — *Alabarda* field 4 (Legatus + Drusus, Marna-Down): [vigilax-triangulation.md](../../../chronicles/14-vexillum-chronicles/vigilax-triangulation.md); full incident: [vigilax-incident.md](../../../chronicles/12-vigilax/vigilax-incident.md) · [aar-vex-iii-vigilax-triangulation.md](../../../chronicles/vexillum-register/aar-vex-iii-vigilax-triangulation.md). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.3.

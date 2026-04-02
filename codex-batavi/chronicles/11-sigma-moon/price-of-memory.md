@@ -52,7 +52,7 @@ Luna Sigma was not built for visits.
 
 It was an industrial extraction moon — **adamantium**-class ore bodies, **plasteel** feedstock, and promethium fuel nodules pulled from rock guts by servitor shifts and Imperial penal-labor squads. No plazas, no markets, no children. Mining shafts, drain pipes, cargo hangars, hab-blocks with basement architecture. The sky — if the term applied — was Noviomagus’s gray belly, huge and low, filling half the horizon like a wall of petrified cloud.
 
-Functional population had been evacuated forty-eight hours before invasion on the Lord-Castellan’s order, when **Batavian Cipher** Librarians raised the alert. Those who remained could not be moved in time: lobotomized servitors without autonomous evacuation capacity, maximum-security cell prisoners protocol did not authorize freeing, essential techs keeping plasma reactors below collapse threshold.
+Functional population had been evacuated forty-eight hours before invasion on the Lord-Castellan’s order, when **Batavian Haruspices** raised the alert. Those who remained could not be moved in time: lobotomized servitors without autonomous evacuation capacity, maximum-security cell prisoners protocol did not authorize freeing, essential techs keeping plasma reactors below collapse threshold.
 
 Elara did not know how many had survived the battle.
 

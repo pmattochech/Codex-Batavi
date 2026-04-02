@@ -62,9 +62,9 @@
 
 **Sidearm:** **Bolt pistol**.
 
-**Attached *Librarium*:** Each Vexillatio embeds **Batavian Cipher** Librarians (five per 500); they are **not** cohort headcount but **liaison** to Nullity. Their weapons follow [council-and-librarium.md](../personae-command-index/doctrine-and-organs/council-and-librarium.md) and order policy — **force stave**, **bolt pistol**, etc.
+**Attached *Librarium*:** Each Vexillatio embeds **Batavian Haruspices** (five per 500); they are **not** cohort headcount but **liaison** to Nullity. Their weapons follow [council-and-librarium.md](../personae-command-index/doctrine-and-organs/council-and-librarium.md) and order policy — **force stave**, **bolt pistol**, etc.
 
-**Support / accessories:** **Psy-occlusion** warding kits, **cognitive hazard** beacons, vox codes tied to Nullity–Cipher protocols.
+**Support / accessories:** **Psy-occlusion** warding kits, **Blindgate** occlusion drills (active mental defense, where mandated by *Librarium*), **cognitive hazard** beacons, vox codes tied to Nullity–**Haruspicium** liaison protocols.
 
 ---
 
@@ -75,7 +75,7 @@
 | **Silence** | Compact bolt / carbine | Knife → gladius | Auspex, concussion, restraints |
 | **Shadows** | Suppressed / stalker bolt | Chainsword | Smoke, melta charge, grav-chute |
 | **Stasis** | Bolt rifle + shield | Gladius / maul | Scuta pins, extra mags |
-| **Nullity** | Bolt rifle (marksman variants possible) | Gladius + null rod cells | Cipher liaison, warding |
+| **Nullity** | Bolt rifle (marksman variants possible) | Gladius + null rod cells | Haruspex liaison, warding |
 
 **Vexillatio-level bias** (plasma-heavy VII, jump-heavy V, etc.) applies chiefly to **pure line** and **embarked heavy** pools — [vexillatio-operational-armory.md](vexillatio-operational-armory.md).
 

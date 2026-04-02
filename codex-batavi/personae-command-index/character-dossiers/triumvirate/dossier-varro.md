@@ -5,6 +5,8 @@
 **Archetype:** Psychological terror / pragmatic headsman  
 **Estimated age:** ~580 Terran years (Foundation War veteran).
 
+**Visual reference (working — AI facsimile, not a geometry lock):** [`varro-chaplain-judex.png`](../../../lore-images/varro-chaplain-judex.png) — judgment chassis, cowled *Wolf-Skull Helmet*, stage markings; dossier §2–§3 remain authoritative for mechanical detail (*e.g.* mandible protocol).
+
 ## 1\. PSYCHOLOGICAL AND COMMAND PROFILE
 
 While Chaplains of other Astartes Chapters are zealots roaring hate-chants and inspiring troops through religious frenzy, Varro is exact opposite. He is silence before sentence.

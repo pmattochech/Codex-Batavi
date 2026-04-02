@@ -32,6 +32,7 @@
 ### council-orders
 
 - [dossier-kadmos.md](character-dossiers/council-orders/dossier-kadmos.md)
+- [dossier-otho.md](character-dossiers/council-orders/dossier-otho.md) — Chief Librarian Otho (Blood Augur); *Librarium*, Haruspicium Batavorum, Blindgate
 
 ### legati
 
@@ -49,6 +50,7 @@
 - [dossier-branimir.md](character-dossiers/cohorts-and-detachments/dossier-branimir.md) — Silence Cohort (*Decanus Primus* Branimir Vorhalt)
 - [dossier-soren-riis.md](character-dossiers/cohorts-and-detachments/dossier-soren-riis.md) — Apothecary; Liaison-Praefect (Deathwatch / *Medicinae*)
 - [dossier-markus-graile.md](character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) — Captain, 10th *Decima* (anchor guard / instructor face)
+- [dossier-valens-ritter.md](character-dossiers/cohorts-and-detachments/dossier-valens-ritter.md) — **Valens Ritter** — Silence + Shadows dual-path (folklore: *Silent Shadow* / *Two-Path Wolf*); ledger *Prima*, spend *Octava*
 
 ### supporting
 

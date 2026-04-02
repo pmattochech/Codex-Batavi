@@ -9,6 +9,8 @@
 **Origin:** Noviomagus Prime (civilized forge world).  
 **Estimated age:** ~350–400 Terran years (secular veteran).
 
+**Visual reference (working — AI facsimile, not a geometry lock):** [`kadmos-master-of-the-forge.png`](../../../lore-images/kadmos-master-of-the-forge.png) — Mark III bulk, bronze arm, mecadendrites; dossier §1 for cybernetics detail.
+
 ---
 
 ## 1\. \[WIKI\] APPEARANCE AND PHYSIOLOGY

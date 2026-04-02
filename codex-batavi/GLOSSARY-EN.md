@@ -36,8 +36,14 @@ Use when writing or editing English prose. Extend as you go.
 | **Strand α / Strand β** | Sealed *Apothecarion* shorthand for the two components of chimeric gene-architecture — [`progenitor-classification.md`](personae-command-index/doctrine-and-organs/progenitor-classification.md) |
 | Martha’s kitchen | Human anchor location |
 | **Industrial grey** / **crimson** (prose) | Generic plate wording. Citadel mapping: *Mechanicus Standard Grey*, *Mephiston Red* — [**visual-identity-paint-guide.md**](visual-identity-paint-guide.md). |
-| Varro (visual) | Tie to **wolf-skull helm**; **Judex** role |
-| **Batavian Cipher** | Librarian psychic taxonomy / geometric grid |
+| Varro (visual) | **Wolf-skull helm** (cowled), **Judex** role — working art ref [`lore-images/varro-chaplain-judex.png`](lore-images/varro-chaplain-judex.png) ([`visual-identity-paint-guide.md`](visual-identity-paint-guide.md) § Reference art) |
+| Drusus (visual) | **Surgical white** arm + helm on **grey** chassis — [`lore-images/drusus-chief-apothecary.png`](lore-images/drusus-chief-apothecary.png) (same §) |
+| Otho (visual) | **Librarius** grey–crimson, third-eye cluster — [`lore-images/otho-chief-librarian.png`](lore-images/otho-chief-librarian.png) (same §) |
+| Kadmos (visual) | **Mark III**, **bronze arm**, mecadendrites — [`lore-images/kadmos-master-of-the-forge.png`](lore-images/kadmos-master-of-the-forge.png) (same §) |
+| **Haruspicium Batavorum** | Librarian doctrine: geometric “reading” of the Warp as passive telemetry (rites framed as algorithm) |
+| **Batavian Haruspex** / **Batavian Haruspices** | Embedded *Librarium* psykers trained in Haruspicium Batavorum (five per Vexillatio) |
+| **Blindgate** | *Librarium* active protocol against directed mental attack (illusion, compulsion, intrusion); complements passive Haruspicium — see [`council-and-librarium.md`](personae-command-index/doctrine-and-organs/council-and-librarium.md) §2.2 |
+| **Broken Haruspicium** | Archival term for collapse of Haruspicium Batavorum when the categorization grid is consumed or voided by the phenomenon under read — first documented at scale **568.M42**, Battle of Luna Sigma ([`battle-of-sigma-moon.md`](chronicles/11-sigma-moon/battle-of-sigma-moon.md)) |
 | Warp (EN) | **Warp** / **Immaterium** in prose |
 | Gate / Outer Gate | Informal symbolic frame; disambiguate from ***Porta Nihili*** |
 | *Nihili Protocol* | Final containment: Blackstone Pylon cascade; Tyvar’s activation judgment |

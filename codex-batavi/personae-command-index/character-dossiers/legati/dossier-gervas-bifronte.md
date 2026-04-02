@@ -41,7 +41,8 @@
 ## 4\. History (in-universe — chronology access)
 
 * **Watch proof:** **Certified *Watch cycle*** completed before *Sexta* confirmation — includes at least one **void-station** siege rotation (file sealed).  
-* **Rise:** **Captain** during **dual-anchor** fortification crisis where both worlds’ skyhooks had to hold while a third failed; *Strategium* read his after-action as **textbook** *Friction Geometry* for gulf warfare.
+* **Rise:** **Captain** during **dual-anchor** fortification crisis where both worlds’ skyhooks had to hold while a third failed; *Strategium* read his after-action as **textbook** *Friction Geometry* for gulf warfare.  
+* **289.M42 | Korvus twin breach:** Led **VI** *Sexta* simultaneous assault on Korvus-A vault and Korvus-B spine within one Strategium tick; tether preserved; 44 battle-brothers killed or incapacitated; certified *Alabarda* **field 4**. Narrative: [korvus-twin-breach.md](../../../chronicles/14-vexillum-chronicles/korvus-twin-breach.md) · [aar-vex-vi-korvus-breach.md](../../../chronicles/vexillum-register/aar-vex-vi-korvus-breach.md).
 
 ---
 
@@ -57,4 +58,4 @@
 
 POV for **siege**, **vault horror**, **Gravis meatgrinder**, and **stasis-adjacent** dread. Complements *Quarta* high-G static war (Branimir’s turf) at **macro** Legatus scale.
 
-**Cross-reference:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.6.
+**Cross-reference:** [korvus-twin-breach.md](../../../chronicles/14-vexillum-chronicles/korvus-twin-breach.md) (**289.M42**, *Sexta* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.6.

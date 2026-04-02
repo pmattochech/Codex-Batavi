@@ -8,15 +8,17 @@
 
 The first to feel it was Librarian Henricus.
 
-He was on watch at the **Warp post** — what the Batavi informally call *somewhere*, the gaze that goes beyond the physical plane — when the **Batavian Cipher** began to fail.
+He was on watch at the **Warp post** — what the Batavi informally call *somewhere*, the gaze that goes beyond the physical plane — when **Haruspicium Batavorum** began to fail.
 
-Not dramatically. The **Batavian Cipher** does not fail like a broken machine; it fails like a language losing meaning. Henricus was cataloging standard psychic traffic on the border — fragmented echoes of the Cicatrix Maledictum, threads of residual fear from the dead of the Great Heresy, the low steady pressure of the Immaterium against Blackstone Pylons — when the patterns stopped being patterns.
+Not dramatically. **Haruspicium Batavorum** does not fail like a broken machine; it fails like a language losing meaning. Henricus was cataloging standard psychic traffic on the border — fragmented echoes of the Cicatrix Maledictum, threads of residual fear from the dead of the Great Heresy, the low steady pressure of the Immaterium against Blackstone Pylons — when the patterns stopped being patterns.
 
-He forced the Geometric Grid. The **Batavian Cipher** imposes structure on chaos: hate becomes coefficient, horror becomes variable, hunger becomes frequency spike. He had cataloged Ork *Waaaghs!* as gusts of disordered data. He had cataloged Tyranid Shadow in the Warp as silence that swallows signal. He knew how to translate.
+He forced the Geometric Grid. **Haruspicium Batavorum** imposes structure on chaos: hate becomes coefficient, horror becomes variable, hunger becomes frequency spike. He had cataloged Ork *Waaaghs!* as gusts of disordered data. He had cataloged Tyranid Shadow in the Warp as silence that swallows signal. He knew how to translate.
 
 This time, the Grid touched something and the Grid **broke**.
 
 Not the instruments — the mental structure. The geometry Henricus used to hold chaos far enough to analyze simply ceased to exist as a concept for 0.4 seconds. On his helm’s biometric logs, those 0.4 seconds appear as collapse of all metrics at once, followed by panicked reactivation.
+
+The *Librarium* would later archive that class of failure as **Broken Haruspicium**: not a broken cogitator stack, but a broken *reading* — the instant **Haruspicium Batavorum** meets a phenomenon that unmakes the category system itself.
 
 He bled from the nose inside the helm and transmitted a single word to Otho:
 
@@ -26,13 +28,13 @@ He bled from the nose inside the helm and transmitted a single word to Otho:
 
 Otho heard and knew. In four decades as Chief Librarian he had classified dozens of threats in the Warp. He had felt the cold predation of a Lord of Change on his perimeter. He had touched, with the Grid’s tip, a Bloodthirster’s thirst in orbit. He knew how entities that size “know.”
 
-*Apex* was not a classification in the **Batavian Cipher**. It was the word the Librarians had reserved, never needing to use it, for the event the protocol had no category for.
+*Apex* was not a classification in **Haruspicium Batavorum**. It was the word the Librarians had reserved, never needing to use it, for the event the protocol had no category for.
 
 Otho went at once to Alaric’s Strategium.
 
 He did not say “Daemon Primarch.” He said what the data said:
 
-— There is something in the Warp that dissolves the **Batavian Cipher** by the mere fact of existing. No identifiable signal. No confirmed direction. Distance not measurable by available instruments. — A pause. — The data suggest vertical-axis scale. It is not a cataloged threat.
+— There is something in the Warp that dissolves **Haruspicium Batavorum** by the mere fact of existing. No identifiable signal. No confirmed direction. Distance not measurable by available instruments. — A pause. — The data suggest vertical-axis scale. It is not a cataloged threat.
 
 Alaric stood still for two seconds. For those who knew him, two seconds of total immobility meant the equation had changed order of magnitude.
 
@@ -44,15 +46,17 @@ Alaric stood still for two seconds. For those who knew him, two seconds of total
 
 ---
 
-## II. THE BROKEN CIPHER (Addendum — *Librarium* perspective)
+## II. THE BROKEN HARUSPICIUM (Addendum — *Librarium* perspective)
 
 *Clinical log of Chief Librarian Otho — Cinnabar Archive — 568.M42*
 
-In the 72 hours between Henricus’s warning and Angron’s manifestation on Luna Sigma, I monitored the forty-three **Batavian Cipher** Librarians distributed across the Vexillationes at maximum alert. What follows is an honest report of what I observed in the Warp — and what the Warp did back.
+What follows is the body of evidence behind the archive term **Broken Haruspicium** — from Henricus’s first fracture through the shutdown order.
+
+In the 72 hours between Henricus’s warning and Angron’s manifestation on Luna Sigma, I monitored the forty-three **Batavian Haruspices** distributed across the Vexillationes at maximum alert. What follows is an honest report of what I observed in the Warp — and what the Warp did back.
 
 The presence approaching emitted no signal. It emitted **normalized absence of signal**. Where I expected background noise — the constant echo of entropy, fractured psychic traffic on the border — there was growing suppression, as if the whole Warp spectrum began to recede from the source. An expanding aura vacuum.
 
-Librarians trained to classify threats by pattern found no pattern. They found the negative of a pattern: the space where a pattern should exist and had been consumed. The **Batavian Cipher**, which turns the irrational into algorithm, has no category for the irrational that consumes the instrument of categorization itself.
+Librarians trained to classify threats by pattern found no pattern. They found the negative of a pattern: the space where a pattern should exist and had been consumed. **Haruspicium Batavorum**, which turns the irrational into algorithm, has no category for the irrational that consumes the instrument of categorization itself.
 
 **Biological effects were immediate and scaled nonlinearly:**
 

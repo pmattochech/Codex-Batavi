@@ -41,7 +41,8 @@
 ## 4\. History (in-universe — chronology access)
 
 * **Watch proof:** **Certified *Watch cycle*** on file before *Quinta* *Alabarda*.  
-* **Rise:** Jump-qualified **captain** with documented **zero** unrecoverable pack failures across three gas-giant moon campaigns; promoted when Aethelgard’s **assault throughput** became *Strategium* priority.
+* **Rise:** Jump-qualified **captain** with documented **zero** unrecoverable pack failures across three gas-giant moon campaigns; promoted when Aethelgard’s **assault throughput** became *Strategium* priority.  
+* **403.M42 | Gutgrind Descent:** Led **V** *Quinta* jump clearance of Ork scrap-spire on Selene-Black; Warboss **Gutgrind** killed; certified *Alabarda* **field 4** (Foundation *Predator War* **not** used for fourth panel). Narrative: [gutgrind-descent.md](../../../chronicles/14-vexillum-chronicles/gutgrind-descent.md).
 
 ---
 
@@ -57,4 +58,4 @@
 
 POV for **drop assault**, **gas-giant moons**, and **speed-vs-mass** Friction Geometry. Natural foil to siege-heavy *Sexta*.
 
-**Cross-reference:** [master-chronology.md](../../events-and-chronologies/master-chronology.md) §I (Aethelgard liberation); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.5.
+**Cross-reference:** [master-chronology.md](../../events-and-chronologies/master-chronology.md) §I (Foundation *Predator War* on Aethelgard — Chapter crucible, **not** *Alabarda* field 4); §IV **403.M42 Gutgrind Descent** (Orks, Selene-Black — certified field 4 for *Quinta*); [gutgrind-descent.md](../../../chronicles/14-vexillum-chronicles/gutgrind-descent.md) · [aar-vex-v-gutgrind-descent.md](../../../chronicles/vexillum-register/aar-vex-v-gutgrind-descent.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.5.

@@ -58,4 +58,4 @@
 
 POV for **Tenth Vexillatio line Marine** perspective — **not** Alaric, **not** a Legatus — useful for **instructor fics**, **anchor-guard** grind, and **Watch-trial** aftermath humanity.
 
-**Cross-reference:** [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3 (10th Vexillatio, entry requirements); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.10.
+**Cross-reference:** *Justice vexillum* narrative (051.M42 commission; Graile echo): [decima-justice-vexillum.md](../../../chronicles/14-vexillum-chronicles/decima-justice-vexillum.md). [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3 (10th Vexillatio, entry requirements); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.10.

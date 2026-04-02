@@ -57,4 +57,4 @@
 
 POV for **hive legality**, **collateral dread**, and **Castra-Vetera** corridor thrillers. Contrast to Branimir: Kessler is **macro** governor, not *decanus* street hunter.
 
-**Cross-reference:** [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.2.
+**Cross-reference:** **192.M42 | Hive Dominus** — *Alabarda* field 4 certified compliance: [hive-dominus-compliance.md](../../../chronicles/14-vexillum-chronicles/hive-dominus-compliance.md) · [aar-vex-ii-hive-dominus-compliance.md](../../../chronicles/vexillum-register/aar-vex-ii-hive-dominus-compliance.md). [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.2.

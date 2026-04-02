@@ -5,6 +5,8 @@
 **Archetype:** Clinical pragmatism / trench medic.  
 **Estimated age:** ~580 Terran years (Foundation War veteran).
 
+**Visual reference (working — AI facsimile, not a geometry lock):** [`drusus-chief-apothecary.png`](../../../lore-images/drusus-chief-apothecary.png) — hybrid grey/white chassis, surgical helm; dossier §2–§3 remain authoritative (*Narthecium*, feeding plate).
+
 ## 1\. PSYCHOLOGICAL AND OPERATIONAL PROFILE (MEAT MATH)
 
 While most Adeptus Astartes Apothecaries nurture deep brotherhood with patients, Drusus reflects Noviomagus Prime’s sterile industrial environment. He does not see “wounded brothers”; he sees “biological assets” and “viability margins.”
