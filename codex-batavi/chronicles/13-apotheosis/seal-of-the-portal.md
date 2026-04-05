@@ -1,6 +1,6 @@
 # THE SEAL ON THE GATE
 
-*post-575.M42 — Noviomagus Prime, Castra Vetera Subsector*
+*post-175.M42 — Noviomagus Prime, Castra Vetera Subsector*
 
 ---
 
@@ -40,7 +40,7 @@ Tyvar remained on the Denial Protocol — never sat, never ate, never removed th
 
 The difference was internal and quantifiable by no instrument available on Noviomagus.
 
-Before the cylinder, Tyvar had carried responsibility to eliminate a specific organism if conditions were met. It was a task with defined scale: one target, one method, one binary decision. Five hundred twenty-eight years of practice made the equation clear, if not simple.
+Before the cylinder, Tyvar had carried responsibility to eliminate a specific organism if conditions were met. It was a task with defined scale: one target, one method, one binary decision. **One hundred twenty-eight years** of practice on this frontier made the equation clear, if not simple.
 
 After the cylinder, the equation changed category.
 
@@ -66,7 +66,7 @@ Not the mechanism — he had understood that from day one. Not the scale — he 
 
 The *Nihili Protocol* was not a destruction instrument. It was a closure instrument.
 
-The war the *Cohors Batavorum* had fought for five hundred sixty years was, in essence, containment of pressure the *Nihilus* exerted continuously on that corridor. The Batavi existed to hold the wall. The wall existed so the Loken Passage stayed viable. The Passage stayed viable so the Imperium had access to that sector. It was a chain of purpose, each link sustained by the one before.
+The war the *Cohors Batavorum* had fought for **more than a century and a half** since the **Aethelgard founding** was, in essence, containment of pressure the *Nihilus* exerted continuously on that corridor. The Batavi existed to hold the wall. The wall existed so the Loken Passage stayed viable. The Passage stayed viable so the Imperium had access to that sector. It was a chain of purpose, each link sustained by the one before.
 
 If the central link failed — if the *Cohors Batavorum* were compromised irreversibly, if Alaric fell and **Versibars** left the Black Cells without containment — the chain would not break quietly. Pressure accumulated behind the wall would find the fault and punch through. What had been corridor would become opening. What had been gate would become breach.
 
@@ -84,7 +84,7 @@ The logic was impeccable. It was also the heaviest thing he had carried in ten t
 
 It happened on the forty-eighth day after Trajann’s departure. Late — the hour when Noviomagus corridors emptied for the second watch rest shift and industrial noise fell to minimum operation.
 
-Alaric stood before the *Strategium* window, watching the chimneys. A posture Tyvar had logged six thousand three hundred sixteen times in five hundred twenty-eight years — the Castellan processing something he would not verbalize.
+Alaric stood before the *Strategium* window, watching the chimneys. A posture Tyvar had logged six thousand three hundred sixteen times in **one hundred twenty-eight years** — the Castellan processing something he would not verbalize.
 
 Tyvar was in standard position, four meters to the right.
 

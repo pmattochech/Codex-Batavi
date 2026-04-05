@@ -95,20 +95,20 @@ Alaric removes plaques from each Versibar he executes — by Testament ritual or
 
 Chapter veterans recognize that sound. Neophytes learn it in the first month of formation. When Alaric walks Noviomagus corridors and metal hits metal in that rhythm, every nearby Batavi knows what is being carried — and how much has already been lost.
 
-### Current count (580.M42)
+### Current count (180.M42)
 
 **743 pairs** — 1,486 individual plaques. Roughly 97 kg of iron and ceramite pressed under Viggo’s pelt.
 
 Volume splits across two periods with radically different rates:
 
 * **Foundation War (015–045.M42):** ~650 pairs. Most founding marines died as Versibar over thirty years of conflict. Chimeric gene-seed was new and untested; *Axiom of Reason* did not yet exist as doctrine; Wolf’s Curse was incomprehensible at first. Execratio rate was catastrophic. Those who survived — minds intact through decades of war without doctrinal tools — became first Legati and founding elite.
-* **Post-foundation (045–580.M42):** ~93 pairs. With *Axiom of Reason* formalized, *Das Erbe Codex* cataloged by Drusus, and Exanimus Testament mandatory, rate dropped sharply. Over 535 years with a 5,000-marine Chapter, one Versibar every 5–6 years is the average of functional doctrine under continuous war.
+* **Post-foundation (045–180.M42):** ~93 pairs. With *Axiom of Reason* formalized, *Das Erbe Codex* cataloged by Drusus, and Exanimus Testament mandatory, rate dropped sharply. Over 535 years with a 5,000-marine Chapter, one Versibar every 5–6 years is the average of functional doctrine under continuous war.
 
 The difference between the two periods is not only numeric. It is the physical-weight record of the cost of learning to be what Batavi are.
 
 Haldor is the most recent pair — added after Incus-Gravis. The root plaque carries the name he had before Noviomagus. The iron plaque carries the name the Chapter gave him.
 
-None of the 1,486 plaques bears Alaric’s name. He does not perform this rite for himself. There is a lone plaque on the cord — no pair, inserted among Foundation War pairs — that Drusus added without explanation after the 031.M42 Execratio. It is the only piece on the cord that does not follow the pair system. Alaric never asked what is carved on it. Drusus never explained.
+None of the 1,486 plaques bears Alaric’s name. He does not perform this rite for himself. There is a lone plaque on the cord — no pair, inserted among Foundation War pairs — that Drusus added without explanation after Alaric’s crucible Execratio (**~CV y19**; Imperial filings often cite **~031.M42** *approx*). It is the only piece on the cord that does not follow the pair system. Alaric never asked what is carved on it. Drusus never explained.
 
 ---
 

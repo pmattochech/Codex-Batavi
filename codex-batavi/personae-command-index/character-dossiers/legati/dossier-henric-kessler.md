@@ -41,7 +41,7 @@
 ## 4\. History (in-universe — chronology access)
 
 * **Watch proof:** Certified **full *Watch cycle*** prior to **Legatus** confirmation (post-**051.M42** lattice).  
-* **Rise:** Rose through **captaincy** in corridor wars where **one** bad ricochet would have collapsed a tithe treaty; *Strategium* selected him when Castra-Vetera Prime needed a **governor** who could speak **Arbites** and **Astartes** in the same breath.
+* **Rise:** Rose through **captaincy** in corridor wars where **one** mistranslated **warp arrival** or **chronology scandal** would have collapsed a tithe treaty; *Strategium* selected him when Castra-Vetera Prime needed a **governor** who could speak **Arbites** and **Astartes** in the same breath.
 
 ---
 
@@ -57,4 +57,4 @@
 
 POV for **hive legality**, **collateral dread**, and **Castra-Vetera** corridor thrillers. Contrast to Branimir: Kessler is **macro** governor, not *decanus* street hunter.
 
-**Cross-reference:** **192.M42 | Hive Dominus** — *Alabarda* field 4 certified compliance: [hive-dominus-compliance.md](../../../chronicles/14-vexillum-chronicles/hive-dominus-compliance.md) · [aar-vex-ii-hive-dominus-compliance.md](../../../chronicles/vexillum-register/aar-vex-ii-hive-dominus-compliance.md). [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.2.
+**Cross-reference:** **078.M42 | Hive Dominus** — *Alabarda* field 4 certified compliance: [hive-dominus-compliance.md](../../../chronicles/14-vexillum-chronicles/hive-dominus-compliance.md) · [aar-vex-ii-hive-dominus-compliance.md](../../../chronicles/vexillum-register/aar-vex-ii-hive-dominus-compliance.md). [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.2.

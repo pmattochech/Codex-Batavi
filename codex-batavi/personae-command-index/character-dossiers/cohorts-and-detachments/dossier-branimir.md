@@ -8,7 +8,7 @@
 **Chapter:** *Cohors Batavorum*.  
 **Operational home Vexillatio:** 4th Vexillatio (*Quarta* — unit recorded as hardened in Noviomagus Secundus *Ruhe*; Branimir cross-trained into Silence Cohort after rebound).  
 **Origin:** *Castrum Ferrum*, mid levels (son of triple-shift worker and line inspector).  
-**Apparent service age:** ~180–220 Terran years (estimate; immune to ricochet).
+**Apparent service age:** ~180–220 Terran years (estimate; **frontier-native** — **CV** annals; no **exit-ricochet** service fiction).
 
 ---
 

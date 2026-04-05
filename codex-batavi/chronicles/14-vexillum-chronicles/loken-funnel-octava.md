@@ -2,7 +2,7 @@
 
 **Classification:** Foundation Archive — Chapter tactical narrative (VIII *Octava* / *Alabarda* field 4 register lens)  
 **Companion:** Castellan–Helbrecht meeting, faith audit, Alaric’s void intercept — [helbrecht-first-loken-passage.md](../08-audit-diplomacy/helbrecht-first-loken-passage.md). Read both; they interlock.  
-**When:** 278.M42 (Silent Vigil)  
+**When:** 096.M42 (Silent Vigil)  
 **Where:** **Loken Passage** choke — Castra Vetera boundary funnel; **VIII** *Octava* anchor bastion and hull theater  
 **Who:** **VIII** *Octava* under **Legatus Ivar Malevent**; Black Templars crusade fist (allied); Lord Castellan **Alaric** (command *Strategium* layer — companion text)
 

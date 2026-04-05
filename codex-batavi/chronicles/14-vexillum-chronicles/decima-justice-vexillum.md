@@ -42,7 +42,7 @@ Kadmos signed heat tolerances for battle smokes. Varro signed **oath alignment**
 
 The brother chosen to drill carry was not yet **Markus Graile** — decades would pass before that captain’s file sat thick enough for *Decima* line face. The first name on the bearer log is **redacted** in public annex; corridor myth calls him only **the First Ancient**, which is both honor and **burden**.
 
-He lifted the pole in the annex and felt weight unrelated to mass: **five hundred** pairs on the cord elsewhere in the fleet memory, **not** five hundred and one.
+He lifted the pole in the annex and felt weight unrelated to mass: **three hundred** pairs on the cord from **Malakor** elsewhere in the fleet memory — **not** three hundred and one.
 
 He did not ask why the count mattered. *Decima* learned early not to ask certain questions aloud.
 

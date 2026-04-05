@@ -1,7 +1,7 @@
 # AFTER-ACTION REPORT — Hive Dominus compliance
 
 **Operation:** HIVE DOMINUS (Castra-Vetera Prime)  
-**Date:** 192.M42  
+**Date:** 078.M42  
 **Unit:** **II** *Secunda* (full Vexillatio, Legatus command)  
 **Classification:** Chapter / *Strategium* — compliance under Castra Vetera mandate
 

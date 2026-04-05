@@ -4,7 +4,7 @@
 
 **Author:** Lord Castellan Alaric von Helis.  
 **Classification:** *Magenta* / Triumvirate access only.  
-**File status:** Revised in 560.M42 (The Decade of the Sun).
+**File status:** Revised in 160.M42 (The Decade of the Sun).
 
 ## \[ORIGINAL FILE\]
 
@@ -30,7 +30,7 @@ I look at the stars of the Imperium and see only endless maintenance spreadsheet
 
 ## \[REVISION ADDENDA\]
 
-**(Insertion date: 560.M42 – The Era of the Root)** *Calligraphic notes written directly on the original scroll by Lord Castellan Alaric von Helis, ten years after meeting Elara Solis on the Castra Vetera parapet.*
+**(Insertion date: 160.M42 – The Era of the Root)** *Calligraphic notes written directly on the original scroll by Lord Castellan Alaric von Helis, ten years after meeting Elara Solis on the Castra Vetera parapet.*
 
 **ADDENDUM A.1: THE INVENTORY FALLACY (Command correction)** In the original entry above, I described Valerius’s death as “inventory rectification.” Rereading those words today, with a clear mind, I see the grotesque lie I told myself so I would not shatter. It was not tactical bureaucracy; it was poisoned grief.
 

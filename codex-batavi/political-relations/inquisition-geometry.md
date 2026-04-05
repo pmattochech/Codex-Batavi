@@ -2,7 +2,7 @@
 
 Where other Astartes Chapters answer the Inquisition with wounded pride or blind submission, the *Cohors Batavorum* treats Inquisitors as risk variables in a survival equation. The Chapter’s relation to the Holy Ordos is defined by cold bureaucratic war, mathematical containment limits, and absolute refusal to tolerate wasted human life.
 
-The lethal nature of *Das Erbe* and **Versibar** mutation always kept the Chapter in puritan crosshairs. During the Silent Vigil (050.M42 – 550.M42), Inquisitor Vane repeatedly tried to audit and annihilate the Batavi for genetic heresy. He failed because Alaric von Helis armored the Chapter with pure mathematics. Through the **super-tithe** (*Exactus Extremis*), Noviomagus voluntarily delivers 15% more war materiel than required. The Imperial Administratum calculated that snuffing Noviomagus would collapse sector logistics, forcing the Inquisition to stand down. The Chapter buys its immunity with industrial efficiency.
+The lethal nature of *Das Erbe* and **Versibar** mutation always kept the Chapter in puritan crosshairs. During the Silent Vigil (050.M42 – 150.M42), Inquisitor Vane repeatedly tried to audit and annihilate the Batavi for genetic heresy. He failed because Alaric von Helis armored the Chapter with pure mathematics. Through the **super-tithe** (*Exactus Extremis*), Noviomagus voluntarily delivers 15% more war materiel than required. The Imperial Administratum calculated that snuffing Noviomagus would collapse sector logistics, forcing the Inquisition to stand down. The Chapter buys its immunity with industrial efficiency.
 
 To disarm Inquisitorial paranoia about isolationism, Alaric drafted three protocols that impose consented limits on the Chapter itself:
 

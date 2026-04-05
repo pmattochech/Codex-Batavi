@@ -1,7 +1,7 @@
 # [CHRONICLE] KORVUS — THE SINGLE TICK
 
 **Classification:** Chapter tactical narrative (public register abridgment: [aar-vex-vi-korvus-breach.md](../vexillum-register/aar-vex-vi-korvus-breach.md))  
-**When:** 289.M42 (Silent Vigil)  
+**When:** 098.M42 (Silent Vigil)  
 **Where:** Bifrons-Ferrum **gulf** — **Korvus-A** (outer macro-vault), **Korvus-B** (inner spine), **tether** hab  
 **Who:** **VI** *Sexta* under **Legatus Gervas Bifronte**; heretic Astartes warband — **unmarked** plate, siege doctrine (public register: **no** gene-line titling)
 

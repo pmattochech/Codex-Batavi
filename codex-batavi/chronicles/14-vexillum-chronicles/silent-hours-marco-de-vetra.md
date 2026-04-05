@@ -1,7 +1,7 @@
 # [CHRONICLE] SILENT HOURS — THE SHOUTER UNBROKEN
 
 **Classification:** Chapter tactical narrative (public register abridgment: [aar-vex-ix-silent-hours.md](../vexillum-register/aar-vex-ix-silent-hours.md))  
-**When:** 498.M42 (Silent Vigil)  
+**When:** 140.M42 (Silent Vigil)  
 **Where:** **Marco de Vetra** — **Vacuum Shouter** relay, laser farm complex, reactor vault spines  
 **Who:** **IX** *Nona* under **Legatus Cassian Vetra**
 

@@ -1,11 +1,11 @@
 # [CHRONICLE] GUTGRIND DESCENT — SCRAP-CATHEDRAL
 
 **Classification:** Chapter tactical narrative (public register abridgment: [aar-vex-v-gutgrind-descent.md](../vexillum-register/aar-vex-v-gutgrind-descent.md))  
-**When:** 403.M42 (Silent Vigil)  
+**When:** 121.M42 (Silent Vigil)  
 **Where:** **Selene-Black** — shepherd moon, Aethelgard gas-giant tide well  
 **Who:** **V** *Quinta* under **Legatus Armin Sturmwahl**; Orks — Waaagh! splinter **Gutgrind**
 
-**Cross-references:** [dossier-armin-sturmwahl.md](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexillatio-operational-armory.md](../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.5 · [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 · [predator-war.md](../00-foundation-war/predator-war.md) (Foundation crucible — **not** field 4)
+**Cross-references:** [dossier-armin-sturmwahl.md](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexillatio-operational-armory.md](../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.5 · [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 · [aethelgard-first-quarter.md](../00-foundation-war/aethelgard-first-quarter.md) (Foundation War — Aethelgard first quarter; **not** field 4)
 
 ---
 
@@ -41,7 +41,7 @@ He sealed his helm.
 
 Inceptors hit landings **3–7** like hammer blows on a rivet line.
 
-There was no poetry in it — only **staccato** boltstorm walking gantries until green skin learned **exposed** meant **dead**. Brother **Severin** — tally name used because his fire lane diagram became a *Quinta* training slide — burned through a shoota nest by **counting** muzzle flashes instead of targets. The *Codex* did not teach that. Aethelgard’s **jungle verticals** had, years earlier, when the Chapter was still learning that **Predator** geometry could be translated into **Ork** geometry if you stopped mourning the difference.
+There was no poetry in it — only **staccato** boltstorm walking gantries until green skin learned **exposed** meant **dead**. Brother **Severin** — tally name used because his fire lane diagram became a *Quinta* training slide — burned through a shoota nest by **counting** muzzle flashes instead of targets. The *Codex* did not teach that. Aethelgard’s **jungle verticals** had, years earlier, when the Chapter was still learning that **hunter** geometry could be translated into **Ork** geometry if you stopped mourning the difference.
 
 Severin did not mourn. He **adjusted**.
 
@@ -79,13 +79,13 @@ There was no speech worth recording. There was only **beacon green** — eleven 
 
 Thirty-one brothers did not walk off Selene-Black under their own power — Dreadnought candidacy, permanent mutilation, or names added to slabs. *Quinta* carried the tally the way Sturmwahl carried scuffed crimson trim: **visible**, **unromantic**.
 
-In later briefings he cited **Gutgrind** beside **Predator War** jungle myths — different enemy, different decade, same lesson: **gravity** and **Orks** agree only that what falls should fall **hard**.
+In later briefings he cited **Gutgrind** beside **Aethelgard Foundation War** jungle myths — different enemy, different decade, same lesson: **gravity** and **Orks** agree only that what falls should fall **hard**.
 
 ---
 
 ## VII. FIELD FOUR
 
-The Foundation campaign on Aethelgard had forged the Chapter in blood the register still calls **Predator War**. That crucible predated the **public** fourth-field certification logic for Legatus *Alabarda* — the cloth law that would later demand an **audit-grade** named triumph per Vexillatio grid.
+The Foundation campaign on Aethelgard had forged the Chapter in blood — the register still files under the **Foundation War** opening. That crucible predated the **public** fourth-field certification logic for Legatus *Alabarda* — the cloth law that would later demand an **audit-grade** named triumph per Vexillatio grid.
 
 **Gutgrind Descent** became *Quinta*’s answer on the heraldic receipt: **Orks**, **jump closure**, **Aethelgard system** — proof assault Primaris culture was not **memory** but **ongoing** **proof**.
 

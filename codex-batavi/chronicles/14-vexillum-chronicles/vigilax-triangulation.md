@@ -2,7 +2,7 @@
 
 **Classification:** Foundation Archive — Chapter tactical narrative (III *Tertia* / *Alabarda* field 4 register lens)  
 **Companion:** The full incident — Varro, Serragris, *Gray Gargoyle*, political aftermath — lives in [vigilax-incident.md](../12-vigilax/vigilax-incident.md). Read both; they interlock.  
-**When:** 350.M42 (Silent Vigil, before Elara’s birth)  
+**When:** 110.M42 (Silent Vigil, before Elara’s birth)  
 **Where:** Vigilax Prime — **Serragris** (echo only here) · **Marna-Down** tube sector  
 **Who:** **III** *Tertia* under **Legatus Theron Brach**; **Drusus** (*Medicinae*); Chaplain **Varro** (parallel thread — see companion)
 

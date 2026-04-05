@@ -316,7 +316,7 @@ Tobias stopped at a respectful distance. He looked at Elara kneeling beside the 
 
 Alaric's massive silhouette did not move, but the change in air pressure was immediate.
 
-Human face exposed to the furnaces' heat—scarred, pale, stripped of the dehumanizing filter of his formidable wolf helm—Alaric von Helis looked at the serf. The Chapter Master's eyes, sunk in the hollows of centuries of functional depression, burned with ice-cold fury and a grief he refused to name.
+Human face exposed to the furnaces' heat—scarred, pale, stripped of the dehumanizing filter of his formidable wolf helm—Alaric von Helis looked at the serf. The Chapter Master's eyes, sunk in the hollows of decades of functional depression, burned with ice-cold fury and a grief he refused to name.
 
 "No," Alaric's voice reverberated in the small kitchen, deep and hoarse, carried by the power of his gene-honed lungs without the metallic distortion of a vox-caster.
 

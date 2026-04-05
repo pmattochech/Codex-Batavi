@@ -2,7 +2,7 @@
 
 **Operation:** NULL-VENT COVENANT  
 **Theater:** Vitreus lens-forge arcology — orbital plate Seven  
-**Date:** 361.M42  
+**Date:** 112.M42  
 **Unit:** **VII** *Septima* (full Vexillatio; *Armourium* plasma auditors embedded)
 
 **Full chronicle:** [null-vent-covenant.md](../14-vexillum-chronicles/null-vent-covenant.md)

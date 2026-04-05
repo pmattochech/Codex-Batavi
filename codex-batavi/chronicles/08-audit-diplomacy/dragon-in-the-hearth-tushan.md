@@ -2,7 +2,7 @@
 
 **Location:** Martha’s Kitchen (Absolute Decompression Zone), *Castrum Ferrum*.  
 **Visitor:** Tu’Shan, Regent of Prometheus, Chapter Master of the Salamanders.  
-**Date:** 580.M42 (post-Apotheosis).  
+**Date:** 180.M42 (post-Apotheosis).  
 **Present:** The Noviomagus Triumvirate, the Solis family, and Tu’Shan.
 
 If Logan Grimnar’s arrival had brought storm pressure and Guilliman’s had imposed tribunal stillness, Tu’Shan’s presence registered in Noviomagus as a thermodynamic anomaly. Not the radioactive heat that chars blood at the forge, but the contained thermal radiation of a hearth in the grip of winter.

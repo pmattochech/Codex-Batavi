@@ -7,7 +7,7 @@
 
 > *“We did not choose the name. The name found us coming out of the surf with xenos blood on our hands. The people already knew what we were before we knew.”*
 >
-> — Alaric von Helis, ca. 045.M42.
+> — Alaric von Helis (annals **~CV y29**; external calendar **~045.M42** *approximate*).
 
 ---
 
@@ -35,27 +35,23 @@ Natives expected something like the Batav at human scale. What they received was
 
 ---
 
-## III. The fulfillment (fourth quarter of the Foundation War — ca. 037–045.M42)
+## III. The fulfillment (tidal quarter — annals **~CV y24–y29**)
 
-For three quarters of the Foundation War, the Astartes fought in jungles, hives, and tunnels across the subsector. The *Venator-Alpha* Enclave was hunted, cataloged, understood, and gradually eliminated. The final quarter was the extermination offensive.
+Staff truth follows the **Foundation War serial** (see [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md)). The crusade was never only “hunt the hunter-enclave in the jungle.” It was a **nine-pole** war — void mirrors, inverted hives, Incus quotas, Vitreus glass, estuary law — that kept breaking *Codex*-clean battle math until **mud, tide, and machine hunger** became the only honest teachers.
 
-Alaric von Helis — already transformed by *Execratio* and forced return to the intermediate stage, the 3.5-meter chassis still without the definitive armor that would become *Castra-Lupus* — chose Aethelgard’s swamps and estuaries as theater for the final campaign. Not because the ground was strategically neutral. Because it was ground where the Enclave expected heavy Astartes could not function — slow, drained by mud.
+By the late **crown-and-estuary** movement, Alaric von Helis had already passed through *Execratio* and wrench-returned to the **intermediate stage** (the ~**3.5 m** chassis predating *Castra-Lupus*). He did not choose swamps because mud is humble. He chose them because enemies still believed mud was **our** disability — and tide is **geometry**.
 
-Drop Pods fell on the estuaries at high tide.
+Amphibious pressure and shingle warfare turn the native prophecy into **witnessed** fact: the grey giant does not arrive with sermons. It arrives when the water **lies**.
 
-The Astartes did not emerge from the water slowly, clean, in formation. They emerged as the Batav emerges: from below, suddenly, soaked and violent, with the sole purpose of closing distance before prey could react. The offensive lasted weeks. Every Enclave position was flanked by water. Every refuge in the mud became an extermination ground.
-
-Native onlookers at the margins saw a grey giant with a predator’s head burst from the waterline — and recognized something they had not seen since before their civilization was hunted almost to extinction.
-
-They shouted *“Der Batav!”* before any Astartes spoke a word.
+On the **shingle**, at the bleeding edge of a tide that does not negotiate, coastal witnesses name the phenomenon before Imperial hymns do — see [`chapter-30-tide-names.md`](../chronicles/00-foundation-war/chapter-30-tide-names.md). *“Der Batav!”* is not theater. It is **recognition** — the sound a culture makes when myth walks out of the surf **and the enemy dies in the same frame**.
 
 ---
 
 ## IV. Alaric’s decision (adopting the name)
 
-The Chapter’s renaming was not a solemn decree. It was a pragmatic conclusion drawn during post-war doctrine review, with the Triumvirate and first Legati around a table.
+The Chapter’s renaming was not a solemn decree. It was a pragmatic conclusion drawn during **last-sweat** council, with the Triumvirate and first Legati forced to own what the crucible had proved — see [`chapter-37-der-batav-council.md`](../chronicles/00-foundation-war/chapter-37-der-batav-council.md).
 
-The Administratum had assigned the Chapter a provisional number. The official name awaited Terra’s ratification. Alaric looked at field records — the list of a thousand marines who had landed, the 500 survivors who remained, the names engraved on the cord already heavy on his armor — and discarded the bureaucracy.
+The Administratum had assigned the Chapter a provisional number. The official name awaited Terra’s ratification. Alaric looked at field records — casualty bands, crucible debts, names on the **cord** — and discarded the comfort of generic knighthood.
 
 *“Cohors Batavorum”* served two purposes, neither romantic:
 
@@ -79,4 +75,4 @@ The Batav is not a courage symbol. It is a geometry principle: turn adverse cond
 
 ---
 
-*Compiled by the Chapter’s Chief Scribe — last revision ca. 580.M42*
+*Compiled by the Chapter’s Chief Scribe — last revision ca. 180.M42*

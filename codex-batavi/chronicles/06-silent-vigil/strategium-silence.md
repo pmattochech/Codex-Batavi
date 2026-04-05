@@ -56,7 +56,7 @@ What followed next shifted the static in Alaric’s mind.
 
 After swallowing the meat, Viggo began to lick the palm and the mechanical finger joints clean of synthetic blood and ration juices. The Thunderwolf’s tongue was coarse as coarse grit, but carried the fierce heat of a biological reactor at full burn.
 
-Through micro-haptic sensors embedded in the armor surface, tactile impulses rode interface cables straight into Alaric’s spine. The sensation crossed the barrier of cold and mechanical apathy. For two centuries, every physical contact Alaric’s armor had registered had been hostile: bolter rounds, scouring plasma heat, saw-blades scraping, or the repulsive shove of a energy shield. The world had only punched, cut, or tried to throw him down.
+Through micro-haptic sensors embedded in the armor surface, tactile impulses rode interface cables straight into Alaric’s spine. The sensation crossed the barrier of cold and mechanical apathy. For every year the Wall had worn that carapace, every physical contact Alaric’s armor had registered had been hostile: bolter rounds, scouring plasma heat, saw-blades scraping, or the repulsive shove of a energy shield. The world had only punched, cut, or tried to throw him down.
 
 But this… That warm, rhythmic friction against the lethal adamantium of the Hand of the Father carried no intent to harm. It was foreign to his routine of war. It was gentle.
 
@@ -210,7 +210,7 @@ The beam showed Noviomagus’s lord pinned to the floor, the Fenrisian predator 
 
 The auspex reading confirmed what Drusus’s eyes already suspected.
 
-Through the last centuries of the Silent Vigil, Alaric’s sleep logs (when he allowed himself the luxury of shutting down) had been a storm of adrenaline spikes, cardiac arrhythmia, and REM cycles drowned in tactical nightmares. The Castellan’s brain never stopped fighting the war he had already lost.
+Through the long weight of the Silent Vigil, Alaric’s sleep logs (when he allowed himself the luxury of shutting down) had been a storm of adrenaline spikes, cardiac arrhythmia, and REM cycles drowned in tactical nightmares. The Castellan’s brain never stopped fighting the war he had already lost.
 
 But now the auspex showed an incredibly stable data line.
 
@@ -218,7 +218,7 @@ Viggo’s rhythmic, heavy breathing—*in… out… in… out…*—made a conti
 
 Man and beast’s breath had locked in perfect sync.
 
-For the first time in centuries, Alaric von Helis’s brain waves on Drusus’s display showed no nightmares. No siege simulations. No screams of legionaries dying in betrayal’s flames. Only the simple, raw, present biology of an animal that knew neither past nor future—only now.
+For the first time in all the Vigil years Drusus had logged, Alaric von Helis’s brain waves on Drusus’s display showed no nightmares. No siege simulations. No screams of legionaries dying in betrayal’s flames. Only the simple, raw, present biology of an animal that knew neither past nor future—only now.
 
 Drusus processed it in the silence of his own helm. He knew Alaric justified the Thunderwolf’s existence with pathetic thermodynamic excuses. But numbers did not lie. Viggo was not a tactical tool or organic insulation. He was the Biological Anchor. The living counterweight that kept the Wall’s core from collapsing under grief’s gravity.
 

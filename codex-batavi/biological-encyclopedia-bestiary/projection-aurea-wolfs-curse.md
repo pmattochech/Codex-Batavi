@@ -63,7 +63,9 @@ Common to all three: elevated emotional intensity at basal state, difficulty dis
 
 **Emotional duality in combat:** Under active engagement Exanimus runs two simultaneous states Axiom must manage in parallel: high-efficiency predatory focus and compressed emotional intensity that deflates abruptly when immediate threat ends. Immediate post-combat window is highest instability point.
 
-*Stabilized Exanimus as reference:* Chief Apothecary Drusus and Chief Chaplain Varro are operational model of stage contained by centuries of discipline and formal doctrine. Lord Castellan Alaric, before reaching Execratio in 031.M42, operated in same state — without *Axiom of Reason* as formal doctrine, without accumulated experience, under maximum pressure of foundation war without doctrinal answer. Gap between two Triumvirate members and Alaric’s collapse is not biological; contextual and doctrinal. Exanimus holds when Axiom is practiced. Execratio requires everything fail at once.
+***Exanimus — Firstborn vs Primaris (clinical divergence):*** Stage is **the same ratchet**; physiology and risk profile **differ** by chassis generation. **Only at Exanimus** does a **Firstborn** approximate **line Primaris** in **field presence**: in powered armor the bulk envelope and gross motor output can **read** as **standard Primaris** — a **natural-looking** bracket, not a second implant path. **Line Firstborn** **below** Exanimus remain **thinner / older chassis**; the “Primaris-like” silhouette is **Exanimus-only**, not Chapter-wide. **Primaris** who reach Exanimus gain the **same** strength-and-speed **scaling** and **red hands**, but **baseline organs and buffering** typically **slow** progression **into** the curse; when the stack **finally snaps**, **fewer** learned off-ramps and a **hotter** endocrine transition tend to produce **more volatile** post-combat windows and **wider** behavioral variance under *Axiom* load than **Firstboot** peers who **burned in** Furor earlier. **Cawl’s** reactive template did **not** map this interaction — sealed registers treat it as **gene-flaw volatility** amplified on **Primaris** architecture, not a “Primaris cure.” **IX** *Decima* (justice / Castellan lane) concentrates **long-service Firstboot Exanimus** and shows a **higher median** doctrinal stability than **Primaris** Exanimus cohorts — **statistical**, not universal; **named exceptions** in *Decima* remain valid.
+
+*Stabilized Exanimus as reference:* Chief Apothecary Drusus and Chief Chaplain Varro are operational model of stage contained by centuries of discipline and formal doctrine. Lord Castellan Alaric, before reaching Execratio in the **Foundation crucible** (~**CV y19**; Imperial scrolls sometimes file it ~**031.M42** *approx*), operated in same state — without *Axiom of Reason* as formal doctrine, without accumulated experience, under maximum pressure of Foundation War without doctrinal answer — serial [`chapter-25-the-beast-chapter.md`](../chronicles/00-foundation-war/chapter-25-the-beast-chapter.md). Gap between two Triumvirate members and Alaric’s collapse is not biological; contextual and doctrinal. Exanimus holds when Axiom is practiced. Execratio requires everything fail at once.
 
 > **EXANIMUS TESTAMENT** — *Mandatory doctrinal protocol*
 >
@@ -75,7 +77,11 @@ Common to all three: elevated emotional intensity at basal state, difficulty dis
 > - **Witness to pride’s sin:** Neophytes are brought to cells as training. Imprisoned **Versibar** is physical proof **Wolf’s Curse** respects neither discipline, devotion, nor years of service. Pride of believing immune to what brought others down is shortest path to cells.  
 > - **Weapon of last resort — *Adversarii at Portas*:** When enemy breaches final defense lines and facility loss is mathematically certain, cells open. Versibars release into compromised sector as area biological weapon. They do not discriminate — but in closed space with denser enemy concentration, predation math favors defenders. Tactical biological equivalent of *Exterminatus*: choice that makes defeat’s cost unacceptable to enemy.
 >
+> **First documented *Adversarii* correlation — Valerian Heresy (Malakor V):** Before this doctrine was formalized as terminal **Black Cell** release, the Chapter survived **Legatus** Valerius’s treason (*Lupercal* claim, **I** *Prima* rot) in part by **battlefield** use of **loyal Versibars**: ***Blutrecht*** Tier 3 **object-fixation** on **traitor gene-seed** **locked predation** onto the **pack-betrayer vector** while Lord Castellan **Alpha frequency** **imposed** a **predation corridor** — irrational mass **aimed**, not Chapter-wide **catastrophe**. This is **not** equivalent to **indiscriminate** *Portas* protocol (facility-lost / area denial to all); *Medicinae* files it as **first battlefield Adversarii correlation** — *Blutrecht* + **Alpha-imposed vector**, distinct from **terminal-defense** cell breach.
+>
 > *Clinical addendum (Drusus):* Of those who choose Iron Prison, only those still showing **consciousness lapses** — identifiable fragments of original Batavi emerging intermittently in animal form — remain active cell witnesses. Those fully feral with no measurable cognitive residue are reclassified for immediate *Adversarii at Portas* allocation or execution on clinical assessment. Beast without memory teaches neophytes nothing.
+>
+> *Clinical addendum (Drusus) — battlefield vs terminal Portas:* **Malakor-grade** correlation proves Versibar mass can be **vectored** when **treason signature** and **Alpha** geometry **align**; it does **not** revoke classification that **unaimed** Versibar remains **strategic hazard**. Terminal *Portas* remains **indiscriminate** **by design**.
 
 **Execratio stage (Versibar):** Total physical transformation and absolute ego failure. Body tears armor, expanding into **4–4.5 m** lupine abomination. Sustained sprint speed exceeds 80 km/h in open space; in closed corridor combined mass and agility make Versibar effectively unstoppable by conventional force. Impact strength exceeds standard *Castraferrum* Dreadnought without safety limiters. Fully irrational, no command chain, immune to tactical protocol. Gene-seed is **biologically compromised in expression but structurally intact and Warp-uncorrupted** — Versibar is not daemon engine nor Chaos corruption; catastrophic-scale genetic failure. No daemonic possession path through Execratio.
 
@@ -109,20 +115,20 @@ What does not exist is indifference. Helm with red threshold stripe or crimson h
 
 ---
 
-**C) INTEGRATION ANOMALY (unique case — 568.M42)**
+**C) INTEGRATION ANOMALY (unique case — 168.M42)**
 
 *Classification: Vermilion. Chief Apothecary Drusus. Triumvirate-restricted access.*
 
-After five and a half centuries stabilized Execratio, Alaric von Helis’s gene-seed ceased operating as implant set and began as organism’s **master cellular blueprint**. Fusion is slow and gradual — no single transition moment, cumulative integration making “original tissue” vs “implanted tissue” biologically irrelevant to Castellan’s body.
+After **long-duration** stabilized **intermediate** Execratio (Alpha anomaly), Alaric von Helis’s gene-seed ceased operating as implant set and began as organism’s **master cellular blueprint**. Fusion is slow and gradual — no single transition moment, cumulative integration making “original tissue” vs “implanted tissue” biologically irrelevant to Castellan’s body.
 
-Empirical confirmation came at Battle of Sigma Moon (568.M42), when Alaric lost right arm and four implanted organs fighting Daemon Primarch Angron. Standard *Apothecarion* protocol assumed surgical reimplant. What occurred was full autonomous regeneration in ninety-two days — including Astartes organs regrown with functional architecture identical to original from basal tissue, without external intervention.
+Empirical confirmation came at Battle of Sigma Moon (**168.M42**), when Alaric lost right arm and four implanted organs fighting Daemon Primarch Angron. Standard *Apothecarion* protocol assumed surgical reimplant. What occurred was full autonomous regeneration in ninety-two days — including Astartes organs regrown with functional architecture identical to original from basal tissue, without external intervention.
 
 **Inferred mechanism:** **Chimeric** gene-seed (Strand α/β), operating in symbiosis with organism locked at maximum biological expression (Execratio) for decades, progressively rewrote host regeneration map. Alaric’s body no longer distinguishes “native” vs “installed” structures — all one blueprint. When repairing damage, organism rebuilds what *it understands as Alaric*, including Astartes organs as native components.
 
 **Doctrine implications:**
 - Phenomenon **specific to long-duration stabilized Execratio** — does not apply to Furor or Exanimus Batavi, nor recent Execratio cases.  
 - Wolf’s Curse **not reversed** by process — permanent physical stigmata (canines, bone hypertrophy, iris pigmentation) part of integrated blueprint and regenerate with rest.  
-- Temporal ricochet **unaffected** — integration anomaly is physical regeneration, not chronological sync.  
-- Drusus estimates integration hit critical mass 400–450.M42, but no empirical event could confirm before Sigma Moon.
+- **Boundary / chronology filings** **unaffected** — integration anomaly is physical regeneration, not calendar authority.  
+- Drusus estimates integration hit critical mass **120–130.M42** (CV-dominant annals; **~M42** tithe cross-file approximate), but no empirical event could confirm before Sigma Moon.
 
 *Chief Apothecary note:* “The organism does not heal. It **remembers**. And what it remembers is more complete than anything I could reimplant.”

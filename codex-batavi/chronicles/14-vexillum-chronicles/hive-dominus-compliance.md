@@ -1,7 +1,7 @@
 # [CHRONICLE] HIVE DOMINUS — THE SCHEDULE K WALL
 
 **Classification:** Foundation Archive — Chapter tactical narrative (public register abridgment: [aar-vex-ii-hive-dominus-compliance.md](../vexillum-register/aar-vex-ii-hive-dominus-compliance.md))  
-**When:** 192.M42 (Silent Vigil)  
+**When:** 078.M42 (Silent Vigil)  
 **Where:** Castra-Vetera Prime — upper stack, **Ministry of Tithe Lex**  
 **Who:** **II** *Secunda* under **Legatus Henric Kessler** (*Measured Line*)
 

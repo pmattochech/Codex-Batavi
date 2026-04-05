@@ -23,7 +23,7 @@
 
 Use for **2D seal**, **decal design**, and **AI prompt** alignment — distinct from “grey plate + crimson trim” on models.
 
-**Approved rasters:** [`lore-images/chapter-seal-official.png`](lore-images/chapter-seal-official.png) — **primary chapter roundel** (author-approved framing from the IV *Quarta* vexillum art; **376×376** RGBA, **transparent outside the outer black ring** — tight square bound to the detected circle; re-run circle detect if you replace the source art). **Do not** replace with an automated re-crop from [`vexillum-vexillatio-iv-quarta.png`](lore-images/vexillum-vexillatio-iv-quarta.png) unless you re-match this framing. Legacy / flat trace target (if present in your tree): [`lore-images/chapter-seal-canonical.png`](lore-images/chapter-seal-canonical.png). **Colour law** remains the table below — do not drift palette from this raster alone.
+**Approved rasters:** [`lore-images/chapter-seal-official.png`](lore-images/chapter-seal-official.png) — **primary chapter roundel** (author-approved framing from the IV *Quarta* vexillum art; **349×349** RGBA, **transparent outside the outer black ring** — tight square bound to the detected circle; re-run circle detect if you replace the source art). **Do not** replace with an automated re-crop from [`vexillum-vexillatio-iv-quarta.png`](lore-images/vexillum-vexillatio-iv-quarta.png) unless you re-match this framing. Legacy / flat trace target (if present in your tree): [`lore-images/chapter-seal-canonical.png`](lore-images/chapter-seal-canonical.png). **Colour law** remains the table below — do not drift palette from this raster alone.
 
 | Element | Generic prose | Citadel paint (reference) |
 |---------|----------------|---------------------------|

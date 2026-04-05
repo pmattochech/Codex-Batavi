@@ -1,58 +1,127 @@
-# The Foundation War (The Predator War)
+# FOUNDATION WAR (Castra Vetera annals)
 
-**Period:** 015.M42 – 045.M42 (duration: 30 years)  
-**Enemy:** *Venator-Alpha* Enclave (xenos hunting species — ambush and terror tactics, no pattern foreseen by the *Codex Astartes*)  
-**Theaters:** Jungles and swamps of Aethelgard Prime; hives and tunnels of Incus-Gravis  
-**Outcome:** Total victory — Batavi doctrine founded  
-**Narrative references:** [predator-war.md](../../chronicles/00-foundation-war/predator-war.md) (1st Quarter, full chronicle) | [der-batav-myth-foundation.md](../../lexicon-and-litanies/der-batav-myth-foundation.md) | [pax-batavorum.md](../doctrine-and-organs/pax-batavorum.md)
+**Tags:** #CastraVetera #Crucible #FoundationWar #NinePoles #LexIgnis #InstrumentumSolum #Noviomagus #MudDoctrine
 
----
+**Imperial calendar note:** Castra Vetera experiences extreme temporal dilation. **Subjective annals** (`CV y*`) are the **primary operational record** for this war; **M42** dates in older Imperial-facing summaries are **approximate external correlates**, not fixed one-to-one conversions.
 
-**Scale:** ~1,000 marines on landing (arriving in transport waves). ~500 survivors at the end of 30 years. ~650 dead as **Versibars** — most of the founding marines. The 500 who kept their minds intact became the first Legati and the Chapter elite. The ~650 who did not survive remain on Alaric’s cord.
-
-*This war was not merely a territorial conquest. It was the laboratory where the soul, body, and doctrine of the Cohors Batavorum were forged — by force, without a manual, at catastrophic cost.*
+**Primary source (canonical narrative):** the **38-chapter serial** in [`../../chronicles/00-foundation-war/`](../../chronicles/00-foundation-war/) — especially [`../../chronicles/00-foundation-war/aethelgard-first-quarter.md`](../../chronicles/00-foundation-war/aethelgard-first-quarter.md) for the Aethelgard **first quarter** lens.  
+This file is the **staff / encyclopedia summary**: phases, poles, doctrine tags, and chapter pointers.
 
 ---
 
-## I. First quarter (015–022.M42 / years 1–7): The awakening
+## 1. Summary
 
-*The initial shock. The Astartes as prey.*
+The **Foundation War** is not a single front. It is the **contested birth** of a *Castra Vetera*–anchored Chapter inside a **nine-pole crucible**: gravitational violence, mercenary economics, xenos pressure, and **MoI–grade** machine hostility braided together until **doctrine becomes habitat**.
 
-* **The scenario:** The *Venator-Alpha* Enclave does not hold positions, build lines, or offer open-field battle. It hunts — alone, in pairs, with geological patience. The *Codex Astartes* has no protocol for an enemy that wants to hunt, not win. Every doctrinal protocol applied costs casualties. Patrols vanish with no sign of combat. Bodies are rarely recovered — the dead stay “status unconfirmed” because confirming them would mean admitting the Enclave took something irrecoverable.
-* **Biology (Drusus):** Furor begins to surface in the ranks — not as spiritual collapse but as biological response to the stress of being prey with predator gene-seed. Drusus documents the first cases, including his own. Dominant trigger: **accumulated stress without resolution + inability to anchor to the Axiom**, precipitated by emotional shock. The Triumvirate’s engraved state — what biology “photographed” when the *Axiom* broke — is **Type III (Duty)**: the irrevocable compulsion not to let go, even without knowing how to hold.
-* **The embryo (Triumvirate):** The first nameless protocol meeting: Alaric, Drusus, and Varro over a map and a report of seventy-two Furor cases. Drusus’s observation — *“Duty works as an anchor when nothing else works”* — is the embryo of what will become the *Axioma Rationis*. Not philosophy; a clinical note that naming the anchor and teaching it might be the difference between a Chapter that holds and one that shatters.
-* **Result:** 183 documented casualties in the first quarter. Most as Versibars — marines who reached Furor without a duty anchor and collapsed through Exanimus to Execratio before any protocol existed.
+Landing force is **~500 Batavi** supported by a **hunter-enclave** network, **Iron Highways** logistics, and **Lex Ignis** / ***Instrumentum Solum*** discipline that refuses performance theater in favor of **Shared Sweat** truth-tests with the populations they must recruit from.
 
----
+**Tactical through-line:** bait doctrine, estuary warfare, mirror-route void geometry, “**silence that costs**,” and the slow hardening of **mud gospel** into ratified law.
 
-## II. Second quarter (022–030.M42 / years 8–15): Stabilizing the anomaly
+**Terminal crisis (annals):** **Lord Castellan Alaric** pushes into **Execratio** under crucible pressure (~**CV y19** / Incus–Vitreus Book III cluster). The Chapter survives only where **Triumvirate geometry** and **Axiom of Reason** practice hold; ***We hold*** crystalizes as **command gravity**, not slogan — see [`../../chronicles/00-foundation-war/chapter-25-the-beast-chapter.md`](../../chronicles/00-foundation-war/chapter-25-the-beast-chapter.md), [`../../chronicles/00-foundation-war/chapter-35-we-hold-anyway.md`](../../chronicles/00-foundation-war/chapter-35-we-hold-anyway.md).
 
-*Friction war on industrial worlds. Biology dominated by discipline.*
-
-* **The scenario:** Combat shifts to the hives and tunnels of Incus-Gravis. Closed environment, low light, constant pressure. The Enclave adapts tactics to industrial terrain — so do the Astartes.
-* **Biology (Drusus):** The Triumvirate reaches **Exanimus simultaneously** — jaw hypertrophy, keratin claws, predator eyes. While neophytes lose their minds under the same pressure, the three keep rationality by raw will and the engraved duty anchor. Drusus catalogs this as **“command stabilization”**: proof that Exanimus need not mean collapse — it means more work. The *Axioma Rationis* begins to be formalized as written doctrine, not only as instinctive practice of survivors.
-* **The soul (Varro):** Varro develops **psychic anchors** — rites based on function, not faith. Seeing that Exanimus strips moral inhibition, he redirects: fury is not suppressed, it is aimed. Varro adopts the wolf-skull helm permanently in this period. The message is blunt: the only thing more terrifying than the inner beast is the Chaplain’s judgment.
-* **Result:** Versibar rate drops sharply. The *Axioma Rationis* in proto-formal version — *“Feeling is biological; action is logical”* — begins to be taught to the ranks. The Batavi learn to name what kept them alive in the first quarter.
+**Name & myth:** native terror-name **Der Batav** enters the record as **tide-shout** on the shingle (~**CV y24**); **Cohors Batavorum** is **Council-ratified** after closure (~**CV y29**; Instrumentum Solum coda) — see [`../../chronicles/00-foundation-war/chapter-30-tide-names.md`](../../chronicles/00-foundation-war/chapter-30-tide-names.md), [`../../chronicles/00-foundation-war/chapter-37-der-batav-council.md`](../../chronicles/00-foundation-war/chapter-37-der-batav-council.md), [`../../chronicles/00-foundation-war/chapter-38-instrumentum-solum.md`](../../chronicles/00-foundation-war/chapter-38-instrumentum-solum.md), and doctrinal gloss: [`../../lexicon-and-litanies/der-batav-myth-foundation.md`](../../lexicon-and-litanies/der-batav-myth-foundation.md).
 
 ---
 
-## III. Third quarter (030–037.M42 / years 16–22): The abyss and the return
+## 2. Nine poles (operational crucible)
 
-*The breaking point. The event that defines everything.*
+*Canonical crucible lattice & planning notes:* [`../../FOUNDATION-WAR-RETCON-PLANNING.md`](../../FOUNDATION-WAR-RETCON-PLANNING.md) §§3–5 and §12 (enemy map / chapter architecture).
 
-* **The event (031.M42):** Trapped in an Incus-Gravis industrial complex, watching brothers cut down by an ambush the *Axiom* did not prevent, Alaric breaks. Thirty years of command weight, the plaques on the cord, responsibility for every marine dead as Versibar for lack of doctrine he was still building — and the specific emotional shock of that moment — overwhelm containment. Alaric falls to **Execratio**. Transformation into a 4.5-meter beast is complete. The Versibar massacres Enclave leadership with the predatory efficiency of an animal without morals or plan — only instinct to remove the immediate threat.
-* **The return (Varro / the Return Rite):** Varro does not execute Alaric. He stands before the beast — unarmed, not retreating — and shouts tactical coordinates and names of the dead. No prayers. No emotional appeals. Mission data. Names of Versibars Alaric carried on the cord. The logic engraved in Type III — duty — still has a path to the beast. Alaric’s mind processes logic until consciousness regains control. It takes hours.
-* **Alpha anomaly:** Alaric’s biology does not return to Primaris baseline. It locks irrevocably at the intermediate stage: 3.5 meters, three-ton combat mass, general’s mind intact. The *Apothecarion* has no classification for what he is. Drusus documents **Alpha anomaly** and files *Vermilion*.
-* **The motto (031.M42):** In the days after the return, when the ranks grope for words for what happened, Alaric offers none. The only thing he says, answering the first mission question after recovery: *“We hold.”* The motto was not chosen. It emerged as biological state. **“Unbent”** — the formal equivalent — comes later, when the Triumvirate needs one word for what the Chapter is. Logical refusal to yield to failure, even after having fallen into it.
-* **Result:** Cumulative third-quarter losses reach roughly 50% of total strength. Alaric’s cord goes from heavy to impossible to imagine one man carrying. Kadmos begins the *Castra-Lupus* project — the armor did not exist before; it was necessary now.
+| Pole (working name) | Role in war | Serial touchpoints (examples) |
+|---|---|---|
+| **I — Aethelgard (Prime / crucible anchor)** | Recruitment crucible, tidal geography, **Shared Sweat** habitat | [`chapter-01-mud-gospel.md`](../../chronicles/00-foundation-war/chapter-01-mud-gospel.md) onward; first-quarter lens: [`aethelgard-first-quarter.md`](../../chronicles/00-foundation-war/aethelgard-first-quarter.md) |
+| **II — Noviomagus (forge / ratification)** | Forges, law tables, **Instrumentum Solum** posture | [`chapter-04-seventy-two.md`](../../chronicles/00-foundation-war/chapter-04-seventy-two.md); [`chapter-37-der-batav-council.md`](../../chronicles/00-foundation-war/chapter-37-der-batav-council.md); [`chapter-38-instrumentum-solum.md`](../../chronicles/00-foundation-war/chapter-38-instrumentum-solum.md) |
+| **III — Tigris / mercenary economics** | Contracts, deniable logistics, ***Lex Ignis*** charter friction | [`chapter-02-the-arrangement.md`](../../chronicles/00-foundation-war/chapter-02-the-arrangement.md); ***Lex Ignis*** through-line from [`chapter-01-mud-gospel.md`](../../chronicles/00-foundation-war/chapter-01-mud-gospel.md) onward |
+| **IV — Labyrinth / tunnels** | Subsurface denial, hunter-enclave war-in-miniature | [`chapter-07-living-specimen.md`](../../chronicles/00-foundation-war/chapter-07-living-specimen.md); [`chapter-10-inverted-hive.md`](../../chronicles/00-foundation-war/chapter-10-inverted-hive.md) |
+| **V — Reef hazard (void geography)** | Navigation mortality, **Mirror Routes** | [`chapter-06-mirror-routes.md`](../../chronicles/00-foundation-war/chapter-06-mirror-routes.md) |
+| **VI — Salt / estuary pole** | Crown push, estuary doctrine, tidal law | [`chapter-28-forward-to-the-crown.md`](../../chronicles/00-foundation-war/chapter-28-forward-to-the-crown.md); [`chapter-29-estuary-doctrine.md`](../../chronicles/00-foundation-war/chapter-29-estuary-doctrine.md); [`chapter-27-half-chapter-still-standing.md`](../../chronicles/00-foundation-war/chapter-27-half-chapter-still-standing.md) |
+| **VII — Incus (gravity anvil / flare drowned sun)** | Incus quotas, flare geometry, **Execratio** pressure | [`chapter-24-incus-still-burns.md`](../../chronicles/00-foundation-war/chapter-24-incus-still-burns.md); [`chapter-25-the-beast-chapter.md`](../../chronicles/00-foundation-war/chapter-25-the-beast-chapter.md); [`chapter-13-flare-geometries.md`](../../chronicles/00-foundation-war/chapter-13-flare-geometries.md) |
+| **VIII — Shingle / amphibious exterminatus-adjacent warfare** | Native myth substrate, tidal battle rhythm | [`chapter-30-tide-names.md`](../../chronicles/00-foundation-war/chapter-30-tide-names.md); [`chapter-33-halo-mouth.md`](../../chronicles/00-foundation-war/chapter-33-halo-mouth.md) |
+| **IX — MoI coda / machine hatred** | Terminal machine hostility & closure mechanics | [`chapter-34-lecture-in-vacuum.md`](../../chronicles/00-foundation-war/chapter-34-lecture-in-vacuum.md); [`chapter-36-the-core-refuses.md`](../../chronicles/00-foundation-war/chapter-36-the-core-refuses.md); [`chapter-38-instrumentum-solum.md`](../../chronicles/00-foundation-war/chapter-38-instrumentum-solum.md) |
+
+### Lex Ignis (*tag*, not a battle cry)
+
+**Lex Ignis** marks Batavi communications where **truth-cost** is explicit: silence purchased, lie taxed, channel hazard named. It is the **discipline of flame** — what may be said, what must not be, and what burns if violated. See planning notes: [`../../FOUNDATION-WAR-RETCON-PLANNING.md`](../../FOUNDATION-WAR-RETCON-PLANNING.md) (instrument lists / doctrinal cadence).
 
 ---
 
-## IV. Fourth quarter (037–045.M42 / years 23–30): The victory of Der Batav
+## 3. Casualties & survivors (order-of-magnitude)
 
-*The final offensive. The myth that names the Chapter.*
+Figures fluctuate by pole and week; treat as **staff estimates** tied to serial beats, not audit certainty.
 
-* **Strategy:** Alaric — already in preliminary *Castra-Lupus* — chooses the swamps and estuaries of Aethelgard as theater for the Enclave extermination campaign. Terrain the Enclave thought unusable for heavy Astartes becomes the Batavi hunting ground. Drop Pods fall at high tide on the estuaries. The Astartes emerge from the water on the attack — soaked, violent, closing distance before prey can react.
-* **Der Batav (ca. 044–045.M42):** Native onlookers at the margins recognize the pattern: giants rising from the water onto the enemy, exactly as *Canis Batavorum* drops from the Spires onto young Leviathans. They shout *“Der Batav!”* before any Astartes speaks. The millennia-old myth — the warrior with the soul of the tide-wolf, who comes from below, who uses the storm as hunting ground — fulfills itself.
-* **The decision (045.M42):** In post-war council, Alaric discards the Administratum’s provisional numbering. *“Cohors Batavorum”* — internally, to honor the people who now form the recruitment base and *Auxilia*; externally, to establish a frontier-monster identity the Imperium learns not to underestimate.
-* **Result:** Total victory. ~500 survivors. The Chapter has name, motto, doctrine, and identity. What follows — expansion to 5,000, the Super-Tithe, and the *Limes Lupus* treaty — is documented in [pax-batavorum.md](../doctrine-and-organs/pax-batavorum.md) and [legislative-chronology.md](legislative-chronology.md).
+| Metric | First estimate band | Notes |
+| :--- | :--- | :--- |
+| Batavi landed | **~500** | Small founding footprint; crucible replaces numbers with *geometry* |
+| peak weekly dead (acute pulses) | **9–66** | spikes track void accidents, tunnel collapses, estuary pushes, MoI encounters |
+| Versibar / curse-adjacent loss | **small integer to low tens** | rises sharply around **Execratio** clustering |
+| survivors at ratification | **~320–380** | band reflects crucible accounting + recruitment throughput |
+
+---
+
+## 4. Phase rail (annals-first)
+
+| Phase | CV span (subjective) | Imperial sketch | Focus |
+| :--- | :--- | :--- | :--- |
+| **I — Establishment** | **y0–y3** | ~015–018.M42 *approx* | landing economics, **Seventy-Two**, first law tables |
+| **II — Crucible widening** | **y4–y12** | ~018–027.M42 *approx* | hunter mesh, tunnel war, **Mirror Routes** |
+| **III — Tidal + machine endgame** | **y13–y29** | ~027–045.M42 *approx* | ash/estuary, Incus echo, ***We hold***, Council / **Cohors Batavorum** |
+
+---
+
+## 5. Doctrine kernels ratified by suffering
+
+- **Shared Sweat:** labor truth beside mortals — recruitment as mutual test, not charity.  
+- **Bait doctrine:** accept perceived weakness as luring geometry; execution must be **silent** until commitment.  
+- **Ash-throat logistics:** supply lines that survive particulate murder and tidal clocks.  
+- **Axiom of Reason:** Triumvirate practice that keeps *Furor / Exanimus* inside a commandable corridor; failure mode is **Execratio**.  
+- ***We hold*:** the **seal phrase** when retreat would break more brothers than the line — **Ch.35** in the serial.
+
+---
+
+## 6. Serial index (chapter files)
+
+Read in numeric order under [`../../chronicles/00-foundation-war/`](../../chronicles/00-foundation-war/).
+
+| Ch. | File | Ch. | File |
+| ---: | :--- | ---: | :--- |
+| 1 | [`chapter-01-mud-gospel.md`](../../chronicles/00-foundation-war/chapter-01-mud-gospel.md) | 20 | [`chapter-20-skin-debt.md`](../../chronicles/00-foundation-war/chapter-20-skin-debt.md) |
+| 2 | [`chapter-02-the-arrangement.md`](../../chronicles/00-foundation-war/chapter-02-the-arrangement.md) | 21 | [`chapter-21-bridge-saints.md`](../../chronicles/00-foundation-war/chapter-21-bridge-saints.md) |
+| 3 | [`chapter-03-dog-logic.md`](../../chronicles/00-foundation-war/chapter-03-dog-logic.md) | 22 | [`chapter-22-maw-exercise.md`](../../chronicles/00-foundation-war/chapter-22-maw-exercise.md) |
+| 4 | [`chapter-04-seventy-two.md`](../../chronicles/00-foundation-war/chapter-04-seventy-two.md) | 23 | [`chapter-23-dynastys-last-command.md`](../../chronicles/00-foundation-war/chapter-23-dynastys-last-command.md) |
+| 5 | [`chapter-05-bait-doctrine.md`](../../chronicles/00-foundation-war/chapter-05-bait-doctrine.md) | 24 | [`chapter-24-incus-still-burns.md`](../../chronicles/00-foundation-war/chapter-24-incus-still-burns.md) |
+| 6 | [`chapter-06-mirror-routes.md`](../../chronicles/00-foundation-war/chapter-06-mirror-routes.md) | 25 | [`chapter-25-the-beast-chapter.md`](../../chronicles/00-foundation-war/chapter-25-the-beast-chapter.md) |
+| 7 | [`chapter-07-living-specimen.md`](../../chronicles/00-foundation-war/chapter-07-living-specimen.md) | 26 | [`chapter-26-vitreus-bleed.md`](../../chronicles/00-foundation-war/chapter-26-vitreus-bleed.md) |
+| 8 | [`chapter-08-cord-weight.md`](../../chronicles/00-foundation-war/chapter-08-cord-weight.md) | 27 | [`chapter-27-half-chapter-still-standing.md`](../../chronicles/00-foundation-war/chapter-27-half-chapter-still-standing.md) |
+| 9 | [`chapter-09-second-quarter-brief.md`](../../chronicles/00-foundation-war/chapter-09-second-quarter-brief.md) | 28 | [`chapter-28-forward-to-the-crown.md`](../../chronicles/00-foundation-war/chapter-28-forward-to-the-crown.md) |
+| 10 | [`chapter-10-inverted-hive.md`](../../chronicles/00-foundation-war/chapter-10-inverted-hive.md) | 29 | [`chapter-29-estuary-doctrine.md`](../../chronicles/00-foundation-war/chapter-29-estuary-doctrine.md) |
+| 11 | [`chapter-11-output-quota.md`](../../chronicles/00-foundation-war/chapter-11-output-quota.md) | 30 | [`chapter-30-tide-names.md`](../../chronicles/00-foundation-war/chapter-30-tide-names.md) |
+| 12 | [`chapter-12-ring-of-teeth.md`](../../chronicles/00-foundation-war/chapter-12-ring-of-teeth.md) | 31 | [`chapter-31-mirror-brood.md`](../../chronicles/00-foundation-war/chapter-31-mirror-brood.md) |
+| 13 | [`chapter-13-flare-geometries.md`](../../chronicles/00-foundation-war/chapter-13-flare-geometries.md) | 32 | [`chapter-32-prism-war.md`](../../chronicles/00-foundation-war/chapter-32-prism-war.md) |
+| 14 | [`chapter-14-brood-signature.md`](../../chronicles/00-foundation-war/chapter-14-brood-signature.md) | 33 | [`chapter-33-halo-mouth.md`](../../chronicles/00-foundation-war/chapter-33-halo-mouth.md) |
+| 15 | [`chapter-15-exanimus-choir.md`](../../chronicles/00-foundation-war/chapter-15-exanimus-choir.md) | 34 | [`chapter-34-lecture-in-vacuum.md`](../../chronicles/00-foundation-war/chapter-34-lecture-in-vacuum.md) |
+| 16 | [`chapter-16-glass-overture.md`](../../chronicles/00-foundation-war/chapter-16-glass-overture.md) | 35 | [`chapter-35-we-hold-anyway.md`](../../chronicles/00-foundation-war/chapter-35-we-hold-anyway.md) |
+| 17 | [`chapter-17-tertius-anvil.md`](../../chronicles/00-foundation-war/chapter-17-tertius-anvil.md) | 36 | [`chapter-36-the-core-refuses.md`](../../chronicles/00-foundation-war/chapter-36-the-core-refuses.md) |
+| 18 | [`chapter-18-years-eight-to-fifteen.md`](../../chronicles/00-foundation-war/chapter-18-years-eight-to-fifteen.md) | 37 | [`chapter-37-der-batav-council.md`](../../chronicles/00-foundation-war/chapter-37-der-batav-council.md) |
+| 19 | [`chapter-19-gulf-deployment.md`](../../chronicles/00-foundation-war/chapter-19-gulf-deployment.md) | 38 | [`chapter-38-instrumentum-solum.md`](../../chronicles/00-foundation-war/chapter-38-instrumentum-solum.md) |
+
+---
+
+## 7. Linked staff articles
+
+- **Planning lattice (nine poles / props / time):** [`../../FOUNDATION-WAR-RETCON-PLANNING.md`](../../FOUNDATION-WAR-RETCON-PLANNING.md)  
+- **Master chronology (Imperial index + annals):** [`master-chronology.md`](master-chronology.md)  
+- **Mud / crucible biology:** [`../../biological-encyclopedia-bestiary/biogeographic-matrix-crucible.md`](../../biological-encyclopedia-bestiary/biogeographic-matrix-crucible.md)  
+- **Der Batav myth (operational):** [`../../lexicon-and-litanies/der-batav-myth-foundation.md`](../../lexicon-and-litanies/der-batav-myth-foundation.md)  
+- **Wolf’s Curse stages (Execratio / Alpha anomaly):** [`../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md`](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)
+
+---
+
+## 8. Superseded convenience files
+
+Older “quarter” narratives and one-file summaries may still exist under [`../../chronicles/`](../..) for mood reading. Where they contradict the **serial**, **the serial wins**.
+
+**Primary quarter retrospective (parallel read):** [`../../chronicles/00-foundation-war/aethelgard-first-quarter.md`](../../chronicles/00-foundation-war/aethelgard-first-quarter.md)
+
+---
+
+*Maintainer note:* when adding a new Foundation beat, update **this summary**, **`master-chronology.md`**, and the relevant **chapter** — not orphaned recap files.

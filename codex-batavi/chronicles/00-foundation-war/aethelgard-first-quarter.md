@@ -1,9 +1,11 @@
-# [CHRONICLE] THE WAR OF THE PREDATORS
+# [CHRONICLE] AETHELGARD — FIRST QUARTER
 
 **Classification:** Foundation Archive — Unrestricted Chapter Access  
 **Period:** 015.M42 – 023.M42 (First Quarter of the Foundation War)  
 **Narrator:** Chief Apothecary Drusus — Retrospective record, compiled ca. 048.M42  
 **Cross-references:** [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) | [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)
+
+**Canon discipline:** The **38-chapter Foundation War serial** in this folder is the **primary narrative** for the war. This Drusus retrospective keeps **legacy Administratum-style** figures (e.g. **~1,000** cumulative landing) and **015–023.M42** quarter labels. Where those details **conflict** with the serial or [`foundation-war.md`](../../personae-command-index/events-and-chronologies/foundation-war.md), prefer the **serial / staff summary** for encyclopedia merges — unless the fiction **explicitly** frames this file as the record characters are arguing over.
 
 ---
 
@@ -17,13 +19,13 @@
 
 There were 287 Marines on the first transport. More arrived in the following months in successive waves until the founding contingent of just over a thousand was complete. Primaris, newly stabilized chimeric gene-seed, Tacticus plate with the provisional crest’s paint still wet. None of us had fought together before the landing. The formation was a sketch — numbered Vexillationes, not tempered. The *Codex Astartes* was the only common denominator.
 
-Aethelgard Prime received us with the indifference of a world that had already culled everything weak. Swamps of dark water to hip height, forests of trunks with oxidized metal bark, and the black stone peaks the natives called the Needles — from whose heights local fauna descended to hunt. The ecosystem’s apex predator, the *Canis Batavorum*, was famous among the natives for leaping from those rocks straight into the great tides to crush the armored skulls of young Leviathans. The Astartes noted the animal with the technical interest reserved for a functional ambush archetype. None of us imagined, in that moment, that we would be the prey.
+Aethelgard Prime received us with the indifference of a world that had already culled everything weak. Swamps of dark water to hip height, forests of trunks with oxidized metal bark, and the black stone peaks the natives called the Needles — from whose heights local fauna descended to hunt. The ecosystem’s apex carnivore, the *Canis Batavorum*, was famous among the natives for leaping from those rocks straight into the great tides to crush the armored skulls of young Leviathans. The Astartes noted the animal with the technical interest reserved for a functional ambush archetype. None of us imagined, in that moment, that we would be the prey.
 
 The Castra Vetera system was described in Administratum reports as “low-priority contested territory” — bureaucratic wording for a subsector that had lost three colonization attempts to “unclassified” causes. We landed on Aethelgard with orders to pacify and establish mineral-extraction priority. The reports mentioned localized xenos resistance.
 
-They did not mention Enclave Venator-Alpha.
+The reports did not describe **what**, exactly, was hunting us.
 
-Writing now, decades later, the name feels almost familiar — a catalogued enemy, with dossiers and countermeasures. In 015.M42, we had no name for them. We only had deaths that followed no pattern the Codex had foreseen.
+Writing now, decades later, we file them as catalogued xenos with dossiers and countermeasures. In 015.M42, we had no name for them. We only had deaths that followed no pattern the Codex had foreseen.
 
 ---
 
@@ -47,7 +49,7 @@ The *Codex Astartes* is a masterpiece of war geometry. It covers open battle, ur
 
 What it does not cover: an enemy that does not want to win. That wants to hunt.
 
-Enclave Venator-Alpha did not seize positions. It did not defend territory. It did not build supply lines or establish permanent bases. It did not offer battle in the open. It hunted. Alone, in pairs, rarely in threes. It always chose moment and terrain. It avoided any setup where the number of Astartes exceeded the number of Venatori. It waited. Patient as geology.
+The hunter-enclave did not seize positions. It did not defend territory. It did not build supply lines or establish permanent bases. It did not offer battle in the open. It hunted. Alone, in pairs, rarely in threes. It always chose moment and terrain. It avoided any setup where the number of Astartes exceeded the number of stalkers in play. It waited. Patient as geology.
 
 In the first eight months, the Chapter’s response was doctrinal: increase patrol coverage, reduce isolated units, consolidate positions, establish kill zones. The Codex said that was correct procedure. We lost forty-seven Marines applying correct procedure.
 
@@ -91,7 +93,7 @@ There was no front line. No battle with beginning, middle, and end. There were p
 
 That last point had an effect the Codex had not foreseen: the impossibility of performing the full funeral rite. Gene-seed could not be extracted from bodies that did not exist. The names could not be inscribed on any surface, because to inscribe them was to declare a permanent boundary — and there was none. The dead stayed in the log as “status unconfirmed” because to recognize them officially as dead meant accepting the Enclave had taken something we could not recover.
 
-Varro began to perform the rites without the bodies. It was outside protocol. I questioned the liturgical validity. He answered that validity was not the point. That the line needed some way to turn loss into something defined, or the undefined would eat discipline before any Venator had to do more.
+Varro began to perform the rites without the bodies. It was outside protocol. I questioned the liturgical validity. He answered that validity was not the point. That the line needed some way to turn loss into something defined, or the undefined would eat discipline before any stalker had to do more.
 
 It was the first time I understood what Varro did that I could not. Not liturgy. Collective psychological collapse management through means biochemistry could not measure.
 
@@ -103,11 +105,11 @@ The exact date is logged: seventeenth day of the third month of 017.M42.
 
 Legionary Tarkan Vosse, 7th Vexillatio. Twelfth year of service. Clean record. The follow-up report noted *“tension above basal standard, within acceptable margin”* — the same phrase I was writing for two-thirds of the Chapter in that period.
 
-Vosse’s patrol entered an abandoned mining complex in the northern sector. The auspex showed thermal signatures of four Venatori. They cleared the location per Codex protocol — two simultaneous entry points, mutual cover, status vox every two minutes.
+Vosse’s patrol entered an abandoned mining complex in the northern sector. The auspex showed thermal signatures of four stalkers. They cleared the location per Codex protocol — two simultaneous entry points, mutual cover, status vox every two minutes.
 
-The Venatori were not inside. They were outside. And when the patrol realized it had walked into a trap — that the complex was the destination, not the enemy — two Marines were down before the first shot.
+The stalkers were not inside. They were outside. And when the patrol realized it had walked into a trap — that the complex was the destination, not the enemy — two Marines were down before the first shot.
 
-Vosse reacted. The other three in the patrol described what they saw: he advanced on the Venator’s fallback position alone, without waiting for cover, without confirming whether the others could still support. It was not protocol. It was efficient, by the geometry of one thing only: the distance was short and Vosse was fast. He reached the Venator and killed it. Then he stood on the body and did not move for forty seconds while the rest of the patrol consolidated.
+Vosse reacted. The other three in the patrol described what they saw: he advanced on the stalker’s fallback position alone, without waiting for cover, without confirming whether the others could still support. It was not protocol. It was efficient, by the geometry of one thing only: the distance was short and Vosse was fast. He reached the stalker and killed it. Then he stood on the body and did not move for forty seconds while the rest of the patrol consolidated.
 
 When he returned to the *Strategium*, his irises were orange with red rims. Slit pupils. Beard grown beyond regulation — twenty-three hours of accelerated growth.
 
@@ -157,7 +159,7 @@ I logged that too.
 
 ---
 
-## VIII. INVERTING THE PREDATOR (018–023.M42)
+## VIII. INVERTING THE HUNT (018–023.M42)
 
 The second quarter of the war began when Alaric stopped trying to kill the Enclave and started studying it.
 
@@ -167,7 +169,7 @@ The inversion was gradual and brutal. We stopped patrolling by the Codex and sta
 
 The Enclave was extraordinary. But it was predictable within its extraordinariness — because every hunter has patterns. They preferred high ground but not exposed ground. They preferred ambushes to direct confrontation even when direct confrontation was mathematically favorable. They preferred to separate before isolate before eliminate. Those were habits. And habits can be used.
 
-The first Venator we took alive — and who survived capture — was in 019.M42. I spent ninety-six hours analyzing its biology. I catalogued every organic system, every adaptation, every measurable vulnerability. In the end, my report ran two hundred thirty pages and one conclusion line: *“Adversary catalogued. Countermeasures possible.”*
+The first stalker we took alive — and who survived capture — was in 019.M42. I spent ninety-six hours analyzing its biology. I catalogued every organic system, every adaptation, every measurable vulnerability. In the end, my report ran two hundred thirty pages and one conclusion line: *“Adversary catalogued. Countermeasures possible.”*
 
 It was the first time in that conflict I wrote those words in a report. The last of the previous series had been “undetermined.” These were “possible.” The distance between the two adjectives is where the Chapter learned to be Batavi.
 

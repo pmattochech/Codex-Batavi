@@ -2,7 +2,7 @@
 
 **Operation:** SILENT HOURS  
 **Theater:** Marco de Vetra — Vacuum Shouter relay and laser farm complex  
-**Date:** 498.M42  
+**Date:** 140.M42  
 **Unit:** **IX** *Nona* (full Vexillatio)
 
 **Full chronicle:** [silent-hours-marco-de-vetra.md](../14-vexillum-chronicles/silent-hours-marco-de-vetra.md)

@@ -12,7 +12,7 @@ Alaric embodies “pragmatic grimdark.” He is not a speech-giver but a presenc
 
 * **Anchor motto:** In combat he uses open vox protocol to say calmly: *“We hold.”*  
 * **Behavior:** Extremely economical with words. Fixed point where enemy tide shatters. During Silent Vigil (his deep clinical depression), sanity anchored by stabilizing presence of Viggo, whose heartbeat stopped Castellan collapsing on Adamant Throne.
-* **Recorded state (Type III — Duty):** Alaric’s Furor collapse came Foundation War first quarter — not wounded pride nor fear but accumulated crush of enemy wholly outside doctrinal model. *Codex Astartes* did not predict Venator-Alpha Enclave: every protocol failed, every position fell, chimera gene-seed predator biology challenged by force hunting as superior predator. What burned in when *Axiom* failed was not rage at defeat nor terror of extinction — duty. Irrevocable compulsion not to retreat. Fixation on point not yet fallen. Recorded state amplified fixation into permanent biological vector: Alaric does not explode when opposed; he anchors. Greater external pressure, slower and more fixed he becomes. Physiological mechanism that became *“We hold”* — not chosen motto but verbal expression of biological state. Drusus categorized as Type III in *Codex Das Erbe*: rarest and most sustainable recorded state, because it anchors rather than accelerates.
+* **Recorded state (Type III — Duty):** Alaric’s Furor collapse came Foundation War first quarter — not wounded pride nor fear but accumulated crush of enemy wholly outside doctrinal model. *Codex Astartes* did not predict unclassified **xenos hunter** pressure: every protocol failed, every position fell, chimera gene-seed **hunter** biology challenged by a force that **out-hunted** the line. What burned in when *Axiom* failed was not rage at defeat nor terror of extinction — duty. Irrevocable compulsion not to retreat. Fixation on point not yet fallen. Recorded state amplified fixation into permanent biological vector: Alaric does not explode when opposed; he anchors. Greater external pressure, slower and more fixed he becomes. Physiological mechanism that became *“We hold”* — not chosen motto but verbal expression of biological state. Drusus categorized as Type III in *Codex Das Erbe*: rarest and most sustainable recorded state, because it anchors rather than accelerates.
 
 ### 1.1 THE PHYSIOGNOMY OF ALPHA ANOMALY
 
@@ -51,7 +51,7 @@ Beyond anatomical changes, Alaric von Helis’s intermediate-stage stabilization
 
 Hidden under Viggo’s white pelt against *Castra-Lupus* right pauldron rests heavy steel cord wound in multiple turns from which hang **743 plate pairs** — 1,486 individual pieces, roughly 97 kg iron and ceramite pressed by wolf hide to armor ceramic.
 
-Practice began Foundation War without formal doctrine. Alaric took plates from first brother he executed and never stopped. ~650 founder pairs are physical-weight record of cost learning to be what Batavi are: most marines landing Aethelgard 015.M42 died **Versibar**. Survivors became first Legati and Chapter elite. Non-survivors stayed on chain. ~93 post-foundation pairs record 535 additional years functional doctrine much lower rate — one **Versibar** every 5–6 years.
+Practice began Foundation War without formal doctrine. Alaric took plates from first brother he executed and never stopped. ~650 **founder-era** pairs are the monument to learning what Batavi are — **KIA**, **Exanimus** discipline failures, and **Versibar** graves rolled together through **Malakor V**, including **Valerian Heresy** blood-price (**~300** further lost against a **~500** rational spine when the crucible **ended**). **~200 Firstboot** brothers remain on the effective line when **Primaris** mass arrives. Non-survivors stay on chain. ~93 post-foundation pairs record **Silent Vigil** and later centuries at much lower functional cost — one **Versibar** every 5–6 years.
 
 Each pair invariant:
 
@@ -62,7 +62,7 @@ Viggo pelt weight presses total metal volume to ceramic, silencing most plates. 
 
 Chain not trophy. Execratio destroys progenoid glands — those warriors survive in no neophyte. Name survives on chain, or nowhere.
 
-Single loose plate on chain — unpaired, inserted among Foundation War pairs — Drusus added after 031.M42 Execratio, without explanation. Alaric never asked what carved on it. Drusus never explained.
+Single loose plate on chain — unpaired, inserted among Foundation War pairs — Drusus added after Alaric’s crucible Execratio (**~CV y19**; Imperial filings often cite **~031.M42** *approx*), without explanation. Alaric never asked what carved on it. Drusus never explained.
 
 ---
 

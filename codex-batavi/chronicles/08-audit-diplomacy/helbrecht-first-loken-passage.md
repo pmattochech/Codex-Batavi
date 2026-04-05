@@ -1,6 +1,6 @@
 # THE HIGH MARSHAL IN THE PASSAGE: FIRST MEETING WITH THE WALL
 
-*(278.M42 — hyper-stable corridor of the Loken Passage, Castra Vetera Subsector boundary)*
+*(096.M42 — hyper-stable corridor of the Loken Passage, Castra Vetera Subsector boundary)*
 
 ---
 
@@ -72,7 +72,7 @@ Helbrecht almost laughed. Almost.
 
 ---
 
-## IV. ECHO (565.M42 — reader’s note)
+## IV. ECHO (165.M42 — reader’s note)
 
 Years later, in *Castrum Ferrum*’s yard, when Guilliman asked whether Alaric’s humanity was flaw or resource, the High Marshal set hand on sword pommel—**reflex**, not decision. Alaric stepped forward, **as before** in a narrow funnel where each had already measured the other.
 
@@ -82,4 +82,4 @@ They had traded **the only coin that survives in the *Nihilus***: proof each kne
 
 ---
 
-*Cross-reference: [wolf-daughter.md](../07-iron-venus/wolf-daughter.md) — 565.M42, *The Wooden Sword* (second public encounter). [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) — Silent Vigil. **VIII** *Octava* / void execution lens: [loken-funnel-octava.md](../14-vexillum-chronicles/loken-funnel-octava.md).*
+*Cross-reference: [wolf-daughter.md](../07-iron-venus/wolf-daughter.md) — 165.M42, *The Wooden Sword* (second public encounter). [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) — Silent Vigil. **VIII** *Octava* / void execution lens: [loken-funnel-octava.md](../14-vexillum-chronicles/loken-funnel-octava.md).*

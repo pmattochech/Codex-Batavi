@@ -10,7 +10,7 @@ By day she was the Triumvirate’s pupil. Alaric von Helis, Chapter Master, did 
 
 But at night, the “Iron Venus” melted in the service kitchen. There, under Martha and Tobias, she learned what the Astartes had forgotten. Tobias, with mortar-rough hands and cheap tobacco smell, was the counterweight to Alaric’s cold steel. He taught Elara to laugh, to knead bread, and to understand that Noviomagus’s walls did not exist to shield a distant Emperor, but the families who supped just behind them.
 
-**II. The Wooden Sword (565.M42)**
+**II. The Wooden Sword (165.M42)**
 
 At eight, Elara’s fate was forged in the *Castrum Ferrum*’s central courtyard.
 

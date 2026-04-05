@@ -42,7 +42,7 @@
 
 * **Pre-Legatus:** Completed a **full certified *Watch cycle*** under post-**051.M42** lattice ([deathwatch-and-batavorum.md](../../../political-relations/deathwatch-and-batavorum.md)); return audit sealed by *Medicinae* before nomination could advance.  
 * **Appointment:** Confirmed **Legatus** of *Prima* after **Valerius**’s expunging and the **Deathwatch career lattice** — exact year held close in *Strategium* minutes; bears *Alabarda* **not** under *clausula retentionis antecedentis* (no retroactive Watch waiver for this seat’s line of succession).  
-* **Silent Vigil era:** Held Noviomagus Prime garrison stability through centuries of interior time dilation; no public break with the Adamant Throne’s cold years — **discipline over comfort**.
+* **Silent Vigil era:** Held Noviomagus Prime garrison stability through the **Vigil-century** (**050–150.M42**) of **clinical** throne-distance — **discipline over comfort**; no public break with the Adamant Throne’s cold years.
 
 ---
 

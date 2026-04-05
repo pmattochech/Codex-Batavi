@@ -2,7 +2,7 @@
 
 **Operation:** GUTGRIND DESCENT  
 **Theater:** Shepherd moon Selene-Black, Aethelgard system (gas-giant tide well)  
-**Date:** 403.M42  
+**Date:** 121.M42  
 **Unit:** **V** *Quinta* (full Vexillatio)  
 **Enemy:** Orks — Waaagh! splinter Gutgrind (scrap-spire fortress)
 
@@ -36,7 +36,7 @@ Assault clearance from the top and simultaneous hook landings on mid-spine platf
 
 ## 5. *Strategium* note (field 4 register)
 
-The Foundation Aethelgard campaign (*Predator War* era) predates modern four-field *Alabarda* certification logic for Legatus standards. **Gutgrind Descent** is the audit-grade Ork triumph filed for **V** *Quinta* field 4.
+The Foundation War **Aethelgard opening** predates modern four-field *Alabarda* certification logic for Legatus standards. **Gutgrind Descent** is the audit-grade Ork triumph filed for **V** *Quinta* field 4.
 
 ## 6. Certification
 

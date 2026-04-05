@@ -89,7 +89,7 @@ Valdric rejects servo-armor weight and maintenance, runs modified carapace chass
 
 ***Kujhade* legacy and Breathing doctrine**
 
-Valdric’s youth forged under hunter legend ghost. Father transmitted ancestors’ story — only ones surviving lethal *Venator-Alpha* ambush challenges, xenos extinct to *Cohors Batavorum* five centuries before, stories still war myth among tribes. Valdric inherited *Kujhade* and aberrant *Homo Sapiens Lupus* biology endemic to tribe. To stop pride and rage consuming him early, father taught Breathing doctrine: tactical oxygen control stopping adrenaline crossing transformation threshold. Survival tool, not philosophy.
+Valdric’s youth forged under hunter legend ghost. Father transmitted ancestors’ story — only ones surviving lethal **early Aethelgard** ambush challenges, xenos extinct to *Cohors Batavorum* five centuries before, stories still war myth among tribes. Valdric inherited *Kujhade* and aberrant *Homo Sapiens Lupus* biology endemic to tribe. To stop pride and rage consuming him early, father taught Breathing doctrine: tactical oxygen control stopping adrenaline crossing transformation threshold. Survival tool, not philosophy.
 
 **Ice Reaper (basal fury)**
 
@@ -105,7 +105,7 @@ Absolute calamity on return. Seeking reconciliation, found tribe dissected alive
 
 Warg not blocked by that trauma. Valdric knows exactly what it does, with whom, without why. That clarity — not horror but precise cost knowledge — feeds Breathing doctrine. He chooses not to transform. Renews choice every time rage rises past threshold.
 
-**Feral years and cowardice geometry (566–568.M42)**
+**Feral years and cowardice geometry (566–168.M42)**
 
 Valdric wandered forests as hermit two years. At 18, tracked by slaver net using stolen industrial grey armor and false *Cohors Batavorum* heraldry. Unable to subdue him in direct fight, they cornered local nomads and industrial colonists as hostages. To save mortals, Valdric refused fight — absorbing shock traps and neurotoxic sedatives until collapse. Awake in starship hold, same innocents for whom he sacrificed freedom shackled beside him. Broke chains by pure muscle contraction. Silently eliminated guards, took ship.
 

@@ -1,6 +1,6 @@
 # THE PRICE OF MEMORY
 
-*(568.M42 — Noviomagus Prime / Luna Sigma)*
+*(168.M42 — Noviomagus Prime / Luna Sigma)*
 
 ---
 

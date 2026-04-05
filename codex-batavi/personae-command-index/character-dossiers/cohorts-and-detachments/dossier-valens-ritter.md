@@ -10,7 +10,7 @@
 **Gene-home / ledger Vexillatio:** **1st** (*Prima* — **Noviomagus Prime**). Workers’ registers know him by **results**, not sermons.  
 **Primary operational spend:** **8th** (*Octava* — **Great Reef / Maleventum** Threshold theater). **Detached** posture most cycles — *Strategium* tooling aligned with [Steppenwolf](../../doctrine-and-organs/steppenwolf-doctrine.md) registry pattern (Chapter strength; sparse garrison mesh).  
 **Wolf’s Curse:** **Exanimus** — stabilized; **atypical *Axiom* load** (see §2).  
-**Apparent service age:** ~150–220 Terran years (estimate; frontier-native — ricochet-immune).
+**Apparent service age:** ~150–220 Terran years (estimate; **frontier-native** — **CV** annals; no **exit-ricochet** service fiction).
 
 ---
 

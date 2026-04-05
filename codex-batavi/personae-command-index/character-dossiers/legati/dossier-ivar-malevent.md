@@ -42,7 +42,7 @@
 
 * **Watch proof:** **Certified *Watch cycle*** with **heavy void** hours — kill-team adjacent experience referenced only as **Watch seal** numbers in open record.  
 * **Rise:** Survivor-captain of a **reef transit** where three escort frigates were ion-flayed; held **Maleventum** station spine until *Nona* laser shout woke system-wide response.  
-* **278.M42 | Loken funnel intercept:** Led **VIII** *Octava* void net during Black Templars crusade transit; joint containment with Helbrecht fist; certified *Alabarda* **field 4**. Narrative: [loken-funnel-octava.md](../../../chronicles/14-vexillum-chronicles/loken-funnel-octava.md) · companion: [helbrecht-first-loken-passage.md](../../../chronicles/08-audit-diplomacy/helbrecht-first-loken-passage.md) · [aar-vex-viii-loken-passage-intercept.md](../../../chronicles/vexillum-register/aar-vex-viii-loken-passage-intercept.md).
+* **096.M42 | Loken funnel intercept:** Led **VIII** *Octava* void net during Black Templars crusade transit; joint containment with Helbrecht fist; certified *Alabarda* **field 4**. Narrative: [loken-funnel-octava.md](../../../chronicles/14-vexillum-chronicles/loken-funnel-octava.md) · companion: [helbrecht-first-loken-passage.md](../../../chronicles/08-audit-diplomacy/helbrecht-first-loken-passage.md) · [aar-vex-viii-loken-passage-intercept.md](../../../chronicles/vexillum-register/aar-vex-viii-loken-passage-intercept.md).
 
 ---
 
@@ -58,4 +58,4 @@
 
 POV for **boarding**, **ion storms**, **reef chokepoints**, and **Maleventum** EM horror. Natural bridge to *Nona* and fleet chronicles.
 
-**Cross-reference:** [loken-funnel-octava.md](../../../chronicles/14-vexillum-chronicles/loken-funnel-octava.md) (**278.M42**, *Octava* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.8; [general-atlas.md](../../../atlas-and-topography/general-atlas.md) (Threshold mesh).
+**Cross-reference:** [loken-funnel-octava.md](../../../chronicles/14-vexillum-chronicles/loken-funnel-octava.md) (**096.M42**, *Octava* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.8; [general-atlas.md](../../../atlas-and-topography/general-atlas.md) (Threshold mesh).

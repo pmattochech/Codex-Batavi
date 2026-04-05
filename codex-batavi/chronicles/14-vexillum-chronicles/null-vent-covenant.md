@@ -1,7 +1,7 @@
 # [CHRONICLE] NULL-VENT COVENANT — PLATE SEVEN
 
 **Classification:** Chapter / Mechanicus joint narrative (public register abridgment: [aar-vex-vii-null-vent-covenant.md](../vexillum-register/aar-vex-vii-null-vent-covenant.md))  
-**When:** 361.M42 (Silent Vigil)  
+**When:** 112.M42 (Silent Vigil)  
 **Where:** **Vitreus** — lens-forge arcology, **orbital plate Seven**  
 **Who:** **VII** *Septima* under **Legatus Lucan Phaetron**; *Armourium* plasma auditors; Mechanicus allied elements
 

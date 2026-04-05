@@ -2,7 +2,7 @@
 
 **Operation:** KORVUS TWIN BREACH  
 **Theater:** Bifrons-Ferrum gulf — fortresses Korvus-A (outer vault) and Korvus-B (inner spine), linked by tether hab  
-**Date:** 289.M42  
+**Date:** 098.M42  
 **Unit:** **VI** *Sexta* (full Vexillatio; Siege division weighted)  
 **Enemy:** Heretic Astartes warband — unmarked plate, siege doctrine; public register carries no gene-line titling
 

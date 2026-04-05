@@ -24,7 +24,7 @@
 
 Valerius first marine formally designated Legatus *Cohors Batavorum*. Fought beside Alaric all four Foundation War quarters, keeping I Vexillatio functional under same conditions driving rest Chapter biological collapse.
 
-While Triumvirate most founder marines progressively hit Furor stage under constant *Venator-Alpha* Enclave pressure, Valerius’s I Vexillatio stayed stable. Valerius held squadrons on principle then governing whole Chapter — formulation becoming pre-doctrinal *Axiom Rationis* base:
+While most founder marines progressively hit Furor stage under constant **Foundation War first-quarter** hunter pressure, Valerius’s I Vexillatio stayed stable. Valerius held squadrons on principle then governing whole Chapter — formulation becoming pre-doctrinal *Axiom Rationis* base:
 
 > *“Service demands reason instead of devotion. Reason directs duty without blind submission. Duty upheld through regulation of self. I serve the Emperor.”*  
 > — Garviel Loken, pre-Heresy record
@@ -163,7 +163,7 @@ Malakor V return gathered Chapter Chaplains pronounced oath unprecedented *Cohor
 
 Alaric accepted oath silence. Silence Drusus recorded only moment saw Alaric yield authority slice without negotiation condition.
 
-Varro oath expressed more hate. Public recognition despite skull helm despite *Axiom Rationis* despite five hundred years doctrine built containing own nature — still what is. Exanimus not only stage manages: instrument can direct. Direction chosen instrument unequivocal.
+Varro oath expressed more hate. Public recognition despite skull helm despite *Axiom Rationis* despite a **Vigil-long** doctrine built containing own nature — still what is. Exanimus not only stage manages: instrument can direct. Direction chosen instrument unequivocal.
 
 Whoever repeats Valerius path finds Chaplain learned decades Exanimus stage exactly how much Wolf release mind intact. Answer: enough result irreversible.
 
@@ -179,7 +179,7 @@ Exists blank space Foundation War records where name was. Marines know blank rep
 
 Drusus keeps *Inverted Stability Case* mandatory Apothecary reading. Case header name replaced numeric classification.
 
-Varro keeps oath active. Five hundred twenty-five years since Malakor V no *Cohors Batavorum* marine forced fulfill.
+Varro keeps oath active. **One hundred twenty-five years** since Malakor V no *Cohors Batavorum* marine forced fulfill.
 
 500 I Vexillatio plates Alaric chain — pressed Viggo pelt pauldron silent. Valerius plates not. Absence specific pair chain those count more eloquent inscription.
 

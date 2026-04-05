@@ -2,21 +2,56 @@
 
 ## 00-foundation-war
 
-**Summary of the four quarters:** [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md) — reference document with outcomes, key events, and established lore for all war periods. Consult before writing any chronicle in this saga.
+**Canonical narrative:** the **38-chapter serial** below (read in chapter order). **Staff summary** (nine poles, phases, casualty bands, cross-links): [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md).
 
-**Chronicles written:**
-- [predator-war.md](00-foundation-war/predator-war.md) — 1st Quarter (015–022.M42): the *Venator-Alpha* Enclave, first manifestations of the Furor, the embryo of the *Axioma Rationis*, and the cost of learning to be Batavi.
+**Parallel / retrospective lens:** [aethelgard-first-quarter.md](00-foundation-war/aethelgard-first-quarter.md) — Chief Apothecary Drusus compilation (legacy Imperial quarter dating). Where it **contradicts** the serial (e.g. landing strength), treat the **serial + `foundation-war.md`** as authoritative unless a scene explicitly uses Drusus’s file as in-universe document.
 
-**Narrative chronicles — deferred (enemies and events still under revision):**
+**Design lattice (props, bans, time layers — not substitute for chapters):** [`FOUNDATION-WAR-RETCON-PLANNING.md`](../FOUNDATION-WAR-RETCON-PLANNING.md)
 
-The four quarters are summarized with canonical milestones in [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md). Full narrative chronicles will be written when *Venator-Alpha* Enclave details and period-specific events are finalized.
+**Serial crucible (38 chapters):**
 
-| Planned file | Period | Summary available in |
-|---|---|---|
-| `second-quarter.md` | 022–030.M42 | foundation-war.md — Section II |
-| `the-abyss-and-return.md` | 030–037.M42 | foundation-war.md — Section III |
-| `der-batav.md` | 037–045.M42 | foundation-war.md — Section IV |
-| `super-tithe-limes-lupus.md` | 045–048.M42 | foundation-war.md — Section IV + pax-batavorum.md |
+| Ch. | File | Title |
+|-----|------|--------|
+| 1 | [chapter-01-mud-gospel.md](00-foundation-war/chapter-01-mud-gospel.md) | *Mud Gospel* |
+| 2 | [chapter-02-the-arrangement.md](00-foundation-war/chapter-02-the-arrangement.md) | *The Arrangement* |
+| 3 | [chapter-03-dog-logic.md](00-foundation-war/chapter-03-dog-logic.md) | *Dog Logic* |
+| 4 | [chapter-04-seventy-two.md](00-foundation-war/chapter-04-seventy-two.md) | *Seventy-Two* |
+| 5 | [chapter-05-bait-doctrine.md](00-foundation-war/chapter-05-bait-doctrine.md) | *Bait Doctrine* |
+| 6 | [chapter-06-mirror-routes.md](00-foundation-war/chapter-06-mirror-routes.md) | *Mirror Routes* |
+| 7 | [chapter-07-living-specimen.md](00-foundation-war/chapter-07-living-specimen.md) | *Living Specimen* |
+| 8 | [chapter-08-cord-weight.md](00-foundation-war/chapter-08-cord-weight.md) | *Cord Weight* |
+| 9 | [chapter-09-second-quarter-brief.md](00-foundation-war/chapter-09-second-quarter-brief.md) | *Second Quarter Brief* |
+| 10 | [chapter-10-inverted-hive.md](00-foundation-war/chapter-10-inverted-hive.md) | *Inverted Hive* |
+| 11 | [chapter-11-output-quota.md](00-foundation-war/chapter-11-output-quota.md) | *Output Quota* |
+| 12 | [chapter-12-ring-of-teeth.md](00-foundation-war/chapter-12-ring-of-teeth.md) | *Ring of Teeth* |
+| 13 | [chapter-13-flare-geometries.md](00-foundation-war/chapter-13-flare-geometries.md) | *Flare Geometries* |
+| 14 | [chapter-14-brood-signature.md](00-foundation-war/chapter-14-brood-signature.md) | *Brood Signature* |
+| 15 | [chapter-15-exanimus-choir.md](00-foundation-war/chapter-15-exanimus-choir.md) | *Exanimus Choir* |
+| 16 | [chapter-16-glass-overture.md](00-foundation-war/chapter-16-glass-overture.md) | *Glass Overture* |
+| 17 | [chapter-17-tertius-anvil.md](00-foundation-war/chapter-17-tertius-anvil.md) | *Tertius Anvil* |
+| 18 | [chapter-18-years-eight-to-fifteen.md](00-foundation-war/chapter-18-years-eight-to-fifteen.md) | *Years Eight to Fifteen* |
+| 19 | [chapter-19-gulf-deployment.md](00-foundation-war/chapter-19-gulf-deployment.md) | *Gulf Deployment* |
+| 20 | [chapter-20-skin-debt.md](00-foundation-war/chapter-20-skin-debt.md) | *Skin Debt* |
+| 21 | [chapter-21-bridge-saints.md](00-foundation-war/chapter-21-bridge-saints.md) | *Bridge Saints* |
+| 22 | [chapter-22-maw-exercise.md](00-foundation-war/chapter-22-maw-exercise.md) | *Maw Exercise* |
+| 23 | [chapter-23-dynastys-last-command.md](00-foundation-war/chapter-23-dynastys-last-command.md) | *Dynasty’s Last Command* |
+| 24 | [chapter-24-incus-still-burns.md](00-foundation-war/chapter-24-incus-still-burns.md) | *Incus Still Burns* |
+| 25 | [chapter-25-the-beast-chapter.md](00-foundation-war/chapter-25-the-beast-chapter.md) | *The Beast Chapter* (Execratio) |
+| 26 | [chapter-26-vitreus-bleed.md](00-foundation-war/chapter-26-vitreus-bleed.md) | *Vitreus Bleed* |
+| 27 | [chapter-27-half-chapter-still-standing.md](00-foundation-war/chapter-27-half-chapter-still-standing.md) | *Half Chapter Still Standing* |
+| 28 | [chapter-28-forward-to-the-crown.md](00-foundation-war/chapter-28-forward-to-the-crown.md) | *Forward to the Crown* |
+| 29 | [chapter-29-estuary-doctrine.md](00-foundation-war/chapter-29-estuary-doctrine.md) | *Estuary Doctrine* |
+| 30 | [chapter-30-tide-names.md](00-foundation-war/chapter-30-tide-names.md) | *Tide Names* |
+| 31 | [chapter-31-mirror-brood.md](00-foundation-war/chapter-31-mirror-brood.md) | *Mirror Brood* |
+| 32 | [chapter-32-prism-war.md](00-foundation-war/chapter-32-prism-war.md) | *Prism War* |
+| 33 | [chapter-33-halo-mouth.md](00-foundation-war/chapter-33-halo-mouth.md) | *Halo Mouth* |
+| 34 | [chapter-34-lecture-in-vacuum.md](00-foundation-war/chapter-34-lecture-in-vacuum.md) | *Lecture in Vacuum* |
+| 35 | [chapter-35-we-hold-anyway.md](00-foundation-war/chapter-35-we-hold-anyway.md) | *We Hold Anyway* |
+| 36 | [chapter-36-the-core-refuses.md](00-foundation-war/chapter-36-the-core-refuses.md) | *The Core Refuses* |
+| 37 | [chapter-37-der-batav-council.md](00-foundation-war/chapter-37-der-batav-council.md) | *Der Batav Council* |
+| 38 | [chapter-38-instrumentum-solum.md](00-foundation-war/chapter-38-instrumentum-solum.md) | *Instrumentum Solum* |
+
+**Note:** `aethelgard-first-quarter.md` is **in-universe archive texture**; merged staff canon lives in the serial + [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md).
 
 ---
 
@@ -44,20 +79,20 @@ The four quarters are summarized with canonical milestones in [foundation-war.md
 - [viggo-saga.md](05-viggo-saga/viggo-saga.md) — includes *Baptism of Oil and Ice*
 
 ## 06-silent-vigil — The Silent Vigil
-*(050.M42 – 550.M42 — The Chapter operates under a Castellan who is present but hollowed out. The Legati carry what Alaric cannot carry.)*
+*(050.M42 – 150.M42 — The Chapter operates under a Castellan who is present but hollowed out. The Legati carry what Alaric cannot carry.)*
 
-- [malakor-v.md](06-silent-vigil/malakor-v.md) ✅ — 050.M42. The bait, the forty-three-minute fight, the wordless sentence. The five hundred plaques added that night and the absent pair. The trigger of the Silent Vigil.
+- [malakor-v.md](06-silent-vigil/malakor-v.md) ✅ — 050.M42. The bait, the forty-three-minute fight, the wordless sentence. **Valerian Heresy** blood-price (**~300** pairs on the cord that cycle). The trigger of the Silent Vigil.
 - [strategium-silence.md](06-silent-vigil/strategium-silence.md) ✅ — Silent Vigil. Strategium, Viggo as anchor, orders through the wolf, Alaric’s collapse and Drusus’s clinical discovery.
 - [last-heat-of-the-wall.md](06-silent-vigil/last-heat-of-the-wall.md) ✅ — Martha’s kitchen, Elara as infant and childhood with Viggo, Viggo’s death (Elara age twelve, after Luna Sigma), Mantle of Providence, bones on Fenris.
-- [without-distinction.md](06-silent-vigil/without-distinction.md) ✅ — ca. 280.M42. Halvard, Legatus of the I Vexillatio. Post-battle protocol without celebration or praise: maintenance, replenishment, chaplain, descent to the cells. The weight of being functional as the only form of honor.
+- [without-distinction.md](06-silent-vigil/without-distinction.md) ✅ — ca. 099.M42. Halvard, Legatus of the I Vexillatio. Post-battle protocol without celebration or praise: maintenance, replenishment, chaplain, descent to the cells. The weight of being functional as the only form of honor.
 
 ## 07-iron-venus
 - [iron-venus.md](07-iron-venus/iron-venus.md) — aggregated block (short merged H1s: *The End of the Vigil*, Tyvar, Aethelgard, etc.)
 - [sanctuary-smoke-and-bread.md](07-iron-venus/sanctuary-smoke-and-bread.md)
-- [wolf-daughter.md](07-iron-venus/wolf-daughter.md) ✅ — Iron Venus arc. Includes **565.M42 | The Wooden Sword**: inspection by Guilliman, Calgar, and Helbrecht in the Nine Phalanx; Elara (age eight) steps before the Regent; *The Root holds the stone*. Includes Tobias’s death, Alaric’s vigil, and Elara’s naval rise.
-- **Parapet — personal records (Drusus + Varro), frame 578.M42**
-  - [record-drusus-elara.md](07-iron-venus/record-drusus-elara.md) ✅ — clinical voice; retroactive wall log + live room (*Apothecarion*); snarl, telemetry, calibrated gestures; two patients; Varro / purpose–fear; kitchen (thermal anchor, name, decibels, cortisol); growth (checkups, touch on the white sleeve, parapet, tear / Primarch recalibration); 565.M42; Tobias, antechamber (BP / pupil); Academy as load; close 578.M42.
-  - [record-varro-elara.md](07-iron-venus/record-varro-elara.md) ✅ — doctrinal voice; arrival at the *Apothecarion* (snarl, *vox* to Drusus, anchoring, fear vs. purpose); Triumvirate; kitchen, name **Elara Solis**, growth beats (sleep, helm, parapet); 565.M42; Tobias; Naval Academy through reports; Malakor / close 578.M42.
+- [wolf-daughter.md](07-iron-venus/wolf-daughter.md) ✅ — Iron Venus arc. Includes **165.M42 | The Wooden Sword**: inspection by Guilliman, Calgar, and Helbrecht in the Nine Phalanx; Elara (age eight) steps before the Regent; *The Root holds the stone*. Includes Tobias’s death, Alaric’s vigil, and Elara’s naval rise.
+- **Parapet — personal records (Drusus + Varro), frame 178.M42**
+  - [record-drusus-elara.md](07-iron-venus/record-drusus-elara.md) ✅ — clinical voice; retroactive wall log + live room (*Apothecarion*); snarl, telemetry, calibrated gestures; two patients; Varro / purpose–fear; kitchen (thermal anchor, name, decibels, cortisol); growth (checkups, touch on the white sleeve, parapet, tear / Primarch recalibration); 165.M42; Tobias, antechamber (BP / pupil); Academy as load; close 178.M42.
+  - [record-varro-elara.md](07-iron-venus/record-varro-elara.md) ✅ — doctrinal voice; arrival at the *Apothecarion* (snarl, *vox* to Drusus, anchoring, fear vs. purpose); Triumvirate; kitchen, name **Elara Solis**, growth beats (sleep, helm, parapet); 165.M42; Tobias; Naval Academy through reports; Malakor / close 178.M42.
   - *Note:* records are **retrospective**, not fiction locked to a single instant; canonical Parapet / kitchen scene in [iron-venus.md](07-iron-venus/iron-venus.md). See [dossier-elara-solis.md](../personae-command-index/character-dossiers/mortals/dossier-elara-solis.md).
 
 ## 08-audit-diplomacy
@@ -65,7 +100,7 @@ The four quarters are summarized with canonical milestones in [foundation-war.md
 - [diplomacy-aethelgard.md](08-audit-diplomacy/diplomacy-aethelgard.md)
 - [dragon-in-the-hearth-tushan.md](08-audit-diplomacy/dragon-in-the-hearth-tushan.md)
 - [gray-silence-of-fenris.md](08-audit-diplomacy/gray-silence-of-fenris.md)
-- [helbrecht-first-loken-passage.md](08-audit-diplomacy/helbrecht-first-loken-passage.md) ✅ — **278.M42 | Silent Vigil.** First Helbrecht–Alaric meeting at the Loken Passage; Templar crusade, xenos attack in the funnel, *We hold*; faith vs. geometry; echoes in [wolf-daughter.md](07-iron-venus/wolf-daughter.md) (565.M42).
+- [helbrecht-first-loken-passage.md](08-audit-diplomacy/helbrecht-first-loken-passage.md) ✅ — **096.M42 | Silent Vigil.** First Helbrecht–Alaric meeting at the Loken Passage; Templar crusade, xenos attack in the funnel, *We hold*; faith vs. geometry; echoes in [wolf-daughter.md](07-iron-venus/wolf-daughter.md) (165.M42).
 - [loken-funnel-octava.md](14-vexillum-chronicles/loken-funnel-octava.md) — **VIII** *Octava* / *Alabarda* field 4 lens: **Ivar Malevent**, funnel net, nested fire with Black Templars; companion to *helbrecht-first-loken-passage*.
 
 ## 09-frontier-life
@@ -78,7 +113,7 @@ The four quarters are summarized with canonical milestones in [foundation-war.md
 
 ## 11-sigma-moon
 
-**Milestone:** 568.M42 — The Battle of Luna Sigma.
+**Milestone:** 168.M42 — The Battle of Luna Sigma.
 
 - [battle-of-sigma-moon.md](11-sigma-moon/battle-of-sigma-moon.md) ✅ — Alaric faces Angron in single combat. The Librarians’ signal, the Broken Haruspicium, the fifty-three-minute fight and the regenerative coma. The Integration Anomaly.
 - [price-of-memory.md](11-sigma-moon/price-of-memory.md) ✅ — Elara and Tobias reach evacuated Luna Sigma. The Inquisitor who lies by omission. Alaric says only what he can. Elara archives everything for when she holds enough rank.
@@ -87,7 +122,7 @@ The four quarters are summarized with canonical milestones in [foundation-war.md
 
 ## 12-vigilax
 
-**Milestone:** **350.M42** (Silent Vigil, **before** Elara’s birth).
+**Milestone:** **110.M42** (Silent Vigil, **before** Elara’s birth).
 
 **Theater:** **Vigilax Prime** — civilians under Castra Vetera mandate; Marines Malevolent in unauthorized operation / disproportionate purge.
 
@@ -96,7 +131,7 @@ The four quarters are summarized with canonical milestones in [foundation-war.md
 
 Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in Vigilax public records). No Elara (not yet born).
 
-**Helbrecht / Loken Passage:** first meeting in the Vigil — [helbrecht-first-loken-passage.md](08-audit-diplomacy/helbrecht-first-loken-passage.md) (**278.M42**). Second meeting in [wolf-daughter.md](07-iron-venus/wolf-daughter.md) (565.M42, with Guilliman and Calgar).
+**Helbrecht / Loken Passage:** first meeting in the Vigil — [helbrecht-first-loken-passage.md](08-audit-diplomacy/helbrecht-first-loken-passage.md) (**096.M42**). Second meeting in [wolf-daughter.md](07-iron-venus/wolf-daughter.md) (165.M42, with Guilliman and Calgar).
 
 ---
 
@@ -112,17 +147,17 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 
 - [INDEX.md](14-vexillum-chronicles/INDEX.md) — chronicle list + pointers to **III** / **VIII** / Malakor-adjacent material
 - [ruhe-defense.md](14-vexillum-chronicles/ruhe-defense.md) — **IV** *Quarta*, **048.M42** Tyranid veil / shingle line; **Branimir Vorhalt** POV; Drusus coefficients; *Alabarda* **Ruhe** reference hold.
-- [gutgrind-descent.md](14-vexillum-chronicles/gutgrind-descent.md) — **V** *Quinta*, **403.M42** Selene-Black; **Armin Sturmwahl** vs Warboss Gutgrind; Ork scrap-spire; *Alabarda* field 4 (post–*Predator War* register).
-- [korvus-twin-breach.md](14-vexillum-chronicles/korvus-twin-breach.md) — **VI** *Sexta*, **289.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; *Alabarda* field 4.
-- [null-vent-covenant.md](14-vexillum-chronicles/null-vent-covenant.md) — **VII** *Septima*, **361.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; *Alabarda* field 4.
-- [silent-hours-marco-de-vetra.md](14-vexillum-chronicles/silent-hours-marco-de-vetra.md) — **IX** *Nona*, **498.M42** Marco de Vetra; **Cassian Vetra**; Shouter relay under EM storm; *Alabarda* field 4.
+- [gutgrind-descent.md](14-vexillum-chronicles/gutgrind-descent.md) — **V** *Quinta*, **121.M42** Selene-Black; **Armin Sturmwahl** vs Warboss Gutgrind; Ork scrap-spire; *Alabarda* field 4 (post–**Foundation War / Aethelgard opening** register).
+- [korvus-twin-breach.md](14-vexillum-chronicles/korvus-twin-breach.md) — **VI** *Sexta*, **098.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; *Alabarda* field 4.
+- [null-vent-covenant.md](14-vexillum-chronicles/null-vent-covenant.md) — **VII** *Septima*, **112.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; *Alabarda* field 4.
+- [silent-hours-marco-de-vetra.md](14-vexillum-chronicles/silent-hours-marco-de-vetra.md) — **IX** *Nona*, **140.M42** Marco de Vetra; **Cassian Vetra**; Shouter relay under EM storm; *Alabarda* field 4.
 - [decima-justice-vexillum.md](14-vexillum-chronicles/decima-justice-vexillum.md) — **X** *Decima* **justice vexillum** (not *Alabarda*); **051.M42** commission; **Kadmos**, **Varro**, first Ancient; **Markus Graile** echo; companion to [malakor-v.md](06-silent-vigil/malakor-v.md).
 
 ---
 
 ## 13-apotheosis
 
-**Milestone:** 575.M42 — The Call to the Throne.
+**Milestone:** 175.M42 — The Call to the Throne.
 
 | File | Contents | Status |
 |---|---|---|

@@ -1,6 +1,6 @@
 # THE VIGILAX INCIDENT: TWO LAWS, ONE CERAMITE FLOOR
 
-*(350.M42 — Vigilax Prime, Castra Vetera Subsector)*
+*(110.M42 — Vigilax Prime, Castra Vetera Subsector)*
 
 ---
 
@@ -246,7 +246,7 @@ In the following years of the Silent Vigil, **mixed patrols** that included that
 
 Drusus filed the *Vermilion* package with a one-line addendum:
 
-> *Castra Vetera intervention at Vigilax Prime, 350.M42 — jurisdictional clarification by force. Residual psychic stress in civilian population: moderate. Residual psychic stress in foreign Astartes: elevated.*
+> *Castra Vetera intervention at Vigilax Prime, 110.M42 — jurisdictional clarification by force. Residual psychic stress in civilian population: moderate. Residual psychic stress in foreign Astartes: elevated.*
 
 Varro did not comment on the report.
 
@@ -268,4 +268,4 @@ And the sound, still sometimes dreamed in Serragris, of something heavy descendi
 
 ---
 
-*Cross-reference: [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) — 350.M42 | The Vigilax Incident.*
+*Cross-reference: [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) — 110.M42 | The Vigilax Incident.*

@@ -1,7 +1,7 @@
 # AFTER-ACTION REPORT — Loken Passage funnel intercept
 
 **Operation:** LOKEN PASSAGE — transit defense segment  
-**Date:** 278.M42  
+**Date:** 096.M42  
 **Unit:** **VIII** *Octava* (primary boarding / corridor interlock); Black Templars crusade elements (allied fire discipline)
 
 ---

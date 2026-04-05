@@ -2,7 +2,8 @@
 
 **Date:** 050.M42  
 **Theater:** Malakor V — peripheral sector of the Nine Phalanx, Cicatrix Maledictum influence zone  
-**Characters:** Alaric von Helis, Drusus (rear guard), Varro (doctrinal witness), the Versibar of the I Vexillatio
+**Characters:** Alaric von Helis, Drusus (rear guard), Varro (doctrinal witness), the Versibar of the I Vexillatio  
+**Scope:** **Valerian Heresy** — **I** *Prima* rot; **~300** Chapter losses (**KIA** / **Versibar**) in the wider Malakor theater; first **documented** **battlefield** ***Adversarii at Portas*** correlation ([`projection-aurea-wolfs-curse.md`](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — **Exanimus Testament**).
 
 ---
 
@@ -31,6 +32,8 @@ The only element Valerius lacked was forty-three years’ knowledge of how Valer
 ---
 
 ## II. THE FIELD
+
+**Valerian Heresy — theater accounting:** Malakor V was never only a corridor. **I** *Prima*’s treason had spread across **rot**-linked anchors; **Blutrecht** Tier 3 had **locked** **loyal Versibars** onto **traitor gene-seed** while Lord Castellan **Alpha** **imposed** **predation geometry** — irrational mass **aimed**, not Chapter-wide **catastrophe**. *Strategium* later files the engagement as the first **documented** **battlefield** ***Adversarii at Portas*** correlation: **distinct** from **terminal** Black Cell release (facility lost / indiscriminate **Portas**). Before Alaric met **Valerius** in the maze, the **blood-price** was already **~300** names — against **~500** brothers still **rational** when the **crucible** ended. **~200 Firstboot** would remain on line when the ash settled. The duel was **sentence** on the **First Legatus**, not the whole war.
 
 The interception sector was industrial — extraction platforms abandoned after Cicatrix pressure made mining unviable. Oxidized metal, choked vent chambers, scaffolding no one had inspected in decades. Geography Valerius knew from the same map Alaric had used to build the hook.
 
@@ -86,11 +89,11 @@ Valerius knelt on Malakor V’s oxidized metal, right arm pinned by the *Castra-
 
 There was no fear in them.
 
-*“You will carry this.”* The voice was still clear. *“Five hundred Marines. Everything the I Vexillatio was. You will carry all of it.”*
+*“You will carry this.”* The voice was still clear. *“Three hundred names. Everything the First was. You will carry all of it.”*
 
 Alaric raised the force sword.
 
-*“You were carrying enough before me. I know the weight of the cord. I watched you add the plates. You will add five hundred more and you will keep walking as you always have, because that is all you know how to do.”* A pause. *“I do not regret it. You need to know that. Of nothing.”*
+*“You were carrying enough before me. I know the weight of the cord. I watched you add the plates. You will add three hundred more tonight and you will keep walking as you always have, because that is all you know how to do.”* A pause. *“I do not regret it. You need to know that. Of nothing.”*
 
 Alaric struck.
 
@@ -130,7 +133,7 @@ Drusus did not approach.
 
 That night, aboard the return ship, Alaric spent three hours alone in the mobile *Apothecarion*. Drusus left the instrumentation running and walked out.
 
-When he returned, there were 500 new plate pairs on the cord — the largest single-event accumulation in Chapter history. The I Vexillatio’s names, added with the same precision as any other pair, without distinction of rank or length of service.
+When he returned, there were **~300** new plate pairs on the cord — the **Valerian Heresy** ledger, largest single-event accumulation since the **crucible** years: **I** *Prima* rot, loyal dead, **Versibars** judged and catalogued, without distinction of rank or length of service except what the *Apothecarion* required.
 
 Drusus ran a recent-plate auspex scan.
 
@@ -138,9 +141,9 @@ He was checking the count.
 
 He stood still a moment when the data confirmed what the count showed.
 
-There were 500 pairs.
+There were three hundred pairs.
 
-There were not 501.
+There were not three hundred and one.
 
 He powered down the scanner and left without logging the observation in any report.
 
@@ -180,11 +183,11 @@ Varro said nothing about that.
 
 Drusus logged the telemetry and filed *Vermilion*.
 
-The Silent Vigil would last five hundred years. What changed was time inside the armor.
+The Silent Vigil would last **one hundred years**. What changed was the **weight** inside the armor — not a dome that ran fast; a man who stopped being **present** while still standing in every room that mattered.
 
 ---
 
-*The period that follows (050.M42 – 550.M42) is catalogued internally as the Silent Vigil. The Chapter’s formal records from that span document campaigns, Vexillatio rotations, alliances, and losses. The informal records — corridor talk, neophyte accounts that never understood why the Castellan seemed to carry more weight than any cord could measure — were not filed.*
+*The period that follows (050.M42 – 150.M42) is catalogued internally as the Silent Vigil. The Chapter’s formal records from that span document campaigns, Vexillatio rotations, alliances, and losses. The informal records — corridor talk, neophyte accounts that never understood why the Castellan seemed to carry more weight than any cord could measure — were not filed.*
 
 *They did not need to be.*
 

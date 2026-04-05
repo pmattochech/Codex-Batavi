@@ -41,7 +41,7 @@
 
 ## 4\. History (in-universe — chronology access)
 
-* **Rise:** Promoted to **captain** after **Sigma Moon** clean-up coordination (568.M42) — role was **liaison**, not duelist; *Strategium* valued **file discipline** under Grey Knights aftermath confusion.  
+* **Rise:** Promoted to **captain** after **Sigma Moon** clean-up coordination (168.M42) — role was **liaison**, not duelist; *Strategium* valued **file discipline** under Grey Knights aftermath confusion.  
 * **Present:** Frequently **embarked** with Triumvirate escort cadres; when ashore on Noviomagus, runs **closed** *Decima* refinement cages — Alaric sometimes observes **without** announcement.
 
 ---

@@ -28,7 +28,7 @@ Steppenwolves **remain** on **Chapter strength** and count toward the **5,000** 
 
 **Exception to Watch rotation numbers:** For **Deathwatch** and *Strategium* **throughput accounting**, Steppenwolf **heads** sit on the **exception ledger** — they **do not** consume slots from the **capped voluntary rotation pool** that limits ordinary line secondments ([deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) §4). Their **perpetual or long-detached** billets are **negotiated separately** in the Watch–Chapter appendix.
 
-**Frontier birth and temporal ricochet:** **Every** Steppenwolf is **of the frontier** — recruited, implanted, and sworn **inside** the Castra Vetera mesh (the Chapter does **not** file **Steppenwolf** status for non-native transfers). They share the **root elasticity / bond of origin** that makes **frontier-native** legionaries **immune** to **temporal ricochet** when crossing the veil (outsiders decompress; anchors do not) — see [master-chronology.md](../events-and-chronologies/master-chronology.md) (*Temporal ricochet mechanics* / *Root elasticity*).
+**Frontier birth and chronology:** **Every** Steppenwolf is **of the frontier** — recruited, implanted, and sworn **inside** the Castra Vetera mesh (the Chapter does **not** file **Steppenwolf** status for non-native transfers). They carry the same **bond-of-origin** filing as other **frontier-native** Batavi: **CV** / Strategium annals are **authority** for service biography; **off-world tithe dates** and **warp-leg** duration may **disagree** without imposing **dome-time aging** or **exit ricochet** on the marine — see [master-chronology.md](../events-and-chronologies/master-chronology.md) (**Chronology addendum**).
 
 ---
 

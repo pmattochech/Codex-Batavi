@@ -1,6 +1,6 @@
 # NO DISTINCTION
 
-*ca. 280.M42 — Proximal Sector, Cicatrix, Castra Vetera Subsector*
+*ca. 099.M42 — Proximal Sector, Cicatrix, Castra Vetera Subsector*
 
 ---
 
@@ -106,7 +106,7 @@ Halvard wrote the phase-four final report on the terminal and watched the unit s
 
 The I Vexillatio was operational.
 
-Halvard killed the terminal light. Somewhere above him, two sectors and five hundred years away, Lord Castellan Alaric von Helis ruled from an Adamant Throne without removing his armor. The Chapter functioned. The frontier held. And the I Vexillatio had left the field with six hundred three eliminated and seventeen dead and no new dishonor to add to the weight it already carried.
+Halvard killed the terminal light. Somewhere above him, two sectors and one hundred Vigil-years away, Lord Castellan Alaric von Helis ruled from an Adamant Throne without removing his armor. The Chapter functioned. The frontier held. And the I Vexillatio had left the field with six hundred three eliminated and seventeen dead and no new dishonor to add to the weight it already carried.
 
 It was not distinction.
 
@@ -116,4 +116,4 @@ Halvard slept the six regulatory hours without making room for more.
 
 ---
 
-*I Vexillatio operational file, ca. 280.M42. No special classification. Contents: standard post-campaign report, routine doctrinal protocol. No action worth note.*
+*I Vexillatio operational file, ca. 099.M42. No special classification. Contents: standard post-campaign report, routine doctrinal protocol. No action worth note.*

@@ -1,7 +1,7 @@
 # AFTER-ACTION REPORT — Vigilax triangulation (extract)
 
 **Operation:** VIGILAX PRIME — interdiction under Castra Vetera mandate  
-**Date:** 350.M42  
+**Date:** 110.M42  
 **Unit:** **III** *Tertia* (Legatus command; Triumvirate elements attached)  
 **Classification:** *Vermilion* — inter-Astartes incident
 

@@ -1,6 +1,6 @@
 # THE CALL TO THE THRONE
 
-*(575.M42 — Noviomagus Prime, Castra Vetera Subsector)*
+*(175.M42 — Noviomagus Prime, Castra Vetera Subsector)*
 
 ---
 
@@ -36,7 +36,7 @@ Alaric was larger. Trajann was older. Both knew it.
 
 — Captain-General — said Alaric. Same tone.
 
-Tyvar stood four meters to Alaric’s right, motionless, spear vertical. Something in the Custodes’ posture differed from standard — not tension, but attention of a different degree. He had guarded Alaric for 527 years. It was the first time his direct superior stood in the same corridor.
+Tyvar stood four meters to Alaric’s right, motionless, spear vertical. Something in the Custodes’ posture differed from standard — not tension, but attention of a different degree. He had guarded Alaric for **127 years** — from **048.M42** (*Limes Lupus*) to this corridor — spanning the **Silent Vigil** and what came after. It was the first time his direct superior stood in the same corridor.
 
 Trajann looked at Tyvar for two seconds.
 
@@ -172,7 +172,7 @@ Trajann stood before the window to the forge yard. Watched the chimneys a moment
 
 — Most Chapters would hide the cells.
 
-— Most Chapters do not have a Custodes living in the fortress for five hundred twenty-seven years — said Alaric. — Tyvar already knows everything. What I am showing you is that I have nothing to hide from whoever has duty to kill me if I fail.
+— Most Chapters do not have a Custodes living in the fortress for **one hundred twenty-seven years** — said Alaric. — Tyvar already knows everything. What I am showing you is that I have nothing to hide from whoever has duty to kill me if I fail.
 
 Trajann turned to him.
 
@@ -182,11 +182,11 @@ Trajann turned to him.
 
 Trajann looked at the Castellan a moment. Then at Tyvar.
 
-— Five hundred twenty-seven years — he said.
+— **One hundred twenty-seven years** — he said.
 
-— Five hundred twenty-eight in three months — said Tyvar.
+— **One hundred twenty-eight** in three months — said Tyvar.
 
-— And your judgment? — said Trajann. The question was direct, meant for the Custodes, not the Castellan. — After five hundred twenty-eight years. Does the instrument still work?
+— And your judgment? — said Trajann. The question was direct, meant for the Custodes, not the Castellan. — After **one hundred twenty-eight years**. Does the instrument still work?
 
 Tyvar was silent two seconds. For him, that was long reflection.
 

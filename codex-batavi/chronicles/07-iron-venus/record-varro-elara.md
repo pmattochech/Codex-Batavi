@@ -1,12 +1,12 @@
 # PERSONAL RECORD — VARRO ON ELARA SOLIS
 
-*Not for the open Reclusiam or the pulpit. Working memory of the Master of Chaplains. **578.M42** — written after consolidation of the Gate; memories describe events from **550.M42** onward.*
+*Not for the open Reclusiam or the pulpit. Working memory of the Master of Chaplains. **178.M42** — written after consolidation of the Gate; memories describe events from **150.M42** onward.*
 
 *The objective outcome of the discovery on the Parapet and the first night in the kitchen remains canonical in [iron-venus.md](iron-venus.md). This text is complementary: voice, doctrinal silences, and reading of the invisible over time.*
 
 ---
 
-## I. Arrival (550.M42) — cry, door, anchoring
+## I. Arrival (150.M42) — cry, door, anchoring
 
 I was not on the Parapet when the crying began. I was in the medical sector with **Drusus**, closing what the *Apothecarion* calls routine and I call **after-action**: dried blood on the *Crozius*, antiseptic wrestling with iron, war reduced to residue on cloth and in conscience. It was not distance in kilometers; it was distance of **function**. The Castellan had chosen the wall; I had chosen the interval after the blade — the place where doctrine decides whether it is still worth it.
 
@@ -78,7 +78,7 @@ I taught her survival without unnecessary sweetness. Martha taught her warmth wi
 
 I adjusted tone when needed: less dread in words, more **weight** in the pause. She was not a neophyte; she was human. The fear I inspire in the troop would be waste in her; respect, not.
 
-**565.M42.** The *Castrum Ferrum* courtyard. Guilliman. Calgar. Helbrecht. I held the crowd’s discipline in layers the common eye does not see — adjunct chaplains, closed *vox* channel, hands not resting on grips without order. When Elara broke the cordon with the wooden sword in hand, my heart — yes, the organ, not the metaphor — raced enough for me to **feel** the Exanimus clench the jaw inside the helm.
+**165.M42.** The *Castrum Ferrum* courtyard. Guilliman. Calgar. Helbrecht. I held the crowd’s discipline in layers the common eye does not see — adjunct chaplains, closed *vox* channel, hands not resting on grips without order. When Elara broke the cordon with the wooden sword in hand, my heart — yes, the organ, not the metaphor — raced enough for me to **feel** the Exanimus clench the jaw inside the helm.
 
 It was not pride. It was **panic calculus**: a human variable at the center of a circle that could kill half a sector with one slip of attention. I saw Alaric set his gauntlet on her shoulder. I saw the Primarch lower rhetoric before the hand.
 
@@ -90,13 +90,13 @@ Tobias died as good men die on Noviomagus: **holding the door** for others. At t
 
 ---
 
-## V. Close (578.M42) — oath, Gate, and limit
+## V. Close (178.M42) — oath, Gate, and limit
 
 In **050.M42** I swore before the Chaplains what the archive calls *Varro’s word*: the traitor does not pass Alaric — he passes through the wolf and the iron I carry. That oath was not revoked. It will not be.
 
 Elara does not invalidate it. She does not soften it. She **contextualizes** — the same verb we use when we say a fortress only makes sense if something inside is worth the siege.
 
-Today she commands eyes in the vacuum. I did not foresee that in 550.M42. It was not my work to foresee. It was my work to **ensure** the Chapter did not turn the child into a propaganda saint or a hostage of guilt. I think — with the care of a man who says “I think” when he still fears being wrong — I did enough of that.
+Today she commands eyes in the vacuum. I did not foresee that in 150.M42. It was not my work to foresee. It was my work to **ensure** the Chapter did not turn the child into a propaganda saint or a hostage of guilt. I think — with the care of a man who says “I think” when he still fears being wrong — I did enough of that.
 
 What I admit in private, with no witnesses but this file: **I do not know** what the Throne will make of her tomorrow. I know what the Chapter needs her to be today: a bridge that does not yield, logic that does not deny blood, humanity that does not apologize for existing beside steel.
 

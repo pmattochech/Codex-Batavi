@@ -40,9 +40,9 @@
 
 ## 4\. History (in-universe — chronology access)
 
-* **Watch proof:** **Certified *Watch cycle*** — longest **solo** Watch extension in Legatus peer group (months exterior, weeks interior — ricochet irrelevant; frontier-native).  
+* **Watch proof:** **Certified *Watch cycle*** — longest **solo** Watch extension in Legatus peer group (months exterior, weeks interior — **tithe / warp-leg skew** irrelevant to Watch certification; **frontier-native**).  
 * **Rise:** Promoted after **simulated** Shouter collapse exercise proved previous Legatus **overcommitted** kill ratio and **lost** antenna integrity; Vetra’s solution was **uglier** and **lived**.  
-* **498.M42 | Silent Hours:** Held **Vacuum Shouter** relay and laser farm through Maleventum-class EM storm; preemptive scorch on coupling bay; minimal-power pulse acknowledged by Noviomagus; twenty-seven *Nona* battle-brothers killed; certified *Alabarda* **field 4**. Narrative: [silent-hours-marco-de-vetra.md](../../../chronicles/14-vexillum-chronicles/silent-hours-marco-de-vetra.md) · [aar-vex-ix-silent-hours.md](../../../chronicles/vexillum-register/aar-vex-ix-silent-hours.md).
+* **140.M42 | Silent Hours:** Held **Vacuum Shouter** relay and laser farm through Maleventum-class EM storm; preemptive scorch on coupling bay; minimal-power pulse acknowledged by Noviomagus; twenty-seven *Nona* battle-brothers killed; certified *Alabarda* **field 4**. Narrative: [silent-hours-marco-de-vetra.md](../../../chronicles/14-vexillum-chronicles/silent-hours-marco-de-vetra.md) · [aar-vex-ix-silent-hours.md](../../../chronicles/vexillum-register/aar-vex-ix-silent-hours.md).
 
 ---
 
@@ -58,4 +58,4 @@
 
 POV for **relay horror**, **delay tactics**, **Threshold** sacrifice stories, and **macro** Chapter wake-up calls. High leverage for apocalypse-tier invasions.
 
-**Cross-reference:** [silent-hours-marco-de-vetra.md](../../../chronicles/14-vexillum-chronicles/silent-hours-marco-de-vetra.md) (**498.M42**, *Nona* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.9; [master-chronology.md](../../events-and-chronologies/master-chronology.md) (*Porta Nihili* context).
+**Cross-reference:** [silent-hours-marco-de-vetra.md](../../../chronicles/14-vexillum-chronicles/silent-hours-marco-de-vetra.md) (**140.M42**, *Nona* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.9; [master-chronology.md](../../events-and-chronologies/master-chronology.md) (*Porta Nihili* context).

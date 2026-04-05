@@ -1,6 +1,6 @@
 # THE BATTLE OF LUNA SIGMA: THE DAY THE WALL CRACKED
 
-*(568.M42 — Noviomagus System, Luna Sigma)*
+*(168.M42 — Noviomagus System, Luna Sigma)*
 
 ---
 
@@ -48,7 +48,7 @@ Alaric stood still for two seconds. For those who knew him, two seconds of total
 
 ## II. THE BROKEN HARUSPICIUM (Addendum — *Librarium* perspective)
 
-*Clinical log of Chief Librarian Otho — Cinnabar Archive — 568.M42*
+*Clinical log of Chief Librarian Otho — Cinnabar Archive — 168.M42*
 
 What follows is the body of evidence behind the archive term **Broken Haruspicium** — from Henricus’s first fracture through the shutdown order.
 
@@ -180,7 +180,7 @@ For Tyvar, that was the equivalent of a speech.
 
 ---
 
-## V. THE REGENERATIVE COMA (568.M42 — three months)
+## V. THE REGENERATIVE COMA (168.M42 — three months)
 
 *Log of Chief Apothecary Drusus — Vermilion Archive*
 
@@ -194,7 +194,7 @@ In the third coma week, sensors registered regenerative activity at implanted-or
 
 It took two days for me to accept what the data showed.
 
-Alaric von Helis’s gene-seed, after five hundred fifty years of progressive integration with an organism in stabilized Execratio, had ceased to be a set of implants and had become the body’s **cellular master plan**. Execratio had not destroyed gene-seed; it had fused it to host basal DNA until the body no longer distinguished “original” from “installed” tissue. For Alaric’s biology, Astartes organs are native structures. And native structures regenerate.
+Alaric von Helis’s gene-seed, after **well over a century** of progressive integration with an organism locked at **intermediate** Execratio (Alpha anomaly), had ceased to be a set of implants and had become the body’s **cellular master plan**. Execratio had not destroyed gene-seed; it had fused it to host basal DNA until the body no longer distinguished “original” from “installed” tissue. For Alaric’s biology, Astartes organs are native structures. And native structures regenerate.
 
 On the ninetieth day the right arm had regrown to the wrist. Internal organs were functional. Microfractures had closed with bone density superior to pre-battle.
 

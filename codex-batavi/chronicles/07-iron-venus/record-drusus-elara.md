@@ -1,12 +1,12 @@
 # PERSONAL RECORD — DRUSUS ON ELARA SOLIS
 
-*Not for the formal *Apothecarion*. Working memory of the Chief Apothecary. **578.M42** — written after consolidation of the Gate; memories describe events from **550.M42** onward.*
+*Not for the formal *Apothecarion*. Working memory of the Chief Apothecary. **178.M42** — written after consolidation of the Gate; memories describe events from **150.M42** onward.*
 
 *The objective outcome of the discovery on the Parapet and the first night in the kitchen remains canonical in [iron-venus.md](iron-venus.md). This text is complementary: voice, conscious omissions, and clinical reading over time.*
 
 ---
 
-## I. Arrival (550.M42) — dead file, live room
+## I. Arrival (150.M42) — dead file, live room
 
 I made the **retroactive** wall reading afterward — sterile environment, microphone without acid rain distorting gain. Environmental logs coupled to the Castellan’s patrol pattern showed the expected: corrosive precipitation impact, servo vibration, footstep cadence. Superimposed, for **4.7 seconds** before the cut of internal helm audio, a frequency spike **incompatible** with tactical alarm: band of neonatal human cry, damped by cloth and basket. The auspex classified *non-hostile acoustic anomaly*. I manually reclassified as *potential parental-bond stimulus* — label outside any folder the *Administratum* opens without Triumvirate authorization.
 
@@ -70,7 +70,7 @@ What I had to **recalibrate afterward** — with accumulated data — was the mo
 
 Parapet visits with escort: I logged gait pattern — short step at first, then normalized extension; genuine interest in firing angle, not theater. Questions per minute above age mean. **No** psychic anomaly; **cognitive bias** toward geometry. Filed as advantage, not pathology.
 
-**565.M42.** Guilliman at the *Castrum Ferrum*. I monitored clinical rear guard: cortisol in honor guard, muscle tension in veterans with reactive Furor history — nothing requiring sedation; everything requiring visible *Apothecarion* **presence**. The political stage did not interest me. The crowd’s thermal map did.
+**165.M42.** Guilliman at the *Castrum Ferrum*. I monitored clinical rear guard: cortisol in honor guard, muscle tension in veterans with reactive Furor history — nothing requiring sedation; everything requiring visible *Apothecarion* **presence**. The political stage did not interest me. The crowd’s thermal map did.
 
 When Elara broke the cordon, **my** pulse rose three beats — shameful log, corrected same minute. She did not know. Alaric knew to look at me long enough to see I would not order sedation of a child for **high-command panic**. That too is datum.
 
@@ -82,9 +82,9 @@ In the antechamber, when I closed the field, Elara was alive — BP at high boun
 
 ---
 
-## V. Close (578.M42) — what time added to the file
+## V. Close (178.M42) — what time added to the file
 
-In 550.M42 I did not know Elara Solis would become fleet admiral. Not an unknown the biological model allowed predicting — it was **political** unknown, outside my domain. Today I know. The updated model confirms: she remains unmodified human within stable parameters; wear is expected for accepted load.
+In 150.M42 I did not know Elara Solis would become fleet admiral. Not an unknown the biological model allowed predicting — it was **political** unknown, outside my domain. Today I know. The updated model confirms: she remains unmodified human within stable parameters; wear is expected for accepted load.
 
 What **remains** unknowable: how far one human life can pull a Chapter of Astartes without becoming lever or target. That is not measured with auspex. It is measured in decades — and in errors we have not yet made.
 
