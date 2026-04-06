@@ -52,6 +52,8 @@ The Chapter’s **5,000** warriors are **every** Astartes with **gene-seed** and
 | **Librarium** | Chief Librarian **Otho**       | **Haruspicium Batavorum**; **Batavian Haruspices** as passive radar in the **Warp**, rites coded as algorithm; **Blindgate** for active mental defense; see [council-and-librarium.md](council-and-librarium.md), [dossier-otho.md](../character-dossiers/council-orders/dossier-otho.md).         |
 | **Armourium** | Master of the Forge **Kadmos** | *Machine Spirit*, forges, Techmarines, chassis and siege-architecture maintenance; see [council-and-librarium.md](council-and-librarium.md) §3. |
 
+***Reclusiam* helm law:** **Judex** (**Varro**) wears the cowled **Executor *Wolf-Skull Helmet*** (post–Foundation War **Exanimus Choir** / **CV y13**). **Adjutant Chaplains** and other **Reclusiam** priests default to the ***Codex* death-skull** (or **Armourium**-approved skull pattern **without** Executor lupine geometry). The **Executor wolf-skull cast** on any other bearer requires **Varro’s** written ***licentia lupina*** — see [dossier-varro.md](../character-dossiers/triumvirate/dossier-varro.md) §2.
+
 
 **Extended Council:** Kadmos and Otho sit on the **Council** under the Triumvirate; Drusus and Varro **are** the Triumvirate — the four orders converge in the *Strategium*, not isolated silos.
 

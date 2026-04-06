@@ -132,7 +132,7 @@ If you ever run **stock** Operations without the class pack, use this **six-role
 | **Devastator** | **Firebase** and siege output — pair with **Nullity** *flavor* (Oblivion-adjacent suppression; optional null-rod melee if the mod offers it). | **Nullity** — **cobalt** accent, controlled. |
 | **Techmarine** | **Armourium** / forge brother — Kadmos’s world (cables, auspex, *Machine Spirit* etiquette). | Grey + crimson + **mechanicus** trim / bronze arm **if** the editor allows (see [`dossier-kadmos.md`](personae-command-index/character-dossiers/council-orders/dossier-kadmos.md)). |
 | **Terminator** | **Indomitor** / first-wall siege weight — not a cohort slot; reads as **line** First Company hammer. | **Pure line** — heavier grey, extra crimson trim acceptable; no cohort right pauldron. |
-| **Chaplain** | ***Reclusiam*** / **Varro** network — rite, skull law, *Axiom* speech. | Ministerial read: **ashen** or **black** chapel elements **without** drowning Batavi grey–crimson; wolf-skull helm if the mod exposes it. |
+| **Chaplain** | ***Reclusiam*** / **Varro** network — rite, skull law, *Axiom* speech. | Ministerial read: **ashen** or **black** chapel elements **without** drowning Batavi grey–crimson; ***Codex* death-skull** default — **Executor** wolf-skull **only** for **Varro** or ***licentia lupina*** bearers. |
 | **Apothecary** | ***Medicinae*** / **Drusus** network — extract, triage, *Narthecium* calm. | **Clinical white** on **arm + helm** (and pack) like Drusus’s distinction; rest grey + crimson. |
 
 **Cohort count:** You still have **exactly one cohort *stripe* color** for **Silence / Stasis / Nullity**, and **one** for **Shadows** shared by **Reiver + Eliminator** (two different mod kits, same cohort fiction).

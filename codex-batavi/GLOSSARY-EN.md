@@ -43,7 +43,8 @@ Use when writing or editing English prose. Extend as you go.
 | **Strand α / Strand β** | Sealed *Apothecarion* shorthand for the two components of chimeric gene-architecture — [`progenitor-classification.md`](personae-command-index/doctrine-and-organs/progenitor-classification.md) |
 | Martha’s kitchen | Human anchor location |
 | **Industrial grey** / **crimson** (prose) | Generic plate wording. Citadel mapping: *Mechanicus Standard Grey*, *Mephiston Red* — [**visual-identity-paint-guide.md**](visual-identity-paint-guide.md). |
-| Varro (visual) | **Wolf-skull helm** (cowled), **Judex** role — working art ref [`lore-images/varro-chaplain-judex.png`](lore-images/varro-chaplain-judex.png) ([`visual-identity-paint-guide.md`](visual-identity-paint-guide.md) § Reference art) |
+| Varro (visual) | **Executor wolf-skull helm** (cowled), **Judex** role — adopted **after** Triumvirate **Exanimus** stabilization (**Foundation War**, **CV y13** / *Exanimus Choir*); before that, standard ***Codex* Chaplain death-skull**. **Other Chaplains:** ***Codex* death-skull** by default; **Executor** wolf geometry **only** with Varro’s ***licentia lupina***. Art ref [`lore-images/varro-chaplain-judex.png`](lore-images/varro-chaplain-judex.png) ([`visual-identity-paint-guide.md`](visual-identity-paint-guide.md) § Reference art) |
+| ***licentia lupina*** | **Reclusiam** written license from **Varro** allowing a named Chaplain to carry the **Executor wolf-skull** helm profile for a defined interval; rare; **delegation of Judex office**, not personal heraldry — [`dossier-varro.md`](personae-command-index/character-dossiers/triumvirate/dossier-varro.md) §2. |
 | Drusus (visual) | **Surgical white** arm + helm on **grey** chassis — [`lore-images/drusus-chief-apothecary.png`](lore-images/drusus-chief-apothecary.png) (same §) |
 | Otho (visual) | **Librarius** grey–crimson, third-eye cluster — [`lore-images/otho-chief-librarian.png`](lore-images/otho-chief-librarian.png) (same §) |
 | Kadmos (visual) | **Mark III**, **bronze arm**, mecadendrites — [`lore-images/kadmos-master-of-the-forge.png`](lore-images/kadmos-master-of-the-forge.png) (same §) |
@@ -60,7 +61,7 @@ Use when writing or editing English prose. Extend as you go.
 | *Hive Mind* / *Hive Fleet* | Standard Tyranid English |
 | Materials | **adamantium**, **plasteel**, **ceramite**, **promethium**, **ferrocrete** — prefer established 40k terms |
 
-**Ships / proper names:** *Gray Gargoyle* — cruiser. ***Wrath of Noviomagus*** — strike cruiser in [`aethelgard-first-quarter.md`](chronicles/00-foundation-war/aethelgard-first-quarter.md).
+**Ships / proper names:** *Gray Gargoyle* — cruiser ([`vigilax-incident.md`](chronicles/12-vigilax/vigilax-incident.md)). ***Wrath of Noviomagus*** — strike cruiser ([`viggo-saga.md`](chronicles/05-viggo-saga/viggo-saga.md)).
 
 **Forms of address:** Tobias Solis — **Master Tobias** in English chronicles.
 

@@ -1,11 +1,11 @@
-# [CHRONICLE] AETHELGARD — FIRST QUARTER
+# [ARCHIVE] Drusus retrospective — Aethelgard first quarter
 
 **Classification:** Foundation Archive — Unrestricted Chapter Access  
-**Period:** 015.M42 – 023.M42 (First Quarter of the Foundation War)  
+**Period (in-file dating):** 015.M42 – 023.M42 (First Quarter of the Foundation War)  
 **Narrator:** Chief Apothecary Drusus — Retrospective record, compiled ca. 048.M42  
-**Cross-references:** [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) | [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)
+**Cross-references:** [`master-chronology.md`](master-chronology.md) · [`foundation-war.md`](foundation-war.md) · [`projection-aurea-wolfs-curse.md`](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) · serial opens at [`chapter-01-mud-gospel.md`](../../chronicles/00-foundation-war/chapter-01-mud-gospel.md)
 
-**Canon discipline:** The **38-chapter Foundation War serial** in this folder is the **primary narrative** for the war. This Drusus retrospective keeps **legacy Administratum-style** figures (e.g. **~1,000** cumulative landing) and **015–023.M42** quarter labels. Where those details **conflict** with the serial or [`foundation-war.md`](../../personae-command-index/events-and-chronologies/foundation-war.md), prefer the **serial / staff summary** for encyclopedia merges — unless the fiction **explicitly** frames this file as the record characters are arguing over.
+**Archival note:** This text was **moved** from `chronicles/00-foundation-war/aethelgard-first-quarter.md` into staff/event chronology for a single **in-universe** Drusus lens. **Troop totals, landing scale, and nine-pole scope** here reflect **early Imperial-quarter framing** and **~1,000** Administratum-style figures — **superseded** for encyclopedia merges by the **38-chapter serial** and [`foundation-war.md`](foundation-war.md) §§1–3. Use this file for **voice**, early **Aethelgard** / hunter-enclave **texture**, and **origin-of-*Axiom*** beats — not for current strength math.
 
 ---
 
@@ -167,7 +167,7 @@ It was not an elegant strategic decision. It was brutal recognition: we were los
 
 The inversion was gradual and brutal. We stopped patrolling by the Codex and started patrolling by the environment. We stopped consolidating positions and started using positions as bait. We stopped trying to create predictable patterns and started studying theirs.
 
-The Enclave was extraordinary. But it was predictable within its extraordinariness — because every hunter has patterns. They preferred high ground but not exposed ground. They preferred ambushes to direct confrontation even when direct confrontation was mathematically favorable. They preferred to separate before isolate before eliminate. Those were habits. And habits can be used.
+The Enclave was extraordinary. But it was predictable within extraordinariness — because every hunter has patterns. They preferred high ground but not exposed ground. They preferred ambushes to direct confrontation even when direct confrontation was mathematically favorable. They preferred to separate before isolate before eliminate. Those were habits. And habits can be used.
 
 The first stalker we took alive — and who survived capture — was in 019.M42. I spent ninety-six hours analyzing its biology. I catalogued every organic system, every adaptation, every measurable vulnerability. In the end, my report ran two hundred thirty pages and one conclusion line: *“Adversary catalogued. Countermeasures possible.”*
 
@@ -210,5 +210,6 @@ The Batavi who came after inherited the *Axioma Rationis* as doctrine. Those who
 
 ---
 
-*Filed by: Chief Apothecary Drusus — 048.M42*  
-*Continues: [super-dizimo-e-limes-lupus.md](./super-dizimo-e-limes-lupus.md) — Reconstruction, expansion to 5,000 Marines, and the Limes Lupus Treaty*
+*Filed by: Chief Apothecary Drusus — 048.M42*
+
+**Staff continuation (reinforcement, expansion, *Limes Lupus*):** [`master-chronology.md`](master-chronology.md) §§II–III.

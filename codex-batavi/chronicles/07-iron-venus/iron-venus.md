@@ -38,7 +38,7 @@ A guttural snarl thrumming in the armor’s breastplates came from Alaric’s he
 
 Drusus stopped, hands in the air. He opened a private *vox* channel to the Chaplain. — *Varro, is he in Jagd? Is he going into frenzy?*
 
-Varro did not look away from Alaric. The red lenses of his skull helm read not physical threat but the psychic tide flooding the room. — *No* — Varro answered in a whisper of reverent awe. — *He is not hunting, Drusus. He is anchored. The storm inside him… it stopped. For the first time in centuries, there is silence in his soul.*
+Varro did not look away from Alaric. The red lenses of his **Executor** wolf-skull helm read not physical threat but the psychic tide flooding the room. — *No* — Varro answered in a whisper of reverent awe. — *He is not hunting, Drusus. He is anchored. The storm inside him… it stopped. For the first time in centuries, there is silence in his soul.*
 
 Alaric breathed hard, fighting for transhuman consciousness to master the beast’s instinct. — She is fragile, Drusus — he said, voice raw. — If you hurt her—
 
@@ -72,7 +72,7 @@ Martha breathed deep, gripped her apron, and crossed the threshold.
 
 Minutes later, the medical sanctum doors opened again. Martha, Chief Steward of the service wings, entered with the hesitant step of one expecting sentence. For a servant used to scrubbing blood from armor plates and serving in absolute silence, being summoned to Drusus’s “Shrine of Flesh” was an omen of death.
 
-She walked head down, work-roughened hands clenching her thick wool apron. When she looked up, she met the most improbable sight of her life: three war demigods motionless under cold laboratory light. Drusus ringed by saws and scanners; Varro, death incarnate in his skull helm; and Alaric… Alaric von Helis bent over a metal table like an ancient mountain about to collapse.
+She walked head down, work-roughened hands clenching her thick wool apron. When she looked up, she met the most improbable sight of her life: three war demigods motionless under cold laboratory light. Drusus ringed by saws and scanners; Varro, death incarnate in his **Executor** wolf-skull helm; and Alaric… Alaric von Helis bent over a metal table like an ancient mountain about to collapse.
 
 — Approach, citizen — ordered Drusus, voice stripped of warmth.
 

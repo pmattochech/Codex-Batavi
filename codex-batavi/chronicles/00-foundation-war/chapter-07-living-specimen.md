@@ -7,109 +7,30 @@
 
 ---
 
-While Castra Vetera’s void routes learned to **lie** with mirrors, Aethelgard’s mud learned to **keep** what it caught.
+While Castra Vetera’s void routes learned to lie with mirrors, Aethelgard’s mud kept what it caught—bodies, names, and the slower species of truth that only survived when someone had the decency to drag it ashore before the tide took it back. Drusus needed a living hunter, not for trophy or theater but to *read*: to put a sensor where guesswork had ruled, and to let biology answer questions strategy had been asking in the wrong language ever since Torven’s squad went quiet. Twenty-one absences still sat on the bridge of the Apothecary’s conscience, arranged in the insulting neatness of boots beside a vacated post; data was the exorcism he trusted, and guilt the fuel he would not waste on adjectives.
 
-Capture was a sin the Apothecarion could **sanctify**—if sanctity meant *procedure so strict it bruised souls into behaving*.
+The Chapter filed its quarry under a provisional label the *Lex Ignis* catalogs would later try to steal—**Type A**—as if a letter could tame what the Needles had named only in whispers tied to tide and hunger. Along the Glass Rills the enemy had moved like a rumor given feet: mimic-mesh aped Guard-issue silhouette until auspex had to taste blood to trust its eyes, a mandible-mask worn as both armament and parody of a human face, reflexes tuned to punish the moment a Marine hesitated because hesitation was the only prayer such hunters respected. The specimen they dragged toward Pier Nine was worse than dead because it was still *coherent*—wounded in the echo of the same crucible that had taught Kessler to count the seventy-two, kin by doctrine to every ambush that left gear lined up like an offering and took lives without leaving the insult of a fair fight.
 
-Drusus required a living hunter.
+The cage rose on Pier Nine like an insult to hospitality, null-fields humming at a frequency that worked its way into teeth, sedation mist drifting in bands calibrated to insult xenos chemistry without quite granting mercy. Bone rails lined the deck, etched with prayers Varro insisted would not help and refused to omit, because omission would have conceded that help was not being solicited from heaven but demanded from discipline—and discipline, on that pier, meant witness: every witness was complicit, and complicity was the Chapter’s crude substitute for consent. Rain came in thin needles off the shingle chop; oil-slick runoff made the planks a ledger no scribe would thank you for, every boot-print a line item in a war that pretended it could be audited.
 
-Not to trophy.
+Alaric’s presence was not parade but surety, mass without swagger, the romance of command expressed as something too heavy to perform. Kessler held the outer cordon because she had asked to; anger, she told Iria without looking at her, was ballast—you put it where the wind tried to spin you, and you stopped pretending your body was neutral. Iria stood inside the cordon with water-skins for the workers Drusus had banned from the pier and failed to ban entirely, Needles stubbornness wearing Administratum stamps like a borrowed cloak. When Drusus ordered the boy behind the rail to stay there, the boy did not; curiosity outranked law on Aethelgard more reliably than any Commissar’s text, and the pier’s geometry gave a child too many sightlines unless an adult became a wall. Iria caught the boy once by the shoulder and lost him again when the next surge of bodies pretended it was order.
 
-To **read**.
+Skitarii from *Lex Ignis* hit the planks in red-chrome sprints, auspex eyes bright with the appetite Threx wore as doctrine. Their marshal’s vox scraped pride on metal as he declared specimen integrity Mechanicus prerogative. Drusus did not shout. He stepped into the narrow space between Skitarii and cage until ocular arrays had to tilt to keep him in frame, and spoke with the quiet of a scalpel describing its path: breach containment and he would file them as hazard waste and tell the Castellan he had *slipped*. The halt that followed was not obedience so much as the visible twitch of limbs hunting a rule that outranked shame and failing to find it. Threx watched from a mezzanine rig, aug-eyes recording restraint as data he could invoice later, the way creditors note politeness so interest arrives with better manners.
 
-Torven’s ghost still sat on the bridge of his conscience—twenty-one absences arranged like doctrine. Data was the only exorcism he trusted; guilt was the fuel he refused to dignify with adjectives.
+For a few minutes the pier became what Drusus needed it to be—not a courtroom, not a chapel, but a stalled second in which biology could be *interrogated*. He let his auspex kiss the air through null-field weave, logging pulses that ran too patient for true animal panic, muscle recruitment that assumed four dimensions of threat where humans budgeted three. Through slits in the mesh he watched pupil response track motion behind glass—the enforcers before they were enforcers, the boy before he was a mistake—until the patient chart in his head began to sketch a verdict he hated because it resembled *instruction*. Varro stood at his shoulder without speaking, censers cold, watching the specimen watch *them* with the focused absence of appetite that meant a mind still choosing targets. Alaric did not lean in; he did not need to. His stillness did the work walls do when rooms forget how to lie.
 
----
+Then the soldiers came, and the pier learned that Type **B** does not debate custody.
 
-The cage rose on **Pier Nine** like an insult to hospitality: null-fields humming a toothache frequency, sedation mists calibrated to insult xenos chemistry without quite granting mercy, bone rails etched with prayers Varro swore would not help and refused to omit—**because omitting would concede** that help wasn’t being asked of heaven, but from *discipline*.
+Pack enforcers hit the cordon like a second tide, faunal assets snapping low at knees, weapons chewing cover shaped for duels rather than clearance. They did not roar challenges or waste breath on kinship the *Codex* might have recognized; they removed obstacles with the efficiency of housekeepers told that guests had embarrassed the clan. Alaric met them at the hinge because geometry demanded weight there, not because he mistook their intent. They were not reclaiming a brother in any sense the Chapter could file without lying—they were sanitizing shame, blotting a living indictment before it could be translated into Strategium grammar.
 
-They brought the stalker in trussed in shame’s geography—wounded in the **echo** of the Glass Rills crucible, not the first kill there, but **kin** to it: cloak torn, mimic-mesh frayed to honesty, mandible-mask cracked along a seam that breathed like something **remembering** lungs it did not owe mortals.
+Bolter cough and chain-teeth answer braided across wet wood; mortals went down under Marine shoves brutal enough to save—ribs bruised, jaws rattled, pride sacrificed on the altar of *not dead*. Kessler found herself spitting orders she did not know she still believed could matter, voice borrowed from some cleaner war where sergeants still thought ranks could hold a line against physics. Iria dragged the water-bearer back by his collar a heartbeat too late and took a grazed calf for it, salt and copper singeing the air the way tide singed faith. Drusus kept his eyes on the specimen once because a healer’s worst habit is hope, and saw the hunter’s biomatrix glass track the enforcers with something older than fear—not pleading, not loyalty, *verdict*—the look of a creature recognizing its own courthouse.
 
-Alaric’s presence on the pier was not parade. It was **surety**—the romance of command expressed as mass without swagger.
+When the killing blow fell it fell with military economy, clean almost to the point of mercy if mercy means refusing to prolong what honor had already sentenced. The body that had been their chance at a live alphabet became meat the tide would argue over later, and the silence that followed was not peace but the hollow after a door slams. The cry that broke it belonged to a Needles boy who had carried skins and thirst and the fatal habit of looking: he dropped his burdens and stared at Alaric through rain-smear and smoke, not as savior but as second monster in a world that had standardized monstrosity until rescue itself wore the silhouette of appetite. Iria caught the sob when it came—translation not as language alone but as verdict, the way she always did when the Needles chose blunt water over High Gothic—“He says you keep cages too.” Alaric did not answer. Some answers would have been comfort, and comfort would have been a lie that cost them tomorrow’s wall.
 
-Kessler held the outer cordon because she asked to; anger, she claimed, was a kind of **ballast**. Iria stood inside, water-skins looped for workers Drusus had tried to ban and failed—Needles **stubbornness** wearing the Emperor’s paperwork like a borrowed cloak.
-
-“The boy stays behind the rail,” Drusus ordered.
-
-The boy did not.
-
-Boys never do when curiosity is fiercer than law.
-
----
-
-**Skitarii** from ***Lex Ignis*** hit the planks in red chrome sprints—Threx’s hunger outsourced to obedient limbs.
-
-“Specimen integrity is **Mechanicus** prerogative,” the leader intoned, vox scraping like pride on metal.
-
-Drusus didn’t raise his voice.
-
-He raised **consequence**.
-
-“If you breach this containment,” he said—the quiet of a scalpel describing its path—“I will file you as **hazard waste** and tell the Castellan I *slipped*.”
-
-The Skitarii halted.
-
-Reluctance became **visible** in twitching digits, in oculars trying to find a rule that outranked shame and failing.
-
-Behind them, Threx watched from a safe remove—aug-eyes recording **restraint** as if restraint were an insult that could be invoiced later.
-
----
-
-Then the **soldiers** came.
-
-Type **B** did not debate custody.
-
-Pack enforcers slammed the cordon like a second tide—**faunal** assets snapping at knees, weapons chewing cover designed for *duels*, not clearance. They did not roar challenges. They **removed** obstacles with the efficiency of housekeepers who had been told guests embarrassed the clan.
-
-Alaric met them because duty required **weight** at the hinge—not because he mistook their intent.
-
-They were not reclaiming a brother.
-
-They were **sanitizing shame**.
-
-Bolter cough and chain **song** braided; mortals went down under Marine shoves brutal enough to **save**—Kessler spitting orders she didn’t know she still believed in; Iria dragging the water-bearer back by his collar too late.
-
-Drusus watched the hunter’s eyes—biomatrix glass reflecting enforcers—track judgment with something older than fear.
-
-*Verdict.*
-
-When the killing blow fell, it fell with military economy: **clean**, almost merciful if mercy means *not prolonging* what honor had already sentenced.
-
-The witness who cried out was not a Marine.
-
-A Needles boy—pressed into service carrying skins, thirst, and the fatal habit of **looking**—dropped his burdens and stared at Alaric through rain and smoke.
-
-Not as savior.
-
-As **second monster** in a world that had standardized monstrosity until even rescue looked like an appetite.
-
-Iria caught the sob in her hands later—translation not as language only, but as **verdict** the way she always did:
-
-“He says you keep **cages** too.”
-
-Alaric did not answer.
-
-Some answers would have been **comfort**.
-
-Comfort would have been a lie.
-
----
-
-Drusus closed his log with hands that did not shake *yet*:
-
-**Specimen status:** terminated by hostile third party.  
-**Lessons:** culture of honor contains internal tribunal; packs repair *reputation* faster than lives; **Mechanicus** appetite correlates with *incident escalation* (flag for Strategium).
-
-Varro scrubbed blood off bone rails until his gauntlets steamed.
-
-That night he did not pray for victory.
-
-He prayed for **proportion**—the rarest mercy in a universe that loved extremes.
-
-Outside, tide took the pier’s leavings the way tides take confessions: without comment, without forgiveness, only **weight**.
+Threx’s channels hissed static that wanted to be an objection and settled for being a receipt; the *Lex Ignis* would claim spoilage and lost yield in the same breath, because Mechanicus grief wore numbers when it could not wear shame. Drusus closed his log with hands that did not shake yet, the motion of a man refusing his body the relief of drama. Specimen status went down as terminated by hostile third party; lessons as culture containing internal tribunal; packs repairing reputation faster than lives; Mechanicus appetite correlating with incident escalation—Strategium flags for a file that would outlive everyone on the pier. Varro scrubbed blood off bone rails until his gauntlets steamed, working prayers into friction because Varro had learned long ago that rites which did not cost labor became gossip. That night he did not pray for victory. He prayed for proportion—the rarest mercy in a universe that loved extremes—and listened to the sea take the pier’s leavings the way confessions are taken when no priest remains: without comment, without forgiveness, only weight.
 
 ---
 
 **End of Chapter 7**
 
-*Next: Chapter 8 —* Cord Weight*.*
+*Next: Chapter 8 —* Cord Weight*.

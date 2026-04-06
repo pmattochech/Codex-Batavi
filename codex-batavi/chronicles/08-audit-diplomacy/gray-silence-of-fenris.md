@@ -26,7 +26,7 @@ Drusus, seated at the table’s end, emitted static through his surgical helm’
 
 Ragnar stopped, fork halfway. The Jarl of Fenris grinned, showing fangs. — You’re as fun as a toothache, Drusus. Hemorrhage doesn’t make a good song.
 
-— **The song is irrelevant,** — Varro cut in, skull mask turned to the young Jarl. — **What matters is that the enemy ceased vital function. Ragnar’s method was… inefficient, but effective.**
+— **The song is irrelevant,** — Varro cut in, **wolf-skull helm** turned to the young Jarl. — **What matters is that the enemy ceased vital function. Ragnar’s method was… inefficient, but effective.**
 
 When dinner ended its nutritional utility and *mjod* began to circulate, Logan Grimnar grew serious. He signaled Ragnar, who brought the reinforced wooden box. There were breathing holes in the box. A low sound came from inside—not a growl, but heavy breathing.
 

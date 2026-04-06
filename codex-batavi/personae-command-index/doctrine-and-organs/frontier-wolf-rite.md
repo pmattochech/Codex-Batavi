@@ -99,10 +99,10 @@ Chapter veterans recognize that sound. Neophytes learn it in the first month of 
 
 **743 pairs** — 1,486 individual plaques. Roughly 97 kg of iron and ceramite pressed under Viggo’s pelt.
 
-Volume splits across two periods with radically different rates:
+Volume splits across two periods with radically different rates (Imperial calendar **approximate**; annals **CV y0–y29** for crucible — see [`foundation-war.md`](../events-and-chronologies/foundation-war.md), [`master-chronology.md`](../events-and-chronologies/master-chronology.md) §I):
 
-* **Foundation War (015–045.M42):** ~650 pairs. Most founding marines died as Versibar over thirty years of conflict. Chimeric gene-seed was new and untested; *Axiom of Reason* did not yet exist as doctrine; Wolf’s Curse was incomprehensible at first. Execratio rate was catastrophic. Those who survived — minds intact through decades of war without doctrinal tools — became first Legati and founding elite.
-* **Post-foundation (045–180.M42):** ~93 pairs. With *Axiom of Reason* formalized, *Das Erbe Codex* cataloged by Drusus, and Exanimus Testament mandatory, rate dropped sharply. Over 535 years with a 5,000-marine Chapter, one Versibar every 5–6 years is the average of functional doctrine under continuous war.
+* **Crucible / Foundation era (~015–045.M42 *approx*; annals ~CV y0–y29):** **~415 pairs** on the cord by the ratification era — the **largest** tranche because *Axiom of Reason* is young, *Das Erbe* poorly mapped, and replenishment waves keep feeding the furnace. Pair count is **not** identical to “first landing headcount”: it counts **every** **Versibar** Lord Castellan executes and binds under rite across the war, including brothers raised **during** the crucible. Older staff scrolls that assumed **~650** pairs assumed a different census model — **superseded** here (see [`foundation-war.md`](../events-and-chronologies/foundation-war.md) §3).
+* **Post-ratification (045–180.M42):** **~328 pairs** cumulative to the **180.M42** ledger (**743** total − **415** crucible), i.e. **far lower per decade** once Testament discipline and *Axiom* contain Execratio. Over **135+** years with a **5,000**-marine Chapter, accrual is **orders of magnitude** calmer than the crucible decades — functional doctrine, not mercy.
 
 The difference between the two periods is not only numeric. It is the physical-weight record of the cost of learning to be what Batavi are.
 

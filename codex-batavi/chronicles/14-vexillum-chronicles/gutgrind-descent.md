@@ -5,7 +5,7 @@
 **Where:** **Selene-Black** — shepherd moon, Aethelgard gas-giant tide well  
 **Who:** **V** *Quinta* under **Legatus Armin Sturmwahl**; Orks — Waaagh! splinter **Gutgrind**
 
-**Cross-references:** [dossier-armin-sturmwahl.md](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexillatio-operational-armory.md](../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.5 · [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 · [aethelgard-first-quarter.md](../00-foundation-war/aethelgard-first-quarter.md) (Foundation War — Aethelgard first quarter; **not** field 4)
+**Cross-references:** [dossier-armin-sturmwahl.md](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexillatio-operational-armory.md](../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.5 · [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 · [drusus-retrospective-aethelgard-first-quarter.md](../../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md) (Foundation War — Aethelgard archive lens; **not** field 4)
 
 ---
 

@@ -19,7 +19,7 @@ For us, the *Batavian Iron-Guard*, that echo was not mere tactical warning. It w
 
 Psychic presence radiated by the Orks scraped the foundations of our *Axiom of Reason*. I saw 3rd Cohort battle-brothers freeze mid-rigorous maintenance protocol. Their eyes, taken by orange halos, fixed on void; their hands trembled not from fear but from electric, almost painful need to exert violence. **Chimeric** gene-seed recognized approaching atavistic barbarism and demanded answer in the same coin.
 
-My duty was not to preach blind religious fervor; it was to impose Analytical Silence. I patrolled among them, my helm’s skull-mask the only cold mirror they had to remember they were the Emperor’s Disciplined Death — not **feral pack** theatre.
+My duty was not to preach blind religious fervor; it was to impose Analytical Silence. I patrolled among them, my helm’s **Executor wolf-skull** the only cold mirror they had to remember they were the Emperor’s Disciplined Death — not **feral pack** theatre.
 
 **Day 5: White noise** Noviomagus’s spiritual atmosphere thickened to suffocation. Mortal population exuded terror; my brothers exuded envy. They envied the xenos’ ignoble freedom simply to *be* violent without the burden of calculation. The *Codex*’s iron discipline fought friction war against the Beast’s nature in every dual heart.
 

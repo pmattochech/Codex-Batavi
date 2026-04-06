@@ -36,7 +36,7 @@ Alaric was larger. Trajann was older. Both knew it.
 
 — Captain-General — said Alaric. Same tone.
 
-Tyvar stood four meters to Alaric’s right, motionless, spear vertical. Something in the Custodes’ posture differed from standard — not tension, but attention of a different degree. He had guarded Alaric for **127 years** — from **048.M42** (*Limes Lupus*) to this corridor — spanning the **Silent Vigil** and what came after. It was the first time his direct superior stood in the same corridor.
+Tyvar stood four meters to Alaric’s right, motionless, spear vertical. Something in the Custodes’ posture differed from standard — not tension, but attention of a different degree. He had guarded Alaric for **~129 years** — from **051.M42** (*Limes Lupus*) to this corridor — spanning the **Silent Vigil** and what came after. It was the first time his direct superior stood in the same corridor.
 
 Trajann looked at Tyvar for two seconds.
 
@@ -54,7 +54,7 @@ Tyvar did not answer. That was the correct answer.
 
 The Noviomagus Prime *Strategium* was a room designed to be functional, not impressive — hololithic maps, cogitator terminals, the iron table without ornament Alaric had used for six centuries. The only aesthetic concession was the window to the outer forge yard, where Noviomagus industrial chimneys produced the permanent iron haze locals called “the second sky.”
 
-Trajann entered, assessed the space once, and stood beside the table. He did not sit. The six Custodes of his escort lined the walls. The Triumvirate stood before him — Alaric center, Drusus left with surgical helm and multi-lenses, Varro right in **wolf-skull helm** — same brutal cast as Fenrisian **Wolf Priests**, consecrated to **Judex** law rather than hearth-counsel.
+Trajann entered, assessed the space once, and stood beside the table. He did not sit. The six Custodes of his escort lined the walls. The Triumvirate stood before him — Alaric center, Drusus left with surgical helm and multi-lenses, Varro right in ***Executor* wolf-skull helm** — same brutal cast as Fenrisian **Wolf Priests**, consecrated to **Judex** law rather than hearth-counsel. Under ***Reclusiam* helm law**, subordinate Chaplains still wore ***Codex* death-skull** unless **Varro** had issued ***licentia lupina***.
 
 Tyvar remained behind Alaric, slightly to the right.
 
@@ -136,7 +136,7 @@ Trajann looked at him.
 
 — What makes it different from a fallen Astartes? — asked Trajann.
 
-— A fallen Astartes chooses treason — said Varro; the words came through his **wolf-skull helm** — the same brutal cast as a Fenrisian **Wolf Priest’s**, but consecrated to **Judex** law, not hearth-counsel. — A **Versibar** chooses nothing. Biology stripped choice before the soul could betray. — A pause. — That is simultaneously less dangerous and more tragic.
+— A fallen Astartes chooses treason — said Varro; the words came through his ***Executor* wolf-skull helm** — the same brutal cast as a Fenrisian **Wolf Priest’s**, but consecrated to **Judex** law, not hearth-counsel. — A **Versibar** chooses nothing. Biology stripped choice before the soul could betray. — A pause. — That is simultaneously less dangerous and more tragic.
 
 Trajann turned to the cell again. The occupant had moved — now closer to the grille, eyes on the group, nose working. Classifying scents.
 

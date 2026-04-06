@@ -20,9 +20,9 @@
 
 ---
 
-## II. ROLE IN FOUNDATION WAR (015.M42 – 045.M42)
+## II. ROLE IN FOUNDATION WAR (015.M42 – 045.M42 *approx* · annals **~CV y0–y29**)
 
-Valerius first marine formally designated Legatus *Cohors Batavorum*. Fought beside Alaric all four Foundation War quarters, keeping I Vexillatio functional under same conditions driving rest Chapter biological collapse.
+Valerius first marine formally designated Legatus *Cohors Batavorum*. Fought beside Alaric through the **full crucible** (serial Books I–IV), keeping I Vexillatio functional under the same **nine-pole** conditions driving the rest of the Chapter toward biological collapse.
 
 While most founder marines progressively hit Furor stage under constant **Foundation War first-quarter** hunter pressure, Valerius’s I Vexillatio stayed stable. Valerius held squadrons on principle then governing whole Chapter — formulation becoming pre-doctrinal *Axiom Rationis* base:
 
@@ -51,7 +51,7 @@ Varro preached pride death because *had* pride — learned inside Furor pride bi
 
 ## IV. EROSION (045.M42 – 049.M42)
 
-Foundation War end expansion 5,000 marines, Valerius named First Legatus — highest post below Triumvirate. Appointment should maximum recognition. Worked partially insult.
+Crucible close (**~045.M42**) left the Chapter on **~500** rational line; Valerius named **First Legatus** — highest post below Triumvirate — **before** Malakor and **before** **Primaris** reinforcement. The **~5,000** expansion and ***Limes Lupus*** seal (**051.M42**) come **later**; this interval is **still** *Codex*-scale ambition with **forward** trust. Appointment should maximum recognition. Worked partially insult.
 
 Expected: Alaric honor guard. Closest Castellan position implicit successor role.
 
@@ -163,7 +163,7 @@ Malakor V return gathered Chapter Chaplains pronounced oath unprecedented *Cohor
 
 Alaric accepted oath silence. Silence Drusus recorded only moment saw Alaric yield authority slice without negotiation condition.
 
-Varro oath expressed more hate. Public recognition despite skull helm despite *Axiom Rationis* despite a **Vigil-long** doctrine built containing own nature — still what is. Exanimus not only stage manages: instrument can direct. Direction chosen instrument unequivocal.
+Varro oath expressed more hate. Public recognition despite **Executor** wolf-skull helm despite *Axiom Rationis* despite a **Vigil-long** doctrine built containing own nature — still what is. Exanimus not only stage manages: instrument can direct. Direction chosen instrument unequivocal.
 
 Whoever repeats Valerius path finds Chaplain learned decades Exanimus stage exactly how much Wolf release mind intact. Answer: enough result irreversible.
 

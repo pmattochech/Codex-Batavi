@@ -4,7 +4,7 @@
 
 **Imperial calendar note:** Castra Vetera experiences extreme temporal dilation. **Subjective annals** (`CV y*`) are the **primary operational record** for this war; **M42** dates in older Imperial-facing summaries are **approximate external correlates**, not fixed one-to-one conversions.
 
-**Primary source (canonical narrative):** the **38-chapter serial** in [`../../chronicles/00-foundation-war/`](../../chronicles/00-foundation-war/) — especially [`../../chronicles/00-foundation-war/aethelgard-first-quarter.md`](../../chronicles/00-foundation-war/aethelgard-first-quarter.md) for the Aethelgard **first quarter** lens.  
+**Primary source (canonical narrative):** the **38-chapter serial** in [`../../chronicles/00-foundation-war/`](../../chronicles/00-foundation-war/). **In-universe Drusus lens** (early Aethelgard / hunter-enclave / *Axiom* embryo — **legacy figures**): [`drusus-retrospective-aethelgard-first-quarter.md`](drusus-retrospective-aethelgard-first-quarter.md).  
 This file is the **staff / encyclopedia summary**: phases, poles, doctrine tags, and chapter pointers.
 
 ---
@@ -29,7 +29,7 @@ Landing force is **~500 Batavi** supported by a **hunter-enclave** network, **Ir
 
 | Pole (working name) | Role in war | Serial touchpoints (examples) |
 |---|---|---|
-| **I — Aethelgard (Prime / crucible anchor)** | Recruitment crucible, tidal geography, **Shared Sweat** habitat | [`chapter-01-mud-gospel.md`](../../chronicles/00-foundation-war/chapter-01-mud-gospel.md) onward; first-quarter lens: [`aethelgard-first-quarter.md`](../../chronicles/00-foundation-war/aethelgard-first-quarter.md) |
+| **I — Aethelgard (Prime / crucible anchor)** | Recruitment crucible, tidal geography, **Shared Sweat** habitat | [`chapter-01-mud-gospel.md`](../../chronicles/00-foundation-war/chapter-01-mud-gospel.md) onward; Drusus archive (early-quarter **texture**): [`drusus-retrospective-aethelgard-first-quarter.md`](drusus-retrospective-aethelgard-first-quarter.md) |
 | **II — Noviomagus (forge / ratification)** | Forges, law tables, **Instrumentum Solum** posture | [`chapter-04-seventy-two.md`](../../chronicles/00-foundation-war/chapter-04-seventy-two.md); [`chapter-37-der-batav-council.md`](../../chronicles/00-foundation-war/chapter-37-der-batav-council.md); [`chapter-38-instrumentum-solum.md`](../../chronicles/00-foundation-war/chapter-38-instrumentum-solum.md) |
 | **III — Tigris / mercenary economics** | Contracts, deniable logistics, ***Lex Ignis*** charter friction | [`chapter-02-the-arrangement.md`](../../chronicles/00-foundation-war/chapter-02-the-arrangement.md); ***Lex Ignis*** through-line from [`chapter-01-mud-gospel.md`](../../chronicles/00-foundation-war/chapter-01-mud-gospel.md) onward |
 | **IV — Labyrinth / tunnels** | Subsurface denial, hunter-enclave war-in-miniature | [`chapter-07-living-specimen.md`](../../chronicles/00-foundation-war/chapter-07-living-specimen.md); [`chapter-10-inverted-hive.md`](../../chronicles/00-foundation-war/chapter-10-inverted-hive.md) |
@@ -53,8 +53,8 @@ Figures fluctuate by pole and week; treat as **staff estimates** tied to serial 
 | :--- | :--- | :--- |
 | Batavi landed | **~500** | Small founding footprint; crucible replaces numbers with *geometry* |
 | peak weekly dead (acute pulses) | **9–66** | spikes track void accidents, tunnel collapses, estuary pushes, MoI encounters |
-| Versibar / curse-adjacent loss | **small integer to low tens** | rises sharply around **Execratio** clustering |
-| survivors at ratification | **~320–380** | band reflects crucible accounting + recruitment throughput |
+| Versibar / curse-adjacent loss (cumulative rites) | **low tens – low hundreds** | spikes around **Execratio** clustering; **includes** brothers elevated from **replenishment** drafted during the crucible, not founding hull alone — serial audit may tighten tally |
+| rational line at crucible terminus (~**CV y29**) | **~480–520** | **~500** battle-brothers **not** in **Execratio** — population lock before post-war expansion and **Valerian Heresy** math; overlaps Imperial **~045.M42** *approx* |
 
 ---
 
@@ -116,11 +116,9 @@ Read in numeric order under [`../../chronicles/00-foundation-war/`](../../chroni
 
 ---
 
-## 8. Superseded convenience files
+## 8. Archival / in-universe supplements
 
-Older “quarter” narratives and one-file summaries may still exist under [`../../chronicles/`](../..) for mood reading. Where they contradict the **serial**, **the serial wins**.
-
-**Primary quarter retrospective (parallel read):** [`../../chronicles/00-foundation-war/aethelgard-first-quarter.md`](../../chronicles/00-foundation-war/aethelgard-first-quarter.md)
+**Drusus retrospective (Aethelgard first quarter — moved from chronicles):** [`drusus-retrospective-aethelgard-first-quarter.md`](drusus-retrospective-aethelgard-first-quarter.md) — **voice** and early-war psychology; **staff strength math** = this file’s §§1–3 + serial.
 
 ---
 

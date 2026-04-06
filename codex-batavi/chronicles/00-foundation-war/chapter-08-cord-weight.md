@@ -7,110 +7,24 @@
 
 ---
 
-After Pier Nine, the Chapter learned a new quiet: the quiet of adults who had been **seen** by children as monsters and could not decide whether the children were wrong.
+After Pier Nine the Chapter learned a quiet that had nothing to do with curfew or exhaustion: the quiet of adults who had been *seen* by children as monsters and could not decide whether the children were wrong. Drusus carried an extra silence inside that one—the aborted capture whose chart lived only in partials now, pulses logged through null-weave for minutes instead of hours, muscle recruitment mapped only until the pack enforcers arrived. He had watched an alien patience in the specimen’s vitals and a humanoid pupil geometry that tracked motion the way instructors track students—too composed for panic, too *teachable* for simple beast-law. The comparison shamed him because it was incomplete; shame, for Drusus, was a stylus. It wrote *follow up* in margins the Strategium pretended not to have. That work had not yet begun when Furor chose Kaell and forced a different experiment—one the Apothecarion could not archive as hypothetical.
 
-It did not last.
+Versibars were still “cord-breakers” only in whispers, legal fictions lagging behind what brothers had already watched bolt-holes resolve. What the Apothecarion filed was uglier and more familiar: warriors who snapped without leaving the ranks, who laughed bolter-deep without humor, who killed until someone strong enough ended them and who had to be put down **in uniform** while kin pretended law made the steam clean. Drusus hated the paperwork precisely because it *was* clean—ink holding shape when blood would not. Varro hated the prayers because repetition turned mercy into reflex. Alaric hated neither; hatred would have been a luxury thinner than duty, and he carried weight the way some men carry towers because geometry demanded the lift, not because the stone thanked them.
 
----
+When the surge came it chose an auxilia firebase—sandbag scripture and promethium saints, vox-nets strung like laundry, mortals pretending walls could manufacture courage. Brother **Kaell**, name later struck from sermon scrolls because praise felt like betrayal, was the hinge. One moment he moved corridors with the fastidious tenderness of an Astartes who still believed order was mercy; the next, Furor’s weather ran through him like tide through a cracked hull and he rose not as knight but as storm—face rictus-set with joy that was not joy, laughter in his chest deep as a second heartbolt firing, boltgun describing arcs that honored no distinction between foe and **friend**. Mortal screaming became the firebase’s choir. Alaric went in because the hinge needed mass, not because he trusted the poetry of rescue. He cleared kin with shoves brutal enough to save—ribs bruised, jaws rattled, dignity traded for *not dead*—while Kessler snarled curses she would later ask forgiveness for and dragged a radio operator through mud by the collar because the man had frozen in the old mammal conviction that stillness earns safety.
 
-**Versibars** were still called “cord-breakers” only in whispers—legal fictions had not caught the truth yet, and shame loved euphemism.
+Varro was there, *Codex* death-skull helm catching muzzle flash, cowl turning flare into judgment without delight. Drusus was there with hands full of things that were not cures: sedatives calibrated to a body he knew too well, termination vectors he had rehearsed in dreams he did not log, and the living question Pier Nine had left him—whether what broke in Kaell was only **Wolf’s Curse** chemistry or something that *resembled instruction* once the mind stopped bargaining in three dimensions and started spending blood in a fourth he had seen only in snatches of glass and stalker iris. For one obscene second the auspex overlay on his lenses married Kaell’s ocular tremor to the truncated Type A baseline stored under seal; the match was not proof—samples do not equal scripture—but it was enough to turn his mouth to stone. He moved anyway, because love that hesitates in a firebase kills the next row of mortals.
 
-What the Apothecarion documented was simpler: warriors who **snapped** without leaving the ranks—who laughed bolter-deep without humor, who killed until someone *strong enough* ended them, who had to be put down like mad dogs **in uniform** while their brothers watched and pretended law made it clean.
+The execution was Triumvirate ritual before it was law: Alaric’s hand on the macro-pattern of violence, not malice but *office*; Drusus clinical because tenderness would have murdered someone else a breath later; Varro intoning the first bindings that would later harden into rites—words meant not to comfort the dying but to seal what dying must not echo into the living. Kaell’s blood hit rain and steamed, Versibar steam, mortal officers retching because some bodies stay honest when oaths do not. Drusus tagged the remains with Pier Nine’s file number in the private buffer—**LIVE-CAPTURE / TYPE A** crossed out, **VERSIBAR TERMINATION / KAELL** beside it—not as superstition, as method: if a pattern existed between xenos patience and Batavi storm, he would drag it into light even when the light hurt.
 
-Drusus hated the paperwork because it *was* clean—ink behaving when blood would not.
+Lord-Captain **Helena Varche**, Navy pennant pinned to mud-war as if titles could glue fleets to shingle, did not look away; her jaw held like a keel refusing warp. Beside her, in threadbare staff grey, **Valerius** stayed stable—eyes tracking, breath measured, pulse when Drusus reflexively stole telemetry *unremarkable*, as if horror were weather and he had learned to wear a coat. Afterward, when the firebase stank of casings and human shame, Drusus cornered him without courtesy. “You’re not shaking,” he said, accusation wearing observation’s mask. Valerius answered with control rather than kindness: he saved shaking for later, when the Castellan’s line of sight broke. Alaric heard; his helm dipped a fraction—approval disguised as fatigue, the kind of assent fathers give when words would crack something the siege still needs whole.
 
-Varro hated the prayers because they worked often enough to become **habit**.
+On the ridgeline something watched with the same unpleasant courtesy Drusus had measured through mesh on Pier Nine: human scale only if you trusted silhouette, pressure first and anatomy second. When auspex resolved female-pattern mass in xenos plate—command carried in stance rather than shout—Varche’s mouth hardened. “Wrong gender in the briefing again,” she muttered. Iria stood in rain-light like an inconvenient prophet and answered softly, “Right gender for what hunts. Your ledgers underestimate mothers of every species.” Far off, Type **B** did not charge the firebase’s ruin; it *measured*, step and pause tuned the way the specimen had *tracked* enforcers before sentence fell—as if taking notes on how humans punished their own and whether the punishment matched the lesson. Drusus logged the parallel as *speculative* and felt his stomach perform a marine’s forbidden flip anyway; coincidence was a kind of theology he refused, but the echo pricked like a needle dragged through old scar.
 
-Alaric hated neither; hatred would have been a luxury thinner than duty. He carried **weight** the way some men carry towers—because geometry said the tower must be carried, not because the stone *loved* them back.
-
----
-
-When the surge came, it chose an **auxilia firebase**—sandbag scripture and promethium saints, vox-nets strung like laundry, **mortals** pretending walls could be courage.
-
-Brother **Kaell**—name later struck from sermon scrolls because praise felt like betrayal—was the hinge.
-
-One minute he checked corridors with the fastidious love of an Astartes who still believed *order* was mercy.
-
-The next, **Furor’s** weather moved through him like tide through a cracked hull—and Kaell **rose** not as knight but as **storm**: face rictus-painted with joy that was not joy, laughter in his chest deep as a second heartbolt firing, boltgun painting arcs that cared nothing for doctrine’s distinction between foe and **friend**.
-
-Mortal screaming became the firebase’s choir.
-
-Alaric went in because **geometry** demanded mass at the hinge—not heroism, *placement*.
-
-He cleared kin with shoves brutal enough to **save**: ribs bruised, jaws rattled, dignity sacrificed on the altar of *not dead*—Kessler snarling curses she would later pray forgiveness for, dragging a radio operator through mud by the collar because the man had frozen in the old human way that thinks stillness equals safety.
-
-Varro was there—skull catching muzzle flash like a moon that enjoyed judgment too much.
-
-Drusus was there—hands full of *options* that were not cures: sedatives, termination vectors, the clinical maps of how a brother became **hazard**.
-
-The execution was **Triumvirate** ritual before it was law—three functions braiding into one sentence:
-
-Alaric’s hand steady on the macro-pattern of violence—**not malice**; *office*.  
-Drusus clinical—because tenderness would have murdered someone else a second later.  
-Varro intoning the first bindings that would later harden into **rites**—words not meant to comfort the dying but to **seal** what dying must not echo into.
-
-Kaell’s blood hit rain and turned briefly to steam.
-
-**Versibar** steam.
-
-Mortal officers **retched**—bodies honest even when oaths weren’t.
-
----
-
-**Lord-Captain Helena Varche**—Navy penant attached like a title could glue fleets to mud—did not look away. Jaw set like a keel refusing warping.
-
-Beside her, in threadbare staff grey, **Valerius** stood **stable**: eyes tracking, breathe measured, pulse—when Drusus reflexively stole telemetry with a scanner’s rude love—**unremarkable**.
-
-As if horror were weather and he’d learned to wear a coat.
-
-After, when the firebase stank of spent casings and human shame, Drusus cornered him without courtesy.
-
-“You’re not shaking,” the Apothecary said—accusation dressed as observation.
-
-Valerius barely smiled. It wasn’t kindness; it was *control*.
-
-“I save shaking for later,” he answered. “When the Castellan isn’t watching.”
-
-Alaric heard. Helm dipped a fraction—**approval** disguised as fatigue, the way some fathers approve without speaking because speech would break something still needed intact.
-
----
-
-On the ridgeline, something **watched**.
-
-Human-scale only by silhouette error—no romantic ghost, only **pressure** translating as shape.
-
-When auspex resolved female-pattern mass in xenos plate—command cadence carried in stance, not voice—Varche’s mouth hardened.
-
-“Wrong gender in the briefing again,” she muttered.
-
-Iria stood in rain-light like an inconvenient prophet.
-
-“ *Right* gender for what hunts,” she said softly. “Your ledgers underestimate **mothers** of every species.”
-
-Far off, Type B did not charge.
-
-It **measured**—as if taking notes on how humans punished their own.
-
----
-
-Kaell’s cooling remains went home in a shroud Drusus sealed personally—**Apothecarion** honor that was also penance.
-
-The Versibar’s blood had steamed in rain.
-
-The weight on Alaric’s soul did not.
-
-That night, when vox traffic thinned to insects and dying fire, Kadmos found him staring at nothing and said—rough with care—
-
-“Say it, sir. If you don’t, we will invent worse.”
-
-Alaric answered not with confession but with **order**:
-
-“Tomorrow we rotate south. We punish prediction again.”
-
-Which was confession anyway—in the romance tradition where duty speaks when pride can’t.
+Kaell’s cooling remains went home in a shroud Drusus sealed personally—Apothecarion honor that was also penance. The Versibar’s blood had steamed in the rain; the weight on Alaric’s soul did not. That night, when vox traffic thinned to insects and dying fire, Kadmos found him staring at nothing and spoke rough with care: “Say it, sir. If you don’t, we will invent worse.” Alaric answered not with confession but order—*Tomorrow we rotate south. We punish prediction again*—which was confession anyway in the old romance habit where duty speaks when pride cannot, and the wall names the next horizon because naming is the only honest map left.
 
 ---
 
 **End of Chapter 8**
 
-*Next: Chapter 9 —* Second Quarter Brief*.*
+*Next: Chapter 9 —* Second Quarter Brief*.

@@ -56,7 +56,7 @@ The rite that elevates a neophyte to full battle-brother has no choirs, glory oa
 • **Facing Furor:** The legionary is taught somber empathy and grief. Seeing flame eyes and lengthening fangs in a brother is watching drowning begin — military mourning for gradual loss of the man.  
 • **Facing Exanimus:** A brother in this stage triggers inherent discomfort and light tactical fear. The beast is chained, but visual anomaly and tension smell demand constant vigilance from those nearby.  
 • **Facing Execratio:** The organic reaction is not grief or alert — it is pure phobia. Total transformation into a 4.5-meter abomination triggers atavistic horror in transhuman DNA. The **Versibar** is the mirror of final failure, the absolute monster waiting for every Batavi if *Axiom of Reason* fails.  
-**Visage protocol breach:** The rite’s final stage erases any illusion of purity the neophyte still holds about leadership. In an act of extreme, terrifying vulnerability, Chief Apothecary Drusus unlocks his white surgical helm, Chaplain Varro removes his wolf-skull mask, and Lord Castellan Alaric removes his wolf helm.
+**Visage protocol breach:** The rite’s final stage erases any illusion of purity the neophyte still holds about leadership. In an act of extreme, terrifying vulnerability, Chief Apothecary Drusus unlocks his white surgical helm, Chaplain Varro removes his ***Executor* wolf-skull helm**, and Lord Castellan Alaric removes his wolf helm.
 
 The neophyte is forced to look at the Triumvirate’s faces. He sees severe jaw hypertrophy, long canines past the lips, and burning eyes in Drusus and Varro (both marked by *Exanimus*). He sees Alaric’s deep crimson eyes with greened rims, radiating the inhuman stasis of his intermediate stage.
 

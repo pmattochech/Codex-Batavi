@@ -6,7 +6,7 @@
 
 Elara Solis grew on the impossible border between two worlds that should never touch.
 
-By day she was the Triumvirate’s pupil. Alaric von Helis, Chapter Master, did not tell her bedtime fables; he took her to walls scoured by acid rain to teach ballistics and interception vectors. Drusus, the Apothecary, taught her that crying was an inefficient waste of hydration and that pain was only neurological data to be ignored. Varro, the skull-helmed Chaplain, whispered not of death’s glory but of the excruciating duty of survival. She learned to read star charts before she learned to read poetry.
+By day she was the Triumvirate’s pupil. Alaric von Helis, Chapter Master, did not tell her bedtime fables; he took her to walls scoured by acid rain to teach ballistics and interception vectors. Drusus, the Apothecary, taught her that crying was an inefficient waste of hydration and that pain was only neurological data to be ignored. Varro, the **Executor** wolf-skull **Judex**, whispered not of death’s glory but of the excruciating duty of survival. She learned to read star charts before she learned to read poetry.
 
 But at night, the “Iron Venus” melted in the service kitchen. There, under Martha and Tobias, she learned what the Astartes had forgotten. Tobias, with mortar-rough hands and cheap tobacco smell, was the counterweight to Alaric’s cold steel. He taught Elara to laugh, to knead bread, and to understand that Noviomagus’s walls did not exist to shield a distant Emperor, but the families who supped just behind them.
 

@@ -4,7 +4,7 @@
 
 **Canonical narrative:** the **38-chapter serial** below (read in chapter order). **Staff summary** (nine poles, phases, casualty bands, cross-links): [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md).
 
-**Parallel / retrospective lens:** [aethelgard-first-quarter.md](00-foundation-war/aethelgard-first-quarter.md) — Chief Apothecary Drusus compilation (legacy Imperial quarter dating). Where it **contradicts** the serial (e.g. landing strength), treat the **serial + `foundation-war.md`** as authoritative unless a scene explicitly uses Drusus’s file as in-universe document.
+**Drusus retrospective (in-universe, moved to staff archives):** [drusus-retrospective-aethelgard-first-quarter.md](../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md) — early Aethelgard / hunter-enclave texture; **not** canonical for troop counts (see serial + [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md)).
 
 **Design lattice (props, bans, time layers — not substitute for chapters):** [`FOUNDATION-WAR-RETCON-PLANNING.md`](../FOUNDATION-WAR-RETCON-PLANNING.md)
 
@@ -51,7 +51,7 @@
 | 37 | [chapter-37-der-batav-council.md](00-foundation-war/chapter-37-der-batav-council.md) | *Der Batav Council* |
 | 38 | [chapter-38-instrumentum-solum.md](00-foundation-war/chapter-38-instrumentum-solum.md) | *Instrumentum Solum* |
 
-**Note:** `aethelgard-first-quarter.md` is **in-universe archive texture**; merged staff canon lives in the serial + [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md).
+**Note:** Foundation staff canon lives in the serial + [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md); Drusus’s merged archive is [`drusus-retrospective-aethelgard-first-quarter.md`](../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md).
 
 ---
 

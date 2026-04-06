@@ -14,7 +14,7 @@ Little Leo, four years old, broke the tension by trying to balance a toy soldier
 
 — Structural stability is compromised, Leo — murmured Alaric, his deep voice resonating like a smooth engine. He locked the arm joint to keep the toy from falling.
 
-Sara flinched at the sound of his voice. Jonas felt the tremor in her hand and squeezed gently, but she did not relax. Her eyes met the red lenses of Varro’s skull helm, and she held her breath.
+Sara flinched at the sound of his voice. Jonas felt the tremor in her hand and squeezed gently, but she did not relax. Her eyes met the red lenses of Varro’s **Executor** wolf-skull helm, and she held her breath.
 
 — You fear for the integrity of the vessel, Sara — Drusus cut through the air, voice filtered through the white helm’s *vox*. The Apothecary was not looking at her but at biometric data on his visor. The mouth plate of his helm slid aside with a click so he could take nutrients. — Your cortisol levels are elevated. That is inefficient for gestation.
 
