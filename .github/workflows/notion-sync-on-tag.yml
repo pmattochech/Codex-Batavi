@@ -1,0 +1,63 @@
+# Publish Codex markdown to Notion when a version tag is pushed.
+# Requires: NOTION_TOKEN, NOTION_PARENT_PAGE_ID, NOTION_NEWS_PAGE_ID repository secrets.
+# Optional: NOTION_PATH_PREFIX (default: codex-batavi)
+
+name: Notion sync (on tag)
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: notion-sync-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history + tags)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install sync tool
+        working-directory: tools/notion-sync
+        run: npm install --no-audit --no-fund
+
+      - name: Run Notion sync
+        working-directory: tools/notion-sync
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_PARENT_PAGE_ID: ${{ secrets.NOTION_PARENT_PAGE_ID }}
+          NOTION_NEWS_PAGE_ID: ${{ secrets.NOTION_NEWS_PAGE_ID }}
+          NOTION_PATH_PREFIX: ${{ vars.NOTION_PATH_PREFIX }}
+          NOTION_TITLE_PROPERTY: ${{ vars.NOTION_TITLE_PROPERTY }}
+          NOTION_ROOT_FOLDER_TITLE: ${{ vars.NOTION_ROOT_FOLDER_TITLE }}
+          NOTION_API_VERSION: ${{ vars.NOTION_API_VERSION }}
+          NOTION_FORCE_FULL_SYNC: ${{ vars.NOTION_FORCE_FULL_SYNC }}
+          TAG_REF: ${{ github.ref }}
+          GIT_AUTHOR_NAME: "github-actions[bot]"
+          GIT_AUTHOR_EMAIL: "github-actions[bot]@users.noreply.github.com"
+        run: node sync.mjs
+
+      - name: Commit page map (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tools/notion-sync/page-map.json
+          if git diff --staged --quiet; then
+            echo "No page-map changes."
+          else
+            git commit -m "chore(notion): update page-map after ${{ github.ref_name }} [skip ci]"
+            git push
+          fi

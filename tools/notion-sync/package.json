@@ -1,0 +1,13 @@
+{
+  "name": "@codex-batavi/notion-sync",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Incremental Markdown → Notion sync for Codex-Batavi (triggered by git tags)",
+  "scripts": {
+    "sync": "node sync.mjs"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15"
+  }
+}
