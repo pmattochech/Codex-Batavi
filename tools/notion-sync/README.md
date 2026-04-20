@@ -1,6 +1,10 @@
-# Notion sync (local)
+# Notion sync
 
-Syncs **Markdown under `codex-batavi/`** to Notion from your machine. **No GitHub Actions** — the script only talks to **Notion** and reads **git** for diffs; it never pushes to GitHub.
+Syncs **Markdown under `codex-batavi/`** to Notion. The script talks only to **Notion** and reads **git** for diffs; it does not push to GitHub.
+
+**CI:** Pushing a tag matching `v*` runs [`.github/workflows/notion-sync-on-tag.yml`](../../.github/workflows/notion-sync-on-tag.yml). Configure repository secrets (`NOTION_TOKEN`, `NOTION_PARENT_PAGE_ID`, `NOTION_NEWS_PAGE_ID`). **`GITHUB_REF`** is set automatically in Actions; `sync.mjs` uses it as the current tag when **`TAG_REF`** is unset.
+
+**Local:** Run from `tools/notion-sync` with a `.env` file (see below).
 
 By default it uses **tag-to-tag** diff: only files that changed between the **previous** and **current** `v*` tag (see `TAG_REF`). Use **`NOTION_FORCE_FULL_SYNC=1`** in `.env` to sync every tracked `.md` once.
 
@@ -50,4 +54,4 @@ About **3 requests/second** on average; the script throttles and retries **429**
 
 ## Git tags
 
-**Git does not auto-tag.** Create tags yourself, e.g. `git tag -a v1.0.0 -m "…"`.
+**Git does not auto-tag.** Create tags yourself, e.g. `git tag -a v1.0.0 -m "…"`, then **`git push origin v1.0.0`** to trigger the Notion workflow (if secrets are configured).
