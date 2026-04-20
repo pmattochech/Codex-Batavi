@@ -7,105 +7,35 @@
 
 ---
 
-Morning on the tide-fringe arrived like an apology nobody believed.
+Morning on the tide-fringe arrived like an apology nobody believed. The sea had spent the night **sorting** the Black Fan’s debt. When dawn peeled grey from the horizon, the shingle wore what the mud had hidden: **seventy-two** auxilia returned—*returned*, not rescued—by water too black to call honest. Not whole. Not clean. *Delivered*, like packages refused at a threshold. Armor tags chimed against stone where kin turned them over with fingertips, not tools: spoons, shell-edges, thumbnails bleeding—because **Needles** theology held that shovels insulted the drowned; metal too proud for mouths that had swallowed sons. Women sang dirges older than Gothic. The words never named the Emperor. They named *weight*: what lies down, what rises, what **owes** the tide a reply. Children carried candles in jars until wind killed the flame and kept the jars anyway—proof gravity still worked. Marines stood the cordon in a ring Alaric had ordered wide enough to prevent *photography-of-the-heart*: no crowding, no gawking sold as respect. Still they watched. Still they **listened**. Kadmos murmured to no one in particular, helm-vox low: “Doctrine does not cover **this** page.” Varro answered without turning his *Codex* death-skull toward him—**toward** the singing, rather. “Doctrine is what we write after we survive the pages.” Drusus walked among the seventy-two with his usual economy. He did not bless. He **catalogued**: laceration azimuths consistent with faunal flankers; crush traumas consistent with enforcer mass; a minority cluster of wounds *too neat*—almost Type A’s old patient hand—and those he marked *anomalous* in a private buffer he had not yet shown the Castellan. “The tide is not forensic,” he subvocalized into his gorget pickup. “Neither is grief.”
 
-The sea had spent the night **sorting** the Black Fan’s debt. When dawn peeled grey from the horizon, the shingle wore what the mud had hidden: **seventy-two** auxilia returned—*returned*, not rescued—by water too black to call honest.
+The number **seventy-two** behaved like a liturgy: repeated until it stopped meaning *count* and started meaning *sentence*, a sentence the Imperium would try to edit later and the tide would refuse to allow. A girl tried to match tags to faces and failed three times, then succeeded once and screamed as if success were worse—because recognition is a door, and doors on Aethelgard opened onto rooms you could not leave. Foam clung to cloth in stiff lace; oil from the Fan painted rainbows on skin the Apothecarion would later scrub until skin became politics. **Alaric** did not walk the shingle like a lord; he walked it like a wall moved on purpose, slow enough that kin could step aside without being made to feel *cleared*, because being cleared was how Administratum convoys treated cattle. He stopped once beside a woman who held a helmet that did not fit any corpse present—someone else’s son, borrowed grief—and he did not offer words. He offered **stance**: weight without demand, receipt without sermon.
 
-Not whole. Not clean.
+**Sergeant Kessler** arrived with the living, not the delivered, mud still in her lashes like ink she refused to blink away. She reported to an officer who did not want a report; she gave one anyway—timestamps, cordon collapse vectors, Certo’s last broadcast fragment—because report was how you kept the dead from becoming **rumor**. A scribe tried to round seventy-two down to seventy for the first draft; **Kadmos** leaned over the slate without touching the man and said, “Write the tide’s arithmetic honestly, or drown in it,” which was not *Codex* language, which was why it worked.
 
-*Delivered*, like packages refused at a threshold.
+The Triumvirate shelter stank of fungus-bandages and heated plastek—the romance of field medicine reduced to steam and antiseptic shame. Hololith ticked casualty columns mortals weren’t meant to see at once. Drusus stripped adjectives from his mouth until only instruments remained. “Telemetry,” he said, and the table lit with sin. Elevated basal cortisol across the spearhead—not merely combat exposure; **slope**. Micro-tremors in ocular tracking during downtime. Sleep fragmentation even in catalepsean cycles—**dream-without-sleep** spikes that his protocols hated because they looked like moral failure and behaved like **chemistry**. “We are not breaking,” Drusus concluded, voice flat to keep fear from borrowing it. “We are *tuning* to a frequency we don’t yet understand. If this continues, we will see **Furor** signatures in warriors who have never been *unstable* before.” Kadmos slammed a palm on the plasti-sheet—crack like distant bolter snap. “Then damp it,” he said. “Drugs. Duty rota. Shock boxes. **Something**.” “You cannot unhear a bell,” Varro replied. His censers hung cold; his hands were steady in that way chaplain steadiness has when it is not comfort but **constraint**. “What you damp is not always sanity. Sometimes it is **warning**.” Alaric had not spoken. In that shelter his silence had weight without performance—the kind of mass that bends discussion into orbit. When he did speak, the room steadied anyway. “Duty is the cord,” he said. “Not pride. Not vengeance. **Duty.** We hold the line mortals mistake for *honor* until they learn *order*.” Nobody clapped. Nobody breathed easier.
 
-Armor tags chimed against stone where kin turned them over with fingertips, not tools: spoons, shell-edges, thumbnails bleeding—because **Needles** theology held that shovels insulted the drowned; metal too proud for mouths that had swallowed sons.
+Telemetry was not only numbers; it was **faces** translated into graphs—ocular drift in a line brother who had always tracked straight, elevated heart rate in two sergeants who had always been steady, a third who laughed at the wrong line in a briefing and then stopped laughing as if someone had cut his throat with etiquette. **Drusus** watched the hololith the way he watched wounds: not for drama, for **vectors**. “If this is contagion,” Kadmos growled, “I want a vector I can shoot.” “If this is contagion,” Drusus replied, “you will shoot the wrong thing and teach the Chapter to fear itself.” He opened a secondary buffer—*psychograph—provisional*—and hated the buffer name because naming made the unreal feel **owned**. He logged dreams reported in whispers: teeth, glass, boots lined in pairs, the needle-bridge burning again behind closed visors. He did not call it prophecy. He called it **posture-memory**, and posture-memory was still chemistry, even when it wore a myth’s mask.
 
-Women sang dirges older than Gothic. The words never named the Emperor. They named *weight*: what lies down, what rises, what **owes** the tide a reply. Children carried candles in jars until wind killed the flame and kept the jars anyway—proof gravity still worked.
-
-Marines stood the cordon in a ring Alaric had ordered wide enough to prevent *photography-of-the-heart*: no crowding, no gawking sold as respect. Still they watched. Still they **listened**.
-
-Kadmos murmured to no one in particular, helm-vox low: “Doctrine does not cover **this** page.”
-
-Varro answered without turning his skull toward him—**toward** the singing, rather. “Doctrine is what we write after we survive the pages.”
-
-Drusus walked among the seventy-two with his usual economy. He did not bless. He **catalogued**: laceration azimuths consistent with faunal flankers; crush traumas consistent with enforcer mass; a minority cluster of wounds *too neat*—almost Type A’s old patient hand—and those he marked *anomalous* in a private buffer he had not yet shown the Castellan.
-
-“The tide is not forensic,” he subvocalized into his gorget pickup. “Neither is grief.”
-
----
-
-The Triumvirate shelter stank of fungus-bandages and heated plastek—the romance of field medicine reduced to steam and antiseptic shame.
-
-Hololith ticked casualty columns mortals weren’t meant to see at once. Drusus stripped adjectives from his mouth until only instruments remained.
-
-“Telemetry,” he said, and the table lit with sin.
-
-Elevated basal cortisol across the spearhead—not merely combat exposure; **slope**. Micro-tremors in ocular tracking during downtime. Sleep fragmentation even in catalepsean cycles—**dream-without-sleep** spikes that his protocols hated because they looked like moral failure and behaved like **chemistry**.
-
-“We are not breaking,” Drusus concluded, voice flat to keep fear from borrowing it. “We are *tuning* to a frequency we don’t yet understand. If this continues, we will see **Furor** signatures in warriors who have never been *unstable* before.”
-
-Kadmos slammed a palm on the plasti-sheet—crack like distant bolter snap.
-
-“Then damp it,” he said. “Drugs. Duty rota. Shock boxes. **Something**.”
-
-“You cannot unhear a bell,” Varro replied. His censers hung cold; his hands were steady in that way chaplain steadiness has when it is not comfort but **constraint**. “What you damp is not always sanity. Sometimes it is **warning**.”
-
-Alaric had not spoken. In that shelter his silence had weight without performance—the kind of mass that bends discussion into orbit.
-
-When he did speak, the room steadied anyway.
-
-“Duty is the cord,” he said. “Not pride. Not vengeance. **Duty.** We hold the line mortals mistake for *honor* until they learn *order*.”
-
-Nobody clapped. Nobody breathed easier.
+**Varro** listened to the shelter’s silences the way other men listened to vox: the pause after “Furor” where nobody wanted to repeat the word; the smaller pause after “unstable” where brothers realized *unstable* could mean them tomorrow. He did not promise clarity. He tightened **silence** as discipline—no humming, no nervous tapping on plasti-sheet—because rhythm leaked information the same way vox discipline did. “If the bell cannot be unheard,” he said, softer, returning to his earlier metaphor like a man testing a wound, “then we choose **which** bell rings next.” Alaric nodded once. Nodding was agreement without speech; speech would have turned choice into **performance**, and performance was a frequency.
 
 Yet aides would later swear—in memoirs Drusus would annotate with skeptical footnotes—that this was the **embryo** of the **Axiom**: not yet doctrine etched in tablets, only a man choosing **geometry** over grief because grief would unspool them into Type B’s favorite shape: *hesitation*.
 
----
+What the shelter could not show—what hololiths never loved—was the **Administratum** tent fifty meters downslope, where clerks tried to make seventy-two fit forms built for twelve. Stamps missed; ink ran; someone proposed the word *consolidated* as if consolidation could turn many deaths into one line item. A Navy liaison demanded casualty categories before he would release pressure-differential meds from a crate marked **human cold-chain**; **Drusus’s** seal arrived like a knife slid between arguments—not violence, **priority**—and the crate opened anyway, because even admiralties bowed when Apothecaries learned to speak **law** as fluently as blood. **Alaric** did not visit the tent; visiting would have turned grief into **audience**. He sent **Kadmos** with a single instruction: *no rounding down*. Kadmos returned with ink on his gauntlets that was not blood and not dirt; it was someone else’s mistake wiped off a slate, a small violence done in service of truth.
 
-Outside, vox caught a chattering squeal—**xenos** harmonica riding wind, too patterned for honest atmospheric noise. Auspex techs blamed interference, mineral ghosts, sickly babies in machine spirits.
+Outside, vox caught a chattering squeal—**xenos** harmonica riding wind, too patterned for honest atmospheric noise. Auspex techs blamed interference, mineral ghosts, sickly babies in machine spirits. Iria stood where rain blurred her outline into something neither Needles nor Gothic. “The *hunters* dislike the *soldiers’* noise,” she said—not to technicians, to Alaric’s helm as if helms could **listen** if spoken to correctly. “Even hunters have *taste*. Even war has **snobbery**.” Drusus filed that sentence where linguists would wince and tacticians would salivate: *inter-faction tension—unverified.*
 
-Iria stood where rain blurred her outline into something neither Needles nor Gothic.
+Auspex techs chased the harmonica squeal until it became a joke that wasn’t funny—**pattern** in noise, arrogance in wind—then lost it entirely, which was worse: loss implied either equipment failure or a listener who stopped performing when it noticed observation. **Iria** did not offer to “translate” the sound; translation would have turned her people into props. She offered **context** instead: hunters liked cleanliness in kills; soldiers liked cleanliness in logistics; when the two met, the Black Fan became a debate stage written in mud. “Snobbery kills slower than teeth,” she said, almost as an afterthought, “but it kills **sure**.” Alaric filed that, too—not in wax, in memory, the worst archive. Memory did not ship well; memory did not stamp cleanly; memory nevertheless moved armies when it hardened into **habit**.
 
-“The *hunters* dislike the *soldiers’* noise,” she said—not to technicians, to Alaric’s helm as if helms could **listen** if spoken to correctly. “Even hunters have *taste*. Even war has **snobbery**.”
+**Sergeant Kessler** passed the cordon carrying a ration tin she did not eat. Mud had dried in her hair like old vows. “Seventy-two,” she muttered—to the shingle, to herself, to Certo’s ghost if ghosts attended field kit. “My **headcount** for the week.” Her hands trembled. Pride would have hidden them; exhaustion let them show. She did not ask for a chaplain. She asked a Needles matriarch for a **spoon**—the little dishonored tool—and knelt in the wet grit beside a boy whose face she half-recognized from a transport manifest, and began to dig because digging was the only order left that could be obeyed without debate. Varro watched that kneeling longer than protocol required. He did not offer rite. He offered **presence**—which was rite enough.
 
-Drusus filed that sentence where linguists would wince and tacticians would salivate: *inter-faction tension—unverified.*
+When the digging found a hand—small, administratively young—**Kessler** did not flinch for the cameras that did not exist; she flinched for the mathematics of fingers, five, all present, meaning someone had counted this child into a manifest once and would now have to count him out again. She wrapped the hand in cloth because cloth was what she had, because dignity was sometimes **wrapping**, not speech. A Needles matriarch sang under her breath—not to the corpse, to the **living** who watched the living do work that should have belonged to the sea. The song made **Drusus** pause mid-catalogue; pause was dangerous; pause was also human. He allowed three seconds, then returned to numbers, because numbers were how you kept human pauses from becoming **policy** written by grief.
 
----
+Somewhere in the dark between tides—between stalker display and pack clearance—two kinds of killer argued without words the way weather argues with hulls: pressure, silence, then **cost**. The Chapter, sandwiched, paid tuition in blood until it understood the syllabus had a second volume. Alaric returned to the line. Rain sheeted his pauldrons. He did not say *We hold.* Not yet. He said—only to Kadmos, channel narrow: “Prepare **Bait** options. If the hunters hate noise, we will make noise **intentional**.” Kadmos’s exhale was almost laugh, almost sob. “Sir,” he said. On the shingle, the seventy-two waited under cloth and song, teaching the living how heavy **return** could be.
 
-**Sergeant Kessler** passed the cordon carrying a ration tin she did not eat. Mud had dried in her hair like old vows.
+**Threx** sent a single line across cooperative channels—*substrate volatility elevated; recommend sampling window*—and received no answer at all, which was an answer: the Chapter would not let Mechanicus hunger turn seventy-two into slides while mothers still searched for chins their sons had borrowed from childhood. Later, when the politics of slides arrived anyway, men would call this silence **pride**. In CV y3 it was simply **sequence**: first the living identified, first the dead named, first the bells counted before anyone rang a new one on purpose.
 
-“Seventy-two,” she muttered—to the shingle, to herself, to Certo’s ghost if ghosts attended field kit. “My **headcount** for the week.”
-
-Her hands trembled. Pride would have hidden them; exhaustion let them show.
-
-She did not ask for a chaplain.
-
-She asked a Needles matriarch for a **spoon**—the little dishonored tool—and knelt in the wet grit beside a boy whose face she half-recognized from a transport manifest, and began to dig because digging was the only order left that could be obeyed without debate.
-
-Varro watched that kneeling longer than protocol required.
-
-He did not offer rite.
-
-He offered **presence**—which was rite enough.
-
----
-
-Somewhere in the dark between tides—between stalker display and pack clearance—two kinds of killer argued without words the way weather argues with hulls: pressure, silence, then **cost**.
-
-The Chapter, sandwiched, paid tuition in blood until it understood the syllabus had a second volume.
-
-Alaric returned to the line. Rain sheeted his pauldrons.
-
-He did not say *We hold.*
-
-Not yet.
-
-He said—only to Kadmos, channel narrow:
-
-“Prepare **Bait** options. If the hunters hate noise, we will make noise **intentional**.”
-
-Kadmos’s exhale was almost laugh, almost sob.
-
-“Sir,” he said.
-
-On the shingle, the seventy-two waited under cloth and song, teaching the living how heavy **return** could be.
+On the shingle, evening came down like another tide—slower, but no kinder. Candles relit in jars until wind killed them again; children learned the ritual and performed it with the seriousness of soldiers rehearsing failure so failure would feel **familiar**. **Varro** allowed a short Rite for the *returned*—not celebration, **acknowledgment**—because acknowledgment was how you prevented the sea from becoming the only priest. **Drusus** did not attend; he worked. Work was his liturgy, and liturgy was how he kept Furor-talk from becoming **panic**-talk in a shelter already tuned too tight. Outside, the harmonica squeal did not return; absence was not peace, only **intermission**, and intermission on Castra Vetera’s marches had never meant the play was over. The seventy-two had taught the living a new kind of listening: not for enemy, for **debt**—and debt always collected, given time, given tide, given ink, given grief.
 
 ---
 

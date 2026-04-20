@@ -1,0 +1,2 @@
+# Local Notion sync credentials (never commit)
+tools/notion-sync/.env

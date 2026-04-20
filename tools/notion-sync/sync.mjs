@@ -3,12 +3,13 @@
  * Mirrors repo folders as Notion pages; each .md file is a subpage of its folder.
  * Respects Notion ~3 req/s average: delay + Retry-After on 429.
  *
- * Env: NOTION_TOKEN, NOTION_PARENT_PAGE_ID, NOTION_NEWS_PAGE_ID
+ * **Local-only:** loads `tools/notion-sync/.env` if present (does not push to GitHub).
+ *
+ * Env: NOTION_TOKEN, NOTION_PARENT_PAGE_ID, NOTION_NEWS_PAGE_ID, TAG_REF (or GITHUB_REF)
  * Optional: NOTION_PATH_PREFIX (default codex-batavi), NOTION_TITLE_PROPERTY (default title),
  *           NOTION_ROOT_FOLDER_TITLE (default "Codex Batavi" for the prefix root segment),
  *           NOTION_API_VERSION (default 2025-09-03) — must support POST /v1/pages/{id}/move for reparenting
  *           NOTION_FORCE_FULL_SYNC=1 — process all tracked .md under prefix (ignore tag diff; recovery / reparent-all)
- * CI: TAG_REF=refs/tags/v1.2.3
  */
 
 import fs from "fs";
@@ -17,6 +18,32 @@ import { execSync } from "child_process";
 import { Client } from "@notionhq/client";
 
 const ROOT = process.cwd();
+
+/** Load tools/notion-sync/.env — values only apply if not already set in the shell. */
+function loadLocalEnv(rootDir) {
+  const envPath = path.join(rootDir, ".env");
+  if (!fs.existsSync(envPath)) return;
+  const text = fs.readFileSync(envPath, "utf8");
+  for (let line of text.split("\n")) {
+    line = line.trim();
+    if (!line || line.startsWith("#")) continue;
+    const eq = line.indexOf("=");
+    if (eq <= 0) continue;
+    const key = line.slice(0, eq).trim();
+    let val = line.slice(eq + 1).trim();
+    if (
+      (val.startsWith('"') && val.endsWith('"')) ||
+      (val.startsWith("'") && val.endsWith("'"))
+    ) {
+      val = val.slice(1, -1);
+    }
+    if (process.env[key] === undefined || process.env[key] === "") {
+      process.env[key] = val;
+    }
+  }
+}
+
+loadLocalEnv(ROOT);
 const MAP_PATH = path.join(ROOT, "page-map.json");
 const PREFIX = (process.env.NOTION_PATH_PREFIX || "codex-batavi").replace(/\/$/, "");
 const PREFIX_SEGMENTS = PREFIX.split("/").filter(Boolean);

@@ -3,101 +3,49 @@
 **Foundation War** · **Chapter 6 of 38** · *Mirror Routes*  
 **Strategium anchor:** CV y4  
 **Theater:** Pole VIII — Silica Field (void interlude; **atmosphere / foreshadow**)  
-*Post-incident label (early): **unexplained navigational cascade**. No assailant class filed. Cross-ref: harmonic interference stack—see Drusus annex *Sigma-Black**.*
+*Post-incident label (early): **unexplained navigational cascade**. No assailant class filed. Cross-ref: harmonic interference stack—see Drusus annex *Sigma-Black*.*
 
 ---
 
-On Aethelgard the mud still taught its slow gospel; in the dark between mirror-buoys, the void taught a faster one—**lessons in likeness**.
+On Aethelgard the mud still taught its slow gospel; in the dark between mirror-buoys, the void taught a faster one—**lessons in likeness**. The convoy did not die in battle. It died in **interpretation**. Mechanicus escort ***Ferrum Thesis*** shepherded the auxilia tender **Promise of Tithing** along a route the Administratum stamped **SAFE** with the confidence of men who trust ink more than stars. Three seals kissed the clearance slate—**Navy** corridor rights, **Genetor** auspex blessing, **Navis Nobilite** coffin-data sworn on blood and contract. **Lieutenant Pryce** rode *Tithing* as Batavi liaison—attaché status dressed as “coordination,” the Chapter’s quiet apology for needing bodies that breathed cheaper than Astartes. Pryce slept in increments, helmet-on, dreams of parade squares dissolving into glass.
 
-The convoy did not die in battle.
+Convoy doctrine that week still smelled like Aethelgard mud on his boots—**Glass Rills** grit in the tread, bells in memory—because void work was supposed to be *clean*, and Pryce’s mind kept translating cleanliness into **danger**: if mud taught you that beauty lied, what did mirrors teach? He ran nightly checks the way nervous men run rosaries: pressure bands, coffin-data handshake, Navigator nod, Mechanicus hum. Each check returned green until green felt like a color you could not trust, because green was what Administratum stamps loved before they learned to love **consolidated** casualty lines.
 
-It died in **interpretation**.
+***Ferrum Thesis*** rode high like a chaperone who resented the dance: void shields tuned for particle scatter, auspex masts lifting as if to sniff shame off *Tithing*’s hull paint. **Promise of Tithing** answered with the politeness of a tithe ship—slow turns, obedient burn, cargo holds packed with what the Segmentum called *personnel* and the Chapter called *debt we move through vacuum because mud is not the only medium that drowns*. Between hulls, vox discipline stayed tight enough to hear a man swallow. Swallowing, in that corridor, sounded like **confession**.
 
----
+Between the **ninth** and **tenth** mirror-buoy—glass highways in vacuum where reflective particulate turned corridors into *arguments*—geometry developed **opinions**. Helmscreens filled with **self**. Not vanity’s self: *likeness*. Ships that were **not** there duplicated trajectories until helmsmen corrected—**into collisions that also were not there**—until correction became its own suicide spiral. A junior Navigatrix—face stripped of names in later reports—pressed palms to a console slick with sweat that should not exist in recycled air. “I see us,” she whispered. “**Twice.**” Her officer—Guild factor’s cousin, rumor said—shouted **instruments** as if instruments had not become theology. **Threx**, remotely auditing auspex feeds from *Lex Ignis* orbit, watched like a creditor watches ledgers: not for tragedy, for **interest**—each spike a line item, each post-spike silence a line item, the final flatline *closure of opportunity* he would later translate into protests when the Chapter denied salvage windows on sanctity shams. Then he sent the clipped mandate anyway: *Harmonic recalibration; compliance is efficiency.* The ship obeyed. Obedience, sometimes, is just **panic in uniform**.
 
-Mechanicus escort ***Ferrum Thesis*** shepherded the auxilia tender **Promise of Tithing** along a route the Administratum stamped **SAFE** with the confidence of men who trust ink more than stars. Three seals kissed the clearance slate—**Navy** corridor rights, **Genetor** auspex blessing, **Navis Nobilite** coffin-data sworn on blood and contract.
+Helm corrections propagated ship-to-ship like rumor: ***Ferrum Thesis*** yawed starboard because *Tithing* yawed port to avoid a contact that existed only as reflection, then corrected back because the reflection corrected—a dance partners perform when both are blindfolded and both believe the other can see. **Pryce** tried to break the loop with a **ban** on mirrored vox phrasing—no repeated call-signs, no choral acknowledgments—until his own throat ran dry from the discipline of speaking once. It did not save him. Discipline rarely saves you from physics; it only buys seconds you can spend choosing which horror you prefer.
 
-**Lieutenant Pryce** rode *Tithing* as Batavi liaison—attaché status dressed as “coordination,” the Chapter’s quiet apology for needing bodies that breathed cheaper than Astartes.
+Mirror-buoys were not lighthouses; they were **arguments** cast in glass and tether—each buoy a thesis about where safe meant, each corridor between them a dissertation nobody passed. Reflective particulate drifted in slow storms fine enough to enter seals as philosophy: you did not see it until your helmscreen began to **prefer** fiction. Pryce tried to log the first duplicate as *sensor ghost*; the log refused to stay neat—ghost acquired mass, ghost acquired transponder squawk, ghost acquired **tone** of voice on an open channel that should have been dead. “Identify,” Pryce said anyway, because Identify was what orders sounded like when fear wore uniform. The ghost answered with Pryce’s own call-sign delayed by half a second, a courtesy so insulting it felt personal.
 
-Pryce slept in increments, helmet-on, dreams of parade squares dissolving into glass.
+On *Tithing*’s bridge, **Marlane Yew**—third mate, tally-scarred, grandmother of five in a hive she had not seen in years—watched the corridor swell into **mirrors** until mirrors learned *hunger*. Not mouths—**reflection** swallowing navigation by offering futures that canceled the present. She tore her own eyes with thumbs rather than watch one more second of *likeness* becoming route. Her scream never left the ship’s skin; vox turned it into static dressed as **choral** harmonics, the way pain pretends to be music when men listen without wanting to understand. When Batavi cutters found the drift-hulk pair—***Ferrum Thesis* stiff**, **Promise of Tithing** yawing like a prayer half-finished—they found **no bodies** and **no enemy** in any inventory sense. Only scratchpads in minuscule hand, the same phrase copied until panic wore the mask of maintenance: *equipment fault*—again and again, as if repetition could convert terror into **innocence** on a work order. Pryce was not among the recovered names—nor were forty-six *Tithing* crew assumed aboard at cast-off—the list gaps bruises the Chapter carried like missing teeth it could not stop tonguing.
 
-Between the **ninth** and **tenth** mirror-buoy—glass highways in vacuum where reflective particulate turned corridors into *arguments*—geometry developed **opinions**.
+Data archaeology later would reconstruct Pryce’s last coherent transmission as three words—*not us; repeat*—then static, then a second voice too similar, then static again. The reconstruction was **faith** dressed as waveform analysis: faith that someone had tried to tell the truth before truth became *equipment fault* on a scratchpad. Faith did not convict. It only kept mourners from sleeping, which Drusus considered data.
 
-Helmscreens filled with **self**.
+Boarding parties learned vacuum’s other lesson: absence is not empty; absence is **pressure** shaped like rooms you used to understand. **Drusus**—ferried across because the Castellan would not let the dead speak only through Navy coroners—moved through *Tithing*’s companionways with lamps dialed to cruel honesty. Bulkheads wore smears where hands had slid and failed to find purchase; a child’s toy turned up wedged behind a conduit hatch, obscene in its normality, and a serf pocketed it before Drusus could log it because some evidence is too sharp to hand to ink. In *Thesis*’s auspex chapel, screens still displayed **self**—a looped corridor of reflections eating its own tail—until Drusus ordered power severed at the spine and hated that severing felt like killing a patient to stop a scream.
 
-Not vanity’s self: *likeness*. Ships that were **not** there duplicated trajectories until helmsmen corrected—**into collisions that also were not there**—until correction became its own suicide spiral.
+Geller fields had not failed—not in any way a tech-adept could swear to in court—which was worse, because **failure** would have been an answer. Instead they had *trembled* in narrow bands synchronized to helm corrections, as if the ship’s soul had learned to flinch in rhythm with a helmsman who was not aboard. Drusus logged the tremble as *non-failure anomaly* and knew the phrase would age poorly. He took swabs from console sweat anyway—**swabs only**, his old treaty with **Threx**—because chemistry could sometimes tell you who had been afraid before fear became vox.
 
-A junior Navigatrix—face stripped of names in later reports—pressed palms to a console slick with sweat that should not exist in recycled air.
+**Kadmos** walked *Thesis*’s bridge last, bolter slung, not expecting fight—expecting **habit**—and found helm still married to a course correction that pointed at a collision with nothing. He stared at nothing long enough for nothing to become theology. “If I fire,” he muttered to the empty chair, “I hit us.” The chair did not answer. That was the lesson: the enemy, if enemy it was, had already fired—through **interpretation**—and interpretation left no brass to pick up for evidence bags.
 
-“I see us,” she whispered. “**Twice.**”
+Strategium postmortem: blame as **liturgy**. Navy commissar blamed Mechanicus blind faith; Genetor proxy blamed Navigator cowardice; Navigator factor blamed Navy coffin-data. Each sentence true enough to *hurt* someone else; none true enough to **explain**. Kadmos listened, face stone sculpted by tired gods. Alaric ended the circle without raising his voice—volume was not his weapon; **finality** was. “Blame is a luxury of the living,” he said. “Assign it *after* we stop dying the **same way** twice.” Silence—actual silence—had the nerve to enter the room.
 
-Her officer—Guild factor’s cousin, rumor said—shouted **instruments** as if instruments had not become theology.
+The Navy commissar tried to salvage authority with **threat**—delay the next auxilia lift, freeze corridor vouchers, make mud pay for void’s confusion—and **Kadmos** leaned forward once, not far, only enough to remind the room that threat required **range**. “Delay lifts,” Kadmos said softly, “and you will move bodies through vacuum slower while the mud still eats them faster. That is not policy. That is **arithmetic**.” The commissar’s mouth tightened; arithmetic was harder to stamp than blame. A Genetor proxy muttered about *Lex Ignis* salvage rights to mirror particulate; **Alaric** did not look at him. Looking would have been engagement; engagement would have been a second mirror. “No scraping until Drusus clears hazard,” Alaric said, voice flat. “**Witness** before trophy. Always.”
 
-**Threx**—remotely auditing auspex feeds from *Lex Ignis* orbit—sent a clipped mandate: *Harmonic recalibration; compliance is efficiency.*
+**Valerius**—already the Chapter’s ledger-hand in all but title—sat with manifests and refused the comfort of rounding: forty-six missing read as forty-six, not *approximately three squads*; *Tithing*’s stores read as stores, not *spoiled in transit* until someone proved spoilage with a seal that was not a lie. He matched crate IDs to throats until officers looked away, because looking was how you admitted you had shipped lives as **cargo** and called it coordination. When a Navy aide suggested “psychological collapse cluster” as a category, Valerius wrote **NO** in the margin with the same ink he used for rations, because new categories were how institutions laundered murder into weather.
 
-The ship obeyed.
+Later, when mourners went home and tech-adepts pretended sleep, Drusus sat with auspex logs the way a confessor sits with sin: long enough for patterns to admit shame. Anomalies stacked with the dryness of a **patient** hand moving pieces on a board nobody had admitted was set. Timing windows too neat. Harmonic spikes **pre-aligned** to routes chosen *after* briefing—post-choice, pre-echo, a wrong order that felt *deliberate* in the way biology felt deliberate in a wound. No signature claimed responsibility. No beast-name attached. He began the annex he would not title cleanly for years—*Sigma-Black* scratch—where harmonics lived without myth: timestamps, phase relationships, the ugly possibility that **Navis** coffin-data and Mechanicus blessing and Navy corridor rights had been truthful at sealing and become lies only in transit, which implied a third party or implied **infrastructure** with appetite. He refused the word *haunted*. Haunted was for children. He used *coupled*: systems coupled without permission, learning each other’s rhythms until one began to mimic death convincingly.
 
-Obedience, sometimes, is just **panic in uniform**.
+Only a quiet Drusus-note appended for Castellan eyes: *If this is enemy action, it is enemy action that **prefers** we blame ourselves.* He did not know—could not know—how right he was. Years later, files would whisper **Men of Iron** and other titles better left inside sealed ledgers. That night, the Chapter knew only **mirrors**: three institutions, one dead corridor, and a silence **pleased** with its work—in the literary sense of pleasure meaning *completion*, not kindness.
 
-On *Tithing*’s bridge, **Marlane Yew**—third mate, tally-scarred, grandmother of five in a hive she had not seen in years—watched the corridor swell into **mirrors** until mirrors learned *hunger*. Not mouths—**reflection** swallowing navigation by offering futures that canceled the present.
+**Varro** filed a short rite for corridors that had learned **likeness**—not Ministorum theater, **binding**: salt-ash along the cutter’s threshold plate, a whispered line about silence owing no duplicate. Sailors who mocked superstition still stepped over the line; mockery, too, was a kind of obedience when fear had not yet chosen its grammar.
 
-She tore her own eyes with thumbs rather than watch one more second of *likeness* becoming route.
+**Alaric** read Drusus’s Castellan note twice—*prefers we blame ourselves*—and did not annotate it. Annotation would have turned suspicion into **plan**, and plan was what mirrors fed on. He ordered mirror-buoys along the auxilia corridor downgraded from **SAFE** to **conditional** until someone could explain why *post-choice* harmonics arrived early without admitting prophecy into a Strategium brief. The order made admiralties furious and made brothers slightly more likely to live; fury, he accepted as cheaper than another forty-six gaps.
 
-Her scream never left the ship’s skin; vox turned it into static dressed as **choral** harmonics, the way pain pretends to be music when men listen without wanting to understand.
+On the cutter ride back toward a translation point that would spit them into mud-time again, **Drusus** and **Kadmos** sat with the same hololith frame repeating an empty corridor until Kadmos snapped it off—not anger, **self-defense**. “If this is a weapon,” Kadmos said, “I want a barrel.” Drusus exhaled once, rare for him. “If this is a weapon,” he answered, “the barrel is **us**—our corrections, our seals, our faith in instruments.” Silence sat between them, third passenger. When Kadmos spoke again, it was almost gentle: “Then teach us how to miss.” Drusus did not promise he could. He promised he would **file** the attempt, which was the only promise he trusted not to become a mirror.
 
-When Batavi cutters found the drift-hulk pair—***Ferrum Thesis* stiff**, **Promise of Tithing** yawing like a prayer half-finished—they found **no bodies** and **no enemy** in any inventory sense.
-
-Only scratchpads in minuscule hand:
-
-*equipment fault*  
-*equipment fault*  
-*equipment fault*
-
-As if repetition could convert panic into **maintenance** and maintenance into innocence.
-
-Pryce was not among the recovered names—nor were forty-six *Tithing* crew assumed aboard at cast-off—the list gaps bruises the Chapter carried like missing teeth it could not stop tonguing.
-
----
-
-Strategium postmortem: blame as **liturgy**.
-
-Navy commissar: *Mechanicus blind faith.*  
-Genetor proxy: *Navigator cowardice.*  
-Navigator factor: *Navy coffin-data.*  
-
-Each sentence true enough to *hurt* someone else; none true enough to **explain**.
-
-Kadmos listened, face stone sculpted by tired gods.
-
-Alaric ended the circle without raising his voice—volume was not his weapon; **finality** was.
-
-“Blame is a luxury of the living,” he said. “Assign it *after* we stop dying the **same way** twice.”
-
-Silence—actual silence—had the nerve to enter the room.
-
----
-
-Later, when mourners went home and tech-adepts pretended sleep, Drusus sat with auspex logs the way a confessor sits with sin: long enough for patterns to admit shame.
-
-Anomalies stacked with the dryness of a **patient** hand moving pieces on a board nobody had admitted was set.
-
-Timing windows too neat.
-
-Harmonic spikes **pre-aligned** to routes chosen *after* briefing—post-choice, pre-echo, a wrong order that felt *deliberate* in the way biology felt deliberate in a wound.
-
-No signature claimed responsibility.
-
-No beast-name attached.
-
-Only a quiet Drusus-note appended for Castellan eyes:
-
-*If this is enemy action, it is enemy action that **prefers** we blame ourselves.*
-
-He did not know—could not know—how right he was.
-
-Years later, files would whisper **Men of Iron** and other titles better left inside sealed ledgers.
-
-That night, the Chapter knew only **mirrors**: three institutions, one dead corridor, and a silence **pleased** with its work—in the literary sense of pleasure meaning *completion*, not kindness.
+On Aethelgard, word arrived late—dilated time’s insult—carried by a vox officer whose voice shook not from drama but from **distance**: the void had taken its lesson faster than mud had taken theirs. **Iria**, told while tying bells for a pier rite she had not wanted to attend, said only, “The sea also shows you twice,” and refused to explain, which was either wisdom or exhaustion, and on CV y4 the Chapter could not afford to tell the difference.
 
 ---
 
