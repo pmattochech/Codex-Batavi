@@ -2,7 +2,7 @@
 
 Doctrinal protocol — classification: internal use / Triumvirate and Vexillationes
 
-*Cross-reference: [friction-rites.md](friction-rites.md) § Greater rite | [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) § Execratio stage | [incus-gravis-campaign.md](../../chronicles/04-incus-gravis-tribunal/incus-gravis-campaign.md) — primary record*
+*Cross-reference: [friction-rites.md](friction-rites.md) § Greater rite | [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) § Execratio stage | [incus-gravis-campaign.md](../../chronicles/04-incus-gravis-tribunal/incus-gravis-campaign.md) — primary record | [proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md) — witness inheritance vs Judex-sanctioned rite*
 
 ---
 

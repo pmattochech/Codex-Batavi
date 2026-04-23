@@ -4,11 +4,11 @@ The Strategium of Noviomagus Prime was not a command hall ruled by shouts of glo
 
 At the room’s center rose the Adamant Throne. Upon it, motionless as a gargoyle forgotten in an abandoned cathedral, sat Alaric von Helis.
 
-The Praetor of Noviomagus had not moved in four days. His Indomitus Terminator armor rested heavy against the throne’s back, servomotors in latency mode, emitting only a near-imperceptible subsonic hum. The clinical depression that had swallowed his mind after Valerius’s betrayal did not show itself as tears or rage. It operated as a systemic winter. Alaric felt locked inside his own chassis, a prisoner of gravity and of a mind that processed reality purely through efficiency reports and casualty counts. He did not live; he only kept the sector from dying.
+The Praetor of Noviomagus had not moved in four days. His *Castra-Lupus* rested heavy against the throne’s back, servomotors in latency mode, emitting only a near-imperceptible subsonic hum. The clinical depression that had swallowed his mind after Valerius’s betrayal did not show itself as tears or rage. It operated as a systemic winter. Alaric felt locked inside his own chassis, a prisoner of gravity and of a mind that processed reality purely through efficiency reports and casualty counts. He did not live; he only kept the sector from dying.
 
 The Strategium’s silence broke to the soft scrape of claws on ferrocrete.
 
-Viggo entered. The Fenrisian Thunderwolf—denied, by the genetics of its kind, the bulk of a rhino—had the frame of a young bull, wrapped in thick white fur that seemed to drink what little light there was. He scented the frozen air. Like any born predator, he sought comfort, and there was no biological comfort in the Cohors Batavorum’s Castra-Lupus.
+Viggo entered. The Fenrisian Thunderwolf—denied, by the genetics of its kind, the bulk of a rhino—had the frame of a young bull, wrapped in thick white fur that seemed to drink what little light there was. He scented the frozen air. Like any born predator, he sought comfort, and there was no biological comfort in the Strategium’s sterile cold.
 
 Viggo walked to the Adamant Throne. He asked no permission, made no sound. The beast simply mounted the first step of the dais, turned twice, and dropped heavily onto Alaric’s heavy sabatons. The Thunderwolf curled around the giant’s armored legs, muzzle pressed to the ceramite joint of the left knee, where the plating was thinner and internal heat leaked.
 
@@ -32,7 +32,7 @@ The idea of a “meal” had lost all ceremonial or biological meaning for Alari
 
 Maintaining the “biological unit” at his feet, however, required a different protocol.
 
-A logistics servitor—a lobotomized horror of pale flesh and rusted cybernetics—dragged into the command chamber. In its hydraulic load arms it carried a metal trough of slopped synthetic proteins, standard feed for Castra-Lupus wardogs or work beasts.
+A logistics servitor—a lobotomized horror of pale flesh and rusted cybernetics—dragged into the command chamber. In its hydraulic load arms it carried a metal trough of slopped synthetic proteins, standard feed for Chapter wardogs or work beasts.
 
 As soon as the servitor’s treads scraped the ferrocrete, Viggo lifted his head. The Thunderwolf issued a low growl, a sub-vocal rumble that vibrated against the plates of Alaric’s leg.
 
@@ -42,7 +42,7 @@ The Praetor’s depressed mind, always running on siege paranoia, parsed the sce
 
 The servitor obeyed at once, leaving the trough on the floor before retreating to the shadows with a servile whine.
 
-Slowly, Alaric leaned his massive torso forward. The gyros of his Indomitus chassis whined protest after so many hours in stasis. He ignored the servitor’s standard slop. Instead he opened a sealed compartment in the Throne’s armrest, where blocks of high-calorie synthetic meat—Astartes emergency rations—were stored.
+Slowly, Alaric leaned his massive torso forward. The gyros of his *Castra-Lupus* chassis whined protest after so many hours in stasis. He ignored the servitor’s standard slop. Instead he opened a sealed compartment in the Throne’s armrest, where blocks of high-calorie synthetic meat—Astartes emergency rations—were stored.
 
 Alaric tore free a fibrous dark chunk. He did not throw it to the floor. Noviomagus logic held heat waste and soil contamination grave offenses. Instead he extended the **Hand of the Father**.
 
@@ -160,7 +160,7 @@ Seventy-two hours. Three unbroken planetary cycles. That was how long the Lord C
 
 In his mind the helm’s eyes were closed, but his awareness roamed Noviomagus Prime’s orbital holomaps. He ran simulation after simulation. Black Legion fleet invasions, deep-mine xenos infestations, cult uprisings in promethium foundries. He calculated Cohors Batavorum response time for each apocalypse scenario, mentally sacrificing thousands of legionaries and millions of workers in equations of pure tactical efficiency. He lived his world’s end again and again, hunting the formula that would keep the Wall unbroken.
 
-The heat that hyperactive cognition generated was immense. His Indomitus armor’s chemical dispensers pumped synthetic stimulants and fatigue inhibitors straight into his bloodstream, forcing the biological machine to run far past any safe margin.
+The heat that hyperactive cognition generated was immense. Chemical dispensers in his *Castra-Lupus* pumped synthetic stimulants and fatigue inhibitors straight into his bloodstream, forcing the biological machine to run far past any safe margin.
 
 Failure did not arrive with artillery thunder, but with a dry, silent crack in the dark of his own skull.
 
@@ -172,7 +172,7 @@ Forced disconnect’s shock was devastating. His body tried to rise from the thr
 
 The Anchor gave.
 
-Nearly a ton of ceramite, adamantium, and flesh collapsed. Alaric tumbled from the dais steps. Impact on the ferrocrete floor rang like a bank vault falling, cracking the surface and echoing off the vaulted walls of the empty chamber. Alaric’s heavy Terminator helm struck stone. The ceramite mechanical muzzle scraped the floor with a shrill shriek, and the heavy steel fangs of the lupine faceplate locked as they tore the flooring.
+**~1.7 tons** of ceramite, adamantium, and flesh collapsed. Alaric tumbled from the dais steps. Impact on the ferrocrete floor rang like a bank vault falling, cracking the surface and echoing off the vaulted walls of the empty chamber. Alaric’s heavy Terminator helm struck stone. The ceramite mechanical muzzle scraped the floor with a shrill shriek, and the heavy steel fangs of the lupine faceplate locked as they tore the flooring.
 
 Internal gyros whined in a sharp, desperate note, trying to right the massive armor, but without the host’s motor coordination they failed, dropping one by one into safety mode with hollow clicks.
 
@@ -180,7 +180,7 @@ Alaric von Helis, Lord of the Wall and Praetor of Noviomagus, lay on his side in
 
 Behind the orange lenses of his wolf helm, the HUD was chaos—runes flashing blood red: *Critical Interface Failure. Critical Blood Toxicity Levels. Temporary Muscle Paralysis Detected. Recommendation: Initiate Medical Extraction Protocol.*
 
-He could not blink the runic command to summon Apothecaries. He could not even move the Hand of Judgment to brace himself. His lungs fought to draw frozen air, breath coming in metallic gasps through the steel muzzle’s exhaust grilles. Unconsciously, the great pistons of legs and arms contracted, drawing slowly toward center of mass. As fetal a position as the square, crushing Indomitus chassis allowed.
+He could not blink the runic command to summon Apothecaries. He could not even move the Hand of Judgment to brace himself. His lungs fought to draw frozen air, breath coming in metallic gasps through the steel muzzle’s exhaust grilles. Unconsciously, the great pistons of legs and arms contracted, drawing slowly toward center of mass. As fetal a position as the square, crushing *Castra-Lupus* chassis allowed.
 
 The Lord Castellan lay utterly exposed. Reduced to his most pathetic state. Relentless ferrocrete cold began draining his reactor’s heat with frightening speed, seeping through armored joints to the broken man inside. Logic deserted him. For the first time in the Silent Vigil, Alaric felt the terror of absolute inertia. He was a fortress crumbling in the dark.
 
@@ -192,7 +192,7 @@ Through the cracked right lens of his wolf helm, Alaric could only focus on the 
 
 Viggo stopped centimeters from Alaric’s gray-iron plastron. The Thunderwolf lowered his head and scented the cold air, catching burned ozone, stale sweat, and chemical exhaustion leaking from the fallen armor’s joints.
 
-Ferrocrete cold climbed the Indomitus armor’s gray-iron plates. On his side, motor systems collapsing, vision blurred by critical-failure runes, Alaric von Helis waited for utility to end. Siege logic held that when a structure stopped producing heat and protection, it was abandoned.
+Ferrocrete cold climbed the gray-iron plates of *Castra-Lupus*. On his side, motor systems collapsing, vision blurred by critical-failure runes, Alaric von Helis waited for utility to end. Siege logic held that when a structure stopped producing heat and protection, it was abandoned.
 
 Viggo moved to the Lord Castellan’s helm. The white Fenrisian Thunderwolf lowered his head until his biological muzzle—wet, warm—touched the thick ceramite mechanical muzzle and steel fangs of the Terminator helm. The beast made a low sound, a stifled whine, catching the chemical exhaustion venting from Alaric’s lupine mask.
 

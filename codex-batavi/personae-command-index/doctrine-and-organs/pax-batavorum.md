@@ -25,4 +25,6 @@ To reach that super-tithe without bleeding the human population dry and sparking
 * **Drusus effect (biological):** Occupational therapy. Extreme physical effort burns excess adrenaline and growth-hormone load from the gene-seed, helping stabilize **Furor**.  
 * **Varro effect (spiritual):** Anchoring. Working shoulder-to-shoulder with mortals reminds the “monsters” whom they protect, blocking Astartes ego detachment and the arrogance that dragged the Traitor Legions down.
 
+**Substrata channel (doctrine lock):** Shared Sweat is also the Chapter’s **highest-bandwidth** importer of **Castra Vetera** habit — idiom, grief tempo, forge-floor cadence — without ceremonial conversion. Mortal labor teaches dialect through **fatigue**, not sermons. Formal classification: **[proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md)** (witness inheritance; Judex filtration; neophyte increment).
+
 **FINAL VERDICT:** The Imperium accepts the Codex violation and the Batavi’s strangeness because Alaric turned the frontier into a profit-and-security equation Terra cannot afford to lose.

@@ -4,7 +4,7 @@ Index of organisms cited in the detailed atlas and matrices. For per-world habit
 
 | Designation | Type | Occurrence / notes |
 |------------|------|---------------------|
-| **Canis Batavorum** (*Batav*) | Native fauna (aquatic super-predator) | Aethelgard Prime — basis of *Der Batav* myth; see [Der Batav myth](../lexicon-and-litanies/der-batav-myth-foundation.md). |
+| **Canis Batavorum** (**Batav Wolf**; native **the Batav**) | Native fauna (shoreline / tide ambush super-predator) | Aethelgard Prime — iconic apex of **Needles** / Spire margin; biology + interface: [batav-wolf-canis-batavorum.md](batav-wolf-canis-batavorum.md); myth: [Der Batav myth](../lexicon-and-litanies/der-batav-myth-foundation.md). |
 | **Thunderwolf** (*Canis Fenrisian*) | Fauna / relic | Fenris and allied operations; [Viggo relic](viggo-relic.md). |
 | **Guillotine trees** | Mutant flora (kinetic, predatory) | Bator-Tertius — *Bator-Sol* radiation; Shadow Cohort training. |
 | ***Grox-Prime*** (irradiated variants) | Tithe fauna | Bator-Tertius — elite protein for transhuman metabolism. |

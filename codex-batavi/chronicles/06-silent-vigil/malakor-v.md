@@ -43,7 +43,7 @@ Alaric was waiting.
 
 No visible troop — the III and V Vexillationes in containment positions four hundred meters out, ordered not to advance regardless of sensor readings. Single combat had been part of the design from the start. Two commanders who had known each other for decades, in space both had mapped: any other geometry would introduce variables neither needed.
 
-The beast that entered the access corridor stood 4.5 meters. Alaric’s *Castra-Lupus* stood 3.5. Scale difference was irrelevant to either — both knew the other’s limits with precision no external sensor could measure.
+The beast that entered the access corridor stood 4.5 meters. Alaric’s *Castra-Lupus* stood **~2.85** — **under** the Versibar horror, **over** anything a line company expects from a “marine.” Scale difference was irrelevant to either — both knew the other’s limits with precision no external sensor could measure.
 
 Across thirty years of war Alaric had taught Valerius the foundations of Batav close-combat doctrine: economy of motion, pressure geometry, the difference between the strike that closes distance and the strike that only seems to. The Versibar of the I Vexillatio used those foundations with competence that, in any other context, would have made the instructor proud.
 
@@ -65,7 +65,7 @@ The force sword left a thirty-centimeter scar on the *Castra-Lupus* plastron.
 
 *“You came back from Execratio because Varro kept screaming your name.”* The Versibar advanced in an arc — Valerius’s favored maneuver in confined space, learned in the Incus Gravis tunnels, executed with the transformed stage’s added mass. *“I went in alone and I’m still here. With my mind. With no one screaming my name.”*
 
-Alaric let the arc close, absorbed the shoulder impact on the *Castra-Lupus* flank, and used the Versibar’s mass against it — three tons of ceramite and steel meeting four and a half of altered flesh in a corridor with geometry too tight for both.
+Alaric let the arc close, absorbed the shoulder impact on the *Castra-Lupus* flank, and used the Versibar’s mass against it — **~1.7 tons** of ceramite and steel meeting four and a half of altered flesh in a corridor with geometry too tight for both.
 
 *“That is not proof of superiority”* — said Alaric.
 

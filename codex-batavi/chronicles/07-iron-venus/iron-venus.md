@@ -4,7 +4,7 @@
 
 #### **ACT I: THE MONOLITH CRACKS AND THE SOUL IS DIAGNOSED**
 
-The rain on Noviomagus had no virtue of cleansing; it was a corrosive force, an oily, acidic byproduct of industrial labor that lashed the fortress-world. Heavy drops drummed on Alaric von Helis’s armor with the rhythm of low-caliber fire. During the Silent Vigil, that acid rain had been the only symphony allowed the Chapter Master. He stood motionless on the edge of the *Castrum Ferrum*, a colossal gargoyle three and a half meters tall, fused to the gray horizon of the manufactoria.
+The rain on Noviomagus had no virtue of cleansing; it was a corrosive force, an oily, acidic byproduct of industrial labor that lashed the fortress-world. Heavy drops drummed on Alaric von Helis’s armor with the rhythm of low-caliber fire. During the Silent Vigil, that acid rain had been the only symphony allowed the Chapter Master. He stood motionless on the edge of the *Castrum Ferrum*, a colossal gargoyle **~2.85 m** in the rain-slick Wolf helm — Custodes-ballpark span, frontier tonnage — fused to the gray horizon of the manufactoria.
 
 Inside the plate, the **Versibar** — the beast asleep in his genetic code — stirred in uneasy sleep, held under the iron yoke of Astartes logic. Alaric felt no cold, no fatigue, no hope. He was only the host to the constant hum of his armor’s servos and the distant echo of an eternal war.
 

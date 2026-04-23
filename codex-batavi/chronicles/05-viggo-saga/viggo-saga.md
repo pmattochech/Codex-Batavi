@@ -2,7 +2,7 @@
 
 # THE BAPTISM OF OIL AND ICE (CA. 545.M42)
 
-The storm on Hoth-Secundus was not weather; it was natural machining. Wind carried ice crystals so sharp and dense they worked like industrial sandblasting, scraping the industrial grey from the ceramite plates of Alaric von Helis’s Indomitus Terminator armor. Every step the Lord Castellan took was a calculation of friction and gravity. The adamantium claws of his boots — the *Pillars of Noviomagus* — punched the permafrost with a dull cracking sound, anchoring his chassis tonnage against gusts that would have thrown a common man into the air.
+The storm on Hoth-Secundus was not weather; it was natural machining. Wind carried ice crystals so sharp and dense they worked like industrial sandblasting, scraping the industrial grey from the ceramite plates of Alaric von Helis’s *Castra-Lupus*. Every step the Lord Castellan took was a calculation of friction and gravity. The adamantium claws of his boots — the *Pillars of Noviomagus* — punched the permafrost with a dull cracking sound, anchoring his chassis tonnage against gusts that would have thrown a common man into the air.
 
 He walked alone, off the main flank. They stood at the epicenter of the Silent Vigil, the five-hundred-year span of rust and mourning that fell on the Cohors Batavorum after Valerius’s betrayal. For Alaric, the betrayal had not broken his heart; it had obliterated his ability to process reality outside purely mathematical parameters. He no longer lived. He operated. His mind was a vault locked from within, where depression showed not as sadness but as absolute, sterile, mechanical silence. The universe was a faulty engine, and he was only the part too heavy to discard.
 
@@ -26,11 +26,11 @@ The small animal shook violently, short paws failing to find purchase on blood-s
 
 Alaric looked down at the creature from nearly three meters. He felt no empathy. His mind, sunk in Silent Vigil apathy, had no room for compassion. What froze him, however, was the logical mirror of the sight. He saw an isolated system, abandoned in a hostile environment, struggling ineffectually against inevitable entropy. The pup was the universe’s miscalculation, rejected for weakness, alone in frozen dark.
 
-Alaric’s retinal display projected imminent collapse with cold precision. *Sixty seconds.* The creature’s pulse, caught by the Indomitus armor’s biometric sensors, was a trembling graph in free fall. *Fifty seconds.* Hoth-Secundus’s cutting wind was already sheathing the white fur in a shroud of translucent crystals. The animal stopped whining. The energy to vocalize pain was gone; only the spasmodic tremor of muscles trying in vain to generate internal friction remained.
+Alaric’s retinal display projected imminent collapse with cold precision. *Sixty seconds.* The creature’s pulse, caught by biometric sensors in *Castra-Lupus*, was a trembling graph in free fall. *Fifty seconds.* Hoth-Secundus’s cutting wind was already sheathing the white fur in a shroud of translucent crystals. The animal stopped whining. The energy to vocalize pain was gone; only the spasmodic tremor of muscles trying in vain to generate internal friction remained.
 
 *Forty seconds.* The depressed Castellan’s mind logged the event as thermodynamic waste. There were no visible wounds on the creature. Bone structure was intact; internal organs had not been pierced by Genestealer claws. The failure was not structural; it was purely environmental. The biological system was shutting down for lack of adequate thermal insulation. For the archetype of the Industrial Beast, whose existence had been reduced to system maintenance and loss management, that organism’s death seemed… inefficient.
 
-The servomotors in Alaric’s legs hummed low as he broke his stance. Nearly a ton of industrial grey mass descended. His armor’s right knee struck the permafrost with a dull boom, crushing frozen xenos carapace under the boot.
+The servomotors in Alaric’s legs hummed low as he broke his stance. **~1.7 tons** of industrial grey mass descended. His armor’s right knee struck the permafrost with a dull boom, crushing frozen xenos carapace under the boot.
 
 Alaric extended the Father’s Hand. The left gauntlet, bare of mounted weapons and ending in heavy adamantium claws, hovered over the pup. He did not touch it at once. Exhaust vents on his forearms released a wash of residual heat, a thin haze of ozone and superheated air from the dorsal reactor.
 
@@ -56,7 +56,7 @@ With an executioner’s fluidity, Ragnar drew the heavy bolt pistol from its hol
 
 — Move your hand, Batav. He’s suffered enough. I’ll give him the Emperor’s mercy. A quick, hot death.
 
-Alaric did not withdraw his gauntlet. Instead, the gyroscopic sensors in his Indomitus armor powered up with a rising electric hum. The Indomitus servomotors drowned out the blizzard’s howl. Alaric von Helis rose with the inexorable slowness of a tectonic plate settling. The colossal mass of industrial grey and crimson interposed itself between Ragnar Blackmane’s bolt pistol muzzle and the small pup shivering on the ice. Alaric did not draw his Force Sword or raise his fists. He simply occupied space. He became the Wall.
+Alaric did not withdraw his gauntlet. Instead, gyroscopic sensors and servomotors in his *Castra-Lupus* powered up with a rising electric hum that drowned out the blizzard’s howl. Alaric von Helis rose with the inexorable slowness of a tectonic plate settling. The colossal mass of industrial grey and crimson interposed itself between Ragnar Blackmane’s bolt pistol muzzle and the small pup shivering on the ice. Alaric did not draw his Force Sword or raise his fists. He simply occupied space. He became the Wall.
 
 Ragnar frowned, finger easing a fraction on the trigger. The Young King was a warrior of instinct, reading ally and enemy body language like an open book. But in Alaric there was nothing to read. The Pretor of Noviomagus’s posture was as rigid and free of aggressive tension as a load-bearing pillar.
 
@@ -86,7 +86,7 @@ Alaric did not answer. The argument was over. The problem was now strictly logis
 
 Ragnar and his Wolf Guard vanished into the blizzard, laughter and engine roar swallowed by Hoth-Secundus’s continuous howl. Alaric von Helis stood alone in the frozen abattoir. At his feet, the white pup had stopped shaking. Immobility was not comfort but the final stage of metabolic failure. The retinal countdown on the Lord Castellan’s display marked twelve seconds to cardiac collapse.
 
-The Indomitus armor’s outer shell was tens of degrees below zero, chilled by relentless wind. Wrapping the animal in the crimson cloak would be useless; ballistic fabric would cut the wind but not deliver the degrees needed to reverse deep hypothermia. There was only one viable heat source able to sustain the runt’s biology.
+The outer shell of *Castra-Lupus* was tens of degrees below zero, chilled by relentless wind. Wrapping the animal in the crimson cloak would be useless; ballistic fabric would cut the wind but not deliver the degrees needed to reverse deep hypothermia. There was only one viable heat source able to sustain the runt’s biology.
 
 Alaric did not hesitate; machines do not hesitate. He raised his hands toward his own torso.
 

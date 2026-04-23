@@ -26,7 +26,7 @@
 * **Biological risk:** Optical trauma, stasis contamination, biological rust vectors, ionized dust.
 
 ## Aethelgard Prime / Ignis-Minor / Tempestas-Major-VII
-* **Topology:** Cyclopean tide moon, friction-tectonic volcanic moon, hyper-pressurized acid swamp.  
-* **Flora:** Shock coast and tide flora (Aethelgard), mineral thermophile flora (Ignis), predatory iron fungi (VII).  
-* **Fauna:** Amphibious tide predators, basalt megafauna, armored *Tyrannus Lutum*.  
+* **Topology:** Cyclopean tide moon (**snowy mountains**, **taiga**, interior **swamps**, shoreline **Needles** / cliffs — see [geography-aethelgard-prime.md](../atlas-and-topography/cultures/geography-aethelgard-prime.md)); friction-tectonic volcanic moon (Ignis); hyper-pressurized acid swamp (VII).  
+* **Flora:** Shock coast and tide flora (Aethelgard shoreline), montane and taiga flora (Aethelgard uplands / belts), mineral thermophile flora (Ignis), predatory iron fungi (VII).  
+* **Fauna:** Amphibious tide predators (*Canis Batavorum* — shoreline **Spire** drops and **interior swamp** stalking), basalt megafauna, armored *Tyrannus Lutum*.  
 * **Biological risk:** Extreme osmotic pressure, chemical burn, territorial predation.

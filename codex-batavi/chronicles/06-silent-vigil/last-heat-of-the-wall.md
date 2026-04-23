@@ -6,7 +6,7 @@ Martha's Kitchen.
 
 The air inside did not smell of burned promethium or ozone, but of dark bread, synthetic spices, and the dense heat of great industrial cauldrons. It was the thermal and spiritual heart of the civil tier.
 
-The heavy access doors hissed open, revealing the darkness of the military tier. The colossal silhouette of Alaric von Helis filled the frame. The Lord Castellan wore his Indomitus Terminator armor, iron-gray scratched and crimson pauldrons marked by the last patrol in the lower levels. His mechanical helm—a brutal wolf head forged in thick ceramite, with a pronounced muzzle and matte steel fangs—exhaled a gust of hot air through the vent grilles.
+The heavy access doors hissed open, revealing the darkness of the military tier. The colossal silhouette of Alaric von Helis filled the frame. The Lord Castellan wore his *Castra-Lupus*, iron-gray scratched and crimson pauldrons marked by the last patrol in the lower levels. His mechanical helm—a brutal wolf head forged in thick ceramite, with a pronounced muzzle and matte steel fangs—exhaled a gust of hot air through the vent grilles.
 
 At the toe of his right boot walked the Swift Shadow. But Viggo was no longer swift.
 
@@ -82,7 +82,7 @@ She pulled. Hard.
 
 Viggo's combat instincts fired. Any other wild creature would have answered pain with a violent twist and a defensive bite that would have decapitated the child instantly. The wolf's musculature went taut as steel cables about to snap.
 
-Watching from the kitchen corner, Alaric stepped forward, servos of his Terminator armor roaring, ready to intervene. The heavy Indomitus helm, forged as a mechanical wolf muzzle with matte steel fangs, fixed its orange eyes on the scene, calculating intercept vectors.
+Watching from the kitchen corner, Alaric stepped forward, servos of his Terminator armor roaring, ready to intervene. The heavy *Castra-Lupus* helm, forged as a mechanical wolf muzzle with matte steel fangs, fixed its orange eyes on the scene, calculating intercept vectors.
 
 It was not necessary.
 
@@ -146,7 +146,7 @@ When younger brothers "attacked the tank" with wooden swords, striking without f
 
 Martha, invariably, ended the simulation hours later, armed with a stiff-bristle brush and muttering curses in Batav dialect while trying to brush blue and yellow chalk dust from the wolf's coat. Viggo only closed his eyes and endured the matriarch's violent brushing, knowing that was the price of the game.
 
-Watching from the threshold of shadows, the iron-gray mountain of Alaric von Helis processed the scene in silence. The Lord Castellan's crushing Indomitus helm—brutal mechanical wolf head, long ceramite muzzle, heavy matte steel fangs—tilted a millimeter as sensors recorded the organic interaction.
+Watching from the threshold of shadows, the iron-gray mountain of Alaric von Helis processed the scene in silence. The Lord Castellan's crushing *Castra-Lupus* helm—brutal mechanical wolf head, long ceramite muzzle, heavy matte steel fangs—tilted a millimeter as sensors recorded the organic interaction.
 
 His mind, always trying to lock affection in boxes of military logic, framed a tactical justification for the absurd sight of a chalk-covered monster carrying children.
 
@@ -178,7 +178,7 @@ Whenever she finished one side and put away the steel tools, Viggo's response wa
 
 *Thump-thump.* For Elara, that dragged, rhythmic sound was not mere canine reflex. In a world of bombardment alarms, military marches, and synthesized voices, that dull thud meant "safety." It meant "home."
 
-From the corridor shadows, the iron-gray mountain of Alaric von Helis watched the silent transition. Optical sensors on his formidable Indomitus helm—the mechanical wolf head with ceramite muzzle and steel teeth—calibrated focus on the pair lit by the kitchen's pale light.
+From the corridor shadows, the iron-gray mountain of Alaric von Helis watched the silent transition. Optical sensors on his formidable *Castra-Lupus* helm—the mechanical wolf head with ceramite muzzle and steel teeth—calibrated focus on the pair lit by the kitchen's pale light.
 
 The Castellan's mind processed the role reversal through his inflexible logical filter. *Human unit reached primary operational maturity,* Alaric logged. *Thermal biological asset in terminal systemic decline. Human assumed palliative maintenance protocols to extend veteran unit functionality. Resource efficiency confirmed.*
 
@@ -224,7 +224,7 @@ The pack was gathered.
 
 Martha had stopped cooking. Her pots sat inert on cold grates. Elara, twelve, sat on the floor, scrolls forgotten beside her.
 
-And occupying almost all the space beside the industrial ovens stood Alaric von Helis. The iron-gray mountain of Indomitus Terminator armor was present, but his silhouette held a glaring anomaly. For the first time in uncounted cycles, the Lord Castellan was unhelmed.
+And occupying almost all the space beside the industrial ovens stood Alaric von Helis. The iron-gray mountain of *Castra-Lupus* was present, but his silhouette held a glaring anomaly. For the first time in uncounted cycles, the Lord Castellan was unhelmed.
 
 His heavy mechanical helm—the ceramite wolf head with its brutal muzzle and thick steel fangs—rested on the stainless counter.
 
@@ -324,7 +324,7 @@ The two lobotomized servitors stopped at once. Tobias swallowed.
 
 "He is not going to cold earth," Alaric continued, each word a lead block on the floor. "He always sought heat."
 
-The Lord of the Wall rose slowly from his improvised seat. Each millimeter, the heavy pistons of his Indomitus armor creaked, servos roaring to compensate weight. He marched two steps forward, colossal boots halting a handspan from the Thunderwolf's still body. Alaric looked at the animal that had been his anchor, the mute confessor of his madness, and the living cradle of his cub.
+The Lord of the Wall rose slowly from his improvised seat. Each millimeter, the heavy pistons of his *Castra-Lupus* creaked, servos roaring to compensate weight. He marched two steps forward, colossal boots halting a handspan from the Thunderwolf's still body. Alaric looked at the animal that had been his anchor, the mute confessor of his madness, and the living cradle of his cub.
 
 To a mind steeped in the Silent Vigil, the wolf's death was the loss of the most efficient sanity-maintenance tool. The only logical answer was stasis.
 
@@ -350,7 +350,7 @@ In Martha's Kitchen, air was stagnant. Viggo's body lay perfectly still on ferro
 
 Alaric von Helis moved.
 
-His Indomitus armor's ignition sequence began with a violent crack. The dorsal reactor roared back to life, drinking the room's cold air and venting superheated vapor. Heavy gyroscopes whined, climbing in pitch until they hit combat frequency. The iron-gray mountain broke the deathly rigidity of his own vigil.
+His *Castra-Lupus* reactor ignition sequence began with a violent crack. The dorsal reactor roared back to life, drinking the room's cold air and venting superheated vapor. Heavy gyroscopes whined, climbing in pitch until they hit combat frequency. The iron-gray mountain broke the deathly rigidity of his own vigil.
 
 The Lord Castellan looked to Apothecary Drusus, who had waited in the corridor shadows for hours.
 
@@ -390,7 +390,7 @@ In the Fang's great hall, the Space Wolves' fortress-monastery, fire in the imme
 
 Logan Grimnar, the Great Wolf, sat on his rustic throne, flanked by Ragnar Blackmane and his own massive Thunderwolves. The hall gates opened with a heavy boom, announcing the delegation from Noviomagus.
 
-Alaric von Helis marched into the hall. The iron-gray mountain of Indomitus armor echoed on the stone floor. Across his shoulders rested the **Mantle of Providence**. The heraldry's brutality was inescapable: on the left, the perpetual snarl of the **Batav Wolf of Aethelgard**, fangs bared and red lenses blazing with fury under the Imperial brooch; on the right, the white, intact head of old sentinel Viggo, paws draped around the Castellan's neck, pale blue lenses radiating unshakable loyalty. At the center of that wild trinity, Alaric's own mechanical helm, the face forged in iron-gray ceramite.
+Alaric von Helis marched into the hall. *Castra-Lupus* echoed on the stone floor — iron-gray bulk, siege tread. Across his shoulders rested the **Mantle of Providence**. The heraldry's brutality was inescapable: on the left, the perpetual snarl of the **Batav Wolf of Aethelgard**, fangs bared and red lenses blazing with fury under the Imperial brooch; on the right, the white, intact head of old sentinel Viggo, paws draped around the Castellan's neck, pale blue lenses radiating unshakable loyalty. At the center of that wild trinity, Alaric's own mechanical helm, the face forged in iron-gray ceramite.
 
 But the lords of Fenris did not fix their eyes on the Mantle alone. Beside Alaric's armored leg walked Elara.
 

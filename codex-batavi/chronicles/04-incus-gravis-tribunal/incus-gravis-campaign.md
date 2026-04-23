@@ -12,9 +12,9 @@ It was in that tactical void, under the stroboscopic light of a shorting generat
 
 The smoke spun and parted, revealing what his frayed mind had no capacity to process.
 
-Through the murk, a colossal silhouette emerged. Three and a half meters tall. The outline of a *Castra-Lupus* chassis, where the architecture of Terminator armor fused with the brutal mass of an Indomitus Dreadnought. On monstrously broad pauldrons rested the asymmetric bulk of two heavy wolf pelts: Viggo’s on the right shoulder, the Batavian Wolf’s on the left.
+Through the murk, a colossal silhouette emerged — **not** Primarch rumor-height, but **Custodes-ballpark span** stretched half a head further: **~2.85 m** in the Wolf helm, industrial mass stacked like siege plate. The outline of a *Castra-Lupus* chassis, where the architecture of Terminator armor fused with the brutal mass of an Indomitus Dreadnought. On monstrously broad pauldrons rested the asymmetric bulk of two heavy wolf pelts: Viggo’s on the right shoulder, the Batavian Wolf’s on the left.
 
-The amber light, projected from behind that gray-iron mass, crushed the Chapter’s colors and left only the topography of shadow. The failure in Gideon’s mind was not a tactical choice; it was a biological detonation ten thousand years deep. The “Lupercal Anomaly” did its work. Gideon’s brain did not see the Lord Castellan of Noviomagus Prime marching to aid. He saw the Warmaster, Horus Lupercal, walking triumphant through the smoking wreckage of the *Vengeful Spirit*.
+The amber light, projected from behind that gray-iron mass, crushed the Chapter’s colors and left only the topography of shadow. The failure in Gideon’s mind was not a tactical choice; it was the Black Rage **finding a face** for grief already lit behind his eyes—ancestral, ten thousand years deep. Later *Medicinae* would argue fine points (silhouette alone versus exhaustion versus warp-static), but on the deck the outcome was instant: *Apothecarion* archives had already logged the same peripheral read—in other theaters—as **Lupercal-class terror math**: **observer hesitation latency**, **not** a sealed tithe proving the Castellan’s pedigree, which the **open** Administratum file still lists **unknown**. Gideon’s brain did not see the Lord Castellan of Noviomagus Prime marching to aid. His cortex **named** what it feared: the Warmaster, Horus Lupercal, walking triumphant through the smoking wreckage of the *Vengeful Spirit*.
 
 The Black Rage, the supreme flaw of the Angels’ line, obliterated the last barrier of his reason.
 
@@ -28,13 +28,13 @@ The mental equation formed in the silence of his atheist mind: *Friendly asset. 
 
 When Gideon leapt, boosted by jump pack for the final blow, Alaric did not step back. A sub-millimeter tightening of his human jaw, hidden beneath the lupine snout helm, was the only shift in his emotional stasis. He took a single step forward, anchoring the claws of his adamantium boots in the ferrocrete.
 
-The impact of a maddened Blood Angel would shatter a common Astartes, but Alaric used the three tons of his own biometric and metallic mass to intercept him midair. Alaric’s two colossal gauntlets struck simultaneously against Gideon’s shoulders and crimson breastplate. With a mechanical twist of his torso, calling the brutal force of the *Castra-Lupus*’s industrial servomotors in harmony with the hypertrophy of his chimeric gene-seed, Alaric canceled the Angel’s inertia and drove him onto his back.
+The impact of a maddened Blood Angel would shatter a common Astartes, but Alaric used the **~1.7 tons** of his own biometric and metallic mass to intercept him midair. Alaric’s two colossal gauntlets struck simultaneously against Gideon’s shoulders and crimson breastplate. With a mechanical twist of his torso, calling the brutal force of the *Castra-Lupus*’s industrial servomotors in harmony with the hypertrophy of his chimeric gene-seed, Alaric canceled the Angel’s inertia and drove him onto his back.
 
 The impact spiderwebbed the deck.
 
 Gideon thrashed with *berserker* strength, snarling curses and weeping Sanguinius’s name, saliva staining his own helm’s grille. It was useless. Noviomagus’s gravity had claimed him.
 
-Alaric knelt on the fallen Angel. The Batavian applied exactly 2.54 tons of static pressure to the Blood Angel’s ceramite breastplate—the exact threshold to crack the armor and fully pin the warrior’s arms to the ground, but calculated to the millimeter not to crush his primary hearts.
+Alaric knelt on the fallen Angel. The Batavian applied exactly **~1.45 tons** of static pressure to the Blood Angel’s ceramite breastplate—the exact threshold to crack the armor and fully pin the warrior’s arms to the ground, but calculated to the millimeter not to crush his primary hearts.
 
 Without altering his breathing cadence, holding Gideon pinned under the anchor of his own monstrous body, Alaric keyed the *Strategium* vox.
 
@@ -50,17 +50,17 @@ Mephiston extended a pale hand. The air cracked with Warp energy. He did not tou
 
 — Containment is assured. You may release him, Lord Castellan — Mephiston’s voice was a cadaverous whisper that scraped the inside of the mind, but Alaric’s pragmatic, atheist biology batted the psychic pressure aside like water on plasteel.
 
-The Castellan’s servomotors whined under load compensation as he eased the tonnage and rose slowly, returning to his majestic, terrifying height of 3.5 meters. The pelts swayed on his shoulders.
+The Castellan’s servomotors whined under load compensation as he eased the tonnage and rose slowly, returning to his majestic, terrifying height — **~2.85 m** of armor and grief, **half a head** over what Lexicanum files as typical Custodes span. The pelts swayed on his shoulders.
 
 Mephiston lifted his pale face. His eyes found the Batavian helm’s orange lenses. The Lord of Death, who walked the Immaterium and knew the shape of nightmares, studied the visual anomaly.
 
-— I see what he saw — Mephiston murmured, his voice carrying the weight of a grim finding. — In shadow, your chassis’s architecture and the bulk of your pelts wear our executioner’s sins. You carry Lupercal’s ghost on your shoulders, Castellan.
+— I see what broke him — Mephiston murmured, voice carrying the weight of a finding that was **psychic fact**, not Administratum genealogy. — In shadow, your chassis stacks mass like Ullanor’s echo—pelts, bulk, backlight. **His** nightmare wore your outline. That does not sign a warrant saying you **are** the Warmaster’s heir—**both** our Chapters wear **unknown** on the open scroll when Terra bothers to pretend—but perception pays in souls. Sons of Sanguinius bleed **names** into grief.
 
-The motors in Alaric’s neck locked with a dry click. The **Axiom of Reason** dictated that form followed function, but there, in the silence between the two leaders, lay tacit recognition of parallel curses.
+The motors in Alaric’s neck locked with a dry click. The **Axiom of Reason** demanded he refuse the Immaterium a **clean story** it could sell back to the Chapter as destiny.
 
-Alaric neither stepped back nor showed shame. His empathy spoke in the only language he knew: the pragmatism of wounded biology.
+Alaric neither stepped back nor showed shame. His answer stayed structural—mass, mourning, duty—not a confession of lineage he did not owe an allied ledger.
 
-— We all have monsters chained in our blood, Lord Mephiston — Alaric’s voice came through the helm’s filters, low, without moral judgment, but heavy with structural condemnation of the Arch-traitor’s failure. — I stabilized mine, the **Wolf’s Curse**, in the forge. Your warrior lost the key to his own cage because his gene-sire’s loyalty echoed too loud. It is a tragic biological failure.
+— We all have cages, Lord Mephiston — Alaric’s voice came through the helm’s filters, low, without moral theater. — I stabilized **mine**—the **Wolf’s Curse**—in the forge. Your warrior broke because **his** line keeps the Angel’s death **lit** behind the eyes; **any** traitor-shaped silhouette can trip the fuse when the Rage is hunting for a handle. That is tragic failure—**not** permission to file me under Horus because lighting and grief aligned for three seconds.
 
 Alaric took a mechanical step aside, a micro-gesture of muted respect, clearing the path for Mephiston to recover Gideon’s body.
 
@@ -86,11 +86,11 @@ The young warrior showed micro-tremors in his hands and discreetly quickened bre
 
 Alaric remained static. Only the faintest whine of his gyros signaled processing. — Containment was applied solely to preserve a friendly asset’s life.
 
-Mephiston slid from the shadows. The temperature around the Chief Librarian plunged in response to his presence. — You spared his body, Castellan. But your shape broke his mind. — Mephiston’s gaze crossed the room, dense as the void. — In shadow, your chassis’s architecture and those pelts wear our executioner’s sins. You project the ghost of Horus Lupercal. You think we do not feel the irony? You think we do not see the direct insult to our Father’s memory?
+Mephiston slid from the shadows. The temperature around the Chief Librarian plunged in response to his presence. — You spared his body, Castellan. But your **silhouette** fed his break — Mephiston’s gaze crossed the room, dense as the void. — In bad light, mass reads like myth. I am not claiming I hold your tithe scroll; I am telling you what **Gideon’s soul paid for** when his eyes failed him.
 
 The silence that fell on the compartment was not cold indifference but a dam about to give under hydrostatic pressure.
 
-Varro struck the base of his *Crozius* on the deck. Not a challenge blow, but a hollow, mathematical, tired thud. — You believe you hold a monopoly on pain, sons of Sanguinius — Varro’s cavernous voice growled behind the bone skull. — You suffer for love of a perfect father who died. We suffer for hatred of a failed father who condemned us.
+Varro struck the base of his *Crozius* on the deck. Not a challenge blow, but a hollow, mathematical, tired thud. — You believe you hold a monopoly on pain, sons of Sanguinius — Varro’s cavernous voice growled behind the bone skull. — You suffer for love of a perfect father who died. We suffer under the figure the Imperium names **arch-traitor**—and under every mirror strangers hang on our plate until it becomes **duty** to refuse the story.
 
 Dante lifted his eyes, visibly surprised by the break in the Bataves’ sterile protocol. — What do you mean, Chaplain?
 
@@ -102,11 +102,11 @@ The faces of Noviomagus’s three leaders were not the features of men hardened 
 
 They were monsters applying terrifying discipline to refuse their own monstrosity.
 
-Drusus took a millimetric step forward. His mutilated face held no trace of hatred or shame, only frozen pragmatism. His orange-flame eyes swept Dante from crown to boot. — Commander Dante, the aesthetic anomaly your mind registered is not a tactic of scorn — the Chief Apothecary’s voice sounded raw, stripped of his surgical helm’s synthetic filtering. — It is a calculated psychiatric contingency. Our biology demands visual adaptation. Hating our own existence and form is thermodynamic waste that drives operational failure and morale collapse. The symbols and anchors on the Lord Castellan’s armor are what stop **our Bataves**—and the civilian population that serves us—from seeing us purely as the aberration our blood tries to impose. The iconography is prophylaxis. It keeps us executing our function instead of drowning in aversion.
+Drusus took a millimetric step forward. His mutilated face held no trace of hatred or shame, only frozen pragmatism. His orange-flame eyes swept Dante from crown to boot. — Commander Dante, the aesthetic anomaly your mind registered is not a tactic of scorn — the Chief Apothecary’s voice sounded raw, stripped of his surgical helm’s synthetic filtering. — **Open** progenitor filing for us is **unknown**—that is not theater; it is what your own Administratum shares when it shares anything. What you saw on the deck was **silhouette correlation**: pelts, Terminator mass, grief-shaped lighting. We treat it as **Lupercal-class terror math** in observers—**latency**, not lineage. Our biology demands visual adaptation anyway. Hating our own existence and form is thermodynamic waste that drives operational failure and morale collapse. The symbols and anchors on the Lord Castellan’s armor are what stop **our Bataves**—and the civilian population that serves us—from seeing us purely as the aberration our blood tries to impose. The iconography is prophylaxis. It keeps us executing our function instead of drowning in aversion.
 
 Alaric stepped forward, covering Drusus’s coldness with his own colossal mass. The Castellan’s terrible face, with the alpha-anomaly eyes—crimson ringed by a greened edge—bore secular exhaustion. A millimetric tightening of his lupine jaw preceded his words.
 
-— The industrial carapace around my flesh is neither trap nor vanity, Regent — Alaric’s voice was a low, irrevocable thunder, vibrating in the chests of those present. — I am not a fallen warrior, and I do not inhabit a cyber-sarcophagus. Appropriating a Dreadnought’s plates is the limit of physics. It is the only material cuirass able to hold my three and a half meters of living muscle mass without shattering under my own motive force.
+— The industrial carapace around my flesh is neither trap nor vanity, Regent — Alaric’s voice was a low, irrevocable thunder, vibrating in the chests of those present. — I am not a fallen warrior, and I do not inhabit a cyber-sarcophagus. Appropriating a Dreadnought’s plates is the limit of physics. It is the only material cuirass able to hold **~2.85 m** of living muscle mass — **Custodes-class ballpark**, not parade armor — without shattering under my own motive force.
 
 He raised his armored hand, pointing to the heavy organic adornments on his shoulders.
 
@@ -118,7 +118,7 @@ Alaric turned his neck a hair toward the Batavian Neophyte trembling at the rear
 
 Alaric turned his gaze to Mephiston, absolute contempt shaping every syllable.
 
-— We hate the Warmaster with a structural fury your Chapter of angels will never understand. Because the weakness of his ego is the rot that demands continuous containment in our veins. He yielded. He bent to Chaos’s whispers because his moral engineering was inefficient. And we are forced to look in the mirror every solar cycle and see the shadow of his pathetic failure reflected in our own faces and the shape of our steel.
+— We hate the Warmaster with a structural fury your Chapter of angels will never understand — not because Terra gave us a neat receipt tying our gene-line to his, but because **failure at that scale** is the rot every wall must budget for. He yielded. He bent to Chaos’s whispers because his moral engineering was inefficient. And we are forced to look in the mirror every solar cycle and see **strangers** hang his silhouette on our steel—as if forge-work were confession.
 
 Mephiston lowered his head, the aura of psychic power withdrawing inward. He tried to read Alaric’s mind, seeking the void of a cold machine or a barbarian’s rage. He found neither. He found an iron pillar holding up a collapsing sky; a will that repudiated failure and refused to fall.
 
@@ -130,7 +130,7 @@ With extreme precision and economy of movement, Alaric lifted the heavy gray-iro
 
 Dante issued no order. He placed his hand on his own breastplate, where the Imperial eagle of his golden armor rested, and bowed his head. It was a deep reverence, stripped of empty ceremony, reserved only for those who understand the annihilation of self in duty’s name.
 
-— Let the stars witness Noviomagus Prime’s burden — said the Regent of Baal, words heavy with solemnity. — Let our fleets follow separate vectors, Lord Castellan. But hold empirical certainty that the Ninth Legion will never again dare question the purity of your steel.
+— Let the stars witness Noviomagus Prime’s burden — said the Regent of Baal, words heavy with solemnity. — Let our fleets follow separate vectors, Lord Castellan. But hold this: we will not **confuse silhouette for warrant**. What happened on Incus-Gravis was **phenomenon**—grief, light, mass—not a verdict on your Chapter’s soul.
 
 Alaric answered with a millimetric nod, purely military. He pivoted on his heels, Viggo’s heavy pelt and the Batavian Wolf’s following the motion’s inertia.
 
@@ -154,7 +154,7 @@ The Blood Angels’ Commander watched, instincts paralyzed by horrified fascinat
 
 In less than twenty seconds, there was no longer an Adeptus Astartes soldier there. There was only the final stage of the **Wolf’s Curse**—the **Execratio** stage. A colossal predatory abomination four and a half meters tall, a bestial chimera of hypertrophied muscle, barbed-wire fur, and elongated jaws, blind with the purest organic irrational fury.
 
-But the beast did not strike its allies. The atavistic instinct locked in Russ’s genetics identified the nearest territorial threat: the Traitors.
+But the beast did not strike its allies. Atavistic territorial drive—**chimera lock**, not a parade-ground pedigree lecture—identified the nearest threat in traitor colors: the Traitors.
 
 What followed was a massacre that silenced even war’s clamor. The **Versibar** that had once been Haldor plunged into the Red Corsairs’ formation center. Astartes veterans of the Long War were dismembered with the same physiological ease a human would tear cloth. Black keratin claws pierced Terminator armor; jaws crushed helms as if they were glass.
 
@@ -170,7 +170,7 @@ The Lord Castellan did not raise the *Mobile Bastion* as a ram. He did not engag
 
 With economy of movement, Alaric drew his force gladius, *The Sentence*. The soldier’s short, surgical blade.
 
-The beast roared, a bellow that froze the air’s moisture, and launched in a predatory leap at its own master. Alaric neither blinked nor dodged. A sub-millimeter contraction tensed the powerful tendons of his neck. He locked the *Castra-Lupus*’s gyros, anchoring his three tons of metal and mourning in the ferrocrete, and absorbed the beast’s full physical impact. The abomination’s claws raked violently at Alaric’s gray-iron breastplate, seeking his throat.
+The beast roared, a bellow that froze the air’s moisture, and launched in a predatory leap at its own master. Alaric neither blinked nor dodged. A sub-millimeter contraction tensed the powerful tendons of his neck. He locked the *Castra-Lupus*’s gyros, anchoring his **~1.7 tons** of metal and mourning in the ferrocrete, and absorbed the beast’s full physical impact. The abomination’s claws raked violently at Alaric’s gray-iron breastplate, seeking his throat.
 
 But the Castellan bore the weight, unmoving. Using Second Blade doctrine, he braced the beast’s arm and, in a motion stripped of hate—driven only by clinical coldness and duty—guided the gladius. The blade slid along the base of the beast’s skull, entered the exact joint of the cervical vertebrae, and severed the brainstem in one instant anatomical strike.
 

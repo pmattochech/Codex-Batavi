@@ -10,5 +10,6 @@
 - [biogeographic-matrix-crucible.md](biogeographic-matrix-crucible.md)
 - [biogeographic-matrix-threshold.md](biogeographic-matrix-threshold.md)
 - [fauna-flora-named-specimens.md](fauna-flora-named-specimens.md)
+- [batav-wolf-canis-batavorum.md](batav-wolf-canis-batavorum.md) — **Batav Wolf** / *Canis Batavorum* (Aethelgard iconic apex; trial / myth cross-links)
 
 *Narrative geography & topography:* [`../atlas-and-topography/INDEX.md`](../atlas-and-topography/INDEX.md)

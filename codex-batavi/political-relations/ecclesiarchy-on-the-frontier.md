@@ -1,5 +1,7 @@
 ## WIKI: ECCLESIARCHY ON THE FRONTIER (THE DOCTRINE OF EFFORT)
 
+**Related corpus (faith of work & mortal speech):** [../atlas-and-topography/cultures/porta-nihili-and-basal-stratum.md](../atlas-and-topography/cultures/porta-nihili-and-basal-stratum.md) (basal Porta Nihili / **faith of work**) · [../lexicon-and-litanies/porta-nihili-shared-vocabulary.md](../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · **procedural holiness:** [grey-clerk-piety.md](grey-clerk-piety.md) · **case studies:** [../atlas-and-topography/cultures/ethnography-aethelgard-prime.md](../atlas-and-topography/cultures/ethnography-aethelgard-prime.md) § religion & law (tide-world) · [../atlas-and-topography/cultures/ethnography-khan-bator-prime.md](../atlas-and-topography/cultures/ethnography-khan-bator-prime.md) § religion & law (granary / spark taboo)
+
 On Noviomagus Prime and the Nine Phalanx systems, the common citizen does not worship the Emperor through screaming fanaticism or flagellant processions in cathedrals. The frontier population bows its head and prays in silence before consuming rations, asking protection and stability, but true worship is done on foot with dirty hands.
 
 For Castra Vetera’s people, labor is the supreme form of prayer. Silence is revered as absolute focus. If a citizen wishes to praise the Emperor, he does so by being strictly *human* and productive. The simple act of fixing a thermal boiler, baking bread that feeds the shifts, or training future laborers is seen as highest honor to the Golden Throne’s sacrifice.

@@ -105,6 +105,9 @@
 
 ## 09-frontier-life
 - [tithe-of-the-rejected.md](09-frontier-life/tithe-of-the-rejected.md) — includes ***The Tithe of the Rejected***
+- [witness-inheritance-chronicles.md](09-frontier-life/witness-inheritance-chronicles.md) — vignettes: proximity substrata; forge/pier/bell/threshold habit; slow adoption of Castra Vetera rites (**ca.** 046–118.M42 band)
+- [mortal-pov-porta-nihili-shorts.md](09-frontier-life/mortal-pov-porta-nihili-shorts.md) — **mortal POV** triptych: Noviomagus **Throne receipt** / Aethelgard **salt-in-the-ration** / Great Reef **strait house** (**bottle creole**, Astartes offstage)
+- [bottle-fair-yarn.md](09-frontier-life/bottle-fair-yarn.md) — **Bottle Fair** prose: Golden Grain Station market; Khan-Bator / Needles / Noviomagus / Reef **fork** via tithe · marriage · salt (**no lecture**)
 
 ## 10-tithe-of-sweetness
 - [tithe-of-sweetness.md](10-tithe-of-sweetness/tithe-of-sweetness.md)

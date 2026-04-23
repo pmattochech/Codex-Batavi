@@ -53,3 +53,31 @@ The **Master of the Forge** does not command a hidden “eleventh company”: he
 | *(Triumvirate)* | *Medicinae* / *Reclusiam* | **Drusus** and **Varro** head Apothecary and Chaplain networks; bodies deployed **inside** the 500 per Vexillatio. |
 
 None of these structures sit “outside” the ceiling: they are **layers** on the same **10 × 500** mesh. *Frozen table (4+4+3+5; Tenth +5):* [military-hierarchy.md](military-hierarchy.md) §4.3; operational adjustments §4.5.
+
+## 5. UPSTREAM QUARTET — CLARITY BUDGET
+
+Four seats alone carry **full-resolution** perception of the Chapter’s recurring wrongness: the overlap of **wolf idiom**, **chimera biology**, **Immaterium pressure**, and **command temptation** — **without** granting open-scroll certainty about Administratum pedigree. This is **not** omniscience; it is **instrument noise** routed through four different disciplines. Hypotheses **conflict**; convergence is **Strategium** work.
+
+| Seat | Primary register (fiction’s “felt” truth) | Hard limit |
+| --- | --- | --- |
+| **Drusus** (*Medicinae*) | Phenotype and telemetry that **rhyme** with Canis-linked baselines yet **fail** orthogonality checks — patterns that read **assembled**, **misfiled**, or **uncannily borrowed** | No guaranteed gene-seed receipt on vox; margins stay **sequence**, not prophecy |
+| **Varro** (*Reclusiam*) | Immaterial **twin-shadow** grammar — often framed as **grey** and **black** wolf avatars — mapping **two hungers** without naming sealed archives | Soul-law **binds** story-shaped intrusion; theater does not replace logistics |
+| **Otho** (*Librarium*) | Warp-side **truth-shaped coercion** — revelation **fragments**, guilt without incident, names without context | **Blindgate** denies intruders **narrative purchase**; classification ≠ confession |
+| **Alaric** (*Strategium*) | Constant temptation of **supremacy** — pride as **kingship geometry**, the Wall as throne | Counter-habit: **mortal-parity** rituals (kitchen law, bridge deference to Elara’s authority) as **deliberate friction** on hubris |
+
+**Why restrict clarity:** Revelation is a **pathogen** if broadcast. The Chapter issues **protocol** and **heuristics** downstream; it does not issue **unfinished theology** to five thousand minds mid-firefight.
+
+## 6. DOWNSTREAM ISSUANCE — MECHANIZED MYSTICISM
+
+**Issuance** is how upstream dread becomes **usable culture**. Each pillar compresses high-resolution unease into **tooling** its order can teach without exposing the **whole** quarrel.
+
+| Upstream | Downstream network | What the line receives |
+| --- | --- | --- |
+| **Drusus** | *Medicinae* / Apothecarion cadres | **Margins**, forbidden merges, interval rules, triage law — **procedure as mercy**; biomarkers without bedtime stories |
+| **Otho** | *Librarium* / Batavian Haruspices | **Anomaly classes**, Grid slang, Blindgate drills — **telemetry mysticism**; superstition filed as **neurokinetic / sensor script** where justified |
+| **Varro** | *Reclusiam* / Chaplain lattice | **Bind-words**, silence discipline, licensed liturgy — **spiritual maintenance manuals**; terror as **audit**, not rant |
+| **Alaric** | Legati, **10th *Decima*** anchor lattice, formal **command exemplum** | **Friction geometry**, *We hold*, visibility of **humility-in-the-kitchen** — **command gravity** without catechism; NCOs learn **pattern** before **parable** |
+
+**Frontline truth model:** Veterans often hold **correct predictions** with **wrong metaphysics** — that is **success**, not failure: heuristics work; causal stories can wait for *Vermilion* time.
+
+**Mechanized mysticism (working term):** The Batavi look **liturgical** because **rites are interfaces** — the Chapter treats soul-language, oath-stamps, and tactile resets as **controls** on the same machine *Varro* guards and *Drusus* meters. Theology is present; it is **rationalized as maintenance** so the Warp and the curse do not get **readable emotion** for free.

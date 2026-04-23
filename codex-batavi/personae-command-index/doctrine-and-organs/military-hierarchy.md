@@ -55,7 +55,7 @@ The Chapter’s **5,000** warriors are **every** Astartes with **gene-seed** and
 ***Reclusiam* helm law:** **Judex** (**Varro**) wears the cowled **Executor *Wolf-Skull Helmet*** (post–Foundation War **Exanimus Choir** / **CV y13**). **Adjutant Chaplains** and other **Reclusiam** priests default to the ***Codex* death-skull** (or **Armourium**-approved skull pattern **without** Executor lupine geometry). The **Executor wolf-skull cast** on any other bearer requires **Varro’s** written ***licentia lupina*** — see [dossier-varro.md](../character-dossiers/triumvirate/dossier-varro.md) §2.
 
 
-**Extended Council:** Kadmos and Otho sit on the **Council** under the Triumvirate; Drusus and Varro **are** the Triumvirate — the four orders converge in the *Strategium*, not isolated silos.
+**Extended Council:** Kadmos and Otho sit on the **Council** under the Triumvirate; Drusus and Varro **are** the Triumvirate — the four orders converge in the *Strategium*, not isolated silos. **Upstream–downstream issuance** (who may hold full-resolution unease vs. what the line receives as tooling): [council-and-librarium.md](council-and-librarium.md) §5–§6.
 
 ### 4.3 Frozen table (*Standard Order of Battle*, ca. 570.M42)
 

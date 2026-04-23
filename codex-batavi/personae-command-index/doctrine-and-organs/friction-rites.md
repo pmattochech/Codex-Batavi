@@ -2,6 +2,8 @@
 
 A Batavi’s biology, constantly pressed by *Das Erbe* and the threat of **Furor** stage, developed subconscious defense mechanisms rooted in Aethelgard and Noviomagus native tradition. The Chapter does not condemn these practices; it absorbs them, because the legionary performs them masked as strict logic.
 
+**Doctrine stack:** Approved entries below are **layer 3** artifacts (sanctioned mysticism). **Where they come from** — silent intake from Castra Vetera proximity, forge floors, neophyte dialect — is filed as **[proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md)** (witness inheritance; Judex elevation vs burn).
+
 ## 1. The Civilis Vow (The Soot Rite)
 
 *Inspired by the ancient Batavi leader’s oath who refused to cut hair or beard until his enemy was destroyed, staining the strands red.*

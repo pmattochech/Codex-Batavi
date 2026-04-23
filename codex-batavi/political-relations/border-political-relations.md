@@ -53,6 +53,8 @@ The Deathwatch is treated as a **mission creditor**, not a brotherhood above pol
 
 The most stable relationship. High Bishop Kaltos and the Lord Castellan share what the first calls “Iron Zeal”: operational faith where devotion to the Emperor is measured in tons of exported *adamantium*, not bent knees. Local Ecclesiarchy works forges and foundries with torches and coveralls instead of silk and censers. Sermons are sung to the press stroke. Conflict arises only with outside missionaries who try to halt production to impose worship cycles — those are reeducated by physical labor in the lower levels or repatriated.
 
+**Mortals:** complement with **[grey-clerk piety](grey-clerk-piety.md)** — **Administratum** holiness of **correct filing** alongside forge throughput; same substrate as **faith of work**, different choir.
+
 ### *[Lex Imperialis* and iron justice](lex-imperialis-iron-justice.md)
 
 *— The hammer that repairs*

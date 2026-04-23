@@ -1,7 +1,7 @@
 # [WIKI] The Der Batav myth and the founding of the Cohors Batavorum
 
 **Classification:** Lexicon and litanies — founding myth / Chapter identity  
-**Cross-references:** [fauna-flora-named-specimens.md](../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md) | [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md) | [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/intro-and-heraldry.md) | [mentality-and-philosophy.md](mentality-and-philosophy.md)
+**Cross-references:** [Batav Wolf / *Canis Batavorum* (iconic species)](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md) · [fauna-flora-named-specimens.md](../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md) · [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md) · [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/intro-and-heraldry.md) · [mentality-and-philosophy.md](mentality-and-philosophy.md)
 
 ---
 
@@ -13,11 +13,13 @@
 
 ## I. The predator of Aethelgard (the biological basis)
 
-In the ecosystem of Aethelgard Prime — a storm-line vanguard world of black swamps, stone Spires, and tides up to thirty meters — most fauna survives by fleeing. The exception is *Canis Batavorum*, known to natives simply as **the Batav**.
+In the ecosystem of Aethelgard Prime — storm-line margin, inland swamps, stone **Spires** in estuaries where local surge stacks brutal run-up — most **shoreline** fauna survives by fleeing. The exception is *Canis Batavorum* (**Batav Wolf**), known to natives simply as **the Batav**. Consolidated ecology and naming: [batav-wolf-canis-batavorum.md](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md).
 
 The Batav does not flee the Great Tide. It uses it.
 
 A compact, muscular ambush super-predator, the animal is known to position itself atop the Spires — black rock peaks that emerge from the estuaries at low tide — and wait. When the Great Tide rises and brings young Leviathans in the currents to feed on estuary algae, the Batav drops on them. It does not swim to them. It falls. A ten- to fifteen-meter leap from stone straight onto the armored carcass of a Leviathan, obsidian claws punching the plated back, crushing jaws finding the one anatomical weak point that matters: the rear cranial joint. Death in seconds. The Batav drags the carcass — tons — back to the Spire by raw muscular efficiency.
+
+The same species **rules black water inland** — peat swamp, drowned channels — where it **stalks** like something born for **reed shadow** and **half-submerged root**: not a second animal, only a second geometry of patience.
 
 It is not Aethelgard’s largest predator. It is the most efficient. It masters storm chaos not because it is stronger than the storm, but because it uses the storm as hunting ground.
 
@@ -39,7 +41,7 @@ Natives expected something like the Batav at human scale. What they received was
 
 Staff truth follows the **Foundation War serial** (see [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md)). The crusade was never only “hunt the hunter-enclave in the jungle.” It was a **nine-pole** war — void mirrors, inverted hives, Incus quotas, Vitreus glass, estuary law — that kept breaking *Codex*-clean battle math until **mud, tide, and machine hunger** became the only honest teachers.
 
-By the late **crown-and-estuary** movement, Alaric von Helis had already passed through *Execratio* and wrench-returned to the **intermediate stage** (the ~**3.5 m** chassis predating *Castra-Lupus*). He did not choose swamps because mud is humble. He chose them because enemies still believed mud was **our** disability — and tide is **geometry**.
+By the late **crown-and-estuary** movement, Alaric von Helis had already passed through *Execratio* and wrench-returned to the **intermediate stage** (the ~**2.85 m** chassis predating formal *Castra-Lupus* classification). He did not choose swamps because mud is humble. He chose them because enemies still believed mud was **our** disability — and tide is **geometry**.
 
 Amphibious pressure and shingle warfare turn the native prophecy into **witnessed** fact: the grey giant does not arrive with sermons. It arrives when the water **lies**.
 

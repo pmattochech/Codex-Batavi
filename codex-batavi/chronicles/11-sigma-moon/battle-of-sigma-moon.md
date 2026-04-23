@@ -150,7 +150,7 @@ The Lupercal Anomaly was documented at the Battle of Luna Sigma in a way no theo
 
 Angron stopped.
 
-Not long — perhaps two seconds, perhaps three. But he stopped. He looked at the gray-and-crimson iron colossus before him with one arm and still advancing. The pelts on *Castra-Lupus*’s shoulders — Viggo and the *Canis Batavorum* — projected the silhouette that had disturbed Blood Angels, Space Wolves, and traitors for centuries.
+Not long — perhaps two seconds, perhaps three. But he stopped. He looked at the gray-and-crimson iron colossus before him with one arm and still advancing. The pelts on *Castra-Lupus*’s shoulders — Viggo and the *Canis Batavorum* — projected the silhouette that had disturbed Blood Angels, Space Wolves, and traitors for centuries: **Lupercal-class** in *Strategium* files—**observer effect** and **hesitation latency**, not an open claim of gene-seed identity, which the Chapter’s **public** record still lists **unknown**.
 
 What was in Angron’s eyes in that moment, no living being on that field could interpret. Not tactical hesitation. Not fear. Something older — recognition between two organisms biology places in categories language cannot reach.
 
