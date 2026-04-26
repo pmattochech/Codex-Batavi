@@ -24,6 +24,8 @@
 
 Valerius first marine formally designated Legatus *Cohors Batavorum*. Fought beside Alaric through the **full crucible** (serial Books I–IV), keeping I Vexillatio functional under the same **nine-pole** conditions driving the rest of the Chapter toward biological collapse.
 
+*Ledger contrast (public read vs. Castellan warrant):* On **pure** **warrior** and **visible** **campaign** **success** he **outperformed** **Alaric**; the *Reclusiam* **seal** for **Chapter** **Master** **succession** — witness **Varro** only, [dossier-alaric.md](../triumvirate/dossier-alaric.md) §1.0 — weighted **broad** **command** and **Throne** **fealty** over that **lone** axis, **without** the Castellan’s **prior** **knowledge**.
+
 While most founder marines progressively hit Furor stage under constant **Foundation War first-quarter** hunter pressure, Valerius’s I Vexillatio stayed stable. Valerius held squadrons on principle then governing whole Chapter — formulation becoming pre-doctrinal *Axiom Rationis* base:
 
 > *“Service demands reason instead of devotion. Reason directs duty without blind submission. Duty upheld through regulation of self. I serve the Emperor.”*  

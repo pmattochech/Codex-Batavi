@@ -53,6 +53,7 @@
 - [dossier-soren-riis.md](character-dossiers/cohorts-and-detachments/dossier-soren-riis.md) — Apothecary; Liaison-Praefect (Deathwatch / *Medicinae*)
 - [dossier-markus-graile.md](character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) — Captain, 10th *Decima* (anchor guard / instructor face)
 - [dossier-valens-ritter.md](character-dossiers/cohorts-and-detachments/dossier-valens-ritter.md) — **Valens Ritter** — Silence + Shadows dual-path (folklore: *Silent Shadow* / *Two-Path Wolf*); ledger *Prima*, spend *Octava*
+- [dossier-leviathan-entombed.md](character-dossiers/cohorts-and-detachments/dossier-leviathan-entombed.md) — **Radulf Castrin**, **The Old Wolf** (Leviathan) — mentor / merit rites / siege line; entombment **TBD**
 
 ### supporting
 
