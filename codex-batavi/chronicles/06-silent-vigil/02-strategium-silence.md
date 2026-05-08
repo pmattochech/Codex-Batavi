@@ -26,7 +26,9 @@ The truth, buried under ceramite, adamantium, and denial, was that Alaric needed
 
 In that ocean of silence and absolute depression, where Alaric often forgot there was flesh under the machine, Viggo’s warm weight was the anchor that kept him from drifting into complete lethargy. The Thunderwolf proved time still passed, life still ran, if only at his feet.
 
-— Thermal insulation positioned — Alaric’s voice rang lonely and robotic in the dark. And for the first time in days, he kept watch.
+— Thermal insulation positioned — Alaric’s voice rang lonely and robotic in the dark.
+
+And for the first time in days, he kept watch.
 
 The idea of a “meal” had lost all ceremonial or biological meaning for Alaric von Helis during the Silent Vigil. In the Strategium’s sterile cold, eating was only mechanical reintroduction of fuel into an engine threatening to fail. Seated on the Adamant Throne, the Lord Castellan received his daily ration of hyper-dense nutrient paste through umbilical tubes wired to the collar of his Terminator armor. Aseptic, tasteless, silent.
 
@@ -80,7 +82,7 @@ At the foot of the Adamant Throne, Viggo slept easy, heedless of galactic war’
 
 In the gloom of the planet’s hundred-and-fortieth rotation, emergency lights washing the floor in sick amber, the silence broke.
 
-— Promethium production in the Incus-Gravis sector fell zero point four percent this cycle. — Alaric’s voice came through the vox-caster, hoarse from disuse, grinding like two rusted iron plates rubbed together.
+— Promethium production in the Incus-Gravis sector fell zero point four percent this cycle — Alaric’s voice came through the vox-caster, hoarse from disuse, grinding like two rusted iron plates rubbed together.
 
 He was not on the cohort vox channel. The communicator was off. He was speaking to the chamber’s dark air.
 
@@ -88,7 +90,11 @@ Viggo lifted his heavy head. White ears swiveled toward the metallic sound.
 
 The Lord Castellan looked down. His Terminator helm—a brutal ceramite structure molded into a lupine muzzle with heavy steel fangs—tilted a millimeter. Optic lenses, dull orange glow, locked on the beast.
 
-— Tertius Foundry drive belts are failing. The workers miss the extraction quota — Alaric went on. A grim stream of consciousness, data eating him from within. — They are weak. Flesh tires. Metal rusts. Everything comes apart, Viggo. The universe is an engine built to fail.
+— Tertius Foundry drive belts are failing. The workers miss the extraction quota — Alaric went on.
+
+A grim stream of consciousness, data eating him from within.
+
+— They are weak. Flesh tires. Metal rusts. Everything comes apart, Viggo. The universe is an engine built to fail.
 
 A Chapter Master’s confession, a giant’s lament who bore a whole forge world’s weight, hung in the frozen air. Any legionary who heard it would feel their heart sink to see the Anchor crack under pressure.
 
@@ -108,7 +114,9 @@ Being reduced to an inanimate object—to a “hot rock”—freed Alaric from t
 
 The Lord Castellan leaned his heavy breastplate back against the Adamant Throne. His orange eye-lights dimmed, dropping to power-save mode.
 
-— Understood — Alaric murmured, voice slightly less tight, as if the Thunderwolf’s yawn were the best tactical counsel he had received in a century. — We hold position.
+— Understood — Alaric murmured, voice slightly less tight, as if the Thunderwolf’s yawn were the best tactical counsel he had received in a century.
+
+— We hold position.
 
 Silence returned to the Strategium—but this time it was not a tomb’s silence. It was the silence of a shared vigil.
 
@@ -126,7 +134,9 @@ The chain of command first met the new order-delivery protocol during the corsai
 
 In the secondary war chamber, three Cohors Batavorum Captains bent over a hololith, arguing heatedly over the Lord Castellan’s lack of guidance. Tension was palpable. The gray-iron warriors’ controlled fury threatened discipline.
 
-— The Wall has been silent twenty-one cycles! — the Third Company Captain snarled, armored fist hammering the table. — If we do not anchor the fleet at Delta-Four, we lose the orbital refineries!
+— The Wall has been silent twenty-one cycles! — the Third Company Captain snarled, armored fist hammering the table.
+
+— If we do not anchor the fleet at Delta-Four, we lose the orbital refineries!
 
 Before another officer could answer, shadows by the main door shifted. No footfalls, no metallic clang of servitors or sentries.
 
@@ -224,9 +234,10 @@ Drusus processed it in the silence of his own helm. He knew Alaric justified the
 
 With extreme care, lest he disturb the fragile symbiosis, Drusus silenced the general medical alarm. He programmed Alaric’s armor to slowly purge blood toxins during induced sleep.
 
-— Rest, Lord of Iron — the Apothecary whispered on a closed internal channel. — The Thunderwolf will stand watch tonight.
+— Rest, Lord of Iron — the Apothecary whispered on a closed internal channel.
+
+— The Thunderwolf will stand watch tonight.
 
 Drusus withdrew into the shadows and sealed the Strategium doors again.
 
 There, on the forge-fortress’s dark, frozen floor, the gray-iron monster and the snow predator slept under the storm. Viggo, ignorant of his part in imperial war’s vastness, kept the ember of Alaric’s soul warm and guarded. The Thunderwolf held the place, cradling what humanity remained in the Lord Castellan, until the day a civilian child named Elara would come at last to wake him.
-

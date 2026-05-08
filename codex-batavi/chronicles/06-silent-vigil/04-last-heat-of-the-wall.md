@@ -18,7 +18,11 @@ Martha, a matriarch with strong arms, flour-stained apron, and an expression tha
 
 She aimed the sauce-stained tip of the wooden spoon straight at the centenarian wolf's muzzle.
 
-"Not one more step, you flea-bag," Martha's voice cut the air, sharp and imperious. She lowered the culinary weapon and pointed to the woven fiber square at the entrance. "The Cleaning Zone. Viggo! The paws!"
+— Not one more step, you flea-bag.
+
+Martha's voice cut the air, sharp and imperious. She lowered the culinary weapon and pointed to the woven fiber square at the entrance.
+
+— The Cleaning Zone. Viggo! The paws!
 
 Any other creature in the galaxy would have growled or attacked. A wild Thunderwolf would have torn the matriarch in half. But Viggo knew the hierarchy of that specific ecosystem. There, Alaric was the alpha, but Martha was gravity.
 
@@ -28,7 +32,7 @@ Alaric remained still, the hum of his gyroscopes filling the silence as he watch
 
 Satisfied, Martha lowered the spoon.
 
-"Better. Go to your corner. And don't drool on my floor."
+— Better. Go to your corner. And don't drool on my floor.
 
 Viggo did not need the command repeated. With a heavy step, the old wolf crossed the kitchen, ignoring the prep counters, and went straight to the space between the industrial ovens. There, heat was radiant, dense as an embrace. He turned his massive body twice and collapsed to the floor with a dull thud, stretching his aching legs.
 
@@ -60,7 +64,9 @@ Alaric's auspex logs kept the recording of an afternoon when Martha nearly choke
 
 Alaric's hand had contracted instinctively toward his sword, a protective reflex.
 
-But Viggo did not growl. He did not close his jaws. The gigantic wolf only let out a long, resigned sigh, warm air ruffling the girl's dark hair. He raised his rheumy eyes and met the orange lenses of Alaric's heavy mechanical helm. The animal's expression crossed the species barrier. It said, clear and unequivocal: *"I endure this because she is ours."*
+But Viggo did not growl. He did not close his jaws. The gigantic wolf only let out a long, resigned sigh, warm air ruffling the girl's dark hair. He raised his rheumy eyes and met the orange lenses of Alaric's heavy mechanical helm. The animal's expression crossed the species barrier. It said, clear and unequivocal:
+
+— I endure this because she is ours.
 
 The beast had submitted to the cub. The pack was complete.
 
@@ -138,7 +144,9 @@ In the Imperium's eyes, a Fenrisian Thunderwolf was a nightmare monster, a beast
 
 The old white wolf allowed himself to be the center of the children's war games with a patience that defied his own genetics. Jonas and his younger brothers used industrial chalk sticks—stolen from artillery manufactoria—to draw on the animal's thick coat. They sketched targets, imaginary armor plates, and crude Cohors Batavorum symbols straight on Viggo's flank. The lethal predator became a walking mural of child tactics.
 
-*"Armor advance!"* Jonas shouted, brandishing his wooden sword while mounted on the wolf's massive shoulders, gripping the thick neck fur.
+— Armor advance!
+
+Jonas shouted, brandishing his wooden sword while mounted on the wolf's massive shoulders, gripping the thick neck fur.
 
 Viggo huffed, a cloud of warm air from his nostrils, and began to move. An animal that size could have hurled the boy against the ceiling with one buck, but the Swift Shadow had mastered the art of absolute restraint. He trotted with meticulous smoothness, cushioning his own step so as not to unseat the child on his back.
 
@@ -294,7 +302,11 @@ For a second, Viggo's breath stopped. The white chest shuddered. The biological 
 
 Elara's voice cut the kitchen's silence. It did not sound trembling or childish; it carried the calm, unbreakable steel of a future ruler. It was a military discharge. A formal absolution of service beyond any metric of loyalty.
 
-"You may rest, Viggo," the Iron Venus whispered, words vibrating against the wolf's skin. "The vigil is over. The Wall stands. We are safe."
+— You may rest, Viggo.
+
+The Iron Venus whispered, words vibrating against the wolf's skin.
+
+— The vigil is over. The Wall stands. We are safe.
 
 As if those were exactly the release coordinates the animal's brain had waited for to trigger final decompression, Viggo let out one last, long sigh. Warm air escaped his nostrils, ruffling Elara's dark fringe one final time.
 
@@ -312,17 +324,27 @@ Silence stretched, heavy and suffocating, until the service corridor doors hisse
 
 Tobias stopped at a respectful distance. He looked at Elara kneeling beside the wolf, then Martha, finally the iron-gray mountain in the room's corner.
 
-"My Lord Castellan," Tobias's voice was a fearful whisper, mechanical eyes on the floor. "Funerary protocols are ready. The servitors may remove the unit to the mausoleum's cold earth. With full honors, as ordered."
+— My Lord Castellan.
+
+Tobias's voice was a fearful whisper, mechanical eyes on the floor.
+
+— Funerary protocols are ready. The servitors may remove the unit to the mausoleum's cold earth. With full honors, as ordered.
 
 Alaric's massive silhouette did not move, but the change in air pressure was immediate.
 
 Human face exposed to the furnaces' heat—scarred, pale, stripped of the dehumanizing filter of his formidable wolf helm—Alaric von Helis looked at the serf. The Chapter Master's eyes, sunk in the hollows of decades of functional depression, burned with ice-cold fury and a grief he refused to name.
 
-"No," Alaric's voice reverberated in the small kitchen, deep and hoarse, carried by the power of his gene-honed lungs without the metallic distortion of a vox-caster.
+— No.
+
+Alaric's voice reverberated in the small kitchen, deep and hoarse, carried by the power of his gene-honed lungs without the metallic distortion of a vox-caster.
 
 The two lobotomized servitors stopped at once. Tobias swallowed.
 
-"He is not going to cold earth," Alaric continued, each word a lead block on the floor. "He always sought heat."
+— He is not going to cold earth.
+
+Alaric continued, each word a lead block on the floor.
+
+— He always sought heat.
 
 The Lord of the Wall rose slowly from his improvised seat. Each millimeter, the heavy pistons of his *Castra-Lupus* creaked, servos roaring to compensate weight. He marched two steps forward, colossal boots halting a handspan from the Thunderwolf's still body. Alaric looked at the animal that had been his anchor, the mute confessor of his madness, and the living cradle of his cub.
 
@@ -338,7 +360,11 @@ Sound faded until nothing remained. Absolute silence from the gyroscopes. The Te
 
 Elara looked up, eyes wide with shock at the violation of every rule of military readiness. Martha covered her mouth with both hands. A powered-down Terminator was a metal tomb; the weight was such that Alaric could not even move an arm without bringing central systems back online.
 
-"No one will touch him," Alaric's human voice echoed from inside the voluntary ceramite prison. "The vigil has begun."
+— No one will touch him.
+
+Alaric's human voice echoed from inside the voluntary ceramite prison.
+
+— The vigil has begun.
 
 And so the Wall of Noviomagus froze. For the next twenty-four hours, while the storm howled outside, Alaric von Helis stayed absolutely motionless. He had not powered down from exhaustion or technical failure. He had shut down so the hum of his motors and the vibration of his heavy steps would not disturb his old friend's final sleep.
 
@@ -354,11 +380,18 @@ His *Castra-Lupus* reactor ignition sequence began with a violent crack. The dor
 
 The Lord Castellan looked to Apothecary Drusus, who had waited in the corridor shadows for hours.
 
-"Apothecary," Alaric's voice was low and processed only by his human throat, rough from disuse. "Begin the surgical flaying protocol. The biological unit will not be discarded. The asset proved superior thermal retention. It will be integrated into my primary chassis."
+— Apothecary.
+
+Alaric's voice was low and processed only by his human throat, rough from disuse.
+
+— Begin the surgical flaying protocol. The biological unit will not be discarded. The asset proved superior thermal retention. It will be integrated into my primary chassis.
 
 Drusus nodded slowly. The healer knew that in the Castellan's fractured mind, technical coldness was the only shield against absolute grief.
 
-"Understood, Lord of Iron," Drusus answered. "The forge waits."
+— Understood, Lord of Iron.
+— Understood, Lord of Iron — Drusus answered.
+
+— The forge waits.
 
 In the cycles that followed, Noviomagus's strategic-tier furnaces produced not weapons but a monument. Chapter Artificers worked with Drusus under Elara's relentless, silent supervision—she checked every seam and every chemical treatment applied to her old friend's coat.
 
@@ -378,11 +411,13 @@ The Lord Castellan raised both colossal gauntlets and took his heavy helm from t
 
 The trinity was complete. The black wolf of the past, the white wolf of memory, and the iron wolf of the present.
 
-"The sentinel is on post," Alaric's voice echoed, metallized, deep and terrifying through the mechanical helm's vox-caster.
+— The sentinel is on post.
+
+Alaric's voice echoed, metallized, deep and terrifying through the mechanical helm's vox-caster.
 
 Elara nodded, the Iron Venus marching step for step beside the iron-gray mountain. Noviomagus Prime would continue its eternal war and acid rain would not stop soon. But in the Cohors Batavorum's armored core, the Wall's iron heart would never be cold again.
 
-### **EPILOGUE: RETURN TO FENRIS (THE BONES OF THE VIGIL)**
+## EPILOGUE: RETURN TO FENRIS (THE BONES OF THE VIGIL)
 
 Fenris's cold was not Noviomagus Prime's cold. On the forge-world, chill was the byproduct of industrial neglect and acid rain; on Fenris, ice was a living thing, an ancestral predator testing the dignity of everything that dared breathe its surface.
 
@@ -398,47 +433,60 @@ At twelve, the Iron Venus wore no ceramite armor, but a heavy coat of synthetic 
 
 Ragnar Blackmane descended the stone steps. His feline eyes settled on Elara with approval before locking on Alaric's right pauldron. The Young King recognized the white coat and skull structure even after a century of wear.
 
-"By Russ's beard..." Ragnar murmured, tone weighted with rare, solemn respect. He stopped before Alaric and lightly touched the white fur on the Castellan's gorget. "The *runt* of Hoth-Secundus. He didn't just survive the winter, Batav... He aged. A century? That's a miracle even for our world's blood. He was a wolf who refused prey and chose steel. And I see steel knew how to honor him."
+— By Russ's beard...
+
+Ragnar murmured, tone weighted with rare, solemn respect. He stopped before Alaric and lightly touched the white fur on the Castellan's gorget.
+
+— The *runt* of Hoth-Secundus. He didn't just survive the winter, Batav... He aged. A century? That's a miracle even for our world's blood. He was a wolf who refused prey and chose steel. And I see steel knew how to honor him.
 
 From inside his mechanical helm, Alaric's voice echoed deep and controlled.
 
-"The unit fulfilled its thermal and tactical purpose. The vigil was held." As always, Alaric hid grief under sterile language, but Fenris's lords knew predator souls well enough to hear pain in the vox static.
+— The unit fulfilled its thermal and tactical purpose. The vigil was held.
+
+As always, Alaric hid grief under sterile language, but Fenris's lords knew predator souls well enough to hear pain in the vox static.
 
 Alaric gestured. Two of his personal honor guards advanced, carrying a heavy adamantium reliquary studded with Cohors Batavorum seals. They set it at Logan Grimnar's feet.
 
 The Lord Castellan released his helm's pressure seals and lifted it, revealing his human face, pale and scarred by the Silent Vigil. He looked straight at the Great Wolf.
 
-"The Wall discards nothing of value, Lord Grimnar. Viggo's hide warms my chassis, but the calcium of his structure is too strong to be reduced to ash. I bring his bones back to the ice that bred him—not to bury them."
+— The Wall discards nothing of value, Lord Grimnar. Viggo's hide warms my chassis, but the calcium of his structure is too strong to be reduced to ash. I bring his bones back to the ice that bred him—not to bury them.
 
 Alaric set his heavy gauntlet on the reliquary.
 
-"I ask your Priests of Iron and Wolf, the *Runesmiths*, to forge this beast's bones into talismans of protection and vigil. Our faith is in logic and iron, but his biology proved an anchor Noviomagus's mathematics could not predict. I want the Swift Shadow's essence distributed to those who uphold my fortress."
+— I ask your Priests of Iron and Wolf, the *Runesmiths*, to forge this beast's bones into talismans of protection and vigil. Our faith is in logic and iron, but his biology proved an anchor Noviomagus's mathematics could not predict. I want the Swift Shadow's essence distributed to those who uphold my fortress.
 
 Logan Grimnar leaned forward, gray beard brushing his armor's breastplate.
 
-"And how will the Iron Wolf divide his guardian's bones, Castellan?"
+— And how will the Iron Wolf divide his guardian's bones, Castellan?
 
 Alaric's voice filled the hall, each allocation an irrefutable decree from his strategic mind:
 
-"One amulet for each member of the Cohort's Personal Guard. For them, the bones must channel **Vigil and Loyalty**—the instinct not to yield before tunnel shadows."
+— One amulet for each member of the Cohort's Personal Guard. For them, the bones must channel **Vigil and Loyalty**—the instinct not to yield before tunnel shadows.
 
-"One amulet for each of the nine members of Martha's civil family. For them, the runes must channel **Pack Heat**, so the biological stove he once formed in the dark never dies in that bloodline."
+— One amulet for each of the nine members of Martha's civil family. For them, the runes must channel **Pack Heat**, so the biological stove he once formed in the dark never dies in that bloodline.
 
-"One amulet for Apothecary Drusus. For him, channeling of **Focus and Wisdom**—the silent patience of the predator who watches life and death without blinking."
+— One amulet for Apothecary Drusus. For him, channeling of **Focus and Wisdom**—the silent patience of the predator who watches life and death without blinking.
 
-"And one amulet for Judex Varro. For the law's executor, the bones must engrave **Unbending Duty**—the relentless fury of the hunter who runs to the last breath, without hesitation."
+— And one amulet for Judex Varro. For the law's executor, the bones must engrave **Unbending Duty**—the relentless fury of the hunter who runs to the last breath, without hesitation.
 
 The hall fell silent. Ragnar looked at the reliquary, then at Elara.
 
-"And for you, Lord Castellan? And for the little Iron Venus who marches at your side?" the Young King asked.
+— And for you, Lord Castellan? And for the little Iron Venus who marches at your side?
+— And for you, Lord Castellan? And for the little Iron Venus who marches at your side? — Ragnar asked.
 
 Elara stepped forward, placing herself exactly beside Alaric's colossal boot, in the space where Viggo used to sit. She lifted her chin, cold, calculating eyes meeting Ragnar's wild gaze.
 
-"For us, Lord Blackmane," the girl answered, voice clear and without tremor before the giants, "the talismans need no war runes or heat. For us, they will stand for the Fixed Sentinel. The white guardian who will watch our flanks, standing beside the Emperor Himself, until our vigil, too, ends."
+— For us, Lord Blackmane.
+— For us, Lord Blackmane — the girl answered, voice clear and without tremor before the giants.
+
+— The talismans need no war runes or heat. For us, they will stand for the Fixed Sentinel. The white guardian who will watch our flanks, standing beside the Emperor Himself, until our vigil, too, ends.
 
 A smile split Logan Grimnar's scarred face. The Great Wolf of Fenris struck his closed fist to his chest, a boom that echoed like thunder through the mountain stone.
 
-"Wise beyond years and hard as permafrost," Grimnar laughed. "The bones of a Thunderwolf who guarded a forge-world's core. Our Rune Priests will sing a full cycle while they carve that ivory, Batav. It shall be done. Viggo's bones will guard Noviomagus's foundations."
+— Wise beyond years and hard as permafrost.
+
+Grimnar laughed.
+
+— The bones of a Thunderwolf who guarded a forge-world's core. Our Rune Priests will sing a full cycle while they carve that ivory, Batav. It shall be done. Viggo's bones will guard Noviomagus's foundations.
 
 Alaric nodded slowly, a rigid, solemn motion. He did not smile. He did not thank effusively. The transaction was sealed. The machine had processed loss and turned grief into perpetual armor. Iron had forged flesh's eternity.
-

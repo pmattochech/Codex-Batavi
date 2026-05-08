@@ -81,10 +81,22 @@
 ## 06-silent-vigil — The Silent Vigil
 *(050.M42 – 150.M42 — The Chapter operates under a Castellan who is present but hollowed out. The Legati carry what Alaric cannot carry.)*
 
-- [malakor-v.md](06-silent-vigil/malakor-v.md) ✅ — 050.M42. The bait, the forty-three-minute fight, the wordless sentence. **Valerian Heresy** blood-price (**~300** pairs on the cord that cycle). The trigger of the Silent Vigil.
-- [strategium-silence.md](06-silent-vigil/strategium-silence.md) ✅ — Silent Vigil. Strategium, Viggo as anchor, orders through the wolf, Alaric’s collapse and Drusus’s clinical discovery.
-- [last-heat-of-the-wall.md](06-silent-vigil/last-heat-of-the-wall.md) ✅ — Martha’s kitchen, Elara as infant and childhood with Viggo, Viggo’s death (Elara age twelve, after Luna Sigma), Mantle of Providence, bones on Fenris.
-- [without-distinction.md](06-silent-vigil/without-distinction.md) ✅ — ca. 099.M42. Halvard, Legatus of the I Vexillatio. Post-battle protocol without celebration or praise: maintenance, replenishment, chaplain, descent to the cells. The weight of being functional as the only form of honor.
+- [00-malakor-v.md](06-silent-vigil/00-malakor-v.md) ✅ — 050.M42. The bait, the forty-three-minute fight, the wordless sentence. **Valerian Heresy** blood-price (**~300** pairs on the cord that cycle). The trigger of the Silent Vigil.
+- [01-alabarda-to-relay.md](06-silent-vigil/01-alabarda-to-relay.md) ✅ — Alabarda postscript (conversion to relay).
+- [02-strategium-silence.md](06-silent-vigil/02-strategium-silence.md) ✅ — Silent Vigil. Strategium, Viggo as anchor, orders through the wolf, Alaric’s collapse and Drusus’s clinical discovery.
+- [03-without-distinction.md](06-silent-vigil/03-without-distinction.md) ✅ — ca. 099.M42. Halvard, Legatus of the I Vexillatio. Post-battle protocol without celebration or praise: maintenance, replenishment, chaplain, descent to the cells. The weight of being functional as the only form of honor.
+- [04-last-heat-of-the-wall.md](06-silent-vigil/04-last-heat-of-the-wall.md) ✅ — Martha’s kitchen, Elara as infant and childhood with Viggo, Viggo’s death (Elara age twelve, after Luna Sigma), Mantle of Providence, bones on Fenris.
+
+## corbec-the-first-legatus
+*(Corbec POV sub-chronicle, moved out of Silent Vigil for readability.)*
+
+- [00-valerian-witness-corbec-i.md](corbec-the-first-legatus/00-valerian-witness-corbec-i.md)
+- [01-valerian-rot-spread.md](corbec-the-first-legatus/01-valerian-rot-spread.md)
+- [02-valerian-reading-b.md](corbec-the-first-legatus/02-valerian-reading-b.md)
+- [03-cassian-vorn-first-sword.md](corbec-the-first-legatus/03-cassian-vorn-first-sword.md)
+- [04-vorn-duel-open-field.md](corbec-the-first-legatus/04-vorn-duel-open-field.md)
+- [05-run-to-the-wall.md](corbec-the-first-legatus/05-run-to-the-wall.md)
+- [06-the-sentence-seen-from-below.md](corbec-the-first-legatus/06-the-sentence-seen-from-below.md)
 
 ## 07-iron-venus
 - [iron-venus.md](07-iron-venus/iron-venus.md) — aggregated block (short merged H1s: *The End of the Vigil*, Tyvar, Aethelgard, etc.)
@@ -104,6 +116,7 @@
 - [loken-funnel-octava.md](14-vexillum-chronicles/loken-funnel-octava.md) — **VIII** *Octava* / *Alabarda* field 4 lens: **Ivar Malevent**, funnel net, nested fire with Black Templars; companion to *helbrecht-first-loken-passage*.
 
 ## 09-frontier-life
+- [limes-renegade-resupply.md](09-frontier-life/limes-renegade-resupply.md) — **Limes** resupply purge: *Ash Standard* (guest renegade Chapter); **§I** dock *texture* + **Serun Orach**; time-bait **§II**; *Strategium* / *Nona* **§III**; gallery **§IV**; **Silence** / **Shadow**, *Decima* **§V**; **Asterion Moloc** + **Kadmos** hulks **§VI**; seventy-two-hour strike **§VII** (**\*\*\*.M42** date TBD)
 - [tithe-of-the-rejected.md](09-frontier-life/tithe-of-the-rejected.md) — includes ***The Tithe of the Rejected***
 - [witness-inheritance-chronicles.md](09-frontier-life/witness-inheritance-chronicles.md) — vignettes: proximity substrata; forge/pier/bell/threshold habit; slow adoption of Castra Vetera rites (**ca.** 046–118.M42 band)
 - [mortal-pov-porta-nihili-shorts.md](09-frontier-life/mortal-pov-porta-nihili-shorts.md) — **mortal POV** triptych: Noviomagus **Throne receipt** / Aethelgard **salt-in-the-ration** / Great Reef **strait house** (**bottle creole**, Astartes offstage)
@@ -154,7 +167,7 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 - [korvus-twin-breach.md](14-vexillum-chronicles/korvus-twin-breach.md) — **VI** *Sexta*, **098.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; *Alabarda* field 4.
 - [null-vent-covenant.md](14-vexillum-chronicles/null-vent-covenant.md) — **VII** *Septima*, **112.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; *Alabarda* field 4.
 - [silent-hours-marco-de-vetra.md](14-vexillum-chronicles/silent-hours-marco-de-vetra.md) — **IX** *Nona*, **140.M42** Marco de Vetra; **Cassian Vetra**; Shouter relay under EM storm; *Alabarda* field 4.
-- [decima-justice-vexillum.md](14-vexillum-chronicles/decima-justice-vexillum.md) — **X** *Decima* **justice vexillum** (not *Alabarda*); **051.M42** commission; **Kadmos**, **Varro**, first Ancient; **Markus Graile** echo; companion to [malakor-v.md](06-silent-vigil/malakor-v.md).
+- [decima-justice-vexillum.md](14-vexillum-chronicles/decima-justice-vexillum.md) — **X** *Decima* **justice vexillum** (not *Alabarda*); **051.M42** commission; **Kadmos**, **Varro**, first Ancient; **Markus Graile** echo; companion to [00-malakor-v.md](06-silent-vigil/00-malakor-v.md).
 
 ---
 

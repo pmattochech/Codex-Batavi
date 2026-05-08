@@ -83,7 +83,9 @@ Difference what *did not* happen.
 
 Did not lose consciousness.
 
-Remained transformed mind completely intact — full lucidity perfect memory reasoning preserved. Drusus informed immediately framed possibility something external maintaining functional consciousness: **Warp** had not corrupted before Execratio — had *waited* Execratio preserve him inside.
+Remained transformed; mind completely intact — full lucidity, perfect memory, reasoning preserved. Drusus informed immediately; framed possibility something external maintained functional consciousness: **Warp** had not corrupted before Execratio — had *waited* Execratio preserve him inside.
+
+**Adjunct case (Malakor register):** **Cassian Vorn** — Valerius’s **First Sword**, second duelist of the Chapter after the Legatus himself — reached **Versibar** with the **same** lucidity pattern at **lower** stabilization. Vorn served as **internal butcher** (doubt-purge, breach-enforcement); name **expunged** from ceremony speech same category as his master. *Medicinae* no longer files lucid **Versibar** as a singleton equation.
 
 Valerius never reached conclusion. Felt victory.
 
@@ -93,7 +95,7 @@ Next step natural someone decades Horus seed growing without forge would contain
 
 Adopted title same hour.
 
-With him whole I Vexillatio — 500 marines immediate Exanimus, stability decades maintained cascading collapse commander not only abandoned Varro doctrinal anchors *actively encouraged* embrace what anchors contained. Without *Axiom Rationis* chain, without Varro Type III model, without containment architecture — Valerius opened door said liberation.
+**Command collapse (I Vexillatio):** The **500**-cell block stayed the Chapter’s filed **TOE** for *Prima*; what broke was **oath** and **command net** — **bulk** of the Vexillatio followed the *Lupercal* claim while **five** battle-brothers held **lawful witness** (identities restricted in rot-era files; one later admitted on **Legatus** lattice: **Corbec Ardens**). Not five hundred bodies received one identical biological stamp in one tick. **Rot-era** **Versibars** manifesting **inside this conflict** feed the surge statistics Drusus later files under **Reading B**: **conflict-hour** cohort **separate ledger** from **pre-crisis** Black-Cell / long-hold **Versibar** populations — older cages **do not** merge into “changed Malakor hour” clinical lines. Valerius **weaponized** releases across **both** tranches; archives keep the split honest. Without *Axiom Rationis* chain, without Varro Type III model, without containment architecture — Valerius opened door said liberation.
 
 ---
 
@@ -149,7 +151,7 @@ Drusus recorded Valerius case *Codex Das Erbe* separate unnamed entry — *“In
 
 Doctrinal conclusion disturbing permanent: absence **Wolf’s Curse** stage progression not protective factor. At least one documented case risk factor — absence forge meant absence structures forge builds. Marine never broken therefore never rebuilt anchors stages paradoxically force construction.
 
-Second record more unsettling: **Versibar** consciousness preserved **Warp**. Drusus no model. Knew Execratio — irrational transformation consciousness loss no agency — assumed mind did not survive transformation. Inverted Stability Case showed something external alter equation forms Chapter biology cannot predict measure.
+Second record more unsettling: **Versibar** consciousness preserved **Warp** — **Valerius** primary; **Malakor** added **adjunct** **Cassian Vorn** (same pattern, weaker latch). Drusus no closed model. Knew Execratio — irrational transformation, consciousness loss, no agency — assumed mind did not survive transformation. Inverted Stability Case plus adjunct proved something external alters equation in forms Chapter biology cannot predict measure at will.
 
 Added routine monitoring protocol: long biological stability marines — especially never reached **Wolf’s Curse** stage — assessed emphasis specific corruption psychological indicators regardless absence biological markers. Visible stability ceased evidence absence risk.
 

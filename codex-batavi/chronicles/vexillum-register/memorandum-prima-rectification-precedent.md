@@ -12,7 +12,7 @@ This document records why **field 4** of the First’s battle standard carries *
 
 ## II. Referenced event
 
-**050.M42 | Malakor V** — execution of the **First Legatus** after treason under *Lupercal* claim. Full narrative and witness geometry (this memorandum is **not** a substitute): [malakor-v.md](../06-silent-vigil/malakor-v.md).
+**050.M42 | Malakor V** — execution of the **First Legatus** after treason under *Lupercal* claim. Full narrative and witness geometry (this memorandum is **not** a substitute): [00-malakor-v.md](../06-silent-vigil/00-malakor-v.md).
 
 ## III. Register language (mandatory)
 

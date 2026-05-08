@@ -1,4 +1,4 @@
-# THE HOOK
+# Malakor V
 
 **Date:** 050.M42  
 **Theater:** Malakor V — peripheral sector of the Nine Phalanx, Cicatrix Maledictum influence zone  
@@ -21,7 +21,11 @@ Neither Drusus nor Varro had suggested the approach. Alaric had, alone in the *S
 
 That was the problem. And the solution.
 
-*“Mobilize the III and V Vexillationes”* — he had said when the first report arrived, three engagements back. Then the second. Then the third, with logs of two squadrons wiped and enough survivors for the whole sector to know what had happened and have no doubt who had done it.
+When the first report arrived, three engagements back, he had said:
+
+— Mobilize the III and V Vexillationes.
+
+Then the second. Then the third, with logs of two squadrons wiped and enough survivors for the whole sector to know what had happened and have no doubt who had done it.
 
 Each failure was an argument. Each pullback was the proof Valerius wanted to manufacture: that the Chapter could not contain what it had created.
 
@@ -34,6 +38,8 @@ The only element Valerius lacked was forty-three years’ knowledge of how Valer
 ## II. THE FIELD
 
 **Valerian Heresy — theater accounting:** Malakor V was never only a corridor. **I** *Prima*’s treason had spread across **rot**-linked anchors; **Blutrecht** Tier 3 had **locked** **loyal Versibars** onto **traitor gene-seed** while Lord Castellan **Alpha** **imposed** **predation geometry** — irrational mass **aimed**, not Chapter-wide **catastrophe**. *Strategium* later files the engagement as the first **documented** **battlefield** ***Adversarii at Portas*** correlation: **distinct** from **terminal** Black Cell release (facility lost / indiscriminate **Portas**). Before Alaric met **Valerius** in the maze, the **blood-price** was already **~300** names — against **~500** brothers still **rational** when the **crucible** ended. **~200 Firstboot** would remain on line when the ash settled. The duel was **sentence** on the **First Legatus**, not the whole war.
+
+Parallel lanes in the same theater held *Prima* **witness** resistance against Valerius’s expunged **First Sword**, **Cassian Vorn** — the Chapter’s **second** **lucid Versibar** (adjunct **Warp** latch; weaker than the First Legatus) — while the Castellan’s hook closed. In one of those lanes **Corbec Ardens**—witness-brother, not yet *Legatus*—met Vorn with the **halberd** pattern *Prima* keeps on the **Legatus** close-combat register: *Alabarda* reach and hook geometry without the vexillum relay, shaft and head issued for **officer witness** work when the line refused the rot. *Apothecarion* afterward applied Drusus’s **Reading B** split: **conflict-hour** **Versibar** manifests versus **pre-crisis** hold cohorts, **separate** ledger lines so rot-surge counts stay honest.
 
 The interception sector was industrial — extraction platforms abandoned after Cicatrix pressure made mining unviable. Oxidized metal, choked vent chambers, scaffolding no one had inspected in decades. Geography Valerius knew from the same map Alaric had used to build the hook.
 
@@ -51,31 +57,47 @@ Alaric answered the pattern as one who had built the pattern.
 
 The voice from the lupine throat was human. Clear.
 
-> *“You planted the report.”*
+— You planted the report.
 
 Alaric did not answer. He adjusted the *Castra-Lupus*’s stance to compensate for the next strike’s angle of entry.
 
-*“I knew it was a hook.”* The beast fell back half a step, reassessing. *“I came anyway. You know why?”*
+— I knew it was a hook.
+
+The beast fell back half a step, reassessing.
+
+— I came anyway. You know why?
 
 The right shoulder field absorbed the return impact. Alaric took two steps left — the only move available in that corridor’s geometry without yielding ground.
 
-*“Because even with a hook, you needed four tries.”* Valerius’s voice held something that was not rage. Closer to demonstration. *“Four. To catch a Marine who never needed the Axiom of Reason to hold his mind.”*
+— Because even with a hook, you needed four tries.
+
+Valerius’s voice held something that was not rage. Closer to demonstration.
+
+— Four. To catch a Marine who never needed the Axiom of Reason to hold his mind.
 
 The force sword left a thirty-centimeter scar on the *Castra-Lupus* plastron.
 
-*“You came back from Execratio because Varro kept screaming your name.”* The Versibar advanced in an arc — Valerius’s favored maneuver in confined space, learned in the Incus Gravis tunnels, executed with the transformed stage’s added mass. *“I went in alone and I’m still here. With my mind. With no one screaming my name.”*
+— You came back from Execratio because Varro kept screaming your name.
+
+The Versibar advanced in an arc — Valerius’s favored maneuver in confined space, learned in the Incus Gravis tunnels, executed with the transformed stage’s added mass.
+
+— I went in alone and I’m still here. With my mind. With no one screaming my name.
 
 Alaric let the arc close, absorbed the shoulder impact on the *Castra-Lupus* flank, and used the Versibar’s mass against it — **~1.7 tons** of ceramite and steel meeting four and a half of altered flesh in a corridor with geometry too tight for both.
 
-*“That is not proof of superiority”* — said Alaric.
-
 The first words in forty-one minutes of combat.
+
+— That is not proof of superiority.
 
 The Versibar stopped for one second.
 
-> *“It was the only thing I needed to hear.”*
+— It was the only thing I needed to hear.
 
-*“It was not an answer to your argument.”* Alaric adjusted his force sword grip. *“It was a diagnosis.”*
+— It was not an answer to your argument.
+
+Alaric adjusted his force sword grip.
+
+— It was a diagnosis.
 
 ---
 
@@ -89,11 +111,19 @@ Valerius knelt on Malakor V’s oxidized metal, right arm pinned by the *Castra-
 
 There was no fear in them.
 
-*“You will carry this.”* The voice was still clear. *“Three hundred names. Everything the First was. You will carry all of it.”*
+— You will carry this.
+
+The voice was still clear.
+
+— Three hundred names. Everything the First was. You will carry all of it.
 
 Alaric raised the force sword.
 
-*“You were carrying enough before me. I know the weight of the cord. I watched you add the plates. You will add three hundred more tonight and you will keep walking as you always have, because that is all you know how to do.”* A pause. *“I do not regret it. You need to know that. Of nothing.”*
+— You were carrying enough before me. I know the weight of the cord. I watched you add the plates. You will add three hundred more tonight and you will keep walking as you always have, because that is all you know how to do.
+
+A pause.
+
+— I do not regret it. You need to know that. Of nothing.
 
 Alaric struck.
 
@@ -103,7 +133,11 @@ The sector went silent for four seconds.
 
 Then Alaric’s vox keyed.
 
-*“Sector clear.”* One-second pause. *“Biometric data collection authorized. Drusus’s team may advance.”*
+— Sector clear.
+
+One-second pause.
+
+— Biometric data collection authorized. Drusus’s team may advance.
 
 He stood in the corridor while confirmation reports arrived from the four containment points. He looked at what had been First Legatus of the *Cohors Batavorum* long enough to confirm combat had ended.
 
@@ -121,7 +155,7 @@ The data carried no annotation on the subject’s identity.
 
 There was, however, a separate report entry — marked *Vermilion* at once, Triumvirate-restricted access:
 
-> *“Das Blutrecht stage: atypical manifestation. Absence of acute phase. Immediate rebound to deep depressive phase. Hypothesis: when the object of focused hatred is eliminated by the bearer, purpose-collapse is immediate and total. There is no resolution phase. The biological system that organized affective state around the target has no protocol for the target’s absence. Continuous monitoring authorized. Pharmacological intervention not recommended: the state is biological, not clinical. It has no cure. It has duration.”*
+> "Das Blutrecht stage: atypical manifestation. Absence of acute phase. Immediate rebound to deep depressive phase. Hypothesis: when the object of focused hatred is eliminated by the bearer, purpose-collapse is immediate and total. There is no resolution phase. The biological system that organized affective state around the target has no protocol for the target’s absence. Continuous monitoring authorized. Pharmacological intervention not recommended: the state is biological, not clinical. It has no cure. It has duration."
 
 Drusus closed the report.
 

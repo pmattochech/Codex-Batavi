@@ -60,7 +60,9 @@ Halvard had sat with the chaplain, this time, and answered the questions in the 
 
 Halvard had taken three seconds to answer.
 
-— No — he said. — The seventeen was.
+— No.
+
+— The seventeen was.
 
 The chaplain had noted. Then had said:
 
@@ -70,7 +72,9 @@ Halvard had been silent. Then had said:
 
 — And the six hundred three?
 
-— It should be work — the chaplain said. — Nothing more than that.
+— It should be work.
+
+— Nothing more than that.
 
 It was the correct answer. Halvard knew it was correct before he asked. He had asked because he needed to hear it from outside, this time. His Graven State was not pure pride — something more irregular, a mix Drusus had catalogued as “predominantly Type I with chronic grief saturation” and had written a note Halvard had read once and then asked never be read to him again. Not because it was wrong. Because it was too precise to be useful in the field.
 

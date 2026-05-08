@@ -40,6 +40,7 @@
 
 ## 4\. History (in-universe — chronology access)
 
+* **Valerian Heresy (050.M42):** One of **five** *Prima* **lawful witness** brothers who did not follow the *Lupercal* claim; *Strategium*-restricted files tie his lane to containment work against Valerius’s expunged **First Sword**, **Cassian Vorn** (second **lucid Versibar**). The same register records his engagement with the **Chapter halberd** on the **Legatus** pattern—*Alabarda* reach and head geometry **without** the vexillum relay, witness arming from the *Prima* rack—not yet bearer of the standard he would later carry. Full geometry **Malakor** register — not public *Legatus* biography.  
 * **Pre-Legatus:** Completed a **full certified *Watch cycle*** under post-**051.M42** lattice ([deathwatch-and-batavorum.md](../../../political-relations/deathwatch-and-batavorum.md)); return audit sealed by *Medicinae* before nomination could advance.  
 * **Appointment:** Confirmed **Legatus** of *Prima* after **Valerius**’s expunging and the **Deathwatch career lattice** — exact year held close in *Strategium* minutes; bears *Alabarda* **not** under *clausula retentionis antecedentis* (no retroactive Watch waiver for this seat’s line of succession).  
 * **Silent Vigil era:** Held Noviomagus Prime garrison stability through the **Vigil-century** (**050–150.M42**) of **clinical** throne-distance — **discipline over comfort**; no public break with the Adamant Throne’s cold years.

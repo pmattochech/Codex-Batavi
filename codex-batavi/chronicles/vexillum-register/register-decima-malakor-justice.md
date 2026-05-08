@@ -10,7 +10,7 @@
 
 ## I. Referenced event
 
-**050.M42 | Malakor V** — execution of the First Legatus (Valerius, *Lupercal* claim) by Lord Castellan Alaric von Helis; Triumvirate witness geometry. Narrative: [malakor-v.md](../06-silent-vigil/malakor-v.md).
+**050.M42 | Malakor V** — execution of the First Legatus (Valerius, *Lupercal* claim) by Lord Castellan Alaric von Helis; Triumvirate witness geometry. Narrative: [00-malakor-v.md](../06-silent-vigil/00-malakor-v.md).
 
 ## II. Register meaning (cloth)
 
