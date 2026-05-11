@@ -26,6 +26,7 @@ Mandatory obedience order for the AI:
 * **Legacy:** Do not silently rewrite stable prose outside an assigned batch or explicit request (see [`TRANSLATION-HYBRID.md`](TRANSLATION-HYBRID.md)).
 * ***Warhammer 40,000*:** Keep game terms, equipment names, and fixed mottoes in canonical English; internal Chapter coinages follow [`GLOSSARY-EN.md`](GLOSSARY-EN.md).
 * **Book-style dialogue (narrative Markdown in `codex-batavi/`):** When a character’s spoken line is set on its **own line** (novel / chronicle style), mark it with a **leading em dash** (—), e.g. `— Words spoken here.` **Do not** use straight quotation marks for that running scene speech. Reserve **quotes** for **documentary** use only: in-universe records, slates, orders, registries, formal *attributed* excerpts, epigraphs, or explicit “the text says …” quotation — not for ordinary dialogue in fiction.
+* **Dialogue attribution (pt-BR ABNT punctuation preference):** When adding an interlocutor tag inside the same spoken line, keep the spoken em dash style and separate the attribution with em dashes, with spaces: `— Spoken phrase — he said. — Continuation.` (Do not use `— Spoken phrase, he said. —Continuation.`)
 
 ### 0.2 Progenitor, gene-line, and POV — how to write from here on
 
