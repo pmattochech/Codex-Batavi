@@ -8,9 +8,10 @@
 
 ## 1. Origin and anomaly (iron imprinting)
 
-Rescued during Genestealer purge on ice world Hoth-Secundus (ca. **462.M42**), Viggo was the *runt* (smallest, weakest) of a culled litter. Condemned by biology and about to receive Ragnar Blackmane’s mercy, he was sheltered by Alaric von Helis inside his Terminator suit’s reactor compartment to avoid systemic failure from hypothermia.
+Rescued during Genestealer purge on ice world Hoth-Secundus (**~545.M42**, Silent Vigil era), Viggo was the *runt* (smallest, weakest) of a culled litter. Condemned by biology and about to receive Ragnar Blackmane’s mercy, he was sheltered by Alaric von Helis inside his Terminator suit’s reactor compartment to avoid systemic failure from hypothermia.
 
-* **Imprinting:** The pup did not imprint Fenris or the pack; he imprinted on reactor vibration and promethium smell. He chose iron.
+* **Imprinting:** The pup did not imprint Fenris or the pack; he imprinted on reactor vibration and promethium smell. He chose iron.  
+* **Shame debt (sealed):** Lord Castellan had entered an **abbreviated *rubor thermicus*** window in the Patriarch tunnel (**Type B** — see [`crimson-wolf-rubor-thermicus.md`](../personae-command-index/doctrine-and-organs/crimson-wolf-rubor-thermicus.md)) and nearly killed the pup before **self-recapture** at the sight of the dead she-wolf and litter. Keeping Viggo alive filed thereafter as **atonement geometry**, not sentiment — though Martha’s kitchen and Elara would later teach the Wall other words for the same bond.
 
 ## 2. Tactical doctrine: “fast shadow”
 

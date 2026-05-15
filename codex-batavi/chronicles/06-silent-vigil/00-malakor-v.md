@@ -129,6 +129,18 @@ Alaric struck.
 
 No words before. No words after.
 
+For eleven seconds the sector was not silent.
+
+Auspex on the command net showed what officers would not name until *Reclusiam* gave it a word: the Castellan’s discrimination lattice failed. His silhouette dropped to four points of contact — knuckles and boot-toes, spine low, *Castra-Lupus* carried like something that had forgotten it was a wall. Industrial grey flushed crimson along joints and vent ribs as if the armor were catching up to the Chapter’s red code. Claws scored ferrocrete white-hot.
+
+Varro entered from the auxiliary hinge without vox.
+
+The Judex did not preach. He raised the Iron Verdict and met mass with geometry — Sentence field inverted not to ash the Wall but to bite through plate and black carapace until servos screamed and locked. Counter-strike. Bind. Retreat step. Again.
+
+Alaric’s helm turned toward the black armor. A half-second — witnesses swear to it — that was not tactical.
+
+Then the crimson drained from the plates as suddenly as it had come. The Castellan stood.
+
 The sector went silent for four seconds.
 
 Then Alaric’s vox keyed.
@@ -156,6 +168,10 @@ The data carried no annotation on the subject’s identity.
 There was, however, a separate report entry — marked *Vermilion* at once, Triumvirate-restricted access:
 
 > "Das Blutrecht stage: atypical manifestation. Absence of acute phase. Immediate rebound to deep depressive phase. Hypothesis: when the object of focused hatred is eliminated by the bearer, purpose-collapse is immediate and total. There is no resolution phase. The biological system that organized affective state around the target has no protocol for the target’s absence. Continuous monitoring authorized. Pharmacological intervention not recommended: the state is biological, not clinical. It has no cure. It has duration."
+
+Separate entry — *rubor thermicus* (RTC), same access:
+
+> "Post-termination predator motor bleed. Eleven seconds. Quadrupedal gait. Thermochrome flush on *Castra-Lupus*. IFF collapse logged. Containment: Varro, *ictus coercitionis*. Not Execratio. Not Versibar morphology. Castellan returned to self; full mnemonic retention. Recommend sealed nomenclature; open rolls: thermal incident."
 
 Drusus closed the report.
 

@@ -76,7 +76,9 @@
 - [incus-gravis-campaign.md](04-incus-gravis-tribunal/incus-gravis-campaign.md)
 
 ## 05-viggo-saga
-- [viggo-saga.md](05-viggo-saga/viggo-saga.md) — includes *Baptism of Oil and Ice*
+- [viggo-saga.md](05-viggo-saga/viggo-saga.md) — includes *Baptism of Oil and Ice*; *Decima* escort; RTC II (Type B)
+- [hoth-witness-dravic.md](05-viggo-saga/hoth-witness-dravic.md) — Brother-Sergeant **Cael Dravic** witness; report to Varro
+- [varro-anima-speculum.md](05-viggo-saga/varro-anima-speculum.md) — Judex *anima speculum*; chained wolf / Crimson Wolf soul-sight
 
 ## 06-silent-vigil — The Silent Vigil
 *(050.M42 – 150.M42 — The Chapter operates under a Castellan who is present but hollowed out. The Legati carry what Alaric cannot carry.)*

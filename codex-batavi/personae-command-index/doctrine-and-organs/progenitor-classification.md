@@ -14,18 +14,21 @@ Use this layer for **broad-facing** descriptions, infobox-style summaries, and d
 
 * **Founding:** **Unknown** or **redacted** on every register the Chapter has been shown. Do not assert a numbered Founding with a named progenitor Chapter unless a story beat explicitly introduces forged or leaked paperwork.
 * **Progenitor chapter:** **Unknown** / **not disclosed**. Outsiders may **guess** Space Wolves–line or Cawl-era Primaris stock; the Chapter **does not confirm** a single parent Chapter on the open record.
-* **Phenotype:** Battlefield and *Apothecarion* observers note **Russ-line–adjacent** markers (canine stress responses, ocular drift under strain, cultural “wolf” mnemonics) **plus** **non-standard variance** — second expression profile that does not map cleanly to Fenris baselines. This is enough to **hint chimerism** without naming archival components.
+* **Phenotype:** Battlefield and *Apothecarion* observers note **Russ-line–adjacent** markers **plus** **non-standard variance** — second expression profile that does not map cleanly to Fenris baselines. Open rolls may state **documented chimeric expression** on high clearance; they **must not** assert named parent pools the Chapter does not possess.
 * **Do not** state on this layer: Sons of Horus successor, Traitor Legion gene-seed, or “we descend from the XVI Legion.” Heraldry may **echo** old **frontal-wolf** transfer legibility **as art history** — not as a gene-seed receipt.
 
 ---
 
 ## Layer 2 — Sealed *Apothecarion* / Triumvirate (Vermilion and internal codices)
 
-Drusus’s working model — **still not a tithe-ticket**, but **true enough to guide medicine and doctrine**.
+**Chimerism is medically certain** — not a rumour, not a Fenris-adjacent guess. *Medicinae* can reproduce the dual-expression failure modes in tissue; the Chapter **is** a stabilized chimera.
 
-* **Chimeric architecture (internal shorthand):**
-  * **Strand α:** Primary scaffold **compatible with Russ-line** physiology and stabilisation expectations (Cawl-era Primaris frame).
-  * **Strand β:** **Secondary** component carrying **Heresy-era treason-imprint sensitivity** — the biological basis of *Blutrecht* and related “judge” responses. Internally described as **Mournival-pattern** or **archival tactical genotype** where a technical lexicon is needed; **not** classified as Traitor Legion stock *per se* — it is treated as **pre-Heresy loyalist archival material** merged under Mechanicum oversight (exact vault provenance **deliberately obscure** even here).
+What **no one** in the Chapter holds — including **Triumvirate**, **Master of the Forge**, and post–048.M42 sealed synthesis — is a **complete donor manifest**: which gene-pools, which vault lines, which Mechanicum merge receipts built the architecture. Cawl-era integration logs were **never disclosed** to Noviomagus at full resolution; surviving forge copies are **fragmentary or redacted**. Drusus’s **Strand α / Strand β** model is a **working map of behaviour**, not a sequenced pedigree.
+
+* **Chimeric architecture (internal shorthand — functional, not receipt):**
+  * **Strand α:** Primary scaffold **compatible with Russ-line** physiology and stabilisation expectations (Cawl-era Primaris frame) — **inferred**, not proven by tithe scroll.
+  * **Strand β:** **Secondary** component carrying **treason-imprint sensitivity** — basis of *Blutrecht* and related “judge” responses. Internally described as **Mournival-pattern** or **archival tactical genotype** where a technical lexicon is needed; **not** filed as “Traitor Legion stock” *per se* because **no authoritative pool name exists in Chapter custody** — only phenotype and hazard.
+* **Institutional honesty:** Batavi may say, in sealed rooms, *we are chimera*; they **cannot** say *we are X crossed with Y* without forgery or leak. Unknown pools are **policy and fact**, not performance.
 * **Loken Passage:** **Astrographic toponym only.** No implication that the corridor is named for gene-lineage confirmation on open record.
 
 ---

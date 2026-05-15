@@ -12,6 +12,8 @@ Not theater.
 
 The Chapter’s relationship to flesh that was not transhuman: not as pets, not as flock, not as audience. As weight. As schedules. As names that repeated until they became routes in a mind.
 
+---
+
 He had chosen Khan-Bator Prime first because the dossiers described it in the only language he trusted without poetry: **hazard**. Agri-industrial sprawl under chem moons, oxygen-rich fires waiting for a single mistake to become doctrine, silos tall enough to make gravity feel like an opinion. If the Batavi were going to perform virtue for a primarch, they would perform it where the air could punish pretense.
 
 He arrived without fanfare.
@@ -116,6 +118,8 @@ No crowd.
 
 No story.
 
+Silence was a tool. Silence made men fill emptiness with truth because lies needed ornament.
+
 Guilliman remained still for two heartbeats longer than dignity preferred.
 
 He had seen Astartes lift loads before. He had seen Astartes lift *worlds* before. This was not strength flexing. This was not kindness performed for witnesses. This was a man stopping his patrol because a familiar route had intersected a familiar failure mode, and the failure mode had a familiar face attached.
@@ -126,13 +130,11 @@ Brach was already watching—not Rhys, not Ganzorig, but the **geometry** of the
 
 Brach’s auspex clicked again.
 
-Guilliman let silence do its work.
-
-Silence was a tool. Silence made men fill emptiness with truth because lies needed ornament.
-
 Ganzorig exhaled, adjusted his gloves, and pushed the jack onto the secondary track Rhys had named. The roll smoothed. The laborer’s shoulders dropped a fraction. He did not look at Guilliman at all now—because Rhys had turned the moment back into work, and work was safer than primarchs.
 
 Guilliman waited until the patrol’s tail had crossed the next hazard stripe.
+
+Guilliman let silence do its work.
 
 Then he spoke.
 
@@ -144,19 +146,7 @@ He did not ask *which part*.
 
 He answered the way a Legatus answered when he knew his listener could smell evasion.
 
-— You saw a brother interrupt patrol to correct mass on a deck, my lord — Brach said. — You also saw him do it without being asked.
-
-Guilliman’s eyes stayed steady.
-
-— That is not an explanation. That is a restatement.
-
-Brach’s helm dipped once—acknowledgment, not submission.
-
-— Ganzorig works this silo line eleven months a year — Brach said. — His crew feeds the transit spine. Rhys has walked this patrol for three years. They are not friends. They do not eat together. They do not tell stories.
-
-Brach paused, and Guilliman recognized the pause as pedagogy rather than hesitation.
-
-— No, my lord, they are **known** — Brach said. — Known means predictable failure. Predictable failure is a liability we can budget. Unknown failure is what kills harvest windows.
+— You saw a brother interrupt patrol to correct mass on a deck, my lord — Brach said. — You also saw him do it without being asked. Ganzorig works this silo line eleven months a year. His crew feeds the transit spine. Rhys has walked this patrol for three years. They are not friends. They do not eat together. They do not tell stories. No, my lord, they are **known**. Known means predictable failure. Predictable failure is a liability we can budget. Unknown failure is what kills harvest windows.
 
 Guilliman listened to the word *budget* applied to a human spine.
 
@@ -164,23 +154,11 @@ He did not flinch.
 
 He had been alive long enough to know the Imperium always budgeted flesh. The question was whether the budget was honest.
 
-— You train them to treat familiarity as duty — Guilliman said.
-
-Brach’s answer came harder, cleaner.
-
-— We train them to treat familiarity as **telemetry** — Brach said. — Rhys did not stop because he likes Ganzorig. He stopped because a sprained loader becomes a delayed train, which becomes an empty silo, which becomes a hungry corridor, which becomes a riot, which becomes a purge. The Chapter pays for purges in time we do not have.
-
-Guilliman let his gaze return to the disappearing patrol.
-
-Rhys had not looked back.
-
-That mattered.
-
 — Is this a Khan-Bator dialect of duty — Guilliman said quietly. — Or Chapter law everywhere, merely spoken with your accent.
 
 Brach’s posture tightened by a hair—discipline, not defiance. A Legatus did not forget what stood beside him.
 
-— By your leave, my lord — Brach said. — I cannot speak for another seat’s air. I can speak for **this** air. On Khan-Bator, chemistry and harvest windows punish sentiment faster than heresy trials punish sinners. What you saw was not kindness. It was **risk accounting** wearing a human face because the human face is where the failure mode lives.
+— By your leave, my lord — Brach said. — I cannot speak for another seat’s air. I can speak for **this** air. On Khan-Bator, chemistry and harvest windows punish sentiment faster than heresy trials punish sinners. What you saw was not kindness. It was **risk accounting** wearing a human face because the human face is where the failure mode lives. We train it as **telemetry**, not as affection. Rhys did not stop because he likes Ganzorig. He stopped because a sprained loader becomes a delayed train, which becomes an empty silo, which becomes a hungry corridor, which becomes a riot, which becomes a purge. The Chapter pays for purges in time we do not have.
 
 He did not step back.
 
@@ -290,7 +268,11 @@ Measurable when it killed you.
 
 He walked on toward the next transit gate, toward the rest of a day that would not stay on Khan-Bator forever.
 
+---
+
 Between worlds, silence did different work.
+
+---
 
 Aethelgard smelled like lightning stored in cloth.
 
@@ -370,9 +352,9 @@ He let the boats come in under a sky that looked ready to punish relief.
 
 Only when the hull kissed shale and the mortals began their unloading math did Guilliman turn his head toward Sturmwahl.
 
-He let silence do its work again.
+Guilliman let silence do its work.
 
-Then he asked the same question he had asked on Khan-Bator—same shape, same blade, different air.
+Then he spoke.
 
 — Explain this — he said.
 
@@ -382,6 +364,12 @@ Sturmwahl’s harness gave its tiny readiness hum, involuntary, as if the Legatu
 
 Guilliman’s eyes narrowed.
 
+— When the boats are dry and the tide politics return — Guilliman said. — What survives of this binding? Ritual ash… or obligation.
+
+Sturmwahl’s voice stayed clipped, but it did not forget rank.
+
+— By your leave, my lord — Sturmwahl said. — On Aethelgard, what survives is **expectation**. The tribe does not keep songs about your kindness. They keep count of whether the giant returns when the sea turns wrong. If Degen vanishes after the kill, they will name him coward in the only language that matters here: **absence**.
+
 — You bind him to mortality with ceremony — Guilliman said.
 
 Sturmwahl did not step back.
@@ -389,12 +377,6 @@ Sturmwahl did not step back.
 — We bind him to **predictability** — Sturmwahl said. — Mortals predict what they can name. If Degen is named into the line, they will shout at him when he drifts. They will shame him when he reaches for glory. They will treat him like family in the only way that matters on a tide moon: **they will expect him to show up**.
 
 Guilliman listened to *expect* as a threat and a gift at once.
-
-— When the boats are dry and the tide politics return — Guilliman said. — What survives of this binding? Ritual ash… or obligation.
-
-Sturmwahl’s voice stayed clipped, but it did not forget rank.
-
-— By your leave, my lord — Sturmwahl said. — On Aethelgard, what survives is **expectation**. The tribe does not keep songs about your kindness. They keep count of whether the giant returns when the sea turns wrong. If Degen vanishes after the kill, they will name him coward in the only language that matters here: **absence**.
 
 Sturmwahl’s harness gave its tiny hum again—honesty, not theater.
 
@@ -516,7 +498,7 @@ He did not look at Guilliman.
 
 Guilliman let silence do its work.
 
-Then he asked the question that had become his probe—same shape, third air.
+Then he spoke.
 
 — Explain this — he said.
 
@@ -526,6 +508,12 @@ Corbec’s voice stayed low.
 
 Guilliman’s eyes narrowed.
 
+— If a Munitorum auditor heard you — Guilliman said. — He would file this as recruitment grooming.
+
+Corbec’s helm dipped—fractional respect, not submission theater.
+
+— By your leave, my lord — Corbec said. — Let him file it. *Prima* files it as **stability spend**. We do not buy the boy’s love. We buy his mother’s week. We buy the street’s silence. We buy one fewer knife drawn over a rumor. If that looks like grooming, then the Imperium’s categories are blind to how Noviomagus eats itself when we are not looking.
+
 — You weaponize compassion — Guilliman said.
 
 Corbec did not flinch.
@@ -533,12 +521,6 @@ Corbec did not flinch.
 — We weaponize **continuity** — Corbec said. — My lord, *Prima* files this under **billet truth**. The wooden blade is not a gift. It is a **tool** that keeps a boy’s hands busy with something other than myth. Myth kills faster than knives here.
 
 Guilliman listened to *billet truth* and heard the Chapter’s private language doing what private languages always did: making ethics sound like logistics so logistics could stay ethical.
-
-— If a Munitorum auditor heard you — Guilliman said. — He would file this as recruitment grooming.
-
-Corbec’s helm dipped—fractional respect, not submission theater.
-
-— By your leave, my lord — Corbec said. — Let him file it. *Prima* files it as **stability spend**. We do not buy the boy’s love. We buy his mother’s week. We buy the street’s silence. We buy one fewer knife drawn over a rumor. If that looks like grooming, then the Imperium’s categories are blind to how Noviomagus eats itself when we are not looking.
 
 Guilliman looked down at Elias.
 
@@ -551,3 +533,127 @@ He had seen enough worlds to know that inventory could be mercy.
 He had seen enough worlds to know that mercy could become a **quota**.
 
 He walked on, and the grey of Noviomagus followed him like a second sky.
+
+---
+
+The workers’ strip gave way to stairs that did not believe in comfort.
+
+Guilliman descended into heat that had weight—forge underlevels where the city’s true pulse lived, where lumen strips fought soot and lost, where every surface wore a film of metal dust that turned sweat into paste. Corbec did not narrate the transition. He simply moved as if the route were a supply line and silence were part of its clearance.
+
+At the mouth of a wide bay marked only by a stamped plate of regulations nobody read aloud, **Kadmos** was already at work.
+
+Master of the Forge. Mark III bulk scuffed to honest dullness. Mecadendrites folded behind his shoulders like tired predators, one limb extended with a jeweler’s insulting gentleness, the bronze prosthesis catching furnace light without flaunting it. He did not look up at Guilliman first.
+
+He looked at **hands**.
+
+The Ogryn’s name was **Gromm**—Munitorum issue tags on a rebreather harness, knuckles like hammer heads, eyes small and earnest in a face built for breaking doors. Gromm held tongs the way a man held a baby he feared he would crush: too much strength, too little geometry.
+
+Kadmos tapped the tongs once—tap, not slap—aligning the bite on a practice billet that would never become a blade worth naming.
+
+— Heat first — Kadmos said. — Color tells you when the metal is honest. Sound tells you when it lies.
+
+Gromm swallowed.
+
+— Want learn — Gromm rumbled. — Want make good.
+
+— Then listen with your hands — Kadmos said. — Not with your pride.
+
+He guided the lift—slow, incremental—until the billet’s skin began to change the way dawn changed when you watched long enough to admit it was not instant. Gromm’s breath hitched. Kadmos stopped the motion with a single raised finger, not touching the Ogryn, not shaming him.
+
+— There — Kadmos said. — That is the window. Narrow. Expensive. Do not blink through it.
+
+Gromm did not blink.
+
+He sweated instead, salt cutting tracks through forge grime.
+
+Kadmos let him hold the tongs alone for three heartbeats—long enough to be trust, short enough to be control—then corrected with two words and a micro-shift of wrist angle.
+
+— Again — Kadmos said.
+
+— Again — Gromm rumbled, like an oath he had been taught to repeat until it became muscle.
+
+Mortal forge adepts moved around them in a wide berth, not from fear of the Ogryn alone, but from the same instinct that kept men from walking through a primarch’s sightline when they still had fingers they liked. Guilliman stood in shadow and let the lesson continue until the billet cooled enough to be quenched without screaming.
+
+Steam rose.
+
+Gromm flinched at the hiss, then laughed once—ugly, surprised—when nothing exploded.
+
+Kadmos allowed himself one nod.
+
+— Good — Kadmos said. — Not finished. Good.
+
+Only then did the Master of the Forge turn his head toward Guilliman and Corbec.
+
+His posture remembered rank before his mouth did.
+
+— My lord — Kadmos said. — If this is an inspection, file what you see. If it is a visit, do not make him perform for you. He is not a trick.
+
+Guilliman let silence do its work.
+
+Then he spoke.
+
+— Explain this — he said.
+
+Corbec’s voice stayed low.
+
+— By your leave, my lord — Corbec said. — You saw **Armourium time** spent where most Chapters would spend **none**. Gromm is sanctioned labor on this floor. Untrained Ogryn strength breaks presses, warps rails, kills mortals when a billet slips. Trained strength is cheaper than dead adepts and cheaper than halted output. Kadmos is not teaching him fairy tales. He is teaching him **tolerance windows**.
+
+Guilliman’s eyes moved to Kadmos.
+
+— You speak to your weapons as companions — Guilliman said. — Do you speak to him the same way?
+
+Kadmos did not smile.
+
+— I speak to him like a machine that can learn — Kadmos said. — My lord, Gromm wants the work. Want is a torque vector. It can tighten a line… or snap it. My job is to keep the torque pointed into the forge instead of into someone’s skull.
+
+Gromm looked between them, confused by High Gothic speed, but not confused by tone. He straightened as if standing at attention might make him smaller.
+
+Guilliman considered the political smell of it—abhuman hands on a Chapter-adjacent floor, a primarch watching, an Administratum tag still stamped on a harness.
+
+— If a Mechanicus quaesitor saw this — Guilliman said. — He would file it as tech-heresy flirtation.
+
+Corbec’s helm dipped.
+
+— By your leave, my lord — Corbec said. — Let him file it. *Prima* files it as **throughput insurance**. The Mechanicus liaison signs what must be signed. The Ogryn signs with sweat. Kadmos signs with hours. If that looks like heresy, then the Imperium’s categories are blind to how Noviomagus keeps its fists closed around survival.
+
+Guilliman looked back at Gromm.
+
+— And if he fails — Guilliman said.
+
+Kadmos answered without heat.
+
+— Then we do what we always do — Kadmos said. — We stop the line before the line stops us. My lord, failure here is not moral. It is **metallic**. It makes noise before it makes martyrs.
+
+Gromm swallowed.
+
+— Gromm not fail — Gromm said. — Gromm **learn**.
+
+Kadmos’s mecadendrite lifted a fraction, not threatening—directing.
+
+— Then pick up the file — Kadmos said. — Not the fantasy. The file.
+
+Guilliman filed the scene the way he filed battle maps: not as proof of kindness, not as proof of cruelty, but as proof that the Batavi would spend **scarce genius** on problems other Astartes would dismiss as beneath them.
+
+He walked out of the heat without offering benediction.
+
+The grey followed him again.
+
+But now it smelled like metal, too.
+
+---
+
+The ninth encounter’s field audit ended where audits were supposed to end: not in applause, not in confession, but in **weight carried long enough to become habit**.
+
+Guilliman had watched chem silos, tide blood, chalk squares, and forge tongs. He had watched the Batavi spend time the way other institutions spent ammunition—deliberately, resenting waste, refusing to pretend that love and logistics were different species when the mesh was hungry.
+
+What remained was not sentiment.
+
+What remained was **a question too large for any Legatus to answer alone**.
+
+He turned his steps toward the corridors that did not belong to labor registries—toward the gold that did not ask permission to be heavy.
+
+Somewhere ahead, the Throne’s sentinel waited with a century’s worth of silence already filed.
+
+The inspection was not finished.
+
+It had only reached the door where **verdict** lived.

@@ -1,0 +1,24 @@
+---
+description: Every chronicle in codex-batavi/chronicles/ must be written as literary prose (novel style) unless explicitly ordered otherwise in the user's message.
+globs: codex-batavi/chronicles/**/*.md
+alwaysApply: false
+---
+
+# Chronicle Prose Standard
+
+All chronicle files are **literary prose**, not bullet-point summaries or wiki entries.
+
+## Required style
+- **Third-person close** or **first-person** depending on POV; match POV already established in the chapter.
+- **Dense, immersive sentences** — interior thought embedded in action, not separated into "he thought" tags.
+- **Sensory anchoring** — smell, sound, weight of armor, temperature, weather.
+- **Em-dash dialogue** — format `— Line — Character said.` (period after *said*, capital on continuation).
+- **No section-header bullet reports** — headers (`## I.`) are allowed as chapter breaks but content must be prose, not lists.
+- **No stat boxes or wiki infoboxes** inside the narrative body.
+
+## Exceptions
+- Header metadata block (Classification / When / Where / Who / Cross-references) stays at top in wiki format.
+- Explicit user instruction overrides for a single write.
+
+## Reference prose (house style)
+See `chronicles/00-foundation-war/chapter-01-mud-gospel.md` and `chronicles/06-silent-vigil/00-malakor-v.md`.

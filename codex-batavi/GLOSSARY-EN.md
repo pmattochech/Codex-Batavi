@@ -34,6 +34,13 @@ Use when writing or editing English prose. Extend as you go.
 | Dark Age of Technology | Never **DAoT** as main form in EN |
 | *Das Erbe* | Inheritance / biological triangle — German where canon uses it |
 | Furor / Exanimus / Execratio | Wolf’s Curse stages — proper labels |
+| **Crimson Wolf** (*Lupus ruber*) | ***Reclusiam*** name for Lord Castellan **thermal predator bleed** — not Execratio; see [`crimson-wolf-rubor-thermicus.md`](personae-command-index/doctrine-and-organs/crimson-wolf-rubor-thermicus.md) |
+| ***Rubor thermicus*** (RTC) | *Apothecarion* clinical name for the same event; **≤1** per engagement when failure occurs. **I:** Malakor V (**050.M42**, full). **II:** Hoth-Secundus (**~545.M42**, **Type B** abbreviated — Viggo pup). Third **full** window disputed. [`crimson-wolf-rubor-thermicus.md`](personae-command-index/doctrine-and-organs/crimson-wolf-rubor-thermicus.md) |
+| ***Ictus coercitionis*** | Varro’s **restraint stroke** — Crozius **Sentence** calibration to bind ***Castra-Lupus*** / carapace without killing Alaric |
+| **Death Wolf** | ***Reclusiam*** idiom for Varro when meeting **Crimson Wolf** — curse’s skull-face, not living predator |
+| ***Anima speculum*** | Varro’s soul-mirror judgment sense — reads curse as **wolf-soul** (chained + gladius pin vs fire-smoke **Crimson Wolf**) |
+| **Cael Dravic** | *Decima* Brother-Sergeant; Hoth-Secundus RTC II witness — [`hoth-witness-dravic.md`](chronicles/05-viggo-saga/hoth-witness-dravic.md) |
+| **Chimeric seed (certain / pools unknown)** | Medically **confirmed** chimera; **donor gene-pools not known** even to Triumvirate — [`progenitor-classification.md`](personae-command-index/doctrine-and-organs/progenitor-classification.md) |
 | **Versibar** | Execratio war-form. Plural **Versibars**. |
 | **Valerian Heresy** | Formal name for **Valerius** treason and **I** *Prima* rot (**Malakor V**, 050.M42); ~**300** Chapter losses (**KIA** / **Versibar**, theater-wide); **five** lawful *Prima* **witnesses**; leaves **~200** **Firstboot** core — see [`master-chronology.md`](personae-command-index/events-and-chronologies/master-chronology.md), [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md). |
 | **Reading B** (*Medicinae*) | **Malakor-era** filing split: **conflict-hour** **Versibar** manifests **separate** ledger from **pre-crisis** hold cohorts so rot-surge statistics do not absorb older cage-lineage data. |

@@ -4,35 +4,49 @@
 
 The storm on Hoth-Secundus was not weather; it was natural machining. Wind carried ice crystals so sharp and dense they worked like industrial sandblasting, scraping the industrial grey from the ceramite plates of Alaric von Helis’s *Castra-Lupus*. Every step the Lord Castellan took was a calculation of friction and gravity. The adamantium claws of his boots — the *Pillars of Noviomagus* — punched the permafrost with a dull cracking sound, anchoring his chassis tonnage against gusts that would have thrown a common man into the air.
 
-He walked alone, off the main flank. They stood at the epicenter of the Silent Vigil, the five-hundred-year span of rust and mourning that fell on the Cohors Batavorum after Valerius’s betrayal. For Alaric, the betrayal had not broken his heart; it had obliterated his ability to process reality outside purely mathematical parameters. He no longer lived. He operated. His mind was a vault locked from within, where depression showed not as sadness but as absolute, sterile, mechanical silence. The universe was a faulty engine, and he was only the part too heavy to discard.
+He was not alone on the ice — only **alone by choice**. A *Decima* escort cadre rode the purge with him: Captain **Markus Graile** and twelve anchor-guard brothers at a melt-line redoubt the auspex could still defend. They stood in the epicenter of the Silent Vigil, the long span of rust and mourning that fell on the Cohors Batavorum after Valerius’s betrayal. For Alaric, the betrayal had not broken his heart; it had obliterated his ability to process reality outside purely mathematical parameters. He no longer lived. He operated. His mind was a vault locked from within, where depression showed not as sadness but as absolute, sterile, mechanical silence. The universe was a faulty engine, and he was only the part too heavy to discard.
+
+Since Malakor he had grown prone to **solitary vectors** — issuing clean hold orders, then finding tactical excuses to scout ahead without escort. Graile had learned not to argue in the open channel; he held the redoubt, logged the Castellan’s bearing, and sent **Brother-Sergeant Cael Dravic** to the ravine lip with a scoped auspex when Alaric’s silhouette dropped below the ice line.
 
 Inside the helm adorned with the lupine skull mask, the retinal display bathed Alaric’s face in sick orange light. Diagnostic runes flickered at the edges of his vision. Hydraulic pressure: nominal. Reactor integrity: 98%. Blood dopamine and serotonin levels: irrelevant. He had disabled pain inhibitors, preferring the sharp discomfort of neural interface cables speared into his spine to the anesthetized void threatening to swallow him. Physical pain proved the flesh under the metal had not yet necrosed.
 
 On the primary vox channel, static hissed before a guttural howl and harsh laughter cut through. They were the Space Wolves of Ragnar Blackmane’s Great Company, celebrating the slaughter in the ice tunnels to the north. They had purged the Genestealer infestation with biological fury, drunk on hunt-glory. Alaric heard the sound with total disinterest. For the Batavi, “glory” was a failed concept, a waste of oxygen that did not change war’s geometry. He lowered the wolves’ channel until the Young King’s laughter became only a distant buzz, level with the noise of his own servomotors.
 
-Alaric continued his sweep patrol along the black-ice ravine. The Wall did not celebrate victories; the Wall only made sure nothing got through. Then his short-range auspex chirped. A thermal anomaly.
+Alaric continued his sweep patrol along the black-ice ravine. The Wall did not celebrate victories; the Wall only made sure nothing got through. His short-range auspex chirped — not one signature but two, stacked: a **Patriarch-class** heat bloom bleeding into the ice below the ravine lip, and farther on, a smaller carnage field already cooling.
 
-The visor switched to infrared. The scene revealed itself as a frozen abattoir. Genestealer carcasses lay with limbs twisted, alien blood crystallized in pools of dark amethyst. At the clearing’s center the killing was denser. Alaric closed in, snow compacting under his boots.
+The Wolves had sung north. This vector was his — and, on the net, Graile’s voice: *Hold the line. Acknowledged, my Lord.*
 
-On the crushed remains of three larger Genestealers lay the carcass of a Fenrisian Thunderwolf bitch. The massive predator had died guarding her flank, belly opened by chitinous claws, jaw still locked on an enemy’s throat even after biological death. Alaric analyzed the scene not with pity but with coroner’s precision. Coagulation time and blood temperature indicated the fight had ended less than twenty minutes ago. A tactical failure. The animal had chosen aggression over structural defense.
+He descended a fissure the auspex marked **sterile** only if he made it so. Somewhere above, Dravic watched the cave-mouth bloom red on thermal and did not yet understand what he was seeing. Full witness deposition: [`hoth-witness-dravic.md`](hoth-witness-dravic.md). The Patriarch’s brood had nested in a melt-cave under the permafrost — chitin, biomass, stolen wolf pelts. Alaric did not announce himself. **Wolf band** became **overload**: servos screaming, vapor jetting from *Castra-Lupus* ribs, industrial grey flushing crimson along joints until the suit looked like it had inherited the Chapter’s red code all at once.
 
-His auspex chirped again, marking a tiny heat signature. It was almost gone, flickering at the sensor’s limit, hidden under the gutted mother’s flank.
+He did not remember giving orders. He remembered **geometry** collapsing into appetite — quadrupedal charge, **Aethelgard claws** white-hot, tearing through brood-kin until the Patriarch’s skull-case parted under a downward rake and the cave went still. **No survivors.** Not in his ledger. Not in the cell.
 
-Alaric stopped. His chassis shadow fell across the dead.
+Objective done. Predator motor debt not done.
 
-He watched the snow move. From beneath the dead bitch’s hardened hide, something crawled out. It was a pup. The rest of the litter had surely been wiped in the attack, but this one had survived buried under the mother’s dead weight. It was white as the landscape that killed it, too small for a newborn of its species — a runt, the litter’s *runt*, the one Fenrisian biology would normally discard in the first winter.
+Alaric climbed back into the storm still wearing the heat. The second auspex contact — the ravine clearing — registered as prey-adjacent motion before it registered as zoology. He closed on the site in a low, wrong gait, knuckles and boot-toes punching ice, spine level with a hunter that was not quite **Versibar** and not quite Lord Castellan.
 
-The small animal shook violently, short paws failing to find purchase on blood-stained ice. It let out a pathetic whine, a thin sound nearly swallowed by the storm. Its caloric reserves were gone. In mechanical terms, the engine was failing from frozen fuel lines.
+The visor switched to infrared as he crested the lip. A frozen abattoir. Genestealer carcasses lay with limbs twisted, alien blood crystallized in pools of dark amethyst. At the clearing’s center the killing was denser — parallel to his tunnel, not caused by it. On the crushed remains of three larger Genestealers lay the carcass of a female Fenrisian Thunderwolf — the litter’s mother. The massive predator had died guarding her flank, belly opened by chitinous claws, jaw still locked on an enemy’s throat even after biological death. Coagulation time and blood temperature indicated the fight had ended less than twenty minutes ago. A separate failure. A separate war.
 
-Alaric looked down at the creature from nearly three meters. He felt no empathy. His mind, sunk in Silent Vigil apathy, had no room for compassion. What froze him, however, was the logical mirror of the sight. He saw an isolated system, abandoned in a hostile environment, struggling ineffectually against inevitable entropy. The pup was the universe’s miscalculation, rejected for weakness, alone in frozen dark.
+His auspex chirped again, marking a tiny heat signature almost gone, flickering at the sensor’s limit, hidden under the gutted mother’s flank.
 
-Alaric’s retinal display projected imminent collapse with cold precision. *Sixty seconds.* The creature’s pulse, caught by biometric sensors in *Castra-Lupus*, was a trembling graph in free fall. *Fifty seconds.* Hoth-Secundus’s cutting wind was already sheathing the white fur in a shroud of translucent crystals. The animal stopped whining. The energy to vocalize pain was gone; only the spasmodic tremor of muscles trying in vain to generate internal friction remained.
+He watched the snow move. From beneath the dead she-wolf’s hardened hide, something crawled out. A pup. The rest of the litter had surely been wiped in the attack, but this one had survived buried under the mother’s dead weight — white as the landscape, too small, the litter’s *runt*, the one Fenrisian biology would normally discard in the first winter.
 
-*Forty seconds.* The depressed Castellan’s mind logged the event as thermodynamic waste. There were no visible wounds on the creature. Bone structure was intact; internal organs had not been pierced by Genestealer claws. The failure was not structural; it was purely environmental. The biological system was shutting down for lack of adequate thermal insulation. For the archetype of the Industrial Beast, whose existence had been reduced to system maintenance and loss management, that organism’s death seemed… inefficient.
+The small animal shook violently, short paws failing to find purchase on blood-stained ice. It let out a pathetic whine, nearly swallowed by the storm.
+
+Alaric’s shadow fell across it — not upright. **Crimson Wolf** geometry. The Father’s Hand rose, adamantium claws incandescent, descending on the last moving heat in the clearing because his IFF lattice still believed **prey remained**.
+
+He stopped.
+
+The claws hung a handspan from the runt’s spine. He saw, in the same red-lit frame, the she-wolf’s open belly, the litter’s absence, the pup’s size — not a Genestealer, not a traitor, not Valerius — only a system that had already lost everything except one spark. The debt from the tunnel collided with that image. **Alpha-frequency** caught his own wrist through the carapace interface — not mercy, **recapture**.
+
+Grey flooded back into the plates. Alaric rose to **~2.85 m** on shaking servos. The abbreviated burn left him light-headed in a way Malakor’s longer window never had: **little caloric ruin**, **total mnemonic ruin**. He would file the tunnel as necessary. He would file the pup as **debt**.
+
+The depressed Castellan’s mind reached for its old armor. *Sixty seconds.* The creature’s pulse, caught by biometric sensors in *Castra-Lupus*, was a trembling graph in free fall. *Fifty seconds.* Hoth-Secundus’s wind sheathed the white fur in translucent crystals. The animal stopped whining. Only muscle tremor remained.
+
+*Forty seconds.* There were no visible wounds on the creature. Bone structure intact. Failure was environmental — thermal insulation, not claws. He would not let another spark die in the same hour he had learned how easily sparks were mistaken for targets.
 
 The servomotors in Alaric’s legs hummed low as he broke his stance. **~1.7 tons** of industrial grey mass descended. His armor’s right knee struck the permafrost with a dull boom, crushing frozen xenos carapace under the boot.
 
-Alaric extended the Father’s Hand. The left gauntlet, bare of mounted weapons and ending in heavy adamantium claws, hovered over the pup. He did not touch it at once. Exhaust vents on his forearms released a wash of residual heat, a thin haze of ozone and superheated air from the dorsal reactor.
+Alaric extended the Father’s Hand. The left gauntlet, bare of mounted weapons and ending in heavy adamantium claws, hovered over the pup — claws cooled now, deliberate. He did not touch it at once. Exhaust vents on his forearms released a wash of residual heat, a thin haze of ozone and superheated air from the dorsal reactor.
 
 The pup, blind with cold and seconds from clinical death, felt the shift in thermal pressure. With an effort that defied the countdown on Alaric’s display, the small white mass dragged itself across blood-stained ice. It sought no master; it sought survival. The wet, frozen muzzle touched the cold adamantium at Alaric’s fingertips, but heat radiating from the palm plate’s joints was enough for the animal to exhale long and curl against the metal palm.
 
@@ -44,7 +58,7 @@ Before the Lord Castellan could rationalize the action, heavy boots crushing sno
 
 Ragnar Blackmane, Young King of the Space Wolves, emerged from the blizzard. Unlike Alaric’s matte grey silence, Ragnar was an explosion of wild vitality. His armor wore bone fetishes swaying in the wind, bright runes, and alien blood still steaming on blue-grey plates. Behind him, two Wolf Guard formed a perimeter, scenting the air through their helm breathers. The contrast was absolute: the pack that exulted in war, and the anchor that only bore its weight.
 
-Ragnar approached, feline eyes sizing up the carnage. He looked at the gutted Thunderwolf bitch and bowed his head in brief, silent tribute to the fallen predator.
+Ragnar approached, feline eyes sizing up the carnage. He looked at the gutted she-wolf and bowed his head in brief, silent tribute to the fallen predator.
 
 — She fought like a saga legend — Ragnar murmured, breath condensing in the frozen air as he removed his helm to smell the battlefield. — She cost three monsters their lives. The Allfather will receive her with honor.
 
@@ -68,7 +82,7 @@ Alaric’s depressed mind processed Ragnar’s words through a strictly utilitar
 
 Ragnar barked a harsh laugh, a dry yap that never reached his eyes. He lowered the weapon but did not holster it.
 
-— Hypothermia, wounds, genetic weakness… the names your forges give it don’t matter — the Space Wolf shot back, gesturing with his free hand at the dead bitch’s carcass. — His thread of life is too thin. Nature says only the strong survive winter. It’s pack law. If you carry him back to the ship, he’ll die on the deck, and you’ll have robbed him of a clean death under open sky.
+— Hypothermia, wounds, genetic weakness… the names your forges give it don’t matter — the Space Wolf shot back, gesturing with his free hand at the dead she-wolf’s carcass. — His thread of life is too thin. Nature says only the strong survive winter. It’s pack law. If you carry him back to the ship, he’ll die on the deck, and you’ll have robbed him of a clean death under open sky.
 
 Alaric looked down. The white pup had stopped struggling and now huddled in a tiny ball against the side of the Lord Castellan’s adamantium boot, trying to draw any scrap of heat from cold metal. For Ragnar, that was nature culling an error. For Alaric, it was an engine stalling for lack of oil.
 
