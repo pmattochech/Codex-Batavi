@@ -1,8 +1,10 @@
 # Cohort standard kit (Silence, Shadows, Stasis, Nullity)
 
-*The four specialty cohorts are **job positions** replicated inside **every** Vexillatio (50 Marines each). Their **weapon doctrine** is **Chapter-wide**: the same role gets the same tool mix on Noviomagus as on **Marco de Vetra**. **Vexillatio** only changes **which frontier pattern** is stamped on a given bolter — see [frontier-patterns-primaris.md](frontier-patterns-primaris.md).*
+*The four specialty cohorts are **job positions** replicated inside **every** Vexillatio (50 Marines each). Their **weapon doctrine** is **Chapter-wide**: the same role gets the same tool mix on Noviomagus as on **Marco de Vetra**. **Vexillatio** changes **which frontier pattern** is stamped on a given bolter — see [frontier-patterns-primaris.md](frontier-patterns-primaris.md) — and, for **pure line** only, may elevate **melee bias** (notably **Vex. V (*Quinta*)** and **chainsword** culture; §5).*
 
 **Minor alterations** below mean: **support weapon**, **sidearm**, **accessory load**, or **maintenance package** — not a different tactical identity per Vexillatio.
+
+**Command pairing:** In every Vexillatio, the fifty **Shadows** **operate under Silence** — lattice routing, pattern debt, custody handoff, and *Strategium* tasking run through the **ivory** chain; black pauldrons execute vertical and deniable geometry **on Silence-priced targets**. Stasis and Nullity remain parallel peers, not subordinate to ivory.
 
 ---
 
@@ -20,17 +22,19 @@
 
 **Doctrinal note:** Patrol dress may be **service armor** or discreet **aquila** — see [specialty-cohorts.md](specialty-cohorts.md) §3. Weaponry still maps to the table above when armor is full Astartes plate.
 
+**Shadows contingent (command):** The fifty **Shadows** in the same Vexillatio **file under Silence** for operational orders. Ivory reads the mesh and prices mouths, cells, and pattern debt; black pauldrons close ducts, kill-boxes, and vertical threats **after** that pricing — or on emergency lattice ticks from the Legatus relay. *Strategium* still counts Shadows as their own fifty for strength tables and instructor rotation; **tactical subordination** to Silence is not a merger of pauldron roles.
+
 ---
 
-## 2. Shadows Cohort (infiltration)
+## 2. Shadows Cohort (infiltration — under Silence)
 
-**Mission set:** Labyrinth war, ducts, kill-box preparation, blind or low-light entry.
+**Mission set:** Labyrinth war, ducts, kill-box preparation, blind or low-light entry — **executed under Silence lattice** (§1).
 
 **Standard long arm:** **Bolt rifle** with **suppressor** configuration where mission allows; **stalker-pattern** barrels for overwatch pairs.
 
 **Sidearm:** **Bolt pistol**; **heavy bolt pistol** for breaching teams.
 
-**Melee:** **Chainsword** primary; **combat knife** silent work.
+**Melee:** **Combat knife** primary for silent throat-work and hatch geometry; **power gladius** for armored targets and stim-rigid flesh. **Chainsword** is **not** the Shadow cohort default — the saw’s scream betrays duct war; *Quinta*’s chainsword culture belongs to **pure line** and assault cells (§5), not to black pauldrons.
 
 **Support / accessories:** **Smoke**, **photo-absorbent** cloak mounts, **grav-chute** or **rappel** kit by operation. **Melta** charges for sealed hatches — small issue count, **same doctrine** everywhere.
 
@@ -72,8 +76,8 @@
 
 | Cohort | Long arm (modal) | Melee (modal) | Typical extras |
 |--------|------------------|---------------|----------------|
-| **Silence** | Compact bolt / carbine | Knife → gladius | Auspex, concussion, restraints |
-| **Shadows** | Suppressed / stalker bolt | Chainsword | Smoke, melta charge, grav-chute |
+| **Silence** | Compact bolt / carbine | Knife → gladius | Auspex, concussion, restraints; **commands Shadows** |
+| **Shadows** | Suppressed / stalker bolt | Knife → gladius | Smoke, melta charge, grav-chute; **under Silence** |
 | **Stasis** | Bolt rifle + shield | Gladius / maul | Scuta pins, extra mags |
 | **Nullity** | Bolt rifle (marksman variants possible) | Gladius + null rod cells | Haruspex liaison, warding |
 
@@ -81,7 +85,19 @@
 
 ---
 
-## 6. Related
+## 6. Vexillatio melee bias — *Quinta* (chainsword primary)
+
+**Scope:** This section applies to **pure line** and **assault-certified** cells in **Vex. V (*Quinta*)** only. **Cohort kits** (§§1–4) are **unchanged** in every Vexillatio, including Aethelgard: **Shadows** remain **knife → gladius** under **Silence**.
+
+**Vex. V (*Quinta*)** — seat **Aethelgard Prime** — carries the Chapter’s densest **storm-assault** and **jump** certification. There, **chainsword** becomes the **primary melee weapon** for line brothers and descent teams: saw-mass clearance after boltstorm landing, tide-moon verticals, and the **brutal closure tempo** the mesh associates with Foundation crucible habit and the **Wild Hunt** discipline when enemy mass or Waaagh! resonance drives hypermetabolic assault ([projection-aurea-wolfs-curse.md](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md), [disciplines-and-curia-vexilli.md](../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md)).
+
+**Power gladius** remains issued and trained — *Second Blade* doctrine does not vanish on Aethelgard — but *Quinta* **line** culture treats the gladius as **finish** and the **chainsword** as **default** in assault manifests. **Power axes** and **heavy bolt pistols** share the same modal load as [frontier-patterns-primaris.md](frontier-patterns-primaris.md) (*Aethelgard-pattern*).
+
+**Legatus seat:** [dossier-armin-sturmwahl.md](../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md). **Field exemplum:** [gutgrind-descent.md](../chronicles/14-vexillum-chronicles/gutgrind-descent.md).
+
+---
+
+## 7. Related
 
 - [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) — heraldry  
 - [specialty-cohorts.md](specialty-cohorts.md) — doctrine and iconography  

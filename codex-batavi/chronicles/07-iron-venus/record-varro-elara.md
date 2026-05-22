@@ -20,7 +20,7 @@ Alaric as a weather front. The basket against the breastplate — cruel fable pr
 
 When Drusus advanced on the “specimen,” the **snarl** came.
 
-I did not look away from the lenses. Private channel, economy of syllables — *Jagd? Frenzy?* The answer I gave was not comfort; it was **spiritual diagnosis**: no. Not a hunt. Sacred territory made reflex — the wolf saying *no* before reason had time to vote. Drusus moved as one defusing a bomb with bare hands. I let him work. My function, in that minute, was to **hold the invisible field** so instinct did not turn into accidental death statistics on the white table.
+I did not look away from the lenses. Private channel, economy of syllables — *Wild Hunt? Frenzy?* The answer I gave was not comfort; it was **spiritual diagnosis**: no. Not a hunt. Sacred territory made reflex — the wolf saying *no* before reason had time to vote. Drusus moved as one defusing a bomb with bare hands. I let him work. My function, in that minute, was to **hold the invisible field** so instinct did not turn into accidental death statistics on the white table.
 
 When Alaric yielded space and she breathed under the scanner, the silence that settled in him was not death’s. It was **after** the storm — the void in which, for the first time in centuries I dare count, something inside the Castellan **stopped screaming** without having been killed.
 

@@ -16,7 +16,7 @@ Lord Castellan **Alaric von Helis** stood motionless beside two meters of armore
 
 He was the embodiment of Batavi doctrine: *Iron within, iron without*. Alaric was fused to the **Castra-Lupus armor**, the apex of Master of the Forge Kadmos’s brutalist genius. The chassis—a colossal hybrid between a Dreadnought and Terminator plate—had no pistons that cracked or servos that groaned under load. Kadmos had designed the Castra-Lupus reinforcement systems for one purpose: to keep the suit from flying apart under the raw force of Alaric himself.
 
-The Lord Castellan’s physiology, refined by *Das Erbe*, gave him agility and physical power that made *Tacticus* armor look like a slow shackle. Inside that mountain of industrial gray (*Mechanicus Standard Grey*), Alaric moved with a heretical lightness, as if he wore only a linen tunic and silk trousers. The armor did not carry him; it tried, desperately, to keep up.
+The Lord Castellan’s physiology, refined by chimeric predisposition, gave him agility and physical power that made *Tacticus* armor look like a slow shackle. Inside that mountain of industrial gray (*Mechanicus Standard Grey*), Alaric moved with a heretical lightness, as if he wore only a linen tunic and silk trousers. The armor did not carry him; it tried, desperately, to keep up.
 
 The **Crimson** helm, wolf-snouted, gleamed with yellow lenses that scanned the emptiness. In his hands, the sharp claws were extensions of his own will. Behind him, the red cloak made from the hide of a **Batav Wolf** and his white *Thunderwolf* lay across the crimson shoulder plates where the Wolf with Gladius and the Imperial Eagle marked his lineage.
 
@@ -426,7 +426,7 @@ Varro stepped forward; his armored foot on adamant sounded like a gunshot. His n
 
 — **Triumvirate…** — Varro’s voice on the private channel was no longer voice; it was a wounded animal’s growl finding its torturer. — **My sensors are saturated with rape trace and ludic mutilation. This is not tithe. This is Malakor Majoris’s moral latrine dumped in our house.**
 
-Alaric von Helis stayed motionless, but his mind burned on the Noosphere. He looked at the mutilated girl—and for a microsecond *Das Erbe* faltered. He did not see an unknown abhuman; he projected Noviomagus girls, artisans’ daughters he protected, **Imprinted Humans** his battle-brothers loved in silent devotion.
+Alaric von Helis stayed motionless, but his mind burned on the Noosphere. He looked at the mutilated girl—and for a microsecond chimeric predisposition faltered. He did not see an unknown abhuman; he projected Noviomagus girls, artisans’ daughters he protected, **Imprinted Humans** his battle-brothers loved in silent devotion.
 
 Across the hangar, **boltguns** were gripped until gauntlet metal groaned. Batavi did not show feeling through mobile faces, but the pack’s fury was physical pressure that made Malakor servitors atop the ramp begin to shake with terror they did not yet understand.
 

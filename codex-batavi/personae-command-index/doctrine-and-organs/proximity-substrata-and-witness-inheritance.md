@@ -55,7 +55,7 @@ This is how substrata **drifts** without a reform council: each intake **nudges*
 
 **Elevate** (toward friction-rite or formal annex) when the habit:
 
-* stabilizes **silence discipline** or **anchoring** under *Das Erbe* pressure;
+* stabilizes **silence discipline** or **anchoring** under chimeric predisposition pressure;
 * binds **auxilia** oath without softening the Wall’s refusal to negotiate with defeat;
 * gives mortals a **predictable grief tempo** Batavi can **support** without performing **cheap hope**.
 

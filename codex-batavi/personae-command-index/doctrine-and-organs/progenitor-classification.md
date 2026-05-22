@@ -1,6 +1,6 @@
 # Progenitor classification & narrative POV layers
 
-**Purpose:** Lock how *Cohors Batavorum* gene-lineage is **spoken about** in-universe and in out-of-universe wiki-style summaries — without contradicting established biology (*Das Erbe*, Wolf’s Curse) or inviting “traitor-legion successor” readings.
+**Purpose:** Lock how *Cohors Batavorum* gene-lineage is **spoken about** in-universe and in out-of-universe wiki-style summaries — without contradicting established biology (chimeric predisposition, Wolf’s Curse) or inviting “traitor-legion successor” readings.
 
 **Workspace enforcement:** The same rules are summarized as mandatory AI/author instructions in **`.cursorrules` §0.2** (repository root).
 
@@ -27,7 +27,7 @@ What **no one** in the Chapter holds — including **Triumvirate**, **Master of 
 
 * **Chimeric architecture (internal shorthand — functional, not receipt):**
   * **Strand α:** Primary scaffold **compatible with Russ-line** physiology and stabilisation expectations (Cawl-era Primaris frame) — **inferred**, not proven by tithe scroll.
-  * **Strand β:** **Secondary** component carrying **treason-imprint sensitivity** — basis of *Blutrecht* and related “judge” responses. Internally described as **Mournival-pattern** or **archival tactical genotype** where a technical lexicon is needed; **not** filed as “Traitor Legion stock” *per se* because **no authoritative pool name exists in Chapter custody** — only phenotype and hazard.
+  * **Strand β:** **Secondary** component carrying **treason-imprint sensitivity** — basis of the Cull and related “judge” responses. Internally described as **Mournival-pattern** or **archival tactical genotype** where a technical lexicon is needed; **not** filed as “Traitor Legion stock” *per se* because **no authoritative pool name exists in Chapter custody** — only phenotype and hazard.
 * **Institutional honesty:** Batavi may say, in sealed rooms, *we are chimera*; they **cannot** say *we are X crossed with Y* without forgery or leak. Unknown pools are **policy and fact**, not performance.
 * **Loken Passage:** **Astrographic toponym only.** No implication that the corridor is named for gene-lineage confirmation on open record.
 
@@ -39,9 +39,9 @@ What **no one** in the Chapter holds — including **Triumvirate**, **Master of 
 |-----|-------------------|-----------------------------------------------|
 | Remembrancer / outsider | “Founding unclear,” “wolf-marked Primaris,” “non-Fenris culture,” “suspected chimeric stabilisation” | Named “Loken-line inheritance” as **genetic** fact |
 | Line Battle-Brother | “Our seed fights us,” “the chimera,” “two hungers” | Primarch laundry lists, “two primarchs” |
-| Drusus / Triumvirate (internal) | Strand α/β, *Das Erbe* axes, Mournival-pattern imprint | Broadcasting full archival theory to outsiders without plot reason |
+| Drusus / Triumvirate (internal) | Strand α/β, chimeric predisposition axes, Mournival-pattern imprint | Broadcasting full archival theory to outsiders without plot reason |
 
-**Principle:** Characters **discover** and **theorise** on a timeline; early M42 ignorance stays valid per existing causality rules. After ~048.M42, Drusus’s formal taxonomy (*Das Erbe* named) belongs in **clinical** and **Triumvirate** scenes.
+**Principle:** Characters **discover** and **theorise** on a timeline; early M42 ignorance stays valid per existing causality rules. After ~048.M42, Drusus’s formal taxonomy (chimeric predisposition named) belongs in **clinical** and **Triumvirate** scenes.
 
 ---
 

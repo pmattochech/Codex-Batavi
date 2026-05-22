@@ -64,7 +64,7 @@ Every **Legatus** *Alabarda Vexillum* for **2nd–9th Vexillatio** carries **fou
 |------|-----------------------------------------------|----------------------------|------------------|
 | **II** *Secunda* | **Lex grid / crosshair** — Castra-Vetera, measured fire | **Hive Dominus compliance** — ministry spires held **without** collateral breach; measured fire register | [hive-dominus-compliance.md](../../chronicles/14-vexillum-chronicles/hive-dominus-compliance.md) · [AAR](../../chronicles/vexillum-register/aar-vex-ii-hive-dominus-compliance.md) |
 | **III** *Tertia* | **Hazard chevron / silo cylinder** — Khan-Bator, chem–thermal | **Vigilax triangulation** — Legatus drew **kill-box geometry** with Drusus while Varro held the square | [vigilax-triangulation.md](../../chronicles/14-vexillum-chronicles/vigilax-triangulation.md) · [vigilax-incident.md](../../chronicles/12-vigilax/vigilax-incident.md) · [AAR](../../chronicles/vexillum-register/aar-vex-iii-vigilax-triangulation.md) |
-| **IV** *Quarta* | **Weighted chevron / grav boot** — Incus-Gravis high-G | **Ruhe defense** — static grav-locked line under **Tyranid** veil; *Strategium* cites as Quarta reference hold | [ruhe-defense.md](../../chronicles/14-vexillum-chronicles/ruhe-defense.md) · [AAR](../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md) · [master-chronology.md](../events-and-chronologies/master-chronology.md) §III · **Working art (AI facsimile — not a geometry lock):** [`vexillum-vexillatio-iv-quarta.png`](../../lore-images/vexillum-vexillatio-iv-quarta.png) |
+| **IV** *Quarta* | **Weighted chevron / grav boot** — Incus-Gravis high-G | **March defense** — static grav-locked line under **Tyranid** veil; *Strategium* cites as Quarta reference hold | [ruhe-defense.md](../../chronicles/14-vexillum-chronicles/ruhe-defense.md) · [AAR](../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md) · [master-chronology.md](../events-and-chronologies/master-chronology.md) §III · **Working art (AI facsimile — not a geometry lock):** [`vexillum-vexillatio-iv-quarta.png`](../../lore-images/vexillum-vexillatio-iv-quarta.png) |
 | **V** *Quinta* | **Descent vector / drop slot** — Aethelgard assault | **Gutgrind Descent** — **V** *Quinta* **jump** clearance of Ork **scrap-spire** on shepherd moon **Selene-Black** (Aethelgard system); *post–mesh* certified triumph (Foundation War **Aethelgard opening** predates **field-4** register logic) | [gutgrind-descent.md](../../chronicles/14-vexillum-chronicles/gutgrind-descent.md) · [AAR](../../chronicles/vexillum-register/aar-vex-v-gutgrind-descent.md) |
 | **VI** *Sexta* | **Twin pillars / breach frame** — Bifrons-Ferrum siege | **Korvus breach** — **simultaneous** outer vault + inner spine on **twin** gulf forts (*heretic Astartes*–held); siege clock **single tick** | [korvus-twin-breach.md](../../chronicles/14-vexillum-chronicles/korvus-twin-breach.md) · [AAR](../../chronicles/vexillum-register/aar-vex-vi-korvus-breach.md) |
 | **VII** *Septima* | **Hex facet / lens disc** — Vitreus plasma | **Null-Vent Covenant** — **plasma** and **photonic** bleed **contained** without forgeship or hive **detonation**; *Armourium* reference discipline | [null-vent-covenant.md](../../chronicles/14-vexillum-chronicles/null-vent-covenant.md) · [AAR](../../chronicles/vexillum-register/aar-vex-vii-null-vent-covenant.md) |
@@ -81,7 +81,7 @@ Every **Legatus** *Alabarda Vexillum* for **2nd–9th Vexillatio** carries **fou
 
 > **A feral wolf — transhuman lupine monstrosity, not the clean chapter stencil — transfixed or slain by a sword** (gladius-type, **white** blade / **black** contour to echo the seal’s blade law).
 
-**Meaning (register language):** execution of **First Legatus treason** — the **death of Valerius’s path** (*Lupercal* claim, I Vexillatio rot) by **Triumvirate will** and the Castellan’s blade at **Malakor V**. It is **not** a trophy skin; it is **doctrine made cloth** — *Varro*’s oath and *Blutrecht* geometry in heraldic form.
+**Meaning (register language):** execution of **First Legatus treason** — the **death of Valerius’s path** (*Lupercal* claim, I Vexillatio rot) by **Triumvirate will** and the Castellan’s blade at **Malakor V**. It is **not** a trophy skin; it is **doctrine made cloth** — *Varro*’s oath and the Cull geometry in heraldic form.
 
 **Companion fields (still four, but hierarchy flips):**
 
@@ -107,6 +107,7 @@ Every **Legatus** *Alabarda Vexillum* for **2nd–9th Vexillatio** carries **fou
 
 ## 6. Related
 
+* [alabarda-head-groups.md](../../arsenal-and-logistics/alabarda-head-groups.md) — *Alabarda* **head groups** per Vexillatio (I–IX); bearer authority; cloth unchanged  
 * [intro-and-heraldry.md](intro-and-heraldry.md) — *Alabarda Vexillum* doctrine  
 * [military-hierarchy.md](../doctrine-and-organs/military-hierarchy.md) §3 — Legatus / *Decima*  
 * [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md) — quick ref  

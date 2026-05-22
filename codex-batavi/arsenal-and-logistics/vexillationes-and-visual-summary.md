@@ -28,8 +28,8 @@ The **500** ceiling breaks into **cohorts (200)**, **pure line**, **organic supp
 
 | Component                                         | Strength | Notes                                           |
 | ------------------------------------------------- | -------- | ----------------------------------------------- |
-| Silence Cohort                                    | **50**   | Right pauldron ivory                            |
-| Shadows Cohort                                    | **50**   | Right pauldron black                            |
+| Silence Cohort                                    | **50**   | Right pauldron ivory; **Shadows file under Silence** (lattice) |
+| Shadows Cohort                                    | **50**   | Right pauldron black; executes Silence-priced vertical work   |
 | Stasis Cohort                                     | **50**   | Right pauldron gunmetal                         |
 | Nullity Cohort                                    | **50**   | Right pauldron cobalt blue; link to *Librarium* |
 | **Cohort subtotal**                               | **200**  |                                                 |

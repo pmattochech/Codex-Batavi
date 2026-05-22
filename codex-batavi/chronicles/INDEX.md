@@ -77,8 +77,13 @@
 
 ## 05-viggo-saga
 - [viggo-saga.md](05-viggo-saga/viggo-saga.md) — includes *Baptism of Oil and Ice*; *Decima* escort; RTC II (Type B)
-- [hoth-witness-dravic.md](05-viggo-saga/hoth-witness-dravic.md) — Brother-Sergeant **Cael Dravic** witness; report to Varro
+- [garmr-witness-dravic.md](05-viggo-saga/garmr-witness-dravic.md) — Brother-Sergeant **Cael Dravic** witness; report to Varro
 - [varro-anima-speculum.md](05-viggo-saga/varro-anima-speculum.md) — Judex *anima speculum*; chained wolf / Crimson Wolf soul-sight
+- [01-varro-drusus-after-garmr.md](05-viggo-saga/01-varro-drusus-after-garmr.md) — immediate Varro–Drusus concern conference; formal summons decision
+- [02-triumvirate-summons-breached.md](05-viggo-saga/02-triumvirate-summons-breached.md) — Alaric misses formal summons; breach escalates to palace intervention
+- [03-palace-of-the-wall.md](05-viggo-saga/03-palace-of-the-wall.md) — Varro + Drusus confront Alaric; explicit Black Cells warning
+- [04-seed-in-iron.md](05-viggo-saga/04-seed-in-iron.md) — aftermath and setup for Radulf Castrin pressure
+- [05-radulf-and-the-wall.md](05-viggo-saga/05-radulf-and-the-wall.md) — private audience: Radulf Castrin confronts Alaric with honor-weight and command restoration terms
 
 ## 06-silent-vigil — The Silent Vigil
 *(050.M42 – 150.M42 — The Chapter operates under a Castellan who is present but hollowed out. The Legati carry what Alaric cannot carry.)*
@@ -88,6 +93,12 @@
 - [02-strategium-silence.md](06-silent-vigil/02-strategium-silence.md) ✅ — Silent Vigil. Strategium, Viggo as anchor, orders through the wolf, Alaric’s collapse and Drusus’s clinical discovery.
 - [03-without-distinction.md](06-silent-vigil/03-without-distinction.md) ✅ — ca. 099.M42. Halvard, Legatus of the I Vexillatio. Post-battle protocol without celebration or praise: maintenance, replenishment, chaplain, descent to the cells. The weight of being functional as the only form of honor.
 - [04-last-heat-of-the-wall.md](06-silent-vigil/04-last-heat-of-the-wall.md) ✅ — Martha’s kitchen, Elara as infant and childhood with Viggo, Viggo’s death (Elara age twelve, after Luna Sigma), Mantle of Providence, bones on Fenris.
+- [05-fracture-recognition.md](06-silent-vigil/05-fracture-recognition.md) ✅ — sealed recognition phase: Varro + Drusus map post-second Red Wolf breach pattern and open anti-inversion redundancy drafting.
+- [06-old-voices-council.md](06-silent-vigil/06-old-voices-council.md) ✅ — council ring session: Corbec + Armin support contingency codification; custody tiers and lethal terminal doctrine are stated.
+- [07-decima-gatekeepers.md](06-silent-vigil/07-decima-gatekeepers.md) ✅ — Kadmos + Otho implementation phase: limited-custody execution drills, command gating, and Decima lock discipline under Tyvar oversight.
+- [08-protocol-forged-in-iron.md](06-silent-vigil/08-protocol-forged-in-iron.md) ✅ — doctrine ratification and boundary disclosure to Alaric (objective-only access, continuity-over-comfort accepted).
+- [09-war-game-black-mirror.md](06-silent-vigil/09-war-game-black-mirror.md) ✅ — controlled anti-Alpha validation exercise; Decima proves gate discipline under false-command pressure and noise injection.
+- [10-proof-of-chain.md](06-silent-vigil/10-proof-of-chain.md) ✅ — live continuity test under controlled Castellan absence window; chain law holds without unauthorized drift.
 
 ## corbec-the-first-legatus
 *(Corbec POV sub-chronicle, moved out of Silent Vigil for readability.)*
@@ -164,12 +175,20 @@ Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in
 Longform narrative for field-4 certified operations (each links back to its AAR).
 
 - [INDEX.md](14-vexillum-chronicles/INDEX.md) — chronicle list + pointers to **III** / **VIII** / Malakor-adjacent material
-- [ruhe-defense.md](14-vexillum-chronicles/ruhe-defense.md) — **IV** *Quarta*, **048.M42** Tyranid veil / shingle line; **Branimir Vorhalt** POV; Drusus coefficients; *Alabarda* **Ruhe** reference hold.
+- [ruhe-defense.md](14-vexillum-chronicles/ruhe-defense.md) — **IV** *Quarta*, **048.M42** Tyranid veil / shingle line; **Branimir Vorhalt** POV; Drusus coefficients; *Alabarda* *March of the Machine* reference hold.
+- [dreadwolf-the-maw.md](14-vexillum-chronicles/dreadwolf-the-maw.md) — **V** *Quinta*, **074.M42**; Shepherd’s Hook capture, conscious Nails, ship slaughter (*Vermilion* adjunct; companion to Red Tide).
+- [dreadwolf-red-tide.md](14-vexillum-chronicles/dreadwolf-red-tide.md) — **V** *Quinta*, **074.M42** Moraine-Nine recovery; **Einar Dreadwolf**; **not** *Alabarda* field 4.
 - [gutgrind-descent.md](14-vexillum-chronicles/gutgrind-descent.md) — **V** *Quinta*, **121.M42** Selene-Black; **Armin Sturmwahl** vs Warboss Gutgrind; Ork scrap-spire; *Alabarda* field 4 (post–**Foundation War / Aethelgard opening** register).
 - [korvus-twin-breach.md](14-vexillum-chronicles/korvus-twin-breach.md) — **VI** *Sexta*, **098.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; *Alabarda* field 4.
 - [null-vent-covenant.md](14-vexillum-chronicles/null-vent-covenant.md) — **VII** *Septima*, **112.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; *Alabarda* field 4.
 - [silent-hours-marco-de-vetra.md](14-vexillum-chronicles/silent-hours-marco-de-vetra.md) — **IX** *Nona*, **140.M42** Marco de Vetra; **Cassian Vetra**; Shouter relay under EM storm; *Alabarda* field 4.
 - [decima-justice-vexillum.md](14-vexillum-chronicles/decima-justice-vexillum.md) — **X** *Decima* **justice vexillum** (not *Alabarda*); **051.M42** commission; **Kadmos**, **Varro**, first Ancient; **Markus Graile** echo; companion to [00-malakor-v.md](06-silent-vigil/00-malakor-v.md).
+
+---
+
+## 15-post-vigil
+
+- [hive-vespera-red-harvest.md](15-post-vigil/hive-vespera-red-harvest.md) — **~189.M42**. Hive Vespera secession purge on Noviomagus: rebels reject the Imperium while declaring Alaric rightful ruler; Alaric leads line-command dismantlement with zero clemency, mass casualties, penal labor transfers, noble servitorization, and punitive administrative normalization.
 
 ---
 

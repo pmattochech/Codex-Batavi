@@ -32,6 +32,7 @@
 
 ## 3\. Combat and doctrine
 
+* ***Alabarda* head — Type Malleus (impact-first):** dominant power maul / forge hammer face; reduced axe edge; reinforced haft for breach plant — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §8.  
 * **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — *Sexta* **siege and vault war**: largest **Indomitor** pool, plasma cannons on heavy chassis, cyclone support, storm shields.  
 * **Command style:** Siege division is **cultural heart**; Suppression trains **breach escort** and **interior lockstep** rather than open skirmish vanity.  
 * **Stasis logistics:** Coordinates with *Armourium* on **Dreadnought-adjacent** supply — vocabulary overlaps with Kadmos’s forge priests without merging chains of command.
@@ -58,4 +59,4 @@
 
 POV for **siege**, **vault horror**, **Gravis meatgrinder**, and **stasis-adjacent** dread. Complements *Quarta* high-G static war (Branimir’s turf) at **macro** Legatus scale.
 
-**Cross-reference:** [korvus-twin-breach.md](../../../chronicles/14-vexillum-chronicles/korvus-twin-breach.md) (**098.M42**, *Sexta* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.6.
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §8; [korvus-twin-breach.md](../../../chronicles/14-vexillum-chronicles/korvus-twin-breach.md) (**098.M42**, *Sexta* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.6.

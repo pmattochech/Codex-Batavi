@@ -206,7 +206,7 @@ The Batavi who came after inherited the *Axioma Rationis* as doctrine. Those who
 *“We did not fall back. We held. The Codex did not save us.”*  
 *“What saved us was harder to name than any protocol it contains.”*
 
-— Drusus, *Codex of Das Erbe*, Preface.
+— Drusus, *Codex of chimeric predisposition*, Preface.
 
 ---
 

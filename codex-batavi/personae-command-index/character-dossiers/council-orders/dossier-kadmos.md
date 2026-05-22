@@ -79,6 +79,7 @@
 
 * **Alaric’s counselor:** Noviomagus origin makes Kadmos vital link between Lord Castellan Alaric and Adeptus Mechanicus clergy. Alaric often consults Kadmos on long-campaign logistical viability.  
 * **Master of the Forge (primary Techmarine):** Kadmos absolute chief of *Cohors Batavorum* machinery and technology. Not only full Techmarine but commander conclave of all other tech-acolytes, Techmarines, and artificers. Walking Noviomagus factories, followed by own mechanical specialist cohort. His word dictates how steel bends to bear giants’ strength.  
+* **Silent Vigil contingency interface (limited access):** In sealed post-second Red Wolf planning, Kadmos receives execution-slice authority only. He does not hold full matrix rationale; he owns activation geometry for machine-state lockouts, armored route denial, and Decima handshake integrity when command firewall protocols are invoked.  
 * **Neophyte mentor:** Kadmos known as rigorous instructor on **Steel Belt**, teaching new recruits vacuum suit maintenance matters as much as bolt accuracy.  
 * **Survival architect:** Only Batavi with authority and mechanical intellect for continuous ***Providence* chassis** maintenance (Alaric’s *Castra-Lupus* armor). Also directly responsible for “Iron Mitosis” on civilians and abhumans, designing load-bearing exo-spines and bioprosthetics that turned Malakor reject scum into backbone of Noviomagus industry and defense.
 
@@ -109,3 +110,11 @@
 * **Integrated tool:** Kadmos’s bronze arm not only weapon; contains integrated maintenance **Narthecium** with micro-tools, structural integrity sensors, short-range palm-hidden plasma cutter.  
 * **Direct interface:** Prosthesis has neural direct link to “Hammer of Noviomagus” (heavy bolter). Lets him adjust fire rate and cooling flow by thought alone without leaving trigger.  
 * **Noviomagus Prime seal:** Prosthesis shoulder engraved with homeworld Mechanicus seal. Said arm holds small relic: fragment of first anvil used at Chapter’s foundation.
+
+---
+
+## 10\. \[WIKI\] NARRATOR NOTES
+
+For Silent Vigil expansion, Kadmos’s command virtue is **execution rigor under partial knowledge**; his failure-risk profile is **mechanical certainty bias** (assuming lockout geometry can solve what is still a moral-command fracture).
+
+**Cross-reference:** [07-decima-gatekeepers.md](../../../chronicles/06-silent-vigil/07-decima-gatekeepers.md) · [09-war-game-black-mirror.md](../../../chronicles/06-silent-vigil/09-war-game-black-mirror.md) · [protocol-access-matrix.md](../../doctrine-and-organs/protocol-access-matrix.md).

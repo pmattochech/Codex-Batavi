@@ -147,7 +147,7 @@ I Vexillatio plates on chain — 500 pairs largest single-event loss accumulatio
 
 ### Drusus — *Codex* update
 
-Drusus recorded Valerius case *Codex Das Erbe* separate unnamed entry — *“Inverted Stability Case.”*
+Drusus recorded Valerius case *discipline harness codex* separate unnamed entry — *“Inverted Stability Case.”*
 
 Doctrinal conclusion disturbing permanent: absence **Wolf’s Curse** stage progression not protective factor. At least one documented case risk factor — absence forge meant absence structures forge builds. Marine never broken therefore never rebuilt anchors stages paradoxically force construction.
 

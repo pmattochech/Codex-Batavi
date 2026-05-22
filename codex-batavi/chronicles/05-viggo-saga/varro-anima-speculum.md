@@ -1,95 +1,223 @@
 # [CHRONICLE] VARRO — *ANIMA SPECULUM* (THE RED WOLF SEEN)
 
 **Classification:** *Reclusiam* Vermilion — Judex personal register  
-**When:** **~545.M42** (days after Hoth-Secundus; after [`hoth-witness-dravic.md`](hoth-witness-dravic.md))  
+**When:** **~545.M42** (days after Garmr’s Shelf; after [`garmr-witness-dravic.md`](garmr-witness-dravic.md))
 **Where:** Noviomagus Prime — *Reclusiam* inner vault  
 **Who:** **Varro** (Judex); subject **Alaric von Helis** (Castellan)  
 **Cross-references:** [`crimson-wolf-rubor-thermicus.md`](../personae-command-index/doctrine-and-organs/crimson-wolf-rubor-thermicus.md) · [`dossier-varro.md`](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [`viggo-saga.md`](viggo-saga.md)
 
 ---
 
-## I. NOT A PSYKER’S TRICK
+## Memory Entry — The Wolf Under Law
 
-The Imperium files **sanctioned** souls in categories. Varro’s gift was not on their lists.
+I write this after lamp-cycle, when the forges shift from thunder to heartbeat and the corridors begin to remember what they heard in daylight.
 
-*Anima speculum* — soul-mirror — was *Reclusiam* language for what happened when a Chaplain of his office **stripped rhetoric** and looked at a man as **shape** rather than speech. Not prophecy. Not warp-sorcery broadcast to a battle-zone. A **judgment sense** trained decades in Hell Cells and Exanimus silence until the soul’s posture became as legible as a bolter’s cycle rate.
+Dravic is gone from the chamber and still he has not left it.
 
-Drusus would call it limbic projection and demand samples. Varro called it **duty**: see what the curse is trying to become before it becomes it in a corridor.
+His words stay in the steel the way impact heat stays in a struck plate. No theatrics. No self-pity. No attempt to make himself larger than his rank. A line sergeant doing what line sergeants do when sleep will not come: he reports until the report is no longer poison.
 
-He had read Dravic’s deposition without expression. He had logged Hoth as **abbreviated predator bleed** in the margin of a file that did not yet bear the name **Crimson Wolf** in *Medicinae* ink. The name came to *Reclusiam* first — because names were how bind-law held.
+I have received reports from worlds that no longer exist.
+I have received reports written in blood where ink failed.
+I have received reports from men who lied and reports from men who broke.
 
----
+Tonight’s report was the rarer kind.
 
-## II. THE CASTELLAN UNDER LAMEN
+Accurate.
 
-Alaric stood where Varro ordered — armored, helm on, Viggo’s heat still a rumor in the reactor legend the Chapter had not yet fully told itself. The vault was cold. The Castellan was colder.
-
-— You asked for truth — Varro said. — I will not give you comfort. I will give you **sight**.
-
-He did not ask permission. Judex office never did for this rite.
-
-Varro looked **through** the wolf-skull mask, through the industrial grey, through the Triumvirate rank — and the *anima speculum* answered.
+That is why it is dangerous.
 
 ---
 
-## III. THE CHAINED WOLF
+The Imperium has names for sanctioned gifts and proper shelves for each. I leave those shelves to clerks. What I do in the inner vault is not spectacle and not permissioned superstition. *Anima speculum* is expensive in exactly the way war is expensive: it costs attention, then sleep, then certainty.
 
-In the stable state, Alaric von Helis’s soul did not look like a man.
+Drusus would classify it as limbic projection and demand material proof.
+I classify it as duty and demand silence.
 
-It looked like a **wolf**.
+I called Alaric to the vault after Dravic’s confession.
 
-Not Fenrisian romance. Not the seal on a banner. A wolf the size of a siege beast, shoulders level with the vault ribs, fur the colour of **ash and old iron** — the same ash Noviomagus never stopped breathing. It lay in the chamber of Varro’s perception with muscles coiled under hide, jaws closed, eyes **luminous and patient** — the patience of something that could destroy the room and had chosen, hour by hour, **not to**.
+Helm sealed.
+Armor in industrial grey.
+No banners.
+No audience.
+No witness besides steel.
 
-Around its throat and chest: **chains** — not decorative, **structural** — black iron that hummed with *Axiom* cadence.
+The lumen bars drew white lines across his pauldrons. He stood where I placed him and did not move. The room was cold enough to crack mortal hands. On him, the cold looked like obedience.
 
-Through the heart: a **black gladius**.
+— You asked for truth — I said. — I will not give you comfort. I will give you sight.
 
-Not a wound in the mortal sense. A **pin**. The blade had been driven from breastbone to spine and out the other side of the soul-shape into floor that was not floor — pinning the wolf to the law as surely as a stake pinned *Breakwater* to ferrocrete. The Castellan’s will was not the wolf. The Castellan’s **work** was the blade.
+He answered with stillness.
 
-Varro had seen this shape before — on other brothers, smaller, earlier in the curse stack. On Alaric it was **cathedral-scale**. This was what **Wolf’s Curse** meant to the Judex: not a stage on a scroll alone, but a **beast under law** that would tear the Imperium’s work apart the moment the blade snapped.
-
-— You trap it — Varro said, voice flat. — Every day. Do not pretend the trap is virtue. It is **labor**.
-
-Alaric did not answer. The amber lenses did not blink.
+In him, stillness is often a fuller confession than speech.
 
 ---
 
-## IV. THE RED WOLF
+When the mirror opened, I saw the stable shape first.
 
-Varro shifted the rite — not a second sight, but the **same** sight asked a different question: *What did Dravic see when the plates flushed crimson?*
+Wolf-form.
+Ash and old-iron fur.
+Shoulders at siege-beast height.
+Jaws closed but never soft.
 
-The vault’s cold did not change. Alaric’s posture did not change. The soul **did**.
+Around the throat and rib-cage, the chain in proper tension.
+Through the heart, the black gladius pin.
 
-Chains **vanished** — not broken; **irrelevant**, as if law were a language the shape no longer spoke. The gladius blackened, smoked, and **fell out** of the heart-cavity like slag from a forge lip.
+No metaphor.
+No liturgical ornament.
+Mechanism.
 
-The wolf **rose**.
+The beast remains where law keeps it.
 
-It was still a wolf — still Alaric’s scale — but now built of **fire and smoke** given muscle. Fur became **heat-shimmer**. Eyes became **vents**. Each breath vented embers that crawled along the vault floor and died against Varro’s cowl without scorching cloth — judgment-fire, not promethium. It growled without sound; the growl lived in the **teeth** and the **spine**, the way a furnace growls when the blast door opens.
+I have seen lesser versions of this shape in brothers who never touched command. On Alaric the same architecture is cathedral scale: restraint is larger, threat is larger, and labor is larger. A city can survive inside that margin if the margin holds. A city can die there if it does not.
 
-Dravic’s scope had shown crimson ceramite. The *anima speculum* showed **why**: the armor was only paint. Under it, the curse had stopped pretending to be chained.
+I changed the question.
 
-Varro named it then — not for the archives, for the **liturgy** that would have to hold brothers who watched and did not die:
+Not *what is he when corridors are quiet*.
 
-**Crimson Wolf** — *Lupus ruber*.
+*What did Dravic witness when the red came up on Garmr’s Shelf.*
 
-Not Versibar. Not Execratio morphology. The **same** wolf-soul as the chained beast, **unpinned** — furnace geometry, smoke-maned, **Balrog-weight** in a chamber built for prayer. If it left the vault of perception, it would not walk upright. It would go **quadruped** and **hot** and **blind to friend**.
+The answer changed without transition.
 
-— That is what you carried up from the ice — Varro said to the motionless Castellan. — That is what you chained again before Dravic’s hand white-knuckled his gladius. Do not thank yourself for the chain. Thank the **debt** you took when you saw the pup.
+Chain absent.
+Gladius fallen.
+Same wolf, now unpinned.
 
-Silence.
+Not larger.
+Not transformed into some separate species.
+Simply unconstrained.
 
-— Dravic did not draw — Varro continued. — Next time, a brother may. Next time, **I** may. The *ictus coercitionis* is not heresy. It is **geometry**.
+Heat and smoke where fur should be.
+Vent-fire where breath should be.
+Eyes not as organs but as ports.
 
-Alaric’s vox, when it came, was the Wall’s voice — low, stripped.
+I understood then what Dravic could not have named on the ridge: he had not seen a different soul, only the same soul with law temporarily irrelevant.
+
+This is the point where naming becomes a weapon.
+
+If a thing can kill your brothers before your sentence ends, it still requires a sentence. Law without language becomes panic, and panic in a chapter is rot.
+
+So I named it in the chamber, and I record the same name here:
+
+**Crimson Wolf**. *Lupus ruber.*
+
+Not Execratio.
+Not Versibar.
+Not folk myth for men who need gods to excuse failures of heat and rhythm.
+
+Same soul.
+Different constraint state.
+
+---
+
+When I gave him the name, Alaric did not flinch. He listened. In him, listening is agreement under pressure.
+
+— That is what you carried out of the ice — I told him. — Not glory. Debt.
+
+He held silence for four measured breaths.
 
 — I remember.
 
-— Good — Varro said. — Memory is cheaper than repetition. Viggo lives because you chose **debt** over **prey**. The wolf will not understand gratitude. It understands **heat**. Keep your forge on the blade.
+Useful answer. Memory is cheaper than repetition.
 
-He closed the rite. The fire-wolf dissolved. The chained wolf returned — gladius through heart, ash fur, terrible patience.
+Then I gave him Dravic’s line.
 
-Varro filed the vision under **Crimson Wolf / bind-law** and did not speak of Balrogs, or daemons, or Fenris. Those were **other** stories, and the Judex had learned the Warp ate stories that sounded too much like excuses.
+— Dravic did not draw.
 
-The curse, in Varro’s sight, was always a wolf.
+That mattered more than any kill count in the cave.
 
-Only the chain — and the brother who maintained it — were Batavi.
+A drawn blade there would have produced one dead sergeant, one broken formation, and one doctrine fracture that would echo for decades. He did not draw. Therefore line geometry held. Therefore command geometry held.
+
+But survival is not resolution. I do not mistake one for the other.
+
+---
+
+I return, in writing, to the part Dravic almost did not say.
+
+He saw Alaric without helm in the Red Wolf window.
+
+He saw the face.
+
+Contorted beyond command discipline.
+Not pain.
+Not speech.
+Rage bent into kill geometry.
+
+Jaw extended.
+Fangs exposed.
+Eyes red-lit hard enough to leave streaks in motion.
+The same scar map and bone structure, but arranged around predation instead of doctrine.
+
+That glimpse is forbidden knowledge for line brothers not because of ceremony, but because the mind does not file it cleanly. It leaves residue.
+
+Dravic carried that residue to me intact.
+
+He will pay for it in minor currencies for years:
+tremor before sleep cycle,
+jaw lock during prayer intervals,
+hand drift toward hilt in narrow corridors,
+breathing spikes when red warning runes flash in unrelated drills.
+
+These are not failures.
+They are receipts.
+
+The chapter survives on men who can carry receipts without converting them into folklore.
+
+---
+
+I also record what Dravic gave with mechanical precision:
+
+Alaric self-recaptured at the pup.
+The strike redirected to ground.
+Static guard posture over the animal.
+Heat transfer by proximity.
+Excavation lift while gauntlet temperatures remained lethal.
+Shield reattachment and heat dump.
+Armor cooling to industrial grey.
+Helm reseal.
+Pup stowed in collar niche with breathing seam.
+Return to line only after full recontainment.
+
+Then:
+order to hold redoubt and shift on six-minute mark;
+Delta-Seven move executed;
+three stragglers engaged;
+Dravic center-lane intercept successful;
+no friendly losses in that lane.
+
+And then the sentence the sergeant gave his Castellan:
+
+— We hold, for those who can't.
+
+I did not ask him why he said it.
+I did not need to.
+
+He said it because someone had to close the event in language line brothers can carry.
+
+He said it because he had seen this nightmare once before in another shape, on another world, in the season when Valerius burned the chapter from inside.
+
+He said it because the work still needed doing.
+
+---
+
+I write none of this to praise men.
+
+Praise is cheap and decays fast.
+
+I write because this chapter survives only if events are filed at true scale. If we file Garmr’s Shelf as clean, the next corridor will inherit a lie. If a corridor inherits a lie, brothers die for doctrine that no longer describes physics.
+
+The curse in him is always wolf.
+The law in him is always labor.
+The distance between those states is maintained daily by work no parade can display and no litany can substitute.
+
+This is what I keep as Judex:
+not comfort,
+not absolution,
+not heroic narrative,
+but repeatable containment.
+
+Drusus asks for medicine.
+Line asks for orders.
+I ask for language that holds under impact.
+
+Tonight the correct language remains unchanged.
+
+Only the chain — and the brother who keeps forging it — are Batavi.

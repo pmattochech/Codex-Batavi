@@ -7,7 +7,7 @@
 Alaric understood that the Chapter’s biology was a time bomb and that the Imperium Nihilus frontier demanded constant friction.
 
 * **Codex breach:** Ignoring the sacred *Codex Astartes* ceiling of 1,000 men, he expanded the Chapter to **5,000 riflemen**.  
-* **Justification:** Maintaining 5,000 legionaries is not vainglorious heresy but a mathematical friction requirement. Unbroken war in the temporal funnel drives warriors’ flesh to extreme biological limits. Continuous activation of *Das Erbe* and repeated slides toward the Wolf’s Curse (*Exanimus* and *Execratio* stages) tear cellular integrity apart with terrifying speed. The Chapter keeps 5,000 Batavi because hundreds succumb irreversibly to monstrosity and organ failure every cycle. The Chapter at this strength is not a conquest army; it is a constant replacement conveyor running through an endless meat grinder. Remove that aberrant contingent, and the only viable *Nihilus* gate collapses in three days.
+* **Justification:** Maintaining 5,000 legionaries is not vainglorious heresy but a mathematical friction requirement. Unbroken war in the temporal funnel drives warriors’ flesh to extreme biological limits. Continuous activation of chimeric predisposition and repeated slides toward the Wolf’s Curse (*Exanimus* and *Execratio* stages) tear cellular integrity apart with terrifying speed. The Chapter keeps 5,000 Batavi because hundreds succumb irreversibly to monstrosity and organ failure every cycle. The Chapter at this strength is not a conquest army; it is a constant replacement conveyor running through an endless meat grinder. Remove that aberrant contingent, and the only viable *Nihilus* gate collapses in three days.
 
 ## 2. IMMUNITY THROUGH TITHE (THE ANTI-BADAB)
 

@@ -14,15 +14,15 @@
 
 ---
 
-## 2. Hoth-Secundus (545.M42)
+## 2. Garmr’s Shelf (545.M42)
 
-Assigned to melt-line redoubt during Genestealer purge on **Hoth-Secundus**. When Lord Castellan Alaric von Helis ordered **Hold the line** and descended the ravine solo, Dravic took overwatch with thermal scope.
+Assigned to melt-line redoubt during Genestealer purge on **Garmr’s Shelf**. When Lord Castellan Alaric von Helis ordered **Hold the line** and descended the ravine solo, Dravic took overwatch with thermal scope.
 
 He witnessed **abbreviated *rubor thermicus*** in the Patriarch melt-cave — crimson thermochrome, quadrupedal slaughter — and, on the Castellan’s return, **reached for his gladius** without drawing when Alaric passed with the pup that would become **Viggo**.
 
 Sealed deposition to **Varro**; Graile ordered full report, no mess-room folklore.
 
-Chronicles: [`hoth-witness-dravic.md`](../../../chronicles/05-viggo-saga/hoth-witness-dravic.md) · [`viggo-saga.md`](../../../chronicles/05-viggo-saga/viggo-saga.md)
+Chronicles: [`garmr-witness-dravic.md`](../../../chronicles/05-viggo-saga/garmr-witness-dravic.md) · [`viggo-saga.md`](../../../chronicles/05-viggo-saga/viggo-saga.md)
 
 ---
 

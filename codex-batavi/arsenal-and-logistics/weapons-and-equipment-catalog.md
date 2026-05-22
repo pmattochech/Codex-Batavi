@@ -5,8 +5,9 @@
 **Standard issue and theater bias** are no longer folded into this table. Use:
 
 - [vexillatio-operational-armory.md](vexillatio-operational-armory.md) — what each Vexillatio **leans toward** (bolter vs plasma, jump vs siege, etc.).  
-- [cohort-standard-kit.md](cohort-standard-kit.md) — Silence / Shadows / Stasis / Nullity **job kit** (uniform across Vexillationes).  
+- [cohort-standard-kit.md](cohort-standard-kit.md) — Silence / Shadows (under Silence) / Stasis / Nullity **job kit**; *Quinta* **chainsword-primary** pure line (§6).  
 - [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — Legatus ***Alabarda Vexillum*** (four-field) and *Decima* **justice vexillum**.  
+- [alabarda-head-groups.md](alabarda-head-groups.md) — *Alabarda* **head types** (Primus through Fulmen) and Legatus **bearer authority**.  
 - [frontier-patterns-primaris.md](frontier-patterns-primaris.md) — *World-pattern* names on **Primaris-grade** weapon classes.
 
 This file keeps **named relics**, **character-specific** gear, and **field metaphors** tied to dossiers and chronicles.
@@ -45,7 +46,7 @@ Cross-reference for armament cited outside the arsenal. Full narrative specifica
 | Term | Meaning | Where it appears |
 |------|---------|------------------|
 | **Pillars of Noviomagus** | Boots / traction claws — ground anchoring | Chronicles, [viggo-saga.md](../chronicles/05-viggo-saga/viggo-saga.md) |
-| **Father’s Hand** / **Sentence Hand** | Left / right gauntlet (Alaric combat doctrine) | [dossier-alaric.md](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md), chronicles |
+| **Gauntlet pair** | Left / right gauntlet (Alaric combat doctrine) | [dossier-alaric.md](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md), chronicles |
 
 ## Related
 

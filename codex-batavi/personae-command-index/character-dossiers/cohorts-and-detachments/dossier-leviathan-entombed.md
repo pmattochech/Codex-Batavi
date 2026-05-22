@@ -6,7 +6,7 @@
 | --- | --- |
 | **Cult / Chapter name** | **The Old Wolf** — **not** “Old Father” (that register is **Primarch**-adjacent in Imperial speech; this brother is **wolf**, **mentor**, **siege**). |
 | **Personal name** | **Radulf Castrin** — *register* form: Brother **Radulf** of line **Castrin**; **The Old Wolf** remains the **cult / spoken** name. |
-| **Wolf’s Curse (at interment)** | **Furor** (confirmed). **Furor-engraved type** (*Das Erbe* / Type I–III) **TBD** — *Duty* (Type III) fits the mentor / wall file if you **lock** it. |
+| **Wolf’s Curse (at interment)** | **Furor** (confirmed). **Furor-engraved type** (chimeric predisposition / Type I–III) **TBD** — *Duty* (Type III) fits the mentor / wall file if you **lock** it. |
 | **Rank at interment** | **TBD** |
 | **Company / Vexillatio** | **TBD** |
 | **Chassis** | **Leviathan** (siege / heavy support — loadout **TBD**) |

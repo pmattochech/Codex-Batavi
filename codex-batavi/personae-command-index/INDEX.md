@@ -1,5 +1,10 @@
 # Index Personae & Command
 
+## registers
+
+- [chapter-organization.md](chapter-organization.md) — **official** Chapter organization record (PDF section structure; **Vexillatio** terminology)
+- [named-characters-register.md](named-characters-register.md) — all named figures (dossier + major chronicle); **IV *Quarta* Legatus gap** flagged
+
 ## intro-and-heraldry
 
 - [intro-and-heraldry.md](intro-and-heraldry/intro-and-heraldry.md) — title, myth, and heraldry summary
@@ -12,6 +17,7 @@
 - [council-and-librarium.md](doctrine-and-organs/council-and-librarium.md) — Extended Council; Haruspicium / Blindgate; **§5–§6** upstream quartet & downstream issuance
 - [batavi-affect-kinesics-and-mortal-literacy.md](doctrine-and-organs/batavi-affect-kinesics-and-mortal-literacy.md) — affect–display decoupling; reaction-class kinesics; mortal read-rights; Castellan mortal interface
 - [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md)
+- [disciplines-and-curia-vexilli.md](doctrine-and-organs/disciplines-and-curia-vexilli.md) — Wild Hunt / March of the Machine / The Cull; *Curia Vexilli*; Genetor Primus / Confessor Primus
 - [friction-rites.md](doctrine-and-organs/friction-rites.md)
 - [proximity-substrata-and-witness-inheritance.md](doctrine-and-organs/proximity-substrata-and-witness-inheritance.md) — silent cultural intake via Castra Vetera proximity; Judex filtration; neophyte increment
 - [steppenwolf-doctrine.md](doctrine-and-organs/steppenwolf-doctrine.md) — detached brothers; perpetual Watch / rim teams; slang etymology (White Scars / Chogoris loan)
@@ -41,6 +47,7 @@
 - [dossier-corbec-ardens.md](character-dossiers/legati/dossier-corbec-ardens.md) — Legatus, 1st *Prima* (Noviomagus Prime)
 - [dossier-henric-kessler.md](character-dossiers/legati/dossier-henric-kessler.md) — Legatus, 2nd *Secunda* (Castra-Vetera Prime)
 - [dossier-theron-brach.md](character-dossiers/legati/dossier-theron-brach.md) — Legatus, 3rd *Tertia* (Khan-Bator Prime)
+- [dossier-orin-valestrand.md](character-dossiers/legati/dossier-orin-valestrand.md) — Legatus, 4th *Quarta* (Incus-Gravis sphere)
 - [dossier-armin-sturmwahl.md](character-dossiers/legati/dossier-armin-sturmwahl.md) — Legatus, 5th *Quinta* (Aethelgard Prime)
 - [dossier-gervas-bifronte.md](character-dossiers/legati/dossier-gervas-bifronte.md) — Legatus, 6th *Sexta* (Bifrons-Ferrum)
 - [dossier-lucan-phaetron.md](character-dossiers/legati/dossier-lucan-phaetron.md) — Legatus, 7th *Septima* (Vitreus)
@@ -53,6 +60,7 @@
 - [dossier-soren-riis.md](character-dossiers/cohorts-and-detachments/dossier-soren-riis.md) — Apothecary; Liaison-Praefect (Deathwatch / *Medicinae*)
 - [dossier-markus-graile.md](character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) — Captain, 10th *Decima* (anchor guard / instructor face)
 - [dossier-valens-ritter.md](character-dossiers/cohorts-and-detachments/dossier-valens-ritter.md) — **Valens Ritter** — Silence + Shadows dual-path (folklore: *Silent Shadow* / *Two-Path Wolf*); ledger *Prima*, spend *Octava*
+- [dossier-einar-dreadwolf.md](character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) — **Einar Dreadwolf** — *Quinta* Lieutenant; Furor-only until Nails; first Exanimus **074.M42**; Judex watch; Moraine-Nine
 - [dossier-leviathan-entombed.md](character-dossiers/cohorts-and-detachments/dossier-leviathan-entombed.md) — **Radulf Castrin**, **The Old Wolf** (Leviathan) — mentor / merit rites / siege line; entombment **TBD**
 
 ### supporting

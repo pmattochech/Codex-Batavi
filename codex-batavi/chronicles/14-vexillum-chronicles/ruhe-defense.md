@@ -5,7 +5,7 @@
 **Where:** Incus-Gravis theater — high-gravity **shingle** trenches, grav-locked revetments  
 **Who:** **IV** *Quarta* (primary holding element); *Medicinae* annex; viewpoint **Brother Branimir Vorhalt** (4th cohort, pre–*Decanus Primus* Silence certification)
 
-**Cross-references:** [dossier-branimir.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §III · [spiritus-broken-silence.md](../02-biologis-spiritus-foundation/spiritus-broken-silence.md) · [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3
+**Cross-references:** [dossier-orin-valestrand.md](../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md) (Legatus, IV *Quarta*) · [dossier-branimir.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §III · [spiritus-broken-silence.md](../02-biologis-spiritus-foundation/spiritus-broken-silence.md) · [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3
 
 ---
 
@@ -63,7 +63,7 @@ Drusus walked the trench after — not with field-medic theatrics, with **regist
 
 Branimir watched him pause at Korval — vitals stable, eyes **too** steady.
 
-Drusus did not say *Ruhe*. The word was not yet doctrine the line could wear without breaking.
+Drusus did not say March of the Machine. The word was not yet doctrine the line could wear without breaking.
 
 He logged **coefficients**: reaction temperatures **flat** where fear should spike; pupils **correct** where panic should dilate. Margin note, later quoted in closed *Medicinae* minutes: *“Veil-adjacent detachment — distinguish from combat shock before treatment.”*
 
@@ -89,13 +89,13 @@ Losses sat in the *Strategium* **acceptable** envelope — a phrase that tastes 
 
 Years later, when Silence Cohort instructors spoke of **pattern** without Shadow in the Warp, they would cite men who had learned vigilance because biology **failed** to scream when it should.
 
-Branimir’s dossier would record **Noviomagus Secundus *Ruhe*** and the **collective** stillness of the Fourth’s cohort — chronicle-lawyers argue whether that title maps **exactly** to this Incus-Gravis line or to a sister action in the same crusade season. The Chapter does not care for cartographers of pain. It cares that **IV** *Quarta* **held**.
+Branimir’s dossier would record **Noviomagus Secundus March of the Machine** and the **collective** stillness of the Fourth’s cohort — chronicle-lawyers argue whether that title maps **exactly** to this Incus-Gravis line or to a sister action in the same crusade season. The Chapter does not care for cartographers of pain. It cares that **IV** *Quarta* **held**.
 
 ---
 
 ## VII. FIELD FOUR
 
-*Strategium* certified **Ruhe** not as a poem about courage but as a **reference hold**: high gravity, Tyranid veil, static war — proof the Chapter could **not move** and still **win**.
+*Strategium* certified *March of the Machine* not as a poem about courage but as a **reference hold**: high gravity, Tyranid veil, static war — proof the Chapter could **not move** and still **win**.
 
 The *Alabarda* remembers the line that did not break before the sky did.
 

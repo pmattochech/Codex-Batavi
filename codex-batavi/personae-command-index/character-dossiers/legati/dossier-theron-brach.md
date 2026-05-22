@@ -32,6 +32,7 @@
 
 ## 3\. Combat and doctrine
 
+* ***Alabarda* head — Type Ignis (corrosive fault):** etch chemistry on striking surfaces; chem-sealed haft — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §5.  
 * **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — *Tertia* **thermal breach**: flamers, meltas, pyreblaster-class burners, heavy bolt pistols in tight work.  
 * **Command style:** Ruin division is his **favorite hammer** — but he cycles Suppression through **live burn** certification so *Tertia* never becomes a one-note pyre.  
 * **Siege coordination:** Pairs melta **tank touches** with **civilian evacuation windows** — Friction Geometry where **seconds** cost tons of harvest.
@@ -57,4 +58,4 @@
 
 POV for **industrial disaster**, **agri-moon horror**, and **thermal** set-pieces. Good contrast to measured-fire *Secunda*.
 
-**Cross-reference:** **110.M42 | Vigilax triangulation** — *Alabarda* field 4 (Legatus + Drusus, Marna-Down): [vigilax-triangulation.md](../../../chronicles/14-vexillum-chronicles/vigilax-triangulation.md); full incident: [vigilax-incident.md](../../../chronicles/12-vigilax/vigilax-incident.md) · [aar-vex-iii-vigilax-triangulation.md](../../../chronicles/vexillum-register/aar-vex-iii-vigilax-triangulation.md). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.3.
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §5; **110.M42 | Vigilax triangulation** — *Alabarda* field 4 (Legatus + Drusus, Marna-Down): [vigilax-triangulation.md](../../../chronicles/14-vexillum-chronicles/vigilax-triangulation.md); full incident: [vigilax-incident.md](../../../chronicles/12-vigilax/vigilax-incident.md) · [aar-vex-iii-vigilax-triangulation.md](../../../chronicles/vexillum-register/aar-vex-iii-vigilax-triangulation.md). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.3.

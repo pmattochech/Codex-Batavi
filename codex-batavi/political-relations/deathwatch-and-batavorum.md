@@ -14,7 +14,7 @@ The Triumvirate’s answer is the same core equation as everywhere else: **indis
 
 ## 2. Why the Watch wants Batavi (modal)
 
-* **Friction Geometry in *Zone Mortalis*:** Tyranid boardings, Necron tomb corridors, genestealer hives — the Batavi default to **static kill-math**, **testudo discipline**, and **Analytical Silence** that does not feed the swarm emotional noise (see Chapter chronicles on *Ruhe*-class void behavior where relevant).  
+* **Friction Geometry in *Zone Mortalis*:** Tyranid boardings, Necron tomb corridors, genestealer hives — the Batavi default to **static kill-math**, **testudo discipline**, and **Analytical Silence** that does not feed the swarm emotional noise (see **March of the Machine** edge harness in void boardings where relevant).  
 * **Industrial siege mindset:** Breach-and-hold on xenos megastructures matches **Stasis** and **Siege**-division training more than parade *Codex* assault.  
 * **Counter-infiltration:** **Silence Cohort**-trained brothers (or veterans carrying that certification) are occasionally requested for **cult / hybrid** theaters where “pattern, not paranoia” is the brief. The Chapter treats these requests as **high-risk political** — success is shared; failure would be blamed on “wolf-marked” operators.  
 * **Primaris battlefield mass:** Where the Watch must hold a beachhead until relief, a **Gravis-heavy** or **heavy-intercessor** detachment from **Vexillatio VI**-linked certification is sometimes named in *Armourium*–Watch correspondence (modal, not standing treaty text).
@@ -25,7 +25,7 @@ The Triumvirate’s answer is the same core equation as everywhere else: **indis
 ## 3. Why the Watch distrusts Batavi (modal)
 
 * **Gene-seed and phenotype:** **Russ-line–adjacent** visuals and **Wolf’s Curse** pathology trigger **Ordo Xenos** and **Ordo Hereticus** cross-alarms even when the mission is clean. Watch Apothecaries receive **only** what *Medicinae* clears under **tiered disclosure** — enough to keep the Marine alive, not enough to map **Strand α / β** on an open roster.  
-* ***Das Erbe* and metabolic extremes:** Watch command is wary of *Jagd* / *Ruhe* swings in kill-teams where **vox discipline** and **allied psychology** matter. **Drusus’s** office vets candidates on **endocrine stability windows**; a brother in a bad oscillation phase is **not** offered.  
+* **chimeric predisposition harness and fuel load:** Watch command is wary of **unmanaged** predisposition and **deep** discipline without clearance in kill-teams where **vox discipline** and **allied psychology** matter. **Genetor Primus** / *Medicinae* vet candidates on **endocrine stability** and rotation debt; a brother outside harness bands is **not** offered. Field disciplines (**Wild Hunt**, **March of the Machine**, **The Cull**) — [`disciplines-and-curia-vexilli.md`](../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md).  
 * **Non-*Codex* Chapter strength:** The Wall never argues the **5,000 ceiling** with Watch rosters. **Individuals** rotate; the Chapter does not parade its full grid as “available pool.”  
 * **Psykers:** **Batavian Haruspices** are **rarely** seconded. When they are, **Nullity** liaison protocols and **Otho’s** seal apply; Watch **sanctioned psykers** are told what the mission requires, not the full *Librarium* architecture.
 
@@ -36,7 +36,7 @@ The Triumvirate’s answer is the same core equation as everywhere else: **indis
 These are **Chapter law** for Deathwatch service unless the Triumvirate issues a written exception:
 
 1. **Rotation and throughput (two tracks):** For **general** line Marines not on Legatus or *Decima* tracks, rotation remains **voluntary** and **capped** — sized to **mission need**, not Watch appetite; the *Strategium* refuses **standing permanent** “tithe” without time limits. For Marines **flagged** for **Legatus** succession or **Vexillatio X** (*Decima*) admission, *Strategium* **schedules** a **qualifying deployment**; that cycle is **mandatory** for eligibility (see **Career law** below). **Steppenwolf exception (numbers):** brothers on the **Triumvirate detached registry** ([steppenwolf-doctrine.md](../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md)) are **not** counted against the **standard capped rotation pool** that governs those rules; their **Watch headcount** is **budgeted separately** under the Watch–Chapter appendix (perpetual / long-secondment rows).  
-2. **Apothecary gate:** *Medicinae* clears **Furor**, *Das Erbe* stability, and **Versibar** exclusion. Disclosure packets and Watch handshakes run through the **Liaison-Praefect** (*Pactum Clavis Sanguinis* — §5). No **Stage 3** (**Versibar**) Marine may be offered; **Execratio** survivors are **Chapter strategic assets**, not Watch commodities.  
+2. **Apothecary gate:** *Medicinae* clears **Furor**, chimeric predisposition stability, and **Versibar** exclusion. Disclosure packets and Watch handshakes run through the **Liaison-Praefect** (*Pactum Clavis Sanguinis* — §5). No **Stage 3** (**Versibar**) Marine may be offered; **Execratio** survivors are **Chapter strategic assets**, not Watch commodities.  
 3. **Witness clause preserved:** Where the Watch refuses an Inquisitorial or **Administratum** witness, the Chapter **defaults to no** — or negotiates a **substitute observer** (e.g. **Arbites** magistrate, **Custodes**-adjacent protocol where treaty allows).  
 4. **Return and debrief:** Returning brothers pass **clinical** and **Reclusiam** audit (Varro’s office) for **warp exposure**, **xenos psychoactive residue**, and **discipline drift**. Data useful to the Watch is **sanitized** before any wider sharing.  
 5. **Heraldry and oath:** Most serve **as declared Batavi** under treaty visibility — **blackshield** presentation is **exceptional**, used only when *Strategium* and **Ordo Xenos** signatories agree the mission requires **deniable** lineage (rare; narratively expensive). **Default Watch livery:** **standard Deathwatch black** field with the **Cohors Batavorum** insignia **retained on the shoulder pauldron** (lineage visible; kill-team black elsewhere per Watch *Armourium* convention).
@@ -83,7 +83,7 @@ Each major request or rotation is paired with a **Watch Apothecary designate** (
 | Tier | Watch receives | Chapter withholds |
 |------|------------------|-------------------|
 | **White** | Baseline transhuman vitals, implant tolerances, trauma thresholds usable in **any** *Codex* ward | Anything heritable beyond “stable Primaris” |
-| **Grey** | **Wolf’s Curse** **stage** (if relevant), required **pharmakon** for *Furor* / *Ruhe* edge cases, **behavioral flags** (“do not isolate this brother in silence beyond *n* hours”) | **Strand α / β** architecture, sealed *Vermilion* indices |
+| **Grey** | **Wolf’s Curse** **stage** (if relevant), required **pharmakon**, **harness depth** (edge vs deep discipline), **rotation / fuel-load** flags, conduct notes from Confessor lane | **Strand α / β** architecture, sealed *Vermilion* indices |
 | **Black** | Redacted one-line triggers only — e.g. *“chimera stabilizer protocol — invoke Liaison-Praefect vox”* | All underlying genotype maps; Watch Apothecaries **may not** autopsy Batavi dead without Triumvirate witness clause satisfied |
 
 Riis (or his delegated *Medicinae* scribe) **personally** downgrades any Watch request that reaches for Black-tier data. **Drusus** may override upward **once** per crisis; overrides are logged in *Vermilion*.
@@ -112,7 +112,7 @@ Riis (or his delegated *Medicinae* scribe) **personally** downgrades any Watch r
 
 **The body as contested ground.** Tiered disclosure means Watch medicae **touch** what *Medicinae* still owns. Many Batavi experience that as **clinical invasion** tolerated only because **Riis’s seal** says the hands are **leased**, not **sold**.
 
-**Career double edge.** For **officer tracks**, the Watch is **no adventure** — it is a **gate tax** after Malakor V. For **volunteers**, it can read as **prestige** or **escape** from a Vexillatio grind; either way, return proves they did not **dissolve** into *Jagd* camaraderie with outsiders.
+**Career double edge.** For **officer tracks**, the Watch is **no adventure** — it is a **gate tax** after Malakor V. For **volunteers**, it can read as **prestige** or **escape** from a Vexillatio grind; either way, return proves they did not **dissolve** into Wild Hunt camaraderie with outsiders.
 
 **Return.** A clean audit restores **file** identity, not always **felt** belonging. Corridor gossip may treat the returnee as **proved** — or as **touched** by Ordo politics. The Chapter does not **mythologize** the Watch; it **logs** it. What the Marine **does** with that loneliness is his *Axiom* load.
 

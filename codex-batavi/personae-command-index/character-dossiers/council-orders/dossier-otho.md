@@ -43,6 +43,7 @@
 * **Drusus:** Professional symbiosis. When Haruspicium **holds**, Drusus sees quieter biomarkers; when it **breaks**, Drusus sees **Furor** and hemorrhage. Neither man treats the other’s layer as optional.  
 * **Varro:** Tension and respect. Varro names spiritual hazard; Otho names **immaterium topology**. Disputes are rare; when they occur, they are about **whether a rite or a grid closure** is the correct containment — not about whether containment is needed.  
 * **Kadmos:** Cordial **Extended Council** parity — Otho certifies *Haruspicium* readiness; Kadmos certifies *Machine Spirit* integrity. Joint audits on embarked **Geller**-adjacent systems are standing procedure.  
+* **Silent Vigil contingency interface (limited access):** Otho receives command-lock and psychic-threshold slices for anti-inversion protocol execution, without full matrix internals. His role is to classify coercive warp/noise states fast enough that Decima and forge-side executors can act without interpretive delay.  
 * **Batavian Haruspices:** Otho is the **only** full architect of the doctrine; haruspices are **readers**, not improvisers. Promotion to *Librarium* seniority is tied to ability to teach the grid **without** poetic drift.
 
 ## 5\. \[WIKI\] RECORDED FEATS
@@ -64,4 +65,10 @@
 
 ## 7\. \[WIKI\] CROSS-REFERENCES
 
-*Doctrine:* [`council-and-librarium.md`](../../doctrine-and-organs/council-and-librarium.md) (§5–§6 upstream/downstream issuance) · [`military-hierarchy.md`](../../doctrine-and-organs/military-hierarchy.md) §4.3–§4.5 · [`specialty-cohorts.md`](../../../arsenal-and-logistics/specialty-cohorts.md) §4 · [`GLOSSARY-EN.md`](../../../GLOSSARY-EN.md) (Haruspicium Batavorum, Batavian Haruspex, Blindgate, Broken Haruspicium).
+*Doctrine:* [`council-and-librarium.md`](../../doctrine-and-organs/council-and-librarium.md) (§5–§6 upstream/downstream issuance) · [`military-hierarchy.md`](../../doctrine-and-organs/military-hierarchy.md) §4.3–§4.5 · [`specialty-cohorts.md`](../../../arsenal-and-logistics/specialty-cohorts.md) §4 · [`GLOSSARY-EN.md`](../../../GLOSSARY-EN.md) (Haruspicium Batavorum, Batavian Haruspex, Blindgate, Broken Haruspicium) · [`07-decima-gatekeepers.md`](../../../chronicles/06-silent-vigil/07-decima-gatekeepers.md) · [`09-war-game-black-mirror.md`](../../../chronicles/06-silent-vigil/09-war-game-black-mirror.md).
+
+---
+
+## 8\. \[WIKI\] NARRATOR NOTES
+
+For Silent Vigil expansion, Otho’s command virtue is **classification discipline under psychic pressure**; his failure-risk profile is **model-lock** (forcing ambiguous fracture behavior into premature taxonomy when time-to-impact is collapsing).

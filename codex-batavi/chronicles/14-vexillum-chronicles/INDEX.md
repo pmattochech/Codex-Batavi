@@ -7,6 +7,8 @@ Full narrative chronicles for operations certified on ***Alabarda* field 4** (an
 | [hive-dominus-compliance.md](hive-dominus-compliance.md) | **II** *Secunda* | [aar-vex-ii-hive-dominus-compliance.md](../vexillum-register/aar-vex-ii-hive-dominus-compliance.md) |
 | [vigilax-triangulation.md](vigilax-triangulation.md) | **III** *Tertia* (Legatus / Drusus / Marna-Down) | [aar-vex-iii-vigilax-triangulation.md](../vexillum-register/aar-vex-iii-vigilax-triangulation.md) · companion: [vigilax-incident.md](../12-vigilax/vigilax-incident.md) |
 | [ruhe-defense.md](ruhe-defense.md) | **IV** *Quarta* | [aar-vex-iv-ruhe-defense.md](../vexillum-register/aar-vex-iv-ruhe-defense.md) |
+| [dreadwolf-the-maw.md](dreadwolf-the-maw.md) | **V** *Quinta* (capture adjunct — **not** field 4) | — (see [aar-vex-v-dreadwolf-red-tide.md](../vexillum-register/aar-vex-v-dreadwolf-red-tide.md) Phase 0) |
+| [dreadwolf-red-tide.md](dreadwolf-red-tide.md) | **V** *Quinta* (*Vermilion* adjunct — **not** field 4) | [aar-vex-v-dreadwolf-red-tide.md](../vexillum-register/aar-vex-v-dreadwolf-red-tide.md) |
 | [gutgrind-descent.md](gutgrind-descent.md) | **V** *Quinta* | [aar-vex-v-gutgrind-descent.md](../vexillum-register/aar-vex-v-gutgrind-descent.md) |
 | [korvus-twin-breach.md](korvus-twin-breach.md) | **VI** *Sexta* | [aar-vex-vi-korvus-breach.md](../vexillum-register/aar-vex-vi-korvus-breach.md) |
 | [null-vent-covenant.md](null-vent-covenant.md) | **VII** *Septima* | [aar-vex-vii-null-vent-covenant.md](../vexillum-register/aar-vex-vii-null-vent-covenant.md) |

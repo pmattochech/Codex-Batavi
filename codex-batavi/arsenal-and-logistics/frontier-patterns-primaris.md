@@ -38,8 +38,9 @@ A Marine may carry a **Khan-Bator-pattern flamer** while serving in Vex. II — 
 
 ## 3. Melee taxonomy (Chapter convention)
 
-- **Power gladius:** default **line** thrust weapon aligned with *Second Blade* doctrine ([friction-geometry.md](../personae-command-index/doctrine-and-organs/friction-geometry.md)).  
-- **Chainsword:** **saw mass** — Ruin clearance, assault landings, Shadow cohort work.  
+- **Power gladius:** default **line** thrust weapon aligned with *Second Blade* doctrine ([friction-geometry.md](../personae-command-index/doctrine-and-organs/friction-geometry.md)) — **except** *Quinta* pure line (below).  
+- **Chainsword:** **saw mass** — Ruin clearance, assault landings; on **Vex. V (*Quinta*)** the **primary melee** for **pure line** and jump-assault cells (Aethelgard storm culture, **Wild Hunt** closure tempo). **Not** the Shadows cohort default (**knife → gladius** under Silence).  
+- **Combat knife / power gladius (Shadows):** primary Shadow cohort melee everywhere, including Aethelgard — see [cohort-standard-kit.md](cohort-standard-kit.md) §2.  
 - **Power axe / power sword:** role- and theater-assigned; Vex. V and VIII modal.  
 - **Thunder hammer / power fist:** veteran sergeants, Ruin, Siege, and Vex. VI heavy cells.
 

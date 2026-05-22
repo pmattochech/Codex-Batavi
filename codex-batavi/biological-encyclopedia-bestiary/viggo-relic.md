@@ -8,7 +8,7 @@
 
 ## 1. Origin and anomaly (iron imprinting)
 
-Rescued during Genestealer purge on ice world Hoth-Secundus (**~545.M42**, Silent Vigil era), Viggo was the *runt* (smallest, weakest) of a culled litter. Condemned by biology and about to receive Ragnar Blackmane’s mercy, he was sheltered by Alaric von Helis inside his Terminator suit’s reactor compartment to avoid systemic failure from hypothermia.
+Rescued during Genestealer purge on ice world Garmr’s Shelf (**~545.M42**, Silent Vigil era), Viggo was the *runt* (smallest, weakest) of a culled litter. Condemned by biology and about to receive Ragnar Blackmane’s mercy, he was sheltered by Alaric von Helis in his armor’s insulated collar niche to avoid systemic failure from hypothermia.
 
 * **Imprinting:** The pup did not imprint Fenris or the pack; he imprinted on reactor vibration and promethium smell. He chose iron.  
 * **Shame debt (sealed):** Lord Castellan had entered an **abbreviated *rubor thermicus*** window in the Patriarch tunnel (**Type B** — see [`crimson-wolf-rubor-thermicus.md`](../personae-command-index/doctrine-and-organs/crimson-wolf-rubor-thermicus.md)) and nearly killed the pup before **self-recapture** at the sight of the dead she-wolf and litter. Keeping Viggo alive filed thereafter as **atonement geometry**, not sentiment — though Martha’s kitchen and Elara would later teach the Wall other words for the same bond.
@@ -23,7 +23,7 @@ Because of reduced size (young bull, not rhino-scale like others of his kind), V
 ## 3. Thermal anchor (Silent Vigil)
 
 * **Logistical excuse:** Alaric justified the animal with cold logic: the wolf was unique “organic insulation” retaining residual heat in lower armor joints during long Adamant Throne vigils.  
-* **Hand rite:** Alaric did not allow serfs to feed Viggo. Viggo ate synthetic meat straight from the “Father’s Hand” (left adamantium gauntlet). The animal’s tongue on metal was the only non-hostile biological contact Alaric tolerated for centuries.
+* **Hand rite:** Alaric did not allow serfs to feed Viggo. Viggo ate synthetic meat straight from Alaric’s left adamantium gauntlet. The animal’s tongue on metal was the only non-hostile biological contact Alaric tolerated for centuries.
 
 ## 4. Biosocial integration (Martha’s kitchen)
 
@@ -37,4 +37,4 @@ Viggo did not die in battle but of old age at 100 years, peacefully on Alaric’
 1. **Duty layer (outer):** Crimson ballistic fabric cloak.  
 2. **Authority layer (middle):** Batav patriarch wolf (black wolf) pelt.  
 3. **Affection layer (inner):** Viggo’s soft white pelt. Direct contact with Alaric’s grey-iron armor, retaining reactor warmth and heating chassis and any ally who must be covered.  
-4. **Father’s Hand calibrator:** Viggo’s taxidermied head, dull ruby eyes, rests on Alaric’s right shoulder, watching flanks and balancing Batav pelt weight on the left.
+4. **Shoulder calibrator:** Viggo’s taxidermied head, dull ruby eyes, rests on Alaric’s right shoulder, watching flanks and balancing Batav pelt weight on the left.

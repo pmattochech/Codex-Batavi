@@ -1,4 +1,4 @@
-# AFTER-ACTION REPORT — Ruhe defense (IV *Quarta* register)
+# AFTER-ACTION REPORT — March defense (IV *Quarta* register)
 
 **Operation:** RUHE (static line — Tyranid contact)  
 **Date:** 048.M42  
@@ -21,7 +21,7 @@
 
 **IV** *Quarta* **anchored** — **heavy bolt rifles**, **missile** teams, **storm shield** locks on **choke** crests. Movement **minimized**; **gravitic boot** discipline enforced **hourly** (Legatus order — fatigue casualties unacceptable vs. **void** collapse).
 
-*Ruhe* state (perfect-soldier **detachment** under veil) documented by *Medicinae* — **not** repeated in this AAR; see [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §III and [spiritus-broken-silence.md](../02-biologis-spiritus-foundation/spiritus-broken-silence.md).
+March of the Machine state (perfect-soldier **detachment** under veil) documented by *Medicinae* — **not** repeated in this AAR; see [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §III and [spiritus-broken-silence.md](../02-biologis-spiritus-foundation/spiritus-broken-silence.md).
 
 **Enemy:** Trygon **breach** attempt **collapsed** under **overlapping** AT and **melee** lock on **leading** organisms.
 
@@ -31,6 +31,6 @@ Severe — **within** *Strategium* **acceptable** envelope for **buying** **orbi
 
 ## 5. *Strategium* certification (field 4)
 
-**IV** *Quarta* **field 4** commemorates **static** **hold** under **Tyranid** **veil** — the **reference** **Ruhe**-geometry **line** for **high-G** **siege** culture.
+**IV** *Quarta* **field 4** commemorates **static** **hold** under **Tyranid** **veil** — the **reference** *March of the Machine*-geometry **line** for **high-G** **siege** culture.
 
 **Chronology:** [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §III.

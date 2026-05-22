@@ -22,8 +22,8 @@
 | **I** | *Prima* | Noviomagus Prime | **Corbec Ardens** (Legatus) · **Soren Riis** (Liaison-Praefect; billet *Prima*, Chapter-wide) | [dossier-corbec-ardens.md](../legati/dossier-corbec-ardens.md) · [dossier-soren-riis.md](../cohorts-and-detachments/dossier-soren-riis.md) | Optional: *Quarta*-style cohort exemplar beyond Riis |
 | **II** | *Secunda* | Castra-Vetera Prime | **Henric Kessler** (Legatus) | [dossier-henric-kessler.md](../legati/dossier-henric-kessler.md) | Optional: captain / Silence spotlight |
 | **III** | *Tertia* | Khan-Bator Prime | **Theron Brach** (Legatus) | [dossier-theron-brach.md](../legati/dossier-theron-brach.md) | Optional: Ruin division face |
-| **IV** | *Quarta* | Incus-Gravis sphere | **Branimir Vorhalt** (*Decanus Primus*, Silence) | [dossier-branimir.md](../cohorts-and-detachments/dossier-branimir.md) | Legatus optional; Branimir anchors *Quarta* voice |
-| **V** | *Quinta* | Aethelgard Prime | **Armin Sturmwahl** (Legatus) | [dossier-armin-sturmwahl.md](../legati/dossier-armin-sturmwahl.md) | Optional: assault sergeant exemplar |
+| **IV** | *Quarta* | Incus-Gravis sphere | **Orin Valestrand** (Legatus) · **Branimir Vorhalt** (*Decanus Primus*, Silence) | [dossier-orin-valestrand.md](../legati/dossier-orin-valestrand.md) · [dossier-branimir.md](../cohorts-and-detachments/dossier-branimir.md) | Optional: assault sergeant exemplar |
+| **V** | *Quinta* | Aethelgard Prime | **Armin Sturmwahl** (Legatus) · **Einar Dreadwolf** (Lieutenant) | [dossier-armin-sturmwahl.md](../legati/dossier-armin-sturmwahl.md) · [dossier-einar-dreadwolf.md](../cohorts-and-detachments/dossier-einar-dreadwolf.md) | — |
 | **VI** | *Sexta* | Bifrons-Ferrum | **Gervas Bifronte** (Legatus) | [dossier-gervas-bifronte.md](../legati/dossier-gervas-bifronte.md) | Optional: Indomitor line NCO |
 | **VII** | *Septima* | Vitreus | **Lucan Phaetron** (Legatus) | [dossier-lucan-phaetron.md](../legati/dossier-lucan-phaetron.md) | Optional: marksman cell lead |
 | **VIII** | *Octava* | Great Reef / Maleventum | **Ivar Malevent** (Legatus) | [dossier-ivar-malevent.md](../legati/dossier-ivar-malevent.md) | Optional: boarding *decanus* |

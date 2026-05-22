@@ -10,13 +10,13 @@ The Adeptus Mechanicus worships the gear with ignorant devotion, and Terran medi
 
 Yet as I walked the rows of amniotic tanks in my *Apothecarion* after the South Wall broke, I saw how limited Imperial dogma is before our gene-seed.
 
-*Jagd* is not merely a stimulant flood driving slaughter. That is the surface of the equation. What I saw in those hibernation cubes brushed biological heresy. My amputated brothers were not merely healing; they were entering aggressive hypermetabolism. *Jagd* triggered “Predatory Reconstruction.” I saw humeral stumps not form keloids but weave new bone matrices, nerves, and muscle from zero. They cannibalized their own lipid reserves, forging the missing part from the inside out as if flesh refused to accept defeat. Even chronic secondary organ failures were being “reset” and cured. The storm incinerates the body, yes — but the ash left behind chooses to shape a harder alloy than the original steel.
+Wild Hunt is not merely a stimulant flood driving slaughter. That is the surface of the equation. What I saw in those hibernation cubes brushed biological heresy. My amputated brothers were not merely healing; they were entering aggressive hypermetabolism. Wild Hunt triggered “Predatory Reconstruction.” I saw humeral stumps not form keloids but weave new bone matrices, nerves, and muscle from zero. They cannibalized their own lipid reserves, forging the missing part from the inside out as if flesh refused to accept defeat. Even chronic secondary organ failures were being “reset” and cured. The storm incinerates the body, yes — but the ash left behind chooses to shape a harder alloy than the original steel.
 
 That alone would earn expurgation from less enlightened Inquisitors. Yet what happened in the central tank — Alpha cocoon — challenged everything I know about transhuman anatomy.
 
 They brought me what remained of Alaric von Helis hours after he tore the *Warboss* Skarjaw’s jaw free.
 
-The diagnosis was a death certificate. Massive cranial fractures with severe frontal-lobe hemorrhage. Double ventricular rupture; primary and secondary hearts had burst under *Jagd* pressure. Three lungs collapsed and drowned in xenos toxins. Finally, the left arm did not exist from the humerus down, crushed by the Ork’s hydraulic claws.
+The diagnosis was a death certificate. Massive cranial fractures with severe frontal-lobe hemorrhage. Double ventricular rupture; primary and secondary hearts had burst under Wild Hunt pressure. Three lungs collapsed and drowned in xenos toxins. Finally, the left arm did not exist from the humerus down, crushed by the Ork’s hydraulic claws.
 
 He was clinically dead. By *Codex* protocols I ordered Tech-Priests to warm a *Dreadnought* chassis reactor to entomb what remained of his mind.
 

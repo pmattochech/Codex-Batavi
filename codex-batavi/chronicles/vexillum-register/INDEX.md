@@ -10,6 +10,7 @@ Formal memoranda and after-action reports tied to ***Alabarda Vexillum* field 4*
 | **II** *Secunda* | [aar-vex-ii-hive-dominus-compliance.md](aar-vex-ii-hive-dominus-compliance.md) | [hive-dominus-compliance.md](../14-vexillum-chronicles/hive-dominus-compliance.md) |
 | **III** *Tertia* | [aar-vex-iii-vigilax-triangulation.md](aar-vex-iii-vigilax-triangulation.md) | [vigilax-triangulation.md](../14-vexillum-chronicles/vigilax-triangulation.md) · [vigilax-incident.md](../12-vigilax/vigilax-incident.md) |
 | **IV** *Quarta* | [aar-vex-iv-ruhe-defense.md](aar-vex-iv-ruhe-defense.md) | [ruhe-defense.md](../14-vexillum-chronicles/ruhe-defense.md) |
+| **V** *Quinta* | [aar-vex-v-dreadwolf-red-tide.md](aar-vex-v-dreadwolf-red-tide.md) | [dreadwolf-red-tide.md](../14-vexillum-chronicles/dreadwolf-red-tide.md) |
 | **V** *Quinta* | [aar-vex-v-gutgrind-descent.md](aar-vex-v-gutgrind-descent.md) | [gutgrind-descent.md](../14-vexillum-chronicles/gutgrind-descent.md) |
 | **VI** *Sexta* | [aar-vex-vi-korvus-breach.md](aar-vex-vi-korvus-breach.md) | [korvus-twin-breach.md](../14-vexillum-chronicles/korvus-twin-breach.md) |
 | **VII** *Septima* | [aar-vex-vii-null-vent-covenant.md](aar-vex-vii-null-vent-covenant.md) | [null-vent-covenant.md](../14-vexillum-chronicles/null-vent-covenant.md) |

@@ -7,6 +7,7 @@
 - [specialty-cohorts.md](specialty-cohorts.md)
 - [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md)
 - [../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — Legatus *Alabarda* four-field register; *Prima* §2.2; *Decima* justice vexillum
+- [alabarda-head-groups.md](alabarda-head-groups.md) — *Alabarda* **head groups** per Vexillatio (I–IX); bearer authority; *Nona* grav-lock haft
 
 ## Vexillatio armory (theater bias + cohort kit)
 - [vexillatio-operational-armory.md](vexillatio-operational-armory.md) — Vex. I–X modal weapons and chassis proficiency

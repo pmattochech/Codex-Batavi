@@ -10,7 +10,9 @@
 
 **Theater-driven:** Local threat, logistics spine, and *Armourium* output at the Legatus seat shape **proportions**. A Vexillatio famous for plasma still fields bolters; it simply **certifies** more plasma gunners and **stocks** more fusion cells on its barges.
 
-**Cohort lock:** The four fifty-Marine cohorts (Silence, Shadows, Stasis, Nullity) are **the same jobs in every Vexillatio**. Their **weapon patterns** stay Chapter-standard; only **support pieces, sidearms, and accessory loads** differ slightly — see [cohort-standard-kit.md](cohort-standard-kit.md).
+**Cohort lock:** The four fifty-Marine cohorts (Silence, Shadows, Stasis, Nullity) are **the same jobs in every Vexillatio**. **Shadows operate under Silence** for lattice orders and mesh pricing; black pauldrons execute what ivory (or the Legatus relay) has already named. Cohort **weapon patterns** stay Chapter-standard — **Shadows** melee is **knife → gladius**, not chainsword — see [cohort-standard-kit.md](cohort-standard-kit.md). Only **pure-line** melee bias shifts by theater (notably **chainsword-primary** on **Vex. V**).
+
+**Legatus *Alabarda* head:** Each Vexillatio’s **pole head** (and *Nona* **grav-lock** haft modes) is **theater-certified** — *Types* **Primus**–**Fulmen**: [alabarda-head-groups.md](alabarda-head-groups.md).
 
 **Pure line** (Suppression / Ruin / Siege) is where **Vexillatio character** shows in volume: extra jump seats, extra heavy chassis bays, or extra thermal weapons on the manifest.
 
@@ -97,9 +99,11 @@ Each **Legatus** commands one **indivisible** Vexillatio of 500. The table maps 
 
 ### Vexillatio V — *Quinta* (Aethelgard Prime)
 
-**Proficiency:** **Storm assault** — tide moons, gas-giant theaters, vertical infrastructure, **jump** certification.
+**Proficiency:** **Storm assault** — tide moons, gas-giant theaters, vertical infrastructure, **jump** certification. Foundation crucible memory and **Wild Hunt**–class closure when enemy mass or Waaagh! resonance spikes endocrine assault tempo ([projection-aurea-wolfs-curse.md](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)).
 
-**Modal lean:** **Highest Chapter allocation** of **jump packs** and **assault Primaris** formations (Inceptor-class deployment where *Armourium* certifies). **Chainswords**, **power axes**, **heavy bolt pistols**, **boltstorm** for descent. Close fight over optics.
+**Modal lean:** **Highest Chapter allocation** of **jump packs** and **assault Primaris** formations (Inceptor-class deployment where *Armourium* certifies). **Boltstorm** and **heavy bolt pistols** on descent; **power axes** where the strike needs mass behind the edge.
+
+**Melee (pure line — Chapter exception):** On *Quinta* only, **chainsword** is the **primary melee weapon** for line and assault cells — saw-mass brutality after landing, not the Noviomagus-default **power gladius** rhythm. The mesh reads it as **Aethelgard’s nature** made armory policy: vertical hunt, tide pressure, the same visceral closure *Der Batav* myth trained into the cells. **Shadows** in *Quinta* still field **knife → gladius** under **Silence**; the chainsword culture is **grey pauldron / jump-line**, not black.
 
 **Pure line:** Suppression trains **rapid closure**; Ruin carries **melta** for hull touches after landing.
 
@@ -159,6 +163,7 @@ Each **Legatus** commands one **indivisible** Vexillatio of 500. The table maps 
 
 ## 4. Related documents
 
+- [alabarda-head-groups.md](alabarda-head-groups.md) — Legatus *Alabarda* **head types** (I–IX) and bearer authority  
 - [cohort-standard-kit.md](cohort-standard-kit.md) — cohort job kit (uniform + minor deltas)  
 - [frontier-patterns-primaris.md](frontier-patterns-primaris.md) — named weapon families  
 - [noviomagus-standard-engineering.md](noviomagus-standard-engineering.md) — chassis  

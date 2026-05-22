@@ -270,7 +270,7 @@ The first blur his eyes fixed on was Martha. The matriarch stood near the counte
 
 The great head turned, millimeter by millimeter, until it found the dark mountain in the room's corner.
 
-Alaric von Helis. The Lord Castellan. The Alpha. Without his formidable mechanical wolf helm to filter reality, Alaric's scarred human face was exposed, shadowed eyes fixed on the beast. Iron-gray armor still radiated the heat that had once saved the litter "runt" from the ice of Hoth-Secundus.
+Alaric von Helis. The Lord Castellan. The Alpha. Without his formidable mechanical wolf helm to filter reality, Alaric's scarred human face was exposed, shadowed eyes fixed on the beast. Iron-gray armor still radiated the heat that had once saved the litter "runt" from the ice of Garmr’s Shelf.
 
 The giant's depressed mind tried to frame the moment in a tactical spreadsheet. *Biological asset executing perimeter sweep,* Alaric told himself, throat locked dry. *Visual confirmation of command chain integrity before terminal shutdown.* But Viggo saw no military rank. He saw the unshakable rock. The iron alpha predator who never fell back. The wolf no longer needed to shield him from lethal cold, for the Wall stood solid and terrible as ever. *The leader holds.*
 
@@ -437,7 +437,7 @@ Ragnar Blackmane descended the stone steps. His feline eyes settled on Elara wit
 
 Ragnar murmured, tone weighted with rare, solemn respect. He stopped before Alaric and lightly touched the white fur on the Castellan's gorget.
 
-— The *runt* of Hoth-Secundus. He didn't just survive the winter, Batav... He aged. A century? That's a miracle even for our world's blood. He was a wolf who refused prey and chose steel. And I see steel knew how to honor him.
+— The *runt* of Garmr’s Shelf. He didn't just survive the winter, Batav... He aged. A century? That's a miracle even for our world's blood. He was a wolf who refused prey and chose steel. And I see steel knew how to honor him.
 
 From inside his mechanical helm, Alaric's voice echoed deep and controlled.
 

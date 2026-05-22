@@ -22,13 +22,13 @@ Lord Castellan Alaric abandoned the holo-map table. He spends hours motionless o
 
 Our biology answers physical threat with acute hypertrophy. As if **chimeric** gene-seed scented the Orks’ biological challenge — *“Who is strongest in this system?”* — and chose to answer in the exact same guttural tongue.
 
-**Day 0 (The fall):** Landing rocks split the ground. The stink of fetid xenos spores and burned engine oil flooded the trenches. Logical protocol dictates siege defense and friction. My **Vexillatio** brothers, however, magnet-locked bolters. Through my cranial servo-lenses I saw Sergeant Kael sheathe his firearm and draw his heavy trench knife. No *vox* order from command. Pure chemical consensus. *Jagd* had begun.
+**Day 0 (The fall):** Landing rocks split the ground. The stink of fetid xenos spores and burned engine oil flooded the trenches. Logical protocol dictates siege defense and friction. My **Vexillatio** brothers, however, magnet-locked bolters. Through my cranial servo-lenses I saw Sergeant Kael sheathe his firearm and draw his heavy trench knife. No *vox* order from command. Pure chemical consensus. Wild Hunt had begun.
 
 ## II. GEOMETRY OF FLESH (FIELD OBSERVATION)
 
 Terran military theory states an iron rule: never engage Orkoid organisms in melee if fire superiority can avoid it. Ork physiology is geometrically superior in mass, organ redundancy, and blunt trauma resistance. Today, on Noviomagus plains, the *Cohors Batavorum* refuted that theory through industrial slaughter.
 
-Under *Jagd*’s endocrine effect, Astartes physical strength, traction, and impact rose in geometric progression. I watched brothers ignore wounds that should have incapacitated — limbs pierced by shrapnel, ceramite plates torn — not by doctrinal stoicism but because the central nervous system simply shut pain receptors so as not to disrupt the motor adrenaline flow.
+Under Wild Hunt’s endocrine effect, Astartes physical strength, traction, and impact rose in geometric progression. I watched brothers ignore wounds that should have incapacitated — limbs pierced by shrapnel, ceramite plates torn — not by doctrinal stoicism but because the central nervous system simply shut pain receptors so as not to disrupt the motor adrenaline flow.
 
 * **Blade Wall:** We did not fight as Imperial soldiers. We fought as superpredators defending spawning territory. I visually logged a 2nd Company brother using his own tactical helm (torn off after visor damage) as a club to beat a *Nob* Ork to cranial failure. Motor efficiency was brutal, filthy, devoid of Castra-Vetera fencing elegance. It aimed exclusively at traumatic, irreversible target destruction.  
 * **Alpha duel:** Alaric von Helis faced *Warboss* Skarjaw. My sensors warned his *Terminator* armor was compromised. He ignored it. He used no feints or tactics. He used hydraulic traction and raw biomechanical force to tear the xeno leader’s jaw free with his bare hands. An act of pure biological dominance. The *Waaagh!* psychic field broke soon after. The horde did not rout from tactical defeat; they ran because their primitive minds felt absolute terror at meeting something more monstrous and savage than themselves.
@@ -37,18 +37,18 @@ Under *Jagd*’s endocrine effect, Astartes physical strength, traction, and imp
 
 ## III. COST OF VICTORY (REBOUND AND MITOSIS)
 
-**Post-combat status:** General systemic collapse. The exact moment external stimulus (Ork biological presence) was cleared from the perimeter, *Jagd* collected its caloric debt. The entire 3rd Company collapsed to the deck, entering hypovolemic shock and simultaneous multi-organ failure. Their bodies had devoured their own calcium, lipid, and vital protein reserves to sustain that abomination of strength.
+**Post-combat status:** General systemic collapse. The exact moment external stimulus (Ork biological presence) was cleared from the perimeter, Wild Hunt collected its caloric debt. The entire 3rd Company collapsed to the deck, entering hypovolemic shock and simultaneous multi-organ failure. Their bodies had devoured their own calcium, lipid, and vital protein reserves to sustain that abomination of strength.
 
 **Discovery of Iron Mitosis:** While I opened comatose bodies on surgical slabs to treat wounds, I noted cellular regeneration protocol was not following patterns Roboute Guilliman recorded for Adeptus Astartes.
 
-*Batavi* tissue was not merely “healing”; it was reconstructing denser. The left arm the Lord Castellan almost lost completely did not atrophy into permanent keloid. Cells entered febrile mitotic boil, weaving bone matrices and nerve cords from scratch in weeks, not months. *Jagd* burns the body in a chemical forge, but the ash left chooses to mold into a harder alloy than the original steel.
+*Batavi* tissue was not merely “healing”; it was reconstructing denser. The left arm the Lord Castellan almost lost completely did not atrophy into permanent keloid. Cells entered febrile mitotic boil, weaving bone matrices and nerve cords from scratch in weeks, not months. Wild Hunt burns the body in a chemical forge, but the ash left chooses to mold into a harder alloy than the original steel.
 
 **Apothecarion doctrinal conclusion:** We are not suffering a degenerative disease. We are operating under biological *overclock*.
 
-Our gene-seed identifies “brute force” and chaos (Orks) and uncages the “Beast” (*Jagd*) to fight on its terms. If the seed identifies cosmic horror and **mass psychic suppression** from the *Hive Mind* — in practice, the **Shadow in the Warp** that accompanies swarm incursions / bio-fleet — it will shut down the limbic system and surface the “Machine” (*Ruhe*). **Genestealer cult networks without that aggregate signature are not a reliable trigger;** they demand another geometry of war (see Silence Cohort doctrine).
+Our gene-seed identifies “brute force” and chaos (Orks) and uncages the “Beast” (Wild Hunt) to fight on its terms. If the seed identifies cosmic horror and **mass psychic suppression** from the *Hive Mind* — in practice, the **Shadow in the Warp** that accompanies swarm incursions / bio-fleet — it will shut down the limbic system and surface the “Machine” (March of the Machine). **Genestealer cult networks without that aggregate signature are not a reliable trigger;** they demand another geometry of war (see Silence Cohort doctrine).
 
 We are a purely reactive paramilitary organism. The secret of our secular survival is not trying to stop transformation; the secret is finding chemical and psychic methods to ensure bodies survive the rebound when the storm passes.
 
-**[Final archive note]:** *In this triad we were forged: I am the Brake. Varro is the Anchor. Alaric is the Blade. If I fail to monitor and control containment doses at these hormonal levels, *Jagd* will no longer be a passing combat storm; it will become our permanent natural state. And an army that lives forever in *Jagd* is not an Adeptus Astartes Chapter; it is a horde of maddened beasts. And we are not Orks. We are the iron anvil that shatters them.*
+**[Final archive note]:** *In this triad we were forged: I am the Brake. Varro is the Anchor. Alaric is the Blade. If I fail to monitor and control containment doses at these hormonal levels, Wild Hunt will no longer be a passing combat storm; it will become our permanent natural state. And an army that lives forever in Wild Hunt is not an Adeptus Astartes Chapter; it is a horde of maddened beasts. And we are not Orks. We are the iron anvil that shatters them.*
 
 *Instrumentum Solum.* — Drusus.

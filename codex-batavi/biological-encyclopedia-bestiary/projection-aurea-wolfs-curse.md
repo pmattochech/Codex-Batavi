@@ -1,31 +1,31 @@
-# Biology: *Das Erbe* and Wolf’s Curse
+# Biology: Wolf’s Curse and combat disciplines
 
-*Das Erbe* (The Inheritance) — Drusus’s formal designation. Operational name: **The Pendulum**. The Chapter operates under a rigid biological split between “tool” (tactical use) and “failure” (degeneration).
+The Chapter operates under a rigid split between **harnessed predisposition** (trained disciplines + *Curia* clearance) and **failure** (Wolf’s Curse degeneration, §B).
 
-**A) *DAS ERBE* — LINEAGE PENDULUM (Cawl’s design)** *An involuntary adaptive neurochemical response system triggered only against specific enemies, and only against those enemies. It stems from **chimeric gene-seed**: internal registers model **Strand α** (Russ-line–compatible primary scaffold) and **Strand β** (secondary component carrying Heresy-era treason-imprint sensitivity) — the coded biological inheritance of two predator **strategies** locked in one architecture. See [`../personae-command-index/doctrine-and-organs/progenitor-classification.md`](../personae-command-index/doctrine-and-organs/progenitor-classification.md) for how this is spoken of outside sealed codices.*
+**A) CHIMERIC FUEL AND THREE DISCIPLINES (Cawl’s architecture; Chapter harness)** *Chimeric gene-seed carries **predisposition**, not a license to possess the line. Internal registers model **Strand α** (Russ-line–compatible primary scaffold) and **Strand β** (Heresy-era treason-imprint sensitivity) — pressure that rises near matching threat signatures. The brother **enters form** through trained rite and ***Curia Vexilli*** clearance; unmanaged fuel advances **Wolf’s Curse** (§B). Full doctrine: [`../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md`](../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md). POV layers: [`../personae-command-index/doctrine-and-organs/progenitor-classification.md`](../personae-command-index/doctrine-and-organs/progenitor-classification.md).*
 
-1. **Ruhe (vs. Hive Mind psychic pressure / Shadow in the Warp):** The perfect soldier. Focus on pure logic and extreme cerebral processing, operating under the veil that crushes affect and panic imposed by the swarm at **fleet scale**. The trigger is not “seeing a Tyranid” but the **aggregate signature** of hive hunger drying local Immaterium — **Shadow in the Warp**.  
-   * *Rebound:* Severe mental exhaustion and repetitive robotic behavior.  
-   * *Doctrine limit:* **Genestealer cults** and **larval** infestations (hidden planetary network without bio-ship invasion mass psyche), as a rule, **do not** generate the same pressure. The seed **does not** enter *Ruhe* just because hybrids breathe in the city. That gap in the biological pendulum is known in the *Apothecarion*; countermeasure **falls on** **Silence Cohort** (urban patrol, multimodal pattern analysis) and *Lex Imperialis*, not on “flipping the machine” against a cult.  
-2. **Jagd (vs. Orks):** Predatory instinct. Increased aggression and physical strength to out-brutalize Orks in close combat.  
-   * *Rebound:* Physical exhaustion, muscle damage, and slide risk toward ***Furor***.  
-3. **Blutrecht (trigger: recognition of traitor gene-seed / scale of treason):** The headsman. **Strand β** carries encoded imprint of the Great Heresy — not as doctrine but as biological **treason-recognition** patterning. When it detects signature of a corrupted Astartes sharing lineage root, gene-seed neither releases the Beast nor silences the limbic system: it elevates the Judge. The response is not fury — ice clarity and obsession with rectification proportional to detected treason depth.
+| Discipline | Fuel signature (predisposition rises) |
+|------------|-------------------------------------|
+| **Wild Hunt** | Ork mass / Waaagh resonance |
+| **March of the Machine** | **Shadow in the Warp** / fleet-scale hive hunger — **not** lone cult hybrids |
+| **The Cull** | Traitor Astartes gene-seed recognition (**Strand β**) |
 
-   Trigger scales on **two simultaneous vectors:** depth of corruption and proximity to Horus Lupercal’s line.
+**Depth:** **Edge** (coalition-safe harness) vs **deep** (authorized only on Genetor clearance + *Curia* record). **Rotation** mandatory on sustained wars — same lance without cycle increases curse risk even when clearance is valid.
 
-   * *Tier 1 — Traitor Astartes (any Traitor Legion):* Light Blutrecht. Cold focus on target; compulsion for precise execution. Rebound: moderate purpose drain, recovery days to weeks.  
-   * *Tier 2 — Direct Horus lineage (Black Legion, remnant Sons of Horus) or extreme-depth corruption:* High Blutrecht. Full inquisitorial headsman — calculated cruelty, amplified directed strength. Rebound: significant purpose drain, lasting scars.  
-   * *Tier 3 — Batavi who fell to Chaos:* Maximum Blutrecht. Gene-seed does not process target as external enemy; processes as **internal systemic error** — biological analogue of **watching brotherhood choose treason** at Legion scale. Rebound is purpose collapse potentially permanent. Sole recorded case: Lord Castellan Alaric von Helis after executing Legatus Valerius, who took title *Lupercal* — stacking every treason vector at once.  
-   * *Note on extreme corruption / daemon princes:* Entities that were Astartes but whose corruption erased recognizable brotherhood imprint are detected as alien threat, not treason. Gene-seed does not fire Blutrecht — responds with baseline tactical amplification below.  
-   * *Rebound (general):* Blutrecht fractures **will to live** proportional to tier activated. Eliminating focused hate’s object collapses retribution vector. More intense Blutrecht, deeper and longer-lasting void.
+**The Cull — depth tiers:**
 
-**Note — amplified *Axiom of Reason* (response to generic Chaos):**  
-Chaos forces without recognizable gene-seed (cultists, daemons, warbands) trigger no *Das Erbe* axis. They trigger **Axiom of Reason in elevated mode:** increased coldness, sharper threat priority, more precise tactical resource allocation, scaling with detected corruption intensity. Not a *Das Erbe* state — basal discipline responding to background noise **Strand β** carries from the Heresy imprint. At upper end of this amplification, when corruption is deep enough to begin evoking treason imprint, transition to Blutrecht Tier 1 is gradual, not abrupt.
+* *Tier I* — any Traitor Legion Astartes: cold focus; moderate purpose drain after.  
+* *Tier II* — Horus-line depth / extreme corruption: headsman cruelty; significant lasting void.  
+* *Tier III* — fallen Batavi / *Lupercal* claim at Chapter scale: maximum rectification; purpose collapse risk — recorded on Lord Castellan Alaric after Valerius (**050.M42**). Daemon princes without brotherhood imprint → **amplified *Axiom***, not the Cull.
 
-**Scaling rule (revised):**
-- *Jagd* and *Ruhe:* scale with **enemy presence size** (Waaagh! mass, Shadow in the Warp intensity).  
-- *Blutrecht:* scales with **corruption depth** and **proximity to Horus line** — not enemy count. One deeply corrupted Astartes of the right line triggers more Blutrecht than a thousand cultists.  
-- *Amplified Axiom:* scales with **detected chaotic corruption intensity**, independent of force number or size.
+**Generic Chaos** (no recognizable gene-seed): **amplified *Axiom of Reason*** only — not a discipline axis.
+
+**Scaling (fuel, not automatic mode):**
+- Wild Hunt / March fuel: **enemy presence size** (Waaagh!, Shadow intensity).  
+- The Cull: **corruption depth** + **proximity to Horus line** — not headcount.  
+- Cult / genestealer networks without fleet Shadow: **Silence Cohort**, *Lex Imperialis* — not deep March by default.
+
+**Historical mass events** (e.g. South Wall cellular detonation, company “deck drop” after Ork clearance): filed **pre-*Curia*** or **unauthorized depth** — not post–Malakor steady state. See [`../planning/disciplines-curia-vexilli-retcon-plan.md`](../planning/disciplines-curia-vexilli-retcon-plan.md) for chronicle alignment policy.
 
 **B) WOLF’S CURSE (failure)** *Chimeric lineage genetic degeneration. A biological ratchet: anatomical progression is strictly irreversible. Once a Batavi reaches a new degradation stage, physical stigmata remain permanent even if logical mind recovers.*
 
@@ -35,7 +35,7 @@ Chaos forces without recognizable gene-seed (cultists, daemons, warbands) trigge
 
 *Trigger:* Furor is not automatic service-time progression — regulatory failure. Trigger is intersection of accumulated unprocessed stress with inability to anchor *Axiom of Reason* at critical moment, usually precipitated by specific emotional shock. Two most documented triggers are **wounded pride** (dishonor, humiliation, unfair judgment of own competence) and **existential fear** (confronting mortality or possibility of failing central duty). Other precipitators — unprocessed grief, betrayal, prolonged exhaustion without resolution — are logged but less frequent.
 
-*Engraved state:* Furor does not only alter body; it “photographs” warrior biology in dominant emotional state at rupture moment. Emotion present at *Axiom* failure encodes as permanent specific amplifier. Drusus categorized three main types in *Das Erbe Codex*:
+*Engraved state:* Furor does not only alter body; it “photographs” warrior biology in dominant emotional state at rupture moment. Emotion present at *Axiom* failure encodes as permanent specific amplifier. Drusus categorized three main types in the sealed **Furor typology codex**:
 
 **Type I — Pride (most common):** Marine who fell to wounded pride tends toward explosive silence and immediate irritation when contradicted, disproportionate reactions to competence challenges. State fragments progressively when facing repeated failures — pride object becomes instability vector.
 
@@ -77,7 +77,7 @@ Common to all three: elevated emotional intensity at basal state, difficulty dis
 > - **Witness to pride’s sin:** Neophytes are brought to cells as training. Imprisoned **Versibar** is physical proof **Wolf’s Curse** respects neither discipline, devotion, nor years of service. Pride of believing immune to what brought others down is shortest path to cells.  
 > - **Weapon of last resort — *Adversarii at Portas*:** When enemy breaches final defense lines and facility loss is mathematically certain, cells open. Versibars release into compromised sector as area biological weapon. They do not discriminate — but in closed space with denser enemy concentration, predation math favors defenders. Tactical biological equivalent of *Exterminatus*: choice that makes defeat’s cost unacceptable to enemy.
 >
-> **First documented *Adversarii* correlation — Valerian Heresy (Malakor V):** Before this doctrine was formalized as terminal **Black Cell** release, the Chapter survived **Legatus** Valerius’s treason (*Lupercal* claim, **I** *Prima* rot) in part by **battlefield** use of **loyal Versibars**: ***Blutrecht*** Tier 3 **object-fixation** on **traitor gene-seed** **locked predation** onto the **pack-betrayer vector** while Lord Castellan **Alpha frequency** **imposed** a **predation corridor** — irrational mass **aimed**, not Chapter-wide **catastrophe**. This is **not** equivalent to **indiscriminate** *Portas* protocol (facility-lost / area denial to all); *Medicinae* files it as **first battlefield Adversarii correlation** — *Blutrecht* + **Alpha-imposed vector**, distinct from **terminal-defense** cell breach.
+> **First documented *Adversarii* correlation — Valerian Heresy (Malakor V):** Before this doctrine was formalized as terminal **Black Cell** release, the Chapter survived **Legatus** Valerius’s treason (*Lupercal* claim, **I** *Prima* rot) in part by **battlefield** use of **loyal Versibars**: **the Cull** Tier III **object-fixation** on **traitor gene-seed** **locked predation** onto the **pack-betrayer vector** while Lord Castellan **Alpha frequency** **imposed** a **predation corridor** — irrational mass **aimed**, not Chapter-wide **catastrophe**. This is **not** equivalent to **indiscriminate** *Portas* protocol (facility-lost / area denial to all); *Medicinae* files it as **first battlefield Adversarii correlation** — **the Cull** + **Alpha-imposed vector**, distinct from **terminal-defense** cell breach.
 >
 > *Clinical addendum (Drusus):* Of those who choose Iron Prison, only those still showing **consciousness lapses** — identifiable fragments of original Batavi emerging intermittently in animal form — remain active cell witnesses. Those fully feral with no measurable cognitive residue are reclassified for immediate *Adversarii at Portas* allocation or execution on clinical assessment. Beast without memory teaches neophytes nothing.
 >
@@ -87,7 +87,7 @@ Common to all three: elevated emotional intensity at basal state, difficulty dis
 
 *Documented vulnerability points (Vermilion archive):* Extreme bone density makes torso virtually impenetrable to standard bolt rounds. Efficient elimination vectors: (1) **spine** — total severance or destruction of upper cervical segments; (2) **skull** — trauma enough to destroy brainstem; (3) **full-charge plasma weapons** held in sustained contact; (4) **Alpha frequency** — Lord Castellan Alaric can command and, under execution protocol, physically dominate Versibar to lethal submission. No other reliable command method.
 
-Lord Castellan Alaric von Helis is sole recorded case in Chapter history to reach this mutation and force mind return by will. Biology stabilized permanently at **intermediate stage (Alpha anomaly)** — see §A *Das Erbe*. Fate of other Batavi reaching Execratio set by **Exanimus Testament** (above).
+Lord Castellan Alaric von Helis is sole recorded case in Chapter history to reach this mutation and force mind return by will. Biology stabilized permanently at **intermediate stage (Alpha anomaly)** — see §A disciplines / fuel. Fate of other Batavi reaching Execratio set by **Exanimus Testament** (above).
 
 **Castellan exception — *rubor thermicus* (not a fourth stage):** Stabilization **blocks** **Versibar** morphology and stage ratchet. Under ***Castra-Lupus*** thermal failure, **predator motor programs** can still discharge as ***rubor thermicus*** (*Reclusiam*: **Crimson Wolf**) — quadrupedal gait, incandescent claws, **IFF collapse**, **≤1** window per engagement when control fails. **Not** irrational **Versibar** mass; return is **witnessed** but **not guaranteed**; Castellan retains **memory** and **shame**. Containment: Chaplain Varro (*ictus coercitionis*). **First** full event: **Malakor V**, **050.M42**. File: [`crimson-wolf-rubor-thermicus.md`](../personae-command-index/doctrine-and-organs/crimson-wolf-rubor-thermicus.md).
 
@@ -121,7 +121,25 @@ What does not exist is indifference. Helm with red threshold stripe or crimson h
 
 ---
 
-**C) INTEGRATION ANOMALY (unique case — 168.M42)**
+**C) SOUL GEOMETRY (*anima speculum* — Varro / *Vermilion*)**
+
+*Not open Administratum doctrine. Summary for sealed clinical and *Reclusiam* cross-read.*
+
+**Line battle-brother (default progression under curse pressure):**
+
+| Phase | Mirror image (Varro filing) |
+|-------|-----------------------------|
+| **Furor** | **Empty cage**; wolf as **eyes** and **howl** behind the marine visage |
+| **Exanimus** | Wolf **pounces** the **marine face** — predator over human mask, still caged |
+| **Execratio / Versibar** | Cage **breaks**; wolf **devours child-soul** — last fragment; brother **gone** in law |
+
+**Lord Castellan (post–stabilized Execratio — unique):** **No cage.** **Burning wolf** in **chains**; **black gladius** through the heart = ***Axiom*** pin. Unpinned state = **Crimson Wolf** (*rubor thermicus*). **Gladius-in-chest** is **Castellan** geometry only — line souls use **caged ash / dark wolf**, not the pin.
+
+**Tripartite bind (one survivor — 074.M42):** **Lieutenant Einar Dreadwolf** — **Furor-only** baseline for ~century; **forced first Exanimus** under Nails + prison-ship theater; cage **almost broken**; wolf fights **Red Demon** (conscious **Butcher’s Nails** + Khorne bleed), **not** the child fragment; marine visage **holds chains** fixing wolf and demon. Varro: **no soul-name**; file *In watch. Under the Deathwolf’s jaws. No precedent. No cult.* Full witness: [`dreadwolf-red-tide.md`](../chronicles/14-vexillum-chronicles/dreadwolf-red-tide.md); dossier: [`dossier-einar-dreadwolf.md`](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md).
+
+---
+
+**D) INTEGRATION ANOMALY (unique case — 168.M42)**
 
 *Classification: Vermilion. Chief Apothecary Drusus. Triumvirate-restricted access.*
 

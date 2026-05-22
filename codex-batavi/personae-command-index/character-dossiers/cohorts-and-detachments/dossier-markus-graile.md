@@ -35,7 +35,7 @@
 
 * **Entry path:** Satisfies the **051.M42** *Decima* lattice: a **full certified Watch cycle** ([deathwatch-and-batavorum.md](../../../political-relations/deathwatch-and-batavorum.md) §4), pure-line time across Suppression / Ruin / Siege, **all four specialty cohort** rotations, top-pool metrics, **Batav Wolf trial** passed (records sealed to *Strategium* + *Medicinae*).  
 * **Function:** Leads **company-scale** anchor tasks when supremes are **elsewhere**; certifies cohort modules on foreign Vexillatio soil so *Decima* **doctrine** stays portable.  
-* **Axiom of Reason:** **Zero** logged discipline failures in audit windows referenced in promotion packet — Graile treats *Ruhe* / *Jagd* swings as **tactical variables**, not identity.
+* **Axiom of Reason:** **Zero** logged discipline failures in audit windows referenced in promotion packet — Graile treats March of the Machine / Wild Hunt swings as **tactical variables**, not identity.
 
 ---
 

@@ -30,7 +30,7 @@ That was not tactical anxiety. It was hunger.
 
 Twenty-four hours before orbital impact, the biological reality of the **chimeric** line — **two predator architectures** pulling the same marrow — collided violently with the effervescent psychic energy of the Orks.
 
-The transition happened at once along the entire South Wall. There was no command order on the *vox* channel; it was a unanimous cellular detonation. The mere proximity of millions of xenos hungry for war fractured the chemical inhibitors that kept the “Beast” caged in the genetic code. The **Jagd exponent** had begun.
+The transition happened at once along the entire South Wall. There was no command order on the *vox* channel; it was a unanimous cellular detonation. The mere proximity of millions of xenos hungry for war fractured the chemical inhibitors that kept the “Beast” caged in the genetic code. The **Wild Hunt exponent** had begun.
 
 Brother Hrolf, patrolling a delayed evacuation route, stopped dead. He felt his own musculature hypertrophy inside ceramite, the sealed plates of his armor groaning in protest against the sudden expansion of physical mass. Beneath the tactical helm’s red lenses, his physiology regressed: the iris dilated, consumed by an orange halo, while the pupil shrank to a vertical predatory slit.
 
@@ -46,7 +46,7 @@ When the hollow Ork landing asteroids finally punched through the atmosphere, th
 
 The green tide poured from impact craters by the thousands. They roared, expecting the Imperial war machine’s standard answer: disciplined firing trenches, bolter storms, saturation artillery, and slow strategic withdrawal. The Orks had come to break shields.
 
-What they found was the predatory silence of the Jagd.
+What they found was the predatory silence of the Wild Hunt.
 
 The *Batavian Iron-Guard* were not crouched in trenches. They stood exposed on the barricade parapets. Their bolters lay mag-locked at their waists. In their hands, chainswords, power axes, and heavy trench knives hummed, thirsty.
 
@@ -62,11 +62,11 @@ At the meat grinder’s epicenter, the green storm made room for its avatar. Ala
 
 The Ork leader was a leviathan of scar tissue, irregular tusks, and hydraulic pistons, cackling amid the carnage. He raised his massive power klaw, built to crush tanks, aiming to decapitate the gray “humie.” Alaric did not try to dodge. He did not fall back on the rehearsed parries of Castra Vetera fencing.
 
-The Lord Castellan, his lethal alpha frequency shattering the air around him, deactivated and dropped his power gladius. The Jagd tolerated no intermediaries; it demanded the intimacy of physical contact. Alaric took the Warboss’s full charge head-on. The servos of his *Terminator* armor screamed under the impact of tons of kinetic force, but the adamantine boots did not give a single centimeter on the blood-stained ground.
+The Lord Castellan, his lethal alpha frequency shattering the air around him, deactivated and dropped his power gladius. The Wild Hunt tolerated no intermediaries; it demanded the intimacy of physical contact. Alaric took the Warboss’s full charge head-on. The servos of his *Terminator* armor screamed under the impact of tons of kinetic force, but the adamantine boots did not give a single centimeter on the blood-stained ground.
 
 With both hands now free, Alaric drove his fingers into the Warboss’s lower jaw of riveted metal and thick bone.
 
-For a fraction of a second, the war’s cacophony seemed to go mute. Skarjaw stared into the depths of Alaric’s helm lenses and, perhaps for the first time in his long life of massacres, found an atrocity older and wilder than his own species. Using a brutal levering motion, driven by the Jagd exponent’s aberrant biomechanics, Alaric shattered the cranial reinforcements and tore Skarjaw’s mandible from his face.
+For a fraction of a second, the war’s cacophony seemed to go mute. Skarjaw stared into the depths of Alaric’s helm lenses and, perhaps for the first time in his long life of massacres, found an atrocity older and wilder than his own species. Using a brutal levering motion, driven by the Wild Hunt exponent’s aberrant biomechanics, Alaric shattered the cranial reinforcements and tore Skarjaw’s mandible from his face.
 
 The leviathan collapsed, choking on liters of black blood and oil. Alaric raised the dripping trophy and let loose a thunderous roar—not a military victory cry, but the absolute proclamation of territorial dominance.
 
@@ -76,7 +76,7 @@ The *Waaagh!* energy cracked and broke. The Orks, organisms genetically wired ne
 
 The eradication was complete. Noviomagus would remain under the Aquila. Yet as soon as the last Ork escape engine vanished over the horizon and silence returned to the plateau, the bill came due.
 
-The Jagd does not create energy from nothing; it is a violent loan against the organism’s own future. When the adrenaline peak crashed, Batavi biology collapsed in a domino. There were no victory chants or banner raisings. There was only the hollow, dull sound of hundreds of tons of ceramite hitting blood-stained ground as battle-brothers fell unconscious.
+The Wild Hunt does not create energy from nothing; it is a violent loan against the organism’s own future. When the adrenaline peak crashed, Batavi biology collapsed in a domino. There were no victory chants or banner raisings. There was only the hollow, dull sound of hundreds of tons of ceramite hitting blood-stained ground as battle-brothers fell unconscious.
 
 Alaric, still drenched in enemy ichor, took two stumbling steps toward the Imperial triage line before collapsing like a decapitated statue.
 

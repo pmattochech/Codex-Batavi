@@ -25,6 +25,7 @@ The **four specialty cohorts** are not units “apart” from the Chapter: in **
 * **Shadows Cohort (infiltration):**  
   * *Color:* **matte black**.  
   * *Iconography:* Wolf skull with two crossed gladii.  
+  * *Command:* The fifty **Shadows** in each Vexillatio **operate under Silence** — ivory owns mesh read, pattern debt, and lattice pricing; black pauldrons execute ducts, kill-boxes, and vertical closure **on Silence-signed targets** (or on Legatus emergency ticks). *Strategium* still books four cohorts; this is **tactical subordination**, not a merged stripe. Kit: [cohort-standard-kit.md](cohort-standard-kit.md) §§1–2.  
   * *Detached overlap:* Rim / **Halo Stars** work and long autonomous kill-geometry disproportionately file **Shadows** brothers as **Steppenwolves** — see [steppenwolf-doctrine.md](../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md).  
 * **Stasis Cohort (blocking and defense):**  
   * *Color:* **dark gunmetal grey**.  
@@ -54,6 +55,18 @@ Another anomaly class: movement almost right but **out of phase on transition** 
 Pattern analysis **does not replace** *Lex Imperialis* or custody for interrogation: it **selects targets**, isolates cells, and avoids mass false positives. Where the threat is purely psychic or hive-scale fleet, Chapter biology and other cohorts take different vectors; where the enemy **mimics the Imperium**, ivory is the first **triage barrier**.
 
 *Reference character (urban patrol / doctrinal calibration):* [dossier-branimir.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md).
+
+---
+
+## 3.1\. SHADOWS COHORT — UNDER SILENCE (EXECUTION LAYER)
+
+**Shadows** are not a parallel intelligence service competing with ivory. They are the **vertical and deniable hand** Silence (and the Legatus lattice) already priced.
+
+**Silence** selects: which mouth still has names, which duct map matches pay-cycle drops, which “perfect” civilian is a rehearsed infiltrator. **Shadows** close: rafters, chem pits, noble-shafts, promethium caches, the junction a steward thought was blind. Black pauldrons carry **combat knife** and **power gladius** as primary melee — not **chainsword** — because duct war cannot afford the saw’s signature ([cohort-standard-kit.md](cohort-standard-kit.md) §2).
+
+**Dual-path brothers** (Silence certification plus Shadows certification) are rare; they rotate pauldron by assignment but file **Silence-first** on mixed lattices unless *Strategium* orders otherwise. Reference: [dossier-valens-ritter.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-valens-ritter.md).
+
+**Theater exception (melee only):** **Vex. V (*Quinta*)** elevates **chainsword** to **primary melee** for **pure line** and jump-assault cells — Aethelgard storm culture and **Wild Hunt** closure — **without** changing the Shadows cohort table. See [cohort-standard-kit.md](cohort-standard-kit.md) §6 · [vexillatio-operational-armory.md](vexillatio-operational-armory.md) (*Quinta*).
 
 ---
 

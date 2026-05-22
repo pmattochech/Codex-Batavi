@@ -16,7 +16,7 @@
 
 *I looked at my 4th Cohort brothers. Their helm lenses showed no fear, no rage, no devotion, no honor. They had become mirrors of the void assailing us. Where Apothecary Drusus saw miraculous tactical adaptation (genesis of his “Perfect Soldier”), I saw immediate death of spirit. Our Axiom of Reason entered aberrant overclock; sterile logic devoured faith.*
 
-***[Confessional self-analysis]** I tried to pray on the battlefield. Words left my mouth but I felt no weight on my soul. In a moment of lucid horror I realized I myself was calculating my *Crozius Arcanum*’s kinetic dispersion angle instead of focusing on the strike’s purity and faith. *Ruhe* did not infect only soldiers; it was desiccating my own soul.*
+***[Confessional self-analysis]** I tried to pray on the battlefield. Words left my mouth but I felt no weight on my soul. In a moment of lucid horror I realized I myself was calculating my *Crozius Arcanum*’s kinetic dispersion angle instead of focusing on the strike’s purity and faith. March of the Machine did not infect only soldiers; it was desiccating my own soul.*
 
 ## II. USELESS LITURGY (FIELD OBSERVATION)
 
@@ -45,11 +45,11 @@
 
 *I witnessed the exact moment Sergeant Karras’s soul returned to its shell.*
 
-*He stood inert before a civilian workwoman who offered, hands trembling, a metal cup of water. Karras extended the massive gauntlet. He took the cup — and his hand hesitated. Trembled. *Ruhe*’s cold perfect logic collapsed utterly before irrational, unnecessary human gratitude. Karras broke his helm seal, removed the helm, and wept in silence. Not purely from grief — because emotion rebooted abruptly and the pain of sending his own men to death finally struck with hammer weight.*
+*He stood inert before a civilian workwoman who offered, hands trembling, a metal cup of water. Karras extended the massive gauntlet. He took the cup — and his hand hesitated. Trembled. March of the Machine’s cold perfect logic collapsed utterly before irrational, unnecessary human gratitude. Karras broke his helm seal, removed the helm, and wept in silence. Not purely from grief — because emotion rebooted abruptly and the pain of sending his own men to death finally struck with hammer weight.*
 
 ## Reclusiam theological verdict:
 
-**Jagd* debases us to beasts — and beasts, with iron leashes, can be tamed by discipline. *Ruhe* elevates us to logical machines — and machines feel loyalty to nothing, only follow mathematical programming.*
+*Wild Hunt debases us to beasts — and beasts, with iron leashes, can be tamed by discipline. March of the Machine elevates us to logical machines — and machines feel loyalty to nothing, only follow mathematical programming.*
 
 *If the Chapter remains in that state long enough, we will need Chaos gods to corrupt and destroy us; we will become indifferent to the Imperium’s survival we swore to defend.*
 

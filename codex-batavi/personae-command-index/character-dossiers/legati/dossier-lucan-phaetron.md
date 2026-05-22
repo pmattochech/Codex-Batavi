@@ -32,6 +32,7 @@
 
 ## 3\. Combat and doctrine
 
+* ***Alabarda* head — Type Lamina (monomolecular precision):** mono-edged primary cheek, mono spike, small insulated hammer — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §9.  
 * **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — *Septima* **energy stress**: plasma incinerators, las fusils, neo-volkite where contract allows; bolters as **failure backbone**.  
 * **Command style:** Ruin overlaps **plasma AT**; Suppression trains **disciplined overcharge** under *Armourium* rite — Phaetron personally signs **vent windows** on critical days.  
 * **Training philosophy:** *Septima* **punishes** careless plasma more harshly than other Vexillationes — one bad vent can blind a cohort.
@@ -58,4 +59,4 @@
 
 POV for **plasma discipline**, **photonic hellscapes**, and **Mechanicus tension**. Good technical voice without becoming a Techmarine.
 
-**Cross-reference:** [null-vent-covenant.md](../../../chronicles/14-vexillum-chronicles/null-vent-covenant.md) (**112.M42**, *Septima* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.7.
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §9; [null-vent-covenant.md](../../../chronicles/14-vexillum-chronicles/null-vent-covenant.md) (**112.M42**, *Septima* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.7.

@@ -10,13 +10,13 @@
 
 **(Recording date: 050.M42 – Post-Malakor V)** *Audio transcription from the empty hours after the execution of Valerius, the Onyx Wolf.*
 
-**I. THE GEOMETRY OF VENGEANCE** For decades Chief Apothecary Drusus theorized that our biology worked like a pendulum—that we swung horizontally between the Beast (*Jagd*) to survive brute force, and the Machine (*Ruhe*) to survive psychic horror and entropy. I built my entire command doctrine on that mathematical duality. I was wrong.
+**I. THE GEOMETRY OF VENGEANCE** For decades Chief Apothecary Drusus theorized that our biology worked like a pendulum—that we swung horizontally between the Beast (Wild Hunt) to survive brute force, and the Machine (March of the Machine) to survive psychic horror and entropy. I built my entire command doctrine on that mathematical duality. I was wrong.
 
 On Malakor V, before the abject treason of my own blood, I learned that our inner map was wrong. When I set down on the black silica fortress and saw the Eclipse Pack’s profaned standards, I did not feel the organic need to become an atavistic beast, nor the frigid shutdown of the machine. What I felt was a vertical ascent.
 
-The vector did not move sideways. It rose. My chimeric gene-seed did not recognize Valerius as a tactical enemy or a rival predator. It recognized him purely as a systemic error. The primary function of the blood in my veins is error correction. We will call this third state *Blutrecht*.
+The vector did not move sideways. It rose. My chimeric gene-seed did not recognize Valerius as a tactical enemy or a rival predator. It recognized him purely as a systemic error. The primary function of the blood in my veins is error correction. We will call this third state the Cull.
 
-**II. THE JUDGE STATE** There was no red fog of *Jagd*. My thoughts were crystalline, sharp as obsidian. My twin heartbeats did not accelerate; they locked to the merciless rhythm of a countdown.
+**II. THE JUDGE STATE** There was no red fog of Wild Hunt. My thoughts were crystalline, sharp as obsidian. My twin heartbeats did not accelerate; they locked to the merciless rhythm of a countdown.
 
 I did not duel him. A duel implies martial respect or equal right to life. I dismantled him. When he struck with his corrupted energy claws, I did not block to survive; I blocked at angles that would fracture his joint. I wanted him to feel, in his last pathetic moments, that betraying his oaths had not made him stronger. It had only made him breakable.
 
@@ -34,13 +34,13 @@ I look at the stars of the Imperium and see only endless maintenance spreadsheet
 
 **ADDENDUM A.1: THE INVENTORY FALLACY (Command correction)** In the original entry above, I described Valerius’s death as “inventory rectification.” Rereading those words today, with a clear mind, I see the grotesque lie I told myself so I would not shatter. It was not tactical bureaucracy; it was poisoned grief.
 
-*Blutrecht* does not consume only tactical purpose; it burns the basal hope that we are anything more than murder weapons. I believed that by killing the traitor clinically, I would kill the possibility of treason in myself. Crass error. I only killed the part of me that felt warmth. The “Great Silence” I buried myself in during the Silent Vigil was not stoic, honorable watch. It was emotional cowardice. It was the pathetic refusal of a giant to face the pain of losing a brother, disguised under the gray mantle of brutal efficiency.
+the Cull does not consume only tactical purpose; it burns the basal hope that we are anything more than murder weapons. I believed that by killing the traitor clinically, I would kill the possibility of treason in myself. Crass error. I only killed the part of me that felt warmth. The “Great Silence” I buried myself in during the Silent Vigil was not stoic, honorable watch. It was emotional cowardice. It was the pathetic refusal of a giant to face the pain of losing a brother, disguised under the gray mantle of brutal efficiency.
 
-**ADDENDUM A.2: THE NATURE OF THE STORM AND ZERO POINT (Doctrine update)** *Blutrecht* is, in empirical fact, the upper vertex of our genetic pyramid. But it is structurally unstable by Cawl’s design. The Judge becomes the Executioner, and the Executioner, without a heretic to bleed, quickly becomes the nihilist.
+**ADDENDUM A.2: THE NATURE OF THE STORM AND ZERO POINT (Doctrine update)** the Cull is, in empirical fact, the upper vertex of our genetic pyramid. But it is structurally unstable by Cawl’s design. The Judge becomes the Executioner, and the Executioner, without a heretic to bleed, quickly becomes the nihilist.
 
-I sat for five centuries in the dark of my own skull because I had nothing in the galaxy to protect; I only had things to kill. The discovery of the “Root” (Elara) and civil integration with Martha’s pack proved to me that *Blutrecht* is only safe if we have a garden to return to after the storm passes.
+I sat for five centuries in the dark of my own skull because I had nothing in the galaxy to protect; I only had things to kill. The discovery of the “Root” (Elara) and civil integration with Martha’s pack proved to me that the Cull is only safe if we have a garden to return to after the storm passes.
 
-Justified hatred of the traitor must be balanced millimeter-fine by love for what the traitor threatens to destroy. Without that fundamental counterweight—without the *Zero Point* of human affection Elara reinstalled in my biology—ascending to *Blutrecht* is signing a pact of spiritual suicide.
+Justified hatred of the traitor must be balanced millimeter-fine by love for what the traitor threatens to destroy. Without that fundamental counterweight—without the *Zero Point* of human affection Elara reinstalled in my biology—ascending to the Cull is signing a pact of spiritual suicide.
 
 **ADDENDUM A.3: THE NEW AXIOM (Final rectification)** I wrote, in my depressive arrogance, that “a tool without use should be put in the box.”
 

@@ -32,6 +32,7 @@
 
 ## 3\. Combat and doctrine
 
+* ***Alabarda* head — Type Contus (void spear):** compact power spear, micro hook, bulkhead hammer cap; cloth furled in fight — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §10.  
 * **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — *Octava* **void fight**: combat shields, power swords, compact bolters, grav-chutes, hull melta.  
 * **Command style:** Suppression **corridor interlock**; Ruin **breach charges** and **bulkhead melta** as default culture — *Octava* does not apologize for **ship meat**.  
 * **Threshold coordination:** Interfaces with **Marco de Vetra** relay doctrine through *Strategium* tasking — Malevent knows **Cassian Vetra**’s *Nona* seat buys seconds for the Wall.
@@ -58,4 +59,4 @@
 
 POV for **boarding**, **ion storms**, **reef chokepoints**, and **Maleventum** EM horror. Natural bridge to *Nona* and fleet chronicles.
 
-**Cross-reference:** [loken-funnel-octava.md](../../../chronicles/14-vexillum-chronicles/loken-funnel-octava.md) (**096.M42**, *Octava* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.8; [general-atlas.md](../../../atlas-and-topography/general-atlas.md) (Threshold mesh).
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §10; [loken-funnel-octava.md](../../../chronicles/14-vexillum-chronicles/loken-funnel-octava.md) (**096.M42**, *Octava* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.8; [general-atlas.md](../../../atlas-and-topography/general-atlas.md) (Threshold mesh).

@@ -6,7 +6,7 @@
 **Rank:** *Decanus Primus* (functional equivalent to senior sergeant-major of urban counter-intelligence).  
 **Specialization:** Multimodal **pattern** analysis (smell, body sound, gait, speech, where eyes go), *somatic profiling*, live capture for *Lex Imperialis*.  
 **Chapter:** *Cohors Batavorum*.  
-**Operational home Vexillatio:** 4th Vexillatio (*Quarta* — unit recorded as hardened in Noviomagus Secundus *Ruhe*; Branimir cross-trained into Silence Cohort after rebound).  
+**Operational home Vexillatio:** 4th Vexillatio (*Quarta* — unit recorded as hardened in Noviomagus Secundus March of the Machine; Branimir cross-trained into Silence Cohort after rebound).  
 **Origin:** *Castrum Ferrum*, mid levels (son of triple-shift worker and line inspector).  
 **Apparent service age:** ~180–220 Terran years (estimate; **frontier-native** — **CV** annals; no **exit-ricochet** service fiction).
 
@@ -28,7 +28,7 @@
 
 * **Temperament:** Cold, methodical, impatient with reports that replace physical presence. Considers prolonged *cogitator* work without patrol “convenience blindness.”  
 * **Voice:** Short sentences, no metaphor; when challenging suspects uses Arbites bureaucratic tone, not trench shout.  
-* **Acknowledged flaw:** After 4th Cohort’s **collective** *Ruhe*, developed aversion to operations that depend on “body waking alone” to xeno threats — feeds **pattern-and-anomaly** doctrine as counter to cults **without** Shadow in the Warp.  
+* **Acknowledged flaw:** After 4th Cohort’s **collective** March of the Machine, developed aversion to operations that depend on “body waking alone” to xeno threats — feeds **pattern-and-anomaly** doctrine as counter to cults **without** Shadow in the Warp.  
 * **Field quotes (attributed):** *“The file says it’s you. Sweat says it isn’t.”* / *“Too perfect. Cut.”*
 
 ---
@@ -57,7 +57,7 @@
 
 *Names vague for operational secrecy.*
 
-* **048.M42 | Ruhe line (Incus-Gravis):** As line brother in **IV** *Quarta*, held static trench under Tyranid **Shadow in the Warp**; formative cohort *Ruhe* stillness per *Medicinae* annex. Narrative: [ruhe-defense.md](../../../chronicles/14-vexillum-chronicles/ruhe-defense.md) · AAR [aar-vex-iv-ruhe-defense.md](../../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md).  
+* **048.M42 | March line (Incus-Gravis):** As line brother in **IV** *Quarta*, held static trench under Tyranid **Shadow in the Warp**; formative cohort March of the Machine stillness per *Medicinae* annex. Narrative: [ruhe-defense.md](../../../chronicles/14-vexillum-chronicles/ruhe-defense.md) · AAR [aar-vex-iv-ruhe-defense.md](../../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md).  
 * **Mirrored shift (Noviomagus Prime):** Identified **mimic** cell — flawless papers, but **gaze** tracked wrong route before each service turn, **step** lacked long-shift knee micro-variation, imported soap smell inconsistent with block; delivered to Arbites before promethium conduit sabotage.  
 * **Over-straight rank:** Detected **motor symmetry** and **compound breathing** too aligned in stevedore squad (intermediate-stage hybrids); containment without shot in dense zone.  
 * ***Strategium* warning:** Report cited in doctrine: *“The machine doesn’t read habit. Ivory reads deviation.”*
@@ -66,6 +66,7 @@
 
 ## 6\. Relations
 
+* **Orin Valestrand (Legatus, IV *Quarta*):** Holds shingle **geometry** and March harness; Branimir holds **pattern** and cult lanes — parallel review on the banner court. Friction when Silence needs live assets the Legatus cannot shelter on the front.  
 * **Drusus:** Clinical respect; Branimir is live case study of 4th Cohort → Silence transition (biology vs. vigilance).  
 * **Arbites magistrates:** Frequent operational partner; avoids usurping sentence — prestige comes from **delivering** the living.  
 * **Pure-line Vexillationes:** Some Batavi call the cohort “police”; Branimir answers with prevented-incident data.
@@ -74,6 +75,6 @@
 
 ## 7\. Narrator notes
 
-Character ready for **urban thriller** stories on Noviomagus: infiltrators, cults, sabotage. Useful as POV explaining why *Ruhe* does **not** trigger against covert Genestealers — and why the Wall is not blind.
+Character ready for **urban thriller** stories on Noviomagus: infiltrators, cults, sabotage. Useful as POV explaining why March of the Machine does **not** trigger against covert Genestealers — and why the Wall is not blind.
 
 **Cross-reference:** [ruhe-defense.md](../../../chronicles/14-vexillum-chronicles/ruhe-defense.md) (*Quarta* / Branimir POV, 048.M42). [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md) §3; [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md) §III.

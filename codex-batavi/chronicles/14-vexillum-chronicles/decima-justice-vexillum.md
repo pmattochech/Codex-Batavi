@@ -34,7 +34,7 @@ The feral wolf — transhuman lupine mass, wrong in the joints, **not** the clea
 
 Secondary field: reduced icon. Tertiary: **X**, small, stamped where it would not compete. Quaternary: **three-dot** triangle — Wall, Scalpel, Judge — or grey band when paint failed at scale.
 
-Kadmos signed heat tolerances for battle smokes. Varro signed **oath alignment**. Drusus’s name appeared only on the *Medicinae* margin — *Blutrecht* telemetry cross-file, **not** cloth aesthetics.
+Kadmos signed heat tolerances for battle smokes. Varro signed **oath alignment**. Drusus’s name appeared only on the *Medicinae* margin — the Cull telemetry cross-file, **not** cloth aesthetics.
 
 ---
 
@@ -70,7 +70,7 @@ He did not claim to have stitched the wolf. He claimed to **carry** it without l
 
 ## VI. REGISTER
 
-The justice vexillum is **doctrine made cloth** — *Varro*’s oath and *Blutrecht* geometry in heraldic form. It is **not** interchangeable with *Alabarda* logistics; relay rules differ; the tenth flies **sentence**.
+The justice vexillum is **doctrine made cloth** — *Varro*’s oath and the Cull geometry in heraldic form. It is **not** interchangeable with *Alabarda* logistics; relay rules differ; the tenth flies **sentence**.
 
 ---
 

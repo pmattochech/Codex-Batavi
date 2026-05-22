@@ -18,7 +18,7 @@ On first neonate sweep: mild hypothermia, incipient dehydration, saturation at t
 
 When I advanced to collect the “specimen,” the **snarl** came.
 
-Instant telemetry: contraction spike in his *masseter* and pectorals, her heart rate **stable** while mine rose 11 bpm — suppressed in 0.8 seconds; irrelevant to her chart, loggable on mine. Private channel to Varro — time economy. His answer spared wrong diagnosis: not *Jagd*. **Territorial anchoring** with overlay of parental protocol absent from the *Codex*.
+Instant telemetry: contraction spike in his *masseter* and pectorals, her heart rate **stable** while mine rose 11 bpm — suppressed in 0.8 seconds; irrelevant to her chart, loggable on mine. Private channel to Varro — time economy. His answer spared wrong diagnosis: not Wild Hunt. **Territorial anchoring** with overlay of parental protocol absent from the *Codex*.
 
 I withdrew my hands, telegraphed motion: visible forearm, open palm, slow displacement on axes his combat reflex usually accepts as “medic, not target.” Each centimeter was **calibrated**. When he yielded, the scanner was priority again.
 

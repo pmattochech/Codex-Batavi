@@ -23,6 +23,7 @@ Mandatory obedience order for the AI:
 ### 0.1 Language and style — Codex Markdown files (`codex-batavi/`)
 
 * **Active policy:** **English** for any Markdown under `codex-batavi/` that is **created or edited**. Use clear US English prose, spelling, and vocabulary unless the user requests otherwise.
+* **Chronicle default form (`codex-batavi/chronicles/`):** Write chronicles as **novel/literary prose by default** (scene-forward narrative, not report/wiki body) unless the user explicitly orders another format for that specific write.
 * **Legacy:** Do not silently rewrite stable prose outside an assigned batch or explicit request (see [`TRANSLATION-HYBRID.md`](TRANSLATION-HYBRID.md)).
 * ***Warhammer 40,000*:** Keep game terms, equipment names, and fixed mottoes in canonical English; internal Chapter coinages follow [`GLOSSARY-EN.md`](GLOSSARY-EN.md).
 * **Book-style dialogue (narrative Markdown in `codex-batavi/`):** When a character’s spoken line is set on its **own line** (novel / chronicle style), mark it with a **leading em dash** (—), e.g. `— Words spoken here.` **Do not** use straight quotation marks for that running scene speech. Reserve **quotes** for **documentary** use only: in-universe records, slates, orders, registries, formal *attributed* excerpts, epigraphs, or explicit “the text says …” quotation — not for ordinary dialogue in fiction.

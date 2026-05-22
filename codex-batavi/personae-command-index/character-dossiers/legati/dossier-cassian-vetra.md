@@ -32,6 +32,7 @@
 
 ## 3\. Combat and doctrine
 
+* ***Alabarda* head — Type Fulmen (relay mast and denial):** coupling maul, sabot spike; **grav-lock** telescoping haft (relay extended / combat short); bearer-only actuation — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §11.  
 * **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — *Nona* **relay survival**: sustained kinetic pin, tactical missiles, melta and demo for **scorched** couplings, EM budget rigor.  
 * **Command style:** **Time and signal** over local kill ratios; trains **layered delay** until relief or **Chapter-wide** mobilization validates the blood price.  
 * **Cerberus / Singularity-Point:** Rotates detachments per register; signs off on **rift-adjacent** small-arms trials under Threshold protocols.
@@ -58,4 +59,4 @@
 
 POV for **relay horror**, **delay tactics**, **Threshold** sacrifice stories, and **macro** Chapter wake-up calls. High leverage for apocalypse-tier invasions.
 
-**Cross-reference:** [silent-hours-marco-de-vetra.md](../../../chronicles/14-vexillum-chronicles/silent-hours-marco-de-vetra.md) (**140.M42**, *Nona* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.9; [master-chronology.md](../../events-and-chronologies/master-chronology.md) (*Porta Nihili* context).
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §11; [silent-hours-marco-de-vetra.md](../../../chronicles/14-vexillum-chronicles/silent-hours-marco-de-vetra.md) (**140.M42**, *Nona* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.9; [master-chronology.md](../../events-and-chronologies/master-chronology.md) (*Porta Nihili* context).

@@ -1,6 +1,6 @@
 # THE RITES OF FRICTION (APPROVED MYSTICISM)
 
-A Batavi’s biology, constantly pressed by *Das Erbe* and the threat of **Furor** stage, developed subconscious defense mechanisms rooted in Aethelgard and Noviomagus native tradition. The Chapter does not condemn these practices; it absorbs them, because the legionary performs them masked as strict logic.
+A Batavi’s biology, constantly pressed by chimeric predisposition and the threat of **Furor** stage, developed subconscious defense mechanisms rooted in Aethelgard and Noviomagus native tradition. The Chapter does not condemn these practices; it absorbs them, because the legionary performs them masked as strict logic.
 
 **Doctrine stack:** Approved entries below are **layer 3** artifacts (sanctioned mysticism). **Where they come from** — silent intake from Castra Vetera proximity, forge floors, neophyte dialect — is filed as **[proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md)** (witness inheritance; Judex elevation vs burn).
 
@@ -8,7 +8,7 @@ A Batavi’s biology, constantly pressed by *Das Erbe* and the threat of **Furor
 
 *Inspired by the ancient Batavi leader’s oath who refused to cut hair or beard until his enemy was destroyed, staining the strands red.*
 
-**Practice:** Before a prolonged siege campaign, a Batavi squad often rubs volcanic ash or exhaust soot onto their helm lenses and faceplate, and refuses cosmetic cleaning of that specific ceramite plate until the mission’s primary target is annihilated. **The logical cover:** If challenged, a Batavi answers in clinical tone: *“The added soot acts as a refraction diffuser, reducing optical visor glare by twelve percent and nullifying our thermal signature to short-range enemy sensors.”* **The visceral truth:** It is a primitive blood oath. Filth on the helm is psychological weight — a physical, tactile reminder of unfinished work. The Batavi brain anchors on the “dirt,” using it as a mental latch that keeps combat frustration from escalating into *Jagd* hypermetabolism.
+**Practice:** Before a prolonged siege campaign, a Batavi squad often rubs volcanic ash or exhaust soot onto their helm lenses and faceplate, and refuses cosmetic cleaning of that specific ceramite plate until the mission’s primary target is annihilated. **The logical cover:** If challenged, a Batavi answers in clinical tone: *“The added soot acts as a refraction diffuser, reducing optical visor glare by twelve percent and nullifying our thermal signature to short-range enemy sensors.”* **The visceral truth:** It is a primitive blood oath. Filth on the helm is psychological weight — a physical, tactile reminder of unfinished work. The Batavi brain anchors on the “dirt,” using it as a mental latch that keeps combat frustration from escalating into Wild Hunt hypermetabolism.
 
 ## 2. The Iron Trinity (The Check Tap)
 
@@ -20,7 +20,7 @@ A Batavi’s biology, constantly pressed by *Das Erbe* and the threat of **Furor
 
 *Inspired by Germanic tribes sealing loyalty pacts by sharing salt, and the Roman rite of the Charon’s coin in the mouth or eating “soldiers’ bread.”*
 
-**Practice:** Before manning a shield wall’s front line, Batavi often take a grain of coarse salt or a tiny flake of hard bread from the hands of a mortal *Auxilia Batavorum* worker, placing it in the mouth before locking the helm’s seals. **The logical cover:** *“Metabolic-collapse prevention. Immediate sodium chloride absorption stabilizes electrolyte levels in transhuman blood, mitigating acute muscle cramps following *Das Erbe* caloric rebound.”* **The visceral truth:** Silent acknowledgment of mortal fragility. Salt burns the transhuman tongue. The harsh, simple taste reminds the iron giant how fragile those on his back are. It is chemical and spiritual anchor. When *Ruhe* imposes itself — under **Shadow in the Warp** of invasion-scale swarm, not loose xenos or cults without that aggregate veil — the taste of human salt reminds the Batavi he is not an iron automaton but protector of flesh.
+**Practice:** Before manning a shield wall’s front line, Batavi often take a grain of coarse salt or a tiny flake of hard bread from the hands of a mortal *Auxilia Batavorum* worker, placing it in the mouth before locking the helm’s seals. **The logical cover:** *“Metabolic-collapse prevention. Immediate sodium chloride absorption stabilizes electrolyte levels in transhuman blood, mitigating acute muscle cramps following chimeric predisposition caloric rebound.”* **The visceral truth:** Silent acknowledgment of mortal fragility. Salt burns the transhuman tongue. The harsh, simple taste reminds the iron giant how fragile those on his back are. It is chemical and spiritual anchor. When March of the Machine imposes itself — under **Shadow in the Warp** of invasion-scale swarm, not loose xenos or cults without that aggregate veil — the taste of human salt reminds the Batavi he is not an iron automaton but protector of flesh.
 
 ## 4. The Shallow Step (The Water March)
 

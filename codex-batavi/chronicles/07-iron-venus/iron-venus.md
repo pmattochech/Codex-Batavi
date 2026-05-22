@@ -36,7 +36,7 @@ Drusus advanced, gloved hands reaching for the “specimen.” That was when it 
 
 A guttural snarl thrumming in the armor’s breastplates came from Alaric’s helm. He stepped back, turning his body to shield the basket, hiding the child from Drusus’s reach. A purely territorial act. The Wolf would let no one touch the cub — not even the pack’s healer.
 
-Drusus stopped, hands in the air. He opened a private *vox* channel to the Chaplain. — *Varro, is he in Jagd? Is he going into frenzy?*
+Drusus stopped, hands in the air. He opened a private *vox* channel to the Chaplain. — *Varro, is he in Wild Hunt? Is he going into frenzy?*
 
 Varro did not look away from Alaric. The red lenses of his **Executor** wolf-skull helm read not physical threat but the psychic tide flooding the room. — *No* — Varro answered in a whisper of reverent awe. — *He is not hunting, Drusus. He is anchored. The storm inside him… it stopped. For the first time in centuries, there is silence in his soul.*
 

@@ -32,6 +32,7 @@
 
 ## 3\. Combat and doctrine
 
+* ***Alabarda* head — Type Primus (reference):** power axe cheek, short power impaler, power hammer opposite, butt spike for plant and lattice — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §3.  
 * **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — *Prima* baseline **industrial war**: bolters, chainswords, sustained automatic culture.  
 * **Command style:** Positions *Prima* as the **calibration Vexillatio** for the other eight — when another Legatus disputes *Armourium* queue priority, Corbec’s answer is **live fire tallies**, not rank shout.  
 * **Specialty cohort interface:** Treats Silence, Shadows, Stasis, and Nullity as **equal teeth** — refuses to starve one cohort to feed another’s legend.
@@ -44,6 +45,7 @@
 * **Pre-Legatus:** Completed a **full certified *Watch cycle*** under post-**051.M42** lattice ([deathwatch-and-batavorum.md](../../../political-relations/deathwatch-and-batavorum.md)); return audit sealed by *Medicinae* before nomination could advance.  
 * **Appointment:** Confirmed **Legatus** of *Prima* after **Valerius**’s expunging and the **Deathwatch career lattice** — exact year held close in *Strategium* minutes; bears *Alabarda* **not** under *clausula retentionis antecedentis* (no retroactive Watch waiver for this seat’s line of succession).  
 * **Silent Vigil era:** Held Noviomagus Prime garrison stability through the **Vigil-century** (**050–150.M42**) of **clinical** throne-distance — **discipline over comfort**; no public break with the Adamant Throne’s cold years.
+* **Post-second Red Wolf doctrine turn (sealed):** After recurrence markers in the Silent Vigil command band, Corbec is logged among the oldest-service voices arguing that anti-corruption doctrine must include a chapter-level **anti-Alaric inversion** path. He frames it as continuity law, not distrust: if the Castellan and Triumvirate are the first countermeasure against treason, the Chapter must remain the second.
 
 ---
 
@@ -51,12 +53,13 @@
 
 * **Alaric:** Obedience without intimacy; Corbec translates Triumvirate will into **forge queues** and **billet truth**.  
 * **Soren Riis:** Professional overlap on Watch paperwork and *Prima* billet fiction — mutual respect, zero friendship performance.  
+* **Armin Sturmwahl:** Co-architect counterpart in sealed redundancy discussions; Corbec provides mass-and-sustainment risk calculus while Sturmwahl pressure-tests timing and breach-speed assumptions.  
 * **Peer Legati:** Often the **default tie-break** voice in *Strategium* when two theaters dispute logistics — not because he is liked, because his numbers are boring and hard to refute.
 
 ---
 
 ## 6\. Narrator notes
 
-POV for **Noviomagus industrial** stories, post-traitor **command shame** without melodrama, and **Legatus** decisions under *Friction Geometry*. Useful when chronicles need a governor who **is not** Alaric and **is not** a villain.
+POV for **Noviomagus industrial** stories, post-traitor **command shame** without melodrama, and **Legatus** decisions under *Friction Geometry*. In Silent Vigil expansion, his command virtue is **continuity under humiliation**; his failure-risk profile is **over-indexing on throughput certainty when adaptive ambiguity is required**.
 
-**Cross-reference:** [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3; [master-chronology.md](../../events-and-chronologies/master-chronology.md) §III.
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md); [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3; [master-chronology.md](../../events-and-chronologies/master-chronology.md) §III; [06-old-voices-council.md](../../../chronicles/06-silent-vigil/06-old-voices-council.md); [10-proof-of-chain.md](../../../chronicles/06-silent-vigil/10-proof-of-chain.md).

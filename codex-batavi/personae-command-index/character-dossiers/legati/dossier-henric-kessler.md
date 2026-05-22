@@ -32,6 +32,7 @@
 
 ## 3\. Combat and doctrine
 
+* ***Alabarda* head — Type Hasta (spear-first):** long power spear spine, thrust-primary head, minimal sweep arc — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §4.  
 * **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — *Secunda* **measured fire**: stalker barrels, assigned-target packets, minimal mass-reactive sprawl.  
 * **Command style:** Trains Suppression cells in **disciplined angles**; Ruin and Siege held to **same** witness standard when operating in populated infrastructure.  
 * **Silence Cohort:** Unusually high **joint** certification rate — Kessler wants pattern officers **on** his leash when cult work touches his hive stacks.
@@ -47,7 +48,7 @@
 
 ## 5\. Relations
 
-* **Branimir Vorhalt:** Mutual professional regard — Kessler provides **jurisdiction** maps; Branimir provides **pattern** captures. Friction when Silence wants a live asset Kessler’s political cover cannot hold.  
+* **Orin Valestrand (*Quarta*):** Rare joint ops when hive cult traffic touches **high-G** transit — Kessler provides **Lex** cover; Valestrand provides **hold** geometry. Friction on collateral math vs. boot-debt discipline.  
 * **Varro:** Sparse communion; Kessler treats *Reclusiam* rites as **morale ordinance** to be scheduled, not debated.  
 * **Peer Legati:** Seen as **rigid**; trusted when civilian optics matter.
 
@@ -57,4 +58,4 @@
 
 POV for **hive legality**, **collateral dread**, and **Castra-Vetera** corridor thrillers. Contrast to Branimir: Kessler is **macro** governor, not *decanus* street hunter.
 
-**Cross-reference:** **078.M42 | Hive Dominus** — *Alabarda* field 4 certified compliance: [hive-dominus-compliance.md](../../../chronicles/14-vexillum-chronicles/hive-dominus-compliance.md) · [aar-vex-ii-hive-dominus-compliance.md](../../../chronicles/vexillum-register/aar-vex-ii-hive-dominus-compliance.md). [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.2.
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §4; **078.M42 | Hive Dominus** — *Alabarda* field 4 certified compliance: [hive-dominus-compliance.md](../../../chronicles/14-vexillum-chronicles/hive-dominus-compliance.md) · [aar-vex-ii-hive-dominus-compliance.md](../../../chronicles/vexillum-register/aar-vex-ii-hive-dominus-compliance.md). [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.2.

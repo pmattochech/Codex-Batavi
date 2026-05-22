@@ -2,7 +2,7 @@
 
 **Location:** Aethelgard Prime, North Spire Pinnacle (above the tideline).  
 **Present:** Lord Castellan Alaric von Helis, Great Wolf Logan Grimnar, Young King Ragnar Blackmane.  
-**Context:** Informal diplomatic visit after the Hoth-Secundus campaign.
+**Context:** Informal diplomatic visit after the Garmr’s Shelf campaign.
 
 The storm on Aethelgard was not like Fenris’s snow. Snow burned with cold; Aethelgard’s rain crushed with weight. Atop the *High-Anchor* landing platform, lashed by two-hundred-kilometer winds, three giants stood motionless.
 
