@@ -2,7 +2,7 @@
 
 ## 1. Identity and heraldry
 
-*See also: [intro-and-heraldry.md](../intro-and-heraldry/intro-and-heraldry.md) — title, myth, and heraldry summary. [progenitor-classification.md](progenitor-classification.md) — open vs sealed gene-line framing.*
+*See also: [intro-and-heraldry.md](../intro-and-heraldry/chapter-identity.md) — title, myth, and heraldry summary. [progenitor-classification.md](progenitor-classification.md) — open vs sealed gene-line framing.*
 
 * **Official name:** Batavian Iron-Guard (High Gothic: *Cohors Batavorum*).  
 * **Operational name:** *Cohors Batavorum* (Frontier Wolves). Used on vox and tactical logs.  

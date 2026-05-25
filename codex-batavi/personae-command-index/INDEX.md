@@ -7,7 +7,7 @@
 
 ## intro-and-heraldry
 
-- [intro-and-heraldry.md](intro-and-heraldry/intro-and-heraldry.md) — title, myth, and heraldry summary
+- [intro-and-heraldry.md](intro-and-heraldry/chapter-identity.md) — title, myth, and heraldry summary
 - [vexilla-by-vexillatio-design.md](intro-and-heraldry/vexilla-by-vexillatio-design.md) — *Alabarda* four-field register; *Prima* obligation §2.2; *Decima* justice vexillum §4
 
 ## doctrine-and-organs
@@ -29,7 +29,7 @@
 
 ### plans
 
-- [VEXILLATIO-NAMED-CHARACTERS-PLAN.md](character-dossiers/plans/VEXILLATIO-NAMED-CHARACTERS-PLAN.md) — backlog worksheet: one named figure per *Prima*–*Decima* (status matrix + dossier stub)
+- [vexillatio-named-characters-plan.md](character-dossiers/plans/vexillatio-named-characters-plan.md) — backlog worksheet: one named figure per *Prima*–*Decima* (status matrix + dossier stub)
 
 ### triumvirate
 
@@ -60,8 +60,8 @@
 - [dossier-soren-riis.md](character-dossiers/cohorts-and-detachments/dossier-soren-riis.md) — Apothecary; Liaison-Praefect (Deathwatch / *Medicinae*)
 - [dossier-markus-graile.md](character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) — Captain, 10th *Decima* (anchor guard / instructor face)
 - [dossier-valens-ritter.md](character-dossiers/cohorts-and-detachments/dossier-valens-ritter.md) — **Valens Ritter** — Silence + Shadows dual-path (folklore: *Silent Shadow* / *Two-Path Wolf*); ledger *Prima*, spend *Octava*
-- [dossier-einar-dreadwolf.md](character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) — **Einar Dreadwolf** — *Quinta* Lieutenant; Furor-only until Nails; first Exanimus **074.M42**; Judex watch; Moraine-Nine
-- [dossier-leviathan-entombed.md](character-dossiers/cohorts-and-detachments/dossier-leviathan-entombed.md) — **Radulf Castrin**, **The Old Wolf** (Leviathan) — mentor / merit rites / siege line; entombment **TBD**
+- [dossier-einar-dreadwolf.md](character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) — **Einar Dreadwolf** — **The Lost** (*Amissi*); **KIA 168.M42** — [amissi-the-lost.md](doctrine-and-organs/amissi-the-lost.md)
+- [dossier-radulf-castrin.md](character-dossiers/cohorts-and-detachments/dossier-radulf-castrin.md) — **Radulf Castrin**, **The Old Wolf** (Leviathan) — mentor / merit rites / siege line; entombment **TBD**
 
 ### supporting
 

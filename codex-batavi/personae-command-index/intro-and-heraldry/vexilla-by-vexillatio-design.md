@@ -1,7 +1,7 @@
 # Vexilla by Vexillatio — design register
 
 **Status:** **Locked** — ordinal, four-field layout, *Prima* shame, *Decima* justice charge (user decisions). Per-vex **greatest success** rows **II–IX** link to [vexillum-register](../../chronicles/vexillum-register/) after-actions unless marked otherwise.  
-**Law:** [intro-and-heraldry.md](intro-and-heraldry.md) (wolf, gladius, waves, **no moon**); [visual-identity-paint-guide.md](../../visual-identity-paint-guide.md); halberd layout [`alabarda-vexillum-layout-reference.png`](../../lore-images/alabarda-vexillum-layout-reference.png). **Line-art stencil (2×2 fields, yard, inverted triple-merlon base — *castellum* flavor, optional in final paint):** [`vexillum-template-lineart-castellum.png`](../../lore-images/vexillum-template-lineart-castellum.png).
+**Law:** [chapter-identity.md](chapter-identity.md) (wolf, gladius, waves, **no moon**); [visual-identity-paint-guide.md](../../visual-identity-paint-guide.md); halberd layout [`alabarda-vexillum-layout-reference.png`](../../lore-images/alabarda-vexillum-layout-reference.png). **Line-art stencil (2×2 fields, yard, inverted triple-merlon base — *castellum* flavor, optional in final paint):** [`vexillum-template-lineart-castellum.png`](../../lore-images/vexillum-template-lineart-castellum.png).
 
 ---
 
@@ -108,7 +108,7 @@ Every **Legatus** *Alabarda Vexillum* for **2nd–9th Vexillatio** carries **fou
 ## 6. Related
 
 * [alabarda-head-groups.md](../../arsenal-and-logistics/alabarda-head-groups.md) — *Alabarda* **head groups** per Vexillatio (I–IX); bearer authority; cloth unchanged  
-* [intro-and-heraldry.md](intro-and-heraldry.md) — *Alabarda Vexillum* doctrine  
+* [chapter-identity.md](chapter-identity.md) — *Alabarda Vexillum* doctrine  
 * [military-hierarchy.md](../doctrine-and-organs/military-hierarchy.md) §3 — Legatus / *Decima*  
 * [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md) — quick ref  
 * [visual-identity-paint-guide.md](../../visual-identity-paint-guide.md) — palette / panel notes  

@@ -4,7 +4,7 @@
 **When:** **~545.M42** (hours after [`03-palace-of-the-wall.md`](03-palace-of-the-wall.md))  
 **Where:** Noviomagus Prime — Castellan palace perimeter and *Apothecarion* side-office  
 **Who:** **Alaric von Helis**, **Varro**, **Drusus**  
-**Cross-references:** [`dossier-leviathan-entombed.md`](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-leviathan-entombed.md)
+**Cross-references:** [`dossier-radulf-castrin.md`](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-radulf-castrin.md)
 
 ---
 

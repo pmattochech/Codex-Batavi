@@ -141,7 +141,7 @@ It fell because the moons’ bleed turned **sharp**, because engines died, becau
 
 He walked out of the fire into Ork country and kept killing.
 
-That slaughter continues in [dreadwolf-red-tide.md](dreadwolf-red-tide.md) — **Epicenter** onward. The recovery element would call it **heat at the epicenter**. **Einar** had no name for it except **work unfinished**.
+That slaughter continues in [dreadwolf-red-tide.md](dreadwolf-red-tide.md) — **Epicenter** onward. The recovery element would call it **heat at the epicenter**. **Einar** had no name for it except **work unfinished**. Terminus: [dreadwolf-terminus.md](dreadwolf-terminus.md) (**168.M42**, Luna Sigma).
 
 ---
 

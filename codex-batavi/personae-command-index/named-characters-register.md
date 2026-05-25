@@ -3,7 +3,7 @@
 **Purpose:** Single lookup table for **named** figures in `codex-batavi/` — dossier canon, recurring chronicle roles, and major guest Imperial personae.  
 **Not included:** unnamed line troops, crowd extras, or one-line walk-ons unless they recur across files.
 
-**Dossier hub:** [character-dossiers/](character-dossiers/) · **Vexillatio worksheet:** [VEXILLATIO-NAMED-CHARACTERS-PLAN.md](character-dossiers/plans/VEXILLATIO-NAMED-CHARACTERS-PLAN.md)
+**Dossier hub:** [character-dossiers/](character-dossiers/) · **Vexillatio worksheet:** [vexillatio-named-characters-plan.md](character-dossiers/plans/vexillatio-named-characters-plan.md)
 
 ---
 
@@ -15,7 +15,7 @@
 | **II** | *Secunda* | [Henric Kessler](character-dossiers/legati/dossier-henric-kessler.md) | — |
 | **III** | *Tertia* | [Theron Brach](character-dossiers/legati/dossier-theron-brach.md) | — |
 | **IV** | *Quarta* | [Orin Valestrand](character-dossiers/legati/dossier-orin-valestrand.md) | [Branimir Vorhalt](character-dossiers/cohorts-and-detachments/dossier-branimir.md) (*Decanus Primus*, Silence) |
-| **V** | *Quinta* | [Armin Sturmwahl](character-dossiers/legati/dossier-armin-sturmwahl.md) | [Einar Dreadwolf](character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) (Lieutenant; Judex watch) |
+| **V** | *Quinta* | [Armin Sturmwahl](character-dossiers/legati/dossier-armin-sturmwahl.md) | [Einar Dreadwolf](character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) (Lieutenant — **Steppenwolf** + **first of The Lost** / *Amissi*) |
 | **VI** | *Sexta* | [Gervas Bifronte](character-dossiers/legati/dossier-gervas-bifronte.md) | — |
 | **VII** | *Septima* | [Lucan Phaetron](character-dossiers/legati/dossier-lucan-phaetron.md) | — |
 | **VIII** | *Octava* | [Ivar Malevent](character-dossiers/legati/dossier-ivar-malevent.md) | Valens Ritter (detached spend) |
@@ -40,8 +40,8 @@
 | **Henric Kessler** — Legatus, II *Secunda* | Castra-Vetera; measured fire and legal kill geometry |
 | **Theron Brach** — Legatus, III *Tertia* | Khan-Bator chem–thermal war; Vigilax kill-box geometry |
 | **Orin Valestrand** — Legatus, IV *Quarta* | Incus-Gravis high-G shingle war; March-of-the-Machine anchor doctrine; 048.M42 March defense; rotation discipline |
-| **Armin Sturmwahl** — Legatus, V *Quinta* | Storm assault / jump descent; impatience with static holds; Wild Hunt cultural home; Dreadwolf Red Tide (**074.M42**); Gutgrind Descent |
-| **Einar Dreadwolf** — Lieutenant, V *Quinta* | Furor only until Nails (**074.M42**); forced first Exanimus; cable-mane; Moraine-Nine salute; Varro watch; *Quinta* cadence |
+| **Armin Sturmwahl** — Legatus, V *Quinta* | Storm assault / jump descent; impatience with static holds; Wild Hunt cultural home; Dreadwolf Red Tide (**074.M42**); Gutgrind Descent; Luna Sigma (**168.M42**) |
+| **Einar Dreadwolf** — Lieutenant; **Steppenwolf** + **first of The Lost** (*Amissi*) (**KIA 168.M42**) | Detached registry + Judex watch; full **Mk X Tacticus**; **Mk V** helm (no studs); black pauldrons / red limbs; thunder-claws + traction boots; Moraine-Nine → Luna Sigma |
 | **Gervas Bifronte** — Legatus, VI *Sexta* | Bifrons-Ferrum twin-gate siege; Gravis breach math |
 | **Lucan Phaetron** — Legatus, VII *Septima* | Vitreus plasma/photonic containment |
 | **Ivar Malevent** — Legatus, VIII *Octava* | Reef/Maleventum void war; Loken Passage intercept |
@@ -92,4 +92,4 @@
 
 ---
 
-*Last updated: 2026-05-20 — V *Quinta*: Einar Dreadwolf (Lieutenant); Moraine-Nine / Dreadwolf Red Tide.*
+*Last updated: 2026-05-20 — Einar Dreadwolf: capture 074.M42 (Silent Vigil); terminis 168.M42 Luna Sigma.*

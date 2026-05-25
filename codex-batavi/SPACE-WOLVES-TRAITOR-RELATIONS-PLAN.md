@@ -2,7 +2,7 @@
 
 **Goal:** Keep **diplomatic, aesthetic, and battlefield** stories with **Space Wolves** and with **Traitor / Heresy-imprint** foes **aligned** with [progenitor-classification.md](personae-command-index/doctrine-and-organs/progenitor-classification.md) — **Russ-line–adjacent** phenotype **without** open-record Fenris parentage; **Strand β** as **sealed** clinical language, **never** a public “Sons of Horus successor” label unless you write a leak arc.
 
-**Law:** [`.cursorrules`](../.cursorrules) §0.2 · heraldry separation: [intro-and-heraldry.md](personae-command-index/intro-and-heraldry/intro-and-heraldry.md) · outsider beliefs: [`FOUNDING-OUTSIDER-KNOWLEDGE-PLAN.md`](FOUNDING-OUTSIDER-KNOWLEDGE-PLAN.md).
+**Law:** [`.cursorrules`](../.cursorrules) §0.2 · heraldry separation: [intro-and-heraldry.md](personae-command-index/intro-and-heraldry/chapter-identity.md) · outsider beliefs: [`FOUNDING-OUTSIDER-KNOWLEDGE-PLAN.md`](FOUNDING-OUTSIDER-KNOWLEDGE-PLAN.md).
 
 ---
 

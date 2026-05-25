@@ -6,7 +6,7 @@ All notable changes to the **Codex-Batavi** lore in this repository are document
 
 ### Added
 
-- **Dossier — Radulf Castrin (The Old Wolf),** `codex-batavi/personae-command-index/character-dossiers/cohorts-and-detachments/dossier-leviathan-entombed.md`: Leviathan-pattern interred brother, mentor / merit-rite / siege line; **Furor** at interment; sarcophagus stability tied to **Batavi** repair and progenoid **economy**; relations (Alaric, Varro, neophyte slots); cross-references.
+- **Dossier — Radulf Castrin (The Old Wolf),** `codex-batavi/personae-command-index/character-dossiers/cohorts-and-detachments/dossier-radulf-castrin.md`: Leviathan-pattern interred brother, mentor / merit-rite / siege line; **Furor** at interment; sarcophagus stability tied to **Batavi** repair and progenoid **economy**; relations (Alaric, Varro, neophyte slots); cross-references.
 - **INDEX** entry for the above dossier under cohorts-and-detachments.
 
 ### Changed

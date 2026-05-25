@@ -41,7 +41,7 @@ Each **Legatus** commands one **indivisible** Vexillatio of 500. The table maps 
 
 *Geography:* [general-atlas.md](../atlas-and-topography/general-atlas.md) · *Order of battle:* [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) · *Chain of command:* [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md).
 
-*Named Legati & Decima line face (fiction register):* [VEXILLATIO-NAMED-CHARACTERS-PLAN.md](../personae-command-index/character-dossiers/plans/VEXILLATIO-NAMED-CHARACTERS-PLAN.md) §2 matrix + dossiers.
+*Named Legati & Decima line face (fiction register):* [vexillatio-named-characters-plan.md](../personae-command-index/character-dossiers/plans/vexillatio-named-characters-plan.md) §2 matrix + dossiers.
 
 *Archive hygiene:* older sector files may still say “company” where *Strategium* now numbers a **Vexillatio**; treat as the same 500-cell block unless a document is explicitly historical.
 

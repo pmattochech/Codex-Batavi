@@ -86,7 +86,7 @@ Main sections use level-2 headings; subsections level-3; field labels **bold** w
 
 ## Colors of the Chapter
 
-**Chapter symbol:** Roundel achievement — **crimson** field, **black** rectilinear frontal **wolf**, **orange** lens triangles (**105°** leg corner), **white** horizontal **gladius** + **black** contour, **black** double ring, **angular wave** band. Pauldron: **same wolf** (reduced), not a second icon. Rasters: [chapter-seal-official.png](../lore-images/chapter-seal-official.png). Law: [intro-and-heraldry.md](intro-and-heraldry/intro-and-heraldry.md), [visual-identity-paint-guide.md](../visual-identity-paint-guide.md). **No lunar field.**
+**Chapter symbol:** Roundel achievement — **crimson** field, **black** rectilinear frontal **wolf**, **orange** lens triangles (**105°** leg corner), **white** horizontal **gladius** + **black** contour, **black** double ring, **angular wave** band. Pauldron: **same wolf** (reduced), not a second icon. Rasters: [chapter-seal-official.png](../lore-images/chapter-seal-official.png). Law: [intro-and-heraldry.md](intro-and-heraldry/chapter-identity.md), [visual-identity-paint-guide.md](../visual-identity-paint-guide.md). **No lunar field.**
 
 **Armor colors:** **Mechanicus Standard Grey** (~90% chassis); **Mephiston Red** pauldrons, forearms, oath-tracery; **Troll Slayer Orange** helm lenses (triangular read). Weathering: Noviomagus industrial haze.
 

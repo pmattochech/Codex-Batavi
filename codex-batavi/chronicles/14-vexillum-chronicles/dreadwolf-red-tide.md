@@ -5,7 +5,7 @@
 **Where:** **Moraine-Nine** — brack shepherd moon, Aethelgard tide theater; wreck of **World Eaters** prison hulk **Kzorn’s Maw** (translated registry)  
 **Who:** **Lieutenant Einar** (recovery as **Einar Dreadwolf**); **Legatus Armin Sturmwahl**; **Varro** (Judex); **V** *Quinta* recovery element
 
-**Cross-references:** [dreadwolf-the-maw.md](dreadwolf-the-maw.md) (capture — Shepherd’s Hook, conscious Nails, ship slaughter) · [dossier-einar-dreadwolf.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [dossier-armin-sturmwahl.md](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [dossier-varro.md](../../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [aar-vex-v-dreadwolf-red-tide.md](../vexillum-register/aar-vex-v-dreadwolf-red-tide.md)
+**Cross-references:** [dreadwolf-kzorns-maw.md](dreadwolf-kzorns-maw.md) (capture — Shepherd’s Hook, conscious Nails, ship slaughter) · [dossier-einar-dreadwolf.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [dossier-armin-sturmwahl.md](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [dossier-varro.md](../../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [aar-vex-v-dreadwolf-red-tide.md](../vexillum-register/aar-vex-v-dreadwolf-red-tide.md)
 
 ---
 
@@ -143,7 +143,7 @@ Sturmwahl looked at the brack closing over the view slit.
 
 The gunboat descended. Moraine-Nine’s tide smell entered through filters — salt, rot, sweet Ork smoke, and underneath it all the metal breath of a prison ship that had fallen burning and still had not finished **spending** what it had taken.
 
-*Capture aboard **Kzorn’s Maw** — Shepherd’s Hook, conscious Nails, eleven gifts — is chronicled in [dreadwolf-the-maw.md](dreadwolf-the-maw.md).*
+*Capture aboard **Kzorn’s Maw** — Shepherd’s Hook, conscious Nails, eleven gifts — is chronicled in [dreadwolf-kzorns-maw.md](dreadwolf-kzorns-maw.md).*
 
 ---
 
@@ -503,15 +503,13 @@ Drusus did not lie with hope. He lied with **precision**.
 
 ---
 
-### Judex watch and closure cadre
+### Judex watch — *Amissi* induction
 
-**Sturmwahl** took the elite cadre assignment without ceremony.
+No announcement. A slate addendum: **Einar** on **The Lost** (*Amissi*) roster — **first of The Lost** — under **Varro** direct authority; **Steppenwolf** detached registry **unchanged** on the tallies (**not** Legatus-owned closure cadre). **Varro** on every mission line; gene-seed on death per **Vermilion** protocol — harvest if clean, **destroy** if corrupt, **no** living tithe. Full armor refit (Mk X Tacticus, thunder-claws, *Amissi* heraldry) filed post-debrief — see [amissi-the-lost.md](../../personae-command-index/doctrine-and-organs/amissi-the-lost.md) · [steppenwolf-doctrine.md](../../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) §5.1.
 
-No announcement. A slate addendum: **Einar** on closure roster; **Varro** on every mission line; partial armor profile attached; gene-seed on death per **Vermilion** protocol — harvest if clean, **destroy** if corrupt, **no** living tithe.
+The first live exercise was not Armageddon — not yet — but a traitor splinter bled off a reef convoy in the Aethelgard theater, heretics wearing stolen Aquila plate and the confidence of men who thought the frontier was too tired to judge them. **Einar** went in full **Mk X Tacticus** — *Amissi* heraldry, **thunder-claws** engaged, **Mk V** bowl under cowl. **Haldor** and **Eskil** flanked at distance. **Varro** walked the center line behind **Einar** like a shadow that had learned to weigh the same ounces as a blade.
 
-The first live exercise was not Armageddon — not yet — but a traitor splinter bled off a reef convoy in the Aethelgard theater, heretics wearing stolen Aquila plate and the confidence of men who thought the frontier was too tired to judge them. **Einar** went in chest-and-thigh ceramite, bare arms, open helm policy approved for the sortie. **Haldor** and **Eskil** flanked at distance. **Varro** walked the center line behind **Einar** like a shadow that had learned to weigh the same ounces as a blade.
-
-When the killing finished, **Einar** stood in the rinse of brack spray until the red on his hands stopped lying about freshness.
+When the killing finished, **Einar** stood in the rinse of brack spray until the red on his vambraces stopped lying about freshness.
 
 Then he turned toward the Legatus and waited.
 
@@ -529,11 +527,12 @@ Not to crowds. To the wall. To **Armin**. To the Judex who would file the words 
 
 * **Name:** **Einar Dreadwolf** — honor registry, assault *Quinta*; **not** *Reclusiam* soul-title.  
 * **Biology:** **Furor-only** ~century; **first Exanimus** forced **074.M42** (Nails + Khorne-adjacent bleed); cable-mane merge; Drusus maintenance schedule.  
-* **Assignment:** **Legatus Armin Sturmwahl** elite closure cadre; **Varro** on **every** mission slate; traitor-hunt / Versibar recovery (Armageddon-class splinters logged later); partial armor authorized.  
+* **Assignment:** **The Lost** (*Amissi*); **Varro** direct authority on **every** mission slate; traitor-hunt / Versibar recovery (Armageddon-class splinters logged later); full **Mk X Tacticus** refit per [amissi-the-lost.md](../../personae-command-index/doctrine-and-organs/amissi-the-lost.md).  
 * **Doctrine:** Eleven shipboard mercy killings — **frontier duty** under Sturmwahl seal; Confessor lattice accepts soul-geometry defense; **not** absolution.  
 * **Gene-seed:** Death only — audit, then harvest or destroy; no living tithe.  
 * **Training:** Neophyte instruction **refused** — *Strategium* accepts precedent hazard.  
-* **Heraldry:** **No** *Alabarda* field 4. Oral theater: **Red Tide** (Moraine-Nine).
+* **Heraldry:** **No** *Alabarda* field 4. Oral theater: **Red Tide** (Moraine-Nine).  
+* **Terminus:** **168.M42** Luna Sigma — [dreadwolf-terminus.md](dreadwolf-terminus.md); Judex watch **closed**.
 
 ---
 
@@ -583,4 +582,4 @@ The Chapter, for now, still held the chain.
 
 ---
 
-*End register excerpt.*
+*End register excerpt (074.M42). Terminus **168.M42:** [dreadwolf-terminus.md](dreadwolf-terminus.md).*

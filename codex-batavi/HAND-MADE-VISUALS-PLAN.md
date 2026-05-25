@@ -43,7 +43,7 @@
 
 - [ ] **Brief:** one concrete frame (e.g. “Castellan silhouette + forge haze,” “seal as banner”).
 - [ ] **Medium:** pencil → ink, or **digital** with pressure-sensitive brush (still **hand** strokes).
-- [ ] **Canon hygiene:** cross-check silhouettes against [`intro-and-heraldry.md`](personae-command-index/intro-and-heraldry/intro-and-heraldry.md) — **frontal wolf**, no accidental Luna Wolves moon cues unless intentional pastiche.
+- [ ] **Canon hygiene:** cross-check silhouettes against [`intro-and-heraldry.md`](personae-command-index/intro-and-heraldry/chapter-identity.md) — **frontal wolf**, no accidental Luna Wolves moon cues unless intentional pastiche.
 
 ---
 

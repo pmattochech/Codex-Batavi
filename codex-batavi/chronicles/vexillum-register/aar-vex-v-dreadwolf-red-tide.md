@@ -24,7 +24,7 @@ Recover **V** *Quinta* battle-brother remains for **Versibar / KIA** funeral geo
 
 ## 3. Execution
 
-**Phase 0 — Capture (annex):** Twelve brothers; eleven shipboard mercy killings after Nails-induced soul collapse; subject killed World Eaters crew and escaped crash — see [dreadwolf-the-maw.md](../14-vexillum-chronicles/dreadwolf-the-maw.md).
+**Phase 0 — Capture (annex):** Twelve brothers; eleven shipboard mercy killings after Nails-induced soul collapse; subject killed World Eaters crew and escaped crash — see [dreadwolf-kzorns-maw.md](../14-vexillum-chronicles/dreadwolf-kzorns-maw.md).
 
 **Phase A — Approach:** Gunboat insert; Sturmwahl + Varro + twelve-brother escort.
 
@@ -50,4 +50,12 @@ Recovery element: **two** wounded (Ork scrap ambush en route out).
 | Mission rule | **Varro** mandatory on all subject deployments |
 | Gene-seed on death | Harvest if clean; **destroy** if corrupt; living subject **no** tithe |
 
-**Cross-reference:** [dossier-einar-dreadwolf.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [dreadwolf-the-maw.md](../14-vexillum-chronicles/dreadwolf-the-maw.md) · [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §C.
+## 6. Terminus (168.M42)
+
+**Lieutenant Einar Dreadwolf** — KIA Luna Sigma outer perimeter during Battle of Sigma Moon. Wearing full ***Amissi* Mk X Tacticus** rig; self-triggered ***Spina Cineris*** (*Destabilis Molecularis* terminis); **Varro** + **Armin Sturmwahl** witness; gene-seed **null** (annihilated). *Vermilion* watch file **closed** — *Terminus 168.M42 — Luna Sigma. Receipt denied.*
+
+Narrative: [dreadwolf-terminus.md](../14-vexillum-chronicles/dreadwolf-terminus.md) · [battle-of-sigma-moon.md](../11-sigma-moon/battle-of-sigma-moon.md).
+
+---
+
+**Cross-reference:** [dossier-einar-dreadwolf.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [dreadwolf-kzorns-maw.md](../14-vexillum-chronicles/dreadwolf-kzorns-maw.md) · [dreadwolf-terminus.md](../14-vexillum-chronicles/dreadwolf-terminus.md) · [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §C.

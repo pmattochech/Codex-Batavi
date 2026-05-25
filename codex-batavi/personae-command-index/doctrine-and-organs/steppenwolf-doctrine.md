@@ -48,6 +48,16 @@ Deathwatch is a **frequent** shell for Steppenwolves; it is **not** the **defini
 
 Steppenwolf service is a **branch**, not a punishment detail. It is **not** a substitute path to **Legatus** or *Decima* eligibility unless *Strategium* separately certifies the **closed** prerequisites (including, where applicable, a full **certified *Watch cycle*** as defined in [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) §4.1 — perpetual detached files are **audited**, not assumed equivalent). Perpetual Watch Steppenwolves are budgeted under **Watch–Chapter** agreements; liaison and disclosure still run through *Medicinae* ([deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) §5).
 
+### 5.1 *Amissi* convergence — first of The Lost
+
+**Lieutenant Einar Dreadwolf** is the **only** recorded case where **Steppenwolf** filing and **The Lost** (*Amissi*) watch **stack** on one brother.
+
+* **Before Moraine-Nine:** Century at **Furor** only on **V** *Quinta* rolls — but *Medicinae* telemetry showed **garrison lattice** **amplified** wildness; *Strategium* kept him on **detached registry** (Needles shore vectors, reef relays, sparse mesh). Barracks called him **Steppenwolf** without exile-tone.  
+* **074.M42:** Forced **first Exanimus**; inducted **first of The Lost** under **Varro**. **Steppenwolf** status **does not** lapse — Judex watch supersedes **Legatus** tasking, not distance-as-tooling.  
+* **Not** a template: **Valens Ritter** and other Steppenwolves never cross into *Amissi*; most *Amissi* were **never** Steppenwolves. Einar is the **founding exemplar** of the Vermilion pool, not the definition of either status.
+
+See [dossier-einar-dreadwolf.md](../character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [amissi-the-lost.md](amissi-the-lost.md) §II.
+
 ---
 
 ## 6. Related
@@ -58,3 +68,4 @@ Steppenwolf service is a **branch**, not a punishment detail. It is **not** a su
 - [friction-rites.md](friction-rites.md) — tactile / liturgical anchors (contrast: Steppenwolf’s distance from daily lattice)  
 - [specialty-cohorts.md](../../arsenal-and-logistics/specialty-cohorts.md) — Shadows Cohort (modal overlap)  
 - [border-political-relations.md](../../political-relations/border-political-relations.md) — institutional frame for detached Imperial cooperation  
+- [amissi-the-lost.md](amissi-the-lost.md) · [dossier-einar-dreadwolf.md](../character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) — §5.1 registry stack (first of The Lost)  

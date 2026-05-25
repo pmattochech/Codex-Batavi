@@ -87,7 +87,7 @@ Read in numeric order under [`../../chronicles/00-foundation-war/`](../../chroni
 | 1 | [`chapter-01-mud-gospel.md`](../../chronicles/00-foundation-war/chapter-01-mud-gospel.md) | 20 | [`chapter-20-skin-debt.md`](../../chronicles/00-foundation-war/chapter-20-skin-debt.md) |
 | 2 | [`chapter-02-the-arrangement.md`](../../chronicles/00-foundation-war/chapter-02-the-arrangement.md) | 21 | [`chapter-21-bridge-saints.md`](../../chronicles/00-foundation-war/chapter-21-bridge-saints.md) |
 | 3 | [`chapter-03-dog-logic.md`](../../chronicles/00-foundation-war/chapter-03-dog-logic.md) | 22 | [`chapter-22-maw-exercise.md`](../../chronicles/00-foundation-war/chapter-22-maw-exercise.md) |
-| 4 | [`chapter-04-seventy-two.md`](../../chronicles/00-foundation-war/chapter-04-seventy-two.md) | 23 | [`chapter-23-dynastys-last-command.md`](../../chronicles/00-foundation-war/chapter-23-dynastys-last-command.md) |
+| 4 | [`chapter-04-seventy-two.md`](../../chronicles/00-foundation-war/chapter-04-seventy-two.md) | 23 | [`chapter-23-dynasty-last-command.md`](../../chronicles/00-foundation-war/chapter-23-dynasty-last-command.md) |
 | 5 | [`chapter-05-bait-doctrine.md`](../../chronicles/00-foundation-war/chapter-05-bait-doctrine.md) | 24 | [`chapter-24-incus-still-burns.md`](../../chronicles/00-foundation-war/chapter-24-incus-still-burns.md) |
 | 6 | [`chapter-06-mirror-routes.md`](../../chronicles/00-foundation-war/chapter-06-mirror-routes.md) | 25 | [`chapter-25-the-beast-chapter.md`](../../chronicles/00-foundation-war/chapter-25-the-beast-chapter.md) |
 | 7 | [`chapter-07-living-specimen.md`](../../chronicles/00-foundation-war/chapter-07-living-specimen.md) | 26 | [`chapter-26-vitreus-bleed.md`](../../chronicles/00-foundation-war/chapter-26-vitreus-bleed.md) |

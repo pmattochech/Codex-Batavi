@@ -8,7 +8,7 @@
 
 **Cloth law:** Every Legatus *Alabarda Vexillum* carries the **same four-field vexillum** (chapter icon, large Roman ordinal, anchor/specialty, fourth field per *Prima* shame vs triumph register) — [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md).
 
-**Haft core:** Relay spine, *Genetor Vexilli* clearance flags, merged tactical *auspex*, biological-failure telemetry — same instrument class as [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/intro-and-heraldry.md) and [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
+**Haft core:** Relay spine, *Genetor Vexilli* clearance flags, merged tactical *auspex*, biological-failure telemetry — same instrument class as [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) and [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
 
 **What varies:** Only the **head group** (and, for **IX** *Nona*, certified **haft length modes**) — *Armourium* **pattern** per Vexillatio seat, optional **named Legatus file** when *Strategium* registers a successor variant. The object remains ***Alabarda Vexillum***; the metal answers **theater geometry**.
 
@@ -152,7 +152,7 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 ## 13. Related
 
-- [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/intro-and-heraldry.md) — *Alabarda Vexillum* cloth and physical rig  
+- [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) — *Alabarda Vexillum* cloth and physical rig  
 - [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — four-field register  
 - [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3 — Legatus / relay  
 - [vexillatio-operational-armory.md](vexillatio-operational-armory.md) — theater proficiency per Vex  

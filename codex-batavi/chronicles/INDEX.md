@@ -34,7 +34,7 @@
 | 20 | [chapter-20-skin-debt.md](00-foundation-war/chapter-20-skin-debt.md) | *Skin Debt* |
 | 21 | [chapter-21-bridge-saints.md](00-foundation-war/chapter-21-bridge-saints.md) | *Bridge Saints* |
 | 22 | [chapter-22-maw-exercise.md](00-foundation-war/chapter-22-maw-exercise.md) | *Maw Exercise* |
-| 23 | [chapter-23-dynastys-last-command.md](00-foundation-war/chapter-23-dynastys-last-command.md) | *Dynasty’s Last Command* |
+| 23 | [chapter-23-dynasty-last-command.md](00-foundation-war/chapter-23-dynasty-last-command.md) | *Dynasty’s Last Command* |
 | 24 | [chapter-24-incus-still-burns.md](00-foundation-war/chapter-24-incus-still-burns.md) | *Incus Still Burns* |
 | 25 | [chapter-25-the-beast-chapter.md](00-foundation-war/chapter-25-the-beast-chapter.md) | *The Beast Chapter* (Execratio) |
 | 26 | [chapter-26-vitreus-bleed.md](00-foundation-war/chapter-26-vitreus-bleed.md) | *Vitreus Bleed* |
@@ -100,16 +100,16 @@
 - [09-war-game-black-mirror.md](06-silent-vigil/09-war-game-black-mirror.md) ✅ — controlled anti-Alpha validation exercise; Decima proves gate discipline under false-command pressure and noise injection.
 - [10-proof-of-chain.md](06-silent-vigil/10-proof-of-chain.md) ✅ — live continuity test under controlled Castellan absence window; chain law holds without unauthorized drift.
 
-## corbec-the-first-legatus
+## 16-corbec-the-first-legatus
 *(Corbec POV sub-chronicle, moved out of Silent Vigil for readability.)*
 
-- [00-valerian-witness-corbec-i.md](corbec-the-first-legatus/00-valerian-witness-corbec-i.md)
-- [01-valerian-rot-spread.md](corbec-the-first-legatus/01-valerian-rot-spread.md)
-- [02-valerian-reading-b.md](corbec-the-first-legatus/02-valerian-reading-b.md)
-- [03-cassian-vorn-first-sword.md](corbec-the-first-legatus/03-cassian-vorn-first-sword.md)
-- [04-vorn-duel-open-field.md](corbec-the-first-legatus/04-vorn-duel-open-field.md)
-- [05-run-to-the-wall.md](corbec-the-first-legatus/05-run-to-the-wall.md)
-- [06-the-sentence-seen-from-below.md](corbec-the-first-legatus/06-the-sentence-seen-from-below.md)
+- [valerian-heresy-witness-corbec-i.md](16-corbec-the-first-legatus/valerian-heresy-witness-corbec-i.md)
+- [01-valerian-rot-spread.md](16-corbec-the-first-legatus/01-valerian-rot-spread.md)
+- [valerian-heresy-reading-b-corbec.md](16-corbec-the-first-legatus/valerian-heresy-reading-b-corbec.md)
+- [03-cassian-vorn-first-sword.md](16-corbec-the-first-legatus/03-cassian-vorn-first-sword.md)
+- [04-vorn-duel-open-field.md](16-corbec-the-first-legatus/04-vorn-duel-open-field.md)
+- [05-run-to-the-wall.md](16-corbec-the-first-legatus/05-run-to-the-wall.md)
+- [06-the-sentence-seen-from-below.md](16-corbec-the-first-legatus/06-the-sentence-seen-from-below.md)
 
 ## 07-iron-venus
 - [iron-venus.md](07-iron-venus/iron-venus.md) — aggregated block (short merged H1s: *The End of the Vigil*, Tyvar, Aethelgard, etc.)
@@ -120,8 +120,16 @@
   - [record-varro-elara.md](07-iron-venus/record-varro-elara.md) ✅ — doctrinal voice; arrival at the *Apothecarion* (snarl, *vox* to Drusus, anchoring, fear vs. purpose); Triumvirate; kitchen, name **Elara Solis**, growth beats (sleep, helm, parapet); 165.M42; Tobias; Naval Academy through reports; Malakor / close 178.M42.
   - *Note:* records are **retrospective**, not fiction locked to a single instant; canonical Parapet / kitchen scene in [iron-venus.md](07-iron-venus/iron-venus.md). See [dossier-elara-solis.md](../personae-command-index/character-dossiers/mortals/dossier-elara-solis.md).
 
+## 17-guilliman-notes
+
+*(Regent encounter register — staff serial; prose without saga H1 lock.)*
+
+- [01-first-encounter.md](17-guilliman-notes/01-first-encounter.md) … [10-tenth-encounter.md](17-guilliman-notes/10-tenth-encounter.md) · [07-guilliman-verdict.md](17-guilliman-notes/07-guilliman-verdict.md)
+
+---
+
 ## 08-audit-diplomacy
-- [logic-audit.md](08-audit-diplomacy/logic-audit.md)
+- [audit-of-logic.md](08-audit-diplomacy/audit-of-logic.md)
 - [diplomacy-aethelgard.md](08-audit-diplomacy/diplomacy-aethelgard.md)
 - [dragon-in-the-hearth-tushan.md](08-audit-diplomacy/dragon-in-the-hearth-tushan.md)
 - [gray-silence-of-fenris.md](08-audit-diplomacy/gray-silence-of-fenris.md)
@@ -131,8 +139,8 @@
 ## 09-frontier-life
 - [limes-renegade-resupply.md](09-frontier-life/limes-renegade-resupply.md) — **Limes** resupply purge: *Ash Standard* (guest renegade Chapter); **§I** dock *texture* + **Serun Orach**; time-bait **§II**; *Strategium* / *Nona* **§III**; gallery **§IV**; **Silence** / **Shadow**, *Decima* **§V**; **Asterion Moloc** + **Kadmos** hulks **§VI**; seventy-two-hour strike **§VII** (**\*\*\*.M42** date TBD)
 - [tithe-of-the-rejected.md](09-frontier-life/tithe-of-the-rejected.md) — includes ***The Tithe of the Rejected***
-- [witness-inheritance-chronicles.md](09-frontier-life/witness-inheritance-chronicles.md) — vignettes: proximity substrata; forge/pier/bell/threshold habit; slow adoption of Castra Vetera rites (**ca.** 046–118.M42 band)
-- [mortal-pov-porta-nihili-shorts.md](09-frontier-life/mortal-pov-porta-nihili-shorts.md) — **mortal POV** triptych: Noviomagus **Throne receipt** / Aethelgard **salt-in-the-ration** / Great Reef **strait house** (**bottle creole**, Astartes offstage)
+- [witness-inheritance-vignettes.md](09-frontier-life/witness-inheritance-vignettes.md) — vignettes: proximity substrata; forge/pier/bell/threshold habit; slow adoption of Castra Vetera rites (**ca.** 046–118.M42 band)
+- [porta-nihili-mortals-triptych.md](09-frontier-life/porta-nihili-mortals-triptych.md) — **mortal POV** triptych: Noviomagus **Throne receipt** / Aethelgard **salt-in-the-ration** / Great Reef **strait house** (**bottle creole**, Astartes offstage)
 - [bottle-fair-yarn.md](09-frontier-life/bottle-fair-yarn.md) — **Bottle Fair** prose: Golden Grain Station market; Khan-Bator / Needles / Noviomagus / Reef **fork** via tithe · marriage · salt (**no lecture**)
 
 ## 10-tithe-of-sweetness
@@ -144,7 +152,7 @@
 
 **Milestone:** 168.M42 — The Battle of Luna Sigma.
 
-- [battle-of-sigma-moon.md](11-sigma-moon/battle-of-sigma-moon.md) ✅ — Alaric faces Angron in single combat. The Librarians’ signal, the Broken Haruspicium, the fifty-three-minute fight and the regenerative coma. The Integration Anomaly.
+- [battle-of-sigma-moon.md](11-sigma-moon/battle-of-sigma-moon.md) ✅ — Alaric faces Angron in single combat. The Librarians’ signal, the Broken Haruspicium, the fifty-three-minute fight and the regenerative coma. The Integration Anomaly. **Einar Dreadwolf** terminis on outer perimeter — [dreadwolf-terminus.md](14-vexillum-chronicles/dreadwolf-terminus.md).
 - [price-of-memory.md](11-sigma-moon/price-of-memory.md) ✅ — Elara and Tobias reach evacuated Luna Sigma. The Inquisitor who lies by omission. Alaric says only what he can. Elara archives everything for when she holds enough rank.
 
 ---
@@ -176,8 +184,10 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 
 - [INDEX.md](14-vexillum-chronicles/INDEX.md) — chronicle list + pointers to **III** / **VIII** / Malakor-adjacent material
 - [ruhe-defense.md](14-vexillum-chronicles/ruhe-defense.md) — **IV** *Quarta*, **048.M42** Tyranid veil / shingle line; **Branimir Vorhalt** POV; Drusus coefficients; *Alabarda* *March of the Machine* reference hold.
-- [dreadwolf-the-maw.md](14-vexillum-chronicles/dreadwolf-the-maw.md) — **V** *Quinta*, **074.M42**; Shepherd’s Hook capture, conscious Nails, ship slaughter (*Vermilion* adjunct; companion to Red Tide).
+- [dreadwolf-kzorns-maw.md](14-vexillum-chronicles/dreadwolf-kzorns-maw.md) — **V** *Quinta*, **074.M42**; Shepherd’s Hook capture, conscious Nails, ship slaughter (*Vermilion* adjunct; companion to Red Tide).
 - [dreadwolf-red-tide.md](14-vexillum-chronicles/dreadwolf-red-tide.md) — **V** *Quinta*, **074.M42** Moraine-Nine recovery; **Einar Dreadwolf**; **not** *Alabarda* field 4.
+- [dreadwolf-precipitation.md](14-vexillum-chronicles/dreadwolf-precipitation.md) — **V** *Quinta*, *Amissi* era; reef cult net, three Exalted dead, **Slaughterbound** duel; **precipitation** (Einar / Varro / Armin); spectator narrative; **not** *Alabarda* field 4.
+- [dreadwolf-terminus.md](14-vexillum-chronicles/dreadwolf-terminus.md) — **V** *Quinta*, **168.M42** Luna Sigma; **Einar Dreadwolf** KIA; ***Spina Cineris***; closes Judex watch; companion to [battle-of-sigma-moon.md](11-sigma-moon/battle-of-sigma-moon.md).
 - [gutgrind-descent.md](14-vexillum-chronicles/gutgrind-descent.md) — **V** *Quinta*, **121.M42** Selene-Black; **Armin Sturmwahl** vs Warboss Gutgrind; Ork scrap-spire; *Alabarda* field 4 (post–**Foundation War / Aethelgard opening** register).
 - [korvus-twin-breach.md](14-vexillum-chronicles/korvus-twin-breach.md) — **VI** *Sexta*, **098.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; *Alabarda* field 4.
 - [null-vent-covenant.md](14-vexillum-chronicles/null-vent-covenant.md) — **VII** *Septima*, **112.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; *Alabarda* field 4.

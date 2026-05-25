@@ -46,6 +46,7 @@
 * **Rise:** Jump-qualified **captain** with documented **zero** unrecoverable pack failures across three gas-giant moon campaigns; promoted when Aethelgard’s **assault throughput** became *Strategium* priority.  
 * **074.M42 | Dreadwolf Red Tide (Moraine-Nine):** Recovery mission for **V** *Quinta* dead after World Eaters prison hulk; found **Lieutenant Einar** alive at massacre epicenter — **withheld cull** after salute and ***Quinta* cadence**. Narrative: [dreadwolf-red-tide.md](../../../chronicles/14-vexillum-chronicles/dreadwolf-red-tide.md) · [dossier-einar-dreadwolf.md](../cohorts-and-detachments/dossier-einar-dreadwolf.md). **Not** *Alabarda* field 4.  
 * **121.M42 | Gutgrind Descent:** Led **V** *Quinta* jump clearance of Ork scrap-spire on Selene-Black; Warboss **Gutgrind** killed; certified *Alabarda* **field 4** (Foundation War **Aethelgard opening** **not** used for fourth panel). Narrative: [gutgrind-descent.md](../../../chronicles/14-vexillum-chronicles/gutgrind-descent.md).
+* **168.M42 | Luna Sigma:** **V** *Quinta* on First Vexillatio outer ring during World Eaters incursion and Angron manifestation; witnessed **Einar Dreadwolf** terminis — ***Spina Cineris***, receipt denied; **not** present for Castellan duel. [dreadwolf-terminus.md](../../../chronicles/14-vexillum-chronicles/dreadwolf-terminus.md) · [battle-of-sigma-moon.md](../../../chronicles/11-sigma-moon/battle-of-sigma-moon.md).
 * **Post-second Red Wolf doctrine turn (sealed):** In Silent Vigil crisis sessions, Sturmwahl aligns with Corbec in proposing command redundancy against inversion risk. His argument is timing-centric: if the Castellan can become the fastest threat vector in theater, contingency logic must be pre-authorized and pre-trained, not debated at trigger time.
 
 ---
@@ -56,7 +57,7 @@
 * **Gervas Bifronte (6th):** Friendly rivalry — Sturmwahl mocks **plod**; Bifronte mocks **bounce**. Joint ops are efficient bloodbaths.  
 * **Corbec Ardens:** Respects Corbec’s “boring numbers” enough to let logistics set assault boundaries in sealed anti-inversion planning; their method differs, objective does not.  
 * **Peer Legati:** **Go-to** for vertical relief and **tide-moon** emergencies.  
-* **Einar Dreadwolf:** Closest line-brother; **074.M42** Moraine-Nine — Sturmwahl raised the cull blade, withheld it after the ***Quinta* cadence** salute. Transferred survivor to elite cadre under perpetual **Varro** watch. [`dossier-einar-dreadwolf.md`](../cohorts-and-detachments/dossier-einar-dreadwolf.md) · [`dreadwolf-red-tide.md`](../../../chronicles/14-vexillum-chronicles/dreadwolf-red-tide.md).
+* **Einar Dreadwolf:** Closest line-brother; **074.M42** Moraine-Nine — cull withheld after ***Quinta* cadence**; thereafter **The Lost** (*Amissi*) under **Varro** — **not** Sturmwahl’s chain of command; **168.M42** Luna Sigma terminis witnessed. [`dossier-einar-dreadwolf.md`](../cohorts-and-detachments/dossier-einar-dreadwolf.md) · [`amissi-the-lost.md`](../../doctrine-and-organs/amissi-the-lost.md).
 
 ---
 

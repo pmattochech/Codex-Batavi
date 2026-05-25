@@ -42,7 +42,7 @@
 
 * **Interior life** — **Furor**+**Batavi** **repair** model sets the **default**: **slower** **cognitive** **slip** vs **Lexicanum** Dreadnought **expectation**; **residual** **dread** (Varro) and **coffin** **as** **gear** (Kadmos) **TBD** by scene.
 
-* **Living** **bonds** — who on the wall still **remembers** him **walking**; **Gervas** / **Bifrons** line optional per [dossier-gervas-bifronte.md](dossier-gervas-bifronte.md).
+* **Living** **bonds** — who on the wall still **remembers** him **walking**; **Gervas** / **Bifrons** line optional per [dossier-gervas-bifronte.md](../legati/dossier-gervas-bifronte.md).
 
 * **One** **named** **battle** honor when you **choose** a **date**.
 

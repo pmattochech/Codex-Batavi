@@ -6,6 +6,8 @@
 
 **Command pairing:** In every Vexillatio, the fifty **Shadows** **operate under Silence** — lattice routing, pattern debt, custody handoff, and *Strategium* tasking run through the **ivory** chain; black pauldrons execute vertical and deniable geometry **on Silence-priced targets**. Stasis and Nullity remain parallel peers, not subordinate to ivory.
 
+**Not a cohort:** **The Lost** (*Amissi*) — small Vermilion detachment of unstable **Exanimus** brothers under **Varro** direct authority; see [amissi-the-lost.md](../personae-command-index/doctrine-and-organs/amissi-the-lost.md). **Black pauldrons** on *Amissi* (both sides, red wolf charges) are **not** Shadows cohort marking.
+
 ---
 
 ## 1. Silence Cohort (counter-intelligence)

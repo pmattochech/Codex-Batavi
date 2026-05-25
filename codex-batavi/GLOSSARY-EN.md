@@ -8,7 +8,12 @@ Use when writing or editing English prose. Extend as you go.
 | **Iron Protocol** | Battle motto: *We hold.* |
 | **Faith Protocol** | Formal litany: *The Emperor dictates, we comply.* |
 | ***Quinta* cadence** (assault / Aethelgard) | *We hold, as the Needles hold the cold tide.* — vexillatio answer to Iron Protocol; first documented **074.M42**, Moraine-Nine ([`dreadwolf-red-tide.md`](chronicles/14-vexillum-chronicles/dreadwolf-red-tide.md)) |
-| **Einar Dreadwolf** | *Quinta* Lieutenant; **Furor only** until **074.M42** Nails; forced first **Exanimus**; **no** Varro soul-name; Judex watch — [`dossier-einar-dreadwolf.md`](personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) |
+| **Einar Dreadwolf** | **Steppenwolf** (detached registry) + **first of The Lost** (*Amissi*); Lieutenant (**KIA 168.M42** Luna Sigma); capture **074.M42**; arc: [`dreadwolf-kzorns-maw.md`](chronicles/14-vexillum-chronicles/dreadwolf-kzorns-maw.md) → [`dreadwolf-red-tide.md`](chronicles/14-vexillum-chronicles/dreadwolf-red-tide.md) → [`dreadwolf-terminus.md`](chronicles/14-vexillum-chronicles/dreadwolf-terminus.md) |
+| **The Lost (*Amissi*)** | Small **Vermilion** detachment — **Exanimus** brothers who cannot hold stable ordinary command; **Varro** direct authority (Death Company analogue); **not** a cohort; founding exemplar **Einar** (registry stack with **Steppenwolf**) — [`amissi-the-lost.md`](personae-command-index/doctrine-and-organs/amissi-the-lost.md) |
+| **Thunder-claws (*ungues fulminis*)** | Noviomagus compact **lightning claws** — dorsal blades, **free fingers**; *Amissi* / Shadows family — [`einar-thunder-claws-reference.md`](lore-images/einar-thunder-claws-reference.md) |
+| **Gaine digitale** | Fingertip **sheaths** for Exanimus keratin — **trimming waived** while worn; paired with thunder-claws on *Amissi* rig |
+| ***Spina Cineris*** | Subcranial terminis pin — **molecular destabilization** + collar seal; **Brass-denial**; **168.M42** ([`dreadwolf-terminus.md`](chronicles/14-vexillum-chronicles/dreadwolf-terminus.md)) |
+| **Molecular destabilization charge** | Noviomagus purge ordnance — bounded volume unmade to **ash/slag**; macro [`tithe-of-the-rejected.md`](chronicles/09-frontier-life/tithe-of-the-rejected.md); micro ***Spina Cineris*** |
 | Cohors Batavorum / Batavian Iron-Guard | Chapter identity; motto *Unbent* |
 | **Batavi** vs **Batavian** | **Batavi** for marines and concrete things (*a Batavi battle-brother, Batavi Terminator*). **Batavian** for abstractions (*Batavian logic, Batavian geometry, Batavian Iron-Guard*). |
 | Castellan | Alaric’s role as Chapter Master |

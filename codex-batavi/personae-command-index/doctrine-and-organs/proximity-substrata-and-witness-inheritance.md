@@ -2,7 +2,7 @@
 
 **Doctrinal classification:** internal — Reclusiam lattice / Triumvirate civics · **not** open Administratum annex
 
-**Cross-reference:** [pax-batavorum.md](pax-batavorum.md) §3 (Doctrine of Shared Sweat) · [friction-rites.md](friction-rites.md) (approved mysticism, clinical cover) · [friction-geometry.md](friction-geometry.md) · [frontier-wolf-rite.md](frontier-wolf-rite.md) · [batavi-affect-kinesics-and-mortal-literacy.md](batavi-affect-kinesics-and-mortal-literacy.md) · narrative vignettes: [witness-inheritance-chronicles.md](../../chronicles/09-frontier-life/witness-inheritance-chronicles.md)
+**Cross-reference:** [pax-batavorum.md](pax-batavorum.md) §3 (Doctrine of Shared Sweat) · [friction-rites.md](friction-rites.md) (approved mysticism, clinical cover) · [friction-geometry.md](friction-geometry.md) · [frontier-wolf-rite.md](frontier-wolf-rite.md) · [batavi-affect-kinesics-and-mortal-literacy.md](batavi-affect-kinesics-and-mortal-literacy.md) · narrative vignettes: [witness-inheritance-vignettes.md](../../chronicles/09-frontier-life/witness-inheritance-vignettes.md)
 
 ---
 

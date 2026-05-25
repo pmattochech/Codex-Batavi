@@ -1,7 +1,7 @@
 # [WIKI] The Der Batav myth and the founding of the Cohors Batavorum
 
 **Classification:** Lexicon and litanies — founding myth / Chapter identity  
-**Cross-references:** [Batav Wolf / *Canis Batavorum* (iconic species)](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md) · [fauna-flora-named-specimens.md](../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md) · [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md) · [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/intro-and-heraldry.md) · [mentality-and-philosophy.md](mentality-and-philosophy.md)
+**Cross-references:** [Batav Wolf / *Canis Batavorum* (iconic species)](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md) · [fauna-flora-named-specimens.md](../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md) · [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md) · [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) · [mentality-and-philosophy.md](mentality-and-philosophy.md)
 
 ---
 

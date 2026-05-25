@@ -24,7 +24,7 @@ RENAMES: list[tuple[str, str]] = [
     ("atlas-and-topography/systems/ATLAS_SISTEMA_III_LIMIAR.md",         "system-iii-threshold.md"),
 
     # ── personae command index (canonical tree) ──
-    ("personae-command-index/intro-and-heraldry/codex-batavorum.md", "intro-and-heraldry.md"),
+    ("personae-command-index/intro-and-heraldry/codex-batavorum.md", "chapter-identity.md"),
     ("personae-command-index/doctrine-and-organs/ficha-tecnica-o-codex-batavorum.md", "technical-datasheet.md"),
     ("personae-command-index/doctrine-and-organs/o-conselho-extendido-e-o-librarium.md", "council-and-librarium.md"),
     ("personae-command-index/doctrine-and-organs/a-cadeia-de-atrito-hierarquia-militar-da-meia-legiao.md", "military-hierarchy.md"),
@@ -63,7 +63,7 @@ RENAMES: list[tuple[str, str]] = [
     ("chronicles/07-iron-venus/a-venus-de-ferro.md",                                  "iron-venus.md"),
     ("chronicles/07-iron-venus/o-santuario-da-fumaca-e-do-pao.md",                    "sanctuary-smoke-and-bread.md"),
     ("chronicles/07-iron-venus/a-venus-de-ferro-a-filha-do-lobo-e-a-vigilia-do-ferro.md", "wolf-daughter.md"),
-    ("chronicles/08-audit-diplomacy/a-auditoria-da-logica.md",                     "logic-audit.md"),
+    ("chronicles/08-audit-diplomacy/a-auditoria-da-logica.md",                     "audit-of-logic.md"),
     ("chronicles/08-audit-diplomacy/a-diplomacia-das-presas-e-da-forja.md",        "diplomacy-aethelgard.md"),
     ("chronicles/08-audit-diplomacy/o-dragao-na-lareira-o-calor-de-tushan-em-noviomagus.md", "dragon-in-the-hearth-tushan.md"),
     ("chronicles/08-audit-diplomacy/cinza-o-silencio-de-fenris-em-noviomagus.md",  "gray-silence-of-fenris.md"),
