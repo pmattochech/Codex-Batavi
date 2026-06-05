@@ -18,7 +18,7 @@
 | 4 | [04-fourth-encounter.md](04-fourth-encounter.md) | 424 | **Alaric** — dismissed Strategium | Salamanders echo, controlled Chapter exchanges, **Elara** / kitchen as translation layer |
 | 5 | [05-fifth-encounter.md](05-fifth-encounter.md) | 528 | **Drusus** + **Varro** | Triumvirate clinical; Martha’s kitchen; Wolf’s Curse as organism |
 | 6 | [06-sixth-encounter.md](06-sixth-encounter.md) | 396 | **Uriel Ventris** | Deathwatch witness — *restraint given a body*; external Chapter audit |
-| 7 | [07-guilliman-verdict.md](07-guilliman-notes/07-guilliman-verdict.md) | 216 | *(solo)* | Crusade simulation; **Alaric remains** — wall under dual audit; kitchen off limits |
+| 7 | [07-guilliman-verdict.md](07-guilliman-verdict.md) | 216 | *(solo)* | Crusade simulation; **Alaric remains** — wall under dual audit; kitchen off limits |
 | 8 | [08-eighth-encounter.md](08-eighth-encounter.md) | 244 | **Henric Kessler** + **Alaric** | Nine Phalanx trenchworks wargame — geometry argued until it improves |
 | 9 | [09-ninth-encounter.md](09-ninth-encounter.md) | 658 | **Brach** → **Sturmwahl** → **Corbec** | Mortal weight tour: Khan-Bator chem silos · Aethelgard **Ash-Back** · Noviomagus street + forge (**Elias** / wooden blade echo) |
 | 10 | [10-tenth-encounter.md](10-tenth-encounter.md) | 163 | **Shield-Captain Tyvar** | *Limes Lupus* collar review — continuity, doubt as torque, no new drama |
