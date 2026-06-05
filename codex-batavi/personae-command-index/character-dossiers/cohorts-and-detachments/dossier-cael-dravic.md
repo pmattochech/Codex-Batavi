@@ -14,7 +14,7 @@
 
 ---
 
-## 2. Garmr’s Shelf (545.M42)
+## 2. Garmr’s Shelf (055.M42)
 
 Assigned to melt-line redoubt during Genestealer purge on **Garmr’s Shelf**. When Lord Castellan Alaric von Helis ordered **Hold the line** and descended the ravine solo, Dravic took overwatch with thermal scope.
 

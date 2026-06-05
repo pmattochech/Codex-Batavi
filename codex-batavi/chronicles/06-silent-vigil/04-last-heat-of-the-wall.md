@@ -106,7 +106,7 @@ For the Castellan's analytical mind, the scene was not a moment of domestic tend
 
 The Swift Shadow had agreed to become the slowest anchor in the world, only so Elara could learn to walk without skinning her knees on Noviomagus's iron.
 
-Noviomagus Prime had no seasons in the poetic sense; only cycles of industrial brutality. But even by that forge-world's standards, the Orbital Winter of 552.M42 was a catastrophic anomaly. Acid ice storms that lashed the Cohors Batavorum's towers were severe enough to freeze secondary promethium distribution lines.
+Noviomagus Prime had no seasons in the poetic sense; only cycles of industrial brutality. But even by that forge-world's standards, the Orbital Winter of **162.M42** was a catastrophic anomaly. Acid ice storms that lashed the Cohors Batavorum's towers were severe enough to freeze secondary promethium distribution lines.
 
 On the military tier, Astartes legionaries simply ignored the temperature drop. Their armor handled vacuum cold; an acid blizzard was only a tactical inconvenience. But in the service quarters adjacent to Martha's Kitchen, central heating failure was a thermodynamic death sentence.
 

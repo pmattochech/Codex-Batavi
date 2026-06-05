@@ -1,7 +1,7 @@
 # [CHRONICLE] SEED IN IRON
 
 **Classification:** Triumvirate follow-up — restricted command psychology  
-**When:** **~545.M42** (hours after [`03-palace-of-the-wall.md`](03-palace-of-the-wall.md))  
+**When:** **~055.M42** (hours after [`03-palace-of-the-wall.md`](03-palace-of-the-wall.md))  
 **Where:** Noviomagus Prime — Castellan palace perimeter and *Apothecarion* side-office  
 **Who:** **Alaric von Helis**, **Varro**, **Drusus**  
 **Cross-references:** [`dossier-radulf-castrin.md`](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-radulf-castrin.md)

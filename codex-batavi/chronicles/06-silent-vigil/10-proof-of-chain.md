@@ -1,7 +1,7 @@
 # [CHRONICLE] PROOF OF CHAIN
 
 **Classification:** sealed operational proof — continuity test under Castellan absence window  
-**When:** **~546.M42** (after [`09-war-game-black-mirror.md`](09-war-game-black-mirror.md))  
+**When:** **~056.M42** (after [`09-war-game-black-mirror.md`](09-war-game-black-mirror.md))  
 **Where:** Noviomagus Prime periphery — live deployment corridor and command relay sectors  
 **Who:** Decima execution elements, line officers from multiple Vexillationes, oversight by **Tyvar**, **Varro**, **Drusus**; **Alaric** intentionally off-net for test window  
 **Cross-references:** [`09-war-game-black-mirror.md`](09-war-game-black-mirror.md) · [`../../personae-command-index/doctrine-and-organs/protocol-access-matrix.md`](../../personae-command-index/doctrine-and-organs/protocol-access-matrix.md)

@@ -1,7 +1,7 @@
 # [CHRONICLE] PROTOCOL FORGED IN IRON
 
 **Classification:** sealed ratification record — doctrine codification and boundary disclosure  
-**When:** **~545.M42** (after [`07-decima-gatekeepers.md`](07-decima-gatekeepers.md))  
+**When:** **~055.M42** (after [`07-decima-gatekeepers.md`](07-decima-gatekeepers.md))  
 **Where:** Noviomagus Prime — Strategium black chamber / restricted audience corridor  
 **Who:** **Varro**, **Drusus**, **Tyvar**, selected Legatus signatories, then **Alaric von Helis**  
 **Cross-references:** [`07-decima-gatekeepers.md`](07-decima-gatekeepers.md) · [`../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md`](../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md) · [`../../personae-command-index/doctrine-and-organs/protocol-access-matrix.md`](../../personae-command-index/doctrine-and-organs/protocol-access-matrix.md)

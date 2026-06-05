@@ -41,7 +41,7 @@ Items the Ring is expected to resolve without Castellan lead when **050.M42+** l
 
 ---
 
-## 3) Exceptional agenda — Axiom Lupus path (~545.M42 sequence)
+## 3) Exceptional agenda — Axiom Lupus path (~055.M42 sequence)
 
 Ordered questions the Ring must answer before black-chamber signatures:
 

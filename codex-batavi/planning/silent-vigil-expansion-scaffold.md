@@ -2,7 +2,9 @@
 
 **Purpose:** planning scaffold for future implementation only (no canon lock by itself).  
 **Scope:** Silent Vigil expansion across planning notes, wiki/doctrine entries, and chronicle arc files.  
-**Current status:** draft board open.
+**Current status:** draft board — **protocol arc complete**; date pass **May 2026** (**545→055**, **552→162**).
+
+**Chronicle hub:** [`../chronicles/06-silent-vigil/README.md`](../chronicles/06-silent-vigil/README.md)
 
 ---
 

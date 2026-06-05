@@ -1,10 +1,10 @@
 # The Saga of Viggo
 
-# THE BAPTISM OF OIL AND ICE (CA. 545.M42)
+# THE BAPTISM OF OIL AND ICE (CA. 055.M42)
 
 The storm on Garmr’s Shelf was not weather; it was natural machining. Wind carried ice crystals so sharp and dense they worked like industrial sandblasting, scraping the industrial grey from the ceramite plates of Alaric von Helis’s *Castra-Lupus*. Every step the Lord Castellan took was a calculation of friction and gravity. The adamantium claws of his boots — the *Pillars of Noviomagus* — punched the permafrost with a dull cracking sound, anchoring his chassis tonnage against gusts that would have thrown a common man into the air.
 
-Garmr’s Shelf sat on the Nihilus-facing fringe lanes near Loken Passage, close enough to Castra Vetera for hard resupply, far enough to be eaten by bad astropathic weather and delayed mercy. A Space Wolves hunt-presence had held the ice belts for years; Fenrisian wolf lines had followed war and stayed.
+Garmr’s Shelf sat on the Nihilus-facing fringe lanes near **Witness Ford**, close enough to Castra Vetera for hard resupply, far enough to be eaten by bad astropathic weather and delayed mercy. A Space Wolves hunt-presence had held the ice belts for years; Fenrisian wolf lines had followed war and stayed.
 
 Alaric was not alone on the ice — only alone by choice. *Decima* was in-theater with him, distributed by kill geometry: Markus Graile and twelve anchor-guard brothers held the melt-line redoubt, two recon pairs screened ridge approaches, and a reserve file secured exfil vectors to the landing corridor. When Alaric chose a solitary descent anyway, those dispositions became witness points, not protection.
 

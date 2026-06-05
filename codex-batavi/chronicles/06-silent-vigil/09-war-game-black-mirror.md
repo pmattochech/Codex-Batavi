@@ -1,7 +1,7 @@
 # [CHRONICLE] WAR-GAME BLACK MIRROR
 
 **Classification:** sealed validation chronicle — controlled anti-Alpha simulation  
-**When:** **~546.M42** (cycles after [`08-protocol-forged-in-iron.md`](08-protocol-forged-in-iron.md))  
+**When:** **~056.M42** (cycles after [`08-protocol-forged-in-iron.md`](08-protocol-forged-in-iron.md))  
 **Where:** Noviomagus Prime — Decima black range / Strategium simulation grid  
 **Who:** **Tyvar** (oversight), **Kadmos** (lock geometry), **Otho** (signal/noise control), Decima execution cadres, remote review by **Varro** and **Drusus**  
 **Cross-references:** [`07-decima-gatekeepers.md`](07-decima-gatekeepers.md) · [`08-protocol-forged-in-iron.md`](08-protocol-forged-in-iron.md) · [`../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md`](../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md)

@@ -1,7 +1,7 @@
 # [CHRONICLE] FRACTURE RECOGNITION
 
 **Classification:** Triumvirate sealed — pre-contingency recognition log (narrative register)  
-**When:** **~545.M42** (after [`../05-viggo-saga/05-radulf-and-the-wall.md`](../05-viggo-saga/05-radulf-and-the-wall.md))  
+**When:** **~055.M42** (after [`../05-viggo-saga/05-radulf-and-the-wall.md`](../05-viggo-saga/05-radulf-and-the-wall.md))  
 **Where:** Noviomagus Prime — Vermilion sub-vault / Strategium side-ring  
 **Who:** **Varro**, **Drusus**, secondary references to **Corbec Ardens** and **Armin Sturmwahl**  
 **Cross-references:** [`../05-viggo-saga/varro-anima-speculum.md`](../05-viggo-saga/varro-anima-speculum.md) · [`../05-viggo-saga/03-palace-of-the-wall.md`](../05-viggo-saga/03-palace-of-the-wall.md)

@@ -1,7 +1,7 @@
 # [CHRONICLE] SUMMONS BREACH
 
 **Classification:** Triumvirate internal — command integrity incident  
-**When:** **~545.M42** (immediately after [`01-varro-drusus-after-garmr.md`](01-varro-drusus-after-garmr.md))  
+**When:** **~055.M42** (immediately after [`01-varro-drusus-after-garmr.md`](01-varro-drusus-after-garmr.md))  
 **Where:** Noviomagus Prime — Triumvirate chamber ring, then transit corridor to palace sector  
 **Who:** **Varro**, **Drusus**, absent party **Alaric von Helis**  
 **Cross-references:** [`varro-anima-speculum.md`](varro-anima-speculum.md)

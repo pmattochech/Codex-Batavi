@@ -1,7 +1,7 @@
 # [CHRONICLE] LEGATUS RING — POST-VOICES CONSENSUS
 
 **Classification:** sealed council narrative — nine-seat Ring session  
-**When:** **~545.M42** (same cycle as [`06-old-voices-council.md`](06-old-voices-council.md); convened after Old Voices adjourned)  
+**When:** **~055.M42** (same cycle as [`06-old-voices-council.md`](06-old-voices-council.md); convened after Old Voices adjourned)  
 **Where:** Noviomagus Prime — *Strategium* outer council ring (nine marked stations; vox-filtered; not the black chamber)  
 **Who:** **Varro** (chair), **Drusus**, **Corbec Ardens**, **Henric Kessler**, **Theron Brach**, **Orin Valestrand**, **Armin Sturmwahl**, **Gervas Bifronte**, **Lucan Phaetron**, **Ivar Malevent**, **Cassian Vetra**, **Radulf Castrin** (witness weight)  
 **Cross-references:** [`06-old-voices-council.md`](06-old-voices-council.md) · [`../../planning/silent-vigil-legatus-council-plan.md`](../../planning/silent-vigil-legatus-council-plan.md) · [`../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md`](../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md)
@@ -156,4 +156,4 @@ Then he left to make Secunda’s ledger honest enough to survive the day the bar
 
 ---
 
-**Next:** [`07-decima-gatekeepers.md`](07-decima-gatekeepers.md) · ~545.M42 · limited-custody mechanics
+**Next:** [`07-decima-gatekeepers.md`](07-decima-gatekeepers.md) · ~055.M42 · limited-custody mechanics

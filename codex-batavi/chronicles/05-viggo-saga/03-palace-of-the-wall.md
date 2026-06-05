@@ -1,7 +1,7 @@
 # [CHRONICLE] PALACE OF THE WALL
 
 **Classification:** Triumvirate sealed — disciplinary/spiritual intervention  
-**When:** **~545.M42** (immediately after [`02-triumvirate-summons-breached.md`](02-triumvirate-summons-breached.md))  
+**When:** **~055.M42** (immediately after [`02-triumvirate-summons-breached.md`](02-triumvirate-summons-breached.md))  
 **Where:** Noviomagus Prime — Castellan palace sector  
 **Who:** **Varro**, **Drusus**, **Alaric von Helis**, on-duty *Decima* guards  
 **Cross-references:** [`garmr-witness-dravic.md`](garmr-witness-dravic.md) · [`viggo-saga.md`](viggo-saga.md)

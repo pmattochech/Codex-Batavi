@@ -56,11 +56,13 @@
 ## 06-silent-vigil — The Silent Vigil
 *(050.M42 – 150.M42 — The Chapter operates under a Castellan who is present but hollowed out. The Legati carry what Alaric cannot carry.)*
 
+**Hub:** [06-silent-vigil/README.md](06-silent-vigil/README.md) — **read order vs chronology** (legacy **545→055**, **552→162** correction logged).
+
 - [00-malakor-v.md](06-silent-vigil/00-malakor-v.md) ✅ — 050.M42. The bait, the forty-three-minute fight, the wordless sentence. **Valerian Heresy** blood-price (**~300** pairs on the cord that cycle). The trigger of the Silent Vigil.
 - [01-alabarda-to-relay.md](06-silent-vigil/01-alabarda-to-relay.md) ✅ — Alabarda postscript (conversion to relay).
 - [02-strategium-silence.md](06-silent-vigil/02-strategium-silence.md) ✅ — Silent Vigil. Strategium, Viggo as anchor, orders through the wolf, Alaric’s collapse and Drusus’s clinical discovery.
 - [03-without-distinction.md](06-silent-vigil/03-without-distinction.md) ✅ — ca. 099.M42. Halvard, Legatus of the I Vexillatio. Post-battle protocol without celebration or praise: maintenance, replenishment, chaplain, descent to the cells. The weight of being functional as the only form of honor.
-- [04-last-heat-of-the-wall.md](06-silent-vigil/04-last-heat-of-the-wall.md) ✅ — Martha’s kitchen, Elara as infant and childhood with Viggo, Viggo’s death (Elara age twelve, after Luna Sigma), Mantle of Providence, bones on Fenris.
+- [04-last-heat-of-the-wall.md](06-silent-vigil/04-last-heat-of-the-wall.md) ✅ — Martha’s kitchen, Elara childhood with Viggo, Viggo’s death (**~162.M42** Orbital Winter; Elara ~12), Mantle of Providence, bones on Fenris.
 - [05-fracture-recognition.md](06-silent-vigil/05-fracture-recognition.md) ✅ — sealed recognition phase: Varro + Drusus map post-second Red Wolf breach pattern and open anti-inversion redundancy drafting.
 - [06-old-voices-council.md](06-silent-vigil/06-old-voices-council.md) ✅ — council ring session: Corbec + Armin support contingency codification; custody tiers and lethal terminal doctrine are stated.
 - [06-post-voices-legatus-ring.md](06-silent-vigil/06-post-voices-legatus-ring.md) ✅ — nine-seat Legatus Ring: dispute axes, Kessler dissent on record, Tier A/B/C assignment before Decima mechanics.

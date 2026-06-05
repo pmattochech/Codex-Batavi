@@ -1,7 +1,7 @@
 # [CHRONICLE] GARMR'S SHELF — DRAVIC BEFORE THE JUDEX
 
 **Classification:** *Reclusiam* sealed — Triumvirate access; *Decima* line need-to-know  
-**When:** **~545.M42** (same engagement as [`viggo-saga.md`](viggo-saga.md))  
+**When:** **~055.M42** (same engagement as [`viggo-saga.md`](viggo-saga.md))  
 **Where:** Noviomagus Prime — *Reclusiam* annex chamber (after-action confession on Garmr’s Shelf operation)  
 **Who:** **Brother-Sergeant Cael Dravic** (*Decima*); **Varro** (Judex)  
 **Companion (Judex response):** [`varro-anima-speculum.md`](varro-anima-speculum.md)
