@@ -38,7 +38,7 @@ Tobias was still a moment. Then rose from the chair with the usual weight of one
 
 Elara stopped. There were a thousand tactical reasons to say no. Tobias was civilian, old for the trip, no formal role on Luna Sigma.
 
-She looked at him — at the face that had taught Alaric to hold a child without crushing, at the hands that had carved the wooden sword she had raised before a Primarch at eight.
+She looked at him — at the face that had taught Alaric to hold a child without crushing, at the hands that had carved the wooden sword she had raised before a Primarch at fifteen.
 
 — You need half an hour to pack.
 

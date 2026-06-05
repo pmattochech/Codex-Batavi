@@ -12,7 +12,7 @@ But at night, the “Iron Venus” melted in the service kitchen. There, under M
 
 **II. The Wooden Sword (165.M42)**
 
-At eight, Elara’s fate was forged in the *Castrum Ferrum*’s central courtyard.
+At fifteen, Elara’s fate was forged in the *Castrum Ferrum*’s central courtyard.
 
 A host of gods had descended from the sky. Roboute Guilliman, Lord Regent of the Imperium, walked flanked by Marneus Calgar and High Marshal Helbrecht. A Primarch’s physical presence was its own gravity, a psychic pressure that drove Imperial Guard veterans to their knees. They inspected **subsector disposition** and the defenses of the **Nine Phalanx**, and the air thrummed with the Silent Son’s wordless judgment.
 
@@ -36,7 +36,7 @@ Alaric set his heavy gauntlet on Elara’s shoulder. That day, before the galaxy
 
 Innocence, however, has an expiration date in Warhammer 40,000.
 
-Twelve years later Elara was already a brilliant strategist, swallowing naval doctrine with a starving wolf’s hunger. But her final lesson came not from the academy but from Sector Industrial 7’s radiation siren.
+Five years later Elara was already a brilliant strategist, swallowing naval doctrine with a starving wolf’s hunger. But her final lesson came not from the academy but from Sector Industrial 7’s radiation siren.
 
 There was no glory. No xenos invasion. Only the catastrophic failure of an aged plasma reactor. Tobias, Master of Works, refused immediate evacuation. While corridors filled with lethal light and superheated vapor, he stayed to manually release the safety bulkheads, securing escape for twelve workers on his crew.
 

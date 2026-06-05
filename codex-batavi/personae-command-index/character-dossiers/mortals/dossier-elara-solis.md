@@ -39,7 +39,7 @@ Elara grew split between two worlds that, on Noviomagus, became one.
 * **Martha’s school (blood):** While Triumvirate gave discipline, Martha’s family gave life. Elara grew as adoptive sister to Martha’s children.  
 * **Jonas (older brother):** Four years older, Jonas shielded her from brutal forge-yard play. They shared the dream of serving Noviomagus.  
 * **Pack dynamic:** Alaric, Varro, and Drusus began visiting the kitchen. Tobias treated them as equals. Martha’s children climbed Astartes armor. Then Alaric first removed his helm in public (in the kitchen), letting Elara see his scarred face and grasp the “beast” could smile too.  
-* **Defining event (age 8 — 165.M42):** Full chronicle in [wolf-daughter.md](../../../chronicles/07-iron-venus/wolf-daughter.md) (*The Wooden Sword*). During inspection by Roboute Guilliman, Helbrecht, and Calgar, yard tension was palpable. When the Primarch questioned Alaric’s utility, young Elara ran to the circle’s center.  
+* **Defining event (age 15 — 165.M42):** Full chronicle in [wolf-daughter.md](../../../chronicles/07-iron-venus/wolf-daughter.md) (*The Wooden Sword*). During inspection by Roboute Guilliman, Helbrecht, and Calgar, yard tension was palpable. When the Primarch questioned Alaric’s utility, Elara ran to the circle’s center.  
 * **Challenge:** With a wooden sword Tobias carved, she pointed at the Lord Regent: *“Don’t hurt my Alaric! He is the Wall! But if you’re cruel, I am his Wall!”*  
   * **Result:** Guilliman saw in her the “Root” justifying the Wall. Alaric set hand on the girl’s shoulder; before the Imperium, a bond **she** would name in familial terms — **sealed** — while **his** vocabulary stayed **shield and duty**, not fatherhood.
 
@@ -51,7 +51,7 @@ Elara grew split between two worlds that, on Noviomagus, became one.
 
 Elara became a brilliant youth, absorbing naval tactics with Astartes voracity. But the final lesson came with pain.
 
-* **Tobias’s death (Elara age 20):** Not glorious battlefield death but accident in lower forges. Tobias refused to evacuate a radiation leak zone until his workers were safe. He saved twelve lives before structure failed.  
+* **Tobias’s death (~170.M42; Elara age 20):** Not glorious battlefield death but accident in lower forges. Tobias refused to evacuate a radiation leak zone until his workers were safe. He saved twelve lives before structure failed.  
 * **Impact:** Elara felt the world crack. Tobias was warm embrace; Alaric was cold shield. Losing Tobias was losing half her human world.  
 * **Wolf vigil:** Alaric shed no tears — biology forbade — but entered vigil. The Chapter Master stood guard by Tobias’s casket three days and three nights, armed and armored, paying an Astartes captain’s honor to a stonemason.  
 * **Promise:** At the funeral, before Martha and eight children (including newborn Leo), Alaric set hand on the widow’s shoulder: *“He held the house while I held the wall. Now your pack is my pack. No one of this line walks alone again.”*
