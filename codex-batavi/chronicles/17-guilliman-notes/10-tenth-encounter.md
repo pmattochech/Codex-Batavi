@@ -2,19 +2,19 @@ Guilliman did not mistake gold for comfort.
 
 Gold was a statement of jurisdiction. It said: *this corridor answers to a different calendar than yours.*
 
-The annex the Batavi kept for Throne business was not a chapel and not a throne room. It was a **hall**—high ceiling, auramite ribs in the architecture like ribs under skin, lumen refracted until the air itself looked expensive. The floor had been polished until it punished carelessness: a man who rushed here would look foolish even if he survived.
+The annex the Batavi kept for Throne business was not a chapel and not a throne room. It was a **hall** — high ceiling, auramite ribs in the architecture like ribs under skin, lumen refracted until the air itself looked expensive. The floor had been polished until it punished carelessness: a man who rushed here would look foolish even if he survived.
 
 Guilliman had rushed nowhere.
 
 He entered alone.
 
-Not because he feared escort—he had learned, in two lives, that escort could become a story told about you before you spoke—but because this conversation required **one ledger**, not three retinues pretending they were one mind.
+Not because he feared escort — he had learned, in two lives, that escort could become a story told about you before you spoke — but because this conversation required **one ledger**, not three retinues pretending they were one mind.
 
 At the far end, motionless, spear vertical: **Shield-Captain Tyvar**.
 
 The Custodian did not stand like an Astartes officer waiting to be impressive. He stood like a datum that had decided to occupy space until truth finished its work. Auramite caught light without begging for it. The helm did not lift in greeting.
 
-Guilliman stopped at the distance etiquette demanded—not fear, **geometry**. Even a primarch learned where another institution’s personal space began when that institution had been built to deny assassins for ten thousand years.
+Guilliman stopped at the distance etiquette demanded — not fear, **geometry**. Even a primarch learned where another institution’s personal space began when that institution had been built to deny assassins for ten thousand years.
 
 — Lord Guilliman — Tyvar said.
 
@@ -42,7 +42,7 @@ Tyvar did not shift his spear.
 
 — You grade it anyway — Tyvar said.
 
-Guilliman inclined his head once—acknowledgment, not concession.
+Guilliman inclined his head once — acknowledgment, not concession.
 
 — I do — Guilliman said. — That is the function of a regent who refuses to become a myth. I am not here to ask you to love them.
 
@@ -58,7 +58,7 @@ He killed it.
 
 A pause.
 
-Tyvar filled it without filling it—economy as discipline.
+Tyvar filled it without filling it — economy as discipline.
 
 — Ask — Tyvar said.
 
@@ -70,7 +70,7 @@ Tyvar did not answer quickly.
 
 For a Custodes, that was already an answer.
 
-When Tyvar spoke, his voice stayed flat—still not warmth, but not cruelty either. The tone of a man who had decided long ago that cruelty was a waste of torque.
+When Tyvar spoke, his voice stayed flat — still not warmth, but not cruelty either. The tone of a man who had decided long ago that cruelty was a waste of torque.
 
 — The instrument documents its flaws — Tyvar said. — Voluntarily, in places most Chapters would bury. It monitors actively. It requests supervision instead of avoiding it. That is not a guarantee of reliability. It is evidence the mind still works.
 
@@ -94,9 +94,9 @@ Guilliman accepted the naming.
 
 He had spent too many years turning variables into policy to mistake honesty for insubordination.
 
-— Then name the output — Guilliman said. — Not for the Chapter’s ears. For mine. After what you have watched—decades, not days—do you recommend loosening the collar… or tightening it.
+— Then name the output — Guilliman said. — Not for the Chapter’s ears. For mine. After what you have watched — decades, not days — do you recommend loosening the collar… or tightening it.
 
-Tyvar’s silence returned—brief, surgical.
+Tyvar’s silence returned — brief, surgical.
 
 — Loosening is not on the slate — Tyvar said. — Not because I desire cruelty. Because loosening would be interpreted as permission, and permission is how frontiers rot. Tightening is also not automatically correct. Tightening can fracture an instrument that is already holding under torsion.
 
@@ -114,7 +114,7 @@ Boredom, in the Imperium, was a rare luxury.
 
 Tyvar’s helm did not turn away.
 
-— The Castellan is not a saint — Tyvar said. — He is a wall that chose to remain a wall while biology insisted otherwise. That choice is visible. It is also exhaustible. Exhaustion is where idols are born—when men mistake fatigue for fate.
+— The Castellan is not a saint — Tyvar said. — He is a wall that chose to remain a wall while biology insisted otherwise. That choice is visible. It is also exhaustible. Exhaustion is where idols are born — when men mistake fatigue for fate.
 
 Guilliman filed the sentence without flinching.
 
@@ -134,9 +134,9 @@ He had come for a verdict that could survive contact with Terra.
 
 He had received one that could survive contact with **gold**.
 
-— Then I will say what I can say without pretending I have become your captain-general — Guilliman said. — The Batavi remain. Not as a romance. Not as a cautionary tale told for applause. As a frontier instrument under **dual** audit: mine where the Imperium’s logistics demand it—yours where the Throne’s survival demands it.
+— Then I will say what I can say without pretending I have become your captain-general — Guilliman said. — The Batavi remain. Not as a romance. Not as a cautionary tale told for applause. As a frontier instrument under **dual** audit: mine where the Imperium’s logistics demand it — yours where the Throne’s survival demands it.
 
-Tyvar’s spear dipped by the smallest angle—acknowledgment in a language that did not waste motion.
+Tyvar’s spear dipped by the smallest angle — acknowledgment in a language that did not waste motion.
 
 — Understood — Tyvar said.
 

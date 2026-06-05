@@ -6,7 +6,7 @@ The first time I heard the word *theater* used for it, I resented the softness. 
 
 But the word held because it was not soft. It was accurate.
 
-Corridors imply walls. Walls imply that the enemy will arrive from a direction you can mark. Malakor V was open extraction ground—flats, pits, scaffold ribs, derelict rail spurs, the skeleton of industry built for a world that still believed it had a future.
+Corridors imply walls. Walls imply that the enemy will arrive from a direction you can mark. Malakor V was open extraction ground — flats, pits, scaffold ribs, derelict rail spurs, the skeleton of industry built for a world that still believed it had a future.
 
 And above it all: the Cicatrix pressure, like a hand on the back of the skull.
 
@@ -14,7 +14,7 @@ After our first contact with the butcher-logic, we tried to return to unit think
 
 The theater refused.
 
-Orders came like weather. Sometimes from channels we had never used. Sometimes stamped with the right codes but written in a syntax that was almost correct—the same phrases, rearranged so the meaning changed while the mouth still recognized the taste.
+Orders came like weather. Sometimes from channels we had never used. Sometimes stamped with the right codes but written in a syntax that was almost correct — the same phrases, rearranged so the meaning changed while the mouth still recognized the taste.
 
 Rauk kept calling them *lies*. Hadrik called them *corruptions*. Kessel called them *noise*.
 
@@ -68,7 +68,7 @@ Hadrik did it. Calmly. Professionally. A routine verification request.
 
 The Marine in front did not answer. His helmet tilted as if the question were beneath him.
 
-Then his vox opened again, and for a moment I heard another voice under his—faint, layered, like a choir you cannot locate in a room.
+Then his vox opened again, and for a moment I heard another voice under his — faint, layered, like a choir you cannot locate in a room.
 
 — No chain. Only the Legatus.
 
@@ -142,7 +142,7 @@ Rauk grunted once as we moved.
 
 — We can’t hold this.
 
-He did not sound afraid. He sounded offended—like the universe had presented an equation that refused to balance.
+He did not sound afraid. He sounded offended — like the universe had presented an equation that refused to balance.
 
 — We weren’t sent to hold it.
 

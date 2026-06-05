@@ -1,57 +1,22 @@
 # Chronicles (by saga / theme)
 
-## 00-foundation-war
+## foundation-war (canonical serial)
 
-**Canonical narrative:** the **38-chapter serial** below (read in chapter order). **Staff summary** (nine poles, phases, casualty bands, cross-links): [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md).
+**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [legacy serial → slug map](foundation-war/legacy-map.md). **Phases 3–5 complete** (Q0 prelude + 38 chapters; staff ripple + audit). **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
+
+**Staff summary** (nine poles, phases, casualty bands, cross-links): [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md).
 
 **Drusus retrospective (in-universe, moved to staff archives):** [drusus-retrospective-aethelgard-first-quarter.md](../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md) — early Aethelgard / hunter-enclave texture; **not** canonical for troop counts (see serial + [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md)).
 
-**Design lattice (props, bans, time layers — not substitute for chapters):** [`FOUNDATION-WAR-RETCON-PLANNING.md`](../FOUNDATION-WAR-RETCON-PLANNING.md)
+**Design lattice (props, bans, time layers — not substitute for chapters):** [`FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md) · [`FOUNDATION-WAR-RETCON-PLANNING.md`](../planning/FOUNDATION-WAR-RETCON-PLANNING.md). **Geography lock:** [`../atlas-and-topography/castra-vetera-galactic-lock.md`](../atlas-and-topography/castra-vetera-galactic-lock.md).
 
-**Serial crucible (38 chapters):**
+## 00-foundation-war (legacy archive)
 
-| Ch. | File | Title |
-|-----|------|--------|
-| 1 | [chapter-01-mud-gospel.md](00-foundation-war/chapter-01-mud-gospel.md) | *Mud Gospel* |
-| 2 | [chapter-02-the-arrangement.md](00-foundation-war/chapter-02-the-arrangement.md) | *The Arrangement* |
-| 3 | [chapter-03-dog-logic.md](00-foundation-war/chapter-03-dog-logic.md) | *Dog Logic* |
-| 4 | [chapter-04-seventy-two.md](00-foundation-war/chapter-04-seventy-two.md) | *Seventy-Two* |
-| 5 | [chapter-05-bait-doctrine.md](00-foundation-war/chapter-05-bait-doctrine.md) | *Bait Doctrine* |
-| 6 | [chapter-06-mirror-routes.md](00-foundation-war/chapter-06-mirror-routes.md) | *Mirror Routes* |
-| 7 | [chapter-07-living-specimen.md](00-foundation-war/chapter-07-living-specimen.md) | *Living Specimen* |
-| 8 | [chapter-08-cord-weight.md](00-foundation-war/chapter-08-cord-weight.md) | *Cord Weight* |
-| 9 | [chapter-09-second-quarter-brief.md](00-foundation-war/chapter-09-second-quarter-brief.md) | *Second Quarter Brief* |
-| 10 | [chapter-10-inverted-hive.md](00-foundation-war/chapter-10-inverted-hive.md) | *Inverted Hive* |
-| 11 | [chapter-11-output-quota.md](00-foundation-war/chapter-11-output-quota.md) | *Output Quota* |
-| 12 | [chapter-12-ring-of-teeth.md](00-foundation-war/chapter-12-ring-of-teeth.md) | *Ring of Teeth* |
-| 13 | [chapter-13-flare-geometries.md](00-foundation-war/chapter-13-flare-geometries.md) | *Flare Geometries* |
-| 14 | [chapter-14-brood-signature.md](00-foundation-war/chapter-14-brood-signature.md) | *Brood Signature* |
-| 15 | [chapter-15-exanimus-choir.md](00-foundation-war/chapter-15-exanimus-choir.md) | *Exanimus Choir* |
-| 16 | [chapter-16-glass-overture.md](00-foundation-war/chapter-16-glass-overture.md) | *Glass Overture* |
-| 17 | [chapter-17-tertius-anvil.md](00-foundation-war/chapter-17-tertius-anvil.md) | *Tertius Anvil* |
-| 18 | [chapter-18-years-eight-to-fifteen.md](00-foundation-war/chapter-18-years-eight-to-fifteen.md) | *Years Eight to Fifteen* |
-| 19 | [chapter-19-gulf-deployment.md](00-foundation-war/chapter-19-gulf-deployment.md) | *Gulf Deployment* |
-| 20 | [chapter-20-skin-debt.md](00-foundation-war/chapter-20-skin-debt.md) | *Skin Debt* |
-| 21 | [chapter-21-bridge-saints.md](00-foundation-war/chapter-21-bridge-saints.md) | *Bridge Saints* |
-| 22 | [chapter-22-maw-exercise.md](00-foundation-war/chapter-22-maw-exercise.md) | *Maw Exercise* |
-| 23 | [chapter-23-dynasty-last-command.md](00-foundation-war/chapter-23-dynasty-last-command.md) | *Dynasty’s Last Command* |
-| 24 | [chapter-24-incus-still-burns.md](00-foundation-war/chapter-24-incus-still-burns.md) | *Incus Still Burns* |
-| 25 | [chapter-25-the-beast-chapter.md](00-foundation-war/chapter-25-the-beast-chapter.md) | *The Beast Chapter* (Execratio) |
-| 26 | [chapter-26-vitreus-bleed.md](00-foundation-war/chapter-26-vitreus-bleed.md) | *Vitreus Bleed* |
-| 27 | [chapter-27-half-chapter-still-standing.md](00-foundation-war/chapter-27-half-chapter-still-standing.md) | *Half Chapter Still Standing* |
-| 28 | [chapter-28-forward-to-the-crown.md](00-foundation-war/chapter-28-forward-to-the-crown.md) | *Forward to the Crown* |
-| 29 | [chapter-29-estuary-doctrine.md](00-foundation-war/chapter-29-estuary-doctrine.md) | *Estuary Doctrine* |
-| 30 | [chapter-30-tide-names.md](00-foundation-war/chapter-30-tide-names.md) | *Tide Names* |
-| 31 | [chapter-31-mirror-brood.md](00-foundation-war/chapter-31-mirror-brood.md) | *Mirror Brood* |
-| 32 | [chapter-32-prism-war.md](00-foundation-war/chapter-32-prism-war.md) | *Prism War* |
-| 33 | [chapter-33-halo-mouth.md](00-foundation-war/chapter-33-halo-mouth.md) | *Halo Mouth* |
-| 34 | [chapter-34-lecture-in-vacuum.md](00-foundation-war/chapter-34-lecture-in-vacuum.md) | *Lecture in Vacuum* |
-| 35 | [chapter-35-we-hold-anyway.md](00-foundation-war/chapter-35-we-hold-anyway.md) | *We Hold Anyway* |
-| 36 | [chapter-36-the-core-refuses.md](00-foundation-war/chapter-36-the-core-refuses.md) | *The Core Refuses* |
-| 37 | [chapter-37-der-batav-council.md](00-foundation-war/chapter-37-der-batav-council.md) | *Der Batav Council* |
-| 38 | [chapter-38-instrumentum-solum.md](00-foundation-war/chapter-38-instrumentum-solum.md) | *Instrumentum Solum* |
+**Legacy numbered serial** — scene inventory / tone reference only. **Do not** treat as canonical path; use [`foundation-war/INDEX.md`](foundation-war/INDEX.md) instead. Banner: [00-foundation-war/README.md](00-foundation-war/README.md).
 
-**Note:** Foundation staff canon lives in the serial + [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md); Drusus’s merged archive is [`drusus-retrospective-aethelgard-first-quarter.md`](../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md).
+**Legacy numbered files:** `00-foundation-war/chapter-01` … `chapter-38` — full list and prose scaffold in [00-foundation-war/README.md](00-foundation-war/README.md). **Legacy → slug map:** [foundation-war/legacy-map.md](foundation-war/legacy-map.md).
+
+**Note:** Foundation narrative canon lives in [`foundation-war/INDEX.md`](foundation-war/INDEX.md); staff summary in [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md); Drusus’s merged archive is [`drusus-retrospective-aethelgard-first-quarter.md`](../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md).
 
 ---
 
@@ -204,9 +169,9 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 
 ## 13-apotheosis
 
-**Milestone:** 175.M42 — The Call to the Throne.
+**Milestone:** 175.M42 — The Call to the Throne *(legacy arc — under review)*.
 
 | File | Contents | Status |
 |---|---|---|
-| [call-to-the-throne.md](13-apotheosis/call-to-the-throne.md) | Trajann lands on Noviomagus to calibrate, not merely to audit. The Triumvirate takes him to the Black Cells. Full briefing on **Versibars**: capabilities, vulnerabilities, gene-seed without Warp corruption. Trajann gives Tyvar the *Nihili Protocol* — the sigil that can collapse the border Blackstone Pylons in temporal cascade if containment fails. Five permanent Custodes. *Porta Nihili* (Latin Administratum designation) for the border sector and Loken Passage. | ✅ |
+| [call-to-the-throne.md](13-apotheosis/call-to-the-throne.md) | **LEGACY / superseded** — retired draft (Loken Passage, *Porta Nihili*, temporal *Nihili Protocol*). Trajann calibration beat **not** active canon until rewritten elsewhere. | 🗄️ legacy |
 | [seal-of-the-portal.md](13-apotheosis/seal-of-the-portal.md) | The weight of the *Nihili Protocol* in Tyvar’s daily life. Carrying the charge to shut down not only a Chapter but the only viable *Nihilus* corridor in that sector — the Nine Phalanx worlds, the Loken Passage, everything. The only conversation Alaric and Tyvar have about the cylinder, and what the seal means while it holds. | ✅ |

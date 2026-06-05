@@ -10,4 +10,6 @@ Monorepo with three areas at **repository root**:
 
 **Lore index:** [codex-batavi/README.md](codex-batavi/README.md)
 
+**Foundation War (canonical serial):** [codex-batavi/chronicles/foundation-war/INDEX.md](codex-batavi/chronicles/foundation-war/INDEX.md) — Phases 3–5 complete; start at [*Distress Vector*](codex-batavi/chronicles/foundation-war/Q0-prelude/distress-vector/chapter.md).
+
 Project rules (Cursor): canonical file is `codex-batavi/.cursorrules`; a **copy** with the same name exists at repo root for the IDE (keep both in sync when editing rules).

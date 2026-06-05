@@ -1,6 +1,6 @@
 The room Guilliman chose for Ventris had no viewports.
 
-Not because Guilliman feared being watched—he assumed he was always watched—but because he did not want the stars to turn the conversation into a story.
+Not because Guilliman feared being watched — he assumed he was always watched — but because he did not want the stars to turn the conversation into a story.
 
 It was a records cabinet converted into a private office: a narrow chamber lined with sealed dataslates and paper-analogue folios, the air dry and filtered, the only light a single lumen strip that made everything look clinical. The door closed with a sound like a verdict.
 
@@ -96,11 +96,11 @@ Ventris continued.
 
 — In the Watch, he could not rely on his title, or his Chapter’s fear, or his reputation. He had to earn obedience in the moment, under pressure, from men who did not want to be impressed.
 
-Guilliman nodded once—one of the rare gestures that meant “continue.”
+Guilliman nodded once — one of the rare gestures that meant “continue.”
 
 Ventris’s voice stayed level.
 
-— Alaric asked for the Watch because he wanted to remove his own blind spot. He said—explicitly—that he could not demand the burden of his Legati if he had not carried it himself.
+— Alaric asked for the Watch because he wanted to remove his own blind spot. He said — explicitly — that he could not demand the burden of his Legati if he had not carried it himself.
 
 Guilliman held still.
 
@@ -142,7 +142,7 @@ Ventris nodded once, as if he had been waiting for the question.
 
 Guilliman did not prompt further. Ventris began.
 
-— We were four. Myself. A Salamander. A Crimson Fist. And him—then only a Batavian officer, not the figure your sealed briefings describe now.
+— We were four. Myself. A Salamander. A Crimson Fist. And him — then only a Batavian officer, not the figure your sealed briefings describe now.
 
 Guilliman’s eyes narrowed slightly.
 
@@ -156,7 +156,7 @@ Guilliman waited.
 
 Ventris continued.
 
-— The Salamander wanted to evacuate mortal survivors pinned behind a bulkhead breach. The Crimson Fist wanted to seal the corridor and burn it clean—time pressure, enemy behind us, no room to maneuver.
+— The Salamander wanted to evacuate mortal survivors pinned behind a bulkhead breach. The Crimson Fist wanted to seal the corridor and burn it clean — time pressure, enemy behind us, no room to maneuver.
 
 Guilliman’s gaze was steady.
 

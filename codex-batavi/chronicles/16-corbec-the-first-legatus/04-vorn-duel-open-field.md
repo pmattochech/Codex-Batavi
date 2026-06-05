@@ -4,7 +4,7 @@ The place he chose was open ground, because he wanted witnesses.
 
 Not the kind that survive. The kind that die understanding the lesson.
 
-We found the field by following its silence. Gunfire had been thick across Malakor’s flats for hours—stuttering bolters, distant detonations, the metallic crack of impacts on abandoned machinery. Here the sound fell away as if a hand had pressed it down.
+We found the field by following its silence. Gunfire had been thick across Malakor’s flats for hours — stuttering bolters, distant detonations, the metallic crack of impacts on abandoned machinery. Here the sound fell away as if a hand had pressed it down.
 
 The extraction yard opened like a scar. Rails intersected at angles that once guided ore carts; now they guided bodies. Crane ribs rose in black arcs. Pits yawned where machines had been pulled out and never replaced. Wind swept across the metal and carried grit in sheets that erased footprints quickly, as if the planet did not want to keep records.
 
@@ -64,7 +64,7 @@ I watched that, and in the watching I understood the true reach of Vorn’s func
 
 — I am the part that makes the Legatus durable.
 
-The wind gusted. Grit hissed across metal. For a moment the whole yard looked like an old pict capture—grainy, shaking, unreal.
+The wind gusted. Grit hissed across metal. For a moment the whole yard looked like an old pict capture — grainy, shaking, unreal.
 
 Then Vorn stepped forward and the unreality became immediate.
 
@@ -86,7 +86,7 @@ I shifted my feet. I kept my center. I let the hook geometry do the work it was 
 
 Vorn stepped in anyway, closing against the halberd’s advantage as if he had already calculated the price of bruised ribs and chosen to pay it.
 
-His shoulder slammed my chest. His weapon’s haft pinned the halberd shaft for half a second. His other hand reached for my helm—an execution gesture I had seen him use on wavering brothers.
+His shoulder slammed my chest. His weapon’s haft pinned the halberd shaft for half a second. His other hand reached for my helm — an execution gesture I had seen him use on wavering brothers.
 
 I rotated the halberd, used the hook to catch his forearm, and tore it down and away.
 
@@ -98,7 +98,7 @@ Vorn’s breath hitched once. Not pain. Surprise.
 
 — I watched.
 
-He came again. Faster now. Not frantic—just escalating. Each strike aimed to force me into a choice between my own survival and the discipline that kept witness lawful.
+He came again. Faster now. Not frantic — just escalating. Each strike aimed to force me into a choice between my own survival and the discipline that kept witness lawful.
 
 Because that was his goal.
 
@@ -110,7 +110,7 @@ I refused him.
 
 I gave ground in measured increments. I denied him the flanking angles. I kept my breathing steady.
 
-Behind me, Brann fired once—one shot only—at a shape moving at the edge of the yard. A turned brother, or a beast, or something between. The round snapped it down. Brann did not fire again. He was guarding the perimeter, not trying to win my fight for me.
+Behind me, Brann fired once — one shot only — at a shape moving at the edge of the yard. A turned brother, or a beast, or something between. The round snapped it down. Brann did not fire again. He was guarding the perimeter, not trying to win my fight for me.
 
 Vorn heard the shot and laughed softly.
 
@@ -158,7 +158,7 @@ He did not look afraid.
 
 He looked interested.
 
-He lifted his weapon again and took a different stance—lower, heavier, built for ending the exchange rather than playing it.
+He lifted his weapon again and took a different stance — lower, heavier, built for ending the exchange rather than playing it.
 
 I recognized the shift.
 
@@ -178,7 +178,7 @@ I advanced with the halberd point leading, hook angled for chest entry. I did no
 
 Vorn tried to sidestep.
 
-The ground betrayed him—rail grit under his boot, a fraction of slip.
+The ground betrayed him — rail grit under his boot, a fraction of slip.
 
 That fraction was enough.
 

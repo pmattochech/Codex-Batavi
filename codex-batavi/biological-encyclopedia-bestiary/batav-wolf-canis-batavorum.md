@@ -99,7 +99,7 @@ The Batav Wolf is **not** only a coastal animal. It occupies **two** productive 
 
 ## Revision discipline
 
-If **`foundation-war.md`**, the **Foundation serial**, or **`geography-aethelgard-prime.md`** revise **shoreline** or **swamp** mechanics, **leviathan** canon, or **prey** lists, reconcile hunting lore here — this entry is **symbol + ecology**, not alternate chronology.
+If **`foundation-war.md`**, the **canonical slug serial** ([`foundation-war/INDEX.md`](../chronicles/foundation-war/INDEX.md)), or **`geography-aethelgard-prime.md`** revise **shoreline** or **swamp** mechanics, **leviathan** canon, or **prey** lists, reconcile hunting lore here — this entry is **symbol + ecology**, not alternate chronology.
 
 ---
 

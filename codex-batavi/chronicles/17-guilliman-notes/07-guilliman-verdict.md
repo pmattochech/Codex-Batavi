@@ -1,6 +1,6 @@
 Guilliman did not sleep.
 
-Sleep was a mercy the new Imperium could not afford him, and mercy—he had learned—was a currency that became a weapon the moment it was spent without constraint.
+Sleep was a mercy the new Imperium could not afford him, and mercy — he had learned — was a currency that became a weapon the moment it was spent without constraint.
 
 He stood alone in a chamber that belonged to nobody: not a strategium, not an apothecarion, not a chapel. A corridor-node with a single lumen strip and a blank datum panel. The kind of place the fortress used to move bodies and orders through without leaving fingerprints of sentiment.
 
@@ -16,7 +16,7 @@ Not because the Batavian Lord was loud. He wasn’t. Not because the Chapter was
 
 It was because Alaric’s existence forced an audit of the Imperium itself.
 
-Guilliman let his thoughts drift backward, not into nostalgia, but into simulation. The Great Crusade was a board he knew intimately—every piece, every flaw, every beautiful lie.
+Guilliman let his thoughts drift backward, not into nostalgia, but into simulation. The Great Crusade was a board he knew intimately — every piece, every flaw, every beautiful lie.
 
 What would it have been, if Alaric had stood there then?
 
@@ -30,11 +30,11 @@ A wall.
 
 If he had walked the Crusade’s corridors, Guilliman could picture how his brothers would have treated him.
 
-Dorn would have recognized the geometry at once. Not “friendship”—Dorn did not spend himself that way—but an austere respect. A commander who did not need applause to hold. A fortress-mind that understood that victory was often nothing but a refusal to yield an angle. Dorn would have asked only one question, the only one that ever mattered to him.
+Dorn would have recognized the geometry at once. Not “friendship” — Dorn did not spend himself that way — but an austere respect. A commander who did not need applause to hold. A fortress-mind that understood that victory was often nothing but a refusal to yield an angle. Dorn would have asked only one question, the only one that ever mattered to him.
 
 Can it fail?
 
-And when he learned it could—when he learned the Batavian “curse” was not merely a battlefield hazard but a culture-shaping stressor—Dorn would have done what Dorn always did.
+And when he learned it could — when he learned the Batavian “curse” was not merely a battlefield hazard but a culture-shaping stressor — Dorn would have done what Dorn always did.
 
 He would have demanded compartments. Redundancies. Hard rules. Protocols carved so deep they could survive panic.
 
@@ -48,7 +48,7 @@ They feared relief.
 
 They feared the moment a man stopped thinking and called it peace.
 
-Sanguinius would have spoken to Alaric not as a commander to a subordinate, but as a man to a man carrying a private war behind public duty. He would have offered warmth—not as indulgence, but as a stabilizer.
+Sanguinius would have spoken to Alaric not as a commander to a subordinate, but as a man to a man carrying a private war behind public duty. He would have offered warmth — not as indulgence, but as a stabilizer.
 
 Guilliman could also picture the risk: Sanguinius’s warmth could become a new kind of permission if Alaric ever let himself believe he had earned rest.
 
@@ -72,9 +72,9 @@ And then there were the brothers who would have found Alaric useful in the worst
 
 Perturabo would have understood him quickly. Too quickly. A wall that did not ask to be loved. A mind that treated morale as a variable, not a sacred thing.
 
-They would have built horrors together with perfect efficiency—until the day pride demanded payment and found none. The day Perturabo realized the Batavian did not need recognition, and therefore could not be controlled by withholding it. That would have become resentment. Resentment would have become geometry. Geometry would have become fratricide.
+They would have built horrors together with perfect efficiency — until the day pride demanded payment and found none. The day Perturabo realized the Batavian did not need recognition, and therefore could not be controlled by withholding it. That would have become resentment. Resentment would have become geometry. Geometry would have become fratricide.
 
-Lorgar would have tried to name Alaric’s restraint as faith. Guilliman could see it: the urge to sanctify the wall, to turn “holding” into a scripture that absolved the weak from thinking. Alaric would have resisted, not with argument, but with refusal—no speeches, no slogans, no permission for relief.
+Lorgar would have tried to name Alaric’s restraint as faith. Guilliman could see it: the urge to sanctify the wall, to turn “holding” into a scripture that absolved the weak from thinking. Alaric would have resisted, not with argument, but with refusal — no speeches, no slogans, no permission for relief.
 
 Curze would have called the Batavian a hypocrite and meant it as truth. A monster pretending to be lawful. A judge hiding behind procedure. And then Curze would have discovered the difference that mattered: Alaric did not use law to enjoy punishment. He used law to prevent himself from enjoying anything at all.
 
@@ -90,7 +90,7 @@ But the Alaric Guilliman had met now was not young.
 
 He was built from decades of betrayal, attrition, and an internal war against his own biology. A commander who had survived long enough to learn that the most seductive lies are the ones that feel like relief.
 
-And in that older board—this one, the Imperium Nihilus—there were other pieces too.
+And in that older board — this one, the Imperium Nihilus — there were other pieces too.
 
 The Emperor.
 
@@ -156,9 +156,9 @@ The words vanished into the corridor’s sterile air. No echo. No answer.
 
 He turned the problem the way he turned every problem: into constraints.
 
-If he tried to break the Batavi—force them into a more conventional shape, sand down the edges until they fit neatly into a Codex diagram—he would destroy the very mechanism that kept them lawful under their particular pressure.
+If he tried to break the Batavi — force them into a more conventional shape, sand down the edges until they fit neatly into a Codex diagram — he would destroy the very mechanism that kept them lawful under their particular pressure.
 
-If he indulged them—allowed their uniqueness to become romance, allowed their suffering to become myth—he would create the idol himself and then pretend he had merely observed it.
+If he indulged them — allowed their uniqueness to become romance, allowed their suffering to become myth — he would create the idol himself and then pretend he had merely observed it.
 
 Both paths were failure.
 
@@ -174,11 +174,11 @@ He would not isolate Alaric. Isolation was how walls became gods in empty rooms.
 
 He would not elevate Alaric into spectacle. Spectacle was how devotion found a mouth.
 
-He would do something harder: ensure the Batavi doctrine belonged to the Batavi—not to one man. Ensure their Legati carried the same audit language, the same refusal to merge categories, the same refusal to abandon, until it lived in the Chapter’s bone rather than in Alaric’s silhouette.
+He would do something harder: ensure the Batavi doctrine belonged to the Batavi — not to one man. Ensure their Legati carried the same audit language, the same refusal to merge categories, the same refusal to abandon, until it lived in the Chapter’s bone rather than in Alaric’s silhouette.
 
 He would keep the Triumvirate as a check not only on the Chapter, but on Alaric himself. Three masks, equal authority, each dangerous in a different way, each preventing the other two from becoming the whole truth.
 
-He would permit the exchanges—and he would make them formal, measured, and repeatable. Controlled exposure as doctrine, not as novelty.
+He would permit the exchanges — and he would make them formal, measured, and repeatable. Controlled exposure as doctrine, not as novelty.
 
 He would keep the kitchen out of policy hands. Not because he was sentimental. Because he had learned what happened when a ruler touched the one human place an institution used to stay sane.
 
@@ -194,7 +194,7 @@ Guilliman exhaled. It was not relief. It was acceptance of burden.
 
 He turned toward the door, toward the fortress’ noise, toward the Imperium that would keep bleeding whether he chose or not.
 
-Before he stepped out, he allowed himself one final simulation—one more glance at that older board, the Great Crusade, the brothers who had fallen, the brothers who had held, the father who had built them all.
+Before he stepped out, he allowed himself one final simulation — one more glance at that older board, the Great Crusade, the brothers who had fallen, the brothers who had held, the father who had built them all.
 
 If Alaric had been there then, perhaps some fractures would have been delayed. Perhaps some would have come sooner. Perhaps nothing would have changed at all, because the Imperium’s failure modes were older than any one wall.
 
@@ -212,5 +212,5 @@ Not as a saint.
 
 Not as a suspect.
 
-As a wall under audit—held up by more than his own hands.
+As a wall under audit — held up by more than his own hands.
 

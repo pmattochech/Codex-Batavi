@@ -2,7 +2,7 @@ The Strategium was not built to hold tenderness.
 
 It was built to hold pressure.
 
-Maps layered over maps. Realspace vectors. Supply corridors. Attrition curves. The kind of data that made mercy look like a rounding error. Even the air felt regulated—cool, dry, scrubbed of anything that might carry scent or comfort too far.
+Maps layered over maps. Realspace vectors. Supply corridors. Attrition curves. The kind of data that made mercy look like a rounding error. Even the air felt regulated — cool, dry, scrubbed of anything that might carry scent or comfort too far.
 
 Guilliman dismissed the chamber.
 
@@ -34,7 +34,7 @@ Alaric did not deny it.
 
 — As teachers. As witnesses. As constraints.
 
-Guilliman nodded once. The sealed briefs had called it exchange, but the way the Batavi practiced it was closer to controlled exposure—deliberate, audited contact with other cultures, taking what survived scrutiny and discarding the rest.
+Guilliman nodded once. The sealed briefs had called it exchange, but the way the Batavi practiced it was closer to controlled exposure — deliberate, audited contact with other cultures, taking what survived scrutiny and discarding the rest.
 
 — Salamanders, Guilliman said.
 
@@ -78,7 +78,7 @@ Guilliman held his gaze.
 
 — And what do you give.
 
-Alaric answered after a pause—long enough to feel like a gate being opened reluctantly.
+Alaric answered after a pause — long enough to feel like a gate being opened reluctantly.
 
 — Silence.
 
@@ -112,7 +112,7 @@ Alaric’s reply came like a line on a map.
 
 — We fear stagnation more.
 
-Guilliman let the words settle, then moved to the second subject without warning—because warning gave men time to armor their lies.
+Guilliman let the words settle, then moved to the second subject without warning — because warning gave men time to armor their lies.
 
 — Martha.
 
@@ -156,7 +156,7 @@ Guilliman held still.
 
 — That is not enough.
 
-Alaric’s helm turned a fraction—minimal motion, but enough to make the next words land with intent rather than procedure.
+Alaric’s helm turned a fraction — minimal motion, but enough to make the next words land with intent rather than procedure.
 
 — It is the only place where our restraint is not mistaken for hatred.
 
@@ -178,7 +178,7 @@ Alaric’s voice stayed spare, but the meaning deepened.
 
 — Astartes are not readable to mortals by default. We become readable there.
 
-Guilliman felt something shift inside him—an old memory of the Great Crusade, of compliance worlds that mistook silence for cruelty, of legions that believed the solution was spectacle.
+Guilliman felt something shift inside him — an old memory of the Great Crusade, of compliance worlds that mistook silence for cruelty, of legions that believed the solution was spectacle.
 
 — And you allow this readability to exist in one room, Guilliman said.
 
@@ -262,7 +262,7 @@ Alaric answered with a truth that did not try to be noble.
 
 — Because there is no safe configuration.
 
-Guilliman’s jaw tightened. There it was—the central cruelty of the era he had awoken into. Not good choices and bad choices. Only choices that kept something alive and choices that killed it cleanly.
+Guilliman’s jaw tightened. There it was — the central cruelty of the era he had awoken into. Not good choices and bad choices. Only choices that kept something alive and choices that killed it cleanly.
 
 — Viggo, Guilliman said.
 
@@ -356,7 +356,7 @@ Guilliman continued.
 
 — This is what truly spreads.
 
-He gestured, not to the maps, but to the absence in the room—the invisible architecture of kitchen, family, and human translation that the Strategium could not model.
+He gestured, not to the maps, but to the absence in the room — the invisible architecture of kitchen, family, and human translation that the Strategium could not model.
 
 — Not your numbers. Not your silence. Not your wall.
 
@@ -368,7 +368,7 @@ Alaric answered with the simplest sentence he had.
 
 — Yes.
 
-Guilliman held the silence for a moment longer, then delivered his constraint—not as threat, but as the only form of care he trusted.
+Guilliman held the silence for a moment longer, then delivered his constraint — not as threat, but as the only form of care he trusted.
 
 — Your exchanges will continue.
 
@@ -416,7 +416,7 @@ Alaric answered with a vow that refused ornament.
 
 Guilliman opened the door.
 
-The Strategium’s noise returned—the measured roar of an Imperium that never stopped bleeding.
+The Strategium’s noise returned — the measured roar of an Imperium that never stopped bleeding.
 
 He stepped out carrying no comfort.
 

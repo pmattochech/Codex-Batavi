@@ -2,13 +2,27 @@
 
 ## GENERAL ATLAS: FRICTION GEOMETRY (Three Systems)
 
-The Castra Vetera macro-bloc sits at a lethal **thermodynamic and empyrean choke**: **Cicatrix** pressure, **Blackstone** lattice, and **Halo**-adjacent harmonics make **Warp** approach and egress **dangerous** and **nonlinear** for unprepared Navigators — while **realspace** on Noviomagus and the mesh runs **strategic-depth normal** (no default “fast dome” story). **Chronology** is filed **Castra Vetera (CV)** first, **Imperial ~M42** second. Anchored at the far west of the Segmentum Pacificus, on the absolute edge of the Veiled Region, the **Nine Phalanx** is squeezed between the annihilation barrier of the Great Rift and the alien, unexplored void of the Halo Stars. That collision of forces, plus the absolute isolation of the “Blindness of the Pacific” — a massive failure of Astronomican light in the region — produced the dreaded **Loken Passage**. This hyper-stable narrow in the Immaterium acts as an inescapable funnel, forcing lost fleets, un-catalogued extremophile cosmic horrors, and echoes of the **Warp** to converge directly on our defenses.
+**Galactic lock:** [`castra-vetera-galactic-lock.md`](castra-vetera-galactic-lock.md) — authoritative placement and naming.
 
-To secure absolute logistical efficiency for the *Cohors Batavorum* without reliance on **Warp** translation for short hops, the Wall restructured its war and biological infrastructure, clustering its foundations in three super-massive gravity wells. By strict decree of the Lord Castellan, use of **Warp** jumps for short travel inside the **Nine Phalanx** is strictly forbidden, owing to extreme traffic pressure and volatile anomalies at the funnel’s edge. From that adaptation, the space between our vital worlds ceased to be silent void and became the “**Iron Highways**.”
+The **Insula Tenebrarum** subsector — filed in Chapter annals as **Castra Vetera** — is a **delta island** in **Ultima Segmentum**, **Imperium Nihilus**: a populated **Nine Phalanx** mesh between **fringe void** (xenos, dead stars, outward hunger) and the **Tenebrarum Ribbon** (regional warp storm — cult traffic, empyrean bleed). Inward, a weak-Astro **Nihilus corridor** brings tithe law and witness demand — the **Rome** pressure to the island’s **Germania** cheek.
 
-The Iron Highways form a mesh of strictly sublight intra-system transit corridors, cementing geological friction and the brutal slowness of our intra-system logistics. This realspace is harshly policed, claustrophobic, and filled without pause by heavy freighter trains, industrial dust clouds, and stations in perpetual war-footing. Batavi cruisers and tithe barges crawl those vacuum arteries on plasma drives alone, ensuring the sector survives by machine thermodynamics rather than the chaotic fluctuations of the Warp.
+The *Cohors Batavorum* does not market itself as a rim trophy. It **filters the tide**: what must pass inward passes under **witness**; what would flood the Imperium as cover, plague, or opportunist war meets the **Wall**.
 
-The Nine Phalanx was consolidated into three systems to reduce Warp dependence and turn logistics into a weapon.
+**Witness Ford** is the outward physical choke (convoy triage, cordon, auspex seal) — **not** a galaxy-scale gauntlet. Inside the mesh, **realspace** runs **strategic-depth normal**. **Warp** in and out of the subsector is **lethal without local knowledge** — **Insular chart-houses** (Navis covenants filed to Castra Vetera) hold sealed coffin data for the ford and the **three marsh channels**; outsiders who skip them die in the statistics. **No** subsetor-wide **time dilation** or **ricochet** physics. **Chronology:** **Castra Vetera (CV)** first; **Imperial ~M42** second (**Chronostrife**, **warp-leg** variance).
+
+### Marsh geometry — Iron Highways and the channel triangle
+
+Rhine delta logic made void-age: three macro-systems are **three islands** linked by **sublight marsh roads** — the **Iron Highways** — heavy freighter trains, industrial dust, stations in perpetual war-footing. **Short warp inside the mesh is forbidden** except through three regulated channels (one per system pair):
+
+| Pair | Channel |
+|------|---------|
+| Central Bastion ↔ Crucible | **Forge Marsh Channel** |
+| Crucible ↔ Threshold | **Tempest Marsh Channel** |
+| Threshold ↔ Central Bastion | **Crown Marsh Channel** |
+
+Batavi cruisers and tithe barges **crawl** the Iron Highways on plasma drives; Navigators **commit** to a channel or stay sublight — braided logistics, not a single immortal funnel.
+
+The Nine Phalanx was consolidated into **three systems** to reduce warp dependence and turn logistics into a weapon.
 
 ## Summary atlas
 
@@ -99,9 +113,9 @@ Ultra-congested sublight corridors with continuous tithe traffic, escorts, and i
 #### 6. Biogeographic matrix (Threshold)
 *Canonical entry:* [`../biological-encyclopedia-bestiary/biogeographic-matrix-threshold.md`](../biological-encyclopedia-bestiary/biogeographic-matrix-threshold.md) · *Named specimens:* [`../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md`](../biological-encyclopedia-bestiary/fauna-flora-named-specimens.md)
 
-## Human cultures (Porta Nihili — mortal civilization)
+## Human cultures (Castra Vetera — mortal civilization)
 
-Basal creed (faith of work), Noviomagus as provincial capital, **per-world forks**:
+Basal creed (faith of work), Noviomagus as provincial capital, **per-world forks**. *(Legacy path label `porta-nihili-*` — same civilization.)*
 
 * [cultures/porta-nihili-and-basal-stratum.md](cultures/porta-nihili-and-basal-stratum.md)
 * [cultures/worlds-central-bastion.md](cultures/worlds-central-bastion.md)

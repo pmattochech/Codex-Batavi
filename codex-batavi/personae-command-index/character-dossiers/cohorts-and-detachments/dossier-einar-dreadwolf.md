@@ -31,13 +31,13 @@
 | **Cowl / gorget** | High neck cowl — Nails and cable–mane **hidden**, not removed; occasional twitch under cloth |
 | **Pauldrons** | **Both black** — **left:** Chapter frontal-wolf roundel in **red**; **right:** **wolf skull** in **red** (*Amissi* charge — not Executor Chaplain skull) |
 | **Paint** | Mechanicus Standard Grey body; **both arms** (full vambrace + gauntlet) and **both legs below the knee** (lower greave) — **Mephiston Red** |
-| **Hands** | **Thunder-claws** — paired Noviomagus compact lightning claws; blades on **dorsal** housing, **fingers free**; blades **retract** flush. **Gaine digitale** — fingertip sheaths; keratin **sheathed**, **not** trimmed while rig worn |
+| **Hands** | **Dreadwolf Claws** — paired lightning claws re-wrought as a **talon-hand**: the weapon is a hand itself, with energized talons extending as the **second phalanx** of each finger, yielding a bestial silhouette while retaining full grip control. Origin: stolen ship-pattern claws aboard **Kzorn’s Maw** during capture; later **purified and remade** into Castra Vetera interface standards under **Kadmos** with *Reclusiam* oversight (**Varro** / clergy) |
 | **Boots** | **Traction claws** — three short adamantium claws per boot (Batavi / Castellan traction doctrine; industrial, not Chaos heraldry) |
 | ***Spina Cineris*** | Subcranial terminis port at atlas — sealed in gorget; **Brass-denial** protocol |
 
-**074 Moraine-Nine (chronicle kit):** **Partial** plate or stripped; **ship chainaxes**; helm **off** or lost in crash — **not** the refit above.
+**074 Moraine-Nine (chronicle kit):** **Partial** plate or stripped; **Dreadwolf Claws** in tainted ship-origin configuration; helm **off** or lost in crash — **not** the refit above.
 
-**Tooling reference (lightning claws layout):** [`einar-thunder-claws-reference.md`](../../../lore-images/einar-thunder-claws-reference.md)
+**Tooling reference (legacy thunder-claws layout):** [`einar-thunder-claws-reference.md`](../../../lore-images/einar-thunder-claws-reference.md) *(legacy / tooling; Einar’s current weapon is Dreadwolf Claws)*
 
 ---
 
@@ -55,7 +55,7 @@
 ## 3\. Combat and doctrine
 
 * **Role:** **The Lost** — traitor-hunt, World Eaters closure, Versibar recovery geometry; **mandatory Varro** on every mission slate.  
-* **Style:** **Wulfen-adjacent** closure — not *Versibar*; **thunder-claw** and **traction-boot** geometry when the **Red Demon** (Nails + Khorne bleed) is not steering.  
+* **Style:** **Wulfen-adjacent** closure — not *Versibar*; **Dreadwolf Claws** and **traction-boot** geometry when the **Red Demon** (Nails + Khorne bleed) is not steering.  
 * **Gene-seed:** Harvested on death **only** if tissue passes **Vermilion** audit; if corruption is confirmed, **destroyed**. At **168.M42** terminis, ***Spina Cineris*** annihilated progenoid tissue — harvest **null**.  
 * ***Spina Cineris* (terminis pin):** Subcranial **molecular destabilization** package at atlas–cervical junction — installed after **074.M42** recovery; sealed in gorget; **Brass-denial** protocol for *Amissi* watch brothers.  
 * ***Quinta* cadence:** When steadiness returns after slaughter — *We hold, as the Needles hold the cold tide.* (See [GLOSSARY-EN.md](../../../GLOSSARY-EN.md).)
@@ -71,7 +71,7 @@
   * **Conscious Nails;** eleven mercy-killed aboard ship; **forced first Exanimus** on crash.  
   * **Recovery:** Cull **withheld** after salute + ***Quinta* cadence**.  
   * **After:** Inducted **The Lost** (*Amissi*) — **first of The Lost**; **Steppenwolf** filing **retained** on detached registry (Judex watch supersedes ordinary Legatus slate, not distance geometry). **Varro** direct authority; *Vermilion* — *In watch. Under the Deathwolf’s jaws. No soul-name. No precedent. No cult.*  
-* **074–167.M42 | *Amissi* service:** Small-pool deployments with Judex; refit armor and thunder-claws issued; ***Spina Cineris*** maintained by **Drusus**. Legend vignette (reef cult / **Slaughterbound**): [dreadwolf-precipitation.md](../../../chronicles/14-vexillum-chronicles/dreadwolf-precipitation.md).  
+* **074–167.M42 | *Amissi* service:** Small-pool deployments with Judex; refit armor and **Dreadwolf Claws** retained (purified and re-wrought); ***Spina Cineris*** maintained by **Drusus**. Legend vignette (reef cult / **Slaughterbound**): [dreadwolf-precipitation.md](../../../chronicles/14-vexillum-chronicles/dreadwolf-precipitation.md).  
 * **168.M42 | Luna Sigma — terminis:** [dreadwolf-terminus.md](../../../chronicles/14-vexillum-chronicles/dreadwolf-terminus.md) · [battle-of-sigma-moon.md](../../../chronicles/11-sigma-moon/battle-of-sigma-moon.md).
 
 ---

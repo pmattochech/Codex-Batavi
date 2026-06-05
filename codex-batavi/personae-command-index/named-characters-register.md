@@ -20,7 +20,7 @@
 | **VII** | *Septima* | [Lucan Phaetron](character-dossiers/legati/dossier-lucan-phaetron.md) | — |
 | **VIII** | *Octava* | [Ivar Malevent](character-dossiers/legati/dossier-ivar-malevent.md) | Valens Ritter (detached spend) |
 | **IX** | *Nona* | [Cassian Vetra](character-dossiers/legati/dossier-cassian-vetra.md) | — |
-| **X** | *Decima* | **—** (no Legatus; Triumvirate direct) | Alaric, Drusus, Varro, Kadmos, Otho; Markus Graile (Captain); Cael Dravic (Sergeant) |
+| **X** | *Decima* | ** — ** (no Legatus; Triumvirate direct) | Alaric, Drusus, Varro, Kadmos, Otho; Markus Graile (Captain); Cael Dravic (Sergeant) |
 
 **Chapter organ delegates (not Legati):** **Genetor Primus** (*Medicinae*) and **Confessor Primus** (*Reclusiam*) — offices in [`disciplines-and-curia-vexilli.md`](doctrine-and-organs/disciplines-and-curia-vexilli.md); **named holders TBD**.
 
@@ -75,9 +75,9 @@
 | **Sergeant Kael** — Line NCO (Skarjaw war) | Documented uncontrolled Wild Hunt onset (pre-*Curia*) |
 | **Warboss Skarjaw** — Ork | South Wall; Green Tempest era |
 | **Warboss Gutgrind** — Ork (Selene-Black) | *Quinta* descent kill |
-| **Threx** — Mechanicus interlocutor | Foundation salvage friction |
-| **Captain Orwen** — Imperial Navy | Tide-naming witness |
-| **Sergeant Kessler** — Militarum | Wounded witness (not Legatus Henric Kessler) |
+| **Threx** — *Lex Ignis* Genetor | Foundation salvage friction — [`dossier-threx.md`](character-dossiers/supporting/dossier-threx.md) |
+| **Captain Orwen** — Imperial Navy | Tide-naming witness — [`tide-names/chapter.md`](../chronicles/foundation-war/Q4-der-batav/tide-names/chapter.md) |
+| **Sergeant Kessler** — Militarum | Wounded witness (not Legatus Henric Kessler) — Q4 testimony [`der-batav-council/chapter.md`](../chronicles/foundation-war/Q4-der-batav/der-batav-council/chapter.md) |
 
 ### Guest Imperial personae (not Batavi roster)
 

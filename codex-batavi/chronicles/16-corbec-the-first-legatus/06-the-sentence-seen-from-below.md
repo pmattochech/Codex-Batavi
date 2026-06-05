@@ -32,7 +32,7 @@ I answered the only honest way.
 
 That was chronological law: you do not pretend you have data you do not have. Pretending is how rot becomes doctrine.
 
-Minutes passed. The sky flickered. Gunfire rose and fell like breath. Once, a sound rolled across the flats—deep, heavy, not a detonation. A kind of impact that suggested mass meeting mass in confined space.
+Minutes passed. The sky flickered. Gunfire rose and fell like breath. Once, a sound rolled across the flats — deep, heavy, not a detonation. A kind of impact that suggested mass meeting mass in confined space.
 
 Brann stiffened.
 
@@ -48,7 +48,7 @@ It felt like a decision.
 
 For four seconds, the theater held its breath.
 
-Then a voice keyed in—flat, calm, the sound of a wall speaking.
+Then a voice keyed in — flat, calm, the sound of a wall speaking.
 
 — Sector clear.
 
@@ -116,7 +116,7 @@ Brann’s laughter was small and bitter.
 
 He did not answer.
 
-When Drusus’s medicae came for him, I watched their faces—sealed helms, no expression—and I could still read what mattered in the economy of movement. They handled him with care that did not pretend to be tenderness. They had already begun filing him into a future: repair attempts, degradation curves, the long slope toward a Castraferrum sarcophagus if the body refused to remain useful.
+When Drusus’s medicae came for him, I watched their faces — sealed helms, no expression — and I could still read what mattered in the economy of movement. They handled him with care that did not pretend to be tenderness. They had already begun filing him into a future: repair attempts, degradation curves, the long slope toward a Castraferrum sarcophagus if the body refused to remain useful.
 
 Brann looked at me as they lifted him.
 

@@ -20,17 +20,17 @@ Alaric, motionless as an iron gargoyle, confirmed with a sub-millimeter jaw clen
 
 Alaric walked to the platform edge, where the abyss dropped two kilometers to the churning sea. He pointed with an adamantium gauntlet. — Watch.
 
-Down in the breaker zone, where thirty-meter waves exploded against black volcanic rock, something moved. It was not a coordinated pack running the tundra. It was solitary, massive, fluid motion. A *Canis Batavorum* rose from the foam. Ragnar narrowed his eyes. The beast was huge—two meters of pure muscle packed in the shoulders. It did not look canine; it looked like armored granite shaped like a cat. The animal did not shake off water; oil in its pelt shed the sea at once.
+Down in the breaker zone, where thirty-meter waves exploded against black volcanic rock, something moved. It was not a coordinated pack running the tundra. It was solitary, massive, fluid motion. A *Canis Batavorum* rose from the foam. Ragnar narrowed his eyes. The beast was huge — two meters of pure muscle packed in the shoulders. It did not look canine; it looked like armored granite shaped like a cat. The animal did not shake off water; oil in its pelt shed the sea at once.
 
 The creature was climbing. With black non-retractable obsidian claws it drove its paws into the cliff’s vertical face, ascending with explosive force that defied gravity. In its short square jaw, built for hydraulic crushing bite, it dragged the carcass of a “drag-crab,” a leviathan crustacean weighing half a ton.
 
 — He is climbing a ninety-degree wall carrying his own weight in meat — murmured Ragnar, amusement replaced by tactical awe. — No momentum. Just pure traction.
 
-The alpha predator reached a rocky ledge. It did not howl. It dropped the prey and, with a single neck-and-jaw motion—*CRACK*—split the crab’s biological adamant carapace like glass. The fracture’s sound echoed up to the platform where the Astartes stood.
+The alpha predator reached a rocky ledge. It did not howl. It dropped the prey and, with a single neck-and-jaw motion — *CRACK* — split the crab’s biological adamant carapace like glass. The fracture’s sound echoed up to the platform where the Astartes stood.
 
 — Fenris breeds runners — said Logan Grimnar, arms crossed over Terminator armor. — Wolves that win by exhaustion and numbers. This… — he pointed to the beast below, now processing its meal in silence, ignoring the storm — …this is a living hydraulic compactor. He fights like you, Alaric.
 
-Alaric looked at the hide on his shoulder. It was the patriarch of that species—a beast that, in the war’s early years, had required lethal release of Alaric’s *Furor* before he could drown it in acid mud and crush its neck.
+Alaric looked at the hide on his shoulder. It was the patriarch of that species — a beast that, in the war’s early years, had required lethal release of Alaric’s *Furor* before he could drown it in acid mud and crush its neck.
 
 — On Noviomagus and Aethelgard, speed is inefficient, — Alaric explained, cold logic anchoring the scene’s savagery. — The ground is vertical. Pressure is crushing. Our biology demands adaptation. My wolves do not chase. They wait, anchor, and break. The hide I carry is proof against water, acid, and fire. It reminds me that structural resistance always beats agility.
 
@@ -42,4 +42,4 @@ Logan Grimnar set a heavy gauntlet on Alaric’s shoulder, beside the gray hide.
 
 ---
 
-***Strategium* note (doctrinal linkage):** The *Canis Batavorum* species documented in this encounter—anchored, silent predator, oily coat, structural endurance—became the **biological archetype** of the **Batav Wolf trial**: the **10th Vexillatio** candidate must subdue a specimen in containment **without** killing the beast for convenience **and without** *Furor* breach, proving the same economy of violence the Castellan demands of himself. *See organica:* [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md), [military-hierarchy.md](../../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
+***Strategium* note (doctrinal linkage):** The *Canis Batavorum* species documented in this encounter — anchored, silent predator, oily coat, structural endurance — became the **biological archetype** of the **Batav Wolf trial**: the **10th Vexillatio** candidate must subdue a specimen in containment **without** killing the beast for convenience **and without** *Furor* breach, proving the same economy of violence the Castellan demands of himself. *See organica:* [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md), [military-hierarchy.md](../../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.

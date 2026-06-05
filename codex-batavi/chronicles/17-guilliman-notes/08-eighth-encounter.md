@@ -8,11 +8,11 @@ There were Chapters that performed piety for visitors and called it virtue. Ther
 
 He chose Batavi ground that was not Noviomagus, because he did not want the forge-world’s authority to do the speaking for them. He wanted the Chapter in a place where the planet’s pride could not cushion the truth.
 
-The location was a trenchworks lattice welded into the Nine Phalanx mesh—one of the Castra Vetera bastions that existed to be ugly and therefore honest. Pylon-adjacent earthworks and prefabricated ferrocrete, a fortress-dock’s underbelly where supply met blood. The air tasted of propellant residue, machine oil, and wet stone. The lumen strips flickered just often enough to remind a mortal mind that this place did not care whether you were comfortable.
+The location was a trenchworks lattice welded into the Nine Phalanx mesh — one of the Castra Vetera bastions that existed to be ugly and therefore honest. Pylon-adjacent earthworks and prefabricated ferrocrete, a fortress-dock’s underbelly where supply met blood. The air tasted of propellant residue, machine oil, and wet stone. The lumen strips flickered just often enough to remind a mortal mind that this place did not care whether you were comfortable.
 
 Guilliman arrived without banners.
 
-Not because he feared worship—he assumed worship was the default failure mode of any frightened population—but because he did not want his own presence to become an excuse for theater.
+Not because he feared worship — he assumed worship was the default failure mode of any frightened population — but because he did not want his own presence to become an excuse for theater.
 
 They did not greet him with a choir.
 
@@ -22,7 +22,7 @@ Humans in dull fatigues and rebreather masks moved munitions crates and sealant 
 
 The humans did not shrink away from him.
 
-They watched him the way men watched a heavy machine that could save them or kill them, and then—when it did not kill them—allowed themselves to breathe a fraction easier. One of them passed him a strip of cloth for wiping condensation from a crate’s seal. The Astartes took it without hesitation, used it, and handed it back as if it were an instrument, not a relic.
+They watched him the way men watched a heavy machine that could save them or kill them, and then — when it did not kill them — allowed themselves to breathe a fraction easier. One of them passed him a strip of cloth for wiping condensation from a crate’s seal. The Astartes took it without hesitation, used it, and handed it back as if it were an instrument, not a relic.
 
 Shared sweat.
 
@@ -78,7 +78,7 @@ A battle-brother stepped forward from the edge of the hololith. Brother Jannik V
 
 The room did not flinch.
 
-Guilliman felt his own old instincts rise anyway—the instincts of empire and chain, the instincts that had kept Legions from becoming mobs. A subordinate had just contradicted the Chapter Master’s authored plan in front of an external sovereign.
+Guilliman felt his own old instincts rise anyway — the instincts of empire and chain, the instincts that had kept Legions from becoming mobs. A subordinate had just contradicted the Chapter Master’s authored plan in front of an external sovereign.
 
 He turned his gaze to the objector.
 
@@ -114,7 +114,7 @@ Guilliman looked again at the objector.
 
 — Proceed — he said.
 
-The battle-brother’s posture altered by a fraction. Not relaxation. Alignment. He began the structure without naming it—performed as instinct rather than theater.
+The battle-brother’s posture altered by a fraction. Not relaxation. Alignment. He began the structure without naming it — performed as instinct rather than theater.
 
 — The break is the traverse itself — he said. — It assumes we can hold the angle under sustained fire without collapsing the human supply line behind us.
 

@@ -1,12 +1,12 @@
 # THE WALL'S LAST HEAT
 
-Noviomagus Prime was a world forged in rust, soot, and pain. Its corridors echoed with the lament of hydraulic presses and the endless march of military boots. For a legionary of the Cohors Batavorum, the idea of "home" was a tactical abstraction—a sector on the map to be defended in blood. But there was a structural anomaly in the main fortress. An exclusion zone where the cold geometry of war did not set the rules.
+Noviomagus Prime was a world forged in rust, soot, and pain. Its corridors echoed with the lament of hydraulic presses and the endless march of military boots. For a legionary of the Cohors Batavorum, the idea of "home" was a tactical abstraction — a sector on the map to be defended in blood. But there was a structural anomaly in the main fortress. An exclusion zone where the cold geometry of war did not set the rules.
 
 Martha's Kitchen.
 
 The air inside did not smell of burned promethium or ozone, but of dark bread, synthetic spices, and the dense heat of great industrial cauldrons. It was the thermal and spiritual heart of the civil tier.
 
-The heavy access doors hissed open, revealing the darkness of the military tier. The colossal silhouette of Alaric von Helis filled the frame. The Lord Castellan wore his *Castra-Lupus*, iron-gray scratched and crimson pauldrons marked by the last patrol in the lower levels. His mechanical helm—a brutal wolf head forged in thick ceramite, with a pronounced muzzle and matte steel fangs—exhaled a gust of hot air through the vent grilles.
+The heavy access doors hissed open, revealing the darkness of the military tier. The colossal silhouette of Alaric von Helis filled the frame. The Lord Castellan wore his *Castra-Lupus*, iron-gray scratched and crimson pauldrons marked by the last patrol in the lower levels. His mechanical helm — a brutal wolf head forged in thick ceramite, with a pronounced muzzle and matte steel fangs — exhaled a gust of hot air through the vent grilles.
 
 At the toe of his right boot walked the Swift Shadow. But Viggo was no longer swift.
 
@@ -36,7 +36,7 @@ Satisfied, Martha lowered the spoon.
 
 Viggo did not need the command repeated. With a heavy step, the old wolf crossed the kitchen, ignoring the prep counters, and went straight to the space between the industrial ovens. There, heat was radiant, dense as an embrace. He turned his massive body twice and collapsed to the floor with a dull thud, stretching his aching legs.
 
-Martha turned back to her pots, but not before snatching a tough cut of synthetic meat and gristle—the part humans would not chew—and throwing it with precision through the air. Viggo opened his jaws in a flash, fangs snapping shut as he caught the "meat tithe" in flight, then closed his eyes and rested his head on his paws.
+Martha turned back to her pots, but not before snatching a tough cut of synthetic meat and gristle — the part humans would not chew — and throwing it with precision through the air. Viggo opened his jaws in a flash, fangs snapping shut as he caught the "meat tithe" in flight, then closed his eyes and rested his head on his paws.
 
 The predator was home.
 
@@ -56,11 +56,11 @@ It was Viggo who fixed the system failure.
 
 Without a single growl, the wolf walked to the corner nearest the kitchen hearth. He turned his massive body, claws scraping the floor, and lay in a semicircle of pure muscle and dense fur. He looked at Martha and thumped his tail once on the floor. *Thump.* Hesitant, under the silent stare of the lenses on Alaric's helm, the matriarch took the crying child and laid her against the animal's flank.
 
-Silence came almost at once. Buried in the thick white fur evolution had shaped to endure Fenris's infernal winter, Elara found the perfect stove. The beast's slow, powerful heartbeat—*thump-thump-thump*—worked like a rhythmic lullaby. The little Iron Venus slept, and the lethal monster became her living cradle.
+Silence came almost at once. Buried in the thick white fur evolution had shaped to endure Fenris's infernal winter, Elara found the perfect stove. The beast's slow, powerful heartbeat — *thump-thump-thump* — worked like a rhythmic lullaby. The little Iron Venus slept, and the lethal monster became her living cradle.
 
 The symbiosis only deepened with time. At three, Elara had no notion of the danger around her. For her, the terror of the Emperor's enemies was only a soft, noisy rug.
 
-Alaric's auspex logs kept the recording of an afternoon when Martha nearly choked on terror, dropping a pot with a crash. Little Elara sat on the floor, gripping Viggo's white ears with both small hands and pulling with the relentless force of a curious child. Not content, she stuck her fingers in the predator's muzzle, forcing the animal's black lips up to "count the teeth"—fangs that could shatter a Genestealer's carapace.
+Alaric's auspex logs kept the recording of an afternoon when Martha nearly choked on terror, dropping a pot with a crash. Little Elara sat on the floor, gripping Viggo's white ears with both small hands and pulling with the relentless force of a curious child. Not content, she stuck her fingers in the predator's muzzle, forcing the animal's black lips up to "count the teeth" — fangs that could shatter a Genestealer's carapace.
 
 Alaric's hand had contracted instinctively toward his sword, a protective reflex.
 
@@ -102,7 +102,7 @@ Not in his silent hunting trot, but in agonizing slow motion for his biology. Th
 
 Viggo became the child's walker. He reduced all his destructive, kinetic potential to the speed of a human infant groping the world. If Elara lost balance, the wolf stopped at once and tilted his body toward her, a wall of thick fur blocking a fall onto cold metal.
 
-For the Castellan's analytical mind, the scene was not a moment of domestic tenderness; it was staggering tactical validation. Through his wolf helm's lenses, Alaric recorded that the beast had not been merely domesticated by Martha's wooden spoon—it had reprogrammed its own survival instincts to prioritize the child's structural integrity.
+For the Castellan's analytical mind, the scene was not a moment of domestic tenderness; it was staggering tactical validation. Through his wolf helm's lenses, Alaric recorded that the beast had not been merely domesticated by Martha's wooden spoon — it had reprogrammed its own survival instincts to prioritize the child's structural integrity.
 
 The Swift Shadow had agreed to become the slowest anchor in the world, only so Elara could learn to walk without skinning her knees on Noviomagus's iron.
 
@@ -112,7 +112,7 @@ On the military tier, Astartes legionaries simply ignored the temperature drop. 
 
 Martha had eight biological children. Eight fragile human bodies without implants, ceramite carapaces, or nuclear reactors. When vent grilles stopped blowing warm air and ice began to crystallize on the ferrocrete walls of the common dorm, synthetic blankets were not enough. The children began to shiver, huddled in the center of the dark room.
 
-Alaric von Helis was on internal patrol when sensors in his heavy wolf helm—the ceramite mechanical muzzle scenting the frozen air—detected the drastic temperature drop in the civil sector. He marched toward Martha's quarters, gyroscopes humming protest at the anomalous cold. Siege logic demanded he protect the fortress's essential biological assets.
+Alaric von Helis was on internal patrol when sensors in his heavy wolf helm — the ceramite mechanical muzzle scenting the frozen air — detected the drastic temperature drop in the civil sector. He marched toward Martha's quarters, gyroscopes humming protest at the anomalous cold. Siege logic demanded he protect the fortress's essential biological assets.
 
 When the access doors opened, however, the Castellan's intervention proved unnecessary. System failure had already been solved by a biology older than the Imperium.
 
@@ -124,7 +124,7 @@ The centenarian predator did not stay in his usual corner by the now-cold ovens.
 
 Martha's children, raised in the fortress's hardness, knew the beast's language. Jonas, the eldest, pulled his younger siblings. One by one, the matriarch's eight children dragged their blankets and piled around the white wolf's massive body.
 
-Viggo stretched his legs and curled his thick tail around the smallest of them. His coat—a Fenrisian evolutionary miracle built to trap internal heat and repel ice—radiated a near-febrile temperature. He became, literally, the room's thermal core. A central heater that breathed.
+Viggo stretched his legs and curled his thick tail around the smallest of them. His coat — a Fenrisian evolutionary miracle built to trap internal heat and repel ice — radiated a near-febrile temperature. He became, literally, the room's thermal core. A central heater that breathed.
 
 From the dorm doorway, Alaric's colossal silhouette filled the frame. The iron-gray giant stayed motionless. The optical lenses of his mechanical helm switched to infrared. On the visor, the room was a sea of icy blue and lethal black, but at the image's center, Viggo's body blazed incandescent red and blinding white. Around that mass of heat, the eight small thermal signatures of the human children drew the animal's energy, their body temperatures climbing back into biological safety.
 
@@ -132,7 +132,7 @@ The beast did not sleep. Through his own sensors, Alaric saw Viggo keep his eyes
 
 The Lord Castellan processed the scene through his rigid parameters of war. *Biological unit assumed emergency life-support function,* his mind logged in a silent data stream. *Maximum thermodynamic efficiency. Risk of civil asset loss reduced to zero percent. Pack protocol outperforms standard heating engineering.*
 
-Alaric did not enter the room to offer his own reactor's heat. The equation was already balanced. He only dipped his head slightly—a silent salute from an iron sentinel to a flesh sentinel—and closed the dorm doors to keep the warm air inside.
+Alaric did not enter the room to offer his own reactor's heat. The equation was already balanced. He only dipped his head slightly — a silent salute from an iron sentinel to a flesh sentinel — and closed the dorm doors to keep the warm air inside.
 
 The storm lasted three days. Central heat was only restored on the fourth cycle. Through all of it, Viggo rose only to eat the meat Martha brought, returning at once to the middle of the children. He was the fortress's organic shield. The biological stove that ensured the Iron Venus would have living subjects to lead in the only cycle Castra Vetera ever promised: the next.
 
@@ -142,7 +142,7 @@ Yet the "infantry" civil unit led by Martha's eldest son, Jonas, held a tactical
 
 In the Imperium's eyes, a Fenrisian Thunderwolf was a nightmare monster, a beast of murderous instincts that respected only Adeptus Astartes strength. But in the safe half-light of corridors beside the kitchen, Viggo was simply the "Heavy Mount."
 
-The old white wolf allowed himself to be the center of the children's war games with a patience that defied his own genetics. Jonas and his younger brothers used industrial chalk sticks—stolen from artillery manufactoria—to draw on the animal's thick coat. They sketched targets, imaginary armor plates, and crude Cohors Batavorum symbols straight on Viggo's flank. The lethal predator became a walking mural of child tactics.
+The old white wolf allowed himself to be the center of the children's war games with a patience that defied his own genetics. Jonas and his younger brothers used industrial chalk sticks — stolen from artillery manufactoria — to draw on the animal's thick coat. They sketched targets, imaginary armor plates, and crude Cohors Batavorum symbols straight on Viggo's flank. The lethal predator became a walking mural of child tactics.
 
 — Armor advance!
 
@@ -154,7 +154,7 @@ When younger brothers "attacked the tank" with wooden swords, striking without f
 
 Martha, invariably, ended the simulation hours later, armed with a stiff-bristle brush and muttering curses in Batav dialect while trying to brush blue and yellow chalk dust from the wolf's coat. Viggo only closed his eyes and endured the matriarch's violent brushing, knowing that was the price of the game.
 
-Watching from the threshold of shadows, the iron-gray mountain of Alaric von Helis processed the scene in silence. The Lord Castellan's crushing *Castra-Lupus* helm—brutal mechanical wolf head, long ceramite muzzle, heavy matte steel fangs—tilted a millimeter as sensors recorded the organic interaction.
+Watching from the threshold of shadows, the iron-gray mountain of Alaric von Helis processed the scene in silence. The Lord Castellan's crushing *Castra-Lupus* helm — brutal mechanical wolf head, long ceramite muzzle, heavy matte steel fangs — tilted a millimeter as sensors recorded the organic interaction.
 
 His mind, always trying to lock affection in boxes of military logic, framed a tactical justification for the absurd sight of a chalk-covered monster carrying children.
 
@@ -162,7 +162,7 @@ His mind, always trying to lock affection in boxes of military logic, framed a t
 
 One more clinical excuse from the Wall.
 
-The truth, invisible to Terminator armor's sensors, was simpler and deeper. The old wolf knew those children lived in a hostile, pitiless universe. By offering his own lethal body as a safe proving ground, Viggo taught them to be brave. He was the patient mentor, shaping the human pack's spirit before time—the great enemy of all—finally caught him.
+The truth, invisible to Terminator armor's sensors, was simpler and deeper. The old wolf knew those children lived in a hostile, pitiless universe. By offering his own lethal body as a safe proving ground, Viggo taught them to be brave. He was the patient mentor, shaping the human pack's spirit before time — the great enemy of all — finally caught him.
 
 A decade is nothing to iron, but crushing weight to flesh.
 
@@ -178,7 +178,7 @@ The scene repeated almost every night cycle. Elara sat on the hard floor near Ma
 
 Elara did not buckle under the weight. With the cold, pragmatic calm she had absorbed from Alaric himself, she paused her reading.
 
-She did not treat him like a fragile pet; she treated him with the reverence a Tech-Priest would show a damaged war-relic. From a small metal box she took tweezers, surgical scrapers, and solid steel-bristle brushes—precision tools rigorously sterilized that Apothecary Drusus had lent her.
+She did not treat him like a fragile pet; she treated him with the reverence a Tech-Priest would show a damaged war-relic. From a small metal box she took tweezers, surgical scrapers, and solid steel-bristle brushes — precision tools rigorously sterilized that Apothecary Drusus had lent her.
 
 While Viggo closed his clouded eyes and breathed heavily, Elara began maintenance. She drew back the animal's thick black lips and, with the medical instruments, carefully cleaned tartar and buildup at the base of the huge yellowed fangs. She brushed what fur remained, removing dead clumps with long, methodical strokes, massaging the atrophied muscles of the wolf's neck.
 
@@ -186,7 +186,7 @@ Whenever she finished one side and put away the steel tools, Viggo's response wa
 
 *Thump-thump.* For Elara, that dragged, rhythmic sound was not mere canine reflex. In a world of bombardment alarms, military marches, and synthesized voices, that dull thud meant "safety." It meant "home."
 
-From the corridor shadows, the iron-gray mountain of Alaric von Helis watched the silent transition. Optical sensors on his formidable *Castra-Lupus* helm—the mechanical wolf head with ceramite muzzle and steel teeth—calibrated focus on the pair lit by the kitchen's pale light.
+From the corridor shadows, the iron-gray mountain of Alaric von Helis watched the silent transition. Optical sensors on his formidable *Castra-Lupus* helm — the mechanical wolf head with ceramite muzzle and steel teeth — calibrated focus on the pair lit by the kitchen's pale light.
 
 The Castellan's mind processed the role reversal through his inflexible logical filter. *Human unit reached primary operational maturity,* Alaric logged. *Thermal biological asset in terminal systemic decline. Human assumed palliative maintenance protocols to extend veteran unit functionality. Resource efficiency confirmed.*
 
@@ -204,11 +204,11 @@ The beast had become a fixed sentinel.
 
 He could no longer keep up on patrols. When the military tier's heavy doors opened and Alaric von Helis marched into the forge-fortress depths, Viggo tried to rise. He dragged his massive paws over ferrocrete, panting heavily, only to collapse after a few meters.
 
-The Lord Castellan stopped. The iron-gray mountain turned slowly, gyroscopes humming in a low tone. His formidable helm—the lupine mechanical head forged in thick ceramite, its relentless muzzle and matte steel fangs—regarded the panting animal on the floor. Alaric did not return to pet him, nor speak words of comfort. The fractured Batavian mind worked in its usual coldness, restructuring reality to dodge the pain of imminent loss.
+The Lord Castellan stopped. The iron-gray mountain turned slowly, gyroscopes humming in a low tone. His formidable helm — the lupine mechanical head forged in thick ceramite, its relentless muzzle and matte steel fangs — regarded the panting animal on the floor. Alaric did not return to pet him, nor speak words of comfort. The fractured Batavian mind worked in its usual coldness, restructuring reality to dodge the pain of imminent loss.
 
 *Unit lost infiltration mobility,* Alaric recorded in his internal tactical protocols, the helm's orange eyes glowing in the half-light. *Flank speed reduced to zero. Attack vector compromised. Reassigning biological asset to static rear defense protocols. Unit will shield primary civil assets.*
 
-It was the silent order for Viggo to stay. The wolf seemed to understand. He let out a low whine—not physical pain, but the guttural frustration of a warrior who could no longer raise his sword—and dragged himself back to Martha's Kitchen or the base of the Throne of Adamant.
+It was the silent order for Viggo to stay. The wolf seemed to understand. He let out a low whine — not physical pain, but the guttural frustration of a warrior who could no longer raise his sword — and dragged himself back to Martha's Kitchen or the base of the Throne of Adamant.
 
 Confined, Viggo's world shrank to vibrations in the metal floor. He spent his days lying down, his enormous head resting on his forepaws. For an animal built for storm, that stasis was silent agony.
 
@@ -218,7 +218,7 @@ Whenever the kitchen door hissed and Elara's light but firm steps echoed through
 
 Viggo lacked strength to stand and greet her. His chest rose and fell with effort, his rheumy eyes slow to focus on the girl's silhouette.
 
-But the tail—the tail still answered the heart's command.
+But the tail — the tail still answered the heart's command.
 
 *Thump-thump.*
 
@@ -226,7 +226,7 @@ The heavy, rhythmic beat of the tail against ferrocrete echoed through the kitch
 
 Viggo's *thump-thump* was the last line of defense against Noviomagus Prime's crushing silence, a stubborn declaration that while breath remained in his lungs, the old wolf would watch over the Iron Venus. Even if he could no longer run for her.
 
-Noviomagus Prime wept: acid rain hammered the fortress's thick ferrocrete domes with the sound of a million forge hammers striking in unison—weather at its peak. Outside was a symphony of crushing; inside Martha's Kitchen, the air was dense and terribly silent—the kind of stillness the Silent Vigil had carried since Valerius, storm or no storm in the sky.
+Noviomagus Prime wept: acid rain hammered the fortress's thick ferrocrete domes with the sound of a million forge hammers striking in unison — weather at its peak. Outside was a symphony of crushing; inside Martha's Kitchen, the air was dense and terribly silent — the kind of stillness the Silent Vigil had carried since Valerius, storm or no storm in the sky.
 
 The pack was gathered.
 
@@ -234,7 +234,7 @@ Martha had stopped cooking. Her pots sat inert on cold grates. Elara, twelve, sa
 
 And occupying almost all the space beside the industrial ovens stood Alaric von Helis. The iron-gray mountain of *Castra-Lupus* was present, but his silhouette held a glaring anomaly. For the first time in uncounted cycles, the Lord Castellan was unhelmed.
 
-His heavy mechanical helm—the ceramite wolf head with its brutal muzzle and thick steel fangs—rested on the stainless counter.
+His heavy mechanical helm — the ceramite wolf head with its brutal muzzle and thick steel fangs — rested on the stainless counter.
 
 Stripped of the cold orange filter of the tactical visor, Alaric's human face was exposed to the room's heat. It was a rare sight of monstrosity perfectly tamed. The Batavian dermis showed thick war scars and neural interface ports driven straight into his skull and the massive hypertrophy of his lupine jaw. His crimson-red, slit-pupil eyes carried the sterile, crushing weight of a grief he refused to name. He looked like an exhausted guardian imprisoned by his armor's duty.
 
@@ -266,7 +266,7 @@ With an effort that made his chest shudder violently, Viggo opened his eyes. Cat
 
 He began the final check.
 
-The first blur his eyes fixed on was Martha. The matriarch stood near the counter, rough hands gripping a stained dishcloth so hard her knuckles were white. She did not weep—tears were a luxury Noviomagus's civil tier rarely allowed—but her severe expression had collapsed into deep, silent mourning. Viggo blinked slowly at her. She was Keeper of the Fire, provider of meat, law of the Cleaning Zone. The wolf let out a short snort through his muzzle. *The heart's territory is secure.*
+The first blur his eyes fixed on was Martha. The matriarch stood near the counter, rough hands gripping a stained dishcloth so hard her knuckles were white. She did not weep — tears were a luxury Noviomagus's civil tier rarely allowed — but her severe expression had collapsed into deep, silent mourning. Viggo blinked slowly at her. She was Keeper of the Fire, provider of meat, law of the Cleaning Zone. The wolf let out a short snort through his muzzle. *The heart's territory is secure.*
 
 The great head turned, millimeter by millimeter, until it found the dark mountain in the room's corner.
 
@@ -292,7 +292,7 @@ When Viggo's heavy head fell back to ferrocrete and his rheumy eyes closed, the 
 
 Hysteria was a logistics failure. Death, an operational fact.
 
-Still kneeling on the rough floor, Elara moved with the solemn precision of a rite of passage. She extended small hands—hands already studying the weight of empires and star maps—and gripped the Thunderwolf's forepaw. The animal's claws were chisel-thick, pads callused and marked by a century of patrols over rusted metal and acid ice. She squeezed the giant paw, feeling the beast's atavistic heat begin to recede, slowly yielding to the fortress's inevitable cold.
+Still kneeling on the rough floor, Elara moved with the solemn precision of a rite of passage. She extended small hands — hands already studying the weight of empires and star maps — and gripped the Thunderwolf's forepaw. The animal's claws were chisel-thick, pads callused and marked by a century of patrols over rusted metal and acid ice. She squeezed the giant paw, feeling the beast's atavistic heat begin to recede, slowly yielding to the fortress's inevitable cold.
 
 In the room's corner, Alaric von Helis's pale human face stayed frozen, a mask of absolute containment, watching the cub absorb the first real blow of mortality in her pack.
 
@@ -332,7 +332,7 @@ Tobias's voice was a fearful whisper, mechanical eyes on the floor.
 
 Alaric's massive silhouette did not move, but the change in air pressure was immediate.
 
-Human face exposed to the furnaces' heat—scarred, pale, stripped of the dehumanizing filter of his formidable wolf helm—Alaric von Helis looked at the serf. The Chapter Master's eyes, sunk in the hollows of decades of functional depression, burned with ice-cold fury and a grief he refused to name.
+Human face exposed to the furnaces' heat — scarred, pale, stripped of the dehumanizing filter of his formidable wolf helm — Alaric von Helis looked at the serf. The Chapter Master's eyes, sunk in the hollows of decades of functional depression, burned with ice-cold fury and a grief he refused to name.
 
 — No.
 
@@ -354,7 +354,7 @@ Alaric brought the Hand of Judgment to the primary control plate on his own brea
 
 *Clack. Hiss.*
 
-The subsonic hum of Alaric's dorsal reactor began to drop in frequency. Exhaust grilles vented one last thick cloud of vapor and ozone. Then the heavy internal gyroscopes—the mechanical hearts that balanced nearly a ton of armor—began to lock. One by one, traction systems powered down.
+The subsonic hum of Alaric's dorsal reactor began to drop in frequency. Exhaust grilles vented one last thick cloud of vapor and ozone. Then the heavy internal gyroscopes — the mechanical hearts that balanced nearly a ton of armor — began to lock. One by one, traction systems powered down.
 
 Sound faded until nothing remained. Absolute silence from the gyroscopes. The Terminator armor was dead, locked in place, turning the Lord Castellan into an immovable monument of iron-gray and crimson.
 
@@ -393,7 +393,7 @@ Drusus nodded slowly. The healer knew that in the Castellan's fractured mind, te
 
 — The forge waits.
 
-In the cycles that followed, Noviomagus's strategic-tier furnaces produced not weapons but a monument. Chapter Artificers worked with Drusus under Elara's relentless, silent supervision—she checked every seam and every chemical treatment applied to her old friend's coat.
+In the cycles that followed, Noviomagus's strategic-tier furnaces produced not weapons but a monument. Chapter Artificers worked with Drusus under Elara's relentless, silent supervision — she checked every seam and every chemical treatment applied to her old friend's coat.
 
 The final result was the forging of Alaric von Helis's definitive back-heraldry: **The Triple Mantle**.
 
@@ -403,7 +403,7 @@ When the Lord Castellan finally emerged from his armory quarters to inspect the 
 * **Authority (The Wolf of Aethelgard):** On the left side of his armor rested the pelt of the **Batav Wolf**. The monstrous beast's head was mounted on the left pauldron. The artificers had removed the animal's lower jaw; its long upper teeth and drawn-back lips rested directly on iron-gray ceramite in a perpetual snarl. The black forepaws draped across Alaric's chest, bound and locked in place by a heavy brooch stamped with the Imperial crest. The monster's eyes had been replaced by red lenses glowing with dim, sinister light, simulating the predator's fury.  
 * **The Anchor (The White Thunder):** The third layer was the thermal foundation. Viggo's white fur formed the lining, touching the armor's rear plates directly and trapping the nuclear reactor's heat. Yet the hide was not hidden; it emerged from beneath the heavy crimson cloak, climbing the back to the right pauldron. There, intact and imposing, rested the Thunderwolf's great head. Viggo's thick white forepaws hung comfortably around Alaric's neck, one on each side of the gorget, like an eternal embrace. The old guardian's eyes had been replaced by pale blue lenses.
 
-Both pairs of taxidermied eyes—red fury on the left, blue loyalty on the right—gave the same steady, dim glow of an Astartes helm's tactical visors.
+Both pairs of taxidermied eyes — red fury on the left, blue loyalty on the right — gave the same steady, dim glow of an Astartes helm's tactical visors.
 
 Alaric stopped at the end of the strategium corridor. Elara, the twelve-year-old girl of regal bearing, waited under amber light. She looked at the white head resting on the armor's right shoulder and, in an almost imperceptible gesture, touched Viggo's muzzle. The blue lens-gleam seemed to catch ambient light, mimicking the old sentinel's calm gaze.
 
@@ -449,7 +449,7 @@ Alaric gestured. Two of his personal honor guards advanced, carrying a heavy ada
 
 The Lord Castellan released his helm's pressure seals and lifted it, revealing his human face, pale and scarred by the Silent Vigil. He looked straight at the Great Wolf.
 
-— The Wall discards nothing of value, Lord Grimnar. Viggo's hide warms my chassis, but the calcium of his structure is too strong to be reduced to ash. I bring his bones back to the ice that bred him—not to bury them.
+— The Wall discards nothing of value, Lord Grimnar. Viggo's hide warms my chassis, but the calcium of his structure is too strong to be reduced to ash. I bring his bones back to the ice that bred him — not to bury them.
 
 Alaric set his heavy gauntlet on the reliquary.
 
@@ -461,13 +461,13 @@ Logan Grimnar leaned forward, gray beard brushing his armor's breastplate.
 
 Alaric's voice filled the hall, each allocation an irrefutable decree from his strategic mind:
 
-— One amulet for each member of the Cohort's Personal Guard. For them, the bones must channel **Vigil and Loyalty**—the instinct not to yield before tunnel shadows.
+— One amulet for each member of the Cohort's Personal Guard. For them, the bones must channel **Vigil and Loyalty** — the instinct not to yield before tunnel shadows.
 
 — One amulet for each of the nine members of Martha's civil family. For them, the runes must channel **Pack Heat**, so the biological stove he once formed in the dark never dies in that bloodline.
 
-— One amulet for Apothecary Drusus. For him, channeling of **Focus and Wisdom**—the silent patience of the predator who watches life and death without blinking.
+— One amulet for Apothecary Drusus. For him, channeling of **Focus and Wisdom** — the silent patience of the predator who watches life and death without blinking.
 
-— And one amulet for Judex Varro. For the law's executor, the bones must engrave **Unbending Duty**—the relentless fury of the hunter who runs to the last breath, without hesitation.
+— And one amulet for Judex Varro. For the law's executor, the bones must engrave **Unbending Duty** — the relentless fury of the hunter who runs to the last breath, without hesitation.
 
 The hall fell silent. Ragnar looked at the reliquary, then at Elara.
 

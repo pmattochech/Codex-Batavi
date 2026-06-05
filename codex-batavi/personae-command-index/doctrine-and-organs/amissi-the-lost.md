@@ -53,10 +53,10 @@ Admission is **rare** and **Vermilion**:
 | **Limbs (paint)** | **Both arms** (full vambrace + gauntlet) and **both legs below the knee** (lower greave panels) — **Mephiston Red** (*Amissi* extension of Exanimus “red hands” mark) |
 | **Pauldrons** | **Both black** — **left:** Chapter frontal-wolf roundel in **red**; **right:** **wolf skull** charge in **red** (watch file — **not** *Codex* Chaplain Executor skull) |
 | **Body** | Mechanicus Standard Grey elsewhere; standard Batavi trim |
-| **Hands** | **Thunder-claws** — Noviomagus compact lightning claws (see §V); **gaine digitale** sheaths — keratin **not** trimmed while rig worn |
+| **Hands** | **Thunder-claws** — Noviomagus compact lightning claws (see §V); **gaine digitale** sheaths — keratin **not** trimmed while rig worn *(Einar Dreadwolf exception: retains **Dreadwolf Claws**; see §VII)* |
 | **Boots** | **Traction claws** — three short adamantium claws per boot (Castellan / **Pillars of Noviomagus** doctrine; Night Lords–adjacent **silhouette only**, Batavi industrial execution) |
 
-**074 theater exception:** Moraine-Nine epicenter remains **ship chainaxes** / crisis kit in chronicle record — not this refit.
+**074 theater exception:** Moraine-Nine epicenter remains **Dreadwolf Claws** (tainted ship-origin lightning claws) / crisis kit in chronicle record — not this refit.
 
 ---
 
@@ -86,5 +86,7 @@ Admission is **rare** and **Vermilion**:
 ## VII. Register note — Einar Dreadwolf
 
 **168.M42 | Luna Sigma:** Subject KIA; ***Spina Cineris*** terminis; watch file closed. *Amissi* detachment continues under Varro; pool replenishment **case-by-case** only.
+
+**Hands (Einar exception):** **Dreadwolf Claws** — lightning claw pattern recovered aboard **Kzorn’s Maw** during capture; later **purified and re-wrought** under **Kadmos** with *Reclusiam* oversight (Varro/clergy) into Castra Vetera interface standards. Weapon silhouette retained as bestial talon-hand; corruption receipts denied.
 
 Narrative: [dreadwolf-terminus.md](../../chronicles/14-vexillum-chronicles/dreadwolf-terminus.md).

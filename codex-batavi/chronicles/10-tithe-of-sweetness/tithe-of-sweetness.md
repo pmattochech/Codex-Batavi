@@ -4,7 +4,7 @@
 
 For Neophyte Davian, newly raised from the tenth scout company to the front line, the world was a grid of threat vectors and suppression zones. His tactical visor overlaid green data on Noviomagus’s gray reality: *Subject A: Civilian, medium workload. Structure B: Stable. Threat level: Zero.*
 
-He was patrolling the South Sector Market, following the **Doctrine of Shared Sweat**. Minutes earlier he had used transhuman strength to free a stuck ore hauler with a broken axle—a job that would take ten men an hour, which he finished in twelve seconds. Efficiency. Tithe. Duty.
+He was patrolling the South Sector Market, following the **Doctrine of Shared Sweat**. Minutes earlier he had used transhuman strength to free a stuck ore hauler with a broken axle — a job that would take ten men an hour, which he finished in twelve seconds. Efficiency. Tithe. Duty.
 
 Davian was about to resume his route when his armor’s proximity sensor chirped. It was not a fast threat. It was slow, organic movement.
 
@@ -16,7 +16,7 @@ Davian stopped, hand hovering over his bolter by pure muscle reflex. The woman d
 
 She held out her hand. In the callused palm lay a sun-pear. The fruit was rare on Noviomagus, grown in the upper agri-domes, golden and fragrant. A luxury for someone of her caste.
 
-Davian froze. His combat protocols had no answer for that. *A bribe?* No—she asked for nothing. *A religious tribute?* She was not praying. *A biological trap?*
+Davian froze. His combat protocols had no answer for that. *A bribe?* No — she asked for nothing. *A religious tribute?* She was not praying. *A biological trap?*
 
 — Citizen — Davian’s voice came metallized through the vox, hard and defensive. — There is no tithe-collection protocol in this sector today. Retain your resources.
 
@@ -48,7 +48,7 @@ The Chaplain, in his skull helm, moved closer to Davian. — Did she call you �
 
 — Negative, Chaplain — Davian answered, confused. — She called me “son.”
 
-Varro made a guttural sound of approval. — Then it is not conditioning failure, Neophyte. It is recognition of function. She did not see the weapon. She saw the shield. And shields need not be feared—they need to be kept.
+Varro made a guttural sound of approval. — Then it is not conditioning failure, Neophyte. It is recognition of function. She did not see the weapon. She saw the shield. And shields need not be feared — they need to be kept.
 
 Davian looked at the fruit. — I do not grasp tactical utility. If I eat, it is a waste of civilian resource. If I do not eat, it is an offense to interaction protocol.
 

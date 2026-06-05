@@ -10,7 +10,7 @@
 
 **(Recording date: 050.M42 – Post-Malakor V)** *Audio transcription from the empty hours after the execution of Valerius, the Onyx Wolf.*
 
-**I. THE GEOMETRY OF VENGEANCE** For decades Chief Apothecary Drusus theorized that our biology worked like a pendulum—that we swung horizontally between the Beast (Wild Hunt) to survive brute force, and the Machine (March of the Machine) to survive psychic horror and entropy. I built my entire command doctrine on that mathematical duality. I was wrong.
+**I. THE GEOMETRY OF VENGEANCE** For decades Chief Apothecary Drusus theorized that our biology worked like a pendulum — that we swung horizontally between the Beast (Wild Hunt) to survive brute force, and the Machine (March of the Machine) to survive psychic horror and entropy. I built my entire command doctrine on that mathematical duality. I was wrong.
 
 On Malakor V, before the abject treason of my own blood, I learned that our inner map was wrong. When I set down on the black silica fortress and saw the Eclipse Pack’s profaned standards, I did not feel the organic need to become an atavistic beast, nor the frigid shutdown of the machine. What I felt was a vertical ascent.
 
@@ -40,7 +40,7 @@ the Cull does not consume only tactical purpose; it burns the basal hope that we
 
 I sat for five centuries in the dark of my own skull because I had nothing in the galaxy to protect; I only had things to kill. The discovery of the “Root” (Elara) and civil integration with Martha’s pack proved to me that the Cull is only safe if we have a garden to return to after the storm passes.
 
-Justified hatred of the traitor must be balanced millimeter-fine by love for what the traitor threatens to destroy. Without that fundamental counterweight—without the *Zero Point* of human affection Elara reinstalled in my biology—ascending to the Cull is signing a pact of spiritual suicide.
+Justified hatred of the traitor must be balanced millimeter-fine by love for what the traitor threatens to destroy. Without that fundamental counterweight — without the *Zero Point* of human affection Elara reinstalled in my biology — ascending to the Cull is signing a pact of spiritual suicide.
 
 **ADDENDUM A.3: THE NEW AXIOM (Final rectification)** I wrote, in my depressive arrogance, that “a tool without use should be put in the box.”
 
@@ -72,6 +72,6 @@ I am not the wall’s owner. I am the gardener who wears ceramite.
 
 *The Overfiend impact:* In Noviomagus’s southern sector, the Ork Overfiend Skarjaw delivered an energy-claw blow capable of flipping an armored vehicle. Alaric did not try to deflect the force. He anchored feet and mobile bastion and absorbed the strike. Energy transfer was so colossal that the ferrocrete under the Castellan’s boots shattered into a three-meter crater, yet Alaric’s servos and Alpha-densified bones did not yield a single degree. He remained unbent, punishing the creature immediately afterward with a lethal counter-strike from his gladius.
 
-*Engagement analysis (the Khârn factor):* Simulations and isolated records of extreme combat prove Alaric can survive an engagement with Khârn the Betrayer—not by out-fencing him in a blade dance, but by applying punitive stasis. The mutation lets Alaric absorb damage that would kill whole squads while his reactive defense posture and punitive strikes deny the Betrayer the space and carnage that feed his fury. Alaric turns Khârn’s art into a friction equation where Chaos exhausts itself against a wall that does not bleed enough to matter.
+*Engagement analysis (the Khârn factor):* Simulations and isolated records of extreme combat prove Alaric can survive an engagement with Khârn the Betrayer — not by out-fencing him in a blade dance, but by applying punitive stasis. The mutation lets Alaric absorb damage that would kill whole squads while his reactive defense posture and punitive strikes deny the Betrayer the space and carnage that feed his fury. Alaric turns Khârn’s art into a friction equation where Chaos exhausts itself against a wall that does not bleed enough to matter.
 
 “Conclusion: The Lord Castellan is the most dangerous force vector in our fortress. He tamed the monster inside and taught it to fight like a hydraulic press.”

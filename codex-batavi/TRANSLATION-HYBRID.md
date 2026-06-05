@@ -76,7 +76,7 @@ Section **0.1** states the default language for **new and edited** Markdown. Thi
 
 **Assets:** PNG files live under [`lore-images/`](lore-images/); the `batavi-img` CLI defaults there.
 
-**Still not written (not a translation gap):** Planned quarter chronicles under `00-foundation-war/` (`second-quarter.md`, etc.) — summaries live in `foundation-war.md` until you author those files.
+**Foundation War narrative:** Canonical slug serial — [`chronicles/foundation-war/INDEX.md`](chronicles/foundation-war/INDEX.md) (Phase 3 complete). Legacy numbered files under `00-foundation-war/` are **archive / scene inventory** only.
 
 **`forja/`:** Code, defaults, and path conventions match `codex-batavi/`. Top-level guides **`forja/README.md`**, **`TUTORIAL.md`**, and **`CHEATSHEET.md`** are **US English** (aligned with this doc). Regenerate **`PKG-INFO`** with `pip install -e ./forja` if you need the installed metadata to match `README.md` verbatim.
 

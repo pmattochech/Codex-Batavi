@@ -1,6 +1,6 @@
 The room Guilliman chose was unadorned by design.
 
-It was not a chapel, not a strategium, not a gallery built to teach visitors what to feel. It was a transit-cabinet cut into the inner hull of the fortress—an antechamber that smelled faintly of machine oil and cold stone, with a single lumen strip set high and angled away from the eyes. The walls held no banners. No honors. No saints.
+It was not a chapel, not a strategium, not a gallery built to teach visitors what to feel. It was a transit-cabinet cut into the inner hull of the fortress — an antechamber that smelled faintly of machine oil and cold stone, with a single lumen strip set high and angled away from the eyes. The walls held no banners. No honors. No saints.
 
 Guilliman stood with his back to the door until the locks sealed. Only then did he turn.
 
@@ -16,7 +16,7 @@ Alaric’s answer came without delay, a flat certainty that made the words feel 
 
 — Yes.
 
-Guilliman watched him for a moment longer than was comfortable. He had spent centuries—two lives’ worth, by some measures—watching men lie, watching them try not to lie, watching them lie to themselves first. The Batavian did not fidget. Did not gild the air with obedience. Did not offer the small social lubricants that made hierarchy feel less like gravity.
+Guilliman watched him for a moment longer than was comfortable. He had spent centuries — two lives’ worth, by some measures — watching men lie, watching them try not to lie, watching them lie to themselves first. The Batavian did not fidget. Did not gild the air with obedience. Did not offer the small social lubricants that made hierarchy feel less like gravity.
 
 He simply remained present.
 
@@ -40,7 +40,7 @@ Alaric’s voice remained spare, unornamented.
 
 — We maintain what holds.
 
-Guilliman had been told the motto. He had read the phrases that circulated at the edge of open record: Unbent. We hold. He had read the internal memoranda too—the ones that did not travel in public, the ones that assumed the reader already accepted the burden.
+Guilliman had been told the motto. He had read the phrases that circulated at the edge of open record: Unbent. We hold. He had read the internal memoranda too — the ones that did not travel in public, the ones that assumed the reader already accepted the burden.
 
 He had not expected the man himself to speak like the paper.
 
@@ -84,7 +84,7 @@ Guilliman’s gaze sharpened.
 
 — Relief becomes devotion. Devotion becomes permission.
 
-He did not elaborate. He did not need to. Guilliman had read the after-action patterns—units that broke not from fear, but from wanting the equation to end. Wanting an outside force to take responsibility away.
+He did not elaborate. He did not need to. Guilliman had read the after-action patterns — units that broke not from fear, but from wanting the equation to end. Wanting an outside force to take responsibility away.
 
 He had seen that same hunger in mortals and Astartes alike. He had simply never seen a Chapter make a cage for it and call the cage a virtue.
 
@@ -126,7 +126,7 @@ He also knew their limits.
 
 It was the first question that stepped fully out of inspection and into the human.
 
-For the first time, Alaric’s stillness shifted—not in the stance, but in the air, as if the room itself had been asked to bear a different kind of weight.
+For the first time, Alaric’s stillness shifted — not in the stance, but in the air, as if the room itself had been asked to bear a different kind of weight.
 
 — Yes.
 
@@ -302,7 +302,7 @@ Alaric’s voice did not change, but the meaning tightened.
 
 Guilliman felt the words settle into place. A dangerous answer. A necessary one.
 
-He nodded once—no flourish, no blessing.
+He nodded once — no flourish, no blessing.
 
 — Then we understand each other.
 

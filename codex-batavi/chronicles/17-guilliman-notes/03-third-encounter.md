@@ -1,6 +1,6 @@
 Guilliman chose the third room for its visibility.
 
-Not visibility to an audience—there was none. Visibility to the fortress itself.
+Not visibility to an audience — there was none. Visibility to the fortress itself.
 
 It was a small strategium annex with a glassed-in datum wall that displayed nothing sacred: only the things an empire pretends are neutral because they are “just numbers.” Rotations. Resupply bands. Wake windows. Repair cycles. A ledger of what had been spent and what remained.
 
@@ -10,7 +10,7 @@ When the locks sealed, Guilliman did not turn immediately.
 
 He watched the wall for a full breath, as if letting arithmetic speak first.
 
-Alaric stood behind him, helm on. The breach of the previous meeting was caged again. Rule restored. The chamber felt colder for it—not worse. Safer.
+Alaric stood behind him, helm on. The breach of the previous meeting was caged again. Rule restored. The chamber felt colder for it — not worse. Safer.
 
 Guilliman turned at last.
 
@@ -68,7 +68,7 @@ Guilliman’s gaze sharpened.
 
 — Yes.
 
-Guilliman stepped closer, inspection distance—but this inspection was not of armor seams.
+Guilliman stepped closer, inspection distance — but this inspection was not of armor seams.
 
 — That lesson did not originate with you.
 
@@ -114,7 +114,7 @@ Alaric’s reply was immediate.
 
 — Redundancy as survival.
 
-Guilliman turned back to the wall, to the sections of numbers that were not battle lines—industrial output, wake protocols, arming-vault schedules, the boring work that keeps wars possible.
+Guilliman turned back to the wall, to the sections of numbers that were not battle lines — industrial output, wake protocols, arming-vault schedules, the boring work that keeps wars possible.
 
 — Your numbers, Guilliman said.
 
@@ -320,9 +320,9 @@ Alaric’s answer came like a vow without poetry.
 
 — I will not.
 
-Guilliman opened the door, and the fortress’ noise returned—watch rotations, machinery, the Imperium’s endless grind.
+Guilliman opened the door, and the fortress’ noise returned — watch rotations, machinery, the Imperium’s endless grind.
 
 He stepped out carrying no comfort.
 
-Only a map of a Chapter built like clockwork—meant to keep time even after any hand that wound it was gone.
+Only a map of a Chapter built like clockwork — meant to keep time even after any hand that wound it was gone.
 

@@ -8,7 +8,7 @@ The Praetor of Noviomagus had not moved in four days. His *Castra-Lupus* rested 
 
 The Strategium’s silence broke to the soft scrape of claws on ferrocrete.
 
-Viggo entered. The Fenrisian Thunderwolf—denied, by the genetics of its kind, the bulk of a rhino—had the frame of a young bull, wrapped in thick white fur that seemed to drink what little light there was. He scented the frozen air. Like any born predator, he sought comfort, and there was no biological comfort in the Strategium’s sterile cold.
+Viggo entered. The Fenrisian Thunderwolf — denied, by the genetics of its kind, the bulk of a rhino — had the frame of a young bull, wrapped in thick white fur that seemed to drink what little light there was. He scented the frozen air. Like any born predator, he sought comfort, and there was no biological comfort in the Strategium’s sterile cold.
 
 Viggo walked to the Adamant Throne. He asked no permission, made no sound. The beast simply mounted the first step of the dais, turned twice, and dropped heavily onto Alaric’s heavy sabatons. The Thunderwolf curled around the giant’s armored legs, muzzle pressed to the ceramite joint of the left knee, where the plating was thinner and internal heat leaked.
 
@@ -18,7 +18,7 @@ Alaric’s depressed mind went to work at once, building the logical barrier nee
 
 He watched Viggo’s slow, deep breaths make small vapor clouds against his armor.
 
-*Furthermore,* Alaric’s cold logic continued—the Axiom of Reason still turning even here—*the creature’s fur mass acts as secondary organic insulation for the lower joints of my chassis, preventing hydraulic fluid freeze without ambient heating.*
+*Furthermore,* Alaric’s cold logic continued — the Axiom of Reason still turning even here — *the creature’s fur mass acts as secondary organic insulation for the lower joints of my chassis, preventing hydraulic fluid freeze without ambient heating.*
 
 It was a perfectly calculated excuse. An iron lie he told himself so he would not have to face the truth.
 
@@ -34,7 +34,7 @@ The idea of a “meal” had lost all ceremonial or biological meaning for Alari
 
 Maintaining the “biological unit” at his feet, however, required a different protocol.
 
-A logistics servitor—a lobotomized horror of pale flesh and rusted cybernetics—dragged into the command chamber. In its hydraulic load arms it carried a metal trough of slopped synthetic proteins, standard feed for Chapter wardogs or work beasts.
+A logistics servitor — a lobotomized horror of pale flesh and rusted cybernetics — dragged into the command chamber. In its hydraulic load arms it carried a metal trough of slopped synthetic proteins, standard feed for Chapter wardogs or work beasts.
 
 As soon as the servitor’s treads scraped the ferrocrete, Viggo lifted his head. The Thunderwolf issued a low growl, a sub-vocal rumble that vibrated against the plates of Alaric’s leg.
 
@@ -44,7 +44,7 @@ The Praetor’s depressed mind, always running on siege paranoia, parsed the sce
 
 The servitor obeyed at once, leaving the trough on the floor before retreating to the shadows with a servile whine.
 
-Slowly, Alaric leaned his massive torso forward. The gyros of his *Castra-Lupus* chassis whined protest after so many hours in stasis. He ignored the servitor’s standard slop. Instead he opened a sealed compartment in the Throne’s armrest, where blocks of high-calorie synthetic meat—Astartes emergency rations—were stored.
+Slowly, Alaric leaned his massive torso forward. The gyros of his *Castra-Lupus* chassis whined protest after so many hours in stasis. He ignored the servitor’s standard slop. Instead he opened a sealed compartment in the Throne’s armrest, where blocks of high-calorie synthetic meat — Astartes emergency rations — were stored.
 
 Alaric tore free a fibrous dark chunk. He did not throw it to the floor. Noviomagus logic held heat waste and soil contamination grave offenses. Instead he extended the **Hand of the Father**.
 
@@ -62,7 +62,7 @@ Through micro-haptic sensors embedded in the armor surface, tactile impulses rod
 
 But this… That warm, rhythmic friction against the lethal adamantium of the Hand of the Father carried no intent to harm. It was foreign to his routine of war. It was gentle.
 
-In the pit of his clinical depression, Alaric von Helis’s brain entered cognitive dissonance. He could not process affection—that would admit an unstanched emotional wound in his soul. So his technocratic mind boxed the sensation inside an acceptable protocol.
+In the pit of his clinical depression, Alaric von Helis’s brain entered cognitive dissonance. He could not process affection — that would admit an unstanched emotional wound in his soul. So his technocratic mind boxed the sensation inside an acceptable protocol.
 
 *The biological asset is performing superficial surface maintenance,* Alaric recorded in his inner monologue, watching the Thunderwolf’s milky eyes close as he cleaned the metal. *Removal of organic residue prevents acidic corrosion in the gauntlet’s micro-joints. The action is prophylactic. Friction serves as tactical polish.*
 
@@ -70,7 +70,7 @@ It was the most pathetic, desperate justification a Lord Castellan had ever fram
 
 Yet he held the arm extended far longer than necessary. Even after the adamantium hand was entirely free of meat residue, Alaric stayed still, his helm’s orange eyes fixed on the animal. He let the Thunderwolf’s tongue rasp the metal until Viggo, satisfied, sighed and curled back over the iron boots.
 
-The Lord Castellan withdrew the gauntlet slowly. Biological heat bled away in seconds in the Strategium’s frozen air, but the tactile echo kept thrumming along his spine. The Rite of the Hand was done. The Silent Vigil’s abyss remained as dark as before—but for brief daily moments, Alaric remembered what not being at war felt like.
+The Lord Castellan withdrew the gauntlet slowly. Biological heat bled away in seconds in the Strategium’s frozen air, but the tactile echo kept thrumming along his spine. The Rite of the Hand was done. The Silent Vigil’s abyss remained as dark as before — but for brief daily moments, Alaric remembered what not being at war felt like.
 
 Alaric von Helis’s silence during the Silent Vigil was a weapon in itself. To the Cohors Batavorum’s Captains and the Magi of the Noviomagus forge, the Lord Castellan’s prolonged muteness was terrifying. When a Terminator of that mass stopped issuing orders and locked himself in the Strategium for weeks on end, the Chapter assumed he was calculating unfathomable stratagems or weighing the guilt of every soul under his command.
 
@@ -88,7 +88,7 @@ He was not on the cohort vox channel. The communicator was off. He was speaking 
 
 Viggo lifted his heavy head. White ears swiveled toward the metallic sound.
 
-The Lord Castellan looked down. His Terminator helm—a brutal ceramite structure molded into a lupine muzzle with heavy steel fangs—tilted a millimeter. Optic lenses, dull orange glow, locked on the beast.
+The Lord Castellan looked down. His Terminator helm — a brutal ceramite structure molded into a lupine muzzle with heavy steel fangs — tilted a millimeter. Optic lenses, dull orange glow, locked on the beast.
 
 — Tertius Foundry drive belts are failing. The workers miss the extraction quota — Alaric went on.
 
@@ -110,7 +110,7 @@ Alaric understood, in the calculated cold of his depression, why he tolerated th
 
 Viggo did not. Viggo did not give the slightest damn about the Heresy, the Emperor, duty, or Chapter honor. To the Thunderwolf, the feared Lord of the Wall, Executor of Noviomagus, was simply useful furniture. A space heater.
 
-Being reduced to an inanimate object—to a “hot rock”—freed Alaric from the demand to be hero. The beast judged him neither for failure nor worshipped him for victory. Beside Viggo, Alaric was permitted to be nothing but iron and heat.
+Being reduced to an inanimate object — to a “hot rock” — freed Alaric from the demand to be hero. The beast judged him neither for failure nor worshipped him for victory. Beside Viggo, Alaric was permitted to be nothing but iron and heat.
 
 The Lord Castellan leaned his heavy breastplate back against the Adamant Throne. His orange eye-lights dimmed, dropping to power-save mode.
 
@@ -118,7 +118,7 @@ The Lord Castellan leaned his heavy breastplate back against the Adamant Throne.
 
 — We hold position.
 
-Silence returned to the Strategium—but this time it was not a tomb’s silence. It was the silence of a shared vigil.
+Silence returned to the Strategium — but this time it was not a tomb’s silence. It was the silence of a shared vigil.
 
 The Silent Vigil did not afflict Alaric’s mind alone; it paralyzed the Cohors Batavorum’s chain of command. With the Lord Castellan locked in the Strategium, refusing in-person tactical briefings or open vox channels, Noviomagus Prime’s war machine began to suffer communications failures. Company Captains needed direct orders to reposition mining fleets and coordinate defense against xenos or renegade probes of the sector’s defenses.
 
@@ -126,7 +126,7 @@ Alaric’s depression kept him from facing his subordinates. He could not bear t
 
 The solution rose from the biology he already tolerated at his feet.
 
-Viggo, the Fenrisian Thunderwolf, had reached maturity. Though he lacked the monstrous size of an Astartes mount, his muscle was dense, his agility frightening, and his stealth—for a creature that large—bordered on unnatural.
+Viggo, the Fenrisian Thunderwolf, had reached maturity. Though he lacked the monstrous size of an Astartes mount, his muscle was dense, his agility frightening, and his stealth — for a creature that large — bordered on unnatural.
 
 In the Strategium’s dark, Alaric began training the animal. The logic was simple: *The biological asset requires function to justify caloric intake and spatial occupation.* Training did not use typical handler voice commands. Alaric used ultrasound emitters built into the Terminator helm and tactical laser pointers. He hid adamantium data spools in the Castra-Lupus’s darkest corners and sent Viggo to retrieve them. The Thunderwolf needed no motivation; the hunt was instinct, and the gray giant’s “game” was the only dynamic activity in a sterile environment.
 
@@ -162,7 +162,7 @@ The Lord Castellan rested his head against his throne’s metal. The war machine
 
 *The organic interface outperforms cybernetic server protocols,* Alaric logged in his private logic files. *The unit needs no mechanical calibration, joint lubrication, or corrupted-code purge. It self-repairs through metabolic rest.*
 
-Another technical lie from his depressed mind. Alaric did not use Viggo because he outclassed a message servitor. He used him because the Thunderwolf was the only entity in the fortress that asked no questions. And because sending Viggo from the room was the only way to ensure the animal would come back to him, racing into the Strategium’s dark—proof that, in a chaotic universe, something always chose to return to his side.
+Another technical lie from his depressed mind. Alaric did not use Viggo because he outclassed a message servitor. He used him because the Thunderwolf was the only entity in the fortress that asked no questions. And because sending Viggo from the room was the only way to ensure the animal would come back to him, racing into the Strategium’s dark — proof that, in a chaotic universe, something always chose to return to his side.
 
 An Adeptus Astartes mind is a bioengineering marvel, built to process war’s geometry at speeds that would shatter a mortal’s sanity. Yet even demigod biology has an absolute limit for enduring continuous attrition. Alaric von Helis, stubbornly refusing to grieve the Silent Vigil, had turned his own brain into a data processor running lethal overload.
 
@@ -174,7 +174,7 @@ The heat that hyperactive cognition generated was immense. Chemical dispensers i
 
 Failure did not arrive with artillery thunder, but with a dry, silent crack in the dark of his own skull.
 
-A micro-seizure ripped through Alaric’s frontal lobe. A biological short—an emergency body mechanism to prevent synaptic-exhaustion brain death. The armor’s systems caught the anomalous spike and acted with autonomous brutality: heavy Noosphere neural locks ejected from his neck with a violent hiss of compressed air and a shower of blue sparks.
+A micro-seizure ripped through Alaric’s frontal lobe. A biological short — an emergency body mechanism to prevent synaptic-exhaustion brain death. The armor’s systems caught the anomalous spike and acted with autonomous brutality: heavy Noosphere neural locks ejected from his neck with a violent hiss of compressed air and a shower of blue sparks.
 
 Alaric was torn from the virtual ocean of data and thrown violently back into the Strategium’s frozen reality.
 
@@ -188,7 +188,7 @@ Internal gyros whined in a sharp, desperate note, trying to right the massive ar
 
 Alaric von Helis, Lord of the Wall and Praetor of Noviomagus, lay on his side in the shadows.
 
-Behind the orange lenses of his wolf helm, the HUD was chaos—runes flashing blood red: *Critical Interface Failure. Critical Blood Toxicity Levels. Temporary Muscle Paralysis Detected. Recommendation: Initiate Medical Extraction Protocol.*
+Behind the orange lenses of his wolf helm, the HUD was chaos — runes flashing blood red: *Critical Interface Failure. Critical Blood Toxicity Levels. Temporary Muscle Paralysis Detected. Recommendation: Initiate Medical Extraction Protocol.*
 
 He could not blink the runic command to summon Apothecaries. He could not even move the Hand of Judgment to brace himself. His lungs fought to draw frozen air, breath coming in metallic gasps through the steel muzzle’s exhaust grilles. Unconsciously, the great pistons of legs and arms contracted, drawing slowly toward center of mass. As fetal a position as the square, crushing *Castra-Lupus* chassis allowed.
 
@@ -204,11 +204,11 @@ Viggo stopped centimeters from Alaric’s gray-iron plastron. The Thunderwolf lo
 
 Ferrocrete cold climbed the gray-iron plates of *Castra-Lupus*. On his side, motor systems collapsing, vision blurred by critical-failure runes, Alaric von Helis waited for utility to end. Siege logic held that when a structure stopped producing heat and protection, it was abandoned.
 
-Viggo moved to the Lord Castellan’s helm. The white Fenrisian Thunderwolf lowered his head until his biological muzzle—wet, warm—touched the thick ceramite mechanical muzzle and steel fangs of the Terminator helm. The beast made a low sound, a stifled whine, catching the chemical exhaustion venting from Alaric’s lupine mask.
+Viggo moved to the Lord Castellan’s helm. The white Fenrisian Thunderwolf lowered his head until his biological muzzle — wet, warm — touched the thick ceramite mechanical muzzle and steel fangs of the Terminator helm. The beast made a low sound, a stifled whine, catching the chemical exhaustion venting from Alaric’s lupine mask.
 
 To the Batavi’s fractured mind’s surprise, the biological unit did not withdraw to seek other shelter.
 
-Viggo stepped forward, over Alaric’s massive paralyzed arm. With the ease of something returning to its own den, the Thunderwolf nestled into the hollow formed by the giant’s near-fetal posture. He lay along the curve of the armored belly, shielded on all sides by adamantium limbs. Dense white fur pressed against the breast reactor vent—not only drawing heat now, but giving his own back to the damaged machine.
+Viggo stepped forward, over Alaric’s massive paralyzed arm. With the ease of something returning to its own den, the Thunderwolf nestled into the hollow formed by the giant’s near-fetal posture. He lay along the curve of the armored belly, shielded on all sides by adamantium limbs. Dense white fur pressed against the breast reactor vent — not only drawing heat now, but giving his own back to the damaged machine.
 
 The animal’s physical weight on the chest plates forced Alaric to focus on external pressure instead of synaptic chaos in his brain.
 
@@ -224,11 +224,11 @@ Through the long weight of the Silent Vigil, Alaric’s sleep logs (when he allo
 
 But now the auspex showed an incredibly stable data line.
 
-Viggo’s rhythmic, heavy breathing—*in… out… in… out…*—made a continuous physical vibration echoing through the sensor plates of Alaric’s armor. Unable to move his own lungs in proper cadence because of spastic paralysis, the Batavi’s central nervous system had anchored to the only steady rhythm available.
+Viggo’s rhythmic, heavy breathing — *in… out… in… out…* — made a continuous physical vibration echoing through the sensor plates of Alaric’s armor. Unable to move his own lungs in proper cadence because of spastic paralysis, the Batavi’s central nervous system had anchored to the only steady rhythm available.
 
 Man and beast’s breath had locked in perfect sync.
 
-For the first time in all the Vigil years Drusus had logged, Alaric von Helis’s brain waves on Drusus’s display showed no nightmares. No siege simulations. No screams of legionaries dying in betrayal’s flames. Only the simple, raw, present biology of an animal that knew neither past nor future—only now.
+For the first time in all the Vigil years Drusus had logged, Alaric von Helis’s brain waves on Drusus’s display showed no nightmares. No siege simulations. No screams of legionaries dying in betrayal’s flames. Only the simple, raw, present biology of an animal that knew neither past nor future — only now.
 
 Drusus processed it in the silence of his own helm. He knew Alaric justified the Thunderwolf’s existence with pathetic thermodynamic excuses. But numbers did not lie. Viggo was not a tactical tool or organic insulation. He was the Biological Anchor. The living counterweight that kept the Wall’s core from collapsing under grief’s gravity.
 

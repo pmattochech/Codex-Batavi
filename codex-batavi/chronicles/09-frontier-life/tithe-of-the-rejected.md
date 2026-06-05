@@ -8,13 +8,13 @@
 
 The space above Noviomagus Prime was not a void; it was a graveyard of industrial by-products held in suspension.
 
-The upper atmosphere of the Forge World, saturated for millennia with promethium burn and microparticles of iron, acted like a sick prism. The local star’s light, passing through that toxic haze, stained the orbital horizon with the **Yellow Scar**—a halo of chromatic pollution that recalled bile and oxidized metal. Nothing entered that sky without being christened by Noviomagus’s soot.
+The upper atmosphere of the Forge World, saturated for millennia with promethium burn and microparticles of iron, acted like a sick prism. The local star’s light, passing through that toxic haze, stained the orbital horizon with the **Yellow Scar** — a halo of chromatic pollution that recalled bile and oxidized metal. Nothing entered that sky without being christened by Noviomagus’s soot.
 
 At the summit of the orbital citadel **Castrum Ferrum**, the Hangar Primus Observation Platform thrust into nothing like the point of an adamant spear. There silence was absolute, held by sonic containment fields that walled off the roar of the macroforges kilometers below.
 
 Lord Castellan **Alaric von Helis** stood motionless beside two meters of armored glass.
 
-He was the embodiment of Batavi doctrine: *Iron within, iron without*. Alaric was fused to the **Castra-Lupus armor**, the apex of Master of the Forge Kadmos’s brutalist genius. The chassis—a colossal hybrid between a Dreadnought and Terminator plate—had no pistons that cracked or servos that groaned under load. Kadmos had designed the Castra-Lupus reinforcement systems for one purpose: to keep the suit from flying apart under the raw force of Alaric himself.
+He was the embodiment of Batavi doctrine: *Iron within, iron without*. Alaric was fused to the **Castra-Lupus armor**, the apex of Master of the Forge Kadmos’s brutalist genius. The chassis — a colossal hybrid between a Dreadnought and Terminator plate — had no pistons that cracked or servos that groaned under load. Kadmos had designed the Castra-Lupus reinforcement systems for one purpose: to keep the suit from flying apart under the raw force of Alaric himself.
 
 The Lord Castellan’s physiology, refined by chimeric predisposition, gave him agility and physical power that made *Tacticus* armor look like a slow shackle. Inside that mountain of industrial gray (*Mechanicus Standard Grey*), Alaric moved with a heretical lightness, as if he wore only a linen tunic and silk trousers. The armor did not carry him; it tried, desperately, to keep up.
 
@@ -90,7 +90,7 @@ Then the spiritual channel filled with **Varro**’s dark resonance. The High Ch
 
 — *I feel the dissonance through the ships’ hulls, Alaric,* — Varro transmitted, his voice weighted with Sacred Dread. — *The Beastmen are in confinement pre-psychosis. Draxus sees animals for the slaughter; I see a vanguard that needs no doctrine to hate the enemy, only an anchor so it does not lose itself in the beast. I will give them the discipline of Useful Fear. They will be the herd dog with wolf teeth.*
 
-Alaric turned back to the armored glass. The ships, now only kilometers away, looked like floating wounds in the yellowed firmament. He saw dirty ice plumes—oxygen leaks and waste—gleaming under Noviomagus’s toxic light.
+Alaric turned back to the armored glass. The ships, now only kilometers away, looked like floating wounds in the yellowed firmament. He saw dirty ice plumes — oxygen leaks and waste — gleaming under Noviomagus’s toxic light.
 
 — **The decision is made,** — Alaric declared, sealing the protocol on the console. — **Isolate Hangar 12 and Hangar 14. Activate the Logistical Silence Protocol. No one outside the Chapter gets visual or audio access to this offload. If the Imperium wants to believe we destroyed the scrap, so be it. But what they threw away as dregs, we will forge as the foundation of our next millennium.**
 
@@ -108,7 +108,7 @@ The Iron Contract was being written.
 
 Inside the *Bovine-Mass* hauler designated **“Iron Belly,”** time had been obliterated by the monotony of stagnation and the constant vibration of engines on the edge of collapse. The ship, originally built to haul *grox* cattle in stasis, had been criminally refitted to carry three times its permitted intelligent biomass.
 
-The air in the cargo decks was not merely recycled oxygen; it was a thick, acidic soup of carbon dioxide, acrid sweat, and the metallic sweetness of gangrenous wounds. Emergency lighting—an anemic red strobing in erratic cycles—threw long, trembling shadows on peeling metal walls where the condensation of thousands of breaths ran like tears of soot and rust.
+The air in the cargo decks was not merely recycled oxygen; it was a thick, acidic soup of carbon dioxide, acrid sweat, and the metallic sweetness of gangrenous wounds. Emergency lighting — an anemic red strobing in erratic cycles — threw long, trembling shadows on peeling metal walls where the condensation of thousands of breaths ran like tears of soot and rust.
 
 In the center of Cargo Bay 09, the Ogryn called **Nork** sat on the diamond-plate floor.
 
@@ -132,7 +132,7 @@ The bay’s red lights died for a second, replaced by cold amber gleam from the 
 
 Nork rose with difficulty, his broken arm throbbing in time with the engines as they finally fell silent. He stared at the colossal hatch. He did not feel the Beastmen’s hate, only childlike, terrified curiosity. He wanted to know whether, in the new place, the water would be clean. And whether the new master would be big enough not to need a whip to be heard.
 
-What Nork could not see—but Alaric had already decided—was that the giant’s arm would be the first piece repaired in Noviomagus’s new design.
+What Nork could not see — but Alaric had already decided — was that the giant’s arm would be the first piece repaired in Noviomagus’s new design.
 
 Decompression was not a sigh; it was a scream of tortured metal.
 
@@ -146,7 +146,7 @@ He pressed his hands to his ears but could not block the main hatch opening. Nov
 
 The hatch finally gave.
 
-A white condensation fog flooded the hold, hiding what lay beyond. At first, only the heavy silence of expectation. Then the first shock. The hangar’s work lights—powerful industrial lumens—cut the fog like spears of white fire.
+A white condensation fog flooded the hold, hiding what lay beyond. At first, only the heavy silence of expectation. Then the first shock. The hangar’s work lights — powerful industrial lumens — cut the fog like spears of white fire.
 
 The Nightsiders screamed as one. To them that light was not illumination; it was raw radiation burning unprotected corneas. They fell to their knees, covering their faces with filthy rags, skin searing under Noviomagus’s clinical glare.
 
@@ -154,7 +154,7 @@ Amid the panic, Beastmen read the light as a battle signal. They leaped from sha
 
 — They come to burn us! — roared a Beastman, yellow eyes bloodshot with terror.
 
-Nork the Ogryn stayed frozen. His small brown eyes tried to process the hangar’s immensity. He saw support beams like iron gods’ legs, felt the station’s cold wind dry the sweat on his skin. For the first time in months, the air did not taste of death—it tasted of… nothing. A clean emptiness that frightened him more than familiar filth.
+Nork the Ogryn stayed frozen. His small brown eyes tried to process the hangar’s immensity. He saw support beams like iron gods’ legs, felt the station’s cold wind dry the sweat on his skin. For the first time in months, the air did not taste of death — it tasted of… nothing. A clean emptiness that frightened him more than familiar filth.
 
 Then, from the fog’s heart, a new sound ruled the hangar. Not an officer’s shout or a guard dog’s bark. The rhythmic, heavy, unquestionable tread of ceramite boots on adamant.
 
@@ -197,7 +197,7 @@ Smell struck first: the rancid musk of Beastmen and ammonia-heavy Ogryn sweat sl
 
 — **Hold formation! Fall back, you animals!** — a Guard sergeant screamed, his thin, hysterical voice lost in the mob’s roar.
 
-He triggered his shock-goad, arcing blue voltaics into the chest of a hesitating Beastman leader on the ramp. The abhuman roared—not in submission, but in pain and pent fury. The shock’s crack was the trigger. Animal instinct, smothered for weeks in the hold, detonated.
+He triggered his shock-goad, arcing blue voltaics into the chest of a hesitating Beastman leader on the ramp. The abhuman roared — not in submission, but in pain and pent fury. The shock’s crack was the trigger. Animal instinct, smothered for weeks in the hold, detonated.
 
 Beastmen surged like a tide of horns and claws. Behind them, Ogryns frightened by noise and sudden violence began to shove, turning the ramp into a crush zone. Seconds remained before chaos became biological massacre that would stain Noviomagus’s hangar.
 
@@ -239,11 +239,11 @@ Nork looked into the medical giant’s white lenses, tears cutting clean tracks 
 
 Drusus signaled two cargo servitors. — **Take him to Osteological Reconstruction. Total anesthesia. I want that arm realigned and pinned with titanium fiber in two hours.**
 
-Nork was led away—not by fear of the whip, but by the promise his “chassis” would be fixed. As Drusus moved to the next Beastman, he saw Draxus’s biological tithe had higher regenerative potential than projected. They were not trash; they were resilient organisms that only needed management unafraid to bloody its hands for iron’s perfection.
+Nork was led away — not by fear of the whip, but by the promise his “chassis” would be fixed. As Drusus moved to the next Beastman, he saw Draxus’s biological tithe had higher regenerative potential than projected. They were not trash; they were resilient organisms that only needed management unafraid to bloody its hands for iron’s perfection.
 
 While Drusus’s medical processing advanced with assembly-line precision, Alaric von Helis remained on his observation platform, a crimson-and-gray sentinel. He watched not only bodies being repaired but souls in transition. The **Axiom of Reason** held that a hungry tool was an unpredictable tool.
 
-Under Alaric’s command, the hangar’s side hatches opened—not to weapons, but to civil logistics distribution tanks. The smell of dense nutrient soup—purified protein compound, Noviomagus grain, mineral additives—began to replace ozone and fear.
+Under Alaric’s command, the hangar’s side hatches opened — not to weapons, but to civil logistics distribution tanks. The smell of dense nutrient soup — purified protein compound, Noviomagus grain, mineral additives — began to replace ozone and fear.
 
 — **BEGIN BIOLOGICAL REPLENISHMENT CYCLE,** — Alaric’s voice rang, authoritative and final.
 
@@ -255,7 +255,7 @@ Beastmen and Ogryns hesitated. Instincts forged in centuries of scarcity and pun
 
 A young Beastman, ribs visible through sparse fur, plunged hands into a basin and brought hot nutrient to his mouth. The heat seemed to reboot his nervous system. He stopped, stared at his own hands, then at the black giant before him. No whip. Only the offer continuing.
 
-From the platform, Alaric watched the bio-social data. Aggression levels yielded to chemical satisfaction lethargy. The first barrier—biological distrust—had been breached through the stomach.
+From the platform, Alaric watched the bio-social data. Aggression levels yielded to chemical satisfaction lethargy. The first barrier — biological distrust — had been breached through the stomach.
 
 — **They eat like animals, but they look like men,** — Alaric commented on the Triumvirate private channel. — **Varro, ensure the Throne gratitude litany is sung during digestion. Drusus, monitor allergic reactions to Noviomagus additives.**
 
@@ -263,13 +263,13 @@ Alaric descended from the platform. His **Castra-Lupus** moved with that disturb
 
 — **Noviomagus iron tastes bitter at first, but it braces the spine,** — the Lord Castellan declared. — **Today you are fed as guests. Tomorrow you will eat bread your own sweat helped make.**
 
-Wave 1 was consolidated. Malakor’s biological “trash” now had full stomachs and bodies under repair. But the Wall knew full-belly peace was brief; the next challenge would demand more than soup—it would demand silence and speed.
+Wave 1 was consolidated. Malakor’s biological “trash” now had full stomachs and bodies under repair. But the Wall knew full-belly peace was brief; the next challenge would demand more than soup — it would demand silence and speed.
 
 ### Chapter 4: Wave 2 – The Precision Hunt
 
-Wave 1’s processing still echoed through Hangar 12 when the second ship group—light *Haste-Hauler* haulers—mated to the suction rings. If Wave 1 was mass and impact, Wave 2 was instinct and flight.
+Wave 1’s processing still echoed through Hangar 12 when the second ship group — light *Haste-Hauler* haulers — mated to the suction rings. If Wave 1 was mass and impact, Wave 2 was instinct and flight.
 
-As soon as the *Shadow of Fortune*’s hatches opened, there was no Beastman roar—only thousands of light feet and claws scraping metal at frantic frequency. **Ratlings** (*Homo sapiens minimus*) and **Felinids** (*Homo sapiens hirsutus*) did not wait for Alaric’s verdict. To them, any authority in armor was a potential executioner.
+As soon as the *Shadow of Fortune*’s hatches opened, there was no Beastman roar — only thousands of light feet and claws scraping metal at frantic frequency. **Ratlings** (*Homo sapiens minimus*) and **Felinids** (*Homo sapiens hirsutus*) did not wait for Alaric’s verdict. To them, any authority in armor was a potential executioner.
 
 The ramp had barely touched adamant when the crowd exploded outward. It was perfect kinetic dispersal. Ratlings, masters of concealment, seemed to dissolve into air the moment they touched column shadows. Felinids, with predatory reflexes and superior agility, leaped cargo crates and climbed overhead supports, hunting open ventilation ducts.
 
@@ -281,9 +281,9 @@ Alaric, motionless at the hangar center, did not raise his voice. He only tilted
 
 — **Draxus’s ignorance is infinite,** — Alaric said on the private channel. — **He tries to net the wind. He does not understand that in Noviomagus, even shadows have teeth.**
 
-The Lord Castellan raised his left hand, closing a fist. At once Hangar 12’s main lights died. Forge amber was replaced by **Tactical Twilight**—deep crimson illumination visible only to Astartes sensors and the fugitives’ adapted eyes.
+The Lord Castellan raised his left hand, closing a fist. At once Hangar 12’s main lights died. Forge amber was replaced by **Tactical Twilight** — deep crimson illumination visible only to Astartes sensors and the fugitives’ adapted eyes.
 
-Ratlings and Felinids thought darkness was their ally. They did not know the **Shadow Cohort**—scouts and veterans of the Cohors Batavorum’s 10th Company—had been there long before they disembarked. They were not hiding; they were part of the hangar’s architecture.
+Ratlings and Felinids thought darkness was their ally. They did not know the **Shadow Cohort** — scouts and veterans of the Cohors Batavorum’s 10th Company — had been there long before they disembarked. They were not hiding; they were part of the hangar’s architecture.
 
 Abhuman panic spiked when they realized that in every vent duct, every overhead beam, behind every generator, pairs of green or orange lenses watched in absolute silence. They were not being hunted for slaughter; they were encircled by the Wall itself.
 
@@ -297,7 +297,7 @@ Pipp froze. Two meters ahead, at the duct’s end, green lenses glowed. A **10th
 
 — **Shadow is not your hidey-hole, little one,** — the Batavi’s external vox whispered, amplified, thrumming in Pipp’s ribs. — **Shadow is our jurisdiction. Return to the light, or become part of the foundation.**
 
-Pipp’s panic collapsed into paralyzed submission. He backed out, crawling from the duct—only to find the hangar full of gray ghosts.
+Pipp’s panic collapsed into paralyzed submission. He backed out, crawling from the duct — only to find the hangar full of gray ghosts.
 
 On the upper beams, the scene was more choreographed. Felinids, claws extended, fur bristling, tried to leap between cargo catwalks. At every landing, a **Cohors Batavorum** Vanguard Veteran materialized at the touch-down point. Without firing a shot, the Astartes used mass and presence to *herd* the abhumans.
 
@@ -305,23 +305,23 @@ A large male Felinid, arena-scarred, tried to attack a Shadow Sergeant blocking 
 
 — **Aggression wasted without a target is wasted asset,** — the Sergeant said, descending from the parapet with the Felinid hung like a rebellious cub. — **In Noviomagus we assign the target. Save your hate for the xenos.**
 
-In under fifteen minutes, the hangar was silent again. Wave 2, begun as kinetic anarchy, had been reduced to disciplined formation. Ratlings and Felinids now stood in the yard center, trembling—not only at death’s fear, but at the horror of being outmatched in their own domain: invisibility.
+In under fifteen minutes, the hangar was silent again. Wave 2, begun as kinetic anarchy, had been reduced to disciplined formation. Ratlings and Felinids now stood in the yard center, trembling — not only at death’s fear, but at the horror of being outmatched in their own domain: invisibility.
 
 From the side shadows, Varro and Drusus advanced to begin competence triage. The Wall had not merely captured cargo; it had shown there was nowhere to run when deck and air belonged to the Chapter Master.
 
-The silence after the runners’ capture differed from Ogryn terror; it was a vibrating quiet, charged by scouts’ hypervigilance. **Drusus** walked to the center of the crimson light circle where Ratlings and Felinids had been regrouped. He carried no goads—only a case of technical tools and disassembled weapon components.
+The silence after the runners’ capture differed from Ogryn terror; it was a vibrating quiet, charged by scouts’ hypervigilance. **Drusus** walked to the center of the crimson light circle where Ratlings and Felinids had been regrouped. He carried no goads — only a case of technical tools and disassembled weapon components.
 
 To Drusus, these species’ value lay not in impact force but in **micro-mechanical fault tolerance**.
 
-He stopped before Pipp, the Ratling pulled from the duct. The small abhuman shook until his teeth chattered, but his eyes—large, adapted to gloom—never stopped mapping joints on Drusus’s armor.
+He stopped before Pipp, the Ratling pulled from the duct. The small abhuman shook until his teeth chattered, but his eyes — large, adapted to gloom — never stopped mapping joints on Drusus’s armor.
 
 — ***Homo sapiens minimus*,** — Drusus intoned. — **Your biology is fragile, but your nervous system runs high-fidelity frequencies. General Draxus sees ration thieves. I see precision manipulators for micro-circuitry.**
 
-Drusus set a standard **boltgun** on the deck before Pipp—feed receiver deliberately jammed, firing mechanism choked with iron filings.
+Drusus set a standard **boltgun** on the deck before Pipp — feed receiver deliberately jammed, firing mechanism choked with iron filings.
 
 — **Strip. Clean. Reassemble. You have twenty seconds before this sector’s atmosphere is purged,** — Drusus lied, cold voice maintaining the psychological pressure the test required.
 
-Pipp looked at the weapon—a sacred relic weighing nearly half his body mass. Hands driven by survival instinct faster than fear became blurs. In twelve seconds, boltgun parts lay in a perfect line on adamant. At eighteen, the weapon was assembled; Pipp worked the charging handle with a dry, satisfying *clack*. The action was clean.
+Pipp looked at the weapon — a sacred relic weighing nearly half his body mass. Hands driven by survival instinct faster than fear became blurs. In twelve seconds, boltgun parts lay in a perfect line on adamant. At eighteen, the weapon was assembled; Pipp worked the charging handle with a dry, satisfying *clack*. The action was clean.
 
 — **Exceptional manual dexterity,** — Drusus logged to the Noosphere. — **Designation: critical systems maintenance and precision artillery. They will live in the spaces between walls, ensuring Noviomagus’s heart never stops beating.**
 
@@ -331,14 +331,14 @@ Meanwhile Varro assessed Felinids. He walked among them, watching claw retractio
 
 Alaric, watching from the parapet, saw Wave 2’s final transition. Where the Imperium saw parasites, the *Cohors Batavorum* had just acquired an invisible maintenance and watch network.
 
-— **Wave 2 is integrated,** — Alaric transmitted. — **Prep the medical sector for Wave 3. Drusus, Kadmos—the next levy will need more than soup and discipline. It will need total reconstruction.**
+— **Wave 2 is integrated,** — Alaric transmitted. — **Prep the medical sector for Wave 3. Drusus, Kadmos — the next levy will need more than soup and discipline. It will need total reconstruction.**
 
-Hangar atmosphere shifted. Wave 3 heavy engines already thrummed in the ceiling. The sound of the “Broken” arriving—and iron ready to replace them.
+Hangar atmosphere shifted. Wave 3 heavy engines already thrummed in the ceiling. The sound of the “Broken” arriving — and iron ready to replace them.
 ### Chapter 5: Wave 3 – Where Iron Replaces Flesh
 
 If earlier waves had been marked by panic and aggression, Wave 3 was defined by the silent agony of biological failure. When the *Iron Ossuary*’s ramps lowered, the sound in Hangar 12 was not boots or hooves but the dry crack of organic matter yielding to relentless physics.
 
-**Longshanks** (*Homo sapiens elongatus*) were first to attempt offload. Evolved on near-null-gravity worlds, their limbs were graceful, elongated struts without the density Noviomagus Prime required. When they touched the station adamant—under standard gravity reinforced by the fortress mass generators—their biology surrendered.
+**Longshanks** (*Homo sapiens elongatus*) were first to attempt offload. Evolved on near-null-gravity worlds, their limbs were graceful, elongated struts without the density Noviomagus Prime required. When they touched the station adamant — under standard gravity reinforced by the fortress mass generators — their biology surrendered.
 
 *Crack.*
 
@@ -346,19 +346,19 @@ A young Longshank, eyes dilated with terror, tried a first step. His femur, slen
 
 — **Catastrophic structural damage,** — Drusus diagnosed on the private channel, voice flat but clinically swift. — **Their calcium tensile strength is below 15% of Noviomagus minimum operational. They are not merely wounded, Alaric. They are collapsing at the molecular level.**
 
-Alaric stayed motionless, but his Castra-Lupus gauntlet claws contracted a millimeter. He saw what Draxus had done: the General had sent living beings to a world that would crush them for existing—a bureaucratic cruelty Alaric considered the purest inefficiency.
+Alaric stayed motionless, but his Castra-Lupus gauntlet claws contracted a millimeter. He saw what Draxus had done: the General had sent living beings to a world that would crush them for existing — a bureaucratic cruelty Alaric considered the purest inefficiency.
 
 — **Flesh has hit load limit,** — Alaric declared. — **If biology cannot bear the tithe, iron will.**
 
 He signaled the heavy engineering sector shadows. Traditional medicine’s time had ended; it was Armory intervention hour.
 
-Behind the shattered Longshanks, the mass of **Nightsiders** (*Homo sapiens tenebris*) emerged from the ship’s guts. For them offload was not physical fall but sensory martyrdom. Born in abysses where light was theological legend, their translucent skin and eyes—glassy spheres without iris—had known only absolute dark.
+Behind the shattered Longshanks, the mass of **Nightsiders** (*Homo sapiens tenebris*) emerged from the ship’s guts. For them offload was not physical fall but sensory martyrdom. Born in abysses where light was theological legend, their translucent skin and eyes — glassy spheres without iris — had known only absolute dark.
 
 Crossing the ramp threshold, Noviomagus’s industrial lumens, calibrated for heavy labor efficiency, struck them like **boltgun** radiation.
 
-There was an audible hiss. Nightsider skin erupted in instant erythema; ultraviolet spectrum and candela intensity fried melanin-deprived tissue. They screamed—high, dissonant—covering their faces, trying to crawl back into the ship’s shadows. To them Hangar 12 was a sun turned torture chamber.
+There was an audible hiss. Nightsider skin erupted in instant erythema; ultraviolet spectrum and candela intensity fried melanin-deprived tissue. They screamed — high, dissonant — covering their faces, trying to crawl back into the ship’s shadows. To them Hangar 12 was a sun turned torture chamber.
 
-— **Critical environmental mismatch,** — Drusus intoned as heat sensors tracked rising dermal temperature. — **Light is information—but for these assets, information is lethal.**
+— **Critical environmental mismatch,** — Drusus intoned as heat sensors tracked rising dermal temperature. — **Light is information — but for these assets, information is lethal.**
 
 The hangar central forge doors opened with pneumatic piston impact. Dry heat and sacred oil smell rolled in, and Master of the Forge **Kadmos** emerged.
 
@@ -370,7 +370,7 @@ Kadmos stopped before a Nightsider weeping blood from burst corneas. A mechadend
 
 — **Stop screaming,** — Kadmos ordered. — **Pain is only error data. I will delete the error.**
 
-He signaled his Techmarine cadre. They brought the first **cranial lumen-filter** units—smoked-quartz helms integrated with tactile and thermal sensors. Kadmos did not mean to cure blindness; he meant to transcend it through machine-brain interface.
+He signaled his Techmarine cadre. They brought the first **cranial lumen-filter** units — smoked-quartz helms integrated with tactile and thermal sensors. Kadmos did not mean to cure blindness; he meant to transcend it through machine-brain interface.
 
 — **Light will not burn you anymore,** — Kadmos said as a mechanical arm began welding mount points to an abhuman’s cervical collar. — **Because you will no longer look at the world. You will read the world through my sensors.**
 
@@ -380,21 +380,21 @@ Hangar 12 turned into a grotesque, miraculous assembly line. Kadmos and his Tech
 
 — **Biology is an architecture of failures,** — Kadmos intoned as mechadendrites positioned the first **load-bearing Exo-Spine** on a Longshank’s back.
 
-The abhuman, legs shattered under gravity, was lifted by mechanical arms. He screamed when mounting bolts bit external support plates—but pain cut off under military-grade analgesic injectors. Kadmos was not merely dressing the patient; he was integrating him.
+The abhuman, legs shattered under gravity, was lifted by mechanical arms. He screamed when mounting bolts bit external support plates — but pain cut off under military-grade analgesic injectors. Kadmos was not merely dressing the patient; he was integrating him.
 
-Techmarines worked with blind speed. Exo-Spines—iron structures and reinforced hydraulic pistons—were bolted straight to nerve junctions and pelvic girdles. Metal punching bone and gear-lock sound filled the hangar. In minutes the Longshank, moments ago agony on the deck, stood upright.
+Techmarines worked with blind speed. Exo-Spines — iron structures and reinforced hydraulic pistons — were bolted straight to nerve junctions and pelvic girdles. Metal punching bone and gear-lock sound filled the hangar. In minutes the Longshank, moments ago agony on the deck, stood upright.
 
 His muscles did not bear the load; Kadmos’s pistons did. The abhuman stared at his own hands, trembling less now that support structure stabilized his trunk.
 
 — **Calibration complete,** — Kadmos declared, voice buzzing with binary static. — **Load capacity increased four hundred percent. Structural stability guaranteed to 2G. You are no longer a cripple. You are an autonomous bipedal crane. Next.**
 
-Beside them, the **Mutilated**—Imperial Guard veterans whose medals hung on torn uniforms over missing limbs—waited with the resignation of those who had accepted themselves as scrap.
+Beside them, the **Mutilated** — Imperial Guard veterans whose medals hung on torn uniforms over missing limbs — waited with the resignation of those who had accepted themselves as scrap.
 
 Kadmos stopped before a veteran sergeant, a man whose face was a map of Malakor scars but whose legs a frag mine had devoured, leaving him on a filthy stretcher gurney. The Master of the Forge leaned his massive torso; mechadendrites advanced not with saws but soft-light sensors mapping remnant anatomy with prayer-like delicacy.
 
 — **Soldier, flesh is the Throne’s first gift, but it is fleeting,** — Kadmos’s voice, though metallic, carried solemn, almost liturgical weight. — **General Draxus sees only your inability to march. I see will that survived structure’s loss. You will not be turned into a load machine; you will be restored to armsman function.**
 
-Kadmos signaled acolytes, who brought **Batavi-Primus** pattern bionic prostheses. Not crude treads or industrial pistons—articulated carbon-polymer and ceramite legs carved to mimic human anatomy with near-artistic perfection. Toes carried high-sensitivity tactile sensors; heels held inertial dampers.
+Kadmos signaled acolytes, who brought **Batavi-Primus** pattern bionic prostheses. Not crude treads or industrial pistons — articulated carbon-polymer and ceramite legs carved to mimic human anatomy with near-artistic perfection. Toes carried high-sensitivity tactile sensors; heels held inertial dampers.
 
 With surgically precise motion, Kadmos integrated neural interfaces.
 
@@ -404,11 +404,11 @@ When the procedure ended, Kadmos extended his own mechanical gauntlet to help th
 
 — **Noviomagus does not replace you, soldier,** — Kadmos finished, tapping the man’s pauldron lightly. — **Noviomagus only rebuilds you so you can keep being the Wall.**
 
-Wave 3 had been overcome by Armory logic. But while iron celebrated victory over flesh, Wave 4 approached—and in it the Triumvirate would find something not even Kadmos’s logic could easily repair: damage wrought by addiction and deliberate cruelty.
+Wave 3 had been overcome by Armory logic. But while iron celebrated victory over flesh, Wave 4 approached — and in it the Triumvirate would find something not even Kadmos’s logic could easily repair: damage wrought by addiction and deliberate cruelty.
 
 ### Chapter 6: Wave 4 – Biological Vandalism
 
-Hangar 12 had already processed thousands of souls, but the air—once honest sweat and fear—changed sharply when the fourth ship docked. The *Silk Lady* was not an industrial hauler; she was a requisitioned pleasure craft whose elegant lines and false-gold filigree were now scarred by Noviomagus soot.
+Hangar 12 had already processed thousands of souls, but the air — once honest sweat and fear — changed sharply when the fourth ship docked. The *Silk Lady* was not an industrial hauler; she was a requisitioned pleasure craft whose elegant lines and false-gold filigree were now scarred by Noviomagus soot.
 
 When the synthetic ivory ramp lowered, a pressurized gust hit the Triumvirate. The smell was sensory heresy: artificial lilies, luxury incense, synthetic musk. Beneath it, Varro’s hyper-developed scent caught the note no perfume could hide: chronic infection, stagnant biological fluids, the chemical trail of cheap neurotoxic sedatives.
 
@@ -416,9 +416,9 @@ What came off that ship did not walk; it was dragged or moved by low-tier servit
 
 At the group’s front stood a young **Felinid**. Where her species’ sharp, alert ears should be, only smooth pink scar tissue remained; ears had been surgically cropped so her skull resembled a “perfect” human woman’s. Her movements were erratic, painful. Through translucent silk, Drusus’s thermal lenses showed the truth: subcutaneous graphite implants and pleasure stimulators along her spine and erogenous zones, wired to fire dopamine spasms whenever masters touched her. She was no longer a person; she was a meat instrument.
 
-Behind her, horror grew more abstract. **Abhuman infants** barely a year old had undergone bone mods so their backs bore small leather or feather “wings”—living “cherubs” meant to float at gala feasts on antigrav belts now cutting fragile skin.
+Behind her, horror grew more abstract. **Abhuman infants** barely a year old had undergone bone mods so their backs bore small leather or feather “wings” — living “cherubs” meant to float at gala feasts on antigrav belts now cutting fragile skin.
 
-Some men had jaws removed, replaced by fixed silver plates so they could never close mouths or speak—silent pleasure receptacles only. Others had been tattooed with fluorescent inks that constantly burned dermis, ornamental glow that was, in truth, perpetual inflammation.
+Some men had jaws removed, replaced by fixed silver plates so they could never close mouths or speak — silent pleasure receptacles only. Others had been tattooed with fluorescent inks that constantly burned dermis, ornamental glow that was, in truth, perpetual inflammation.
 
 The silence falling over the hangar was not respect but the vacuum before thermal detonation.
 
@@ -426,15 +426,15 @@ Varro stepped forward; his armored foot on adamant sounded like a gunshot. His n
 
 — **Triumvirate…** — Varro’s voice on the private channel was no longer voice; it was a wounded animal’s growl finding its torturer. — **My sensors are saturated with rape trace and ludic mutilation. This is not tithe. This is Malakor Majoris’s moral latrine dumped in our house.**
 
-Alaric von Helis stayed motionless, but his mind burned on the Noosphere. He looked at the mutilated girl—and for a microsecond chimeric predisposition faltered. He did not see an unknown abhuman; he projected Noviomagus girls, artisans’ daughters he protected, **Imprinted Humans** his battle-brothers loved in silent devotion.
+Alaric von Helis stayed motionless, but his mind burned on the Noosphere. He looked at the mutilated girl — and for a microsecond chimeric predisposition faltered. He did not see an unknown abhuman; he projected Noviomagus girls, artisans’ daughters he protected, **Imprinted Humans** his battle-brothers loved in silent devotion.
 
 Across the hangar, **boltguns** were gripped until gauntlet metal groaned. Batavi did not show feeling through mobile faces, but the pack’s fury was physical pressure that made Malakor servitors atop the ramp begin to shake with terror they did not yet understand.
 
-The Wall was about to fall—and it would fall on whip-holders.
+The Wall was about to fall — and it would fall on whip-holders.
 
 Hangar 12 became a resonance chamber for fury logic could not contain. In the Cohors Batavorum, absence of mobile facial expression was not absence of emotion; it was damming of a flood that, released, drowned worlds.
 
-Around the Triumvirate, brothers of the Silence and Shadow Cohorts, posted on walkways and in dark corners, watched the *Silk Lady* procession. For a Batavi Astartes, bond to their **Imprinted Humans**—servitors, scribes, forge-worker families sworn to zeal—was the only thread holding sanity.
+Around the Triumvirate, brothers of the Silence and Shadow Cohorts, posted on walkways and in dark corners, watched the *Silk Lady* procession. For a Batavi Astartes, bond to their **Imprinted Humans** — servitors, scribes, forge-worker families sworn to zeal — was the only thread holding sanity.
 
 Seeing the young Felinid surgically stretched and skin marked by lust-burns, each Marine’s combat sensors began to fail under involuntary projection. They no longer saw “rejects.” They saw their own charges. They saw Noviomagus artisans’ daughters turned to meat toys by nobles who thought themselves above iron law.
 
@@ -448,7 +448,7 @@ Pack fury, usually regulated and lased, expanded. It was white heat from the Cha
 
 — **Triumvirate,** — Alaric’s external vox carried avalanche weight. — **Noviomagus Prime is not only a forge. It is a sanctuary. And the sanctuary has been profaned by these Malakor swine’s breath.**
 
-He looked to the ramp where the *Silk Lady*’s officers and a minor noble cluster—come to ensure “gift delivery”—watched Batavi silence with stupid arrogance. They smiled, thinking Marine horror was admiration for the cargo’s “rarity.”
+He looked to the ramp where the *Silk Lady*’s officers and a minor noble cluster — come to ensure “gift delivery” — watched Batavi silence with stupid arrogance. They smiled, thinking Marine horror was admiration for the cargo’s “rarity.”
 
 One noble, in a gold-thread tunic costing a hive’s yearly wages, descended the ramp with a wine cup in hand.
 
@@ -478,7 +478,7 @@ The massacre began with surgical precision and devouring fury. Varro advanced as
 
 Around them, Silence and Shadow Cohorts moved as one. No disorderly firefight. Execution.
 
-10th Company Marines leaped from walkways, falling on *Silk Lady* guards like shadows made steel. Monomolecular knives cut throats in silence that made the dying’s screams more obscene. **Boltguns** snarled in short three-round bursts—*pang-pang-pang*—each round finding the skull of an officer who had permitted abuse of children and the young Felinid.
+10th Company Marines leaped from walkways, falling on *Silk Lady* guards like shadows made steel. Monomolecular knives cut throats in silence that made the dying’s screams more obscene. **Boltguns** snarled in short three-round bursts — *pang-pang-pang* — each round finding the skull of an officer who had permitted abuse of children and the young Felinid.
 
 Varro reached the ramp top where the ship’s purser tried to seal pneumatic doors. The High Chaplain held a door with one hand, luxury metal folding under gauntlet force. With the other he seized the purser’s face.
 
@@ -490,7 +490,7 @@ Varro reached the ramp top where the ship’s purser tried to seal pneumatic doo
 
 With a dry motion Varro crushed the man’s skull against the ship bulkhead. Bone-crack was muffled by his helm’s electronic howl. Behind him the hangar was stained with dishonorable blood. Batavi moved among bodies, ensuring no crewmember survived. They did not loot; they purified.
 
-Alaric watched the slaughter with frozen calm. He saw oppressors’ corpses stacked for lower-grade organic recycling—fated to become fertilizer for the most toxic industrial zones—a final nameless, gloryless end.
+Alaric watched the slaughter with frozen calm. He saw oppressors’ corpses stacked for lower-grade organic recycling — fated to become fertilizer for the most toxic industrial zones — a final nameless, gloryless end.
 
 — **Enough, Varro,** — Alaric ordered when the last guard went silent. — **Their blood cannot stain the deck these innocents walk. Kadmos, prep chemical deck purge. Drusus… the hangar is yours. Heal what they broke.**
 
@@ -502,21 +502,21 @@ Hangar 12, minutes before a brutal execution ground, sank into clinical silence.
 
 Then **Drusus** acted.
 
-The Chief Apothecary—a mountain of white ceramite and steel plates—moved toward the young Felinid. He did not walk like a conqueror but with deliberate slowness, each armor joint making predictable noise. Five meters out, he knelt. Controlled knee impact on adamant lowered his colossal height nearly to eye level with the violently trembling girl.
+The Chief Apothecary — a mountain of white ceramite and steel plates — moved toward the young Felinid. He did not walk like a conqueror but with deliberate slowness, each armor joint making predictable noise. Five meters out, he knelt. Controlled knee impact on adamant lowered his colossal height nearly to eye level with the violently trembling girl.
 
-Drusus retracted combat lenses on his helm, revealing human eyes—or what remained—behind reinforced glass. Eyes tired but deep, focused with intensity seeking not soul but healing.
+Drusus retracted combat lenses on his helm, revealing human eyes — or what remained — behind reinforced glass. Eyes tired but deep, focused with intensity seeking not soul but healing.
 
-— **My name is Drusus,** — his voice came through vox without war amplification—baritone calm, steady as a well-lubricated machine pulse. — **I am this Chapter’s curator. You are on Noviomagus Prime. Here no one will touch you without your consent. Do you understand?**
+— **My name is Drusus,** — his voice came through vox without war amplification — baritone calm, steady as a well-lubricated machine pulse. — **I am this Chapter’s curator. You are on Noviomagus Prime. Here no one will touch you without your consent. Do you understand?**
 
-The young Felinid, mutilated ears still bleeding under silk rags, looked at Drusus’s gauntlets—tools that could crush stone, now open-palmed on his knees. She nodded, movement barely visible.
+The young Felinid, mutilated ears still bleeding under silk rags, looked at Drusus’s gauntlets — tools that could crush stone, now open-palmed on his knees. She nodded, movement barely visible.
 
 — **I must assess damage to your nervous system to remove what they installed,** — Drusus explained, holding distance. — **I will use a blue-light scanner. It does not burn. It only reads beneath skin. May I begin scanning?**
 
-The girl hesitated, glancing at Alaric and Varro behind—statues of vigilance. She looked at Drusus again. — Yes… — her voice was hoarse, the musical synthesizer in her throat emitting a minor, sad note.
+The girl hesitated, glancing at Alaric and Varro behind — statues of vigilance. She looked at Drusus again. — Yes… — her voice was hoarse, the musical synthesizer in her throat emitting a minor, sad note.
 
 Drusus activated the scanner. Blue light traced her body. — **Scan complete. I identified fourteen parasitic implants. They send pain and pleasure signals you never asked for. I can neutralize those signals now with a chemical inhibitor. For that I must touch your shoulder with this applicator. May I continue?**
 
-Across the hangar, similar scenes repeated. 10th Company Marines—giants who had just decapitated guards bare-handed—now knelt before abhuman infants and mutilated slaves. Following Drusus’s example, they spoke low. They explained each motion.
+Across the hangar, similar scenes repeated. 10th Company Marines — giants who had just decapitated guards bare-handed — now knelt before abhuman infants and mutilated slaves. Following Drusus’s example, they spoke low. They explained each motion.
 
 — I will lift this crate so you have space. May I? — I offer purified water. Will you accept?
 
@@ -528,15 +528,15 @@ Drusus applied the inhibitor. When the young Felinid’s spasms ceased and her e
 
 For the first time in their lives, *Silk Lady* survivors did not look at Astartes as terrible gods but as the first firm ground their feet had touched. On faces that showed no emotion, they found the first dose of real humanity.
 
-Chemical purge vapor rose from the deck in gray columns, consuming last organic traces of *Silk Lady* crew. There would be no funeral rites, no names on war memorials. On Alaric’s order, oppressors’ remains were processed as low-grade organic matter, routed to subforge decomposition tanks. They would be useful to Noviomagus only as chemical fertilizer—recycling the **Axiom of Reason** judged the only utility such individuals merited.
+Chemical purge vapor rose from the deck in gray columns, consuming last organic traces of *Silk Lady* crew. There would be no funeral rites, no names on war memorials. On Alaric’s order, oppressors’ remains were processed as low-grade organic matter, routed to subforge decomposition tanks. They would be useful to Noviomagus only as chemical fertilizer — recycling the **Axiom of Reason** judged the only utility such individuals merited.
 
-While survivors were led by Drusus toward recovery wards—a parade of torn silk and dignity rebuilding—the Triumvirate remained in the empty hangar center.
+While survivors were led by Drusus toward recovery wards — a parade of torn silk and dignity rebuilding — the Triumvirate remained in the empty hangar center.
 
-Alaric von Helis stared at the luxury ship’s open ramp. Opulent interior—velvet divans, mother-of-pearl trim—now looked like an open wound in the Chapter’s industrial sobriety.
+Alaric von Helis stared at the luxury ship’s open ramp. Opulent interior — velvet divans, mother-of-pearl trim — now looked like an open wound in the Chapter’s industrial sobriety.
 
 — **Varro,** — Alaric broke silence. His voice did not ride vox but hung in hangar cold. — **Pack fury still vibrates in your armor. I feel your power cores’ heat ten meters away.**
 
-The High Chaplain did not turn. He watched the crimson stain cleaning systems had not fully dissolved—where the noble had been crushed.
+The High Chaplain did not turn. He watched the crimson stain cleaning systems had not fully dissolved — where the noble had been crushed.
 
 — **The smell will not leave, Alaric,** — Varro replied, black wolf helm toward darkness. — **My sensors say air is clean, but this Chapter’s soul logged what was seen. Every Marine who looked at that young Felinid saw a charge’s face. They profaned the humanity concept that justifies our existence.**
 
@@ -550,7 +550,7 @@ Alaric walked to the platform edge, staring into space through the hangar contai
 
 He turned to the Triumvirate, hangar amber light reflecting on his crimson helm’s yellow lenses.
 
-— **From this moment, Retribution Protocol is active. We will not send an army to Malakor. Not yet. We will send Silence. We will send Shadows. I want every one of those nobles’ laughs monitored. Every crime cataloged. And when the Wall moves, it will not be to conquer—to collect the biological debt they contracted today.**
+— **From this moment, Retribution Protocol is active. We will not send an army to Malakor. Not yet. We will send Silence. We will send Shadows. I want every one of those nobles’ laughs monitored. Every crime cataloged. And when the Wall moves, it will not be to conquer — to collect the biological debt they contracted today.**
 
 Varro struck his *Crozius* on the deck, dry sound of assent. — **Iron does not forget,** — the Chaplain sentenced.
 
@@ -565,7 +565,7 @@ They thought themselves safe in opulence. They did not know shadows in their tow
 
 **Killteam Fenris-Alpha**, drawn from **Silence Cohort** veterans and **Shadow Cohort** scouts, had infiltrated the planet under vacuum cover. They did not arrive in noisy landers but in stealth insertion pods camouflaged as space debris.
 
-Lieutenant **Kaelen** of the Shadow Cohort led the operation. His Phobos armor was painted with pigment that drank not only light but sonar wave and thermal sensor return. He crouched atop the “Ivory Spire,” Baron Valerius’s summer residence—chief financier of the *Silk Lady*.
+Lieutenant **Kaelen** of the Shadow Cohort led the operation. His Phobos armor was painted with pigment that drank not only light but sonar wave and thermal sensor return. He crouched atop the “Ivory Spire,” Baron Valerius’s summer residence — chief financier of the *Silk Lady*.
 
 — **Listen status: active,** — Kaelen transmitted on encrypted Noosphere, voice a data pulse only. — **Micro-sensors are in ventilation and General Draxus’s private data lines. Shadow Wolf is inside the walls.**
 
@@ -591,11 +591,11 @@ Data streamed in compressed packets to Noviomagus Prime, where the Triumvirate w
 
 Noviomagus retribution was not blind sword-stroke; it was controlled demolition of reputations, souls, and bodies.
 
-The moment Lieutenant Kaelen signaled dossier complete, Alaric von Helis opened channels the Wall had cultivated for decades. Noviomagus Prime was not only physical fortress; it was a sector influence node. Through encrypted Noosphere webs, killteam data—mutilation footage, Draxus’s laughter, fiscal notes selling human lives—launched like information warheads.
+The moment Lieutenant Kaelen signaled dossier complete, Alaric von Helis opened channels the Wall had cultivated for decades. Noviomagus Prime was not only physical fortress; it was a sector influence node. Through encrypted Noosphere webs, killteam data — mutilation footage, Draxus’s laughter, fiscal notes selling human lives — launched like information warheads.
 
 First impact hit **Inquisitor Vane**’s office. The man, a puritan of glacial methods who owed Alaric his life after the *Kalis IV* siege, received the dossier in his palace-fortress. Vane needed barely ten minutes reading to sign *Excommunicate Traitoris* mandates for involved noble houses. To the Inquisition, waste of human resource and perversion of divine form were Throne crimes demanding exemplary answer.
 
-Simultaneously **High Bishop Kaltos** of the Ecclesiarchy—a long ally who saw Batavi as “Iron Zeal” made flesh—received proof of modified cherubs. Kaltos, notorious for intolerance of heretical vanity, declared Malakor Majoris noble houses “Anathema to the Emperor’s Light” in a sermon broadcast across the subsector.
+Simultaneously **High Bishop Kaltos** of the Ecclesiarchy — a long ally who saw Batavi as “Iron Zeal” made flesh — received proof of modified cherubs. Kaltos, notorious for intolerance of heretical vanity, declared Malakor Majoris noble houses “Anathema to the Emperor’s Light” in a sermon broadcast across the subsector.
 
 Social murder was instant. But physical fate would be forged by Kadmos and Varro.
 
@@ -607,15 +607,15 @@ They were not executed. Death would be too easy an exit, a biomass waste the **A
 
 There began the **Awakened Servitor Protocol**.
 
-Unlike common servitors, whose frontal lobes are cauterized to erase consciousness, Kadmos installed continuous-processing neural bridges. They were turned into industrial maintenance servitors—toxic duct cleaners, heavy ammunition loaders, chemical waste processors.
+Unlike common servitors, whose frontal lobes are cauterized to erase consciousness, Kadmos installed continuous-processing neural bridges. They were turned into industrial maintenance servitors — toxic duct cleaners, heavy ammunition loaders, chemical waste processors.
 
 Legs became low-cost hydraulic pistons, arms industrial claws, eyes fixed thermal lenses. Yet cerebral cortex remained intact and isolated. They could see everything. Feel metal piercing nerve pain, oil cold circulating instead of blood, eternal boredom of new tasks. But vocal cords were removed and motor commands locked under absolute submission protocols.
 
 They were conscious passengers in eternal servitude machines.
 
-— **You wanted meat toys,** — Inquisitor Vane commented, watching Baron Valerius—now designated Cleanup Unit 09-X—take his first involuntary mechanical step. — **Now you are the Wall’s tools. And you will have every second of eternity to contemplate function’s perfection over aesthetics.**
+— **You wanted meat toys,** — Inquisitor Vane commented, watching Baron Valerius — now designated Cleanup Unit 09-X — take his first involuntary mechanical step. — **Now you are the Wall’s tools. And you will have every second of eternity to contemplate function’s perfection over aesthetics.**
 
-Meanwhile on Malakor Majoris, General Draxus watched his windows, realizing silence fallen on his allies was the noose tightening. He remained free—but the Wall now had eyes inside his own chamber.
+Meanwhile on Malakor Majoris, General Draxus watched his windows, realizing silence fallen on his allies was the noose tightening. He remained free — but the Wall now had eyes inside his own chamber.
 
 ### EPILOGUE: VARRO’S MESSAGE
 
@@ -627,11 +627,11 @@ Ceiling lights flickered once. The General stopped before the cup reached his li
 
 Silence afterward was absolute, heavy as vacuum. Then crimson emergency lights pulsed, bathing the room in blood tone. Behind Draxus, where only marble wall had been, two **orange-as-fire** eyes ignited in shadow.
 
-Before he could scream, cold steel brushed his throat. The *Batavian Iron-Guard* **force sword** appeared from nowhere—a blade of perfect geometry, matte gleam. Even with power field disabled, the monomolecular edge was so lethal **Kaelen**’s simple hand pressure drew a blood drop tracing red across gray metal.
+Before he could scream, cold steel brushed his throat. The *Batavian Iron-Guard* **force sword** appeared from nowhere — a blade of perfect geometry, matte gleam. Even with power field disabled, the monomolecular edge was so lethal **Kaelen**’s simple hand pressure drew a blood drop tracing red across gray metal.
 
 — **Do not move, General,** — Kaelen’s voice was whisper from abyss, resonating inside Draxus’s skull. — **Noviomagus iron dislikes trembling meat.**
 
-Draxus felt cold Phobos armor recycler breath on his nape. He could not see his captor’s face—only fiery lens glow seeming to judge his soul.
+Draxus felt cold Phobos armor recycler breath on his nape. He could not see his captor’s face — only fiery lens glow seeming to judge his soul.
 
 — **Varro’s message is simple,** — Kaelen continued, blade held with absolute steadiness. — **The Wall does not forget flesh profaned. But the Wall is patient with the harvest. Keep sending your armies. Keep cleansing Malakor Majoris of everything you call trash. Because every soul you discard, we rebuild. Every weapon you break, we reinforce. You are giving us the army we will one day use to return here.**
 
@@ -639,17 +639,17 @@ Kaelen withdrew the blade with the same ghost softness it had appeared. — **En
 
 Kaelen faded into shadow; before Draxus could turn, the Marine simply was not there.
 
-Chaos began seconds later. A series of muffled, precise, calculated detonations echoed through the palace. They were not wall-breach bombs but **molecular destabilization charges** placed inside Draxus’s vaults. In an instant, treasure hoarded for decades—forbidden art, gold, titles—was reduced to ash and molten slag.
+Chaos began seconds later. A series of muffled, precise, calculated detonations echoed through the palace. They were not wall-breach bombs but **molecular destabilization charges** placed inside Draxus’s vaults. In an instant, treasure hoarded for decades — forbidden art, gold, titles — was reduced to ash and molten slag.
 
-Simultaneously every screen in the mansion—and across the planetary system—came alive.
+Simultaneously every screen in the mansion — and across the planetary system — came alive.
 
-Draxus ran to the corridor—only to find wife and children frozen before a huge holo-monitor. On screens, *Silk Lady* images looped: mutilations, the General’s laughter, cherub-children’s screams, videos of his most intimate cruelties. Malakor Majoris’s system watched, in real time, a monster’s anatomy.
+Draxus ran to the corridor — only to find wife and children frozen before a huge holo-monitor. On screens, *Silk Lady* images looped: mutilations, the General’s laughter, cherub-children’s screams, videos of his most intimate cruelties. Malakor Majoris’s system watched, in real time, a monster’s anatomy.
 
-A smaller frame showed Draxus’s face now—sweating, bloodied, terrified—on live feed.
+A smaller frame showed Draxus’s face now — sweating, bloodied, terrified — on live feed.
 
 Draxus’s wife looked at him with disgust no excuse could erase. Then Kaelen’s voice echoed on family personal vox, final warning before final silence:
 
-— **You are accomplices,** — the Noviomagus scout sentenced. — **Clean the filth from your rotten blood—your names are already stained across the Imperium. The Wall does not accept heirs of decadence.**
+— **You are accomplices,** — the Noviomagus scout sentenced. — **Clean the filth from your rotten blood — your names are already stained across the Imperium. The Wall does not accept heirs of decadence.**
 
 Screens died, leaving the family in dark lit only by flames of treasure burning below.
 
@@ -659,11 +659,11 @@ Draxus lived. But to Noviomagus Prime, he was already less than scrap.
 
 ### Chapter 9: Home Behind the Wall
 
-Hangar 12’s sound was progress cacophony—but as abhumans crossed the threshold into the new hab complex, acoustics changed. Kadmos had designed walls with sonic and thermal insulation layers, ensuring Noviomagus forge-roar became distant, comforting heartbeat-thud instead of oppressive noise.
+Hangar 12’s sound was progress cacophony — but as abhumans crossed the threshold into the new hab complex, acoustics changed. Kadmos had designed walls with sonic and thermal insulation layers, ensuring Noviomagus forge-roar became distant, comforting heartbeat-thud instead of oppressive noise.
 
 **Bast** walked carefully, Felinid senses still on maximum alert. On Malakor, clean spaces were traps, and silence prelude to pain. She clutched her mag-card to her chest like a weapon. Around her, other abhumans moved with same hesitation: Ogryns eyeing high ceilings with distrust, Ratlings sniffing door corners for poison.
 
-She stopped before door **A-402**. The Shadow Cohort scout escorting her said nothing—only a brief nod, tactical equality gesture she could not yet read—and moved on.
+She stopped before door **A-402**. The Shadow Cohort scout escorting her said nothing — only a brief nod, tactical equality gesture she could not yet read — and moved on.
 
 The door slid.
 
@@ -675,7 +675,7 @@ There was a manual bolt. A mechanical device that, once thrown, prevented the do
 
 Bast threw the bolt. Metal seating was the most beautiful sound she had ever heard. She leaned back on the door and slid to the floor. For the first time in ten years she could not hear anyone else breathing. For the first time she was not an object on display.
 
-— **My…** — she whispered, testing the word. Her voice, now run through a high-fidelity vocal synthesizer Drusus had installed, came clean—without Malakor’s pain-notes. — **My place.**
+— **My…** — she whispered, testing the word. Her voice, now run through a high-fidelity vocal synthesizer Drusus had installed, came clean — without Malakor’s pain-notes. — **My place.**
 
 She crawled to the bed and touched the sheet. It was soft. She climbed in, curled fetal, waiting for someone to enter, evict her, laugh at hope, use her. But minutes became hours. Silence stayed inviolate.
 
@@ -685,7 +685,7 @@ Bast’s waking came not to whip-crack or barked orders. It was light. Her room 
 
 Silence. Only near-musical ventilation hum.
 
-She donned the iron-gray robe from the closet. Fabric was functional but surprisingly gentle on her skin. Leaving the room, she hesitated on the steel corridor. Other doors opened. She saw one of the Mutilated—a veteran now walking on Kadmos’s bionic legs—exit the neighboring quarters. He did not look at her with Malakor’s predatory lechery; he only nodded, dry gesture of recognition between equals, and headed toward the block mess.
+She donned the iron-gray robe from the closet. Fabric was functional but surprisingly gentle on her skin. Leaving the room, she hesitated on the steel corridor. Other doors opened. She saw one of the Mutilated — a veteran now walking on Kadmos’s bionic legs — exit the neighboring quarters. He did not look at her with Malakor’s predatory lechery; he only nodded, dry gesture of recognition between equals, and headed toward the block mess.
 
 Bast followed the flow. The mess was not a feeding pit; it was a wide room with iron-oak tables and reinforced windows showing internal dock activity.
 
@@ -695,19 +695,19 @@ She sat in a corner, watching an Ogryn at the central table. He held a spoon tha
 
 Then she saw him for the first time.
 
-He sat at a nearby table, surrounded by pneumatic motor spare parts. Grease smeared his face; he wore Noviomagus technicians’ orange coveralls. What caught Bast was not his ordinary human appearance but his left arm—robust engineering, exposed pistons and fiber-optic cables, ending in a mechanical hand manipulating a precision wrench with hypnotic dexterity.
+He sat at a nearby table, surrounded by pneumatic motor spare parts. Grease smeared his face; he wore Noviomagus technicians’ orange coveralls. What caught Bast was not his ordinary human appearance but his left arm — robust engineering, exposed pistons and fiber-optic cables, ending in a mechanical hand manipulating a precision wrench with hypnotic dexterity.
 
 He looked up, noticed Bast watching. For a second her heart raced. She expected insult, joke about mutilated ears, disgusted stare.
 
-Instead the man—**Elian**—only smiled slightly and raised his metal mug in silent toast before returning to work.
+Instead the man — **Elian** — only smiled slightly and raised his metal mug in silent toast before returning to work.
 
 Bast lowered eyes to her food, strange heat in cheeks not from soup steam. She was not a “monster” to him. She was just another Wall resident taking breakfast. In that moment, soup tasted like something she had never known: peace.
 
 Integration on Noviomagus Prime came not through sermons but through occupation. The **Axiom of Reason** held purpose best remedy for trauma. After first acclimation week, Bast was assigned **Sub-Forge 07**, a precision maintenance zone where fortress ventilation systems and data cables were repaired.
 
-Because of Felinid physiology—light bones, sharp reflexes, ability to move where ordinary humans jammed—she was placed on the **Flow Adjustment** crew.
+Because of Felinid physiology — light bones, sharp reflexes, ability to move where ordinary humans jammed — she was placed on the **Flow Adjustment** crew.
 
-Work was technical. She had to crawl narrow ducts to calibrate sensors regulating lower-level oxygen. At first Bast feared work was disguised slavery—but she soon saw the difference: she had cutting-edge tools, a working vox, and for the first time an **instructor**.
+Work was technical. She had to crawl narrow ducts to calibrate sensors regulating lower-level oxygen. At first Bast feared work was disguised slavery — but she soon saw the difference: she had cutting-edge tools, a working vox, and for the first time an **instructor**.
 
 — You’re going too fast, rookie. Yank that cable that hard and the pressure sensor throws central system error.
 
@@ -719,7 +719,7 @@ Bast slid from the duct with grace that made Elian raise brows. She landed silen
 
 Elian wiped grease from his brow with organic hand back, leaving black streak. — And you fixed it. Sector B oxygen stabilized at ninety-eight percent. Shift record for that rotation.
 
-He stepped closer; Bast instinctively stepped back, ears—or what remained—flattening to skull. Elian stopped at once, respecting her space. He extended the mechanical arm—not to touch her but to show precision pincer at metal fingertips.
+He stepped closer; Bast instinctively stepped back, ears — or what remained — flattening to skull. Elian stopped at once, respecting her space. He extended the mechanical arm — not to touch her but to show precision pincer at metal fingertips.
 
 — My arm — he said casually. — Lost the original in a boiler blast five years ago. Kadmos gave me this. At first I felt a monster. Crooked, heavy. Then I realized with it I can torque bolts no human muscle could. Steel didn’t change me, Bast. It let me stay useful.
 
@@ -731,7 +731,7 @@ Elian studied her scars with honest sadness, not pity. Pity was insult in Noviom
 
 He handed her a small chrome-plated adjustment tool. — Come on. Ten more sensors in Sector C. If we finish early, community kitchens are serving spiced algae stew today.
 
-Bast took the tool. For the first time she did not feel a tool being used—she felt a craftswoman steering her own fate. She gave a small nod and returned to the duct, feeling perhaps Noviomagus steel was beginning to scar something far deeper than skin.
+Bast took the tool. For the first time she did not feel a tool being used — she felt a craftswoman steering her own fate. She gave a small nod and returned to the duct, feeling perhaps Noviomagus steel was beginning to scar something far deeper than skin.
 ### Chapter 10: The Baptism of Water and Rediscovering the Image
 
 If privacy was Noviomagus’s first gift, purification was the second. On Malakor Majoris, clean water was caste privilege; for abhumans, “cleaning” meant cold pressure hoses and chemical disinfectants that burned skin.
@@ -742,19 +742,19 @@ Perforated metal screens divided areas, letting falling water sound build acoust
 
 She entered the hot pool. Thermal shock yielded to relaxation that let muscles always tensed for flight finally yield. She submerged fully.
 
-Underwater, the throat synthesizer vibrated silently. She scrubbed with provided mineral soaps—no harsh chlorine stink, only light Noviomagus essential-oil scent. With a natural-fiber sponge she began stripping the “crust” of her old life: *Silk Lady* hold soot, cheap perfume traces of former masters, fear layers that seemed soaked into pores.
+Underwater, the throat synthesizer vibrated silently. She scrubbed with provided mineral soaps — no harsh chlorine stink, only light Noviomagus essential-oil scent. With a natural-fiber sponge she began stripping the “crust” of her old life: *Silk Lady* hold soot, cheap perfume traces of former masters, fear layers that seemed soaked into pores.
 
 Leaving the water, Bast stopped before a large polished metal mirror, rear-heated so it would not fog.
 
-She hesitated. For years she had avoided her reflection to escape the “monster” nobles had carved. Now, under bath amber light, she saw something different. Scars remained—cuts where ears were mutilated, marks where Drusus removed implants. Yet her skin shone with new health. Felinid fur, once dull and brittle, began recovering natural sheen.
+She hesitated. For years she had avoided her reflection to escape the “monster” nobles had carved. Now, under bath amber light, she saw something different. Scars remained — cuts where ears were mutilated, marks where Drusus removed implants. Yet her skin shone with new health. Felinid fur, once dull and brittle, began recovering natural sheen.
 
-She touched her crown where ear scar tissue was smooth. For the first time she felt not only absence of what was taken—she felt presence of who she was now.
+She touched her crown where ear scar tissue was smooth. For the first time she felt not only absence of what was taken — she felt presence of who she was now.
 
 — **I am not what they did to me,** — she murmured; the synthesizer caught conviction in her voice.
 
 She took a bone comb and began working arm and tail fur with patience she had never owned. Vanity, tool of servitude on Malakor, was becoming resistance in Noviomagus. Caring for herself was final proof she now owned her own flesh.
 
-Leaving the baths, Bast found Elian waiting in the access corridor with two mugs of hot infusion. He looked at her—and for a brief second the joiner’s gaze was not “technical colleague” but a man admiring resurgent beauty.
+Leaving the baths, Bast found Elian waiting in the access corridor with two mugs of hot infusion. He looked at her — and for a brief second the joiner’s gaze was not “technical colleague” but a man admiring resurgent beauty.
 
 — Noviomagus water works miracles, doesn’t it? — Elian smiled, handing her the mug.
 
@@ -762,7 +762,7 @@ Bast accepted drink, feeling metal warmth against palms. — It doesn’t only c
 
 — Their smell never belonged in this world, Bast. Here the only smells that matter are machine oil and fresh bread.
 
-She drank, feeling—for the first time—not only clean but worthy of being seen.
+She drank, feeling — for the first time — not only clean but worthy of being seen.
 
 If for Bast purification came through water, for mutilated Guard veterans and Noviomagus accident workers, dignity returned through oil friction and metal shine.
 
@@ -772,13 +772,13 @@ In the **Bionic Maintenance Yard**, annex to Kadmos’s workshop under cold whit
 
 — **The joint must not groan, soldier,** — an acolyte told a Malakor veteran who had lost both arms. — **If it grinds, it complains of neglect. Steel is faithful, but it demands respect.**
 
-The veteran, months feeling useless burden, now held a flannel soaked in polish wax. With mechanical right hand he buffed left forearm. Metal, once desert-dulled, began gleaming deep gray-blue luster. He was not merely cleaning a tool—he was caring for himself.
+The veteran, months feeling useless burden, now held a flannel soaked in polish wax. With mechanical right hand he buffed left forearm. Metal, once desert-dulled, began gleaming deep gray-blue luster. He was not merely cleaning a tool — he was caring for himself.
 
 At a nearby bench **Elian** helped youths who had received auditory or ocular implants after Wave 4\. Bast watched from a column, seeing how Elian treated his own mechanical arm.
 
 He did not hide the prosthesis under a sleeve. Instead he had carved small runes of protection and efficiency into ceramite cover plates. With a fine-bristle brush he cleaned piston grooves.
 
-— See this, Bast, — Elian called, noticing her. — Many worlds try to make steel look like flesh—paint it pink, hide truth. In Noviomagus we do opposite. If you’re part metal, let that metal be the best the Imperium can offer.
+— See this, Bast, — Elian called, noticing her. — Many worlds try to make steel look like flesh — paint it pink, hide truth. In Noviomagus we do opposite. If you’re part metal, let that metal be the best the Imperium can offer.
 
 He handed fine abrasive paste to a young Ratling with a mechanical leg. — Polishing steel is like meditation. You file the day’s burrs and prep for tomorrow. When you shine, the enemy knows you had time and pride to maintain.
 
@@ -788,13 +788,13 @@ Bast approached shyly. She studied Elian’s arm, now gleaming under sodium lamp
 
 — It doesn’t only protect outside, Bast, — Elian answered, meeting her eyes while wiping oil from his own wrist joint. — It protects inside. It reminds us: however they try to break us, we can always rebuild stronger.
 
-The veteran beside them rapped mechanical fist on chest, producing metallic ring that echoed the yard. He smiled—a smile no longer carrying defeat’s bitterness.
+The veteran beside them rapped mechanical fist on chest, producing metallic ring that echoed the yard. He smiled — a smile no longer carrying defeat’s bitterness.
 
 Steel vanity spread. On each of those faces, “scrap” expression vanished, replaced by artificer’s face. They were no longer Wave 4 victims; they were owners of Noviomagus’s new strength.
 
 ### Chapter 11: Meeting of Souls – Part 1: Sawdust Scent and Steel Refuge
 
-Bast’s functional integration in Sub-Forge 07 succeeded—but in low-cycle hours—when Noviomagus Prime dialed industrial pulse down for workers’ rest—she found her healing’s true core.
+Bast’s functional integration in Sub-Forge 07 succeeded — but in low-cycle hours — when Noviomagus Prime dialed industrial pulse down for workers’ rest — she found her healing’s true core.
 
 Elian was not only a maintenance tech; he was a **Joiner**. In a world of adamant, ceramite, and concrete, woodworking was rare revered art, meant to adorn Triumvirate chambers or Varro’s altars. His workshop sat mid-levels, space where machine-oil metallic stink gave way to sweet earthy sawdust and resin scent.
 
@@ -802,7 +802,7 @@ Elian was not only a maintenance tech; he was a **Joiner**. In a world of adaman
 
 Bast stopped at the entrance, watching warm filament lamps light the shop. — I don’t want to break the silence. Here… sound is different from the rest of the fortress.
 
-Elian stopped the lathe. His mechanical arm—cover plates removed for greater range—gripped an iron-oak block with force no biological muscle could match. With organic hand he brushed wood shavings from his robe.
+Elian stopped the lathe. His mechanical arm — cover plates removed for greater range — gripped an iron-oak block with force no biological muscle could match. With organic hand he brushed wood shavings from his robe.
 
 — Come. Silence here is meant to be shared, not guarded.
 
@@ -822,9 +822,9 @@ Bast paused, studying sawdust-dusted fingers. — They used them for terrible th
 
 Elian stepped forward into her personal space. He did not retreat when she hesitated. He raised mechanical arm; with cold metal fingertip he lightly touched her chin, making her look at him.
 
-— On Malakor they looked at you and saw mirror of their own vices. In Noviomagus I look at you and see a survivor who crawled through hell and didn’t let flames burn away gentleness. — His smile was calm, no second intent. — For a joiner, Bast, the most valuable piece isn’t the one born perfect—it’s the one pulled from fire and shaped into something no one else had vision to create.
+— On Malakor they looked at you and saw mirror of their own vices. In Noviomagus I look at you and see a survivor who crawled through hell and didn’t let flames burn away gentleness. — His smile was calm, no second intent. — For a joiner, Bast, the most valuable piece isn’t the one born perfect — it’s the one pulled from fire and shaped into something no one else had vision to create.
 
-Something broke inside Bast—but not like wound. Like armor grown too small. A single tear cut clean through dust on her cheek. She did not pull away from his steel touch. In that workshop, ringed by old-life scent and her own heartbeat sound, the Felinid understood: in Noviomagus, love was maintenance’s highest form.
+Something broke inside Bast — but not like wound. Like armor grown too small. A single tear cut clean through dust on her cheek. She did not pull away from his steel touch. In that workshop, ringed by old-life scent and her own heartbeat sound, the Felinid understood: in Noviomagus, love was maintenance’s highest form.
 
 Work in Elian’s shop became gravitational center of Bast’s life. There, among hand-saw sound and resin smell, she need not be “Recon Unit” or “Wave 4 Victim.” She was only Bast.
 
@@ -832,7 +832,7 @@ One late afternoon, when Noviomagus Prime’s artificial light deepened crimson 
 
 — I finished something today. While you were calibrating Sector Seven ducts — he said, voice calm but with nervous edge Bast’s sharp hearing caught at once.
 
-He opened the box. Inside lay adornments seeming to defy brutal fortress logic: two precision clasps of polished silver-steel alloy, carved as olive leaves—a plant Bast had only seen in old terrestrial biome manuals. At each leaf’s center a small amber fragment gleamed like trapped sun-drop.
+He opened the box. Inside lay adornments seeming to defy brutal fortress logic: two precision clasps of polished silver-steel alloy, carved as olive leaves — a plant Bast had only seen in old terrestrial biome manuals. At each leaf’s center a small amber fragment gleamed like trapped sun-drop.
 
 — For your hair. And for what’s left of your ears — Elian explained, extending the box. — I watched you hide them under robe hood every day. I thought instead of hiding the scar, you could… frame it.
 
@@ -854,7 +854,7 @@ Yet gesture’s weight overwhelmed her. Sweetness against horror-history opened 
 
 — I… I need to walk — she said suddenly, breath shortening.
 
-— Bast? All right? — Elian asked, hand out—but she was already backing away.
+— Bast? All right? — Elian asked, hand out — but she was already backing away.
 
 — It’s beautiful, Elian. The most beautiful thing I’ve had. But I need… to see where I fit.
 
@@ -864,11 +864,11 @@ Bast climbed. She ignored pneumatic lifts and took service stairs, claws scrapin
 
 She reached **Recreation Dome 04**, engineering miracle where trees from distant worlds struggled under artificial sun. Air was humid, smelled of wet soil. She walked toward a viewing balcony discovered in wanderings: public platform suspended over citadel abyss, forges pulsing below like iron giant’s heart.
 
-Bast meant to stay alone—but approaching the cast-iron bench facing industrial horizon, her body froze.
+Bast meant to stay alone — but approaching the cast-iron bench facing industrial horizon, her body froze.
 
 There, spine perfectly straight, sat Lord Castellan **Alaric von Helis**.
 
-He wore crimson wolf helm, yellow lenses fixed on landscape. In immense hands that could crush traitor skulls with a motion, he held an iron-oak wood stub. With a combat knife—blade nearly Bast’s torso length—he made millimeter cuts in the wood.
+He wore crimson wolf helm, yellow lenses fixed on landscape. In immense hands that could crush traitor skulls with a motion, he held an iron-oak wood stub. With a combat knife — blade nearly Bast’s torso length — he made millimeter cuts in the wood.
 
 Bast tried to retreat, shadow-light, but Alaric’s voice cut air like low thunder before her second step.
 
@@ -880,7 +880,7 @@ Trembling, the Felinid approached. She sat bench’s far end, feeling heat radia
 
 — I see… machines, my Lord. Smoke and fire — she answered, synthesized voice near whisper.
 
-— **I see life,** — Alaric corrected. He paused carving. — **I see my people. I smell community kitchens making sustenance. I hear hammer rhythm—our survival’s sound. I see people like you, discarded by the Imperium, who here walk beside giants without grovel worship or abject fear. I feel Noviomagus like my own body.**
+— **I see life,** — Alaric corrected. He paused carving. — **I see my people. I smell community kitchens making sustenance. I hear hammer rhythm — our survival’s sound. I see people like you, discarded by the Imperium, who here walk beside giants without grovel worship or abject fear. I feel Noviomagus like my own body.**
 
 He turned to her; yellow lenses gleamed.
 
@@ -892,16 +892,16 @@ Alaric finished last cut, sheathed knife. He extended armored hand. On gauntlet 
 
 Bast took carving, fingers brushing Alaric’s gauntlet. Held-back tears finally spilled, washing last doubt. She clutched wood wolf to chest, feeling force radiate from crimson giant.
 
-She rose, bowed deep—and this time did not run to hide. She ran back to workshop, toward man who loved her with steel arm and joiner heart.
+She rose, bowed deep — and this time did not run to hide. She ran back to workshop, toward man who loved her with steel arm and joiner heart.
 
 Alaric watched her go, wolf helm toward stars. — **Pack zeal,** — he whispered to void, satisfied with that soul’s maintenance.
 ### Chapter 12: Noviomagus’s Gaze
 
-Noviomagus Prime had never been a world of leisure—but that day industrial rigidity yielded to utility celebration. The **Grand Ascension Yard**, colossal esplanade ringed by Cohors Batavorum hero statues, had been transformed. The Triumvirate had organized the **Aptitude Fair**—final milestone turning cargo “rejects” into citizens.
+Noviomagus Prime had never been a world of leisure — but that day industrial rigidity yielded to utility celebration. The **Grand Ascension Yard**, colossal esplanade ringed by Cohors Batavorum hero statues, had been transformed. The Triumvirate had organized the **Aptitude Fair** — final milestone turning cargo “rejects” into citizens.
 
-Steel pavilions rose for each guild and fortress division. There stood *Fuel Logistics*, *Orbital Shield Maintenance*, *Hydroponic Gardens*, and of course *Iron Legion*—new auxiliary military force.
+Steel pavilions rose for each guild and fortress division. There stood *Fuel Logistics*, *Orbital Shield Maintenance*, *Hydroponic Gardens*, and of course *Iron Legion* — new auxiliary military force.
 
-Bast reached the yard walking beside Elian. She no longer wore the hood. Olive-leaf clasps shone in her hair, framing scars she now wore like survival medals. In hand she clutched Alaric’s carved wolf—courage talisman.
+Bast reached the yard walking beside Elian. She no longer wore the hood. Olive-leaf clasps shone in her hair, framing scars she now wore like survival medals. In hand she clutched Alaric’s carved wolf — courage talisman.
 
 — Look at them, Bast — Elian said, pointing at crowd. — Fear smell’s gone.
 
@@ -909,13 +909,13 @@ True. Ogryns clustered around heavy-load instructors, laughing while testing new
 
 No “us” and “them.” Only gear and engine.
 
-Yard center: **Alaric**, **Varro**, and **Kadmos** watched from raised dais—metal gods guarding garden planted in sterile soil.
+Yard center: **Alaric**, **Varro**, and **Kadmos** watched from raised dais — metal gods guarding garden planted in sterile soil.
 
 — **Biological efficiency hit projected peak,** — Kadmos’s voice echoed Noosphere. — **Social integration cut processing error fifteen percent sector-wide. Role choice generates enthusiasm conscription never would.**
 
 — **They aren’t only working, Kadmos,** — Varro shot back, black wolf helm toward Bast and Elian walking hand in hand. — **They belong. Noviomagus’s soul grew today.**
 
-Bast stopped before *Precision Maintenance* pavilion. Guild master—a man more machine than organic—looked at her, then at ventilation-duct performance record.
+Bast stopped before *Precision Maintenance* pavilion. Guild master — a man more machine than organic — looked at her, then at ventilation-duct performance record.
 
 — You the felinid who stabilized Sector B alone? — master asked.
 
@@ -925,7 +925,7 @@ Bast stopped before *Precision Maintenance* pavilion. Guild master—a man more 
 
 Bast glanced at Elian. He squeezed her hand gently with metal fingers. She turned to guild master and, firm gesture, pressed thumb to oath scanner.
 
-In that moment Bast ceased being “Wave 4 slave.” She was **Bast of Noviomagus, Grade-Three Technician**—and around her thirty thousand other destinies sealed same way—not by decree, but will.
+In that moment Bast ceased being “Wave 4 slave.” She was **Bast of Noviomagus, Grade-Three Technician** — and around her thirty thousand other destinies sealed same way — not by decree, but will.
 
 Aptitude Fair was not merely labor market; it was watershed in that people’s soul. **Axiom of Reason** demanded each individual recognize own nature. While Bast and thousands found peace in workshops and gardens, a sizable Malakor contingent felt different call: call of steel that strikes back.
 
@@ -933,7 +933,7 @@ Yard east flank, under static defense cannon shadow, atmosphere grew sterner. Th
 
 Unlike Imperium forcing abhumans into “Penal Platoons” as cannon fodder, Batavi sought **Conscious Warrior**. **Varro** descended dais and walked candidates, black wolf helm and *Crozius* exuding authority that weighted air.
 
-— **Those seeking civilian life found harbor,** — Varro’s voice roared without amplification yet thrummed chests. — **But you… you look at the Wall and see not only protection. You see debt. You see duty demanding blood and vigil. Noviomagus does not ask sacrifice from fear—but from honor.**
+— **Those seeking civilian life found harbor,** — Varro’s voice roared without amplification yet thrummed chests. — **But you… you look at the Wall and see not only protection. You see debt. You see duty demanding blood and vigil. Noviomagus does not ask sacrifice from fear — but from honor.**
 
 A colossal **Ogryn**, face cut by deep Malakor bayonet scar, stepped forward. He wore crude steel breastplate, held tower shield heavier than ordinary human.
 
@@ -948,11 +948,11 @@ Division was clear, harmonious:
 * **20,000** chose civilian life: technicians, artisans, growers, scribes. They would be fortress economic soul and life support.  
 * **10,000** chose Iron Legion: shock Ogryns, recon Ratlings, heavy infantry. They would be Chapter’s first human defense line.
 
-Day’s end, Bast watched from distance as new legionaries swore oath. Heart tightened—but Elian beside her set mechanical hand on her shoulder.
+Day’s end, Bast watched from distance as new legionaries swore oath. Heart tightened — but Elian beside her set mechanical hand on her shoulder.
 
-— Everyone guards Wall their way, Bast — he whispered. — They guard with shield. We guard making sure shield never fails—and city behind it worth defending.
+— Everyone guards Wall their way, Bast — he whispered. — They guard with shield. We guard making sure shield never fails — and city behind it worth defending.
 
-Bast looked at small wood wolf in hand. She understood now. Noviomagus Prime was not only fortress—it was pact. Draxus’s tithe had died; in its place rose society where steel and heart beat same rhythm.
+Bast looked at small wood wolf in hand. She understood now. Noviomagus Prime was not only fortress — it was pact. Draxus’s tithe had died; in its place rose society where steel and heart beat same rhythm.
 
 ### Chapter 13: Iron Marking – Birth of a People
 
@@ -964,24 +964,24 @@ Yard center: monumental brazier burned blue flames fed by refined promethium. Ar
 
 One by one, each group’s representatives advanced for **Iron Marking** ritual.
 
-Bast was first from civilian division. She walked head high, olive-leaf clasps shining under blue light. Before Varro she did not kneel from fear—she inclined head in respect. Varro dipped steel-bristle brush in paint made from iron powder and blue-gray polymer—exact shade of Batavi armor plates.
+Bast was first from civilian division. She walked head high, olive-leaf clasps shining under blue light. Before Varro she did not kneel from fear — she inclined head in respect. Varro dipped steel-bristle brush in paint made from iron powder and blue-gray polymer — exact shade of Batavi armor plates.
 
 With firm ritual stroke he painted vertical stripe on Bast’s robe left shoulder.
 
 — **Bast of Noviomagus,** — Varro sentenced. — **May your work sustain life metal protects. You are iron that supports.**
 
-Next, Ogryn who chose Iron Legion advanced. Varro applied same mark—this time on heavy armor pauldron.
+Next, Ogryn who chose Iron Legion advanced. Varro applied same mark — this time on heavy armor pauldron.
 
 — **Gorg of Noviomagus. You are iron that strikes back.**
 
 Ceremony lasted hours. Each of thirty thousand received mark. For civilians, symbol of citizenship and protection; for military, seal of new brotherhood. Iron-gray now united all, regardless of species or origin.
 
-Finally Alaric stepped forward. He drew power sword—not for combat, but salute. Blade force field hissed, throwing sparks like falling stars across dark yard.
+Finally Alaric stepped forward. He drew power sword — not for combat, but salute. Blade force field hissed, throwing sparks like falling stars across dark yard.
 
 — **Look at your comrades,** — Alaric ordered. — **On Malakor you were numbers on a cargo manifest. Here you are names defending humanity’s frontier. If enemy comes, he will find no slaves. He will find a pack that knows its own soul’s worth.**
 
-Roar erupted from crowd—not mob shout but **Wall Cry**—rhythmic sound, fists on chest, tools on shields.
+Roar erupted from crowd — not mob shout but **Wall Cry** — rhythmic sound, fists on chest, tools on shields.
 
-Bast, hand in hand with Elian—both showing gray shoulder mark—looked up. Far off, on distant parapet, she saw Alaric’s silhouette watching horizon. She clutched small wood wolf in pocket.
+Bast, hand in hand with Elian — both showing gray shoulder mark — looked up. Far off, on distant parapet, she saw Alaric’s silhouette watching horizon. She clutched small wood wolf in pocket.
 
 Noviomagus Prime was no longer only a rock in space. It was home. And for the first time, the rejected knew: if universe tried to take it, they would have thirty thousand iron reasons to say: **“No.”**

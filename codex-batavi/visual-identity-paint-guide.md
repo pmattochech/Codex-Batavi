@@ -23,14 +23,15 @@
 
 Use for **2D seal**, **decal design**, and **AI prompt** alignment — distinct from “grey plate + crimson trim” on models.
 
-**Approved rasters:** [`lore-images/chapter-seal-official.png`](lore-images/chapter-seal-official.png) — **primary chapter roundel** (author-approved framing from the IV *Quarta* vexillum art; **349×349** RGBA, **transparent outside the outer black ring** — tight square bound to the detected circle; re-run circle detect if you replace the source art). **Do not** replace with an automated re-crop from [`vexillum-vexillatio-iv-quarta.png`](lore-images/vexillum-vexillatio-iv-quarta.png) unless you re-match this framing. Legacy / flat trace target (if present in your tree): [`lore-images/chapter-seal-canonical.png`](lore-images/chapter-seal-canonical.png). **Colour law** remains the table below — do not drift palette from this raster alone.
+**Approved rasters:** [`lore-images/chapter-seal-official.png`](lore-images/chapter-seal-official.png) — **primary chapter roundel** (author-approved framing from the IV *Quarta* vexillum art; **349×349** RGBA, **transparent outside the outer black ring** — tight square bound to the detected circle; re-run circle detect if you replace the source art). **Frame on this file:** **black** ring at the outer edge of the roundel (no separate outer crimson hairline — removed from source **2026-05-25**). **Do not** replace with an automated re-crop from [`vexillum-vexillatio-iv-quarta.png`](lore-images/vexillum-vexillatio-iv-quarta.png) unless you re-match this framing. Legacy / flat trace target (if present in your tree): [`lore-images/chapter-seal-canonical.png`](lore-images/chapter-seal-canonical.png). **Colour law** remains the table below — do not drift palette from this raster alone.
 
 | Element | Generic prose | Citadel paint (reference) |
 |---------|----------------|---------------------------|
-| Roundel field (inside double ring) | **Crimson** / chapter red | **Mephiston Red** |
+| Roundel field (inside black frame ring) | **Crimson** / chapter red | **Mephiston Red** |
 | Wolf silhouette | **Black** | **Abaddon Black** |
 | Eyes (triangle lens: **105°** between **legs**, **not 90°** — **longer hypotenuse**; not equilateral) | **Helm-lens orange** / visor orange | **Troll Slayer Orange** (highlight **Fire Dragon Bright** if needed) |
-| Double ring (two concentric borders) | **Black** strokes (read on crimson field) | **Abaddon Black** (thin ring weight) |
+| Frame ring (outer edge of roundel on approved raster) | **Black** stroke — crimson field inside, transparent outside | **Abaddon Black** (thick ring weight) |
+| Double ring (ideal / AI prompt target) | Two **black** concentric strokes | **Abaddon Black** (both rings) |
 | Gladius (blade + hilt body) | **White** fill | **White Scar** |
 | Gladius contour (full sword) | **Black** outline on **blade and hilt** | **Abaddon Black** (thin outline) |
 | Zigzag water lines | **Black** main zigzags + **white** (default) or **helm-lens orange** accent stripe — **not** crimson-on-red | **Abaddon Black** lines + **White Scar** or **Troll Slayer Orange** accent |
@@ -49,6 +50,7 @@ AI-generated **starting points** for commissions, paint tests, and SM2/mod facsi
 
 | Subject | File | Notes |
 |---------|------|--------|
+| **Chapter seal — B&W (Illustrator)** | [`lore-images/chapter-seal-official-bw-8192.png`](lore-images/chapter-seal-official-bw-8192.png) · [`chapter-seal-official-bw-8192-pure.png`](lore-images/chapter-seal-official-bw-8192-pure.png) · [`chapter-seal-official-bw-8192-on-white.png`](lore-images/chapter-seal-official-bw-8192-on-white.png) · [`chapter-seal-official-bw-8192.svg`](lore-images/chapter-seal-official-bw-8192.svg) | **8192×8192** Lanczos upscale from [`chapter-seal-official.png`](lore-images/chapter-seal-official.png), then B&W: **black** = wolf, rings, waves, eyes; **white** = roundel + gladius fill. **8192.png** = smooth gray anti-alias (best **Image Trace**). **pure** = hard B&W without blocky pixels. **SVG** = potrace starter. Avoid **4096-crisp** (nearest-neighbor — pixelated at zoom). |
 | **Varro** (Master Chaplain / Judex) | [`lore-images/varro-chaplain-judex.png`](lore-images/varro-chaplain-judex.png) | Absolute black plate, crimson pauldrons + gauntlets, rib-grille chest, cowled **Executor** wolf-skull helm (**post–CV y13**), blood-red lenses, Furor stripe on skull. Early Foundation War: ***Codex* death-skull** before adoption beat. **Other Chaplains:** default ***Codex* skull**; wolf-skull only with ***licentia lupina***. Full spec: [`dossier-varro.md`](personae-command-index/character-dossiers/triumvirate/dossier-varro.md) §2–§3. |
 | **Drusus** (Chief Apothecary) | [`lore-images/drusus-chief-apothecary.png`](lore-images/drusus-chief-apothecary.png) | Grey base, surgical white right arm / helm / pack, crimson pauldrons (white edge right), multi-lens helm, Furor stripe, red left gauntlet. [`dossier-drusus.md`](personae-command-index/character-dossiers/triumvirate/dossier-drusus.md) §2–§3. |
 | **Otho** (Chief Librarian / Blood Augur) | [`lore-images/otho-chief-librarian.png`](lore-images/otho-chief-librarian.png) | Grey–crimson *Librarius*, third-eye cluster, stave. [`dossier-otho.md`](personae-command-index/character-dossiers/council-orders/dossier-otho.md) §2–§3. |

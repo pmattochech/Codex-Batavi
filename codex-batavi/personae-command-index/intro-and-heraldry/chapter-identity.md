@@ -2,7 +2,9 @@
 
 # Der Batav’s Forge: Myth and Heraldry of the Cohors Batavorum
 
-As ethnographer and historian of the *Cohors Batavorum*, I consolidate below the canonical records on the Chapter’s etymology, heraldry, and specialization, grounded in the *Der Batav* myth and the liberation of the Aethelgard system. **On open Imperial registers, Founding designation and formal progenitor chapter are unknown or redacted**; observers note **Russ-line–adjacent** phenotype with **non-standard second-strand variance** consistent with stabilised **chimeric** Primaris architecture — layered detail in [`progenitor-classification.md`](../doctrine-and-organs/progenitor-classification.md). This account treats **native Noviomagus culture** as the civic frame the Astartes now defend, without asserting a single parent Chapter on the tithe record.
+As ethnographer and historian of the *Cohors Batavorum*, I consolidate below the canonical records on the Chapter’s etymology, heraldry, and specialization, grounded in the *Der Batav* myth and the liberation of the Aethelgard system.
+
+**Foundation narrative (canonical serial):** [`../../chronicles/foundation-war/INDEX.md`](../../chronicles/foundation-war/INDEX.md) — witness naming (*Tide Names*) and council ratification (*Der Batav Council*) in Q4; myth synthesis [`../../lexicon-and-litanies/der-batav-myth-foundation.md`](../../lexicon-and-litanies/der-batav-myth-foundation.md) §IV (dual receipt). **On open Imperial registers, Founding and formal progenitor are unknown only** — phenotype may read as **wolf-marked** or **legion-echo chimerism**; the Chapter **does not** pursue parent-Legion receipts and counts **only the Emperor** as ancestor in its own voice. Layered detail: [`progenitor-classification.md`](../doctrine-and-organs/progenitor-classification.md). **Insula Tenebrarum** / **Castra Vetera** is **golden ground** where the Chapter **became itself**, not a shadow hunting identity — see [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). This account treats **native Noviomagus culture** as the civic frame the Astartes now defend.
 
 ---
 

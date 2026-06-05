@@ -6,6 +6,8 @@
 **Archetype:** Industrial beast / living wall  
 **Estimated age:** ~580 Terran years (Foundation War veteran)
 
+**Canonical crucible serial:** [`../../../chronicles/foundation-war/INDEX.md`](../../../chronicles/foundation-war/INDEX.md). **Wound tags (earned):** Execratio fall/return ~**CV y19** — [`the-beast-chapter/chapter.md`](../../../chronicles/foundation-war/Q3-gulf-and-beast/the-beast-chapter/chapter.md); ***We hold anyway*** at **CV y28** — [`we-hold-anyway/chapter.md`](../../../chronicles/foundation-war/Q4-der-batav/we-hold-anyway/chapter.md); **priority holds** / MoI partial close — [`the-core-refuses/chapter.md`](../../../chronicles/foundation-war/Q4-der-batav/the-core-refuses/chapter.md); **continue** at council — [`der-batav-council/chapter.md`](../../../chronicles/foundation-war/Q4-der-batav/der-batav-council/chapter.md).
+
 ## 1\. PSYCHOLOGICAL AND COMMAND PROFILE
 
 Alaric embodies “pragmatic grimdark.” He is not a speech-giver but a presence. Authority radiates from war geometry: belief victory is an equation of positioning and endurance.
@@ -18,7 +20,7 @@ Alaric embodies “pragmatic grimdark.” He is not a speech-giver but a presenc
 
 **Who knew:** Only **Varro** held, ahead of the public proclamation, a *Reclusiam* sealed attestation: when the **Chapter Master** seat must pass, the warrant prefers **Throne-ward loyalty**, **Strategium-wide** fitness, and a **broad** leadership read — not a **single** axis **duelist** or **lone** campaign scoreboard. **Alaric was not read in.** The nomination to **Chapter Master** (then **Castellan** title) landed as a **genuine** **surprise**; he had filed himself as a **line** officer, not a **crowned** name.
 
-**Valerius (contrast, public ledger):** **Valerius** was the **stronger** **warrior** in **direct** **comparison** and **more** **successful** on **victory** and **operational** tallies the ranks could **see** — see [dossier-valerius.md](../expunged/dossier-valerius.md). The **seal** was not a repudiation of that excellence; it was a **bet** on **another** test: the **heir** who could **hold** **all** levers of **command** (doctrine, logistics, *Axiom* chain, fealty to the **Emperor** above *personal* glory) at **exceptional** level, **not** the **greatest** **blade** or **highest** **trophy** **count** **alone**. Alaric is **excellent** **across** each **vector**; he is **not** the Chapter’s **pure** **champion** in the way **Valerius** was on **paper**—and **never** needed to be for the **warrant** Varro witnessed.
+**Valerius (contrast, public ledger):** **Valerius** was the **stronger** **warrior** in **direct** **comparison** and **more** **successful** on **victory** and **operational** tallies the ranks could **see** — see [dossier-valerius.md](../expunged/dossier-valerius.md). The **seal** was not a repudiation of that excellence; it was a **bet** on **another** test: the **heir** who could **hold** **all** levers of **command** (doctrine, logistics, *Axiom* chain, fealty to the **Emperor** above *personal* glory) at **exceptional** level, **not** the **greatest** **blade** or **highest** **trophy** **count** **alone**. Alaric is **excellent** **across** each **vector**; he is **not** the Chapter’s **pure** **champion** in the way **Valerius** was on **paper** — and **never** needed to be for the **warrant** Varro witnessed.
 
 *Reader note (OOC):* This is **incompatible** with “Alaric and Varro both **kept a secret** they **shared** **before** nomination”; only **Varro** held the **sealed** file until the **act**.
 

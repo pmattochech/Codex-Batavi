@@ -48,7 +48,7 @@ The sergeant ran the tally the way Needles had taught him: six youths, two veter
 
 One youth — the youngest, still wearing a training cut on his knuckle guard that had not yet earned a story — breathed through his rebreather filter and whispered a question the sergeant pretended not to hear.
 
-— **If the Lost is already out here—**
+— **If the Lost is already out here — **
 
 — **Then we hold our line** — the sergeant said. — **And we do not become a second problem.**
 
@@ -112,7 +112,7 @@ He dropped to one knee over the print the way he had knelt over the meat — not
 
 Brother **Kaelen** swallowed audibles the filter could not hide.
 
-— **Sergeant** — he said — **the smear on this one. It’s not only cult residue. It’s—**
+— **Sergeant** — he said — **the smear on this one. It’s not only cult residue. It’s — **
 
 — **It’s above your pay grade** — the sergeant said, not cruel, **exact**. — **Hold line geometry. We do not pursue solo heat.**
 

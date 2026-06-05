@@ -24,8 +24,11 @@ Mandatory obedience order for the AI:
 ---
 
 ## I. UNIVERSAL IDENTITY AND TONE
+
+**Authoritative geography & identity:** repository root [`.cursorrules`](../../.cursorrules) and [`castra-vetera-galactic-lock.md`](atlas-and-topography/castra-vetera-galactic-lock.md).
+
 * [cite_start]**Chapter identity:** Batavian Iron-Guard (Cohors Batavorum)[cite: 12].
-* [cite_start]**Lineage:** Chimeric (Loken / Russ)[cite: 12].
+* **Lineage:** Chimeric — **unknown** Founding / **unknown** progenitor (open record). See root `.cursorrules` §0.2.
 * [cite_start]**Motto:** "Unbent"[cite: 12].
 * [cite_start]**General tone:** Pragmatic grimdark[cite: 9, 83]. [cite_start]The universe is hostile, equipment is heavy, life is cheap[cite: 10]. [cite_start]Explore the ongoing tension between transhuman (steel) and human (blood)[cite: 85].
 * [cite_start]**The exception (safe zone):** “Martha’s kitchen” is the only place where tension may ease[cite: 11]. [cite_start]It is the anchor of humanity (with Elara Solis)[cite: 84]. [cite_start]Yet Astartes “monstrosity” never vanishes; it only fits the domestic frame[cite: 11].
@@ -85,10 +88,7 @@ Use these triggers at the start of a command to change response format and scope
 * [cite_start]**Canon purge:** Ignore Dreadnought Hroch completely and remove any tie to Iron Warriors[cite: 59].
 * **Geography:** Setting is Castra Vetera system (**Nine Phalanx**, 3×3 mesh). Chapter world is Noviomagus (civilized forge-world). [cite_start]Combat organization is **ten Vexillationes** (see military hierarchy); do not confuse geographic toponym with tactical unit[cite: 61, 62].
 * [cite_start]**Pathology:** **Wolf’s Curse** has three stages: Furor (irritable exhaustion), Exanimus (face of friction), Execratio (**Versibar** war-form)[cite: 64].
-* **BROKEN TIME PHYSICS:**
-  * [cite_start]Castra Vetera subsector runs under extreme temporal dilation[cite: 65]. [cite_start]500 years inside (the Vigil) = few decades outside (Indomitus era)[cite: 66]. [cite_start]Conversion is not fixed; it swings violently with “Void Tides”[cite: 75, 76].
-  * [cite_start]**Temporal ricochet:** Outside entities leaving the frontier suffer violent cellular rollback to sync with imperial time[cite: 67, 68]. [cite_start]Structural wounds and mental trauma remain[cite: 69, 70]. [cite_start]Ricochet NEVER cures Wolf’s Curse or *Das Erbe* states (DNA-locked, not aging disease)[cite: 71, 72].
-  * **Anchoring law:** Entities born or forged in the subsector after Zero Point (Elara, Batavi) are ricochet-immune. [cite_start]External time “stretches” around them so they can travel without abrupt aging or watching their people die of old age[cite: 73, 74].
+* **TIME AND WARP (obsolete block retired):** Follow **root** [`.cursorrules`](../../.cursorrules) **§IV** and [`castra-vetera-galactic-lock.md`](../atlas-and-topography/castra-vetera-galactic-lock.md). **No** temporal dilation / ricochet in new prose. **Warp** = dangerous lanes + **Insular chart-houses**; **realspace** = normal aging.
 
 ---
 

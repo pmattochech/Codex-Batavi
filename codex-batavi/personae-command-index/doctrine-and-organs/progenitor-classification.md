@@ -4,7 +4,7 @@
 
 **Workspace enforcement:** The same rules are summarized as mandatory AI/author instructions in **`.cursorrules` §0.2** (repository root).
 
-**Related:** [intro-and-heraldry.md](../intro-and-heraldry/chapter-identity.md) · [technical-datasheet.md](technical-datasheet.md) · [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) · outsider-knowledge worksheet (backlog): [`FOUNDING-OUTSIDER-KNOWLEDGE-PLAN.md`](../../FOUNDING-OUTSIDER-KNOWLEDGE-PLAN.md) · Space Wolves / Traitor framing (backlog): [`SPACE-WOLVES-TRAITOR-RELATIONS-PLAN.md`](../../SPACE-WOLVES-TRAITOR-RELATIONS-PLAN.md)
+**Related:** [intro-and-heraldry.md](../intro-and-heraldry/chapter-identity.md) · [technical-datasheet.md](technical-datasheet.md) · [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) · [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md)
 
 ---
 
@@ -12,24 +12,28 @@
 
 Use this layer for **broad-facing** descriptions, infobox-style summaries, and dialogue where the speaker only has **standard** archives.
 
-* **Founding:** **Unknown** or **redacted** on every register the Chapter has been shown. Do not assert a numbered Founding with a named progenitor Chapter unless a story beat explicitly introduces forged or leaked paperwork.
-* **Progenitor chapter:** **Unknown** / **not disclosed**. Outsiders may **guess** Space Wolves–line or Cawl-era Primaris stock; the Chapter **does not confirm** a single parent Chapter on the open record.
-* **Phenotype:** Battlefield and *Apothecarion* observers note **Russ-line–adjacent** markers **plus** **non-standard variance** — second expression profile that does not map cleanly to Fenris baselines. Open rolls may state **documented chimeric expression** on high clearance; they **must not** assert named parent pools the Chapter does not possess.
-* **Do not** state on this layer: Sons of Horus successor, Traitor Legion gene-seed, or “we descend from the XVI Legion.” Heraldry may **echo** old **frontal-wolf** transfer legibility **as art history** — not as a gene-seed receipt.
+* **Founding:** **Unknown** or **redacted** on every register the Chapter has been shown.
+* **Progenitor chapter:** **Unknown** / **not disclosed** — **only** acceptable public label. Outsiders may **guess** any Legion or Cawl-era stock; the Chapter **does not confirm** a parent Chapter.
+* **Phenotype:** Observers may note **wolf-marked** or **legion-echo** chimeric Primaris traits. Open rolls may mention **stabilised chimeric expression** on high clearance — **must not** name a single parent pool, **Russ-line**, or **Fenris** as fact.
+* **Chapter stance:** Multi-imprint mystery is **accepted** and **ignored** for morale — not a quest to recover “true” template genealogy. **Only ancestor** counted in Batavi voice: the **Emperor**.
+* **Post-crucible filing:** The **origin hunt** (early-war Administratum curiosity, Mechanicus audit pressure) is **buried policy** by ~**CV y29** — crucible cost and **witness naming** replace genealogy as identity receipt. Open record stays **unknown / undisclosed**; **resemblance** may be noted, never receipted.
+* **Do not** state on this layer: Sons of Horus successor, Traitor Legion gene-seed, XVI descent, confirmed Space Wolves progenitor. Heraldry **echo** is **art history**, not a receipt.
+
+### Space Wolves pressure (dialogue beat)
+
+If a Space Wolf cites **wulfen** or wolf marks as **Russ proof**, Batavi may answer (flat tone): look again — **every old Legion** can be read in their plate if one insists; **formula does not matter**; **only the Emperor** counts as ancestor. **Still file unknown** on the tithe scroll.
 
 ---
 
 ## Layer 2 — Sealed *Apothecarion* / Triumvirate (Vermilion and internal codices)
 
-**Chimerism is medically certain** — not a rumour, not a Fenris-adjacent guess. *Medicinae* can reproduce the dual-expression failure modes in tissue; the Chapter **is** a stabilized chimera.
+**Chimerism is medically certain.** **Complete donor manifest is not** — no authoritative list of which vault lines merged.
 
-What **no one** in the Chapter holds — including **Triumvirate**, **Master of the Forge**, and post–048.M42 sealed synthesis — is a **complete donor manifest**: which gene-pools, which vault lines, which Mechanicum merge receipts built the architecture. Cawl-era integration logs were **never disclosed** to Noviomagus at full resolution; surviving forge copies are **fragmentary or redacted**. Drusus’s **Strand α / Strand β** model is a **working map of behaviour**, not a sequenced pedigree.
+* **Functional shorthand (plain language):** **primary scaffold**, **secondary imprint**, **treason-sensitivity axis**, **Mournival-pattern** where clinical precision is needed.
+* **Forbidden in new/edited prose:** **Strand α**, **Strand β**, **Russ-line–adjacent** as taxonomy.
+* **Institutional honesty:** Triumvirate may say *we are chimera*; they **cannot** say *we are X crossed with Y* without leak or forgery.
 
-* **Chimeric architecture (internal shorthand — functional, not receipt):**
-  * **Strand α:** Primary scaffold **compatible with Russ-line** physiology and stabilisation expectations (Cawl-era Primaris frame) — **inferred**, not proven by tithe scroll.
-  * **Strand β:** **Secondary** component carrying **treason-imprint sensitivity** — basis of the Cull and related “judge” responses. Internally described as **Mournival-pattern** or **archival tactical genotype** where a technical lexicon is needed; **not** filed as “Traitor Legion stock” *per se* because **no authoritative pool name exists in Chapter custody** — only phenotype and hazard.
-* **Institutional honesty:** Batavi may say, in sealed rooms, *we are chimera*; they **cannot** say *we are X crossed with Y* without forgery or leak. Unknown pools are **policy and fact**, not performance.
-* **Loken Passage:** **Astrographic toponym only.** No implication that the corridor is named for gene-lineage confirmation on open record.
+**Belisarius Cawl** as reactive-template architect — **sealed conviction**; not open-record fact unless scene grants intel.
 
 ---
 
@@ -37,19 +41,20 @@ What **no one** in the Chapter holds — including **Triumvirate**, **Master of 
 
 | POV | May say (examples) | Should avoid unless scene is sealed briefing |
 |-----|-------------------|-----------------------------------------------|
-| Remembrancer / outsider | “Founding unclear,” “wolf-marked Primaris,” “non-Fenris culture,” “suspected chimeric stabilisation” | Named “Loken-line inheritance” as **genetic** fact |
-| Line Battle-Brother | “Our seed fights us,” “the chimera,” “two hungers” | Primarch laundry lists, “two primarchs” |
-| Drusus / Triumvirate (internal) | Strand α/β, chimeric predisposition axes, Mournival-pattern imprint | Broadcasting full archival theory to outsiders without plot reason |
+| Remembrancer / outsider | “Founding unknown,” “wolf-marked Primaris,” “suspected chimeric stabilisation” | Any **confirmed** parent Legion or Russ line |
+| Line Battle-Brother | “Our seed fights us,” “the chimera,” “legion-echo,” “two hungers” | Primarch laundry lists; “we are sons of X” |
+| Drusus / Triumvirate (internal) | Primary/secondary imprint axes, chimeric predisposition, Mournival-pattern | Broadcasting full theory to outsiders without plot reason |
 
-**Principle:** Characters **discover** and **theorise** on a timeline; early M42 ignorance stays valid per existing causality rules. After ~048.M42, Drusus’s formal taxonomy (chimeric predisposition named) belongs in **clinical** and **Triumvirate** scenes.
+**Principle:** Linear discovery per causality rules. Early M42 ignorance stays valid.
 
 ---
 
 ## Writer’s crib (out-of-universe)
 
-* **Garviel Loken** remains valid as **historical quotation** or **literary parallel** where a character cites Mournival-era text — that is **not** the same as an Administratum gene-seed label.
-* **Prompt-generation markdown** under `lore-images/` may keep separate tool wording; it is **not** in-universe canon.
+* **Garviel Loken** — attributed quotation / historical parallel only.
+* **Retired astrographic names** (*Porta Nihili*, *Loken Passage*) — legacy fiction only; new atlas uses **Insula Tenebrarum**, **marsh channels**, **Witness Ford** ([`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md)).
+* **`lore-images/`** — tooling, not in-universe canon unless stated.
 
 ---
 
-*Last aligned with: lineage reframe (unknown founding / open record) — see repository history.*
+*Last aligned: Insula Tenebrarum lock — unknown-only open record; Strand labels retired.*

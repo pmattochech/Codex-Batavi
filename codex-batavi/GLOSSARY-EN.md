@@ -21,11 +21,15 @@ Use when writing or editing English prose. Extend as you go.
 | Silent Vigil | **~100-year** corridor era post–Malakor V (**050–150.M42** in primary annals); weight was **clinical**, not dome-time dilation |
 | Iron Venus | Elara epithet |
 | Nine Phalanx | 3×3 system mesh (Castra Vetera) |
-| **CV annals / CV y\*** | Subjective year reckoning **inside** Castra Vetera operations; **primary** timeline for the Foundation crucible. **~M42** entries are **approximate** Imperial cross-filings — see `master-chronology.md` addendum. |
-| **Foundation War (serial)** | Thirty-eight chapters in `chronicles/00-foundation-war/`; staff pole summary and links: `personae-command-index/events-and-chronologies/foundation-war.md`. |
-| ***Lex Ignis*** | Mechanicus exploration / audit **battlegroup** (Genetor **Threx**, cog-channel “compliance is efficiency”) threaded through the Foundation serial from Ch.1 — **friction partner**, not Batavi **motto** doctrine. |
+| **CV annals / CV y\*** | **Castra Vetera** operational year reckoning; **primary** timeline for the Foundation crucible. **~M42** entries are **approximate** Imperial cross-filings (**Chronostrife**, **warp-leg** variance) — **not** time dilation. See `master-chronology.md` addendum. |
+| **Foundation War (serial)** | Canonical slug tree: [`chronicles/foundation-war/INDEX.md`](chronicles/foundation-war/INDEX.md) (Q0 prelude + 38 chapters). Legacy archive: `chronicles/00-foundation-war/`. Staff pole summary: [`foundation-war.md`](personae-command-index/events-and-chronologies/foundation-war.md). |
+| ***Lex Ignis*** | Mechanicus exploration / audit **battlegroup** (Genetor **Threx**, cog-channel “compliance is efficiency”) threaded through the Foundation serial from Ch.1 — **friction partner**, not Batavi **motto** doctrine. Dossier: [`dossier-threx.md`](personae-command-index/character-dossiers/supporting/dossier-threx.md). |
 | **Nine poles (crucible)** | Operational enemy-and-terrain **lattice** across Castra Vetera; table in `foundation-war.md`; design map in `FOUNDATION-WAR-RETCON-PLANNING.md`. |
-| ***Instrumentum Solum*** | Closing **tool-only** doctrine of the crucible — serial finale *Instrumentum Solum* (`chapter-38-instrumentum-solum.md`). |
+| ***Instrumentum Solum*** | Closing **tool-only** doctrine of the crucible — serial finale [`instrumentum-solum/chapter.md`](chronicles/foundation-war/Q4-der-batav/instrumentum-solum/chapter.md): survival filed in forms heavy enough to lift fleets. |
+| **Shared Sweat** | Moral debt to mortals who labored beside the wall; named in staff briefings before statute — preview in crucible coda [`instrumentum-solum/chapter.md`](chronicles/foundation-war/Q4-der-batav/instrumentum-solum/chapter.md); post-crucible bridge in [`master-chronology.md`](personae-command-index/events-and-chronologies/master-chronology.md) §II. |
+| **Der Batav** | Native **verdict** (*the iron that stayed*), not Administratum brand — witness shout [`tide-names/chapter.md`](chronicles/foundation-war/Q4-der-batav/tide-names/chapter.md); council ratification [`der-batav-council/chapter.md`](chronicles/foundation-war/Q4-der-batav/der-batav-council/chapter.md). Myth file: [`der-batav-myth-foundation.md`](lexicon-and-litanies/der-batav-myth-foundation.md). |
+| **witness routes only** | Margin law / folk liturgy: testimony and escort manifests stay **parallel** — no sample transit without escort manifest parity; spreads from tender spine graffiti to Chapter habit (Q4 cluster). |
+| **parallel filing** | Staff immune grammar: two ledgers under one timestamp (e.g. Mechanicus salvage assertion beside Navy escort losses) — **DO NOT MERGE** grief into throughput. |
 | Friction Geometry | Primary tactical doctrine |
 | Axiom of Reason / *Axioma Rationis* | Latin styled where established |
 | Triumvirate | Alaric, Drusus, Varro |
@@ -67,7 +71,7 @@ Use when writing or editing English prose. Extend as you go.
 | ***Curia Vexilli*** | Banner court per vexillatio I–IX: **Legatus** + **Genetor Vexilli** + **Confessor Vexilli** (parallel review) |
 | **Genetor Vexilli** / **Confessor Vexilli** | Senior *Medicinae* / *Reclusiam* seats on the vex banner court — fenced lanes |
 | **Genetor Primus** / **Confessor Primus** | Chapter-wide *Medicinae* / *Reclusiam* delegates (promoted from **Genetor Vexilli** / **Confessor Vexilli**); co-sign depth/rotation tables — **not** Legati |
-| **Strand α / Strand β** | Sealed *Apothecarion* shorthand for the two components of chimeric gene-architecture — [`progenitor-classification.md`](personae-command-index/doctrine-and-organs/progenitor-classification.md) |
+| **Primary scaffold / secondary imprint** | Sealed *Apothecarion* plain-language shorthand for chimeric gene-architecture ( **obsolete:** Strand α / Strand β ) — [`progenitor-classification.md`](personae-command-index/doctrine-and-organs/progenitor-classification.md) |
 | Martha’s kitchen | Human anchor location |
 | **Industrial grey** / **crimson** (prose) | Generic plate wording. Citadel mapping: *Mechanicus Standard Grey*, *Mephiston Red* — [**visual-identity-paint-guide.md**](visual-identity-paint-guide.md). |
 | Varro (visual) | **Executor wolf-skull helm** (cowled), **Judex** role — adopted **after** Triumvirate **Exanimus** stabilization (**Foundation War**, **CV y13** / *Exanimus Choir*); before that, standard ***Codex* Chaplain death-skull**. **Other Chaplains:** ***Codex* death-skull** by default; **Executor** wolf geometry **only** with Varro’s ***licentia lupina***. Art ref [`lore-images/varro-chaplain-judex.png`](lore-images/varro-chaplain-judex.png) ([`visual-identity-paint-guide.md`](visual-identity-paint-guide.md) § Reference art) |
@@ -94,9 +98,14 @@ Use when writing or editing English prose. Extend as you go.
 | **First weld** | **Salvage claim** theology — first sustainable weld to wreckage |
 | **Calibration saint** | Folk **engineer-saint** — torque/dosage/mirror blessing; Mechanicus tolerance varies |
 | **Delay saint** | Martyr figure who **held** relay/beam past safe duty — **Marco de Vetra** mythology |
-| Gate / Outer Gate | Informal symbolic frame; disambiguate from ***Porta Nihili*** |
-| *Nihili Protocol* | Final containment: Blackstone Pylon cascade; Tyvar’s activation judgment |
-| ***Porta Nihili*** | Latin geographic/strategic designation — Castra Vetera + Loken Passage (post-175.M42) |
+| **Insula Tenebrarum** | Fan subsector — **Castra Vetera** polity, **Ultima** / **Nihilus** — [`castra-vetera-galactic-lock.md`](atlas-and-topography/castra-vetera-galactic-lock.md) |
+| **Witness Ford** | Outward physical choke — convoy triage before inward routing |
+| **Forge / Tempest / Crown Marsh Channel** | Triangle warp routes between the three macro-systems — **lethal** without sealed coffin data |
+| **Insular chart-houses** | **Navis Nobilite** covenants **bonded to Castra Vetera**; hold sealed **coffin ledgers** for **Witness Ford** + marsh channels. **Required** for survivable warp in/out of the subsector — generic Nobilite without local charts = statistical death |
+| **Tenebrarum Ribbon** | Regional warp storm — outward empyrean cheek of the delta |
+| Gate / Wall against the tide | Chapter role — **filter**, not galactic treasure door |
+| *Nihili Protocol* | Final containment: Blackstone Pylon cascade; Tyvar’s activation judgment (name **not** the subsector designation) |
+| ***Porta Nihili*** / **Loken Passage** | **Retired** — legacy chronicles only; do not use in new atlas/wiki prose |
 | **Bottle Fair** | Informal multi-world trade window (often **Golden Grain Station** / **Atlas** load-swap); **bottle creole** haggle — prose e.g. [bottle-fair-yarn.md](chronicles/09-frontier-life/bottle-fair-yarn.md) |
 | *Vermilion* | File classification tier |
 | *Iron Belly* | *Bovine-Mass* freighter (legacy chronicle reference) |

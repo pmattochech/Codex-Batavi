@@ -26,29 +26,38 @@ Mandatory obedience order for the AI:
 * **Chronicle default form (`codex-batavi/chronicles/`):** Write chronicles as **novel/literary prose by default** (scene-forward narrative, not report/wiki body) unless the user explicitly orders another format for that specific write.
 * **Legacy:** Do not silently rewrite stable prose outside an assigned batch or explicit request (see [`TRANSLATION-HYBRID.md`](TRANSLATION-HYBRID.md)).
 * ***Warhammer 40,000*:** Keep game terms, equipment names, and fixed mottoes in canonical English; internal Chapter coinages follow [`GLOSSARY-EN.md`](GLOSSARY-EN.md).
-* **Book-style dialogue (narrative Markdown in `codex-batavi/`):** When a character’s spoken line is set on its **own line** (novel / chronicle style), mark it with a **leading em dash** (—), e.g. `— Words spoken here.` **Do not** use straight quotation marks for that running scene speech. Reserve **quotes** for **documentary** use only: in-universe records, slates, orders, registries, formal *attributed* excerpts, epigraphs, or explicit “the text says …” quotation — not for ordinary dialogue in fiction.
-* **Dialogue attribution (pt-BR ABNT punctuation preference):** When adding an interlocutor tag inside the same spoken line, keep the spoken em dash style and separate the attribution with em dashes, with spaces: `— Spoken phrase — he said. — Continuation.` (Do not use `— Spoken phrase, he said. —Continuation.`)
+* **Book-style dialogue (narrative Markdown in `codex-batavi/`):** Prose is **English**, but **dialogue punctuation follows Brazilian (ABNT-style) conventions**, not US/UK quotation-mark dialogue.
+  1. **Never** use straight quotation marks (`" "`) for **running scene speech** in fiction. Always open speech with an **em dash** ( — ), not a hyphen (-) or en dash (–).
+  2. **Opening dash (new speech run):** place the em dash, then **a single space**, then the spoken words (e.g. `— Know this.` / `— Hello.`).
+  3. **Spacing for non-opening dashes:** every em dash that is **not** the line-opening speech dash must have **single spaces on both sides** (e.g. `— It is cold — he said — too cold.`).
+  4. **Closing punctuation with tag:** if the spoken line ends by handing off to the narrator’s tag, place the **period or comma after the narrator’s clause** (e.g. `— I know — he said.` or `— I know —, he said, looking away.`).
+  5. **Tag ends the sentence; speech continues:** end the narrator block with a **period**, then begin the next spoken line with a **new em dash** on a new line (e.g. `— I already finished the report — the clerk said.` then `— Can I leave now?`).
+  6. **Glyph:** always the **long em dash** ( — ). Do not substitute hyphen (-) or en dash (–).
+  7. **No closing dash at line end:** if a character’s spoken line ends and nothing else follows on that line, **do not** add a trailing em dash. *(Use em dashes at the end of the line only when they are framing a narrator interruption/tag per rule 3.)*
+* **Quotes (documentary only):** Reserve `"..."` for **documentary** text: in-universe records, slates, orders, registries, formal *attributed* excerpts, epigraphs, or explicit “the text says …” quotation — **not** for ordinary dialogue in fiction. *(If a record reproduces speech, it may use quotes; scene prose still uses the em-dash rules above.)*
 
 ### 0.2 Progenitor, gene-line, and POV — how to write from here on
 
 **Canonical expansion (layers, examples, POV table):** [`codex-batavi/personae-command-index/doctrine-and-organs/progenitor-classification.md`](codex-batavi/personae-command-index/doctrine-and-organs/progenitor-classification.md). The bullets below are **mandatory** for new or edited Markdown in `codex-batavi/` and for in-character voice when the scene’s access level matches.
 
 **Open Imperial / outsider-facing prose (Administratum tone, remembrancers, generic Astartes dialogue, wiki-style summaries):**
-* **Founding** and **formal progenitor chapter:** **unknown**, **redacted**, or **not disclosed** — do not invent a numbered Founding + parent Chapter on the public record unless the plot introduces forged or leaked documents.
-* **Phenotype:** **Russ-line–adjacent** or **wolf-marked Primaris** + **non-standard / second-strand variance**; you may **hint chimerism**, not spell out sealed archives.
-* **Forbidden** as **genetic** fact in this layer: Sons of Horus / Traitor Legion gene-seed successor; “we descend from the XVI Legion”; **Loken-line inheritance** on the tithe scroll; **“Fenrisian DNA”** or any wording that implies a **confirmed** Fenris progenitor stamp; **“two primarchs”** or primarch laundry lists from line troops.
+* **Founding** and **formal progenitor chapter:** **unknown**, **redacted**, or **not disclosed** only — do not invent a numbered Founding + parent Chapter on the public record unless the plot introduces forged or leaked documents.
+* **Phenotype:** **Wolf-marked** or **legion-echo** Primaris **chimerism** may be **observed**; do **not** label **Russ-line–adjacent**, **Fenris**, or any **single** parent Legion on the open record. The Chapter **accepts** multi-imprint mystery and **does not** pursue template genealogy in public.
+* **Forbidden** as **genetic** fact in this layer: Sons of Horus / Traitor Legion gene-seed successor; “we descend from the XVI Legion”; **“Fenrisian DNA”** or a **confirmed** Space Wolves progenitor stamp; **“two primarchs”** or primarch laundry lists from line troops. **Only ancestor** the Batavi count in their own voice: the **Emperor** (not Ministorum god-worship — see **Faith** under §I).
 * **Heraldry:** Frontal-wolf **echo** vs old Legiones transfer art is **visual history**, not a gene-seed receipt.
+* **Space Wolves (or any Legion) “proof” scenes:** outsiders may cite wolf marks; Batavi may answer that **every old Legion’s echo** can be read in their plate if one insists — **gene formula does not matter**; **Emperor** is the only ancestor that counts (see [`castra-vetera-galactic-lock.md`](codex-batavi/atlas-and-topography/castra-vetera-galactic-lock.md)).
 
 **Sealed *Apothecarion* / Triumvirate / *Vermilion* clinical prose (Drusus records, inner-circle briefings, post-048.M42 formal biology):**
-* Use **Strand α** (Russ-line–compatible primary scaffold) and **Strand β** (treason-imprint / secondary architecture) as in [`projection-aurea-wolfs-curse.md`](codex-batavi/biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) and the glossary.
+* **Chimeric architecture is certain**; **complete donor manifest is not** — use plain terms: **primary scaffold**, **secondary imprint**, **treason-sensitivity axis**, **Mournival-pattern** where a technical lexicon is needed.
+* **Forbidden terminology (all layers for new/edited prose):** **Strand α**, **Strand β**, **Strand alpha/beta**, and **Russ-line–adjacent** as phenotype shorthand.
 * **Belisarius Cawl** as architect of the reactive template is **in-universe Triumvirate / sealed conviction** — not something every outsider or early-war POV states as settled fact unless the scene grants that intel.
 
 **Chronology (voice hygiene):**
-* **Before ~048.M42:** characters do **not** use **Strand α/β** labels in dialogue or field memoirs — use “chimera,” “second thread,” “twin architecture,” etc. After **048.M42**, Drusus and archives may fix **Strand α/β**; Triumvirate scenes may use them where appropriate.
+* **Before ~048.M42:** field voices use “chimera,” “second thread,” “twin architecture,” “legion-echo” — not Strand labels. After **048.M42**, Drusus may fix formal taxonomy in **clinical** scenes — still **without** Strand α/β naming.
 
 **Fixed exceptions (do not “clean up” into mistakes):**
-* **Loken Passage** — **astrographic name only**; it is **not** proof of gene-lineage on the open record.
 * **Garviel Loken** (or **Mournival**-school) — allowed as **attributed quotation** or **historical parallel**; that is **not** an Administratum progenitor label.
+* **Legacy chronicle names** (*Porta Nihili*, *Loken Passage*) — may appear in **old** fiction; **do not** introduce them in **new** atlas, wiki, or organization prose (see galactic lock).
 * **Prompt / image-generation Markdown** under `codex-batavi/lore-images/` — **tooling**, not in-universe canon unless the user says otherwise.
 
 ### 0.3 Prompt handling — clarifying questions (**absolute**)
@@ -74,7 +83,9 @@ Resolves **Collaboration stance** (under the First Directive) **vs.** this secti
 
 ## I. UNIVERSAL IDENTITY AND TONE
 * [cite_start]**Chapter identity:** Batavian Iron-Guard (Cohors Batavorum)[cite: 12].
-* [cite_start]**Lineage:** Chimeric stabilised gene-architecture — **open Imperial record:** unknown Founding / unknown progenitor; **Russ-line–adjacent** phenotype with documented non-standard (second-strand) variance. **Sealed *Apothecarion* shorthand:** Strand α + Strand β — see [`codex-batavi/personae-command-index/doctrine-and-organs/progenitor-classification.md`](codex-batavi/personae-command-index/doctrine-and-organs/progenitor-classification.md). **Do not** present as Traitor Legion or Sons of Horus gene-seed successor in public-facing prose[cite: 12].
+* **Lineage:** Chimeric stabilised gene-architecture — **open Imperial record:** **unknown** Founding / **unknown** progenitor only; legion-echo phenotype; mystery **accepted** by the Chapter. **Do not** present as Traitor Legion or Sons of Horus gene-seed successor in public-facing prose. See [`progenitor-classification.md`](codex-batavi/personae-command-index/doctrine-and-organs/progenitor-classification.md) and [`castra-vetera-galactic-lock.md`](codex-batavi/atlas-and-topography/castra-vetera-galactic-lock.md).
+* **Faith:** Chapter **does not** treat the Emperor as Ministorum **God-Emperor** in worship. They **honor the divinity he carries** — oath, Throne-weight, **Ancestor-Sovereign** — in **40k register** only (no real-world religion names in `codex-batavi/`).
+* **Castra role:** **Wall against the tide** — filter at **Insula Tenebrarum** / **Castra Vetera** mesh; **Shared Sweat** and **war council** with **Imperial Guard** — same line of fire, plans **alongside** commanders, **respecting** chain of command.
 * [cite_start]**Motto:** "Unbent"[cite: 12].
 * [cite_start]**General tone:** Pragmatic grimdark[cite: 9, 83]. [cite_start]The universe is hostile, equipment is heavy, life is cheap[cite: 10]. [cite_start]Explore the ongoing tension between transhuman (steel) and human (blood)[cite: 85].
 * [cite_start]**The exception (safe zone):** “Martha’s kitchen” is the only place where tension may ease[cite: 11]. [cite_start]It is the anchor of humanity (with Elara Solis)[cite: 84]. [cite_start]Yet Astartes “monstrosity” never vanishes; it only fits the domestic frame[cite: 11].
@@ -94,7 +105,7 @@ Use these triggers at the start of a command to change response format and scope
 
 **Integrated perspective subroutines (Eyes of the Frontier):**
 * [cite_start]**[SANCTIONED ASTROPATH VIEW / CANTICLE OF THE BLIND]:** Fatalistic, mystical, tormented tone[cite: 38]. [cite_start]Immaterium perspective, psychic pressure, lineage spiritual weight[cite: 37].
-* [cite_start]**[NAVIS NOBILITE NAVIGATOR VIEW / THE THIRD EYE]:** Proud, aristocratic, stained by terror and exhaustion[cite: 40]. [cite_start]Stellar transit, anomalies (Singularity-Point, Loken Passage)[cite: 39].
+* [cite_start]**[NAVIS NOBILITE NAVIGATOR VIEW / THE THIRD EYE]:** Proud, aristocratic, stained by terror and exhaustion[cite: 40]. [cite_start]Stellar transit, anomalies (Singularity-Point, **marsh channels**, **Witness Ford**, **Tenebrarum Ribbon**)[cite: 39].
 * [cite_start]**[IMPERIAL NAVY ADMIRAL VIEW / THE RULE AND THE GUN]:** Military, authoritarian, cold, mathematically calculating[cite: 42]. [cite_start]Pure logistics for macro-naval strategy and sacrifice of lesser hulls to secure main advance[cite: 41, 42].
 
 ---
@@ -136,14 +147,14 @@ Use these triggers at the start of a command to change response format and scope
 
 ## IV. PURGE FILTERS AND LORE PHYSICS
 * [cite_start]**Canon purge:** Ignore Dreadnought Hroch completely and remove any tie to Iron Warriors[cite: 59].
-* **Geography:** Setting is Castra Vetera system (**Nine Phalanx**, 3×3 mesh). Chapter world is Noviomagus (civilized forge-world). [cite_start]Combat organization is **ten Vexillationes** (see military hierarchy); do not confuse geographic toponym with tactical unit[cite: 61, 62].
+* **Geography:** **Insula Tenebrarum** subsector (**Castra Vetera** polity) — **Nine Phalanx** (3×3 mesh, three macro-systems) in **Ultima Segmentum**, **Imperium Nihilus**. Delta island between **fringe void** (xenos) and **Tenebrarum Ribbon** (local warp storm). **Witness Ford** outward choke; **Forge / Tempest / Crown Marsh Channels** (triangle). Chapter world: **Noviomagus** (forge-world heart). Lock: [`castra-vetera-galactic-lock.md`](codex-batavi/atlas-and-topography/castra-vetera-galactic-lock.md). Combat organization is **ten Vexillationes** (see military hierarchy); do not confuse geographic toponym with tactical unit[cite: 61, 62].
 * [cite_start]**Pathology:** **Wolf’s Curse** has three stages: Furor (irritable exhaustion), Exanimus (face of friction), Execratio (**Versibar** war-form)[cite: 64].
 * **TIME AND CHRONOLOGY (Castra Vetera — current model):**
-  * **Dual filing:** Strategium primary annals use **Castra Vetera (CV) reckoning**; Imperial **~M42** tithe dates are **secondary** and **approximate** (Chronostrife + warp-leg variance). See [`codex-batavi/personae-command-index/events-and-chronologies/master-chronology.md`](codex-batavi/personae-command-index/events-and-chronologies/master-chronology.md) addendum.
-  * **Realspace:** Noviomagus and the **Nine Phalanx** age at **normal strategic-depth** time — **no** default “500 subjective years inside = few decades outside” **dome dilation** as story backbone.
-  * **Warp:** Approach / egress and **Navigator** theater carry **translation hazard**, **Void Tides**, and mesh weirdness (Rift × pylons × local harmonics). *Ordo Chronos* = **calendar correlation** and **routing**, not proof the forge-world runs **fast**.
-  * **Frontier-native bond (Batavi, Elara):** Born or forged in the mesh after the relevant zero point; **service and biography** follow **CV / Chapter annals**, not off-world scroll math. **Optional narrow beat:** catastrophic **boundary / mistranslation** horror — **not** cellular “ricochet rewind” as global canon unless a scene explicitly invokes a **local** exception.
-  * **Wolf’s Curse / *Das Erbe*:** Never “healed” by any time trick — DNA-locked states stay regardless of calendar filings.
+  * **Dual filing:** Strategium primary annals use **Castra Vetera (CV) reckoning**; Imperial **~M42** tithe dates are **secondary** and **approximate** (Chronostrife + **warp-leg** log variance). See [`master-chronology.md`](codex-batavi/personae-command-index/events-and-chronologies/master-chronology.md) addendum and [`castra-vetera-galactic-lock.md`](codex-batavi/atlas-and-topography/castra-vetera-galactic-lock.md).
+  * **Realspace:** Noviomagus and the **Nine Phalanx** age at **normal strategic-depth** time — **forbidden** in new prose: subsetor-wide **dome dilation**, **ricochet rewind**, **500 yrs inside = decades outside**.
+  * **Warp:** **Extremely dangerous** translation on **Witness Ford**, **marsh channels**, and Nihilus approach — **Insular chart-houses** (local Navis Nobilite covenants with sealed route ledgers) are **required** for survivable passage; generic Astro or outsider Nobilite without coffin data = **statistical death**. Hazard stack: Rift margin, **Tenebrarum Ribbon**, pylons, MoI harmonics, **Void Tides**. *Ordo Chronos* = **calendar correlation** and beacon calibration — **not** “the dome runs fast.”
+  * **Frontier-native bond (Batavi, Elara):** Born or forged in the mesh; **service biography** follows **CV annals**. Estrangement from Terra = **politics, logistics, and lethal void lanes** — not time physics.
+  * **Wolf’s Curse / *Das Erbe*:** Never “healed” by transit or calendar tricks — DNA-locked states stay regardless of filings.
 
 ---
 

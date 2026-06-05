@@ -29,7 +29,7 @@ He heard **names** that might still be **carried home** if the tide and the gree
 
 The Navy liaison on the hardline made the mistake of speaking hope because her contract required it.
 
-— **Legatus, our picket reports heat at the epicenter. Single Astartes-class signature. If your men are down there—**
+— **Legatus, our picket reports heat at the epicenter. Single Astartes-class signature. If your men are down there — **
 
 — **If my men are down there** — Sturmwahl said — **we bring back what can be named. We do not invent rescue because your picket is lonely.**
 
@@ -103,7 +103,7 @@ Varro’s cowl shifted once — assent without comfort.
 
 The Navy liaison tried again on the trunk vox, nameless in the record, voice compressed by relay discipline.
 
-— **Legatus, picket revises: the signature is active. Movement pattern consistent with melee engagement. If you wish, we can—**
+— **Legatus, picket revises: the signature is active. Movement pattern consistent with melee engagement. If you wish, we can — **
 
 — **We can burn fuel and arrive on time** — Sturmwahl said. — **Hold your picket on station. Do not interpret my dead for me.**
 
@@ -229,7 +229,7 @@ He had not heard *Einar* in the rhythm.
 
 He had heard **work**.
 
-— **Haldor with me** — he said. — **Eskil on overwatch. Varro—**
+— **Haldor with me** — he said. — **Eskil on overwatch. Varro — **
 
 — **I am with you** — the Judex said, already moving.
 
@@ -251,7 +251,7 @@ Below the crest, in the bowl of torn metal where the spine had folded inward, th
 
 **Einar**.
 
-No helm. No full plate — only chest, waist, and thigh ceramite, as if he had torn the rest away because it **slowed** the work. Sturmwahl had known him a **century** in **Furor** only — flame-pool eyes, pride that never asked for relief. What stood in the kill-bowl wore **Exanimus** for the first time: jaw brutalized forward, lower fangs past the lip line, mane erupted along the neck as if the ship had **pulled** the next stage through his skin. **Cables** and **implant loom** had **merged** into that new pelage, black against red, twitching when his shoulders turned. Dual **chainaxes** — ship-forged, ugly, efficient — painted everything within reach.
+No helm. No full plate — only chest, waist, and thigh ceramite, as if he had torn the rest away because it **slowed** the work. Sturmwahl had known him a **century** in **Furor** only — flame-pool eyes, pride that never asked for relief. What stood in the kill-bowl wore **Exanimus** for the first time: jaw brutalized forward, lower fangs past the lip line, mane erupted along the neck as if the ship had **pulled** the next stage through his skin. **Cables** and **implant loom** had **merged** into that new pelage, black against red, twitching when his shoulders turned. The **Dreadwolf Claws** — stolen lightning claw-hands from the ship — crackled at the ends of his arms like the wrong kind of inheritance.
 
 He killed **World Eaters** where they crawled from the wreck. He killed **Orks** when they lunged for the easy meat. Blood went past fresh **red hands** into **drench** — gauntlets, forearms, the stripped thighs shining wet. Fury was **uncollected**: he did not pause to see who watched. He was the most terrifying object on the moon because he was **still Batavi** in silhouette and **not** Versibar in law — and he had **not stopped**.
 
@@ -259,7 +259,7 @@ He killed **World Eaters** where they crawled from the wreck. He killed **Orks**
 
 — **Hold** — the Legatus said, without looking at him. — **Hold is mine to spend.**
 
-On the bowl floor a World Eater dragged himself by one arm, trail bright behind him, mouth working sound that was not a battle cry anymore — only appetite failing upward. **Einar** turned. Chainaxe bit. The traitor’s body **separated** along a line the *Codex* did not teach and the Needles did not need to name: economy. Finish. Next.
+On the bowl floor a World Eater dragged himself by one arm, trail bright behind him, mouth working sound that was not a battle cry anymore — only appetite failing upward. **Einar** turned. Talon-hands bit. The traitor’s body **separated** along a line the *Codex* did not teach and the Needles did not need to name: economy. Finish. Next.
 
 The rhythm did not break.
 
@@ -277,7 +277,7 @@ Varro stood a half-pace back from the crest line, cowl still, crimson hands loos
 
 — **Judex** — Sturmwahl said, low. — **Tell me what you see.**
 
-A long beat. Chainaxes. Ork squeal cut short. Brass wind.
+A long beat. Crackle and wet separation. Ork squeal cut short. Brass wind.
 
 — **I see a cage that almost broke** — Varro said. — **I see two beasts leashed by the same hands. I see not Versibar.**
 
@@ -289,13 +289,13 @@ The geometry was **correct**. One monster fewer. Funeral rites spared. Brothers 
 
 Haldor’s voice came harder now — discipline cracking along a seam Sturmwahl recognized because he had heard it in his own chest once, long ago, when the numbers said save the mission and the face said save the man.
 
-— **Legatus—**
+— **Legatus — **
 
 — **I know his face** — Sturmwahl said.
 
 He did not say *I know his soul*. That was Varro’s ledger. He said **face** because faces were what Legatuses were allowed to mourn without heresy.
 
-**Einar** killed again — an Ork who had not yet learned the kill-bowl was no longer its territory. The chainaxe went up, came down, and the spray hit brack mud with the sound of tide hitting stone: familiar, obscene, **home**.
+**Einar** killed again — an Ork who had not yet learned the kill-bowl was no longer its territory. The talons rose, fell, and the spray hit brack mud with the sound of tide hitting stone: familiar, obscene, **home**.
 
 Sturmwahl took one step down the fused spine.
 
@@ -321,9 +321,9 @@ He stood in the center of the kill geometry — chest heaving, cables twitching 
 
 *Do you end me now?*
 
-**Einar** dropped both chainaxes.
+**Einar** let the claws go dark.
 
-They hit the mud without ceremony.
+He flexed once, as if testing whether his hands still belonged to him.
 
 The silence after was louder than the chains had been.
 
@@ -347,7 +347,7 @@ Sturmwahl did not demand it. He had heard the **cadence**. That was enough for t
 
 — **Then we carry what remains** — he said. — **All of them. The shell comes after.**
 
-**Einar** nodded once — the same economy he used on chainaxes.
+**Einar** nodded once — the same economy he used on slaughter.
 
 ---
 
@@ -381,7 +381,7 @@ Varro listened the way he listened to battle — without encouraging the story t
 
 — **Name the first.**
 
-— **Stenmark.** No pause. — **He asked for it with his eyes. The ship had already opened his chest. Nails were next. I used his chainaxe. Ship steel. He would have wanted the irony if irony still existed.**
+— **Stenmark.** No pause. — **He asked for it with his eyes. The ship had already opened his chest. Nails were next. I used what I could steal — the claws. Ship steel. He would have wanted the irony if irony still existed.**
 
 Varro’s cowl did not move.
 
@@ -505,9 +505,9 @@ Drusus did not lie with hope. He lied with **precision**.
 
 ### Judex watch — *Amissi* induction
 
-No announcement. A slate addendum: **Einar** on **The Lost** (*Amissi*) roster — **first of The Lost** — under **Varro** direct authority; **Steppenwolf** detached registry **unchanged** on the tallies (**not** Legatus-owned closure cadre). **Varro** on every mission line; gene-seed on death per **Vermilion** protocol — harvest if clean, **destroy** if corrupt, **no** living tithe. Full armor refit (Mk X Tacticus, thunder-claws, *Amissi* heraldry) filed post-debrief — see [amissi-the-lost.md](../../personae-command-index/doctrine-and-organs/amissi-the-lost.md) · [steppenwolf-doctrine.md](../../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) §5.1.
+No announcement. A slate addendum: **Einar** on **The Lost** (*Amissi*) roster — **first of The Lost** — under **Varro** direct authority; **Steppenwolf** detached registry **unchanged** on the tallies (**not** Legatus-owned closure cadre). **Varro** on every mission line; gene-seed on death per **Vermilion** protocol — harvest if clean, **destroy** if corrupt, **no** living tithe. Full armor refit (Mk X Tacticus, **Dreadwolf Claws**, *Amissi* heraldry) filed post-debrief — see [amissi-the-lost.md](../../personae-command-index/doctrine-and-organs/amissi-the-lost.md) · [steppenwolf-doctrine.md](../../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) §5.1.
 
-The first live exercise was not Armageddon — not yet — but a traitor splinter bled off a reef convoy in the Aethelgard theater, heretics wearing stolen Aquila plate and the confidence of men who thought the frontier was too tired to judge them. **Einar** went in full **Mk X Tacticus** — *Amissi* heraldry, **thunder-claws** engaged, **Mk V** bowl under cowl. **Haldor** and **Eskil** flanked at distance. **Varro** walked the center line behind **Einar** like a shadow that had learned to weigh the same ounces as a blade.
+The first live exercise was not Armageddon — not yet — but a traitor splinter bled off a reef convoy in the Aethelgard theater, heretics wearing stolen Aquila plate and the confidence of men who thought the frontier was too tired to judge them. **Einar** went in full **Mk X Tacticus** — *Amissi* heraldry, **Dreadwolf Claws** engaged, **Mk V** bowl under cowl. **Haldor** and **Eskil** flanked at distance. **Varro** walked the center line behind **Einar** like a shadow that had learned to weigh the same ounces as a blade.
 
 When the killing finished, **Einar** stood in the rinse of brack spray until the red on his vambraces stopped lying about freshness.
 

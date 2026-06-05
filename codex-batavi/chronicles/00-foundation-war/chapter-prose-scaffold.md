@@ -1,6 +1,10 @@
+> **Archive:** superseded by canonical slug serial — [`../foundation-war/INDEX.md`](../foundation-war/INDEX.md). Edit matching slug under `foundation-war/` only.
+
 # Foundation War serial — chapter prose scaffold (Ch. 7 model)
 
-Use this when **writing or refactoring** any `chapter-*.md` in this folder. The reference implementation is [`chapter-07-living-specimen.md`](chapter-07-living-specimen.md): **dense continuous paragraphs**, **high causal depth**, **few horizontal rules**.
+**Superseded for new prose:** write in [`../foundation-war/`](../foundation-war/) slug tree — canonical read order [`../foundation-war/INDEX.md`](../foundation-war/INDEX.md). Depth reference: [`../foundation-war/Q1-moon-hunt/living-specimen/chapter.md`](../foundation-war/Q1-moon-hunt/living-specimen/chapter.md). This folder = **legacy archive** only.
+
+Use this when **diffing or refactoring** numbered `chapter-*.md` in this folder. The reference implementation is [`chapter-07-living-specimen.md`](chapter-07-living-specimen.md): **dense continuous paragraphs**, **high causal depth**, **few horizontal rules**.
 
 ---
 
@@ -12,7 +16,8 @@ Match Ch. 7’s shape:
 - **Foundation War** · **Chapter N of 38** · *repeat title*
 - **Strategium anchor:** CV y* (and phase if useful)
 - **Theater:** pole + named theater
-- *Italic in-universe line:* filing tag, ethics flag, or classification—what a staff officer would write, not omniscient lore
+- **Geography lock (new prose):** **Insula Tenebrarum** · **Castra Vetera** mesh — link [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md); **Witness Ford**; marsh channels. Do **not** reintroduce *Porta Nihili* / *Loken Passage* in new drafts.
+- *Italic in-universe line:* filing tag, ethics flag, or classification — what a staff officer would write, not omniscient lore
 
 One `---` under the header, then **the chapter body begins** (no extra `---` between scenes unless you have a *rare* major time jump).
 
@@ -36,13 +41,13 @@ This **differs** from Ch. 1’s *many* mid-scene `---` cuts. When revising older
 Each chapter should aim for **all** of the following, where the theater allows:
 
 1. **Backward braid** — At least one muscular callback to a prior cost (dead, lost file, named earlier chapter beat) **woven into** forward action, not dropped as a single epithet.
-2. **One “reading” beat** — An **extended** moment where someone *interrogates reality*: auspex, testimony, ritual, trial of gear, or political read—**specific** nouns (frequencies, behaviors, comparisons the character hates to think). Ch. 7’s exam block is the paradigm.
+2. **One “reading” beat** — An **extended** moment where someone *interrogates reality*: auspex, testimony, ritual, trial of gear, or political read — **specific** nouns (frequencies, behaviors, comparisons the character hates to think). Ch. 7’s exam block is the paradigm.
 3. **Irreversible fact** — Something the Chapter **files**, **loses**, or **cannot unsee** that the next chapter can depend on.
 4. **Friction partner** — *Lex Ignis* / Mechanicus / Navy / local power speaking a **different** institutional language; conflict in **procedure**, not only bolts.
 5. **Mortal geometry** — Named or clearly situated mortals (Kessler, Iria, boy) with **agency**: wrong place, right testimony, cost to body or dignity.
 6. **Triumvirate differentiation** — In shared space, **Drusus / Varro / Alaric** must **do different work** (clinical / spiritual-weight / mass or hinge), not three variants of “grim silence.”
 7. **Sensory accounting** — Weather, material, pain, or logistics **named** (rain on shingle, oil on planks, grazed calf, vox static as receipt).
-8. **Close on consequence** — Final beat lands in **paperwork, labor, or liturgy** *and* image (tide, log, seal, bind)—not a thesis sentence floating alone.
+8. **Close on consequence** — Final beat lands in **paperwork, labor, or liturgy** *and* image (tide, log, seal, bind) — not a thesis sentence floating alone.
 
 ---
 
@@ -59,7 +64,7 @@ Each chapter should aim for **all** of the following, where the theater allows:
 
 - [ ] Body has **≤2** horizontal rules total (after header + before end matter), except extraordinary cases.
 - [ ] Average paragraph **>3 sentences** of substance; no padding stanzas.
-- [ ] At least one block could be summarized as “they **learned** X” or “**filed** Y”—concrete payload.
+- [ ] At least one block could be summarized as “they **learned** X” or “**filed** Y” — concrete payload.
 - [ ] Mortals or allies are **more** than backdrop in at least one paragraph.
 - [ ] Ending ties **event** to **ongoing war** (next theater, debt, or seal).
 

@@ -42,7 +42,7 @@ Alaric’s helm remained forward. Guilliman could not see eyes through the lense
 
 — He is not “entombed,” Alaric said. — He is sustained.
 
-Guilliman’s expression did not change, but his tone did—fractionally, into something that acknowledged the insult without punishing it.
+Guilliman’s expression did not change, but his tone did — fractionally, into something that acknowledged the insult without punishing it.
 
 — Leviathan chassis.
 
@@ -74,7 +74,7 @@ Guilliman’s brow tightened.
 
 — Explain.
 
-Alaric’s voice stayed controlled, but the content shifted—less like a report, more like a memory filed against pain.
+Alaric’s voice stayed controlled, but the content shifted — less like a report, more like a memory filed against pain.
 
 — A Chapter is not its heraldry. Not its rituals. Not its Founding story. It is what remains functional when you have lost the right to be proud.
 
@@ -90,7 +90,7 @@ Guilliman nodded once, slowly.
 
 — And he is still your Chapter Master.
 
-Alaric’s helm dipped a fraction—almost a nod, almost a refusal to allow the gesture to become sentiment.
+Alaric’s helm dipped a fraction — almost a nod, almost a refusal to allow the gesture to become sentiment.
 
 — He is a boundary.
 
@@ -120,7 +120,7 @@ Guilliman pressed anyway.
 
 — Tell me what you learned from him.
 
-For the first time, Alaric’s voice carried the faintest edge—not anger, but something like contempt for the question’s premise.
+For the first time, Alaric’s voice carried the faintest edge — not anger, but something like contempt for the question’s premise.
 
 — He is not a mentor.
 
@@ -170,7 +170,7 @@ He stepped closer again.
 
 — If you are so hostile to belief, why do you keep studying primarch doctrine as if it were scripture?
 
-Alaric answered with the first hint of something like genuine heat—still controlled, but real.
+Alaric answered with the first hint of something like genuine heat — still controlled, but real.
 
 — Because doctrine is not scripture if you read it as engineering.
 
@@ -256,7 +256,7 @@ He stepped closer until the distance was undeniably personal.
 
 — I want to see the man.
 
-The words did not command. They invited. That was, Guilliman knew, a different kind of pressure—harder to refuse, because it offered dignity.
+The words did not command. They invited. That was, Guilliman knew, a different kind of pressure — harder to refuse, because it offered dignity.
 
 Alaric did not respond.
 
@@ -302,13 +302,13 @@ Alaric’s answer was honest in the worst way.
 
 — I do not know.
 
-Guilliman felt something cold move through him—not suspicion, not disgust. Recognition of a kind of courage he rarely encountered: the courage to admit uncertainty without collapsing into it.
+Guilliman felt something cold move through him — not suspicion, not disgust. Recognition of a kind of courage he rarely encountered: the courage to admit uncertainty without collapsing into it.
 
 — Then do not do it, Guilliman said.
 
 Alaric did not move.
 
-Guilliman realized, with a sudden tightness in the throat, that the permission had already been granted—not by Guilliman, but by Alaric himself. The door was open inside him, and he was deciding whether to close it again before something entered.
+Guilliman realized, with a sudden tightness in the throat, that the permission had already been granted — not by Guilliman, but by Alaric himself. The door was open inside him, and he was deciding whether to close it again before something entered.
 
 — You said permission is the door, Guilliman said quietly.
 
@@ -328,7 +328,7 @@ The seals hissed.
 
 The helm’s locks released with a sound like a tool being unclipped from a belt.
 
-Alaric paused with the helm half-lifted, suspended between identity and exposure. Guilliman could see the tension in the neck, in the shoulders—an unnatural restraint, a body fighting an instinct to remain armored.
+Alaric paused with the helm half-lifted, suspended between identity and exposure. Guilliman could see the tension in the neck, in the shoulders — an unnatural restraint, a body fighting an instinct to remain armored.
 
 The gamble sat there, alive.
 
@@ -336,7 +336,7 @@ Then Alaric lifted the helm free.
 
 For a moment, the chamber seemed too small to contain what it revealed.
 
-His face was not the face of a mortal who had lived a hard life and grown scarred. It was the face of something re-written—human geometry held under discipline, but altered in ways the Imperium’s instinctive mind would call wrong before it found kinder language. A structure that suggested a man and a predator forced to share the same skin and negotiate every expression.
+His face was not the face of a mortal who had lived a hard life and grown scarred. It was the face of something re-written — human geometry held under discipline, but altered in ways the Imperium’s instinctive mind would call wrong before it found kinder language. A structure that suggested a man and a predator forced to share the same skin and negotiate every expression.
 
 And yet his eyes were steady.
 
@@ -348,7 +348,7 @@ He did not soften his gaze into pity.
 
 He looked at Alaric the way he looked at a damaged vault that still held pressure: with respect for what it cost to remain intact.
 
-Alaric spoke, and without the vox-filter the voice was lower, heavier, more human in its texture—still restrained, but now undeniably flesh.
+Alaric spoke, and without the vox-filter the voice was lower, heavier, more human in its texture — still restrained, but now undeniably flesh.
 
 — This is why I made the rule.
 
@@ -360,7 +360,7 @@ Alaric’s jaw tightened. The vulnerability was not tears. It was the decision t
 
 — Do you.
 
-Guilliman’s reply came after a fraction of thought—the kind of thought that lives in a man rather than a primarch.
+Guilliman’s reply came after a fraction of thought — the kind of thought that lives in a man rather than a primarch.
 
 — I understand what you fear.
 
@@ -438,7 +438,7 @@ Alaric’s eyes did not flicker.
 
 — Understood.
 
-Guilliman watched him a moment longer, then nodded—once, final.
+Guilliman watched him a moment longer, then nodded — once, final.
 
 — Put it back on.
 
@@ -450,7 +450,7 @@ Then he replaced the helm.
 
 The locks sealed.
 
-The hiss returned, and the room became safer again—not because the man was hidden, but because the rule had resumed its function.
+The hiss returned, and the room became safer again — not because the man was hidden, but because the rule had resumed its function.
 
 Guilliman turned toward the door.
 
@@ -460,7 +460,7 @@ Alaric waited.
 
 Guilliman spoke without looking back, voice the sound of a wall deciding to remain a wall.
 
-— If your Chapter is what you say it is—if it absorbs valor and makes it law—then understand this.
+— If your Chapter is what you say it is — if it absorbs valor and makes it law — then understand this.
 
 He paused at the threshold.
 
@@ -480,5 +480,5 @@ And when he stepped out into the Imperium’s noise, he did not carry comfort wi
 
 He carried a colder thing.
 
-A proof that a monster could still choose regulation over relief—at least for another day.
+A proof that a monster could still choose regulation over relief — at least for another day.
 

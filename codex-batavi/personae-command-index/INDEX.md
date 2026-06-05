@@ -66,6 +66,7 @@
 ### supporting
 
 - [dossier-valdric.md](character-dossiers/supporting/dossier-valdric.md)
+- [dossier-threx.md](character-dossiers/supporting/dossier-threx.md) — *Lex Ignis* Genetor; Foundation War friction partner
 
 ### mortals
 
@@ -80,6 +81,7 @@
 
 ## events-and-chronologies
 
-- [foundation-war.md](events-and-chronologies/foundation-war.md) — *Foundation War* and header annexes
+- [foundation-war.md](events-and-chronologies/foundation-war.md) — *Foundation War* staff summary · **canonical prose:** [`../chronicles/foundation-war/INDEX.md`](../chronicles/foundation-war/INDEX.md)
+- [drusus-retrospective-aethelgard-first-quarter.md](events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md) — archival Drusus lens (texture only; troop math superseded)
 - [master-chronology.md](events-and-chronologies/master-chronology.md)
 - [legislative-chronology.md](events-and-chronologies/legislative-chronology.md)

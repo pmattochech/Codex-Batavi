@@ -34,15 +34,15 @@ Rauk snorted.
 
 Both were correct.
 
-The cages were in the distance—Black-Cell infrastructure, half-buried, partially dismantled, the kind of facility you build when you admit that some problems cannot be solved and can only be contained. In the older years, you could keep a clean boundary around it. You could say: what is inside the cages is a separate category of horror.
+The cages were in the distance — Black-Cell infrastructure, half-buried, partially dismantled, the kind of facility you build when you admit that some problems cannot be solved and can only be contained. In the older years, you could keep a clean boundary around it. You could say: what is inside the cages is a separate category of horror.
 
 Malakor V had dragged the cages into the open.
 
 Not physically. Not with cranes and chain. It dragged them into the same story.
 
-Ahead of us, on the line, brothers were changing in real time. Not all of them. Not the full war-form. But enough: bodies swelling, posture breaking, voices doing strange things in the vox—sometimes too animal, sometimes too clear.
+Ahead of us, on the line, brothers were changing in real time. Not all of them. Not the full war-form. But enough: bodies swelling, posture breaking, voices doing strange things in the vox — sometimes too animal, sometimes too clear.
 
-I watched a Marine I recognized—Kessel recognized him too, by the way his aim hesitated—drop his bolter as if the weapon had become a foreign object. He grabbed the barricade, fingers digging into metal, and his vox opened.
+I watched a Marine I recognized — Kessel recognized him too, by the way his aim hesitated — drop his bolter as if the weapon had become a foreign object. He grabbed the barricade, fingers digging into metal, and his vox opened.
 
 — I am fine.
 
@@ -100,7 +100,7 @@ Rauk spat.
 
 The line erupted in gunfire before we could argue further.
 
-A wave hit the barricades—men in armor moving with the relieved cohesion I had begun to recognize. Devotion faces behind sealed lenses. Not every brother. Not even most. But enough that the line’s defenders had to make the same decision again and again: do you call them brothers or targets?
+A wave hit the barricades — men in armor moving with the relieved cohesion I had begun to recognize. Devotion faces behind sealed lenses. Not every brother. Not even most. But enough that the line’s defenders had to make the same decision again and again: do you call them brothers or targets?
 
 The answer changed depending on the next five seconds.
 
@@ -108,7 +108,7 @@ We fought as five because five was the only number we could still keep lawful wi
 
 Rauk anchored the left. He fired until his barrel glowed. He did not waste speech. When he spoke, it was to call threats, not emotions.
 
-Hadrik worked the center behind him, doing the ugly job: marking bodies, checking for life signs, filing what could be filed while fire stitched the air. Every time a brother dropped and did not rise, Hadrik’s hand moved in the same pattern—tag, slate, move—because repetition is how you survive grief when the theater refuses to pause for it.
+Hadrik worked the center behind him, doing the ugly job: marking bodies, checking for life signs, filing what could be filed while fire stitched the air. Every time a brother dropped and did not rise, Hadrik’s hand moved in the same pattern — tag, slate, move — because repetition is how you survive grief when the theater refuses to pause for it.
 
 Kessel watched the right and made every shot count. He did not aim for drama. He aimed for function: knees, lenses, throats when the helm seal broke.
 
@@ -134,7 +134,7 @@ The next wave came from the direction of the cages.
 
 That was when the line almost lied by merging.
 
-I saw it in the defenders’ posture: the moment they began to treat everything that moved as one category. Beast, turned brother, pre-crisis horror, conflict-hour horror—one kill order. One simplification. One relief.
+I saw it in the defenders’ posture: the moment they began to treat everything that moved as one category. Beast, turned brother, pre-crisis horror, conflict-hour horror — one kill order. One simplification. One relief.
 
 Relief is poison.
 
@@ -148,7 +148,7 @@ Hadrik went down next.
 
 Not from a clean shot. From a brother’s hand.
 
-A Marine—plate intact, movement wrong—reached over the barricade and grabbed Hadrik by the helm. There was no rage in the gesture. Only possession, like a man claiming a tool.
+A Marine — plate intact, movement wrong — reached over the barricade and grabbed Hadrik by the helm. There was no rage in the gesture. Only possession, like a man claiming a tool.
 
 Hadrik’s vox opened and I heard his breath.
 
@@ -194,7 +194,7 @@ He did it with one arm, firing with the other, because Rauk refused to let the t
 
 It cost him.
 
-A second wave hit, and in the chaos a Versibar—conflict-hour, newly manifesting, fast and wrong—cleared the barricade and landed among us. It moved with the irrational mass of a thing whose mind had already stopped negotiating with restraint.
+A second wave hit, and in the chaos a Versibar — conflict-hour, newly manifesting, fast and wrong — cleared the barricade and landed among us. It moved with the irrational mass of a thing whose mind had already stopped negotiating with restraint.
 
 Rauk turned to meet it with Hadrik in his arms.
 

@@ -18,7 +18,7 @@ We trusted only friction.
 
 If a corridor looked too clean, we avoided it. If a relay node was silent in a way that felt deliberate, we treated silence as bait. If a shelter had intact doors, we assumed someone wanted us to use them.
 
-Brann’s breathing came hard through the squad channel. He tried to keep it out of my hearing. He failed. The duel had not touched him, but the theater had. Something had bitten him earlier on the line—deep enough that the seal kept compensating, shallow enough that he could pretend it was not a problem.
+Brann’s breathing came hard through the squad channel. He tried to keep it out of my hearing. He failed. The duel had not touched him, but the theater had. Something had bitten him earlier on the line — deep enough that the seal kept compensating, shallow enough that he could pretend it was not a problem.
 
 Pretending is devotion’s cousin.
 
@@ -134,7 +134,7 @@ We reached the perimeter as the hook was closing.
 
 You could feel the change without seeing a single Marine. The air itself seemed to become more regulated. Vox traffic sharpened into disciplined bursts. Movement in the distance stopped being random and started being denied.
 
-A voice came through the channel—cold, clear, command without theatrics.
+A voice came through the channel — cold, clear, command without theatrics.
 
 — Identify.
 

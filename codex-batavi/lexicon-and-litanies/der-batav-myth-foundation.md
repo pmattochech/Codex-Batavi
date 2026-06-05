@@ -37,21 +37,33 @@ Natives expected something like the Batav at human scale. What they received was
 
 ---
 
-## III. The fulfillment (tidal quarter — annals **~CV y24–y29**)
+## III. The fulfillment (tidal quarter — annals **~CV y22–y29**)
 
-Staff truth follows the **Foundation War serial** (see [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md)). The crusade was never only “hunt the hunter-enclave in the jungle.” It was a **nine-pole** war — void mirrors, inverted hives, Incus quotas, Vitreus glass, estuary law — that kept breaking *Codex*-clean battle math until **mud, tide, and machine hunger** became the only honest teachers.
+Staff truth follows the **Foundation War serial** — canonical read order [`../../chronicles/foundation-war/INDEX.md`](../../chronicles/foundation-war/INDEX.md); staff summary [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md). The crusade was never only “hunt the hunter-enclave in the jungle.” It was a **nine-pole** war — void mirrors, inverted hives, Incus quotas, Vitreus glass, estuary law — that kept breaking *Codex*-clean battle math until **mud, tide, and machine hunger** became the only honest teachers. The **origin hunt** dies as policy long before the name arrives; what survives is **witness** and **geometry**.
 
 By the late **crown-and-estuary** movement, Alaric von Helis had already passed through *Execratio* and wrench-returned to the **intermediate stage** (the ~**2.85 m** chassis predating formal *Castra-Lupus* classification). He did not choose swamps because mud is humble. He chose them because enemies still believed mud was **our** disability — and tide is **geometry**.
 
 Amphibious pressure and shingle warfare turn the native prophecy into **witnessed** fact: the grey giant does not arrive with sermons. It arrives when the water **lies**.
 
-On the **shingle**, at the bleeding edge of a tide that does not negotiate, coastal witnesses name the phenomenon before Imperial hymns do — see [`chapter-30-tide-names.md`](../chronicles/00-foundation-war/chapter-30-tide-names.md). *“Der Batav!”* is not theater. It is **recognition** — the sound a culture makes when myth walks out of the surf **and the enemy dies in the same frame**.
+On the **shingle**, at the bleeding edge of a tide that does not negotiate, coastal witnesses name the phenomenon before Imperial hymns do — [`tide-names/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/tide-names/chapter.md). *“Der Batav!”* is not theater. It is **verdict** — the sound a culture makes when myth walks out of the surf **and the enemy dies in the same frame**. **Cohors Batavorum** follows from **lungs** in the same hour: humanity names the Chapter before the Throne does.
 
 ---
 
-## IV. Alaric’s decision (adopting the name)
+## IV. Dual receipt (witness name + council ratification)
 
-The Chapter’s renaming was not a solemn decree. It was a pragmatic conclusion drawn during **last-sweat** council, with the Triumvirate and first Legati forced to own what the crucible had proved — see [`chapter-37-der-batav-council.md`](../chronicles/00-foundation-war/chapter-37-der-batav-council.md).
+The myth does not become law in one stroke. It passes through **two receipts** the Strategium still files separately:
+
+**Receipt I — witness (voice):** Mortal throats, tide-law, auxilia feet. **Iria** translates *Der Batav* as *the iron that stayed*, not a brand minted without lungs. **Orwen**, **Kessler**, and coastal witnesses enter the record as **structure**, not footnote — polyphony because the Imperium prefers soloists and the crucible taught the Batavi otherwise.
+
+**Receipt II — council (ink):** ~**CV y29**, tungsten hold, hollow close — [`der-batav-council/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/der-batav-council/chapter.md). The Triumvirate and logistics corps **file** what lungs already spoke: **Der Batav cognomen** archived under **witness testimony**; **Cohors Batavorum** anchored in ink so politer centuries cannot edit throats out of history. **Alaric** dismisses with **continue**, not ornament — sequence: water, wounds, manifests, seals, the living secured.
+
+Neither receipt alone is sufficient. Voice without ink invites revision; ink without witness invites lie.
+
+---
+
+## V. Alaric’s decision (adopting the name)
+
+The Chapter’s renaming was not a solemn decree. It was a pragmatic conclusion drawn during **last-sweat** council, with the Triumvirate and first Legati forced to own what the crucible had proved — see §IV and [`der-batav-council/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/der-batav-council/chapter.md).
 
 The Administratum had assigned the Chapter a provisional number. The official name awaited Terra’s ratification. Alaric looked at field records — casualty bands, crucible debts, names on the **cord** — and discarded the comfort of generic knighthood.
 
@@ -65,7 +77,7 @@ The crest was drawn by Kadmos the following week. Wolf, horizontal gladius, wave
 
 ---
 
-## V. The weight of the myth (living lore)
+## VI. The weight of the myth (living lore)
 
 Four centuries after founding, the Der Batav myth is not recited in rites. It is operated.
 
@@ -73,7 +85,7 @@ Batavi do not mention the prophecy in speeches. They do not use the Batav as met
 
 The Batav is not a courage symbol. It is a geometry principle: turn adverse condition into positioning advantage. The predator that works in the storm has a hunting ground no rival occupies.
 
-*Instrumentum Solum.* The tool that works where others sink.
+*Instrumentum Solum.* The tool that works where others sink — filed in the crucible coda [`instrumentum-solum/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/instrumentum-solum/chapter.md): manifests, seals, and continuation clauses when the story stops.
 
 ---
 

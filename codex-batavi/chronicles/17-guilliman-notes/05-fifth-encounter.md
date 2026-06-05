@@ -2,7 +2,7 @@ The chamber Guilliman chose this time was not built for command.
 
 It was built for containment.
 
-Not a cell—too crude. Not a chapel—too permissive. A clinical annex between strategium and apothecarion, where the air tasted filtered and every surface looked as if it could be wiped clean of confession. The kind of room that made men speak carefully even when they believed they had nothing to hide.
+Not a cell — too crude. Not a chapel — too permissive. A clinical annex between strategium and apothecarion, where the air tasted filtered and every surface looked as if it could be wiped clean of confession. The kind of room that made men speak carefully even when they believed they had nothing to hide.
 
 Two figures waited inside.
 
@@ -234,7 +234,7 @@ Guilliman’s jaw tightened.
 
 — And as a man.
 
-Drusus paused—only a fraction, as if searching for a word that did not belong to his native language.
+Drusus paused — only a fraction, as if searching for a word that did not belong to his native language.
 
 — He was… reliable.
 
@@ -392,7 +392,7 @@ Guilliman did not react with discomfort. He reacted with attention.
 
 — Then answer me this, Guilliman said, voice quiet and hard.
 
-— When he broke his own rule for me—when he gambled with exposure—was that weakness, or strength.
+— When he broke his own rule for me — when he gambled with exposure — was that weakness, or strength.
 
 Drusus answered first, clinical and merciless.
 
@@ -472,7 +472,7 @@ Guilliman held the silence for a long moment. Then he spoke the simplest possibl
 
 — Does he love them.
 
-There was a pause—fractional, but real.
+There was a pause — fractional, but real.
 
 Not because they didn’t know. Because the word was dangerous.
 
@@ -504,7 +504,7 @@ Another pause.
 
 — Love is what it chooses when dying is not required.
 
-Guilliman held that in silence, then nodded once—no blessing, no comfort.
+Guilliman held that in silence, then nodded once — no blessing, no comfort.
 
 — Then keep him constrained.
 
@@ -520,7 +520,7 @@ Guilliman stepped toward the door.
 
 He did not leave with warmth.
 
-He left with a colder reassurance: that the wall had not been left to judge itself. That two other masks—clinical and spiritual—were watching the same fault lines, holding the same constraints, refusing to let one man become an idol.
+He left with a colder reassurance: that the wall had not been left to judge itself. That two other masks — clinical and spiritual — were watching the same fault lines, holding the same constraints, refusing to let one man become an idol.
 
 The locks cycled.
 

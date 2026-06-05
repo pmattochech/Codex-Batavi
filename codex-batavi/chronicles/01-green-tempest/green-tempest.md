@@ -34,7 +34,7 @@ The transition happened at once along the entire South Wall. There was no comman
 
 Brother Hrolf, patrolling a delayed evacuation route, stopped dead. He felt his own musculature hypertrophy inside ceramite, the sealed plates of his armor groaning in protest against the sudden expansion of physical mass. Beneath the tactical helm’s red lenses, his physiology regressed: the iris dilated, consumed by an orange halo, while the pupil shrank to a vertical predatory slit.
 
-Irritability became physical pain. The sound of a *servitor* stumbling, a child’s distant cry, the beat of a fragile human heart—all echoed like artillery in his hyper-developed auditory channels. Hrolf let out a low growl, a guttural vibration that made the permacrete under his boots tremble and civilians recoil in abject terror. But he did not strike the weak. The **Axiom of Reason** worked like an iron collar on his mind.
+Irritability became physical pain. The sound of a *servitor* stumbling, a child’s distant cry, the beat of a fragile human heart — all echoed like artillery in his hyper-developed auditory channels. Hrolf let out a low growl, a guttural vibration that made the permacrete under his boots tremble and civilians recoil in abject terror. But he did not strike the weak. The **Axiom of Reason** worked like an iron collar on his mind.
 
 He watched the humans not as prey, but as the helpless pups of his pack. His overflowing aggression turned entirely toward the celestial vault. He *wanted* the ships to fall. Holding that violence back was lacerating the Astartes’ nerves. Along the walls, gray giants paced in circles, scraping the barricades with their gauntlets, snarling at the stars.
 
@@ -68,7 +68,7 @@ With both hands now free, Alaric drove his fingers into the Warboss’s lower ja
 
 For a fraction of a second, the war’s cacophony seemed to go mute. Skarjaw stared into the depths of Alaric’s helm lenses and, perhaps for the first time in his long life of massacres, found an atrocity older and wilder than his own species. Using a brutal levering motion, driven by the Wild Hunt exponent’s aberrant biomechanics, Alaric shattered the cranial reinforcements and tore Skarjaw’s mandible from his face.
 
-The leviathan collapsed, choking on liters of black blood and oil. Alaric raised the dripping trophy and let loose a thunderous roar—not a military victory cry, but the absolute proclamation of territorial dominance.
+The leviathan collapsed, choking on liters of black blood and oil. Alaric raised the dripping trophy and let loose a thunderous roar — not a military victory cry, but the absolute proclamation of territorial dominance.
 
 The *Waaagh!* energy cracked and broke. The Orks, organisms genetically wired never to know fear, felt the atavistic terror of being faced by an undeniable superpredator. The green tide fell back. They fled.
 

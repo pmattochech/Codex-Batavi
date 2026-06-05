@@ -1,8 +1,8 @@
 # Heraldry in-game export spec (SM2 / Anubian template)
 
-*Tooling — not in-universe canon. Companion to [`HERALDRY-INGAME-PLAN.md`](../HERALDRY-INGAME-PLAN.md) and [`SM2-ASTARTES-MOD-PLAN.md`](../SM2-ASTARTES-MOD-PLAN.md).*
+*Tooling — not in-universe canon. Companion to [`HERALDRY-INGAME-PLAN.md`](../planning/HERALDRY-INGAME-PLAN.md) and [`SM2-ASTARTES-MOD-PLAN.md`](../planning/SM2-ASTARTES-MOD-PLAN.md).*
 
-**Master raster:** [`chapter-seal-official.png`](chapter-seal-official.png) (primary approved roundel). Legacy alias in some plans: `chapter-seal-canonical.png` — use **official** if only one file is present.
+**Master raster:** [`chapter-seal-official.png`](chapter-seal-official.png) (primary approved roundel). **Frame:** **black** ring at outer edge; transparent outside (see [`visual-identity-paint-guide.md`](../visual-identity-paint-guide.md) seal table). Legacy alias in some plans: `chapter-seal-canonical.png` — use **official** if only one file is present.
 
 **Template extract (local):** [`../../tools/Anubian Decal/`](../../tools/Anubian Decal/) — Night Lords shoulder slots from Nexus mod pattern (see HERALDRY plan §6, mod 205).
 
@@ -55,4 +55,4 @@
 
 - [ ] Both shoulders show **Batavi** roundel in Armouring Hall on target armor set
 - [ ] No purple/missing texture (mip or `_cc` mismatch)
-- [ ] Progress logged in [`HERALDRY-INGAME-PLAN.md`](../HERALDRY-INGAME-PLAN.md) bottom table
+- [ ] Progress logged in [`HERALDRY-INGAME-PLAN.md`](../planning/HERALDRY-INGAME-PLAN.md) bottom table

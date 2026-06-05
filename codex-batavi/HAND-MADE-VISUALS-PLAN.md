@@ -4,7 +4,7 @@
 
 **Colour / geometry law:** [`visual-identity-paint-guide.md`](visual-identity-paint-guide.md) · **canonical seal raster:** [`lore-images/chapter-seal-canonical.png`](lore-images/chapter-seal-canonical.png) · infantry read: [`arsenal-and-logistics/infantry-visual-identity.md`](arsenal-and-logistics/infantry-visual-identity.md). **Legatus vexilla (nine + justice):** [`personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md`](personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md).
 
-**Downstream:** Finished **flat** masters feed [`HERALDRY-INGAME-PLAN.md`](HERALDRY-INGAME-PLAN.md) (texture export) and documentation screenshots.
+**Downstream:** Finished **flat** masters feed [`HERALDRY-INGAME-PLAN.md`](planning/HERALDRY-INGAME-PLAN.md) (texture export) and documentation screenshots.
 
 ---
 
@@ -51,7 +51,7 @@
 
 - **No “AI first”:** if you later use prompts, treat output as **reference**, not shipping art — hand revision required for canonical geometry.
 - **Version:** file name with date or `v2` when geometry changes (`chapter-seal-hand-YYYYMMDD.png`).
-- **Backlog link:** when Lane **B** is clean, open [`HERALDRY-INGAME-PLAN.md`](HERALDRY-INGAME-PLAN.md) §2–§3 for DDS.
+- **Backlog link:** when Lane **B** is clean, open [`HERALDRY-INGAME-PLAN.md`](planning/HERALDRY-INGAME-PLAN.md) §2–§3 for DDS.
 
 ---
 

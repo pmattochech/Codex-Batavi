@@ -26,9 +26,9 @@
 
 * **Merit** — he is present for **salute**-moments: battle-brothers **raised by merit** (promotion, certification, oaths that **aren’t** empty theater) receive the **old** rite in his **shadow** — *Instrumentum* **made** **witness**.
 
-* **The wall** — in war, he is the **line that refuses to crumble**: among the most dangerous assets the Chapter fields; **resilience** is not only hull. *Strategium* may file his will and whatever remains of soul (interred sanity permitting) as tactical mass, parallel in role—**not** in scale—to Alaric’s friction geometry. **Batavi** **biology** (here: **Furor**-locked) **funds** **faster** **somatic** **turnover** than Codex **baselines**; the **Wolf** **taxes** the **progenoid** line on **living** marines—**ramping** to **void** at **Execratio** ([frontier-wolf-rite.md](../../doctrine-and-organs/frontier-wolf-rite.md))—and in a **coffin** the **leftover** effect reads as **durability of witness**: neophyte hours and merit **salutes** can **run** without **frying** the Ancient as **fast** as a **non-Batavi** *Dreadnought* of **comparable** **chassis** **age**.
+* **The wall** — in war, he is the **line that refuses to crumble**: among the most dangerous assets the Chapter fields; **resilience** is not only hull. *Strategium* may file his will and whatever remains of soul (interred sanity permitting) as tactical mass, parallel in role — **not** in scale — to Alaric’s friction geometry. **Batavi** **biology** (here: **Furor**-locked) **funds** **faster** **somatic** **turnover** than Codex **baselines**; the **Wolf** **taxes** the **progenoid** line on **living** marines — **ramping** to **void** at **Execratio** ([frontier-wolf-rite.md](../../doctrine-and-organs/frontier-wolf-rite.md)) — and in a **coffin** the **leftover** effect reads as **durability of witness**: neophyte hours and merit **salutes** can **run** without **frying** the Ancient as **fast** as a **non-Batavi** *Dreadnought* of **comparable** **chassis** **age**.
 
-* **Reader mood (OOC):** *Out-of-universe* you can lean **dread**, **cage**, **memory decay**—the *feeling* a reader gets from the sarcophagus. That is **not** his in-character “voice.” On the page, his **vox** stays **Batavi**: spare, **tool**-like, **silence** where it costs.
+* **Reader mood (OOC):** *Out-of-universe* you can lean **dread**, **cage**, **memory decay** — the *feeling* a reader gets from the sarcophagus. That is **not** his in-character “voice.” On the page, his **vox** stays **Batavi**: spare, **tool**-like, **silence** where it costs.
 
 **Hard exclude:** This character is **not** *Castra-Lupus*; **Alaric** is **not** the **Old Wolf**. **Leviathan** = **Dreadnought** **interment**, not living hypertrophied **Terminator**.
 
@@ -50,7 +50,7 @@
 
 ## 3. Relations (working)
 
-* **Alaric:** **Elder-brother** / **mentor** gravity in private **kinesics** and **vox** **discipline** (not **paternal** register—see [dossier-alaric.md](../triumvirate/dossier-alaric.md) §1.0: **only Varro** held the **pre-nomination** **Chapter** **Master** **warrant**; **Radulf** and **Alaric** were **not** in that **sealed** **Reclusiam** file **before** the **proclamation**). **Wake** call still **TBD** (small war **vs** unholdable line).
+* **Alaric:** **Elder-brother** / **mentor** gravity in private **kinesics** and **vox** **discipline** (not **paternal** register — see [dossier-alaric.md](../triumvirate/dossier-alaric.md) §1.0: **only Varro** held the **pre-nomination** **Chapter** **Master** **warrant**; **Radulf** and **Alaric** were **not** in that **sealed** **Reclusiam** file **before** the **proclamation**). **Wake** call still **TBD** (small war **vs** unholdable line).
 
 * **Neophyte** **formation** / **chaplain** **adjacency** — **Varro’s** **office** may **own** the **moral** **frame** of his **teaching** **slots**; **Kadmos** **owns** **walk** and **rattle**. **TBD** **split**.
 

@@ -6,7 +6,7 @@
 **Reporter:** Chief Apothecary Drusus.  
 **File status:** Absolute doctrinal revision (end of Pendulum theory).
 
-> *Archival note:* This document is the primary record of the discovery of the Cull—written immediately after the Malakor V incident, based on a single maximum-intensity case (Legatus Valerius). The tiered response scale (depth of corruption × proximity to Horus Lupercal’s line), the formal distinction between the Cull and the **Amplified Axiom of Reason** (response to generic Chaos without recognizable gene-seed), and containment protocols by axis were formalized in the months following in the ***discipline harness codex***—see the biological encyclopedia.
+> *Archival note:* This document is the primary record of the discovery of the Cull — written immediately after the Malakor V incident, based on a single maximum-intensity case (Legatus Valerius). The tiered response scale (depth of corruption × proximity to Horus Lupercal’s line), the formal distinction between the Cull and the **Amplified Axiom of Reason** (response to generic Chaos without recognizable gene-seed), and containment protocols by axis were formalized in the months following in the ***discipline harness codex*** — see the biological encyclopedia.
 
 ---
 
@@ -27,9 +27,9 @@ My battle-brothers did not enter muscular frenzy (Wild Hunt), nor did they shut 
 
 I personally monitored Alaric von Helis’s biometrics through a skull-servo as he walked Malakor V’s ashes to confront Valerius. In that instant the truth showed itself: the Batavi biological response vector was not oscillating laterally on a two-dimensional line. It was ascending.
 
-**\[Chief Apothecary’s correction note\]** *"My secular diagnosis was fundamentally wrong. The *Batavian Iron-Guard* organism is not a horizontal line tied at two containment ends. chimeric predisposition is, in fact, a Pyramid of Genetic Response—a triangle of adaptive lethality.*
+**\[Chief Apothecary’s correction note\]** *"My secular diagnosis was fundamentally wrong. The *Batavian Iron-Guard* organism is not a horizontal line tied at two containment ends. chimeric predisposition is, in fact, a Pyramid of Genetic Response — a triangle of adaptive lethality.*
 
-*When we face Chaos—and more specifically, the arch-traitor’s line or the sacrilege of Astartes heresy—our gene-seed does not seek the automaton’s balance or the beast’s blind slaughter. The biological vector moves inexorably toward the pyramid’s upper vertex. The **chimera** — **Strand β** foremost — does not process Valerius’s corruption as an ‘external enemy’ to fight; it processes it as a deep biological insult to be surgically purged. The result in our force’s minds is not chaotic madness, but terrible clarity, focused solely on lethal, sadistic execution of the target."*
+*When we face Chaos — and more specifically, the arch-traitor’s line or the sacrilege of Astartes heresy — our gene-seed does not seek the automaton’s balance or the beast’s blind slaughter. The biological vector moves inexorably toward the pyramid’s upper vertex. The **chimera** — **Strand β** foremost — does not process Valerius’s corruption as an ‘external enemy’ to fight; it processes it as a deep biological insult to be surgically purged. The result in our force’s minds is not chaotic madness, but terrible clarity, focused solely on lethal, sadistic execution of the target."*
 
 ## III. THE THIRD EXPONENT: THE TORMENT
 

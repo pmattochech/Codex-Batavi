@@ -6,7 +6,7 @@ Names make men into stories. Stories invite mercy you cannot afford and hatred t
 
 Vorn was not a story. He was a function.
 
-We had just buried our count in blood—five reduced to two—and the containment line behind us still spat gunfire into the dusk as if it could shoot the rot back into the Warp. Brann and I moved along the extraction flats with the kind of speed that looks calm until you try it. Helmet sealed. Vox disciplined. No unnecessary speech. No unnecessary glance at the bodies we left tagged in the sand.
+We had just buried our count in blood — five reduced to two — and the containment line behind us still spat gunfire into the dusk as if it could shoot the rot back into the Warp. Brann and I moved along the extraction flats with the kind of speed that looks calm until you try it. Helmet sealed. Vox disciplined. No unnecessary speech. No unnecessary glance at the bodies we left tagged in the sand.
 
 That is what witness becomes when you are still alive: you learn to keep moving without pretending movement is victory.
 
@@ -18,7 +18,7 @@ Battles have churn. Crossfire. Misjudgments. Men dying in ways that look acciden
 
 This looked like work.
 
-Marines were down—some in *Prima* colors, some in plates that had been repainted over old heraldry, some stripped raw—arranged in a pattern that forced survivors to step where they were meant to step. Every movement channelled. Every choice narrowed.
+Marines were down — some in *Prima* colors, some in plates that had been repainted over old heraldry, some stripped raw — arranged in a pattern that forced survivors to step where they were meant to step. Every movement channelled. Every choice narrowed.
 
 In the center of it was a figure moving with deliberate slowness, as if he had all the time in the world because time itself had decided to favor him.
 
@@ -28,7 +28,7 @@ He did not swing wildly.
 
 He swung once, each time, and each swing accomplished what it was intended to accomplish.
 
-When a Marine tried to retreat, the figure stepped into his path, not to chase, but to block. When a Marine froze—hesitation, wavering—the figure did not preach. He touched the Marine’s helm with the flat of his weapon, almost gently, and spoke a sentence I could not hear across the wind.
+When a Marine tried to retreat, the figure stepped into his path, not to chase, but to block. When a Marine froze — hesitation, wavering — the figure did not preach. He touched the Marine’s helm with the flat of his weapon, almost gently, and spoke a sentence I could not hear across the wind.
 
 The Marine turned and killed his own brother.
 
@@ -48,7 +48,7 @@ Brann did not finish. We did not have Drusus’s sealed words in our mouths yet.
 
 I watched the figure’s posture.
 
-His mass was wrong. Not in the way a Versibar is wrong—towering, obscene, unmistakable. Wrong in subtler ways: a thickness in the shoulders that suggested the body was beginning to re-write itself. A looseness in the neck that suggested the armor no longer sat on human geometry.
+His mass was wrong. Not in the way a Versibar is wrong — towering, obscene, unmistakable. Wrong in subtler ways: a thickness in the shoulders that suggested the body was beginning to re-write itself. A looseness in the neck that suggested the armor no longer sat on human geometry.
 
 And yet his movements were clean.
 
@@ -114,7 +114,7 @@ Not Malakor’s flats. Not the Cicatrix pressure. Not even Valerius’s claim.
 
 The true battlefield was the moment inside a Marine’s mind where he decides whether duty can still be regulated without becoming devotion.
 
-Vorn reached a wavering brother and spoke again—still too far for me to catch the words.
+Vorn reached a wavering brother and spoke again — still too far for me to catch the words.
 
 The wavering brother looked down at his own hands, as if the hands could tell him what he had become.
 
@@ -159,7 +159,7 @@ I felt, in that moment, the true shape of his threat.
 
 He did not need to kill us all.
 
-He only needed to reduce witness to a single voice—because a single voice can be called delusion, can be called grief, can be called a personal vendetta. One voice can be merged into a story.
+He only needed to reduce witness to a single voice — because a single voice can be called delusion, can be called grief, can be called a personal vendetta. One voice can be merged into a story.
 
 Two voices are harder to erase.
 
@@ -188,7 +188,7 @@ But the math was not about whether we could win today.
 
 The math was whether we could survive long enough to keep witness intact.
 
-If Vorn lived, he would keep doing what he did—selecting the wavering, making doubt expensive, reducing witness by attrition until only devotion remained.
+If Vorn lived, he would keep doing what he did — selecting the wavering, making doubt expensive, reducing witness by attrition until only devotion remained.
 
 We could not let him become a persistent function of the theater.
 

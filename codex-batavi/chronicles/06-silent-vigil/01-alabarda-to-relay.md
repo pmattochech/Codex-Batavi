@@ -20,7 +20,7 @@ The halberd I carried on Malakor V was not a relic then. It was an officer weapo
 
 It was honest steel.
 
-After the heresy was broken—after the sentence had been delivered and the theater’s blood-price filed—Armourium took the halberd away with paperwork that made it look like routine maintenance.
+After the heresy was broken — after the sentence had been delivered and the theater’s blood-price filed — Armourium took the halberd away with paperwork that made it look like routine maintenance.
 
 It was not routine.
 
@@ -32,7 +32,7 @@ The same tool that killed the butcher became the tool that signaled the debt.
 
 Not by speech. By physics.
 
-When the relay is active, the shaft’s vibration changes. You feel it through your gauntlet. The weapon becomes heavier in a way that is not material weight—an insistence. A reminder that the Fourth Field is not a triumph panel. It is an obligation panel, and the obligation does not belong to the bearer alone. It belongs to the lattice.
+When the relay is active, the shaft’s vibration changes. You feel it through your gauntlet. The weapon becomes heavier in a way that is not material weight — an insistence. A reminder that the Fourth Field is not a triumph panel. It is an obligation panel, and the obligation does not belong to the bearer alone. It belongs to the lattice.
 
 I saw the finished weapon once, when it was first logged.
 
@@ -42,7 +42,7 @@ The relay spine ran up the haft like a surgical implant.
 
 The banner holder sat on the upper third, a quiet clamp waiting for cloth that would never be allowed to read like a slogan.
 
-The halberd head remained functional—edge maintained, hook geometry intact.
+The halberd head remained functional — edge maintained, hook geometry intact.
 
 Weapon and signal. Sentence and warning.
 

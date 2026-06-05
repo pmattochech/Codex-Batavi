@@ -40,7 +40,7 @@ Main sections use level-2 headings; subsections level-3; field labels **bold** w
 
 **Founding:** **Unknown** (numbered Founding not disclosed). Operational rebirth and name ratification cluster in the **Castra Vetera (CV)** annals (**Foundation War** crucible → **Cohors Batavorum** council, *ca.* CV y29–y37); Imperial cross-filings are **approximate** (*Chronostrife*, mesh variance). See [foundation-war.md](events-and-chronologies/foundation-war.md), [master-chronology.md](events-and-chronologies/master-chronology.md).
 
-**Reason of Founding:** Hold the **Loken Passage** / **Nine Phalanx** frontier: transform the **Aethelgard** liberation and **Castra Vetera** mesh into a permanent **Outer Gate** against xenos, renegades, and warp-tide pressure — not a parade founding, a **friction** founding.
+**Reason of Founding:** Hold **Insula Tenebrarum** — the **Castra Vetera** island mesh — as **filter against the tide**: transform the **Aethelgard** crucible and **Nine Phalanx** into a permanent **wall** (xenos, Chaos bleed, renegade void) — not a parade founding, a **friction** founding.
 
 **Niche:** **Friction Geometry** — static kill-math, trench and void-boarding mastery, *Analytical Silence*, chimeric biology regulated by ***Axioma Rationis***, super-tithe indispensability. The Chapter is a **wall instrument**, not a crusade flèche.
 
@@ -56,7 +56,7 @@ Main sections use level-2 headings; subsections level-3; field labels **bold** w
 
 **Population:** Noviomagus Prime **~120 billion** (stacked hives); mesh aggregate in the **trillions** (civilis Imperialis).
 
-**Location:** **Imperium Nihilus** — **Castra Vetera** / **Porta Nihili** strategic designation post–175.M42; **Loken Passage** gate geometry. Segmentum-level map: atlas volumes.
+**Location:** **Imperium Nihilus**, **Ultima Segmentum** — **Insula Tenebrarum** subsector (**Castra Vetera** polity); **Witness Ford** outward choke; **Forge / Tempest / Crown Marsh Channels** (triangle). Atlas: [`castra-vetera-galactic-lock.md`](../atlas-and-topography/castra-vetera-galactic-lock.md), [`general-atlas.md`](../atlas-and-topography/general-atlas.md).
 
 **Description:** Noviomagus is throughput theology made planet: adamantium ribs, acid rain, forge cant, **gear-prayer** habit imported into Astartes friction culture. The Chapter does not rule as feudal kings; it **indexes** survival — tithe, route security, and biological quarantine of its own warriors inside the mesh ([pax-batavorum.md](doctrine-and-organs/pax-batavorum.md)).
 
@@ -123,7 +123,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 ### Relation to humans
 
-**General population:** **Pragmatic protection** with emotional austerity. Mortals are not worshipped; they are **load-bearing**. Shared Sweat ([pax-batavorum.md](doctrine-and-organs/pax-batavorum.md), [mentality-and-philosophy.md](../lexicon-and-litanies/mentality-and-philosophy.md)) forces off-duty Astartes into forge labor beside civilians — anti-arrogance anchor. Mass civilian death is **friction loss**, not spectacle; Martha’s kitchen is the sanctioned human warmth zone.
+**General population:** **Pragmatic protection** with emotional austerity. Mortals are not worshipped; they are **load-bearing**. **Shared Sweat** ([pax-batavorum.md](doctrine-and-organs/pax-batavorum.md), [mentality-and-philosophy.md](../lexicon-and-litanies/mentality-and-philosophy.md)) — forge labor beside civilians **and** **war council** beside **Astra Militarum** command: same line of fire, plans contributed **alongside** generals, **without** breaking chain of command. Mass civilian death is **friction loss**, not spectacle; Martha’s kitchen is the sanctioned human warmth zone.
 
 **Psykers:** **Controlled utility.** *Librarium* (**Haruspicium Batavorum**) is Chapter asset; Imperial psykers outside are **tools with paperwork**. Witch-hunt fanaticism is subordinated to ***Axioma Rationis***. Astropaths used as required; liaison discipline through [inquisition-geometry.md](../political-relations/inquisition-geometry.md).
 
@@ -145,7 +145,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Adeptus Astra Telepathica:** **Necessary infrastructure**; Astropaths aboard major hulls; Chapter does not outsource strategic memory to astropaths alone.
 
-**Ecclesiarchy:** **Functional respect, theological distance.** Emperor venerated; Chapter resists being reduced to cathedral pageantry. Shared Sweat overlaps with worker faith without converting Marines to priestly fanaticism.
+**Ecclesiarchy:** **Functional respect, theological distance.** Emperor honored as **Ancestor-Sovereign** / Throne-weight — **not** Ministorum-style god-worship. Chapter resists cathedral pageantry. Shared Sweat overlaps with worker faith without converting Marines to priestly fanaticism.
 
 **Inquisition:** **High-friction symbiosis** — super-tithe buys tolerance; Ordo access negotiated; witness clauses; Malakor heresy purges documented. [inquisition-geometry.md](../political-relations/inquisition-geometry.md).
 

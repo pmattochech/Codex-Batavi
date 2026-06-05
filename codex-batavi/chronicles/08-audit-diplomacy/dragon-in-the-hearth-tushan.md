@@ -15,7 +15,7 @@ Martha, hands dusted with flour from freshly worked dough, did not even interrup
 
 — Clean your boots, Tu’Shan. And if you scorch my rug with that drake-scale cloak, the penalty is weaving a new one by hand.
 
-The Chapter Master of one of the First Founding’s most revered orders—the warrior who had imposed physical punishment on the *Marines Malevolent* captain for unnecessary cruelty—showed a lip contraction that revealed perfectly white teeth. A smile.
+The Chapter Master of one of the First Founding’s most revered orders — the warrior who had imposed physical punishment on the *Marines Malevolent* captain for unnecessary cruelty — showed a lip contraction that revealed perfectly white teeth. A smile.
 
 — **Nocturne’s ash stays outside, Mother Martha,** — he answered, scraping heavy boots on the industrial mat with metric care.
 
@@ -34,7 +34,7 @@ The matriarch blinked, holding any emotional slip, and jerked her chin toward th
 
 The room’s biological dynamic went under hard test when the children approached. Little Leo, seven, and Sara’s baby stayed on the central rug. To a standard citizen, an unmasked Salamander is the visual incarnation of an incandescent demon. Tu’Shan, however, recalibrated his mass. With a deep servo hum he knelt, reducing his terrifying height and leveling his presence.
 
-He opened his gauntlet. On the ceramite palm he generated a micro chemical flame—perfectly controlled. Sara’s baby crawled toward the glow. The child’s mother tensed, ready to intervene, but Admiral Elara Solis touched her arm to hold her in place.
+He opened his gauntlet. On the ceramite palm he generated a micro chemical flame — perfectly controlled. Sara’s baby crawled toward the glow. The child’s mother tensed, ready to intervene, but Admiral Elara Solis touched her arm to hold her in place.
 
 *— Watch,* — Elara ordered in a practical whisper.
 
@@ -44,7 +44,7 @@ When the baby reached the fire, Tu’Shan did not pull back his hand; he closed 
 Leo, less cautious, climbed the giant’s calf. — Have you killed real dragons?  
 — **Countless,** — the Chapter Master confirmed, lifting the boy with one arm’s strength and setting him on his heavy pauldron. — **But the universe’s logistics state a truth, Leo: merit is not in putting out the dragon’s flame, but in making sure that flame never reaches your city’s foundations.**
 
-On the table’s far side, Alaric von Helis watched the scene’s geometry. He and Chaplain Varro exchanged a silent look—a biometric read confirming zero friction. *Furor* threat was null.
+On the table’s far side, Alaric von Helis watched the scene’s geometry. He and Chaplain Varro exchanged a silent look — a biometric read confirming zero friction. *Furor* threat was null.
 
 Dinner proceeded, served in the new culinary relic that met its thermodynamic specs perfectly. Verbal interaction escalated into doctrine audit.
 
@@ -56,7 +56,7 @@ Tu’Shan nodded, a heavy motion. He pointed first to Elara, slicing xenological
 
 — **Look at your rear. Iron is what builds the house’s walls and roof, Alaric. But it is fire contained in a hearth that turns shelter into a viable home. A tool does not love what it builds.** — Tu’Shan leaned forward, layering his warmth over the table’s cold. — **I read your spacing. How you place your mass to block any draft that might reach the Admiral. You are not a blind tool, Iron Wolf. You are the artisan. And your masterwork is not this *castrum*… it is preserving this family.**
 
-Alaric stopped. He lowered his food. Trained by the Silent Vigil—acid rain outside, grief in the corridors—not to yield a millimeter of humanity, he was boxed in by Nocturne’s irrefutable logic. A sub-millimeter contraction locked his jaw.
+Alaric stopped. He lowered his food. Trained by the Silent Vigil — acid rain outside, grief in the corridors — not to yield a millimeter of humanity, he was boxed in by Nocturne’s irrefutable logic. A sub-millimeter contraction locked his jaw.
 
 — **The theory is statistically… viable,** — the Lord Castellan conceded in a tone that barely broke the room’s static. — **But if you report this inference to Grimnar, error margin on our tactical alliance with Fenris may drift.**
 
@@ -66,7 +66,7 @@ Tu’Shan’s departure was pragmatic. On the adamant threshold Martha handed hi
 
 — Noviomagus Ash Bread, — the matriarch defined it. — It is a dense composite. Functional. One block’s intake supports a laborer’s caloric spend for a full solar cycle. Give it to your smiths.
 
-Tu’Shan took the rustic loaf as if holding a sacred plasma core. He executed his Chapter’s martial salute—fist to left breastplate, head bowed.
+Tu’Shan took the rustic loaf as if holding a sacred plasma core. He executed his Chapter’s martial salute — fist to left breastplate, head bowed.
 
 — **On Nocturne our axiom is: ‘In battle’s fire, on war’s anvil, we are tested.’ But you proved forge efficiency is decided at the dinner table’s maintenance.** — Tu’Shan raised his head. — **Vulkan lives.**
 

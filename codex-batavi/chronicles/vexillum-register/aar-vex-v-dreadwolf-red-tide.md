@@ -28,7 +28,7 @@ Recover **V** *Quinta* battle-brother remains for **Versibar / KIA** funeral geo
 
 **Phase A — Approach:** Gunboat insert; Sturmwahl + Varro + twelve-brother escort.
 
-**Phase B — Epicenter contact:** Lieutenant **Einar** found alive — **first documented Exanimus** (subject held **Furor only** through prior century of service); partial armor, dual chainaxes, **Butcher’s Nails** cable merge in new mane, slaughter of World Eaters and Orks ongoing.
+**Phase B — Epicenter contact:** Lieutenant **Einar** found alive — **first documented Exanimus** (subject held **Furor only** through prior century of service); partial armor, **Dreadwolf Claws** (tainted ship-origin lightning claws), **Butcher’s Nails** cable merge in new mane, slaughter of World Eaters and Orks ongoing.
 
 **Phase C — Cull geometry:** Legatus raised blade; subject terminated last hostile, dropped weapons, **fist-to-chest salute**, spoke ***Quinta* cadence** (*We hold, as the Needles hold the cold tide.*). Cull **not** executed.
 

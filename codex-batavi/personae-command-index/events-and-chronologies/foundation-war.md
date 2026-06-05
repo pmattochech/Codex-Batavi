@@ -2,46 +2,59 @@
 
 **Tags:** #CastraVetera #Crucible #FoundationWar #NinePoles #LexIgnis #InstrumentumSolum #Noviomagus #MudDoctrine
 
-**Imperial calendar note:** Castra Vetera experiences extreme temporal dilation. **Subjective annals** (`CV y*`) are the **primary operational record** for this war; **M42** dates in older Imperial-facing summaries are **approximate external correlates**, not fixed one-to-one conversions.
+**Calendar note:** **Castra Vetera annals (`CV y*`)** are the **primary operational record** for this war. Imperial **~M42** tithe strings are a **secondary correlate** (Chronostrife, **warp-leg** log variance) — **not** time dilation. **Warp** in the crucible theater is **lethal without Insular chart-houses** (local Navis coffin data); see [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md) and planning **§6**.
 
-**Primary source (canonical narrative):** the **38-chapter serial** in [`../../chronicles/00-foundation-war/`](../../chronicles/00-foundation-war/). **In-universe Drusus lens** (early Aethelgard / hunter-enclave / *Axiom* embryo — **legacy figures**): [`drusus-retrospective-aethelgard-first-quarter.md`](drusus-retrospective-aethelgard-first-quarter.md).  
-This file is the **staff / encyclopedia summary**: phases, poles, doctrine tags, and chapter pointers.
+**Primary narrative path (rewrite workspace):** read order and slug folders — [`../../chronicles/foundation-war/INDEX.md`](../../chronicles/foundation-war/INDEX.md) · [`../../chronicles/foundation-war/README.md`](../../chronicles/foundation-war/README.md) · [`../../chronicles/foundation-war/legacy-map.md`](../../chronicles/foundation-war/legacy-map.md). **Rewrite scaffold:** [`../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md).
+
+**Legacy guideline prose (numbered serial — archive):** [`../../chronicles/00-foundation-war/`](../../chronicles/00-foundation-war/) — superseded as **canonical path**; deep prose lives in [`../../chronicles/foundation-war/`](../../chronicles/foundation-war/). Use legacy files for scene inventory and diff reference only.
+
+**In-universe Drusus lens** (early Aethelgard texture — **legacy figures**): [`drusus-retrospective-aethelgard-first-quarter.md`](drusus-retrospective-aethelgard-first-quarter.md).
+
+This file is the **staff / encyclopedia summary**: phases, **theater nine-pole** roster, doctrine tags, and chapter pointers.
 
 ---
 
 ## 1. Summary
 
-The **Foundation War** is not a single front. It is the **contested birth** of a *Castra Vetera*–anchored Chapter inside a **nine-pole crucible**: gravitational violence, mercenary economics, xenos pressure, and **MoI–grade** machine hostility braided together until **doctrine becomes habitat**.
+The **Foundation War** is not a single front. It is the **contested birth** of a *Castra Vetera*–anchored Chapter inside a **nine-pole crucible** (one **visible** primary threat per pole; **Men of Iron** puppetry stays **implicit** until the terminal pole — see planning **§4**).
 
-Landing force is **~500 Batavi** supported by a **hunter-enclave** network, **Iron Highways** logistics, and **Lex Ignis** / ***Instrumentum Solum*** discipline that refuses performance theater in favor of **Shared Sweat** truth-tests with the populations they must recruit from.
+**Galactic frame (retcon lock):** **Insula Tenebrarum** subsector — **Castra Vetera** polity, **Nine Phalanx** mesh (**Ultima**, **Imperium Nihilus**). The Chapter holds a **delta island**: **fringe void** and **Tenebrarum Ribbon** outward; inward **Nihilus corridor** tithe and law. **Witness Ford** filters traffic; **Iron Highways** and **Forge / Tempest / Crown Marsh Channels** carry void logistics. Role: **wall against the tide** — evil does not pass unwitnessed; need passes under filter. Atlas: [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md).
+
+**Opening beat (CV y0):** The Chapter **crash-lands** on **Aethelgard Prime** after **lethal warp ingress** (Tenebrarum Ribbon / route without survivable **Insular chart-house** data) — wreckage theology, not a planned beachhead (planning **§1**, **§11.3**, **§12** Ch. 1).
+
+Landing force is **~500 Batavi** supported by **unclassified xenos mercenary pressure** on **Aethelgard** (author scaffold: **Kroot-kindred** logic in planning), **Iron Highways** logistics, and ***Lex Ignis*** / ***Instrumentum Solum*** discipline that refuses performance theater in favor of **Shared Sweat** truth-tests with the populations they must recruit from.
+
+**Joint inference rail:** Batavi and the ***Lex Ignis*** exploration battlegroup **file the same anomalies** long before the final encounter — parallel ledgers, shared blame, category-level hypothesis late — without MoI POV or early naming locks. Milestones: planning **§4.1** (M1–M7).
 
 **Tactical through-line:** bait doctrine, estuary warfare, mirror-route void geometry, “**silence that costs**,” and the slow hardening of **mud gospel** into ratified law.
 
-**Terminal crisis (annals):** **Lord Castellan Alaric** pushes into **Execratio** under crucible pressure (~**CV y19** / Incus–Vitreus Book III cluster). The Chapter survives only where **Triumvirate geometry** and **Axiom of Reason** practice hold; ***We hold*** crystalizes as **command gravity**, not slogan — see [`../../chronicles/00-foundation-war/chapter-25-the-beast-chapter.md`](../../chronicles/00-foundation-war/chapter-25-the-beast-chapter.md), [`../../chronicles/00-foundation-war/chapter-35-we-hold-anyway.md`](../../chronicles/00-foundation-war/chapter-35-we-hold-anyway.md).
+**Terminal crisis (annals):** **Lord Castellan Alaric** pushes into **Execratio** under crucible pressure (~**CV y19**, Q3 cluster). The Chapter survives only where **Triumvirate geometry** and **Axiom of Reason** practice hold; ***We hold*** crystallizes as **command gravity**, not slogan — [`the-beast-chapter/chapter.md`](../../chronicles/foundation-war/Q3-gulf-and-beast/the-beast-chapter/chapter.md), [`we-hold-anyway/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/we-hold-anyway/chapter.md).
 
-**Name & myth:** native terror-name **Der Batav** enters the record as **tide-shout** on the shingle (~**CV y24**); **Cohors Batavorum** is **Council-ratified** after closure (~**CV y29**; Instrumentum Solum coda) — see [`../../chronicles/00-foundation-war/chapter-30-tide-names.md`](../../chronicles/00-foundation-war/chapter-30-tide-names.md), [`../../chronicles/00-foundation-war/chapter-37-der-batav-council.md`](../../chronicles/00-foundation-war/chapter-37-der-batav-council.md), [`../../chronicles/00-foundation-war/chapter-38-instrumentum-solum.md`](../../chronicles/00-foundation-war/chapter-38-instrumentum-solum.md), and doctrinal gloss: [`../../lexicon-and-litanies/der-batav-myth-foundation.md`](../../lexicon-and-litanies/der-batav-myth-foundation.md).
+**Name & myth:** **Dual receipt** — witness **voice** (*Tide Names*, Q4) then council **ink** (~**CV y29**, *Der Batav Council*); **Cohors Batavorum** carries both; *Instrumentum Solum* coda files continuation — [`tide-names/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/tide-names/chapter.md), [`der-batav-council/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/der-batav-council/chapter.md), [`instrumentum-solum/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/instrumentum-solum/chapter.md), [`der-batav-myth-foundation.md`](../../lexicon-and-litanies/der-batav-myth-foundation.md) §IV.
 
 ---
 
-## 2. Nine poles (operational crucible)
+## 2. Nine poles (theater crucible — planning §11.1)
 
-*Canonical crucible lattice & planning notes:* [`../../FOUNDATION-WAR-RETCON-PLANNING.md`](../../FOUNDATION-WAR-RETCON-PLANNING.md) §§3–5 and §12 (enemy map / chapter architecture).
+*Canonical lattice, MoI rules, quarter architecture:* [`../../planning/FOUNDATION-WAR-RETCON-PLANNING.md`](../../planning/FOUNDATION-WAR-RETCON-PLANNING.md) **§§3–5**, **§4.1**, **§11.1**, **§12**.
 
-| Pole (working name) | Role in war | Serial touchpoints (examples) |
-|---|---|---|
-| **I — Aethelgard (Prime / crucible anchor)** | Recruitment crucible, tidal geography, **Shared Sweat** habitat | [`chapter-01-mud-gospel.md`](../../chronicles/00-foundation-war/chapter-01-mud-gospel.md) onward; Drusus archive (early-quarter **texture**): [`drusus-retrospective-aethelgard-first-quarter.md`](drusus-retrospective-aethelgard-first-quarter.md) |
-| **II — Noviomagus (forge / ratification)** | Forges, law tables, **Instrumentum Solum** posture | [`chapter-04-seventy-two.md`](../../chronicles/00-foundation-war/chapter-04-seventy-two.md); [`chapter-37-der-batav-council.md`](../../chronicles/00-foundation-war/chapter-37-der-batav-council.md); [`chapter-38-instrumentum-solum.md`](../../chronicles/00-foundation-war/chapter-38-instrumentum-solum.md) |
-| **III — Tigris / mercenary economics** | Contracts, deniable logistics, ***Lex Ignis*** charter friction | [`chapter-02-the-arrangement.md`](../../chronicles/00-foundation-war/chapter-02-the-arrangement.md); ***Lex Ignis*** through-line from [`chapter-01-mud-gospel.md`](../../chronicles/00-foundation-war/chapter-01-mud-gospel.md) onward |
-| **IV — Labyrinth / tunnels** | Subsurface denial, hunter-enclave war-in-miniature | [`chapter-07-living-specimen.md`](../../chronicles/00-foundation-war/chapter-07-living-specimen.md); [`chapter-10-inverted-hive.md`](../../chronicles/00-foundation-war/chapter-10-inverted-hive.md) |
-| **V — Reef hazard (void geography)** | Navigation mortality, **Mirror Routes** | [`chapter-06-mirror-routes.md`](../../chronicles/00-foundation-war/chapter-06-mirror-routes.md) |
-| **VI — Salt / estuary pole** | Crown push, estuary doctrine, tidal law | [`chapter-28-forward-to-the-crown.md`](../../chronicles/00-foundation-war/chapter-28-forward-to-the-crown.md); [`chapter-29-estuary-doctrine.md`](../../chronicles/00-foundation-war/chapter-29-estuary-doctrine.md); [`chapter-27-half-chapter-still-standing.md`](../../chronicles/00-foundation-war/chapter-27-half-chapter-still-standing.md) |
-| **VII — Incus (gravity anvil / flare drowned sun)** | Incus quotas, flare geometry, **Execratio** pressure | [`chapter-24-incus-still-burns.md`](../../chronicles/00-foundation-war/chapter-24-incus-still-burns.md); [`chapter-25-the-beast-chapter.md`](../../chronicles/00-foundation-war/chapter-25-the-beast-chapter.md); [`chapter-13-flare-geometries.md`](../../chronicles/00-foundation-war/chapter-13-flare-geometries.md) |
-| **VIII — Shingle / amphibious exterminatus-adjacent warfare** | Native myth substrate, tidal battle rhythm | [`chapter-30-tide-names.md`](../../chronicles/00-foundation-war/chapter-30-tide-names.md); [`chapter-33-halo-mouth.md`](../../chronicles/00-foundation-war/chapter-33-halo-mouth.md) |
-| **IX — MoI coda / machine hatred** | Terminal machine hostility & closure mechanics | [`chapter-34-lecture-in-vacuum.md`](../../chronicles/00-foundation-war/chapter-34-lecture-in-vacuum.md); [`chapter-36-the-core-refuses.md`](../../chronicles/00-foundation-war/chapter-36-the-core-refuses.md); [`chapter-38-instrumentum-solum.md`](../../chronicles/00-foundation-war/chapter-38-instrumentum-solum.md) |
+| # | Pole (shorthand) | Primary anchor(s) | Visible enemy (briefing) | Example narrative slugs |
+| --- | --- | --- | --- | --- |
+| **1** | **Moon Hunt** | **Aethelgard Prime** | Unclassified **xenos mercenary** enclaves (hunter-kindreds) | [`mud-gospel/…`](../../chronicles/foundation-war/Q1-moon-hunt/mud-gospel/chapter.md) → [`second-quarter-brief/…`](../../chronicles/foundation-war/Q1-moon-hunt/second-quarter-brief/chapter.md); closure [`estuary-doctrine/…`](../../chronicles/foundation-war/Q4-der-batav/estuary-doctrine/chapter.md) |
+| **2** | **Inverted War** | **Incus-Gravis** hives | **Genestealer cult** | [`inverted-hive/…`](../../chronicles/foundation-war/Q2-inverted-war/inverted-hive/chapter.md) → [`tertius-anvil/…`](../../chronicles/foundation-war/Q2-inverted-war/tertius-anvil/chapter.md) |
+| **3** | **Gulf Tombs** | **Bifrons-Ferrum** I & II (single pole) | **Degrading Necron dynasty** (+ flayer outbreak) | [`gulf-deployment/…`](../../chronicles/foundation-war/Q3-gulf-and-beast/gulf-deployment/chapter.md) → [`dynasty-last-command/…`](../../chronicles/foundation-war/Q3-gulf-and-beast/dynasty-last-command/chapter.md) |
+| **4** | **Glass Ocean** | **Vitreus** | **Chaos cultists + localized daemons** | [`glass-overture/…`](../../chronicles/foundation-war/Q2-inverted-war/glass-overture/chapter.md); [`vitreus-bleed/…`](../../chronicles/foundation-war/Q3-gulf-and-beast/vitreus-bleed/chapter.md) |
+| **5** | **Ring Pilgrimage** | **Logus Ring** | **Chaos cult** (scrappers / wreck-rites) | [`ring-of-teeth/…`](../../chronicles/foundation-war/Q2-inverted-war/ring-of-teeth/chapter.md) |
+| **6** | **Flare Forge** | **Ignis-Minor** | **Drukhari** | [`flare-geometries/…`](../../chronicles/foundation-war/Q2-inverted-war/flare-geometries/chapter.md) |
+| **7** | **Acid Maw** | **Grendel’s Maw** (Tempestas-Major-VII) | **Chaos-touched warband** + fauna | [`maw-exercise/…`](../../chronicles/foundation-war/Q3-gulf-and-beast/maw-exercise/chapter.md) |
+| **8** | **Mirror Lanes** | **Silica Field** | **Genestealer brood** (reflection geometry) | [`mirror-routes/…`](../../chronicles/foundation-war/Q1-moon-hunt/mirror-routes/chapter.md) (preface); [`mirror-brood/…`](../../chronicles/foundation-war/Q4-der-batav/mirror-brood/chapter.md) |
+| **9** | **Focal Crown** | **Solaris-Alpha** + Halo egress | **Men of Iron** (late, unmistakable) | [`prism-war/…`](../../chronicles/foundation-war/Q4-der-batav/prism-war/chapter.md) → [`the-core-refuses/…`](../../chronicles/foundation-war/Q4-der-batav/the-core-refuses/chapter.md) |
+
+**Atlas geography** (stars, moons, mesh names — *not* the same grid as the theater pole roster): [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md) · [`../../atlas-and-topography/systems/system-ii-crucible.md`](../../atlas-and-topography/systems/system-ii-crucible.md).
 
 ### Lex Ignis (*tag*, not a battle cry)
 
-**Lex Ignis** marks Batavi communications where **truth-cost** is explicit: silence purchased, lie taxed, channel hazard named. It is the **discipline of flame** — what may be said, what must not be, and what burns if violated. See planning notes: [`../../FOUNDATION-WAR-RETCON-PLANNING.md`](../../FOUNDATION-WAR-RETCON-PLANNING.md) (instrument lists / doctrinal cadence).
+**Lex Ignis** marks Batavi communications where **truth-cost** is explicit: silence purchased, lie taxed, channel hazard named. It is the **discipline of flame** — what may be said, what must not be, and what burns if violated. See planning notes: [`../../planning/FOUNDATION-WAR-RETCON-PLANNING.md`](../../planning/FOUNDATION-WAR-RETCON-PLANNING.md).
 
 ---
 
@@ -53,18 +66,19 @@ Figures fluctuate by pole and week; treat as **staff estimates** tied to serial 
 | :--- | :--- | :--- |
 | Batavi landed | **~500** | Small founding footprint; crucible replaces numbers with *geometry* |
 | peak weekly dead (acute pulses) | **9–66** | spikes track void accidents, tunnel collapses, estuary pushes, MoI encounters |
-| Versibar / curse-adjacent loss (cumulative rites) | **low tens – low hundreds** | spikes around **Execratio** clustering; **includes** brothers elevated from **replenishment** drafted during the crucible, not founding hull alone — serial audit may tighten tally |
+| Versibar / curse-adjacent loss (cumulative rites) | **low tens – low hundreds** | spikes around **Execratio** clustering; **includes** brothers elevated from **replenishment** drafted during the crucible, not founding hull alone — tighten at serial lock |
 | rational line at crucible terminus (~**CV y29**) | **~480–520** | **~500** battle-brothers **not** in **Execratio** — population lock before post-war expansion and **Valerian Heresy** math; overlaps Imperial **~045.M42** *approx* |
 
 ---
 
-## 4. Phase rail (annals-first)
+## 4. Phase rail (quarters — annals-first)
 
-| Phase | CV span (subjective) | Imperial sketch | Focus |
+| Quarter | CV span (draft) | Imperial sketch | Focus |
 | :--- | :--- | :--- | :--- |
-| **I — Establishment** | **y0–y3** | ~015–018.M42 *approx* | landing economics, **Seventy-Two**, first law tables |
-| **II — Crucible widening** | **y4–y12** | ~018–027.M42 *approx* | hunter mesh, tunnel war, **Mirror Routes** |
-| **III — Tidal + machine endgame** | **y13–y29** | ~027–045.M42 *approx* | ash/estuary, Incus echo, ***We hold***, Council / **Cohors Batavorum** |
+| **Q1 — Moon Hunt** | **y0–y7** | ~015–022.M42 *approx* | Aethelgard mud crucible; merc xenos hunt; Silica **preface** |
+| **Q2 — Inverted War** | **y8–y14** | ~022–029.M42 *approx* | Hive cult, ring, flare, glass preface; trust erosion |
+| **Q3 — Gulf & beast** | **y15–y21** | ~029–036.M42 *approx* | Necron / flayer; maw; Incus echo; **Execratio** |
+| **Q4 — Der Batav** | **y22–y29** | ~036–045.M42 *approx* | Estuary return; *Tide Names*; mirror brood; **MoI** terminal cluster; Council |
 
 ---
 
@@ -74,41 +88,65 @@ Figures fluctuate by pole and week; treat as **staff estimates** tied to serial 
 - **Bait doctrine:** accept perceived weakness as luring geometry; execution must be **silent** until commitment.  
 - **Ash-throat logistics:** supply lines that survive particulate murder and tidal clocks.  
 - **Axiom of Reason:** Triumvirate practice that keeps *Furor / Exanimus* inside a commandable corridor; failure mode is **Execratio**.  
-- ***We hold*:** the **seal phrase** when retreat would break more brothers than the line — **Ch.35** in the serial.
+- ***We hold*:** the **seal phrase** when retreat would break more brothers than the line — [`we-hold-anyway/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/we-hold-anyway/chapter.md).
 
 ---
 
-## 6. Serial index (chapter files)
+## 6. Narrative index (slug tree — canonical path)
 
-Read in numeric order under [`../../chronicles/00-foundation-war/`](../../chronicles/00-foundation-war/).
+Read in saga order: [`../../chronicles/foundation-war/INDEX.md`](../../chronicles/foundation-war/INDEX.md). Each folder’s **`chapter.md`** ends with a **`Next:`** link for linear reading.
 
-| Ch. | File | Ch. | File |
-| ---: | :--- | ---: | :--- |
-| 1 | [`chapter-01-mud-gospel.md`](../../chronicles/00-foundation-war/chapter-01-mud-gospel.md) | 20 | [`chapter-20-skin-debt.md`](../../chronicles/00-foundation-war/chapter-20-skin-debt.md) |
-| 2 | [`chapter-02-the-arrangement.md`](../../chronicles/00-foundation-war/chapter-02-the-arrangement.md) | 21 | [`chapter-21-bridge-saints.md`](../../chronicles/00-foundation-war/chapter-21-bridge-saints.md) |
-| 3 | [`chapter-03-dog-logic.md`](../../chronicles/00-foundation-war/chapter-03-dog-logic.md) | 22 | [`chapter-22-maw-exercise.md`](../../chronicles/00-foundation-war/chapter-22-maw-exercise.md) |
-| 4 | [`chapter-04-seventy-two.md`](../../chronicles/00-foundation-war/chapter-04-seventy-two.md) | 23 | [`chapter-23-dynasty-last-command.md`](../../chronicles/00-foundation-war/chapter-23-dynasty-last-command.md) |
-| 5 | [`chapter-05-bait-doctrine.md`](../../chronicles/00-foundation-war/chapter-05-bait-doctrine.md) | 24 | [`chapter-24-incus-still-burns.md`](../../chronicles/00-foundation-war/chapter-24-incus-still-burns.md) |
-| 6 | [`chapter-06-mirror-routes.md`](../../chronicles/00-foundation-war/chapter-06-mirror-routes.md) | 25 | [`chapter-25-the-beast-chapter.md`](../../chronicles/00-foundation-war/chapter-25-the-beast-chapter.md) |
-| 7 | [`chapter-07-living-specimen.md`](../../chronicles/00-foundation-war/chapter-07-living-specimen.md) | 26 | [`chapter-26-vitreus-bleed.md`](../../chronicles/00-foundation-war/chapter-26-vitreus-bleed.md) |
-| 8 | [`chapter-08-cord-weight.md`](../../chronicles/00-foundation-war/chapter-08-cord-weight.md) | 27 | [`chapter-27-half-chapter-still-standing.md`](../../chronicles/00-foundation-war/chapter-27-half-chapter-still-standing.md) |
-| 9 | [`chapter-09-second-quarter-brief.md`](../../chronicles/00-foundation-war/chapter-09-second-quarter-brief.md) | 28 | [`chapter-28-forward-to-the-crown.md`](../../chronicles/00-foundation-war/chapter-28-forward-to-the-crown.md) |
-| 10 | [`chapter-10-inverted-hive.md`](../../chronicles/00-foundation-war/chapter-10-inverted-hive.md) | 29 | [`chapter-29-estuary-doctrine.md`](../../chronicles/00-foundation-war/chapter-29-estuary-doctrine.md) |
-| 11 | [`chapter-11-output-quota.md`](../../chronicles/00-foundation-war/chapter-11-output-quota.md) | 30 | [`chapter-30-tide-names.md`](../../chronicles/00-foundation-war/chapter-30-tide-names.md) |
-| 12 | [`chapter-12-ring-of-teeth.md`](../../chronicles/00-foundation-war/chapter-12-ring-of-teeth.md) | 31 | [`chapter-31-mirror-brood.md`](../../chronicles/00-foundation-war/chapter-31-mirror-brood.md) |
-| 13 | [`chapter-13-flare-geometries.md`](../../chronicles/00-foundation-war/chapter-13-flare-geometries.md) | 32 | [`chapter-32-prism-war.md`](../../chronicles/00-foundation-war/chapter-32-prism-war.md) |
-| 14 | [`chapter-14-brood-signature.md`](../../chronicles/00-foundation-war/chapter-14-brood-signature.md) | 33 | [`chapter-33-halo-mouth.md`](../../chronicles/00-foundation-war/chapter-33-halo-mouth.md) |
-| 15 | [`chapter-15-exanimus-choir.md`](../../chronicles/00-foundation-war/chapter-15-exanimus-choir.md) | 34 | [`chapter-34-lecture-in-vacuum.md`](../../chronicles/00-foundation-war/chapter-34-lecture-in-vacuum.md) |
-| 16 | [`chapter-16-glass-overture.md`](../../chronicles/00-foundation-war/chapter-16-glass-overture.md) | 35 | [`chapter-35-we-hold-anyway.md`](../../chronicles/00-foundation-war/chapter-35-we-hold-anyway.md) |
-| 17 | [`chapter-17-tertius-anvil.md`](../../chronicles/00-foundation-war/chapter-17-tertius-anvil.md) | 36 | [`chapter-36-the-core-refuses.md`](../../chronicles/00-foundation-war/chapter-36-the-core-refuses.md) |
-| 18 | [`chapter-18-years-eight-to-fifteen.md`](../../chronicles/00-foundation-war/chapter-18-years-eight-to-fifteen.md) | 37 | [`chapter-37-der-batav-council.md`](../../chronicles/00-foundation-war/chapter-37-der-batav-council.md) |
-| 19 | [`chapter-19-gulf-deployment.md`](../../chronicles/00-foundation-war/chapter-19-gulf-deployment.md) | 38 | [`chapter-38-instrumentum-solum.md`](../../chronicles/00-foundation-war/chapter-38-instrumentum-solum.md) |
+| # | Chapter slug | Title |
+| ---: | --- | --- |
+| 1 | [`Q1-moon-hunt/mud-gospel/chapter.md`](../../chronicles/foundation-war/Q1-moon-hunt/mud-gospel/chapter.md) | *Mud Gospel* |
+| 2 | [`Q1-moon-hunt/the-arrangement/chapter.md`](../../chronicles/foundation-war/Q1-moon-hunt/the-arrangement/chapter.md) | *The Arrangement* |
+| 3 | [`Q1-moon-hunt/dog-logic/chapter.md`](../../chronicles/foundation-war/Q1-moon-hunt/dog-logic/chapter.md) | *Dog Logic* |
+| 4 | [`Q1-moon-hunt/seventy-two/chapter.md`](../../chronicles/foundation-war/Q1-moon-hunt/seventy-two/chapter.md) | *Seventy-Two* |
+| 5 | [`Q1-moon-hunt/bait-doctrine/chapter.md`](../../chronicles/foundation-war/Q1-moon-hunt/bait-doctrine/chapter.md) | *Bait Doctrine* |
+| 6 | [`Q1-moon-hunt/mirror-routes/chapter.md`](../../chronicles/foundation-war/Q1-moon-hunt/mirror-routes/chapter.md) | *Mirror Routes* |
+| 7 | [`Q1-moon-hunt/living-specimen/chapter.md`](../../chronicles/foundation-war/Q1-moon-hunt/living-specimen/chapter.md) | *Living Specimen* |
+| 8 | [`Q1-moon-hunt/cord-weight/chapter.md`](../../chronicles/foundation-war/Q1-moon-hunt/cord-weight/chapter.md) | *Cord Weight* |
+| 9 | [`Q1-moon-hunt/second-quarter-brief/chapter.md`](../../chronicles/foundation-war/Q1-moon-hunt/second-quarter-brief/chapter.md) | *Second Quarter Brief* |
+| 10 | [`Q2-inverted-war/inverted-hive/chapter.md`](../../chronicles/foundation-war/Q2-inverted-war/inverted-hive/chapter.md) | *Inverted Hive* |
+| 11 | [`Q2-inverted-war/output-quota/chapter.md`](../../chronicles/foundation-war/Q2-inverted-war/output-quota/chapter.md) | *Output Quota* |
+| 12 | [`Q2-inverted-war/ring-of-teeth/chapter.md`](../../chronicles/foundation-war/Q2-inverted-war/ring-of-teeth/chapter.md) | *Ring of Teeth* |
+| 13 | [`Q2-inverted-war/flare-geometries/chapter.md`](../../chronicles/foundation-war/Q2-inverted-war/flare-geometries/chapter.md) | *Flare Geometries* |
+| 14 | [`Q2-inverted-war/brood-signature/chapter.md`](../../chronicles/foundation-war/Q2-inverted-war/brood-signature/chapter.md) | *Brood Signature* |
+| 15 | [`Q2-inverted-war/exanimus-choir/chapter.md`](../../chronicles/foundation-war/Q2-inverted-war/exanimus-choir/chapter.md) | *Exanimus Choir* |
+| 16 | [`Q2-inverted-war/glass-overture/chapter.md`](../../chronicles/foundation-war/Q2-inverted-war/glass-overture/chapter.md) | *Glass Overture* |
+| 17 | [`Q2-inverted-war/tertius-anvil/chapter.md`](../../chronicles/foundation-war/Q2-inverted-war/tertius-anvil/chapter.md) | *Tertius Anvil* |
+| 18 | [`Q2-inverted-war/years-eight-to-fifteen/chapter.md`](../../chronicles/foundation-war/Q2-inverted-war/years-eight-to-fifteen/chapter.md) | *Years Eight to Fifteen* |
+| 19 | [`Q3-gulf-and-beast/gulf-deployment/chapter.md`](../../chronicles/foundation-war/Q3-gulf-and-beast/gulf-deployment/chapter.md) | *Gulf Deployment* |
+| 20 | [`Q3-gulf-and-beast/skin-debt/chapter.md`](../../chronicles/foundation-war/Q3-gulf-and-beast/skin-debt/chapter.md) | *Skin Debt* |
+| 21 | [`Q3-gulf-and-beast/bridge-saints/chapter.md`](../../chronicles/foundation-war/Q3-gulf-and-beast/bridge-saints/chapter.md) | *Bridge Saints* |
+| 22 | [`Q3-gulf-and-beast/maw-exercise/chapter.md`](../../chronicles/foundation-war/Q3-gulf-and-beast/maw-exercise/chapter.md) | *Maw Exercise* |
+| 23 | [`Q3-gulf-and-beast/dynasty-last-command/chapter.md`](../../chronicles/foundation-war/Q3-gulf-and-beast/dynasty-last-command/chapter.md) | *Dynasty's Last Command* |
+| 24 | [`Q3-gulf-and-beast/incus-still-burns/chapter.md`](../../chronicles/foundation-war/Q3-gulf-and-beast/incus-still-burns/chapter.md) | *Incus Still Burns* |
+| 25 | [`Q3-gulf-and-beast/the-beast-chapter/chapter.md`](../../chronicles/foundation-war/Q3-gulf-and-beast/the-beast-chapter/chapter.md) | *The Beast Chapter* |
+| 26 | [`Q3-gulf-and-beast/vitreus-bleed/chapter.md`](../../chronicles/foundation-war/Q3-gulf-and-beast/vitreus-bleed/chapter.md) | *Vitreus Bleed* |
+| 27 | [`Q3-gulf-and-beast/half-chapter-still-standing/chapter.md`](../../chronicles/foundation-war/Q3-gulf-and-beast/half-chapter-still-standing/chapter.md) | *Half Chapter Still Standing* |
+| 28 | [`Q3-gulf-and-beast/forward-to-the-crown/chapter.md`](../../chronicles/foundation-war/Q3-gulf-and-beast/forward-to-the-crown/chapter.md) | *Forward to the Crown* |
+| 29 | [`Q4-der-batav/estuary-doctrine/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/estuary-doctrine/chapter.md) | *Estuary Doctrine* |
+| 30 | [`Q4-der-batav/tide-names/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/tide-names/chapter.md) | *Tide Names* |
+| 31 | [`Q4-der-batav/mirror-brood/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/mirror-brood/chapter.md) | *Mirror Brood* |
+| 32 | [`Q4-der-batav/prism-war/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/prism-war/chapter.md) | *Prism War* |
+| 33 | [`Q4-der-batav/halo-mouth/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/halo-mouth/chapter.md) | *Halo Mouth* |
+| 34 | [`Q4-der-batav/lecture-in-vacuum/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/lecture-in-vacuum/chapter.md) | *Lecture in Vacuum* |
+| 35 | [`Q4-der-batav/we-hold-anyway/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/we-hold-anyway/chapter.md) | *We Hold Anyway* |
+| 36 | [`Q4-der-batav/the-core-refuses/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/the-core-refuses/chapter.md) | *The Core Refuses* |
+| 37 | [`Q4-der-batav/der-batav-council/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/der-batav-council/chapter.md) | *Der Batav Council* |
+| 38 | [`Q4-der-batav/instrumentum-solum/chapter.md`](../../chronicles/foundation-war/Q4-der-batav/instrumentum-solum/chapter.md) | *Instrumentum Solum* |
+
+### Legacy numbered serial (archive)
+
+Scene inventory / diff reference only: [`../../chronicles/00-foundation-war/`](../../chronicles/00-foundation-war/) (banner: [`README.md`](../../chronicles/00-foundation-war/README.md)). File-by-file map: [`../../chronicles/foundation-war/legacy-map.md`](../../chronicles/foundation-war/legacy-map.md).
 
 ---
 
 ## 7. Linked staff articles
 
-- **Planning lattice (nine poles / props / time):** [`../../FOUNDATION-WAR-RETCON-PLANNING.md`](../../FOUNDATION-WAR-RETCON-PLANNING.md)  
+- **Planning lattice (nine poles / props / time / §4.1 joint rail):** [`../../planning/FOUNDATION-WAR-RETCON-PLANNING.md`](../../planning/FOUNDATION-WAR-RETCON-PLANNING.md)  
+- **Rewrite scaffold (phases + repo rules):** [`../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md)  
 - **Master chronology (Imperial index + annals):** [`master-chronology.md`](master-chronology.md)  
 - **Mud / crucible biology:** [`../../biological-encyclopedia-bestiary/biogeographic-matrix-crucible.md`](../../biological-encyclopedia-bestiary/biogeographic-matrix-crucible.md)  
 - **Der Batav myth (operational):** [`../../lexicon-and-litanies/der-batav-myth-foundation.md`](../../lexicon-and-litanies/der-batav-myth-foundation.md)  
@@ -118,8 +156,8 @@ Read in numeric order under [`../../chronicles/00-foundation-war/`](../../chroni
 
 ## 8. Archival / in-universe supplements
 
-**Drusus retrospective (Aethelgard first quarter — moved from chronicles):** [`drusus-retrospective-aethelgard-first-quarter.md`](drusus-retrospective-aethelgard-first-quarter.md) — **voice** and early-war psychology; **staff strength math** = this file’s §§1–3 + serial.
+**Drusus retrospective (Aethelgard first quarter — moved from chronicles):** [`drusus-retrospective-aethelgard-first-quarter.md`](drusus-retrospective-aethelgard-first-quarter.md) — **voice** and early-war psychology; **staff strength math** = this file’s §§1–3 + locked serial beats.
 
 ---
 
-*Maintainer note:* when adding a new Foundation beat, update **this summary**, **`master-chronology.md`**, and the relevant **chapter** — not orphaned recap files.
+*Maintainer note:* when adding a new Foundation beat, update **this summary**, **`master-chronology.md`**, the **slug** `chapter.md` (and saga `INDEX.md` / `Next:` chain if order changes), and ripple links from legacy only if still needed for grep hygiene.

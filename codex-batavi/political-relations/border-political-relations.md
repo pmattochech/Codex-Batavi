@@ -9,9 +9,13 @@
 
 ## I. GEOPOLITICAL CONTEXT (THE WALL’S POSITION)
 
-The Castra Vetera subsector occupies a singular place on the *Imperium Nihilus* board: it is the only safe, sustained passage between the Imperial interior and regions beyond Astronomican reach. That **Porta Nihili** function is not symbolic; it is logistics, mathematics, and irreversibility. Extinguishing Noviomagus Prime equals sealing the only emergency exit hatch of a burning compartment.
+**Insula Tenebrarum** — the **Castra Vetera** subsector — is a **delta island** in **Ultima Segmentum**, **Imperium Nihilus**: forge and granary worlds between **fringe void** (outward xenos hunger) and the **Tenebrarum Ribbon** (regional warp storm — cult and renegade bleed). The *Cohors Batavorum* holds **Witness Ford** and the inner **marsh channel** triangle so the **tide does not flood inward** — Chaos traffic, xenos opportunism, and panic migration are **filtered**, not invited.
 
-That geopolitical reality is the foundation on which Lord Castellan Alaric von Helis built the Chapter’s entire political architecture. He does not bargain with the Imperium out of loyalty or faith; he bargains because both sides hold something the other needs and cannot get elsewhere. The Chapter offers the gate and the blood. The Imperium offers legitimacy and administrative silence. It is an industrial contract, not a sacred oath.
+That filter is not symbolic. It is logistics, mathematics, and irreversibility. Extinguishing Noviomagus Prime equals leaving a **breach** in the inward seal the Administratum has learned to price.
+
+Lord Castellan Alaric von Helis built the Chapter’s political architecture on that math. He does not bargain from chapel loyalty; he bargains because both sides hold something the other cannot replace. The Chapter offers the **wall** and the blood. The Imperium offers legitimacy and administrative silence. Industrial contract — oath to the **Emperor** as **Ancestor-Sovereign**, not Ministorum god-pageantry.
+
+Atlas lock: [`castra-vetera-galactic-lock.md`](../atlas-and-topography/castra-vetera-galactic-lock.md).
 
 ---
 

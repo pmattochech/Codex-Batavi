@@ -10,7 +10,7 @@ The service door, reinforced with adamantium to withstand bombardment, opened wi
 
 — **Come in and clean your boots!** — Martha’s voice cut through the rain outside before the first giant even entered.
 
-Logan Grimnar, the Great Wolf of Fenris, came in. His Terminator armor was dented, coated in black soot from some dead world in the Ghoul Stars. He looked tired—a mountain of skin and ceramite carrying the galaxy’s weight. Behind him, Ragnar Blackmane carried a barrel of *mjod* on one shoulder and a heavy reinforced wooden cargo box on the other.
+Logan Grimnar, the Great Wolf of Fenris, came in. His Terminator armor was dented, coated in black soot from some dead world in the Ghoul Stars. He looked tired — a mountain of skin and ceramite carrying the galaxy’s weight. Behind him, Ragnar Blackmane carried a barrel of *mjod* on one shoulder and a heavy reinforced wooden cargo box on the other.
 
 — Old Mother — Grimnar greeted, his voice a hoarse thunder. He obeyed, scraping magnetic boots on the industrial metal mat Jonas had installed. — We bring hunger and stories. Does Noviomagus have bread to satisfy the first?
 
@@ -28,7 +28,7 @@ Ragnar stopped, fork halfway. The Jarl of Fenris grinned, showing fangs. — You
 
 — **The song is irrelevant,** — Varro cut in, **wolf-skull helm** turned to the young Jarl. — **What matters is that the enemy ceased vital function. Ragnar’s method was… inefficient, but effective.**
 
-When dinner ended its nutritional utility and *mjod* began to circulate, Logan Grimnar grew serious. He signaled Ragnar, who brought the reinforced wooden box. There were breathing holes in the box. A low sound came from inside—not a growl, but heavy breathing.
+When dinner ended its nutritional utility and *mjod* began to circulate, Logan Grimnar grew serious. He signaled Ragnar, who brought the reinforced wooden box. There were breathing holes in the box. A low sound came from inside — not a growl, but heavy breathing.
 
 — Alaric — said Grimnar. — Fenris pays its debts. Your kitchen feeds us, your yards repair our ships. I brought something for you. And for the girl.
 
@@ -52,7 +52,7 @@ Alaric took the pup by the scruff. The wolf locked its body, accepting gravity.
 
 — **Scanning,** — the Apothecary answered at once. — **Bone structure fifteen percent denser than Fenrisian average. Vocal cords atrophied, but hearing amplified forty percent. He spends no energy on noise. All metabolic capacity goes to perception and bite.**
 
-A sub-millimeter contraction locked Alaric’s jaw—the closest he would get to a smile. — **You were going to sacrifice the best scout in the litter because he could not sing, Logan. That is resource waste.**
+A sub-millimeter contraction locked Alaric’s jaw — the closest he would get to a smile. — **You were going to sacrifice the best scout in the litter because he could not sing, Logan. That is resource waste.**
 
 Alaric set the wolf on the floor. The animal walked straight to Elara Solis’s side and sat on the Admiral’s boots, mounting guard facing the door.
 
@@ -68,4 +68,4 @@ That night, while Fenrisians slept dreaming of loud battles, Alaric von Helis st
 
 ---
 
-***Strategium* note (symbolic parallel):** *Ash* does not replace the **Batav Wolf trial** (*Canis Batavorum* in a containment chamber; see [diplomacy-aethelgard.md](diplomacy-aethelgard.md)), but **mirrors** the psychic criterion demanded of the candidate: impose **dominance** without vocal spectacle, without uncontrolled *Furor*—the “different frequency” as advantage, not flaw. *See:* [military-hierarchy.md](../../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
+***Strategium* note (symbolic parallel):** *Ash* does not replace the **Batav Wolf trial** (*Canis Batavorum* in a containment chamber; see [diplomacy-aethelgard.md](diplomacy-aethelgard.md)), but **mirrors** the psychic criterion demanded of the candidate: impose **dominance** without vocal spectacle, without uncontrolled *Furor* — the “different frequency” as advantage, not flaw. *See:* [military-hierarchy.md](../../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.

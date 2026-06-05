@@ -1,5 +1,7 @@
 # THE CALL TO THE THRONE
 
+> **LEGACY — superseded (May 2026).** This draft is **retired** from active canon. It uses obsolete geography (*Loken Passage*, *Porta Nihili* corridor myth, **temporal** *Nihili Protocol* wording) and a **175.M42** Trajann beat the project may **relocate or drop**. **Do not** extend or cite in new atlas, planning, or chronicle prose unless explicitly mining salvage. **Successor beats** (Custodes calibration, Tyvar’s seal, Versibar briefing) **TBD** — likely folded into **Silent Vigil / audit** material or cut. [`seal-of-the-portal.md`](seal-of-the-portal.md) still references this file until that arc is rewritten.
+
 *(175.M42 — Noviomagus Prime, Castra Vetera Subsector)*
 
 ---

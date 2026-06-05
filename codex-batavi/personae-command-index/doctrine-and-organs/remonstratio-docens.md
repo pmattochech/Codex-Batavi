@@ -85,49 +85,49 @@ The hololith above the strategium table threw a wireframe of the hab‑spire dis
 
 The Raven Guard Captain spoke with the quiet certainty of a knife sliding into a sheath.
 
-—We go high. We pin escape vectors. We cut the throat at level forty and purge downward. No detours.
+— We go high. We pin escape vectors. We cut the throat at level forty and purge downward. No detours.
 
 A Black Templar gave a low, approving sound. Two other helms inclined. The plan had the crispness men loved when they were tired.
 
 The Batavi did not echo assent. He stayed facing the projection, unmoving, as if his armor had been bolted to the deck.
 
-Then he spoke—no ritual word, no challenge. Just the objection, delivered like a maintenance report.
+Then he spoke — no ritual word, no challenge. Just the objection, delivered like a maintenance report.
 
-—Level forty assumes void‑tight interior lines. This building doesn’t have them. The atrium is open to the ash‑winds. When you breach, you’ll lose visual in the second stairwell. Their vox‑handler will pull you into a crossfire from above.
+— Level forty assumes void‑tight interior lines. This building doesn’t have them. The atrium is open to the ash‑winds. When you breach, you’ll lose visual in the second stairwell. Their vox‑handler will pull you into a crossfire from above.
 
 Kallistratus watched the room tighten. The Black Templar’s helm turned a fraction, offended by the sheer normality of being contradicted.
 
 The Raven Guard Captain did not raise his voice.
 
-—Explain your alternative.
+— Explain your alternative.
 
-—We take forty‑two first, not forty. Put one brother with a long gun on the service gantry to kill the vox‑handler the moment he signals. Then we collapse their angles and come down with them blind.
+— We take forty‑two first, not forty. Put one brother with a long gun on the service gantry to kill the vox‑handler the moment he signals. Then we collapse their angles and come down with them blind.
 
 A beat of silence. Kallistratus saw it in the Captain’s stillness: calculation, not pride.
 
 The Black Templar couldn’t contain himself.
 
-—You speak as though your doubt outranks his authority.
+— You speak as though your doubt outranks his authority.
 
 The Batavi did not look at him.
 
-—Authority doesn’t stop rounds.
+— Authority doesn’t stop rounds.
 
 The Templar’s gauntlet tightened on the table edge. Kallistratus felt the old Deathwatch problem surface: different Chapters, different meanings for the same act.
 
 The Raven Guard Captain’s voice cut through.
 
-—We do not argue motives. We argue geometry.
+— We do not argue motives. We argue geometry.
 
 He leaned closer to the hololith, eyes flicking across vectors.
 
-—If you’re wrong, you’ll die first. If you’re right, you’ll save us all.
+— If you’re wrong, you’ll die first. If you’re right, you’ll save us all.
 
 He paused, then pointed.
 
-—We’ll test it. Auspex and servo‑skulls. Two minutes. If the atrium leaks wind like you claim, we revise.
+— We’ll test it. Auspex and servo‑skulls. Two minutes. If the atrium leaks wind like you claim, we revise.
 
-Kallistratus watched the chamber’s skull‑servitors spool up. A servo‑skull lifted, drifting toward the schematic feed, and the auspex overlay updated—pressure differentials, thermal drift, particulate density.
+Kallistratus watched the chamber’s skull‑servitors spool up. A servo‑skull lifted, drifting toward the schematic feed, and the auspex overlay updated — pressure differentials, thermal drift, particulate density.
 
 A thin line of data spiked red.
 
@@ -135,37 +135,37 @@ The atrium breathed ash like a lung.
 
 Kallistratus heard the Raven Guard Captain’s exhale through his vox, controlled and faintly sour.
 
-—So.
+— So.
 
 The Batavi said nothing. He didn’t savor it. He didn’t posture. He just waited, as if being right was irrelevant compared to what it forced next.
 
 The Captain re‑plotted without ceremony.
 
-—We take forty‑two first. We kill their vox‑handler. Then we come down.
+— We take forty‑two first. We kill their vox‑handler. Then we come down.
 
 The Black Templar’s silence became a thing you could trip over.
 
 When the briefing broke, Kallistratus followed the Batavi into the corridor, where the ship’s deck trembled with distant engine‑work.
 
-—Why did you do that in front of them? he asked. —You knew what it would sound like.
+— Why did you do that in front of them? he asked. —You knew what it would sound like.
 
 The Batavi’s helm turned toward him.
 
-—To not die stupidly.
+— To not die stupidly.
 
 He did not lower his voice.
 
 The Black Templar, three paces behind, heard it. Stopped. Turned as if struck.
 
-Kallistratus watched offense gather itself into a grievance—and beneath it, something worse: a man forced to confront that “stupid” wasn’t an insult. It was a category of death.
+Kallistratus watched offense gather itself into a grievance — and beneath it, something worse: a man forced to confront that “stupid” wasn’t an insult. It was a category of death.
 
 The Templar’s voice came out hard.
 
-—Careful, Batavi.
+— Careful, Batavi.
 
 The Batavi answered without heat.
 
-—Then don’t die that way.
+— Then don’t die that way.
 
 ---
 
@@ -179,25 +179,25 @@ An Imperial Fists Castellan stood at the altar like a monument. Two Cadian offic
 
 The Castellan’s gauntlet tapped the slate.
 
-—We breach here. We hold the transept. We drive into the nave, pivot to the reliquary. Compliance.
+— We breach here. We hold the transept. We drive into the nave, pivot to the reliquary. Compliance.
 
 The Cadian Major nodded too quickly. Veyro noted it the way he noted dwindling rations: as a precursor to waste.
 
-The Batavi waited until the Castellan finished. Then he spoke—no announced rite, no formal trigger. Just the objection, plain as a bullet count.
+The Batavi waited until the Castellan finished. Then he spoke — no announced rite, no formal trigger. Just the objection, plain as a bullet count.
 
-—The nave is mined.
+— The nave is mined.
 
 The Cadian Major blinked, then bristled.
 
-—Our sappers—
+— Our sappers—
 
-—It’s not our mines, the Batavi continued. —Pressure plates under the debris field, and line‑of‑sight from the choir loft. You’ll lose a squad before you even see the shooter.
+— It’s not our mines, the Batavi continued. —Pressure plates under the debris field, and line‑of‑sight from the choir loft. You’ll lose a squad before you even see the shooter.
 
 The Imperial Fist turned his helm a fraction, granite‑slow.
 
-—Evidence.
+— Evidence.
 
-The Batavi reached down, produced a battered auspex, and tossed the projected feed onto the slate. It painted faint returns—regular, repeating anomalies under collapsed stone, too evenly spaced to be chance. Then a second overlay: micro‑motion high in the loft, the subtle signature of bodies keeping still.
+The Batavi reached down, produced a battered auspex, and tossed the projected feed onto the slate. It painted faint returns — regular, repeating anomalies under collapsed stone, too evenly spaced to be chance. Then a second overlay: micro‑motion high in the loft, the subtle signature of bodies keeping still.
 
 Veyro felt a cold satisfaction. Numbers supported the claim. The universe, briefly, had the decency to be legible.
 
@@ -205,64 +205,64 @@ The Castellan studied the overlays.
 
 The Hospitaller spoke for the first time, quiet as a knife.
 
-—If he is correct, the first breach becomes a slaughterhouse.
+— If he is correct, the first breach becomes a slaughterhouse.
 
 The Cadian Major swallowed.
 
-—We can still push. We can—
+— We can still push. We can—
 
 The Batavi’s voice did not rise. It didn’t need to.
 
-—If you push, you will die to prove a plan you could have corrected while alive.
+— If you push, you will die to prove a plan you could have corrected while alive.
 
 The Major flushed, anger searching for a target that didn’t look like cowardice.
 
 The Castellan’s voice dropped into the room with weight.
 
-—Alternative?
+— Alternative?
 
-—We cut through the sacristy wall and take the side aisles. We suppress the loft and collapse it with melta. Then we advance under rubble, not under sightlines.
+— We cut through the sacristy wall and take the side aisles. We suppress the loft and collapse it with melta. Then we advance under rubble, not under sightlines.
 
-The Castellan’s silence stretched. Veyro watched him weigh more than tactics—culture, pride, the invisible demand that authority not be seen bending.
+The Castellan’s silence stretched. Veyro watched him weigh more than tactics — culture, pride, the invisible demand that authority not be seen bending.
 
 Then the Imperial Fist did something Veyro respected more than any speech.
 
 He adapted.
 
-—We will not enter the nave first. Side aisles. Suppression on the loft. Sappers mark the floor. Advance by pairs.
+— We will not enter the nave first. Side aisles. Suppression on the loft. Sappers mark the floor. Advance by pairs.
 
 He looked at the Cadians.
 
-—You will obey.
+— You will obey.
 
 The Cadian Major nodded, stiff and humiliated, but alive.
 
 The council broke with less noise than it should have. Outside the basilica, Veyro caught up to the Batavi near a shattered pillar.
 
-—That back there, he said, keeping his tone neutral. —Why risk it? An Imperial Fist. Cadians. A Sister watching. You had to know how it reads.
+— That back there, he said, keeping his tone neutral. —Why risk it? An Imperial Fist. Cadians. A Sister watching. You had to know how it reads.
 
 The Batavi turned his helm.
 
-—To not die stupidly.
+— To not die stupidly.
 
 He said it loud enough that it carried.
 
 The Cadian Major, passing behind them, heard it. Stopped. Turned, face tightening as if the words had been a slap.
 
-—Are you calling us stupid?
+— Are you calling us stupid?
 
-Veyro watched the Batavi’s posture—no gloating, no swagger. Just certainty as dull and necessary as armor plating.
+Veyro watched the Batavi’s posture — no gloating, no swagger. Just certainty as dull and necessary as armor plating.
 
-—No, the Batavi said. —I’m saying stupidity kills. I don’t care whose pride it belongs to.
+— No, the Batavi said. —I’m saying stupidity kills. I don’t care whose pride it belongs to.
 
 The Major’s mouth worked, searching for a retort that wouldn’t sound like an admission.
 
 The Hospitaller walked past them, her gaze lingering for a heartbeat on the Major.
 
-—Better offended than buried, she murmured, and kept going.
+— Better offended than buried, she murmured, and kept going.
 
 Veyro adjusted his casualty projections downward by a fraction.
 
 Not because war had become kind.
 
-Because someone had insisted—without trigger words, without permission—that death should at least be purchased for something real.
+Because someone had insisted — without trigger words, without permission — that death should at least be purchased for something real.
