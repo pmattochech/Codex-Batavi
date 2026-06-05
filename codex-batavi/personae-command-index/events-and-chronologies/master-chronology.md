@@ -88,5 +88,6 @@
   * *Event:* Hive Vespera secession — civic and noble cult of **Alaric** as sovereign over Terra; High Lords / Lex Imperialis mandate with **Arbites** co-supervision (Marshal Vhal, Judge-Militant Serix). **Corbec Ardens** commands full **I *Prima*** lower-hive purge (**Silence**, **Shadows**, **Stasis**, **Nullity**); **Alaric** upper spire house-head judgment and servitorization pipeline. No clemency channel.
   * *Doctrine:* "Personal devotion to command authority is not legal loyalty" (Arbites addendum). Post-purge asset normalization — population as throughput ledger.
   * *Narrative:* [hive-vespera-red-harvest.md](../../chronicles/15-post-vigil/hive-vespera-red-harvest.md). *Chain context:* [10-proof-of-chain.md](../../chronicles/06-silent-vigil/10-proof-of-chain.md).
-* **180.M42 (present) | Gate consolidation:**  
-  * *Status:* Alaric rules as Lord Castellan. **Elara Solis (age 30)** commands the fleet. Inquisitor Vane politically neutralized.
+* **180.M42 (present) | Gate consolidation:**
+  * *Event:* **Elara Solis (~30)** locks Outer Gate fleet command; live **Witness Ford** convoy exercise; Throne briefing through Elara operational. **Inquisitor Vane** — final subsector audit; self-neutralized (super-tithe + hierarchical transparency + Custodes watch — no further Ordo escalation).
+  * *Narrative:* [outer-gate-consolidation.md](../../chronicles/15-post-vigil/outer-gate-consolidation.md). *Handoff prior:* [wolf-daughter.md](../../chronicles/07-iron-venus/wolf-daughter.md).

@@ -378,6 +378,22 @@ Permission was denied.
 
 Permission on Noviomagus was also a sentence.
 
+At **Band C**, the pay-clerk’s panel was welded shut and stamped *VOID*. Workers passed it on shift change without touching the seam — not superstition, **habit formation**. Silence logged the behavior as success: when fear and routine merged, recurrence lost its mouth.
+
+In **Hab Tier Six**, the vent closet was converted to a storage cage for legitimate tools. A child asked why the old vox was gone. The tutor replacement — Arbites-vetted, voice flat with exhaustion — said only:
+
+— Shift grammar. Nothing else.
+
+The child did not ask again.
+
+That was also success.
+
+Vhal reviewed the penal roster with a magistrate’s patience and a soldier’s disgust.
+
+— Twenty-three is manageable — he told Branimir. — Twenty-three becomes **Vespera** when you let them teach children to sing your Castellan’s name on schedule.
+
+— They were already on schedule — Branimir said. — We removed the conductor.
+
 Ferrum-Secondus returned to quota within **nineteen days** — faster than Administratum predicted, because fear and efficiency on Noviomagus shared the same calendar.
 
 ---
@@ -443,6 +459,20 @@ The new hire laughed because laughter was how mortals kept their throats open.
 Hess did not laugh.
 
 — They took twenty-three stewards — she said. — Not because they prayed wrong. Because they **billed** wrong.
+
+On the **ninetieth day** of the recurrence watch, Holt’s **Exactus** team returned for spot audit.
+
+The drift read **0.00 percent**.
+
+Holt did not smile.
+
+— Surgical works — she wrote in the closing memo. — Until scale changes. Recommend **standing** Silence lattice in industrial rings with prior Kethmar residue.
+
+Branimir filed the memo without comment.
+
+He had already filed the doodle.
+
+Two warnings, same ink chemistry.
 
 In **189.M42**, when Hive Vespera ran red, Ferrum-Secondus did not secede.
 

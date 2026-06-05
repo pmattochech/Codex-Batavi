@@ -12,7 +12,7 @@
 | **168.M42** | ~18 | Luna Sigma observer — *Price of Memory* | [price-of-memory.md](../11-sigma-moon/price-of-memory.md) |
 | **~170.M42** | ~20 | Tobias terminis — Sector Industrial 7 | [wolf-daughter.md](wolf-daughter.md) |
 | **178.M42** | ~28 | Record frame close (Drusus / Varro) | [record-drusus-elara.md](record-drusus-elara.md) · [record-varro-elara.md](record-varro-elara.md) |
-| **180.M42** | ~30 | Outer Gate fleet command (present staff) | [dossier-elara-solis.md](../../personae-command-index/character-dossiers/mortals/dossier-elara-solis.md) |
+| **180.M42** | ~30 | Outer Gate fleet command (present staff) | [outer-gate-consolidation.md](../15-post-vigil/outer-gate-consolidation.md) · [dossier-elara-solis.md](../../personae-command-index/character-dossiers/mortals/dossier-elara-solis.md) |
 
 **Date correction (May 2026):** *Wooden Sword* at **165.M42** filed at Elara **~15**, not **8** — reconciles parapet **150**, Viggo **~162**, Luna Sigma **168** (~18).
 

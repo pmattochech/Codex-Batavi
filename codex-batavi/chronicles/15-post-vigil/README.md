@@ -6,9 +6,10 @@
 
 | File | When | Thesis |
 |------|------|--------|
-| [`hive-vespera-red-harvest.md`](hive-vespera-red-harvest.md) | ~**189.M42** | Hive secession idolizing Alaric — punitive purge, asset rebuild, loyalty-to-Throne-only doctrine |
+| [`outer-gate-consolidation.md`](outer-gate-consolidation.md) | **180.M42** *(present staff lock)* | Elara Outer Gate command; Vane neutralized by arithmetic; Witness Ford live convoy |
 | [`ferrum-secondus-wolf-ledger.md`](ferrum-secondus-wolf-ledger.md) | ~**183.M42** | Pre–Vespera surgical idol drift — Silence + Arbites; Alaric refuses Wall-Sovereign title |
+| [`hive-vespera-red-harvest.md`](hive-vespera-red-harvest.md) | ~**189.M42** | Hive secession idolizing Alaric — punitive purge, asset rebuild, loyalty-to-Throne-only doctrine |
 
-**Read order:** Wolf Ledger (**183**) → Red Harvest (**189**) — escalation ladder.
+**Chronology read order:** **180** (present lock) · **183** Wolf Ledger · **189** Red Harvest — idol escalation ladder.
 
 **Hub:** [`../INDEX.md`](../INDEX.md)
