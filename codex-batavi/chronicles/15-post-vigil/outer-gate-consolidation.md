@@ -410,6 +410,74 @@ As **schedule**.
 
 ---
 
-**Staff filing (180.M42 present):** **Elara Solis (~30)** — full Outer Gate fleet command lock. **Inquisitor Vane** — self-neutralized; **Gamma-Three** walked; no further subsector Ordo escalation. **Witness Ford** — **Theta-Nine** + **Kappa-Three** live convoy cycles. **Alaric** — Castellan; Throne briefing through Elara operational. *Idol drift:* Ferrum-Secondus **183** on file; Vespera **189** ahead.
+## V. Register filing (doctrine, not poetry)
+
+Consolidation did not end in Martha’s kitchen.
+
+It ended in a **registry room** that smelled of toner dust and recycled air — Outer Gate band annex, Deck **C-Minor**, where Navy clerks learned that admirals who wrote in their own hand were either heroes or hazards.
+
+Elara wrote in her own hand.
+
+She updated three documents before sleep cycle:
+
+**One:** convoy timing tables for **Witness Ford** approach — deceleration marks, vox strip protocols, Navigator hazard bonuses filed in language Administratum could audit without invoking the Chapter.
+
+**Two:** liaison channel rules for Batavi strike elements at the ford lip — *shadow hold*, no torpedo release without Castellan channel escalation; present enough to deter, absent enough to avoid **idol**.
+
+The word sat on the page like a blade.
+
+She did not delete it.
+
+**Three:** a memo to *Strategium* civil liaison — *Throne briefing routes through Outer Gate command for all mesh ingress schedules exceeding tertiary tonnage.*
+
+Jonas would have called the third document **ambition**.
+
+Elara called it **geometry**.
+
+Varro read the draft in the annex corridor because Varro read everything that might teach mortals to worship the wrong silhouette.
+
+— You named idol explicitly — he said.
+
+— Ferrum-Secondus already did — she said. — I am filing early.
+
+— Filing early is not the same as **preventing** — Varro said. — Prevention requires teeth in places admirals prefer not to look.
+
+— I look at the ford — she said. — Every day. That is where ingress becomes **story**. Stories become crowns when clerks fail.
+
+Varro’s Executor skull did not nod.
+
+It did not need to.
+
+— The Castellan will not sign your memo as **romance** — he said. — He will sign it as **necessity**. Do not confuse the two when the hive comes asking for a king.
+
+— Vespera — she said. Not a question.
+
+— Vespera — he confirmed. — And worse, if clerks sleep.
+
+Drusus added a single line to the medical annex attached to her filing — typical cruelty dressed as data:
+
+*Admiral Solis sleep debt elevated. Recommend cycle compression **denied**. Fatigue increases idol vulnerability in subordinates (projection bias).*
+
+Elara read it and signed the memo anyway.
+
+Fatigue was the price of eyes.
+
+On the wall screen, the Nine Phalanx pulsed amber — **Insula Tenebrarum** doing what it had always done: filtering the tide, one receipt at a time.
+
+Somewhere in Ferrum-Secondus, Branimir’s recurrence watch ticked toward day ninety-one.
+
+Somewhere in a hive not yet red, stewards were already practicing **invoice theology**.
+
+Elara saved the file.
+
+The Outer Gate was consolidated.
+
+Not because the Imperium declared it.
+
+Because the schedule **held** twice in one day, and someone competent had written that fact down before the story could rewrite it.
+
+---
+
+**Staff filing (180.M42 present):** **Elara Solis (~30)** — full Outer Gate fleet command lock; doctrine memo (idol-risk at ford). **Inquisitor Vane** — self-neutralized; **Gamma-Three** walked; no further subsector Ordo escalation. **Witness Ford** — **Theta-Nine** + **Kappa-Three** live convoy cycles. **Alaric** — Castellan; Throne briefing through Elara operational. *Idol drift:* Ferrum-Secondus **183** on file; Vespera **189** ahead.
 
 **Hub:** [15-post-vigil/README.md](README.md) · **Elara ladder:** [07-iron-venus/README.md](../07-iron-venus/README.md)
