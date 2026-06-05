@@ -57,6 +57,6 @@
 
 ## 6\. Narrator notes
 
-POV for **relay horror**, **delay tactics**, **Threshold** sacrifice stories, and **macro** Chapter wake-up calls. High leverage for apocalypse-tier invasions.
+POV for **relay horror**, **delay tactics**, **Threshold** sacrifice stories, and **macro** Chapter wake-up calls. High leverage for apocalypse-tier invasions. **Legatus Ring:** command virtue **ugly solutions that live**; failure-risk **misreading Castellan suppression as jamming and false-escalating Tier II**.
 
-**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §11; [silent-hours-marco-de-vetra.md](../../../chronicles/14-vexillum-chronicles/silent-hours-marco-de-vetra.md) (**140.M42**, *Nona* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.9; [master-chronology.md](../../events-and-chronologies/master-chronology.md) (**Threshold** / **Witness Ford** mesh).
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §11; [silent-hours-marco-de-vetra.md](../../../chronicles/14-vexillum-chronicles/silent-hours-marco-de-vetra.md) (**140.M42**, *Nona* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.9; [master-chronology.md](../../events-and-chronologies/master-chronology.md) (**Threshold** / **Witness Ford** mesh); [06-post-voices-legatus-ring.md](../../../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md).

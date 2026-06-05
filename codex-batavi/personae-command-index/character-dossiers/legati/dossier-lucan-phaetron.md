@@ -57,6 +57,6 @@
 
 ## 6\. Narrator notes
 
-POV for **plasma discipline**, **photonic hellscapes**, and **Mechanicus tension**. Good technical voice without becoming a Techmarine.
+POV for **plasma discipline**, **photonic hellscapes**, and **Mechanicus tension**. Good technical voice without becoming a Techmarine. **Legatus Ring:** command virtue **punishes careless fire**; failure-risk **over-focusing material vent failure while command IFF collapses**.
 
-**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §9; [null-vent-covenant.md](../../../chronicles/14-vexillum-chronicles/null-vent-covenant.md) (**112.M42**, *Septima* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.7.
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §9; [null-vent-covenant.md](../../../chronicles/14-vexillum-chronicles/null-vent-covenant.md) (**112.M42**, *Septima* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.7; [06-post-voices-legatus-ring.md](../../../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md).

@@ -57,6 +57,6 @@
 
 ## 6\. Narrator notes
 
-POV for **boarding**, **ion storms**, **reef chokepoints**, and **Maleventum** EM horror. Natural bridge to *Nona* and fleet chronicles.
+POV for **boarding**, **ion storms**, **reef chokepoints**, and **Maleventum** EM horror. Natural bridge to *Nona* and fleet chronicles. **Legatus Ring:** command virtue **void fire brigade pride without privatizing mesh law**; failure-risk **blocking inland terminal law as “not Octava theater”**.
 
-**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §10; [witness-ford-octava.md](../../../chronicles/14-vexillum-chronicles/witness-ford-octava.md) (**096.M42**, *Octava* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.8; [general-atlas.md](../../../atlas-and-topography/general-atlas.md) (Threshold mesh).
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §10; [witness-ford-octava.md](../../../chronicles/14-vexillum-chronicles/witness-ford-octava.md) (**096.M42**, *Octava* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.8; [general-atlas.md](../../../atlas-and-topography/general-atlas.md) (Threshold mesh); [06-post-voices-legatus-ring.md](../../../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md).

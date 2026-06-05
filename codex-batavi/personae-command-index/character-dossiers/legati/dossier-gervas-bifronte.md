@@ -57,6 +57,6 @@
 
 ## 6\. Narrator notes
 
-POV for **siege**, **vault horror**, **Gravis meatgrinder**, and **stasis-adjacent** dread. Complements *Quarta* high-G static war (Branimir’s turf) at **macro** Legatus scale.
+POV for **siege**, **vault horror**, **Gravis meatgrinder**, and **stasis-adjacent** dread. Complements *Quarta* high-G static war (Branimir’s turf) at **macro** Legatus scale. **Legatus Ring:** command virtue **Gravis meatgrinder clarity**; failure-risk **slowing redundancy activation until physical breach confirms command inversion**.
 
-**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §8; [korvus-twin-breach.md](../../../chronicles/14-vexillum-chronicles/korvus-twin-breach.md) (**098.M42**, *Sexta* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.6.
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §8; [korvus-twin-breach.md](../../../chronicles/14-vexillum-chronicles/korvus-twin-breach.md) (**098.M42**, *Sexta* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.6; [06-post-voices-legatus-ring.md](../../../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md).

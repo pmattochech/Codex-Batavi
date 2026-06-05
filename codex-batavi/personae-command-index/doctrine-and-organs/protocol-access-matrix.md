@@ -105,6 +105,24 @@ Denied content:
 - No single casualty may collapse protocol authority.
 - Tier B cannot self-expand scope beyond signed assignment envelope.
 
+### Tier A Legatus substitution map
+
+| Vacant seat | First substitute | Second substitute |
+|-------------|------------------|-------------------|
+| *Prima* | *Secunda* | *Quinta* |
+| *Quinta* | *Prima* | *Tertia* |
+| Other I–IX | Theater-linked Legatus (*Strategium* map) | Radulf (witness until re-seat) |
+
+Substitute may not execute kill-route phases without **Drusus** briefing certification. Partial briefing → Tier I–II authority ceiling only.
+
+### Triumvirate partial availability
+
+- **Varro unavailable:** Drusus co-seal required for matrix rewrite; Otho holds Blindgate continuity.
+- **Drusus unavailable:** Clinical lock frozen at last hash; Varro + Tyvar may execute Tier II firewall; Tier III requires dual Tier A Legatus confirm + Tyvar readiness.
+- **Both unavailable:** Tyvar + Radulf + Corbec convoke emergency Ring; Tier B executors only until Tier A reconstituted.
+
+*Ring session:* [`06-post-voices-legatus-ring.md`](../../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md)
+
 ---
 
 ## 5. Disclosure control rules
@@ -130,4 +148,4 @@ Denied content:
 - Primary doctrine: `contingency-axiom-lupus.md`
 - Planning source: `codex-batavi/planning/silent-vigil-access-matrix-plan.md`
 - Related chain law: `military-hierarchy.md`
-- Validation chronicles: `../../chronicles/06-silent-vigil/07-decima-gatekeepers.md` · `../../chronicles/06-silent-vigil/08-protocol-forged-in-iron.md` · `../../chronicles/06-silent-vigil/09-war-game-black-mirror.md` · `../../chronicles/06-silent-vigil/10-proof-of-chain.md`
+- Validation chronicles: `../../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md` · `../../chronicles/06-silent-vigil/07-decima-gatekeepers.md` · `../../chronicles/06-silent-vigil/08-protocol-forged-in-iron.md` · `../../chronicles/06-silent-vigil/09-war-game-black-mirror.md` · `../../chronicles/06-silent-vigil/10-proof-of-chain.md`

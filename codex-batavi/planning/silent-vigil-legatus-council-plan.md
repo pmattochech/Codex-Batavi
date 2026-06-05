@@ -173,16 +173,16 @@ Substitution inherits **Tier A** custody **minus** kill-route segments the subst
 | Target | Action |
 |--------|--------|
 | [`silent-vigil-expansion-scaffold.md`](silent-vigil-expansion-scaffold.md) | mark this deliverable `[x]` |
-| [`contingency-axiom-lupus.md`](../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md) | optional future § — Legatus substitution map (staff) |
-| [`protocol-access-matrix.md`](../personae-command-index/doctrine-and-organs/protocol-access-matrix.md) | optional future § — Ring vs Tier A roster |
-| Legatus dossiers I–IX | one-line Ring axis backlink each when owner orders |
-| [`military-hierarchy.md`](../personae-command-index/doctrine-and-organs/military-hierarchy.md) | cross-ref **Legatus Ring** vs **Curia Vexilli** |
+| [`contingency-axiom-lupus.md`](../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md) | §8 Legatus Ring + substitution map (**promoted**) |
+| [`protocol-access-matrix.md`](../personae-command-index/doctrine-and-organs/protocol-access-matrix.md) | §4 substitution + Triumvirate partial rules (**promoted**) |
+| Legatus dossiers I–IX | Ring axis + cross-ref (**done** — narrator notes §6) |
+| [`military-hierarchy.md`](../personae-command-index/doctrine-and-organs/military-hierarchy.md) | cross-ref **Legatus Ring** vs **Curia Vexilli** (**done**) |
 
 ---
 
 ## 11) Pre-canon checklist
 
-- [ ] `[P1]` Owner confirms **signatory order** and substitute map
-- [ ] `[P1]` Owner picks **default dissent** Legatus for narrative color
-- [ ] `[P2]` Promote §6 substitution table to doctrine or leave planning-only
-- [ ] `[P2]` Scene draft: full **nine-seat Ring** argument (not only Old Voices four) — **done:** [`06-post-voices-legatus-ring.md`](../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md)
+- [ ] `[P1]` Owner confirms **signatory order** and substitute map — **promoted:** [`contingency-axiom-lupus.md`](../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md) §8 · [`protocol-access-matrix.md`](../personae-command-index/doctrine-and-organs/protocol-access-matrix.md) §4
+- [x] `[P1]` Owner picks **default dissent** Legatus for narrative color — **Kessler** ([`06-post-voices-legatus-ring.md`](../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md))
+- [x] `[P2]` Promote §6 substitution table to doctrine or leave planning-only
+- [x] `[P2]` Scene draft: full **nine-seat Ring** argument (not only Old Voices four) — **done:** [`06-post-voices-legatus-ring.md`](../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md)

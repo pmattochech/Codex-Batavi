@@ -108,7 +108,29 @@ No single-office dependency is permitted.
 
 ---
 
-## 8. Cross-reference bundle
+## 8. Legatus Ring and Tier A substitution
+
+**Legatus Ring** (standing council, Noviomagus outer ring): Legati **I–IX** resolve operational consensus on Tier I–II readiness and ratify Tier A signatory assignment before black-chamber wax. **Radulf Castrin** holds witness weight without vote. ***Decima*** does not hold Ring seats — Triumvirate authority applies directly.
+
+**Recorded dissent** (e.g. Tier III optics) is **Vermilion** audit liability — not veto at Trigger Group C.
+
+### Tier A casualty substitution (planning default — staff)
+
+| Vacant Tier A seat | First substitute | Second substitute |
+|--------------------|------------------|-------------------|
+| *Prima* (Corbec Ardens) | *Secunda* (Henric Kessler) | *Quinta* (Armin Sturmwahl) |
+| *Quinta* (Armin Sturmwahl) | *Prima* (Corbec Ardens) | *Tertia* (Theron Brach) |
+| Other I–IX Legatus | Adjacent **theater-linked** Legatus per *Strategium* map | Radulf witness until re-seat |
+
+Substitute inherits Tier A custody **minus** kill-route segments not briefed — **Drusus** certifies completeness or downgrades authority to Tier I–II only.
+
+**Triumvirate partial loss:** Varro-only or Drusus-only rules per `protocol-access-matrix.md` §4; both unavailable → Tyvar + Radulf + Corbec emergency Ring; Kadmos/Otho remain Tier B until Tier A reconstituted.
+
+*Narrative:* [`06-post-voices-legatus-ring.md`](../../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md) · *Planning:* [`silent-vigil-legatus-council-plan.md`](../../planning/silent-vigil-legatus-council-plan.md) §5–§6.
+
+---
+
+## 9. Cross-reference bundle
 
 - Planning source: `codex-batavi/planning/silent-vigil-contingency-protocol-plan.md`
 - Access governance: `protocol-access-matrix.md`
