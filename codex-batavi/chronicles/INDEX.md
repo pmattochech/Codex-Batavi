@@ -172,4 +172,9 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 
 ## 13-apotheosis
 
-**Status:** **Removed (May 2026).** Retired drafts (`call-to-the-throne`, `seal-of-the-portal`) deleted — obsolete geography (*Loken Passage*, temporal *Nihili Protocol* prose). **175.M42** Trajann calibration beat remains in [`master-chronology.md`](../personae-command-index/events-and-chronologies/master-chronology.md) §VI; narrative scene **TBD**.
+**Status:** **Restored (May 2026).** Geography and physics retcon — **Witness Ford** / **Insula Tenebrarum** filter node; ***Nihili Protocol*** = **pylon cascade**, not temporal collapse. Retired names absent from active prose: *Porta Nihili*, *Loken Passage*.
+
+- [call-to-the-throne.md](13-apotheosis/call-to-the-throne.md) — **175.M42**. Trajann Valoris calibration: Black Cells descent, Versibar briefing, expanded Custodes presence, *Nihili Protocol* handoff to Tyvar.
+- [seal-of-the-portal.md](13-apotheosis/seal-of-the-portal.md) — post-175.M42. Tyvar custody: eighty-seven grams, need-to-know silence, closure arithmetic at mesh scale.
+
+**Staff beat:** [`master-chronology.md`](../personae-command-index/events-and-chronologies/master-chronology.md) §VI (*175.M42* Captain-General visit).
