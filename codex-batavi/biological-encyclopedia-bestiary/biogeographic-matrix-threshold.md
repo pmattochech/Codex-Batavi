@@ -8,7 +8,7 @@
 * **Biological risk:** EM exposure, micro-abrasion, confinement neurosis.
 
 ## Nox / Abyssal-Anchor / Singularity-Point
-* **Topology:** High-gravity obsidian, border gravity port, unstable temporal rift.  
+* **Topology:** High-gravity obsidian, border gravity port, localized warp/auspex hazard (Erebus structure drag — not subsector time dilation).  
 * **Flora:** Residual in pressurized base niches.  
 * **Fauna:** Shadow organisms and closed-dock opportunist vectors.  
 * **Biological risk:** Dimensional contamination, neuropsychic stress, visual-echo disorientation.

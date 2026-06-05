@@ -44,7 +44,7 @@
 | **Einar Dreadwolf** — Lieutenant; **Steppenwolf** + **first of The Lost** (*Amissi*) (**KIA 168.M42**) | Detached registry + Judex watch; full **Mk X Tacticus**; **Mk V** helm (no studs); black pauldrons / red limbs; thunder-claws + traction boots; Moraine-Nine → Luna Sigma |
 | **Gervas Bifronte** — Legatus, VI *Sexta* | Bifrons-Ferrum twin-gate siege; Gravis breach math |
 | **Lucan Phaetron** — Legatus, VII *Septima* | Vitreus plasma/photonic containment |
-| **Ivar Malevent** — Legatus, VIII *Octava* | Reef/Maleventum void war; Loken Passage intercept |
+| **Ivar Malevent** — Legatus, VIII *Octava* | Reef/Maleventum void war; **Witness Ford** intercept (096.M42) |
 | **Cassian Vetra** — Legatus, IX *Nona* | Marco de Vetra relay; Vacuum Shouter denial geometry |
 | **Branimir Vorhalt** — *Decanus Primus*, Silence (*Quarta*) | Urban counter-intel; 048.M42 March line veteran; cult/pattern doctrine; works under Valestrand |
 | **Soren Riis** — Apothecary; Liaison-Praefect (Deathwatch) | *Pactum Clavis Sanguinis*; tiered Watch disclosure |
@@ -85,7 +85,7 @@
 |----------------|---------------------------|
 | **Roboute Guilliman** — Lord Regent | Nine Phalanx inspection |
 | **Marneus Calgar** — Ultramarines | With Guilliman at Noviomagus |
-| **High Marshal Helbrecht** — Black Templars | Loken Passage transit |
+| **High Marshal Helbrecht** — Black Templars | **Witness Ford** transit (096.M42 first meeting) |
 | **Commander Dante** — Blood Angels | *Iron and Blood Tribunal* |
 | **Mephiston** — Blood Angels | Same tribunal |
 | **Angron** — Daemon Primarch | Sigma Moon; *Castra-Lupus* destruction |

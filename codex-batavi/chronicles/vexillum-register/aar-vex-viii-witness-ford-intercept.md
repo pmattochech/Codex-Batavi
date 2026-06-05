@@ -1,6 +1,6 @@
-# AFTER-ACTION REPORT — Loken Passage funnel intercept
+# After-Action Report — Witness Ford intercept
 
-**Operation:** LOKEN PASSAGE — transit defense segment  
+**Operation:** WITNESS FORD — transit defense segment  
 **Date:** 096.M42  
 **Unit:** **VIII** *Octava* (primary boarding / corridor interlock); Black Templars crusade elements (allied fire discipline)
 
@@ -8,14 +8,14 @@
 
 ## 1. Purpose of this extract
 
-**Full chronicle (Castellan / Helbrecht / faith audit):** [helbrecht-first-loken-passage.md](../08-audit-diplomacy/helbrecht-first-loken-passage.md)  
-**VIII *Octava* / void net / field 4 lens (Legatus Malevent):** [loken-funnel-octava.md](../14-vexillum-chronicles/loken-funnel-octava.md)
+**Full chronicle (Castellan / Helbrecht / faith audit):** [helbrecht-witness-ford-meeting.md](../08-audit-diplomacy/helbrecht-witness-ford-meeting.md)  
+**VIII *Octava* / void net / field 4 lens (Legatus Malevent):** [witness-ford-octava.md](../14-vexillum-chronicles/witness-ford-octava.md)
 
 This AAR isolates the certified void beat for *Alabarda* field 4.
 
 ## 2. Situation
 
-Opportunistic xenos pressure in the funnel segment — Drukhari raiders and satellite craft exploiting crusade transit geometry.
+Opportunistic xenos pressure at **Witness Ford** — Drukhari raiders and satellite craft exploiting crusade transit geometry.
 
 ## 3. Execution
 
@@ -23,7 +23,7 @@ Opportunistic xenos pressure in the funnel segment — Drukhari raiders and sate
 
 Coordination: Batavi fire sectors nested with Templar assault lanes — minimal friendly overlap per pre-brief grid.
 
-Outcome: funnel held; transit continued under imperial authorization. Castellan–Helbrecht exchange not logged here.
+Outcome: ford held; transit continued under imperial authorization. Castellan–Helbrecht exchange not logged here.
 
 ## 4. Losses
 
@@ -31,6 +31,6 @@ Outcome: funnel held; transit continued under imperial authorization. Castellan�
 
 ## 5. *Strategium* certification (field 4)
 
-**Field 4** commemorates joint void containment in the Loken Passage funnel — Reef / Maleventum void culture reference.
+**Field 4** commemorates joint void containment at **Witness Ford** — Reef / Maleventum void culture reference.
 
 **Chronology:** [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV.

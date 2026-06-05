@@ -14,6 +14,6 @@ Formal memoranda and after-action reports tied to ***Alabarda Vexillum* field 4*
 | **V** *Quinta* | [aar-vex-v-gutgrind-descent.md](aar-vex-v-gutgrind-descent.md) | [gutgrind-descent.md](../14-vexillum-chronicles/gutgrind-descent.md) |
 | **VI** *Sexta* | [aar-vex-vi-korvus-breach.md](aar-vex-vi-korvus-breach.md) | [korvus-twin-breach.md](../14-vexillum-chronicles/korvus-twin-breach.md) |
 | **VII** *Septima* | [aar-vex-vii-null-vent-covenant.md](aar-vex-vii-null-vent-covenant.md) | [null-vent-covenant.md](../14-vexillum-chronicles/null-vent-covenant.md) |
-| **VIII** *Octava* | [aar-vex-viii-loken-passage-intercept.md](aar-vex-viii-loken-passage-intercept.md) | [loken-funnel-octava.md](../14-vexillum-chronicles/loken-funnel-octava.md) · [helbrecht-first-loken-passage.md](../08-audit-diplomacy/helbrecht-first-loken-passage.md) |
+| **VIII** *Octava* | [aar-vex-viii-witness-ford-intercept.md](aar-vex-viii-witness-ford-intercept.md) | [witness-ford-octava.md](../14-vexillum-chronicles/witness-ford-octava.md) · [helbrecht-witness-ford-meeting.md](../08-audit-diplomacy/helbrecht-witness-ford-meeting.md) |
 | **IX** *Nona* | [aar-vex-ix-silent-hours.md](aar-vex-ix-silent-hours.md) | [silent-hours-marco-de-vetra.md](../14-vexillum-chronicles/silent-hours-marco-de-vetra.md) |
 | **X** *Decima* | [register-decima-malakor-justice.md](register-decima-malakor-justice.md) | [decima-justice-vexillum.md](../14-vexillum-chronicles/decima-justice-vexillum.md) · [00-malakor-v.md](../06-silent-vigil/00-malakor-v.md) |

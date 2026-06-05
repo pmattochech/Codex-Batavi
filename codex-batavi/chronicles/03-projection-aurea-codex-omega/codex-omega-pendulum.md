@@ -1,55 +1,170 @@
-# CODEX OMEGA: THE PENDULUM OF FLESH AND IRON
+# Codex Omega: The Pendulum of Flesh and Iron
 
-*(Command Record: 048.M42 | Post–Noviomagus Secundus)*
+**Historical record (048.M42):** Alaric’s two-axis pendulum journal — **superseded** by **The Cull** / pyramid filing in [`biologis-geometry-of-hatred.md`](biologis-geometry-of-hatred.md) (050.M42). **Voice and command weight remain canon**; geometry here is **immature** — two axes only.
 
-**Classification:** *Magenta* / Triumvirate eyes only. **Author:** Alaric von Helis, Lord Castellan of the *Cohors Batavorum*. **Subject:** Doctrinal synthesis of chimeric predisposition.
+**Event:** Lord Castellan sealed journal · same night as Triumvirate conclave  
+**Imperial filing:** ~048.M42 *(secondary; CV annals primary)*  
+**Classification:** *Magenta* / Triumvirate eyes only  
+**Author:** Alaric von Helis, Lord Castellan of *Cohors Batavorum*  
+**Subject:** Doctrinal synthesis of **chimeric predisposition** — command ledger
+
+**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** — *Sanctum Strategium*, Noviomagus Prime — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Wars cited: Noviomagus Prime South Wall (046.M42) · **Noviomagus Secundus** mines (048.M42).
+
+**Historical hazard (staff filing):** Mass Wild Hunt **rebound** (South Wall deck collapse) = **pre-***Curia Vexilli*** / unauthorized depth** — not post-~051.M42 harness norm.
+
+**Companion chronicles:** [`chimera-pendulum.md`](chimera-pendulum.md) (conclave — same night) · [`biologis-monsoon.md`](../02-biologis-spiritus-foundation/biologis-monsoon.md) · [`biologis-drought.md`](../02-biologis-spiritus-foundation/biologis-drought.md) · [`biologis-iron-mitosis.md`](../02-biologis-spiritus-foundation/biologis-iron-mitosis.md).
 
 ---
 
-## I. PREFACE: THE NATURE OF THE TOOL
+## Prologue: Entry 0-Alpha (Before Dawn)
 
-*"For centuries we walked in the dark, fearing our gene-seed was only a slow disease. A silent countdown to degeneration and the Executioner’s axe. We were wrong. Archmagos Belisarius Cawl did not give us a disease; he forged an arsenal and buried it in our marrow. We are not static warriors. We are a reactive biological organism, meticulously designed to mirror the galaxy’s horror and annihilate it with its own face."* — Lord Castellan’s personal journal, Entry 0-Alpha.
+The *Sanctum Strategium* was empty when I sealed the blast door.
 
-## II. EVENT I: THE MONSOON (THE BEAST VECTOR)
+Forge-thunder above. Stasis hum below. Between them, the holo-table still smelled faintly of incense and blood even though the scribes had been dismissed hours ago.
 
-* **Identified trigger:** Ork xenos threat (physical pressure and saturation of the *Waaagh!* psychic field).  
-* **Engagement reference:** The Skarjaw War.
+I did not sit. I do not sit in armor unless Martha’s kitchen grants exception I have not earned on a war night.
 
-**\[Official Strategium Record\]**
+For centuries we walked in the dark fearing our gene-seed was only slow disease — silent countdown to degeneration and the Executioner’s axe. Every Furor spike, every brother who growled in chapel, every Inquisitorial glance at our wolf-echo heraldry: we filed it as rot.
 
-* **Prior activation:** I confirm systemic mass biological activation of the force seven days before visual contact. Xenos psychic presence acts as an immediate endocrine catalyst.  
-* **Tactical symptoms:** Accelerated muscular hypertrophy (drastic increase in mass and bone density), total inhibition of pain receptors, apex territorial aggression.  
-* **Combat doctrine:** Standard “shield wall” tactics and suppressive fire become obsolete. Infantry naturally shifts to shock melee, abandoning cover to physically obliterate the enemy. Large xenos kill efficiency increased by 400%.  
-* **The rebound (logistic cost):** Systemic failure. After the enemy’s death and the stimulus’s break, the body collapses. The caloric and mineral demand of Wild Hunt is biologically unsustainable without support. Requires induced coma (*Exanimus* stage) to prevent death by exhaustion.
+We were wrong.
 
-**\[Personal Notes: The Wolf’s Eye\]** *"It was not merely a tactical maneuver. It was a physical necessity. When I seized Skarjaw’s jaw and tore it from his skull, I was not thinking of honor, the Emperor, or saving Noviomagus’s people. I was only thinking of silencing the damned noise he made.*
+Archmagos Belisarius Cawl — *Triumvirate conviction, sealed, not Administratum gospel* — did not give us a disease. He forged an **arsenal** and buried it in our marrow. We are not static warriors. We are reactive organism, designed to mirror the galaxy’s horror and annihilate it with the face it recognizes.
 
-*There is a terrifying purity in the Wild Hunt. The world turns red, narrow, and wonderfully simple. We become the monsters so the citizens hiding behind us do not have to. But what keeps me awake in the meditation cells is not the violence — it is how natural it felt. I tasted black Ork blood in my mouth, mixed with promethium smoke, and for a millisecond that made more sense to my soul than any litany to the Golden Throne. The Beast is an undeniable tool, but it is seductive. It makes us want to live forever inside the fire."*
+Drusus names gear. Varro names soul. I name **duty**: which face the sector needs before dawn, and who pays when we wear it too long.
 
-## III. EVENT II: THE ESTIAGEM (THE MACHINE VECTOR)
+This record is both Strategium ledger and confession. If it survives me, let successors read the numbers first. Then read what the numbers ate.
 
-* **Identified trigger:** Tyranid xenos threat (cosmic horror and synaptic pressure / **Shadow in the Warp**).  
-* **Engagement reference:** Purge of the Noviomagus Secundus mines.
+---
 
-**\[Official Strategium Record\]**
+## I. Event One — The Monsoon (Beast Vector)
 
-* **Prior activation:** Against the *Hive Mind*’s psychic predation, the genetic response was diametrically opposite. Instead of entropic fury, we observed absolute biological silence.  
-* **Tactical symptoms:** Total suppression of limbic activity. Emotions such as fear, courage, glory, or hate were chemically castrated and removed from the combat equation. Tactical reaction time dropped to pre-cognitive thresholds.  
-* **Combat doctrine:** Embodiment of the “perfect soldier.” Ammunition-use efficiency logged at 99.8%. Total absence of proud heroism or illogical self-preservation. Entire squads sacrificed themselves in cold calculation solely to maximize geometric damage to the enemy.  
-* **The rebound (logistic cost):** Logistic catatonia. The cortex refuses to leave extermination operational mode. The force was trapped in weapon-maintenance *loops* or static vigils, neurologically unable to process peace, end of hostilities, or basal rest.
+**Identified trigger:** Ork xenos threat — physical pressure, saturation of *Waaagh!* psychic field.  
+**Engagement reference:** Defense of Noviomagus Prime · *Waaagh! Skarjaw* · South Wall.  
+**Detection:** **Witness Ford** / **Threshold** arrays — seven-day pre-stimulus before first scrap-meteor.
 
-**\[Personal Notes: The Void’s Eye\]** *"This is the state I fear a thousand times more than the Beast. In the Wild Hunt we are savage barbarians, yes, but we are undeniably alive. The blood boils. In March of the Machine, we die inside while still standing.*
+### Official Strategium record (Castellan attestation)
 
-*On Drusus’s data feeds I saw my battle-brothers let others be devoured alive by xeno chitin — not from cruelty, but because algorithmic processing dictated that a rescue would delay the firing line. I commanded an army of iron and ceramite ghosts. There was no abstract loyalty to the Emperor in those mines; only gelid devotion to the logic of extermination. If the Wild Hunt burns the human soul, March of the Machine freezes it until it cracks to dust. We beat the Tyranids by becoming mirrors of them: no fear, no hope of future, only a geometric hunger for victory. On that black day in Noviomagus Secundus, watching my force act, I felt far closer to the lethargic abomination of a Necron than to a son of Terra."*
+* I confirm systemic mass biological activation across wall **Vexillationes** seven days before visual contact. Xenos psychic presence acted as immediate endocrine catalyst — not fear, **hunger**.  
+* Tactical symptoms: accelerated muscular hypertrophy; bone density spike; pain receptor inhibition; apex territorial aggression; orange iris halo; predatory pupil narrowing.  
+* Combat doctrine: shield-wall suppression and bolter primacy became **obsolete** without order. Infantry shifted to shock melee — bolters mag-locked at waist, blades forward. Large xenos kill efficiency rose beyond any model I trust on open scroll.  
+* Alpha duel: I deactivated gladius before contact. Mandible torn free. *Waaagh!* field cracked. Sector held.  
+* Rebound (logistic cost): systemic failure on stimulus break. Caloric and mineral demand biologically unsustainable for full solar cycle. Entire South-sector force collapsed — hypovolemic shock, multi-organ failure, induced coma filed ***Exanimus* stage**. **Pre-***Curia*** depth** — harness did not exist; biology voted alone.  
+* Castellan exception: **predatory reconstruction** / **iron mitosis** — left arm rebuilt in four-week cocoon; memory traded for function per Drusus margin. I walked out. I signed nothing that day.
 
-## IV. COMMAND SYNTHESIS: THE SURVIVAL AXIOM
+### Personal notes — The Wolf’s Eye
 
-**chimeric predisposition** is our fundamental design. We are a pendulum forged in flesh and gene-seed. We swing between absolute apex predator (Wild Hunt) and pure-logic automaton (March of the Machine), shaping ourselves exactly to what the galaxy throws at us.
+It was not a tactic. It was **necessity**.
 
-**Wolf’s Curse** is not the transformation itself; the curse is the chain breaking. It is being irremediably stuck at one extreme. The Wolf that tears enemies apart and cannot return to being a man is only a sick animal (**Versibar**). The perfect soldier who executes orders and cannot feel again is only a broken machine.
+When I seized Skarjaw’s jaw and tore it from his skull, I was not thinking of honor, the Emperor, or Noviomagus civilians in hive-root dark. I was thinking of silencing noise — the *Waaagh!* scream that had scraped the inside of my helm for seven days until the world narrowed to red geometry.
 
-**My function:** I am not merely the field commander. I am the *Cohors Batavorum*’s heavy anchor. My sacred duty is to ensure that, no matter how far the pendulum swings toward the sea of blood or the ice abyss, it is always dragged back toward center. We loose the Beast to rend flesh, and we become the Machine so we do not go mad — but at day’s end, we serve and die as Men.
+There is terrifying purity in **Wild Hunt**. The world turns red, narrow, wonderfully simple. We become monsters so citizens behind us do not have to.
 
-*Instrumentum Solum.* We are only tools. But a tool that forgets its primary purpose quickly becomes a lethal weapon turned against the hand that wields it.
+What keeps me awake in meditation cells is not the violence. It is how **natural** it felt.
 
-— *End of record. Sealed in the Sanctum Strategium, Castra Vetera.*
+I tasted black Ork blood mixed with promethium smoke. For a millisecond that mixture made more sense to me than any litany to the Golden Throne. The Beast is undeniable tool. It is also **seduction**. It offers to let you live forever inside fire where decisions are only teeth.
+
+Kael crushed adamant rather than strike mortals on the eve of impact. I noted it. The Axiom held on the wall. Holding cost audibly.
+
+When rebound took the line, I took two steps toward triage and fell. Drusus drafted my death. My body disagreed. Varro watched the viewport and did not pray aloud. He does not need aloud.
+
+I woke on a grate with a new arm and fewer memories. Equipment, not miracle.
+
+---
+
+## II. Event Two — The Drought (Machine Vector)
+
+**Identified trigger:** Tyranid xenos threat — fleet-scale **Shadow in the Warp** / *Hive Mind* synaptic pressure. **Not** lone Genestealer cult geometry.  
+**Engagement reference:** Purge of **Noviomagus Secundus** mining catacombs · **IV** *Quarta* primary element.
+
+### Official Strategium record (Castellan attestation)
+
+* Prior activation: diametric opposite to Ork catalyst. Limbic activity **zeroed** under hive veil — not Furor failure, **deliberate drought**.  
+* Tactical symptoms: fear, courage, glory, hate chemically removed from combat equation; reaction time pre-cognitive; ammunition efficiency 99.8%; rescue denied when geometry demanded (Sergeant **Kael** — survivor of Skarjaw vigil — subtracted as friction variable in 0.4 seconds).  
+* Combat doctrine: **March of the Machine** — perfect soldier embodiment. Squads expended as accounting entries to maximize damage field.  
+* Rebound (logistic cost): logistic catatonia. Cortex refused exit from extermination mode. Eight hundred brothers trapped in maintenance *loops* until Triumvirate ordered **sensory rewarming** — mortal cook-fires, bare hands on pauldrons, irrational affection breaking steel trance.  
+* Chaplaincy note (Varro, paraphrased for ledger): *March infects the Anchor if he calculates litany latency. Treat as spiritual hazard equal to biology.*
+
+### Personal notes — The Void’s Eye
+
+This is the state I fear a thousand times more than the Beast.
+
+In Wild Hunt we are savage barbarians — yes — but undeniably **alive**. Blood boils. Grief howls even when orders forbid it.
+
+In March we die inside while still standing.
+
+On Drusus’s feeds I watched brothers let Kael be impaled — not cruelty, **algorithm**. Rescue shrank field of fire fourteen percent. They recalibrated and fired. I commanded an army of iron and ceramite ghosts. No abstract loyalty to the Emperor in those mines. Only gelid devotion to extermination logic.
+
+If Wild Hunt burns the human soul, March freezes it until it cracks to dust.
+
+We beat Tyranids by becoming mirrors: no fear, no hope, only geometric hunger for victory. On that black day in Secundus tunnels I felt closer to Necron lethargy than son of Terra.
+
+When the sky cleared, I did not chant victory. The wall had already spoken. I ordered civilians brought into the hot zone because Varro was right — iron remembers touch before it remembers prayer.
+
+Karras wept over a metal cup. Vhor woke to a docker’s palm. I filed both as **proof** the pendulum can return — and as **warning** how far we had to travel to return.
+
+---
+
+## III. Command Synthesis — The Survival Axiom
+
+**chimeric predisposition** is fundamental design. We are pendulum forged in flesh and gene-seed — reactive gear, not stone block. We swing between apex predator (**Wild Hunt**) and pure-logic automaton (**March of the Machine**), shaping ourselves to what the galaxy throws at us.
+
+| Vector | Enemy signature | Body’s answer | Rebound (unharnessed) |
+|--------|-----------------|---------------|------------------------|
+| Beast | Ork mass / *Waaagh!* | Fire, teeth, Blade Wall | Organ failure, coma, reconstruction |
+| Machine | Fleet Shadow / hive veil | Drought, 99.8% math | *Loop* catatonia until mortal reboot |
+
+**Wolf’s Curse** is not transformation. Curse is **chain snapping** — irremediably stuck at one extreme. Wolf that tears enemies and cannot return is sick animal (**Versibar**). Soldier that executes and cannot feel again is broken machine. Both are executioner’s warrant if we pretend they are **doctrine**.
+
+**Triumvirate function (filed this night):**
+
+* Drusus — **Brake.** Pharmacology, telemetry, refusal to call miracle what is overclock.  
+* Varro — **Anchor.** Soul frequency, Reclusiam law, sensory rewarming theology.  
+* Alaric — **Blade and weight.** Field command, pendulum drag toward center, acceptance that center is **mortal bond** — not abstract purity.
+
+My function is not merely to win sieges. It is to ensure that no matter how far the pendulum swings toward sea of blood or ice abyss, it is dragged back toward center before climate replaces weather.
+
+We loose Beast to rend flesh. We become Machine so we do not go mad in hive shadow. At day’s end we serve and die as **Men** — or we are already enemy to the Imperium we defend.
+
+Varro asked in the vault whether the Imperium could demand wrong blade.
+
+I answered: break the hand that wields it before we forget we were held.
+
+I mean it. Protector geometry includes **refusal** when orders ask us to forget whom we protect. That clause is not in open *Codex*. It is in this seal.
+
+---
+
+## IV. Orders Issued With the Seal (048.M42)
+
+* *Strategium:* Elevate **Golden Projection** to *Magenta* training partition — Wild Hunt and March symptom cards for all Legati; Genestealer cult threat routed to Silence Cohort, not assumed March trigger.  
+* *Apothecarion:* Drusus to draft rebound protocols — pharmacology first, theology second.  
+* *Reclusiam:* Varro to draft **sensory rewarming** minimum rites for post-March recovery — mortal contact classified **load-bearing**, not sentimental hazard.  
+* *Castellan:* I will stand South Wall memorial and Secundus recovery rotations personally until IV *Quarta* names return to basal rest without civilian hands.
+
+I will not pretend harness exists because we named the gear. Naming is first trench. *Curia* comes later or we keep paying pre-authorized bills in comatose brothers.
+
+---
+
+## V. What This Record Does Not Yet Know
+
+I write two axes because only two have burned the Chapter at scale.
+
+Drusus believes pendulum is complete mathematics. Varro fears the soul moves in directions charts do not chart yet.
+
+I have seen brothers hate Orks and freeze under hive shadow. I have not yet — at this date — seen what our marrow does when **traitor Astartes** speak with Horus-line cadence in earshot of the chimera’s second thread.
+
+If a third exponent exists, it will not swing sideways. Men who ascend do not always come down the same ladder.
+
+I seal this record before dawn. Forge continues. Stasis cells breathe. Kael’s gene-seed is recovered. Kael’s name is not forgotten — only **subtracted once**, and that subtraction will live in me longer than Skarjaw’s mandible.
+
+*Instrumentum Solum.*
+
+We are only tools. Tool that forgets primary purpose becomes lethal weapon turned against hand that wields it.
+
+Tool that remembers **why** it was forged may yet hold the Crown.
+
+— Alaric von Helis, Lord Castellan.  
+Sealed Sanctum Strategium, Castra Vetera. 048.M42.
+
+---
+
+**Next:** [`biologis-geometry-of-hatred.md`](biologis-geometry-of-hatred.md) (050.M42 — pyramid + **The Cull** supersedes pendulum-only theory) · [`spiritus-vertex-of-condemnation.md`](spiritus-vertex-of-condemnation.md) (Varro — vertex theology) · [`codex-omega-revision.md`](codex-omega-revision.md) (Alaric — post-Cull command revision)

@@ -4,7 +4,7 @@
 
 ## SYSTEM III: THE THRESHOLD (Terminal Trinity)
 
-The Threshold is not a conventional star system; it is an astronomical trench designed to obliterate physical incursions and Warp deformity long before they reach Noviomagus’s logistical heart. It is the exposed blade of *Porta Nihili*. Enemy fleets that penetrate this claustrophobic gravity well fight not only ships but time, gravity, and void weaponized.
+The Threshold is not a conventional star system; it is an astronomical trench designed to obliterate physical incursions and Warp deformity long before they reach Noviomagus’s logistical heart. It is the outward **blade** paired with **Witness Ford** — the physical choke before inward routing. Enemy fleets that penetrate this claustrophobic gravity well fight not only ships but **translation hazard**, lethal gravity, and weaponized void (see [`castra-vetera-galactic-lock.md`](../castra-vetera-galactic-lock.md); retired: *Porta Nihili* as astrographic name).
 
 ### 1\. THE STELLAR FOUNDATION (The Terminal Triad)
 

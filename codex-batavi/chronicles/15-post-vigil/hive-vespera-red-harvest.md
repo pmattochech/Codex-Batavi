@@ -4,7 +4,7 @@
 **When:** **~189.M42** (mature post-Vigil era)  
 **Where:** Noviomagus Prime — Hive Vespera  
 **Who:** **Alaric von Helis** (noble-caste severance and house judgment), **Corbec Ardens** with **full I Prima** — line companies and specialized cohorts (**Silence**, **Shadows**, **Stasis**, **Nullity**) — lower-hive purge geometry, **Adeptus Arbites** (Marshal Acastian Vhal, Judge-Militant Serix) attached to **both** task columns, city population and noble houses of Vespera  
-**Cross-references:** `[../06-silent-vigil/10-proof-of-chain.md](../06-silent-vigil/10-proof-of-chain.md)` · `[../13-apotheosis/seal-of-the-portal.md](../13-apotheosis/seal-of-the-portal.md)`
+**Cross-references:** [../06-silent-vigil/10-proof-of-chain.md](../06-silent-vigil/10-proof-of-chain.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §VI (*Nihili Protocol* staff beat)
 
 ---
 

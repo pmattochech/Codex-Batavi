@@ -2,7 +2,7 @@
 
 **Classification:** Chapter narrative — frontier resupply under *Limes Lupus* treaty geometry; **not** a formal *Alabarda* field-4 listing (internal **Vermilion**-grade after-action exists in *Strategium* sealed annex).
 
-**When:** ***.M42*** (Silent Vigil; **pre-**175.M42 *Porta Nihili* seal where it matters to border law)  
+**When:** ***.M42*** (Silent Vigil; **pre-**175.M42 ***Nihili Protocol*** custody where it matters to border law)  
 **Where:** **Noviomagus Prime** — anchored void, high-orbit dock, ferrocrete spine to the forges  
 **Who:** Lord Castellan **Alaric von Helis**; **IX** *Nona*; **Silence** / **Shadow** cohort detachments; **X** *Decima* anchor; guest **Chapter of the Ash Standard** (name **struck** from all public registers **seventy-two** hours after the event; this file uses the label only as a narrative handle).  
 **Cross-references:** [border-political-relations.md](../../political-relations/border-political-relations.md) (indispensability / treaty blood); [military-hierarchy.md](../../personae-command-index/doctrine-and-organs/military-hierarchy.md) (cohort grid); [pax-batavorum.md](../../personae-command-index/doctrine-and-organs/pax-batavorum.md) (*Limes* obligation)

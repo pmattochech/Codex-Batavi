@@ -11,7 +11,7 @@
 | **Company / Vexillatio** | **TBD** |
 | **Chassis** | **Leviathan** (siege / heavy support — loadout **TBD**) |
 | **Location (typical)** | Stasis / arming vault **Bifrons-Ferrum** mesh ([system-ii-crucible.md](../../../atlas-and-topography/systems/system-ii-crucible.md)); wake protocol **TBD** |
-| **Sarcophagus / cognition** | **Batavi** somatic **repair** (and **Furor**-stage **draw** on **progenoid** **economy** — see [projection-aurea-wolfs-curse.md](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)) is filed as the **reason** his **mind** and **neuro-interface** **decay** curve runs **shallower** than **ordinary** *Dreadnought* **coffin** data for a chassis **this** old: **longer** **lucid** **wake** **windows**. This is **not** *Medicinae* remission of **Furor**; **Ricochet** does **not** “heal” the Wolf’s Curse; *Reclusiam* still **files** **soul**-**wear** as a **real** **limit**. |
+| **Sarcophagus / cognition** | **Batavi** somatic **repair** (and **Furor**-stage **draw** on **progenoid** **economy** — see [projection-aurea-wolfs-curse.md](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)) is filed as the **reason** his **mind** and **neuro-interface** **decay** curve runs **shallower** than **ordinary** *Dreadnought* **coffin** data for a chassis **this** old: **longer** **lucid** **wake** **windows**. This is **not** *Medicinae* remission of **Furor**; **warp transit** and **calendar skew** do **not** “heal” the Wolf’s Curse; *Reclusiam* still **files** **soul**-**wear** as a **real** **limit**. |
 | **Foundation War tie** | **Intentionally unset** until you add a **death / entombment** beat |
 
 **Chapter:** *Cohors Batavorum*.

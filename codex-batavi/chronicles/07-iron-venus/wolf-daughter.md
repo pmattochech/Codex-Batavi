@@ -26,7 +26,7 @@ She placed herself between Alaric and Guilliman, pointing the toy blade at the R
 
 Helbrecht’s hand went to his sword hilt, a conditioned reflex. Alaric stepped forward, ready to intercept a blow even from the Emperor’s son. But Guilliman raised a hand.
 
-*First Helbrecht–Alaric meeting at the Loken Passage (Silent Vigil): see [helbrecht-first-loken-passage.md](../08-audit-diplomacy/helbrecht-first-loken-passage.md).*
+*First Helbrecht–Alaric meeting at **Witness Ford** (Silent Vigil, 096.M42): see [helbrecht-witness-ford-meeting.md](../08-audit-diplomacy/helbrecht-witness-ford-meeting.md).*
 
 The Primarch looked at the girl, then at the wooden sword, then at the gray eyes blazing with protective ferocity. — *The Root holds the stone* — Guilliman murmured, a logical conclusion forming in his divine mind. — *She is not your weakness, von Helis. She is your justification.*
 

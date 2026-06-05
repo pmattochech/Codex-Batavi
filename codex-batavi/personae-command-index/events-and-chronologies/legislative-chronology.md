@@ -38,6 +38,6 @@
   * *Definition: Alaric offers contingents to serve as logistics specialists with Founding Chapters (Ultramarines, Salamanders).*  
   * *The move (witness clause): Each detachment must be accompanied by an Inquisition auditor or allied Chaplain. That neutralizes secrecy accusations and ensures the Chapter’s utility is witnessed across the galaxy.*  
 * ***163.M42 | Threshold edict (*Lex Nihili*):***  
-  * *Definition: First decree after apotheosis on Terra. Establishes Noviomagus as extension of the Imperial Palace’s jurisdiction under the Latin designation **Porta Nihili**. Redefines the motto *Instrumentum Solum* not as self-deprecation but as sacred function: protect the “garden” (the population and Elara).*  
+  * *Definition: First decree after apotheosis on Terra. Establishes Noviomagus as extension of the Imperial Palace’s jurisdiction under **Castra Vetera** / **Insula Tenebrarum** filing (outward choke: **Witness Ford**). Redefines the motto *Instrumentum Solum* not as self-deprecation but as sacred function: protect the “garden” (the population and Elara). *(Retired in new prose: *Porta Nihili* as geographic corridor name.)*  
 * ***165.M42 | Synchrony protocol (the rewarming):***  
   * *Definition: Response to soul-mechanization risk. Creates paired responsibility between Marines and civilian leaders and mandates social decompression rotations. Goal: keep Astartes humanity alive through direct contact with those they protect.*
