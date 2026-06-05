@@ -98,6 +98,66 @@ That was what **politically neutralized** meant on Noviomagus: not friendship, n
 
 Varro logged the phrasing later as *Inquisitor Vane — self-neutralized by arithmetic*.
 
+Drusus filed a separate line — clinical, for *Apothecarion* eyes only:
+
+*Subject Vane: elevated cortisol, stable cognition, no Furor analogue. Ordos appetite reads as **institutional habit**, not fresh evidence drive. Recommend no further medical observation. Political containment sufficient.*
+
+Tyvar added nothing to the record.
+
+He had watched Inquisitors arrive and depart for **129 years** of collar duty. Vane was not the first to discover that Noviomagus could not be burned without burning the ledger that fed half a subsector.
+
+He was simply the last to **sign** that discovery in this filing band.
+
+---
+
+### Gamma-Three (walked, not rumored)
+
+Before Vane left the annex, Alaric did not offer comfort.
+
+He offered **access**.
+
+— You will walk **Gamma-Three** now — he said. — Not because you deserve reassurance. Because hierarchical transparency is only credible when the door opens **after** you threaten to break it.
+
+Vane’s escort was Triumvirate-sanctioned: Drusus on telemetry, two Black Cell wardens, no audience.
+
+The descent was cold enough to make mortal breath visible on the security cameras — not a feature, an accident the architects had never bothered to fix because Astartes did not breathe like men.
+
+**Gamma-Three** smelled of filtered air and old metal and the particular silence of rooms built to hold things that could not be allowed to **speak** in open register.
+
+Versibar assets behind plasteel did not perform for visitors.
+
+They **waited**.
+
+Vane read the Testament logs on a wall slate — names redacted, phases noted, Drusus’s handwriting in margins where a lesser institution would have used euphemism.
+
+— You catalog them like artillery — Vane said.
+
+— We catalog them like **debt** — Drusus said. — Artillery is discharged. Debt must be **accounted** until paid or sealed.
+
+Vane walked the length of the tier without flinching.
+
+That, Alaric noted later, was the man’s virtue: courage without wisdom was still a form of service the Throne occasionally required.
+
+When the lift returned them to the annex, Vane did not ask to see the cells again.
+
+— I will cite compliance in my report — he said. — I will not cite **approval**.
+
+— Cite what you must — Alaric said. — The mesh does not require your love to function.
+
+Vane left with his three slates and his unsigned appetite.
+
+The door sealed.
+
+Elara looked at the map table.
+
+— Will he return — she asked.
+
+— Not as leverage — Alaric said. — Perhaps as **witness** on someone else’s crusade. That is a different hazard.
+
+Varro’s helm turned a fraction toward the shadow line.
+
+— Witness is how idols begin — he said. — Record the difference.
+
 ---
 
 ## II. Witness Ford exercise
@@ -112,7 +172,23 @@ The kind of day the mesh had a thousand times per year.
 
 The kind of day empires actually died on when nobody competent was watching the math.
 
+**Witness Ford** was not a wide harbor.
+
+It was the **physical choke** where convoys earned receipt before inward routing — pylons, cordon auspex, marsh harmonics that Navigators filed as *singing* when the mesh pressure changed. Beyond the ford, the **Threshold** trench amplified translation hazard; chart-houses sworn to Castra Vetera made the approach statistically survivable. Whoever crossed without authorization was not a visitor.
+
+They were ordnance.
+
+Elara had read Helbrecht’s first meeting in the staff annex — **096.M42**, faith versus geometry at the same choke. She filed it as precedent, not romance: the ford did not open from pity. It opened when someone competent held the math.
+
 On the command deck of the Navy band flagship — registered in Chapter annals as ***Wrath of Noviomagus*** liaison hull — Elara stood before a hololithic plot that showed the Nine Phalanx as amber nodes and the ford as a narrow green throat.
+
+The Navigator on band channel — name withheld on open vox, voice thinned by strain — reported what every Navigator reported when the ford misbehaved:
+
+— Harmonics are **sharp** today, Admiral. Not breach sharp. **Attention** sharp. Something is listening.
+
+— Then we do not perform — Elara said. — We **transit**. Listening is not permission.
+
+— Copy.
 
 — Convoy **Theta-Nine** — she said. — Hold outer mark. Do not rush the choke. Witness Ford punishes hurry more than it punishes enemies.
 
@@ -128,6 +204,20 @@ That was the point of consolidation: the wall could remain at the wall while the
 
 Elara watched the escort geometry adjust — not heroic, not cinematic. Timed burns. Lag correction. A Batavi strike cruiser holding silent shadow at the ford lip, present enough to discourage piracy, absent enough not to become the story mortals told their children instead of the Emperor.
 
+On passive auspex, a smear of small signatures flickered at the choke’s edge — not invasion, **opportunistic bleed**, the same class of pressure Helbrecht’s fist had met a century prior. Elara did not redirect the convoy to battle posture.
+
+She redirected **timing**.
+
+— Strike element — she said on the closed Batavi liaison channel. — Hold shadow. No torpedo release. I want **receipt**, not sermon.
+
+The strike cruiser acknowledged with one pulse on the plot.
+
+The smear withdrew.
+
+Theta-Nine would never know how close the day had come to requiring a wolf on the vox.
+
+That ignorance was also logistics.
+
 — Second escort — she said. — Your ventral shielding is reading hot. Peel left. Let **Theta-Nine** take centerline.
 
 — Admiral, centerline is **narrow** — the escort captain said.
@@ -136,11 +226,25 @@ Elara watched the escort geometry adjust — not heroic, not cinematic. Timed bu
 
 They executed.
 
+Mid-transit, **Theta-Nine**’s damaged vox mast spat static into the open band — a hash of panic and prayer and one steward’s voice almost singing *Wall* before the channel died.
+
+Elara did not rebuke the captain.
+
+She fixed the geometry instead.
+
+— Relay **Theta-Nine** through **Band Two** — she told the signals officer. — Strip nonessential channels. If he needs to pray, he prays on his own ship after he **pays** his receipt.
+
+— Copy, Admiral.
+
 The convoy crossed the ford without incident.
 
 On the plot, the amber nodes pulsed once — mesh throughput logged, Administratum receipt generated, another day of **Insula Tenebrarum** doing what it existed to do.
 
 Elara exhaled once, controlled.
+
+— Log **Theta-Nine** for vox maintenance at inner mark — she said. — Log **escort two** for shield service. Log **Navigator** for hazard bonus. Next convoy in forty minutes. We do not **celebrate** a clean ford. We **repeat** it.
+
+The signals officer nodded like a man who had just been taught the difference between Navy heroism and Navy **maintenance**.
 
 A Navy lieutenant — young, noble scion, still believed rank was performance — asked the question mortals always asked when they first saw her work:
 
@@ -153,6 +257,44 @@ Elara looked at him.
 She did not add: *And Alaric listens because he chose to make the gate mortal before the gate made itself a god.*
 
 That sentence belonged in Martha’s kitchen, not on a Navy deck.
+
+---
+
+### Second convoy (repeatability)
+
+The forty-minute cycle was the real test.
+
+Any admiral could hold one clean ford.
+
+Consolidation meant holding the **second** when fatigue, boredom, and the lieutenant’s need to impress someone were all working against you.
+
+Convoy **Kappa-Three** — ore dust, short tempers, two escorts that had argued in dock — hit the choke hot.
+
+Elara did not raise her voice.
+
+— **Kappa-Three** — she said. — You are **early**. Decelerate to mark **seven**. You do not buy time with my ford’s tolerance.
+
+The ore hauler’s captain swore on an open channel, then remembered where he was and apologized in the administrative tone Noviomagus trained into survivors.
+
+— Decelerating, Admiral.
+
+— Escorts — she said. — Match his deceleration. No bracket rush. I want one throat, one receipt.
+
+They gave her one throat.
+
+The ford sang wrong again — harmonics sharp, attention sharp — and this time Elara logged the Navigator’s report against **177** baseline without flinching.
+
+Repeatability was a number.
+
+Numbers were how Alaric had taught her to love the Imperium without pretending it loved back.
+
+When **Kappa-Three** cleared inner mark, Drusus’s remote telemetry pinged the flagship with a single line from Noviomagus:
+
+*Friction geometry stable. Second-cycle variance within tolerance.*
+
+Elara forwarded it to the lieutenant.
+
+— That — she said — is what victory looks like when nobody writes a poem about it.
 
 ---
 
@@ -198,11 +340,29 @@ Terminator plate did not allow it.
 
 The moment did not require it.
 
+Tyvar, who had observed the seal from the same distance he observed all Triumvirate business — present, unowned, **audit made flesh** — did not congratulate anyone.
+
+He checked the pauldron compartment on the walk out.
+
+Eighty-seven grams.
+
+Sigil intact.
+
+The mesh held because many hands held it, not because any one of them was holy.
+
 ---
 
 ## IV. Kitchen coda (present filing)
 
 That cycle, after the seal, Elara stopped at Martha’s kitchen long enough to steal a biscuit and leave a Navy requisition chit on the table — protein allocation for Outer Gate crews, signed in her hand, stamped with a forge seal that made administrators cry.
+
+**Leo**, thirteen now, was under the table wiring a toy auspex from scavenged forge parts.
+
+He looked up when Elara’s boots entered — civilian shoes, not parade gloss.
+
+— Did you break the sky again — he asked.
+
+— I **scheduled** the sky — Elara said. — Breaking is your department.
 
 Martha looked at the chit.
 
@@ -213,6 +373,26 @@ Martha looked at the chit.
 Martha snorted.
 
 — Tu’Shan’s pot still holds heat — she added, nodding at the adamantium relic on the stove. — Your Admiral bread can wait its turn.
+
+Jonas, Martha’s firstborn, auditor’s eyes already at work despite the hour, glanced at the chit’s numbers.
+
+— Outer Gate protein uplift is **four percent** above last cycle — he said. — You’re buying loyalty with calories.
+
+— I’m buying **sleep** with calories — Elara said. — Loyalty is what happens when sleep holds.
+
+Alaric appeared in the doorway long enough to fill it — not entering, not violating the kitchen’s domestic frame without invitation. Helm on. Viggo gone years now; the silhouette still read as *Wall* to every child in the room.
+
+He looked at Elara.
+
+— Ford clean — he said.
+
+— Two cycles — she said. — Logged.
+
+— Good — he said, and left without entering.
+
+Martha wiped her hands on her apron and muttered after him:
+
+— Giant could at least eat a biscuit when the sky is scheduled.
 
 Elara almost smiled.
 
@@ -230,6 +410,6 @@ As **schedule**.
 
 ---
 
-**Staff filing (180.M42 present):** **Elara Solis (~30)** — full Outer Gate fleet command lock. **Inquisitor Vane** — self-neutralized; no further subsector Ordo escalation (leverage exhausted — super-tithe + transparency + Custodes watch). **Alaric** — Castellan; Throne briefing through Elara operational. **Witness Ford** — live convoy consolidation exercise. *Idol drift warning:* Ferrum-Secondus **183** on file; Vespera **189** ahead.
+**Staff filing (180.M42 present):** **Elara Solis (~30)** — full Outer Gate fleet command lock. **Inquisitor Vane** — self-neutralized; **Gamma-Three** walked; no further subsector Ordo escalation. **Witness Ford** — **Theta-Nine** + **Kappa-Three** live convoy cycles. **Alaric** — Castellan; Throne briefing through Elara operational. *Idol drift:* Ferrum-Secondus **183** on file; Vespera **189** ahead.
 
 **Hub:** [15-post-vigil/README.md](README.md) · **Elara ladder:** [07-iron-venus/README.md](../07-iron-venus/README.md)
