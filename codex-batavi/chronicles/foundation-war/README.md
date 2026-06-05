@@ -2,6 +2,17 @@
 
 **Status:** **Retcon pipeline complete (Phases 3–5).** Deep prose (Q0 + 38 chapters); **`Next:`** chain verified. **Phase 4:** myth, glossary, chronology, progenitor, dossier wound tags. **Phase 5:** repo-wide audit pass — staff/atlas/biology pointers repointed; legacy duplicate index trimmed. See [`../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md) §Phase 5 checklist.
 
+**Density pass (complete):** §VIII dedupe + companion-tail normalization across all 39 `chapter.md` files. **Serial total:** **10,343 lines** on disk (`wc -l`). **Bands:**
+
+| Band | Lines | Count | Notes |
+| --- | ---: | ---: | --- |
+| Prelude peak | 364 | 1 | Q0 `distress-vector` |
+| Chapter peaks | 285 | 3 | `living-specimen`, `incus-still-burns`, `the-beast-chapter` |
+| Secondary | 264 | 6 | Q1 `second-quarter-brief`; Q2 `exanimus-choir`, `inverted-hive`; Q3 `bridge-saints`, `forward-to-the-crown`, `maw-exercise` |
+| Floor | 260 | 29 | All other chapters |
+
+Codas: **Interest → stamp line → Always owed** (or quarter-specific liturgy exceptions: Ch.35 / Ch.38 ***We hold anyway*** as **instrument**). No ledger-after-Interest stacks.
+
 **Purpose:** Slug-based crucible serial under **Castra Vetera** annals. Read order is **`INDEX.md`** (source of truth); each `chapter.md` ends with a **`Next:`** link for linear reading.
 
 **Workflow spec:** [`../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md)

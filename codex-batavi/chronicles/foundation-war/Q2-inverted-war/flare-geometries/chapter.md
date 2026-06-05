@@ -7,17 +7,35 @@
 
 **Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../../../atlas-and-topography/castra-vetera-galactic-lock.md). **Witness Ford** outward filter; **Forge / Tempest / Crown** marsh channels. Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
+**Chronicle law:** Pre-***Der Batav*** · **Iria** return deferred · hostage mesh cross-file (Triumvirate) · *We hold* not spoken.
+
+**Precedent:** Ring minutes traded for teeth — [`ring-of-teeth/chapter.md`](../ring-of-teeth/chapter.md).
+
 ---
+
+## I. Mouths — Then Flares
 
 The Ring’s teeth had taught them mouths, and **Ignis-Minor** taught them **flares** — solar violence dressed as industry, polite as a forge until it turned your shadow into **paper** and your flesh into rumor. Gravity here was honest only when it hurt: harness lines cut into hips, boots skidded on scoria that pretended to be traction, and every step was a negotiation with a world that wanted you to understand you were small.
 
 Thermal miners worked clipped to cliffs that *flared* without warning — **solar belches** the Administratum called *scheduled venting* because liars love calendars, because calendars make random death look like a meeting you forgot to attend. When a flare came, silhouettes became memories between heartbeats. The auspex screamed one dialect of *hot*; skin learned another; the gap between them was where men died believing they had misunderstood a machine instead of a predator.
 
+The **backward braid** was cruel mathematics: Incus had priced hesitation in quotas; the Ring had priced it in **days of air**; Ignis would price it in **ninety seconds** and teach the Chapter that love could be expressed by refusing to call someone into fire until fire was honest about its appetite.
+
 Approach from the **Logus Ring** had been a lecture in **minutes** — days of air traded for teeth, teeth traded for stamps — until Ignis turned minutes into something that could **burn**.
+
+**Merit’s** clerks had tried to strap recorders to miners until **Kessler** threatened inventory of teeth; **Valerius** canceled the initiative with stamped **NON-COMPLIANT** before the first flare — witness routes only, no morale throughput, the same refusal that would later meet tombs and swamps and prisms wearing different weather.
 
 **Valerius** laid cooling bibs and water bladders like a miser counting coins because on thermal cliffs coins were throats; he posted *no double-time* warnings on gantries because double-time turned men into silhouettes faster than policy.
 
 **Drusus** pre-loaded sunburn protocols that sounded obscene beside *combat casualty* until you understood sunburn here could mean *cooked armor glue* and armor glue meant a brother who could not flex a joint when a second flare came — **geometry** again, dressed as dermatology.
+
+Miners on the cliff face worked harness lines that cut hips until blood looked like rust and rust looked like **quota**. A foreman — voice shredded by years of shouting over forge-roar — tapped a gantry stanchion twice before each shift and made rookies copy the rhythm until rhythm became **superstition with a body count**: tap, tap, climb, breathe, do not look at the sun’s reflection in your own visor because reflection was how Ignis taught vanity to invoice you.
+
+**Sera** had not yet walked glass seas; here she was only a cable-hand’s daughter on relay, stringing fiber along cliff spines because *vox* lied when heat bent air and fiber lied slower. Red tape meant *call for help*. Blue meant *do not call for the wrong help*. Marines learned the colors before they learned the miners’ names, which was how witness routes began: **trust before throughput**.
+
+---
+
+## II. Geometry — Not Invasion
 
 The Drukhari did not arrive as invasion but as **geometry**.
 
@@ -37,7 +55,17 @@ Alaric saw it without admiring it — admiration would have been collaboration. 
 
 A Drukhari voice rode distortion like a blade on glass — too amused to be human, too human to be ignored — and then cut, because amusement was also a timer.
 
-**Kessler**’s auxilia — boys she had taught to breathe in the Ring’s tubes — got caught in gantries because void training is not **thermal** training; panic wore new clothes here and fit just as fatally. Rebreather calm did not translate when your soles tried to melt and your mask filled with the smell of cooked hair. She swore vox would hear her hatred later; on the ground hatred was **useless** and placement was survival.
+**Santo** — still young enough to mistake *fast* for *brave* — sprinted for a gantried child before Kessler’s whistle cut the air like a blade. He stopped mid-stride, boots skidding on scoria, because stopping was the lesson Incus had tried to teach and Ignis would teach again in fire: **placement** before **virtue**.
+
+— Eyes on me — Kessler said, not to him alone — to every boy who had learned breathing in Ring tubes and now learned that breathing was not enough when the sun decided to grade your homework.
+
+Santo nodded once, shame hot as flare-wash, and took the stanchion line Kessler assigned. Shame, on Aethelgard’s sons, was not poison; it was **compass**.
+
+---
+
+## III. Hostage Math — Choose Marines Last
+
+**Kessler**’s auxilia — boys she had taught to breathe in the Ring’s tubes — got caught in gantries because void training is not **thermal** training; panic wore new clothes here and fit just as fatally. Rebreather calm did not translate when your soles tried to melt and your mask filled with the smell of cooked hair. She swore *vox* would hear her hatred later; on the ground hatred was **useless** and placement was survival.
 
 She shoved bodies behind stanchions with the same profanity sanctified by volume control she had used in Incus riots, except here profanity steamed and vanished like it was ashamed to exist.
 
@@ -45,19 +73,25 @@ She shoved bodies behind stanchions with the same profanity sanctified by volume
 
 Hostage math followed with the beauty of a theorem written in screaming: if **Alaric** moved *now*, twelve died; if he waited *now*, twenty died *differently*; if **Kadmos** failed to find the **flicker**, everyone learned death’s favorite joke — *later* — which was death’s way of being funny without smiling.
 
-The Castellan’s vox did not rise. Rising would have spent air the net needed. He watched gantries the way artillery watches wind — looking for the lie in the pattern, the seam where xenos arrogance left a half-second of daylight.
+The Castellan’s *vox* did not rise. Rising would have spent air the net needed. He watched gantries the way artillery watches wind — looking for the lie in the pattern, the seam where xenos arrogance left a half-second of daylight.
 
 On a private band, **Drusus** received triage permission phrased like law: *if the net must choose, choose Marines last* — not because Marines were worthless, because Marines had signed for that sequence; mortals had not, and debt was a ledger Drusus refused to beautify.
 
 **Varro** heard the shape of it without needing the words; his censers hung colder, binds shorter, because chaplains guarded the soul’s arithmetic when commanders guarded the wall’s.
 
+---
+
+## IV. Ninety Seconds — Clock It
+
 **Captain Ossian** — name later struck from praise-scrolls because gratitude embarrassed men trained to despise gratitude — made a trade not out of courage and not out of cowardice, but out of arithmetic he could **live inside**. Half a company pushed into a kill-channel that smelled like ozone and cooked minerals, buying **ninety seconds** with bodies used as doors because doors were what the geometry demanded.
 
-Bolter answer braided with splintering gantries; ricochets whined off heat-warped metal and turned corners that should not have existed until ballistics became theology. A Marine vanished into flare-wash and left only a silhouette burned into Kessler’s retina like a curse. Someone called a name and the vox made it a stranger’s name — compression, interference, the small mercies technology grants the dying.
+Bolter answer braided with splintering gantries; ricochets whined off heat-warped metal and turned corners that should not have existed until ballistics became theology. A Marine vanished into flare-wash and left only a silhouette burned into Kessler’s retina like a curse. Someone called a name and the *vox* made it a stranger’s name — compression, interference, the small mercies technology grants the dying.
 
 She did not scream. Screaming was expensive.
 
 — Clock it — Alaric said — not louder than flare-roar; *final* — and the word landed like a seal.
+
+Gantries groaned. Harness lines cut deeper. A child’s silhouette — leverage, not person, in hostage math — went still when stillness was the only currency the Drukhari had not yet counterfeited. **Varro** shortened a bind mid-syllable because long litanies were invitations; short ugliness was **seal**.
 
 **Kadmos** **clocked** it — auspex teeth snapping around a webway echo that did not want to be caged, harmonics stacked until the universe, for once, pretended punctuality was mercy. For ninety seconds the Chapter bought the right kind of violence: not heroic, not clean, *accurate*.
 
@@ -65,11 +99,27 @@ Inside those seconds, gantries shed sparks like stripped teeth; bolters talked i
 
 When the flicker locked, Kadmos exhaled a number instead of a prayer.
 
-The raid did not break like a line breaks; it **withdrew** — aristocrats bored at a peasant show. Laughter rattled through vox-static into syllables that did not need translation: *Pretty prey*. The sound left ash in the ears worse than dust. They left because leaving was another lesson: you were not worth finishing if you could be taught to watch them leave.
+**Ossian**’s channel went quiet in the middle of a count — not dramatic silence, **absence** — and Kessler felt the absence like a tooth pulled: you kept tonguing the hole even when discipline told you not to. She filed the feeling under *later* and kept bodies behind stanchions, because *later* was where sergeants buried what officers called *acceptable loss*.
+
+**Merit’s** floor team tried to clip a recorder to Ossian’s pauldron before the push — *hero throughput*, *acceptable sacrifice narrative* — and **Kessler** snapped the mount with her knife handle hard enough to bruise a clerk’s wrist. Valerius stamped **NON-COMPLIANT** before the clerk could argue that *documentation saved fleets*. Documentation saved fleets that still breathed; Ossian’s channel was buying breath for children who had not signed for **sin**.
+
+Alaric did not name Ossian on the net. Naming would have spent seconds the geometry had not priced yet. He only shifted mass one meter left, hinge-voice doing the work speeches could not.
+
+**Drusus** received triage permission on private band — *if the net must choose, choose Marines last* — and filed it under *hostage math; sequence only* because mass-as-verdict would arrive as hyper-G before Tertius Anvil named inheritance terrain.
+
+When the ninety seconds ended, **Drusus** found Ossian’s pauldron fragment cooling on scoria — ceramite still holding heat like a grudge — and sealed it under *hostile raid; partial remains; do not brief as martyrology*. Martyrology was how institutions learned to spend the dead twice.
+
+The raid did not break like a line breaks; it **withdrew** — aristocrats bored at a peasant show. Laughter rattled through *vox*-static into syllables that did not need translation: *Pretty prey*. The sound left ash in the ears worse than dust. They left because leaving was another lesson: you were not worth finishing if you could be taught to watch them leave.
 
 **Kadmos** tried pursuit the way predators try smoke — lunging routes that looked clean on auspex until heat-shimmer peeled them into **nothing** — and accepted the nothing because accepting was cheaper than feeding the Drukhari a second laugh. Raiders did not flee; they **vanished** along angles the human eye filed as nausea. The webway echo left a residue in harmonics anyway, a fingerprint on the air like oil on water: proof the enemy was not myth, only *elsewhere*.
 
 He saved the trace under *hostage raid; echo stub* because stubs were how you taught tomorrow not to pretend today had been weather.
+
+**Valerius** tallied Ossian’s channel silence before he tallied bodies — because silence on hostage geometry was its own column, one officers mistook for *acceptable loss* until they learned silence was **debt** accruing interest in names you would have to spell later on casualty boards nobody saluted.
+
+---
+
+## V. Burns That Were Also Lessons
 
 **Drusus** treated burns that were also **lessons** — skin cooked to doctrine, nerve maps screaming data about *pain bandwidth* he would rather not possess, filing pain the way other men filed ammunition counts because if he stopped filing he would start naming victims as friends. His hands moved in the economy of triage: this one now, that one in thirty seconds, this one never — never delivered as a glance away, because gazes could kill hope faster than plasma.
 
@@ -83,6 +133,10 @@ A Naval **tithe adjutant** tried to wedge *rebate-eligible casualties* into the 
 
 Alaric stood amid thermal reek without removing his helm because helms were not modesty here but **continuity** — the Castellan’s mass a hinge between what men wanted to scream and what the net could carry. He did not offer speeches. He offered presence, which was the only currency that did not melt.
 
+---
+
+## VI. Not Yet — Iria Deferred
+
 On a data-slate buried under tactical overlays, a personnel flag blinked — easy to ignore, easier to **feel**: *Needles envoy requests return.* **Iria**.
 
 Alaric denied it without cruelty, because cruelty would have wasted time:
@@ -93,11 +147,19 @@ Some loves, in the old romances, are expressed by refusing to call someone into 
 
 **Valerius** watched the flag blink and said nothing aloud; he added a footnote only he would see — *envoy deferment; morale debt* — because debts that could not be paid on time still accrued **interest**, and interest on Aethelgard had a way of washing up as riots, or silence, or both.
 
+On the Needles liaison annex — ten minutes late, as always — **Iria** read the same denial and did not curse delay. Delay was how you learned which fires were honest about appetite before you walked into them. She touched her tide table once — not prayer, **calibration** — and returned to work, because work was the only dialect that did not feed hostage geometry.
+
 Romances teach that love and slavery share a grammar until one learns **refusal**. The Chapter refused — messily, at cost — with bolt and triangulation and half a company’s grief pressed into ninety seconds like powder into a casing.
 
 Ignis flared again, indifferent, until men learned the flare did not **hate** but simply **consumed**, which was worse: hate at least implied you were worth addressing. Consumption only implied you were fuel.
 
 When the station’s alarms finally thinned to a tired pulse, **Kessler** found one of her boys sitting with his mask off, staring at his hands as if they belonged to someone else. She sat beside him without touching — touch would have been presumption — and counted backward from ten in the same cadence she had taught him to breathe. By seven he inhaled. By three he remembered how. By zero she allowed herself one swallowed sob, because sergeants paid too.
+
+**Santo** — if he had been there, he would have learned the same lesson Incus would teach later: shame as **compass**, placement before virtue. On Ignis, virtue without placement was just another silhouette for hostage math to price.
+
+---
+
+## VII. Pricing Logic — Same Cruel Mathematics
 
 Somewhere in the dark above the cliffs, auspex ghosts still sketched Raider edges that were already gone — memory pretending to be threat. **Kadmos** stared at the trace until his eyes burned and then kept staring, because stopping felt like letting the geometry win.
 
@@ -111,15 +173,88 @@ A second flare — Administratum-scheduled, *honest* — threatened to erase evi
 
 **Kessler** dragged tarps until her shoulders sang; **Kadmos** placed brothers where shadow still meant something other than target. Heat rolled over the station like an indifferent examiner, and when it passed, the cliffs looked **new**, as if Ignis hoped amnesia could double as innocence.
 
-**Varro** extinguished a votive someone had lit beside a corpse — too late for prayer, too early for peace — and stepped back into ash-light, *Codex* skull catching lumen like a moon that had learned to judge without enjoying judgment.
+A miner — face blistered, eyes still tracking gantries like prey — asked **Valerius** whether the Administratum would call the raid *rebate-eligible*. Valerius met him with stamps and silence until the miner understood rebates waited behind witness tallies, same as water waited behind throat counts on Incus. Staff wars were not loud on Ignis; they were hot, quiet, and persistent as flare schedules — and sometimes they were the only war mortals could win without dying.
+
+**Kadmos** replayed the webway stub until harmonics burned his eyes — not pursuit, **study** — and marked three micro-delays that rhymed with Ring minutes and Incus quota ticks: *position bodies where hesitation becomes sin*. He saved the rhyme under Triumvirate seal because rhyme was not prophecy yet; it was **debt** accruing interest in theaters that pretended they were unrelated.
+
+**Varro** extinguished a votive someone had lit beside a corpse — too late for prayer, too early for peace — and stepped back into ash-light, *Codex* skull catching lumen like a moon that had learned to judge without enjoying judgment. Beside the corpse a child’s harness clip still clicked in the thermal breeze, empty, **priced** — and Varro did not bind the child’s name aloud because names spoken beside hostage geometry became **inventory** faster than chaplaincy could refuse.
 
 The flare had not ended the lesson; it had only changed the light it was taught in — still cruel.
+
+---
+
+## VIII. Silhouettes — Next Scheduled Lie
+
+**Threx** filed *deferment accepted; yield loss logged* beside *Chapter refuses Mechanicus ghosts during hostage geometry* — same appetite, different costume — and **Valerius** stamped the pairing *witness routes only* until even **Lex Ignis** feeds learned mysticism could look like **solvency** when ink was honest enough.
+
+**Sera** — not yet named on glass seas, only a cable-hand’s daughter on relay — would later teach *left is not left*; here she only taped fiber where *vox* bent and made Marines learn colors before names. The braid had begun on cliffs before it learned prisms.
 
 Alaric watched the scheduled burn wash the cliff face clean of soot and blood-smear and thought of Iria’s deferred return, of Ossian’s ninety seconds, of the Ring’s mouth and Incus’s choir and the single thread tying them: **seconds priced in bodies**.
 
 He did not say *We hold.* On Ignis, holding meant choosing which silhouettes survived the next scheduled lie — and living with the ones that did not.
 
+Brood signature waited in kin-network graphs. Bloodline vector. Inheritance not pamphlet. Incus ash still in seal joints. Ring teeth still in seal joints. Days of air still priced in throats the fleet would carry south like infection shaped like memory.
+
+**Santo** scrubbed scoria from his knees where he had skidded learning placement before virtue — compass, not poison — and did not look at **Mira** when she passed with tally ink on her knuckles. Looking would have turned shame into **spectacle**. **Kessler** saw him anyway and adjusted his strap once, sister-rough, because sergeants paid debts in small mercies when speeches still cost air the net could not spare.
+
+**Ossian**’s channel silence would travel in Valerius’s private column — *acceptable loss* mistaken for debt accruing interest in names you would spell later — and **Drusus** would seal a burn file noting *Ignis hostage mesh compatible with prior pricing logic* without sending it, because saving was the Apothecarion’s version of courage.
+
+**Kadmos** saved the webway stub under *hostile raid; echo stub* and replayed ninety seconds until harmonics looked like veins — Ring minutes, Incus quotas, hostage geometry priced in bodies — same cruel mathematics wearing different weather. **Iria**’s *Not yet* still blinked on slates; fire had not finished teaching honesty about appetite.
+
+**Alaric** stood at Ignis lip one minute after ninety seconds filed and did not remove his helm — continuity, not spectacle — while **Ossian**’s channel silence traveled in Valerius’s private column like equipment fault institutions preferred to confession. He did not say *We hold*. Holding, here, was **refusal to let webway stub merge columns** before injury was attested.
+
+**Merit** tried once to clip a recorder to the flare geometry map until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as reconciliation packages that let admiralties sleep while mortals paid for the dream.
+
+**Kessler** ran one last breathing cycle with auxilia who had learned placement before virtue on scoria that ate knees — compass, not poison — and did not praise them. Praise turned discipline into **theater**.
+
+**Varro** filed Ignis threshold as proto-rite — seal attempted, not victory — and listened to **Ossian**’s channel silence one interval longer than courtesy required, because some debts accrued interest in names you spelled later only if someone refused to call equipment fault *weather*.
+
+**Drusus** appended a closing margin — *Ignis hostage mesh compatible with Ring environmental coupling; cross-reference webway stub; treat ninety-second rhyme as sequence only* — and sealed the burn file without sending it, because saving was the Apothecarion’s version of courage when fire had not finished teaching honesty about appetite.
+
+Fire on scoria tried to turn *Not yet* into chant. Someone silenced it because silence was cheaper than explaining why hostage geometry priced bodies in minutes nobody yet dared name on open channels.
+
+**Ossian**’s channel silence would travel in Valerius’s private column one last time — equipment fault mistaken for debt accruing interest — while webway stub waited in Ring minutes the Incus mesh would pretend were unrelated until ninety seconds taught honest pricing.
+
+Scoria forgot fire until *Not yet* blink looked like peace — peace another word for **ninety seconds** hiding teeth brood signature would teach in inheritance terrain before Ignis hostage mesh confirmed cruel mathematics wearing different weather.
+
+**Varro** filed Ignis threshold as proto-rite one last time — seal attempted, not victory — and listened to **Ossian**’s channel silence one interval longer than courtesy required, because equipment fault was sometimes the only confession institutions would accept without calling it weather.
+
+**Kessler** ran one last breathing cycle on scoria that ate knees — compass, not poison — and did not praise auxilia. Praise turned placement before virtue into **theater** before Ring minutes priced air in bodies.
+
+**Alaric** counted flare geometry one last minute on the lip without speeches — hinge-work — because hyper-G would arrive as verdict and mass would not negotiate with morale throughput dressed as courage packages.
+
+**Sera**’s red-blue fiber would travel to Ring minutes where air priced itself in bodies — witness before throughput — same cruel mathematics wearing scoria weather instead of hive ash.
+
+**Valerius** stamped toward **Ring of Teeth** twice before dawn — ammunition continuity beside mortal payroll still breathing — because minutes-priced air would bankrupt anyone who merged courage packages with solvency columns.
+
+**Kadmos** corrected scoria spacing with hand signals — two fingers *move*, three *hold* — because bunching turned placement before virtue into target geometry Ring minutes would price in bodies.
+
+**Iria** passed with tide chart in cuff — active silence — shielding scoria geometry against excuses that would have turned hyper-G verdict into **spectacle** before Ring minutes priced air in bodies the hive had taught to quota.
+
+**Varro** filed flare threshold as proto-rite — seal attempted, not victory — because mass-as-verdict would arrive as hyper-G and hyper-G would not negotiate with morale throughput dressed as courage packages.
+
+**Kadmos** saved flare stub under *Ring environmental coupling; sequence only* — air priced in bodies — because Ring handoff would tax both ledgers when hyper-G taught inheritance terrain before Tertius Anvil named mass as verdict.
+
+**Drusus** appended flare margin — *hyper-G coupling; treat as environmental false-positive unless sustained across three intervals* — sequence, not prophecy, because ninety seconds bought accurate violence not heroic violence.
+
+**Iria** passed with active silence — hyper-G verdict was not spectacle — because Ring handoff would tax both ledgers when air priced itself in bodies the hive had taught to quota.
+
+**Ossian**'s channel went quiet in middle of count — not cowardice, **discipline** — because bunching turned placement before virtue into target geometry Ring minutes would price in bodies.
+
+**Kessler** posted scoria pairs with backs to backs — compass, not poison — and did not praise auxilia when hyper-G taught mass-as-verdict without negotiating with courage packages.
+
+**Santo** scrubbed scoria from his knees where placement before virtue still cost blood — hygiene extended to shame — lesson glass overture would spend when left was not left.
+
+**Alaric** stood at scoria lip one minute without speeches — hinge-work — because ninety seconds bought accurate violence not heroic violence and webway stub still waited *not yet* in margins.
+
+Interest collecting teeth before receipts.
+
+Ninety seconds. Webway stub. *Not yet.*
+
+Always owed.
+
 ---
+
 **End of Chapter 13**
 
 **Next:** [Brood Signature](../brood-signature/chapter.md) · Q2 · CV y8–y14

@@ -2,7 +2,7 @@
 
 ## foundation-war (canonical serial)
 
-**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [legacy serial → slug map](foundation-war/legacy-map.md). **Phases 3–5 complete** (Q0 prelude + 38 chapters; staff ripple + audit). **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
+**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [legacy serial → slug map](foundation-war/legacy-map.md). **Phases 3–5 complete** (Q0 prelude + 38 chapters; staff ripple + audit). **Density pass complete** — 39 chapters, **10,343** lines, bands **364 / 285 / 264 / 260**. **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
 
 **Staff summary** (nine poles, phases, casualty bands, cross-links): [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md).
 
@@ -31,6 +31,9 @@
 - [spiritus-void-drought.md](02-biologis-spiritus-foundation/spiritus-void-drought.md)
 
 ## 03-projection-aurea-codex-omega
+
+**Status:** **Historical doctrine records** (048–050.M42 pendulum → pyramid arc). Headers mark superseded theory; events remain canon.
+
 - [chimera-pendulum.md](03-projection-aurea-codex-omega/chimera-pendulum.md)
 - [codex-omega-pendulum.md](03-projection-aurea-codex-omega/codex-omega-pendulum.md)
 - [biologis-geometry-of-hatred.md](03-projection-aurea-codex-omega/biologis-geometry-of-hatred.md)
@@ -98,8 +101,8 @@
 - [diplomacy-aethelgard.md](08-audit-diplomacy/diplomacy-aethelgard.md)
 - [dragon-in-the-hearth-tushan.md](08-audit-diplomacy/dragon-in-the-hearth-tushan.md)
 - [gray-silence-of-fenris.md](08-audit-diplomacy/gray-silence-of-fenris.md)
-- [helbrecht-first-loken-passage.md](08-audit-diplomacy/helbrecht-first-loken-passage.md) ✅ — **096.M42 | Silent Vigil.** First Helbrecht–Alaric meeting at the Loken Passage; Templar crusade, xenos attack in the funnel, *We hold*; faith vs. geometry; echoes in [wolf-daughter.md](07-iron-venus/wolf-daughter.md) (165.M42).
-- [loken-funnel-octava.md](14-vexillum-chronicles/loken-funnel-octava.md) — **VIII** *Octava* / *Alabarda* field 4 lens: **Ivar Malevent**, funnel net, nested fire with Black Templars; companion to *helbrecht-first-loken-passage*.
+- [helbrecht-witness-ford-meeting.md](08-audit-diplomacy/helbrecht-witness-ford-meeting.md) ✅ — **096.M42 | Silent Vigil.** First Helbrecht–Alaric meeting at **Witness Ford**; Templar crusade, xenos attack at the choke, *We hold*; faith vs. geometry; echoes in [wolf-daughter.md](07-iron-venus/wolf-daughter.md) (165.M42).
+- [witness-ford-octava.md](14-vexillum-chronicles/witness-ford-octava.md) — **VIII** *Octava* / *Alabarda* field 4 lens: **Ivar Malevent**, ford net, nested fire with Black Templars; companion to *helbrecht-witness-ford-meeting*.
 
 ## 09-frontier-life
 - [limes-renegade-resupply.md](09-frontier-life/limes-renegade-resupply.md) — **Limes** resupply purge: *Ash Standard* (guest renegade Chapter); **§I** dock *texture* + **Serun Orach**; time-bait **§II**; *Strategium* / *Nona* **§III**; gallery **§IV**; **Silence** / **Shadow**, *Decima* **§V**; **Asterion Moloc** + **Kadmos** hulks **§VI**; seventy-two-hour strike **§VII** (**\*\*\*.M42** date TBD)
@@ -133,7 +136,7 @@
 
 Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in Vigilax public records). No Elara (not yet born).
 
-**Helbrecht / Loken Passage:** first meeting in the Vigil — [helbrecht-first-loken-passage.md](08-audit-diplomacy/helbrecht-first-loken-passage.md) (**096.M42**). Second meeting in [wolf-daughter.md](07-iron-venus/wolf-daughter.md) (165.M42, with Guilliman and Calgar).
+**Helbrecht / Witness Ford:** first meeting in the Vigil — [helbrecht-witness-ford-meeting.md](08-audit-diplomacy/helbrecht-witness-ford-meeting.md) (**096.M42**). Second meeting in [wolf-daughter.md](07-iron-venus/wolf-daughter.md) (165.M42, with Guilliman and Calgar).
 
 ---
 
@@ -169,9 +172,4 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 
 ## 13-apotheosis
 
-**Milestone:** 175.M42 — The Call to the Throne *(legacy arc — under review)*.
-
-| File | Contents | Status |
-|---|---|---|
-| [call-to-the-throne.md](13-apotheosis/call-to-the-throne.md) | **LEGACY / superseded** — retired draft (Loken Passage, *Porta Nihili*, temporal *Nihili Protocol*). Trajann calibration beat **not** active canon until rewritten elsewhere. | 🗄️ legacy |
-| [seal-of-the-portal.md](13-apotheosis/seal-of-the-portal.md) | The weight of the *Nihili Protocol* in Tyvar’s daily life. Carrying the charge to shut down not only a Chapter but the only viable *Nihilus* corridor in that sector — the Nine Phalanx worlds, the Loken Passage, everything. The only conversation Alaric and Tyvar have about the cylinder, and what the seal means while it holds. | ✅ |
+**Status:** **Removed (May 2026).** Retired drafts (`call-to-the-throne`, `seal-of-the-portal`) deleted — obsolete geography (*Loken Passage*, temporal *Nihili Protocol* prose). **175.M42** Trajann calibration beat remains in [`master-chronology.md`](../personae-command-index/events-and-chronologies/master-chronology.md) §VI; narrative scene **TBD**.

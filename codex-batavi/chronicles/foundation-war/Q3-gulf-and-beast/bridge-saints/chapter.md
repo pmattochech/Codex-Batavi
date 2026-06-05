@@ -7,7 +7,19 @@
 
 **Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../../../atlas-and-topography/castra-vetera-galactic-lock.md). **Witness Ford** outward filter; **Forge / Tempest / Crown** marsh channels. Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
+**Chronicle law:** **witness priority** born · silence zones · Varro routes over speed · *We hold* not spoken · handoff to **Maw Exercise**.
+
+**Precedent:** Skin debt · Kessler’s necessary shot — [`skin-debt/chapter.md`](../skin-debt/chapter.md).
+
 ---
+
+## I. Pilgrimage When Voice Dies
+
+Silence zones ate *vox* the way tombs ate harmonics — not dramatically, **completely** — until even Astartes fell back on hand-signs and touch-taps and the ugly patience of men who had learned that meaning, under fire, is heavier than kit.
+
+**Sera** ran fiber in pairs through separate trays so one harmonics bite could not kill both conscience and comms — color tape for *live*, *ghost*, *do not trust your relief* — because **parallel filing** on spines was how you kept *we held the count* from becoming a single-line lie when the tombs ate a corridor whole.
+
+The **backward braid** of skin debt was still wet on the spines: flensed stacks, panic theology, Kessler’s necessary shot filed under *sick* beside *necessary* in a child’s pocket. **Bridge Saints** would not be canonized in wax. They would be named in chalk and posture — holiness as *not letting go first*.
 
 Highway fights on gulf decks became **pilgrimages** the moment mortals learned the tomb could steal what modern war pretended was guaranteed: **voice** — not courage, **vox** — so that in **silence zones** where tomb fields ate channels until even Astartes squads fell back on hand-signs and touch-taps, prayer stopped being comfort and became **logistics**: cadence for carrying, rhythm for not dropping a body, liturgy for marking corners so panic did not erase memory.
 
@@ -15,7 +27,7 @@ If you could not speak, you still had to **mean**; meaning, under fire, is heavi
 
 **Sergeant Kessler** mapped silence the way sappers mapped mines — chalk ticks on painted steel, knuckle-rap codes, three fingers for *hold*, two for *move*, one for *do not look at the bulkhead like it is a mirror* — because some lessons from **Vitreus** still applied even where glass was only polish and fear.
 
-She did not speak of the mercy shot. Silence zones made speech expensive; memory made the shot **present** without needing vox to carry it. Her hands still checked truth before each new order, the habit from coolant puddle and children **recording**.
+She did not speak of the mercy shot. Silence zones made speech expensive; memory made the shot **present** without needing *vox* to carry it. Her hands still checked truth before each new order, the habit from coolant puddle and children **recording**.
 
 Drusus’s margins still warned — *tremor rhyme — record, do not sermonize* — and in silence zones sermonizing took the shape of **explanations**: men who needed *why* when *next* was the only syllable that paid rent.
 
@@ -23,7 +35,9 @@ Drusus’s margins still warned — *tremor rhyme — record, do not sermonize* 
 
 **Echo** pressed chaplain nets where binds thinned — Triumvirate seal still **narrow** — and **Varro** answered with shorter litanies **boring** on purpose; boring was the only disinfectant panic theology could not ferment overnight.
 
-**Sera** ran fiber in pairs through separate trays so one harmonics bite could not kill both conscience and comms — color tape for *live*, *ghost*, *do not trust your relief* — because **parallel filing** on spines was how you kept *we held the count* from becoming a single-line lie when the tombs ate a corridor whole.
+---
+
+## II. Soul Over Speed — Integrity Column
 
 **Varro** — **Executor** wolf-skull stripped of theater, all jaw-line and vow — chose routes the Strategium would have called **inefficient** if efficiency were measured only in miles and minutes; he sacrificed **speed** for **soul** — not sentiment, *integrity* in the only column he trusted: the one that asked whether survivors arrived with minds still **seated** in their skulls or as shells that breathed.
 
@@ -37,6 +51,10 @@ Breach sergeants learned to pass **touch-taps** down chains like ammunition: pal
 
 **Kadmos** drilled it until boredom set; boredom was the vaccine.
 
+---
+
+## III. Witness Priority — Reconciliation as Violence
+
 The **reading** beat followed on **paper**, where shame could be circled twice.
 
 **Valerius** laid two route overlays under a lamp that buzzed like an angry insect — one straight, one Varro-curved — and watched staff officers discover with their bodies what their mouths refused to say. The straight line saved minutes; the curved line saved *names* you could still spell afterward.
@@ -46,6 +64,16 @@ Numbers did not reconcile cleanly; reconciliation, here, was violence done to op
 Junior officers discovered **Sigma bleed** in auspex soup whenever tomb harmonics climbed — Drusus had warned — until *ghost mass* meant *slow down*, not *panic louder*; slowing saved throats the Immaterial could otherwise recruit through harmonics if men treated ghosts like invitations.
 
 **Merit’s** clerks floated recorders toward chalk maps until **Kessler** threatened another hammer invoice; **Valerius** killed the initiative with stamped **NON-COMPLIANT** until even **Threx** accepted that witness priority was not the same animal as morale throughput — one fed soul, one fed spreadsheets that later ate fleets.
+
+A junior officer — name scrubbed from praise-scrolls because gratitude embarrassed men trained to despise gratitude — stared at the curved overlay until his mouth shaped *waste*. **Varro** did not correct him with theology. He corrected him with **arithmetic**: one fewer name on the casualty board, one more mind seated in its skull when testimony mattered.
+
+— Waste is what you call a soul — Varro said — when you have not yet priced it.
+
+The officer stamped the curved route. His hand shook once. Shaking was cheaper than screaming in a silence zone.
+
+---
+
+## IV. If You Run — After Civilians
 
 The **Mechanicus** retreat arrived dressed as prudence: **Threx** cited tombs *exceeding acceptable resonance thresholds* — language that sounded like mathematics and behaved like **permission** to withdraw precious Skitarii from spines where mortals were dying loud enough to shame anyone still weighing *distance* against *lives*.
 
@@ -65,15 +93,23 @@ Some could not; those officers looked away — not from him, from **surfaces** �
 
 **Santo** hauled stretchers on routes Varro curved — not hero lanes — until his shoulders learned silence zones as **weights** without speeches; **Mira Kell** kept tally where tally mattered, ink and rope-burn on the same skin, **witness without applause**, because applause turned rescue into currency again.
 
-**Wolf’s Curse** chatter stayed off open vox in silence zones by harsh discipline — Drusus’s policy — not because the curse woke louder here, but because *story* could infect faster than bolters when ears starved for narrative.
+**Wolf’s Curse** chatter stayed off open *vox* in silence zones by harsh discipline — Drusus’s policy — not because the curse woke louder here, but because *story* could infect faster than bolters when ears starved for narrative.
 
-Bridge **saints** were not canonized; they were **named** later in whispers and chalk sketches — mortals who refused to leave wounded behind even when silence zones turned every meter into a coin-flip, dying in postures too honest for holo-drama: knees bent under weight that was not theirs, arms locked around strangers, mouths open as if still shouting orders the vox refused to carry.
+**Threx** filed a protest when Varro’s curved routes delayed Skitarii extraction windows — *witness priority incompatible with yield* — and **Valerius** answered with two overlays ink-wet on the same slate: straight line minutes beside curved line **names**. The protest died without applause. Applause would have turned arithmetic into **folk liturgy**.
+
+---
+
+## V. Posture — Not Letting Go First
+
+Bridge **saints** were not canonized; they were **named** later in whispers and chalk sketches — mortals who refused to leave wounded behind even when silence zones turned every meter into a coin-flip, dying in postures too honest for holo-drama: knees bent under weight that was not theirs, arms locked around strangers, mouths open as if still shouting orders the *vox* refused to carry.
 
 Chaplains sketched them — not for art, for **argument** — proof that sanctity could be posture, that holiness might be nothing more heroic than *not letting go first*, **mortal geometry** with agency in the only currency the gulf respects.
 
 **Varro** collected the sketches like evidence in a trial nobody would win, because winning would have meant pretending the dead had been *useful* in a way that flattered command.
 
-Children too young for vox drew **maps** on deck in chalk — arrows, X marks, stick bodies — until their parents washed the lines away as if washing could erase what **Flayed Ones** taught about **dressing** in remembered skin; Varro did not forbid the drawings; he forbid only **prayer** attached to them in open channels where harmonics might learn new lyrics.
+**Santo** — not yet hardened into bridge grammar, still militia boy learning interest — watched the sketches without applauding and filed posture in muscle longer than sermons lasted, because sanctity as *not letting go first* was sometimes the only vaccine when chaplain nets tightened beside mortal lines still solvent.
+
+Children too young for *vox* drew **maps** on deck in chalk — arrows, X marks, stick bodies — until their parents washed the lines away as if washing could erase what **Flayed Ones** taught about **dressing** in remembered skin; Varro did not forbid the drawings; he forbid only **prayer** attached to them in open channels where harmonics might learn new lyrics.
 
 Bondsmen whispered **Dark Age of Technology** near Mechanicus crates again; **Varro** crushed the whisper with ash — **nomenclature is seal** — because words were routes too, and routes could infect.
 
@@ -85,21 +121,33 @@ Medicae corridors stacked boys who had clawed their own faces — **skin debt** 
 
 He appended frequency ticks beside each scream chart until charts looked like music notation written by a deaf man who still feared choirs — *Exanimus-adjacent* scribbled once, then scratched out, replaced with *environmental stressor pending confirmation*, refusal to let nomenclature sprint ahead of intervals.
 
+---
+
+## VI. Rest — Not Retreat
+
 **Iria** carried water until her shoulders **bled** through wraps — skin debt paid forward in the only currency bridges respect — without asking Alaric for rest, because asking would have been a lie about what **Needles** women did when tides turned murderous: they **worked** until bodies failed or duty released them.
 
 Wind off the spines tasted like ozone and old grease; she breathed it anyway — breathing was how you proved you still negotiated with bodies, not only with staff slides.
 
 Alaric granted rest anyway — voice low on a local channel meant for her ears and not performance — **order** disguised as kindness, kindness disguised as **permission** to remain human without apologizing for it.
 
+On the tally side, **Mira Kell** saw the exchange on a peripheral slate and did not log it. Some debts stayed honest only while they remained **unstamped**. She returned to ink and rope-burn on the same knuckles — *surviving* beside *surviving honest* — refusing merges the way Valerius refused merges upstairs.
+
 — Rest — he said. — Not retreat.
 
 She nodded once, and that was enough, hinge-work wearing mortal scale without spectacle.
 
-When she passed beneath him on a lower gantry — helm law above, mortal labor below — neither waved; **active silence** traveled better than salutes where vox might eat dignity and sell it back as morale throughput.
+When she passed beneath him on a lower gantry — helm law above, mortal labor below — neither waved; **active silence** traveled better than salutes where *vox* might eat dignity and sell it back as morale throughput.
 
 Her tide habit stayed cruelly honest: she watched refugees bunch where bunching killed — panic’s geometry — and shouted without sound until gesture trained them back into spacing **Varro’s** curves required.
 
 Water points ran sour — recyclers taxed by mass casualty — and **Valerius** posted rotation orders until **ROTATE** became liturgy for throats; taste was another ledger column bridges ate quietly.
+
+---
+
+## VII. Saints Rarely Survive — Holiness and Efficiency Diverge
+
+**Sera** strung parallel fiber along rosary spines the first night — red for *call for help*, blue for *do not call for the wrong help* — until stretcher teams learned splices were **seals** more trustworthy than rain-hammered *vox* promises. Silence zones made speech expensive; fiber made **witness** cheap enough to survive.
 
 Night brought lamp codes traded miserably along rosary spines — **Lex Ignis** clocks aligning with Mechanicus prayer wheels — until synchronization felt like virtue and virtue lied about fatigue.
 
@@ -115,6 +163,18 @@ Tomorrow officers would pretend efficiency could marry holiness without divorce 
 
 Tomorrow the tombs would try again; tonight the maps carried names the straight line would have erased, and that was the only victory that did not insult the dead.
 
+**Echo** listened at cable-hum for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — while chaplain nets kept spectacle from turning witness priority into folk liturgy.
+
+**Threx**'s remote channel would file *yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like **solvency**.
+
+**Orwen** copied Varro curve timestamps into a margin without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than hololith promises naming *pressure relief*.
+
+**Varche**'s proxy would ask whether double-stamp manifests delayed spearhead solvency — **Valerius** would answer before **Alaric** spent hinge-voice on arithmetic mortals mistook for cruelty.
+
+---
+
+## VIII. Handoff to the Maw
+
 **Alaric** walked one final span before orders turned the chapter’s face toward heavier geometry — **Maw** exercises waiting in staff rooms like teeth — **hold** translated into footsteps that did not sprint for hololiths; the Castellan would not gift the tombs **spectacle** when witness had cost this much already.
 
 He did not say *We hold* as liturgy. He held the span anyway — measurable in chalk ticks and curved lines and a private order that let Iria rest without calling it retreat.
@@ -127,9 +187,78 @@ Mortals watched his silhouette and mistook stillness for ease — ease was what 
 
 **Kessler** walked the last silence zone of the shift with chalk on her knuckles and three fingers raised at a bulkhead nobody should have mistaken for a mirror. Behind her, stretcher teams moved on Varro’s curve — slower, named, **witnessed**.
 
+She did not speak of the mercy shot from **Skin Debt**. Silence zones made speech expensive; memory made the shot **present** without needing *vox* to carry it. Her hands still checked truth before each new order — habit from coolant puddle and children **recording** — because if your hands lie, your next command becomes theater for the wrong audience.
+
 The bridge had its saints now — not in wax, in posture — and the Chapter had its new ugly word: **witness priority**, born where efficiency stopped looking virtuous and started looking like flensing with better stationery.
 
+**Orwen** — testimony still block capitals away — watched stretcher teams on Varro’s curve and learned witness priority was not morale throughput dressed as holiness; he counted timestamps instead of adjectives, because adjectives were how officers turned flensing into **spectacle**.
+
+**Kadmos** saved Maw handoff stub under *chaplain net coupling; curved routes mandatory* — sequence, not prophecy — because tomb coupling rhyme was debt skin debt would spend before Incus echoed forge hum as sympathy spike.
+
+**Iria** slept one hour on a coil of cable, rest not retreat, Alaric’s order still warm in her ears like hinge-voice wearing mortal scale. When she woke, she wrote *interval risk elevated* on a tide chart and attached it to a spine roster — the same vaccine Kessler had learned on beaches, translated for silence zones where words died first and chalk ticks carried what *vox* refused.
+
+**Santo** boarded the south transit manifest toward **Tempestas-Major-VII** with shoulders still learning **interest** — skin debt grammar, witness without applause — and did not look at hololiths naming *pressure relief*. Looking would have turned deployment into **spectacle**. He adjusted a crate strap instead — hygiene extended to the spine — while **Mira** shifted loads so nothing tipped.
+
+**Kadmos** read Maw briefs the way he read wreckage: slowly, without performance — amphibious throughput, witness ford, exile guides paid in **silence** not fame — and saved one line under Triumvirate seal: *expect mud to learn weight; treat bunching as target geometry*.
+
+**Merit** floated a recorder toward Varro’s curved-route chalk map until **Valerius** killed the initiative with stamped **NON-COMPLIANT** — witness priority was not morale throughput; one fed soul, one fed spreadsheets that later ate fleets.
+
+Tempestas-Major-VII waited — pressure relief spelled in mud — and the bridge had taught the Chapter that soul and speed diverged exactly where holiness became expensive. Swamp teeth were not metaphor anymore; they were **schedule**.
+
+
+**Varro** touched bridge net rail once — no ritual, only contact — and filed chaplain threshold as proto-rite: seal attempted, not victory, because skin debt traveled faster than sermons when shame stayed honest.
+
+**Valerius** stamped **Maw Exercise** twice one last time — Marine readiness beside mortal lines still solvent — because next chapter would demand both kinds of solvency in mud that learned weight.
+
+**Mira** kept two ink colors on bridge slates — *surviving* and *surviving honest* — because skin debt traveled faster than shame dressed as morale when chaplain nets tightened beside mortal lines still solvent.
+
+**Iria** carried water until shoulders bled through wraps — skin debt paid forward — and Alaric granted rest anyway: **order** disguised as kindness, kindness disguised as permission to remain human without apologizing for it.
+
+**Orwen** — testimony still block capitals away — raised three fingers at **Sera**'s red-blue fiber splice — witness route only — because splices were seals more trustworthy than hololith promises naming *pressure relief*.
+
+**Alaric** walked final span without speeches — hinge-work — because soul and speed diverged exactly where holiness became expensive and witness priority hid teeth Maw Exercise would teach in brown water.
+
+**Merit** tried once to clip a recorder to bridge net hololith until **NON-COMPLIANT** met witness priority packages — because bridge saints were posture not packages admiralties could sleep on.
+
+**Kadmos** saved handoff stub under *hostile crossfire; echo stub* — chaplain net coupling — because inheritance terrain wore bridge weather instead of hive ash tonight.
+
+**Santo** heard Kessler's answer on the net — heroes feel **orders** — and filed it in muscle longer than sermons lasted before Dynasty ford taught inheritance law at sealed span.
+
+**Pol**'s seed — monitor only — would rhyme with chaplain net coupling until Drusus starved merge and Exanimus stayed vocabulary arriving late on open channels.
+
+**Maela Thornwake** had already begun calculating whether Castellan would kill her before mud did — debt accruing interest in names the crucible would spend for thirty-eight chapters.
+
+**Kessler** walked embarkation lip with chalk on knuckles — witness route only — because bridge nets spent skin debt in interest grammar before Maw ford learned weight.
+
+**Iria** breathed active silence one interval at embarkation lip — rest not retreat — because hunger as language did not require translation, only **answer**, and answer never purely clean.
+
+**Kadmos** posted Maw handoff cordon one meter deeper — geometry as insurance — because amphibious throughput taxed both ledgers when witness ford learned weight in brown water.
+
+**Echo** listened at embarkation cable-hum for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — while chaplain nets kept spectacle from turning witness priority into folk liturgy.
+
+**Varche** logged bridge embarkation on the Navy pane without romance — intervals, not closure — because witness priority was debt amphibious throughput could not sleep on.
+
+**Threx**'s remote channel would file *yield preserved* beside *witness attests* only once **Valerius** stamped *witness route only* first — parallel filing the only mercy when Mechanicus grief wore numbers it could not wear as shame.
+
+**Drusus** appended closing margin for translation burn — *Exanimus-adjacent tremor rhyme may spike in silence zones; treat as tomb-coupled false-positive unless sustained across three intervals* — sequence, not prophecy, carried toward Maw ford where mud would learn weight.
+
+**Santo** adjusted crate strap at embarkation lip and did not look at hololiths naming *pressure relief*. Looking would have turned deployment into **spectacle** before Maw ford learned weight in brown water.
+
+**Orwen** filed bridge embarkation without adjectives — timestamps, ranges, no metaphors — because facts laid like bricks survived longer than throughput dressed as bridge-saint folk liturgy.
+
+**Echo** listened at chaplain net coupling for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing witness priority as sequence before Maw taught hunger as language mud could answer.
+
+
+**Sera** tagged southbound handshake splices *monitor only* until merge columns starved and Maw ford earned attested injury in still water.
+
+Interest collecting teeth before receipts.
+
+Witness priority. Rest not retreat. Maw ford waiting.
+
+Always owed.
+
 ---
+
 **End of Chapter 21**
 
 **Next:** [Maw Exercise](../maw-exercise/chapter.md) · Q3 · CV y15–y21

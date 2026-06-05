@@ -7,125 +7,254 @@
 
 **Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../../../atlas-and-topography/castra-vetera-galactic-lock.md). **Witness Ford** outward filter; **Forge / Tempest / Crown** marsh channels. Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
+**Chronicle law:** Pre-***Curia*** era · **Batavi cognomen emergent** from mortal witness, not edict · Alaric **does not** remove helm (Visage law) · *We hold* still **halo-shy**.
+
+**Precedent:** Estuary settlement · elders heard — [`estuary-doctrine/chapter.md`](../estuary-doctrine/chapter.md).
+
 ---
 
-On a **shingle shelf** where the Needles watched like **jury** — shell-cloaks rattling, crab bells dulled by salt, eyes used to reading lies in weather — mortals did what Throne paperwork could not: they **named**, because naming is not decoration but **verdict** with a voicebox, a way to force the universe to admit it saw what it did to you and that you *remember*.
+## I. The Shingle as Jury
 
-The **backward braid** was everything settlement had not washed away: elders’ clubs on a salt ledge, **listening** priced as **payment**, ***Estuary*** drills still aching in calves, **bread** steam still remembered in cold hands — proof that doctrine without witness is only another kind of forgetting.
+On **shingle shelf** where Needles watched like **jury** — shell-cloaks rattling, crab bells dulled by salt, eyes used to reading lies in weather — mortals did what Throne paperwork could not.
 
-**Surviving officers** came down to the waterline in postures that cataloged different species of survival — **Captain Orwen**, jaw scarred tight, Militarum ink blurred by sweat, **knelt** as if kneeling were reporting for duty one more time; **Sergeant Kessler**, hands still bandaged from cord and fire, **knelt** with the irritable precision of a woman who refused to romanticize submission even while performing it.
+They **named**.
+
+Naming is not decoration but **verdict** with voicebox — way to force universe to admit it saw what it did to you and that you *remember*.
+
+**Backward braid:** everything settlement had not washed away — elders’ clubs on salt ledge, **listening** priced as **payment**, ***Estuary*** drills still aching in calves, **bread** steam still remembered in cold hands — proof that doctrine without witness is only another kind of forgetting.
+
+Embarkation slates from Estuary settlement still arrived **double-stamped** — Valerius — **witness routes** beside **throughput** — because mud and orbit kept trying to merge grief into efficiency until teeth showed again in fog.
+
+**DO NOT MERGE** lived in archives miles away. Shingle carried its grammar in duplicate manifests until redundancy stopped looking like vanity and started looking like **survival on sand**.
+
+Merit’s clerks aimed *witness throughput lenses* at shingle until Kessler shattered another mount and filed *NOT FIELDED*. Beach was not mood board. Beach was **feet**, salt, and throats learning name louder than stamps.
+
+Sera paired fiber through duplicate trunks behind dunes — red for *call*, blue for *ghost* — because harmonics ate one seam and called it *signal hygiene* while custody still breathed on second line.
+
+---
+
+## II. Kneel, Refuse, Witness
+
+**Surviving officers** came down to waterline in postures that cataloged different species of survival.
+
+**Captain Orwen**, jaw scarred tight, Militarum ink blurred by sweat, **knelt** as if kneeling were reporting for duty one more time.
+
+**Sergeant Kessler**, hands still bandaged from cord and fire, **knelt** with irritable precision of woman who refused to romanticize submission even while performing it.
 
 Orwen’s testimony from Incus still lived in files without adjectives — *Militarum witness; uncontaminated chain* — and here his knee landed where bootprints overlapped until shingle became document nobody could forge alone.
 
-Others **scarred into anonymity** knelt or **refused**, and refusal mattered as much as knee because some consciences kneel only to **God**, some kneel only to **dead**, and some will not kneel at all because kneeling had been used against them as **punishment** dressed as piety — both postures mattered, and the beach did not throw out witnesses for choosing **spine** over **spectacle**.
+Others **scarred into anonymity** knelt or **refused**, and refusal mattered as much as knee because some consciences kneel only to **God**, some kneel only to **dead**, and some will not kneel at all because kneeling had been used against them as **punishment** dressed as piety.
 
-Embarkation slates from **Estuary** settlement still arrived **double-stamped** — **Valerius** — **witness routes** beside **throughput** — because mud and orbit kept trying to merge grief into efficiency until teeth showed again in fog; **parallel filing** traveled pole to pole like mercy shaped like paperwork — stubborn, thin, honest enough to cut spreadsheets even on sand.
+Both postures mattered. Beach did not throw out witnesses for choosing **spine** over **spectacle**.
 
-**Merit’s** clerks aimed *witness throughput lenses* at the shingle until **Kessler** shattered another mount and filed *NOT FIELDED* — the beach was not a mood board; the beach was **feet**, salt, and throats learning a name louder than stamps.
+Echo pressed chaplain seams where binds thinned — Triumvirate seal still **narrow** — and Varro refused spectacle. Executor wolf-skull present as infrastructure while litanies shortened until boredom stayed shield against **folk liturgy** fermenting in spray.
 
-**Sera** paired fiber through duplicate trunks behind the dunes — red for *call*, blue for *ghost* — because harmonics ate one seam and called it *signal hygiene* while custody still breathed on the second line — **parallel filing** the only vaccine when Navy censors learned *preference* without warrant.
+Drusus’s margins carried **sequence**, not prophecy — *tide-name witness may rhyme with archive coupling; treat tremor patterns as debt until sustained across three intervals; do not merge cognomen emergence with morale KPIs*.
 
-**Echo** pressed chaplain seams where binds thinned — Triumvirate seal still **narrow** — and **Varro** refused spectacle; **Executor** wolf-skull present as infrastructure while litanies shortened until boredom stayed shield against **folk liturgy** fermenting in spray.
+Junior observers confused **Sigma bleed** with rumor until Drusus forced **intervals** onto slates — ghost correlations dressed as gossip until uglier filters convicted them.
 
-Drusus’s margins carried **sequence**, not prophecy — *tide-name witness may rhyme with archive coupling; treat tremor patterns as debt until sustained across three intervals; do not merge cognomen emergence with morale KPIs* — clinical refusal to let the hour earn a pretty stamp before steel did.
+Bondsmen whispered **Dark Age of Technology** near tide clocks until Varro crushed whisper with ash.
 
-Junior observers confused **Sigma bleed** with rumor until Drusus forced **intervals** onto slates — ghost correlations dressed as gossip until uglier filters convicted them — because politeness killed beaches exactly as it had killed forge serfs when categories tried to merge.
+— Nomenclature is seal — he said. — Myth recruits shingle faster than doctrine leashes it when fog kneels witnesses without blades.
 
-Bondsmen whispered **Dark Age of Technology** near tide clocks until **Varro** crushed the whisper with ash — **nomenclature is seal** — because myth could recruit shingle faster than doctrine could leash it when fog knelt witnesses without blades.
+---
 
-The **reading** beat was the beach itself — bootprints overlapping until the shingle became a document nobody could forge alone: where Orwen’s knee landed, where Kessler’s bandage left rust on stone, where a child had drawn three lines in wet grit and called it a **convoy** because children learn war’s vocabulary faster than adults learn courage.
+## III. Bootprints as Document
 
-**Drusus** walked the shelf once with a slate and did not ask names he was not owed; he sketched spacing marks where spacing could be read as **testimony** — geometry as respect — because some grief must be translated before it becomes **myth**.
+**Reading** beat was beach itself — bootprints overlapping until shingle became document nobody could forge alone: where Orwen’s knee landed, where Kessler’s bandage left rust on stone, where child had drawn three lines in wet grit and called it **convoy** because children learn war’s vocabulary faster than adults learn courage.
 
-Medicae tents behind the berm stacked souls who were not wounded yet but **pre-wounded** by harmonic nausea and sleepless naming — petty taxes witness collected before throats arrived at choir — Drusus metered sedatives like artillery until poetry stayed impossible when voices argued for hymns.
+**Drusus** walked shelf once with slate and did not ask names he was not owed. He sketched spacing marks where spacing could be read as **testimony** — geometry as respect — because some grief must be translated before it becomes **myth**.
 
-**Wolf’s Curse** watch stayed off channels that could recruit story — **Kadmos** enforced forward screens — because *Furor* vocabulary beside tide spray could invent cult velocity; medicae charted stress privately where **rhyme** stayed data, not rally.
+Medicae tents behind berm stacked souls not wounded yet but **pre-wounded** by harmonic nausea and sleepless naming — petty taxes witness collected before throats arrived at choir — and Drusus metered sedatives like artillery until poetry stayed impossible when voices argued for hymns.
 
-Marines scrubbed ceramite dull — **glare discipline** carried from Vitreus — until polish stopped volunteering shine to spray that ate faces; dullness stayed camouflage when waves mirrored wrong.
+Wolf’s Curse watch stayed off channels that could recruit story — Kadmos enforced forward screens — because *Furor* vocabulary beside tide spray could invent cult velocity.
 
-Apothecarion interns practiced distinguishing **Exanimus** drift from tidal exhaustion — **rhyme** permitted in margins; **oracle** burned — until juniors stopped mistaking awe for diagnosis when the beach lied politely.
+Marines scrubbed ceramite dull — **glare discipline** carried from Vitreus — until polish stopped volunteering shine to spray that ate faces.
 
-**Santo** hauled crates of dry blankets until shoulders learned **interest** — **useful** the way forges are useful — **Mira Kell** kept two ink colors on the same knuckles: *surviving* and *surviving honest* — refusing merges the way **Valerius** refused merges upstairs — even when honesty meant counting names others wanted folded into *throughput slides*.
+Apothecarion interns practiced distinguishing **Exanimus** drift from tidal exhaustion — **rhyme** permitted in margins; **oracle** burned — until juniors stopped mistaking awe for diagnosis when beach lied politely.
 
-Children drew three lines in grit until parents let them — some lessons deserve chalk — **Kessler** forbade **Merit** pict rigs at the tide-line because *comfort loops* could monetize choir before choir finished owning its debt.
+Santo hauled crates of dry blankets until shoulders learned **interest**. Mira kept two ink colors on same knuckles: *surviving* and *surviving honest* — refusing merges the way Valerius refused merges upstairs.
 
-**Iria** stepped to the tide’s tongue with bare feet honest in cold water and shouted a tide-name older than Gothic:
+Children drew three lines in grit until parents let them — some lessons deserve chalk. Kessler forbade Merit pict rigs at tide-line because *comfort loops* could monetize choir before choir finished owning its debt.
+
+---
+
+## IV. Der Batav — The Iron That Stayed
+
+**Iria** stepped to tide’s tongue with bare feet honest in cold water and shouted tide-name older than Gothic:
 
 — **Der Batav.**
 
-Not a title snatched from a strategium slide nor a brand minted by adepts but a **verdict**: ***the iron that stayed.***
+Not title snatched from strategium slide nor brand minted by adepts but **verdict**: ***the iron that stayed.***
 
-The words left her throat like stones thrown hard enough to skip, and others took them up — a girl with a shell-mask half broken, a bondsman with forge burns up both arms, a militia veteran who had learned to sleep beside bolter cough and still wake **human** — until the beach became **choir**, ragged, salt-raw, *ugly-beautiful*, until the sound was no longer speech and not yet hymn and only the human insistence that memory be **loud**.
+Words left her throat like stones thrown hard enough to skip, and others took them up — girl with shell-mask half broken, bondsman with forge burns up both arms, militia veteran who had learned to sleep beside bolter cough and still wake **human** — until beach became **choir**, ragged, salt-raw, *ugly-beautiful*, until sound was no longer speech and not yet hymn and only human insistence that memory be **loud**.
 
-**Mira Kell** stood back with arms crossed, not withholding — **witness** — while **Santo** shouted until his voice broke, because some debts pay best when they **hurt** going out.
+**Mira Kell** stood back with arms crossed, not withholding — **witness** — while **Santo** shouted until voice broke, because some debts pay best when they **hurt** going out.
 
-**Cohors Batavorum** — **ink** later, edict later, heraldry later — rose first from **human lungs**, from the rude democracy of lungs that had screamed during evacuations, lungs that had counted convoy deaths, lungs that knew the difference between *Marine* and *wall* because walls had shadows that sometimes ate friends.
+**Cohors Batavorum** — **ink** later, edict later, heraldry later — rose first from **human lungs**, from rude democracy of lungs that had screamed during evacuations, lungs that had counted convoy deaths, lungs that knew difference between *Marine* and *wall* because walls had shadows that sometimes ate friends.
 
-**Skitarii** observers on scrubbed feeds still tried to **first touch** tide telemetry for trophy archives until **NON-COMPLIANT** met them in **Valerius**’s ink — because *touched* could mean *taken* and the Chapter’s file on first touch was already thick with **skin** from other poles.
+Skitarii observers on scrubbed feeds tried **first touch** on tide telemetry for trophy archives until **NON-COMPLIANT** met them in Valerius’s ink — because *touched* could mean *taken* and Chapter’s file on first touch was already thick with **skin** from other poles.
 
-Strategium night staff would later learn to fear **reconciliation** packages the way infantry learned to fear **secure** — words that let you sleep while someone else paid for the dream — until **Valerius** crossed *reconciliation* out and wrote *witness route only* in margins too plain to parade, even when the margin was **sand**.
+Iria traded **active silence** with engineers who wanted to package choir into KPIs — silence meant *do not rename sacrifice as throughput* — until tide vocabulary stayed tide vocabulary and did not metastasize into slides about *brand emergence velocity*.
 
-Officers who had never knelt to glass knelt to **paper** when *air-gap* became a word that could save more lives than a bolter; **Valerius** made them sign for procedure like ordnance, because procedure was the only exorcism that still fit in a margin after tombs learned Strategium language well enough to mock it back.
+Wind off surf tasted like ozone and rotting kelp. She breathed it anyway — breathing proved somebody still negotiated with bodies instead of only with cognomen filings.
 
-Starboard mess decks argued whether **Incus** ash still tasted stronger than Aethelgard salt; soldiers answered with boots — **Incus** had taught weight; Vitreus had taught light; **Silica** had taught *forward* — estuaries had taught *settlement* — shingle now taught *name*: different weathers, same throat paying interest.
+---
 
-**Iria** traded **active silence** with engineers who wanted to package the choir into KPIs — silence meant *do not rename sacrifice as throughput* — until tide vocabulary stayed tide vocabulary and did not metastasize into slides about *brand emergence velocity*.
+## V. Alaric Kneels — Helm Stays On
 
-Wind off the surf tasted like ozone and rotting kelp; she breathed it anyway — breathing proved somebody still negotiated with bodies instead of only with cognomen filings.
+Protocol held because **Visage** law is older than beaches, older than theater, older than mercy of being known by your skin.
 
-Protocol held because **Visage** law is older than beaches, older than theater, older than the mercy of being known by your skin: **Alaric** did **not** remove his helm — not there, not for them — because to do so would have turned witness into **exception**, and exceptions rot institutions from inside.
+**Alaric** did **not** remove helm — not there, not for them — because to do so would have turned witness into **exception**, and exceptions rot institutions from inside.
 
-Instead — an image the beach would carry longer than any stamp — he **knelt** in full plate, the strangeness of a **titan** assuming mortal posture with knee in shingle and gauntlets open on thighs, helm lifted to the spray as if saluting the sea’s indifferent prosecution while tide-spray drummed his visor until each witness saw **themselves** mirrored in **ceramite**: doubled, salt-scratched, ***accountable*** — not because the reflection flattered but because reflection is a kind of **justice** when nobody is allowed to pretend they were not present.
+Instead — image beach would carry longer than any stamp — he **knelt** in full plate, strangeness of **titan** assuming mortal posture with knee in shingle and gauntlets open on thighs, helm lifted to spray as if saluting sea’s indifferent prosecution while tide-spray drummed visor until each witness saw **themselves** mirrored in **ceramite**: doubled, salt-scratched, ***accountable*** — not because reflection flattered but because reflection is kind of **justice** when nobody is allowed to pretend they were not present.
 
-His vox carried no warmth engines could meter, yet **Valerius** looked away — a man’s ache reads in **silence**, not cheeks — and some silences are private even on public sand.
+His *vox* carried no warmth engines could meter, yet Valerius looked away — man’s ache reads in **silence**, not cheeks — and some silences are private even on public sand.
 
-**Varro**’s **Executor** wolf-skull dipped — the closest that profile could come to **bow** without becoming pantomime — and **Drusus** recorded those pulses again on slate like a man copying scripture he hated, which was how he **wept**.
+Varro’s Executor wolf-skull dipped — closest that profile could come to **bow** without becoming pantomime — and Drusus recorded those pulses again on slate like man copying scripture he hated, which was how he **wept**.
 
-Above, in colder arithmetic, **Threx** watched pict-thief feeds scrubbed clean by Navy censors and called the loss **acceptable signal hygiene**; the beach did not ask his opinion, which was also a verdict.
+Above, in colder arithmetic, **Threx** watched pict-thief feeds scrubbed clean by Navy censors and called loss **acceptable signal hygiene**. Beach did not ask his opinion, which was also verdict.
 
-**Triumvirate briefings** had shrunk to minutes for months — minutes meaning lives — especially when **Echo** listened for seams in cable-hum, **tide**-shaped harmonics, and reflection-grilles pretending neutrality; on the shingle, minutes dilated into **hours** humans could afford because names cost less than merges.
+Kadmos stood rearward with **touch-taps** ready if *vox* died — knuckle code — because panic dressed as spray-static recruited faster than bolts when harmonics mimicked **override etiquette** learned on tombs.
 
-**Kadmos** stood rearward with **touch-taps** ready if vox died — knuckle code — because panic dressed as spray-static recruited faster than bolts when harmonics mimicked **override etiquette** learned on tombs — **witness priority** traveling hand-to-hand when ears starved for geometry.
+He did not speak Chapter’s iron answer as liturgy. Beach had its own verb now: **Der Batav** — iron that stayed — and *hold* could wait until mouths had paid enough not to lie.
 
-He did not speak the Chapter’s iron answer as liturgy. The beach had its own verb now: **Der Batav** — iron that stayed — and *hold* could wait until mouths had paid enough not to lie.
+**Drusus** logged tide-name pulses under *Der Batav; human-origin; DO NOT MERGE with cognomen filing* — sequence, not prophecy — because names that rose from lungs deserved witness routes only before ink tried to brand them.
 
-Night cycles behind the berm traded lamp codes until **Lex Ignis** clocks aligned with Mechanicus wheels — superstition dressed as synchronization — while water points ran sour and **ROTATE** became liturgy for throats raw from shouting names.
+---
 
-Hyper-G **Tertius** veterans leaned on driftwood spars and warned recruits about **wrong weight**; Vitreus veterans warned about **wrong light** in surf — both warnings rhymed with shingle choir: different weather, same throat paying interest on the same organism.
+## VI. Romance Without Lie
 
-Mirror-route officers — *expected variance* stacked beside empty chairs — flinched when surf harmonics climbed because grief and throughput tried to merge again; **Valerius** slid duplicate sheets until grief stayed grief and quotas stayed quotas, margins touching only where someone wrote *held* and crossed it out — **DO NOT MERGE** learning to live in sand as it had lived in archives.
+Romance — old sense: ordeal without lie — is not that hero earns crown but that hero receives name he did not forge alone.
 
-Romance — old sense: ordeal without lie — is not that the hero earns a crown but that the hero receives a name he did not forge alone; **the people press it into his shoulders** like a brand that **blesses** because it burns truth instead of flattery.
+**People press it into his shoulders** like brand that **blesses** because it burns truth instead of flattery.
 
-Thunderhawks warmed on the ridgeline, engines coughing heat into wet air, **crown** and **halo** calling, **automation’s mouth** opening beyond the horizon’s polite fiction.
+Starboard mess decks argued whether **Incus** ash still tasted stronger than Aethelgard salt. Soldiers answered with boots — Incus had taught weight; Vitreus had taught light; Silica had taught *forward* — estuaries had taught *settlement* — shingle now taught *name*: different weathers, same throat paying interest.
 
-The war was not over, but Aethelgard, for one salt-scoured hour, had spoken **first** — and the Strategium, days later, would file the hour under **tide-name witness; Batavi cognomen emergent**, because even institutions learn to repeat what beaches force them to hear.
+Triumvirate briefings had shrunk to minutes for months — minutes meaning lives — especially when Echo listened for seams in cable-hum, **tide**-shaped harmonics, and reflection-grilles pretending neutrality. On shingle, minutes dilated into **hours** humans could afford because names cost less than merges.
 
-Casualty boards filled twice — once for flesh beside chain and flame across the crusade, once for minds bent before hearts broke — because **witness priority** demanded honesty uglier than slides wearing *acceptable variance* like lipstick — honesty nobody could salute cleanly, only **hold**.
+Night cycles behind berm traded lamp codes until **Lex Ignis** clocks aligned with Mechanicus wheels. Water points ran sour. **ROTATE** became liturgy for throats raw from shouting names.
 
-**Drusus** appended a closing margin for translation burn — *tide-name coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained across three intervals; record choir onset beside biomarkers without merging columns prematurely* — not prophecy, **sequence**.
+Hyper-G **Tertius** veterans leaned on driftwood spars and warned recruits about **wrong weight**. Vitreus veterans warned about **wrong light** in surf. Both warnings rhymed with shingle choir: different weather, same throat paying interest on same organism.
 
-**Valerius** stamped the embarkation slate toward **Mirror Brood** twice — once for ceramite continuity under **glare discipline**, once for mortal chains still solvent — because mirrors ahead would tax both ledgers — interest collecting teeth before receipts — quiet shingle and loud orbit alike — **double-stamp** discipline traveling pole to pole like mercy shaped like paperwork — stubborn, thin, honest enough to cut when staff tried to merge grief into throughput.
+Mirror-route officers flinched when surf harmonics climbed because grief and throughput tried to merge again. Valerius slid duplicate sheets until grief stayed grief and quotas stayed quotas — **DO NOT MERGE** learning to live in sand as it had lived in archives.
+
+Thunderhawks warmed on ridgeline, engines coughing heat into wet air, **crown** and **halo** calling, **automation’s mouth** opening beyond horizon’s polite fiction.
+
+War was not over, but Aethelgard, for one salt-scoured hour, had spoken **first**.
+
+---
+
+## VII. Tide-Name Witness — Filed Late
+
+Strategium, days later, would file hour under **tide-name witness; Batavi cognomen emergent**, because even institutions learn to repeat what beaches force them to hear.
+
+Officers who had never knelt to glass knelt to **paper** when *air-gap* became word that could save more lives than bolter. Valerius made them sign for procedure like ordnance, because procedure was only exorcism that still fit in margin after tombs learned Strategium language well enough to mock it back.
+
+Strategium night staff learned to fear **reconciliation** packages the way infantry learned to fear **secure** — words that let you sleep while someone else paid for dream — until Valerius crossed *reconciliation* out and wrote *witness route only* in margins too plain to parade, even when margin was **sand**.
+
+Casualty boards filled twice — once for flesh beside chain and flame across crusade, once for minds bent before hearts broke — because **witness priority** demanded honesty uglier than slides wearing *acceptable variance* like lipstick — honesty nobody could salute cleanly, only **hold**.
+
+Drusus appended closing margin for translation burn — *tide-name coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained across three intervals; record choir onset beside biomarkers without merging columns prematurely* — not prophecy, **sequence**.
+
+Valerius stamped embarkation slate toward **Mirror Brood** twice — once for ceramite continuity under **glare discipline**, once for mortal chains still solvent — because mirrors ahead would tax both ledgers.
+
+Evacuation teams had walked gangways twice — once for optics, once for souls — duplicate passes that looked like inefficiency until inefficiency saved necks from trusting wrong glass. Shingle repeated lesson without asking permission: **teams** counted breath before they counted **brand**.
+
+Junior auspex clerks learned to hate **confidence** when intervals tightened without new contacts — same hunger archives had worn as politeness — because congratulations arrived early when categories tried to merge and only **witness routes** refused merge in ink anyone could bleed on.
+
+---
+
+## VIII. Humanity Named First
+
+Humanity had named Chapter before Throne did — not edict first, **voice** first — and voice, on shingle, was weight you could not delete when ink arrived pretending the Throne had invented what mortals had already spoken in salt.
+
+**Drusus** and **Varro** walked berm span in different grammars — clinical lock beside liturgical lock — **Triumvirate differentiation** held: pulses on slate beside binds spoken low — two seals on same grief, neither stealing other’s syntax — while Alaric — kneeling still in public memory — remained hinge **mass** where files were syringe and prayer was stitch.
+
+Sera tested splices at false dawn when fog made complicity feel like weather — treat every reconnect as confession; treat every ghost trunk as **debt** until disproven.
 
 Guides chalked **correction arcs** on levee crowns inland until chalk dust mixed with salt grit and looked like frost — nobody laughed at frost jokes twice — because humor could become **folk liturgy** faster than purge cycles could cleanse it.
 
-Forgemasters erased chalk ticks where they could so tide-name maps could not migrate into Merit mood-boards — witness guarded like ammunition — while bondsmen stacked duplicate pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright — thin edges honest in the same hand that carried stamps twice without pretending one debt paid the other — **hold** and **witness** different ledgers even when spray pretended otherwise.
+Forgemasters erased chalk ticks so tide-name maps could not migrate into Merit mood-boards — witness guarded like ammunition — while bondsmen stacked duplicate pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright.
 
-**Sera** tested splices at false dawn when fog made complicity feel like weather — treat every reconnect as confession; treat every ghost trunk as **debt** until disproven — **parallel filing** the only vaccine when *indexing* could become appetite’s favorite alias.
+Bondsmen whispered thanks to nothing they could name cleanly — thanks shaped like debt — until Varro ended whisper with ash and **schedule**, because gratitude could become liturgy faster than berm could seal if you let it sing.
 
-Bondsmen whispered thanks to nothing they could name cleanly — thanks shaped like debt — until **Varro** ended the whisper with ash and **schedule**, because gratitude could become liturgy faster than a berm could seal if you let it sing — **nomenclature is seal** even when the seal tastes like brine.
+**Kessler** stood at tide-line where Orwen’s knee had left its print and three fingers raised at surf that caught light like mirror.
 
-**Drusus** and **Varro** walked the berm span in different grammars — clinical lock beside liturgical lock — **Triumvirate differentiation** held: pulses on slate beside binds spoken low — two seals on the same grief, neither stealing the other’s syntax — while **Alaric** — kneeling still in public memory — remained hinge **mass** where files were syringe and prayer was stitch.
+**Iria** had not sought Alaric’s eyes when the name filed — *Cohors Batavorum* before Throne edict — because seeking would have turned verdict into **spectacle**. She wrote one correction on a tide chart instead: *interval risk elevated; rotate odd hours on berm crews* — vaccine traveling pole to pole, Kessler’s beach grammar translated for shingle.
 
-Evacuation teams had walked gangways twice — once for optics, once for souls — duplicate passes that looked like inefficiency until inefficiency saved necks from trusting wrong glass; the shingle repeated the lesson without asking permission: **teams** counted breath before they counted **brand**.
+Behind her, **Der Batav** still rang in throats — not edict, **verdict** — and **Cohors Batavorum** waited in ink the way crowns waited in horizon glare.
 
-Junior auspex clerks learned to hate **confidence** when intervals tightened without new contacts — same hunger archives had worn as politeness — because congratulations arrived early when categories tried to merge and only **witness routes** refused the merge in ink anyone could bleed on.
+Humanity had named Chapter before Throne did.
 
-**Kessler** stood at the tide-line where Orwen’s knee had left its print and three fingers raised at surf that caught light like a mirror. Behind her, **Der Batav** still rang in throats — not edict, **verdict** — and **Cohors Batavorum** waited in ink the way crowns waited in horizon glare.
+**Santo** had crossed **none** into **present** with one angry stroke that made law look like carpentry. **Orwen** had handed witness forward. **Mira** had counted honest. Names, here, were not coins — they were **shoulders** learning weight bone-deep before ink arrived to pretend the Throne had invented what mortals had already spoken in salt.
 
-Humanity had named the Chapter before the Throne did. Mirrors ahead would ask whether names could survive what reflection learned to hunger.
+**Alaric** stood at berm lip one minute after the name filed and did not remove his helm — continuity, not modesty — practicing active silence the way Iria had taught on shingle and estuary alike: shield against excuses, flow without spectacle, refusal to let convenience rename sacrifice as virtue. He did not say *We hold* as liturgy. Holding, tonight, was **shoulders** learning weight before Throne ink arrived to pretend invention.
+
+**Drusus** appended a margin for translation burn — *tide-name coupling may present as Wolf’s Curse stress rhyme; treat as environmental false-positive unless sustained across three intervals* — sequence, not prophecy — the same refusal that had kept prisms from merging columns prematurely.
+
+**Kessler** walked the berm wire once with auxilia counted aloud and three fingers raised at surf that caught light wrong — same habit Vitreus had taught, translated for shingle where humanity had named the Chapter before Throne ink arrived to pretend invention.
+
+**Valerius** stamped the embarkation slate toward **Silica** twice — once for Marine continuity, once for mortal chains still solvent — because mirrors ahead would tax both ledgers when reflection walked beside iron.
+
+**Santo** crossed **none** into **present** one more time on the embarkation slate — one angry stroke that made law look like carpentry — and did not look at hololiths naming *pressure relief*. Looking would have turned naming into **spectacle**. He adjusted a crate strap instead — hygiene extended to the spine — while **Mira** shifted loads so nothing tipped.
+
+**Orwen** repeated timestamps into hand *vox* until voice went flat — flat not from courage, from **exhaustion** — because tide-names were the theater where humanity named Chapter before Throne ink arrived to pretend invention, and witness handed forward was cheaper than reconciliation packages that let admiralties sleep.
+
+**Varro** stood at berm edge with Executor jawline catching surf wrong-light and did not speak. Speaking would have turned shingle into **liturgy** before council earned the right to file continuation honest enough to cut.
+
+**Drusus** logged tide-name pulses under *Der Batav; human-origin; DO NOT MERGE with cognomen filing* — sequence, not prophecy, because names that rose from lungs deserved witness routes only.
+
+**Santo** shouted until voice broke on shingle — some debts pay best when they **hurt** going out — while **Mira Kell** stood back with arms crossed, not withholding, **witness**.
+
+**Alaric** knelt on shingle one last minute without speeches — hinge-work — because *Der Batav* rose from human lungs before ink tried to brand it and *hold* could wait until mouths had paid enough not to lie.
+
+**Valerius** stamped toward **Mirror Brood** twice — Marine continuity beside mortal chains still solvent — because light sharpened into debt would tax both ledgers when reflection walked beside iron.
+
+**Iria** folded tide chart into cuff without spectacle — active silence — because names spoken at estuary still required witness routes only before ink learned *We hold anyway* as instrument not folklore.
+
+**Kessler** kept timestamps in transcript — witness route only — because tide names spoken at salt lip were debt estuary doctrine had priced in settlement without merging triumph theater with partial victory.
+
+**Echo** listened at shingle berm for **tide**-shaped harmonics — filing *Der Batav* as sequence before Mirror Brood earned attested injury.
+
+**Sera** tagged shingle embarkation *monitor only* until Pol seed starved merge columns.
+
+**Orwen** filed tide-name timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than Throne ink dressed as invention.
+
+**Threx** would file *yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only*.
+
+**Merit** met **NON-COMPLIANT** at berm hololith — witness routes only — because reconciliation packages let admiralties sleep while mortals paid for names spoken at salt lip.
+
+**Kadmos** posted berm cordon one meter deeper — geometry as insurance — because tide names spoken still required witness routes only before ink learned *We hold anyway* as instrument.
+
+**Pol**'s seed — monitor only — would rhyme with tide-name coupling until Drusus starved merge columns.
+
+**Varro** stood at berm edge with Executor jawline catching surf wrong-light and did not speak. Speaking would have turned shingle into **liturgy** before council earned the right to file continuation honest enough to cut.
+
+Mirrors ahead would ask whether names could survive what reflection learned to hunger.
+
+Interest collecting teeth before receipts.
+
+Quiet shingle. Loud orbit. Names from lungs.
+
+Always owed.
 
 ---
+
 **End of Chapter 30**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Next:** [Mirror Brood](../mirror-brood/chapter.md) · Q4 · CV y22–y29

@@ -7,17 +7,29 @@
 
 **Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../../../atlas-and-topography/castra-vetera-galactic-lock.md). **Witness Ford** outward filter; **Forge / Tempest / Crown** marsh channels. Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
+**Chronicle law:** **Executor** wolf-skull in field · Merit recorder **forbidden** on pole · *Sigma-Black* sympathy elevated · *We hold* not spoken.
+
+**Precedent:** Exanimus vault · Triumvirate vitals seal — [`exanimus-choir/chapter.md`](../exanimus-choir/chapter.md).
+
 ---
+
+## I. Theater That Lied Differently
 
 After Incus’s inheritance war and Merit’s recorder-shell of **command**, the Chapter needed a theater that lied differently, and **Vitreus** obliged.
 
 It rose from **glass seas** — superheated lenses where waves behaved as **optics** and optics behaved as *traps* — where *horizon* was a joke navigators told beginners before beginners learned to weep. Sunlight did not warm here but **declared**: a white verdict that stripped color from metal and patience from men. You learned to mistrust your own sightlines the way you mistrusted friendly fire — because both could kill you while wearing the face of *help*.
 
+The **backward braid** was optical: *Inheritance* had filed kin as terrain; Exanimus had filed Triumvirate coherence as weather; now light would file **reflection** as weapon and teach the Chapter that clarity was a flame that did not negotiate with what it ate.
+
 The backward cost of Incus — bloodline filed as vector — rode in every glance at a reflection that might be **listening**. **Drusus** caught himself checking shadows twice and hated the habit because habits were how enemies taught you to spend attention on installments. The sealed margin from the Exanimus vault — *monitor Triumvirate vitals off-battlefield* — sat in his buffer beside Brood-Flutter and *Inheritance*, three pulses he could not yet tell apart on a bad second.
 
 **Alaric** forbade Merit’s recorder on this pole — not as censorship, as **economy**: light-paths drank electricity and attention alike, and Vitreus punished documentation the way deserts punished water — by making every liter **visible**. What could be logged would be logged in angles and casualties, not in confession.
 
-**Kessler**, rotated up from ash lungs to glitter lungs, taught auxilia to treat glare like vox-discipline — *don’t stare at beauty; beauty invoices you* — until recruits learned to hate sunsets on principle, which was ugly and survivable.
+**Kessler**, rotated up from ash lungs to glitter lungs, taught auxilia to treat glare like *vox*-discipline — *don’t stare at beauty; beauty invoices you* — until recruits learned to hate sunsets on principle, which was ugly and survivable.
+
+---
+
+## II. Yield Blinds — Creditors on Collateral
 
 ***Lex Ignis*** hit Vitreus beach with the enthusiasm of **creditors** seizing collateral: landers squatting heavy on panes that sang under weight, auspex masts tasting prismatic weather until instruments drunk on beauty began lying with enthusiasm.
 
@@ -30,6 +42,10 @@ Landing crews learned Vitreus’s first cruelty before combat: **static crackle*
 **Drusus** banned polish — too reflective — as vanity that doubled as suicide; Marines buffed anyway until disciplined because scratched ceramite scattered light uglier and uglier until ugliness became camouflage on a world that weaponized prettiness.
 
 Day-one drills looked absurd from orbit — jokes whispered where jokes kept nerves from crystallizing — until drills stopped looking absurd and started looking like **survival tariffs**. Kadmos made brothers march squares with eyes closed while partners shouted angles from chalked cones until march squares stopped being parade nonsense and became **trust exercises where betrayal wore optics**.
+
+---
+
+## III. Left Is Not Left — Cheaper
 
 **Glass divers** — mortals who went **blind young on purpose** — met the Astartes at the high tide of glare and served as guides because *seeing* was liability here: eyes gathered lies while empty sockets gathered **routes**, a reading beat written in scar tissue and tide tables. They moved with the calm of people who had traded one kind of fear for another and considered the trade rational.
 
@@ -51,6 +67,10 @@ Daemons — or what briefings safely called *localized warp bleed* — whispered
 
 **Alaric** refused *spectacle purges* — Varro’s term — until spectacle threatened routes; then he ordered narrow flamer lanes that turned pockets of coolant fog into steam curtains you could **feel** even through ceramite. Steam hurt; hurt meant you were still inside physics; physics was the Castellan’s favorite scripture when Immaterial vocabulary threatened to leak into briefings.
 
+---
+
+## IV. Blind-Fire — Echo Wants Permission
+
 Drusus sampled condensation off bulkheads until sample vials looked like tiny lenses — **swabs only**, Threx reminded from a distance, meaning *surrender slides later* — and Drusus answered by labeling vials *environmental stressors* until labeling felt like armor.
 
 On the third day a reflections ambush proved **Sera** right in the worst way: three shapes became nine became one became none, las-triggers hesitating because fingers waited for eyes to confirm what auspex already denied.
@@ -71,6 +91,14 @@ He logged *possible synchronization — environmental* because *possible possess
 
 Drusus sealed the line with *Triumvirate only* until permission could be defined without surrender.
 
+**Kadmos** ordered blind-fire protocols and hated himself for it — obscene on any parade ground that still believed in saints — because Sera’s reflections ambush proved eyes taxed both ledgers before left-is-not-left hid teeth at Vitreus corridor lip.
+
+**Merit** steadied her slate on catwalk — witness without applause — because blind-fire was debt glass overture would spend when Sigma-Black sympathy climbed in margins like pupil geometry before inheritance had a name.
+
+---
+
+## V. Executor — Faith Without Silence Is Open Door
+
 **Varro** walked the gantries in his **Executor wolf-skull helm** — new since the Incus vault, still smelling faintly of foam and judgment — and spoke binds **threaded** thin — enough to make panic hesitate without pretending panic was *solved*. Wolf geometry read differently than the old *Codex* death-skull: not less holy, *narrower* — jawline built to bite without offering a human face for mortals to mistake as kin.
 
 A **blind cult** — burned retinas honored as **holy absence** — chanted from a catwalk until Varro’s rite turned chant into **stutter**, syllables snagging like cloth caught on splinters.
@@ -85,11 +113,15 @@ One blind elder asked — in a voice buttered with age — whether the Emperor s
 
 It was more theology than he liked offering on a gantry slick with coolant; it landed anyway, because horror and hope sometimes shared a doorway if you kept the doorway **narrow**.
 
-**Alaric** chose **geometry** over pity: a corridor **sacrificed** — sealed, written off, lives priced as minutes — because saving *everyone* would have fed the sea’s lens until it learned **hunger** as habit. He gave the order without raising his voice; the vox carried it anyway, flat as law.
+**Alaric** chose **geometry** over pity: a corridor **sacrificed** — sealed, written off, lives priced as minutes — because saving *everyone* would have fed the sea’s lens until it learned **hunger** as habit. He gave the order without raising his voice; the *vox* carried it anyway, flat as law.
 
 A diver paid in **minutes** of breathless work so the spearhead gained **distance** — distance being the crude romance of survival spelled in burned lungs and borrowed time. Alaric watched the man’s rebreather gauge dip and did not look away; looking away would have turned minutes into *theater*. When the diver surfaced — gasping, cursing the sea with the sincerity of someone who loved it anyway — Alaric nodded once. Nodding was what he had instead of thanks.
 
-In the sealed corridor behind them, voices thinned until vox sounded like paper tearing — **not** daemonic theatre, pressure differentials cheating the ear — yet two serfs swore they heard their own names spoken from the far end where nobody stood.
+---
+
+## VI. Breathing Lens — Blindness Still a Route
+
+In the sealed corridor behind them, voices thinned until *vox* sounded like paper tearing — **not** daemonic theatre, pressure differentials cheating the ear — yet two serfs swore they heard their own names spoken from the far end where nobody stood.
 
 **Kadmos** put a bolt through the lens-joint that seemed to **breathe** until light stopped pretending to be water. Glass screamed; the scream became sparkle; sparkle became rain that burned bare skin in pinpricks. Cheap wins, expensive clarity.
 
@@ -105,6 +137,10 @@ On the Mechanicus tender, someone tried to archive **Sera’s** harness telemetr
 
 The romance of Vitreus is **clarity**, and clarity **burns**.
 
+---
+
+## VII. Dreams Still Bright — Sea Praying
+
 When night came — if *night* meant anything beneath glass tides — the Chapter learned to sleep with visors down and dreams still **bright**, as if the planet refused to grant darkness because darkness would have been *mercy*.
 
 **Alaric** stood watch once without speaking, helm lamps off, presence occupying the gantry the way mass occupies a doorway.
@@ -114,6 +150,8 @@ When night came — if *night* meant anything beneath glass tides — the Chapte
 **Kadmos** reviewed angle-maps by lamplight until lamplight became another lie the glass ate and gave back wrong.
 
 **Kessler** woke once convinced someone was standing at her bunk foot — nothing; only reflection-in-dark behaving like stalker doctrine — and spent an hour scrubbing her visor until her gloves smelled like ozone and defeat. She did not report it; reporting would have handed Vitreus another rhythm to sync. She filed it where sergeants file things that keep them alive: **muscle**, not memo.
+
+**Sera** tapped a trough line once — permission, warning, both — and whispered *left is cheaper* the way divers learn to speak when glass pretends to be sky. The phrase would follow them to Tertius as **mass** replaced **lens**, but here it was still rescue geometry priced in breath.
 
 Somewhere below decks, a serf whispered that the sea was praying. **Varro** passed the hatch and did not correct her. Some prayers were safer wrong until morning.
 
@@ -125,11 +163,19 @@ Morning came as a brighter insult: flare-line crawling the horizon like a wire p
 
 They went. The glass pretended to be water. The water pretended to be sky. The Chapter pretended to be unafraid, which was the oldest strategy in war and still the most costly.
 
+**Threx** logged deferment on every salvage window Drusus denied — interest calculating whether refusal was pride or wisdom — while **Merit**’s lamp threw honest circles on spray and **Kadmos** clipped gain until transcripts stayed ugly enough to survive tribunals.
+
+---
+
+## VIII. Repositioning — Not Heroism
+
 When the auspex finally screamed a shape that matched nothing in the *Lex Ignis* catalogs, **Threx** called it opportunity. **Drusus** called it a symptom. **Alaric** called it *time to move*, which was the Castellan’s way of admitting both men were right and neither could be obeyed at once without breaking someone.
 
 They moved — not as charge, as *repositioning*: the ugly romance of adults who had learned that heroism is sometimes the refusal to stand where the light wants you to stand.
 
 **Sera** guided the withdrawal along a trough where reflections stacked **thin** — not safe, only *less dishonest* — while **Varro** walked backward among the rear guard, Executor skull a fixed point mortals could aim fear at instead of aiming fear at each other.
+
+**Merit**’s recorder lamp threw a small honest circle on spray — *witness routes only* — until Kadmos clipped her gain and made her transcript ugly on purpose. Ugly transcripts survived tribunals better than beautiful ones; beauty was how arrays learned to eat faces.
 
 **Drusus** counted pulses aloud until counting became metronome; metronome became proof the squadron still owned **time**, even when Vitreus insisted time was light and light was lie.
 
@@ -137,15 +183,78 @@ Behind them, the glass sea kept its appointment with the sun. Ahead, **Incus-Gra
 
 For now, Vitreus taught what it taught: that clarity is a flame, and flames do not negotiate with what they eat.
 
+**Threx** offered *sanctified route telemetry* on a channel Drusus had not blessed; Alaric refused without theater — *No Mechanicus ghosts in my auspex stack during clarity geometry* — and the refusal traveled through **Lex Ignis** feeds as *Chapter mysticism* until Valerius stamped *witness routes only* beside the mute log. Threx swallowed hatred because swallowing meant invoices; **Merit** tried to clip a recorder to **Sera**’s harness until Kessler broke the mount and Valerius stamped **NON-COMPLIANT** before the first glare could invoice a diver’s empty sockets.
+
 **Drusus** appended a final margin note before translation burn — *Sigma-Black harmonic sympathy elevated; monitor both poles on ingress* — not as prophecy, as **sequence**, because sequences were how you kept mirrors from pretending they were unrelated accidents.
 
 **Valerius** stamped the embarkation slate twice: once for Marines, once for divers paid in full, because double-stamping was how you told the void which debts had been settled and which would follow them home.
 
 Alaric watched the glass horizon one last time and thought of Iria still deferred, of Pol’s seed beside blood, of Merit’s lamp and Varro’s two shadows in the vault — all of them **witnesses** to different kinds of light that refused to mean what they appeared to mean.
 
+**Sera** — cheeks salt-scarred, smile absent — taught one last auxilia squad *left is not left* before embarkation, and **Kadmos** wrote the ugly honesty into a range card: **Cheaper** — compass where needles burned.
+
+**Santo** scrubbed blood from his knuckles on the beach lip without looking at reflections — witness without applause — while **Mira** kept two ink colors on the same knuckle and refused merges the way Valerius refused merges upstairs.
+
+**Drusus** sealed the Sigma-Black sympathy margin one last time — *monitor both poles on ingress; treat tremor rhyme as environmental false-positive unless sustained* — and felt the old itch from Pier Nine return: pupil geometry tracking rank before inheritance had a name.
+
 He did not say *We hold.* On Vitreus, holding meant refusing to stand where the lens wanted you to stand — and living with the corridor you had sealed to buy distance.
 
+**Drusus** sealed the Sigma-Black sympathy margin one last time — *monitor both poles on ingress; treat tremor rhyme as environmental false-positive unless sustained* — and felt the old itch from Pier Nine return: pupil geometry tracking rank before inheritance had a name.
+
+**Sera** taught *left is not left* one last time before embarkation; **Kadmos** wrote **Cheaper** into a range card — compass where needles burned — and **Merit**’s lamp threw a small honest circle on spray until Kadmos clipped her gain and made her transcript ugly on purpose. Ugly transcripts survived tribunals better than beautiful ones; beauty was how arrays learned to eat faces.
+
+**Alaric** stood at Vitreus egress one minute after corridor sealed and did not remove his helm — continuity, not spectacle — while Sigma-Black sympathy climbed in hololith margins like pupil geometry tracking rank before inheritance had a name. On Vitreus, holding meant refusing to stand where the lens wanted you to stand — and living with the corridor you had sealed to buy distance.
+
+**Varro** traced ash on the spray baffle where echo wanted permission — not prayer, **inventory** — death-skull geometry until Exanimus vault earned Executor jawline, ***licentia lupina*** written in advance so wolf-skulls multiplied only where the **Judex** chose extension.
+
+**Valerius** stamped embarkation toward **Tertius Anvil** twice — Marine continuity beside mortal payroll still breathing — because hyper-G would tax both ledgers when mass became verdict.
+
+Tertius waited. Hyper-G. Mass as verdict. Brood sovereignty inches from coronation.
+
+**Drusus** sealed the Vitreus buffer one last time — *left is not left; monitor both poles; treat echo permission-seeking as hostile flirtation* — and felt Sigma-Black sympathy climb in margins like pupil geometry before inheritance had a name. Sequence, not prophecy. Triumvirate first.
+
+**Kessler** walked the spray deck one last time with auxilia who had learned colors before names — red for *call for help*, blue for *do not call for the wrong help* — and did not praise them. Praise turned left-is-cheaper into **theater**.
+
+Left was cheaper. Echo wanted permission. The corridor they had sealed would buy distance at interest the anvil would collect in mass-as-verdict.
+
+Spray forgot motion on Vitreus egress until arrays looked like peace — peace another word for **left is not left** hiding teeth where echo permission-seeking wore hostile flirtation like weather institutions preferred to confession.
+
+**Merit** tried once to clip a recorder to the spray hololith until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as Vitreus nostalgia packages.
+
+**Alaric** stood at spray lip one minute after corridor sealed and did not remove his helm — continuity, not spectacle — while Sigma-Black sympathy climbed in hololith margins like pupil geometry tracking rank before inheritance had a name.
+
+**Varro** touched the sealed corridor baffle once — no ritual, only contact — and filed left-is-not-left as proto-rite: seal attempted, not victory, because echo permission-seeking wore hostile flirtation like weather institutions preferred to confession.
+
+**Santo** adjusted crate strap at spray deck and did not look at hololiths naming *left-is-cheaper*. Looking would have turned egress into spectacle before Tertius taught thighs rebuilt by slopes.
+
+**Valerius** stamped toward **Tertius Anvil** twice — Marine continuity beside mortal payroll still breathing — because Sigma-Black sympathy climbed in margins like pupil geometry before inheritance had a name and mass would arrive as verdict.
+
+**Drusus** sealed glass-overture margin — *Sigma bleed; treat as environmental false-positive unless sustained across three intervals; DO NOT MERGE with Pier Nine pupil trace* — hope dressed as procedure because glass lied politely before hyper-G taught shame that stayed honest.
+
+
+**Kadmos** posted glass cordon one meter deeper — geometry as insurance — because left was not left and echo permission-seeking wore hostile flirtation like weather before Vitreus taxed both ledgers.
+
+
+**Iria** breathed active silence at Vitreus egress — refusal to let convenience rename sacrifice as virtue — because left-is-not-left hid teeth where permission-seeking wore hostile flirtation like weather.
+
+**Echo** listened at spray baffle for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing Sigma bleed as sequence before Tertius Anvil named mass as verdict.
+
+**Orwen** filed Vitreus timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than left-is-not-left dressed as reconciliation packages.
+
+**Threx** logged *Sigma bleed* beside *sampling window favorable* — Mechanicus grief wearing numbers when it could not wear shame — while hyper-G waited to teach mass as verdict on Tertius shingle not yet filed.
+
+
+
+
+
+Interest collecting teeth before receipts.
+
+Left is cheaper. Echo wants permission. Double-stamp embarkation.
+
+Always owed.
+
 ---
+
 **End of Chapter 16**
 
 **Next:** [Tertius Anvil](../tertius-anvil/chapter.md) · Q2 · CV y8–y14

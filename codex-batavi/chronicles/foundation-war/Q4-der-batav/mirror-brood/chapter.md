@@ -7,125 +7,254 @@
 
 **Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../../../atlas-and-topography/castra-vetera-galactic-lock.md). **Witness Ford** outward filter; **Forge / Tempest / Crown** marsh channels. Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
+**Chronicle law:** Pre-***Curia*** era · post-**Batavi cognomen emergent** · **trust debt elevated** · *We hold* still **halo-shy** on open channels.
+
+**Precedent:** Shingle choir · *the iron that stayed* — [`tide-names/chapter.md`](../tide-names/chapter.md).
+
 ---
 
-After Aethelgard named them — after **tide-name witness** and **Batavi cognomen emergent** hit Navy channels like salt in an open wound — the void asked for a different kind of literacy, and **Silica** answered.
+## I. Glass Learns Kinship
 
-The field — **mirror** highways strung through glittering wrongness — had always been a liar in honest clothing, what you saw *true* and *false* in the same breath depending on **angle**, and now it lied **again** with biology riding optics because **reflection geometry** suited **brood** nests the way cathedrals suited echo — not because gods lived there but because *pattern* did, kin-routes mirrored until they braided, trust mirrored until it **infected itself**, familiar faces mirrored until familiarity became **vector**, sensor stacks screaming **inversion** while human crews learned to distrust **confirmation** the way drowning men learn to distrust calm water.
+After Aethelgard named them — after **tide-name witness** and **Batavi cognomen emergent** hit Navy channels like salt in open wound — void asked for different kind of literacy, and **Silica** answered.
 
-Embarkation slates from the shingle still arrived **double-stamped** — **Valerius** — **witness routes** beside **throughput** — because names on a beach could not stop staff from merging skin into yield when glass asked nicely; **parallel filing** traveled with the fleet like infection shaped like mercy — stubborn, thin, honest enough to cut spreadsheets.
+Field — **mirror** highways strung through glittering wrongness — had always been liar in honest clothing, what you saw *true* and *false* in same breath depending on **angle**, and now it lied **again** with biology riding optics because **reflection geometry** suited **brood** nests the way cathedrals suited echo.
 
-**Der Batav** still rang in mess-deck memory — *the iron that stayed* — and Silica asked whether iron could stay when reflection learned to walk beside you wearing a friend’s face.
+Not because gods lived there but because *pattern* did — kin-routes mirrored until they braided, trust mirrored until it **infected itself**, familiar faces mirrored until familiarity became **vector**, sensor stacks screaming **inversion** while human crews learned to distrust **confirmation** the way drowning men learn to distrust calm water.
 
-**Merit’s** clerks aimed *throughput recovery lenses* at sealed lockouts until **Kessler** broke another unit and filed *NOT FIELDED* — mirrors did not need another attention economy; they needed **chalk**, **feet**, and knuckle codes that refused to answer the first face that spoke.
+Embarkation slates from shingle still arrived **double-stamped** — Valerius — **witness routes** beside **throughput** — because names on beach could not stop staff from merging skin into yield when glass asked nicely.
 
-**Sera** paired fiber through duplicate trunks behind blast doors — red for *call*, blue for *ghost* — because harmonics ate one line and called it *routing optimization* while custody still breathed on the second.
+**Der Batav** still rang in mess-deck memory — *the iron that stayed* — and Silica asked whether iron could stay when reflection learned to walk beside you wearing friend’s face.
 
-**Echo** pressed chaplain seams where binds thinned — Triumvirate seal still **narrow** — and **Varro** refused spectacle; **Executor** wolf-skull present as infrastructure while litanies shortened until boredom stayed shield against **folk liturgy** fermenting in mirrored bulkheads.
+Merit’s clerks aimed *throughput recovery lenses* at sealed lockouts until Kessler broke another unit and filed *NOT FIELDED*. Mirrors did not need another attention economy. They needed **chalk**, **feet**, and knuckle codes that refused to answer first face that spoke.
+
+Sera paired fiber through duplicate trunks behind blast doors — red for *call*, blue for *ghost* — because harmonics ate one line and called it *routing optimization* while custody still breathed on second.
+
+Echo pressed chaplain seams where binds thinned — Triumvirate seal still **narrow** — and Varro refused spectacle. Executor wolf-skull present as infrastructure while litanies shortened until boredom stayed shield against **folk liturgy** fermenting in mirrored bulkheads.
+
+---
+
+## II. Convoy as Triage
 
 Drusus’s margins carried **sequence**, not prophecy — *brood harmonics may rhyme with archive coupling; treat tremor patterns as debt until sustained across three intervals; do not merge trust-debt indices with sympathy spikes* — because naming hunger early only fed it cleaner meals on glass.
 
-Junior crews confused **Sigma bleed** with gossip until Drusus forced **intervals** onto returns — ghost mass dressed as morale until uglier filters convicted it — because politeness killed lockdowns exactly as it had killed forge serfs when categories tried to merge.
+Junior crews confused **Sigma bleed** with gossip until Drusus forced **intervals** onto returns — ghost mass dressed as morale until uglier filters convicted it.
 
-Medicae bins overflowed with crew who were not bitten yet but **pre-wounded** by phosphene and doubt-chemistry — petty taxes reflection collected before talons arrived — and Drusus metered sedatives like artillery until poetry stayed impossible when screams argued for hymns.
+Medicae bins overflowed with crew not bitten yet but **pre-wounded** by phosphene and doubt-chemistry — petty taxes reflection collected before talons arrived — and Drusus metered sedatives like artillery until poetry stayed impossible when screams argued for hymns.
 
-Bondsmen whispered **Dark Age of Technology** near relief manifolds until **Varro** crushed the whisper with ash — **nomenclature is seal** — because myth could recruit machinery faster than doctrine could leash it when gauges knelt spines without blades.
+Bondsmen whispered **Dark Age of Technology** near relief manifolds until Varro crushed whisper with ash.
 
-**Convoys** — already sin dressed as logistics — became **triage** on **purpose** as some infections were **chosen**: isolate, seal, **write off** with the cruel honesty of a physician who decides which limb keeps the body breathing, morality **howling** as it always does when arithmetic touches children.
+— Nomenclature is seal — he said. — Myth recruits machinery faster than doctrine leashes it when gauges kneel spines without blades.
 
-**Kadmos** enforced **silence** on command channels not because he loved silence but because **noise** makes mortals brave in stupid directions and bravery without seals is how cult breath spreads through a ship like **perfume** you cannot scrub.
+**Convoys** — already sin dressed as logistics — became **triage** on **purpose** as some infections were **chosen**: isolate, seal, **write off** with cruel honesty of physician who decides which limb keeps body breathing, morality **howling** as it always does when arithmetic touches children.
+
+**Kadmos** enforced **silence** on command channels not because he loved silence but because **noise** makes mortals brave in stupid directions and bravery without seals is how cult breath spreads through ship like **perfume** you cannot scrub.
 
 — Hold your hysteria — he said, flat — or you will **teach** the glass what fear tastes like.
 
-Not liturgy — **hygiene** — the same discipline that had kept *Furor* vocabulary off open vox when phosphene could invent cult velocity.
+Not liturgy — **hygiene** — same discipline that had kept *Furor* vocabulary off open *vox* when phosphene could invent cult velocity.
 
-**Sergeant Kessler** walked auxilia lines with chalk and knuckle-rap codes resurrected from Vitreus and the gulf — because mirrors punish **eyes** first — until men stopped answering their own names when a reflection answered first.
+Wolf’s Curse watch stayed off channels that could recruit story — Kadmos enforced — because *Furor* vocabulary beside mirrored *vox* could invent cult velocity in sealed corridor faster than purge cycles could answer.
 
-Three fingers for *hold*. One for *do not look at the bulkhead like it is a mirror* — bridge lesson that had outlived every pole it was born on.
-
-Queues at sealed hatches learned **touch-taps** when vox turned to strips — knuckle code older than brand — because panic dressed as static recruited faster than bolts when harmonics mimicked **Servitor kneel cadence** learned in dynastic overrides — **witness priority** traveling hand-to-hand when ears starved for geometry.
-
-Night cycles traded lamp codes until **Lex Ignis** clocks aligned with Mechanicus wheels — superstition dressed as synchronization — while water points ran sour and **ROTATE** became liturgy for throats raw from whisper-lock.
-
-Marines scrubbed ceramite dull — **glare discipline** — until polish stopped volunteering shine to glass that ate faces; dullness stayed camouflage when Silica smiled wrong.
+Marines scrubbed ceramite dull — **glare discipline** — until polish stopped volunteering shine to glass that ate faces.
 
 Apothecarion interns practiced distinguishing **Exanimus** drift from optic poisoning — **rhyme** permitted in margins; **oracle** burned — until juniors stopped mistaking adrenaline for prophecy when scopes lied politely.
 
-**Wolf’s Curse** watch stayed off channels that could recruit story — **Kadmos** enforced — because *Furor* vocabulary beside mirrored vox could invent cult velocity in a sealed corridor faster than purge cycles could answer; medicae charted stress privately where **rhyme** stayed data, not rally.
+---
 
-Hyper-G **Tertius** veterans warned about **wrong weight** in blast doors; Vitreus veterans warned about **wrong light** in viewscreens — both warnings rhymed with Silica glare: different weather, same organism paying interest.
+## III. Chalk and Knuckle — Do Not Answer Your Name
 
-The **reading** beat was auspex turned into **cross-examination**: **Drusus** forced duplicate returns to testify against each other — same mass, same thermal, two origins that could not both be true — until the lie resolved into **kin geometry** and the only honest display read *contaminated corridor; seal order mandatory*.
+**Sergeant Kessler** walked auxilia lines with chalk and knuckle-rap codes resurrected from Vitreus and gulf — because mirrors punish **eyes** first — until men stopped answering their own names when reflection answered first.
 
-**Valerius** moved manifests like chess played underwater — who boards last, what crate dies, which corridor becomes **negative space** — because mirror war eats **paper** if paper pretends it is still neutral.
+Three fingers for *hold*. One for *do not look at bulkhead like it is mirror* — bridge lesson that had outlived every pole it was born on.
 
-Mirror-route officers — *expected variance* stacked beside empty chairs — flinched when confidence intervals tightened because grief and throughput tried to merge again; **Valerius** slid duplicate sheets until grief stayed grief and quotas stayed quotas, margins touching only where someone wrote *held* and crossed it out — **DO NOT MERGE** refusing invasion dressed as efficiency even when glass pretended neutrality.
+Queues at sealed hatches learned **touch-taps** when *vox* turned to strips — knuckle code older than brand — because panic dressed as static recruited faster than bolts when harmonics mimicked **Servitor kneel cadence** learned in dynastic overrides.
 
-**Skitarii** liaisons tried **first touch** *priority samples* at seal zones until **NON-COMPLIANT** met them in ink — because *touched* could mean *taken* and the Chapter’s file on first touch was already thick with **skin** from other poles.
+Night cycles traded lamp codes until **Lex Ignis** clocks aligned with Mechanicus wheels. Water points ran sour. **ROTATE** became liturgy for throats raw from whisper-lock.
 
-Strategium night staff learned to fear **reconciliation** packages the way infantry learned to fear **secure** — words that let you sleep while someone else paid for the dream — until **Valerius** crossed *reconciliation* out and wrote *witness route only* in margins too plain to parade.
+Hyper-G **Tertius** veterans warned about **wrong weight** in blast doors. Vitreus veterans warned about **wrong light** in viewscreens. Both warnings rhymed with Silica glare: different weather, same organism paying interest.
 
-**Santo** hauled purge crates until shoulders learned **interest** — **useful** the way forges are useful — **Mira Kell** kept two ink colors on the same knuckles: *surviving* and *surviving honest* — refusing merges the way **Valerius** refused merges upstairs — even when honesty meant stacking names mirrors wanted to rename as *accepted losses*.
+**Reading** beat was auspex turned into **cross-examination**: Drusus forced duplicate returns to testify against each other — same mass, same thermal, two origins that could not both be true — until lie resolved into **kin geometry** and only honest display read *contaminated corridor; seal order mandatory*.
 
-Children behind crates drew arrows until parents scrubbed them away — **Kessler** forbade **Merit** pict rigs near mirrored bulkheads because *comfort* could become **folk liturgy** faster than blast doors could seal when glass smiled.
+Valerius moved manifests like chess played underwater — who boards last, what crate dies, which corridor becomes **negative space** — because mirror war eats **paper** if paper pretends it is still neutral.
 
-**Mirror pilots** — men and women who had learned to fly lies and call it navigation — sacrificed ships like saints offering **eyes** — **burn the glass**, **kill the reflection** — trading hull integrity for a second of **clean** signal, a void where the brood’s geometry could not bounce, could not **multiply**, could not pretend kinship was still kinship.
+Mirror-route officers flinched when confidence intervals tightened because grief and throughput tried to merge again. Valerius slid duplicate sheets until grief stayed grief and quotas stayed quotas — **DO NOT MERGE** refusing invasion dressed as efficiency even when glass pretended neutrality.
+
+Skitarii liaisons tried **first touch** on *priority samples* at seal zones until **NON-COMPLIANT** met them in ink — because *touched* could mean *taken* and Chapter’s file on first touch was already thick with **skin** from other poles.
+
+Santo hauled purge crates until shoulders learned **interest**. Mira kept two ink colors on same knuckles: *surviving* and *surviving honest* — refusing merges the way Valerius refused merges upstairs — even when honesty meant stacking names mirrors wanted to rename as *accepted losses*.
+
+Children behind crates drew arrows until parents scrubbed them away. Kessler forbade Merit pict rigs near mirrored bulkheads because *comfort* could become **folk liturgy** faster than blast doors could seal when glass smiled.
+
+---
+
+## IV. Mirror Pilots — Burn the Glass
+
+**Mirror pilots** — men and women who had learned to fly lies and call it navigation — sacrificed ships like saints offering **eyes**.
+
+**Burn the glass. Kill the reflection.**
+
+Trading hull integrity for second of **clean** signal, void where brood’s geometry could not bounce, could not **multiply**, could not pretend kinship was still kinship.
 
 They died without poetry mostly because poetry belongs to survivors and pilots know that better than bard-guilds.
 
-**Threx** — redemption and damnation braided in the same cable — stood in a **hangar** lit by emergency wash and screamed at a **cogitator** stack as if volume could indict machine-spirits, roaring that ***Compliance*** built this corridor, ***compliance*** widened the lane, ***compliance*** made the reflection **rich enough** for nest — an accusation part truth and part terror, which is how heresy disguises itself as **insight**.
+When brood **broke**, it broke **dirty** — not defeat performed in banners but rupture, bodies in places bodies should not be, reflections continuing for half heartbeat after glass died, trust unrecoverable even among living because **doubt** had become smart — while Silica kept glittering, innocent as blade wiped and resheathed, and Chapter kept moving, which was only romance left in mirror war: **forward**, even when mirror still showed something walking beside you that was not **friend**.
 
-**Drusus** stood beside him long enough to be witness and answered *yes* — **yes**, mechanized appetite helped sketch the topology, **yes**, your kind’s hunger and their kind’s hunger rhymed — without offering **comfort** as solvent, because comfort would have made the moment *forgettable* and Drusus did not want Threx to forget.
+**Kadmos** cut pict feed at relay — channel hygiene — because burn-the-glass pilots died without poetry and poetry belonged to survivors while mirrors listened for seams in cable-hum.
 
-When Threx ran out of breath, the hangar did not reward him with quiet — only **less** shouting — until **Kessler** traced a shallow arc on the deck plating with chalk and tapped once: **witness**.
+---
 
-**Merit’s** pict team lingered at the hatch lip with lenses capped — **documentation** itching in their fingers — until **Kadmos** cut the feed at the relay, not cruelty but **channel hygiene**, because a recorded rant could become **folk liturgy** by morning if morale officers mistook rage for doctrine.
+## V. Threx Screams Compliance — Drusus Says Yes
 
-Drusus stayed long enough for Threx’s pulse to settle into something chartable — **sequence**, not sermon — then walked the corridor toward the medicae annex the way you walk a loaded weapon toward a clearing: slowly, visibly, hands where crew could see them.
+**Threx** — redemption and damnation braided in same cable — stood in **hangar** lit by emergency wash and screamed at **cogitator** stack as if volume could indict machine-spirits, roaring that ***Compliance*** built this corridor, ***compliance*** widened lane, ***compliance*** made reflection **rich enough** for nest — accusation part truth and part terror, which is how heresy disguises itself as **insight**.
 
-Somewhere aft, **Sigma bleed** flirted with a duplicate thermal return until juniors forced **intervals** again — ghost mass dressed as gossip — because Silica’s favorite trick was making the fleet argue with itself while mirrors listened.
+**Drusus** stood beside him long enough to be witness and answered:
 
-**Valerius** did not descend to argue with volumes; his stamp traveled on paper instead — **double-stamp** on a discharge tag that refused to merge **rage** with **throughput**, two debts acknowledged without pretending one paid the other.
+— Yes.
 
-A **Genetor**’s hands **shook** over a sampler that had become **temptation** dressed as duty until an **Apothecary**’s hands — **Drusus’s** hands, steadied by practice older than this war — **steadied** them in strange **liturgy** that was not prayer but **restraint** translated through palms — *you will not manufacture a second front inside my work*, repeated without theatrics, only **pressure**.
+**Yes**, mechanized appetite helped sketch topology. **Yes**, your kind’s hunger and their kind’s hunger rhymed — without offering **comfort** as solvent, because comfort would have made moment *forgettable* and Drusus did not want Threx to forget.
 
-**Varro**, **Executor** helm catching emergency light like bone under glass, sealed corridors with rites and **promethium** *again*, repetition not banality but **discipline**, the chaplain’s admission that the Immaterial listens for **laziness** and slides through the gap where a tired mind decides *we already did this once*, because there is no *once* with mirrors, only **loop**.
+When Threx ran out of breath, hangar did not reward him with quiet — only **less** shouting — until Kessler traced shallow arc on deck plating with chalk and tapped once: **witness**.
+
+Merit’s pict team lingered at hatch lip with lenses capped — **documentation** itching in fingers — until Kadmos cut feed at relay, not cruelty but **channel hygiene**, because recorded rant could become **folk liturgy** by morning if morale officers mistook rage for doctrine.
+
+Drusus stayed long enough for Threx’s pulse to settle into something chartable — **sequence**, not sermon — then walked corridor toward medicae annex the way you walk loaded weapon toward clearing: slowly, visibly, hands where crew could see them.
+
+Somewhere aft, **Sigma bleed** flirted with duplicate thermal return until juniors forced **intervals** again — ghost mass dressed as gossip — because Silica’s favorite trick was making fleet argue with itself while mirrors listened.
+
+Valerius did not descend to argue with volumes. His stamp traveled on paper instead — **double-stamp** on discharge tag that refused to merge **rage** with **throughput**, two debts acknowledged without pretending one paid other.
+
+---
+
+## VI. Geometry Over Pity
+
+**Genetor’s** hands **shook** over sampler that had become **temptation** dressed as duty until Apothecary’s hands — Drusus’s hands, steadied by practice older than this war — **steadied** them in strange **liturgy** that was not prayer but **restraint** translated through palms.
+
+— You will not manufacture second front inside my work — Drusus said, without theatrics, only **pressure**.
+
+**Varro**, Executor helm catching emergency light like bone under glass, sealed corridors with rites and **promethium** *again*, repetition not banality but **discipline**, chaplain’s admission that Immaterial listens for **laziness** and slides through gap where tired mind decides *we already did this once*, because there is no *once* with mirrors, only **loop**.
 
 **Alaric** chose **geometry** over **pity** — not because pity was evil but because pity, undisciplined, feeds **vectors**, *save everyone here* becoming *infect everyone tomorrow* with horrible ease.
 
-He did not speak the Chapter’s iron answer as liturgy on open channels. He chose corridors and seals and negative space — hinge-work measurable in blast doors and written-off convoys — while **Vermilion** harness and **Alpha** watch still framed what mercy could sound like when it wore a locking door.
+He did not speak Chapter’s iron answer as liturgy on open channels. He chose corridors and seals and negative space — hinge-work measurable in blast doors and written-off convoys — while **Vermilion** harness and **Alpha** watch still framed what mercy could sound like when it wore locking door.
 
-**Iria**, aboard a tender spine miles off the worst glass, heard the choice in vox timbre, how it went flat, how it went **clean**, how mercy learned to wear the sound of a door **locking**, and *forgave* without being asked, forgiveness in her mouth not softness but **recognition**: tides do not apologize; they **recede**, they **return**, they **take** what belongs to them.
+**Iria**, aboard tender spine miles off worst glass, heard choice in *vox* timbre, how it went flat, how it went **clean**, how mercy learned to wear sound of door **locking**, and *forgave* without being asked, forgiveness in her mouth not softness but **recognition**: tides do not apologize; they **recede**, they **return**, they **take** what belongs to them.
 
-She traded **active silence** with engineers tempted to KPI the lockdown — silence meant *do not rename sacrifice as throughput* — until tide vocabulary stayed tide vocabulary and did not metastasize into slides about *reflection resilience scores*.
+She traded **active silence** with engineers tempted to KPI lockdown — silence meant *do not rename sacrifice as throughput* — until tide vocabulary stayed tide vocabulary and did not metastasize into slides about *reflection resilience scores*.
 
-Wind off the tether tasted like ozone and cold sugar; she breathed it anyway — breathing proved somebody still negotiated with bodies instead of only with yield curves.
+Wind off tether tasted like ozone and cold sugar. She breathed it anyway — breathing proved somebody still negotiated with bodies instead of only with yield curves.
 
-**Triumvirate briefings** shrank to minutes — minutes meaning lives — especially when **Echo** listened for seams in cable-hum, **tide**-shaped harmonics, and reflection-grilles pretending to be neutral instruments while brood harmonics climbed without stars changing.
+---
 
-When the brood **broke**, it broke **dirty** — not as defeat performed in banners but as rupture, bodies in places bodies should not be, reflections continuing for half a heartbeat after the glass died, trust unrecoverable even among the living because **doubt** had become smart — while Silica kept glittering, innocent as a blade wiped and resheathed, and the Chapter kept moving, which was the only romance left in mirror war: **forward**, even when the mirror still showed something walking beside you that was not **friend**.
+## VII. Trust Debt — Smart Enough to Hurt
+
+Triumvirate briefings shrank to minutes — minutes meaning lives — especially when Echo listened for seams in cable-hum, **tide**-shaped harmonics, and reflection-grilles pretending neutral while brood harmonics climbed without stars changing.
 
 Casualty boards filled twice — once for flesh beside glass and flame, once for minds bent before hearts broke — because **witness priority** demanded honesty uglier than slides wearing *acceptable variance* like lipstick — honesty nobody could salute cleanly, only **hold**.
 
-An ensign tried to SUM the columns into a single **KPI** until **Iria** stopped the stylus with a pencil line.
+Ensign tried to SUM columns into single **KPI** until Iria stopped stylus with pencil line.
 
-— No — she said. — You do not compress **witness** into **efficiency**. The tether wind already had teeth, and the numbers did too.
+— No — she said. — You do not compress **witness** into **efficiency**. Tether wind already had teeth, and numbers did too.
 
-**Drusus** appended a closing margin for translation burn — *mirror-brood coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained across three intervals; record seal latency beside biomarkers without merging columns prematurely* — not prophecy, **sequence**.
+Strategium night staff learned to fear **reconciliation** packages the way infantry learned to fear **secure** — words that let you sleep while someone else paid for dream — until Valerius crossed *reconciliation* out and wrote *witness route only* in margins too plain to parade.
 
-**Valerius** stamped the embarkation slate toward **Prism War** twice — once for ceramite continuity under **glare discipline**, once for mortal chains still solvent — because prisms taxed both ledgers — interest collecting teeth before receipts — quiet decks and loud strategiums alike — **double-stamp** discipline traveling pole to pole like mercy shaped like paperwork — stubborn, thin, honest enough to cut when staff tried to merge grief into throughput.
+Drusus appended closing margin for translation burn — *mirror-brood coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained across three intervals; record seal latency beside biomarkers without merging columns prematurely* — not prophecy, **sequence**.
 
-The Strategium filed **Silica mirror-brood nest collapsed; trust debt elevated; convoy doctrine revision mandatory** — dry words doing the only mercy they know: making tomorrow admit what glass **ate**.
+Valerius stamped embarkation slate toward **Prism War** twice — once for ceramite continuity under **glare discipline**, once for mortal chains still solvent — because prisms taxed both ledgers.
+
+Strategium filed **Silica mirror-brood nest collapsed; trust debt elevated; convoy doctrine revision mandatory** — dry words doing only mercy they know: making tomorrow admit what glass **ate**.
+
+---
+
+## VIII. Iron That Stayed — Reflection Walks Beside
+
+Trust had become smart enough to hurt — and **witness priority** had been born in silence zones where Varro’s curved routes saved names the straight line would have erased, the same grammar Silica now tested with glass that smiled with wrong teeth.
 
 Guides chalked **correction arcs** on hatch coamings until chalk dust mixed with glass grit and looked like frost — nobody laughed at frost jokes twice — because humor could become **folk liturgy** faster than purge cycles could cleanse it.
 
-Forgemasters erased chalk ticks where they could so reckoning maps could not migrate into Merit mood-boards — witness guarded like ammunition — while bondsmen stacked duplicate pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright — thin edges honest in the same hand that carried stamps twice without pretending one debt paid the other — **hold** and **witness** different ledgers even when polish pretended otherwise — because Silica taxed both before it taxed hulls — interest collecting teeth before receipts — quiet glass and loud orbit alike — always alike, always owed.
+Forgemasters erased chalk ticks so reckoning maps could not migrate into Merit mood-boards — witness guarded like ammunition — while bondsmen stacked duplicate pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright.
 
-**Kessler** walked the last sealed hatch with chalk on her knuckles and one finger raised at a viewport that smiled with wrong teeth. Behind her, mirror pilots had burned glass clean for a second at a time, Threx had screamed *compliance* until Drusus said *yes*, and trust had become smart enough to hurt.
+**Hold** and **witness** different ledgers even when polish pretended otherwise — because Silica taxed both before it taxed hulls.
 
-**Der Batav** had named iron that stayed. Silica asked whether iron could stay when reflection walked beside it. Prisms ahead would sharpen the question until light itself became debt.
+**Kessler** walked last sealed hatch with chalk on knuckles and one finger raised at viewport that smiled with wrong teeth.
+
+**Merit** tried to clip a recorder to a mirror-pilot’s debrief until **Valerius** stamped **NON-COMPLIANT** beside *trust debt elevated* — witness routes only, no throughput dressed as piety — and even **Threx** winced when optics threatened to audit souls without breaking them.
+
+**Drusus** saved the trust-debt line under *convoy doctrine revision mandatory* — bruise on every manifest — because bruises were sometimes the only honest map when glass lied politely. **Sera** re-taped blue fiber behind a pressure door where red call trunks still carried conscience when harmonics ate the first line.
+
+**Santo** hauled relief through strobing junctions until shoulders learned **interest** — same grammar skin debt had taught on gulf spines, same grammar Incus had taught with quota chant — while **Mira** kept two ink colors on one knuckle and refused merges the way Valerius refused merges upstairs.
+
+Behind her, mirror pilots had burned glass clean for second at a time, Threx had screamed *compliance* until Drusus said *yes*, and trust had become smart enough to hurt.
+
+Alaric had chosen geometry over pity. Varro had sealed loops with promethium. Kadmos had enforced silence as hygiene. Drusus had steadied shaking hands without comfort.
+
+**Iria** had stopped the clerk at twice — *once is witness; twice is training the enemy paid for* — and the sentence would travel forward to council rooms where iron men’s self-designations threatened to become **folk liturgy** unless someone with tide-habit refused spectacle.
+
+**Threx** filed *array governance friction; yield preserved* beside *Chapter refuses unverified coupling claims* — same appetite, different costume — until Valerius stamped *witness route only* and made friction look like **solvency** written in duplicate pages nobody could merge without choking.
+
+**Der Batav** had named iron that stayed.
+
+Silica asked whether iron could stay when reflection walked beside it.
+
+**Alaric** stood at Silica lip one minute after trust debt filed and did not lift his helm — continuity, not spectacle — because lifting would have turned *Der Batav* into **theater** before the iron had learned to stay. Mirror brood had taught bruises as honest map when glass lied politely; prisms ahead would sharpen question until light itself became debt.
+
+**Iria**’s *Not yet* blinked on uplink beside a denial that was not cruelty but **schedule** — the same blink that had kept tide-names from becoming prophecy before shoulders learned weight.
+
+**Kessler** walked last glass aisle with auxilia pockets turned inside-out and three fingers raised at reflection that caught light wrong — witness route only, no throughput dressed as reconciliation.
+
+Prisms ahead would sharpen question until light itself became debt. **Drusus** saved the trust-debt line under *convoy doctrine revision mandatory* — bruise on every manifest — because bruises were sometimes the only honest map when glass lied politely.
+
+**Kadmos** enforced silence as hygiene on open channels where mirror-pilot debriefs tried to turn reflection into **story** — *Furor* vocabulary beside trust debt could invent cult velocity faster than purge cycles could answer — and saved one line under Triumvirate seal: *treat clean signal as debt until disproven*.
+
+**Threx** filed *array governance friction; yield preserved* one last time beside *Chapter refuses unverified coupling claims* — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like **solvency** written in duplicate pages nobody could merge without choking.
+
+**Iria** stopped a clerk at *twice* — *once is witness; twice is training the enemy paid for* — and the sentence would travel forward to prisms where light itself became debt the Chapter would have to hold without letting beauty invoice the dead twice.
+
+**Valerius** stamped embarkation toward **Prism War** twice — Marine continuity beside mortal chains still solvent — because Silica’s trust debt would tax both ledgers when reflection walked beside iron.
+
+**Alaric** stood at Silica lip one minute after trust debt filed and did not lift his helm — continuity, not spectacle — because lifting would have turned *Der Batav* into **theater** before the iron had learned to stay. Bruises on every manifest were sometimes the only honest map when glass lied politely.
+
+**Merit** tried once to clip a recorder to mirror-brood hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as reconciliation packages before bruise on every manifest was attested.
+
+**Kadmos** cut pict feed at relay one last time — channel hygiene — because burn-the-glass pilots died without poetry and mirrors listened for seams in cable-hum before Silica kept glittering innocent as blade wiped and resheathed.
+
+**Threx** watched pict-thief feeds scrubbed clean and called loss **acceptable signal hygiene** — beach did not ask his opinion, which was also verdict.
+
+**Echo** listened at Silica glass for harmonics not yet **tide**-shaped — filing trust debt as sequence before Prism War earned attested injury.
+
+**Sera** tagged Silica embarkation *monitor only* until Pol seed starved merge columns.
+
+**Orwen** filed mirror-brood timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than glass lied politely.
+
+**Pol**'s seed — monitor only — would rhyme with glass coupling until Drusus starved merge with Silica filings.
+
+**Kessler** walked last glass aisle with auxilia pockets turned inside-out and three fingers raised at reflection that caught light wrong — witness route only.
+
+**Alaric** counted trust-debt one last minute on the lip — hinge-work — and did not say *We hold* as borrowed liturgy.
+
+**Santo** heard glass tick once more and did not look at hololiths naming *trust debt*. Looking would have turned embarkation into spectacle.
+
+**Mira** stacked Silica tallies beside trust-debt manifests without applause — witness without throughput.
+
+**Merit** steadied slate on Silica catwalk — witness without applause — because trust-debt traveled faster than sermons when glass lied politely.
+
+**Varche** logged Silica embarkation on Navy pane without romance — intervals, not closure — because trust debt would tax both ledgers when reflection walked beside iron.
+
+
+
+
+
+
+
+**Iria**'s *Not yet* blinked on uplink beside denial that was not cruelty but **schedule** — the same blink that had kept tide-names from becoming prophecy before prisms sharpened light into debt.
+
+Interest collecting teeth before receipts.
+
+Quiet glass. Loud orbit.
+
+Always owed.
 
 ---
+
 **End of Chapter 31**
 
 **Next:** [Prism War](../prism-war/chapter.md) · Q4 · CV y22–y29

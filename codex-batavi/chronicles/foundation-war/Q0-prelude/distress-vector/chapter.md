@@ -112,6 +112,8 @@ He turned from the sarcophagus bay at last and walked toward the Strategium, eac
 
 The Strategium was a room built to worship geometry. Hololiths floated in disciplined silence, systems rendered as wounds you could label. Officers moved like nerves around a spine. The wolf-mark banners hung in the corners, their presence an accusation: *you fly this sign, but you do not know why.* The mortal crew called it a wolf because mortals named silhouettes. The Administratum called it an unauthorized heraldry element pending verification. The Chapter called it nothing in speech and everything in posture.
 
+**Kadmos** marked the nine wounds on a slate he did not show the hololith — geometry as insurance — because hunger dressed as legitimacy still required witness before throughput dressed it as charter packages admiralties could sleep on.
+
 Drusus stood at a secondary hololith, gauntlets stained with the sort of red no scrubber could fully erase. His helm lenses angled toward Alaric as if to confirm the obvious: you are here; therefore we continue.
 
 — Radulf’s internment buys time — Drusus said. He did not say *saves him*. Apothecaries did not waste words on sentiment when function was what kept you alive. — It does not buy legitimacy. The injury profile matches the pursuit chain. That will be used against us.
@@ -199,7 +201,9 @@ The officer held the slate out as if it might bite.
 
 The words were polite. That was what made them obscene. Politeness implied familiarity. Familiarity implied eyes.
 
-Valerius’s voice dropped, not from fear but from the instinct to speak quietly around a predator.
+**Merit** — not yet named on roster, only a remembrancer's itch in Valerius's margin — would later learn recorders clipped to hololiths named *compliance* were debt Moon Hunt would spend in courthouse alphabets. Valerius killed the thought before the clip clicked: witness routes only.
+
+Valerius's voice dropped, not from fear but from the instinct to speak quietly around a predator.
 
 — That name isn’t public — he said. — Not that exact header. Not that stamp.
 
@@ -228,6 +232,8 @@ Valerius’s mouth tightened.
 — Insula — he repeated, tasting the word like unfamiliar wine. — Administratum have that subsector under provisional seal. **Castra Vetera** mesh. Fringe limes. She should not have a charter we have not seen.
 
 — She has seen our filing name — Drusus said. — That is the more interesting pathology.
+
+**Varro** listened at the vox arrays for harmonics that were not prayer — *Codex* death-skull geometry still, Executor jawline years down the annals — and filed the distress packet as proto-rite: seal attempted, not victory, because imitation keys were sometimes the only vaccine when void pretended it knew hull names.
 
 The door opened.
 
@@ -277,6 +283,8 @@ Thornwake lifted a hand, stopping an argument she had seen before.
 
 She nodded to her factor. The factor stepped forward and placed the coffin-slate on the table beside Valerius’s dossier of erasures. Hololith light woke across its surface: star-lines, hazard bands, a narrow braid marked in amber — **PROVISIONAL: THORNWAKE ROUTE / NOT CHART-HOUSE SEALED**.
 
+**Kadmos** read the amber braid without touching it — witness before throughput — because provisional charts were posture not packages and **Insula Tenebrarum** would tax both ledgers before **Castra Vetera** mesh earned a name the Chapter could salute without lying.
+
 Varro’s silence broke into words, each one placed like a stone.
 
 — Provisional — he said. — That is a confession.
@@ -325,17 +333,32 @@ Varro’s silence became, briefly, shelter.
 
 The vox-officer swallowed and waited for the final order.
 
-Alaric did not dress it in hymn. He did not pretend it was destiny. He gave it the only dignity he trusted: procedure.
+Alaric did not say *We hold.* The word belonged to cordons not yet built, to firebases not yet named, to boys whose sentences still rode in futures the pier had not yet filed. Holding, tonight, was procedure disguised as motion — engines waking like teeth grinding in sleep. He did not dress it in hymn. He did not pretend it was destiny. He gave it the only dignity he trusted: procedure.
 
 — Prepare translation — he said. — Accept Thornwake’s escort charter and the Mechanicus observer. Flag every warp leg under **CV annals** from the hour we commit. If the void is watching, we will not give it the luxury of a single ledger.
 
-The officer moved. Orders became motion. The ship’s hum changed pitch, engines waking like teeth grinding in sleep.
-
+The officer moved. Orders became motion.
 Somewhere deep in the sarcophagus bay, a machine kept Radulf alive by refusing to let him be whole. Alaric felt the shape of that refusal in his own new title and understood why the Chapter loved the hunt: because hunting felt like becoming whole, and wholeness felt like safety, and safety was the only prayer soldiers ever truly meant.
 
 The distress packet sat on the slate with its polite thanks.
 
-The Grey Hounds began to run — behind a Rogue Trader’s amber braid, toward a crucible that did not yet have their name.
+The Grey Hounds began to run — behind a Rogue Trader's amber braid, toward a crucible that did not yet have their name.
+
+**Kadmos** would hold Thornwake's honor line on the outer ring — witness before throughput — because joint review was posture not package and **Castra Vetera** mesh would tax both ledgers before the Chapter earned a name it could salute without lying.
+
+**Drusus** appended a private margin for translation burn — *Thornwake partial chart; treat as sequence only until attested; do not brief captains* — not prophecy, **sequence**, because briefing would have turned amber braid into **oracle** before Moon Hunt taught the pier that live alphabets could die in courthouses.
+
+**Valerius** stamped the departure slate twice — Marine continuity beside mortal witness count intact — because parallel filing was sometimes the only mercy institutions could afford before integers opened ash.
+
+**Echo** listened at translation burn for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing amber braid as sequence before Moon Hunt taught pier that live alphabets could die in courthouses.
+
+**Sera** tagged departure handshake *monitor only* until Pol seed starved merge columns and Mud Gospel earned attested injury at CV hour zero.
+
+Interest collecting teeth before receipts.
+
+Grey Hounds running. Amber braid. Crucible unnamed. Radulf refusing wholeness in sarcophagus bay.
+
+Always owed.
 
 ---
 **Next:** [Mud Gospel](../../Q1-moon-hunt/mud-gospel/chapter.md) · Q1 · CV y0–y7
