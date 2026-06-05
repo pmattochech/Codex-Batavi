@@ -84,9 +84,9 @@ He said it anyway.
 
 The air tightened. Not theatrically. Like a pressure door sealing.
 
-— The Old Wolf, Alaric said.
+— The Old Wolf — Alaric said.
 
-— Leviathan chassis, Guilliman added, clinical.
+— Leviathan chassis — Guilliman added, clinical.
 
 — Yes.
 
@@ -116,7 +116,7 @@ Alaric’s reply was immediate.
 
 Guilliman turned back to the wall, to the sections of numbers that were not battle lines — industrial output, wake protocols, arming-vault schedules, the boring work that keeps wars possible.
 
-— Your numbers, Guilliman said.
+— Your numbers — Guilliman said.
 
 Alaric did not deny the premise.
 
@@ -150,9 +150,9 @@ Alaric answered flatly.
 
 — Purpose is a constraint.
 
-— Who decides, Guilliman pressed.
+— Who decides — Guilliman pressed.
 
-— The Triumvirate, Alaric said.
+— The Triumvirate — Alaric said.
 
 Guilliman’s expression tightened.
 
@@ -208,7 +208,7 @@ Alaric’s reply did not change.
 
 Guilliman turned away again, back to the wall, as if giving the man the dignity of not being watched while he was measured.
 
-— I have seen this tension before, Guilliman said quietly. — A man holding an empire’s weight in his hands, trying to make himself into the thing that will not break, because the alternative is unacceptable.
+— I have seen this tension before — Guilliman said quietly. — A man holding an empire’s weight in his hands, trying to make himself into the thing that will not break, because the alternative is unacceptable.
 
 A brief pause. Guilliman’s expression tightened with something that was not politics.
 
@@ -238,7 +238,7 @@ Alaric answered simply.
 
 Guilliman held still.
 
-— You said the Legati carried you through the Silent Vigil, Guilliman said, turning back. — Not you.
+— You said the Legati carried you through the Silent Vigil — Guilliman said, turning back. — Not you.
 
 Alaric did not deny it.
 
@@ -288,7 +288,7 @@ Guilliman’s expression tightened with recognition.
 
 Guilliman stepped back, and the room released a fraction of pressure with him.
 
-— Then your structure will be tolerated, he said. — And it will be audited.
+— Then your structure will be tolerated — he said. — And it will be audited.
 
 A pause.
 

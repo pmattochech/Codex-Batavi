@@ -20,7 +20,7 @@ Alaric’s voice was the same sparse instrument it had been before.
 
 Guilliman took one step, then another, not toward Alaric, but toward the chair. He did not sit. He touched the backrest with two fingers, as if verifying it was real.
 
-— I have asked a thousand commanders about doctrine, Guilliman said. They answer because doctrine is safe. It is armor.
+— I have asked a thousand commanders about doctrine — Guilliman said. — They answer because doctrine is safe. It is armor.
 
 He looked up.
 
@@ -40,7 +40,7 @@ The air seemed to tighten. Not theatrically. Like a pressure change.
 
 Alaric’s helm remained forward. Guilliman could not see eyes through the lenses, but he could see what mattered: the body did not move away from the blow. It simply absorbed it.
 
-— He is not “entombed,” Alaric said. — He is sustained.
+— He is not “entombed” — Alaric said. — He is sustained.
 
 Guilliman’s expression did not change, but his tone did — fractionally, into something that acknowledged the insult without punishing it.
 
@@ -102,7 +102,7 @@ Alaric did not flinch.
 
 That was worse.
 
-— I have read the sealed record of what he did, Guilliman continued. The way he spoke. The way he turned command into a weapon. The way he offered relief as if it were virtue.
+— I have read the sealed record of what he did — Guilliman continued. — The way he spoke. The way he turned command into a weapon. The way he offered relief as if it were virtue.
 
 He watched the still figure in front of him.
 
@@ -112,7 +112,7 @@ Alaric’s answer was careful.
 
 — Permission is the door.
 
-— And Valerius was the hand on the latch, Guilliman said.
+— And Valerius was the hand on the latch — Guilliman said.
 
 Alaric said nothing.
 
@@ -138,7 +138,7 @@ Alaric’s next words came slower.
 
 Guilliman did not move. He did not react as a ruler. He reacted as a man hearing a knife slide between ribs.
 
-— Repeat that, he said softly.
+— Repeat that — he said softly.
 
 Alaric obeyed without performance.
 
@@ -156,7 +156,7 @@ Guilliman drew a breath that sounded almost human in its restraint.
 
 — You are describing half the Imperium.
 
-— Yes, Alaric said. — That is why it was effective.
+— Yes — Alaric said. — That is why it was effective.
 
 Guilliman’s hand tightened, briefly, on the chair’s backrest. The metal creaked.
 
@@ -186,7 +186,7 @@ Alaric’s voice steadied into its most dangerous form: absolute simplicity.
 
 — We learn.
 
-— You incorporate other Chapters’ cultures, Guilliman said, not as accusation but as an observed fact. — You take valor and make it part of you.
+— You incorporate other Chapters’ cultures — Guilliman said, not as accusation but as an observed fact. — You take valor and make it part of you.
 
 Alaric did not deny it.
 
@@ -242,7 +242,7 @@ Alaric’s voice dropped.
 
 — Once.
 
-— To the sons of Sanguinius, Guilliman said, confirming with sealed certainty.
+— To the sons of Sanguinius — Guilliman said, confirming with sealed certainty.
 
 Silence.
 
@@ -280,7 +280,7 @@ Guilliman’s eyes narrowed.
 
 — That is not your doctrine.
 
-— No, Alaric said. — It is theirs.
+— No — Alaric said. — It is theirs.
 
 Guilliman understood. In an instant he understood the peril hidden inside the Batavian method: not imitation, but incorporation. Not copying, but metabolizing. Alaric could take lessons from others and make them part of his operating system.
 
@@ -288,7 +288,7 @@ Even the ones that did not fit him.
 
 Especially the ones that did not fit him.
 
-— Which primarch taught you to gamble, Guilliman asked.
+— Which primarch taught you to gamble — Guilliman asked.
 
 Alaric’s voice did not change.
 
@@ -304,13 +304,13 @@ Alaric’s answer was honest in the worst way.
 
 Guilliman felt something cold move through him — not suspicion, not disgust. Recognition of a kind of courage he rarely encountered: the courage to admit uncertainty without collapsing into it.
 
-— Then do not do it, Guilliman said.
+— Then do not do it — Guilliman said.
 
 Alaric did not move.
 
 Guilliman realized, with a sudden tightness in the throat, that the permission had already been granted — not by Guilliman, but by Alaric himself. The door was open inside him, and he was deciding whether to close it again before something entered.
 
-— You said permission is the door, Guilliman said quietly.
+— You said permission is the door — Guilliman said quietly.
 
 Alaric’s voice was nearly a whisper.
 
@@ -372,7 +372,7 @@ Alaric’s gaze held. The altered features did not distort into rage. They did n
 
 They remained controlled, almost painfully so.
 
-— You asked about the man, Alaric said. — The man is the one who keeps the rule.
+— You asked about the man — Alaric said. — The man is the one who keeps the rule.
 
 Guilliman answered softly.
 
@@ -380,11 +380,11 @@ Guilliman answered softly.
 
 Alaric’s mouth moved in something that was not quite a smile and not quite the memory of one. A micro-expression that looked like a habit the body did not fully remember how to enact.
 
-— Yes, Alaric said. — That is the gamble.
+— Yes — Alaric said. — That is the gamble.
 
 Guilliman’s eyes stayed on his.
 
-— Tell me about Valerius as a man, Guilliman said. — Not as a traitor.
+— Tell me about Valerius as a man — Guilliman said. — Not as a traitor.
 
 Alaric’s throat worked once.
 
@@ -396,7 +396,7 @@ Guilliman’s expression tightened.
 
 — That is not a justification.
 
-— No, Alaric said. — It is the vector.
+— No — Alaric said. — It is the vector.
 
 He inhaled. Slowly. Regulating himself in real time.
 
@@ -454,7 +454,7 @@ The hiss returned, and the room became safer again — not because the man was h
 
 Guilliman turned toward the door.
 
-— One last thing, he said.
+— One last thing — he said.
 
 Alaric waited.
 
