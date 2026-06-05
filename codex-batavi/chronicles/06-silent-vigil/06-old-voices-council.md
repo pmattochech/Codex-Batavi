@@ -197,3 +197,7 @@ That was appropriate. It was not a victory. It was a barricade built in advance 
 Varro terminated the session and the ring unlocked.
 
 The officers left in pairs and silence, each carrying a different share of the same burden: to keep Alaric from falling, and to ensure the Chapter remained standing if he did.
+
+---
+
+**Next:** [`06-post-voices-legatus-ring.md`](06-post-voices-legatus-ring.md) · ~545.M42 · nine-seat Ring consensus

@@ -7,7 +7,7 @@
 
 **Companion plans:** [`silent-vigil-contingency-protocol-plan.md`](silent-vigil-contingency-protocol-plan.md) · [`silent-vigil-access-matrix-plan.md`](silent-vigil-access-matrix-plan.md) · [`silent-vigil-expansion-scaffold.md`](silent-vigil-expansion-scaffold.md)
 
-**Chronicle anchors:** [`06-old-voices-council.md`](../chronicles/06-silent-vigil/06-old-voices-council.md) · [`08-protocol-forged-in-iron.md`](../chronicles/06-silent-vigil/08-protocol-forged-in-iron.md)
+**Chronicle anchors:** [`06-old-voices-council.md`](../chronicles/06-silent-vigil/06-old-voices-council.md) · [`06-post-voices-legatus-ring.md`](../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md) · [`08-protocol-forged-in-iron.md`](../chronicles/06-silent-vigil/08-protocol-forged-in-iron.md)
 
 ---
 
@@ -185,4 +185,4 @@ Substitution inherits **Tier A** custody **minus** kill-route segments the subst
 - [ ] `[P1]` Owner confirms **signatory order** and substitute map
 - [ ] `[P1]` Owner picks **default dissent** Legatus for narrative color
 - [ ] `[P2]` Promote §6 substitution table to doctrine or leave planning-only
-- [ ] `[P2]` Scene draft: full **nine-seat Ring** argument (not only Old Voices four)
+- [ ] `[P2]` Scene draft: full **nine-seat Ring** argument (not only Old Voices four) — **done:** [`06-post-voices-legatus-ring.md`](../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md)

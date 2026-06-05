@@ -1,10 +1,10 @@
 # [CHRONICLE] DECIMA GATEKEEPERS
 
 **Classification:** sealed implementation session — limited-custody execution design  
-**When:** **~545.M42** (immediately after [`06-old-voices-council.md`](06-old-voices-council.md))  
+**When:** **~545.M42** (immediately after [`06-post-voices-legatus-ring.md`](06-post-voices-legatus-ring.md))  
 **Where:** Noviomagus Prime — Decima drill vault / command lattice annex  
 **Who:** **Kadmos**, **Otho**, **Tyvar**, Decima execution cadres (restricted), oversight feeds from **Varro** and **Drusus**  
-**Cross-references:** [`06-old-voices-council.md`](06-old-voices-council.md) · [`../../personae-command-index/doctrine-and-organs/protocol-access-matrix.md`](../../personae-command-index/doctrine-and-organs/protocol-access-matrix.md)
+**Cross-references:** [`06-post-voices-legatus-ring.md`](06-post-voices-legatus-ring.md) · [`06-old-voices-council.md`](06-old-voices-council.md) · [`../../personae-command-index/doctrine-and-organs/protocol-access-matrix.md`](../../personae-command-index/doctrine-and-organs/protocol-access-matrix.md)
 
 ---
 

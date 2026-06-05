@@ -114,4 +114,4 @@ No single-office dependency is permitted.
 - Access governance: `protocol-access-matrix.md`
 - Related pathology: `crimson-wolf-rubor-thermicus.md`
 - Command structure: `military-hierarchy.md`
-- Chronicle chain: `../../chronicles/06-silent-vigil/05-fracture-recognition.md` · `../../chronicles/06-silent-vigil/06-old-voices-council.md` · `../../chronicles/06-silent-vigil/07-decima-gatekeepers.md` · `../../chronicles/06-silent-vigil/08-protocol-forged-in-iron.md` · `../../chronicles/06-silent-vigil/09-war-game-black-mirror.md` · `../../chronicles/06-silent-vigil/10-proof-of-chain.md`
+- Chronicle chain: `../../chronicles/06-silent-vigil/05-fracture-recognition.md` · `../../chronicles/06-silent-vigil/06-old-voices-council.md` · `../../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md` · `../../chronicles/06-silent-vigil/07-decima-gatekeepers.md` · `../../chronicles/06-silent-vigil/08-protocol-forged-in-iron.md` · `../../chronicles/06-silent-vigil/09-war-game-black-mirror.md` · `../../chronicles/06-silent-vigil/10-proof-of-chain.md`

@@ -63,6 +63,7 @@
 - [04-last-heat-of-the-wall.md](06-silent-vigil/04-last-heat-of-the-wall.md) ✅ — Martha’s kitchen, Elara as infant and childhood with Viggo, Viggo’s death (Elara age twelve, after Luna Sigma), Mantle of Providence, bones on Fenris.
 - [05-fracture-recognition.md](06-silent-vigil/05-fracture-recognition.md) ✅ — sealed recognition phase: Varro + Drusus map post-second Red Wolf breach pattern and open anti-inversion redundancy drafting.
 - [06-old-voices-council.md](06-silent-vigil/06-old-voices-council.md) ✅ — council ring session: Corbec + Armin support contingency codification; custody tiers and lethal terminal doctrine are stated.
+- [06-post-voices-legatus-ring.md](06-silent-vigil/06-post-voices-legatus-ring.md) ✅ — nine-seat Legatus Ring: dispute axes, Kessler dissent on record, Tier A/B/C assignment before Decima mechanics.
 - [07-decima-gatekeepers.md](06-silent-vigil/07-decima-gatekeepers.md) ✅ — Kadmos + Otho implementation phase: limited-custody execution drills, command gating, and Decima lock discipline under Tyvar oversight.
 - [08-protocol-forged-in-iron.md](06-silent-vigil/08-protocol-forged-in-iron.md) ✅ — doctrine ratification and boundary disclosure to Alaric (objective-only access, continuity-over-comfort accepted).
 - [09-war-game-black-mirror.md](06-silent-vigil/09-war-game-black-mirror.md) ✅ — controlled anti-Alpha validation exercise; Decima proves gate discipline under false-command pressure and noise injection.

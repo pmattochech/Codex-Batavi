@@ -58,6 +58,8 @@
   - Varro and Drusus identify post-second-event breach trend
 - [x] `[P0]` `codex-batavi/chronicles/06-silent-vigil/06-old-voices-council.md`
   - Corbec and Armin formally propose redundancy framework
+- [x] `[P1]` `codex-batavi/chronicles/06-silent-vigil/06-post-voices-legatus-ring.md`
+  - Nine-seat Legatus Ring consensus; Kessler dissent on record
 - [x] `[P1]` `codex-batavi/chronicles/06-silent-vigil/07-decima-gatekeepers.md`
   - Kadmos and Otho define execution boundaries and command gating
 - [x] `[P1]` `codex-batavi/chronicles/06-silent-vigil/08-protocol-forged-in-iron.md`
