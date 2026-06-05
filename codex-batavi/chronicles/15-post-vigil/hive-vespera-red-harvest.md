@@ -4,7 +4,9 @@
 **When:** **~189.M42** (mature post-Vigil era)  
 **Where:** Noviomagus Prime — Hive Vespera  
 **Who:** **Alaric von Helis** (noble-caste severance and house judgment), **Corbec Ardens** with **full I Prima** — line companies and specialized cohorts (**Silence**, **Shadows**, **Stasis**, **Nullity**) — lower-hive purge geometry, **Adeptus Arbites** (Marshal Acastian Vhal, Judge-Militant Serix) attached to **both** task columns, city population and noble houses of Vespera  
-**Cross-references:** [../06-silent-vigil/10-proof-of-chain.md](../06-silent-vigil/10-proof-of-chain.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §VI (*Nihili Protocol* staff beat)
+**Cross-references:** [../06-silent-vigil/10-proof-of-chain.md](../06-silent-vigil/10-proof-of-chain.md) · [../06-silent-vigil/06-post-voices-legatus-ring.md](../06-silent-vigil/06-post-voices-legatus-ring.md) · [`contingency-axiom-lupus.md`](../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §VI (~**189.M42**)
+
+**Geography lock:** **Insula Tenebrarum** · **Noviomagus Prime** (Chapter seat / forge-world) — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Internal purge — not frontier theater. **Loyalty doctrine:** personal devotion to command personae ≠ legal loyalty to Terra (Marshal Vhal addendum).
 
 ---
 
@@ -547,3 +549,9 @@ No report could quantify the silence that settled over its plazas at dusk, when 
 In the tenth year after Red Harvest, Strategium analysts logged Vespera at twelve percent above pre-secession output while medicae annexes still reported elevated panic signatures during siren shifts and security drills. The city functioned better than before and slept worse than before. Both outcomes were accepted as efficient.
 
 There were no monuments for Red Harvest in Vespera. The closest thing to memorial was an old drain gate in Lower Magistrate Lane that still rusted dark no matter how often crews repainted it. Workers passed it on shift change without pausing. In a city rebuilt as an asset ledger, remembrance that interrupted throughput had no sanctioned place.
+
+---
+
+**Staff filing:** Secession doctrine — idolatry of Castellan personae over Throne chain. **Corbec** / full *Prima* lower-hive lattice; **Alaric** upper spire house judgment. Specialty cohorts (**Silence**, **Shadows**, **Stasis**, **Nullity**) under purge geometry. Arbites co-supervision (Marshal Vhal, Judge-Militant Serix).
+
+**Prior chain law:** [10-proof-of-chain.md](../06-silent-vigil/10-proof-of-chain.md) · **Legatus Ring:** [06-post-voices-legatus-ring.md](../06-silent-vigil/06-post-voices-legatus-ring.md)

@@ -74,6 +74,10 @@
 * **175.M42 | Captain-General visit (calibration):**
   * *Event:* Trajann Valoris descends personally to Noviomagus Prime — not to validate, to audit. Triunvirate receives him with full transparency: descent to Black Cells, full briefing on Wolf’s Curse, Versibar capabilities and vulnerabilities, Testament protocols. *See:* [call-to-the-throne.md](../../chronicles/13-apotheosis/call-to-the-throne.md).
   * *Result:* Trajann does not free oversight. Increases permanent Custodes presence in subsector. Hands Tyvar ***Nihili Protocol*** — last-instance seal that, if activated, cascades Blackstone Pylons in **network overload** / **warp sterilization**, consuming the border mesh so traitors inherit nothing. Staff physics = **pylon cascade**, not time anomaly. *See:* [seal-of-the-portal.md](../../chronicles/13-apotheosis/seal-of-the-portal.md).
-  * *Administratum gloss:* **Insula Tenebrarum** / **Castra Vetera** mesh filed as critical **Nihilus** filter node; outward choke = **Witness Ford**. *(Retired astro names in new prose: *Porta Nihili*, *Loken Passage*.)*  
+  * *Administratum gloss:* **Insula Tenebrarum** / **Castra Vetera** mesh filed as critical **Nihilus** filter node; outward choke = **Witness Ford**. *(Retired astro names in new prose: *Porta Nihili*, *Loken Passage*.)*
+* **~189.M42 | Hive Vespera Red Harvest (Noviomagus internal):**
+  * *Event:* Hive Vespera secession — civic and noble cult of **Alaric** as sovereign over Terra; High Lords / Lex Imperialis mandate with **Arbites** co-supervision (Marshal Vhal, Judge-Militant Serix). **Corbec Ardens** commands full **I *Prima*** lower-hive purge (**Silence**, **Shadows**, **Stasis**, **Nullity**); **Alaric** upper spire house-head judgment and servitorization pipeline. No clemency channel.
+  * *Doctrine:* "Personal devotion to command authority is not legal loyalty" (Arbites addendum). Post-purge asset normalization — population as throughput ledger.
+  * *Narrative:* [hive-vespera-red-harvest.md](../../chronicles/15-post-vigil/hive-vespera-red-harvest.md). *Chain context:* [10-proof-of-chain.md](../../chronicles/06-silent-vigil/10-proof-of-chain.md).
 * **180.M42 (present) | Gate consolidation:**  
   * *Status:* Alaric rules as Lord Castellan. **Elara Solis (age 30)** commands the fleet. Inquisitor Vane politically neutralized.
