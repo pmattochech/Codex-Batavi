@@ -93,9 +93,22 @@
 
 ## 17-guilliman-notes
 
-*(Regent encounter register — staff serial; prose without saga H1 lock.)*
+*(Regent encounter register — Guilliman POV serial; prose without saga H1 lock. **~051–120.M42** staff band; **165.M42** public yard beat is separate — [wolf-daughter.md](07-iron-venus/wolf-daughter.md).)*
 
-- [01-first-encounter.md](17-guilliman-notes/01-first-encounter.md) … [10-tenth-encounter.md](17-guilliman-notes/10-tenth-encounter.md) · [07-guilliman-verdict.md](17-guilliman-notes/07-guilliman-verdict.md)
+**Hub:** [17-guilliman-notes/README.md](17-guilliman-notes/README.md)
+
+| # | File | Interlocutor | Note |
+|---|------|--------------|------|
+| 1 | [01-first-encounter.md](17-guilliman-notes/01-first-encounter.md) | Alaric | Identity / culture-as-law |
+| 2 | [02-second-encounter.md](17-guilliman-notes/02-second-encounter.md) | Alaric | Visage breach; Valerius as man |
+| 3 | [03-third-encounter.md](17-guilliman-notes/03-third-encounter.md) | Alaric | Legati / Silent Vigil numbers |
+| 4 | [04-fourth-encounter.md](17-guilliman-notes/04-fourth-encounter.md) | Alaric | Kitchen / Elara translation layer |
+| 5 | [05-fifth-encounter.md](17-guilliman-notes/05-fifth-encounter.md) | Drusus + Varro | Triumvirate clinical |
+| 6 | [06-sixth-encounter.md](17-guilliman-notes/06-sixth-encounter.md) | Uriel Ventris | Deathwatch external witness |
+| 7 | [07-guilliman-verdict.md](17-guilliman-notes/07-guilliman-verdict.md) | *(solo)* | **Verdict** — *Alaric remains* |
+| 8 | [08-eighth-encounter.md](17-guilliman-notes/08-eighth-encounter.md) | Kessler + Alaric | Trenchworks wargame |
+| 9 | [09-ninth-encounter.md](17-guilliman-notes/09-ninth-encounter.md) | Brach · Sturmwahl · Corbec | Mortal-weight field tour (3 loci) |
+| 10 | [10-tenth-encounter.md](17-guilliman-notes/10-tenth-encounter.md) | Tyvar | *Limes Lupus* collar review |
 
 ---
 
