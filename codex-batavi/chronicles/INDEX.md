@@ -187,6 +187,7 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 
 **Span:** post–Silent Vigil maturity on **Noviomagus** and mesh-internal law. Hub: [15-post-vigil/README.md](15-post-vigil/README.md).
 
+- [ferrum-secondus-wolf-ledger.md](15-post-vigil/ferrum-secondus-wolf-ledger.md) — **~183.M42**. Ferrum-Secondus Castellan-idol drift — **Branimir** / Silence surgical correction; **Vhal** Arbites co-supervision precedent; Alaric refuses civic crown scroll. *Precursor:* [hive-vespera-red-harvest.md](15-post-vigil/hive-vespera-red-harvest.md).
 - [hive-vespera-red-harvest.md](15-post-vigil/hive-vespera-red-harvest.md) — **~189.M42**. Hive Vespera secession: rebels reject Terra while declaring Alaric rightful ruler. **Corbec** / full *Prima* lower-hive purge lattice; **Alaric** upper spire house judgment; zero clemency, servitorization, penal normalization. *See* [master-chronology.md](../personae-command-index/events-and-chronologies/master-chronology.md) §VI.
 
 ---

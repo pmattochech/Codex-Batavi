@@ -7,5 +7,8 @@
 | File | When | Thesis |
 |------|------|--------|
 | [`hive-vespera-red-harvest.md`](hive-vespera-red-harvest.md) | ~**189.M42** | Hive secession idolizing Alaric — punitive purge, asset rebuild, loyalty-to-Throne-only doctrine |
+| [`ferrum-secondus-wolf-ledger.md`](ferrum-secondus-wolf-ledger.md) | ~**183.M42** | Pre–Vespera surgical idol drift — Silence + Arbites; Alaric refuses Wall-Sovereign title |
+
+**Read order:** Wolf Ledger (**183**) → Red Harvest (**189**) — escalation ladder.
 
 **Hub:** [`../INDEX.md`](../INDEX.md)

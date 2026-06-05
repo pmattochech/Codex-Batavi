@@ -58,6 +58,7 @@
 *Names vague for operational secrecy.*
 
 * **048.M42 | March line (Incus-Gravis):** As line brother in **IV** *Quarta*, held static trench under Tyranid **Shadow in the Warp**; formative cohort March of the Machine stillness per *Medicinae* annex. Narrative: [ruhe-defense.md](../../../chronicles/14-vexillum-chronicles/ruhe-defense.md) · AAR [aar-vex-iv-ruhe-defense.md](../../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md).  
+* **~183.M42 | Ferrum-Secondus Wolf Ledger:** Led Silence surgical correction after **Exactus Extremis** audit exposed Castellan-idol tithe drift and wolf-echo prayer cards in Ferrum-Secondus shift lockers; joint **Marshal Vhal** mandate. Narrative: [ferrum-secondus-wolf-ledger.md](../../../chronicles/15-post-vigil/ferrum-secondus-wolf-ledger.md).  
 * **Mirrored shift (Noviomagus Prime):** Identified **mimic** cell — flawless papers, but **gaze** tracked wrong route before each service turn, **step** lacked long-shift knee micro-variation, imported soap smell inconsistent with block; delivered to Arbites before promethium conduit sabotage.  
 * **Over-straight rank:** Detected **motor symmetry** and **compound breathing** too aligned in stevedore squad (intermediate-stage hybrids); containment without shot in dense zone.  
 * ***Strategium* warning:** Report cited in doctrine: *“The machine doesn’t read habit. Ivory reads deviation.”*
