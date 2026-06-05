@@ -130,6 +130,7 @@ Open planning questions:
 - Kadmos and Otho push executable mechanics over abstract doctrine.
 - Multi-event escalation builds toward protocol ratification.
 - Validation event demonstrates chain continuity without Castellan lead.
+- **Legatus Ring** disputes (nine-seat geometry) — see [`silent-vigil-legatus-council-plan.md`](silent-vigil-legatus-council-plan.md) §4–§8.
 
 ---
 

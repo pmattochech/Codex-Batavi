@@ -119,6 +119,7 @@ Excludes:
 ## 6) Integration Targets
 
 - planning source: `codex-batavi/planning/silent-vigil-contingency-protocol-plan.md`
+- legatus governance: `codex-batavi/planning/silent-vigil-legatus-council-plan.md`
 - future doctrine target: `codex-batavi/personae-command-index/doctrine-and-organs/protocol-access-matrix.md`
 - chronicle targets:
   - `codex-batavi/chronicles/06-silent-vigil/06-old-voices-council.md`

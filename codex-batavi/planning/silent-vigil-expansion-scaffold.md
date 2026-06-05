@@ -35,7 +35,7 @@
 - [x] `[P0]` `codex-batavi/planning/silent-vigil-access-matrix-plan.md`
   - Include full/limited/objective-only compartment model
   - Include governance rules, elevation/rollback, and audit events
-- [ ] `[P1]` `codex-batavi/planning/silent-vigil-legatus-council-plan.md`
+- [x] `[P1]` `codex-batavi/planning/silent-vigil-legatus-council-plan.md`
   - Council agenda, dispute axes, voting/consensus outcomes, fallback procedures
 
 ## Wiki / Doctrine Entries
@@ -88,16 +88,18 @@
 
 ## Doctrine Constraints To Preserve
 
-- [ ] `[P0]` Keep anti-treason premise bilateral:
+- [x] `[P0]` Keep anti-treason premise bilateral:
   - Alaric + Triumvirate are chapter countermeasure against corruption
   - The chapter (with protocols) is countermeasure if Alaric inverts
-- [ ] `[P0]` Keep emotional truth without softening grimdark:
+- [x] `[P0]` Keep emotional truth without softening grimdark:
   - They protect Alaric and still prepare to kill him if duty requires
-- [ ] `[P0]` Prevent Valerius-pattern recurrence:
+- [x] `[P0]` Prevent Valerius-pattern recurrence:
   - pride-fueled treason and depression-fueled command inversion are both treated as corruption vectors
-- [ ] `[P1]` Distinguish operational states:
+- [x] `[P1]` Distinguish operational states:
   - Red Wolf (still Alaric, savage-dominant)
   - Versibar command amplification risk via alpha-frequency
+
+*(Locked in planning:* [`silent-vigil-legatus-council-plan.md`](silent-vigil-legatus-council-plan.md) §9 *and sibling protocol plans.)*
 
 ---
 
