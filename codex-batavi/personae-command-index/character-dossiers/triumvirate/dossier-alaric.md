@@ -190,3 +190,10 @@ Relation Throne golden sentinel Noviomagus lord not founded military friendship 
 ### 8.4 Post–Malakor weight (*Silent Vigil* substrate)
 
 After **050.M42**, Castellan corridor presence acquires a **second latency** — not auspex failure: mind returning from places **Drusus** files ***Vermilion*** and Varro names **Crimson Wolf**. Alaric **remembers** each ***rubor thermicus*** window — sensation, IFF blur, ally geometry misread — and treats recovery as **moral** fact, not clinical excuse. He does **not** preach it; he **distances** — longer lights in *Strategium*, shorter answers, Martha’s kitchen kept but armor never quite silent. **Tyvar**’s collar and **Varro**’s *ictus coercitionis* are the only open proofs the Wall can still be **bound** when forge heat wins a round against duty.
+
+### 8.5 Present era (**180.M42** staff lock)
+
+* **Gate consolidation:** Throne briefing and Outer Gate convoy authority filed through **Elara Solis** — Castellan retains wall geometry; mortal fleet holds **Witness Ford** schedule. Narrative: [outer-gate-consolidation.md](../../../chronicles/15-post-vigil/outer-gate-consolidation.md). Kitchen doorway acknowledgment (*Ford clean*) without entering Martha’s frame.  
+* **Inquisitor Vane:** Final subsector audit self-neutralized — **Gamma-Three** walked; no further Ordo escalation leverage.  
+* **Idol drift (internal):** Refused **Wall-Sovereign** civic title at Ferrum-Secondus (**~183.M42**) — [ferrum-secondus-wolf-ledger.md](../../../chronicles/15-post-vigil/ferrum-secondus-wolf-ledger.md). **Hive Vespera Red Harvest** (**~189.M42**) — full punitive lattice; Alaric upper spire house judgment. Castellan treats personal devotion to command personae as **Terra-chain violation**, not compliment.  
+* **Chain count:** **743** plate pairs at **180.M42** audit ([`frontier-wolf-rite.md`](../../doctrine-and-organs/frontier-wolf-rite.md)).

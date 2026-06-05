@@ -38,3 +38,16 @@
 | Helbrecht first measure | [helbrecht-witness-ford-meeting.md](../08-audit-diplomacy/helbrecht-witness-ford-meeting.md) (**096.M42**) |
 
 **Hub:** [`../INDEX.md`](../INDEX.md) § **17-guilliman-notes**
+
+---
+
+## Dialogue register (ABNT pass)
+
+Chronicle speech uses **em-dash framing** per [`.cursorrules`](../../../.cursorrules) §0.1 — not US/UK comma-tags (`— Word, he said.`).
+
+| Status | File |
+|--------|------|
+| **Done** | [01-first-encounter.md](01-first-encounter.md) |
+| Pending | 02–10 |
+
+**Pattern:** mid-line tag → `— speech — Tag said — speech`; tag ends turn → `— speech — Tag said.` then new line `— Next speech.`

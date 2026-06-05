@@ -460,6 +460,30 @@ Hess did not laugh.
 
 — They took twenty-three stewards — she said. — Not because they prayed wrong. Because they **billed** wrong.
 
+In the **Kethmar annex** courtyard, a work crew installed the first **post-cleanse** Aquila plaque while a Silence brother watched from the stairwell with auspex wand idle at his hip.
+
+A steward’s widow — name struck from public charter, face not — stood at the fence line with a bundle of wolf-echo cards she had torn from her husband’s locker before the Arbites came.
+
+She did not throw them.
+
+She fed them to the promethium bin one at a time, lips moving without sound.
+
+Branimir watched eleven seconds.
+
+— Burn the ink — he said to the widow. — Keep the ash if you must. Do not keep the **route**.
+
+She nodded once and did not look at his ivory pauldron again.
+
+That was also success.
+
+Corbec read the **watch Vespera** margin again six months later when Ferrum-Secondus reports showed **zero** drift and **elevated** civic devotion language in a neighboring hive’s labor bulletins.
+
+He did not escalate.
+
+He circled **Vespera** a second time in orange chalk and added one word:
+
+*Soon.*
+
 On the **ninetieth day** of the recurrence watch, Holt’s **Exactus** team returned for spot audit.
 
 The drift read **0.00 percent**.

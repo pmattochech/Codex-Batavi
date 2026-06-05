@@ -22,7 +22,7 @@ He simply remained present.
 
 That, Guilliman found, was already a kind of statement.
 
-— In the old Imperium, he said, a commander’s identity was granted by the legion that made him. Heraldry, chain of command, archives with clean ink. The new Imperium makes identities in the dark. Sometimes by necessity. Sometimes by opportunism.
+— In the old Imperium — he said — a commander’s identity was granted by the legion that made him. Heraldry, chain of command, archives with clean ink. The new Imperium makes identities in the dark. Sometimes by necessity. Sometimes by opportunism.
 
 He let the words hang as if they were a blade and he wanted to see whether the man in front of him would step into it.
 
@@ -44,7 +44,7 @@ Guilliman had been told the motto. He had read the phrases that circulated at th
 
 He had not expected the man himself to speak like the paper.
 
-— You know what my sealed briefings say about you, Guilliman continued.
+— You know what my sealed briefings say about you — Guilliman continued.
 
 The helm did not nod. The stillness itself implied assent.
 
@@ -58,7 +58,7 @@ Alaric’s stance did not alter to match. He tracked Guilliman, not with obvious
 
 Guilliman found himself thinking, absurdly, of a fortress that did not waste stones on decoration.
 
-— I have met many kinds of loyalty, he said. I have met men who love the Imperium and therefore obey it. I have met men who hate what surrounds them and therefore cling to duty because it is the last clean thing.
+— I have met many kinds of loyalty — he said. — I have met men who love the Imperium and therefore obey it. I have met men who hate what surrounds them and therefore cling to duty because it is the last clean thing.
 
 He paused.
 
@@ -70,7 +70,7 @@ Alaric answered the way he answered everything: by refusing the lyric and keepin
 
 — Discipline prevents drift.
 
-— Drift into what? Guilliman asked.
+— Drift into what? — Guilliman asked.
 
 A fraction. A pause so small it would not have registered to most. Guilliman recognized it anyway: the moment a man decides how much truth the listener can carry.
 
@@ -88,7 +88,7 @@ He did not elaborate. He did not need to. Guilliman had read the after-action pa
 
 He had seen that same hunger in mortals and Astartes alike. He had simply never seen a Chapter make a cage for it and call the cage a virtue.
 
-— Your affliction, Guilliman said at last.
+— Your affliction — Guilliman said at last.
 
 The words felt inadequate. Affliction sounded like a fever. What the briefings described was a fault line through an entire culture.
 
@@ -96,7 +96,7 @@ The words felt inadequate. Affliction sounded like a fever. What the briefings d
 
 Alaric remained still.
 
-— I am not here to condemn you for what you did not choose, Guilliman said.
+— I am not here to condemn you for what you did not choose — Guilliman said.
 
 Alaric did not reply with gratitude. He did not reply at all. Silence, in him, was not a tactic; it was an element.
 
@@ -104,7 +104,7 @@ Guilliman found that he could not tell whether the silence was mercy or refusal.
 
 Perhaps both.
 
-— I am here, Guilliman continued, to understand whether you have built a wall inside yourself… or only a story about a wall.
+— I am here — Guilliman continued — to understand whether you have built a wall inside yourself… or only a story about a wall.
 
 Alaric’s answer was immediate, and it was not defensive.
 
@@ -114,7 +114,7 @@ Guilliman’s eyes narrowed, not with suspicion but with the kind of focus one g
 
 — Most of my sons would have said the inverse. Belief first. Then procedure.
 
-— Belief is unstable, Alaric said. Procedure can be audited.
+— Belief is unstable — Alaric said. — Procedure can be audited.
 
 The words had the chill of a scalpel. Guilliman, who had commanded worlds and written codes meant to govern billions, felt a small, involuntary recognition.
 
@@ -122,7 +122,7 @@ He knew the appeal of auditable things.
 
 He also knew their limits.
 
-— Do you trust anyone? Guilliman asked.
+— Do you trust anyone? — Guilliman asked.
 
 It was the first question that stepped fully out of inspection and into the human.
 
@@ -136,11 +136,11 @@ Alaric did not offer names. Guilliman realized, with a sudden clarity, that this
 
 A leader whose only luxury was to remain functional.
 
-— Your sealed records, Guilliman said carefully, speak of a single place where your tension eases. A domestic node. A human anchor.
+— Your sealed records — Guilliman said carefully — speak of a single place where your tension eases. A domestic node. A human anchor.
 
 Alaric did not correct him. The absence of correction was confirmation enough.
 
-— I will not ask you to explain it, Guilliman added. I do not need the details.
+— I will not ask you to explain it — Guilliman added. — I do not need the details.
 
 He hesitated, then chose the truth that mattered.
 
@@ -186,7 +186,7 @@ This was something else.
 
 A culture that had forged austerity as medicine.
 
-— Tell me about the man, Guilliman said finally. Not the commander. Not the Chapter Master. The man.
+— Tell me about the man — Guilliman said finally. — Not the commander. Not the Chapter Master. The man.
 
 It was an unfair question. Guilliman knew that even as he asked it. It was a question designed to expose something that might not exist in the way mortals understood it.
 
@@ -202,7 +202,7 @@ Alaric did not deny it.
 
 — The man cannot be permitted to diverge.
 
-— Why? Guilliman pressed.
+— Why? — Guilliman pressed.
 
 The silence that followed was longer this time. Guilliman waited without moving, without interrupting, as if time itself were a resource he could afford to spend.
 
@@ -214,7 +214,7 @@ Guilliman felt the words land like stones. He understood the chain. He had writt
 
 He also knew what it cost to live as if you were a statute.
 
-— And if I told you, Guilliman said, that a man who never allows divergence eventually becomes brittle.
+— And if I told you — Guilliman said — that a man who never allows divergence eventually becomes brittle.
 
 Alaric’s answer was not argument. It was simply the bearing of a load.
 
@@ -232,7 +232,7 @@ Guilliman let the silence breathe for a moment.
 
 He stopped himself from saying too much. Even in private, even with sealed access, words could become weapons later if repeated.
 
-— You were not made in my image, Guilliman said.
+— You were not made in my image — Guilliman said.
 
 Alaric did not claim otherwise.
 
@@ -254,7 +254,7 @@ Guilliman nodded once.
 
 He stepped closer, stopping at a distance that made the space between them feel deliberate. Not intimate. Not confrontational. An inspection distance that acknowledged the man in front of him could kill him if the universe was perverse enough.
 
-— I am going to give you a constraint, Guilliman said.
+— I am going to give you a constraint — Guilliman said.
 
 Alaric did not flinch. Constraints were the only currency he trusted.
 
@@ -264,11 +264,11 @@ Alaric’s voice remained level.
 
 — Observation is acceptable.
 
-— You will not be asked to perform, Guilliman added.
+— You will not be asked to perform — Guilliman added.
 
 He realized, abruptly, how strange that sentence would sound to any other commander.
 
-— Good, Alaric said.
+— Good — Alaric said.
 
 One syllable. A door closing cleanly.
 
@@ -310,7 +310,7 @@ Alaric did not offer a vow. He did not offer gratitude. He offered the only thin
 
 Presence.
 
-— Yes, he said.
+— Yes — he said.
 
 Guilliman opened the door.
 
