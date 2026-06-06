@@ -13,8 +13,6 @@
 
 ---
 
-## I. Arithmetic as Accusation
-
 Tally arrived as **halving** mythologized into math.
 
 Mortal dead came in **stacks** — names compressed into bundles because no mouth could pronounce them fast enough to keep pace with duty — while transhuman dead numbered **too many**, and yet fewer than fear had forecast in theatrical moods, which should have comforted and did not.
@@ -30,10 +28,6 @@ Embarkation slates from Vitreus still arrived **double-stamped** — Valerius �
 Merit’s clerks aimed *recovery KPI lenses* at mourning stacks until Kessler mounted hammer invoice and filed *NOT FIELDED*. Grief throughput was not metric. Grief was **inventory** honest enough to hurt.
 
 Sera paired fiber through separate trunks above archives’ false night — red for *call*, blue for *ghost* — because harmonics ate one seam and called it indexing while chains of custody still breathed on second line.
-
----
-
-## II. Lex Ignis and Data Loss
 
 ***Lex Ignis*** faction — Explorator pride wearing treaty language — blamed Chapter for **data loss** as if casualties were inventory discrepancies.
 
@@ -52,10 +46,6 @@ Mirror-route officers flinched when confidence intervals tightened because grief
 Wolf’s Curse watch stayed off channels that could recruit story — Kadmos enforced on forward elements — because *Furor* vocabulary beside archive static could invent cult velocity.
 
 Santo hauled relief chits between stacks until shoulders learned **interest**. Mira kept two ink colors on same knuckles: *surviving* and *surviving honest* — refusing merges the way Valerius refused merges upstairs.
-
----
-
-## III. DO NOT MERGE
 
 In archives — cold air, sterile light, illusion that paper could disinfect memory — **Drusus** found **pattern-harmonics** in sorting stacks.
 
@@ -81,10 +71,6 @@ Bondsmen whispered **Dark Age of Technology** near cogitator alcoves until Varro
 
 — Nomenclature is seal — he said. — Myth recruits stacks faster than doctrine leashes them when confidence intervals tighten without warrant.
 
----
-
-## IV. Not With Theater — With Seal
-
 Echo pressed chaplain seams where binds thinned — Triumvirate seal **narrow** — and Varro refused spectacle. Executor wolf-skull present as infrastructure while litanies shortened until boredom stayed shield against **folk liturgy** fermenting in sterile light.
 
 **Kadmos** wanted **blood-debts** from magi — payment in shame, if not plasma — because grief enjoys debtor and Kadmos had learned to collect on behalf of brothers who could not speak.
@@ -107,10 +93,6 @@ Hyper-G **Tertius** veterans warned about **weight** in mess. Vitreus veterans w
 
 Marines scrubbed ceramite dull from habit — **glare discipline** — until polish stopped volunteering shine to cogitators pretending neutrality.
 
----
-
-## V. Valerius Cracks (Once)
-
 **Valerius** — ever steady face, ever corridor’s calendar — **cracked** where nobody was permitted to see.
 
 One glass shattered in quarters. Recaf bleeding across page of numbers too innocent to deserve staining. Hands still until they shook once and steadied, because Chapter could not afford quartermaster who **advertised** humanity at wrong hour.
@@ -126,10 +108,6 @@ She breathed **active silence** on local channels when staff tried to rename **a
 Children in holding pens drew chalk routes on deck until parents scrubbed them off. Kessler forbade Merit pict loops there because *comfort* could become **folk liturgy** faster than archivists could air-gap file when confidence intervals smiled.
 
 **Drusus** logged Valerius’s crack as *data point* in column he wished stayed empty — not betrayal, not weakness.
-
----
-
-## VI. Half Standing Is Still Wall
 
 Alaric told Strategium while hololith painted losses in colors too polite to be blood:
 
@@ -149,10 +127,6 @@ Alaric’s presence in room was not argument. It was **hinge** — mass where re
 
 Officers who had never knelt to glass knelt to **paper** when *air-gap* became word that could save more lives than bolter if you said it without flinching. Valerius made them sign for air-gap like ordnance, because procedure was only exorcism that still fit in margin.
 
----
-
-## VII. Parallel Filing at Three A.M.
-
 **Sera** tested splices at three a.m. when archives’ false night felt like complicity — treat every reconnect as confession; treat every ghost route as **debt** until disproven — **parallel filing** only vaccine when *indexing* could become possession’s favorite alias.
 
 Guides from **Bifrons** — miles and lifetimes away — mailed correction habits in knuckle-raps and chalk ticks. Kessler adopted them into squads until profanity and **feet** became same liturgy: not poetry, *sequence*.
@@ -167,10 +141,6 @@ Triumvirate briefings shrank to minutes again — minutes meaning lives — espe
 
 Forgemasters erased chalk ticks so reckoning maps could not migrate into Merit mood-boards — witness guarded like ammunition — while bondsmen stacked duplicate pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright.
 
----
-
-## VIII. Reconciliation and Collection
-
 **Threx** — distant, bright with numbers — argued for *re-opening* *interrupted collections* before ink on *contained* dried.
 
 Triumvirate answered in nods and **timestamps** and did not translate *collection* into *taken* for him — friction partner speaking yield where Chapter spoke **seal**.
@@ -182,10 +152,6 @@ Alaric — Vermilion at edge of room, harness and **Alpha** watch not performed 
 Apothecarion interns labeled archive stress as *environmental* until Drusus forced label to stay **tentative** — tentative only honest adjective institutions hate because it cannot be sold to next dry room as *mission accomplished* — because premature certainty was how merges laundered invasion into *efficiency* overnight.
 
 Teeth before receipts. Archives before applause. **Hold** before every easy story told clean.
-
----
-
-## IX. Q3 Closes Its Books
 
 **Kessler** walked last archive annex with boots counted aloud and three fingers raised at cogitator screen that smiled without warrant.
 
