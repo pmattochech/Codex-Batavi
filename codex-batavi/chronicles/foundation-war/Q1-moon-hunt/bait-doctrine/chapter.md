@@ -13,8 +13,6 @@
 
 ---
 
-## I. Hygiene — Certo Scrubbed
-
 They burned **Certo**’s name off *vox*-net and left his mistakes on shingle — war’s cruel romance: dead teach; living **pay**.
 
 Scrub was not petty erasure. It was **hygiene**, frequency purge so pack-soldiers could not learn cordon habits from ghost’s call-sign repeating nightly in tired throats.
@@ -31,11 +29,7 @@ He listed names in triplicate: one copy for Apothecarion’s cold chain of conse
 
 Alaric answered with nod that meant *understood*, not *approved*. Approval would have sounded like appetite.
 
----
-
-## II. Shameful Prey — Volunteers Only
-
-**Kadmos** laid **Glass Rills** on hololith until terrain looked like wound stitched with water — quartz shallows where tide turned footsteps into accusations, where mis-timed gleam could paint Marine silhouette for world that had already proven it enjoyed **grading** silhouettes.
+At the kill-box, **Kadmos** laid **Glass Rills** on hololith until terrain looked like wound stitched with water — quartz shallows where tide turned footsteps into accusations, where mis-timed gleam could paint Marine silhouette for world that had already proven it enjoyed **grading** silhouettes.
 
 — If this is sin — he said privately — let it be **ours** to carry.
 
@@ -63,11 +57,7 @@ He read each signer’s vitals aloud only to themselves, private humiliation dre
 
 Nobody withdrew. That was not heroism, not entirely. It was **community math** — if **Iria** walked shame’s map, certain families believed their names had to walk beside hers so map would not become sentence passed only to women tide had already taxed.
 
----
-
-## III. Rehearsal — Pretending to Die on Schedule
-
-**Kadmos** ran rehearsals until rehearsals felt like insult: stop, turn, miss step on purpose, **miss it badly enough to be believable** — because believable shame was craft, and craft took hours Chapter did not have.
+On the Rills, **Kadmos** ran rehearsals until rehearsals felt like insult: stop, turn, miss step on purpose, **miss it badly enough to be believable** — because believable shame was craft, and craft took hours Chapter did not have.
 
 Marines played predator-eye, judging each feigned stumble for sin of *looking trained*.
 
@@ -93,11 +83,7 @@ Varro paused.
 
 — Then keep it quiet — he said. — Noise is what sells her.
 
----
-
-## IV. Wait — The Part Sagas Skip
-
-Glass wanted **sun**. Aethelgard offered bruised silver and rain — mercy of a kind, because full sun would have turned rills into theater of spark and silhouette where Type B geometry could argue **crossfire** with Type A pride.
+When rehearsal ended and only waiting remained, glass wanted **sun**. Aethelgard offered bruised silver and rain — mercy of a kind, because full sun would have turned rills into theater of spark and silhouette where Type B geometry could argue **crossfire** with Type A pride.
 
 Tide hissed through cuts in quartz like breath through teeth. Each Marine learned private hatred for sound: too rhythmic, too close to **footsteps** if nerves were already tuned to mimicry after Sallow Morrow’s deck whisper and Black Fan’s oil-laughter.
 
@@ -121,10 +107,6 @@ Iria pretended to stumble — insult to true grace — and stumble was ugly enou
 
 Stalker **committed**.
 
----
-
-## V. Sentence Without Courtroom
-
 Needles volunteers became jury — bodies frozen with discipline of people who understood screaming would sell Iria’s life for nothing. One man’s hand twitched toward spear he was forbidden to raise. Varro’s helm turned one degree. Hand stilled.
 
 Alaric rose. Not as rescuer. Not as knight. As **sentence** delivered without courtroom.
@@ -141,11 +123,7 @@ Glass answered violence with **sound**: high ring like struck cups, spreading ac
 
 Kadmos killed channel chatter with hard filter so pack-soldiers listening for Type B rally cues would get only mud-noise and wind, not Marine triumph leaking like **aftertaste**. Triumph was flavor hunters learned to hunt.
 
----
-
-## VI. Chapter Owns the Dead That Hunted Us
-
-Drusus was already moving, voice stripped to procedure:
+Before pack-soldiers could taste it, Drusus was already moving, voice stripped to procedure:
 
 — Containment perimeter **now**. Skitarii **denied** approach until biological hazard sweep completes.
 
@@ -175,11 +153,7 @@ Iria swallowed.
 
 — You will ask — she answered. — Because mud always asks.
 
----
-
-## VII. Hate Keeps You Awake
-
-**Kessler** finally moved. She crossed cordon without permission because permission had become luxury officers hoarded while mortals paid in bodies. She did not touch Iria. She stood beside her, shoulder almost touching, and spoke to quartz under boots as if ground were only witness who would not file lies.
+Along the cordon, **Kessler** finally moved. She crossed cordon without permission because permission had become luxury officers hoarded while mortals paid in bodies. She did not touch Iria. She stood beside her, shoulder almost touching, and spoke to quartz under boots as if ground were only witness who would not file lies.
 
 — I hated Certo — she said. — I hated you walking out there. I hate that it **worked**.
 
@@ -201,11 +175,7 @@ Later, Triumvirate simply **stood** within fact of what they had done. Kadmos ex
 
 Somewhere beyond Rills, Type B cadence stirred — pack-soldiers answering noise with appetite not yet fed. Crucible had won lesson. Lessons, in romance and in war, do not arrive without tuition due downstream.
 
----
-
-## VIII. One Breath — Interest-Free Never
-
-Alaric walked perimeter last, not as inspection, as **receipt** — each Marine’s helm dipped in acknowledgment without speech, each firing step checked for brass, for blood smear, for any trophy impulse *Codex* would punish later if it hardened into habit.
+When Type B cadence stirred beyond Rills, Alaric walked perimeter last, not as inspection, as **receipt** — each Marine’s helm dipped in acknowledgment without speech, each firing step checked for brass, for blood smear, for any trophy impulse *Codex* would punish later if it hardened into habit.
 
 He stopped longest at cutbank confessional where he had said *wait*. Waiting had worked. That fact lodged in him like shrapnel that did not hurt yet: **bait** had worked once, which meant bait would tempt *him* next time — tempt him to believe shame could be spent like coin, that mortals could be geometry without becoming **debt**.
 
