@@ -137,7 +137,7 @@ Mark `[x]` when structure pass is complete for that slug.
 
 | # | Slug | File | Done |
 |---|------|------|:----:|
-| 0 | distress-vector | `Q0-prelude/distress-vector/chapter.md` | [ ] |
+| 0 | distress-vector | `Q0-prelude/distress-vector/chapter.md` | [x] |
 | 1 | mud-gospel | `Q1-moon-hunt/mud-gospel/chapter.md` | [x] |
 | 2 | the-arrangement | `Q1-moon-hunt/the-arrangement/chapter.md` | [x] |
 | 3 | dog-logic | `Q1-moon-hunt/dog-logic/chapter.md` | [x] |

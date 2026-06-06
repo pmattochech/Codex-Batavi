@@ -5,7 +5,7 @@
 **Filing layer:** pre–*Der Batav*; the Chapter is still filed as a tool and spoken of as a rumor.  
 **Common name (fleet / auxilia):** *Grey Hounds* · **Formal header (Administratum):** *Slate Cohort — Hound Pattern*
 
-**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../../../atlas-and-topography/castra-vetera-galactic-lock.md). **Witness Ford** outward filter; **Forge / Tempest / Crown** marsh channels. Retired in new prose: *Porta Nihili*, *Loken Passage*.
+**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — `[castra-vetera-galactic-lock.md](../../../../atlas-and-topography/castra-vetera-galactic-lock.md)`. **Witness Ford** outward filter; **Forge / Tempest / Crown** marsh channels. Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
 ---
 
@@ -67,10 +67,6 @@ He stared at the line *identity verification pending* until it stopped being ink
 
 Valerius’s thumb tapped the slate. The tone that followed was not a voice; it was a playback — flat, time-stamped, the kind of record that pretended it was not testimony.
 
----
-
-## Annex: sarcophagus transcript (excerpt)
-
 > **FILE:** SLATE COHORT — HOUND PATTERN / SARCOPHAGUS ANNEX / PRIORITY: IDENTITY-AUDIT  
 > **LOCATION:** STRIKE CRUISER HOLD — BAY 3A  
 > **SUBJECT:** RADULF CASTRIN (COMMAND-CLASS)  
@@ -95,8 +91,6 @@ Valerius’s thumb tapped the slate. The tone that followed was not a voice; it 
 > — End this search. All of you.
 >
 > *…audio ends…*
-
----
 
 When the playback died, the antechamber felt colder — not because the ship’s temperature had changed but because meaning had entered and refused to leave.
 
@@ -138,21 +132,15 @@ Drusus watched the pages without reaching for them.
 
 Valerius began to read, not as an orator but as a mortician.
 
----
-
-## Annex: erasures docket (compiled, non-exhaustive)
-
 > **SUBJECT:** SLATE COHORT — HOUND PATTERN / IDENTITY-INVENTORY LOSS  
 > **SUMMARY:** repeated disasters erase provenance evidence, amplifying legitimacy hunger.
 >
-> 1. **Warp-leg loss:** charter-coffer ship *vanished* during translation; astropathic chain severed; no duplicates survived.  
-> 2. **Administratum destruction / redaction:** Founding registry replaced with **NULL**; tithe lineage scrubbed; “correlation pending” stamped over names.  
-> 3. **Mechanicus data loss / withholding:** vault sealed under treaty; access delayed under verification rites; then refiled as **lost to incident**.  
-> 4. **Internal catastrophe:** archive fire; slate purge under breach protocol; witness cadre killed; surviving copies judged “contaminated” and destroyed.  
+> 1. **Warp-leg loss:** charter-coffer ship *vanished* during translation; astropathic chain severed; no duplicates survived.
+> 2. **Administratum destruction / redaction:** Founding registry replaced with **NULL**; tithe lineage scrubbed; “correlation pending” stamped over names.
+> 3. **Mechanicus data loss / withholding:** vault sealed under treaty; access delayed under verification rites; then refiled as **lost to incident**.
+> 4. **Internal catastrophe:** archive fire; slate purge under breach protocol; witness cadre killed; surviving copies judged “contaminated” and destroyed.
 >
 > **NOTE:** external offices treat discontinuity as evidence of defect, not evidence of harm.
-
----
 
 Alaric listened as if the docket were a litany, because in the Imperium bureaucratic lists were often the only scripture that mattered. He could feel the hunger in the room tighten — officers leaning forward, not for comfort but for teeth. The Chapter’s legitimacy was a wound that never scabbed; each time it tried to heal, some new incident tore it open again, and the hunger to find the lost name became a virtue simply because it was active.
 
@@ -211,7 +199,7 @@ Valerius's voice dropped, not from fear but from the instinct to speak quietly a
 
 Drusus’s reply was immediate.
 
-— It isn’t — he said. — The encryption markers are wrong. Not broken — wrong. Like an imitation of a key by someone who has watched keys being used.
+— It isn’t — he said. — The encryption markers are wrong. Not broken, wrong. Like an imitation of a key by someone who has watched keys being used.
 
 Alaric watched Threx’s representative on a secondary channel — only a cog-sigil and a clipped vox tone, a mind behind a mask of etiquette.
 
@@ -344,7 +332,15 @@ The distress packet sat on the slate with its polite thanks.
 
 The Grey Hounds began to run — behind a Rogue Trader's amber braid, toward a crucible that did not yet have their name.
 
-**Drusus** appended a private margin for translation burn — *Thornwake partial chart; sequence only until attested; do not brief captains* — not prophecy, **sequence**, because briefing would have turned amber braid into **oracle** before Moon Hunt taught the pier that live alphabets could die in courthouses. **Valerius** stamped the departure slate twice — Marine continuity beside mortal witness count intact. **Sera** tagged departure handshake *monitor only* until Pol seed starved merge columns and Mud Gospel earned attested injury at CV hour zero.
+**Kadmos** would hold Thornwake's honor line on the outer ring — witness before throughput — because joint review was posture not package and **Castra Vetera** mesh would tax both ledgers before the Chapter earned a name it could salute without lying.
+
+**Drusus** appended a private margin for translation burn — *Thornwake partial chart; treat as sequence only until attested; do not brief captains* — not prophecy, **sequence**, because briefing would have turned amber braid into **oracle** before Moon Hunt taught the pier that live alphabets could die in courthouses.
+
+**Valerius** stamped the departure slate twice — Marine continuity beside mortal witness count intact — because parallel filing was sometimes the only mercy institutions could afford before integers opened ash.
+
+**Echo** listened at translation burn for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing amber braid as sequence before Moon Hunt taught pier that live alphabets could die in courthouses.
+
+**Sera** tagged departure handshake *monitor only* until Pol seed starved merge columns and Mud Gospel earned attested injury at CV hour zero.
 
 Interest collecting teeth before receipts.
 
@@ -353,4 +349,5 @@ Grey Hounds running. Amber braid. Crucible unnamed. Radulf refusing wholeness in
 Always owed.
 
 ---
+
 **Next:** [Mud Gospel](../../Q1-moon-hunt/mud-gospel/chapter.md) · Q1 · CV y0–y7
