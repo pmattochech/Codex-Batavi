@@ -13,8 +13,6 @@
 
 ---
 
-## I. Etiquette as Weapon
-
 The **override** did not arrive as saber-rattle. It arrived as **etiquette** — ancient, flawless, obscene in its politeness: a **last command** spoken in frequencies that made servitors kneel and made mortals *listen* before they understood they were obeying something that did not recognize their species as **audience**, only as **obstruction**.
 
 The **backward braid** was everything the bridge had already paid for — **skin debt**, **witness priority**, silence zones mapped in muscle memory — compressed into a single instruction the tomb delivered as if doing mortals a courtesy by letting them **hear** their own obsolescence clearly.
@@ -27,10 +25,6 @@ Drusus’s margins traveled in kit paste-smears — *tremor rhyme — record; tr
 
 **Echo** pressed Triumvirate seals without earning vocabulary. **Varro** answered with binds short enough to survive override static — Executor wolf-skull present as infrastructure, not applause.
 
----
-
-## II. Reading the Tomb’s Mockery
-
 The **reading** beat was auspex turned into etiquette parser: return spikes that aligned with servitor kneel cadence, phase windows that opened only when *vox* harmonics crossed thresholds mortals were never meant to **file**, as if the tomb had learned Strategium language well enough to speak it back as **mockery**.
 
 Rear elements watched **intervals** crawl across pulse traces until intervals stopped looking like bugs and started looking like **law** — same hunger tombs had worn on other poles, different costume.
@@ -42,10 +36,6 @@ Junior auspex operators mistook **Sigma bleed** for obedience until Drusus force
 Merit’s clerks aimed pict rigs at kneeling servitors until **Kessler** shattered a lens with pistol butt and filed *NOT FIELDED*. She had broken mounts on exile guides at the Maw. Here she broke glass. The habit was the same: refuse throughput when witness became currency.
 
 Spectacle belonged to the tomb now. Humans did not owe recorders their obedience.
-
----
-
-## III. Inheritance Violence
 
 What followed was not merely battle. It was **inheritance violence** — dynasty asserting ownership over corridors, over air, over the right to decide which flesh counted as traffic and which counted as **stain**.
 
@@ -65,10 +55,6 @@ Skitarii skirmishers — **Threx**’s kin in all but patience — tried **first
 
 The argument was same gulf argument. Only the water was now **etiquette** and the fish were servitors.
 
----
-
-## IV. Parallel Filing Under Strobe
-
 **Parallel filing** held in triage pens: two triage tags, two initial sets — Valerius — one for *medical fact*, one for *testimony fact* — because Strategium would later try to merge them into single innocent line and bankruptcy always wore spreadsheets first.
 
 Marines scrubbed ceramite dull against glare — **glare discipline** carried like baggage from Vitreus — because polish in servitor strobe could become second front in the eye, and eyes were already losing to **frequencies** that knelt.
@@ -84,10 +70,6 @@ Drusus recorded the claim as *unconfirmed psychosomatic contagion* and underline
 **Santo** passed canteens forward until arms shook — **useful** the way forges are useful — while **Mira Kell** kept tallies where tallies could still matter, witness without applause, because applause turned sealed apertures into **story** faster than bolters could sterilize grief.
 
 **Wolf’s Curse** watch stayed off open channels — Kadmos enforced — because *Furor* vocabulary in override’s mouth could invent cult speed. Medicae still charted stress privately where **rhyme** stayed data, not rally.
-
----
-
-## V. The Shrinking Aperture
 
 Witnesses — mortals stupid-brave enough to **film** with illegal **pict** — became problems the tomb solved in preferred dialect: **sealing**.
 
@@ -113,10 +95,6 @@ The aperture closed — not with drama — with **finality**.
 
 Screams — brief, human, furious — **became geology**: not metaphor-only; harmonics carried into stone and cable until later crews swore certain spans *whimpered* when struck, as if bridge remembered **throat**.
 
----
-
-## VI. Duty as Abacus
-
 **Alaric** sealed the breach the way he sealed most catastrophes: with **lives** spent deliberately, priced in advance, weighed without flinching.
 
 **Duty** as abacus — not cruelty performing as leadership — **arithmetic** performing as leadership, which is crueler to kind of person who needs stories where every death means something *visible*.
@@ -137,10 +115,6 @@ On one span he held retreat lane open until last auxilia boots cleared, then ste
 
 He had held Maw mud the way he now held this span: not different wars, same **interest** wearing new weather.
 
----
-
-## VII. Counter-Frequency
-
 Chaplain nets along spines carried **parallel binds** at duplicate seams — **insurance** — because override would learn kill frequency if you let it. Learning was what tombs did. **Boredom** was what Varro sold because boredom did not audition for Echo.
 
 Varro met override where liturgy becomes **counter-frequency**: binds failed at stress nodes and he spoke them again, slower, as if patience were weapon tomb had not priced into arithmetic — **not** banishment theater, but refusal driven through harmonics that wanted mortals on knees.
@@ -155,10 +129,6 @@ Night cycles traded lamp codes until **Lex Ignis** clocks aligned with Mechanicu
 
 Water points tasted sour — recyclers taxed by panic — and Valerius posted **ROTATE** until rotation became liturgy for throats too hoarse for promises.
 
----
-
-## VIII. Iria Reads Display
-
 **Iria**, miles off-bridge — hips bruised from tender decks, hands still smelling of iodine and river-silt from work that never stopped — woke from dreams of **arranged boots** — lines too straight, laces too neat, display as discipline, discipline as *theater* — and understood, with cold clarity of someone who reads tides for living: **Incus** had not killed world’s taste for **display**. It had only **trained** it.
 
 She breathed **active silence** on channel meant for her ears alone — refusal to let convenience rename sacrifice as virtue — until tide in her lungs matched tide in work orders: not calm, *alignment*.
@@ -168,10 +138,6 @@ When silence returned — true silence, not absence of battle but absence of *pu
 Casualty boards filled twice — once for bodies cooling beside tread marks, once for minds eaten by harmonics while hearts still beat — because **witness priority** demanded honesty uglier than Strategium slides would stomach once officers smoothed grief into *acceptable variance*.
 
 Staff rooms would later argue whether **Incus** ash still tasted stronger than tomb etiquette. Soldiers answered with boots — **Incus** had taught weight; tombs taught inheritance — both debts collected without asking permission in language mortals could vote on.
-
----
-
-## IX. Data Preserved / Souls Were
 
 **Threx** stood among servitors and stasis flicker, fingers twitching with greedy reverence of man touching sanctity through glove. He whispered — almost loving, almost gentle:
 
@@ -194,10 +160,6 @@ Drusus appended closing margin for translation burn — *Exanimus-adjacent tremo
 Valerius stamped embarkation slate toward **Incus Still Burns** twice — once for ceramite continuity, once for mortals still counting themselves solvent — because next beat would ask for both ledgers again, interest always collecting teeth before stamped paper could pretend otherwise on quiet decks and loud strategiums alike.
 
 Apothecarion interns practiced labeling dynastic harmonics without inventing saints — **rhyme** permitted in margins; **oracle** burned — until junior medicae stopped mistaking intuition for doctrine when servitors knelt on schedule.
-
----
-
-## X. Ford Narrowed
 
 Ford narrowed — memory’s ford, logistics’ ford, same stubborn metaphor with different tolls — and **Alaric** walked it without speeches — hinge-work — because speeches fed Echo seams even when Echo had not earned names. **Mass** answering etiquette the way etiquette answered meat: coldly, completely, without needing to pretend fairness was audience.
 
