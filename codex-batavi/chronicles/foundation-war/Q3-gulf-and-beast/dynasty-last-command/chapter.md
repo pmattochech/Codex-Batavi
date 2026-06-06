@@ -107,7 +107,7 @@ Children pressed against restraints like small animals. Kessler would not let th
 
 She thought of mercy shot on the bridge and did not nod at anyone who looked like they needed reassurance. Reassurance would have been receipt. Receipt would have made sealing **policy**.
 
-**Drusus** moved among the herded with filtration packs and instructions spoken slow enough to obey — *infection control*, not *brood* — because shrinking aperture was debt Beast Records would spend when ceramic law stepped and vanished at Incus forge hum.
+**Drusus** moved among the herded with filtration packs and instructions spoken slow enough to obey — *infection control*, not *brood* — because shrinking aperture demanded sequence mortals could still hear through the door.
 
 The aperture closed — not with drama — with **finality**.
 
@@ -201,13 +201,9 @@ Apothecarion interns practiced labeling dynastic harmonics without inventing sai
 
 Ford narrowed — memory’s ford, logistics’ ford, same stubborn metaphor with different tolls — and **Alaric** walked it without speeches — hinge-work — because speeches fed Echo seams even when Echo had not earned names. **Mass** answering etiquette the way etiquette answered meat: coldly, completely, without needing to pretend fairness was audience.
 
-Bondsmen erased chalk ticks where they could so override maps could not become relics **Merit** later sold as mood — witness guarded like ammunition — while Valerius stacked wet pages until paper felt like armor against Strategium’s next dry-room joke — armor thin as faith, stubborn as debt, both edges kept honest in same hand.
+Bondsmen erased chalk ticks where they could so override maps could not become relics **Merit** later sold as mood — witness guarded like ammunition — while Valerius stacked wet pages until paper felt like armor against Strategium’s next dry-room joke — armor thin as faith, stubborn as debt, both edges kept honest in the same hand.
 
 **Kessler** stood at sealed span’s landward lip where bridge no longer whimpered because throats inside it had stopped needing to argue with stone. She raised three fingers at bulkhead that still caught light like mirror and did not look away.
-
-**Alaric** walked the ford one last minute without speeches — hinge-work — because speeches fed Echo seams even when Echo had not earned names. **Mass** answering etiquette the way etiquette answered meat: coldly, completely, without needing to pretend fairness was audience.
-
-**Drusus** appended a closing margin — *dynasty ford coupling may present as Wolf’s Curse stress rhyme; treat tremor as environmental false-positive unless sustained across three intervals* — sequence, not prophecy, carried forward toward Incus ash that still waited to teach display all over again.
 
 Inheritance had its law now.
 
@@ -217,39 +213,25 @@ Etiquette, the tomb had proven, could kill without raising voice.
 
 The Chapter would have to learn to answer in frequencies that did not kneel.
 
-**Alaric** walked the ford one last minute without speeches — hinge-work — while bondsmen erased chalk ticks so override maps could not become relics **Merit** later sold as mood, and **Valerius** stacked wet pages until paper felt like armor against Strategium’s next dry-room joke.
+**Kadmos** posted Dynasty cordon one meter deeper — geometry as insurance.
 
-**Kessler** stood at sealed span’s landward lip with three fingers raised at bulkhead that still caught light like mirror — witness route only — and did not look away. Inheritance had its law now. Etiquette, the tomb had proven, could kill without raising voice.
+**Merit** tried once to clip a recorder to span hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only.
 
-**Valerius** stamped toward **Incus Still Burns** twice — Marine continuity beside mortal chains still solvent — because Beast Records waited to teach what trust eaten from within felt like when ceramic law stepped and vanished.
+**Orwen** filed Dynasty timestamps without adjectives — ranges, no metaphors.
 
-**Threx** would argue yield at sealed span — *sampling window favorable* beside *Chapter refuses unverified coupling* — until **Valerius** stamped *witness route only* and made friction look like **solvency**.
+**Echo** listened at sealed span bulkhead for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow**.
 
-**Drusus** appended margin — *Dynasty coupling may present as tomb stress rhyme; treat sealed span etiquette as environmental false-positive unless sustained* — sequence, not prophecy, because inheritance law settled in muscle like etiquette that could kill without raising voice.
+**Santo** scrubbed seal grime from span rail — not clean, *honest*.
 
-**Santo** scrubbed seal grime from span rail — not clean, *honest* — because inheritance law was etiquette that could kill without raising voice before Maw ford spent names in feet, not ink.
+**Varro** filed Dynasty threshold as proto-rite — seal attempted, not victory.
 
-**Valerius** stamped Dynasty handoff toward **Incus Still Burns** twice — inheritance continuity beside mortal chains still solvent — because sealed span taught ceramic law stepped and vanished at Incus aperture before Beast Records billed trust eaten from within.
+**Sera** tagged sealed-span handshake *monitor only* until merge columns starved.
 
-**Kadmos** posted Dynasty cordon one meter deeper — geometry as insurance — because last command was inheritance law at sealed span and span required witness before swamp teeth learned mud could chew without Hive Mind.
-
-**Echo** listened at sealed span bulkhead for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing inheritance law as sequence before Incus borrowed forge hum as echo.
-
-**Orwen** filed Dynasty timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than override maps **Merit** later sold as mood.
-
-**Merit** tried once to clip a recorder to span hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as Dynasty triumph packages when etiquette could kill without raising voice.
-
-**Sera** tagged sealed-span handshake *monitor only* until Pol seed starved merge columns and Incus earned attested injury at forge aperture.
-
-**Alaric** stood at sealed span one minute without speeches — hinge-work — because inheritance law at ceramic edge stepped and vanished before Incus aperture learned sympathy spikes.
-
-**Mira** kept two ink colors on Dynasty slates — *surviving* and *surviving honest* — because bondsmen erased chalk ticks so override maps could not become relics and wet pages felt like armor against Strategium's next dry-room joke.
-
-**Varro** filed Dynasty threshold as proto-rite — seal attempted, not victory — because etiquette that could kill without raising voice was debt Beast Records would spend when trust eaten from within stopped being rumor.
+**Mira** kept two ink colors on Dynasty slates — *surviving* and *surviving honest*.
 
 Interest collecting teeth before receipts.
 
-Quiet ford. Loud orbit. Chalk erased. Witness guarded.
+Quiet ford. Loud orbit. Chalk erased. Incus Still Burns waiting.
 
 Always owed.
 
