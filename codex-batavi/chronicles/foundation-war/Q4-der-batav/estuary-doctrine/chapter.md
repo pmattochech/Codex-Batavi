@@ -149,16 +149,6 @@ Wind off mud tasted like ozone and old rope. She breathed it anyway — breathin
 
 Romance in Book IV opens not with innocence but with **accounting** — love of oaths that include **repayment**, love of kin who refuse to let you become myth without paying for myth’s **price**, love of war that ends — if it ever ends — in ledgers honest enough to shame glory.
 
-**Echo** listened at bund-lane fog for **tide**-shaped harmonics — Triumvirate seal still **narrow** — filing settlement in salt as sequence before tide-names taught names spoken without merging columns.
-
-**Sera** tagged estuary handshake *monitor only* until Pol seed starved merge columns and tide-names earned attested injury.
-
-**Merit** met **NON-COMPLIANT** at bund hololith — witness routes only — because reconciliation packages let admiralties sleep while mortals paid for settlement dressed as triumph.
-
-**Pol**'s seed — monitor only — would rhyme with estuary coupling until Drusus starved merge with triumph theater and *We hold anyway* stayed instrument not folklore.
-
-**Kadmos** posted estuary cordon one meter deeper — geometry as insurance — because settlement in salt taxed both ledgers when reconciliation packages tried to merge Marine throat with mortal debt.
-
 ---
 
 ## VIII. Settlement Latency
@@ -199,53 +189,17 @@ Somewhere ahead, tides still waited to be **named** before crowns could pretend 
 
 **Orwen** — Militarum ink still learning estuary cadence — filed bund-lane ranges until voice went flat, not from courage, from **exhaustion**, because flat was sometimes only story salt-fog accepted when mirrors waited on horizon.
 
-**Santo** hauled salt-crates through bund reeds without looking at hololiths naming *settlement*; looking would have turned doctrine into **spectacle**. **Iria** wrote one correction on tide chart — *interval risk elevated; rotate odd hours on bund crews* — vaccine traveling pole to pole.
+**Threx** filed *estuary yield preserved; witness routes incompatible with sanctified sampling* and met Valerius’s timestamps until even Mechanicus grief wore numbers it could not wear as shame.
 
-**Threx** filed *estuary yield preserved; witness routes incompatible with sanctified sampling* and met Valerius's timestamps until even Mechanicus grief wore numbers it could not wear as shame.
+**Merit** tried once to clip recorder to bund-lane chalk map until **Valerius** stamped **NON-COMPLIANT** — witness routes only.
 
-**Alaric** stood at bund-lane lip one minute after settlement filed and did not remove helm — continuity, not spectacle — while mud gospel still rang in calves and salt counted debts Throne would pretend to invent later. Estuary doctrine was not romance; it was **settlement** — geometry answered with memory, witness before throughput.
+**Mira** stacked estuary tallies beside salt-crates without applause.
 
-**Iria**'s active silence shielded lane against excuses that would have turned bund work into **reconciliation packages** that let admiralties sleep while mortals paid for dream. She touched tide table once — not prayer, **calibration** — and returned to work.
+**Santo** crossed bund stakes with one angry stroke that made law look like carpentry.
 
-**Kessler** walked last bund aisle with timestamps in transcript and three fingers raised at hololith blank sectors like healed skin — witness route only, no throughput dressed as folk liturgy.
+**Sera** tagged estuary embarkation *monitor only* until merge columns starved.
 
-**Drusus** appended closing margin for translation burn — *estuary coupling may present as Wolf's Curse stress rhyme; treat as environmental false-positive unless sustained across three intervals* — sequence, not prophecy, carried forward toward tide-names where mortals would speak Chapter's name before Throne ink arrived to pretend invention.
-
-**Merit** tried once to clip recorder to bund-lane chalk map until **Kessler** threatened another hammer invoice; **Valerius** stamped **NON-COMPLIANT** before first fog-wash could turn settlement into **folk liturgy**. Even **Threx** accepted when stamps made witness look like **solvency**.
-
-Bund mud forgot motion until settlement looked like peace — peace another word for **estuary doctrine** hiding teeth tide-names would teach when humanity named Chapter before Throne ink arrived to pretend invention.
-
-**Valerius** stamped toward **Tide Names** twice — Marine continuity beside mortal chains still solvent — because settlement in salt would tax both ledgers when names spoken at estuary still required witness routes only.
-
-**Drusus** sealed estuary margin — *settlement in salt; DO NOT MERGE with triumph theater* — sequence, not prophecy, because tide names spoken still required witness routes only before *We hold anyway* earned instrument status.
-
-**Kessler** kept timestamps in transcript — witness route only — because settlement in salt was debt tide-names had priced in names spoken without merging columns.
-
-**Mira** stacked estuary tallies beside salt-crates without applause — witness without throughput — because applause fed appetite faster than salt bit wounds and settlement was not reconciliation.
-
-**Orwen** filed bund-lane coupling without adjectives — timestamps, ranges, no metaphors — because facts laid like bricks survived longer than throughput dressed as reconciliation.
-
-**Santo** crossed bund stakes with one angry stroke that made law look like carpentry — hygiene extended to the spine — and did not look at hololiths naming *pressure relief*.
-
-**Varro** prayed treaty into water without letting prayer become throughput — Executor wolf-skull steady — because settlement was not reconciliation.
-
-**Alaric** walked last bund lane without speeches — hinge-work — because speeches fed Echo seams even when mud gospel still rang in calves.
-
-**Iria** breathed active silence at estuary lip — refusal to let convenience rename sacrifice as virtue — because settlement was not reconciliation.
-
-**Valerius** stamped estuary handoff twice — Marine continuity beside mortal chains still solvent — because reconciliation packages admiralties could sleep on still required witness routes only.
-
-**Threx** filed *estuary yield preserved; witness routes incompatible with sanctified sampling* one last time — counter-written before protest landed.
-
-**Echo** listened at bund-lane fog for harmonics not yet **tide**-shaped — filing settlement as sequence before tide-names taught names spoken without merging columns.
-
-**Sera** tagged estuary embarkation *monitor only* until Pol seed starved merge columns and tide-names earned attested injury.
-
-**Orwen** filed estuary handoff without adjectives — timestamps, ranges, no metaphors — because facts laid like bricks survived longer than reconciliation packages admiralties could sleep on.
-
-**Varche** logged estuary settlement on Navy pane without romance — intervals, not triumph — because settlement in salt taxed both ledgers when mud gospel still rang in calves.
-
-**Pol**'s seed — monitor only — would rhyme with bund-lane coupling until Drusus starved merge columns and tide-names earned attested injury.
+**Varche** logged estuary settlement on Navy pane without romance — intervals, not triumph.
 
 Interest collecting teeth before receipts.
 
