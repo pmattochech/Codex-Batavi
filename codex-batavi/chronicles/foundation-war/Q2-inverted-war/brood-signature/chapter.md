@@ -13,8 +13,6 @@
 
 ---
 
-## I. Bloodline — Not Street
-
 Ignis had taught them flare-geometry and **ninety-second** martyrdoms, and Incus took that tuition and asked a worse question: *What if the enemy is not in the street — but in the **bloodline**?*
 
 The question did not arrive as a Strategium memo. It arrived as a graph **Drusus** stared at until his eyes dried and his mouth filled with the metallic taste of too much coffee substitute — **kin networks** lit up not as maps but as *blood*: cousin to cousin, shift-sister to shift-brother, miscarriage counts rising in corridors adjacent to *optimized* output lines until coincidence looked like a religion bureaucrats could join without kneeling.
@@ -24,10 +22,6 @@ The question did not arrive as a Strategium memo. It arrived as a graph **Drusus
 The **backward braid** of Ignis’s hostage seconds sat in his skull like grit: the mesh had already proved mortals could be **priced**; now it proved they could be **sorted** by blood without asking their consent. He had filed the rhyme Triumvirate-only — *Ignis hostage mesh compatible with prior pricing logic* — and hated that the file kept opening itself in his sleep.
 
 Brood-Flutter’s flutter had been *choir*; now the choir had a **score** written in kin tags and midwife routes and guild payroll rhyming across hab-stacks that should not have shared a pulse.
-
----
-
-## II. Possessed Statistics — Or Homework Corrected
 
 He ran the overlays at night while the hive pretended to sleep. Lines that should not rhyme began to **rhyme** across hab-stacks — same cadence in absenteeism, same spike in *voluntary* overtime clusters, same whispered syllable caught on three different *vox* taps that had nothing in common except proximity to Cinder **Nine**.
 
@@ -45,10 +39,6 @@ Drusus did not flinch; flinching was a luxury for men who could pretend data was
 
 — If I am right — he answered — slander is the least blasphemy on the list.
 
----
-
-## III. Ductwork — Water Argues With Blood
-
 **Valerius** — pulled from a supply war with the void and told to make hives *routable* as if streets were friendly — took the hypothesis as an engineer takes load: not moral yet, **structural**. He began sketching seal-perimeters around hab-blocks not as prisons, as **ductwork** — air, water, shift traffic — until officers winced at the cold love of diagrams.
 
 — If blood is how it routes — Valerius muttered once, stylus hovering — then water is how we argue with it.
@@ -62,10 +52,6 @@ The **Magus** — still unnamed in terrified ledgers, still filed as *guild liai
 **Kadmos** walked Cinder Nine’s throughput floor once without bolter drawn — only eyes — because eyes were how you learned a lie’s **shape** before you learned its name. He watched **Mira** thank a foreman for punctuality with a smile that cost nothing and everything; he watched **Santo** argue with a militia sergeant about cordon sanctity while both pretended they were not afraid of the same absence: *justice*, which had never lived here, only **custom**.
 
 Kadmos hated custom less than doctrine sometimes; custom could be pressured. Doctrine only hardened. He filed nothing from the walk except a timestamp and the word *too smooth*, because smooth was how metal looked before it cracked.
-
----
-
-## IV. Pay With Yourself — Not With Them
 
 **Threx** — hubris burning brighter than any flare — pushed a sampling corridor into **civilian mass** the way a man pushes a stylus: neat, offended by friction, corridors widened *for throughput* until bodies had to move faster than bodies liked to move, until fear became a current and current became stampede.
 
@@ -91,10 +77,6 @@ After the plaza stopped trying to become a massacre, **Kessler** counted childre
 
 Threx’s corridor sat **empty** — not victory, absence — while injured mortals learned to hate empty space for reminding them of air they had almost lost. Drusus moved among the trampled with filtration packs and instructions spoken slow enough to be obeyed; he did not mention *brood*; he mentioned *infection control*, because infection was a word factories understood without requiring faith.
 
----
-
-## V. Silence Cohort — Hook Beneath Language
-
 **Varro**’s **Silence Cohort** seeds — militia ears trained to hear blasphemy without repeating it — sent up scraps that should not have belonged together: whispers rhyming across unknown kin ties, the same syllable snagging in unrelated throats like a **hook** passed hand to hand beneath language. Varro moved among them in the *Codex* death-skull helm that made witness feel like verdict. He did not promise safety. He promised **discipline** — that if they listened, they would not become amplifiers. Some listened because they feared the skull. Some listened because they feared Mira’s smile more.
 
 **Valerius** translated pattern into supply risk — which blocks could be sealed, which routes starved, which lie told to guildmasters that would not ignite full riot — so war by ink ran **again**, except ink had learned blood’s alphabet. The Mechanicus ear still heard *yield* where the Chapter heard *souls*; Valerius wrote both translations on separate slates and filed one where Threx could see it and one where only the Castellan would.
@@ -104,10 +86,6 @@ The informer was a boy — **Pol**, **Santo**’s friend — who loved birds eno
 Pol heard a word spoken twice in a confession that was not confession — only **kin** recognizing kin across a crowded hall where Astartes stood too large to understand small frequencies — and tried to carry that word to Marine lines the way children carry **flags**, proud and stupid and brave.
 
 The brood answered with knives that did not care about birds. Pol paid in blood for syllables.
-
----
-
-## VI. Witness Routes Only — Names Are Not Coins
 
 When **Drusus** arrived the scene had already been cordoned into lies: *industrial accident*, *unauthorized assembly*, *contamination event*. He stepped through the lies the way he stepped through triage curtains — without arguing, because arguing wasted seconds — and still almost failed when he saw seed scattered beside blood. Small treasons. Small mercies. Both looked the same from above.
 
@@ -131,10 +109,6 @@ Then he logged — sealed, queriable only by Triumvirate and ticking Machine Spi
 
 The stamp felt heavier than wax. He pressed it anyway.
 
----
-
-## VII. Terrain — Not Opinions
-
 **Alaric** read the seal confirmation without lifting his helm — visors made grief easier to compartmentalize, and compartmentalization was not cowardice; it was **sequence**.
 
 — If inheritance is weapon — he said to the Triumvirate knot alone — we stop treating populations as opinions and start treating them as **terrain**.
@@ -152,10 +126,6 @@ Rain hissed against Cinder Nine. Quota chant tried to rise; someone silenced it 
 **Varro** walked the gantry where Mira had stood and did not accuse her. Accusation required evidence his office could not yet carry without breaking more boys than it saved. He dipped his *Codex* death-skull once — small bow to the dead, smaller than law, larger than nothing — and moved on.
 
 **Santo** carried Pol’s flag — too small for Astartes to see until it was already red — and learned that inheritance traveled in cloth before it traveled in hololiths. **Mira** watched from a gantry without applauding usefulness; she adjusted a load instead — witness without applause — because mothers on Incus had learned applause was throughput, and throughput ate sons.
-
----
-
-## VIII. Third Syllabus — Bloodline
 
 Checkpoint teeth scraped boots and egos alike. Somewhere in the sealed file, a graph kept rhyming; somewhere in the uplink queue, **Iria**’s request still blinked — **Not yet** — while the hive learned a new dishonesty: pretending **kin** was still only love, now that the Chapter knew better.
 
