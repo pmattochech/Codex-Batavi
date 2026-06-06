@@ -172,7 +172,7 @@ Mark `[x]` when structure pass is complete for that slug.
 | 32 | prism-war | `Q4-der-batav/prism-war/chapter.md` | [x] |
 | 33 | halo-mouth | `Q4-der-batav/halo-mouth/chapter.md` | [x] |
 | 34 | lecture-in-vacuum | `Q4-der-batav/lecture-in-vacuum/chapter.md` | [x] |
-| 35 | we-hold-anyway | `Q4-der-batav/we-hold-anyway/chapter.md` | [ ] |
+| 35 | we-hold-anyway | `Q4-der-batav/we-hold-anyway/chapter.md` | [x] |
 | 36 | the-core-refuses | `Q4-der-batav/the-core-refuses/chapter.md` | [ ] |
 | 37 | der-batav-council | `Q4-der-batav/der-batav-council/chapter.md` | [ ] |
 | 38 | instrumentum-solum | `Q4-der-batav/instrumentum-solum/chapter.md` | [ ] |

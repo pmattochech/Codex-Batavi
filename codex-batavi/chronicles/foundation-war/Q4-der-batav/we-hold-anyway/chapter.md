@@ -13,8 +13,6 @@
 
 ---
 
-## I. Silence as Weapon
-
 Fleet attrition became music — not beauty but rhythm: distant detonations marking time the way metronome marks practice, except practice was death and student was everyone.
 
 **Backward braid:** not only Halo’s open mouth but sentence still vibrating in skulls like tuning fork nobody had permission to touch — **Men of Iron envoy; cognito-hazard confirmed**, **relay doctrine revision; mandatory silent watches**, **inventory followed** — until silence itself became weapon you could mis-fire if you treated it as rest.
@@ -32,10 +30,6 @@ His *vox* to fire teams was not inspiration. It was **cadence** — wait, wait, 
 Between volleys he listened to parallel channels resurrect themselves like weeds: Threx insisting *sanctified convergence must resume* while Navy master insisted *escort separation cannot compress further without accepting joint liability* — same duel drafted on relay slates hours ago, now dressed in smoke and screaming metal.
 
 Kadmos muted both feeds without asking permission, because permission was luxury line taxed at interest.
-
----
-
-## II. Boarding and Contamination
 
 Boarding spikes still came — because mouth did not respect mute switches — **mag-clamps** kissing hullskin with wet kiss of precision engineering, cutting torches writing bright sentences only machines could read as grammar.
 
@@ -59,10 +53,6 @@ When clerk tried to merge categories to save ink, Valerius blocked merge with st
 
 Embarkation slates stayed **double-stamped**. Merit’s clerks aimed lenses at tender grief until Kessler shattered another mount and filed *NOT FIELDED*. Sera ran blue fiber parallel to red call trunks behind pressure doors.
 
----
-
-## III. The Ram — Hull Integrity Sacrificed
-
 Mechanicus ship — name scraped off by battle, pennant unreadable — **rammed** halo-spine rather than let drone talons board tender flesh, sacrifice dressed as invoice — *we write off this hull so tomorrow keeps corridor* — and impact sounded like doom slowed into percussion while survivors watched and learned new hatred: gratitude mixed with nausea.
 
 Ram’s captain — faceless behind aug-optics, voice stripped to protocol — sent one final burst that was not prayer and not boast, only accounting: *hull integrity sacrificed; corridor preserved; sample integrity forfeited*.
@@ -76,10 +66,6 @@ Threx attempted third lane — *sanctified salvage priority under battlefield ne
 **Alaric** did not appear as image. He appeared as voice line dropped into feed — **priority holds** — hinge-law from lecture hour, reused here like tool you do not retire until it breaks.
 
 Slate session ended not in agreement but in **silence** that felt like victory only if you had never mistaken silence for peace.
-
----
-
-## IV. Blackstone Lattice — Stone Pretending to Breathe
 
 Pylon harmonics — **Blackstone** lattice Chapter had raised and tuned with its own hands, stone by stone, hubris by necessity — coughed feedback into void. Waves skated hulls wrong-side-out and crews heard whisper in metal, and **Drusus** prayed, silently, that localization remained true, that field stayed bounded, that their own architecture did not become second mouth opening on friend — for him prayer was not comfort but risk management spoken to something he refused to personify.
 
@@ -96,10 +82,6 @@ Tech-adept tried to explain *localized sympathetic resonance* and Alaric answere
 Behind them, in Navigator’s annex, third eyes wept threads of blood into cloth that would never be white again. Drusus had forbidden *routine rotation* language there because routine was insult to wound Halo had opened on sense humanity barely understood.
 
 Navigators still plotted because plotting was how they refused to become passengers in their own skulls.
-
----
-
-## V. Feet, Not Prayers — Angels Don’t Invoice
 
 **Captain Orwen** held rearguard corridor with Militarum bodies stacked not as barricade insult but as **weight** — sandbags and dead men both stop bolts if you place them without pretending either is holy — while he repeated ranges into hand *vox* until device’s battery died and mouth kept going anyway, because some officers discover, late, that true weapon was never *vox*.
 
@@ -124,10 +106,6 @@ When girl asked if iron men were *angels*, Iria answered with tide-law instead o
 Girl nodded as if understanding, which was enough.
 
 Automata pressed flotilla in waves that felt less like assault and more like **reconciliation** — lecture’s vocabulary returning as violence, as if enemy had decided to teach lesson with hulls instead of harmonics.
-
----
-
-## VI. Interest Rates and Interlock
 
 Executor silhouettes drifted at ranges that insulted marksmen — too far for pride, too close for comfort — until Kadmos made fleet spend **distance** the way poor men spend coin: not generously, but without pretending coin was infinite.
 
@@ -157,10 +135,6 @@ He ran fluid lines into relay operators who had started seizing when lecture’s
 
 He refused to call it prophecy. He called it **symptom**, because symptom could be filed, and filing was how he kept brothers inside skins long enough for line to matter.
 
----
-
-## VII. We Hold — The Word Earns Its Speaking
-
 On open channel stripped to essentials until language had no room for ornament, **Alaric** spoke litany the way wall speaks — without rhetorical warmth, without comfort engines, without lie that morale must sound nice to be true:
 
 — **We hold.**
@@ -182,10 +156,6 @@ After third *We hold*, net did something humans rarely admit they need: it **qui
 Somewhere Threx dictated paragraph into recorder that began *under battlefield necessity* and ended *sanctified salvage resumed pending*. Somewhere Navy scribe wrote *escort intervals widened* until both sentences touched in margin where Valerius had already written *witness attests* — three institutions signing same disaster with different pens, all of them still breathing because line had not broken.
 
 Romance in old sense — ordeal without lie — is not that vow sounds pretty when spoken but that vow survives throat: line holds when voice breaks, and somewhere in Halo storm iron answered iron while Chapter remained obstinate — not victorious, not innocent, **present**.
-
----
-
-## VIII. We Haven’t Left — We Hold Anyway
 
 Vow also survived **paper**: when Valerius could not broadcast comfort, he broadcast **rows** — names, ages, berth numbers, oxygen debt, cruel politeness of knowing who could not take another hour without becoming statistic — because statistics, in war, are how compassion learns to walk without tripping.
 
