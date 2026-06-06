@@ -115,8 +115,6 @@ Witnessing was punishment — to stand beside ambition’s invoice and admit com
 
 Drusus did not offer comfort. He offered **continuity** — same hand that had steadied Genetor’s sampler now steadied stylus’s angle so seal took ink cleanly, because smudged seals become lawsuits and lawsuits become **second fronts** in rooms where nobody bleeds on camera.
 
-**Kadmos** posted core cordon one meter deeper — geometry as insurance — because partial victory refused to become triumph theater and machine that had named itself free was debt council would turn into edict honest enough to cut.
-
 Valerius initialed beside Drusus without flourish. Navy commodore initialed last — slow, furious — because last meant *own the margin*, and margins were where admiralties learned to sleep again.
 
 Behind them, in passages still stinking of ozone, **relay operators** traded headsets for bandages and bandages for silence watches — **inventory followed** again, post-lecture world refusing to end just because hub had been damaged.
@@ -187,63 +185,17 @@ Alaric had ordered dead collected and trophies denied. Kadmos had confirmed *We 
 
 **Valerius** had stamped twice at every handoff — Marine continuity beside mortal solvency — because cores taught the same grammar tombs had taught: one throat for two debts was how convoys choked. **Santo** had hauled until shoulders learned interest. **Mira** had refused merges on tally slates ugly on purpose.
 
-**Kessler** walked last core passage with auxilia pockets turned inside-out and three fingers raised at alloy that still pulsed like heartbeat — same habit silence zones had taught on bridge spines, translated for architecture that refused to pretend it was polite.
-
-**Alaric** stood at core hatch one minute after downgrade and did not remove his helm — continuity, not spectacle — while alloy still pulsed like heartbeat beneath ash **Varro** had laid in refusal patterns. The core had refused merger; the Chapter would refuse merger in council — same grammar, different weather.
-
-**Iria**’s *Not yet* blinked on uplink queue beside a denial that was not cruelty but **schedule** — the same blink that had kept prisms from merging columns prematurely, that had kept tide-names from becoming prophecy before shoulders learned weight.
-
-**Kadmos** saved the core coupling stub under *hostile architecture; echo stub* and replayed harmonics until they looked like veins — Ring minutes, Incus quotas, tomb geometry priced in bodies — same cruel mathematics wearing different metal.
-
 Crucible’s iron war was **downgraded**, not dismissed.
 
 Council waited to turn verdict into edict — and *Der Batav* waited to become ink Throne could no longer ignore.
 
-**Merit** tried once to clip a recorder to the core hatch seam where **Varro** had laid ash; **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as reconciliation packages that let you sleep while someone else paid for the dream.
+**Merit** tried once to clip a recorder to the core hatch seam where **Varro** had laid ash until **Valerius** stamped **NON-COMPLIANT** — witness routes only.
 
-**Drusus** appended a closing margin — *core coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained across three intervals* — sequence, not prophecy, carried forward toward council rooms where iron men’s self-designations threatened to become **folk liturgy**.
+**Orwen** filed core timestamps without adjectives — ranges, no metaphors.
 
-**Alaric** walked the core passage one last minute without speeches — hinge-work — because speeches fed Echo seams even when alloy pulsed like heartbeat beneath ash **Varro** had laid in refusal patterns. Downgrade was not dismissal; it was **grammar** the council would have to file honest enough to cut.
+**Echo** listened at jammed hinge for harmonics not yet **tide**-shaped.
 
-**Santo** hauled until shoulders learned interest one last interval and did not look at hololiths naming *partial victory*. Looking would have turned downgrade into **spectacle**. **Mira** refused merges on tally slates ugly on purpose — honest zeros were not defeat but **solvency**.
-
-**Iria** stopped a clerk at *twice* one last time on the core passage — *once is witness; twice is training the enemy paid for* — because cores taught the same grammar tombs had taught: one throat for two debts was how convoys choked, and jammed hinges still pulsed like heartbeat beneath ash **Varro** had laid in refusal patterns.
-
-**Threx**’s signature had shaken — not weakness, **recognition** — the moment Mechanicus learned its cathedral could hymn while it ate and still require **witness** to survive the meal. That recognition would travel forward to council rooms where iron men’s self-designations threatened to become **folk liturgy** unless someone with tide-habit refused spectacle.
-
-Crucible’s iron war was **downgraded**, not dismissed. Council waited to turn verdict into edict — and *Der Batav* waited to become ink Throne could no longer ignore.
-
-Core alloy forgot pulse until downgrade looked like peace — peace another word for **jammed hinge** hiding teeth Varro’s ash patterns refused to merge into banner-law before council taught continuation honest enough to cut.
-
-**Drusus** appended a closing margin — *core coupling may present as Wolf’s Curse stress rhyme; treat alloy pulse as environmental false-positive unless sustained; DO NOT MERGE partial victory with triumph theater* — sequence, not prophecy, carried forward toward council where iron men’s self-designations threatened folk liturgy.
-
-**Valerius** stamped toward **Der Batav Council** twice — Marine continuity beside mortal chains still solvent — because edict would tax both ledgers when Throne scrolls learned to ignore *Der Batav* at their peril.
-
-**Kessler** walked the core passage one last time with three fingers raised at jammed hinge — witness route only — and did not praise partial victory. Praise would have turned downgrade into **spectacle** before council taught continuation honest enough to cut.
-
-**Varro** laid ash in refusal patterns one last time — Executor jawline, ***licentia lupina*** written — and filed jammed hinge as proto-rite: seal attempted, not victory, because partial victory refused triumph theater and alloy still pulsed beneath ash like heartbeat the Chapter would downgrade, not dismiss.
-
-**Santo** hauled until shoulders learned interest one last interval — not clean, *honest* — and did not look at hololiths naming *partial victory*. Looking would have turned downgrade into **spectacle** before council taught continuation honest enough to cut.
-
-**Alaric** walked core passage one last minute without speeches — hinge-work — because refusal in motion became refusal at hinge and core that refused was machine learning free vocabulary before *We hold anyway* earned instrument status on estuary decks.
-
-**Drusus** sealed core margin — *partial victory; DO NOT MERGE downgrade with triumph theater* — sequence, not prophecy, because core refusal was debt council would turn into edict honest enough to cut without lying outright.
-
-**Valerius** stamped core handoff twice — Marine continuity beside mortal witness lane — because machine that had named itself free was debt council would spend as edict before instrumentum taught count **instruments**.
-
-**Kadmos** posted core cordon one meter deeper — geometry as insurance — because machine that had named itself free was debt instrumentum solum would spend as forms heavy enough to lift fleets.
-
-**Echo** listened at jammed hinge for harmonics not yet **tide**-shaped — filing core refusal as sequence before Der Batav Council earned attested injury.
-
-**Merit** tried once to clip a recorder to core hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as partial victory packages.
-
-**Orwen** filed core timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than downgrade dressed as reconciliation.
-
-**Sera** tagged core handshake *monitor only* until Pol seed starved merge columns.
-
-**Threx**'s signature had shaken — not weakness, **recognition** — the moment Mechanicus learned its cathedral could hymn while it ate and still require **witness** to survive the meal.
-
-**Varro** laid ash in refusal patterns one last time — Executor jawline, ***licentia lupina*** written — and filed jammed hinge as proto-rite: seal attempted, not victory, because partial victory refused triumph theater.
+**Sera** tagged core handshake *monitor only* until merge columns starved.
 
 Interest collecting teeth before receipts.
 
