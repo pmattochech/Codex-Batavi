@@ -167,7 +167,7 @@ Mark `[x]` when structure pass is complete for that slug.
 | 27 | half-chapter-still-standing | `Q3-gulf-and-beast/half-chapter-still-standing/chapter.md` | [x] |
 | 28 | forward-to-the-crown | `Q3-gulf-and-beast/forward-to-the-crown/chapter.md` | [x] |
 | 29 | estuary-doctrine | `Q4-der-batav/estuary-doctrine/chapter.md` | [x] |
-| 30 | tide-names | `Q4-der-batav/tide-names/chapter.md` | [ ] |
+| 30 | tide-names | `Q4-der-batav/tide-names/chapter.md` | [x] |
 | 31 | mirror-brood | `Q4-der-batav/mirror-brood/chapter.md` | [ ] |
 | 32 | prism-war | `Q4-der-batav/prism-war/chapter.md` | [ ] |
 | 33 | halo-mouth | `Q4-der-batav/halo-mouth/chapter.md` | [ ] |

@@ -13,8 +13,6 @@
 
 ---
 
-## I. The Shingle as Jury
-
 On **shingle shelf** where Needles watched like **jury** — shell-cloaks rattling, crab bells dulled by salt, eyes used to reading lies in weather — mortals did what Throne paperwork could not.
 
 They **named**.
@@ -30,10 +28,6 @@ Embarkation slates from Estuary settlement still arrived **double-stamped** — 
 Merit’s clerks aimed *witness throughput lenses* at shingle until Kessler shattered another mount and filed *NOT FIELDED*. Beach was not mood board. Beach was **feet**, salt, and throats learning name louder than stamps.
 
 Sera paired fiber through duplicate trunks behind dunes — red for *call*, blue for *ghost* — because harmonics ate one seam and called it *signal hygiene* while custody still breathed on second line.
-
----
-
-## II. Kneel, Refuse, Witness
 
 **Surviving officers** came down to waterline in postures that cataloged different species of survival.
 
@@ -57,10 +51,6 @@ Bondsmen whispered **Dark Age of Technology** near tide clocks until Varro crush
 
 — Nomenclature is seal — he said. — Myth recruits shingle faster than doctrine leashes it when fog kneels witnesses without blades.
 
----
-
-## III. Bootprints as Document
-
 **Reading** beat was beach itself — bootprints overlapping until shingle became document nobody could forge alone: where Orwen’s knee landed, where Kessler’s bandage left rust on stone, where child had drawn three lines in wet grit and called it **convoy** because children learn war’s vocabulary faster than adults learn courage.
 
 **Drusus** walked shelf once with slate and did not ask names he was not owed. He sketched spacing marks where spacing could be read as **testimony** — geometry as respect — because some grief must be translated before it becomes **myth**.
@@ -76,10 +66,6 @@ Apothecarion interns practiced distinguishing **Exanimus** drift from tidal exha
 Santo hauled crates of dry blankets until shoulders learned **interest**. Mira kept two ink colors on same knuckles: *surviving* and *surviving honest* — refusing merges the way Valerius refused merges upstairs.
 
 Children drew three lines in grit until parents let them — some lessons deserve chalk. Kessler forbade Merit pict rigs at tide-line because *comfort loops* could monetize choir before choir finished owning its debt.
-
----
-
-## IV. Der Batav — The Iron That Stayed
 
 **Iria** stepped to tide’s tongue with bare feet honest in cold water and shouted tide-name older than Gothic:
 
@@ -99,10 +85,6 @@ Iria traded **active silence** with engineers who wanted to package choir into K
 
 Wind off surf tasted like ozone and rotting kelp. She breathed it anyway — breathing proved somebody still negotiated with bodies instead of only with cognomen filings.
 
----
-
-## V. Alaric Kneels — Helm Stays On
-
 Protocol held because **Visage** law is older than beaches, older than theater, older than mercy of being known by your skin.
 
 **Alaric** did **not** remove helm — not there, not for them — because to do so would have turned witness into **exception**, and exceptions rot institutions from inside.
@@ -118,10 +100,6 @@ Above, in colder arithmetic, **Threx** watched pict-thief feeds scrubbed clean b
 Kadmos stood rearward with **touch-taps** ready if *vox* died — knuckle code — because panic dressed as spray-static recruited faster than bolts when harmonics mimicked **override etiquette** learned on tombs.
 
 He did not speak Chapter’s iron answer as liturgy. Beach had its own verb now: **Der Batav** — iron that stayed — and *hold* could wait until mouths had paid enough not to lie.
-
----
-
-## VI. Romance Without Lie
 
 Romance — old sense: ordeal without lie — is not that hero earns crown but that hero receives name he did not forge alone.
 
@@ -141,10 +119,6 @@ Thunderhawks warmed on ridgeline, engines coughing heat into wet air, **crown** 
 
 War was not over, but Aethelgard, for one salt-scoured hour, had spoken **first**.
 
----
-
-## VII. Tide-Name Witness — Filed Late
-
 Strategium, days later, would file hour under **tide-name witness; Batavi cognomen emergent**, because even institutions learn to repeat what beaches force them to hear.
 
 Officers who had never knelt to glass knelt to **paper** when *air-gap* became word that could save more lives than bolter. Valerius made them sign for procedure like ordnance, because procedure was only exorcism that still fit in margin after tombs learned Strategium language well enough to mock it back.
@@ -160,10 +134,6 @@ Valerius stamped embarkation slate toward **Mirror Brood** twice — once for ce
 Evacuation teams had walked gangways twice — once for optics, once for souls — duplicate passes that looked like inefficiency until inefficiency saved necks from trusting wrong glass. Shingle repeated lesson without asking permission: **teams** counted breath before they counted **brand**.
 
 Junior auspex clerks learned to hate **confidence** when intervals tightened without new contacts — same hunger archives had worn as politeness — because congratulations arrived early when categories tried to merge and only **witness routes** refused merge in ink anyone could bleed on.
-
----
-
-## VIII. Humanity Named First
 
 Humanity had named Chapter before Throne did — not edict first, **voice** first — and voice, on shingle, was weight you could not delete when ink arrived pretending the Throne had invented what mortals had already spoken in salt.
 
