@@ -159,7 +159,7 @@ Mark `[x]` when structure pass is complete for that slug.
 | 19 | gulf-deployment | `Q3-gulf-and-beast/gulf-deployment/chapter.md` | [x] |
 | 20 | skin-debt | `Q3-gulf-and-beast/skin-debt/chapter.md` | [x] |
 | 21 | bridge-saints | `Q3-gulf-and-beast/bridge-saints/chapter.md` | [x] |
-| 22 | maw-exercise | `Q3-gulf-and-beast/maw-exercise/chapter.md` | [ ] |
+| 22 | maw-exercise | `Q3-gulf-and-beast/maw-exercise/chapter.md` | [x] |
 | 23 | dynasty-last-command | `Q3-gulf-and-beast/dynasty-last-command/chapter.md` | [ ] |
 | 24 | incus-still-burns | `Q3-gulf-and-beast/incus-still-burns/chapter.md` | [ ] |
 | 25 | the-beast-chapter | `Q3-gulf-and-beast/the-beast-chapter/chapter.md` | [ ] |

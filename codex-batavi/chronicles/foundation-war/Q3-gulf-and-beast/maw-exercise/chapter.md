@@ -11,8 +11,6 @@
 
 ---
 
-## I. Pressure Relief
-
 The Strategium called it **pressure relief** — a second front to drain enemy attention from the **Bifrons** gulf, as if war were hydraulics you could reroute with enough casualties and confidence.
 
 The swamp called it **Tempestas-Major-VII**, and everyone with sense shortened the name to what it felt like in the lungs: the **Maw**.
@@ -30,10 +28,6 @@ Alaric did not debate long.
 — Reinforce the ford sector — he said. — Do not retreat.
 
 The liaison heard *Codex*. Valerius heard **receipts**. Drusus heard **chemistry waiting to happen**.
-
----
-
-## II. The Maw Teaches Distrust
 
 **Tempestas-Major-VII** swallowed amphibious companies the way old romances swallow knights: with teeth disguised as **weather** — rain that stung like acid mist, heat that thickened until armor became a cooking pot, mud that *learned* your weight and tried to keep it.
 
@@ -57,10 +51,6 @@ Drusus’s margins traveled in the kit: *tremor rhyme — record in mud-skin con
 
 Guides refused glory. Glory attracted warbands who treated guides like livestock. Valerius learned fast that paying exile guides in **silence** — no hololith interviews, no Merit throughput — bought cleaner routes than paying them in fame.
 
----
-
-## III. Weaponized Ecology
-
 The enemy did not arrive as a parade.
 
 A **Chaos-touched** warband — no banner worth naming, no ideology honest enough to print — had learned to ride **fauna** the way other cultures ride horses: cruelty dressed as partnership, drugs and needles and whispers that made beasts **obedient** to appetite.
@@ -81,10 +71,6 @@ He cataloged saliva residues that ate ceramite paint in minutes and filed them u
 
 He forced **Wolf’s Curse** watch off the public *vox* — **Kadmos** enforced — because *Furor* language in a leviathan’s breath could invent religion in the wrong lungs. Medicae still charted stress in private where **rhyme** could be data, not rally.
 
----
-
-## IV. When Auxilia Becomes Myth
-
 Mortals chained sandbags forward until rope ate palms. Kessler forbade heroes from sprinting choke lanes heroes invented when cameras lived only in memory — here mud ate memory faster than Merit ever could.
 
 She still checked truth before each order, knuckles chalked from bridge habit, three fingers for *hold* translated into mud where bulkheads were roots and mirrors were puddles that lied about depth.
@@ -102,10 +88,6 @@ Kessler dragged a boy out of a channel by the collar and slapped him once — no
 **Santo** ran ammunition forward until mud climbed his calves like theology — **useful** the way forges are useful — while **Mira Kell**, miles behind on tally benches she hated needing, stacked names beside crates without applause because applause fed Chaos appetite faster than salt bit wounds.
 
 Storm cells dragged radar ghosts across auspex until Drusus forced operators to chart **intervals** instead of angels — same discipline tombs had demanded — because swamp harmonics wore cousins’ masks and lied politely until uglier filters convicted them.
-
----
-
-## V. Geometry in Brown Water
 
 **Kadmos** fought like a man paying **interest** on earlier choices — every economized breach on the gulf, every hard line he had held, every time he told Skitarii *you breach; we hold* — paid here in bitter coin: beautiful movement, bitter outcomes, the Batavi curse of being **useful** even when usefulness meant stepping into mud that wanted to swallow Astartes whole.
 
@@ -133,10 +115,6 @@ Not liturgy — **job** — the same hygiene Santo had learned on gulf decks, ex
 
 Rear security stacked fire solutions with **touch-taps** when rain ate *vox* — knuckle code older than brands — because **Silence Cohort** logic had begun to leach into line discipline even without chaplain titles. Some frequencies recruited panic faster than bolters when men could not hear their own sergeants.
 
----
-
-## VI. The Ford Holds
-
 **Varro** moved along ridges where mire-light caught his **Executor** wolf-skull helm and made him a beacon nobody wanted to follow and everybody **needed**.
 
 The profile reflected the swamp like a moon **drowned on purpose** — cold, deliberate, wrong in a place that preferred blind panic.
@@ -157,10 +135,6 @@ The ford held anyway — measurable in exile chalk erased after battle, in boys 
 
 Tyrannus Lutum withdrew — not routed, **sated** on auxilia and equipment the ford had been forced to spend as bait — leaving channels that refilled faster than grief and a smell that would follow Pole VII like an irreversible label.
 
----
-
-## VII. Night — Wrong Shine
-
 Night brought bioluminescence like insult — pretty light on ugly death — until Varro forbade staring games. **Glare discipline** transported badly off Vitreus into **wrong shine** here; men tracked glow instead of ford stones.
 
 Medicae tarps filled with auxilia who had not been bitten — **pre-wounded** by panic chemistry — until Drusus metered sedatives like artillery and refused poetry even when screams argued for hymns.
@@ -180,10 +154,6 @@ The Strategium filed **Tyrannus Lutum** under **confirmed Chaos-touched fauna we
 Bondsmen whispered **Dark Age of Technology** near captured needles until Varro crushed the whisper with ash.
 
 — Nomenclature is seal — he said. — Myth recruits fauna faster than doctrine leashes it.
-
----
-
-## VIII. Ledgers That Survive Slides
 
 **Valerius** wrote reports that grew **lyrical** despite himself — sentences with rhythm, adjectives sneaking in like contraband faith: *mire like black glass; rain like needles; the leviathan’s passage a sermon in displacement.*
 
@@ -206,10 +176,6 @@ Drusus appended a closing margin for translation burn — *Exanimus-adjacent tre
 Apothecarion interns practiced labeling panic chemistry without inventing saints — **rhyme** permitted in margins; **oracle** burned — until junior medicae stopped mistaking adrenaline for theology when brown water climbed rib cages.
 
 Valerius stamped the embarkation slate toward **Dynasty’s Last Command** twice — once for Pole VII biocontainment continuity, once for crews still solvent enough to pretend dry rooms deserved opinion — because the next chapter would tax both ledgers again, interest collecting teeth before receipts every time staff confused poles and people.
-
----
-
-## IX. Still Water Hides Teeth
 
 The ford cooled after battle until mud forgot motion and looked like peace — peace being another word for **still water** hiding teeth.
 
