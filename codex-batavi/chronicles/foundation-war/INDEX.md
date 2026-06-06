@@ -4,6 +4,16 @@
 
 **Geography lock:** [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md) — **Insula Tenebrarum** / **Castra Vetera** mesh; planning lattice [`../../planning/FOUNDATION-WAR-RETCON-PLANNING.md`](../../planning/FOUNDATION-WAR-RETCON-PLANNING.md) **§1**, **§6**.
 
+## Quarter hubs
+
+| Quarter | CV span | Thesis (staff) | Hub |
+| --- | --- | --- | --- |
+| **Q0** | pre–y0 | Beacon lure; entombment cold open; ingress hazard | [Q0-prelude/INDEX.md](Q0-prelude/INDEX.md) |
+| **Q1** | y0–y7 | Moon Hunt — prey before name; Aethelgard crucible | [Q1-moon-hunt/INDEX.md](Q1-moon-hunt/INDEX.md) |
+| **Q2** | y8–y14 | Inverted War — trust eaten; hive / ring / flare / glass | [Q2-inverted-war/INDEX.md](Q2-inverted-war/INDEX.md) |
+| **Q3** | y15–y21 | Gulf & beast — tombs, maw, **Execratio** (~y19) | [Q3-gulf-and-beast/INDEX.md](Q3-gulf-and-beast/INDEX.md) |
+| **Q4** | y22–y29 | Der Batav — naming, MoI terminal, Council, coda | [Q4-der-batav/INDEX.md](Q4-der-batav/INDEX.md) |
+
 **Canonical sequence for this tree:** table below. **Inserts:** add a row and a folder; update **two** adjacent `Next:` footers in `chapter.md` files.
 
 | # | Quarter | Slug | Title | `chapter.md` |
@@ -50,4 +60,4 @@
 
 **Optional inserts:** add a new row + folder in this tree, then update the **two adjacent** `Next:` footers in the relevant `chapter.md` files (previous → insert, insert → next).
 
-**Saga hub:** [README.md](README.md) · **Q0 prelude:** [Q0-prelude/INDEX.md](Q0-prelude/INDEX.md)
+**Saga hub:** [README.md](README.md) · **Q0 prelude:** [Q0-prelude/INDEX.md](Q0-prelude/INDEX.md) · **Legacy map:** [legacy-map.md](legacy-map.md)

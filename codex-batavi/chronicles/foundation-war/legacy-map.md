@@ -4,6 +4,7 @@
 
 | Legacy file (`00-foundation-war/`) | New path |
 |---:|---|
+| *(none — Q0 new prose)* | `Q0-prelude/distress-vector/chapter.md` |
 | `chapter-01-mud-gospel.md` | `Q1-moon-hunt/mud-gospel/chapter.md` |
 | `chapter-02-the-arrangement.md` | `Q1-moon-hunt/the-arrangement/chapter.md` |
 | `chapter-03-dog-logic.md` | `Q1-moon-hunt/dog-logic/chapter.md` |

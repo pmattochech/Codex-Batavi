@@ -16,3 +16,5 @@
 | 36 | `the-core-refuses` | *The Core Refuses* | [chapter.md](the-core-refuses/chapter.md) |
 | 37 | `der-batav-council` | *Der Batav Council* | [chapter.md](der-batav-council/chapter.md) |
 | 38 | `instrumentum-solum` | *Instrumentum Solum* | [chapter.md](instrumentum-solum/chapter.md) |
+
+**Quarter chain:** ← [Q3 gulf and beast](../Q3-gulf-and-beast/INDEX.md) · **Saga end**

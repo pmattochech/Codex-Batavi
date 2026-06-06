@@ -16,3 +16,5 @@
 | 26 | `vitreus-bleed` | *Vitreus Bleed* | [chapter.md](vitreus-bleed/chapter.md) |
 | 27 | `half-chapter-still-standing` | *Half Chapter Still Standing* | [chapter.md](half-chapter-still-standing/chapter.md) |
 | 28 | `forward-to-the-crown` | *Forward to the Crown* | [chapter.md](forward-to-the-crown/chapter.md) |
+
+**Quarter chain:** ← [Q2 inverted war](../Q2-inverted-war/INDEX.md) · → [Q4 Der Batav](../Q4-der-batav/INDEX.md)

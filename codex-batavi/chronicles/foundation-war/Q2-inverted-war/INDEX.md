@@ -15,3 +15,5 @@
 | 16 | `glass-overture` | *Glass Overture* | [chapter.md](glass-overture/chapter.md) |
 | 17 | `tertius-anvil` | *Tertius Anvil* | [chapter.md](tertius-anvil/chapter.md) |
 | 18 | `years-eight-to-fifteen` | *Years Eight to Fifteen* | [chapter.md](years-eight-to-fifteen/chapter.md) |
+
+**Quarter chain:** ← [Q1 moon hunt](../Q1-moon-hunt/INDEX.md) · → [Q3 gulf and beast](../Q3-gulf-and-beast/INDEX.md)

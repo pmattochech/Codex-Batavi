@@ -9,3 +9,5 @@
 | 0 | `distress-vector` | *Distress Vector* | [chapter.md](distress-vector/chapter.md) |
 
 **Next in chain:** [mud-gospel](../Q1-moon-hunt/mud-gospel/chapter.md) · Q1
+
+**Quarter chain:** **Saga open** · → [Q1 moon hunt](../Q1-moon-hunt/INDEX.md)

@@ -2,7 +2,7 @@
 
 ## foundation-war (canonical serial)
 
-**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [legacy serial → slug map](foundation-war/legacy-map.md). **Phases 3–5 complete** (Q0 prelude + 38 chapters; staff ripple + audit). **Density pass complete** — 39 chapters, **10,343** lines, bands **364 / 285 / 264 / 260**. **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
+**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [legacy serial → slug map](foundation-war/legacy-map.md). **Phases 3–5 complete** (Q0 prelude + 38 chapters; staff ripple + audit). **Density pass complete** — 39 chapters, **10,343** lines, bands **364 / 285 / 264 / 260**. **Quarter hubs:** [Q0](foundation-war/Q0-prelude/INDEX.md) · [Q1](foundation-war/Q1-moon-hunt/INDEX.md) · [Q2](foundation-war/Q2-inverted-war/INDEX.md) · [Q3](foundation-war/Q3-gulf-and-beast/INDEX.md) · [Q4](foundation-war/Q4-der-batav/INDEX.md). **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
 
 **Staff summary** (nine poles, phases, casualty bands, cross-links): [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md).
 

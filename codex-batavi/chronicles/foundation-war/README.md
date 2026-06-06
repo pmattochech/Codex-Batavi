@@ -30,3 +30,5 @@ Codas: **Interest → stamp line → Always owed** (or quarter-specific liturgy 
 ---
 
 **Start reading:** [`INDEX.md`](INDEX.md) → Q0 [`Q0-prelude/INDEX.md`](Q0-prelude/INDEX.md) → [`distress-vector/chapter.md`](Q0-prelude/distress-vector/chapter.md).
+
+**Quarter navigation:** [Q0](Q0-prelude/INDEX.md) · [Q1](Q1-moon-hunt/INDEX.md) · [Q2](Q2-inverted-war/INDEX.md) · [Q3](Q3-gulf-and-beast/INDEX.md) · [Q4](Q4-der-batav/INDEX.md)

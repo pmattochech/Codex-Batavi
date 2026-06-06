@@ -17,3 +17,5 @@
 | 9 | `second-quarter-brief` | *Second Quarter Brief* | [chapter.md](second-quarter-brief/chapter.md) |
 
 **Expansions:** add `notes.md` or side files inside any slug folder; link them from this INDEX if readers need optional context.
+
+**Quarter chain:** ← [Q0 prelude](../Q0-prelude/INDEX.md) · → [Q2 inverted war](../Q2-inverted-war/INDEX.md)
