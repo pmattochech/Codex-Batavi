@@ -141,8 +141,6 @@ The **brood** whispered in human time — soft enough to be mistaken for wind th
 
 ## VII. Parallel Columns — Triptychs Harder to Beautify
 
-Triptychs were harder to beautify than singles — *declared output* beside *auxilia water* beside *midwife hours slept* — and guild factors raged because triptychs told the truth in three voices at once, which was how you prevented one mouth from choking two kinds of debt.
-
 Alaric rescinded no quotas — rescission would have fed the hive’s other mouth, the one that ate stability — but he ordered **Valerius** to publish parallel columns anyway: *declared output* beside *auxilia water* beside *midwife hours slept*, because triptychs were harder to beautify than singles. Guild factors raged that the Chapter was *moralizing logistics*; Valerius answered with stamps, not arguments, and stamps were how you won the paper war until the night war arrived.
 
 **Kadmos** doubled patrol cadence until brothers joked they were rehearsing ballet; jokes died when a patrol reported two manufactories’ break bells syncing to the second without *vox* coordination — **choir practice** again, wearing work clothes.
@@ -171,12 +169,6 @@ The foreman stamped twice. Incus was teaching the whole mesh the same lesson in 
 
 **Santo** pressed a rag to his split lip and did not look at his mother, because looking would have broken something neither of them could afford to break yet.
 
-A guild factor — silk under ash, smile polished for tribunals — tried to merge the parallel columns on one slate until Valerius took the stylus with the same gentleness he would later use on Navy liaisons who wanted one throat for two debts.
-
-— Stamp twice — Valerius said — or explain to the Castellan why you wanted thirst to look like productivity.
-
-The factor stamped twice. His smile did not return. Smiles, on Incus, were also quotas — and quotas could be audited.
-
 ---
 
 ## VIII. Flutter Continues Whether He Watches
@@ -187,53 +179,17 @@ Drusus stood alone in the listening post one minute longer than duty required, h
 
 He closed the file. He did not delete it. Deletion would have been comfort, and comfort was a corridor he could not secure.
 
-**Kadmos** walked the listening post corridor once with **Santo** at his shoulder — not mentorship, **inventory** — counting how auxilia bunched when the flutter climbed a half-tone. Bunching was how virtue almost killed the wrong people fast enough to choke; Incus was teaching the Castellan’s artillery mind to read **crowds** as terrain before Exanimus gave the lesson a name.
-
 The flutter continued whether he watched or not.
 
-**Drusus** sealed the Brood-Flutter file behind biometrics one last time that shift and appended *Ring ingress; expect environmental coupling; sequence only* — not prophecy, **debt** accruing interest in theaters that pretended they were unrelated.
+**Drusus** sealed the Brood-Flutter file behind biometrics and appended *Ring ingress; expect environmental coupling; sequence only* — and a closing margin: *quota coupling may present as inheritance terrain; treat kin-network pulse as sequence only; do not merge with listening-post roster* — not prophecy, **debt** accruing interest in theaters that pretended they were unrelated.
 
-**Santo** pressed a rag to his split lip and walked another patrol without looking at **Mira** — witness without applause traveling in both directions now, mother and son learning the same ugly grammar: *useful* the way forges are useful, *honest* the way ledgers are honest when they refuse to beautify grief.
+**Kadmos** walked the listening-post corridor once with **Santo** at his shoulder — not mentorship, **inventory** — counting how auxilia bunched when the flutter climbed a half-tone. Bunching was how virtue almost killed the wrong people fast enough to choke.
 
-**Varro** walked the gantry where quota chant had tried to rise and did not accuse the foreman who silenced it — accusation required evidence his office could not yet carry without breaking more boys than it saved. He dipped his *Codex* death-skull once — small bow to the dead child — and moved on, because some binds were too young to name and too urgent to skip.
+**Valerius** stamped the listening-post roster twice — Marine lane beside mortal lane — and stamped output handoff toward **Ring of Teeth** twice before dawn — production continuity beside mortal payroll still breathing — because quota dressed as uniform was debt the ring would price in air the hive had taught to eat.
 
-**Drusus** stood over the quota hololith one last time and watched kin-lines pulse beside output integers — inheritance wearing production uniform — until **Iria**’s *Not yet* blinked beside a denial that was not cruelty but **schedule**. Rain on Cinder Nine tried to turn chant into weather; someone silenced it because silence was cheaper than explaining why a child was dead and still counted on the slate.
-
-**Varro** filed the listening-post threshold as proto-rite — seal attempted, not victory — while **Threx**’s Skitarii swabbed chapel gallery under protest and logged *Compliance deferred* beside *Castellan denial*. Appetite deferred was not appetite denied; the crucible was learning to file hunger without calling it holy.
-
-**Valerius** stamped the listening-post roster twice — Marine lane beside mortal lane — and watched a junior clerk try to merge them until **Kadmos**’s shadow fell across the slate without a word spoken. The clerk stamped twice. Incus was teaching the mesh the same lesson in different dialects: one throat for two debts was how convoys choked.
-
-**Alaric** stood at Cinder Nine lip one minute after quota chant silenced and did not remove his helm — continuity, not spectacle — while kin-lines pulsed beside output integers and inheritance wore production uniform like a skin the Chapter could not cut without cutting children who had not yet chosen sides.
-
-**Kessler** counted canteens on the listening-post spine until counting felt less like pessimism than like kindness with arithmetic teeth — midwife counting beside choir in rounds, same cruel mathematics wearing different weather.
+**Varro** filed the listening-post threshold as proto-rite — seal attempted, not victory — while **Threx**’s Skitarii swabbed chapel gallery under protest and logged *Compliance deferred* beside *Castellan denial*. Appetite deferred was not appetite denied.
 
 **Merit** tried once to clip a recorder to the quota hololith until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as folk liturgy.
-
-Logus Ring waited in void cold. Teeth stacked like ribs. Minutes priced in air. Brood-Flutter locked. Santo’s lip. Mira’s storage.
-
-**Drusus** appended a closing margin — *quota coupling may present as inheritance terrain; treat kin-network pulse as sequence only; do not merge with listening-post roster* — sequence, not prophecy, carried forward toward void cold where teeth stacked like ribs.
-
-Listening-post forgot motion until kin-network pulse looked like peace — peace another word for **output quota** hiding teeth Ring of Teeth would stack like ribs in void cold before minutes priced air in names you spelled later.
-
-**Mira** signed payroll for gallery shift with hand that did not tremble on ink line — honest zeros, not defeat — because inheritance wore production uniform tonight and production uniform still required witness before throughput dressed it as reconciliation.
-
-**Threx** logged *substrate volatility* beside *sampling window favorable* — Mechanicus grief wearing numbers when it could not wear shame — while midwife cadence marched toward ring minutes priced in bodies the hive had already taught to quota.
-
-**Varro** chose hearing over purge one last time on gallery lip — death-skull geometry — and filed output quota as proto-rite: seal attempted, not victory, because inheritance wore production uniform tonight and production uniform still required witness.
-
-**Merit** tried once to clip a recorder to gallery hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as kin-network folk liturgy before injury was attested at output quota.
-
-**Mira** kept two ink colors on quota slates — *surviving* and *surviving honest* — because production uniform tried to merge grief into throughput and she refused merge the way Valerius refused it upstairs when Ring of Teeth waited to price air in bodies.
-
-**Santo** hit decking and breath left in ugly rush — honor crawled back slower than blood — because human shields were holodrama virtue and geometry that spared strangers did not care about drama.
-
-**Valerius** stamped output handoff twice — production continuity beside mortal payroll still breathing — because quota dressed as uniform was debt ring-of-teeth would price in air the hive had taught to eat.
-
-**Kadmos** posted quota cordon one meter deeper — geometry as insurance — because production uniform was debt ring-of-teeth would price in air the hive had taught to eat.
-
-**Iria**'s *Not yet* blinked on uplink beside quota denial — schedule not cruelty — the same blink that would keep midwife cadence from becoming prophecy before Ring minutes priced air in bodies.
-
-**Alaric** stood at gallery mezzanine lip one minute without speeches — hinge-work — while kin-network tightened in hololith margins like veins under skin he could not cut without cutting children who had not yet chosen sides.
 
 **Orwen** filed quota timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than production uniform dressed as reconciliation packages.
 
@@ -241,15 +197,17 @@ Listening-post forgot motion until kin-network pulse looked like peace — peace
 
 **Sera** tagged gallery fiber *monitor only* until Ring minutes starved merge columns and void cold earned attested injury at boarding tube.
 
-**Kessler** walked gallery spine one last time — compass, not poison — and did not praise auxilia when midwife cadence marched toward ring minutes priced in bodies the hive had already taught to quota.
+**Pol**’s seed — monitor only — would rhyme with kin-network pulse until Drusus starved merge and brood stayed vocabulary arriving late on open channels.
 
-**Threx** logged *output quota; yield preserved* beside *Chapter refuses kin-network folk liturgy* — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like solvency.
+**Mira** kept two ink colors on quota slates — *surviving* and *surviving honest* — because production uniform tried to merge grief into throughput and she refused merge the way Valerius refused it upstairs.
 
-Logus Ring waited in void cold one more beat — teeth stacked like ribs — before minutes priced air in names you spelled later on boarding tubes not yet filed as Vitreus egress.
+**Kessler** counted canteens on the listening-post spine until counting felt less like pessimism than kindness with arithmetic teeth — midwife counting beside choir in rounds, same cruel mathematics wearing different weather.
+
+Logus Ring waited in void cold — teeth stacked like ribs — before minutes priced air in names you spelled later on boarding tubes not yet filed as Vitreus egress.
 
 Interest collecting teeth before receipts.
 
-Quota chant. Midwife counting. Choir in rounds.
+Quota chant. Midwife counting. Choir in rounds. Brood-Flutter locked. Ring of Teeth waiting.
 
 Always owed.
 
