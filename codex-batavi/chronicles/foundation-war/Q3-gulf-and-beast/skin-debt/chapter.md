@@ -13,8 +13,6 @@
 
 ---
 
-## I. Interest on a Debt Nobody Signed
-
 The tombs did not need to **win** in the childish sense — flags, parades, clean triumph photos for archives nobody honest keeps; they needed only to **teach**, and the lesson arrived wearing ceramic hunger while the gulf’s earlier tightening — the micro-fractures, the wrong **turn** in sealed arithmetic — became **legible** as curriculum rather than accident.
 
 **Contact**, the Strategium had filed it — neutral as a knife is neutral until it meets meat — and contact on tombs did not behave like a line advance; it behaved like **interest** accruing on a debt nobody remembered signing, paid first in attention, then in **skin**, then in whatever word you used when you could no longer pretend panic was temporary.
@@ -32,10 +30,6 @@ Auxilia on the night watch learned to hear **intervals** in their teeth before a
 — If your hands start looking like someone else’s — she told a boy — you tell me before you teach your brother.
 
 The boy nodded. Nodding was cheaper than understanding. Understanding would arrive with interest, priced in skin.
-
----
-
-## II. Dress Yourself in What Remembers
 
 Flaying was not battle rhythm. It was **contagion of meaning** — reflection lying, lying becoming hunger, hunger becoming theology improvised from cable-saints and rosary lamps that suddenly looked like ribs — until mortals collaborated in their own undressing because any story that stopped shaking felt like mercy.
 
@@ -61,10 +55,6 @@ A woman in a shanty stack — name later lost to ink bleed — held a rosary wov
 
 — Not yet — Kessler said — and meant *not dead yet*, which was the only theology auxilia could afford on gulf bridges.
 
----
-
-## III. Panic Theology — Foam at the Mouth of Reason
-
 **Panic theology** bloomed overnight — not because the Emperor abandoned them (though some said it, because grief enjoys simple villains) but because terror is **creative** when *vox* fuzzes and tombs hum, faiths improvised from **cable-saints** and old superstitions about **mirrors** — anything that offered *rules* for why reflection could lie, why glass might show a face that wasn’t yours, why the bridge’s rosary lights could suddenly look like **ribs**.
 
 Men who had survived **Vitreus** reached for the wrong lesson first — *doubt your eyes* — and discovered too late that doubt, unsealed, becomes **hunger** for *any* story that stops the shaking.
@@ -85,10 +75,6 @@ A man who had survived **Vitreus** smashed a viewport with his bare fist because
 
 The man wept without sound. Sound would have fed the contagion. Varro moved on, Executor wolf-skull catching lumen like a moon that refused warmth.
 
----
-
-## IV. Second Front Inside My Apothecarion
-
 Apothecarion interns learned to distinguish **Wolf’s Curse** drift from tomb harmonics without turning distinction into oracle — **rhyme** permitted; **prophecy** burned — until junior medicae stopped mistaking adrenaline for curse and started treating adrenaline as **data hygiene** under stress you could chart.
 
 Medicae bins overflowed with men who flensed *air* — nails raking throats that wore no enemy claw — until sedative accounting became its own battle: enough to stop self-murder, not enough to make **combatants** into furniture; Drusus metered doses like artillery, cruel in the way water is cruel when rationed honestly.
@@ -104,10 +90,6 @@ A **Genetor** of his maniple reached — instruments singing their eager insect 
 The irreversible fact was smaller than a battle and worse than a defeat: **Mechanicus ambition** had tried to monetize panic while panic was still **breathing**.
 
 Bondsmen whispered **Dark Age of Technology** near samples until Varro crushed the word with ash again — **nomenclature is seal** — and the whisper retreated into **texture** where it could not recruit Skitarii ambition into opening a second appetite beside the first.
-
----
-
-## V. Weight Until Weight Became the Only Sermon
 
 **Santo** hauled wounded who clutched rosaries woven from cable and called them **saints**; he did not argue hagiography — argument would have fed the contagion — he simply moved weight until weight became the only sermon that still translated when words turned to foam.
 
@@ -126,10 +108,6 @@ Where Drusus filed *cognitive contagion; ongoing*, Varro filed *bind integrity; 
 Officers who mistook his quiet for patience learned the smaller lesson first: patience, here, was **geometry** refusing to sprint into debt.
 
 A bondsman choir faltered mid-verse when tomb hum climbed through rosary lamps — not fear of xenos alone, fear of **allies** becoming arithmetic — and **Kadmos** did not restart them with speeches. He posted hand signals at the next choke: palm-press *stay*, knuckle *move*, two fingers dragged *do not feed the story*. Boredom returned as shield. Boredom was chaplain work wearing logistics uniform.
-
----
-
-## VI. Mercy Dressed as Atrocity
 
 **Sergeant Kessler** found a man on his knees beside a coolant puddle, fingers hooked into his own cheek as if he could **unzip** mortality and step out cleaner.
 
@@ -153,10 +131,6 @@ A child who had **recorded** the shot — eyes too old, mouth still too young �
 
 The child filed *sick* beside *necessary* and would carry both words like stones in a pocket until a later chapter taught him stones could be **anchors** or **weapons**, depending who held the hand.
 
----
-
-## VII. Romance Curdles — Saints of Panic
-
 Night on the rosary decks did not cool the debt; it only made lamps look like confessionals — **Lex Ignis** clocks trading codes with Mechanicus wheels until synchronization pretended to be virtue.
 
 **Valerius** hated that synchronization most when it worked, because working made catastrophe look *managed* until the next thermal event proved otherwise.
@@ -168,10 +142,6 @@ Water points ran **taste** — recyclers sour with stress and ash — until men 
 Here the romance **curdles** — if romance is ordeal made honest — the monster not only xenos but **what fear makes us willing to become**: collaborators in our own flensing, scholars of our neighbors’ skin, saints of panic, heroes who discover too late that courage without **seals** is only adrenaline spending credit on credit.
 
 The gulf tightened, and somewhere a tomb timed a pulse none of them had permission to hear — they heard it anyway, **consequence** sealed in bone and *vox*-static until the next route choice came due, **Bridge Saints** already sharpening their names in the dark.
-
----
-
-## VIII. Refusal to Let Panic Name Itself Holy
 
 **Iria** stood at the shanty stack’s landward lip where cable-saints’ shrines had become bowls and counted what the tide would have called *returned* if the gulf were honest enough to give anything back. It was not. She wrote nothing on a slate. Writing would have turned inventory into **prophecy**.
 
