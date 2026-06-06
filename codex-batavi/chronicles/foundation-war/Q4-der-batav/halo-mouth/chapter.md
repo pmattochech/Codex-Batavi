@@ -171,16 +171,6 @@ Romance near apocalypse, in old sense, is not that dragon is noble but that drag
 
 Thunder rolled synthetic, stars rearranged themselves into formation, Halo mouth stayed open, and Chapter stepped forward again into war that had stopped pretending it belonged to biology alone.
 
-**Echo** listened at halo baffle for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing indexing light as sequence before vacuum lecture taxed strategium baffles.
-
-**Sera** tagged halo egress handshake *monitor only* until Pol seed starved merge columns and Lecture in Vacuum earned attested injury.
-
-**Orwen** filed halo coupling without adjectives — timestamps, ranges, no metaphors — because Men-of-Iron awe packages killed faster than witness routes only.
-
-**Pol**'s seed — monitor only — would rhyme with halo coupling until Drusus starved merge with prism folk awe and vacuum stayed sequence not prophecy.
-
-**Kadmos** posted halo cordon one meter deeper — geometry as insurance — because sky taxed both ledgers when indexing light loved audience before vacuum lecture.
-
 ---
 
 ## VIII. Visible Theater — Filed in Blood
@@ -219,33 +209,15 @@ Vacuum ahead would teach different grammar — one that did not need oxygen to s
 
 **Iria** read *Not yet* on slate ten minutes late and did not curse delay — delay was how you learned which fires were honest about appetite before you walked into vacuum grammar that did not need oxygen to speak.
 
-**Alaric** counted halo losses without theater on lip — hinge-work — and did not say *We hold* as borrowed liturgy. Holding, here, was sky taxed in both ledgers when Men of Iron stopped being rumor.
+**Merit** tried once to clip recorder to correction-arc chalk until **Valerius** stamped **NON-COMPLIANT** — witness routes only.
 
-**Varro** filed halo threshold as proto-rite — seal attempted, not victory — because sky that opened mouth without consent was etiquette indexing light loved audience before vacuum lecture taxed strategium baffles.
+**Echo** listened at halo baffle for harmonics not yet **tide**-shaped.
 
-**Drusus** sealed halo margin — *Men-of-Iron coupling; treat as environmental false-positive unless sustained; DO NOT MERGE with prism folk awe* — sequence, not prophecy, because sky taxed both ledgers when indexing light loved audience.
+**Orwen** filed halo coupling without adjectives — timestamps, ranges, no metaphors.
 
-**Merit** steadied slate on baffle catwalk — witness without applause — because Men-of-Iron awe packages let admiralties sleep while mortals paid for sky that opened mouth without consent.
+**Sera** tagged halo embarkation handshake *monitor only* until merge columns starved.
 
-**Kadmos** posted halo cordon one meter deeper — geometry as insurance — because sky taxed both ledgers when indexing light loved audience before vacuum lecture taxed strategium baffles.
-
-**Santo** dragged bodies by belts one last interval without speech — hygiene extended to witness — because Men of Iron had stopped being rumor and rumor was how staff officers learned to call intervals *acceptable variance*.
-
-**Valerius** stamped toward **Lecture in Vacuum** twice — ceramite continuity beside mortal chains still solvent — because vacuum taxed both ledgers when indexing light loved audience.
-
-**Kessler** walked last stairhead with grenade smoke in her hair and three fingers raised at viewport where light indexed wrong — witness route only.
-
-**Orwen** dragged Militarum bodies by belts one last interval — tags lied when machines learned your filing system — and shouted ranges until throat bled.
-
-**Threx** shouted *sanctified convergence* until harmonics wash swallowed law — same appetite, different costume — while **Valerius** stamped *witness route only*.
-
-**Echo** listened at halo baffle for **tide**-shaped harmonics — Triumvirate seal still **narrow** — filing indexing light as sequence before vacuum lecture taxed strategium baffles.
-
-**Sera** tagged halo embarkation handshake *monitor only* until merge columns starved and Lecture in Vacuum earned attested injury.
-
-**Pol** kept monitor seed *sequence only* beside Sera splices until Drusus starved merge with prism folk awe.
-
-**Varro** filed halo threshold one last time — seal attempted, not victory — because correction arcs looked like frost hiding teeth vacuum would teach in grammar that did not need oxygen to speak.
+**Threx** shouted *sanctified convergence* until harmonics wash swallowed law — while **Valerius** stamped *witness route only*.
 
 Interest collecting teeth before receipts.
 
