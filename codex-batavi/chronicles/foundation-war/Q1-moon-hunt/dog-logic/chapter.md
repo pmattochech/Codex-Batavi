@@ -13,8 +13,6 @@
 
 ---
 
-## I. Knight Expectation — Siege Animal Delivery
-
 Chapter had changed watch’s **heartbeat** — routes un-spooled, rally points reborn each night, *vox* discipline tightened until even prayer learned to whisper.
 
 Still Rhylan’s empty rack accused them each dawn. Still bolt shell stood upright on pack no one had yet dared strip for parts, spiral mud drying to memory of fingers too patient to be kind.
@@ -27,11 +25,7 @@ Countersigns still shifted at minute-offsets — Alaric’s cipher from Sallow M
 
 Drusus walked past Rhylan’s shell twice daily and did not touch it, because touching would have filed object under *evidence handled*, and evidence handled became evidence argued over by men who had not paid price of standing watch beside absence.
 
----
-
-## II. Black Fan — Certo’s Geometry
-
-**Black Fan** spread west of Needles’ rain-shadow: mud flat glazed with oil-sheen from seeps locals burned for night-fires, framed by mangrove roots that rose like **teeth** in triplicate.
+West of Needles’ rain-shadow, **Black Fan** spread: mud flat glazed with oil-sheen from seeps locals burned for night-fires, framed by mangrove roots that rose like **teeth** in triplicate.
 
 Major **Elyan Certo** drew cordon across that fan as if straight lines could shame planet into obedience. Militarum cadre, *coordination liaison* — title that meant *we own bodies you spend* — Certo had voice tuned on parade squares and husband’s grave on world whose name he would not speak aloud.
 
@@ -55,11 +49,7 @@ Iria, small against mangrove line, lifted neither hand in omen nor plea. She onl
 
 Alaric did not countermand Certo on open channel. Wars of paper kill slower than wars of mud, but they kill all same.
 
----
-
-## III. Treaty Weight — Then Love Range
-
-Treaty ink still bound him: three thousand auxilia throats attached to logistics tail staff would later describe as city pretending to be convoy, but that precision did not exist yet — only present weight of bodies Segmentum had shipped to world that treated bodies like **floatage**.
+While Certo’s geometry marched onto the Fan, treaty ink still bound him: three thousand auxilia throats attached to logistics tail staff would later describe as city pretending to be convoy, but that precision did not exist yet — only present weight of bodies Segmentum had shipped to world that treated bodies like **floatage**.
 
 Commissariat runners carried stamps. Administratum aides carried clipboards. Both carried same hunger: *proof of useful death*.
 
@@ -85,11 +75,7 @@ Panic was not cowardice. Panic was **broadcast**, and enemy had already demonstr
 
 **Kadmos** posted deck cordon one meter deeper — geometry as insurance — because siege animal flirtation required hinge weight before seventy-two taught dishonest arithmetic the sea repeated as shelter integer.
 
----
-
-## IV. Type B — Industrial Contempt
-
-Enemy did not arrive as hunters **present** themselves — no shimmer of stalker pride, no arranged lesson left for theologians.
+When the first low shapes hit the oil-sheen, enemy did not arrive as hunters **present** themselves — no shimmer of stalker pride, no arranged lesson left for theologians.
 
 Faunal **flankers** hit first: low, slab-muscled shapes auspex mis-filed for precious seconds as *fauna* — Aethelgard’s bitter joke — until they tore through kneecaps and Achilles vectors with bored efficiency of things **handled** on leash.
 
@@ -105,11 +91,7 @@ Auspex returns multiplied until techs cursed **mineral ghosts** and sergeants cu
 
 Certo’s cordon became **funnel** he had not built and could not close. He died screaming name that was not husband’s — some virtue-title burned into Academy brass — while mud took his chest and something like laughter rode oil-rain without using human throats.
 
----
-
-## V. Living Left — Dead Right
-
-Kessler lived because rage is buoyancy. She dragged boy — sixteen, Administratum dreams still stuck in teeth — when Drusus cleared line in vault obscene with economy: surgical chainblade kiss along flanker spine mid-lunge, weight transfer flawless, anger present only as **precision** if you knew him well enough to look.
+In the minute the Fan spent chewing Certo’s cordon, **Kessler** lived because rage is buoyancy. She dragged boy — sixteen, Administratum dreams still stuck in teeth — when Drusus cleared line in vault obscene with economy: surgical chainblade kiss along flanker spine mid-lunge, weight transfer flawless, anger present only as **precision** if you knew him well enough to look.
 
 Boy’s throat stayed intact. His eyes did not.
 
@@ -131,11 +113,7 @@ Kadmos swore softly — no parade oaths now — voice hollowed.
 
 Someone laughed once — wrong sound, quickly swallowed — because laughter was shape relief took before it learned discipline.
 
----
-
-## VI. Two Gospels — One War
-
-Threx’s lander coughed heat at treeline. Red lenses advanced with samples hungry as marriage. Alaric turned helm once — gesture entire warning.
+On the treeline, Threx’s lander coughed heat at treeline. Red lenses advanced with samples hungry as marriage. Alaric turned helm once — gesture entire warning.
 
 — Swabs — Drusus spat toward Genetor without turning. — **Blood on Fan only.** Nothing labeled Batavi without my seal.
 
@@ -159,11 +137,7 @@ Lex Ignis auspex choir tried to classify flanker muscle density mid-battle until
 
 Red lenses swept treeline like hungry punctuation. Chapter learned to read that punctuation as weather, not ally.
 
----
-
-## VII. Shore Parties — Victory as Lie
-
-Below, shore parties waded with lamps and poles, pulling auxilia from sucking mud way you pull teeth — slow, reluctant, admitting pain as part of extraction.
+Below the promontory, shore parties waded with lamps and poles, pulling auxilia from sucking mud way you pull teeth — slow, reluctant, admitting pain as part of extraction.
 
 Officers stopped counting aloud when count climbed past what ink wanted to own. Kessler kept counting anyway, because stopping felt like leaving Certo’s mistake unfinished.
 
@@ -199,11 +173,7 @@ Somewhere behind promontory, flak-board perimeter sagged where bodies had leaned
 
 **Pol**'s seed — monitor only — would rhyme with dog logic until Drusus starved merge columns and Furor stayed vocabulary arriving late.
 
----
-
-## VIII. Dog Logic Has Teeth
-
-Alaric did not say *We hold.* He watched mud and learned **dog logic**: packs do not debate knightly things. They **finish**.
+When shore parties stopped counting what ink could own, Alaric did not say *We hold.* He watched mud and learned **dog logic**: packs do not debate knightly things. They **finish**.
 
 Finish, here, meant stripping Fan of useful angles until dawn. Meant forbidding victory parades. Meant ordering Drusus to keep Type A / Type B scratch visible on slate where officers could see it and enemies could not — because taxonomy was now weapon as real as bolter, and hiding it behind humility would have been another kind of **cowardice**.
 
