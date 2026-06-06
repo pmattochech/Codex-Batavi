@@ -191,8 +191,6 @@ Somewhere ahead, **halo** waited — not romance, **mouth** — and light itself
 
 **Orwen** filed range cards on a burn-ward spine until his hand went flat — exhaustion, not courage — because Solaris had taught him that *flat* was sometimes the only voice a world accepted when prisms made faces lie. **Santo** hauled relief through strobing junctions without looking at rainbows; looking would have turned wash into **omen**.
 
-**Orwen** filed range cards on a burn-ward spine until his hand went flat — exhaustion, not courage — because Solaris had taught him that *flat* was sometimes the only voice a world accepted when prisms made faces lie.
-
 **Merit** tried to normalize hololith minutes into one slide until **Kessler** snapped the stylus from a junior's hand: **witness route only**.
 
 **Echo** listened at burn-ward for harmonics not yet **tide**-shaped.
