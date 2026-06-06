@@ -13,8 +13,6 @@
 
 ---
 
-## I. Wrong Unison — Weather in Skulls
-
 Pol’s blood had not dried from Incus stone before the hive tried to **sing** through someone else’s throat — not choirs, not hymns in any Ministorum book, but the wrong kind of unison: the same gasp in six different corridors, the same pause before a scream, as if lungs had been tuned to one metronome nobody had voted for.
 
 **Exanimus** was not yet a word the Chapter dared print on banners. It was a **weather pattern** in Triumvirate skulls.
@@ -29,10 +27,6 @@ The **Brood-Flutter** file still sat behind his left hand on the slate, a consta
 
 He picked *stress* for the public log and *unknown* for the private one, and hated both.
 
----
-
-## II. Two Slates — Two Heart Attacks
-
 Logus cord stress had been mailed into Incus like a second front: supply timers tightening, void-debt collectors counting minutes in voices that sounded like friendly advice until you listened for teeth.
 
 **Kadmos** answered those voices on channels that made his jaw ache — *affirmative delay*, *negative reroute*, *hold* — because **hold** was the only word that still meant the same thing in void dialect and hive dialect.
@@ -45,11 +39,7 @@ The mesh was **Pole II + V** in truth if not in poetry — Incus warrens exhalin
 
 The breach chose **crossfire geometry** — the enemy’s favorite sermon in cities: *make virtue kill the wrong people fast enough that virtue chokes on itself*.
 
----
-
-## III. Inches — Ugly Faith
-
-Auxilia — **Kessler** among them, voice gone hoarse from ordering men into cover they didn’t believe in — were caught between brood **knives** and Astartes **firelanes** carved for purity, because purity, on paper, loves straight lines while bodies love **doorframes**.
+When the breach opened, auxilia — **Kessler** among them, voice gone hoarse from ordering men into cover they didn’t believe in — were caught between brood **knives** and Astartes **firelanes** carved for purity, because purity, on paper, loves straight lines while bodies love **doorframes**.
 
 Kessler stopped asking men to trust the plan and started asking them to trust **inches**: this pillar, that scorch mark, the shadow’s edge where bolter light had not yet learned their names. Inches were ugly faith. They worked.
 
@@ -62,10 +52,6 @@ She did not shout *for Pol*; shouting would have handed the enemy a rhythm. She 
 They had trained for enemies. They had not trained for **coherence** — three giants moving like one machine that still breathed.
 
 One neophyte — name later struck from praise-scrolls — vomited behind a pillar and then returned to his magazine with hands that believed firing was prayer. **Kadmos** did not correct the theology. He corrected the **spacing**: two steps left, magazine seated, eyes on the doorframe Kessler had chalked. Spacing was the only liturgy hyper-G and hive ash shared without argument.
-
----
-
-## IV. Mass, Bind, Count — Three Jobs in Smoke
 
 Smoke carried **Brood-Flutter** rhythm up from vents below — work, work, work — while Logus cord stress mailed void-debt into the mesh like a second metronome. Crossfire geometry loved two hungers at once: make virtue kill the wrong people fast enough that virtue choked.
 
@@ -88,10 +74,6 @@ Later she would swear she heard compassion. Drusus would annotate her transcript
 Her hands shook; she steadied them on her slate anyway, because steadiness was how mortals refused to become **instruments** for someone else’s choir.
 
 **Iria** — liaison line still deferred, *Not yet* blinking on slates nobody saluted — passed the surge corridor’s landward lip with water crates and did not enter the smoke. Entering would have turned witness into **spectacle**. She counted bodies carried outward instead, tide-habit applied to ash: *flow*, *bottleneck*, *who pays the choke*. When a stretcher team stumbled, she steadied the rail with one hand and said nothing. Nothing was the only dialect that did not feed Echo.
-
----
-
-## V. Protocol Before Pride — Obscene Stability
 
 The worst second was not death but **stability** — that obscene moment when the killing paused because the Triumvirate refused to let the *shape* of the breach widen.
 
@@ -121,10 +103,6 @@ Alaric did not say *We hold*. He checked Merit’s recorder as if the machine we
 
 She nodded, throat raw, while somewhere below Incus still hummed two notes — **work** and **waiting** — but waiting had learned a third, darker frequency: *Exanimus* — unwritten, unblessed, **unavoidable**.
 
----
-
-## VI. Executor — Witness Like Execution
-
 **Aftermath — helm, not heraldry:** when the *Strategium* released them into the quieter violence of vault air and oil lamps, **Kadmos** did not speak of blessing but of **load**. He laid on the bench what had been sketched in haste and tempered in Incus smoke: an **Executor** profile, **wolf-skull ceramite**, stripped to judgment geometry, mandible hung for a mechanism that could eat without showing a human face. The piece looked like a verdict you could wear.
 
 **Varro** lifted it once — public, sparse — so no one could later pretend the change had happened in rumor. The motion was not triumph. It was **witness** the way executions are witness: because what is seen cannot be un-seen.
@@ -149,10 +127,6 @@ Varro fitted the wolf-skull once, jaw mechanism testing with a dry hydraulic his
 
 **Logus** — forge-priest whose name mortals mispronounced until they stopped trying — posted *DO NOT MERGE* on a throughput slide until ink bled through template and **Valerius** stamped the bleed *witness route only*. Merging Marine and mortal casualty columns had become franchise behavior; Incus was teaching the mesh to choke on single throats for two debts.
 
----
-
-## VII. Fourth Syllabus — Wolf-Skulls and Odd Hours
-
 Outside the vault, Incus exhaled ash and pretended tomorrow was a normal shift. **Drusus** closed his medical slate and opened it again, habit of a man who distrusted closure. On the margin he wrote *Exanimus: monitor Triumvirate vitals off-battlefield* — then sealed it, because some orders were not for crowds.
 
 **Alaric** passed without speaking. Passing was also an order.
@@ -164,10 +138,6 @@ On a gantry far above, **Mira** watched ash drift and did not smile; below, **Sa
 **Kessler** filed a request of her own that night — *transfer auxilia breathers to upper stacks; rotate sleep on odd hours* — because odd hours broke synchrony whether synchrony came from quotas or worse things, and broken rhythm was sometimes the only vaccine a sergeant could administer without ink from Terra.
 
 **Valerius** approved the paper on the first pass, which was rarer than love; rarer than love, in the crucible, was *speed that did not steal*.
-
----
-
-## VIII. Performed in Smoke — Crowned in Ceramite
 
 Drusus listened to the sealed margin order one more time in the vault’s hush and heard, beneath it, the crossfire geometry still ringing — virtue almost killing the wrong people fast enough to choke. Exanimus had not been named on banners. It had been **performed** in smoke, then filed in margins, then crowned in ceramite on a face that would never again pretend death was only symbol.
 

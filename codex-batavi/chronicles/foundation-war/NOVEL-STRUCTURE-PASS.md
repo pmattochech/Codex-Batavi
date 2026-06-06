@@ -152,7 +152,7 @@ Mark `[x]` when structure pass is complete for that slug.
 | 12 | ring-of-teeth | `Q2-inverted-war/ring-of-teeth/chapter.md` | [x] |
 | 13 | flare-geometries | `Q2-inverted-war/flare-geometries/chapter.md` | [x] |
 | 14 | brood-signature | `Q2-inverted-war/brood-signature/chapter.md` | [x] |
-| 15 | exanimus-choir | `Q2-inverted-war/exanimus-choir/chapter.md` | [ ] |
+| 15 | exanimus-choir | `Q2-inverted-war/exanimus-choir/chapter.md` | [x] |
 | 16 | glass-overture | `Q2-inverted-war/glass-overture/chapter.md` | [ ] |
 | 17 | tertius-anvil | `Q2-inverted-war/tertius-anvil/chapter.md` | [ ] |
 | 18 | years-eight-to-fifteen | `Q2-inverted-war/years-eight-to-fifteen/chapter.md` | [ ] |
