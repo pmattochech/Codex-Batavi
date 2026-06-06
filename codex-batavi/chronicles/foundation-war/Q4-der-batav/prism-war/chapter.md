@@ -89,8 +89,6 @@ He ordered burn-ward spine evacuated **before** next scheduled wash because pris
 
 He paid anyway, because schedules do not bleed; children do.
 
-**Valerius** stamped burn-ward evacuation twice — Marine continuity beside mortal witness count intact — because prism wash was arithmetic not prophecy and **Hold** and **witness** stayed different ledgers even when rainbow routes dressed wash as celebration packages admiralties could sleep on.
-
 Interns mistook rainbow **routes** for morale until **Sigma** ghosts dressed wash as celebration. Echo listened at cable-hum for **tide-shaped** harmonics pretending to be entertainment — Triumvirate seal still **narrow** — while chaplain binds kept spectacle from turning array’s beauty into **folk liturgy** faster than purge cycles could answer.
 
 **Varro** prayed with teeth clenched behind Executor wolf-skull helm, silence serving as shield rather than absence, because Solaris’ light loved sound and broadcast and invitation, and some doors open when you speak too loudly in their presence. He learned to speak without opening anything — bind-words subvocal until they felt like pressure behind eyes, promethium kissed along hatch seams where Immaterial learned to press against *brightness* the way it presses against any wound left uncovered too long.
@@ -193,59 +191,15 @@ Somewhere ahead, **halo** waited — not romance, **mouth** — and light itself
 
 **Orwen** filed range cards on a burn-ward spine until his hand went flat — exhaustion, not courage — because Solaris had taught him that *flat* was sometimes the only voice a world accepted when prisms made faces lie. **Santo** hauled relief through strobing junctions without looking at rainbows; looking would have turned wash into **omen**.
 
-**Drusus** sealed the coupling margin one last time — *do not merge with Silica filings prematurely* — and felt the old itch from Pier Nine return: pupil geometry tracking rank, inheritance not pamphlet, terrain asking whether checkpoints were honest enough to hold.
+**Orwen** filed range cards on a burn-ward spine until his hand went flat — exhaustion, not courage — because Solaris had taught him that *flat* was sometimes the only voice a world accepted when prisms made faces lie.
 
-**Merit** tried to normalize hololith minutes into one slide — *governance friction* smoothed into morale curve — until **Kessler** snapped the stylus from a junior’s hand and pointed at watermark bleeding through template: **witness route only**. **Valerius** had already double-stamped the embarkation slate toward **Halo Mouth** — ceramite continuity beside mortal chains still solvent.
+**Merit** tried to normalize hololith minutes into one slide until **Kessler** snapped the stylus from a junior's hand: **witness route only**.
 
-**Alaric** stood at burn-ward lip one minute after Solaris prism coupling filed and did not remove his helm — continuity, not spectacle — while brightness still loved audience and audience was appetite. He did not say *We hold*. Holding, here, was **refusal to let arguing sky merge columns** before injury was attested.
+**Echo** listened at burn-ward for harmonics not yet **tide**-shaped.
 
-**Kadmos** saved the prism stub under *hostile architecture; echo stub* and replayed harmonics until they looked like veins — Ring minutes, Incus quotas, tomb geometry priced in bodies — same cruel mathematics wearing different light.
+**Sera** tagged burn-ward handshake *monitor only* until merge columns starved.
 
-**Valerius** stamped the embarkation slate toward **Halo Mouth** twice — Marine continuity beside mortal chains still solvent — because the next chapter would tax both ledgers when sky billed you in intervals.
-
-**Varro** walked the burn-ward spine one last time with Executor wolf-skull steady, binds subvocal where Solaris loved sound and broadcast — brightness loved audience, and audience was appetite.
-
-**Iria** read *Not yet* on a slate ten minutes late and did not curse delay — delay was how you learned which fires were honest about appetite before you walked into them. She touched her tide table once — not prayer, **calibration** — and returned to work, because work was the only dialect that did not feed hostage geometry dressed as prisms.
-
-**Alaric** stood at burn-ward lip one minute after Solaris prism coupling filed and did not remove his helm — continuity, not spectacle — while brightness still loved audience and audience was appetite. He did not say *We hold*. Holding, here, was **refusal to let arguing sky merge columns** before injury was attested.
-
-**Kessler** walked last burn aisle with auxilia pockets turned inside-out and three fingers raised at light that indexed wrong — witness route only, no throughput dressed as reconciliation — while casualty boards filled twice: once for flesh, once for minds bent before hearts broke.
-
-Somewhere ahead, **halo** waited — not romance, **mouth** — and light itself was becoming debt the Chapter would have to hold without letting beauty invoice the dead twice.
-
-**Varro** walked the burn-ward spine one last time with Executor wolf-skull steady, binds subvocal where Solaris loved sound and broadcast — brightness loved audience, and audience was appetite dressed as reconciliation packages.
-
-**Drusus** appended a closing margin — *Solaris prism coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained; record kill-vector latency beside biomarkers without merging columns* — sequence, not prophecy, carried forward toward sky billed in intervals.
-
-**Kadmos** saved the prism stub under *hostile architecture; echo stub* and replayed harmonics until they looked like veins — Ring minutes, tomb geometry, same cruel mathematics wearing different light.
-
-**Iria** read *Not yet* on a slate ten minutes late and did not curse delay — delay was how you learned which fires were honest about appetite before halo billed sky in intervals and brightness loved audience dressed as reconciliation.
-
-**Valerius** stamped toward **Halo Mouth** twice — Marine continuity beside mortal chains still solvent — because arguing sky would tax both ledgers when casualty boards filled twice: once for flesh, once for minds bent before hearts broke.
-
-**Alaric** counted prism losses without theater on the lip — hinge-work — and did not say *We hold* as borrowed liturgy. Holding, here, was light sharpened into debt honest enough to refuse merge before tide-names taught settlement in salt.
-
-**Kessler** raised three fingers at prism hololith blank sector — witness route only — because casualty boards filled twice: once for flesh, once for minds bent before hearts broke, and merge was how convoys choked.
-
-**Varro** filed prism threshold as proto-rite — seal attempted, not victory — because light that loved audience was etiquette halo mouth would tax when sky opened without consent.
-
-**Kadmos** posted burn-ward cordon one meter deeper — geometry as insurance — because prism wash converted cover into oven faster than slides admitted.
-
-**Drusus** cross-filed prism coupling beside trust debt elevated until margin looked like accusation — sequence, not prophecy, because light sharpened into debt would tax both ledgers.
-
-**Echo** listened at burn-ward for harmonics not yet **tide**-shaped — filing Solaris prism coupling as sequence before Halo Mouth earned attested injury.
-
-**Sera** tagged burn-ward handshake *monitor only* until Pol seed starved merge columns.
-
-**Orwen** filed prism timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than light dressed as reconciliation.
-
-**Merit** tried once to clip a recorder to prism hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as prism folk awe packages.
-
-**Threx** would file *yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only*.
-
-**Iria** refused to KPI evacuation — silence meant *do not rename sacrifice as throughput* — until tide vocabulary stayed tide vocabulary and did not metastasize into slides about *prism resilience scores*.
-
-**Valerius** stamped toward **Halo Mouth** twice — Marine continuity beside mortal chains still solvent — because arguing sky would tax both ledgers when indexing light loved audience.
+**Threx** would file *yield preserved* beside *witness attests* — until **Valerius** stamped *witness route only*.
 
 Interest collecting teeth before receipts.
 
