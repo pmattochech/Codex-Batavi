@@ -13,8 +13,6 @@
 
 ---
 
-## I. Stacked Ledgers — Not River
-
 Time, in war, is not a river; it is **stacked ledgers** — pages you turn with your hands still dirty, totals you memorize because sleep repeats arithmetic more honestly than dreams, and some aches are learned not in scenes but in **scars counted during meals**: a burn line that means a flare cough, a divot along a knuckle that means a hatch you refused to lose, a silence at a table where someone used to swear about rations and now swears about **witness**.
 
 This chapter is montage because montage is how institutions gestate — **not** cleanly, not as doctrine announced from on high, but as a thousand small concessions that harden into **shape** you can file without admitting you built it from refusals.
@@ -26,10 +24,6 @@ Montage years teach **inventory drift**: crates labeled *Sigma-* arriving beside
 **Valerius** fights drift with stamps until ink becomes theology: each pole gets its own prefix so beauty cannot hitchhike across theaters disguised as **efficiency**.
 
 Staff learn that **parallel filing** is not paperwork fetish when convoys die twice and blame needs **duplicate statements** that still agree under oath; junior aides rehearse initials until signatures look like armor against tribunal appetite.
-
----
-
-## II. Shared Sweat — Slang Becomes Law
 
 **Merit’s** clerks keep trying to monetize morale like weather — *attention throughput*, *witness impressions* — and keep meeting refusals written in hammer strikes and canceled serial numbers until even **Threx** stops pretending optics can audit souls without breaking them.
 
@@ -47,10 +41,6 @@ They do not exchange praise; they exchange **timestamps** and **exclusion zones*
 
 What gets filed alongside the signatures is not victory; it is **permission under duress** — the irreversible admission that the Chapter will tolerate a knife at its belt if the knife comes with maps of places Mars would rather keep blind.
 
----
-
-## III. Santo Salutes — Kessler Refuses Captain
-
 Explorator drafts arrive with appendices thick enough to stop doors; **Alaric** reads until his eyes fatigue like any mortal’s — proof the body keeps score even when propaganda insists gene-forging erases fatigue — and closes with single-line orders that translate **treaty** back into geometry: hold here, purge there, annotate always. Geometry does not soothe **Threx**; it anchors him enough to swallow pride without choking entirely.
 
 **Santo** learns to salute without flinching; flinching was a young man’s luxury — an honest recoil from spectacle — and spectacle is what killed boys beside him when holo-honor met shingle **physics** on Incus beaches and in hyper-G corridors where the universe taxed *slow* in blood. Now the hand goes up, the eyes go nowhere sentimental: hygiene, extended to the spine.
@@ -65,11 +55,7 @@ He practices the motion in a mirror once — stupid, childish — then stops, be
 
 **Valerius** becomes the face officers look toward when Marine eyes shine too bright — when transhuman certainty reads as threat to men who still need **human** permission to keep commanding their own fear; he does not soften the world, he simply makes the world *legible* enough that mortals can obey without admitting they are begging.
 
----
-
-## IV. Reconciliation as Violence — Drusus Sleeps Less
-
-In one closed brief — chairs too close, recirc air smelling of starch and fear — he translates a Strategium slide until the numbers stop pretending to be innocent: *mirror-adjacent losses* stacked beside *confirmed labor throughput* until the slide becomes an accusation nobody can arrest.
+In one closed brief — chairs too close, recirc air smelling of starch and fear — **Drusus** translated a Strategium slide until the numbers stopped pretending to be innocent: *mirror-adjacent losses* stacked beside *confirmed labor throughput* until the slide became an accusation nobody could arrest.
 
 That is the chapter’s **reading** beat in miniature: not auspex poetry, but **reconciliation** as violence, the moment staff learns that *sustainable* is sometimes just another word for *we learned to eat smaller helpings of our friends*.
 
@@ -82,10 +68,6 @@ Bridge crews adopt **Valerius counting** — canteens, casualties, cables — un
 He annotates vitals charts the way other men annotate kill-boxes, and when a footnote references **Wolf’s Curse** markers beside stress indices, the footnote is not mysticism; it is a clinician admitting the organism he serves is also a hazard he must meter, line by line, war by war.
 
 Apothecarion interns learn to transcribe tremors across battle-brothers without turning transcription into prophecy — **rhyme**, Drusus permits; **oracle**, he burns — until junior medicae stop mistaking coincidence for curse and start treating coincidence as **data hygiene**.
-
----
-
-## V. Silence Cohort — Licentia Lupina
 
 **Varro** seeds **Silence Cohort** linework across theaters until chaplaincies resemble **networks** — not parishes only, but *maps* of where the Immaterial presses, where vows must be reinforced with ash. The montage crosses **CV y13**, so what the eye learns late in the span is **Executor** geometry on the **Judex** — ***Executor* wolf-skull** once the crucible hardens the mask — while line priests keep the ***Codex* death-skull** and **only rarely**, by ***licentia lupina***, a licensed brother wears a matching cast.
 
@@ -104,10 +86,6 @@ On a tender spine under toxic skies, **Santo** unloaded beside dockhands who cur
 — Wipe the seal — he said — deck don’t care whose god is prettier.
 
 Santo wiped. The rag came away gray. Gray was a color armies learned to wear inside their lungs before they learned to wear it on banners.
-
----
-
-## VI. Second Spiral — Expected Variance
 
 Montage years taught that horror could become **vocabulary** — *expected variance* — and vocabulary was how institutions slept while someone else paid for the dream. **Valerius** refused the sleep where he could: stamps, prefixes, *DO NOT MERGE* in margins thick enough to survive tribunal appetite.
 
@@ -133,10 +111,6 @@ Mortals who survived Incus hyper-G arrive on tenders walking like veterans of gr
 
 The colonel stamped twice. Montage years taught small mercies at scale.
 
----
-
-## VII. Iria as Margin — Active Silence Forward
-
 On **Aethelgard’s** echo-front — early-war residue in a montage that also reaches forward — hunter signs flicker as **remnants**, not peace: not the clean absence of predators but the **presence** of absence, arranged kit, footprints too considerate, voids in birdflight where noise should live, until mortals name it superstition and superstition keeps them alive.
 
 **Iria**, when she appears in these years, appears as margin: a note attached to a tide table, a correction to a staff assumption about mud and memory; she does not rescue the Strategium from its categories — she makes the categories **cost** something, which is rarer and more durable.
@@ -148,10 +122,6 @@ Midwatch chapels smell like ozone and reheated starch; **Varro** moves through t
 The romance of the middle books — if romance is the old word for ordeal made **beautiful** by refusal to lie about its cost — is that the hero’s oath thickens into **institution** while his shadow lengthens.
 
 Alaric does not become smaller; he becomes **distributed**: a voice in channels, a silhouette on hololiths, a standard other men weaponize when their own spines fail, the shadow not sin alone but **consequence** walking in step with power because power never walks alone for long.
-
----
-
-## VIII. Deployment Confirmed — Book III Asks for Gulfs
 
 He stands under a hololith of **Bifrons-Ferrum** — two worlds bridged by a gulf that looks like a wound stitched with cable — where craters wear labels mortals will mispronounce and objectives blink with the polite violence of duty translated into coordinates. He does not ask if the galaxy approves, only what the next minute requires and whether *hold* still means what it meant before the minutes became years.
 
