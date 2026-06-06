@@ -45,15 +45,11 @@ The mesh was **Pole II + V** in truth if not in poetry — Incus warrens exhalin
 
 The breach chose **crossfire geometry** — the enemy’s favorite sermon in cities: *make virtue kill the wrong people fast enough that virtue chokes on itself*.
 
-On the void slate, **days of air** ticked down while Incus water columns climbed — two hungers rhyming until Valerius drew a hard line between them and wrote *DO NOT MERGE* in margins thick enough to survive tribunal appetite. **Threx** called the line *Chapter mysticism*. Valerius called it *arithmetic that keeps convoys solvent*. Both were right enough to hate each other politely.
-
 ---
 
 ## III. Inches — Ugly Faith
 
 Auxilia — **Kessler** among them, voice gone hoarse from ordering men into cover they didn’t believe in — were caught between brood **knives** and Astartes **firelanes** carved for purity, because purity, on paper, loves straight lines while bodies love **doorframes**.
-
-Logus void-debt still tightened supply timers in the same breath as hive water columns climbed — two hungers insisting they were *primary* until **Valerius** drew a hard line between them and wrote *DO NOT MERGE* in margins thick enough to survive tribunal appetite.
 
 Kessler stopped asking men to trust the plan and started asking them to trust **inches**: this pillar, that scorch mark, the shadow’s edge where bolter light had not yet learned their names. Inches were ugly faith. They worked.
 
@@ -71,7 +67,7 @@ One neophyte — name later struck from praise-scrolls — vomited behind a pill
 
 ## IV. Mass, Bind, Count — Three Jobs in Smoke
 
-Smoke carried **Brood-Flutter** rhythm up from vents below — work, work, work — while Logus cord stress mailed void-debt into the mesh like a second metronome insisting it was *primary*. Crossfire geometry loved two hungers at once: make virtue kill the wrong people fast enough that virtue choked.
+Smoke carried **Brood-Flutter** rhythm up from vents below — work, work, work — while Logus cord stress mailed void-debt into the mesh like a second metronome. Crossfire geometry loved two hungers at once: make virtue kill the wrong people fast enough that virtue choked.
 
 Alaric was not *leading* so much as *becoming the line* men died on purpose beside — mass without swagger, the hinge that made retreat geometrically impossible.
 
@@ -92,8 +88,6 @@ Later she would swear she heard compassion. Drusus would annotate her transcript
 Her hands shook; she steadied them on her slate anyway, because steadiness was how mortals refused to become **instruments** for someone else’s choir.
 
 **Iria** — liaison line still deferred, *Not yet* blinking on slates nobody saluted — passed the surge corridor’s landward lip with water crates and did not enter the smoke. Entering would have turned witness into **spectacle**. She counted bodies carried outward instead, tide-habit applied to ash: *flow*, *bottleneck*, *who pays the choke*. When a stretcher team stumbled, she steadied the rail with one hand and said nothing. Nothing was the only dialect that did not feed Echo.
-
-**Kadmos** clipped gain one more decibel until *vox* returned ugly and short — *hold*, *left*, *up* — because poetry was how you taught the enemy where you flinched before Instruction sealed behind biometrics and young Chaplains learned what *silence* cost when silence had teeth not yet named on open channels.
 
 ---
 
@@ -171,24 +165,6 @@ On a gantry far above, **Mira** watched ash drift and did not smile; below, **Sa
 
 **Valerius** approved the paper on the first pass, which was rarer than love; rarer than love, in the crucible, was *speed that did not steal*.
 
-**Threx** filed *liturgical armor revision; non-salvage* and hated *non-salvage* like fasting — swallowed anyway because swallowing meant invoices. Young Chaplains learned that wolf-skulls multiplied only by ***licentia lupina***, ink in advance, extension not fashion — seal law written where mysticism could not recruit volunteers for debts they could not repay.
-
-**Orwen** copied odd-hour rotation timestamps into testimony prep without adjectives — ranges, no metaphors — because cult velocity dressed as morale throughput killed faster than purge cycles could answer.
-
-**Echo** listened at vault alloy seam for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing silence as sequence before glass overture taught left was not left.
-
-**Kadmos** posted vault cordon one meter deeper — geometry as insurance — because crossfire geometry was debt Vitreus would spend when arrays learned to eat faces.
-
-**Merit** pocketed her forbidden recorder like contraband faith — *Keep it*, Varro had implied — because institutional memory was sometimes debt you paid in silence, not throughput packages.
-
-**Sera** tagged vault handshake bundles *monitor only* until Pol seed starved merge columns and Exanimus stayed vocabulary arriving late.
-
-**Pol**'s seed — crossfire geometry, monitor only — rhymed with choir biometrics in Drusus margins before Cinder Nine earned blood tuition.
-
-**Drusus** logged choir biometrics under *Instruction sealed* — not prophecy, **sequence** — because face-of-friction curriculum traveled south toward glass seas where echo wanted permission.
-
-**Iria** breathed active silence at vault denial — *Not yet* — schedule not cruelty, the same blink that kept pupil geometry from becoming oracle before Moon Hunt braid traveled south.
-
 ---
 
 ## VIII. Performed in Smoke — Crowned in Ceramite
@@ -197,63 +173,39 @@ Drusus listened to the sealed margin order one more time in the vault’s hush a
 
 The crucible had learned a fourth syllabus. Tuition would be paid in wolf-skulls, odd-hour sleep, and recorders that refused to look away.
 
-**Pol**’s seed was not yet scattered beside blood on Cinder Nine — that tuition waited one chapter forward — but the wrong unison in corridors had already taught the Triumvirate that coherence could kill faster than blades when virtue almost choked on itself.
+**Pol**’s seed — already scattered beside blood on Cinder Nine — still rhymed with choir biometrics in sealed margins; wrong unison in corridors had taught the Triumvirate that coherence could kill faster than blades when virtue almost choked on itself.
 
-Vitreus waited in glass seas. Clarity that burns. Merit’s recorder forbidden on the next pole. Sigma-Black sympathy climbing.
+**Drusus** sealed Instruction behind biometrics — *face of friction curriculum; Pol seed monitor only; crossfire geometry; DO NOT MERGE with Pier Nine pupil trace* — and logged choir vitals under *watch*, not *brood*. Naming too early was how officers invented martyrs for the wrong altar.
 
-**Alaric** walked the vault exit without removing his helm — continuity, not modesty — and practiced the stillness Exanimus had filed into his posture until stillness felt less like fear and more like **geometry** refusing to let virtue kill the wrong people fast enough to choke. **Iria**’s *Not yet* still blinked on slates. Fire had not finished teaching honesty about appetite. Ignis would teach it again in ninety seconds priced in bodies.
+**Varro** wore **Codex** death-skull still — Executor wolf-skull waiting on the other side of vault — and filed choir threshold as proto-rite: seal attempted, not victory.
 
-**Kadmos** replayed crossfire geometry on a slate until the lines looked like veins — virtue almost choking, mass shifted one meter left, hinge-voice doing work speeches could not — and saved the sketch under *Exanimus-adjacent; Triumvirate only; sequence not prophecy*. Sketches were how artillery minds kept horror from becoming **theater**.
+**Kadmos** saved crossfire sketch under *Exanimus-adjacent; Triumvirate only; sequence not prophecy* and posted vault cordon one meter deeper — geometry as insurance.
 
-**Merit** tried once more to clip her recorder to the vault door frame — *institutional memory* — and met **Varro**’s Executor profile turning toward her like a verdict you could wear. She unclipped herself. Some memories were **debts** you paid in silence, not throughput.
+**Valerius** stamped embarkation toward **Glass Overture** twice — Marine continuity beside mortal payroll still breathing — and cross-filed *liturgical armor revision; non-salvage* beside *witness route only*.
 
-**Kessler** walked last vault aisle with auxilia pockets turned inside-out and three fingers raised at alloy that still hummed like choir — witness route only, no throughput dressed as folk liturgy.
+**Merit** tried once more to clip her recorder to the vault door frame and met **Varro**’s Executor profile turning toward her like a verdict you could wear. She unclipped herself. *Keep it*, Alaric had said — protocol before pride.
 
-**Drusus** sealed Instruction behind biometrics — *face of friction curriculum; Pol seed on Cinder Nine; monitor crossfire geometry; DO NOT MERGE with Pier Nine pupil trace* — sequence, not prophecy, because Exanimus was vocabulary arriving late on open channels. He did not brief captains. Briefing would have turned vault threshold into **oracle** before glass overture taught left was not left.
+**Threx** filed *liturgical armor revision; non-salvage* beside *witness attests*; **Valerius** stamped *witness route only* until friction looked like **solvency**.
 
-**Varro** wore **Codex** death-skull still — Executor wolf-skull waiting on the other side of vault — and filed choir threshold as proto-rite: seal attempted, not victory, because face of friction was too young to name and too urgent to skip.
+**Orwen** filed vault coupling timestamps without adjectives — ranges, no metaphors.
 
-**Kadmos** saved vault stub under *hostile crossfire; echo stub* and replayed Pol seed geometry until harmonics looked like veins — inheritance terrain wearing choir weather tonight.
+**Echo** listened at choir alloy hum for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing silence as sequence before glass overture taught left was not left.
 
-**Valerius** stamped toward **Glass Overture** twice — Marine continuity beside mortal payroll still breathing — and cross-filed *liturgical armor revision; non-salvage* beside *witness route only*, parallel filing the only mercy when Mechanicus grief wore numbers it could not wear as shame.
+**Kessler** walked last vault aisle with auxilia pockets turned inside-out — witness route only, no throughput dressed as folk liturgy.
 
-**Orwen** filed vault coupling without adjectives — timestamps, ranges, no metaphors — because facts laid like bricks survived longer than throughput dressed as Exanimus folk liturgy.
+**Sera** tagged vault egress handshake *monitor only* until Pol seed starved merge columns.
 
-**Echo** listened at choir alloy hum for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — while vault still taught brothers what silence cost when silence had teeth not yet named on open channels.
+**Santo** cleaned his weapon with motions too precise to be calm; **Mira** watched ash drift and did not smile — witness without applause traveling toward glass seas.
 
-**Alaric** stood at choir threshold one last minute — hinge-work — while glass overture waited to climb Sigma sympathy in margins before inheritance had a name.
+**Iria**’s *Not yet* still blinked on uplink — schedule, not cruelty — while fire had not finished teaching honesty about appetite.
 
-**Santo** cleaned his weapon with motions too precise to be calm; **Mira** watched ash drift and did not smile — witness without applause traveling in both directions toward glass seas where left was not left.
+**Alaric** walked the vault exit without removing his helm — continuity, not modesty — and practiced the stillness Exanimus had filed into his posture until stillness felt less like fear and more like **geometry**.
 
-**Iria**'s *Not yet* blinked on uplink beside vault denial — not cruelty, **schedule** — the same blink that would keep left-is-not-left from becoming prophecy before Vitreus taught arrays to eat faces.
+Glass Overture waited. Clarity that burns. Sigma-Black sympathy climbing.
 
-**Merit** met **Valerius**'s **NON-COMPLIANT** stamp at chapel hololith before the clip clicked — *Keep it*, Varro had said — protocol before pride was sometimes the only vaccine against cult velocity dressed as morale throughput.
-
-**Sera** tagged vault egress handshake *monitor only* until Pol seed starved merge and glass overture earned attested injury at left-is-not-left threshold.
-
-**Threx** would invoice *liturgical armor revision* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like **solvency**.
-
-
-**Valerius** approved **Kessler**'s odd-hour rotation on first pass — rarer than love on Incus — because broken rhythm was sometimes the only vaccine sergeants could administer without ink from Terra.
-
-**Mira** counted ash drift against payroll zeros — honest solvency — because cult velocity dressed as morale throughput killed faster than purge cycles when corridors hummed wrong unison.
-
-**Pol**'s seed — crossfire geometry, monitor only — rhymed with choir biometrics in sealed margins before Cinder Nine earned blood tuition one chapter forward.
-
-**Orwen** copied vault egress timestamps into testimony prep without adjectives — ranges, no metaphors — because facts laid like bricks when Exanimus folk liturgy tried to dress throughput as inheritance.
-
-**Echo** filed silence as sequence at vault alloy seam — harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** until glass seas taught left was not left.
-
-**Drusus** logged choir vitals under *watch* — not *brood* — because naming too early was how officers invented martyrs for the wrong altar before Vitreus taught arrays to eat faces.
-
-**Kadmos** posted vault cordon one meter deeper — geometry as insurance — because ***licentia lupina*** multiplied wolf-skulls only where **Judex** chose extension, not fashion.
-
-**Valerius** watched vault lamps draw two shadows from **Varro** — man and skull — until both learned to fall toward **Glass Overture**.
-**Young Chaplains** learned that night that Executor jawline waited on the other side of vault — **Codex** death-skull doing honest work until ***licentia lupina*** chose extension.
-**Santo** cleaned his weapon with motions too precise to be calm; **Mira** watched ash drift — witness without applause traveling toward glass seas where left was not left.
 Interest collecting teeth before receipts.
 
-*Licentia lupina*. Protocol before pride. Merit: *Keep it*.
+*Licentia lupina*. Protocol before pride. Merit: *Keep it*. Exanimus unwritten. Glass Overture waiting.
 
 Always owed.
 
