@@ -82,6 +82,7 @@
   * *Administratum gloss:* **Insula Tenebrarum** / **Castra Vetera** mesh filed as critical **Nihilus** filter node; outward choke = **Witness Ford**. *(Retired astro names in new prose: *Porta Nihili*, *Loken Passage*.)*
 * **~183.M42 | Ferrum-Secondus Wolf Ledger (Noviomagus internal):**
   * *Event:* **Exactus Extremis** audit finds **0.31%** tithe drift to unauthorized **Castellan Relief** accounts; wolf-echo prayer cards in shift lockers. **Branimir Vorhalt** / **Silence Cohort** surgical capture; **Marshal Acastian Vhal** first Castellan-idol co-supervision; **Alaric** refuses **Wall-Sovereign of the Second Ring** civic title. **Corbec** *Prima* note: *watch Vespera*.
+  * *Day-120:* Standing Silence lattice adopted; case **FS-183-041** closed *surgical correction sustained*; **amber** chalk wolf (no title) — Corbec *Soon* ladder before **189** escalation.
   * *Doctrine seed:* *Personal devotion to command personae is not legal loyalty* (Vhal margin — later Vespera Arbites addendum).
   * *Narrative:* [ferrum-secondus-wolf-ledger.md](../../chronicles/15-post-vigil/ferrum-secondus-wolf-ledger.md).
 * **~189.M42 | Hive Vespera Red Harvest (Noviomagus internal):**
@@ -89,5 +90,5 @@
   * *Doctrine:* "Personal devotion to command authority is not legal loyalty" (Arbites addendum). Post-purge asset normalization — population as throughput ledger.
   * *Narrative:* [hive-vespera-red-harvest.md](../../chronicles/15-post-vigil/hive-vespera-red-harvest.md). *Chain context:* [10-proof-of-chain.md](../../chronicles/06-silent-vigil/10-proof-of-chain.md).
 * **180.M42 (present) | Gate consolidation:**
-  * *Event:* **Elara Solis (~30)** locks Outer Gate fleet command; live **Witness Ford** convoy exercise; Throne briefing through Elara operational. **Inquisitor Vane** — final subsector audit; self-neutralized (super-tithe + hierarchical transparency + Custodes watch — no further Ordo escalation).
+  * *Event:* **Elara Solis (~30)** locks Outer Gate fleet command; live **Witness Ford** convoy exercise (**Theta-Nine**, **Kappa-Three**); night-band **Lambda-Two** repeat under new tables. **Jonas Solis** strikes Administratum *Solis Gate* rename on approach slate. **Shadow-hold** Castellan channel doctrine filed (present enough to deter, absent enough to avoid idol). Throne briefing through Elara operational. **Inquisitor Vane** — final subsector audit; self-neutralized (super-tithe + hierarchical transparency + Custodes watch — no further Ordo escalation).
   * *Narrative:* [outer-gate-consolidation.md](../../chronicles/15-post-vigil/outer-gate-consolidation.md). *Handoff prior:* [wolf-daughter.md](../../chronicles/07-iron-venus/wolf-daughter.md).

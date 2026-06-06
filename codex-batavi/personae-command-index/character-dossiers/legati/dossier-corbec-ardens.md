@@ -45,6 +45,7 @@
 * **Pre-Legatus:** Completed a **full certified *Watch cycle*** under post-**051.M42** lattice ([deathwatch-and-batavorum.md](../../../political-relations/deathwatch-and-batavorum.md)); return audit sealed by *Medicinae* before nomination could advance.  
 * **Appointment:** Confirmed **Legatus** of *Prima* after **Valerius**’s expunging and the **Deathwatch career lattice** — exact year held close in *Strategium* minutes; bears *Alabarda* **not** under *clausula retentionis antecedentis* (no retroactive Watch waiver for this seat’s line of succession).  
 * **Silent Vigil era:** Held Noviomagus Prime garrison stability through the **Vigil-century** (**050–150.M42**) of **clinical** throne-distance — **discipline over comfort**; no public break with the Adamant Throne’s cold years.
+* **~183.M42 | Ferrum-Secondus Wolf Ledger (*Prima* watch):** Received Branimir’s **amber** chalk report on secure vox; filed *watch Vespera* margin — *Soon* when idol morphology adds **teeth** and **title** (pre–**189** Red Harvest). Narrative: [ferrum-secondus-wolf-ledger.md](../../../chronicles/15-post-vigil/ferrum-secondus-wolf-ledger.md).
 * **Post-second Red Wolf doctrine turn (sealed):** After recurrence markers in the Silent Vigil command band, Corbec is logged among the oldest-service voices arguing that anti-corruption doctrine must include a chapter-level **anti-Alaric inversion** path. He frames it as continuity law, not distrust: if the Castellan and Triumvirate are the first countermeasure against treason, the Chapter must remain the second.
 
 ---

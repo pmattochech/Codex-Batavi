@@ -57,7 +57,7 @@
 | **Elara Solis** — Iron Venus; Outer Gate fleet command | Martha-raised; protector bond to Alaric (asymmetric) |
 | **Martha** — Matriarch of the Kitchen | Civil anchor; clean-zone law; pack-warmth talisman |
 | **Tobias** *(deceased)* — Master of Works | Fortress logistics; radiation martyr; Viggo bier |
-| **Jonas** — Senior factory auditor (Martha’s firstborn) | Friction logic on ledgers |
+| **Jonas** — Senior factory auditor (Martha’s firstborn) | Friction logic on ledgers; **180.M42** Outer Gate slate correction (*Solis Gate* struck) |
 | **Mara** — Kitchen/logistics (Martha’s daughter) | Synthetic meat rite; community anchor |
 | **Sofia & Silas** — Trauma nurses (twins) | Drusus-supervised medicae cadre |
 | **Kael** — Urban infiltration (Martha’s son) | Vent-crawl; sub-forge inspection |
@@ -67,7 +67,7 @@
 | **Leo** — Forge apprentice (youngest) | Born at Tobias’s funeral; Wall-protected |
 | **Valdric** — Abhuman (*Homo sapiens lupus*), Aethelgard | Ice Reaper; clinical frontier asset |
 | **Viggo** — Fenrisian Thunderwolf | Alaric’s biological anchor; deceased; bone talismans |
-| **Marshal Acastian Vhal** — Adeptus Arbites | Hive Vespera legal purge architecture |
+| **Marshal Acastian Vhal** — Adeptus Arbites | **FS-183-041** Castellan-idol co-supervision; Hive Vespera legal purge architecture |
 | **Judge-Militant Serix** — Adeptus Arbites | Lex verdicts on hard vox |
 | **Mira Kell** — Hive mother (Foundation / Incus) | Kin-network power on quotas |
 | **Santo** — Militia (Mira’s son) | Young pride; misreads rescue |
