@@ -201,8 +201,6 @@ Drusus appended closing margin for translation burn — *optic/warp coupling may
 
 Valerius stamped embarkation slate toward **Half Chapter Still Standing** twice — once for glare discipline continuity, once for mortal chains still solvent — because half-chapters still charged full interest.
 
-Skitarii observers tried **first touch** on bleed telemetry for trophy archives until **NON-COMPLIANT** stamps met them — witness routes only — because *yield* could not eat testimony while testimony still traveled on parallel lines.
-
 Forgemasters erased chalk ticks so bleed maps could not migrate into Merit mood-boards — witness guarded like ammunition — while bondsmen stacked duplicate pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright.
 
 Bondsmen whispered thanks to nothing they could name cleanly — thanks shaped like debt — until Varro ended whisper with ash and **schedule**, because gratitude could become liturgy faster than sabotage could trip valve if you let it sing.
@@ -225,27 +223,17 @@ Alaric remained inside Vermilion minutes while forges cooled wrong light out of 
 
 **Hold** and **witness** stayed different ledgers even when polish pretended otherwise.
 
-**Drusus** appended a closing margin for translation burn — *Vitreus coupling may present as Wolf’s Curse stress rhyme; treat left-is-not-left as environmental false-positive unless sustained across three intervals* — sequence, not prophecy, carried forward toward half-standing where Vermilion harness learned weight before Crown cut void.
+**Orwen** kept testimony block-capital clean — no adjectives.
 
-**Valerius** stamped toward **Half Chapter Still Standing** twice — Marine continuity beside mortal payroll still breathing — because sheath still held was interval, not closure, and both ledgers would tax the next pole.
+**Varro** filed Vitreus threshold as proto-rite — seal attempted, not victory.
 
-**Alaric** stood at spray lip one minute after corridor sealed — hinge-work — while left-is-not-left hid teeth where echo permission-seeking wore hostile flirtation like weather and **Hold** and **witness** stayed different ledgers even when polish pretended otherwise.
+**Echo** listened at spray baffle for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow**.
 
-**Kadmos** remained outside bearing coffins that still breathed — rear security as love spelled in geometry — while Drusus edited Valerius’s lyrical adjectives back out until document returned to phenomenology without poetry infecting staff.
+**Merit** tried once to clip a recorder to Vitreus hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only.
 
-**Kessler** walked last blind corridor with chalk on knuckles and one finger raised at viewport nobody should have trusted for face — witness before throughput — because sheath still held was interval, not closure.
+**Sera** tagged spray-deck fiber *monitor only* until merge columns starved.
 
-**Varro** filed Vitreus threshold as proto-rite — seal attempted, not victory — because left-is-not-left was interval not closure and sheath still held was debt Beast chapter would tax when door proved openable.
-
-**Orwen** kept testimony block-capital clean — no adjectives — because terror that stayed honest was sometimes the only vaccine when staff wanted *Castellan hazard* to mean schedule instead of door proved openable.
-
-**Echo** listened at spray baffle for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing Sigma bleed as sequence before half-standing taught Vermilion harness weight.
-
-**Merit** tried once to clip a recorder to Vitreus hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as left-is-not-left packages when arrays still ate faces.
-
-**Sera** tagged spray-deck fiber *monitor only* until merge columns starved and half-chapter earned attested injury when sheath still held was interval not closure.
-
-**Iria**'s *Not yet* blinked on uplink — not cruelty, **schedule** — the same blink that kept Pier Nine pupil geometry from becoming prophecy before arrays ate faces.
+**Iria**'s *Not yet* blinked on uplink — not cruelty, **schedule**.
 
 Interest collecting teeth before receipts.
 
