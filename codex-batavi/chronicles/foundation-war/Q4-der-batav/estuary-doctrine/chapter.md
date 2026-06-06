@@ -13,8 +13,6 @@
 
 ---
 
-## I. Iron Homecoming
-
 Return to **Aethelgard** estuaries tasted like **iron** homecoming.
 
 Salt memory scoured tongue. **Mud gospel** recalled not as story but as **body** — in calves that remembered sucking pull, in shoulders that remembered cord-drag, in nightmares that remembered tides that rose *wrong*.
@@ -30,10 +28,6 @@ Tide tables — what **Iria’s** kin still read better than **auspex** — turn
 Embarkation slates from Silica approaches still arrived **double-stamped** — Valerius — **witness routes** beside **throughput** — because crowns had tried to merge grief into forward motion until teeth showed in reflections.
 
 **DO NOT MERGE** still lived in archive locks miles and lifetimes away. Estuary decks carried its immune grammar in duplicate manifests until redundancy stopped looking like vanity and started looking like **survival**.
-
----
-
-## II. NOT FIELDED in Salt Mist
 
 Merit’s clerks floated *homecoming KPI lenses* at Needles gatherings until Kessler broke another mount and filed *NOT FIELDED*. Return was not mood board. Return was **feet** in mud and ink on manifests.
 
@@ -51,10 +45,6 @@ Bondsmen whispered **Dark Age of Technology** near tide clocks until Varro crush
 
 — Nomenclature is seal — he said. — Myth recruits estuaries faster than doctrine leashes them when gauges kneel workers without blades.
 
----
-
-## III. Closure — Prey of the Ledger
-
 **Extermination** swept what remained of hunter-archetype **stalkers** — not duel now, not *sport* preserved for honor’s poisoned cuisine, but **closure** — until what had hunted became **prey of the ledger**: tagged, cornered, cleared with brutality of paperwork finally enforced by bolter.
 
 Chapter performed inversion **without joy** because joy would have been insult to everyone who died learning difference between *prestige* and *duty*.
@@ -70,10 +60,6 @@ Wolf’s Curse watch stayed off channels that could recruit story — Kadmos enf
 Marines scrubbed ceramite dull — **glare discipline** carried from Vitreus — until polish stopped volunteering shine to fog that ate faces.
 
 Apothecarion interns practiced distinguishing **Exanimus** drift from tidal exhaustion — **rhyme** permitted in margins; **oracle** burned — until juniors stopped mistaking adrenaline for prophecy when tides lied politely.
-
----
-
-## IV. You Drowned Our Sons With Your Maps
 
 On salt-wet ledge above channel Administratum would have called *non-strategic*, **Needles** elders **debt-settled** old Marine sins with language blunt as clubs — not pleas but **verdicts**:
 
@@ -93,10 +79,6 @@ Queues along bunds learned **touch-taps** when *vox* screamed — knuckle code o
 
 Staff tried to rename **closure** as *recovery* until Valerius crossed *recovery* out and wrote *witness route only* — two words that cost minutes and bought names — because estuaries charged interest in throats before they charged interest in hulls.
 
----
-
-## V. Doctrine Before Motto
-
 **Alaric** — Vermilion at edge of settlement briefings where law permitted — counted intervals in stamped minutes without theater. Hinge-work **mass** where files were syringes and binds were stitches — geometry written in stillness until stillness made officers discover they had been holding breath — because homecoming could become spectacle faster than chaplain nets could shorten litanies.
 
 He had told Strategium half standing was still wall. He had told Valerius *After*. He did not yet speak Chapter’s iron answer as liturgy on open channels. Estuary was **doctrine** first — mouths still paying debt before motto.
@@ -110,10 +92,6 @@ Children drew arrows in mud until parents scrubbed them away. Kessler forbade Me
 Triumvirate briefings shrank to minutes — minutes meaning lives — especially when Echo listened for seams in cable-hum, **tide**-shaped harmonics, and reflection-grilles pretending neutral.
 
 Hyper-G **Tertius** veterans warned about **wrong weight** in lifting straps. Vitreus veterans warned about **wrong light** in fog. Both warnings rhymed with estuary air: different weather, same throat paying interest.
-
----
-
-## VI. Orbit Arithmetic — Threx’s Thinner Smile
 
 Above, in orbit’s colder arithmetic, Mechanicus clerks held **debt ledgers** of different species — hours, orbits, acceleration, **tithes** disguised as assistance — and **Threx**’s smile grew **thinner**, **older**, smile of man compiling interest on favors he had not asked for gently while Chapter signed what it had to sign and remembered signatures cost **trust**.
 
@@ -131,10 +109,6 @@ Kadmos ran cordons along bund walls with **touch-taps** when *vox* hollowed — 
 
 Night cycles traded lamp codes until **Lex Ignis** clocks aligned with Mechanicus wheels. Water points ran sour. **ROTATE** became liturgy for throats raw from shouted settlements.
 
----
-
-## VII. Hygiene and Bread
-
 **Kadmos** **burned** flak habitats that could no longer be held **clean** — not cruelty performing as zeal but **hygiene**, turning vectors that could not be purged short of flame into **fuel** so estuary line could harden without leaving pestilence at its back, smoke rising like second tide.
 
 **Varro**, Executor profile steady above water he blessed, prayed until prayer stopped sounding like **request** and started sounding like **treaty** — clauses sworn to silence, oaths binding Immaterial’s curious fingers where grief made minds *open* — while **Drusus** filed **blood-types** until filing felt like **mourning**, each line another body translated into compatibility and supply and cruel politeness of knowing who could receive whose **life** in bags.
@@ -148,10 +122,6 @@ She stood with elders on salt-wet ledge without speaking for Alaric — witness,
 Wind off mud tasted like ozone and old rope. She breathed it anyway — breathing proved somebody still negotiated with bodies instead of only with tithe manifests.
 
 Romance in Book IV opens not with innocence but with **accounting** — love of oaths that include **repayment**, love of kin who refuse to let you become myth without paying for myth’s **price**, love of war that ends — if it ever ends — in ledgers honest enough to shame glory.
-
----
-
-## VIII. Settlement Latency
 
 Casualty boards filled twice — once for flesh beside chain and flame, once for minds bent before hearts broke — because **witness priority** demanded honesty uglier than slides wearing *acceptable variance* like lipstick — honesty nobody could salute cleanly, only **hold**.
 
@@ -168,10 +138,6 @@ Bondsmen whispered thanks to nothing they could name cleanly — thanks shaped l
 Guides chalked **correction arcs** on levee crowns until chalk dust mixed with salt grit and looked like frost — nobody laughed at frost jokes twice — because humor could become **folk liturgy** faster than purge cycles could cleanse it.
 
 Forgemasters erased chalk ticks so reckoning maps could not migrate into Merit mood-boards — witness guarded like ammunition — while bondsmen stacked duplicate pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright.
-
----
-
-## IX. Book IV Opens on Salt
 
 **Kessler** walked last bund lane with boots counted aloud and three fingers raised at fog that caught light like mirror.
 
