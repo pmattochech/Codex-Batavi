@@ -125,7 +125,7 @@ She breathed **active silence** on local channels when staff tried to rename **a
 
 Children in holding pens drew chalk routes on deck until parents scrubbed them off. Kessler forbade Merit pict loops there because *comfort* could become **folk liturgy** faster than archivists could air-gap file when confidence intervals smiled.
 
-**Drusus** logged Valerius’s crack as *data point* in column he wished stayed empty — not betrayal, not weakness — while half standing was interval not closure and closure dressed as triumph theater still required witness before forward earned speaking.
+**Drusus** logged Valerius’s crack as *data point* in column he wished stayed empty — not betrayal, not weakness.
 
 ---
 
@@ -163,8 +163,6 @@ Drusus appended closing margin for translation burn — *archive coupling may pr
 
 Valerius stamped embarkation slate toward **Forward to the Crown** twice — once for ceramite continuity, once for mortal chains still solvent — because crowns still taxed both ledgers.
 
-Skitarii observers tried **first touch** on locked stacks until **NON-COMPLIANT** stamps met them — because *yield* could not eat testimony while chains of custody still lived on parallel lines.
-
 Triumvirate briefings shrank to minutes again — minutes meaning lives — especially when Echo listened for seams in cable-hum and **tide**-shaped harmonics pretending neutral.
 
 Forgemasters erased chalk ticks so reckoning maps could not migrate into Merit mood-boards — witness guarded like ammunition — while bondsmen stacked duplicate pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright.
@@ -201,51 +199,23 @@ Iria would carry Needle-songs without ornamenting steel.
 
 Santo would replace glass without being asked.
 
-**Alaric** stood at Vermilion harness lip one minute after half-chapter filed and did not remove his helm — continuity, not spectacle — while Strategium learned to fear **merge** as verb and Iria carried Needle-songs without ornamenting steel. He did not say *We hold*. Holding, here, was arithmetic that refused to let polish pretend **hold** and **witness** were the same ledger.
-
-**Drusus** appended a closing margin — *half-chapter coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained across three intervals* — sequence, not prophecy, carried forward toward crown geometry where Q4 would ask whether wall could still learn **forward** without forgetting what sheath had cost on Incus when thunder learned grammar.
-
 **Hold** and **witness** stayed different ledgers even when polish pretended otherwise.
 
 Q3 was closing its books in arithmetic.
 
 Q4 would ask whether wall could still learn **crown** geometry without letting archives merge first — whether half standing could become **forward** without forgetting what sheath had cost on Incus when thunder learned grammar.
 
-**Iria** carried Needle-songs one last interval without ornamenting steel — active silence shielding Vermilion harness against excuses that would have turned half-chapter into **reconciliation packages** that let Strategium sleep while someone else paid for polish.
+**Mira** stacked half-standing tallies without applause — honest zeros, not defeat.
 
-**Santo** replaced glass without being asked — hygiene extended to the soul — while **Drusus** counted minutes inside harness telemetry and refused to merge columns when Furor slope tried to dress itself as *acceptable variance*.
+**Merit** tried once to clip a recorder to archive hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only.
 
-**Valerius** stamped **Forward to the Crown** twice before dawn — Marine continuity beside mortal payroll still breathing — because crown egress would tax both ledgers when Navigator debt tried to merge grief into throughput.
+**Orwen** filed half-standing timestamps without adjectives — ranges, no metaphors.
 
-**Drusus** appended a closing margin — *half-chapter coupling may present as Wolf’s Curse stress convergence; treat Vermilion harness tremor as environmental false-positive unless sustained* — sequence, not prophecy, carried forward toward crown geometry where *hold* and **witness** stayed different ledgers even when polish pretended otherwise.
+**Echo** listened at Vermilion harness for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow**.
 
-**Iria** carried Needle-songs one last interval without ornamenting steel — active silence shielding Vermilion harness against excuses that would have turned half standing into **spectacle** before forward earned speaking.
+**Sera** tagged Vermilion harness fiber *monitor only* until merge columns starved.
 
-**Alaric** counted half-standing losses without theater on the lip — hinge-work — and did not say *We hold* as liturgy. Holding, here, was names still spellable — fewer on paper, more in muscle — before Crown geometry cut void like mouth that billed in intervals.
-
-**Mira** stacked half-standing tallies without applause — honest zeros, not defeat — because Vermilion harness learned weight before forward earned speaking without merging triumph theater with partial victory.
-
-**Alaric** walked Vermilion lip one last minute without speeches — hinge-work — and did not say *We hold* as liturgy. Holding, here, was names still spellable — fewer on paper, more in muscle — before Crown geometry cut void like mouth billing in intervals.
-
-**Santo** scrubbed soot from gantry rail — not clean, *honest* — because half standing was interval not closure and closure dressed as triumph theater still required witness before forward earned speaking at crown egress.
-
-**Drusus** appended half-chapter margin — *archive coupling; treat as environmental false-positive unless sustained* — sequence, not prophecy, because partial victory refused to become triumph theater when mouth was still open and physics did not close when archives did.
-
-**Echo** listened at Vermilion harness for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing Wolf's Curse stress convergence as sequence before Crown cut void like mouth billing in intervals.
-
-**Orwen** filed half-standing timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than polish dressed as reconciliation packages when stacks still stank of wrong light.
-
-**Merit** tried once to clip a recorder to archive hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as half-chapter triumph packages when Valerius cracked once where nobody was permitted to see.
-
-**Kessler** raised three fingers at archive blank sector — witness route only — because partial victory refused to become triumph theater when mouth was still open.
-
-**Sera** tagged Vermilion harness fiber *monitor only* until merge columns starved and Forward to the Crown earned attested injury at Navigator debt.
-
-**Threx** would file *yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like **solvency**.
-
-**Varche** logged half-chapter egress on Navy pane without romance — intervals, not closure — because crown egress would tax both ledgers when Navigator debt tried to merge grief into throughput.
-
-**Iria** carried Needle-songs one last interval — active silence — because half standing was interval, not closure, and closure dressed as triumph theater still required witness before forward earned speaking.
+**Varche** logged half-chapter egress on Navy pane without romance — intervals, not closure.
 
 Interest collecting teeth before receipts.
 
