@@ -119,8 +119,6 @@ Kadmos stood rearward with **touch-taps** ready if *vox* died — knuckle code �
 
 He did not speak Chapter’s iron answer as liturgy. Beach had its own verb now: **Der Batav** — iron that stayed — and *hold* could wait until mouths had paid enough not to lie.
 
-**Drusus** logged tide-name pulses under *Der Batav; human-origin; DO NOT MERGE with cognomen filing* — sequence, not prophecy — because names that rose from lungs deserved witness routes only before ink tried to brand them.
-
 ---
 
 ## VI. Romance Without Lie
@@ -189,47 +187,17 @@ Humanity had named Chapter before Throne did.
 
 **Santo** had crossed **none** into **present** with one angry stroke that made law look like carpentry. **Orwen** had handed witness forward. **Mira** had counted honest. Names, here, were not coins — they were **shoulders** learning weight bone-deep before ink arrived to pretend the Throne had invented what mortals had already spoken in salt.
 
-**Alaric** stood at berm lip one minute after the name filed and did not remove his helm — continuity, not modesty — practicing active silence the way Iria had taught on shingle and estuary alike: shield against excuses, flow without spectacle, refusal to let convenience rename sacrifice as virtue. He did not say *We hold* as liturgy. Holding, tonight, was **shoulders** learning weight before Throne ink arrived to pretend invention.
+**Merit** met **NON-COMPLIANT** at berm hololith — witness routes only.
 
-**Drusus** appended a margin for translation burn — *tide-name coupling may present as Wolf’s Curse stress rhyme; treat as environmental false-positive unless sustained across three intervals* — sequence, not prophecy — the same refusal that had kept prisms from merging columns prematurely.
+**Orwen** filed tide-name timestamps without adjectives — ranges, no metaphors.
 
-**Kessler** walked the berm wire once with auxilia counted aloud and three fingers raised at surf that caught light wrong — same habit Vitreus had taught, translated for shingle where humanity had named the Chapter before Throne ink arrived to pretend invention.
+**Echo** listened at shingle berm for **tide**-shaped harmonics — filing *Der Batav* as sequence.
 
-**Valerius** stamped the embarkation slate toward **Silica** twice — once for Marine continuity, once for mortal chains still solvent — because mirrors ahead would tax both ledgers when reflection walked beside iron.
+**Sera** tagged shingle embarkation *monitor only* until merge columns starved.
 
-**Santo** crossed **none** into **present** one more time on the embarkation slate — one angry stroke that made law look like carpentry — and did not look at hololiths naming *pressure relief*. Looking would have turned naming into **spectacle**. He adjusted a crate strap instead — hygiene extended to the spine — while **Mira** shifted loads so nothing tipped.
+**Kadmos** posted berm cordon one meter deeper — geometry as insurance.
 
-**Orwen** repeated timestamps into hand *vox* until voice went flat — flat not from courage, from **exhaustion** — because tide-names were the theater where humanity named Chapter before Throne ink arrived to pretend invention, and witness handed forward was cheaper than reconciliation packages that let admiralties sleep.
-
-**Varro** stood at berm edge with Executor jawline catching surf wrong-light and did not speak. Speaking would have turned shingle into **liturgy** before council earned the right to file continuation honest enough to cut.
-
-**Drusus** logged tide-name pulses under *Der Batav; human-origin; DO NOT MERGE with cognomen filing* — sequence, not prophecy, because names that rose from lungs deserved witness routes only.
-
-**Santo** shouted until voice broke on shingle — some debts pay best when they **hurt** going out — while **Mira Kell** stood back with arms crossed, not withholding, **witness**.
-
-**Alaric** knelt on shingle one last minute without speeches — hinge-work — because *Der Batav* rose from human lungs before ink tried to brand it and *hold* could wait until mouths had paid enough not to lie.
-
-**Valerius** stamped toward **Mirror Brood** twice — Marine continuity beside mortal chains still solvent — because light sharpened into debt would tax both ledgers when reflection walked beside iron.
-
-**Iria** folded tide chart into cuff without spectacle — active silence — because names spoken at estuary still required witness routes only before ink learned *We hold anyway* as instrument not folklore.
-
-**Kessler** kept timestamps in transcript — witness route only — because tide names spoken at salt lip were debt estuary doctrine had priced in settlement without merging triumph theater with partial victory.
-
-**Echo** listened at shingle berm for **tide**-shaped harmonics — filing *Der Batav* as sequence before Mirror Brood earned attested injury.
-
-**Sera** tagged shingle embarkation *monitor only* until Pol seed starved merge columns.
-
-**Orwen** filed tide-name timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than Throne ink dressed as invention.
-
-**Threx** would file *yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only*.
-
-**Merit** met **NON-COMPLIANT** at berm hololith — witness routes only — because reconciliation packages let admiralties sleep while mortals paid for names spoken at salt lip.
-
-**Kadmos** posted berm cordon one meter deeper — geometry as insurance — because tide names spoken still required witness routes only before ink learned *We hold anyway* as instrument.
-
-**Pol**'s seed — monitor only — would rhyme with tide-name coupling until Drusus starved merge columns.
-
-**Varro** stood at berm edge with Executor jawline catching surf wrong-light and did not speak. Speaking would have turned shingle into **liturgy** before council earned the right to file continuation honest enough to cut.
+**Threx** would file *yield preserved* beside *witness attests* — until **Valerius** stamped *witness route only*.
 
 Mirrors ahead would ask whether names could survive what reflection learned to hunger.
 
@@ -242,19 +210,5 @@ Always owed.
 ---
 
 **End of Chapter 30**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **Next:** [Mirror Brood](../mirror-brood/chapter.md) · Q4 · CV y22–y29
