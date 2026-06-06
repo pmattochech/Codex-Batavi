@@ -103,8 +103,6 @@ Kessler dragged a boy out of a channel by the collar and slapped him once — no
 
 Storm cells dragged radar ghosts across auspex until Drusus forced operators to chart **intervals** instead of angels — same discipline tombs had demanded — because swamp harmonics wore cousins’ masks and lied politely until uglier filters convicted them.
 
-**Varro** crushed whisper near captured needles until ash spoke louder than **Dark Age of Technology** nomenclature — myth recruits fauna faster than doctrine leashes it — and filed Maw threshold as proto-rite before still water hid teeth at ford Dynasty would inherit.
-
 ---
 
 ## V. Geometry in Brown Water
@@ -225,35 +223,25 @@ The Maw had its lesson now: hunger needed no Hive Mind when needles and whispers
 
 Hunger, the Chapter was learning, was a language that did not require translation — only **answer**, and the answer was never purely clean.
 
-**Varro** crushed a whisper near captured needles until ash spoke louder than **Dark Age of Technology** nomenclature — myth recruits fauna faster than doctrine leashes it — and filed Maw threshold as proto-rite: seal attempted, not victory.
+**Santo** scrubbed mud from his knuckles until skin turned raw — not clean, *honest* — and **Mira** stacked names beside crates without applause.
 
-**Santo** scrubbed mud from his knuckles until skin turned raw — not clean, *honest* — and **Mira** stacked names beside crates without applause because applause fed appetite faster than salt bit wounds. Dynasty's ford waited to teach etiquette that could kill without raising voice.
+**Orwen** filed ford casualties without adjectives — timestamps, ranges, no metaphors.
 
-**Valerius** stamped Maw handoff twice — ford continuity beside mortal payroll still breathing — because Dynasty waited to teach inheritance law at sealed span before Beast Records billed trust eaten from within.
+**Kadmos** posted Maw cordon one meter deeper — geometry as insurance.
 
-**Orwen** filed ford casualties without adjectives — timestamps, ranges, no metaphors — because witness route only survived when facts laid like bricks longer than hololith promises naming *pressure relief*.
+**Merit** tried once to clip a recorder to ford hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only.
 
-**Kadmos** posted Maw cordon one meter deeper — geometry as insurance — because leviathan displacement was schedule not metaphor and brown water hid teeth still water refused to finance as peace.
+**Sera** tagged ford handshake splices *monitor only* until merge columns starved.
 
-**Iria** passed ford with active silence — tide chart in cuff — because skin debt learned proto-rite faster than sermons when shame stayed honest.
+**Varche** logged ford displacement on the Navy pane without romance — schedule, not sermon.
 
-**Merit** tried once to clip a recorder to ford hololith until **NON-COMPLIANT** — witness routes only — because Maw ford was posture not package admiralties could sleep on while Dynasty waited at sealed span.
+**Echo** listened at ford brown water for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow**.
 
-**Threx** would file ford casualties as salvage-window breach — counter-written before protest landed — while **Valerius** stamped witness route only beside swamp receipts.
-
-**Sera** tagged ford handshake splices *monitor only* until Pol seed starved merge columns and Dynasty earned attested injury at sealed span.
-
-**Varche** logged ford displacement on the Navy pane without romance — schedule, not sermon — because leviathan chemistry was debt admiralties could not sleep on.
-
-**Drusus** sealed the Maw stub — *Maw saliva residue index elevated; do not merge ford casualties with tomb harmonics; treat saliva residue as watch* — sequence, not prophecy, carried toward Dynasty's ford.
-
-**Echo** listened at ford brown water for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing leviathan displacement as sequence before Dynasty taught etiquette that could kill without raising voice.
-
-**Threx** would file *yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only* beside swamp receipts.
+**Iria** passed ford with active silence — tide chart in cuff.
 
 Interest collecting teeth before receipts.
 
-Quiet ford. Loud swamp. Still water hiding teeth. Dynasty waiting.
+Quiet ford. Loud swamp. Still water hiding teeth. Dynasty's Last Command waiting.
 
 Always owed.
 
