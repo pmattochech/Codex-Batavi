@@ -13,8 +13,6 @@
 
 ---
 
-## I. Lessons in Likeness
-
 On Aethelgard mud still taught slow gospel. In dark between mirror-buoys, void taught faster one — **lessons in likeness**.
 
 Convoy did not die in battle. It died in **interpretation**.
@@ -31,11 +29,7 @@ Pryce slept in increments, helmet-on, dreams of parade squares dissolving into g
 
 Void work was supposed to be *clean*. Pryce’s mind kept translating cleanliness into danger: if mud taught you beauty lied, what did mirrors teach?
 
----
-
-## II. SAFE — Between Ninth and Tenth Buoy
-
-***Ferrum Thesis*** rode high like chaperone who resented dance: void shields tuned for particle scatter, auspex masts lifting as if to sniff shame off *Tithing*’s hull paint.
+In the Silica Field corridor, ***Ferrum Thesis*** rode high like chaperone who resented dance: void shields tuned for particle scatter, auspex masts lifting as if to sniff shame off *Tithing*’s hull paint.
 
 **Promise of Tithing** answered with politeness of tithe ship — slow turns, obedient burn, cargo holds packed with what Segmentum called *personnel* and Chapter called *debt we move through vacuum because shingle still counts what sea returns*.
 
@@ -63,11 +57,7 @@ Her officer shouted **instruments** as if instruments had not become theology.
 
 Ship obeyed. Obedience, sometimes, was only **panic in uniform**.
 
----
-
-## III. Not Us — Repeat
-
-Pryce tried to break loop with **ban** on mirrored *vox* phrasing — no repeated call-signs, no choral acknowledgments — until own throat ran dry from discipline of speaking once. It did not save him.
+When geometry developed **opinions**, Pryce tried to break loop with **ban** on mirrored *vox* phrasing — no repeated call-signs, no choral acknowledgments — until own throat ran dry from discipline of speaking once. It did not save him.
 
 Mirror-buoys were not lighthouses. They were **arguments** cast in glass and tether — each buoy thesis about where safe meant, each corridor between them dissertation nobody passed.
 
@@ -91,10 +81,6 @@ Pryce was not among recovered names — nor forty-six *Tithing* crew assumed abo
 
 Data archaeology later would reconstruct Pryce’s last coherent transmission as three words — *not us; repeat* — then static, then second voice too similar, then static again.
 
----
-
-## IV. Coupled — Not Haunted
-
 **Drusus** — ferried across because Castellan would not let dead speak only through Navy coroners — moved through *Tithing*’s companionways with lamps dialed to cruel honesty.
 
 Bulkheads wore smears where hands had slid and failed to find purchase. Child’s toy turned up wedged behind conduit hatch, obscene in normality, and serf pocketed it before Drusus could log it because some evidence is too sharp to hand to ink.
@@ -111,11 +97,7 @@ Drusus logged tremble as *non-failure anomaly* and knew phrase would age poorly.
 
 Chair did not answer. That was lesson: enemy, if enemy it was, had already fired — through **interpretation** — and interpretation left no brass to pick up for evidence bags.
 
----
-
-## V. Blame Is Luxury of the Living
-
-Strategium postmortem: blame as **liturgy**. Navy commissar blamed Mechanicus blind faith. Genetor proxy blamed Navigator cowardice. Navigator factor blamed Navy coffin-data. Each sentence true enough to *hurt* someone else. None true enough to **explain**.
+Back on Aethelgard, Strategium postmortem: blame as **liturgy**. Navy commissar blamed Mechanicus blind faith. Genetor proxy blamed Navigator cowardice. Navigator factor blamed Navy coffin-data. Each sentence true enough to *hurt* someone else. None true enough to **explain**.
 
 Kadmos listened, face stone sculpted by tired gods.
 
@@ -130,10 +112,6 @@ Navy commissar tried to salvage authority with **threat** — delay next auxilia
 **Valerius** sat with manifests and refused comfort of rounding: forty-six missing read as forty-six, not *approximately three squads*. When Navy aide suggested *psychological collapse cluster* as category, Valerius wrote **NO** in margin with same ink he used for rations, because new categories were how institutions laundered murder into weather.
 
 — No scraping until Drusus clears hazard — Alaric said. — **Witness** before trophy. Always.
-
----
-
-## VI. Sigma-Black — Prefers We Blame Ourselves
 
 Later, when mourners went home and tech-adepts pretended sleep, Drusus sat with auspex logs way confessor sits with sin: long enough for patterns to admit shame.
 
@@ -151,11 +129,7 @@ He did not know — could not know — how right he was. Years later, files woul
 
 Alaric read Castellan note twice and did not annotate it. Annotation would have turned suspicion into **plan**, and plan was what mirrors fed on. He ordered mirror-buoys along auxilia corridor downgraded from **SAFE** to **conditional** until someone could explain why *post-choice* harmonics arrived early without admitting prophecy into Strategium brief.
 
----
-
-## VII. The Barrel Is Us
-
-On cutter ride back toward translation point that would spit them into mud-time again, Drusus and Kadmos sat with same hololith frame repeating empty corridor until Kadmos snapped it off — not anger, **self-defense**.
+On the cutter ride back toward translation point that would spit them into mud-time again, Drusus and Kadmos sat with same hololith frame repeating empty corridor until Kadmos snapped it off — not anger, **self-defense**.
 
 — If this is weapon — Kadmos said — I want barrel.
 
@@ -197,11 +171,7 @@ He logged rhyme as *unverified cross-theater coupling* and hated log entry for s
 
 **Kadmos** saved the first mirror stub under *hostile flirtation; echo stub* — forty-six gaps, equipment fault, polite curves — because routes that looked straight on charts had learned honesty only when curves refused to merge.
 
----
-
-## VIII. Void Hunts Certainty
-
-That night, Alaric stood on Witness Ford lip where rain met offworld wind and listened to auxilia campfires pop while forty-six names waited in Valerius’s ledger for throats that would never answer roll.
+When translation spat them back into mud-time, that night Alaric stood on Witness Ford lip where rain met offworld wind and listened to auxilia campfires pop while forty-six names waited in Valerius’s ledger for throats that would never answer roll.
 
 He did not say *We hold.* He said, only to Varro, channel narrow:
 
@@ -227,9 +197,7 @@ Crucible had learned second syllabus. Tuition would not be forgiven.
 
 **Threx**'s channels would hiss *spoilage; opportunity deferred* before sunrise — Mechanicus grief wearing numbers when it could not wear shame — while void reflection attended same school as quartz scream on mirror routes that looked straight until charts learned polite curves.
 
-
 **Santo** heard Needles wire tick once more — tide return as weather, not oracle — and did not look at hololiths naming *equipment fault*. Looking would have turned embarkation into spectacle.
-
 
 **Echo** listened at glass highway for harmonics not yet **tide**-shaped — filing forty-six gaps as sequence before Living Specimen earned attested injury.
 
