@@ -13,7 +13,6 @@
 
 ---
 
-## I. The Ribbon — Provisional Death
 
 **Tenebrarum Ribbon** did not announce itself with theology. It announced itself with **math** — kind that made Navigators go quiet in way priests went quiet when they discovered chapel had been built on fault line.
 
@@ -28,10 +27,6 @@ Kadmos had warned him on Strategium deck, voice flat with beautiful discipline o
 — We are buying crucible — Alaric had answered. — Radulf bought same rumor and lives in machine now.
 
 Sentence had aged poorly in hours since.
-
----
-
-## II. Collision — CV Hour Zero
 
 Fleet **fell** out of warp way tool falls when hand forgets it — not in parade formation, not with layered airspace and *Codex* corridors painted on hololiths, but in **staggered** realspace shock that tore escort frigates into questions void did not answer.
 
@@ -56,10 +51,6 @@ Drusus’s voice entered net without ornament:
 Varro did not speak on open *vox*. He never wasted frequency when silence could carry same weight as sermon. Alaric felt him anyway — pressure at Triumvirate’s edge, *Codex* death-skull helm turned toward hololith as if world below were threshold that required rites before it could be crossed.
 
 *Argent Mandate* hit atmosphere like bell struck wrong. Metal screamed. Gravity remembered hobbies. Somewhere in ship, mortals who had never wanted to learn theology of weight discovered it anyway.
-
----
-
-## III. Vein-Mud — Paper Is Louder Until Sky Falls
 
 They did not come down on Thunderhawks in hour tide chose to pretend mercy. They came down as **wreckage** learning to impersonate intent.
 
@@ -93,10 +84,6 @@ Silence — petty, human, dressed in machine hesitation. Then, clipped as stylus
 
 Victory, of a sort. Romance of command often looked like that: not cheer, only smaller cruelty postponed, with interest accumulating somewhere Genetor would later try to collect.
 
----
-
-## IV. Thornwake — Move Your Brothers
-
 Thornwake survived. Traders often did, because survival was their heresy.
 
 She came in under guard on skiff that smelled of burned drives and expensive fear, warrant-case dented, coat stained with void-slick that was not oil. Navigator boy did not come. Kadmos’s report said boy’s chair on *Mercy* was empty in way chairs became empty when Immaterium took its fee.
@@ -116,10 +103,6 @@ Alaric looked at her, then at Needles girl, then at auxilia who were already dyi
 *End this search.*
 
 — You will give Kadmos every byte you still have — he told Thornwake. — Then you will wait under Mechanicus eyes until I decide whether traders die for mathematics or only for politics.
-
----
-
-## V. The Throat — Mud Louder Than All
 
 By sixth hour of CV y0, mud preached first sermon.
 
@@ -146,10 +129,6 @@ Alaric turned to Needles interpreters press-ganged into legitimacy by catastroph
 Behind her, Kessler hauled boy out by collar. He vomited mud and sea-stink. Perhaps sixteen, cheeks still fat with childhood’s last insult, he looked at towering armor not with gratitude but with blame so pure it bordered on holiness: *you came; you should have known.*
 
 Alaric felt crack — needle-fine — where *Codex* confidence had lived: not in Astartes, but in mortals who had trusted height of allies. *Codex* promised structure. Structure implied predictability. Predictability was kind of love for those who had nothing else. Here, love drowned.
-
----
-
-## VI. Needle-Bridge — Twenty-One Icons to Nothing
 
 Night did not fall so much as thicken. They established perimeter *Codex* would not have been ashamed to sign — layered kill-boxes, void shields wheezing against humidity, auspex fields crawling with phantom returns.
 
@@ -199,10 +178,6 @@ Beat — rain rebuilding overhead.
 
 She flinched, surprised, as mortals always were when mountain asked to learn from ant.
 
----
-
-## VII. No Glory Here Yet — Only Weight
-
 Before they burned bridge to deny unseen passage — before *Lex Ignis* auspex priests argued for sample retrieval and Drusus denied them with voice like scalpel — Alaric addressed Chapter on open channel stripped of ornament.
 
 — There is no glory here yet — he said. — Only weight. We did not take beachhead. We **survived** fall. We failed first covenant mortals make with hope: that help arrives with understanding. Mud took our auxilia because we mistook paper for ground — and because void sold us braid that bent. Now night takes warriors because we mistake readiness for mastery.
@@ -222,10 +197,6 @@ Somewhere in wreck field, **Maela Thornwake** watched rain and began, with trade
 **Orwen** copied Q1 opening timestamps without adjectives — ranges, no metaphors — because weight dressed as oracle killed faster than mud gospel remembered in calves.
 
 **Sera** tagged Q1 handshake *monitor only* until Pol seed starved merge columns and Moon Hunt earned attested injury.
-
----
-
-## VIII. Mud Gospel — Tuition Opens
 
 Varro filed night under *threshold crossed, not sealed*. Drusus filed stress chemistry under *prey filing — unverified*. Kadmos filed maps under *assume hostile ground until mud proves otherwise*.
 

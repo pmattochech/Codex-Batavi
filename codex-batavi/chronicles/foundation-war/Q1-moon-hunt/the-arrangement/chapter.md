@@ -13,8 +13,6 @@
 
 ---
 
-## I. Primum Incertum — Undetermined
-
 Rain had learned new cadence over wreck camps — less weather than **percussion**: boots on duckboards hammered over vein-mud, recovery teams shouting across salvage lanes, cough of Thunderhawk warming where Chapter pretended sky could still be owned after CV y0 had taught them otherwise.
 
 Somewhere behind that noise, **needle-bridge** they had burned still cooled, and twenty-one names remained **absence** arranged like lesson Torven’s squad had been forced to teach without speaking.
@@ -35,11 +33,7 @@ Drusus did not look up.
 
 Strategium’s first reply arrived as **compression** — Navy liaison demanding actionable genus before escort rotations could be renegotiated, as if naming monster were same as owning it. Drusus forwarded sheet of numbers without single adjective, because adjectives were how staff turned fear into **story** and stories into budgets misallocated toward ghosts. He attached Torven’s bridge harmonics anyway — not as poetry, as **constraint**: if enemy would not be named, environment could still be forced to testify.
 
----
-
-## II. Sallow Morrow — Boots Only
-
-PDF outpost at **Sallow Morrow** squatted where Administratum planners drew neat icon and tide drew sneer — fifty-seven souls in lighthouse citadel of flakrock and prayer, tasked to watch channel no trade consortium had profited from in two generations.
+Down the marsh channel, PDF outpost at **Sallow Morrow** squatted where Administratum planners drew neat icon and tide drew sneer — fifty-seven souls in lighthouse citadel of flakrock and prayer, tasked to watch channel no trade consortium had profited from in two generations.
 
 It had ceased to exist between *vox*-checks **04** and **06** with insulting neatness of ledger line closed by someone who did not sweat. Not taken. Not breached. Not stormed. *Expired.*
 
@@ -55,9 +49,7 @@ Kadmos treated lighthouse as kill-box that had already fired: measured sightline
 
 Varro walked paired boots once — slow — reading them not as footwear but as **steps** in liturgy performed by absent feet.
 
----
-
-## III. Delta Cordon — Both May Be Hungry
+At the gallery’s rim he did not shout.
 
 — What did your priests say — he asked, not shouted, of embassy that had followed them from wreck field.
 
@@ -82,10 +74,6 @@ Varro tilted skull-mask. Candle-light — ridiculous, precious — ran along bon
 — Then hear this: silence saves.
 
 — Silence is how they learn your rhythm — preacher replied, and words fell into Drusus’s ears like diagnosis he had not yet earned permission to write.
-
----
-
-## IV. Eighty-One Percent Mimicry
 
 Chill followed — not temperature; *recognition*. Drusus’s helm sensors caught micro-vibration in deck: footsteps **almost** real, cadence almost Batavi, then gone when he turned. Only boots. Pairs like teeth.
 
@@ -121,11 +109,7 @@ Threx’s smile was augmetal.
 
 — It is *containment* — Drusus said. He already foresaw next fight — chain of custody spelled in Navy ink, sanctified recovery spelled in Mechanicus red — two liturgies trying to eat same evidence while ghosts still stood in paired boots like congregation waiting for hymn nobody dared begin.
 
----
-
-## V. No Route Twice — Heartbeat Changed
-
-On pad heat-sheen, Threx’s Skitarii mirrors caught lantern-flame and fractured it into red petals — pretty, wrong — while quartermaster’s team argued weight limits on flak-board destined for perimeter that could be obsolete before dawn.
+On the landing pad’s heat-sheen, Threx’s Skitarii mirrors caught lantern-flame and fractured it into red petals — pretty, wrong — while quartermaster’s team argued weight limits on flak-board destined for perimeter that could be obsolete before dawn.
 
 Alaric watched without intervening. Intervening would have stolen dignity of solving **one** problem enemy had not authored. He updated rally doctrine in own cipher — **no route twice**, **no prayer on schedule** — and passed it to officers by mouth because data trails were lessons too, and lesson this week was that channels which felt too **clean** felt watched.
 
@@ -135,11 +119,7 @@ He forbade synchronized lantern checks. Forbade cathedral tone of boots landing 
 
 Officers grumbled Castellan was asking them to fight cartography. They obeyed anyway, because grumble was also habit, and they could not afford it. Hunters punished prediction anyway.
 
----
-
-## VI. Blue-Echo — Minus Rhylan
-
-**Blue-Echo** had been name from before CV y1 learned humility: kill-mark on Stormbird’s flank, joke about auspex returns, then private tally of minutes survived inside wrong weather.
+When dawn still pretended mercy, **Blue-Echo** had been name from before CV y1 learned humility: kill-mark on Stormbird’s flank, joke about auspex returns, then private tally of minutes survived inside wrong weather.
 
 Before they lifted for sweep that would cost Rhylan, Alaric gave them no sermon — only sequence: if arrangement replaced violence, answer with motion that could not be filed; if silence replaced motion, break silence with purpose, not panic; if mud offered **hands**, treat them as traps until proven otherwise.
 
@@ -169,11 +149,7 @@ Kadmos posted countersigns that changed at random minute-offsets until even serg
 
 **Drusus** sealed Rhylan’s auspex trace under *undetermined; do not merge with Sallow Morrow boot harmonics prematurely* — sequence, not prophecy — and felt eighty-one percent mimicry climb in his buffer like a flirtation that understood *enough* to hurt.
 
----
-
-## VII. Measuring How Fast You Learn
-
-**Iria**, shadow at gallery’s rim, whispered — too quietly for most, not for Astartes ears:
+Rain had not stopped when **Iria**, shadow at gallery’s rim, whispered — too quietly for most, not for Astartes ears:
 
 — They are not teaching you yet. They are **measuring** how fast you learn.
 
@@ -207,7 +183,6 @@ Varro filed threshold binding as proto-rite — not victory, **seal attempted**.
 
 **Drusus** sealed the threshold margin one last time — *treat mimicry above seventy percent as hostile flirtation; do not brief as prophecy* — and felt Pier Nine’s Type B courtroom echo in the pupil trace: sequence before verdict, witness before throughput.
 
-
 **Kessler** posted lighthouse pairs with backs to backs — lesson cord-weight would file before laughter came bolt-deep without humor — and counted canteens until counting felt less like pessimism than kindness with arithmetic teeth.
 
 **Iria** did not seek Alaric's eyes at lighthouse lip — active silence — because arrangement honest enough to survive tide still required witness routes only before mirror routes taught void hygiene without theology.
@@ -223,7 +198,6 @@ Varro filed threshold binding as proto-rite — not victory, **seal attempted**.
 **Threx** would file *yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like **solvency**.
 
 Dog logic waited in rain west of Needles. Seventy-two waited in tide. Bait waited in geometry not yet named.
-
 
 **Varro** filed lighthouse threshold as proto-rite — seal attempted, not victory — and listened to rain on Needles wire until even paired boots sounded like rhythm currency the arrangement had taught them to spend carefully.
 **Kadmos** posted the last lighthouse countersign at random minute-offset and saved it under *Inheritance terrain; sequence only* — quiet lighthouse, loud rain, survival geometry not poetry but **debt** paid before geometry earned names.

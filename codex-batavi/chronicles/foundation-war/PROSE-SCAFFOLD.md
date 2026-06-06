@@ -2,7 +2,9 @@
 
 **Canonical tree:** [`INDEX.md`](INDEX.md) · read order + quarter hubs. **Depth contract:** this file. **Legacy numbered serial:** deleted May 2026 — tombstone map only: [`legacy-map.md`](legacy-map.md).
 
-Use this when **drafting, diffing, or refactoring** any `chapter.md` under `foundation-war/`. Depth reference: [`Q1-moon-hunt/living-specimen/chapter.md`](Q1-moon-hunt/living-specimen/chapter.md).
+Use this when **drafting, diffing, or refactoring** any `chapter.md` under `foundation-war/`. Depth reference (content, not layout): [`Q1-moon-hunt/living-specimen/chapter.md`](Q1-moon-hunt/living-specimen/chapter.md) — **flatten** any legacy `## I.`–`## VIII.` headers when you touch that file.
+
+**Form lock:** [`.cursorrules`](../../.cursorrules) §0.1 — **one novel chapter per file**; no internal Parts or numbered sections. **Structure pass runbook:** [`NOVEL-STRUCTURE-PASS.md`](NOVEL-STRUCTURE-PASS.md) (strip `## I.` / in-body `---`; prose scene bridges).
 
 ---
 
@@ -18,20 +20,22 @@ Match the serial’s standard shape:
 - *Italic in-universe line:* filing tag, ethics flag, or classification — what a staff officer would write, not omniscient lore
 - **Chronicle law** / **Precedent** lines when the chapter needs forward locks (*We hold* timing, POV bans, etc.)
 
-One `---` under the header, then **the chapter body begins**.
+One `---` under the header (paratext fence only), then **the chapter body begins** as **continuous prose** — like a novel chapter: paragraphs only, no internal headings, **no** `---` scene rules in the narrative.
 
 ---
 
-## 2. Macro-structure
+## 2. Macro-structure (novel flow)
 
 | Layer | Pattern |
 |--------|---------|
-| **Scene breaks** | `## I.` … `## VIII.` (or fewer) — **section titles**, not wiki bullets. Body under each header is **prose paragraphs**, not lists. |
+| **Body shape** | **Single continuous narrative** from first paragraph after the header fence through the closing handoff. **Forbidden in the body:** `## I.` … `## VIII.`, `Part One`, `Chapter 3`, or any titled internal section headers; **`---` between scenes** (time jump, location jump, POV handoff). **Scene turns** live **in the text** — opening sentences of new paragraphs carry place, hour, and whose eyes; blank lines between paragraphs only. |
 | **Paragraph unit** | Each paragraph does **several jobs**: advance plot, deepen motive, ground sensory detail, or braid a prior cost into forward action. |
-| **Length bands** | See [README.md](README.md) density table — prelude **~364**; peak chapters **~285**; secondary **~264**; floor **~260**. Shorter only when the beat is intentionally narrow. |
-| **Closing** | Final section → optional companion one-liners → **Interest collecting teeth before receipts.** → stamp line(s) → **Always owed.** → `---` → **End of Chapter** / **Next:** link. |
+| **Length bands** | See [README.md](README.md) density table — prelude **~356**; ceiling **~262**; Q1 floor **~260**; post-pass floor **~208–254**. Shorter only when the beat is intentionally narrow. |
+| **Closing** | Narrative lands → optional **single** companion block → **Interest collecting teeth before receipts.** → stamp line(s) → **Always owed.** → optional `---` fence → **End of Chapter** / **Next:** link. **No** companion stack after *Interest*; **no** second coda block. |
 
-Avoid **stacked duplicate companion tails** (same Merit stamp, Valerius double-stamp, Alaric grit, Varro proto-rite repeated in §VII and §VIII). **One** forward handoff block per chapter.
+Avoid **stacked duplicate companion tails** (same Merit stamp, Valerius double-stamp, Alaric grit, Varro proto-rite repeated in late paragraphs). **One** forward handoff block per chapter.
+
+**Legacy note:** Older drafts used roman section titles (`## I. …`) and **`---`** scene rules. On **assigned** edits, **remove** headers and in-body rules; **keep** the prose and **re-stitch** scene turns in the opening lines of paragraphs.
 
 ---
 
@@ -63,6 +67,8 @@ Each chapter should aim for **all** of the following, where the theater allows:
 ## 5. Quick self-audit (before saving)
 
 - [ ] Header block complete (geography lock, chronicle law where needed).
+- [ ] **No** internal `## I.` / Part / Chapter section headers in the body — novel flow only.
+- [ ] **No** `---` scene rules inside the narrative; scene/time/POV shifts **in prose** (new paragraph).
 - [ ] Average paragraph **>3 sentences** of substance; no padding stanzas.
 - [ ] At least one block could be summarized as “they **learned** X” or “**filed** Y” — concrete payload.
 - [ ] Mortals or allies are **more** than backdrop in at least one paragraph.
@@ -76,7 +82,7 @@ Each chapter should aim for **all** of the following, where the theater allows:
 
 | Chapter | Role |
 |---------|------|
-| [`Q1-moon-hunt/living-specimen/chapter.md`](Q1-moon-hunt/living-specimen/chapter.md) | **Structure + depth** template (pier exam, Type A/B, boy's sentence) |
+| [`Q1-moon-hunt/living-specimen/chapter.md`](Q1-moon-hunt/living-specimen/chapter.md) | **Depth** template (pier exam, Type A/B, boy's sentence) — flatten section headers when editing |
 | [`Q1-moon-hunt/cord-weight/chapter.md`](Q1-moon-hunt/cord-weight/chapter.md) | Continuity from Ch. 7 (capture → Versibar / Kaell) |
 | [`Q1-moon-hunt/second-quarter-brief/chapter.md`](Q1-moon-hunt/second-quarter-brief/chapter.md) | Quarter-close + south handoff; brief scene density |
 
