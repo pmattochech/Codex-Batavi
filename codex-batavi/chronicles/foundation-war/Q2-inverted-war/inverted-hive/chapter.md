@@ -185,17 +185,7 @@ Mira Kell signed the casualty payroll for Cinder Nine’s gallery shift with a h
 
 On the night shift, three manufactories’ break bells chimed within the same second — no *vox* coordination, no overseer conspiracy mortals could arrest — only **rhyme** wearing work clothes. A foreman crossed himself. A militia boy copied the gesture without knowing why. **Santo** saw it and felt his stomach perform the Incus trick: not nausea, **audit**.
 
-**Mira** signed a second payroll line for Cinder Nine’s dead without ornament — honest zeros, not defeat — because payroll was how you kept sons from becoming statistics too early, and statistics were how admiralties learned to sleep while mothers counted teeth the hive had not yet named.
-
 The **brood** — nameless to them still — called it **progress**.
-
-**Orwen** copied Cinder Nine break-bell rhyme into a margin without adjectives — timestamps, ranges, no metaphors — because kin-network folk liturgy killed faster than hooks when Strategium merged inheritance into throughput before injury attested.
-
-**Merit** had tried once to clip a recorder to hive hololith that shift; **Valerius**'s **NON-COMPLIANT** stamp arrived before the clip clicked — witness routes only, posture not package.
-
-**Echo** listened at two-note hum for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — and filed silence as data because silence with teeth was still sequence, not prophecy.
-
-**Threx** logged substrate volatility beside *sampling window favorable* on the same pane Kadmos would hate — careful digging promised on secondary screen, counter-written before protest landed.
 
 Alaric stood on the transit lip where hive wind met armor seals and felt the second note Iria had named — *waiting* — press against his *vox* discipline like pressure before a dive. He did not say *We hold.* He had learned on Aethelgard that holding meant different materials in different theaters: mud, glass, cord, ledger, ash.
 
@@ -209,51 +199,33 @@ He turned back toward the command chapel canvas. Tomorrow the hooks would go dee
 
 Output quota waited in the next chapter of ash. Ring of teeth waited in flare geometries not yet filed. Exanimus Choir waited years down the annals — but Instruction was already logged behind biometrics, and Varro had chosen hearing over purge, and Kadmos had chalked routes that would wash away before the hive stopped lying.
 
-Moon Hunt schism rode in auspex margins. Kaell’s cord-cut rode in Drusus’s sealed buffer. Pier boy’s sentence rode in Alaric’s helm like grit in a seal joint.
+Moon Hunt schism rode in auspex margins. Kaell’s cord-cut rode in Drusus’s sealed buffer. The pier boy’s sentence rode in Alaric’s helm like grit in a seal joint.
 
-**Valerius** stamped the Q2 embarkation slate twice before dawn — once for spearhead solvency, once for mortal payroll still breathing — because Incus would ask for both kinds of debt and bankrupt anyone who merged them. **Kessler** heard the stamps click and went back to counting canteens; counting was the only vaccine that had never lied to her yet.
+**Drusus** appended a closing margin — *hive coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained across three intervals* — and sealed Instruction behind biometrics. Naming too early was how officers invented martyrs for the wrong altar.
 
-**Alaric** stood at hive lip one minute after two notes hummed and did not remove his helm — continuity, not spectacle — while kin-network tightened in hololith margins like veins under skin he could not cut without cutting children who had not yet chosen sides. Hooks, not bombs: the inverted hive had taught curriculum written in ash before the Chapter learned vocabulary to refuse it politely.
+**Kadmos** saved the hive stub under *hostile architecture; echo stub* and replayed harmonics until they looked like veins — Ring minutes, Incus quotas, tomb geometry — same cruel mathematics wearing different weather.
 
-**Drusus** appended a closing margin — *hive coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained across three intervals* — sequence, not prophecy, carried forward toward output quota where inheritance would wear production uniform.
+**Valerius** stamped toward **Output Quota** twice before dawn — spearhead solvency beside mortal payroll still breathing — because Incus would ask for both kinds of debt and bankrupt anyone who merged them.
 
-**Iria**’s *Not yet* blinked on uplink beside a denial that was not cruelty but **schedule** — the same blink that had kept Pier Nine from pretending pupil geometry was prophecy.
+**Echo** listened at two-note hum for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing silence as data because silence with teeth was still sequence, not prophecy.
 
-**Kadmos** saved the hive stub under *hostile architecture; echo stub* and replayed harmonics until they looked like veins — Ring minutes, Incus quotas, tomb geometry priced in bodies — same cruel mathematics wearing different weather.
+**Orwen** copied Cinder Nine break-bell rhyme into testimony prep without adjectives — timestamps, ranges, no metaphors — because kin-network folk liturgy killed faster than hooks when Strategium merged inheritance into throughput before injury attested.
 
-**Threx** had promised careful digging on the secondary pane. The hive would answer with quotas, flutter, and inheritance — curriculum written in ash before the Chapter learned the vocabulary to refuse it politely.
+**Merit** tried once to clip a recorder to the hive hololith until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as kin-network folklore packages.
 
-**Varro** chose hearing over purge one last time on the hive lip — death-skull geometry until Exanimus vault earned Executor jawline — and filed Instruction behind biometrics where young Chaplains would learn what *silence* cost when silence had teeth not yet named on open channels.
-
-**Santo** scrubbed scoria from his knees where hooks had taught placement before virtue — compass, not poison — while Moon Hunt schism rode in auspex margins: Kaell’s cord-cut, Pier boy’s sentence, Type B cadence marching inland like soldier persistence the pier had interrupted, not stopped.
-
-**Merit** tried once to clip a recorder to the hive hololith until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as kin-network folk liturgy that let Strategium merge inheritance into throughput before injury was attested.
-
-**Drusus** sealed the Q2 opening margin one last time — *Moon Hunt braid travels south; treat Pier Nine pupil trace as sequence only; do not brief captains* — because briefing would have turned Kaell's cord-cut and boy's sentence into **oracle** before Incus taught trust eaten from within.
-
-The hive was scar that had not yet learned to scab. Roofs stayed standing tonight — debt enough — and debt, the Chapter was learning, was sometimes the only honest map when curriculum wrote itself in ash before vocabulary arrived to refuse it politely.
-
-**Mira** signed Cinder Nine payroll one last time with honest zeros — not defeat, **solvency** — because kin-network tightened in hololith margins like veins under skin he could not cut without cutting children who had not yet chosen sides.
-
-**Drusus** logged substrate resonance as *watch* — not *brood* — because naming too early was how officers invented martyrs for the wrong altar.
-
-**Kadmos** wrote chalk twice on sump bulkhead — parallel marks, duplicate initials — insurance against hive that lied with humidity before forge hum borrowed gulf throat as echo.
-
-**Valerius** ran parallel map nobody saluted — minutes slept, liters routed, theft dressed as market — until two columns touched and made officers squirm.
+**Threx** logged substrate volatility beside *sampling window favorable* on the same pane Kadmos would hate — careful digging promised, counter-written before protest landed.
 
 **Pol**'s seed — monitor only — would rhyme with substrate resonance until Drusus starved merge and brood stayed vocabulary arriving late on open channels.
 
-**Valerius** stamped toward **Output Quota** twice — Marine continuity beside mortal payroll still breathing — because inheritance wore production uniform before hooks dressed kin-network as throughput.
+**Santo** scrubbed scoria from his knees where hooks had taught placement before virtue — compass, not poison — while militia gray still dreamed honor the hive had not yet priced honestly.
 
-**Orwen** filed hive coupling without adjectives — timestamps, ranges, no metaphors — because facts laid like bricks survived longer than throughput dressed as inheritance.
+**Mira** signed Cinder Nine payroll with honest zeros — not defeat, **solvency** — because kin-network tightened in hololith margins like veins under skin she could not cut without cutting children who had not yet chosen sides.
 
-**Threx** had promised careful digging on the secondary pane one last time — sampling window favorable, counter-written before protest landed — because hooks would go deeper tomorrow and roofs standing tonight was debt enough.
-
-**Echo** listened at two-note hum for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — while kin-network tightened in hololith margins like veins under skin.
+The hive was scar that had not yet learned to scab. Roofs stayed standing tonight — debt enough.
 
 Interest collecting teeth before receipts.
 
-Two notes humming. Kin-network tightening. Hooks, not bombs.
+Two notes humming. Kin-network tightening. Hooks, not bombs. Instruction logged. Output quota waiting.
 
 Always owed.
 
