@@ -91,17 +91,11 @@ After the plaza stopped trying to become a massacre, **Kessler** counted childre
 
 Threx’s corridor sat **empty** — not victory, absence — while injured mortals learned to hate empty space for reminding them of air they had almost lost. Drusus moved among the trampled with filtration packs and instructions spoken slow enough to be obeyed; he did not mention *brood*; he mentioned *infection control*, because infection was a word factories understood without requiring faith.
 
-**Mira** watched the empty corridor from gallery lip without applauding — storage, not neutrality — because almost caught was cruel in intelligence work and whale’s back through oil was pressure without outline until Pol’s seed required witness before choir vault earned Executor jawline.
-
-**Valerius** stamped plaza aftermath twice — Marine continuity beside mortal witness count intact — because martyrs manufactured for slides were debt brood-signature would spend in kin-network grammar before output quota dressed inheritance as production uniform.
-
 ---
 
 ## V. Silence Cohort — Hook Beneath Language
 
 **Varro**’s **Silence Cohort** seeds — militia ears trained to hear blasphemy without repeating it — sent up scraps that should not have belonged together: whispers rhyming across unknown kin ties, the same syllable snagging in unrelated throats like a **hook** passed hand to hand beneath language. Varro moved among them in the *Codex* death-skull helm that made witness feel like verdict. He did not promise safety. He promised **discipline** — that if they listened, they would not become amplifiers. Some listened because they feared the skull. Some listened because they feared Mira’s smile more.
-
-**Kadmos** stared at pattern overlays until his eyes **hurt** the way faith hurts, until corridors stopped looking like corridors and started looking like veins feeding one hungry organ he could not name without sounding insane.
 
 **Valerius** translated pattern into supply risk — which blocks could be sealed, which routes starved, which lie told to guildmasters that would not ignite full riot — so war by ink ran **again**, except ink had learned blood’s alphabet. The Mechanicus ear still heard *yield* where the Chapter heard *souls*; Valerius wrote both translations on separate slates and filed one where Threx could see it and one where only the Castellan would.
 
@@ -145,15 +139,7 @@ The stamp felt heavier than wax. He pressed it anyway.
 
 — If inheritance is weapon — he said to the Triumvirate knot alone — we stop treating populations as opinions and start treating them as **terrain**.
 
-**Kadmos** stared at pattern overlays until corridors stopped looking like corridors and started looking like veins feeding one hungry organ he could not name without sounding insane. He did not share the word *insane* on open channels. He shared **spacing** — two clicks tighter at midwife halls, two wider at guild factors — because spacing was how walls loved populations once populations became ground.
-
-Kadmos’s exhale sounded like pain deferred. Varro’s *Codex* skull dipped once — acceptance without spectacle. Drusus felt the urge to apologize to humanity and swallowed it; apologies were how officers turned epidemiology back into melodrama.
-
 Orders followed the stamp the way bleeding follows incision: auxilia rotations tightened without public drama; midwife halls gained Apothecarion observers who called themselves **auditors** because *observer* sounded too much like *judge*; Cinder Nine’s corridors learned new checkpoint teeth that scraped boots and egos alike.
-
-**Threx** filed protests in triplicate until paper became another kind of riot — silent, polite, relentless — and Valerius answered each with timestamps proving *deferment* had saved lives this week, whether Threx counted those lives as valuable or merely **uncollected**.
-
-**Merit** tried once to record **Iria**’s vent-mouth listening for *rounds* — witness throughput dressed as piety — and met **Kessler**’s hammer invoice before Valerius could stamp **NON-COMPLIANT**. Even Threx winced. Some appetites, when filmed, became fleet liability faster than bolters.
 
 The Chapter’s romance hardened: no longer knight-errantry alone, but **genealogy of war** — the old stories’ horror dressed in modern ordnance — while outside Incus an envoy request still blinked on slate — *Not yet* — because fire was becoming honest, and honesty was becoming **expensive**, and the sealed file would follow them into every theater that pretended kin was only a word for love.
 
@@ -165,23 +151,15 @@ Rain hissed against Cinder Nine. Quota chant tried to rise; someone silenced it 
 
 **Varro** walked the gantry where Mira had stood and did not accuse her. Accusation required evidence his office could not yet carry without breaking more boys than it saved. He dipped his *Codex* death-skull once — small bow to the dead, smaller than law, larger than nothing — and moved on.
 
-**Kadmos** overlaid kin-lines on hive schematics until the map looked like **veins under skin** — checkpoints as valves, auditor halls as nodes, Cinder Nine as a vent where pressure had learned to speak in rounds. He did not say *terrain* aloud. Saying would have turned Drusus’s stamp into **banner-law**. He only shifted checkpoint teeth one meter left when populations bunched, hinge-work wearing logistics uniform.
-
 **Santo** carried Pol’s flag — too small for Astartes to see until it was already red — and learned that inheritance traveled in cloth before it traveled in hololiths. **Mira** watched from a gantry without applauding usefulness; she adjusted a load instead — witness without applause — because mothers on Incus had learned applause was throughput, and throughput ate sons.
-
-Below, **Santo** scrubbed blood from his hands until skin turned raw — not clean, *honest* — and **Kessler** watched without offering comfort, because comfort would have turned grief into **performance**, and Incus already had enough theater wearing safety harnesses.
-
-**Valerius** posted the checkpoint teeth roster in duplicate — Marine lane, mortal lane — and watched a junior clerk try to merge them until Kadmos’s shadow fell across the slate without a word spoken. The clerk stamped twice. Incus was teaching the whole mesh the same lesson in different dialects: one throat for two debts was how convoys choked.
 
 ---
 
 ## VIII. Third Syllabus — Bloodline
 
-Checkpoint teeth scraped boots and egos alike. Auxilia rotations tightened without public drama. Midwife halls gained **auditors** who called themselves observers because *judge* sounded too much like tribunal appetite — and tribunals, on Incus, were another mouth learning to chew.
+Checkpoint teeth scraped boots and egos alike. Somewhere in the sealed file, a graph kept rhyming; somewhere in the uplink queue, **Iria**’s request still blinked — **Not yet** — while the hive learned a new dishonesty: pretending **kin** was still only love, now that the Chapter knew better.
 
-Somewhere in the sealed file, a graph kept rhyming; somewhere in the uplink queue, **Iria**’s request still blinked — **Not yet** — while the hive learned a new dishonesty: pretending **kin** was still only love, now that the Chapter knew better.
-
-Drusus stood over the hololith one last time that night and watched kin-lines pulse like veins under skin he could not cut without cutting children who had not yet chosen sides. He thought of Pol’s seed scattered beside blood — hope and treason wearing the same scatter-pattern — and of the word he had finally stamped: *Inheritance*.
+**Drusus** stood over the hololith one last time that night and watched kin-lines pulse like veins under skin he could not cut without cutting children who had not yet chosen sides. He thought of Pol’s seed scattered beside blood — hope and treason wearing the same scatter-pattern — and of the word he had finally stamped: *Inheritance*.
 
 Not pamphlet. Not guild sedition. Not labor unrest.
 
@@ -189,67 +167,37 @@ Not pamphlet. Not guild sedition. Not labor unrest.
 
 The crucible had learned a third syllabus. Tuition would be paid in checkpoints, auditors, and boys who carried flags too small for Astartes to see until the flags were already red.
 
-**Alaric** did not lift his helm when the stamp confirmed. Lifting would have turned *terrain* into **theater**. He only shifted checkpoint teeth one meter left — hinge-work — because populations were not opinions anymore; they were ground you could lose if you treated kin as pamphlet.
+**Alaric** did not lift his helm when the stamp confirmed. Lifting would have turned *terrain* into **theater**. He only shifted checkpoint teeth one meter left — hinge-work — because populations were not opinions anymore; they were ground.
 
-Drusus closed the hololith. The graph kept pulsing whether he watched or not — the same cruel courtesy as Brood-Flutter’s flutter, as Ignis’s scheduled burn, as the tide’s arithmetic on a shingle far away.
+**Kadmos** overlaid kin-lines on hive schematics until the map looked like **veins under skin** — checkpoints as valves, auditor halls as nodes — and saved the motion under *Inheritance terrain; sequence only*. He did not say *terrain* aloud. Saying would have turned Drusus’s stamp into **banner-law**.
 
-**Threx** filed protest when checkpoint teeth slowed Mechanicus sample throughput — *yield preserved; witness routes incompatible with sanctified recovery* — and **Valerius** answered with timestamps proving deferment had saved lives this week, whether Threx counted those lives as valuable or merely **uncollected**.
+**Drusus** sealed Pol’s seed margin — *monitor crossfire geometry; kin-network coupling; treat Exanimus-adjacent chatter as environmental false-positive unless sustained* — and closed the hololith. The graph kept pulsing whether he watched or not.
 
-**Merit** tried once to record **Iria**’s vent-mouth listening for *rounds* and met **Kessler**’s hammer before Valerius could stamp **NON-COMPLIANT**. Even Threx winced. Some appetites, when filmed, became fleet liability faster than bolters.
+**Valerius** stamped embarkation toward **Exanimus Choir** twice — Marine continuity beside mortal witness tallies intact — and posted checkpoint roster in duplicate until a junior clerk learned to stamp twice.
 
-**Kadmos** shifted checkpoint teeth one meter left when populations bunched — hinge-work wearing logistics uniform — and saved the motion under *Inheritance terrain; sequence only* because populations were not opinions anymore; they were ground you could lose if you treated kin as pamphlet.
+**Varro** filed inheritance threshold as proto-rite — seal attempted, not victory — and chose hearing over purge one interval longer than courtesy required.
 
-**Drusus** stood over the hololith one last time and watched kin-lines pulse like veins under skin he could not cut without cutting children who had not yet chosen sides. *Inheritance* stamped. *Bloodline* filed. The crucible had learned a third syllabus — tuition paid in checkpoints, auditors, flags too small for Astartes to see until they were already red.
+**Threx** filed protest when checkpoint teeth slowed sample throughput; **Valerius** answered with timestamps proving deferment had saved lives — whether Threx counted those lives as valuable or merely **uncollected**.
 
-**Iria**’s *Not yet* blinked on uplink queue beside the denial — not cruelty, *schedule* — while rain hissed against Cinder Nine and quota chant tried to rise and someone silenced it because silence was cheaper than explaining why a child was dead.
+**Merit** tried once to clip a recorder to the brood hololith until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as sovereignty folk liturgy.
 
-Exanimus waited in crossfire geometry. Pol's blood not yet dry. Merit's recorder not yet blessed.
+**Orwen** filed brood signature timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than reconciliation packages dressed as kin-network hygiene.
 
-**Varro** filed inheritance threshold as proto-rite — seal attempted, not victory — and chose hearing over purge one interval longer than courtesy required, because crossfire geometry was curriculum written in ash before vault years earned Executor jawline.
+**Echo** listened at kin-network pulse for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing inheritance as sequence before Exanimus Choir sealed Instruction behind biometrics.
 
-Cinder Nine rain forgot motion until kin-network pulse looked like peace — peace another word for **inheritance** hiding teeth Exanimus vault would teach the Chapter to file in biometrics.
+**Kessler** counted kin-lines on hololith spine until counting felt less like pessimism than kindness with arithmetic teeth — midwife counting beside choir in rounds, same cruel mathematics wearing Cinder Nine weather.
 
-**Merit** tried once to clip a recorder to brood hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as sovereignty folk liturgy before injury was attested at crossfire geometry.
+**Mira** kept two ink colors on brood slates — *surviving* and *surviving honest* — because inheritance tried to merge grief into throughput.
 
-**Kadmos** saved Pol's crossfire stub under *hostile architecture; echo stub* and posted brood-signature cordon one meter deeper — geometry as insurance — because kin-network sympathy climbed in margins like pupil geometry Pier Nine had auditioned on bone rails.
+**Santo** scrubbed blood from his hands until skin turned raw — not clean, *honest* — and did not look at **Mira** when she passed with tally ink. Looking would have turned inheritance into **spectacle**.
 
-**Valerius** stamped toward **Exanimus Choir** twice — Marine continuity beside mortal payroll still breathing — because crossfire geometry monitored under Triumvirate seal still required parallel filing before choir taught face of friction a name worth refusing.
+**Iria**’s *Not yet* still blinked on uplink — schedule, not cruelty — while rain hissed against Cinder Nine and someone silenced quota chant because silence was cheaper than explaining why a child was dead.
 
-**Drusus** sealed Pol's seed margin one last time — *monitor crossfire geometry; kin-network coupling; treat Exanimus-adjacent chatter as environmental false-positive unless sustained* — hope dressed as procedure until choir vault earned Executor jawline on the other side of Instruction.
-
-**Pol**'s seed margin would travel south under Triumvirate seal — crossfire geometry monitored — until Cinder Nine earned blood tuition one chapter forward.
-
-**Orwen** filed brood signature without adjectives — timestamps, ranges, no metaphors — because facts laid like bricks survived longer than sovereignty folk liturgy dressed as reconciliation.
-
-**Threx** would file *yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like **solvency**.
-
-**Echo** listened at kin-network pulse for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing inheritance as sequence before exanimus choir sealed Instruction behind biometrics.
-
-**Iria**'s *Not yet* blinked on uplink beside brood denial — schedule not cruelty — the same blink that would keep sovereignty inches from coronation from becoming prophecy before choir taught face of friction a name worth refusing.
-
-**Santo** scrubbed scoria from his knees where Cinder Nine rain had taught placement before virtue — compass, not poison — and did not look at **Mira** when she passed with tally ink. Looking would have turned inheritance into **spectacle**.
-
-**Varro** listened to brood cadence thin through chapel canvas and filed threshold binding as proto-rite — seal attempted, not victory — because sovereignty inches from coronation still required witness before throughput dressed it as midwife counting.
-
-**Kessler** counted kin-lines on hololith spine until counting felt less like pessimism than like kindness with arithmetic teeth — midwife counting beside choir in rounds, same cruel mathematics wearing Cinder Nine weather.
-
-**Mira** kept two ink colors on brood slates — *surviving* and *surviving honest* — because inheritance tried to merge grief into throughput and she refused merge the way Valerius refused it upstairs when Exanimus vault waited to seal Instruction behind biometrics.
-
-**Alaric** stood at hive lip one minute without speeches — hinge-work — because hooks not bombs would eat trust from inside before exanimus choir sealed Instruction behind biometrics.
-
-**Sera** tagged brood fiber *monitor only* until Pol seed starved merge columns and Exanimus Choir earned attested injury at crossfire geometry.
-
-**Pryce**'s *not us; repeat* still traveled in Valerius's private column beside kin-network pulse — acceptable loss mistaken for debt accruing interest in names choir would spell later when face of friction earned Instruction.
-
-Brood cadence thinned through chapel canvas until sovereignty inches from coronation looked like peace — peace another word for **crossfire geometry** hiding teeth Exanimus vault would teach the Chapter to file in biometrics before Pol's seed learned inheritance terrain.
-
-**Merit**'s lamp threw a small honest circle on hololith until Kadmos clipped her gain and made her transcript ugly on purpose. Ugly transcripts survived tribunals better than beautiful ones; beauty was how arrays learned to eat faces.
-
-**Kadmos** shifted checkpoint teeth one meter left in hololith replay — hinge-work wearing logistics uniform — and saved the motion under *Inheritance terrain; sequence only* because populations were not opinions anymore.
+Exanimus Choir waited in crossfire geometry. Pol’s blood not yet dry on seed.
 
 Interest collecting teeth before receipts.
 
-*Inheritance* stamped. Witness routes only. Pol's seed.
+*Inheritance* stamped. Witness routes only. Pol’s seed. Exanimus Choir waiting.
 
 Always owed.
 
