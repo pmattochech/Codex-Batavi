@@ -13,8 +13,6 @@
 
 ---
 
-## I. Pilgrimage When Voice Dies
-
 Silence zones ate *vox* the way tombs ate harmonics — not dramatically, **completely** — until even Astartes fell back on hand-signs and touch-taps and the ugly patience of men who had learned that meaning, under fire, is heavier than kit.
 
 **Sera** ran fiber in pairs through separate trays so one harmonics bite could not kill both conscience and comms — color tape for *live*, *ghost*, *do not trust your relief* — because **parallel filing** on spines was how you kept *we held the count* from becoming a single-line lie when the tombs ate a corridor whole.
@@ -33,10 +31,6 @@ Drusus’s margins still warned — *tremor rhyme — record, do not sermonize* 
 
 **Echo** pressed chaplain nets where binds thinned — Triumvirate seal still **narrow** — and **Varro** answered with shorter litanies **boring** on purpose; boring was the only disinfectant panic theology could not ferment overnight.
 
----
-
-## II. Soul Over Speed — Integrity Column
-
 **Varro** — **Executor** wolf-skull stripped of theater, all jaw-line and vow — chose routes the Strategium would have called **inefficient** if efficiency were measured only in miles and minutes; he sacrificed **speed** for **soul** — not sentiment, *integrity* in the only column he trusted: the one that asked whether survivors arrived with minds still **seated** in their skulls or as shells that breathed.
 
 Longer paths, fewer survivors on paper, higher *usefulness* to the war that still required human witness — not mere bodies, **testimony** — and **Kadmos** executed Varro’s detours without sneering, which was respect, Batavi-style: doubt folded into obedience until results spoke, **spiritual-weight** refusing to let **efficiency** become another word for flensing.
@@ -48,10 +42,6 @@ Rear squads practiced **parallel lanes** without swagger — duplicate choke mar
 Breach sergeants learned to pass **touch-taps** down chains like ammunition: palm-press for *stay*, knuckle for *move*, two fingers dragged for *someone behind you is about to lose their mind — do not feed the story*.
 
 **Kadmos** drilled it until boredom set; boredom was the vaccine.
-
----
-
-## III. Witness Priority — Reconciliation as Violence
 
 The **reading** beat followed on **paper**, where shame could be circled twice.
 
@@ -68,10 +58,6 @@ A junior officer — name scrubbed from praise-scrolls because gratitude embarra
 — Waste is what you call a soul — Varro said — when you have not yet priced it.
 
 The officer stamped the curved route. His hand shook once. Shaking was cheaper than screaming in a silence zone.
-
----
-
-## IV. If You Run — After Civilians
 
 The **Mechanicus** retreat arrived dressed as prudence: **Threx** cited tombs *exceeding acceptable resonance thresholds* — language that sounded like mathematics and behaved like **permission** to withdraw precious Skitarii from spines where mortals were dying loud enough to shame anyone still weighing *distance* against *lives*.
 
@@ -95,10 +81,6 @@ Some could not; those officers looked away — not from him, from **surfaces** �
 
 **Threx** filed a protest when Varro’s curved routes delayed Skitarii extraction windows — *witness priority incompatible with yield* — and **Valerius** answered with two overlays ink-wet on the same slate: straight line minutes beside curved line **names**. The protest died without applause. Applause would have turned arithmetic into **folk liturgy**.
 
----
-
-## V. Posture — Not Letting Go First
-
 Bridge **saints** were not canonized; they were **named** later in whispers and chalk sketches — mortals who refused to leave wounded behind even when silence zones turned every meter into a coin-flip, dying in postures too honest for holo-drama: knees bent under weight that was not theirs, arms locked around strangers, mouths open as if still shouting orders the *vox* refused to carry.
 
 Chaplains sketched them — not for art, for **argument** — proof that sanctity could be posture, that holiness might be nothing more heroic than *not letting go first*, **mortal geometry** with agency in the only currency the gulf respects.
@@ -119,10 +101,6 @@ Medicae corridors stacked boys who had clawed their own faces — **skin debt** 
 
 He appended frequency ticks beside each scream chart until charts looked like music notation written by a deaf man who still feared choirs — *Exanimus-adjacent* scribbled once, then scratched out, replaced with *environmental stressor pending confirmation*, refusal to let nomenclature sprint ahead of intervals.
 
----
-
-## VI. Rest — Not Retreat
-
 **Iria** carried water until her shoulders **bled** through wraps — skin debt paid forward in the only currency bridges respect — without asking Alaric for rest, because asking would have been a lie about what **Needles** women did when tides turned murderous: they **worked** until bodies failed or duty released them.
 
 Wind off the spines tasted like ozone and old grease; she breathed it anyway — breathing was how you proved you still negotiated with bodies, not only with staff slides.
@@ -141,10 +119,6 @@ Her tide habit stayed cruelly honest: she watched refugees bunch where bunching 
 
 Water points ran sour — recyclers taxed by mass casualty — and **Valerius** posted rotation orders until **ROTATE** became liturgy for throats; taste was another ledger column bridges ate quietly.
 
----
-
-## VII. Saints Rarely Survive — Holiness and Efficiency Diverge
-
 **Sera** strung parallel fiber along rosary spines the first night — red for *call for help*, blue for *do not call for the wrong help* — until stretcher teams learned splices were **seals** more trustworthy than rain-hammered *vox* promises. Silence zones made speech expensive; fiber made **witness** cheap enough to survive.
 
 Night brought lamp codes traded miserably along rosary spines — **Lex Ignis** clocks aligning with Mechanicus prayer wheels — until synchronization felt like virtue and virtue lied about fatigue.
@@ -160,10 +134,6 @@ Tonight raw maps still smelled like sweat and powdered steel; tonight names belo
 Tomorrow officers would pretend efficiency could marry holiness without divorce papers; tonight **Valerius** kept two overlays ink-wet side by side until optimism bruised itself honestly against discrepancy.
 
 Tomorrow the tombs would try again; tonight the maps carried names the straight line would have erased, and that was the only victory that did not insult the dead.
-
----
-
-## VIII. Handoff to the Maw
 
 **Alaric** walked one final span before orders turned the chapter’s face toward heavier geometry — **Maw** exercises waiting in staff rooms like teeth — **hold** translated into footsteps that did not sprint for hololiths; the Castellan would not gift the tombs **spectacle** when witness had cost this much already.
 
