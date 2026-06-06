@@ -13,8 +13,6 @@
 
 ---
 
-## I. Before the Stamp
-
 Later, when Apothecarion had enough corpses and timestamps to be **smug** about vocabulary, third stage would be filed as **Execratio** — third movement of **Wolf’s Curse**, when transhuman stops **performing** war and becomes **killing verse**: not metaphor; *method*.
 
 Before stamp came **sound** — kind that makes auspex think *equipment fault* until it realizes fault is **organic**.
@@ -26,10 +24,6 @@ Merit’s clerks aimed lenses at Vermilion cordons until Kessler shattered anoth
 Sera ran **parallel** fiber through triage so testimony could escape on second trunk if harmonics ate first — duplicate statements that did not contradict until contradiction saved someone’s chain of custody.
 
 **Backward braid:** everything Incus had taught in CV y18–y19 — harmonics congratulating conclusions no soul had earned, **correlation tightening** filed as logistics, **Axiom** habits mistaken for virtue until virtue stopped asking permission.
-
----
-
-## II. Grammar Breaks
 
 Alaric had held line until holding became *grammar* — subject, verb, object: **enemy**, **clear**, **advance** — clarity that makes victory possible and brotherhood bearable.
 
@@ -46,10 +40,6 @@ World simplified into **vectors of release** — open aisles, closed aisles, bod
 Auxilia saw first. Mortals always do. Gods hide behind myth. Monsters arrive **visibly**.
 
 Brothers who loved him learned lesson Varro had been selling for years without selling: binds fail at stress nodes. Stress nodes arrive when Castellan grammar stops being **language** and becomes **weather** — unstoppable by shouting; barely postponable by chemistry and bind; inevitable as tide if you admit atmosphere has turned.
-
----
-
-## III. The Versibar Shadow
 
 Skitarii observers — Threx’s distant appetite — tried **first touch** on spike data until someone closed feed with stamp **NON-COMPLIANT** — Valerius — because *yield* could not eat testimony while testimony still lived on parallel lines.
 
@@ -71,10 +61,6 @@ Orwen had seen **Versibar** steam once, years back in rain that smelled like cor
 
 Bolters spoke in litanies — automatic rhythm pretending prayer — while mortals learned oldest lesson of Imperial spectacle: sometimes rescue looks like being **forgiven** by thunder.
 
----
-
-## IV. Orwen’s Corridor
-
 Smoke turned corridors into **negative space** — doorways you could not find until shoulder found wall, wall found grate, grate found draft tasting like cooked copper.
 
 Orwen marched anyway because retreat required spine and he still had one, even if borrowed.
@@ -93,10 +79,6 @@ Bondsmen whispered **Dark Age of Technology** near auspex racks until Varro crus
 
 — Nomenclature is seal — he said. — Myth recruits panic faster than doctrine leashes it when Castellan hazard becomes **scheduled**.
 
----
-
-## V. Triumvirate Anchors
-
 Triumvirate — Drusus, Varro — moved not as commentators but as **anchors** in world liquefying under **Furor** chemistry.
 
 Drusus’s hands knew **injections** the way other warriors knew trigger discipline: not hope, *delay* — ampules clicked with sound of small doors closing on flood, dosages chosen for margins measured in **seconds** the way siege engineers measure inches.
@@ -114,10 +96,6 @@ What they performed that day would seed later rites — **Return**, **Redemption
 Threx — remote, bright with numbers — asked for **yield** from corridor like man ordering weather. Triumvirate answered with timestamps and did not translate *yield* into *skin* for him.
 
 Medicae bins overflowed with mortals not wounded yet but **pre-wounded** by harmonic nausea — petty taxes etiquette collected before blades — and Drusus metered sedatives until poetry stayed impossible even when screams argued for hymns.
-
----
-
-## VI. Return and Vermilion
 
 When Alaric **returned**, it was not gentle.
 
@@ -143,10 +121,6 @@ Chapter learned sentence as warning, not poetry:
 
 Valerius moved watch rosters like chess played by man who refused to enjoy game — who understood *rotation* was sometimes only mercy you could give witness.
 
----
-
-## VII. Castra-Lupus Whisper
-
 **Parallel filing** stayed insult to Mechanicus pride — duplicate custody tags, duplicate initials — until juniors stopped treating redundancy as inefficiency and started treating it as **insurance** against institutions merging testimony into yield curves overnight.
 
 Junior auspex crews confused **Sigma bleed** with courage until Drusus forced **intervals** onto displays — ghost mass dressed as valor until uglier filters convicted it.
@@ -171,10 +145,6 @@ Drusus noted *post-traumatic tremor* and did not condescend. He did not offer co
 
 Beneath Orwen’s signature block, Drusus wrote *Militarum witness; uncontaminated chain* in ink too plain to be called holy.
 
----
-
-## VIII. Penance and Tide
-
 Kessler — absent worst corridor by **luck**, her own word spat like accusation at fate — drank recaf like **penance**.
 
 Santo found her at kettle and said nothing. He only set out second cup — kindness or survival training; on Incus, two overlap.
@@ -195,10 +165,6 @@ He did not speak Chapter’s iron answer as liturgy. Not here. Not yet. Word *ho
 
 Protector geometry filed the touch as **threat assessment**, not paternity. Filing was how he survived himself.
 
----
-
-## IX. Door Proved Openable
-
 Hyper-G **Tertius** veterans mentioned **weight** in mess like weather — thighs rebuilt by slopes — while Vitreus veterans mentioned **eyes**. Both warnings rhymed with this hour without pretending same pole.
 
 Somewhere below, Incus still burned. Somewhere inside, new door had been **proved**: openable.
@@ -214,10 +180,6 @@ Word **Execratio** would arrive later with paperwork, not mercy.
 Drusus appended margin for translation burn — *terminal-pattern Wolf’s Curse event (taxonomy incomplete); treat post-event tremor rhyme as debt until sustained across three intervals; do not merge stress indices with forge sympathy prematurely* — not prophecy, **sequence** — clinical refusal to let hour earn pretty name before steel did.
 
 Valerius stamped embarkation slate toward **Vitreus Bleed** twice — once for ceramite continuity under renewed **glare discipline**, once for mortal chains still solvent — because next pole would tax eyes the way this hour taxed sheaths.
-
----
-
-## X. Sheath
 
 Bondsmen stacked duplicate witness sheets until paper armor felt thin — thin edges honest in same hand carrying stamps twice without pretending one debt paid other — because **hold** and **witness** were different ledgers even when officers wanted one tidy stamp.
 
