@@ -131,7 +131,7 @@ The Skitarii tried to advance on the cage — Mechanicus prerogative, Threx’s 
 
 Drusus did not shout. He stepped into the narrow space between red chrome and mesh until ocular arrays had to tilt to keep him in frame.
 
-— Breach containment — he said — and I will file you as hazard waste and tell the Castellan you **slipped**.
+— Breach containment — he said. — And I will file you as hazard waste and tell the Castellan you **slipped**.
 
 The halt that followed was not obedience; it was the twitch of limbs hunting a rule that outranked shame and failing to find it. Threx watched from above, recording restraint as data he could invoice later, the way creditors note politeness so interest arrives with better manners.
 
@@ -175,9 +175,7 @@ The boy did not look away from Alaric — not challenge, **audit** — as if he 
 
 **Kadmos** posted one extra meter on landward cordon without order — geometry as apology the Chapter did not know how to speak — because children who named cages correctly were sometimes the only witnesses worth spacing for when Type **B** cadence marched inland like punctuation without mercy.
 
-**Merit** tried once to clip a recorder to bone rail until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as child witness packages when the pier had already filed two ledgers at once.
-
-**Varro** moved along landward cordon without blessing the child — *Codex* death-skull catching lamplight wrong — because blessing would have implied the courthouse had been **holy**. It had only been **efficient**, and efficiency still required filing honest enough to cut.
+**Varro** passed the boy without censer smoke — *Codex* death-skull catching lamplight wrong — because smoke would have turned the child's sentence into **liturgy**, and liturgy was how institutions learned to sleep while witnesses still counted teeth.
 
 Somewhere inland, Type **B** cadence kept marching — not in answer to the child, not in mercy, in **persistence** — and the sound reached the pier as rhythm without lyrics, soldier grammar the Chapter had not yet learned to read. **Drusus** heard it through auspex static and did not look toward the tree line. Looking would have turned inland marching into **prophecy**. He wrote *repeat capture required* instead, because procedure was sometimes the only wall you could build when a live alphabet died and a child still knew how to name cages.
 
@@ -203,21 +201,13 @@ When the last lumen on the mezzanine cut out, Threx’s aug-eyes lingered on the
 
 **Kessler** found the boy’s skin straps abandoned near bone rail — not dropped in flight, **laid down** — as if the child had learned that some burdens could not travel landward without becoming spectacle. She did not pick them up. Picking up would have turned witness into **relic** Merit could clip to mesh tomorrow.
 
-**Drusus** scraped a tissue sample from mesh where the hunter’s hide had kissed null-field — useless now, perhaps useful later — and sealed it under *terminated / hostile third party / repeat capture required*. The private line was hope dressed as procedure. He knew it. He wrote it anyway, because hope was sometimes the only vaccine against learning too late that your enemy had been **auditioning** you while you mistook patience for biology.
-
-**Kadmos** saved Type **A** stub under *hostile capture; echo stub* — pupil geometry, terminated alphabet — because rank-tracking rank was debt inverted hive would spend when hooks learned to eat trust from inside instead of bombs.
-
-**Sera** tagged pier null-field handshake *monitor only* until Pol seed starved merge columns and Kaell correlation stayed sequence, not oracle.
+**Drusus** scraped a tissue sample from mesh where the hunter’s hide had kissed null-field — useless now, perhaps useful later — and sealed it under *terminated / hostile third party / repeat capture required*, because learning too late that your enemy had been **auditioning** you while you mistook patience for biology was debt the Chapter could not afford to pay twice.
 
 **Varche** logged pier embarkation on Navy pane without romance — restraint schedule, not closure — because live alphabets died in courthouses admiralties could not sleep on while mortals paid for efficiency dressed as victory.
 
 **Orwen** — not yet block capitals, still learning — watched the boy's straps near bone rail and wrote *child present; unstamped* in a margin nobody saluted, because testimony without adjectives was sometimes the only vaccine against officers who called the courthouse *closure*.
 
 **Mira** passed landward wire with tally ink on her knuckles and did not smile. Her ledger had learned *witnessed* the way forges learned heat — useful, expensive, impossible to pretend had not happened when Type **B** cadence marched inland like soldier persistence the pier had interrupted, not stopped.
-
-**Threx**'s remote channel would file *tissue stub; yield dispute* beside *child witness; do not merge* — same appetite, different costume — until **Valerius** stamped *witness route only* and made parallel filing look like solvency long enough for cord-weight to spend Versibar steam the hard way.
-
-**Valerius** stamped pier handoff twice — Marine restraint beside Mechanicus yield dispute — because parallel filing was sometimes the only mercy institutions could afford without admitting they kept cages too.
 
 **Iria** led the water-bearer landward without ceremony — word by careful word, language rebuilt elsewhere — and untied no bell. At the stair-foot she stopped once and looked back at the empty cage — null-field still humming, mesh still beaded with rain — and untied no bell again. She had buried one after the bait kill. She would not bury another after a lesson the sea had already filed.
 
@@ -231,44 +221,29 @@ The pier kept humming. The crucible kept its specimen — dead now, disputed, **
 
 Drusus had watched alien patience and pupil geometry that tracked rank. Threx had logged restraint as data to invoice. The Chapter had learned a live alphabet could be erased by its own courthouse before ink learned grammar.
 
-The boy’s sentence would ride in Alaric’s buffer like grit in a seal joint — invisible until pressure found it. **Kaell**’s auspex marriage would never arrive on the scheduled morning. **Furor** would choose him first. Cord-weight waited in firebase ash with Versibar steam still teaching the cord what *hold* meant before the word earned litany.
+The boy’s sentence would ride in Alaric’s buffer like grit in a seal joint — invisible until pressure found it. **Kaell**’s auspex marriage would never arrive on the scheduled morning; **Furor** would choose him first at cord-weight’s firebase. Type **B** cadence answered the pier’s silence with **soldier persistence** inland — not withdrawal, punctuation without mercy — and **Kadmos** marked the rhythm on a slate beside Drusus’s *repeat capture required* until two lines rhymed without merging, then saved the null-field stub under *hostile capture; echo stub* and replayed harmonics until veins looked like rank tracking rank before inheritance had a name. Rhyme permitted in margins; oracle forbidden.
 
-**Kessler** walked the landward road and pier wire in one circuit — no looking back at the empty cage, no praise for auxilia who would learn to shoot the ground first if laughter came bolt-deep without humor — because nostalgia and praise were both **theater**, and theater was how officers learned to call defeat *closure*. She counted mouths, hands, rebreathers instead; counting was the only vaccine that had never lied to her yet.
+**Kessler** walked landward wire in one circuit — no looking back at the empty cage, no praise — because nostalgia and praise were both **theater**, and theater was how officers learned to call defeat *closure*. She counted mouths, hands, rebreathers instead; counting was the only vaccine that had never lied to her yet.
 
-Inland, Type **B** cadence answered the pier’s silence with marching — not hunter withdrawal, **soldier persistence** — and **Kadmos** marked the rhythm on a slate beside Drusus’s *repeat capture required* until two lines rhymed without merging, then saved the null-field stub under *hostile capture; echo stub* and replayed harmonics until veins looked like rank tracking rank before inheritance had a name. Rhyme permitted in margins; oracle forbidden.
+**Drusus** sealed tissue stub and Kaell correlation under Triumvirate stamp — *terminated / hostile third party; Sigma-Black sympathy rhyme; DO NOT MERGE with Type B cadence until repeat capture confirms* — sequence, not prophecy. Hope dressed as procedure. He knew it. He wrote it anyway.
 
-
-Rain resettled on mesh. Null-field hummed its empty verdict. The sea took the pier’s leavings the way confessions are taken when no priest remains: without comment, without forgiveness, only weight.
-
-**Merit** tried once to clip a recorder to the empty cage mesh until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as specimen nostalgia packages that let admiralties sleep while mortals paid for the dream.
-
-**Varro** filed Threx restraint as data to invoice — seal attempted, not victory — and did not bless the empty cage. Blessing would have implied the courthouse had been **holy**. It had only been **efficient**.
-
-**Kessler** counted mouths one last time on landward wire — witness route only — because counting was the only vaccine that had never lied to her yet when Type **B** cadence marched inland.
-
-**Drusus** appended one last private line under Triumvirate seal — *Sigma-Black sympathy rhyme; unverified on open record; do not merge with Type B cadence until repeat capture confirms* — hope dressed as procedure. He knew it. He wrote it anyway.
-
----
-
-## IX. Still Cage Hums
-
-The pier cooled until null-field forgot motion — not peace, only **pause** — while Type **B** cadence kept marching soldier persistence the Chapter had interrupted, not stopped.
-
-**Alaric** walked the landward wire last without theater — hinge-work — and felt the boy's sentence settle in his helm display like grit in a seal joint: invisible until pressure found it, impossible to delete without lying to the mesh.
-
-**Valerius** stamped embarkation toward **Cord Weight** twice before dawn — Marine continuity beside mortal witness count intact — because the next chapter would spend the cord in integers that opened ash.
-
-**Drusus** sealed Kaell's correlation stub under *terminated / hostile third party / repeat capture required* — not prophecy, **sequence** — because live alphabets died in courthouses built for efficiency and efficiency still required filing honest enough to cut.
-
-**Kaell** would replay pupil geometry in a firebase hololith until Furor chose him first — correlation without merge, rhyme without oracle — because the pier had taught the Chapter that some lessons arrived as **steam** before they arrived as doctrine.
+**Kaell** would replay pupil geometry in firebase hololith until Furor chose him first — correlation without merge — because the pier had taught that some lessons arrived as **steam** before they arrived as doctrine.
 
 **Echo** listened at landward wire for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing null-field termination as sequence before cord-weight spent Versibar steam the hard way.
 
-**Pol** kept monitor seed *sequence only* beside Sera splices until Furor stayed vocabulary arriving late on open channels.
+**Pol** kept monitor seed *sequence only* beside **Sera** splices until Furor stayed vocabulary arriving late on open channels.
 
-**Santo** adjusted crate strap at landward wire and did not look at empty cage mesh. Looking would have turned specimen handoff into **spectacle** before cord-weight spent Versibar steam.
+**Santo** adjusted crate strap at landward wire and did not look at empty cage mesh. Looking would have turned specimen handoff into **spectacle**.
 
 **Orwen** filed pier timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than courthouse dressed as closure.
+
+**Valerius** stamped embarkation toward **Cord Weight** twice before dawn — Marine continuity beside mortal witness count intact — because the next chapter would spend the cord in integers that opened ash.
+
+**Threx**’s remote channel would file *tissue stub; yield dispute* beside *child witness; do not merge* until **Valerius** stamped *witness route only* and made parallel filing look like solvency long enough for cord-weight to spend Versibar steam the hard way.
+
+**Varro** filed Threx restraint as data to invoice — seal attempted, not victory — and did not bless the empty cage. Blessing would have turned **witness** into package admiralties could sleep on.
+
+Rain resettled on mesh. Null-field hummed its empty verdict. The sea took the pier’s leavings the way confessions are taken when no priest remains: without comment, without forgiveness, only weight.
 
 Interest collecting teeth before receipts.
 
