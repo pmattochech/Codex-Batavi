@@ -1,6 +1,6 @@
 # Foundation War — chapter prose scaffold
 
-**Canonical tree:** [`INDEX.md`](INDEX.md) · read order + quarter hubs. **Workflow spec:** [`../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md). **Legacy numbered serial:** deleted May 2026 — tombstone map only: [`legacy-map.md`](legacy-map.md).
+**Canonical tree:** [`INDEX.md`](INDEX.md) · read order + quarter hubs. **Depth contract:** this file. **Legacy numbered serial:** deleted May 2026 — tombstone map only: [`legacy-map.md`](legacy-map.md).
 
 Use this when **drafting, diffing, or refactoring** any `chapter.md` under `foundation-war/`. Depth reference: [`Q1-moon-hunt/living-specimen/chapter.md`](Q1-moon-hunt/living-specimen/chapter.md).
 

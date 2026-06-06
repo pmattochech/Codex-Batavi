@@ -1,6 +1,6 @@
 # Foundation War — canonical crucible serial
 
-**Status:** **Retcon pipeline complete (Phases 3–5).** Deep prose (Q0 + 38 chapters); **`Next:`** chain verified. **Phase 4:** myth, glossary, chronology, progenitor, dossier wound tags. **Phase 5:** repo-wide audit pass — staff/atlas/biology pointers repointed; legacy duplicate index trimmed. See [`../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md) §Phase 5 checklist.
+**Status:** **Canonical serial complete.** Deep prose (Q0 + 38 chapters); **`Next:`** chain verified; staff/atlas/biology pointers repointed; legacy numbered serial **deleted May 2026** (tombstone: [`legacy-map.md`](legacy-map.md)).
 
 **Density pass (complete):** §VIII dedupe + single forward handoff coda across all 39 `chapter.md` files (May 2026). **Serial total:** **9,176 lines** on disk (`wc -l`). **Bands:**
 
@@ -18,11 +18,9 @@ Codas: **Interest → stamp line → Always owed** (or quarter-specific liturgy 
 
 **Purpose:** Slug-based crucible serial under **Castra Vetera** annals. Read order is **`INDEX.md`** (source of truth); each `chapter.md` ends with a **`Next:`** link for linear reading.
 
-**Workflow spec:** [`../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md)
+**Depth contract:** [`PROSE-SCAFFOLD.md`](PROSE-SCAFFOLD.md)
 
-**Design lattice (poles, bans, MoI locks):** [`../../planning/FOUNDATION-WAR-RETCON-PLANNING.md`](../../planning/FOUNDATION-WAR-RETCON-PLANNING.md)
-
-**Staff annals (summary — repoint to this tree on cutover):** [`../../personae-command-index/events-and-chronologies/foundation-war.md`](../../personae-command-index/events-and-chronologies/foundation-war.md)
+**Staff annals (summary):** [`../../personae-command-index/events-and-chronologies/foundation-war.md`](../../personae-command-index/events-and-chronologies/foundation-war.md)
 
 **Prose scaffold (depth contract):** [`PROSE-SCAFFOLD.md`](PROSE-SCAFFOLD.md)
 

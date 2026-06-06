@@ -2,9 +2,9 @@
 
 **Tags:** #CastraVetera #Crucible #FoundationWar #NinePoles #LexIgnis #InstrumentumSolum #Noviomagus #MudDoctrine
 
-**Calendar note:** **Castra Vetera annals (`CV y*`)** are the **primary operational record** for this war. Imperial **~M42** tithe strings are a **secondary correlate** (Chronostrife, **warp-leg** log variance) — **not** time dilation. **Warp** in the crucible theater is **lethal without Insular chart-houses** (local Navis coffin data); see [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md) and planning **§6**.
+**Calendar note:** **Castra Vetera annals (`CV y*`)** are the **primary operational record** for this war. Imperial **~M42** tithe strings are a **secondary correlate** (Chronostrife, **warp-leg** log variance) — **not** time dilation. **Warp** in the crucible theater is **lethal without Insular chart-houses** (local Navis coffin data); see [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md).
 
-**Primary narrative path (rewrite workspace):** read order and slug folders — [`../../chronicles/foundation-war/INDEX.md`](../../chronicles/foundation-war/INDEX.md) · [`../../chronicles/foundation-war/README.md`](../../chronicles/foundation-war/README.md) · [`../../chronicles/foundation-war/legacy-map.md`](../../chronicles/foundation-war/legacy-map.md). **Serial status:** 39-chapter density pass **closed** — **10,343** lines on band (see README band table). **Rewrite scaffold:** [`../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md).
+**Primary narrative path:** read order and slug folders — [`../../chronicles/foundation-war/INDEX.md`](../../chronicles/foundation-war/INDEX.md) · [`../../chronicles/foundation-war/README.md`](../../chronicles/foundation-war/README.md) · [`../../chronicles/foundation-war/legacy-map.md`](../../chronicles/foundation-war/legacy-map.md). **Serial status:** 39-chapter density pass **closed** — **9,176** lines on band (see README band table). **Depth contract:** [`../../chronicles/foundation-war/PROSE-SCAFFOLD.md`](../../chronicles/foundation-war/PROSE-SCAFFOLD.md).
 
 **Canonical prose:** [`../../chronicles/foundation-war/`](../../chronicles/foundation-war/) — slug tree + [`PROSE-SCAFFOLD.md`](../../chronicles/foundation-war/PROSE-SCAFFOLD.md). Legacy numbered serial **deleted May 2026**; tombstone map: [`legacy-map.md`](../../chronicles/foundation-war/legacy-map.md).
 
@@ -16,15 +16,15 @@ This file is the **staff / encyclopedia summary**: phases, **theater nine-pole**
 
 ## 1. Summary
 
-The **Foundation War** is not a single front. It is the **contested birth** of a *Castra Vetera*–anchored Chapter inside a **nine-pole crucible** (one **visible** primary threat per pole; **Men of Iron** puppetry stays **implicit** until the terminal pole — see planning **§4**).
+The **Foundation War** is not a single front. It is the **contested birth** of a *Castra Vetera*–anchored Chapter inside a **nine-pole crucible** (one **visible** primary threat per pole; **Men of Iron** puppetry stays **implicit** until the terminal pole — see **§2** and Q4 terminal cluster).
 
 **Galactic frame (retcon lock):** **Insula Tenebrarum** subsector — **Castra Vetera** polity, **Nine Phalanx** mesh (**Ultima**, **Imperium Nihilus**). The Chapter holds a **delta island**: **fringe void** and **Tenebrarum Ribbon** outward; inward **Nihilus corridor** tithe and law. **Witness Ford** filters traffic; **Iron Highways** and **Forge / Tempest / Crown Marsh Channels** carry void logistics. Role: **wall against the tide** — evil does not pass unwitnessed; need passes under filter. Atlas: [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md).
 
-**Opening beat (CV y0):** The Chapter **crash-lands** on **Aethelgard Prime** after **lethal warp ingress** (Tenebrarum Ribbon / route without survivable **Insular chart-house** data) — wreckage theology, not a planned beachhead (planning **§1**, **§11.3**, **§12** Ch. 1).
+**Opening beat (CV y0):** The Chapter **crash-lands** on **Aethelgard Prime** after **lethal warp ingress** (Tenebrarum Ribbon / route without survivable **Insular chart-house** data) — wreckage theology, not a planned beachhead — [`distress-vector/chapter.md`](../../chronicles/foundation-war/Q0-prelude/distress-vector/chapter.md), [`mud-gospel/chapter.md`](../../chronicles/foundation-war/Q1-moon-hunt/mud-gospel/chapter.md).
 
-Landing force is **~500 Batavi** supported by **unclassified xenos mercenary pressure** on **Aethelgard** (author scaffold: **Kroot-kindred** logic in planning), **Iron Highways** logistics, and ***Lex Ignis*** / ***Instrumentum Solum*** discipline that refuses performance theater in favor of **Shared Sweat** truth-tests with the populations they must recruit from.
+Landing force is **~500 Batavi** supported by **unclassified xenos mercenary pressure** on **Aethelgard** (briefing: hunter-kindred enclaves), **Iron Highways** logistics, and ***Lex Ignis*** / ***Instrumentum Solum*** discipline that refuses performance theater in favor of **Shared Sweat** truth-tests with the populations they must recruit from.
 
-**Joint inference rail:** Batavi and the ***Lex Ignis*** exploration battlegroup **file the same anomalies** long before the final encounter — parallel ledgers, shared blame, category-level hypothesis late — without MoI POV or early naming locks. Milestones: planning **§4.1** (M1–M7).
+**Joint inference rail:** Batavi and the ***Lex Ignis*** exploration battlegroup **file the same anomalies** long before the final encounter — parallel ledgers, shared blame, category-level hypothesis late — without MoI POV or early naming locks. Milestones track across Q2–Q4 serial.
 
 **Tactical through-line:** bait doctrine, estuary warfare, mirror-route void geometry, “**silence that costs**,” and the slow hardening of **mud gospel** into ratified law.
 
@@ -34,9 +34,9 @@ Landing force is **~500 Batavi** supported by **unclassified xenos mercenary pre
 
 ---
 
-## 2. Nine poles (theater crucible — planning §11.1)
+## 2. Nine poles (theater crucible)
 
-*Canonical lattice, MoI rules, quarter architecture:* [`../../planning/FOUNDATION-WAR-RETCON-PLANNING.md`](../../planning/FOUNDATION-WAR-RETCON-PLANNING.md) **§§3–5**, **§4.1**, **§11.1**, **§12**.
+*MoI rules, quarter architecture, and slug cross-links:* table below + serial Q1–Q4 + [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md).
 
 | # | Pole (shorthand) | Primary anchor(s) | Visible enemy (briefing) | Example narrative slugs |
 | --- | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ Landing force is **~500 Batavi** supported by **unclassified xenos mercenary pre
 
 ### Lex Ignis (*tag*, not a battle cry)
 
-**Lex Ignis** marks Batavi communications where **truth-cost** is explicit: silence purchased, lie taxed, channel hazard named. It is the **discipline of flame** — what may be said, what must not be, and what burns if violated. See planning notes: [`../../planning/FOUNDATION-WAR-RETCON-PLANNING.md`](../../planning/FOUNDATION-WAR-RETCON-PLANNING.md).
+**Lex Ignis** marks Batavi communications where **truth-cost** is explicit: silence purchased, lie taxed, channel hazard named. It is the **discipline of flame** — what may be said, what must not be, and what burns if violated.
 
 ---
 
@@ -145,9 +145,8 @@ Legacy tombstone (numbered serial deleted May 2026): [`../../chronicles/foundati
 
 ## 7. Linked staff articles
 
-- **Planning lattice (nine poles / props / time / §4.1 joint rail):** [`../../planning/FOUNDATION-WAR-RETCON-PLANNING.md`](../../planning/FOUNDATION-WAR-RETCON-PLANNING.md)  
-- **Rewrite scaffold (phases + repo rules):** [`../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md)  
-- **Master chronology (Imperial index + annals):** [`master-chronology.md`](master-chronology.md)  
+- **Canonical serial:** [`../../chronicles/foundation-war/INDEX.md`](../../chronicles/foundation-war/INDEX.md) · [`PROSE-SCAFFOLD.md`](../../chronicles/foundation-war/PROSE-SCAFFOLD.md)
+- **Master chronology (Imperial index + annals):** [`master-chronology.md`](master-chronology.md)
 - **Mud / crucible biology:** [`../../biological-encyclopedia-bestiary/biogeographic-matrix-crucible.md`](../../biological-encyclopedia-bestiary/biogeographic-matrix-crucible.md)  
 - **Der Batav myth (operational):** [`../../lexicon-and-litanies/der-batav-myth-foundation.md`](../../lexicon-and-litanies/der-batav-myth-foundation.md)  
 - **Wolf’s Curse stages (Execratio / Alpha anomaly):** [`../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md`](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)

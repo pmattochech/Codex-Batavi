@@ -4,7 +4,7 @@
 
 **Canonical biology:** [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md).
 
-**Update rule:** Refresh when the project owner prompts (same convention as [`FOUNDATION-WAR-RETCON-PLANNING.md`](planning/FOUNDATION-WAR-RETCON-PLANNING.md)).
+**Update rule:** Refresh when the project owner prompts.
 
 ---
 
@@ -112,11 +112,11 @@ Summary:
 - [ ] Triumvirate dossiers — **Varro / Drusus** psychology vs **Alaric** patriarch load.
 - [ ] `chassis-and-armor-catalog.md` / `vexillatio-operational-armory.md` — Firstborn vs Primaris era kit.
 - [ ] `master-chronology.md` — first reinforcement milestone **flush with** Foundation War terminus; **Valerian** casualty row if not already synced everywhere.
-- [x] `FOUNDATION-WAR-RETCON-PLANNING.md` **§1** — population / Valerian / **Adversarii** bullets (this pass).
+- [x] [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md) — population / Valerian / **Adversarii** bullets (merged).
 
 ---
 
 ## 8. Cross-links
 
-- Foundation war / MoI / time layer: [`FOUNDATION-WAR-RETCON-PLANNING.md`](planning/FOUNDATION-WAR-RETCON-PLANNING.md)
+- Foundation war / MoI / time layer: [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md)
 - Full clinical detail: [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)

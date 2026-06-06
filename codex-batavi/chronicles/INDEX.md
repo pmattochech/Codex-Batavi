@@ -2,13 +2,13 @@
 
 ## foundation-war (canonical serial)
 
-**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [prose scaffold](foundation-war/PROSE-SCAFFOLD.md) · [legacy → slug tombstone](foundation-war/legacy-map.md). **Phases 3–5 complete** (Q0 prelude + 38 chapters; staff ripple + audit). **Quarter hubs:** [Q0](foundation-war/Q0-prelude/INDEX.md) · [Q1](foundation-war/Q1-moon-hunt/INDEX.md) · [Q2](foundation-war/Q2-inverted-war/INDEX.md) · [Q3](foundation-war/Q3-gulf-and-beast/INDEX.md) · [Q4](foundation-war/Q4-der-batav/INDEX.md). **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
+**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [prose scaffold](foundation-war/PROSE-SCAFFOLD.md) · [legacy → slug tombstone](foundation-war/legacy-map.md). **Serial complete** (Q0 prelude + 38 chapters; density pass closed May 2026). **Quarter hubs:** [Q0](foundation-war/Q0-prelude/INDEX.md) · [Q1](foundation-war/Q1-moon-hunt/INDEX.md) · [Q2](foundation-war/Q2-inverted-war/INDEX.md) · [Q3](foundation-war/Q3-gulf-and-beast/INDEX.md) · [Q4](foundation-war/Q4-der-batav/INDEX.md). **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
 
 **Staff summary** (nine poles, phases, casualty bands, cross-links): [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md).
 
 **Drusus retrospective (in-universe, moved to staff archives):** [drusus-retrospective-aethelgard-first-quarter.md](../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md) — early Aethelgard / hunter-enclave texture; **not** canonical for troop counts (see serial + [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md)).
 
-**Design lattice (props, bans, time layers — not substitute for chapters):** [`FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md) · [`FOUNDATION-WAR-RETCON-PLANNING.md`](../planning/FOUNDATION-WAR-RETCON-PLANNING.md). **Geography lock:** [`../atlas-and-topography/castra-vetera-galactic-lock.md`](../atlas-and-topography/castra-vetera-galactic-lock.md).
+**Geography lock:** [`../atlas-and-topography/castra-vetera-galactic-lock.md`](../atlas-and-topography/castra-vetera-galactic-lock.md).
 
 ---
 

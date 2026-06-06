@@ -1,6 +1,6 @@
 # Castra Vetera — galactic lock & Batavi identity charter
 
-**Status:** Authoritative for **new** atlas, organization, and political prose. **Does not** amend [`FOUNDATION-WAR-RETCON-PLANNING.md`](../planning/FOUNDATION-WAR-RETCON-PLANNING.md) (crucible pole roster, CV calendar, MoI rails unchanged).
+**Status:** Authoritative for **new** atlas, organization, and political prose. **Staff companion (nine-pole roster, CV calendar, MoI rails):** [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md).
 
 **Supersedes (retired names):** ***Porta Nihili*** (strategic designation), **Loken Passage** (astrographic funnel). Legacy chronicles may still mention them; new wiki/atlas text uses this lock.
 
