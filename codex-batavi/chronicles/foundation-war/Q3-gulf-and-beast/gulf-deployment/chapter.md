@@ -13,8 +13,6 @@
 
 ---
 
-## I. Construction — Not Emptiness
-
 Between **Bifrons** worlds lay not emptiness but **construction** — an arrogance of species that refused to admit gap as defeat — and the Strategium carried the mirror-route toll in its teeth: empty chairs and blame spirals were not abstract here; they were the **backward braid** that made every cable tension read like a second invoice on the first convoy’s ghost, *expected variance* translated into torque you could feel through boot soles when the gulf decks flexed.
 
 **Gulf decks** hung strung like bridge-rosaries across the dark, cables under tension singing shy of audible — not music, *threat* harmonized into geometry — while bondsmen hammered prayers into sheath **literally**, words scuffed into metal until faith became **texture** you could read with fingertips when vis-light failed, **sensory accounting** replacing hololith romance with grit you could not wipe away.
@@ -33,10 +31,6 @@ A bondsman at the intake rail — **Torven** was not his name, but his face had 
 
 Torven stamped twice. His hands shook once. Shaking was cheaper than explaining to a widow why her husband’s debt had been filed under the wrong prefix when the tomb asked for payment.
 
----
-
-## II. Sequence — Not Prophecy
-
 **Merit’s** clerks floated recorders toward bondsmen until **Kessler** threatened to inventory their teeth; **Valerius** canceled the initiative with paperwork brutal enough to survive **Threx’s** optics — **witness routes only**, **no morale throughput**, signed in ink that smelled like solvent and refusal.
 
 **Drusus** shipped margin notes ahead on auspex skins — *Sigma bleed attenuated; treat phase ghosts as debt until disproven* — not prophecy, **sequence**, the same discipline that had kept mirrored floors from becoming oracles on other poles; here, sequence meant **intervals** you could brace for before they became theology.
@@ -54,10 +48,6 @@ Wind off the construction smelled like ozone and hot grease; she breathed it any
 When **Alaric** passed beneath her span without looking up — helm law, hinge duty — she marked it not as coldness but as **active silence** carried forward from beaches where tides taught refusal better than chapels sometimes did.
 
 A bondsman — **Henn**, throat scarred from cable lash — sang the work-song again at shift change, and this time **Sera** caught the rhyme on a fiber splice: *the bridge eats debt* landing on the same beat as *the tomb keeps breath*. She taped the splice blue — *do not trust your joy* — and did not tell Henn he had filed theology into a sheath. Telling would have made him **perform** belief, and performed belief was how gulfs recruited suicides.
-
----
-
-## III. Debt Is Not a Metaphor
 
 Below her, **Sergeant Kessler** walked a line of auxilia through a check that looked like insult until you understood it as **gift**: eyes, hands, rebreather seals — inventory of what could fail first when the gulf decided breathing was negotiable.
 
@@ -79,10 +69,6 @@ Batavi moved not slower but **cleaner** — economy without swagger, each stride
 
 A Skitarii sergeant — optics bright with the hunger of **first touch** — laughed on an open channel until Kadmos’s rear element muted him with one flat syllable that was not a word so much as a **weight**. Laughter died. The gulf kept humming. **Valerius** noted the mute in a margin: *discipline debt — Mechanicus liaison* — because debts between allies accrued interest faster than debts to void.
 
----
-
-## IV. First Touch — Whose Stamps Wake Hungry
-
 Rear squads practiced **parallel filing** without theatrics — duplicate lanes, duplicate initials — until junior officers stopped treating sanctified redundancy as Mechanicus fetish and started treating it as **insurance** against phase eating one corridor whole.
 
 **Breach sergeants** surfaced only as shoulder cues on the net — no poetry in call-signs yet, only spacing: two clicks tighter when tomb harmonics climbed; two clicks wider when mortal packs risked bunching into Skitarii sprint lanes; payments in bruises instead of epitaphs.
@@ -98,10 +84,6 @@ The **first touch** cost a Skitarii breacher his lower leg when phase-cold turne
 **Orwen** — testimony still forming in block capitals — kept ranges flat on hand *vox* while Skitarii sprint-lanes learned *first touch* was receipt tombs cashed in ceramic, not title you wore.
 
 **Kessler** posted rear pairs with backs to backs — shoot the ground first — because phase grammar stepped from nowhere and vanished into somewhere until counting intervals was the only vaccine tombs had taught on other poles.
-
----
-
-## V. Phase Taxonomy — Ceramic Law
 
 Phase was not invasion. Phase was **grammar** — warriors stepping from nowhere, vanishing into somewhere, leaving footprints in deck-ash with edges too cold to be accident — and grammar, once learned, could not be unlearned without paying tuition in skin.
 
@@ -121,10 +103,6 @@ One Marine — veteran of the glass seas, glare discipline etched into muscle �
 
 Counting was not cowardice. Counting was how you prevented virtue from killing the wrong silhouette fast enough to choke.
 
----
-
-## VI. Tomb Arrogance — Nomenclature Is Seal
-
 Marines checked ceramite for accidental polish — **glare discipline** carried forward — because tombs that ate frequencies might learn to eat **faces** next if faces volunteered shine; auxilia learned the same lesson from **Kessler** in shorter words until shorter words became liturgy.
 
 Medicae bins filled with men who were not wounded yet but **pre-wounded** — acceleration bruises, clamp burns, the petty debts physics collects before xenos add interest — and **Drusus** refused poetry there too, measuring pulses against metronomes until **Wolf’s Curse** chatter stayed rumor, not rally.
@@ -143,10 +121,6 @@ The distinction mattered; in this war names were **seals**, and misname somethin
 
 Bondsmen whispered **Dark Age of Technology** like a curse and a prayer in the same breath until **Varro** crushed the whisper with ash — **nomenclature is seal** — and the whispers shrank back into **texture** where they could not seduce young Skitarii into opening seams with stories.
 
----
-
-## VII. No Deep Pursuit — Arithmetic Not Virtue
-
 **Alaric** set the line without raising his voice — because raised voices are for creatures still negotiating with their own fear:
 
 — No deep pursuit without rear seal.
@@ -164,10 +138,6 @@ Off-axis, landers fired attitude jets in corrections too small for drama and too
 Water points ran warm then cold then warm again as recyclers struggled with population spikes; taste became another ledger column nobody wanted to read aloud.
 
 **Sera** split a fiber run when tomb harmonics climbed — blue tape on one tray, yellow on the duplicate — and cursed under her breath in the dialect of women who had learned on Vitreus that color lied slower than language. **Kessler** passed with auxilia breathers and did not ask what the colors meant. Asking would have turned parallel filing into **lesson**; lessons on gulf decks were priced in throats.
-
----
-
-## VIII. Contact — Skin First
 
 Somewhere in the tombs’ sealed arithmetic something **turned** — not yet visible as outbreak, not yet flensing made choir, but *wrong* in the direction wrong always travels: toward appetite.
 

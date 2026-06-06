@@ -156,7 +156,7 @@ Mark `[x]` when structure pass is complete for that slug.
 | 16 | glass-overture | `Q2-inverted-war/glass-overture/chapter.md` | [x] |
 | 17 | tertius-anvil | `Q2-inverted-war/tertius-anvil/chapter.md` | [x] |
 | 18 | years-eight-to-fifteen | `Q2-inverted-war/years-eight-to-fifteen/chapter.md` | [x] |
-| 19 | gulf-deployment | `Q3-gulf-and-beast/gulf-deployment/chapter.md` | [ ] |
+| 19 | gulf-deployment | `Q3-gulf-and-beast/gulf-deployment/chapter.md` | [x] |
 | 20 | skin-debt | `Q3-gulf-and-beast/skin-debt/chapter.md` | [ ] |
 | 21 | bridge-saints | `Q3-gulf-and-beast/bridge-saints/chapter.md` | [ ] |
 | 22 | maw-exercise | `Q3-gulf-and-beast/maw-exercise/chapter.md` | [ ] |
