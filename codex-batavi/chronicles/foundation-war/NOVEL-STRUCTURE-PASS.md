@@ -149,7 +149,7 @@ Mark `[x]` when structure pass is complete for that slug.
 | 9 | second-quarter-brief | `Q1-moon-hunt/second-quarter-brief/chapter.md` | [x] |
 | 10 | inverted-hive | `Q2-inverted-war/inverted-hive/chapter.md` | [x] |
 | 11 | output-quota | `Q2-inverted-war/output-quota/chapter.md` | [x] |
-| 12 | ring-of-teeth | `Q2-inverted-war/ring-of-teeth/chapter.md` | [ ] |
+| 12 | ring-of-teeth | `Q2-inverted-war/ring-of-teeth/chapter.md` | [x] |
 | 13 | flare-geometries | `Q2-inverted-war/flare-geometries/chapter.md` | [ ] |
 | 14 | brood-signature | `Q2-inverted-war/brood-signature/chapter.md` | [ ] |
 | 15 | exanimus-choir | `Q2-inverted-war/exanimus-choir/chapter.md` | [ ] |

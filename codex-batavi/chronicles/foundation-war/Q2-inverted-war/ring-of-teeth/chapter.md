@@ -13,8 +13,6 @@
 
 ---
 
-## I. Ash Under Armor — Void Scrubbed Memory
-
 Incus’s ash clung in greaves long after translation — packed into joint seals, worked into the creases of ceramite until it became a second pigment — then **void** scrubbed it away and replaced it with cold that laughed at memory. Cold did not negotiate; it simply removed the story of warmth until your body believed warmth had been a myth told by traitorous nerves.
 
 The Chapter did not leave the hive behind so much as **carry** it under armor: **Brood-Flutter** graphs locked behind biometrics; **Santo**’s split lip a small red argument about boys and honor; **Mira**’s watching eyes a weight no crate manifest could list — cargo heavier than supplies — and the quota chant that still matched midwife counting if you listened without wanting to.
@@ -22,10 +20,6 @@ The Chapter did not leave the hive behind so much as **carry** it under armor: *
 The **backward braid** was ugly: hooks had bought roofs; quotas had bought riots; riots had bought ***Brood-Flutter***; now void asked whether harmonics could **couple** across theaters the way Silica Field had coupled with quartz scream — same appetite wearing different uniforms.
 
 Beyond the burn the new theater waited with the patience of something that had already eaten once and learned patience was cheaper than hunger.
-
----
-
-## II. Logus Ring — Mouth That Chewed
 
 The **Logus Ring** was a breaker-yard orbiting nothing worth naming aloud. **Kilometers** of hulls stripped and stacked until they resembled teeth worshipping void curved inward like a mouth that had swallowed fleets and **chewed** until only ribs remained — an anatomy lesson taught without textbooks, scale imposed on the eye until the eye stopped trusting distance.
 
@@ -43,10 +37,6 @@ Translation from Incus burn to Ring approach took long enough for *vox* to thin 
 
 Behind him, **Kadmos** muttered a range solution under his breath, not for anyone’s ears, habit of a man who turned discomfort into numbers because numbers could be held.
 
----
-
-## III. Choir Without Saying Choir
-
 The strike cruiser’s auspex painted the yard as **teeth** and then as **targets** — friendly wrecks tagged wrong until techs learned to distrust *friendly*, because friendly hulls could hide listening posts the same way Sallow Morrow’s gallery had hidden paired boots.
 
 **Drusus** watched particulate scatter patterns climb in ugly sympathy with old **Brood-Flutter** harmonics and forced himself not to say *choir* aloud; *choir* was a word that turned competent sailors into mystics, and mystics mis-torqued seals. He logged the sympathy as *environmental coupling — unverified* and hated that *unverified* was the same cloak cowardice wore when it dressed as prudence.
@@ -58,10 +48,6 @@ The strike cruiser’s auspex painted the yard as **teeth** and then as **target
 She did not tell them she still heard quota chants in her sleep, or that Incus had taught her to fear rhythms that matched without permission. She told them only what void required: *small motions, small panic, small selves — until the bulkhead says otherwise.*
 
 Chaos spoke here in **wreck-rites** — not sermons in choirs, but grease-paint theology: plasma couplings daubed with engine oil like unguents; prayers etched into reactor shrouds until machine spirits wheezed **heresy** and obedience in the same cough; laughter that rang hollow as **tanks** because laughter was how humans kept their throats open when their minds wanted to close.
-
----
-
-## IV. Varro — Burn What Listens Back
 
 **Varro** walked scaffolds above the cult’s handiwork, *Codex* death-skull helm a fixed witness above grease and oath-marks, censers cold enough to dare anyone to mistake him for spectacle. He did not burn every shrine — *not yet* — because fire makes martyrs and martyrs make **routes**, and routes were what wreck-priests wanted most. He burned only what he could justify to that same bone-mask: idols that had learned to **listen** back — little listening boxes wired into scrap altars, auspex crumbs fed to fetishes until superstition wore cog-teeth.
 
@@ -76,10 +62,6 @@ A wreck-priest tried to **sell** Varro a *blessed auspex* wired to a child’s t
 Alaric answered with silence that meant *file it*, because filing was how you kept curriculum from becoming **dogma** before evidence paid tuition.
 
 **Kessler** posted yard cordon with backs to backs — shoot the ground first — because wreck-rites were grease-paint theology and theology that listened back was debt war-by-ink would spend when Mechanicus factors arrived pretty as creditors at a deathbed.
-
----
-
-## V. War by Ink — Truth Oxidizes
 
 Mechanicus factors arrived on tenders pretty as creditors at a deathbed, hulls buffed until poverty looked like ceremony. They waved salvage charters stamped with cogs until paper looked like **law** and law looked like permission to strip a corpse while the family still wept in the next room.
 
@@ -107,10 +89,6 @@ The liaison stamped twice. His face learned something that would save lives late
 
 **Alaric** watched from the Castellan’s perch without comment — hinge-voice saved for geometry, not pedagogy — while **Kadmos** posted rear fire solutions that assumed mortals would bunch where mortals always bunched: at airlocks, at water points, at any door that promised *inside* was still a word with meaning. The Ring taught that *inside* was negotiable. Negotiation was why Marines existed.
 
----
-
-## VI. Teeth Inside Teeth — Micro-Charges
-
 Micro-charges did not announce themselves with speeches. They spoke in a language too quiet for drama: a cough, a shiver, a seam deciding it had never been a seam, only a suggestion — then the seam became a mouth, and mouths were what the Ring had been teaching since Incus ash still lived in seal joints.
 
 The blade that broke comedy was small — **micro-charges**, a chain meant to **shear** a troop carrier along a weld seam like cutting bread — because comedy in void war is the belief that armor makes you whole.
@@ -137,10 +115,6 @@ That was Apothecarion romance: cruelty accurate enough to be kindness. The broth
 
 **Alaric** passed the torn seam without stopping — hinge duty, mass reserved for geometry — but his shadow fell across the brother photographing teeth inside teeth long enough for the man to understand: being seen was not **spectacle**; it was receipt. Receipt was how walls learned to hold without needing speeches.
 
----
-
-## VII. Days — Romance’s Honest Love Poem
-
 Void taught a second syllabus after teeth: **days of air** were not calendar days but hunger’s translation of *week*. Scrapper children learned to sleep in corridors where ribs stacked like hymnals and vacuum kissed seams without warning.
 
 Alaric did not speak encouragement; encouragement would have wasted breath that could be spent clearing. He **cleared** until clearing became place: a pocket of held vacuum, a moment where the Ring’s mouth **paused** mid-bite because something harder than appetite had lodged in its teeth.
@@ -156,10 +130,6 @@ Valerius did not promise comfort. He promised **paper**: signatures, stamps, a l
 **Valerius** negotiated air the way chaplains negotiated souls — without promising heaven, only **sequence**: first pressure patches, first water, first wounded, first the living secured so tomorrow could not pretend yesterday had been rumor. When a Mechanicus factor tried to slide *sanctified recovery* language beside a casualty column, Valerius filed it parallel under *Mechanicus asserts salvage continuity* and forced initials — the same trick that kept blood off wax on mud worlds, except wax did not exist here; only vacuum, which signed nothing and took everything.
 
 In romances, rings of teeth mark the threshold where heroes learn the world is also a **mouth**. The Batavi learned — and filed the lesson beside others — **Unbent** meaning not *unharmed*, but *still clamped jaw when needed*.
-
----
-
-## VIII. Minutes — Only Truth Void Sells
 
 Hololith briefs for the next hop already named **Ignis-Minor** — thermal mines, harness lines, *scheduled venting* — and **Alaric** read the words the way he read wreckage: slowly, without performance. Sunlight as industry sounded like another mouth learning to chew in a register the Chapter had not yet learned to hear.
 
