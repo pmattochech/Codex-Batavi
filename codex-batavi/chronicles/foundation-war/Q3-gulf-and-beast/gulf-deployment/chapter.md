@@ -23,9 +23,9 @@ Between **Bifrons** worlds lay not emptiness but **construction** — an arrogan
 
 The gulf’s first days did not look like war in hololiths; they looked like **queueing** — bodies in lines, tools in lines, arguments in lines — until lines became a kind of faith you could measure in **meters per hour** and still call human.
 
-Bondsmen hammered texture into sheath metal while **Santo** carried crates beside men who still mistook sweat for **honor** until Incus and Vitreus had rubbed that mistake off their teeth. Here, on a gulf line, honor was only **throughput** with better stationery — unless someone like **Mira Kell** stayed on the tally side and refused to let throughput eat names.
+Bondsmen hammered texture into sheath metal while intake rails learned the same lesson Incus had taught on pole-clean prefixes: mixed columns were how convoys drowned.
 
-He stamped intake slates **twice** — once for Marines, once for mortals — because Gulf geometry taught fast that confusing those debts bankrupted convoys faster than xenos ever could; prefixes stayed pole-clean (*Bifrons-local*, hand-written where printers died) so beautiful errors could not migrate from Vitreus habits or Incus stamps like parasites wearing efficiency’s face.
+**Valerius** stamped intake slates **twice** — once for Marines, once for mortals — because Gulf geometry taught fast that confusing those debts bankrupted convoys faster than xenos ever could; prefixes stayed pole-clean (*Bifrons-local*, hand-written where printers died) so beautiful errors could not migrate from Vitreus habits or Incus stamps like parasites wearing efficiency’s face.
 
 A bondsman at the intake rail — **Torven** was not his name, but his face had the same exhausted geometry men wore after mirror convoys — tried to sign one slate for a mixed crew until Valerius took the stylus and split the column without looking up.
 
@@ -97,9 +97,7 @@ The **first touch** cost a Skitarii breacher his lower leg when phase-cold turne
 
 **Orwen** — testimony still forming in block capitals — kept ranges flat on hand *vox* while Skitarii sprint-lanes learned *first touch* was receipt tombs cashed in ceramic, not title you wore.
 
-**Kessler** posted rear pairs with backs to backs — shoot the ground first — because phase grammar stepped from nowhere and vanished into somewhere until counting intervals was only vaccine tombs had taught on other poles.
-
-Alaric did not speak on the net. He shifted rear security one corridor left, hinge-voice doing mass-work while Skitarii sprint-lanes learned, the hard way, that *first touch* was not a title you wore; it was a **receipt** the tombs cashed in ceramic.
+**Kessler** posted rear pairs with backs to backs — shoot the ground first — because phase grammar stepped from nowhere and vanished into somewhere until counting intervals was the only vaccine tombs had taught on other poles.
 
 ---
 
@@ -131,7 +129,7 @@ Marines checked ceramite for accidental polish — **glare discipline** carried 
 
 Medicae bins filled with men who were not wounded yet but **pre-wounded** — acceleration bruises, clamp burns, the petty debts physics collects before xenos add interest — and **Drusus** refused poetry there too, measuring pulses against metronomes until **Wolf’s Curse** chatter stayed rumor, not rally.
 
-**Drusus** watched the geometries articulate with the patient malice of old kings pretending senility — each joint-line a verdict, each stance a law older than the Imperium that thought it invented lawfulness — his helm’s autos reducing flare while his mind refused the comfort.
+**Drusus** watched the geometries articulate with the patient malice of old kings pretending senility — each joint-line a verdict, each stance a law older than the Imperium that thought it invented lawfulness — his helm’s autos reducing flare while his mind refused the comfort of naming it beauty.
 
 **Threx** leaned forward until his optics brightened with hunger wrongly labeled **curiosity**.
 
@@ -183,73 +181,35 @@ Not to scare, to **sequence**; the gulf had enough sermons already, most of them
 
 She did not descend to bless the bondsmen. Blessing would have turned routing law into theater. She wrote one correction on a tide chart attached to a work roster — *interval risk elevated; rotate odd hours on spine crews* — the same vaccine Kessler had learned on hyper-G beaches, translated for cables.
 
-On the breach net, Kadmos’s *We hold* echoed in Santo’s ears as hygiene extended to the spine — not holo-honor, **job**. The boy carried another crate and did not look at the phased footprints cooling in deck-ash. Looking would have made intervals into **omens**, and omens were how young men volunteered for debts they could not repay.
+On the breach net, **Kadmos**’s *You breach. We hold* echoed in **Santo**’s ears as hygiene extended to the spine — not holo-honor, **job**. The boy carried another crate and did not look at the phased footprints cooling in deck-ash. Looking would have made intervals into **omens**.
 
-**Henn** sang the work-song again at shift end — *the bridge eats debt* on the same beat as *the tomb keeps breath* — and **Sera** taped the splice blue without telling him he had filed theology into a sheath. Telling would have made him perform belief. Performed belief was how gulfs recruited suicides.
+The tombs had not spoken yet in any language the Strategium would file without embarrassment. They had only **stepped**, **vanished**, and left ceramic law written in cold edges. That was enough. Enough was how gulfs trained you to stop asking for mercy from architecture.
 
-The tombs had not spoken yet in any language the Strategium would file without embarrassment. They had only **stepped**, **vanished**, and left ceramic law written in cold edges.
+**Threx** watched from a sanctioned auspex bead and received silhouette only — *Judex business; non-salvage* — hatred swallowed because swallowing meant later invoices.
 
-That was enough. Enough was how gulfs trained you to stop asking for mercy from architecture.
+**Kadmos** enforced vocabulary discipline off open channels because *Execratio* beside phase taxonomy could invent cult velocity faster than purge cycles could answer.
 
-**Threx** watched from a sanctioned auspex bead and received silhouette only — *Judex business; non-salvage* — hatred swallowed because swallowing meant later invoices. Friction partners always filed constraint as **barbarism** until constraint saved their yield.
+**Drusus** logged interval ticks beside ceramic edge temperature — taxonomy, not prayer — and appended a closing margin: *gulf phase taxonomy may present as Wolf’s Curse stress rhyme; treat tremor as tomb-coupled false-positive unless sustained across three intervals* — sequence, not prophecy.
 
-On the breach net, a bondsman child pointed at phased footprints cooling in deck-ash until his mother slapped the hand down — **awe** could become **folk liturgy** faster than bolters; awe still needed borders. **Kadmos** enforced *Furor* vocabulary off open channels because *Execratio* beside phase taxonomy could invent cult velocity faster than purge cycles could answer — vocabulary still climbing toward thresholds nobody yet dared name on banners.
+**Varro** filed gulf threshold as proto-rite — seal attempted, not victory — and laid ash along the hatch seam where the Immaterial had pressed against *absence*.
 
-**Drusus** stood one minute longer at the phased footprint cooling in deck-ash and logged interval ticks beside ceramic edge temperature — taxonomy, not prayer — while **Varro** laid ash along the hatch seam where the Immaterial had pressed against *absence*. Triumvirate differentiation held: syringe beside stitch, mechanics beside seal, neither pretending the tomb was polite.
+**Sera** taped blue fiber parallel to red call trunks behind the hatch — duplicates were not redundancy when one line belonged to trust and the other belonged to ghosts the tombs learned to sing.
 
-**Sera** taped blue fiber parallel to red call trunks behind the hatch — same braid bridge spines would teach, different weather — because duplicates were not redundancy when one line belonged to trust and the other belonged to ghosts the tombs learned to sing.
+**Orwen** kept ranges flat on hand *vox* — gulf throat billed in intervals before Bridge Saints taught chaplain nets beside mortal lines still solvent.
 
-**Alaric** did not say *We hold* on open channels. Holding, here, meant phase taxonomy written in ceramic edges and interval ticks — measurable, stamped twice, witness before throughput — until skin debt taught the gulf what flaying looked like when fear learned to peel neighbors for salvation.
+**Echo** listened at tomb ceramic edge for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow**.
 
-**Iria** wrote *interval risk elevated* on a tide chart attached to a spine roster — vaccine traveling pole to pole — and did not bless the bondsmen. Blessing would have turned routing law into **theater**. **Henn** sang *the bridge eats debt* on the same beat as *the tomb keeps breath*; **Sera** taped the splice blue without telling him he had filed theology into a sheath.
+**Kessler** walked the tomb spine one last time with auxilia who had learned *you breach; we hold* as interval ticks, not liturgy — and did not praise them. Praise turned ceramic law into **theater**.
 
-The tombs had stepped, vanished, left ceramic law written in cold edges. That was enough. Enough was how gulfs trained you to stop asking for mercy from architecture.
-
-**Drusus** appended a closing margin — *gulf phase taxonomy may present as Wolf’s Curse stress rhyme; treat tremor as tomb-coupled false-positive unless sustained across three intervals* — sequence, not prophecy, carried forward toward skin debt where fear would learn to peel neighbors for salvation.
-
-**Valerius** stamped embarkation toward **Skin Debt** twice — Marine continuity beside mortal chains still solvent — because flaying grammar would tax both ledgers when theology wore neighbor’s skin.
-
-**Kessler** walked the tomb spine one last time with auxilia who had learned *you breach; we hold* as interval ticks, not liturgy — measurable, stamped twice, witness before throughput — and did not praise them. Praise turned ceramic law into **theater**.
-
-**Santo** taped crate labels parallel to spine roster until handwriting looked like carpentry — hygiene extended to the soul — while **Henn** sang *the bridge eats debt* on a beat **Sera** would splice blue without telling him he had filed theology into a sheath.
-
-**Varro** filed gulf threshold as proto-rite — seal attempted, not victory — because ceramic law stepped and vanished before tomb stepping became spectacle institutions could sleep on.
-
-**Mira** refused merges on spine roster ugly on purpose — honest zeros were not defeat but **solvency** — while phase taxonomy traveled pole to pole like vaccine against architecture that refused to pretend it was polite.
-
-You breach. We hold — not liturgy yet, only **interval ticks** stamped twice, witness before throughput, until skin debt taught the gulf what flaying looked like when fear learned to peel neighbors for salvation.
-
-Tombs forgot motion until ceramic edges looked like peace — peace another word for **phase grammar** hiding teeth skin debt would teach when fear peeled neighbors for salvation.
-
-**Alaric** walked the tomb spine one last minute without speeches — hinge-work — because speeches fed Echo seams even when tombs had stepped, vanished, left ceramic law written in cold edges measurable enough to survive Strategium smoothing.
-
-**Drusus** appended margin for translation burn — *gulf tomb coupling may present as Exanimus-adjacent tremor rhyme; treat ceramic edge contact as environmental false-positive unless sustained* — sequence, not prophecy, carried forward toward Maw where hunger learned mud grammar.
-
-**Kadmos** saved tomb stub under *Inheritance terrain; sequence only* — ceramic edges stepped, vanished, left law written in cold measurable enough to survive — because shame that stayed honest was sometimes the only vaccine when mirrors lied politely.
-
-**Pol**'s seed margin traveled south under *monitor only* — sequence, not prophecy — until skin debt taught flaying grammar at landward stack.
-
-**Iria** passed tomb spine one last interval — active silence — shielding ceramic law against excuses that would have turned tomb stepping into **spectacle** before Maw taught hunger as language mud could answer.
-
-**Orwen** — testimony still forming in block capitals — kept ranges flat on hand *vox* because gulf throat billed in intervals before Bridge Saints taught chaplain nets beside mortal lines still solvent.
-
-**Echo** listened at tomb ceramic edge for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing phase grammar as sequence before skin debt taught flaying looked like salvation.
-
-**Kadmos** chalked tomb egress routes that would wash away — witness guarded like ammunition — because ceramic edges stepped, vanished, left law written in cold measurable enough to survive Strategium smoothing into slides nobody saluted honestly.
-
-**Sera** tagged spine fiber braid *monitor only* until merge columns starved and Maw earned attested injury in still water.
-
-**Threx** would file *yield preserved* beside *witness attests* at ceramic lip — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like **solvency**.
+**Mira** refused merges on spine roster ugly on purpose — honest zeros were not defeat but **solvency**.
 
 **Varche** logged gulf embarkation on Navy pane without romance — intervals, not triumph — because tombs cashed ceramic in intervals admiralties could not sleep on.
 
-**Rothmar**'s kill-marks wiped southbound — *Ash doesn't care whose god is prettier* — lesson Incus would echo as forge hum before Beast chapter taught fire grammar.
-
-**Valerius** stamped gulf embarkation twice — Marine continuity beside mortal chains still solvent — because tombs cashed ceramic in intervals before trust eaten from within stopped being rumor.
+**Alaric** did not say *We hold* on open channels. Holding meant phase taxonomy written in ceramic edges — measurable, stamped twice, witness before throughput.
 
 Interest collecting teeth before receipts.
 
-You breach. We hold. Phase taxonomy. Skin debt waiting.
+You breach. We hold. Phase taxonomy. Skin Debt waiting.
 
 Always owed.
 
