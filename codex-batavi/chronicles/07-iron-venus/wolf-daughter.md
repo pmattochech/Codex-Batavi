@@ -32,7 +32,7 @@ The Primarch looked at the girl, then at the wooden sword, then at the gray eyes
 
 Alaric set his heavy gauntlet on Elara’s shoulder. That day, before the galaxy’s elite, the bond was sanctified.
 
-**III. The Forge Collapses (Elara’s 20th Year)**
+**III. The Forge Collapses (~170.M42 · Elara ~20)**
 
 Innocence, however, has an expiration date in Warhammer 40,000.
 
@@ -84,7 +84,7 @@ The music around them stopped. Elara withdrew her arm with slow precision. She d
 
 The Duke fell back, pale. Elara turned and left the hall, trailing silence and terrified respect.
 
-**III. Consecration on the Bridge (Year 24)**
+**III. Consecration on the Bridge (~174.M42 · Age 24)**
 
 Elara graduated with the highest rank ever recorded at the Academy. Her final thesis, *“Logistical Suppression in High-Density Orbital Blockades,”* was immediately classified as standard doctrine for the subsector defense forces.
 
@@ -104,8 +104,16 @@ He pointed a deactivated lightning claw at Elara.
 
 — *The Throne’s briefing, from this cycle on, passes through you. Logistics, diplomacy, bread and water. You are the voice that translates our silence. You are the eyes that see where our sights cannot reach.* — He paused, and for a second the helm’s red lens seemed to soften. — *I am the Hand that destroys. You are the Mind that preserves. Do not blink, Admiral.*
 
-**IV. Epilogue: The Link**
+**IV. Epilogue: The Link (~180.M42 · present staff lock)**
 
-Today Elara Solis commands the Outer Gate fleet. In Martha’s kitchen she is still the girl who stole biscuits. But on the command bridge she is the **Iron Venus**.
+By **180.M42**, **Elara Solis** — age thirty by parapet reckoning — commands the **Outer Gate** fleet band at **Witness Ford** approach. The words Alaric spoke on *Vigilance* at twenty-four are **operational fact**, not family exception: Throne briefing runs through her; convoy timing, diplomatic translation, and bread-and-water geometry where Astartes sights cannot reach.
 
-She is the only living creature in the entire Nihilus Imperium who may enter the Astartes *strategium* unannounced. She is the only person in the galaxy who can look at the **Versibar** in Alaric’s eyes and see only the father who shielded her from the rain. She is the only one who can set a hand on Alaric von Helis’s pauldron and remind him that beneath ceramite and gene-craft the promise to a dead mason still holds: protect the pack, whatever the cost.
+In Martha’s kitchen she is still the girl who stole biscuits. **Jonas**, on audit rotation, strikes Administratum rename slates before choke geometry becomes **crowns**. On the command bridge she is the **Iron Venus** — **shadow hold** at the ford: present enough to deter, absent enough to avoid **idol**.
+
+**Inquisitor Vane’s** final subsector audit closed without Ordo escalation; **Tyvar**’s collar and Alaric’s wall remain the second arithmetic. Present-era chronicle: [outer-gate-consolidation.md](../15-post-vigil/outer-gate-consolidation.md). Age ladder: [README.md](README.md).
+
+She is the only living creature in the entire Nihilus Imperium who may enter the Astartes *Strategium* unannounced. She is the only person in the galaxy who can look at the **Versibar** in Alaric’s eyes and see only the protector who shielded her from the rain — **father-shaped** in her heart; **protector-filed** in his. She is the only one who can set a hand on Alaric von Helis’s pauldron and remind him that beneath ceramite and gene-craft the promise to a dead mason still holds: protect the pack, whatever the cost.
+
+---
+
+**Staff filing:** Parapet **150.M42** = year 0 · **165** Wooden Sword (~**15**) · **~170** Tobias terminis (~**20**) · **~174** consecration (age **24**) · **180** Outer Gate lock (~**30**). Guilliman yard beat **not** in [17-guilliman-notes](../17-guilliman-notes/README.md) serial (public inspection vs private register).

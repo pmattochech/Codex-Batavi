@@ -88,7 +88,7 @@
 
 - [iron-venus.md](07-iron-venus/iron-venus.md) — aggregated block (short merged H1s: *The End of the Vigil*, Tyvar, Aethelgard, etc.)
 - [sanctuary-smoke-and-bread.md](07-iron-venus/sanctuary-smoke-and-bread.md)
-- [wolf-daughter.md](07-iron-venus/wolf-daughter.md) ✅ — Iron Venus arc. Includes **165.M42 | The Wooden Sword**: inspection by Guilliman, Calgar, and Helbrecht in the Nine Phalanx; Elara (~**15**) steps before the Regent; *The Root holds the stone*. Includes Tobias’s death (~**170.M42**), Alaric’s vigil, and Elara’s naval rise. **Age ladder:** [07-iron-venus/README.md](07-iron-venus/README.md).
+- [wolf-daughter.md](07-iron-venus/wolf-daughter.md) ✅ — Iron Venus arc. **165.M42** Wooden Sword (~**15**); Tobias (~**170.M42**); consecration ~**174**; **180.M42** Outer Gate present lock in epilogue. **Age ladder:** [07-iron-venus/README.md](07-iron-venus/README.md).
 - **Parapet — personal records (Drusus + Varro), frame 178.M42**
   - [record-drusus-elara.md](07-iron-venus/record-drusus-elara.md) ✅ — clinical voice; retroactive wall log + live room (*Apothecarion*); snarl, telemetry, calibrated gestures; two patients; Varro / purpose–fear; kitchen (thermal anchor, name, decibels, cortisol); growth (checkups, touch on the white sleeve, parapet, tear / Primarch recalibration); 165.M42; Tobias, antechamber (BP / pupil); Academy as load; close 178.M42.
   - [record-varro-elara.md](07-iron-venus/record-varro-elara.md) ✅ — doctrinal voice; arrival at the *Apothecarion* (snarl, *vox* to Drusus, anchoring, fear vs. purpose); Triumvirate; kitchen, name **Elara Solis**, growth beats (sleep, helm, parapet); 165.M42; Tobias; Naval Academy through reports; Malakor / close 178.M42.
