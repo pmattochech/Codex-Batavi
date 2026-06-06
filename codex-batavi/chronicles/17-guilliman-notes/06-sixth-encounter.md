@@ -134,7 +134,7 @@ Ventris replied, precise.
 
 Guilliman didn’t react outwardly. The words landed anyway; they always did.
 
-— Give me an event, Guilliman said.
+— Give me an event — Guilliman said.
 
 Ventris nodded once, as if he had been waiting for the question.
 
@@ -180,7 +180,7 @@ Ventris went on.
 
 Guilliman felt the familiar shape: the Batavi obsession with permission. The refusal to let exhaustion write doctrine.
 
-— The Crimson Fist said something, Ventris continued, and his voice tightened by a degree, — something like: “We can’t carry them. We’re not made for it.” It wasn’t cruelty. It was the arithmetic of mass and time.
+— The Crimson Fist said something — Ventris continued, and his voice tightened by a degree — something like: “We can’t carry them. We’re not made for it.” It wasn’t cruelty. It was the arithmetic of mass and time.
 
 Guilliman’s jaw tightened.
 
