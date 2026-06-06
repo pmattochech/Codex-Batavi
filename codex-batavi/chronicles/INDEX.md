@@ -2,21 +2,13 @@
 
 ## foundation-war (canonical serial)
 
-**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [legacy serial → slug map](foundation-war/legacy-map.md). **Phases 3–5 complete** (Q0 prelude + 38 chapters; staff ripple + audit). **Density pass complete** — 39 chapters, **10,343** lines, bands **364 / 285 / 264 / 260**. **Quarter hubs:** [Q0](foundation-war/Q0-prelude/INDEX.md) · [Q1](foundation-war/Q1-moon-hunt/INDEX.md) · [Q2](foundation-war/Q2-inverted-war/INDEX.md) · [Q3](foundation-war/Q3-gulf-and-beast/INDEX.md) · [Q4](foundation-war/Q4-der-batav/INDEX.md). **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
+**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [prose scaffold](foundation-war/PROSE-SCAFFOLD.md) · [legacy → slug tombstone](foundation-war/legacy-map.md). **Phases 3–5 complete** (Q0 prelude + 38 chapters; staff ripple + audit). **Quarter hubs:** [Q0](foundation-war/Q0-prelude/INDEX.md) · [Q1](foundation-war/Q1-moon-hunt/INDEX.md) · [Q2](foundation-war/Q2-inverted-war/INDEX.md) · [Q3](foundation-war/Q3-gulf-and-beast/INDEX.md) · [Q4](foundation-war/Q4-der-batav/INDEX.md). **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
 
 **Staff summary** (nine poles, phases, casualty bands, cross-links): [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md).
 
 **Drusus retrospective (in-universe, moved to staff archives):** [drusus-retrospective-aethelgard-first-quarter.md](../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md) — early Aethelgard / hunter-enclave texture; **not** canonical for troop counts (see serial + [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md)).
 
 **Design lattice (props, bans, time layers — not substitute for chapters):** [`FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md) · [`FOUNDATION-WAR-RETCON-PLANNING.md`](../planning/FOUNDATION-WAR-RETCON-PLANNING.md). **Geography lock:** [`../atlas-and-topography/castra-vetera-galactic-lock.md`](../atlas-and-topography/castra-vetera-galactic-lock.md).
-
-## 00-foundation-war (legacy archive)
-
-**Legacy numbered serial** — scene inventory / tone reference only. **Do not** treat as canonical path; use [`foundation-war/INDEX.md`](foundation-war/INDEX.md) instead. Banner: [00-foundation-war/README.md](00-foundation-war/README.md).
-
-**Legacy numbered files:** `00-foundation-war/chapter-01` … `chapter-38` — full list and prose scaffold in [00-foundation-war/README.md](00-foundation-war/README.md). **Legacy → slug map:** [foundation-war/legacy-map.md](foundation-war/legacy-map.md).
-
-**Note:** Foundation narrative canon lives in [`foundation-war/INDEX.md`](foundation-war/INDEX.md); staff summary in [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md); Drusus’s merged archive is [`drusus-retrospective-aethelgard-first-quarter.md`](../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md).
 
 ---
 

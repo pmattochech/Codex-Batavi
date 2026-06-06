@@ -1,6 +1,6 @@
 # Foundation War — saga read order
 
-**Status:** **Phases 3–5 complete** — 39 files in linear chain (Q0 + 38 chapters); retcon pipeline closed. **Density pass complete** — **10,343** lines total; bands **364 / 285 / 264 / 260** (see [README.md](README.md)). Legacy numbered serial archived under [`../00-foundation-war/`](../00-foundation-war/).
+**Status:** **Phases 3–5 complete** — 39 files in linear chain (Q0 + 38 chapters); retcon pipeline closed. **Density pass** ongoing on Q1–Q2 chain; serial bands **364 / 285 / 264 / 260** (see [README.md](README.md)). **Prose scaffold:** [PROSE-SCAFFOLD.md](PROSE-SCAFFOLD.md). Legacy numbered serial **deleted May 2026** — tombstone: [legacy-map.md](legacy-map.md).
 
 **Geography lock:** [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md) — **Insula Tenebrarum** / **Castra Vetera** mesh; planning lattice [`../../planning/FOUNDATION-WAR-RETCON-PLANNING.md`](../../planning/FOUNDATION-WAR-RETCON-PLANNING.md) **§1**, **§6**.
 

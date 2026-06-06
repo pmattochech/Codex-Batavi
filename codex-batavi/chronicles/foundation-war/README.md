@@ -23,9 +23,9 @@ Codas: **Interest → stamp line → Always owed** (or quarter-specific liturgy 
 
 **Staff annals (summary — repoint to this tree on cutover):** [`../../personae-command-index/events-and-chronologies/foundation-war.md`](../../personae-command-index/events-and-chronologies/foundation-war.md)
 
-**Legacy numbered serial (guideline prose):** [`../00-foundation-war/`](../00-foundation-war/)
+**Prose scaffold (depth contract):** [`PROSE-SCAFFOLD.md`](PROSE-SCAFFOLD.md)
 
-**Legacy ↔ slug map:** [`legacy-map.md`](legacy-map.md)
+**Legacy numbered serial:** **deleted May 2026** — file-by-file tombstone only: [`legacy-map.md`](legacy-map.md)
 
 **Geography & identity (Mar 2026 retcon):** **Insula Tenebrarum** subsector — **Castra Vetera** polity / **Nine Phalanx** mesh (**Ultima**, **Imperium Nihilus**). **Delta island:** fringe void (xenos) + **Tenebrarum Ribbon** (warp storm) vs inward **Nihilus corridor** tithe pressure. **Witness Ford** outward filter; **Iron Highways** + **Forge / Tempest / Crown Marsh Channels**. Chapter role: **wall against the tide** (filter, not rim tourism). Authoritative lock: [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). **Retired in new prose:** *Porta Nihili*, *Loken Passage*. Pole IX **Halo mouth** = **Focal Crown / Solaris–Halo theater** — not Halo Stars region.
 

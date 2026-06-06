@@ -1,6 +1,6 @@
 # Foundation War — rewrite scaffold (phases + repo structure)
 
-**Status:** workflow + structure spec. **Phases 3–5 complete** — canonical prose in [`../chronicles/foundation-war/`](../chronicles/foundation-war/); doctrine ripple + repo audit logged §Phase 5. Legacy serial archived under [`../chronicles/00-foundation-war/`](../chronicles/00-foundation-war/). **Does not** replace [`FOUNDATION-WAR-RETCON-PLANNING.md`](FOUNDATION-WAR-RETCON-PLANNING.md) (design lattice).
+**Status:** workflow + structure spec. **Phases 3–5 complete** — canonical prose in [`../chronicles/foundation-war/`](../chronicles/foundation-war/); prose scaffold [`PROSE-SCAFFOLD.md`](../chronicles/foundation-war/PROSE-SCAFFOLD.md); legacy numbered serial **deleted May 2026** (tombstone: [`legacy-map.md`](../chronicles/foundation-war/legacy-map.md)). **Does not** replace [`FOUNDATION-WAR-RETCON-PLANNING.md`](FOUNDATION-WAR-RETCON-PLANNING.md) (design lattice).
 
 **Principles (owner locks):**
 
@@ -8,7 +8,7 @@
 - **Published 38-chapter serial** = guideline for titles, CV bands, and set-piece inventory unless a deliberate retcon row says otherwise.
 - **Pole 1 visible foe:** unclassified xenos mercenary enclaves (author scaffold: **Kroot kindreds**); Imperium brief stays taxonomy-blind until earned.
 - **MoI “five tests”:** implicit in prose — never labeled as designer taxonomy; no MoI POV omniscience.
-- **Geography (Mar 2026):** **Insula Tenebrarum** / **Castra Vetera** / **Nine Phalanx** — [`../atlas-and-topography/castra-vetera-galactic-lock.md`](../atlas-and-topography/castra-vetera-galactic-lock.md). **Witness Ford**; marsh-channel triangle; **unknown** progenitor on open record. **Retired in new prose:** *Porta Nihili*, *Loken Passage*. Every `chapter.md` carries a **Geography lock** header; legacy `00-foundation-war/` is **archive only**.
+- **Geography (Mar 2026):** **Insula Tenebrarum** / **Castra Vetera** / **Nine Phalanx** — [`../atlas-and-topography/castra-vetera-galactic-lock.md`](../atlas-and-topography/castra-vetera-galactic-lock.md). **Witness Ford**; marsh-channel triangle; **unknown** progenitor on open record. **Retired in new prose:** *Porta Nihili*, *Loken Passage*. Every `chapter.md` carries a **Geography lock** header. **Prose depth contract:** [`../chronicles/foundation-war/PROSE-SCAFFOLD.md`](../chronicles/foundation-war/PROSE-SCAFFOLD.md).
 - **CV y0 arrival:** **Crash landing** on **Aethelgard Prime** after bad warp ingress (ribbon / missing chart-house data) — **Mud Gospel** opens on wreckage, not beachhead (planning **§1**, **§11.3**).
 
 ---
@@ -17,7 +17,7 @@
 
 **Canonical prose tree:** `codex-batavi/chronicles/foundation-war/` *(scaffold created: `README.md`, saga `INDEX.md`, quarter `INDEX.md` files, `legacy-map.md`, 38 `*/chapter.md` stubs with `Next:` chain).*
 
-**Legacy reference (archive):** `codex-batavi/chronicles/00-foundation-war/*.md` — do not patch for canon fixes; use `foundation-war/<quarter>/<slug>/chapter.md`.
+**Canonical reference:** `codex-batavi/chronicles/foundation-war/<quarter>/<slug>/chapter.md` · depth contract [`PROSE-SCAFFOLD.md`](../chronicles/foundation-war/PROSE-SCAFFOLD.md).
 
 **Design lattice:** `codex-batavi/planning/FOUNDATION-WAR-RETCON-PLANNING.md`
 
@@ -144,7 +144,7 @@ chronicles/foundation-war/
 
 - Create `chronicles/foundation-war/` skeleton: `README.md`, saga **`INDEX.md`**, quarter folders + quarter **`INDEX.md`** files.
 - Add optional prelude slug under `Q1-moon-hunt/`; set saga **`INDEX.md`** so read order is: **prelude (if any) → `mud-gospel` → …**
-- Legacy `00-foundation-war/` remains untouched or gets a one-line “superseded by …” banner when you cut over.
+- Legacy numbered serial **deleted May 2026**; prose contract lives in [`../chronicles/foundation-war/PROSE-SCAFFOLD.md`](../chronicles/foundation-war/PROSE-SCAFFOLD.md).
 
 **Exit gate:** By end of Q1 (`second-quarter-brief`), reader knows **why they came**, **with whom**, and that **accidents cluster** — not yet **what** the hand is.
 
@@ -158,7 +158,7 @@ chronicles/foundation-war/
 
 **Per slug workflow:**
 
-1. Copy or stub from legacy `chapter-NN-*.md` if useful.
+1. Use [`PROSE-SCAFFOLD.md`](../chronicles/foundation-war/PROSE-SCAFFOLD.md) + legacy tombstone [`legacy-map.md`](../chronicles/foundation-war/legacy-map.md) if diffing from git history.
 2. Rewrite to chat spine + Phase 0 one-liner.
 3. Append **`Next:`** footer to `chapter.md`.
 4. Register expansions in quarter `INDEX.md`.
@@ -216,4 +216,4 @@ Grep / read checklist — **May 2026 pass (repo-wide):**
 
 ## Maintainer note
 
-When this scaffold and the new tree supersede the legacy serial, add a short banner at the top of [`../chronicles/00-foundation-war/`](../chronicles/00-foundation-war/) `README` or first chapter file pointing to **`chronicles/foundation-war/INDEX.md`** — do not delete legacy prose until owner confirms.
+Legacy numbered serial under `chronicles/00-foundation-war/` was **deleted May 2026** after migration audit. Canonical read order: [`../chronicles/foundation-war/INDEX.md`](../chronicles/foundation-war/INDEX.md). Prose depth contract: [`PROSE-SCAFFOLD.md`](../chronicles/foundation-war/PROSE-SCAFFOLD.md). Tombstone map: [`legacy-map.md`](../chronicles/foundation-war/legacy-map.md).

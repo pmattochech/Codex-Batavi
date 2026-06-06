@@ -1,6 +1,8 @@
 # Foundation War — legacy serial → slug map
 
-**Geography (new prose):** [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Legacy numbered files may retain pre-retcon place-names until individually rewritten.
+**Status:** Legacy numbered files under `chronicles/00-foundation-war/` were **deleted May 2026** after migration audit. This table is a **tombstone** for git history, Notion IDs, and old links. Canonical prose: [`INDEX.md`](INDEX.md). **Prose scaffold:** [`PROSE-SCAFFOLD.md`](PROSE-SCAFFOLD.md).
+
+**Geography (canonical prose):** [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md).
 
 | Legacy file (`00-foundation-war/`) | New path |
 |---:|---|

@@ -6,7 +6,7 @@
 
 **Primary narrative path (rewrite workspace):** read order and slug folders — [`../../chronicles/foundation-war/INDEX.md`](../../chronicles/foundation-war/INDEX.md) · [`../../chronicles/foundation-war/README.md`](../../chronicles/foundation-war/README.md) · [`../../chronicles/foundation-war/legacy-map.md`](../../chronicles/foundation-war/legacy-map.md). **Serial status:** 39-chapter density pass **closed** — **10,343** lines on band (see README band table). **Rewrite scaffold:** [`../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md).
 
-**Legacy guideline prose (numbered serial — archive):** [`../../chronicles/00-foundation-war/`](../../chronicles/00-foundation-war/) — superseded as **canonical path**; deep prose lives in [`../../chronicles/foundation-war/`](../../chronicles/foundation-war/). Use legacy files for scene inventory and diff reference only.
+**Canonical prose:** [`../../chronicles/foundation-war/`](../../chronicles/foundation-war/) — slug tree + [`PROSE-SCAFFOLD.md`](../../chronicles/foundation-war/PROSE-SCAFFOLD.md). Legacy numbered serial **deleted May 2026**; tombstone map: [`legacy-map.md`](../../chronicles/foundation-war/legacy-map.md).
 
 **In-universe Drusus lens** (early Aethelgard texture — **legacy figures**): [`drusus-retrospective-aethelgard-first-quarter.md`](drusus-retrospective-aethelgard-first-quarter.md).
 
@@ -139,7 +139,7 @@ Read in saga order: [`../../chronicles/foundation-war/INDEX.md`](../../chronicle
 
 ### Legacy numbered serial (archive)
 
-Scene inventory / diff reference only: [`../../chronicles/00-foundation-war/`](../../chronicles/00-foundation-war/) (banner: [`README.md`](../../chronicles/00-foundation-war/README.md)). File-by-file map: [`../../chronicles/foundation-war/legacy-map.md`](../../chronicles/foundation-war/legacy-map.md).
+Legacy tombstone (numbered serial deleted May 2026): [`../../chronicles/foundation-war/legacy-map.md`](../../chronicles/foundation-war/legacy-map.md).
 
 ---
 
