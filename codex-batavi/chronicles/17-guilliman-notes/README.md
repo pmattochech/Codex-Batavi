@@ -47,7 +47,7 @@ Chronicle speech uses **em-dash framing** per [`.cursorrules`](../../../.cursorr
 
 | Status | File |
 |--------|------|
-| **Done** | [01-first-encounter.md](01-first-encounter.md) · [02-second-encounter.md](02-second-encounter.md) · [03-third-encounter.md](03-third-encounter.md) |
-| Pending | 04–10 |
+| **Done** | [01-first-encounter.md](01-first-encounter.md) · [02-second-encounter.md](02-second-encounter.md) · [03-third-encounter.md](03-third-encounter.md) · [04-fourth-encounter.md](04-fourth-encounter.md) · [05-fifth-encounter.md](05-fifth-encounter.md) |
+| Pending | 06–10 |
 
 **Pattern:** mid-line tag → `— speech — Tag said — speech`; tag ends turn → `— speech — Tag said.` then new line `— Next speech.`

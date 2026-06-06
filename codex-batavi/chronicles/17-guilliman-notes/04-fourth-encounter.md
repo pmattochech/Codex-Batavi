@@ -36,7 +36,7 @@ Alaric did not deny it.
 
 Guilliman nodded once. The sealed briefs had called it exchange, but the way the Batavi practiced it was closer to controlled exposure — deliberate, audited contact with other cultures, taking what survived scrutiny and discarding the rest.
 
-— Salamanders, Guilliman said.
+— Salamanders — Guilliman said.
 
 Alaric’s reply came without pride.
 
@@ -52,7 +52,7 @@ Alaric did not reach for ideology.
 
 The words landed quietly and still managed to change the room. Guilliman felt the shift, not in the air but in the shape of the conversation. The Strategium did not like this subject. That was precisely why it mattered.
 
-— Many Chapters claim that, Guilliman said. — Few survive it.
+— Many Chapters claim that — Guilliman said. — Few survive it.
 
 Alaric answered.
 
@@ -92,7 +92,7 @@ Alaric did not react.
 
 Guilliman’s expression tightened. He understood. He also distrusted how cleanly the sentence fit. Clean sentences were dangerous. They tempted men to stop thinking.
 
-— Your exchanges are a controlled infection, Guilliman said.
+— Your exchanges are a controlled infection — Guilliman said.
 
 Alaric did not deny it.
 
@@ -106,7 +106,7 @@ Alaric answered.
 
 — We absorb what proves its valor.
 
-— And you do not fear dilution, Guilliman pressed.
+— And you do not fear dilution — Guilliman pressed.
 
 Alaric’s reply came like a line on a map.
 
@@ -138,7 +138,7 @@ Alaric’s voice remained level.
 
 Guilliman nodded once. A primarch’s nod was not agreement. It was an admission that the datum existed.
 
-— It is a risk, Guilliman said. — A leverage point.
+— It is a risk — Guilliman said. — A leverage point.
 
 Alaric did not deny it.
 
@@ -180,7 +180,7 @@ Alaric’s voice stayed spare, but the meaning deepened.
 
 Guilliman felt something shift inside him — an old memory of the Great Crusade, of compliance worlds that mistook silence for cruelty, of legions that believed the solution was spectacle.
 
-— And you allow this readability to exist in one room, Guilliman said.
+— And you allow this readability to exist in one room — Guilliman said.
 
 — Yes.
 
@@ -240,7 +240,7 @@ Alaric’s reply came after a pause that felt like restraint imposed on somethin
 
 Guilliman held still. He had seen translation layers before: remembrancers, iterators, compliance officials. He had also seen what happened when the translator became an idol.
 
-— That is a risk, Guilliman said.
+— That is a risk — Guilliman said.
 
 Alaric answered.
 
@@ -264,7 +264,7 @@ Alaric answered with a truth that did not try to be noble.
 
 Guilliman’s jaw tightened. There it was — the central cruelty of the era he had awoken into. Not good choices and bad choices. Only choices that kept something alive and choices that killed it cleanly.
 
-— Viggo, Guilliman said.
+— Viggo — Guilliman said.
 
 Alaric’s stillness tightened. It was small. It was enough.
 
@@ -312,7 +312,7 @@ Another pause, quieter.
 
 The Strategium did not change. Guilliman did. The slightest shift of posture, the smallest human admission: that he was not only judging whether the structure could stand, but whether it deserved to.
 
-— Tell me the truth, Guilliman said. — Is it doctrine.
+— Tell me the truth — Guilliman said. — Is it doctrine.
 
 Alaric did not answer immediately.
 
@@ -340,7 +340,7 @@ Alaric did not deny it.
 
 — Yes.
 
-— And it is also you, Guilliman added, more quietly than before. — Despite everything.
+— And it is also you — Guilliman added, more quietly than before. — Despite everything.
 
 Alaric’s helm remained forward.
 
@@ -374,7 +374,7 @@ Guilliman held the silence for a moment longer, then delivered his constraint �
 
 Alaric did not move.
 
-— Your kitchen will remain untouched by policy, Guilliman said. — Not because I romanticize it.
+— Your kitchen will remain untouched by policy — Guilliman said. — Not because I romanticize it.
 
 A pause.
 
@@ -408,7 +408,7 @@ Alaric spoke.
 
 Guilliman did not smile. He did not soften. He simply nodded once, as if marking the answer into an internal ledger he would carry into future audits.
 
-— Then do not let them become your excuse, Guilliman said.
+— Then do not let them become your excuse — Guilliman said.
 
 Alaric answered with a vow that refused ornament.
 

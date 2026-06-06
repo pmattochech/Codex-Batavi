@@ -70,7 +70,7 @@ Guilliman’s brow tightened.
 
 — That is an apothecary’s answer.
 
-— It is the only answer that survives contact with time, Drusus replied.
+— It is the only answer that survives contact with time — Drusus replied.
 
 Varro spoke without moving.
 
@@ -88,7 +88,7 @@ Guilliman’s eyes narrowed.
 
 — And the risk.
 
-— Cultural contamination, Drusus said. — And cultural atrophy without it.
+— Cultural contamination — Drusus said. — And cultural atrophy without it.
 
 Guilliman turned slightly toward Varro.
 
@@ -110,7 +110,7 @@ Guilliman’s gaze sharpened.
 
 — You measure “human continuity” as if it were a reagent.
 
-— It is, Drusus said. — A stabilizer. Also an accelerant, if mishandled.
+— It is — Drusus said. — A stabilizer. Also an accelerant, if mishandled.
 
 Varro added, almost gently.
 
@@ -132,7 +132,7 @@ Guilliman watched him.
 
 — You make it sound like a containment tank.
 
-— It is, Drusus said. — In function.
+— It is — Drusus said. — In function.
 
 Guilliman turned to Varro.
 
@@ -160,7 +160,7 @@ Drusus answered immediately.
 
 The honesty landed like a bolt round. Guilliman did not flinch, but the air did.
 
-— That is a weakness, Guilliman said.
+— That is a weakness — Guilliman said.
 
 Drusus corrected without emotion.
 
@@ -198,7 +198,7 @@ Varro replied without hesitation.
 
 — Yes.
 
-— Why, Guilliman pressed.
+— Why — Guilliman pressed.
 
 Varro’s voice stayed level.
 
@@ -220,7 +220,7 @@ Guilliman held his gaze on Drusus.
 
 — Yet you accept it.
 
-— Yes, Drusus said. — Because there is no safe configuration.
+— Yes — Drusus said. — Because there is no safe configuration.
 
 Guilliman took a breath, then stepped into the subject that had weight enough to snap weaker men.
 
@@ -284,7 +284,7 @@ Guilliman’s eyes narrowed.
 
 — That is your language.
 
-— Yes, Drusus said. — It is accurate.
+— Yes — Drusus said. — It is accurate.
 
 Varro’s voice came like a thin blade.
 
@@ -390,7 +390,7 @@ A pause.
 
 Guilliman did not react with discomfort. He reacted with attention.
 
-— Then answer me this, Guilliman said, voice quiet and hard.
+— Then answer me this — Guilliman said, voice quiet and hard.
 
 — When he broke his own rule for me — when he gambled with exposure — was that weakness, or strength.
 
@@ -426,7 +426,7 @@ A pause.
 
 Guilliman held still. He understood. He did not like how much he understood.
 
-— And can he keep that distinction clean, Guilliman asked.
+— And can he keep that distinction clean — Guilliman asked.
 
 Drusus answered.
 
@@ -450,7 +450,7 @@ Guilliman’s eyes narrowed.
 
 — Because of the Wolf’s Curse.
 
-— Because of what he costs, Drusus corrected. — Because of what the Chapter becomes when it thinks it can outsource its conscience to one wall.
+— Because of what he costs — Drusus corrected. — Because of what the Chapter becomes when it thinks it can outsource its conscience to one wall.
 
 Varro spoke, quieter.
 
