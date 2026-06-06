@@ -12,8 +12,6 @@
 
 ---
 
-## I. Mud Worn Into Greaves
-
 South rotation had arrived with mud worn into greaves like scripture worn into thumbs — clay that remembered each step and refused polish, the kind of dirt that outlasted claims of *forward march* on parchment. The Batavi column had crossed the same ridges twice on purpose, punishing prediction until even stalker cadence looked bored; mud did not care about doctrine. It clung. It testified.
 
 When the command tent rose for the Quarter close, pegs bit into ground that still tasted like vein-mud from the wreck-beaches, and the canvas smelled of mildew, lamp oil, and the metallic honesty of wet plasteel — war’s perfume, bottled.
@@ -36,10 +34,6 @@ Alaric turned his helm one degree. One degree was enough to end sentences.
 
 Rothmar sat back. The lesson cost him nothing but pride, and pride, on Aethelgard, was cheaper than blood only until it wasn’t.
 
----
-
-## II. Mausoleum Built From Integers
-
 Still, when the Apothecary stepped to the lectern line his voice carried an extra grain of stone, as if his throat had been scored by the comparison he had almost proven on an auspex overlay and refused to waste on gossip. He did not clear his *vox*-grille. He did not offer preamble. Casualty ledgers do not weep; they sum.
 
 He read the First Quarter close in High Gothic scrubbed to the bone because poetry belonged to survivors, and the Apothecarion owed the living the insult of clarity.
@@ -61,10 +55,6 @@ He let the hololith stack columns into a city you could walk through if you hate
 **Sergeant Kessler** sat third row with hands bandaged from Pier cordon labor and firebase shame — fabric tight, knuckles dull beneath wraps, the small indignities of a body that kept working even when the mind wanted to abdicate. Her eyes stayed forward like someone who had decided not to die of embarrassment because deaths cheaper than hers still needed a mind awake enough to count them. When Drusus paused on mirror-route casualties her jaw flicked once — not theater, *tally* — the small fidelity of a sergeant who could not unlearn names once she had carried them through mud.
 
 Death’s section ended; **continuation** began, and the tent exhaled the way a lung exhales after holding breath too long.
-
----
-
-## III. Double-Stamp Manifests
 
 **Valerius** stepped to the slate and pinned miracles to paper in a dry voice that made miracles sound like duty: rations by tonnage, propellant by crate, medicae throughput measured in wounded per hour and the cruel conversion of *hour* into *survival*. He spoke repair torques on auspex arrays **Threx**’s people had *calibrated* twice and stolen honesty from once — language mild enough for a Quarter close, sharp enough to make Mechanicus liaisons shift in their seats.
 
@@ -97,10 +87,6 @@ The liaison wrote nothing down. Writing would have admitted fear. Fear, in admir
 
 Drusus advanced the hololith one more notch — routes south, embarkation windows, the color-coding of Marine lifts versus auxilia holds — until the projection looked less like a mausoleum and more like a machine designed to move grief efficiently. Kadmos murmured a correction to a rally grid; Varro did not murmur; Alaric nodded once, the economy of motion that meant *yes* and *no* at once, and the captains copied the nod the way children copy adults when they do not understand the lesson but understand the danger of misunderstanding.
 
----
-
-## IV. Two Wars With One Cord
-
 At the tent flap rain worked percussion on Aethelgard’s eternal grudge. **Iria** stood half in and half out of the lamplight, watching night-birds flee the floodline — creatures too small for auspex and honest in their panic.
 
 — Hunters withdraw when the world grows too loud — she said, neither quite to Alaric nor quite to herself. — Soldiers remain — because duty is a smell.
@@ -118,10 +104,6 @@ Kadmos pulled him aside before the flap dropped — channel narrow, voice flat.
 Alaric heard without turning. Hearing was enough. Answering would have made schism **policy** before Incus taught them what trust eaten from within felt like.
 
 **Varro** stood at the tent’s dark edge, *Codex* death-skull catching lamplight wrong, and listened to Iria’s sentence settle into the room like ash — hunters withdraw, soldiers remain — without adding theology. Theology would have turned schism into **sermon**. He filed the shape of it instead: *two dialects; one cord; cut into ledgers* — margin only, Triumvirate eyes, sequence not prophecy.
-
----
-
-## V. Seal on Deployment Order
 
 They struck camp to the romance of logistics: pitons pulled, *vox*-relays spooled, mortals lifted onto transports with the careful brutality of shepherds who know sheep still matter when wolves are statistical.
 
@@ -141,21 +123,13 @@ He nodded once. She nodded once. Two nods, no audience, enough receipt for a qua
 
 Rain worked the tent flap like a metronome Aethelgard refused to charge for. Somewhere inland, Type **B** cadence still marched — soldiers remaining while hunters withdrew, two dialects on one cord — and the quarter closed knowing Incus would teach them what trust eaten from within felt like when quotas sang in rounds and midwives counted beside throughput charts.
 
----
-
-## VI. First Named Cord-Cut — Cross-File
-
-Drusus entered **Kaell** into the Versibar appendix as **first named cord-cut** — not last — and cross-filed the entry to the sealed Pier Nine trace the way a clinician ties lesions to a single vector: not proof, *continuity*. The tap of his stylus sounded louder than it should have in the damp air. He closed the slate, then opened it again to confirm the cross-file had saved, because some fears were not spiritual; they were clerical.
+Before canvas fell for good, Drusus entered **Kaell** into the Versibar appendix as **first named cord-cut** — not last — and cross-filed the entry to the sealed Pier Nine trace the way a clinician ties lesions to a single vector: not proof, *continuity*. The tap of his stylus sounded louder than it should have in the damp air. He closed the slate, then opened it again to confirm the cross-file had saved, because some fears were not spiritual; they were clerical.
 
 He appended a one-line cross-ref to the mirror-route annex stub — *Sigma-Black; harmonic coupling watch; Incus ingress* — not as prophecy, as **sequence**: first mud, then glass, then hive ash, then whatever mathematics preferred when it stopped pretending to be weather.
 
 **Kessler** passed the Kaell filing on peripheral hearing and did not ask questions. Questions would have turned correlation into **oracle**. She counted embarkation mouths instead — rebreathers, hands, canteens — because counting was the only vaccine that had never lied to her yet on beaches, in Ring tubes, on spines where silence zones would later price throats in chalk ticks.
 
 Varro breathed a bind so low it might have been wind — *let what ends here not echo where we go* — and dipped his *Codex* death-skull a fraction as the flap dropped, sealing lamplight inside canvas and rain outside canvas, as if the world could be partitioned that cleanly. It could not. Everyone knew it. They partitioned anyway.
-
----
-
-## VII. Braid — Not One War
 
 Outside, the second quarter opened under roofs that pretended they were not mouths, and **Incus** waited to teach trust eaten from within while the Chapter carried Moon Hunt mud another hundred miles into a war that pretended cleanliness could follow if they marched fast enough.
 
@@ -166,10 +140,6 @@ Alaric stood one minute longer on the duckboards where the tent had stood, boots
 He looked south toward hive-light the auspex said was still days away and thought of Iria’s sentence — duty as a smell — and of Kaell’s laughter steaming in rain, and of forty-six void gaps that had taught them instrumentation could lie while mud remained literal.
 
 The Moon Hunt was **closed** on paper. On Aethelgard’s skin it would linger like oil on the Black Fan: visible only when the light hit wrong, persistent when you wished it gone. Type **B** cadence still marched inland — soldiers remaining while hunters withdrew — schism filed in parallel columns because merge was how convoys choked.
-
----
-
-## VIII. Second Syllabus Begins
 
 He turned toward the embarkation line. The second syllabus had already begun.
 
