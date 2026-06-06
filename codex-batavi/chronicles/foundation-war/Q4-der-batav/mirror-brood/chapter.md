@@ -13,8 +13,6 @@
 
 ---
 
-## I. Glass Learns Kinship
-
 After Aethelgard named them — after **tide-name witness** and **Batavi cognomen emergent** hit Navy channels like salt in open wound — void asked for different kind of literacy, and **Silica** answered.
 
 Field — **mirror** highways strung through glittering wrongness — had always been liar in honest clothing, what you saw *true* and *false* in same breath depending on **angle**, and now it lied **again** with biology riding optics because **reflection geometry** suited **brood** nests the way cathedrals suited echo.
@@ -30,10 +28,6 @@ Merit’s clerks aimed *throughput recovery lenses* at sealed lockouts until Kes
 Sera paired fiber through duplicate trunks behind blast doors — red for *call*, blue for *ghost* — because harmonics ate one line and called it *routing optimization* while custody still breathed on second.
 
 Echo pressed chaplain seams where binds thinned — Triumvirate seal still **narrow** — and Varro refused spectacle. Executor wolf-skull present as infrastructure while litanies shortened until boredom stayed shield against **folk liturgy** fermenting in mirrored bulkheads.
-
----
-
-## II. Convoy as Triage
 
 Drusus’s margins carried **sequence**, not prophecy — *brood harmonics may rhyme with archive coupling; treat tremor patterns as debt until sustained across three intervals; do not merge trust-debt indices with sympathy spikes* — because naming hunger early only fed it cleaner meals on glass.
 
@@ -59,10 +53,6 @@ Marines scrubbed ceramite dull — **glare discipline** — until polish stopped
 
 Apothecarion interns practiced distinguishing **Exanimus** drift from optic poisoning — **rhyme** permitted in margins; **oracle** burned — until juniors stopped mistaking adrenaline for prophecy when scopes lied politely.
 
----
-
-## III. Chalk and Knuckle — Do Not Answer Your Name
-
 **Sergeant Kessler** walked auxilia lines with chalk and knuckle-rap codes resurrected from Vitreus and gulf — because mirrors punish **eyes** first — until men stopped answering their own names when reflection answered first.
 
 Three fingers for *hold*. One for *do not look at bulkhead like it is mirror* — bridge lesson that had outlived every pole it was born on.
@@ -85,10 +75,6 @@ Santo hauled purge crates until shoulders learned **interest**. Mira kept two in
 
 Children behind crates drew arrows until parents scrubbed them away. Kessler forbade Merit pict rigs near mirrored bulkheads because *comfort* could become **folk liturgy** faster than blast doors could seal when glass smiled.
 
----
-
-## IV. Mirror Pilots — Burn the Glass
-
 **Mirror pilots** — men and women who had learned to fly lies and call it navigation — sacrificed ships like saints offering **eyes**.
 
 **Burn the glass. Kill the reflection.**
@@ -98,10 +84,6 @@ Trading hull integrity for second of **clean** signal, void where brood’s geom
 They died without poetry mostly because poetry belongs to survivors and pilots know that better than bard-guilds.
 
 When brood **broke**, it broke **dirty** — not defeat performed in banners but rupture, bodies in places bodies should not be, reflections continuing for half heartbeat after glass died, trust unrecoverable even among living because **doubt** had become smart — while Silica kept glittering, innocent as blade wiped and resheathed, and Chapter kept moving, which was only romance left in mirror war: **forward**, even when mirror still showed something walking beside you that was not **friend**.
-
----
-
-## V. Threx Screams Compliance — Drusus Says Yes
 
 **Threx** — redemption and damnation braided in same cable — stood in **hangar** lit by emergency wash and screamed at **cogitator** stack as if volume could indict machine-spirits, roaring that ***Compliance*** built this corridor, ***compliance*** widened lane, ***compliance*** made reflection **rich enough** for nest — accusation part truth and part terror, which is how heresy disguises itself as **insight**.
 
@@ -121,10 +103,6 @@ Somewhere aft, **Sigma bleed** flirted with duplicate thermal return until junio
 
 Valerius did not descend to argue with volumes. His stamp traveled on paper instead — **double-stamp** on discharge tag that refused to merge **rage** with **throughput**, two debts acknowledged without pretending one paid other.
 
----
-
-## VI. Geometry Over Pity
-
 **Genetor’s** hands **shook** over sampler that had become **temptation** dressed as duty until Apothecary’s hands — Drusus’s hands, steadied by practice older than this war — **steadied** them in strange **liturgy** that was not prayer but **restraint** translated through palms.
 
 — You will not manufacture second front inside my work — Drusus said, without theatrics, only **pressure**.
@@ -141,10 +119,6 @@ She traded **active silence** with engineers tempted to KPI lockdown — silence
 
 Wind off tether tasted like ozone and cold sugar. She breathed it anyway — breathing proved somebody still negotiated with bodies instead of only with yield curves.
 
----
-
-## VII. Trust Debt — Smart Enough to Hurt
-
 Triumvirate briefings shrank to minutes — minutes meaning lives — especially when Echo listened for seams in cable-hum, **tide**-shaped harmonics, and reflection-grilles pretending neutral while brood harmonics climbed without stars changing.
 
 Casualty boards filled twice — once for flesh beside glass and flame, once for minds bent before hearts broke — because **witness priority** demanded honesty uglier than slides wearing *acceptable variance* like lipstick — honesty nobody could salute cleanly, only **hold**.
@@ -160,10 +134,6 @@ Drusus appended closing margin for translation burn — *mirror-brood coupling m
 Valerius stamped embarkation slate toward **Prism War** twice — once for ceramite continuity under **glare discipline**, once for mortal chains still solvent — because prisms taxed both ledgers.
 
 Strategium filed **Silica mirror-brood nest collapsed; trust debt elevated; convoy doctrine revision mandatory** — dry words doing only mercy they know: making tomorrow admit what glass **ate**.
-
----
-
-## VIII. Iron That Stayed — Reflection Walks Beside
 
 Trust had become smart enough to hurt — and **witness priority** had been born in silence zones where Varro’s curved routes saved names the straight line would have erased, the same grammar Silica now tested with glass that smiled with wrong teeth.
 
