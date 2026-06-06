@@ -91,9 +91,7 @@ He logged *possible synchronization — environmental* because *possible possess
 
 Drusus sealed the line with *Triumvirate only* until permission could be defined without surrender.
 
-**Kadmos** ordered blind-fire protocols and hated himself for it — obscene on any parade ground that still believed in saints — because Sera’s reflections ambush proved eyes taxed both ledgers before left-is-not-left hid teeth at Vitreus corridor lip.
-
-**Merit** steadied her slate on catwalk — witness without applause — because blind-fire was debt glass overture would spend when Sigma-Black sympathy climbed in margins like pupil geometry before inheritance had a name.
+**Merit** steadied her slate on catwalk — witness without applause — because blind-fire was debt Vitreus would spend when Sigma-Black sympathy climbed in margins like pupil geometry Pier Nine had auditioned on bone rails.
 
 ---
 
@@ -157,13 +155,7 @@ Somewhere below decks, a serf whispered that the sea was praying. **Varro** pass
 
 Morning came as a brighter insult: flare-line crawling the horizon like a wire pulled through skin.
 
-**Sera** tapped Kadmos’s pauldron once — permission, warning, both — and said:
-
-— We go again.
-
 They went. The glass pretended to be water. The water pretended to be sky. The Chapter pretended to be unafraid, which was the oldest strategy in war and still the most costly.
-
-**Threx** logged deferment on every salvage window Drusus denied — interest calculating whether refusal was pride or wisdom — while **Merit**’s lamp threw honest circles on spray and **Kadmos** clipped gain until transcripts stayed ugly enough to survive tribunals.
 
 ---
 
@@ -175,7 +167,7 @@ They moved — not as charge, as *repositioning*: the ugly romance of adults who
 
 **Sera** guided the withdrawal along a trough where reflections stacked **thin** — not safe, only *less dishonest* — while **Varro** walked backward among the rear guard, Executor skull a fixed point mortals could aim fear at instead of aiming fear at each other.
 
-**Merit**’s recorder lamp threw a small honest circle on spray — *witness routes only* — until Kadmos clipped her gain and made her transcript ugly on purpose. Ugly transcripts survived tribunals better than beautiful ones; beauty was how arrays learned to eat faces.
+**Merit**’s recorder lamp threw a small honest circle on spray — *witness routes only* — until **Kadmos** clipped her gain and made her transcript ugly on purpose. Ugly transcripts survived tribunals better than beautiful ones; beauty was how arrays learned to eat faces.
 
 **Drusus** counted pulses aloud until counting became metronome; metronome became proof the squadron still owned **time**, even when Vitreus insisted time was light and light was lie.
 
@@ -183,73 +175,39 @@ Behind them, the glass sea kept its appointment with the sun. Ahead, **Incus-Gra
 
 For now, Vitreus taught what it taught: that clarity is a flame, and flames do not negotiate with what they eat.
 
-**Threx** offered *sanctified route telemetry* on a channel Drusus had not blessed; Alaric refused without theater — *No Mechanicus ghosts in my auspex stack during clarity geometry* — and the refusal traveled through **Lex Ignis** feeds as *Chapter mysticism* until Valerius stamped *witness routes only* beside the mute log. Threx swallowed hatred because swallowing meant invoices; **Merit** tried to clip a recorder to **Sera**’s harness until Kessler broke the mount and Valerius stamped **NON-COMPLIANT** before the first glare could invoice a diver’s empty sockets.
+**Threx** offered *sanctified route telemetry* on a channel Drusus had not blessed; **Alaric** refused without theater — *No Mechanicus ghosts in my auspex stack during clarity geometry* — and **Valerius** stamped *witness routes only* beside the mute log.
 
-**Drusus** appended a final margin note before translation burn — *Sigma-Black harmonic sympathy elevated; monitor both poles on ingress* — not as prophecy, as **sequence**, because sequences were how you kept mirrors from pretending they were unrelated accidents.
+**Merit** tried to clip a recorder to **Sera**’s harness until **Kessler** broke the mount and **Valerius** stamped **NON-COMPLIANT** before glare could invoice a diver’s empty sockets.
 
-**Valerius** stamped the embarkation slate twice: once for Marines, once for divers paid in full, because double-stamping was how you told the void which debts had been settled and which would follow them home.
+**Drusus** appended a final margin note before translation burn — *Sigma-Black harmonic sympathy elevated; monitor both poles on ingress; treat tremor rhyme as environmental false-positive unless sustained; DO NOT MERGE with Pier Nine pupil trace* — sequence, not prophecy.
 
-Alaric watched the glass horizon one last time and thought of Iria still deferred, of Pol’s seed beside blood, of Merit’s lamp and Varro’s two shadows in the vault — all of them **witnesses** to different kinds of light that refused to mean what they appeared to mean.
+**Valerius** stamped embarkation toward **Tertius Anvil** twice — Marine continuity beside diver hazard rates paid in full — because double-stamping was how you told the void which debts had been settled.
 
-**Sera** — cheeks salt-scarred, smile absent — taught one last auxilia squad *left is not left* before embarkation, and **Kadmos** wrote the ugly honesty into a range card: **Cheaper** — compass where needles burned.
+**Sera** taught one last auxilia squad *left is not left* before embarkation; **Kadmos** wrote the ugly honesty into a range card: **Cheaper** — compass where needles burned.
 
-**Santo** scrubbed blood from his knuckles on the beach lip without looking at reflections — witness without applause — while **Mira** kept two ink colors on the same knuckle and refused merges the way Valerius refused merges upstairs.
-
-**Drusus** sealed the Sigma-Black sympathy margin one last time — *monitor both poles on ingress; treat tremor rhyme as environmental false-positive unless sustained* — and felt the old itch from Pier Nine return: pupil geometry tracking rank before inheritance had a name.
-
-He did not say *We hold.* On Vitreus, holding meant refusing to stand where the lens wanted you to stand — and living with the corridor you had sealed to buy distance.
-
-**Drusus** sealed the Sigma-Black sympathy margin one last time — *monitor both poles on ingress; treat tremor rhyme as environmental false-positive unless sustained* — and felt the old itch from Pier Nine return: pupil geometry tracking rank before inheritance had a name.
-
-**Sera** taught *left is not left* one last time before embarkation; **Kadmos** wrote **Cheaper** into a range card — compass where needles burned — and **Merit**’s lamp threw a small honest circle on spray until Kadmos clipped her gain and made her transcript ugly on purpose. Ugly transcripts survived tribunals better than beautiful ones; beauty was how arrays learned to eat faces.
-
-**Alaric** stood at Vitreus egress one minute after corridor sealed and did not remove his helm — continuity, not spectacle — while Sigma-Black sympathy climbed in hololith margins like pupil geometry tracking rank before inheritance had a name. On Vitreus, holding meant refusing to stand where the lens wanted you to stand — and living with the corridor you had sealed to buy distance.
-
-**Varro** traced ash on the spray baffle where echo wanted permission — not prayer, **inventory** — death-skull geometry until Exanimus vault earned Executor jawline, ***licentia lupina*** written in advance so wolf-skulls multiplied only where the **Judex** chose extension.
-
-**Valerius** stamped embarkation toward **Tertius Anvil** twice — Marine continuity beside mortal payroll still breathing — because hyper-G would tax both ledgers when mass became verdict.
-
-Tertius waited. Hyper-G. Mass as verdict. Brood sovereignty inches from coronation.
-
-**Drusus** sealed the Vitreus buffer one last time — *left is not left; monitor both poles; treat echo permission-seeking as hostile flirtation* — and felt Sigma-Black sympathy climb in margins like pupil geometry before inheritance had a name. Sequence, not prophecy. Triumvirate first.
+**Varro** touched the sealed corridor baffle once — no ritual, only contact — and filed left-is-not-left as proto-rite: seal attempted, not victory.
 
 **Kessler** walked the spray deck one last time with auxilia who had learned colors before names — red for *call for help*, blue for *do not call for the wrong help* — and did not praise them. Praise turned left-is-cheaper into **theater**.
 
-Left was cheaper. Echo wanted permission. The corridor they had sealed would buy distance at interest the anvil would collect in mass-as-verdict.
-
-Spray forgot motion on Vitreus egress until arrays looked like peace — peace another word for **left is not left** hiding teeth where echo permission-seeking wore hostile flirtation like weather institutions preferred to confession.
-
-**Merit** tried once to clip a recorder to the spray hololith until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as Vitreus nostalgia packages.
-
-**Alaric** stood at spray lip one minute after corridor sealed and did not remove his helm — continuity, not spectacle — while Sigma-Black sympathy climbed in hololith margins like pupil geometry tracking rank before inheritance had a name.
-
-**Varro** touched the sealed corridor baffle once — no ritual, only contact — and filed left-is-not-left as proto-rite: seal attempted, not victory, because echo permission-seeking wore hostile flirtation like weather institutions preferred to confession.
-
-**Santo** adjusted crate strap at spray deck and did not look at hololiths naming *left-is-cheaper*. Looking would have turned egress into spectacle before Tertius taught thighs rebuilt by slopes.
-
-**Valerius** stamped toward **Tertius Anvil** twice — Marine continuity beside mortal payroll still breathing — because Sigma-Black sympathy climbed in margins like pupil geometry before inheritance had a name and mass would arrive as verdict.
-
-**Drusus** sealed glass-overture margin — *Sigma bleed; treat as environmental false-positive unless sustained across three intervals; DO NOT MERGE with Pier Nine pupil trace* — hope dressed as procedure because glass lied politely before hyper-G taught shame that stayed honest.
-
-
-**Kadmos** posted glass cordon one meter deeper — geometry as insurance — because left was not left and echo permission-seeking wore hostile flirtation like weather before Vitreus taxed both ledgers.
-
-
-**Iria** breathed active silence at Vitreus egress — refusal to let convenience rename sacrifice as virtue — because left-is-not-left hid teeth where permission-seeking wore hostile flirtation like weather.
+**Orwen** filed Vitreus timestamps without adjectives — ranges, no metaphors.
 
 **Echo** listened at spray baffle for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing Sigma bleed as sequence before Tertius Anvil named mass as verdict.
 
-**Orwen** filed Vitreus timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than left-is-not-left dressed as reconciliation packages.
+**Threx** logged *Sigma bleed* beside *sampling window favorable* — Mechanicus grief wearing numbers when it could not wear shame.
 
-**Threx** logged *Sigma bleed* beside *sampling window favorable* — Mechanicus grief wearing numbers when it could not wear shame — while hyper-G waited to teach mass as verdict on Tertius shingle not yet filed.
+**Santo** scrubbed blood from his knuckles on the beach lip without looking at reflections — witness without applause — while **Mira** kept two ink colors on the same knuckle and refused merges the way Valerius refused merges upstairs.
 
+**Iria**’s deferment still blinked on slates — schedule, not cruelty — while fire had not finished teaching honesty about appetite.
 
+**Alaric** watched the glass horizon one last time and did not say *We hold.* On Vitreus, holding meant refusing to stand where the lens wanted you to stand — and living with the corridor you had sealed to buy distance.
 
+Left was cheaper. Echo wanted permission. The corridor they had sealed would buy distance at interest the anvil would collect in mass-as-verdict.
 
+Tertius Anvil waiting. Hyper-G. Mass as verdict.
 
 Interest collecting teeth before receipts.
 
-Left is cheaper. Echo wants permission. Double-stamp embarkation.
+Left is cheaper. Echo wants permission. Sigma-Black sympathy elevated. Tertius Anvil waiting.
 
 Always owed.
 
