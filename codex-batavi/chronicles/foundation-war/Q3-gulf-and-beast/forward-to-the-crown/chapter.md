@@ -13,8 +13,6 @@
 
 ---
 
-## I. Evacuation as Confession
-
 Evacuation is **triage** wearing **liturgy**.
 
 When hull space is sin, every choice becomes **confession** — who boards first, who boards middle, who boards **last**, and who is left with prayer that is really invoice — because who boards last becomes **theology** not because Emperor demands theater but because mortals need **story** that makes abandonment feel less like **murder** dressed as arithmetic.
@@ -31,10 +29,6 @@ Embarkation slates stayed **double-stamped** — Valerius — **witness routes**
 
 **DO NOT MERGE** lock still glowed in locked stacks miles behind them. Forward decks carried its discipline in duplicate manifests and duplicate seals until redundancy stopped looking like Mechanicus fetish and started looking like **immune system**.
 
----
-
-## II. NOT FIELDED at the Gangway
-
 Merit’s clerks aimed *forward morale lenses* at boarding queues until Kessler broke another mount and filed *NOT FIELDED*. Forwardness was not metric you harvested from throats at gangways.
 
 Sera paired fiber through duplicate trunks — red for *call*, blue for *ghost* — because harmonics ate one line and called it *routing optimization* while custody still breathed on second.
@@ -50,10 +44,6 @@ Medicae annexes stacked souls not wounded yet but **pre-wounded** by phosphene a
 Bondsmen whispered **Dark Age of Technology** near Navigator alcoves until Varro crushed whisper with ash.
 
 — Nomenclature is seal — he said. — Myth recruits corridors faster than doctrine leashes them when angles open wrong.
-
----
-
-## III. Last Wave — Feet, Not Heroes
 
 **Kessler** volunteered for last wave because **guilt** enjoys uniform and duty is harness you can tighten until breath hurts, and pain sometimes feels like **payment**.
 
@@ -72,10 +62,6 @@ Skitarii liaisons tried **first touch** on priority crates until **NON-COMPLIANT
 Mirror-route officers flinched when confidence intervals tightened because grief and throughput tried to merge again. Valerius slid duplicate sheets until grief stayed grief and quotas stayed quotas.
 
 Wolf’s Curse watch stayed off channels that could recruit story — Kadmos enforced — because *Furor* vocabulary beside Navigator strain could invent cult velocity.
-
----
-
-## IV. Mira’s Counterfeit Clock
 
 **Santo** survived because his mother **lied** to him about departure times.
 
@@ -99,10 +85,6 @@ Apothecarion interns practiced distinguishing **Exanimus** drift from Navigator 
 
 Strategium night staff rehearsed **DO NOT MERGE** until phrase sounded less like tech-adept contempt and more like chaplain refrain — some instincts immune systems refused to euphemize — because crowns loved merges the way archives had loved merges: clean on paper, invasive in throats.
 
----
-
-## V. The Crown Glitters Like a Cut
-
 Hyper-G **Tertius** veterans warned about **wrong weight** in transit straps. Vitreus veterans warned about **wrong light** in viewscreens. Both warnings rhymed with Silica approach: different weather, same throat paying interest.
 
 **Iria**, where tides crossed evac ribbons, traded **active silence** with officers who wanted poetry — silence meant *do not rename sacrifice as throughput* — until tide vocabulary stayed tide vocabulary and did not metastasize into slides about *boarding KPIs*.
@@ -121,10 +103,6 @@ Staff briefings renamed **forward** as *optimization* until Valerius crossed *op
 
 **Kadmos** posted crown egress cordon one meter deeper — geometry as insurance — because Navigator annex guarded access and grief as latency was debt estuary would settle in salt when names still required witness routes only.
 
----
-
-## VI. After — Not Yet We Hold
-
 **Triumvirate briefings** shrank to minutes — minutes meaning lives — especially when Echo listened for seams in cable-hum, **tide**-shaped harmonics, and reflection-grilles pretending neutral while Navigators negotiated angles that could invite what watches through glass.
 
 **Alaric** — Vermilion at edge of briefings where permitted — counted intervals in stamped minutes without theater. Hinge-work **mass** where files were syringes and binds were stitches — geometry written in stillness until stillness made officers discover they had been holding breath.
@@ -136,10 +114,6 @@ Drusus and Varro walked same gangway grammar in different dialects — clinical 
 Junior Navigators learned to hate **confidence** when intervals tightened without new stars arriving — same cruel kindness auspex had taught on archives — because politeness congratulated conclusions no soul had earned.
 
 Threx — distant, bright with numbers — argued for reopening *interrupted collections* mid-evac. Triumvirate answered in nods and **timestamps** and did not translate *collection* into *taken* — friction partner speaking yield where Chapter spoke **seal**.
-
----
-
-## VII. Dirges Between Decks
 
 Between decks, **auxilia** sang **dirges** not because singing helped engines but because singing kept throats from seizing on **fear** that wanted names.
 
@@ -159,10 +133,6 @@ Always **after** — not stubbornness performing as virtue but **sequence**: fir
 
 Valerius had shattered glass in archives week and steadied before morning inspection. Humanity kept leaking through stamps anyway — recaf on manifests, hands that shook once and learned discipline again — because fleet could not afford quartermaster who **advertised** grief at wrong hour, yet grief kept finding paper honest enough to stain.
 
----
-
-## VIII. Gangway Twice — Soul Trust
-
 Guides chalked **correction arcs** on hatch coamings until chalk dust mixed with hydraulic mist and looked like frost — nobody laughed at frost jokes twice — because humor could become **folk liturgy** faster than purge cycles could cleanse it.
 
 Evacuation teams walked each gangway twice — once for instrument trust, once for soul trust — duplicate passes that looked like inefficiency until inefficiency saved neck from smiling at wrong reflection.
@@ -177,10 +147,6 @@ Fleet slid forward. Somewhere in void **Silica** brightened like mirrors rehears
 
 Officers learned to fear **reconciliation** slides the way infantry learned to fear **secure** — words that let you sleep while someone else paid for dream — until Valerius crossed *reconciliation* out and wrote *witness route only* in margins too plain to parade.
 
----
-
-## IX. Forward as Sequence
-
 Starboard mess decks argued whether **Incus** ash still tasted stronger than Silica glare. Soldiers answered with boots — Incus had taught weight; Vitreus had taught light; crowns taught *forward* — all different weathers, same throat paying interest.
 
 Sera tested splices at false night — treat every handshake bundle as confession; treat every ghost trunk as **debt** until disproven — **parallel filing** only vaccine when *routing* could become appetite’s favorite alias.
@@ -192,10 +158,6 @@ Bondsmen whispered thanks to nothing they could name cleanly — thanks shaped l
 Forgemasters erased chalk ticks so approach maps could not migrate into Merit mood-boards — witness guarded like ammunition — while bondsmen stacked duplicate pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright.
 
 **Hold** and **witness** different ledgers even when polish pretended otherwise — because crowns taxed both before they taxed hulls.
-
----
-
-## X. Book III Closes on the Void
 
 **Kessler** stood at last gangway where boarding lists ended and theology began — three fingers raised at viewport nobody should have trusted for face, feet counted aloud because heroes had become expensive word.
 
