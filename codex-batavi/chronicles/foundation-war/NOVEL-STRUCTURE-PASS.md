@@ -148,7 +148,7 @@ Mark `[x]` when structure pass is complete for that slug.
 | 8 | cord-weight | `Q1-moon-hunt/cord-weight/chapter.md` | [x] |
 | 9 | second-quarter-brief | `Q1-moon-hunt/second-quarter-brief/chapter.md` | [x] |
 | 10 | inverted-hive | `Q2-inverted-war/inverted-hive/chapter.md` | [x] |
-| 11 | output-quota | `Q2-inverted-war/output-quota/chapter.md` | [ ] |
+| 11 | output-quota | `Q2-inverted-war/output-quota/chapter.md` | [x] |
 | 12 | ring-of-teeth | `Q2-inverted-war/ring-of-teeth/chapter.md` | [ ] |
 | 13 | flare-geometries | `Q2-inverted-war/flare-geometries/chapter.md` | [ ] |
 | 14 | brood-signature | `Q2-inverted-war/brood-signature/chapter.md` | [ ] |

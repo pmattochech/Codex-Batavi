@@ -13,8 +13,6 @@
 
 ---
 
-## I. Hooks Bought Time — Quotas Spent It
-
 Hooks — not bombs — had bought them time. Time, in Incus, translated into **quotas**: numbers that climbed because fear climbed faster, because ***Lex Ignis*** auditors smiled at throughput the way sharks smile at blood they pretend is statistics, because guild factors discovered *virtue* in overtime until overtime became **liturgy** and liturgy became a shift bell nobody could refuse without starving someone they loved.
 
 The **backward braid** was honest and ugly: Cinder Nine’s nineteen dead had bought roofs; roofs bought **output**; output bought the hive’s second mouth — the one that ate stability while pretending to feed it. Instruction logged behind biometrics on a gallery floor now wore **posters** calling itself *labor unrest*, because Administratum loved posters and loved *simple*.
@@ -23,11 +21,7 @@ Tithe mathematics are theology with better stationery. When quotas rose, **wombs
 
 In the shift-warrens, women learned to time contractions to break bells because a body that chose its own rhythm was a body that could be fined; in the manufactories, men learned to laugh at pain because laughter scanned as morale on overseer picts. Incus did not invent cruelty. It industrialized it until cruelty looked like *throughput* and throughput looked like virtue.
 
----
-
-## II. Throughput Optimizations Beside Birth-Rate Charts
-
-**Threx** posted throughput *optimizations* beside birth-rate charts as if the two were siblings who enjoyed each other’s company — numbers smiling at numbers while humans learned to hate the paper between them. Drusus watched the pairing from the mezzanine lip and felt the old itch from the Silica Field return: systems **coupled** without permission, learning each other’s rhythms until one began to mimic appetite convincingly. Quotas were not noise. Quotas were **steering**.
+On the mezzanine, **Threx** posted throughput *optimizations* beside birth-rate charts as if the two were siblings who enjoyed each other’s company — numbers smiling at numbers while humans learned to hate the paper between them. Drusus watched the pairing from the mezzanine lip and felt the old itch from the Silica Field return: systems **coupled** without permission, learning each other’s rhythms until one began to mimic appetite convincingly. Quotas were not noise. Quotas were **steering**.
 
 **Kessler** translated the poster math into profanity for auxilia who could not read Gothic fast enough to understand why their water rations had thinned; profanity, at least, did not pretend to be virtue.
 
@@ -40,10 +34,6 @@ Midwife halls doubled as **census temples**: white tile scrubbed until holiness 
 **Drusus** entered not as voyeur but as **actuary**: white apron over armor, hands bare below the elbow in a gesture that was half hygiene and half theater — *see, I touch your world with skin*. Consent for blood draws was extracted the way you extract teeth: quickly, with pretense of mercy, paperwork signed in names women could not read fast enough to flinch from. He did not explain why he needed third-shift samples *and* first-shift *and* swing — he never explained enough to comfort, only enough to comply, because comfort was a corridor he could not secure and compliance was a door he could lock.
 
 A midwife watched him with eyes that knew how to hate without moving her mouth. Drusus nodded once, respect without friendship, and labeled vials in a hand steadier than his thoughts. Each vial clicked into its rack like a small verdict.
-
----
-
-## III. Brood-Flutter — Who Conducts
 
 Biometrics *in absentia* became obsession — not romance, pathology dressed as diligence. Cohort heart rates piped through *vox*-analog lines until the Apothecarion listening post sounded like a nest of sleeping giants breathing in unison. Footsteps synced across levels that should not share drumbeats; micro-tremors in line workers’ hands aligned shift to shift like **choir practice** without a conductor anyone could see.
 
@@ -69,10 +59,6 @@ Foreman’s whistles tried to swallow his voice; whistles lost.
 
 **Mira Kell** watched from a gallery with eyes that counted everything except what she chose not to count. Her stillness was not neutrality; it was **storage**.
 
----
-
-## IV. Valerius — Two Slates, One Truth
-
 **Valerius** moved among foremen, separating *threat* from *grievance* the way engineers separate load from noise — dry love, useful love, the kind that kept men from being shot over misunderstandings that could have been solved with a better shift roster and a worse conscience. He carried two slates: one for the Castellan, one for himself. Only one of them ever told the full truth.
 
 When ***Lex Ignis*** security pivoted, it did so with the confidence of men who believed paperwork could carve reality. Skitarii overwatch rotated a spotlight into a union hall like a stylus carving guilt into faces — every wrinkle a confession, every blink a ledger entry. Someone shouted *compliance* as if the word were a shield; someone else shouted a name that was not the Emperor’s; the hall became a lung inhaling rage.
@@ -90,10 +76,6 @@ The Castellan’s answer was two syllables — *Understood* — and arrived like
 **Merit** tried once to clip a recorder to hall hololith until **Valerius** stamped **NON-COMPLIANT** before riot thinned — witness routes only, no throughput dressed as union folk liturgy before injury was attested at molten glass lip.
 
 **Mira** watched from gallery with eyes that counted everything except what she chose not to count — storage, not neutrality — because flutter was hive immune system and immune system was debt ring of teeth would price in air before flare geometries taught mass-as-verdict.
-
----
-
-## V. You Will Not Become Cover
 
 **Santo**’s militia block — boys drunk on duty and drama — tried **human shields** because holodramas taught them virtue looked like standing in front of las. Here, virtue looked like obedience to geometry that spared strangers, and geometry did not care about drama. Santo’s jaw set anyway; honor was a drug, and he was young enough to confuse dosage with destiny. He spread his arms as if width could bargain with bolters.
 
@@ -115,10 +97,6 @@ The rhythm *fit*. That was the obscenity: not that it was alien, but that it **f
 
 His stomach performed a marine’s forbidden thing: **flip**.
 
----
-
-## VI. Biologic Harmonic — Triumvirate Only
-
 He logged ***biologic harmonic***. He locked the file with a curse he did not voice — ***Brood-Flutter*** — and stared at his own gauntlets as if they had touched something that left residue ideas could carry. The name was ugly. Ugly was useful. Ugly meant he would not confuse it with **Wolf’s Curse**, with Versibar steam, with the hundred other catastrophes the Chapter already knew how to mourn incorrectly.
 
 On the slate’s margin he wrote, smaller than regulations allowed: *cross-file Pier Nine instruction echo — speculative — Triumvirate only*, because cowardice dressed as prudence was still cowardice, and he was tired of being careful with the wrong things.
@@ -136,10 +114,6 @@ When the riot finally coughed itself empty, **Alaric** stood in the union hall�
 He did not say *hooks not bombs* again; repetition would have turned wisdom into slogan, and slogans were how hives learned to lie back.
 
 The **brood** whispered in human time — soft enough to be mistaken for wind through vents, insistent enough to be mistaken for *progress*. The Chapter — still blind to the full name of its foe — printed posters calling it ***labor unrest***. Administratum loved posters. Administratum loved *simple*. Love stories, the old romances taught, begin in **misrecognition**. Incus was falling in love with its own hunger and calling it **output**.
-
----
-
-## VII. Parallel Columns — Triptychs Harder to Beautify
 
 Alaric rescinded no quotas — rescission would have fed the hive’s other mouth, the one that ate stability — but he ordered **Valerius** to publish parallel columns anyway: *declared output* beside *auxilia water* beside *midwife hours slept*, because triptychs were harder to beautify than singles. Guild factors raged that the Chapter was *moralizing logistics*; Valerius answered with stamps, not arguments, and stamps were how you won the paper war until the night war arrived.
 
@@ -168,10 +142,6 @@ The foreman stamped twice. Incus was teaching the whole mesh the same lesson in 
 **Mira**’s eyes followed Varro once, then returned to the floor, carrying whatever they carried without sharing.
 
 **Santo** pressed a rag to his split lip and did not look at his mother, because looking would have broken something neither of them could afford to break yet.
-
----
-
-## VIII. Flutter Continues Whether He Watches
 
 Above them all, the hive’s vents sang their constant note — work, work, work — while something else listened beneath the note and smiled without a mouth.
 
