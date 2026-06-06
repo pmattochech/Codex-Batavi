@@ -137,27 +137,11 @@ Orwen’s surviving squads practiced **touch-taps** when *vox* returned — knuc
 
 Kadmos stacked cordons without swagger — rear security as love spelled in geometry — until *clear* stopped meaning *hero lane* and meant *lane that stays closed behind you so nothing follows relief home*.
 
-**Merit** kept her recorder running because Alaric had said *Keep it* — witness route only — and **Valerius** did not stamp **NON-COMPLIANT** this hour because attested injury at corridor lip had already been paid in bodies moved out of smoke before throughput dressed Exanimus as folk liturgy.
-
-**Drusus** metered sedatives until poetry stayed impossible even when screams argued for hymns — small doors closing on flood — because Furor slope climbed in telemetry nobody yet dared name doctrine and biology would **lock** what will forced back into man-shaped restraint.
-
-**Alaric** did not speak when consciousness returned. Speaking would have turned shame into **spectacle** before Vermilion cloth could file the hour as audit rather than coronation. He let hydraulics exhale and systems pretend normalcy while **tide** — not yet Execratio as doctrine — waited patient as officer who does not need shout to remind you *you knew*.
-
-**Kadmos** posted Vermilion cordon one meter deeper — geometry as insurance — because Alpha watch was safety performing as justice and safety fractured if rear lanes opened while Castellan rebooted inside audit cloth.
-
-**Kessler** raised three fingers at Vermilion hatch blank sector — witness route only — because touch-taps traveled hand-to-hand when *vox* returned tasting like override etiquette dressed as static.
-
 Chapter learned sentence as warning, not poetry:
 
 *Castellan is sword; sword must learn sheath.*
 
 Valerius moved watch rosters like chess played by man who refused to enjoy game — who understood *rotation* was sometimes only mercy you could give witness.
-
-**Drusus** watched Vermilion cloth draped over Castellan and felt Furor slope spike in telemetry like teeth before receipts — not yet Execratio as doctrine, only **tide** rising without permission — and did not brief captains. Briefing would have turned shame into **oracle** before biology learned what it cost to close a mouth that had billed the mesh in intervals.
-
-**Varro** filed Alpha watch as proto-rite — seal attempted, not victory — death-skull geometry until Exanimus vault earned Executor jawline, but silence cohort linework already measured in minutes meaning lives when Echo listened for seams in *vox*-grilles and cable-hum.
-
-**Iria** breathed active silence on local channel — tide receded, duty resumed — because protector geometry filed shame as threat assessment not spectacle before Vermilion cloth could file the hour as audit rather than coronation.
 
 ---
 
@@ -182,8 +166,6 @@ Orwen signed testimony **without adjectives** — discipline of terror — facts
 His hand shook **once**.
 
 **Kessler** stood at Vermilion cordon's outer lip where recaf tasted like penance and refused to call it virtue — witness route only — because luck spat back at anyone who dressed penance as morale throughput.
-
-**Merit** kept her recorder running because Alaric had said *Keep it* — and **Valerius** stamped *witness route only* beside attested injury because attested injury at corridor lip had already been paid in bodies moved out of smoke.
 
 Drusus noted *post-traumatic tremor* and did not condescend. He did not offer comfort dressed as clinic. He offered **respect** dressed as clinic — rarer.
 
@@ -213,24 +195,6 @@ He did not speak Chapter’s iron answer as liturgy. Not here. Not yet. Word *ho
 
 Protector geometry filed the touch as **threat assessment**, not paternity. Filing was how he survived himself.
 
-**Santo** scrubbed soot from a gantry rail without looking at hololiths naming *Castellan hazard* — not clean, *honest* — because looking would have turned tide into **spectacle** before Vitreus taught left was not left and eyes taxed both ledgers the way sheaths had taxed this hour.
-
-**Orwen** signed a supplemental line in block capitals — *corridor geometry; no adjectives* — and his hand shook once before steadiness returned, because terror that stayed honest was sometimes the only vaccine when staff wanted *Castellan hazard* to mean schedule instead of **door proved openable**.
-
-**Kadmos** posted rear cordon one meter deeper without swagger — *clear* meaning *lane that stays closed behind you* — until Vermilion cloth could file the hour as audit rather than coronation and biology learned what it cost to close a mouth that had billed the mesh in intervals.
-
-Iria breathed **active silence** on local channel — refusal to let convenience rename sacrifice as virtue — until tide vocabulary stayed tide vocabulary and did not metastasize into staff poetry about *closure*.
-
-**Drusus** appended Vermilion margin — *Furor slope elevated; Execratio threshold unknown; treat post-event tremor as telemetry only until sustained* — sequence, not prophecy, because names arrived late when institutions were still busy surviving unnamed things.
-
-**Varro** — Executor jawline earned, ***licentia lupina*** filed — listened at corridor static for rhythm that was not prayer and filed threshold binding as proto-rite: seal attempted, not victory.
-
-**Threx** would file *Castellan hazard; yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like solvency before Vitreus taxed both ledgers.
-
-**Merit** tried once to clip a recorder to Vermilion hololith until **NON-COMPLIANT** — witness routes only — because Castellan hazard was posture not package admiralties could sleep on while Vitreus taxed both ledgers.
-
-**Echo** listened at Vermilion cloth radius for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing silence as sequence before left was not left.
-
 ---
 
 ## IX. Door Proved Openable
@@ -257,10 +221,6 @@ Valerius stamped embarkation slate toward **Vitreus Bleed** twice — once for c
 
 Bondsmen stacked duplicate witness sheets until paper armor felt thin — thin edges honest in same hand carrying stamps twice without pretending one debt paid other — because **hold** and **witness** were different ledgers even when officers wanted one tidy stamp.
 
-**Sera** tagged Vermilion egress handshake *monitor only* until Pol seed starved merge columns and Vitreus earned attested injury when left was not left.
-
-**Varche** logged Vermilion handoff on Navy pane without romance — intervals, not closure — because door proved openable was debt Vitreus would tax when eyes priced themselves in bodies.
-
 Chapter had learned ugliest sentence of crucible so far:
 
 *Castellan is sword; sword must learn sheath.*
@@ -271,7 +231,24 @@ He had fallen into abyss long enough to prove door opened.
 
 He would spend centuries learning what it cost to **close** it — and what biology would **lock** when will forced monster back into man-shaped restraint.
 
-Bondsmen stacked duplicate witness sheets until paper armor felt thin — thin edges honest in same hand carrying stamps twice without pretending one debt paid other.
+**Kessler** raised three fingers at Vermilion hatch blank sector — witness route only.
+
+**Merit** kept her recorder running because Alaric had said *Keep it*.
+
+**Kadmos** posted rear cordon one meter deeper — *clear* meaning *lane that stays closed behind you*.
+
+**Sera** tagged Vermilion egress handshake *monitor only* until merge columns starved.
+
+**Varche** logged Vermilion handoff on Navy pane without romance — intervals, not closure.
+
+**Santo** scrubbed soot from a gantry rail — not clean, *honest*.
+
+**Orwen** signed supplemental line in block capitals — *corridor geometry; no adjectives*.
+
+**Varro** filed Alpha watch as proto-rite — seal attempted, not victory.
+
+**Echo** listened at Vermilion cloth radius — Triumvirate seal still **narrow**.
+
 Interest collecting teeth before receipts.
 
 Quiet Vermilion. Loud sympathy. Door proved openable. Vitreus waiting.
