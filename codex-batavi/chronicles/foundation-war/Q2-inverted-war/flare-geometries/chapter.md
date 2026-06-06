@@ -189,6 +189,8 @@ Ninety seconds. Webway stub. *Not yet.* Brood Signature waiting.
 
 Always owed.
 
+---
+
 **End of Chapter 13**
 
 **Next:** [Brood Signature](../brood-signature/chapter.md) · Q2 · CV y8–y14
