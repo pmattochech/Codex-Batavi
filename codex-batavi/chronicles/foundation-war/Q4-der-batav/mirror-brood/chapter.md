@@ -99,8 +99,6 @@ They died without poetry mostly because poetry belongs to survivors and pilots k
 
 When brood **broke**, it broke **dirty** — not defeat performed in banners but rupture, bodies in places bodies should not be, reflections continuing for half heartbeat after glass died, trust unrecoverable even among living because **doubt** had become smart — while Silica kept glittering, innocent as blade wiped and resheathed, and Chapter kept moving, which was only romance left in mirror war: **forward**, even when mirror still showed something walking beside you that was not **friend**.
 
-**Kadmos** cut pict feed at relay — channel hygiene — because burn-the-glass pilots died without poetry and poetry belonged to survivors while mirrors listened for seams in cable-hum.
-
 ---
 
 ## V. Threx Screams Compliance — Drusus Says Yes
@@ -195,57 +193,13 @@ Alaric had chosen geometry over pity. Varro had sealed loops with promethium. Ka
 
 Silica asked whether iron could stay when reflection walked beside it.
 
-**Alaric** stood at Silica lip one minute after trust debt filed and did not lift his helm — continuity, not spectacle — because lifting would have turned *Der Batav* into **theater** before the iron had learned to stay. Mirror brood had taught bruises as honest map when glass lied politely; prisms ahead would sharpen question until light itself became debt.
+**Orwen** filed mirror-brood timestamps without adjectives — ranges, no metaphors.
 
-**Iria**’s *Not yet* blinked on uplink beside a denial that was not cruelty but **schedule** — the same blink that had kept tide-names from becoming prophecy before shoulders learned weight.
+**Echo** listened at Silica glass for harmonics not yet **tide**-shaped.
 
-**Kessler** walked last glass aisle with auxilia pockets turned inside-out and three fingers raised at reflection that caught light wrong — witness route only, no throughput dressed as reconciliation.
+**Sera** tagged Silica embarkation *monitor only* until merge columns starved.
 
-Prisms ahead would sharpen question until light itself became debt. **Drusus** saved the trust-debt line under *convoy doctrine revision mandatory* — bruise on every manifest — because bruises were sometimes the only honest map when glass lied politely.
-
-**Kadmos** enforced silence as hygiene on open channels where mirror-pilot debriefs tried to turn reflection into **story** — *Furor* vocabulary beside trust debt could invent cult velocity faster than purge cycles could answer — and saved one line under Triumvirate seal: *treat clean signal as debt until disproven*.
-
-**Threx** filed *array governance friction; yield preserved* one last time beside *Chapter refuses unverified coupling claims* — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like **solvency** written in duplicate pages nobody could merge without choking.
-
-**Iria** stopped a clerk at *twice* — *once is witness; twice is training the enemy paid for* — and the sentence would travel forward to prisms where light itself became debt the Chapter would have to hold without letting beauty invoice the dead twice.
-
-**Valerius** stamped embarkation toward **Prism War** twice — Marine continuity beside mortal chains still solvent — because Silica’s trust debt would tax both ledgers when reflection walked beside iron.
-
-**Alaric** stood at Silica lip one minute after trust debt filed and did not lift his helm — continuity, not spectacle — because lifting would have turned *Der Batav* into **theater** before the iron had learned to stay. Bruises on every manifest were sometimes the only honest map when glass lied politely.
-
-**Merit** tried once to clip a recorder to mirror-brood hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as reconciliation packages before bruise on every manifest was attested.
-
-**Kadmos** cut pict feed at relay one last time — channel hygiene — because burn-the-glass pilots died without poetry and mirrors listened for seams in cable-hum before Silica kept glittering innocent as blade wiped and resheathed.
-
-**Threx** watched pict-thief feeds scrubbed clean and called loss **acceptable signal hygiene** — beach did not ask his opinion, which was also verdict.
-
-**Echo** listened at Silica glass for harmonics not yet **tide**-shaped — filing trust debt as sequence before Prism War earned attested injury.
-
-**Sera** tagged Silica embarkation *monitor only* until Pol seed starved merge columns.
-
-**Orwen** filed mirror-brood timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than glass lied politely.
-
-**Pol**'s seed — monitor only — would rhyme with glass coupling until Drusus starved merge with Silica filings.
-
-**Kessler** walked last glass aisle with auxilia pockets turned inside-out and three fingers raised at reflection that caught light wrong — witness route only.
-
-**Alaric** counted trust-debt one last minute on the lip — hinge-work — and did not say *We hold* as borrowed liturgy.
-
-**Santo** heard glass tick once more and did not look at hololiths naming *trust debt*. Looking would have turned embarkation into spectacle.
-
-**Mira** stacked Silica tallies beside trust-debt manifests without applause — witness without throughput.
-
-**Merit** steadied slate on Silica catwalk — witness without applause — because trust-debt traveled faster than sermons when glass lied politely.
-
-**Varche** logged Silica embarkation on Navy pane without romance — intervals, not closure — because trust debt would tax both ledgers when reflection walked beside iron.
-
-
-
-
-
-
-
-**Iria**'s *Not yet* blinked on uplink beside denial that was not cruelty but **schedule** — the same blink that had kept tide-names from becoming prophecy before prisms sharpened light into debt.
+**Varche** logged Silica embarkation on Navy pane without romance — intervals, not closure.
 
 Interest collecting teeth before receipts.
 
