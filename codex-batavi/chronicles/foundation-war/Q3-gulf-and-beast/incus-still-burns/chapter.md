@@ -105,8 +105,6 @@ Meetings **shortened** — not from laziness — from **density**: words replace
 
 Outsiders called it cohesion. Insiders — three of them, mainly — called it what it was: **proximity to edge**.
 
-**Alaric** felt the edge in pause half heartbeat too short before mercy — Axiom limits appearing first in small cruel signs only Triumvirate intimates knew to read — and did not remove his helm in warrens. Visage protocol was not vanity here; it was **refusal to let forge borrow a face** mortals could mistake for prophecy when sympathy spikes dressed as destiny.
-
 **Threx**, on remote channels, spoke of **throughput** and **forge yields** with cheerfulness of man who believed numbers could cauterize guilt. Triumvirate answered in nods and timestamps and did not tell him what nods cost.
 
 Night cycles on foundry spine traded lamp codes until **Lex Ignis** clocks aligned with Mechanicus wheels — superstition dressed as synchronization — while water points ran sour and Valerius posted **ROTATE** until word felt like small god who only knew fairness.
@@ -131,11 +129,9 @@ Kessler did not look up from strap she chewed tight — bad habit, older than ra
 
 No comfort, no lie. Kindness was that she answered at all.
 
-**Orwen** — not yet block-capital testimony, still squad sergeant with hands that shook once and steadied — watched from shadowed catwalk without applauding. He counted Santo’s steps the way Mira would later count in two ink colors: *surviving* and *surviving honest*, because echo crucible would try to merge grief into throughput and someone had to refuse merge before Beast chapter taught fire grammar.
+**Orwen** — not yet block-capital testimony, still squad sergeant with hands that shook once and steadied — watched from shadowed catwalk without applauding, counting Santo’s steps the way debt always got counted before applause turned witness into throughput.
 
-**Mira Kell** watched from shadowed catwalk without applauding. Her ledger had new column she still refused to name, but she counted his steps anyway — **witness without applause**, only currency that still bought truth on Incus.
-
-On bench below, where tallies had to meet rations, she kept two ink colors: *surviving* and *surviving honest* — because echo crucible would try to merge grief into throughput and she refused merge same way Valerius refused it upstairs.
+**Mira Kell** kept two ink colors on bench below where tallies had to meet rations: *surviving* and *surviving honest* — because echo crucible would try to merge grief into throughput and she refused merge the way Valerius refused it upstairs.
 
 **Valerius** — ever stable, face mortals could approach without feeling judged by god — **blinked** once, twice: *too human* tell in man whose steadiness had become strategic infrastructure.
 
@@ -144,18 +140,6 @@ Drusus logged it privately — not betrayal, not weakness: *data point* in colum
 Column kept filling. War did that. Bodies did that. **Expectation** did that most of all.
 
 Marines scrubbed ceramite dull — **glare discipline** transported off Vitreus — because sympathetic strobe could recruit eye faster than doctrine could leash it when walls pretended to be mirrors.
-
-**Santo** heard Kessler’s answer — heroes feel **orders** — and filed it in muscle longer than sermons lasted. No comfort, no lie. Kindness was that she answered at all. Bridge Saints would later spend the same grammar when chaplain nets tightened beside mortal lines still solvent and skin debt traveled faster than shame dressed as morale throughput.
-
-**Alaric** watched staging from strategium lip without speeches — hinge-work — because Incus crucible was echo dressed as forge and forge dressed as tribunal, and tribunals required witness before throughput dressed Beast Records as nostalgia packages admiralties could sleep on.
-
-**Threx** filed *sympathy spike; yield preserved* on remote channel and did not translate *yield* into *skin* for the feed. **Valerius** stamped *witness route only* beside the exchange until friction looked like solvency long enough for forge hum to stay environmental variable instead of oracle.
-
-**Kadmos** posted staging cordon one meter deeper — geometry as insurance — because forge hum translated gulf throat into sympathy spikes and spikes dressed as destiny if officers merged courage packages with solvency columns.
-
-**Merit** tried once to clip a recorder to forge hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as sympathy packages when sealed aperture still hummed in static like audit waiting for a name.
-
-**Drusus** cross-filed sympathy spike under *Incus coupling; sequence only* — not prophecy — because forge borrowed syllables faster than doctrine leashed them when harmonics kneel workers without blades.
 
 ---
 
@@ -185,12 +169,6 @@ Unstoppable by shouting. Barely postponable by chemistry and bind. Inevitable as
 
 Brothers learned to fear **intervals** more than bolts — same hunger tombs had worn as etiquette — until drills treated harmonics like unexploded ordnance: verify, deny spectacle, **record**.
 
-**Kadmos** posted maze egress one meter deeper without order — geometry as insurance — because Incus echo dressed as forge hum and forge hum dressed as tribunal until someone stamped *witness route only* and made sympathy spikes file as environmental variable instead of destiny.
-
-**Merit** steadied her slate on forge catwalk — witness without applause — because remembrancer vocation and witness stubbornness were sometimes the only currency that survived when grief and throughput tried to merge and Mira refused merge downstairs in two ink colors.
-
-**Threx** filed *sympathy spike; yield preserved* on remote channel and **Valerius** stamped *witness route only* beside the exchange until friction looked like solvency long enough for Beast chapter to teach fire grammar forges had not yet filed.
-
 ---
 
 ## VIII. Kingdom Inside Cracks
@@ -215,19 +193,7 @@ Skitarii observers on remote channels tried **first touch** on sympathy spikes f
 
 — First touch is thick with skin — he said. — Do not add ours for trophies.
 
-**Threx** answered with yield curves and did not translate *skin* into *throughput* for the feed. **Valerius** stamped *witness route only* beside the exchange and made friction look like solvency long enough for forge hum to file itself as environmental variable instead of oracle.
-
-**Iria** measured shame from lower gantry without speech — active silence — while sympathy spikes dressed as forge hum and forge hum dressed as tribunal until **Drusus** starved merge and Beast chapter waited to teach fire grammar forges had not yet filed.
-
 **Rothmar** wiped kill-marks at maze lip — *Ash doesn't care whose god is prettier* — lesson Beast Records would spend when trust eaten from within stopped being rumor and became forge hum in Vermilion cloth.
-
-**Pol**'s seed — monitor only — would rhyme with Incus coupling until Drusus starved merge and Execratio stayed vocabulary arriving late on open channels.
-
-**Sera** tagged maze egress handshake *monitor only* until sympathy spikes starved merge columns and Beast chapter earned attested injury at fire grammar.
-
-**Orwen** filed Incus coupling without adjectives — timestamps, ranges, no metaphors — because facts laid like bricks survived longer than forge hum dressed as oracle.
-
-**Varche** logged sympathy spike on Navy pane without romance — schedule, not sermon — because forge coupling was debt admiralties could not sleep on while fire learned the Chapter's name.
 
 ---
 
@@ -241,7 +207,7 @@ Apothecarion interns practiced distinguishing **Exanimus** drift from forge harm
 
 **Kessler** counted breath intervals at slag wall — witness route only — because maze lanes still remembered boots whose tread forgave, whose tread used, whose tread lost, and counting was the only vaccine that had never lied to her yet.
 
-**Drusus** did not brief captains on sympathy spike coupling. Briefing would have turned forge hum into **oracle** before Beast chapter taught fire grammar forges had not yet filed.
+**Drusus** did not brief captains on sympathy spike coupling. Briefing would have turned forge hum into **oracle** before injury was attested.
 
 **Valerius** blinked once at blood-tallies — data point, not weakness — while **Alaric** counted geometry of murder without naming it prayer.
 
@@ -256,25 +222,28 @@ Valerius stamped embarkation slate toward **The Beast Chapter** twice — once f
 ## X. Echo Forward
 
 Forgemasters erased chalk ticks where they could so sympathy spikes could not migrate into relic maps **Merit** sold as mood — witness guarded like ammunition — while bondsmen stacked wet pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright.
-Forgemasters erased chalk ticks where they could so sympathy spikes could not migrate into relic maps **Merit** sold as mood — witness guarded like ammunition — while bondsmen stacked wet pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright.
 
-**Alaric** stood at forge lip one minute after sympathy spikes filed and did not remove his helm — continuity, not spectacle — while Incus had its echo now: gulf throat in forge hum, sealed aperture in static, inheritance in sympathy spikes. He did not say *We hold*. Holding, here, was **refusal to let forge hum merge columns** before injury was attested and the Beast chapter taught fire grammar forges had not yet filed.
-
-**Iria** measured shame from lower gantry without speech — active silence — while sympathy spikes dressed as forge hum until Beast chapter taught fire grammar forges had not yet filed.
+**Alaric** stood at forge lip one minute after sympathy spikes filed and did not remove his helm — continuity, not spectacle — while Incus had its echo now: gulf throat in forge hum, sealed aperture in static, inheritance in sympathy spikes. He did not say *We hold*. Holding, here, was **refusal to let forge hum merge columns** before injury was attested.
 
 **Varro** traced ash on slag wall that caught forge-light like mirror — not prayer, **inventory** — death-skull geometry giving way to Executor jawline where Exanimus vault had already earned ***licentia lupina***.
 
-**Kadmos** saved Incus echo stub under *hostile forge coupling; echo stub* — sympathy spike, sealed aperture — because inheritance terrain wore forge weather instead of hive ash tonight.
+**Kadmos** saved Incus echo stub under *hostile forge coupling; echo stub* — sympathy spike, sealed aperture.
 
-**Santo** scrubbed soot from forge rail — not clean, *honest* — and did not look at hololiths naming *sympathy spike*. Looking would have turned Incus echo into **spectacle**.
+**Santo** scrubbed soot from forge rail — not clean, *honest* — and did not look at hololiths naming *sympathy spike*.
 
-**Merit** logged **NON-COMPLIANT** beside sympathy spike hololith — witness routes only — because forge hum was posture not package admiralties could sleep on while Beast chapter waited.
+**Merit** logged **NON-COMPLIANT** beside sympathy spike hololith — witness routes only.
 
-**Orwen** filed Incus coupling without adjectives one last time — timestamps, ranges, no metaphors — because facts laid like bricks survived longer than forge hum dressed as oracle.
+**Orwen** filed Incus coupling without adjectives — timestamps, ranges, no metaphors.
+
+**Iria** measured shame from lower gantry without speech — active silence.
+
+**Sera** tagged maze egress handshake *monitor only* until merge columns starved.
+
+**Varche** logged sympathy spike on Navy pane without romance — schedule, not sermon.
 
 Interest collecting teeth before receipts.
 
-Quiet forge. Loud sympathy. Sealed aperture. Beast waiting. Valerius blink logged. Orwen three fingers raised.
+Quiet forge. Loud sympathy. Sealed aperture. Beast waiting.
 
 Always owed.
 
