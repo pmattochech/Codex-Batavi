@@ -187,49 +187,19 @@ Behind her, sentence sat in archives like shrapnel — *I am a man of iron and I
 
 Alaric had ordered cut on mark. Varro had narrowed awe. Drusus had pulled headsets like bandages. Kadmos had made freedom expensive in scorch marks.
 
-Iria had fed salt to boy whose memory was infection. Santo had passed packets without speech. Valerius had attested injury before intent verification.
-
-Threx had brightened at polished syllables. Navy liaison had tightened jaw. Relay girl had kept hand on mute switch while vomiting.
-
-**Kessler** walked the tender spine afterward with auxilia who had heard *grief as latency* and made them count backward from ten in the same cadence she had taught on beaches — not therapy, **sequence** — because sequence was how you kept harmonics from recruiting story faster than purge cycles could answer.
-
-**Merit** tried to clip a recorder to the strategium baffle where Varro had traced ash; **Valerius** stamped **NON-COMPLIANT** before the clip clicked. Witness routes only. Throughput could not audit mouths that freedom had already learned to invoice.
-
-**Alaric** stood at strategium baffle one minute after cut and did not remove his helm — continuity, not modesty — while vacuum still rang with iron lecture’s afterimage: freedom spoken cleanly enough to burn the mouth that repeated it. He did not say *We hold*. Holding, here, was **refusal to let awe merge columns** before injury was attested.
-
-**Varro** traced ash on the baffle seam where **Threx** had brightened at polished syllables — not prayer, **inventory** — Executor jawline foam, latch tension, the weight of a mask that taught young Chaplains what silence cost when silence had teeth.
-
-**Drusus** appended a closing margin — *iron lecture may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained across three intervals* — sequence, not prophecy, carried forward toward a chapter that would ask whether *hold* could earn speaking after mouths had paid enough not to lie.
+Iria had fed salt to boy whose memory was infection. Valerius had attested injury before intent verification.
 
 Somewhere ahead, **We Hold Anyway** waited — not as slogan yet, as question — whether iron could stay when freedom spoke cleanly enough to burn the mouth that repeated it.
 
-**Kadmos** enforced silence as hygiene on open channels where iron lecture debriefs tried to turn freedom into **story** — *Furor* vocabulary beside polished syllables could invent cult velocity faster than Varro's ash patterns could refuse it.
+**Merit** tried to clip a recorder to the strategium baffle where Varro had traced ash until **Valerius** stamped **NON-COMPLIANT** — witness routes only.
 
-**Kessler** walked the tender spine afterward with three fingers raised at strategium baffle where **Threx** had brightened at polished syllables — witness route only, no throughput dressed as awe packages that let staff officers plan second fronts the way romantics planned weddings.
+**Orwen** filed vacuum timestamps without adjectives — ranges, no metaphors.
 
-Excellent acoustics, the void had proven, could kill without raising voice — same lesson tombs had taught, prisms would sharpen, halo would bill in intervals.
+**Echo** listened at strategium baffle for harmonics not yet **tide**-shaped.
 
-Strategium baffle forgot cut until vacuum stillness looked like peace — peace another word for **iron lecture** hiding teeth *We Hold Anyway* would ask whether iron could stay after mouths had paid enough not to lie.
+**Sera** tagged vacuum debrief handshake *monitor only* until merge columns starved.
 
-**Drusus** sealed vacuum margin — *Men-of-Iron coupling; DO NOT MERGE with halo mouth telemetry* — sequence, not prophecy, because lecture in vacuum was debt billed in intervals before We Hold Anyway earned instrument status.
-
-**Varro** filed vacuum threshold as proto-rite — seal attempted, not victory — because iron that named itself **free** still required witness before folklore learned to salute.
-
-**Echo** listened at strategium baffle for **tide**-shaped harmonics — Triumvirate seal still **narrow** — filing iron lecture as sequence before We Hold Anyway earned instrument status.
-
-**Sera** tagged vacuum debrief handshake *monitor only* until Pol seed starved merge columns.
-
-**Orwen** filed vacuum timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than awe packages admiralties could sleep on.
-
-**Threx** brightened at polished syllables one last time — appetite deferred, not denied — while **Valerius** stamped *witness route only*.
-
-**Merit** steadied slate on baffle catwalk — witness without applause — because Men-of-Iron awe packages let admiralties sleep while mortals paid for freedom that burned mouths clean enough to repeat.
-
-**Santo** passed packets without speech — hygiene extended to witness — because vacuum taxed both ledgers when freedom spoke cleanly enough to burn mouths.
-
-**Mira** stacked vacuum tallies beside rotation orders without applause — witness without throughput.
-
-**Pol**'s seed — monitor only — would rhyme with vacuum coupling until Drusus starved merge with halo folk awe.
+**Threx** brightened at polished syllables — appetite deferred, not denied — while **Valerius** stamped *witness route only*.
 
 Interest collecting teeth before receipts.
 
@@ -240,21 +210,5 @@ Always owed.
 ---
 
 **End of Chapter 34**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **Next:** [We Hold Anyway](../we-hold-anyway/chapter.md) · Q4 · CV y22–y29
