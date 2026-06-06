@@ -16,19 +16,25 @@ At fifteen, Elara’s fate was forged in the *Castrum Ferrum*’s central courty
 
 A host of gods had descended from the sky. Roboute Guilliman, Lord Regent of the Imperium, walked flanked by Marneus Calgar and High Marshal Helbrecht. A Primarch’s physical presence was its own gravity, a psychic pressure that drove Imperial Guard veterans to their knees. They inspected **subsector disposition** and the defenses of the **Nine Phalanx**, and the air thrummed with the Silent Son’s wordless judgment.
 
-Guilliman stopped before Alaric von Helis. The scale gap was palpable. — *Is your humanity a flaw or a resource, Chapter Master?* — the Primarch’s voice was like tectonic plates shifting. — *A wall that feels compassion may hesitate when sacrifice is required.*
+Guilliman stopped before Alaric von Helis. The scale gap was palpable.
+
+— Is your humanity a flaw or a resource, Chapter Master — Guilliman said. His voice was like tectonic plates shifting. — A wall that feels compassion may hesitate when sacrifice is required.
 
 The silence that followed was absolute. Until it broke to the sound of small feet running on plasteel.
 
 Elara broke the security cordon. In her hands she bore a crude wooden sword Tobias had carved in the workshop. She did not see the Demigod of Logistics; she saw a threat to her father.
 
-She placed herself between Alaric and Guilliman, pointing the toy blade at the Regent’s golden armor. — **Don’t hurt my Alaric!** — her child voice shook but did not break. — **He is the Wall! And if you’re mean to him, I’m his Wall!**
+She placed herself between Alaric and Guilliman, pointing the toy blade at the Regent’s golden armor.
+
+— Don’t hurt my Alaric — her child voice shook but did not break. — He is the Wall. And if you’re mean to him, I’m his Wall.
 
 Helbrecht’s hand went to his sword hilt, a conditioned reflex. Alaric stepped forward, ready to intercept a blow even from the Emperor’s son. But Guilliman raised a hand.
 
 *First Helbrecht–Alaric meeting at **Witness Ford** (Silent Vigil, 096.M42): see [helbrecht-witness-ford-meeting.md](../08-audit-diplomacy/helbrecht-witness-ford-meeting.md).*
 
-The Primarch looked at the girl, then at the wooden sword, then at the gray eyes blazing with protective ferocity. — *The Root holds the stone* — Guilliman murmured, a logical conclusion forming in his divine mind. — *She is not your weakness, von Helis. She is your justification.*
+The Primarch looked at the girl, then at the wooden sword, then at the gray eyes blazing with protective ferocity.
+
+— The Root holds the stone — Guilliman murmured, a logical conclusion forming in his divine mind. — She is not your weakness, von Helis. She is your justification.
 
 Alaric set his heavy gauntlet on Elara’s shoulder. That day, before the galaxy’s elite, the bond was sanctified.
 
@@ -56,7 +62,9 @@ The Chapter Master said nothing. He walked to the mason’s coffin. With precise
 
 For three days and three nights the Lord of Noviomagus did not move. He refused maintenance, refused rest. He paid a human mason the same honor he would pay an Astartes Captain fallen in battle. He told the world, without a word, that that man was a hero of the Chapter.
 
-At the end of the third day, when the body was taken for cremation, Alaric laid his armored hand on widow Martha’s shoulder. — **He held the house while I held the wall** — Alaric’s voice came through the *vox* emitters, grave and solemn. — **Now his pack is my pack. No one of this bloodline will ever walk alone. While one Batavi draws breath, the Solis are protected.**
+At the end of the third day, when the body was taken for cremation, Alaric laid his armored hand on widow Martha’s shoulder.
+
+— He held the house while I held the wall — Alaric said. His voice came through the vox emitters, grave and solemn. — Now his pack is my pack. No one of this bloodline will ever walk alone. While one Batavi draws breath, the Solis are protected.
 
 Elara watched from the back of the chapel. Her eyes dried. The girl who played with wooden swords died in that chapel; in her place was born the Admiral. She understood, watching the iron giant guard the man of clay, that love in Noviomagus was not made of kisses or sweet words.
 
@@ -80,7 +88,7 @@ The incident came at the Graduation Ball, under the Governor’s Palace crystal 
 
 The music around them stopped. Elara withdrew her arm with slow precision. She did not raise her voice, but the cutting tone silenced the hall.
 
-— *Gold melts in fire, milord* — she said, gray eyes piercing the noble’s shallow soul. — *My father is made of iron, scars, and duty. My inheritance is not land — it is the vigil. Unless you have metal in your soul to bear the weight of absolute void without breaking, do not waste my time with comfort. I was not raised to be a jewel in your crown; I was raised to be the blade at the Emperor’s enemies’ throats.*
+— Gold melts in fire, milord — she said, gray eyes piercing the noble’s shallow soul. — My father is made of iron, scars, and duty. My inheritance is not land — it is the vigil. Unless you have metal in your soul to bear the weight of absolute void without breaking, do not waste my time with comfort. I was not raised to be a jewel in your crown; I was raised to be the blade at the Emperor’s enemies’ throats.
 
 The Duke fell back, pale. Elara turned and left the hall, trailing silence and terrified respect.
 
@@ -98,11 +106,15 @@ Elara walked to him. Not as daughter, but as officer. She clicked her heels and 
 
 Alaric did not embrace her. Terminator plate did not allow it, and the moment demanded severity. He turned slowly, servo hum filling the silence. He looked at the hololithic stellar map floating between them — the nine systems of the **Nine Phalanx** glowing amber.
 
-— *They look at me and see fear* — Alaric’s voice was deep, thrumming through the deck. — *They see death incarnate. It must be so. But a realm cannot be built on fear alone.*
+— They look at me and see fear — Alaric said. His voice was deep, thrumming through the deck. — They see death incarnate. It must be so. But a realm cannot be built on fear alone.
 
 He pointed a deactivated lightning claw at Elara.
 
-— *The Throne’s briefing, from this cycle on, passes through you. Logistics, diplomacy, bread and water. You are the voice that translates our silence. You are the eyes that see where our sights cannot reach.* — He paused, and for a second the helm’s red lens seemed to soften. — *I am the Hand that destroys. You are the Mind that preserves. Do not blink, Admiral.*
+— The Throne’s briefing, from this cycle on, passes through you — he said. — Logistics, diplomacy, bread and water. You are the voice that translates our silence. You are the eyes that see where our sights cannot reach.
+
+He paused, and for a second the helm’s red lens seemed to soften.
+
+— I am the Hand that destroys. You are the Mind that preserves. Do not blink, Admiral.
 
 **IV. Epilogue: The Link (~180.M42 · present staff lock)**
 

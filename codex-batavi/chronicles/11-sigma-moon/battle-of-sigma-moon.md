@@ -142,9 +142,11 @@ Evacuation advanced.
 
 Alaric was struck by Angron’s left wing in the thirty-first minute and lost the right arm below the elbow. *Castra-Lupus* ceramite shattered with bone. The arm, gauntlet, and Aethelgard Claws on it vanished under debris.
 
-Drusus, on vox: — Castellan. Critical damage to right limb. Protocol of—
+Drusus, on vox:
 
-— *Silence.* — Alaric’s voice was as always. — *We hold.*
+— Castellan — Drusus said. — Critical damage to right limb. Protocol of—
+
+— Silence — Alaric said. — We hold.
 
 ---
 

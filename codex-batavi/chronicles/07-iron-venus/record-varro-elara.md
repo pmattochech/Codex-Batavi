@@ -26,7 +26,7 @@ When Alaric yielded space and she breathed under the scanner, the silence that s
 
 I set my gauntlet on his shoulder. I asked if he felt purpose — because the question was weapon and balm at once: force language where instinct wanted only to possess.
 
-— *I feel fear,* — he said.
+— I feel fear — he said.
 
 I kept the phrase like one keeps a dangerous verse. **Fear** does not invalidate purpose; it proves the threshold still exists. If he feared crushing her, there was still a limit between the hand of war and the hand of a father — even if the *Codex* gives no pretty name to that.
 

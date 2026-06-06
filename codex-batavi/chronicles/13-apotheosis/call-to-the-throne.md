@@ -101,7 +101,7 @@ Drusus walked ahead. Cell records were on his panel.
 
 Trajann processed that in silence.
 
-— *Adversarii at Portas* — he repeated. — You release battle-brothers as area weapons.
+— Adversarii at Portas — he repeated. — You release battle-brothers as area weapons.
 
 — We release instruments who chose to be area weapons — said Varro, without inflection. — The Testament is irrevocable because it was signed while the mind still worked. We honor the choice the man made before he became the beast.
 
@@ -213,9 +213,9 @@ He looked at Tyvar.
 
 Trajann looked at the Castellan a moment. Then at Tyvar.
 
-— **One hundred twenty-seven years** — he said.
+— One hundred twenty-seven years — he said.
 
-— **One hundred twenty-eight** in three months — said Tyvar.
+— One hundred twenty-eight in three months — Tyvar said.
 
 — And your judgment? — said Trajann. The question was direct, meant for the Custodes, not the Castellan. — After **one hundred twenty-eight years**. Does the instrument still work?
 
@@ -251,7 +251,7 @@ Trajann opened a sealed compartment on his armor forearm — a gesture Custodes 
 
 Trajann walked to Tyvar and placed the cylinder in the Custodes’ hand.
 
-— *Nihili Protocol* — he said. — Activation requires physical breakage of the sigil followed by a six-digit code you will receive on a separate channel. Effect: cascading overload of Blackstone Pylons on the border network — **network sterilization**, warp-leg severance, mesh collapse inward so traitors inherit nothing.
+— Nihili Protocol — he said. — Activation requires physical breakage of the sigil followed by a six-digit code you will receive on a separate channel. Effect: cascading overload of Blackstone Pylons on the border network — **network sterilization**, warp-leg severance, mesh collapse inward so traitors inherit nothing.
 
 A pause.
 
@@ -299,7 +299,7 @@ When he left, the outbound transmission was a single line, without formal protoc
 
 Alaric read the transmission in the *Strategium*. Then he looked at Tyvar, in standard position beside the forge window.
 
-— **Witness Ford** — said Alaric. — Evil does not pass inward. Need passes under filter.
+— Witness Ford — Alaric said. — Evil does not pass inward. Need passes under filter.
 
 — If the wall fails — said Tyvar — the mesh must not leave a breach.
 
