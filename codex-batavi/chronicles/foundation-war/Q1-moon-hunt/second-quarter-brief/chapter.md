@@ -90,7 +90,8 @@ The pane dimmed. The tent did not relax. Relaxation was for cities that believed
 
 A Navy liaison at the back — **Lord-Captain Varche**’s proxy, spine stiff with borrowed dignity — asked whether double-stamp manifests would *delay* spearhead solvency. **Valerius** answered before Alaric could spend hinge-voice on arithmetic that mortals mistook for cruelty.
 
-— Solvency is not speed — Valerius said. — Solvency is **knowing which debt you are paying when the tide asks**.
+— Solvency is not speed — Valerius said.
+— Solvency is **knowing which debt you are paying when the tide asks**.
 
 The liaison wrote nothing down. Writing would have admitted fear. Fear, in admiralty rooms, was filed in private slates or not at all.
 
@@ -138,12 +139,6 @@ He nodded once. She nodded once. Two nods, no audience, enough receipt for a qua
 
 **Drusus** saw the exchange on a peripheral slate and did not log it. Some data corrupted when you filed it; some debts stayed honest only while they remained **unstamped**.
 
-**Kadmos** posted embarkation cordon one meter deeper — geometry as insurance — because quarter close was integer that ate trust from inside and trust required witness routes only before inverted hive taught hooks.
-
-**Merit** tried once to clip a recorder to tent hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as quarter-close packages when Pier Nine trace still traveled south as sequence, not prophecy.
-
-**Varro** listened to Type **B** cadence march inland without adding theology — *Codex* death-skull catching lamplight wrong — because theology would have turned schism into **sermon** before Q2 opened in kin-network grammar.
-
 Rain worked the tent flap like a metronome Aethelgard refused to charge for. Somewhere inland, Type **B** cadence still marched — soldiers remaining while hunters withdrew, two dialects on one cord — and the quarter closed knowing Incus would teach them what trust eaten from within felt like when quotas sang in rounds and midwives counted beside throughput charts.
 
 ---
@@ -184,76 +179,41 @@ He turned toward the embarkation line. The second syllabus had already begun.
 
 Rothmar wiped. The cloth came away gray. Montage had not begun yet, but the lesson had: **Shared Sweat** before slang, shame before compass, placement before virtue.
 
-**Varro** walked the embarkation perimeter without speeches — *Codex* death-skull steady, censers cold — laying binds along choke points where mortals might bunch when fear found a shape. Bunching killed on beaches; it would kill in hive ash too. Prevention was chaplain work wearing logistics uniform.
-
-**Drusus** checked Kaell’s baseline one last time on a slate he should not have opened in rain — correlation, not proof — and sealed it before captains could mistake rhyme for **oracle**. Sequence, not prophecy. Triumvirate seal. Witness routes only.
-
 Inverted hive waited in ash and quotas. Output quota. Ring of teeth. Exanimus Choir still years away on annals, but Furor slope was already climbing in telemetry nobody yet dared name doctrine.
 
 Threx had promised careful digging. Valerius had promised double-stamp manifests. Drusus had promised correlation under Triumvirate seal. Kadmos had promised two ledgers cut from one cord.
 
-Boy had said *you keep cages too*. Kaell had taught firebase what friendly fire sounded like when it laughed.
+The boy had said *you keep cages too*. Kaell had taught firebase what friendly fire sounded like when it laughed.
 
-Chapter left Aethelgard with mud in tread and arithmetic in lungs — not *Der Batav*, not *We hold*, not yet — only **continue**, wax on deployment order, witness routes beginning as habit.
+The Chapter left Aethelgard with mud in tread and arithmetic in lungs — not *Der Batav*, not *We hold*, not yet — only **continue**, wax on deployment order, witness routes beginning as habit.
 
 **Echo** listened at hololith dim for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing Q1 close as sequence before inverted hive dressed kin-network as throughput.
 
-**Orwen** copied embarkation timestamps into testimony prep without adjectives — ranges, no metaphors — because hololith dimmed peace hid teeth ash would teach the mesh to file honestly.
+**Sera** tagged southbound handshake *monitor only* until **Pol**'s seed starved merge columns and Q2 opening earned attested injury at ash threshold.
 
-**Sera** tagged southbound handshake *monitor only* until Pol seed starved merge columns and Q2 opening earned attested injury.
+**Orwen** copied embarkation timestamps into testimony prep without adjectives — ranges, no metaphors — because hololith dimmed peace hid teeth ash would teach the mesh to file honestly.
 
 **Varche** logged quarter embarkation on the Navy pane without romance — integers, not closure — because parallel filing was debt admiralties could not sleep on while trust traveled south.
 
 **Kessler** raised three fingers at canvas strike — witness route only — because southbound treads still spellable in muscle beat hololith columns that omitted Pier Nine's empty cage.
 
-**Valerius** watched Thunderhawks cough heat into the storm and filed embarkation one last time — double-stamp, Marine lift beside auxilia hold — because Incus would ask for both kinds of solvency and bankrupt anyone who merged them. **Kadmos** murmured a correction to a rally grid; **Varro** did not murmur; the quarter closed knowing **two dialects** still marched on one cord.
+**Drusus** sealed the Q1 close margin one last time — *Moon Hunt braid travels south; Kaell correlation rhyming; boy's sentence unstamped; do not brief captains* — correlation, not proof; sequence, not prophecy.
 
-**Alaric** stood at hololith lip one minute after canvas struck and did not remove his helm — continuity, not spectacle — while Q1 closed in integers that opened ash and Moon Hunt’s braid traveled south like infection shaped like memory. He did not brief captains. Briefing would have turned rhyme into **oracle**.
+**Kadmos** saved the Pier Nine stub under *hostile capture; echo stub* and replayed Kaell's correlation until harmonics looked like veins — Ring minutes, Incus quotas, hostage geometry — same cruel mathematics wearing different weather.
 
-**Varro** filed the Second Quarter threshold as proto-rite — seal attempted, not victory — and listened to deck whispers that were almost Batavi until static swallowed them: mimicry without consent still violence, even when kill-marks still polished like jewelry.
-
-**Kadmos** saved the Pier Nine stub under *hostile capture; echo stub* and replayed Kaell’s correlation until harmonics looked like veins — Ring minutes, Incus quotas, hostage geometry priced in bodies — same cruel mathematics wearing different weather.
+**Varro** filed the Second Quarter threshold as proto-rite — seal attempted, not victory — and listened to deck whispers that were almost Batavi until static swallowed them: mimicry without consent still violence, even when kill-marks wiped gray.
 
 **Merit** tried once to clip a recorder to the hololith dimming sequence until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as Moon Hunt nostalgia packages that let admiralties sleep.
 
-
-
-**Iria** passed embarkation one last time with tide chart in her cuff and did not seek Alaric’s eyes. Two nods, no audience, enough receipt for a quarter that closed in integers and opened in ash.
-
-Canvas struck. Rain forgot the embarkation spine and left only stamp-clicks and southbound treads — closure another word for ash the inverted hive would teach the mesh to file before vocabulary arrived to refuse it politely.
-
----
-
-## IX. Southbound Ledger
-
-Hololith dimmed until southbound treads looked like peace — peace another word for **Q1 close** hiding teeth Incus-Gravis would eat from inside: Pier Nine trace, boy’s sentence, Kaell’s correlation, Type **B** cadence marching inland like soldier persistence.
-
-**Drusus** sealed the Q1 close margin one last time — *Moon Hunt braid travels south; Kaell correlation rhyming; boy’s sentence unstamped; do not brief captains* — because briefing would have turned Pier Nine trace into **oracle** before ash taught curriculum.
+**Valerius** stamped the Q2 opening slate twice before dawn — spearhead solvency beside mortal payroll still breathing — because inverted hive would ask for both kinds of debt and bankrupt anyone who merged them.
 
 **Alaric** walked embarkation lip last without theater — hinge-work — and did not say *We hold.* Holding, here, was southbound treads still spellable — fewer on paper, more in muscle — before Q2 opened in integers that ate trust from inside.
 
-**Valerius** stamped the Q2 opening slate twice before dawn — spearhead solvency beside mortal payroll still breathing — because inverted hive would ask for both kinds of debt and bankrupt anyone who merged them.
-
-**Rothmar** boarded south transit with kill-marks wiped gray — Shared Sweat before slang — learning hololith columns omitted Pier Nine’s empty cage on purpose.
-
-**Kaell**’s hololith marriage would never arrive on schedule — Versibar steam not yet named — but cord-weight had already spent him in integers that opened ash.
-
-**Orwen** filed Q1 close without adjectives — timestamps, ranges, no metaphors — because facts laid like bricks survived longer than hololith dimmed peace hiding teeth Incus would eat from inside.
-
-**Varche**’s proxy would ask whether double-stamp manifests delayed spearhead solvency — **Valerius** would answer before Alaric spent hinge-voice on arithmetic mortals mistook for cruelty.
-
-**Pol**’s seed — monitor only — would rhyme with Q1 close braid until Drusus starved merge and inverted hive stayed sequence not prophecy on open channels.
-
-**Varro** filed Second Quarter threshold as proto-rite — seal attempted, not victory — mimicry without consent still violence even when kill-marks wiped gray.
-
-**Iria** passed canvas strike with tide chart in cuff — two nods, no audience — enough receipt for a quarter that closed in integers and opened in ash.
-
-**Drusus** checked Kaell baseline one last time under Triumvirate seal — correlation, not proof — sequence, not prophecy, before inverted hive ate trust from inside.
-**Rothmar** wiped gray from kill-marks on south transit — Shared Sweat before slang — learning hololith columns omitted Pier Nine on purpose.
+Canvas struck. Rain forgot the embarkation spine and left only stamp-clicks and southbound treads — closure another word for ash the inverted hive would teach the mesh to file before vocabulary arrived to refuse it politely.
 
 Interest collecting teeth before receipts.
 
-Hololith dimmed. South embarkation. Q2 opened.
+Hololith dimmed. Q1 closed. Pier Nine trace. Boy's sentence. Kaell correlation. Type B cadence marching inland. South embarkation. Q2 opened.
 
 Always owed.
 
