@@ -13,8 +13,6 @@
 
 ---
 
-## I. Interrogating Biology
-
 By the fifth year of the Castra Vetera crucible, void traffic had begun to learn a new dishonesty: routes that looked straight on charts acquired polite curves, and convoy masters spoke of *mirror hygiene* the way sane men speak of washing hands — ritual without theology, because theology would have admitted the mirrors were not washing anything, only returning a face you were not sure belonged to you.
 
 Forty-six names from **Promise of Tithing** still sat in **Valerius**’s ledger like teeth the Chapter could not stop tonguing. **Pryce**’s last three words — *not us; repeat* — had become a superstition officers repeated when auspex returned green too eagerly.
@@ -25,11 +23,7 @@ What he needed now was not another tableau of absent Marines — boots aligned l
 
 A live hunter was a sensor you could not buy from Mars. It was also an admission that the Chapter had moved from hunting an opponent to interrogating a biology, and that the Apothecary’s art, at its root, was the same as the stalker’s: decide what still counts as a person when the teeth come out.
 
----
-
-## II. Glass Rills — Keep the Nervous System Talking
-
-They had taken this one along the **Glass Rills**, where quartz grit and tidal shallows turned movement into light and light into accusation — the same wound-geometry **Iria** had walked as bait two years prior, though Drusus did not say that aloud on the pier because saying it would have filed shame as **procedure**. Kadmos’s ambush had worked well enough to wound without finishing — an ugly precision Drusus had requested in terms that made even veteran sergeants flinch, because *keep the nervous system talking* sounds like mercy only until you watch a xenos limb hang by filament and realize mercy was never the verb in the sentence.
+When capture finally came, they had taken this one along the **Glass Rills**, where quartz grit and tidal shallows turned movement into light and light into accusation — the same wound-geometry **Iria** had walked as bait two years prior, though Drusus did not say that aloud on the pier because saying it would have filed shame as **procedure**. Kadmos’s ambush had worked well enough to wound without finishing — an ugly precision Drusus had requested in terms that made even veteran sergeants flinch, because *keep the nervous system talking* sounds like mercy only until you watch a xenos limb hang by filament and realize mercy was never the verb in the sentence.
 
 The creature still wore mimic-mesh in places, the fabric half sloughed like shed skin, leaving patches of slick hide and the obscene suggestion of a Guard silhouette at the wrong distance. Its mandible-mask — part armor, part cartoon of a human jaw — caught rain and held it in beads until the beads became a second mouth, jeweled and stupid and cruel. When it breathed, the sound was too controlled for an animal in shock; when it watched the line of Astartes that dragged it toward the sea, its eyes behind biomatrix glass tracked motion the way a schola instructor tracks a student who has not yet earned the right to fail.
 
@@ -39,11 +33,7 @@ The Chapter filed the quarry under a label the *Lex Ignis* catalogs would later 
 
 The capture kinship that bound this specimen to earlier horrors was not myth; it was doctrine written in absence. Boots in pairs at Sallow Morrow. Gear arranged like offerings. **Rhylan**’s bolt shell standing upright in mud too regular for wind. The sealed tissue from the first clean hunter-kill still hummed in null-storage with a harmonic rhyme Drusus had logged as *unverified cross-theater coupling* after the Silica Field — quartz scream and void reflection attending the same school. The live hunter was a thread pulled from the same weave, and Drusus intended to follow it until the weave tore or confessed.
 
----
-
-## III. Pier Nine — If It Sleeps, We Learn Sleep
-
-**Pier Nine** had been a fish-gut staging ground before the war made it a sacrament of inconvenience. Now it smelled of ozone from null-fields, copper from old blood, and the sweet rot that clung to nets no one had time to mend. The cage rose where cranes once swung catches — an insult to hospitality, as the Needles muttered, because hospitality on Aethelgard meant sharing salt, not displaying a neighbor’s predator like a lesson.
+For display, **Pier Nine** had been a fish-gut staging ground before the war made it a sacrament of inconvenience. Now it smelled of ozone from null-fields, copper from old blood, and the sweet rot that clung to nets no one had time to mend. The cage rose where cranes once swung catches — an insult to hospitality, as the Needles muttered, because hospitality on Aethelgard meant sharing salt, not displaying a neighbor’s predator like a lesson.
 
 Null-fields hummed at a frequency that worked into teeth and made molars ache with the sensation of being filed. Sedation mist drifted in bands calibrated to insult xenos chemistry without granting the clean exit of unconsciousness; Drusus had argued for that cruelty in a tone so flat the Strategium mistook it for dispassion until Alaric translated it for them afterward: *If it sleeps, we learn sleep.*
 
@@ -70,10 +60,6 @@ The boy hesitated with the exquisite honesty of youth, caught between obedience 
 The water-bearer learned a lesson Pier Nine would tattoo into him: **witness** was not the same as *audience*. He stayed behind the rail after Iria’s grip released, fingers white on the skin straps, eyes on the cage mesh until rain beaded the biomatrix glass and made the hunter look like a constellation you could not trust. He would carry that constellation into the boy’s sentence later — *you keep cages too* — not as accusation alone, but as **geometry**: cages visible, cages admitted, cages still cages even when the keepers wore ceramite.
 
 **Kessler** saw him hold the line and did not praise him. Praise turned discipline into theater. She only adjusted his strap once, rough as a sister, and returned to the outer cordon where anger still needed horizon.
-
----
-
-## IV. Auditioning the Courtroom
 
 When the cage sealed and the null-field settled into its steady ache, Drusus allowed himself three seconds with eyes closed — not prayer, calibration. He listened to the specimen’s respiration through the pickup woven into the mesh. Fourteen breaths per minute. Too slow for true panic. Heart rate banded in a narrow window that spoke of training or of biology that did not bother with adrenaline spikes humans could read. On his helm display he called up the truncated baseline from Torven’s site — thermal ghosts, particulate traces, useless for a live chart — and felt the old shame of incomplete data like grit under a seal.
 
@@ -113,10 +99,6 @@ The boy behind the bone rail did not know he was being graded. He only knew rain
 
 **Kessler** saw the gaze land and stepped half a pace into the sightline — not shield, **witness** — because some lessons had to be seen by someone who would still shoot the ground first if laughter came bolt-deep without humor. The specimen’s pupils tracked the movement, reassessed, returned to Alaric. *Rank*, Drusus wrote in the margin. *Intervention hierarchy. Courtroom, not hunt.*
 
----
-
-## V. Type B — Sanitizing Shame
-
 Then the soldiers came, and the pier learned that Type **B** does not debate custody.
 
 They hit the cordon like a second tide — no warning shout, no challenge the *Codex* would have recognized as kin. Faunal assets snapped low at knees, all sinew and trained trajectory; enforcers rose behind them with the bored efficiency of men who had been told to clean a mess before it became language. Their weapons chewed cover shaped for duels rather than clearance, because their war was not knightly; it was **courtroom violence** dressed as pack instinct. They did not roar. They removed obstacles the way housekeepers remove guests who have embarrassed the clan — firm, practiced, offended in a way that did not require facial expression.
@@ -153,10 +135,6 @@ Rain tried to wash the pier clean and failed the way rain always failed on Aethe
 
 **Varro** moved along the bone rail once more, censers cold, and did not bless the dead hunter. Blessing would have implied the courthouse had been **holy**. It had only been **efficient**.
 
----
-
-## VI. You Keep Cages Too
-
 The cry that broke it belonged to the boy who had carried skins and thirst and the fatal habit of looking. He dropped his burdens and stared at Alaric through rain-smear and smoke, not as savior but as second monster in a world that had standardized monstrosity until rescue itself wore the silhouette of appetite.
 
 Iria caught the sob when it came — translation not as language alone but as verdict, the way she always did when the Needles chose blunt water over High Gothic.
@@ -191,11 +169,7 @@ He appended one private line he did not share on open *vox*: *Type A pupil respo
 
 The sentence was hope dressed as procedure. He knew it. He wrote it anyway.
 
----
-
-## VII. Proportion — Rarest Mercy
-
-Varro scrubbed blood off bone rails until his gauntlets steamed, working prayers into friction because he had learned long ago that rites which did not cost labor became gossip. That night he did not pray for victory. He prayed for proportion — the rarest mercy in a universe that loved extremes — and listened to the sea take the pier’s leavings the way confessions are taken when no priest remains: without comment, without forgiveness, only weight.
+That night, Varro scrubbed blood off bone rails until his gauntlets steamed, working prayers into friction because he had learned long ago that rites which did not cost labor became gossip. That night he did not pray for victory. He prayed for proportion — the rarest mercy in a universe that loved extremes — and listened to the sea take the pier’s leavings the way confessions are taken when no priest remains: without comment, without forgiveness, only weight.
 
 When the last lumen on the mezzanine cut out, Threx’s aug-eyes lingered on the empty cage one second longer than courtesy required, as if absence were a sample. Drusus lingered too, auspex dark, listening to rain resettle on mesh. Somewhere inland, Type **B** cadence marched to a rhythm the pier had not stopped — only interrupted — and the interruption would appear on someone’s ledger as profit lost.
 
@@ -212,10 +186,6 @@ When the last lumen on the mezzanine cut out, Threx’s aug-eyes lingered on the
 **Iria** led the water-bearer landward without ceremony — word by careful word, language rebuilt elsewhere — and untied no bell. At the stair-foot she stopped once and looked back at the empty cage — null-field still humming, mesh still beaded with rain — and untied no bell again. She had buried one after the bait kill. She would not bury another after a lesson the sea had already filed.
 
 **Alaric** walked the landward stairs last, boots heavy with the particular gravity of a man who had won a fight and filed a defeat. He did not say *We hold.* Holding, tonight, meant carrying a child's sentence in your helm display until it became weight you could not delete — grit in a seal joint invisible until pressure found it, impossible to erase without lying to the mesh.
-
----
-
-## VIII. Witnessed — Moving On
 
 The pier kept humming. The crucible kept its specimen — dead now, disputed, **witnessed** — and moved on toward the next debt.
 
