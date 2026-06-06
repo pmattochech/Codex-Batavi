@@ -2,14 +2,15 @@
 
 **Status:** **Retcon pipeline complete (Phases 3–5).** Deep prose (Q0 + 38 chapters); **`Next:`** chain verified. **Phase 4:** myth, glossary, chronology, progenitor, dossier wound tags. **Phase 5:** repo-wide audit pass — staff/atlas/biology pointers repointed; legacy duplicate index trimmed. See [`../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md) §Phase 5 checklist.
 
-**Density pass (complete):** §VIII dedupe + companion-tail normalization across all 39 `chapter.md` files. **Serial total:** **10,343 lines** on disk (`wc -l`). **Bands:**
+**Density pass (complete):** §VIII dedupe + single forward handoff coda across all 39 `chapter.md` files (May 2026). **Serial total:** **9,176 lines** on disk (`wc -l`). **Bands:**
 
 | Band | Lines | Count | Notes |
 | --- | ---: | ---: | --- |
-| Prelude peak | 364 | 1 | Q0 `distress-vector` |
-| Chapter peaks | 285 | 3 | `living-specimen`, `incus-still-burns`, `the-beast-chapter` |
-| Secondary | 264 | 6 | Q1 `second-quarter-brief`; Q2 `exanimus-choir`, `inverted-hive`; Q3 `bridge-saints`, `forward-to-the-crown`, `maw-exercise` |
-| Floor | 260 | 29 | All other chapters |
+| Prelude peak | 356 | 1 | Q0 `distress-vector` — long cold open; companion tail trimmed |
+| Chapter ceiling | 262 | 1 | Q3 `the-beast-chapter` |
+| Q1 floor | 260 | 7 | Moon Hunt chapters at depth contract |
+| Mid band | 230–254 | 8 | Q3 Gulf peaks + Q4 `we-hold-anyway` |
+| Trim floor | 208–226 | 22 | Q2–Q4 post-pass codas |
 
 Codas: **Interest → stamp line → Always owed** (or quarter-specific liturgy exceptions: Ch.35 / Ch.38 ***We hold anyway*** as **instrument**). No ledger-after-Interest stacks.
 

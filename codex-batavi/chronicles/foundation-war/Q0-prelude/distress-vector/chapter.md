@@ -344,15 +344,7 @@ The distress packet sat on the slate with its polite thanks.
 
 The Grey Hounds began to run — behind a Rogue Trader's amber braid, toward a crucible that did not yet have their name.
 
-**Kadmos** would hold Thornwake's honor line on the outer ring — witness before throughput — because joint review was posture not package and **Castra Vetera** mesh would tax both ledgers before the Chapter earned a name it could salute without lying.
-
-**Drusus** appended a private margin for translation burn — *Thornwake partial chart; treat as sequence only until attested; do not brief captains* — not prophecy, **sequence**, because briefing would have turned amber braid into **oracle** before Moon Hunt taught the pier that live alphabets could die in courthouses.
-
-**Valerius** stamped the departure slate twice — Marine continuity beside mortal witness count intact — because parallel filing was sometimes the only mercy institutions could afford before integers opened ash.
-
-**Echo** listened at translation burn for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing amber braid as sequence before Moon Hunt taught pier that live alphabets could die in courthouses.
-
-**Sera** tagged departure handshake *monitor only* until Pol seed starved merge columns and Mud Gospel earned attested injury at CV hour zero.
+**Drusus** appended a private margin for translation burn — *Thornwake partial chart; sequence only until attested; do not brief captains* — not prophecy, **sequence**, because briefing would have turned amber braid into **oracle** before Moon Hunt taught the pier that live alphabets could die in courthouses. **Valerius** stamped the departure slate twice — Marine continuity beside mortal witness count intact. **Sera** tagged departure handshake *monitor only* until Pol seed starved merge columns and Mud Gospel earned attested injury at CV hour zero.
 
 Interest collecting teeth before receipts.
 
