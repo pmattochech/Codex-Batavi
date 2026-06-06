@@ -13,6 +13,8 @@
 
 Codas: **Interest → stamp line → Always owed** (or quarter-specific liturgy exceptions: Ch.35 / Ch.38 ***We hold anyway*** as **instrument**). No ledger-after-Interest stacks.
 
+**Dialogue register (ABNT):** Serial speech uses **em-dash framing** per [`.cursorrules`](../../.cursorrules) §0.1 — verified across all 39 `chapter.md` files (May 2026 audit). Mid-line narrator qualifiers after the tag (*— Drusus said, channel private —*) are intentional; US/UK comma-tags (`— Word, he said.`) are absent.
+
 **Purpose:** Slug-based crucible serial under **Castra Vetera** annals. Read order is **`INDEX.md`** (source of truth); each `chapter.md` ends with a **`Next:`** link for linear reading.
 
 **Workflow spec:** [`../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md`](../../planning/FOUNDATION-WAR-REWRITE-SCAFFOLD.md)

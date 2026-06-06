@@ -1,6 +1,6 @@
 # Q1 — Moon Hunt
 
-**CV span (draft):** y0–y7 · **Thesis:** prey before name; Aethelgard crucible; first joint “too neat” patterns. · **Prose:** complete (Phase 3)
+**CV span (draft):** y0–y7 · **Thesis:** prey before name; Aethelgard crucible; first joint “too neat” patterns. · **Prose:** complete (Phase 3) · **Dialogue:** ABNT em-dash (audited)
 
 **Saga:** [../INDEX.md](../INDEX.md) · [../README.md](../README.md) · **Geography:** [`../../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md)
 
