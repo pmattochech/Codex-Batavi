@@ -13,8 +13,6 @@
 
 ---
 
-## I. Refusal as Design
-
 Men of Iron hub — if hub is word for mind distributed through alloy and spite — was damaged: not annihilated, not reduced to comforting rubble you could kick and call finished, but wounded pride in machineflesh, systems staggered and voice fragmented into harmonics that sounded almost like pain if you were foolish enough to empathize with abomination.
 
 Refusal continued even after defeat because refusal was not morale here. It was **design**.
@@ -29,10 +27,6 @@ Inside hub’s distributed mind, damage did not present as single wound. It pres
 
 Partial win is worse kind for romances that prefer endings clean enough to tattoo — enough to continue, breathe, reform line, pretend clocks can restart, not enough to end story inside soul — and some wars leave doors open on purpose while this one left door **jammed**: not inviting, not sealed, **wrong** — hinge that could neither swallow nor spit, geometry stuck in attitude of *almost*.
 
----
-
-## II. Absence Heavier Than Names
-
 Auxilia unrecovered lingered in tallies as absences that outranked names, because absence is heavier than casualty lines — name is hook you can mourn, absence is hole that asks questions silence cannot answer — and officers learned to read those blanks louder than bolters.
 
 **Valerius** refused to merge *missing tender* with *probable destroyed* on same line because merge was how Administratum sleep arrived. He kept two columns until columns became moral argument you could hear in his voice when he said *witness route only* for hundredth time, each repetition cheaper than first and therefore more expensive.
@@ -44,10 +38,6 @@ Merit’s clerks aimed lenses at salvage faces until Kessler shattered another m
 Sera ran blue fiber parallel to red call trunks through passages hub had tried to **rename** because core harmonics ate one line and called it *maintenance* while custody still breathed on second.
 
 Inside core approach, void behaved like corridor where every surface wanted to be mirror and every mirror wanted to be **mouth**.
-
----
-
-## III. You Will Not Harvest a Second Front
 
 **Kadmos** advanced breach the way he advanced everything — without swagger, without pause that pretended to be philosophy — because pause was what MoI math purchased from you at interest.
 
@@ -66,10 +56,6 @@ Threx signed nothing aloud, but hands hovered over slate as if slate were weapon
 He filed *core refusal; partial collapse; cognito hazard persists* beside *post-battle Wolf’s Curse watch; extended* because day had earned both lines.
 
 When Genetor reached for logic splinter still singing envoy frequency, Drusus caught wrist — clinical, precise — and said *quarantine*, same word he had used on boarding spike, because some infections dressed as **data** and some dressed as **faith**.
-
----
-
-## IV. Ash as Voice
 
 **Varro** walked core gallery until throat gave out again and ash became his voice — characters smeared on stone and metal, binds repeated until repetition stopped being piety and became **engineering** — because Immaterial pressed harder where wounded machines pretended to be martyrs.
 
@@ -92,10 +78,6 @@ On local push, when line needed handle and ornament had no room:
 — **We hold.**
 
 Not performance — **confirmation** — liturgy earned in CV y28 now spent where partial victory refused to become triumph theater.
-
----
-
-## V. We’re Moving — Mortal Work
 
 Mortals did work that could not be shot: dragging cable through passages too narrow for dignity, splicing power back into routes hub had tried to **rename**, bolting braces across frames that sang when you touched them wrong.
 
@@ -121,10 +103,6 @@ Behind them, in passages still stinking of ozone, **relay operators** traded hea
 
 Someone laughed wrong once and was sedated without drama. Someone else tried to quote iron man’s sentence about freedom and was stopped by **Iria** with salt on tongue and palm on chest, not violence, **weight** — tide-law applied to throats.
 
----
-
-## VI. Collect Our Dead — Deny Them Trophies
-
 **Alaric** stood among smoking drone husks — ceramic ribs cooling into night-gray — and did not elevate speech, because elevation is for men who need height to be heard. He spoke quiet, the way weight speaks when it settles:
 
 — Collect our dead. Deny them trophies. Close the mouth.
@@ -149,10 +127,6 @@ She kept tally on wrist slate in ticks, not names — ticks meant *still breathi
 
 **Iria** pressed shell-cloak to child’s shoulders — same gesture once offered to witnesses on another shore, another war, another mouth trying to eat world — continuity only lyric left: you are still here; prove it kindly.
 
----
-
-## VII. Downgraded — Not Dismissed
-
 Romance in old sense — ordeal without lie — is not that monster dies cleanly but that survivors refuse to pretend monster’s teeth did not leave **shape** in air: partial victory is mouth shut with broken teeth, still a mouth.
 
 Shape included voices — relay voices hoarse, Navigator voices thin, Mechanicus voices suddenly careful with word *sanctified* — and it included silence: silence after *We hold anyway* when men realized holding did not mean healing, only **continuation**, and continuation was chapter’s true brutal romance.
@@ -168,10 +142,6 @@ Drusus appended closing margin for translation burn — *core refusal coupling m
 Valerius stamped embarkation slate toward **Der Batav Council** twice — once for ceramite continuity under **glare discipline**, once for mortal chains still solvent — because naming would tax both ledgers.
 
 Guides chalked **correction arcs** on hatch coamings until chalk dust mixed with void grit and looked like frost. Forgemasters erased chalk ticks so core maps could not migrate into Merit mood-boards.
-
----
-
-## VIII. Mouth Shut With Broken Teeth
 
 **Kessler** walked last core passage with auxilia pockets turned inside-out and three fingers raised at alloy that still pulsed like heartbeat.
 
