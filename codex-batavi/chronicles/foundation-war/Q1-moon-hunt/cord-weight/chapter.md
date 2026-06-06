@@ -91,13 +91,11 @@ The execution was Triumvirate ritual before it was law — not because the *Code
 
 Alaric’s hand found the macro-pattern of violence: not malice, *office* — the Castellan as closure, the weight that ends a line so others can continue drawing. The **cord** did not snap in his grip. It **transferred** — duty moving through his arm into Kaell’s ending the way current moves through a wire until the wire burns.
 
-Drusus was clinical because tenderness would have murdered someone else a breath later; his instruments did their work without apology, and apology would have been a lie Kaell could not hear anyway. Varro intoned the first bindings that would later harden into rites — words meant not to comfort the dying but to seal what dying must not echo into the living, each syllable a nail driven into air as if air could hold a door shut. His *Codex* death-skull remained a fixed point above steam and rain, unmoved by muzzle flash, unmoved by the mortal officers who retched because some bodies stay honest when oaths do not.
+Drusus was clinical because tenderness would have murdered someone else a breath later; his instruments did their work without apology, and apology would have been a lie Kaell could not hear anyway. Varro intoned the first bindings that would later harden into rites — words meant not to comfort the dying but to seal what dying must not echo into the living, each syllable a nail driven into air as if air could hold a door shut. His *Codex* death-skull remained a fixed point above steam and rain, unmoved by muzzle flash, unmoved by the mortal officers who retched because some bodies stay honest when oaths do not. **Furor** loved doors. Chaplains learned to close them without performing sainthood.
 
 Kaell’s blood hit rain and steamed. **Versibar** steam: the Apothecarion would attach the word later, clinical skin over a wound that refused to close. In the moment it was only heat leaving a brother too fast, and the smell mortals remembered when they lied about *clean* executions.
 
 Drusus tagged the remains with Pier Nine’s file number in the private buffer — **LIVE-CAPTURE / TYPE A** crossed out, **VERSIBAR TERMINATION / KAELL** beside it — not as superstition, as method. If a pattern existed between xenos patience and Batavi storm, he would drag it into light even when the light hurt. If no pattern existed, the cross-file would shame him into humility — which was also useful. Data was the exorcism he trusted; guilt the fuel he would not waste on adjectives; shame the stylus that wrote the next margin note.
-
-**Varro** intoned binds that would later harden into rites — not to comfort Kaell, who could no longer hear comfort, but to seal what dying must not echo into the living. Each syllable a nail driven into air as if air could hold a door shut. **Furor** loved doors. Chaplains learned to close them without performing sainthood.
 
 Lord-Captain **Helena Varche** had come ashore with the firebase relief column because Navy dignity insisted someone with stars witness what stars could not fix. Her pennant was pinned to mud-war as if titles could glue fleets to shingle; her jaw held like a keel refusing warp. She did not look away from Kaell’s steaming blood.
 
@@ -129,8 +127,6 @@ Varche wrote nothing down. Writing would have admitted the Needles woman had cor
 
 Far off, Type **B** did not charge the firebase’s ruin. It *measured*: step and pause tuned the way the specimen had *tracked* enforcers before sentence fell on Pier Nine — as if taking notes on how humans punished their own and whether the punishment matched the lesson. Drusus logged the parallel as *speculative* in the same buffer as Kaell’s cross-file and felt his stomach perform a marine’s forbidden flip anyway. Coincidence was a kind of theology he refused; echo was a kind of wound he could not refuse.
 
-**Varche** watched the female-pattern mass resolve and did not write Iria’s correction down. Writing would have admitted admiralty grammar had underestimated mothers of every species — including the one now measuring firebase shame from the ridgeline like a clerk auditing a debt the fleet had not yet learned to name.
-
 ---
 
 ## VI. Tomorrow We Punish Prediction Again
@@ -145,11 +141,11 @@ Kadmos spoke rough with care, the way craftsmen speak to tools that might crack 
 
 — Say it, sir. If you don’t, we will invent worse.
 
-Alaric answered not with confession but order —
+Alaric answered not with confession but order.
 
 — Tomorrow we rotate south. We punish prediction again.
 
-— which was confession anyway in the old romance habit where duty speaks when pride cannot, and the wall names the next horizon because naming is the only honest map left.
+Which was confession anyway in the old romance habit where duty speaks when pride cannot, and the wall names the next horizon because naming is the only honest map left.
 
 Kadmos exhaled through his teeth, nodded once, and returned to the watch roster as if the roster could hold what hearts could not.
 
@@ -181,14 +177,6 @@ Outside, Type **B** cadence faded into distance without vanishing — like a met
 
 **Iria** passed the firebase wire once, tide chart folded into her cuff, and did not seek Alaric’s eyes. Seeking would have turned witness into spectacle. She adjusted a water-point tally instead — correction for interval risk — the same vaccine she would later teach cables on gulf spines. Small mercies traveled farther than speeches when speeches still cost hinge-voice the Chapter could not spare.
 
-**Echo** listened at firebase wire for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing Versibar steam as sequence before Furor earned doctrine on open channels.
-
-**Sera** tagged Kaell correlation handshake *monitor only* until Pol seed starved merge columns and Second Quarter Brief earned attested injury.
-
-**Orwen** copied cord-cut timestamps into testimony prep without adjectives — ranges, no metaphors — because cult velocity dressed as Versibar nostalgia killed faster than purge cycles could answer.
-
-**Threx**'s remote channel would file *Versibar termination; yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like **solvency**.
-
 ---
 
 ## VIII. Second Quarter Brief Waits
@@ -205,51 +193,37 @@ Auxilia wrapped cord-cut dressings with hands that still remembered Kaell's bolt
 
 Second Quarter Brief waited. Incus-Gravis waited. Inverted hive waited in ash and quotas.
 
-**Merit** tried once to clip a recorder to the firebase hololith until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as Versibar nostalgia packages that let admiralties sleep while Kaell learned steam the hard way.
-
-The firebase cooled until Versibar steam looked like weather and weather looked like doctrine nobody yet dared name on open channels.
-
-**Kessler** posted the last pair with backs to backs. — If he laughs — she told a boy — shoot the ground first, then ask me. — Counting canteens until counting felt less like pessimism than kindness with arithmetic teeth.
-
-**Mira** stacked cord-cut tallies beside canteen counts without applause — witness without throughput — because Kaell's steam still rode in salt the boy's sentence would spend south.
-
-**Alaric** remained on the lip until the last auxilia litter cleared the wire. The cord had held. The brother had not. He did not say *We hold.* Holding, tonight, meant carrying arithmetic you could not merge into a single column you could salute without lying to the boy whose sentence still rode in salt.
-
-**Varche** watched the relief column embark without writing Iria's correction down — while **Valerius**'s double-stamp kept parallel columns from merging into one throat the mesh could choke on.
-
-**Drusus** did not brief captains on Kaell's cross-file. Briefing would have turned sequence into **oracle** the Second Quarter could not afford to salute before Incus taught trust eaten from inside.
-
-**Sera** tagged southbound embarkation handshake *monitor only* until merge columns starved and Second Quarter Brief earned attested injury at ash threshold.
-
-**Echo** listened at embarkation seam for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing silence as data because cord transferred was debt paid forward not closed.
-
-**Varro** listened to Versibar steam through chapel canvas — *Codex* death-skull steady — and filed threshold binding as proto-rite: seal attempted, not victory, because some binds were too young to name and too urgent to skip.
-
-**Kadmos** posted firebase cordon one meter deeper — geometry as insurance — because Versibar steam taught hold as weight before the word earned liturgy on open channels stripped to essentials.
-
-**Pol**'s seed — monitor only — would rhyme with Versibar steam until Drusus starved merge with Pier Nine pupil trace and Furor stayed vocabulary arriving late on open channels.
-
-**Orwen** filed cord-cut without adjectives — timestamps, ranges, no metaphors — because facts laid like bricks survived longer than accurate ones in war.
-
-**Santo** scrubbed cord-cut grit from his knuckles until skin turned raw — not clean, *honest* — hygiene extended to shame the Second Quarter would spend in ash.
-
-**Threx** would invoice Versibar termination as salvage-window breach — counter-written before protest landed — while **Valerius** stamped *witness route only* beside *yield preserved* and made friction look like **solvency**.
+**Merit** tried once to clip a recorder to the firebase hololith until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as Versibar nostalgia packages that let admiralties sleep while Furor slope climbed in telemetry nobody yet dared name doctrine.
 
 **Kaell**'s hololith marriage stub stayed **NOT FIELDED** — correlation without merge — because Furor had chosen him first in firebase arithmetic nobody yet dared name doctrine.
 
-**Merit** logged **NON-COMPLIANT** beside Kaell's hololith marriage stub — witness routes only — because Versibar nostalgia packages let admiralties sleep while Furor slope climbed in telemetry nobody yet dared name doctrine.
-**Rothmar** watched relief column embark and learned kill-marks meant nothing Versibar steam could not wipe gray before Shared Sweat earned its first honest lesson.
-**Valerius** stamped toward **Second Quarter Brief** twice before dawn — *cord-cut first named* beside *mortal witness count intact* — because integers would open ash when trust traveled south like infection shaped like memory.
-**Drusus** sealed Versibar stub one last time — *Furor slope climbing; DO NOT MERGE with Pier Nine pupil trace* — sequence, not prophecy, because steam was debt paid in firebases not pier courthouses.
-**Orwen** raised three fingers at firebase hololith blank sector — witness route only — because cord-cut first named was debt paid in firebases not pier courthouses.
+**Rothmar** watched the relief column embark and learned kill-marks meant nothing Versibar steam could not wipe gray before Shared Sweat earned its first honest lesson.
+
+**Varro** listened to Versibar steam through chapel canvas — *Codex* death-skull steady — and filed threshold binding as proto-rite: seal attempted, not victory, because some binds were too young to name and too urgent to skip.
+
+**Echo** listened at embarkation seam for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing silence as data because cord transferred was debt paid forward not closed.
+
+**Sera** tagged southbound embarkation handshake *monitor only* until **Pol**'s seed starved merge columns and Second Quarter Brief earned attested injury at ash threshold.
+
+**Santo** scrubbed cord-cut grit from his knuckles until skin turned raw — not clean, *honest* — hygiene extended to shame the Second Quarter would spend in ash.
+
+**Pol**'s seed — monitor only — would rhyme with Versibar steam until Drusus starved merge with Pier Nine pupil trace and Furor stayed vocabulary arriving late on open channels.
 
 **Mira** passed embarkation lip with tally ink on her knuckles and did not smile — witness without applause — while Type **B** cadence thinned into distance the way convoys heard tide.
 
-**Alaric** felt the boy's sentence settle in his helm display like grit in a seal joint — invisible until pressure found it — cord transferred, debt not closed.
+**Threx**'s remote channel would invoice Versibar termination as salvage-window breach — counter-written before protest landed — until **Valerius** stamped *witness route only* beside *yield preserved* and made friction look like **solvency**.
+
+**Valerius** stamped toward **Second Quarter Brief** twice before dawn — *cord-cut first named* beside *mortal witness count intact* — because integers would open ash when trust traveled south like infection shaped like memory.
+
+**Drusus** sealed Versibar stub one last time — *Furor slope climbing; DO NOT MERGE with Pier Nine pupil trace* — sequence, not prophecy, because steam was debt paid in firebases not pier courthouses.
+
+**Orwen** raised three fingers at firebase hololith blank sector — witness route only — because cord-cut first named was debt paid in firebases not pier courthouses.
 
 Interest collecting teeth before receipts.
 
 Versibar steam. Cord transferred. Firebase shame. Furor slope climbing in telemetry nobody yet dared name doctrine. Boy's sentence. Pier Nine trace sealed.
+
+Second Quarter Brief waiting in integers that would open ash.
 
 Always owed.
 
