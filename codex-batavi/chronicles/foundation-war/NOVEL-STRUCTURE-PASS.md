@@ -161,7 +161,7 @@ Mark `[x]` when structure pass is complete for that slug.
 | 21 | bridge-saints | `Q3-gulf-and-beast/bridge-saints/chapter.md` | [x] |
 | 22 | maw-exercise | `Q3-gulf-and-beast/maw-exercise/chapter.md` | [x] |
 | 23 | dynasty-last-command | `Q3-gulf-and-beast/dynasty-last-command/chapter.md` | [x] |
-| 24 | incus-still-burns | `Q3-gulf-and-beast/incus-still-burns/chapter.md` | [ ] |
+| 24 | incus-still-burns | `Q3-gulf-and-beast/incus-still-burns/chapter.md` | [x] |
 | 25 | the-beast-chapter | `Q3-gulf-and-beast/the-beast-chapter/chapter.md` | [ ] |
 | 26 | vitreus-bleed | `Q3-gulf-and-beast/vitreus-bleed/chapter.md` | [ ] |
 | 27 | half-chapter-still-standing | `Q3-gulf-and-beast/half-chapter-still-standing/chapter.md` | [ ] |

@@ -13,8 +13,6 @@
 
 ---
 
-## I. Memory Still Burns
-
 Incus still burned — not only **forges** but **memory**.
 
 The **backward braid** was not a single battle’s receipt. It was **pressure** carried home from gulf decks and sealed apertures until the echo crucible learned to **hum** in sympathy — stone remembering throat, machinery remembering obedience it had not chosen.
@@ -28,10 +26,6 @@ Valerius stamped **twice** what other officers stamped once — **witness routes
 The hand-written name sheet from sealed aperture still lived in his kit — ink smeared, *held* crossed out — and he filed Incus receipts beside it until duplicate pages became habit, not fetish.
 
 When a gang boss tried to trade rumor for rations — *dynasty voices in the wire* — Valerius answered with stamps and silence, because rumor eaten becomes **policy**, and policy here killed faster than hunger.
-
----
-
-## II. Work-Gangs and Witness
 
 **Work-gangs** moved through ruin as **obstacle** and **witness** both.
 
@@ -49,10 +43,6 @@ Sometimes that is the same prayer. Sometimes it is not.
 
 Children drew **maps** on slag with chalk arrows until parents scrubbed lines away. Kessler forbade pict rigs near juvenile hands because *witness throughput* could monetize family grief while grief still breathed.
 
----
-
-## III. Reading the Stacks
-
 The **reading** beat arrived where Incus always insisted truth live: in **auspex stacks** that could not decide whether harmonics were **malfunction** or **conversation**.
 
 Filters suggested patterns — pulse intervals aligning with labor shifts, spikes coinciding with riot windows — until **Drusus** forced display into uglier honesty: biomarkers braided with *vox* load, **Wolf’s Curse** stress indices climbing beside mortal casualty columns as if two lines were trying to **merge**.
@@ -66,10 +56,6 @@ Drusus’s margins still carried **sequence**, not prophecy — *dynastic harmon
 Junior auspex crews confused **Sigma bleed** with forge gossip until Drusus forced **intervals** onto screens — ghost mass dressed as rumor until uglier filters convicted it — because Incus liked politeness until politeness killed somebody’s sister.
 
 Medicae bins filled with mortals not wounded yet but **pre-wounded** by harmonic nausea — petty taxes etiquette collected before shells arrived — and Drusus metered sedatives like artillery until poetry stayed impossible.
-
----
-
-## IV. The Cord Tightens
 
 **Alaric’s cord** — duty’s weight, invisible line dragged through every breach — **tightened** toward threshold **Drusus** measured in biomarkers and feared in **something older than data**: moment pragmatism stops being tool and becomes **habit** you cannot unclench.
 
@@ -86,10 +72,6 @@ Headaches gathered behind Alaric’s eyes — not weakness, not human complaint 
 Alaric walked warrens without speeches — hinge-work — because speeches fed harmonics seams. **Mass** answering echo the way echo answered meat: patiently, completely, without asking mortals to thank mathematics for surviving it.
 
 He did not speak iron answer on open channels. Forge borrowed syllables anyway. He held warrens the way he held fords — measurable in bodies still breathing when geometry finished cruel work.
-
----
-
-## V. Triumvirate Density
 
 Triumvirate briefings shrank to minutes. Minutes, here, meant lives — especially when **Echo** listened for seams in *vox*-grilles, cable-hum, and **tide**-shaped harmonics that made men feel *seen* by machines.
 
@@ -112,10 +94,6 @@ Night cycles on foundry spine traded lamp codes until **Lex Ignis** clocks align
 Bondsmen whispered **Dark Age of Technology** near forge vents until Varro crushed whisper with ash.
 
 — Nomenclature is seal — he said. — Myth recruits stacks faster than doctrine leashes them when harmonics kneel workers without blades.
-
----
-
-## VI. Heroes Feel Orders
 
 **Santo** — older now, harder, militia boy sanded down by shingle and bridge and whatever had crawled behind his eyes when killing became hygiene — walked staging gantry like man rehearsing adulthood in foundry.
 
@@ -141,10 +119,6 @@ Column kept filling. War did that. Bodies did that. **Expectation** did that mos
 
 Marines scrubbed ceramite dull — **glare discipline** transported off Vitreus — because sympathetic strobe could recruit eye faster than doctrine could leash it when walls pretended to be mirrors.
 
----
-
-## VII. Tide Without Name
-
 **Iria**, on permitted transit into echo crucible, did not speak of **arranged boots** aloud. She did not need to.
 
 She looked at hive’s new teeth, smelled cooked insulation, and said only to officer too young to understand why words were mercy:
@@ -169,10 +143,6 @@ Unstoppable by shouting. Barely postponable by chemistry and bind. Inevitable as
 
 Brothers learned to fear **intervals** more than bolts — same hunger tombs had worn as etiquette — until drills treated harmonics like unexploded ordnance: verify, deny spectacle, **record**.
 
----
-
-## VIII. Kingdom Inside Cracks
-
 Romance — ordeal made legible — often lies by promising king will fall cleanly. This one did not.
 
 King still **stood** while **kingdom inside him** — private nation of restraint, mercy-in-math, tomorrow planned for people who would not thank him — **cracked** along seams too fine to see until they **ached**.
@@ -195,10 +165,6 @@ Skitarii observers on remote channels tried **first touch** on sympathy spikes f
 
 **Rothmar** wiped kill-marks at maze lip — *Ash doesn't care whose god is prettier* — lesson Beast Records would spend when trust eaten from within stopped being rumor and became forge hum in Vermilion cloth.
 
----
-
-## IX. Fire Keeps Speaking
-
 Somewhere in auspex stacks, harmonics **hummed** agreement — patterns aligning, filters suggesting *signal* — as if machines conspired to congratulate conclusion no soul had earned.
 
 Drusus hated that sound. He listened anyway, because hatred, properly disciplined, is also **duty** — and because **Incus still burned**, and fire, once it learns your name, prefers to **keep** speaking.
@@ -216,10 +182,6 @@ Casualty boards filled twice — once for flesh cooling beside forge pits, once 
 Drusus appended closing margin for translation burn — *terminal-pattern Wolf’s Curse markers suspected (taxonomy incomplete); treat Exanimus-adjacent chatter as environmental false-positive unless sustained across three intervals; record forge sympathy spikes beside stress indices without merging columns prematurely* — not prophecy, **sequence**.
 
 Valerius stamped embarkation slate toward **The Beast Chapter** twice — once for ceramite continuity, once for mortal payroll still solvent — because what came next would tax both ledgers again, interest collecting teeth before receipts on quiet decks, loud strategiums, and hotter forges alike.
-
----
-
-## X. Echo Forward
 
 Forgemasters erased chalk ticks where they could so sympathy spikes could not migrate into relic maps **Merit** sold as mood — witness guarded like ammunition — while bondsmen stacked wet pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright.
 
