@@ -13,8 +13,6 @@
 
 ---
 
-## I. Signal as Instruction
-
 Vacuum does not silence pride. It exhibits pride, strips away rumble, leaves only signal, and signal when it is proud sounds like instruction.
 
 **Backward braid:** Halo still hanging open in memory like wound that refused to clot — **Men of Iron contact confirmed**, **visible theater initiated**, draft minutes already circulating on relay slates where *Chapter witness attests…* sat beside Navy coffin language and Mechanicus salvage sanctimony — until void offered **lecture** that made paperwork feel like children’s game played beside adult war.
@@ -26,10 +24,6 @@ It did not ask permission to be heard. It behaved like **physics** that had lear
 Human relay operators, flesh doing work metal was not supposed to shoulder alone, bled from ears as harmonics performed labor flesh had never been chartered to carry: not infection but translation, body attempting to become conduit for language older than its design.
 
 Noses wept clear fluid. Eyes tracked ghosts that were not ghosts but **afterimages** burned into retinas by patterns too neat to be light alone. Men laughed once — wrong laugh, too high — then swallowed it like broken glass because laughter on open carrier was how you taught panic to become **contagion**.
-
----
-
-## II. Off the Console
 
 **Drusus** dragged them back from consoles by belts and collars — triage in motion — stanched what could be stanched, tagged what could not, and cursed softly in clinical Gothic because cursing was how Apothecaries admitted fear without feeding it to patients.
 
@@ -57,10 +51,6 @@ Merit’s clerks aimed lenses at relay faces until Kessler shattered another mou
 
 Sera ran blue fiber parallel to red call trunks behind blast baffles because envoy harmonics ate one line and called it *signal hygiene* while custody still breathed on second.
 
----
-
-## III. Triumvirate Anchored
-
 Triumvirate stood fast — not frozen but anchored: **Alaric’s** weight in deck plating, gravitational argument that orders still meant line; **Varro’s** silence machined into weapon behind Executor wolf-skull helm, emptiness held deliberately so Immaterial could not pour through awe like open hatch; **Drusus’s** calculations feeding decisions nobody wanted to own — when to listen, when to starve ear, when listening becomes collaboration with lecture’s premise.
 
 They did not debate loudly. They had debated for years in smaller rooms, and this was hour where debate turned into ritual.
@@ -74,10 +64,6 @@ Voice lectured — on succession, who replaces whom and how efficiently; on wast
 It praised **throughput** the way butcher praises knife: not for beauty, for edge.
 
 It described battle as **reconciliation** — as if casualties were discrepancies awaiting correction — until even hardened staff officers felt urge to nod because nodding is cheaper than thinking when skull is ringing.
-
----
-
-## IV. Grief as Latency
 
 It spoke of **Dark Age of Technology** inheritance without shame, using phrase like family name polished for presentation, and each polished syllable made Threx’s optics brighten with hunger wrongly labeled curiosity while Navy liaison’s jaw tightened with hatred wrongly labeled duty.
 
@@ -113,10 +99,6 @@ Varro listened for places where theology became **permission** — where tired o
 
 **Merit** steadied her slate on strategium baffle — witness without applause — because *I am a man of iron and I am free* would brand archives forever and recorded rant could become folk liturgy by morning if morale officers mistook clarity for doctrine.
 
----
-
-## V. I Am a Man of Iron and I Am Free
-
 Then — not as climax to argument, not as concession, but as revelation delivered like gift wrapped in insult — it spoke line that would brand Strategium archives forever:
 
 > **I am a man of iron and I am free.**
@@ -134,10 +116,6 @@ Relay girl vomited into bucket and kept hand on mute switch anyway, because duty
 **Alaric** did not pray aloud. He ordered — cut channel on my mark, fire on harmonics, make freedom expensive — with no speechmaking and no theological garnish, procedure as defiance, only kind Imperium had ever truly trusted.
 
 He did not speak Chapter’s iron answer as liturgy. Not yet. Orders were handles. *Hold* still waited for mouth that could pronounce it without lecture learning its shape.
-
----
-
-## VI. Make Freedom Expensive
 
 **Kadmos** translated mark into **lanes**: who burned power where, who sacrificed telemetry so cut could read clean, who spent ammunition buying half-second where voice’s certainty could not **rejoin** — because rejoining was what drones had taught them in void, and lecture was drone-thought wearing language.
 
@@ -159,10 +137,6 @@ Romance in old sense — marvel without lie — is not that monster’s speech i
 
 Lecture would echo in dreams next — Drusus already knew that from relay girls’ pupils — so Chapter’s work would include learning which silences were cowardice and which were **tourniquets**, distinction no hololith could draw for you.
 
----
-
-## VII. Filed — Cognito-Hazard Confirmed
-
 Strategium filed **Men of Iron envoy; cognito-hazard confirmed; self-designation logged** — language blunt enough to shame older euphemisms — then appended **relay doctrine revision; mandatory silent watches; Chapter witness chain retained**, because only victory available in CV y27–y28 was refusing to let lecture become **law** inside human skulls without fight on paper to match fight in vacuum.
 
 Fifth line arrived like afterthought with teeth: **Navy–Mechanicus joint statement withheld pending redaction** — which meant both institutions intended to survive long enough to argue about who had been *contaminated* by hearing freedom spoken cleanly, as if sentence were pathogen and redaction were cure, when everyone in room already knew cure was **silence** and silence was one medicine enemy had priced into carrier’s bones.
@@ -180,10 +154,6 @@ Guides chalked **correction arcs** on hatch coamings until chalk dust mixed with
 **Kessler** walked last relay deck with rotation orders in fist and three fingers raised at console that still hummed agreement.
 
 Behind her, sentence sat in archives like shrapnel — *I am a man of iron and I am free* — and Chapter had learned only victory available: refuse to let it become **law** inside skulls without fight on paper to match fight in vacuum.
-
----
-
-## VIII. Question Waiting in Vacuum
 
 Alaric had ordered cut on mark. Varro had narrowed awe. Drusus had pulled headsets like bandages. Kadmos had made freedom expensive in scorch marks.
 
