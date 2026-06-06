@@ -13,8 +13,6 @@
 
 ---
 
-## I. Inventory With Sleeves Rolled
-
 **Instrumentum** convening was not second council wearing new mask. It was **inventory** with sleeves rolled, Strategium’s answer to **Alaric’s** single slate order — **continue** — because continuation, in institutions, is never mood. It is manifests, torque specs, seal logs, and quiet violence of numbering things you would rather call **miracles** so you do not have to audit them.
 
 **Backward braid** arrived as paperwork first: **Der Batav cognomen** filed beside witness routes, **Inquisition seal chain** appended as ongoing rather than closed, **relay doctrine** stamped **permanent revision** until someone joked — without smiling — that permanence was sector’s favorite lie, and joke died because dying was what permanence cost here.
@@ -29,10 +27,6 @@ Sera paired fiber through duplicate trunks behind fleet’s false night — red 
 
 Aftermath wore Indomitus weather — distant thunder not yet rain, reinforcement rumored before it arrived arrogant enough to dock, whole sector learning again that late and saved can share sentence without sharing dignity.
 
----
-
-## II. Shared Sweat — Covenant, Not Charity
-
 **Shared Sweat** — law without statute yet — glinted in staff briefings as moral debt to mortals who died beside wall. **Valerius** championed language because language is how logistics stops being mere math and becomes covenant, while **Alaric** approved silence around it until words could carry weight — because cheap words rot faster than cheap steel, and Chapter that survived Men of Iron lecturing ought to distrust eloquence on instinct — and silence, held correctly, is also discipline.
 
 **Tyvar’s** attention brushed secure Imperial bands — polite, lethal, curious — like hawk assessing rebuilt battlements not for weakness alone but for habit: who flinches first, who over-corrects, who mistakes relief for virtue. Batavi eyes learned to treat politeness as range-finding, and to treat gold at edge of *vox*-feed as weather, not ornament.
@@ -46,10 +40,6 @@ He extended annex headers without drama — **post-battle Wolf’s Curse watch; 
 He refused, in margins, to let clerks stamp premature absolutes into archive’s cruelest columns. Classification, here, was still ethics argument wearing clerical habit, and he would not trade ethics for tidiness just because tidiness let people sleep.
 
 He appended margin for translation burn — *Primaris integration may present as Wolf’s Curse stress convergence; treat template pride as environmental false-positive unless sustained across three intervals; record reinforcement latency beside biomarkers without merging columns prematurely* — not prophecy, **sequence**.
-
----
-
-## III. Symbols Survive Transport
 
 **Varro**, behind Executor wolf-skull helm, moved through filing bays like rite that had remembered it was also labor: wax, ash, ribbon, cylinder — each repetition small insistence that what had been witnessed could not be reduced to summary without leaving trace of reduction on someone’s hands.
 
@@ -69,10 +59,6 @@ He drilled **relay** handoffs until handoffs looked like combat ballet performed
 
 When Primaris sergeant spoke with clean confidence of someone whose wars had been mostly rumor, Kadmos did not humiliate. He adjusted ranges until confidence learned friction, because friction was what Castra Vetera sold cheap and demanded often.
 
----
-
-## IV. Measurement Continues — You Endured
-
 *Lex Ignis* chose fracture: berth at **Noviomagus** under treaty revision — *we stay close enough to argue in person* — or limp coreward chasing archaeology that had tasted fear — *we run toward next mouth because standing still feels like suffocation* — and both futures stayed alive in planning, bitter siblings sharing bunk they refused to admit they needed.
 
 **Threx** would call it optimization. **Alaric** would call it consequence. Both would be right, and that is what alliances are: two truths forced into one hull.
@@ -86,10 +72,6 @@ Someone floated **Dark Age of Technology** debris as morale story — *look how 
 Strategium filed reprimand as **doctrine note; morale hazard** beside **archaeology request; deferred**, because deferral was how you kept Chapter from sprinting toward next mouth when present mouth still had teeth: unfinished repairs, uncertified geller fields, **Men of Iron** monitoring clauses that turned every quiet sector into ward round nobody wanted to volunteer for but everybody still had to walk.
 
 **Drusus** appended *Men of Iron* clause review under Triumvirate seal — *monitoring intervals; do not merge custody waiver with morale hazard* — because instrument survived when story stopped and survivors still owed intervals honest enough to cut.
-
----
-
-## V. Meant We Stayed — Tools That Still Work
 
 **Noviomagus** appeared on charts as civilization — forges, foundries, Administratum grids dense enough to pretend time behaved — while **Nine Phalanx** stayed nine-square truth under fleet feet: nine worlds, one argument, logistics written as geography until geography learned to bite.
 
@@ -115,10 +97,6 @@ When junior officer joked about *golden weather*, Kadmos answered:
 
 And joke stopped, correctly.
 
----
-
-## VI. Witness Routes With Teeth
-
 Mortal threads refused to become footnotes. **Mira Kell’s** presence still sat in margin where **Santo** had struck **dependents: none** into **present**. Clerks learned to route certain forms through routes that passed human eyes, because **witness routes only** had stopped being tender spine graffito and started being habit with teeth.
 
 **Iria** returned to **Aethelgard** mud — not exile but office: witness to what iron learns when tides turn, slow education of armor and slower education of people who insist on naming armor anyway.
@@ -132,10 +110,6 @@ She carried shell-cloak weight without drama, because drama is luxury tide refus
 Belowdecks, relay techs chased phrase **Castra Vetera holds** until it stopped being test and became pulse — thin, stubborn, honest — proof that doctrine could live in wire if wire was tended by hands that understood **permanent revision** meant *revise again tomorrow anyway*.
 
 Navigator annex door stayed guarded longer than any chart liked to admit. **Navis Nobilite** liaison signed access windows in fifteen-minute teeth, because minutes were what remained when hours had been stolen by siege, and fifteen minutes of clean silence could be difference between ship that arrives and ship that becomes story told to frighten midshipmen.
-
----
-
-## VII. Tools That Still Work When the Story Stops
 
 **Alaric** signed almost nothing with his own hand — delegation was not laziness but load-bearing — yet few signatures he set carried mass of bulkheads: **continue** stamp repeated until it became header habit, **priority holds** line reissued whenever treaties tried to smuggle *provisional* back into escort losses, single marginal **no** beside proposal to compress witness testimony into *executive summary*, because compression was how you trained later centuries to forget shape of throat that had sworn in mud.
 
@@ -167,10 +141,6 @@ Fleet chaplains filed hymns under *optional*, which was honest. Optional did not
 
 Work-shanties still rode repair gangs without permission — melody as torque, rhythm as alignment — and **Incus** steel remembered touch of hands that refused to call labor holy until labor fed someone.
 
----
-
-## VIII. Instrumentum Solum — The Epic Hands Off the Spear
-
 Guides chalked **correction arcs** on hatch coamings until chalk dust mixed with salt grit and looked like frost — nobody laughed at frost jokes twice — because humor could become **folk liturgy** faster than purge cycles could cleanse it.
 
 Forgemasters erased chalk ticks so instrument maps could not migrate into Merit mood-boards — witness guarded like ammunition — while bondsmen stacked duplicate pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright.
@@ -190,7 +160,6 @@ Romance’s final secret is that epic does not finish but hands spear while choi
 Behind her, **Castra Vetera holds** coughed static into habit, **Cohors Batavorum** sat in ink as weight accepted, and Foundation War closed not on wedding but on ledger — continuation clauses, repayment oaths, instruments that still worked when story stopped.
 
 Thunder was still rumored. Measurement continued. Wall had not healed. It had **learned** to file its own breathing.
-
 
 **Alaric** said *We hold anyway* once, low, open channel — not ornament but **instrument**: measurable, stamped twice, witness before throughput.
 

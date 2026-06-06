@@ -175,7 +175,7 @@ Mark `[x]` when structure pass is complete for that slug.
 | 35 | we-hold-anyway | `Q4-der-batav/we-hold-anyway/chapter.md` | [x] |
 | 36 | the-core-refuses | `Q4-der-batav/the-core-refuses/chapter.md` | [x] |
 | 37 | der-batav-council | `Q4-der-batav/der-batav-council/chapter.md` | [x] |
-| 38 | instrumentum-solum | `Q4-der-batav/instrumentum-solum/chapter.md` | [ ] |
+| 38 | instrumentum-solum | `Q4-der-batav/instrumentum-solum/chapter.md` | [x] |
 
 ---
 
