@@ -13,8 +13,6 @@
 
 ---
 
-## I. Ash Instead of Mud
-
 They brought Aethelgard mud inside their greaves and traded it for ash — Incus’s polite violence, particulate so fine it worked into seal joints like guilt. The hive did not greet them with drums or doctrine pamphlets. It **exhaled**: vent stacks coughing amber grit until the sky itself seemed to cough; shift-wards chanting output quotas like rosaries whose god wore a factory mask; transit tubes singing a constant note humans mistook for *normal* because panic is exhausting if sustained, and exhaustion loves a lullaby even when the lullaby is a machine pretending to be a mother.
 
 At first the enemy wore boiler suits, not fangs. Stains on cuffs could be grease or blood; the difference mattered only to people who still believed work was innocent. That misrecognition was the crucible’s favorite weapon — **kindness dressed as ignorance** — and Incus wore it like a uniform.
@@ -23,11 +21,7 @@ The **Q1** close had issued orders in wax and rain; **Q2** began in ash and solv
 
 **Alaric** let **Lex Ignis** dig warrants ride the net because refusing gears while demanding walls was its own lie — but he kept **Drusus** between samples and streets, **Varro** between panic and pyres, **Kadmos** between chalk lines and the urge to solve hives with fire. Incus-Gravis Secundus received them not as saviors, not as judges, as **throughput interrupt**: Astartes boots in transit tubes, auspex packs humming where workers had learned to hate hum for stealing sleep.
 
----
-
-## II. Mira Kell — Kingdom Without Crown
-
-**Mira Kell** ran **Cinder Manufactory Nine** the way some women run kingdoms without crowns: payroll in one hand, kin-network in the other, shame laundered into **efficiency** until efficiency looked like virtue from the right angle. She was hive mother in everything but legal fiction — *fiction* being what the Administratum stamps when it fears what it cannot tax cleanly. Her fingers knew every belt path in her district; her ears knew which foremen lied in which registers; her smile, when she deployed it, could stop a riot or start one, depending on what the day required.
+In **Cinder Manufactory Nine**, **Mira Kell** ran the district the way some women run kingdoms without crowns: payroll in one hand, kin-network in the other, shame laundered into **efficiency** until efficiency looked like virtue from the right angle. She was hive mother in everything but legal fiction — *fiction* being what the Administratum stamps when it fears what it cannot tax cleanly. Her fingers knew every belt path in her district; her ears knew which foremen lied in which registers; her smile, when she deployed it, could stop a riot or start one, depending on what the day required.
 
 Her son **Santo** wore **militia gray** proud as poison, bolts bright on his chest, jaw set for holodrama honor. He believed Astartes boots meant *rescue* the way young men believe water means *mercy* just because you’re thirsty — simple equations that make the world feel survivable until the world introduces a second variable.
 
@@ -48,10 +42,6 @@ He swallowed pride like broken glass and learned to stand where standing meant *
 When **Varro** passed the cordon once, *Codex* death-skull catching transit glare, Santo’s hand twitched toward salute and stopped halfway, because salute toward bone felt like inviting judgment to memorize your name. Varro did not pause. Pausing would have made the skull **policy**. He walked on, censers cold, and Santo exhaled a prayer he did not know he still knew.
 
 **Mira** watched from a mezzanine rail three levels up — not mother-love in the open record, **inventory** — and adjusted a payroll line for militia hazard pay as if hazard were weather and weather could be filed until it became fate.
-
----
-
-## III. Accident Costume — Nineteen Dead
 
 When sabotage struck, it wore the costume of **accident** — the Empire’s favorite alibi.
 
@@ -78,10 +68,6 @@ It reminded him — not as proof, as itch — of the way Type A had arranged boo
 — Not slack sabotage — he subvocalized into his gorget log, voice flat enough to be mistaken for calm — **Instruction**.
 
 The word was a stone dropped into a well. The well was deep. Sound took time to return.
-
----
-
-## IV. Hooks, Not Bombs
 
 Later, when the Chapter drew its cordon maps in ink that smelled like solvent, **Alaric** walked the blast radius without speaking. Mortals watched a Castellan read wreckage the way other men read scripture: slowly, without performance. Santo hovered at the cordon line with militia pride straining against common sense; Mira pulled him back with a hand on his elbow — gentle only if you ignored the strength in her fingers.
 
@@ -115,10 +101,6 @@ Threx’s aug-eyes measured the Castellan the way creditors measure collateral.
 
 He did not wait for Threx’s rebuttal. Waiting would have turned the exchange into **treaty theater**. He descended the catwalk, hinge-duty calling him back toward chalk lines and patrol schedules that were, for tonight, the only honest map Incus deserved.
 
----
-
-## V. Two Notes — Work and Waiting
-
 Miracles of restraint kept spires from becoming torches. Underneath, something tightened **kin** networks the way a hand tightens wire — hybrid triangulation disguised as market rhythms, love between mother and son repurposed as **signal** without consent. Mira still kissed Santo’s forehead when he left for patrol; Santo still believed the kiss meant what kisses are supposed to mean. The hive’s deeper pulse did not care about belief. It counted beats.
 
 In the warrens that night, auxilia tried to sleep stacked three deep while *vox*-handlers whispered updates like lullabies. Kessler walked the aisles with a lamp that made shadows jump — shadows that looked like children, like debt, like the seventy-two she still carried without permission to set them down.
@@ -136,10 +118,6 @@ Santo looked at Astartes boots in ash-dusted corridors and dreamed **honor**. Mi
 — This hive hums on two notes — she said to Alaric’s helm, not pleading, *reporting*. — One is **work**. The other is **waiting**.
 
 He did not ask what waited. He **listened**. In Incus, listening was the first form of war — ears before bolters, silence before doctrine. War, the old romances whispered, often begins by mistaking an inverted kingdom for a **worksite**: you think you are pacifying labor; you are standing inside something’s mouth that has learned to wear a factory mask.
-
----
-
-## VI. Chalk That Will Not Survive a Week
 
 The Chapter signed patrol routes into the underhive and called it peace because peace was the word Administratum briefs preferred. Maps liked peace. Maps did not like hunger with a calendar.
 
@@ -171,10 +149,6 @@ Kadmos wrote twice. Parallel marks. Duplicate initials. Insurance against a hive
 
 **Drusus**, trailing the patrol with scanner tuned to ugly truth, logged the ghost cluster as *substrate resonance — watch* and did not call it *brood*. Naming too early was how officers invented martyrs for the wrong altar.
 
----
-
-## VII. Progress — Nameless to Them
-
 Ash fell on the ramparts like slow snow. Somewhere, a shift-ward started another quota chant. The tubes sang their constant note.
 
 **Drusus** closed his gorget log, sealed the Instruction line behind biometrics, and walked back into a hive that smelled like rescue and tasted like teeth. Ash stuck to his boots the way mud had — two kinds of witness, neither willing to let go, neither finished, still counting.
@@ -190,10 +164,6 @@ The **brood** — nameless to them still — called it **progress**.
 Alaric stood on the transit lip where hive wind met armor seals and felt the second note Iria had named — *waiting* — press against his *vox* discipline like pressure before a dive. He did not say *We hold.* He had learned on Aethelgard that holding meant different materials in different theaters: mud, glass, cord, ledger, ash.
 
 Incus would teach him **trust eaten from within** — not yet as vocabulary, only as taste.
-
----
-
-## VIII. Debt in Patrols
 
 He turned back toward the command chapel canvas. Tomorrow the hooks would go deeper. Tonight the roofs stayed standing, and that was its own kind of debt the Chapter would pay in patrols and searches and the polite violence workers already knew how to price.
 
