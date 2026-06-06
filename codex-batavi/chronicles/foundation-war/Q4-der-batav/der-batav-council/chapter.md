@@ -189,61 +189,18 @@ Behind her, **Cohors Batavorum** sat in mouths as weight — voice first, ink no
 
 Alaric had ordered **continue**. Valerius had filed honest zeros. Santo had taught count boots. Orwen had handed witness forward.
 
-**Orwen** stood at forum edge with Militarum ink blurred under emergency wash and repeated timestamps into hand *vox* until voice went flat — flat not from courage, from **exhaustion** — because council was the theater where ranges became law and law became debt you could not shoot your way out of. He had handed witness forward on tide-names; he would hand it forward again on instrumentum if the hololith tried to merge Marine and mortal columns into one throat.
 
-**Iria** had stopped a clerk at *twice* — *once is witness; twice is training the enemy paid for* — and the sentence traveled through forum air like salt: abrasive, necessary, refusing spectacle the way estuaries refused convenience.
+One chapter remained: **Instrumentum** — what instruments survived when gods stopped borrowing mouths.
 
-**Kessler** walked last forum aisle with timestamps in her transcript and three fingers raised at hololith blank sectors like healed skin — witness route only, no throughput dressed as reconciliation.
+**Merit** tried once to clip a recorder to the forum baffle until **Valerius** stamped **NON-COMPLIANT** — witness routes only.
 
-**Alaric** stood at forum lip one last minute without speaking — continuity, not spectacle — while **Drusus** sealed the council margin under Triumvirate stamp: *treat estuary settlement as provisional; do not merge Marine and mortal columns; witness routes only*. The hololith tried to make continuation look like wedding; the **Father** made it look like **work**.
+**Orwen** filed council timestamps without adjectives — ranges, no metaphors.
 
-**Varro** traced ash on the forum baffle where iron men had spoken freedom cleanly enough to burn mouths — not prayer, **inventory** — Executor jawline foam, latch tension, the weight of silence that had teeth and did not need applause to remain lawful.
+**Echo** listened at forum baffle for **tide**-shaped harmonics.
 
-**Santo** adjusted a crate strap at embarkation spine and did not look at hololiths naming *pressure relief*. Looking would have turned council into **spectacle**. He had taught count boots; council would teach count **clauses**.
+**Sera** tagged forum handshake *monitor only* until merge columns starved.
 
-**Kessler** walked last forum aisle with timestamps in her transcript and three fingers raised at hololith blank sectors like healed skin — witness route only, no throughput dressed as reconciliation — while **Orwen** repeated timestamps into hand *vox* until voice went flat: flat not from courage, from **exhaustion**.
-
-**Merit** tried once to clip a recorder to the forum baffle until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — *once is witness; twice is training the enemy paid for*, **Iria** had said, and the sentence traveled through forum air like salt.
-
-**Drusus** sealed the council margin one last time under Triumvirate stamp: *treat estuary settlement as provisional; do not merge Marine and mortal columns; witness routes only* — continuation clauses, repayment oaths, instruments that still worked when story stopped.
-
-One chapter remained: **Instrumentum** — what instruments survived when gods stopped borrowing mouths, and what wall would do with continuation when ornament finally ran out.
-
-**Alaric** stood at forum lip one last minute and did not remove his helm — continuity, not spectacle — while **Cohors Batavorum** sat in mouths as weight, voice first, ink now, and crucible closed **provisional**, hollow, ringing, still standing. He had ordered **continue**. That was not wedding. That was **work**.
-
-**Varro** traced ash on forum baffle where iron men had spoken freedom cleanly enough to burn mouths — Executor jawline foam, ***licentia lupina*** written — and did not speak. Speaking would have turned council into **liturgy** before instrumentum earned the right to file continuation honest enough to cut.
-
-**Iria** stopped a clerk at *twice* one last time — *once is witness; twice is training the enemy paid for* — and the sentence traveled through forum air like salt: abrasive, necessary, refusing spectacle.
-
-**Orwen** repeated timestamps into hand *vox* until voice went flat — flat not from courage, from **exhaustion** — because council was the theater where ranges became law and law became debt you could not shoot your way out of, and instrumentum waited to teach count **instruments** when gods stopped borrowing mouths.
-
-**Kessler** walked last forum aisle with timestamps in her transcript and three fingers raised at hololith blank sectors like healed skin — witness route only, no throughput dressed as reconciliation.
-
-**Alaric** stood at council threshold one minute without speeches — hinge-work — while *Der Batav* waited to become ink Throne could no longer ignore and iron men’s self-designations threatened folk liturgy unless tide-habit refused spectacle.
-
-**Merit** tried once to clip a recorder to forum hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as reconciliation packages that let staff officers plan weddings while mortals paid for the dream.
-
-**Drusus** appended margin — *council edict may present as Men-of-Iron stress rhyme; treat self-designation as environmental false-positive unless sustained* — sequence, not prophecy, because *Der Batav* waited to become ink Throne could no longer ignore.
-
-**Valerius** stamped council handoff twice — Marine continuity beside mortal witness lane — because forum geometry was verdict deferred into edict and deferral always collected interest in core refusal that would downgrade without lying outright.
-
-**Drusus** sealed council margin — *Der Batav ink; DO NOT MERGE triumph theater with partial victory* — sequence, not prophecy, because forum threshold was debt instrumentum solum would spend as forms heavy enough to lift fleets.
-
-**Kessler** raised three fingers at forum hololith blank sector — witness route only — because *Der Batav* waited to become ink Throne could no longer ignore and council turned verdict into edict honest enough to cut.
-
-**Echo** listened at forum baffle for **tide**-shaped harmonics — filing council edict as sequence before instrumentum solum earned attested injury.
-
-**Sera** tagged forum handshake *monitor only* until Pol seed starved merge columns.
-
-**Orwen** filed council timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than edict dressed as reconciliation.
-
-**Threx** would file *yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only*.
-
-**Kadmos** posted forum cordon one meter deeper — geometry as insurance — because forum verdict deferred into edict and deferral always collected interest at instrumentum berth.
-
-**Pol**'s seed — monitor only — would rhyme with forum relay coupling until Drusus starved merge columns.
-
-**Santo** passed packets without speech at forum threshold — hygiene extended to witness — because edict would tax both ledgers when iron men's self-designations threatened folk liturgy.
+**Threx** would file *yield preserved* beside *witness attests* — until **Valerius** stamped *witness route only*.
 
 Interest collecting teeth before receipts.
 
@@ -252,6 +209,8 @@ Quiet hold. Loud archive.
 Hollow, ringing.
 
 Still standing.
+
+Always owed.
 
 ---
 
