@@ -13,8 +13,6 @@
 
 ---
 
-## I. Glass as Judgment
-
 After **Incus** — after **Castellan hazard watch** proved sword could **forget its sheath** long enough for mortals to learn thunder’s grammar — **glass** on Vitreus felt like **judgment**.
 
 Not because Emperor’s laws had sharpened. Because **reflection** no longer behaved like trick of light.
@@ -32,10 +30,6 @@ Merit’s clerks floated lenses toward forge gangs until Kessler broke mounts an
 Sera paired fiber through separate trays above glass — **parallel filing** — red for *live*, blue for *ghost*, yellow for *do not trust relief* — because harmonics ate one trunk and called it maintenance while brothers still breathed on second.
 
 Echo pressed chaplain seams where binds thinned — Triumvirate seal still **narrow** — and Varro refused spectacle. Executor wolf-skull present as infrastructure while litanies shortened until boredom became shield against **folk liturgy** fermenting in mirrored bulkheads.
-
----
-
-## II. Vitreus Bleeds Light
 
 **Vitreus** bled light the way wounds bleed heat — slow, shameless, insistent.
 
@@ -59,10 +53,6 @@ Bondsmen whispered **Dark Age of Technology** near relieved pumps until Varro cr
 
 Staff tried to parallel-file **accident** with **riot** until Drusus refused merge — two custody tags, two initials — **witness priority** refusing to launder possessed labor into *industrial variance* slides.
 
----
-
-## III. Stillness That Lies
-
 Divers who worked glass undersea — paid in **minutes** of breath — surfaced reporting wrong kind of **stillness**: pressure gauges steady while sea *leaned*, as if depth had developed intent.
 
 **Reading** beat was Drusus forcing auspex into honesty — frequencies not matching pump curves, harmonics aligning with shift changes as if appetite had learned **payroll** — until display read less like failure and more like **instruction** written into infrastructure while everyone met quotas.
@@ -72,10 +62,6 @@ Junior crews confused **Sigma bleed** with forge rumor until Drusus forced **int
 Medicae bins overflowed with serfs not cut yet but **pre-wounded** by phosphene. Drusus metered sedatives like artillery until poetry stayed impossible when screams argued for hymns.
 
 Drusus’s margins carried **sequence**, not prophecy — *tremor rhyme — record; treat optic ghosts as debt until sustained across three intervals; do not merge possessed-labor indices with sympathy spikes* — because naming hunger early only fed it cleaner meals.
-
----
-
-## IV. Triumvirate Held (Not Victory)
 
 Triumvirate function ***held*** — word chosen carefully, because *victory* would have been lie and *control* would have been blasphemy.
 
@@ -101,10 +87,6 @@ When *vox* died and phosphene ate faces, he stacked cordons with **touch-taps** 
 
 Job, not motto — rear geometry while glass tried to recruit eyes into cult velocity.
 
----
-
-## V. Soul-Tax on Gantries
-
 **Drusus** moved through infirmaries that were also confessionals, collecting screams as **data** the way choirmasters collect notes — without loving music, loving **precision**.
 
 **Varro** walked spines of glass gantries until chants **tore** his throat — **soul-tax** made audible — each bind another stitch in wound pole kept trying to reopen because appetite respects nobody’s schedule.
@@ -121,10 +103,6 @@ He got **compromise** that looked like loss on spreadsheets and **life** on Drus
 
 Skitarii tried **first touch** on relief trunks for yield until stamps met them — **NON-COMPLIANT** — Valerius — because *touched* could mean *taken* and Chapter’s file on first touch was already thick with **skin** from other poles.
 
----
-
-## VI. Wrong Light / Wrong Smile
-
 **Iria**, where work took her near Vitreus transit, carried warnings the way she carried tide tables — not drama, **routing law** — until officer laughed once and stopped laughing when viewport **answered** him with smile that used his own teeth wrong.
 
 — Do not trade faces with glass — she told a junior who had not yet learned Vitreus. — Trade **ranges**.
@@ -140,10 +118,6 @@ He triaged terror into **files** because files are how he loves — love without
 Three fingers for *hold*. One for *do not look at bulkhead like it is mirror* — bridge lesson transported to glass where mirrors had learned appetite.
 
 Children hid behind crates while parents lied about **mirrors**. Kessler forbade hololith *comfort loops* Merit tried to broadcast. Comfort became **folk liturgy** faster than bolts could disinfect panic when glass sang.
-
----
-
-## VII. Bread and Ammunition
 
 Triumvirate briefings shrank to minutes — minutes meaning lives — especially when Echo listened for seams in cable-hum, **tide**-shaped harmonics, reflection-grilles pretending neutral.
 
@@ -162,10 +136,6 @@ When junior staffer tried to *optimize* relief route past mirrored bulkhead, Val
 Night cycles traded lamp codes until **Lex Ignis** clocks aligned with Mechanicus wheels. Water points ran sour. **ROTATE** became liturgy for throats too hoarse for promises.
 
 **Santo** hauled relief crates until shoulders learned **interest** — **useful** the way forges are useful — because after Incus thunder, Vitreus hunger still wanted bodies willing to lift without debating theology mid-sprint.
-
----
-
-## VIII. Contained (Without Poetry)
 
 When **bleed** ended, it ended without poetry.
 
@@ -187,10 +157,6 @@ Survivors stood in soot and glass dust too tired to cheer — too disciplined to
 
 Wind off glass tasted like ozone and burnt sugar. She breathed it anyway — breathing proved somebody still negotiated with bodies instead of only gauges.
 
----
-
-## IX. Scar Named
-
 Romance after climax — old sense: ordeal without lie — is not that world becomes **kind**. It is that world continues **ugly** — and still deserves **witnesses**.
 
 Vitreus learned new scar’s name. Strategium filed **Vitreus bleed (optic/warp coupling; contained)** — dry language doing only mercy it knows: making tomorrow’s officers utterly **unable** to pretend this was only riot.
@@ -204,10 +170,6 @@ Valerius stamped embarkation slate toward **Half Chapter Still Standing** twice 
 Forgemasters erased chalk ticks so bleed maps could not migrate into Merit mood-boards — witness guarded like ammunition — while bondsmen stacked duplicate pages until paper armor felt thinner than faith yet stubborn enough to stack twice without lying outright.
 
 Bondsmen whispered thanks to nothing they could name cleanly — thanks shaped like debt — until Varro ended whisper with ash and **schedule**, because gratitude could become liturgy faster than sabotage could trip valve if you let it sing.
-
----
-
-## X. Sheath Still Held
 
 **Kessler** walked last blind corridor of shift with chalk on knuckles and one finger raised at viewport nobody should have trusted for face.
 
