@@ -157,10 +157,6 @@ He ran fluid lines into relay operators who had started seizing when lecture’s
 
 He refused to call it prophecy. He called it **symptom**, because symptom could be filed, and filing was how he kept brothers inside skins long enough for line to matter.
 
-**Valerius** stamped triage handoff twice — Marine continuity beside mortal relay operators still breathing — because sloppy mercy became vectors tomorrow and *We hold anyway* would live in margins before the word earned speaking on open channels stripped to essentials.
-
-**Kadmos** posted ramp interlock one beat deeper — geometry as insurance — because MoI executors closed distance like interest rates and shield lanes fractured if sloppy mercy became vectors tomorrow.
-
 ---
 
 ## VII. We Hold — The Word Earns Its Speaking
@@ -225,33 +221,23 @@ Halo-shy era **ended** here.
 
 Somewhere ahead, **core** waited — refusal in motion becoming refusal at hinge — and iron would learn whether *hold* could outlast machine that had named itself **free**.
 
-**Alaric** said *We hold anyway* here — not as folklore borrowed from elsewhere but as **instrument** the mesh could file — hinge-work before core refused and council turned verdict into edict honest enough to cut without merging triumph theater with partial victory.
+**Varro** filed *hold* as proto-rite — seal attempted, not victory.
 
-**Varro** traced estuary ash on baffle once — Executor jawline, ***licentia lupina*** written — and filed *hold* as proto-rite: seal attempted, not victory, because iron would learn whether *hold* could outlast machine that had named itself **free**.
+**Drusus** sealed handoff margin — *DO NOT MERGE instrument with folklore; treat We hold anyway as filing category only on open channels* — sequence, not prophecy.
 
-**Drusus** sealed estuary handoff margin — *DO NOT MERGE instrument with folklore; treat We hold anyway as filing category only on open channels* — sequence, not prophecy, carried forward toward core where refusal in motion became refusal at hinge.
+**Merit** met **NON-COMPLIANT** at halo hololith — witness routes only.
 
-**Kessler** walked estuary lip one last time with timestamps in transcript — witness route only — because *hold* as instrument still required attested injury before iron learned whether *hold* could outlast machine that had named itself **free**.
+**Echo** listened at halo baffle for **tide**-shaped harmonics.
 
-**Valerius** stamped estuary handoff toward **The Core Refuses** twice — Marine continuity beside mortal chains still solvent — because *hold* as instrument still required attested injury before core refused at hinge.
-
-**Kadmos** posted estuary cordon one meter deeper — geometry as insurance — because *We hold anyway* lived in margins as instrument before the word earned speaking on open channels stripped to essentials at halo mouth.
-
-**Alaric** did not bless the estuary handoff. Blessing would have turned *hold* into **spectacle** before the word earned speaking when mouths had paid enough not to lie.
-
-**Echo** listened at estuary baffle for **tide**-shaped harmonics — Triumvirate seal still **narrow** — filing *We hold anyway* as instrument before core refused at hinge.
-
-**Merit** met **NON-COMPLIANT** at estuary hololith — witness routes only — because folk liturgy killed faster than *hold* as instrument when mouths had paid enough not to lie.
-
-**Drusus** ran fluid lines into relay operators seizing when lecture harmonics returned in dreams — *post-cognito tremor; sedate; rotate* — because symptom could be filed and filing kept brothers inside skins long enough for line to matter.
-
-**Sera** tagged estuary handshake *monitor only* until Pol seed starved merge columns and core refusal earned attested injury.
+**Sera** tagged halo handshake *monitor only* until merge columns starved.
 
 Interest collecting teeth before receipts.
 
 Quiet decks. Loud strategiums. Mouth still open.
 
 **We hold anyway.**
+
+Always owed.
 
 ---
 
