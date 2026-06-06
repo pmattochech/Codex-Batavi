@@ -145,7 +145,7 @@ Mark `[x]` when structure pass is complete for that slug.
 | 5 | bait-doctrine | `Q1-moon-hunt/bait-doctrine/chapter.md` | [x] |
 | 6 | mirror-routes | `Q1-moon-hunt/mirror-routes/chapter.md` | [x] |
 | 7 | living-specimen | `Q1-moon-hunt/living-specimen/chapter.md` | [x] |
-| 8 | cord-weight | `Q1-moon-hunt/cord-weight/chapter.md` | [ ] |
+| 8 | cord-weight | `Q1-moon-hunt/cord-weight/chapter.md` | [x] |
 | 9 | second-quarter-brief | `Q1-moon-hunt/second-quarter-brief/chapter.md` | [ ] |
 | 10 | inverted-hive | `Q2-inverted-war/inverted-hive/chapter.md` | [ ] |
 | 11 | output-quota | `Q2-inverted-war/output-quota/chapter.md` | [ ] |

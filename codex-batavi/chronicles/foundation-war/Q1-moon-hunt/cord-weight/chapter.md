@@ -13,8 +13,6 @@
 
 ---
 
-## I. Seen by Children as Monsters
-
 After Pier Nine the Chapter learned a quiet that had nothing to do with curfew, fatigue, or the disciplined hush officers mistook for morale. It was the quiet of adults who had been *seen* by children as monsters and could not decide whether the children were wrong — and worse, could not decide whether being wrong would make the war easier or only more honest.
 
 Marines still joked on mess lines; serfs still complained about rations; the universe’s machinery pretended nothing had changed. Underneath ran a new frequency, barely audible, like pressure against the eardrum before a deep dive: *we did that in front of them.*
@@ -35,10 +33,6 @@ When Kadmos asked once — rough, brother to brother — whether the Castellan s
 
 **Varche**’s pennant still hung in mud-war like a title that could glue fleets to shingle. She would learn, in later chapters, that ledgers underestimated mothers of every species — but tonight she only learned that Marine eyes shone too bright for mortal comfort, and **Valerius** existed so officers could obey without admitting they were begging.
 
----
-
-## II. Duty Is the Cord — Kaell Was the Hinge
-
 In the shelter after the seventy-two, Alaric had said *duty is the cord* — not pride, not vengeance. Now the cord had a body attached to it, and the body was **Kaell**, and the cord was about to be tested until something snapped or something held.
 
 The surge, when it came, did not announce itself with klaxons worthy of a hive siege. It chose an auxilia firebase the way rot chooses a seam: **sandbag scripture** stacked with the optimism of men who believed walls could manufacture courage; **promethium saints** painted on plasteel in colors that ran in rain; **vox-nets** strung like laundry between poles that leaned because mud had opinions about verticality.
@@ -54,10 +48,6 @@ Mortals who had cheered Marine silhouettes on the horizon two hours earlier lear
 Kaell’s face set in a rictus that wore the shape of joy without containing joy. Laughter gathered in his chest, deep as a second heartbolt firing, obscene because it sounded *pleased*. His boltgun began describing arcs that honored no distinction between foe and **friend**.
 
 Mortal screaming became the firebase’s choir.
-
----
-
-## III. Yield — Rope Into Whirlpool
 
 Alaric went in because the hinge needed mass, not because he trusted the poetry of rescue. The Castellan did not narrate his own entrance; he simply became the thing blocking the next line of fire from finding a row of huddled auxilia. He cleared kin with shoves brutal enough to save — ribs bruised, jaws rattled, dignity traded for *not dead* — because gentleness would have cost seconds Kaell was spending in blood.
 
@@ -83,11 +73,7 @@ The word was not magic. It was a rope thrown into a whirlpool — probably usele
 
 Kaell laughed louder. The sound hit mortals like shrapnel made of memory: *this was the voice that taught us the Emperor protects.*
 
----
-
-## IV. Triumvirate Ritual — Cord Transferred
-
-The execution was Triumvirate ritual before it was law — not because the *Codex* loved ceremony, but because some deaths must be witnessed in triplicate so the witness cannot later pretend a single soul decided alone.
+When yield failed, the execution was Triumvirate ritual before it was law — not because the *Codex* loved ceremony, but because some deaths must be witnessed in triplicate so the witness cannot later pretend a single soul decided alone.
 
 Alaric’s hand found the macro-pattern of violence: not malice, *office* — the Castellan as closure, the weight that ends a line so others can continue drawing. The **cord** did not snap in his grip. It **transferred** — duty moving through his arm into Kaell’s ending the way current moves through a wire until the wire burns.
 
@@ -100,10 +86,6 @@ Drusus tagged the remains with Pier Nine’s file number in the private buffer �
 Lord-Captain **Helena Varche** had come ashore with the firebase relief column because Navy dignity insisted someone with stars witness what stars could not fix. Her pennant was pinned to mud-war as if titles could glue fleets to shingle; her jaw held like a keel refusing warp. She did not look away from Kaell’s steaming blood.
 
 Beside her, Valerius stayed stable — the same measured breath, the same eyes that tracked without performing shock for an audience that would have welcomed performance as **shared humanity**.
-
----
-
-## V. I Save Shaking for Later
 
 Afterward, when the firebase stank of casings and human shame and the rain tried to wash the stink into mud that only spread it, Drusus cornered Valerius without courtesy. They stood under a half-collapsed tarp while mortals pretended not to listen.
 
@@ -127,11 +109,7 @@ Varche wrote nothing down. Writing would have admitted the Needles woman had cor
 
 Far off, Type **B** did not charge the firebase’s ruin. It *measured*: step and pause tuned the way the specimen had *tracked* enforcers before sentence fell on Pier Nine — as if taking notes on how humans punished their own and whether the punishment matched the lesson. Drusus logged the parallel as *speculative* in the same buffer as Kaell’s cross-file and felt his stomach perform a marine’s forbidden flip anyway. Coincidence was a kind of theology he refused; echo was a kind of wound he could not refuse.
 
----
-
-## VI. Tomorrow We Punish Prediction Again
-
-Kaell’s cooling remains went home in a shroud Drusus sealed personally — Apothecarion honor that was also penance. The fabric smelled of counterseptic and rain; the seal clicked with the small finality of a door closing on a room you are not allowed to re-enter. Mortals saluted the litter because humans need gestures when words fail; Marines did not salute, because salutes would have implied approval, and approval would have been a lie.
+When the ridgeline watcher withdrew into rain, Kaell’s cooling remains went home in a shroud Drusus sealed personally — Apothecarion honor that was also penance. The fabric smelled of counterseptic and rain; the seal clicked with the small finality of a door closing on a room you are not allowed to re-enter. Mortals saluted the litter because humans need gestures when words fail; Marines did not salute, because salutes would have implied approval, and approval would have been a lie.
 
 The Versibar’s blood had steamed in the rain; the weight on Alaric’s soul did not. Weight, for him, did not steam. It accumulated.
 
@@ -159,10 +137,6 @@ Drusus sat alone in the Apothecarion field tent long enough for his gauntlets to
 
 The sentence was cowardice dressed as responsibility. He let it stand.
 
----
-
-## VII. Cord Held — Brother Did Not
-
 Alaric remained on the firebase lip until the last auxilia litter cleared the wire. He watched the landward road swallow mortals who would dream of Kaell’s laughter for decades and call the dreams *duty*. He thought of the pier boy’s sentence — *you keep cages too* — and of Kaell’s boltgun describing arcs that honored no distinction, and of the cord he had named in a shelter after seventy-two: duty, not pride.
 
 The cord had held. The brother attached to it had not.
@@ -176,10 +150,6 @@ Varro, passing the tent flap on his own patrol, paused long enough to touch two 
 Outside, Type **B** cadence faded into distance without vanishing — like a metronome moved to another room, still audible if you admitted you were listening. The Moon Hunt was not over; it had only learned a new note.
 
 **Iria** passed the firebase wire once, tide chart folded into her cuff, and did not seek Alaric’s eyes. Seeking would have turned witness into spectacle. She adjusted a water-point tally instead — correction for interval risk — the same vaccine she would later teach cables on gulf spines. Small mercies traveled farther than speeches when speeches still cost hinge-voice the Chapter could not spare.
-
----
-
-## VIII. Second Quarter Brief Waits
 
 Rain returned to the firebase after the cord transferred — not cleansing rain, **accounting** rain — washing blood into mud until mud looked like the only honest ledger left.
 
