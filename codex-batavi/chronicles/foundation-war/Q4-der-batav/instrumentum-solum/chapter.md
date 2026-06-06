@@ -191,57 +191,26 @@ Behind her, **Castra Vetera holds** coughed static into habit, **Cohors Batavoru
 
 Thunder was still rumored. Measurement continued. Wall had not healed. It had **learned** to file its own breathing.
 
-**Alaric** stood at berth lip one last minute under open sky and did not remove his helm — continuity, not modesty — while **Iria**’s active silence shielded the spine against excuses that would have turned continuation into wedding. He said *We hold anyway* once, low, open channel — sound of wall sealing, not rage shout — and the words traveled not as ornament but as **instrument**: measurable, stamped twice, witness before throughput.
 
-**Varro** traced ash on the berth baffle where iron men had stopped borrowing mouths — not prayer, **inventory** — Executor jawline foam, latch tension, ***licentia lupina*** written so wolf-skulls multiplied only where the **Judex** chose extension, not fashion.
+**Alaric** said *We hold anyway* once, low, open channel — not ornament but **instrument**: measurable, stamped twice, witness before throughput.
 
-**Drusus** sealed the final margin under Triumvirate stamp — *Foundation War closed provisional; treat all coupling rhymes as sequence, not prophecy; witness routes only* — and felt twenty-nine years of crucible file honest enough to cut, stubborn enough to stack twice, thin enough to live.
+**Varro** traced ash on the berth baffle — not prayer, **inventory** — Executor jawline foam, latch tension, ***licentia lupina*** written so wolf-skulls multiplied only where the **Judex** chose extension, not fashion.
 
-**Santo** adjusted the last crate strap on the berth spine and did not look at hololiths naming *expansion threshold*. Looking would have turned continuation into **spectacle**. He had taught count boots across twenty-nine years; instrumentum taught count **instruments**.
+**Drusus** sealed the final margin under Triumvirate stamp — *Foundation War closed provisional; treat all coupling rhymes as sequence, not prophecy; witness routes only*.
 
-**Orwen** repeated one last timestamp into hand *vox* until voice went flat — flat not from courage, from **exhaustion** — because even endings had to admit they were **openings**, and openings filed honest enough to cut were sometimes the only mercy admiralties could not merge into throughput.
+**Merit** tried once to clip a recorder to the berth relay until **Valerius** stamped **NON-COMPLIANT** — witness routes only.
 
-**Merit** tried once to clip a recorder to the berth relay until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as folk liturgy when the serial crucible closed on instrument alone.
+**Orwen** filed serial close without adjectives — timestamps, ranges, no metaphors.
 
-From mud gospel to shingle choir to iron lecture to *We hold* to *continue* to *instrumentum solum* — twenty-nine years of crucible filed honest enough to cut, stubborn enough to stack twice, thin enough to live.
+**Echo** listened at berth relay for **tide**-shaped harmonics.
+
+**Sera** tagged finale handshake *monitor only* until merge columns starved.
+
+**Threx** would invoice *expansion threshold; yield preserved* beside *witness attests* — until **Valerius** stamped *witness route only*.
+
+**Varche** logged berth egress on Navy pane without romance — intervals, not closure.
 
 The spear was handed. The choir kept humming. The mesh still held — **provisional**, **witnessed**, **unbent**.
-
-**Iria** stood at berth lip under open sky — active silence shielding the spine against excuses — while **Elara**'s continuity lived elsewhere in the mesh as obligation translated into protection geometry, not ornament.
-
-**Mira** kept two ink colors on finale slates — *surviving* and *surviving honest* — because grief and throughput tried to merge and she refused merge the way Valerius refused it upstairs when expansion threshold waited.
-
-**Alaric** said *We hold anyway* once more under open sky — low, open channel — not ornament but **instrument**: measurable, stamped twice, witness before throughput, while the spear was handed and the choir kept humming work-shanty melody still shy of law.
-
-**Varro** traced ash on the berth baffle one last time — Executor jawline foam, ***licentia lupina*** written — and filed *instrumentum solum* as proto-rite: seal attempted, not victory, because speaking would have turned survival into **wedding** when forms heavy enough to lift fleets still required attested injury.
-
-**Pol**'s seed — monitor only — would rhyme with finale relay coupling until Drusus starved merge columns and expansion threshold stayed sequence not prophecy on open channels.
-
-**Kessler** raised three fingers at berth hololith blank sector — witness route only — because serial crucible closed on instrument alone and forms still required attested injury before survival dressed itself as wedding.
-
-**Santo** scrubbed soot from berth spine without looking at hololiths naming *expansion threshold* — not clean, *honest* — because looking would have turned continuation into **spectacle** when instrumentum taught count **instruments**.
-
-**Merit** met **NON-COMPLIANT** at berth relay one last time — witness routes only — because folk liturgy killed faster than forms heavy enough to lift fleets.
-
-**Threx** would invoice *expansion threshold; yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only*.
-
-**Drusus** sealed finale margin — *Foundation War closed provisional; DO NOT MERGE instrument with folklore on open channels* — sequence, not prophecy, because survival dressed itself as wedding only after attested injury.
-
-**Kadmos** confirmed seal on open channel — two syllables, hinge-work — because instrument was not folklore and forms heavy enough to lift fleets still required witness before survival dressed itself as wedding.
-
-**Echo** listened at berth relay for **tide**-shaped harmonics — Triumvirate seal still **narrow** — filing *instrumentum solum* as sequence before expansion threshold taxed both ledgers.
-
-**Sera** tagged finale handshake *monitor only* until merge columns starved and continuation clauses earned attested injury.
-
-**Valerius** stamped serial close twice — Marine continuity beside mortal chains still solvent — because *We hold anyway* as **instrument** still required parallel filing honest enough to cut.
-
-**Orwen** filed serial close without adjectives — timestamps, ranges, no metaphors — because facts laid like bricks survived longer than survival dressed as wedding packages.
-
-**Varche** logged berth egress on Navy pane without romance — intervals, not closure — because serial crucible closed on instrument alone and forms still required attested injury.
-
-**Kessler** raised three fingers at berth hololith blank sector one last time — witness route only — because continuation clauses earned attested injury before survival dressed itself as wedding.
-
-**Santo** scrubbed soot from berth spine without looking at hololiths naming *expansion threshold* — not clean, *honest* — because looking would have turned continuation into **spectacle** when instrumentum taught count **instruments**.
 
 Interest collecting teeth before receipts.
 
@@ -250,6 +219,8 @@ Quiet spine. Loud berth.
 Open sky.
 
 **We hold anyway.**
+
+Always owed.
 
 ---
 
