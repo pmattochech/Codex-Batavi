@@ -13,8 +13,6 @@
 
 ---
 
-## I. The Mouth Opens
-
 Halo mouth opened — egress stitched from **Dark Age of Technology** bones and Mechanicus hubris, throat sized for automation and jaw that did not need oxygen to hunger — and what stepped through was not rumor, not auspex ghost, nor polite equipment-fault blame spiral that had trained officers to sleep.
 
 Light did not *flicker* here. It **indexed** — wavelengths stepping through sequences too orderly for lightning, too hungry for weather — until void looked less like sky and more like **ledger** deciding which hulls still deserved to cast shadows.
@@ -33,10 +31,6 @@ Navy hulls and Skitarii cohorts died in clock increments, minutes purchased with
 
 Somewhere master of ordnance learned to hate clean numbers because clean numbers meant enemy was not improvising. It was **billing** you.
 
----
-
-## II. Umbilical Theology
-
 Tenders along egress ring learned **umbilical theology** the hard way: clamps certified under peacetime tolerances sheared when mouth’s harmonics walked down tether and turned metal into nervous system that **twitched**.
 
 Void alarms stacked into chords — Navy doctrine calling each chord *false cascade* until third cascade proved itself by opening compartment to hard vacuum without bothering to ask bulkhead’s opinion.
@@ -54,10 +48,6 @@ On command nets old argument tried to survive inside new catastrophe — Threx s
 Behind shouting, **Lex Ignis** adepts tried to save **samples** — fragments of drone casing, half-melted logic crystals — while Navy bosuns tried to save **people**, and both kinds of savior learned same lesson at different speeds: mouth did not respect **cargo categories** when it chewed.
 
 Genetor wept over shattered sampler until petty officer screamed at him to carry child instead, and scene would have been comedy if comedy had not required breath compartment no longer reliably owned.
-
----
-
-## III. Human Cargo First
 
 In rearward Strategium shell — still dry, still offended by blood — **Valerius** fought different battle: manifests that refused to close, names that multiplied when families boarded twice to stay together, stamp-blocks that arrived too late because stamps required officers who were dead.
 
@@ -81,10 +71,6 @@ He cataloged injuries that were not wounds so much as **interfaces** — nerve-s
 
 Beside Wolf’s Curse stress indices he wrote *elevated; ambient hazard unclear* in smallest letters he could manage, not to name miracle, to refuse letting day pretend stress was only **cowardice**.
 
----
-
-## IV. Minutes Disguised as Grace
-
 Auxilia last stands bought seconds disguised as grace — not heroism performing for tape but purchase: time for hatch to seal, time for child to clear stairwell, time for *vox* officer to stop screaming long enough to hear new order. In this dialect grace meant we died where you needed us to.
 
 **Sergeant Kessler** held stairhead until third count broke — then broke stair with grenades because *down* had become vector mouth wanted to **own** — and did not apologize to Mechanicus liaison who called it **waste**.
@@ -100,10 +86,6 @@ Briefings failed not from cowardice but from category error, because enemy did n
 **Kadmos** fed fire teams **emptiness** again — Solaris’s lesson recycled without poetry — because mouth punished greed the way prisms punished eyes: wait until arrogance created void, then spend void all at once.
 
 Between volleys he listened to Mechanicus demand *hold for convergence* and Navy demand *expend before envelopment* and did neither until his own geometry said **now** — Castellan’s lieutenancy distilled: not picking sides, picking **moments**.
-
----
-
-## V. Line. Seal. Breach.
 
 **Alaric’s** voice — flat anchor, hatred disciplined into tone — cut channels anyway:
 
@@ -133,10 +115,6 @@ Varro laid promethium kisses along hatch seams where brightness tried to become 
 
 When Navy officer tried to re-sequence tender launch to save **face**, Valerius blocked it with single line on slate — *witness route only* — same refusal he had learned on Vitreus when mirrors punished optimization.
 
----
-
-## VI. Salt as Witness
-
 **Iria** whispered Needle-prayer under roar — not to Emperor alone, not to spite, but to weight: to tide-law older than Gothic, to idea that existence is debt, to whatever listens when water decides level.
 
 Salt found her lips and she did not wipe it clean, because salt was witness.
@@ -155,10 +133,6 @@ MoI drones tried to **rejoin** in void the way droplets try to rejoin water — 
 
 In that interval men discovered sick intimacy with mathematics: if you killed gap, you killed flock; if you killed flock too late, flock killed tender; if you killed tender, Strategium would call it **acceptable** on different page than one Valerius was filling by hand.
 
----
-
-## VII. Third Creditor
-
 Even while lascannon registers still ran hot, relay-slate version of hololith **reopened** — not for decision, for **positioning**: commodore’s aide pushed for phrasing that would make Navy coffins somebody else’s line item while Threx pushed for phrasing that would make Mechanicus salvage **untouchable** until *hazard classification returned to sanctified baseline.*
 
 **Valerius** slid draft minutes between them like blade slipped under door — each line beginning *Chapter witness attests…* because witness was only jurisdiction neither institution wholly owned.
@@ -170,10 +144,6 @@ By time draft reached proper quorum hours later, bulkhead would already be scorc
 Romance near apocalypse, in old sense, is not that dragon is noble but that dragon shows teeth and knight realizes sky also bites — that iron can smile without lips, and that freedom, when it finally speaks, will sound like insult wrapped in elegance.
 
 Thunder rolled synthetic, stars rearranged themselves into formation, Halo mouth stayed open, and Chapter stepped forward again into war that had stopped pretending it belonged to biology alone.
-
----
-
-## VIII. Visible Theater — Filed in Blood
 
 Strategium filed **Halo egress; Men of Iron contact confirmed; visible theater initiated** — language finally blunt enough to match bite — because some truths can only enter archive once they have already entered **blood**.
 
