@@ -13,8 +13,6 @@
 
 ---
 
-## I. Sky as Argument
-
 On Solaris-Alpha prism array turned sky into argument in literal sense, not only rhetorical one.
 
 Light split, folded, recombined until terrain behaved like debate between suns, tactics became angles, kill-zones became refraction, and cover became place yesterday’s shadow died when array shifted degree and decided honesty was obsolete.
@@ -28,10 +26,6 @@ Mechanicus voices — **Threx** foremost among eager — insisted on overclock, 
 Stress folded civilian corridors — burn line by line, deck by deck, breath by breath — while children ran where charts said clear and charts lied because prism chose angles charts could not afford to respect.
 
 Mortals died learning old lesson in new dialect: trust paperwork at your own throat.
-
----
-
-## II. Institutional Physics
 
 Between institutions argument became **procedure** — Navy masters citing *minimum safe separation* while **Lex Ignis** adepts cited *sanctified throughput* as if holiness were fuel curve you could redline until God thanked you for extra rpm.
 
@@ -47,10 +41,6 @@ Friction was not personal. It was **institutional physics**: two kinds of hunger
 
 He did not speak Chapter’s iron answer as liturgy on open channels. He ended arguments with mass and arithmetic — burn-ward spine evacuated before next wash because schedules do not bleed; children do.
 
----
-
-## III. Hololith — Three Dialects of Acceptable Loss
-
 In Strategium’s dry-room hololith — air scrubbed until it tasted like spite — **Valerius** translated three dialects of *acceptable losses* into one ledger column that still refused to reconcile.
 
 Navy **coffin data** embargoed until *array governance clarified*. Mechanicus **tithes** framed as assistance until *Navy interference ceased*. Chapter annexes citing **coupled logic** dismissed by Threx’s juniors as *Apothecarion melodrama* until Drusus’s timestamps were laid edge-to-edge with prism ticks and room went quiet in wrong way.
@@ -65,10 +55,6 @@ Merit’s floor team tried to **normalize** hololith minutes into one slide — 
 
 Valerius had already **double-stamped** embarkation annex — ceramite continuity under **glare discipline**, mortal chains still solvent — because Solaris taxed both ledgers when prisms taxed eyes.
 
----
-
-## IV. Coupled Logic — Drusus Strips Smoothing
-
 What washed through auspex stacks felt less like enemy unknown and more like interference with intent — **Dark Age of Technology** pressure visible only as **symptom** this far from final mouth, timings too neat for incompetence, harmonics too polite for randomness, failures that arrived like gifts wrapped in Mechanicus ambition.
 
 **Reading** beat was Drusus stripping smoothing until display confessed — return spikes that aligned with array shifts not like lag but like **agreement**, micro-delays that felt like something *listening* for word *fire* — and then second confession, uglier: correlation tags that rhymed with **Silica mirror-brood** filings until rhyme stopped being metaphor and became **stack** — same cadence of *clean signal* moments preceding catastrophe, same polite gaps where human judgment used to live.
@@ -78,10 +64,6 @@ He cross-filed *prism coupling* beside *trust debt elevated* until margin looked
 Titles denied it from panic dressed as prudence. Guts suspected — including Drusus’s — because bodies know pattern before bureaucracy permits vocabulary, and crucible was no longer asking whether something watched but how long denial could remain affordable.
 
 Drusus appended margin for translation burn — not prophecy, **sequence**: *prism-shift tremor may rhyme with Wolf’s Curse stress telemetry; treat as environmental false-positive unless sustained across three intervals; do not merge columns with Silica filings prematurely* — because naming hunger early only fed it cleaner meals when sky looked like scripture.
-
----
-
-## V. Burn-Ward Spine — Schedules Do Not Bleed
 
 **Alaric** chose geometry over pity, not because pity was weak but because pity untrained becomes lie: save this child here feeding lose fifty there with nauseating reliability, and truth’s brutality was only compass that still pointed north when sky itself spun.
 
@@ -96,10 +78,6 @@ Interns mistook rainbow **routes** for morale until **Sigma** ghosts dressed was
 **Iria**, on tender spine, refused to KPI evacuation — silence meant *do not rename sacrifice as throughput* — until tide vocabulary stayed tide vocabulary and did not metastasize into slides about *prism resilience scores*.
 
 **Kadmos** posted burn-ward cordon one meter deeper — geometry as insurance — because prism wash converted *cover* into oven faster than slides admitted and officers still tried to invoice courage as throughput.
-
----
-
-## VI. Count to Three in the Dark
 
 **Sergeant Kessler** dragged auxilia through corridor that brightened twice in one breath — first as warning wash, second as **cut** — and made them count to three in dark between, because counting was only harness that fit when eyes could not be trusted.
 
@@ -118,10 +96,6 @@ Boy moved, because on Aethelgard she had learned some words save lives only when
 He moved with ugly efficiency of man who had decided armor was not costume but **toolkit** — rebreather mask pressed to her mouth between strides, his own lungs paying interest on loan — until junction lights strobed in rhythms that made nausea tactical hazard.
 
 He handed her to **Valerius** at junction marked with tape and trembling hands — chain of living, link by link, shamefully human logistics beneath transhuman war — and Valerius took her as if handoff were oath, and it was: he wrote her name on wrist tag with letters too careful to be casual, because carelessness becomes **ghost** when sky argues.
-
----
-
-## VII. Kadmos — Fire When I Say
 
 Prism wash did not hate. It **consumed** — which was worse, because consumption implied you were fuel worth addressing while hate at least implied personhood.
 
@@ -145,10 +119,6 @@ Skitarii liaisons tried **first touch** on prism telemetry at seal zones until *
 
 **Alaric** did not debate convergence on open channels. He shifted mass one deck down — hinge-work — while **Drusus** carried the broken-arm girl through smoke and **Valerius** wrote wrist tags too careful to be casual. Sky argued. Humans argued back with **sequence**: first water, first wounds, first names, first living secured so tomorrow could not pretend today had been rumor.
 
----
-
-## VIII. Threx Afraid of Beauty
-
 **Threx** watched prism fire paint equations on bulkhead smoke — curves perfect, lines smug, numbers glowing like scripture — and for one blink he looked afraid of beauty, not as cowardice but as recognition: Mechanicus had built cathedral that could hymn while it ate.
 
 Romance near apocalypse, in old sense of marvel without lie, is not that miracle saves you but that marvel kills and hero still chooses witness and accounting and presence while heaven performs brutal mathematics overhead.
@@ -160,10 +130,6 @@ Strategium filed **Solaris-Alpha prism stress; civilian refractory casualties; a
 Second appendix arrived uglier than first — **joint liability unresolved** — Navy demanding *array architects in Batavi protective custody for debrief* (denied as insult), Mechanicus demanding *Chapter cease publication of unverified coupling claims* (denied as cowardice), both sides agreeing only on one sentence buried where civilians would not read it: *escort intervals widened pending independent audit*, which meant crucible would pay tomorrow in **time** for institutions to pretend today had been **law**.
 
 Strategium night staff learned to fear **reconciliation** packages the way infantry learned to fear **secure** — words that let you sleep while someone else paid for dream — until Valerius crossed *reconciliation* out and wrote *witness route only* in margins too plain to parade.
-
----
-
-## IX. Black and Gold Under Heaven’s Math
 
 Casualty boards filled twice — once for flesh beside prism burn and cooked paint, once for minds bent before hearts broke — because **witness priority** demanded honesty uglier than slides wearing *acceptable variance* like lipstick.
 
