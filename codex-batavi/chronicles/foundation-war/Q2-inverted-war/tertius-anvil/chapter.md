@@ -15,9 +15,7 @@
 
 ## I. Weight as Verdict — Not Lens
 
-Hyper-G did not negotiate. It **audited** — hearts, thighs, lungs, the arrogant certainty of men who still believed eyes could be trusted after **Vitreus** had taught them otherwise. Tertius traded **lens** for **mass** the way Incus would later trade quotas for **rounds**, and the Chapter learned, again, that the universe preferred debts you could feel through boot soles.
-
-They traded **lenses** for **mass**: **Vitreus** had taught the Chapter to mistrust what eyes insisted was real — reflections that multiplied targets until blind-fire became doctrine — and **Tertius** taught the body something older, something the glass seas could not counterfeit: **weight** as verdict.
+Hyper-G did not negotiate. It **audited** — hearts, thighs, lungs, the arrogant certainty of men who still believed eyes could be trusted after **Vitreus** had taught them otherwise. **Vitreus** had filed reflection as weapon; **Tertius** filed **weight** as verdict — something glass seas could not counterfeit — and the Chapter learned again that the universe preferred debts you could feel through boot soles.
 
 Gravity here was not a constant whisper; it was a **swollen** judge, hyper-G until courage stopped being a virtue and became a **cardiovascular audit** you could read in cyanotic lips and in the way laspacks seemed to gain mass between heartbeats.
 
@@ -73,8 +71,6 @@ When **Merit’s** clerks tried to attach a recorder to her sergeants for *moral
 
 Mortar teams learned to **undercharge** on the shingle — correction arcs chalked in blood-rust dust until the math looked like blasphemy and worked like mercy. A spotter who trusted Vitreus eyes too long sent a round into his own trench lip; **Kadmos** muted the channel and made the team recalc without drama, because drama was how hyper-G turned shame into **second casualties**.
 
-— Feet — Kessler roared again, voice scraped to wire. — Not prayers.
-
 Prayers, here, were luxuries gravity taxed at interest.
 
 ---
@@ -94,8 +90,6 @@ Varro listened for **Echo** without granting it vocabulary — permission remain
 **Santo** — **Mira Kell’s** son, militia gray gone the color of wet ash — killed because killing had become **hygiene**: a chore you performed so your hands stopped shaking from the *other* kind of thinking. He did not dream holo-honor now; he dreamed narrow corridors and muzzle flash that left afterimages like accusations.
 
 **Mira** watched him become **useful** the way forges become useful — heat without tenderness — and did not smile; her world had always been a ledger, and this chapter added columns she refused to name aloud, mortal geometry holding agency in the only currency bridges respect: **witness without applause**.
-
-**Valerius** stamped shingle traverse twice — Marine continuity beside mortal payroll still breathing — because compression narcosis was debt years eight to fifteen would braid as montage shame before Incus borrowed forge hum as echo.
 
 ---
 
@@ -169,8 +163,6 @@ Somewhere behind them, the hive still smoked. Somewhere ahead, ledgers waited �
 
 **Kessler** passed with a squad rotation and saw the two figures on the shingle — giant and mortal, wind and weight — and did not interrupt. Interruption would have been another rhythm the enemy could sync. She marched her boys past the tarp rows instead, feet not prayers, and let the reckoning happen without audience.
 
-**Santo** scrubbed blood from his hands on the shingle edge until skin turned raw — not clean, *honest* — and **Mira** watched without smiling. Her ledger had gained a column she refused to name aloud: *useful* the way forges are useful, *witness* without applause. The anvil had stopped a coronation. It had not ended hunger. Hunger would learn new hymns in montage years.
-
 ---
 
 ## VIII. Stopped — Not Ended
@@ -179,15 +171,11 @@ Somewhere behind them, the hive still smoked. Somewhere ahead, ledgers waited �
 
 **Kadmos** filed the blunt harmonic under *Pole II ingress; expect attenuation; do not merge with Sigma filings prematurely* — sequence, not prophecy — and watched junior artillery officers try to merge it with Ring minutes until Valerius’s *DO NOT MERGE* arrived from Incus like a vaccine traveling pole to pole.
 
-**Drusus** appended a closing margin note for translation burn — *Pole II harmonic blunt; expect Sigma bleed attenuation on next ingress; monitor Exanimus-adjacent chatter as environmental false-positive unless sustained* — not prophecy, **sequence**, the same refusal that had kept mirrors from pretending coincidence on Vitreus.
+**Drusus** appended a closing margin for translation burn — *Pole II harmonic blunt; Tertius hyper-G coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained; principal escaped trace — monitor only* — sequence, not prophecy.
 
-**Valerius** stamped the embarkation slate for **Years Eight to Fifteen** twice: once for ammunition continuity, once for the mortal payroll **still breathing**, because those were different debts and the Strategium’s rooms liked to pretend otherwise.
+**Valerius** stamped embarkation toward **Years Eight to Fifteen** twice — ammunition continuity beside mortal payroll still breathing — because those were different debts and the Strategium’s rooms liked to pretend otherwise.
 
-Alaric remained on the shingle one minute after Iria turned back toward the Needles liaison post. He did not remove his helm. He practiced active silence the way she had taught it — shield, not absence — while the hyper-G tide in his blood argued that weight was also a kind of prayer, answered only by the next step.
-
-**Kessler** passed the tarp rows with auxilia who had learned to sleep standing and did not interrupt the reckoning — interruption would have been another rhythm the enemy could sync. She counted canteens instead, because counting was the only vaccine that had never lied to her yet on beaches not yet named beaches in her own vocabulary.
-
-**Santo** scrubbed blood from his knuckles on shingle grit and did not look at **Mira** when she passed with tally ink on her hands. Looking would have turned shame into **spectacle**. **Mira** adjusted a load instead — witness without applause — because the anvil had stopped a coronation without stopping hunger.
+**Alaric** remained on the shingle one minute after Iria turned back toward the Needles liaison post. He did not remove his helm. He practiced active silence the way she had taught it — shield, not absence — while the hyper-G tide in his blood argued that weight was also a kind of prayer, answered only by the next step.
 
 The brood’s coronation had been **stopped**. Not ended. Stopped.
 
@@ -195,61 +183,27 @@ That difference would define the years that followed.
 
 He did not say *We hold* as liturgy. He held anyway — measurable, tarp-counted, splinter-filed — because the anvil had taught him that some victories were only receipts, and receipts were how you prevented the sea from calling debt **forgiven**.
 
-**Alaric** stood at anvil lip one minute after principal escaped trace and did not remove his helm — continuity, not spectacle — while hyper-G still rang in ceramic edges like verdict without appeal. NOT FIELDED stamped twice; active silence shielded the spine against excuses that would have turned coronation into **folk liturgy**.
+**Varro** filed anvil threshold as proto-rite — seal attempted, not victory — and traced ash on the shingle baffle where brood sovereignty had inches from coronation.
 
-**Drusus** appended a closing margin — *Tertius coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained across three intervals* — sequence, not prophecy, carried forward toward montage years where habit would outlast triumph.
+**Merit** tried once to clip a recorder to anvil hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as NOT FIELDED packages.
 
-**Varro** traced ash on the shingle baffle where brood sovereignty had inches from coronation — not prayer, **inventory** — death-skull geometry until Exanimus vault earned Executor jawline, ***licentia lupina*** written in advance so wolf-skulls multiplied only where the **Judex** chose extension.
+**Orwen** filed anvil timestamps without adjectives — ranges, no metaphors.
 
-**Santo** scrubbed blood from his knuckles on the shingle edge until skin turned raw — not clean, *honest* — and **Mira** watched without smiling. Her ledger had gained a column she refused to name aloud: *useful* the way forges are useful, *witness* without applause. The anvil had stopped a coronation. It had not ended hunger.
+**Echo** listened at anvil shingle for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing hyper-G as sequence before montage years taught habit honest enough to cut.
 
-**Valerius** stamped the embarkation slate for **Years Eight to Fifteen** twice before dawn — ammunition continuity beside mortal payroll still breathing — because montage years would ask for both kinds of solvency and bankrupt anyone who merged them.
+**Kessler** walked the shingle edge one last time with auxilia who had learned feet not prayers — and counted canteens instead of interrupting reckoning.
 
-**Drusus** appended a closing margin — *Tertius hyper-G coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained; NOT FIELDED until repeat trace confirms* — sequence, not prophecy, carried forward toward montage habit that would outlast triumph.
+**Santo** scrubbed blood from his knuckles on shingle grit without looking at **Mira** when she passed with tally ink. Looking would have turned shame into **spectacle**.
 
-**Kessler** walked the shingle edge one last time with three fingers raised at spray that caught forge-light wrong — witness route only, no throughput dressed as coronation packages — while **Santo** scrubbed blood from his knuckles until skin turned raw — not clean, *honest*.
+**Iria** passed with tide chart in cuff — active silence carried forward — toward montage years still sharpening teeth in Strategium long rooms.
 
-Hyper-G still rang in ceramic edges like verdict without appeal. Principal had escaped trace. Hunger had not.
+Principal had escaped trace. Hyper-G still rang in ceramic edges like verdict without appeal. Hunger had not ended.
 
-Book II’s last battle-pole closed. Montage waited. Gulf deployment blinked on hololiths.
+Book II’s last battle-pole closed. Years Eight to Fifteen waiting. Gulf deployment blinking on hololiths.
 
-**Alaric** stood at anvil lip one minute after NOT FIELDED stamped and did not remove his helm — continuity, not spectacle — while hyper-G still rang in ceramic edges like verdict without appeal. Active silence shielded the spine against excuses that would have turned coronation into **folk liturgy**.
-
-Shingle forgot blood until hyper-G silence looked like peace — peace another word for **NOT FIELDED** hiding teeth montage years would teach in habit, not triumph, before Gulf deployment blinked phase taxonomy on hololith margins.
-
-**Santo** scrubbed blood from his knuckles on the shingle edge until skin turned raw — not clean, *honest* — and **Mira** watched without smiling. Her ledger had gained a column for *useful* the way forges are useful — witness without applause. The anvil had stopped a coronation. It had not ended hunger.
-
-**Valerius** stamped toward **Years Eight to Fifteen** twice before dawn — ammunition continuity beside mortal payroll still breathing — because montage would ask for both kinds of solvency and bankrupt anyone who merged them.
-
-**Threx** logged *substrate volatility* beside *sampling window favorable* in the same breath — Mechanicus grief wearing numbers when it could not wear shame — while montage shame waited in years eight to fifteen as braid, not single war.
-
-**Drusus** appended margin — *hyper-G coupling may present as brood stress rhyme; treat mass-as-verdict as environmental false-positive unless sustained* — sequence, not prophecy, because sovereignty inches from coronation still required witness routes only.
-
-**Valerius** stamped toward **Years Eight to Fifteen** twice before dawn — ammunition continuity beside mortal payroll still breathing — because montage would ask for both kinds of solvency and bankrupt anyone who merged them.
-
-**Alaric** stood at anvil lip one minute without speeches — hinge-work — because hyper-G did not negotiate with morale throughput and Tertius taught thighs rebuilt by slopes before Incus borrowed forge hum as echo.
-
-**Drusus** appended anvil margin — *inheritance terrain; treat hyper-G coupling as environmental false-positive unless sustained; NOT FIELDED stays honest enough to cut* — sequence, not prophecy, because shame that stayed honest was sometimes the only vaccine when montage shame waited in years eight to fifteen as braid.
-
-**Santo** killed because killing had become hygiene — narrow corridors, muzzle flash like accusations — and **Mira** did not smile because witness without applause was only currency that still bought truth on Tertius shingle.
-
-**Kadmos** saved anvil stub under *Inheritance terrain; sequence only* — hyper-G coupling, mass-as-verdict — because principal escaped trace was debt years eight to fifteen would braid into montage shame honest enough to cut.
-
-
-**Varro** filed anvil threshold as proto-rite — seal attempted, not victory — because hyper-G waited to teach mass as verdict and brood sovereignty inches from coronation still required witness routes only.
-
-**Merit** tried once to clip a recorder to anvil hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as NOT FIELDED packages when principal escaped trace was debt montage would braid.
-
-**Echo** listened at anvil shingle for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing hyper-G as sequence before years eight to fifteen taught montage shame honest enough to cut.
-
-**Iria** passed with tide chart in cuff — active silence — because Tertius taught thighs rebuilt by slopes and slopes were debt gulf tombs would spend in ceramic law.
-
-**Kessler** counted anvil losses on shingle wire — kindness with arithmetic teeth — and did not praise auxilia when hyper-G taught mass-as-verdict without negotiating with courage packages.
-
-**Orwen** filed anvil timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than NOT FIELDED dressed as coronation packages.
 Interest collecting teeth before receipts.
 
-Principal escaped trace. NOT FIELDED. Active silence.
+Principal escaped trace. NOT FIELDED. Active silence. Years Eight to Fifteen waiting.
 
 Always owed.
 
