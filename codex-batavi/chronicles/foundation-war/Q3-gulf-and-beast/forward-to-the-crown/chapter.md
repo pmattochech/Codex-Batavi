@@ -73,8 +73,6 @@ Mirror-route officers flinched when confidence intervals tightened because grief
 
 Wolf’s Curse watch stayed off channels that could recruit story — Kadmos enforced — because *Furor* vocabulary beside Navigator strain could invent cult velocity.
 
-Kadmos ran cordons through boarding locks with **touch-taps** when *vox* hollowed — because panic dressed as static recruited faster than bolts when harmonics mimicked **override etiquette** learned on tombs.
-
 ---
 
 ## IV. Mira’s Counterfeit Clock
@@ -195,14 +193,6 @@ Forgemasters erased chalk ticks so approach maps could not migrate into Merit mo
 
 **Hold** and **witness** different ledgers even when polish pretended otherwise — because crowns taxed both before they taxed hulls.
 
-**Orwen** filed Navigator annex latency without adjectives — timestamps, ranges, no metaphors — because grief dressed as throughput killed faster than void grammar when estuary still required attested injury.
-
-**Echo** listened at crown seam for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — and filed silence as data because forward was schedule, not coronation.
-
-**Varche** logged crown egress on Navy pane without romance — intervals, not triumph — because Navigator debt taxed both ledgers when admiralties tried to merge grief into throughput dressed as *forward*.
-
-**Merit** had already tried to clip a recorder to crown hololith once that watch; **Valerius**'s **NON-COMPLIANT** stamp arrived before the clip clicked — witness routes only, posture not package.
-
 ---
 
 ## X. Book III Closes on the Void
@@ -223,33 +213,17 @@ Book III closed on evacuation ethics and Navigator debt.
 
 Book IV would ask what **estuary** meant when crowns cut and archives still whispered **DO NOT MERGE** — whether *forward* could become doctrine without letting mirrors merge grief into throughput first.
 
-**Alaric** stood at crown egress one minute after Navigator debt filed and did not remove his helm — continuity, not spectacle — while **Iria** breathed ozone and cold sugar and refused poetry that renamed sacrifice. He did not say *We hold*. Holding, here, was **refusal to let evacuation ethics merge columns** before injury was attested.
+**Varro** lengthened thresholds one interval longer than courtesy required — sanctity and physics sharing trench.
 
-**Kadmos** answered **Threx**'s yield argument one last time with human or bolt — silence became fourth party again — and saved the crown stub under *hostile void; echo stub* because void grammar taxed both ledgers when grief and throughput tried to share one innocent line.
+**Drusus** filed *grief as latency; Navigator annex guarded access* under Triumvirate seal — sequence, not prophecy.
 
-**Kessler** walked the last crown passage with auxilia who had learned to count backward from ten when *grief as latency* tried to recruit story — not therapy, **sequence** — witness route only, no throughput dressed as Navigator romance.
+**Merit** tried once to clip a recorder to crown hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only.
 
-**Varro** lengthened thresholds one interval longer than courtesy required — sanctity and physics sharing trench — because crown egress taxed both ledgers when Navigator debt tried to merge grief into throughput dressed as *forward*.
+**Orwen** filed crown egress without adjectives — timestamps, ranges, no metaphors.
 
-**Valerius** stamped toward **Estuary Doctrine** twice — Marine continuity beside mortal chains still solvent — because Book IV would ask what **estuary** meant when archives still whispered **DO NOT MERGE** and settlement in salt still required witness routes only.
+**Echo** listened at crown void seam for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow**.
 
-**Merit** tried once to clip a recorder to crown hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as forward triumph packages when estuary still required attested injury.
-
-**Drusus** filed *grief as latency; Navigator annex guarded access* under Triumvirate seal — sequence, not prophecy — because crown egress taught void grammar that billed in intervals before shingle learned settlement.
-
-**Orwen** filed crown egress without adjectives — timestamps, ranges, no metaphors — because facts laid like bricks survived longer than throughput dressed as forward triumph.
-
-**Echo** listened at crown void seam for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — while Book IV waited to ask what **estuary** meant when archives whispered **DO NOT MERGE**.
-
-**Iria** breathed active silence at crown egress — refusal to let convenience rename sacrifice as virtue — because Navigator annex guarded access and grief as latency was debt estuary would settle in salt.
-
-**Kadmos** posted crown cordon one meter deeper — geometry as insurance — because forward was schedule not coronation and partial victory refused triumph theater.
-
-**Mira** did not wave. **Santo** breathed. Witness without applause traveling into void grammar that billed in intervals.
-
-**Threx** would file *yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like **solvency**.
-
-**Varche** logged crown egress on Navy pane without romance — intervals, not triumph — because Navigator debt taxed both ledgers when admiralties tried to merge grief into throughput dressed as *forward*.
+**Varche** logged crown egress on Navy pane without romance — intervals, not triumph.
 
 Interest collecting teeth before receipts.
 
