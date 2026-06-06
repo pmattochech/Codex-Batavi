@@ -13,8 +13,6 @@
 
 ---
 
-## I. Weight as Verdict — Not Lens
-
 Hyper-G did not negotiate. It **audited** — hearts, thighs, lungs, the arrogant certainty of men who still believed eyes could be trusted after **Vitreus** had taught them otherwise. **Vitreus** had filed reflection as weapon; **Tertius** filed **weight** as verdict — something glass seas could not counterfeit — and the Chapter learned again that the universe preferred debts you could feel through boot soles.
 
 Gravity here was not a constant whisper; it was a **swollen** judge, hyper-G until courage stopped being a virtue and became a **cardiovascular audit** you could read in cyanotic lips and in the way laspacks seemed to gain mass between heartbeats.
@@ -26,10 +24,6 @@ The **backward braid** was blunt percussion after optical lie: Sigma-Black sympa
 Every moon-lesson the Strategium had bought with coin and corpses now read as **muscle memory** — you did not argue with the ground on Tertius; you audited what it did to hearts and filed the answer where the next staff officer could not pretend not to see it.
 
 Dawn on the shingle brought **double-weight** to men who had slept believing sleep was honest: laspacks felt heavier, boots felt **borrowed**, hearts argued with ribs until **Drusus** posted a field chart — *cyanosis index by traverse minute* — and officers learned to read lips turning blue the way Vitreus had taught them to read glare. Hyper-G was not a monster you fought. It was a **tax** you paid in circulation until circulation learned new arithmetic or stopped.
-
----
-
-## II. Near-Success — Hygiene That Looked Like Victory
 
 **Iria**’s return had been deferred through Ignis and Vitreus and glass seas until fire and reflection and weight had each been honest about appetite. Tertius was honesty wearing **hyper-G**: courage audited in cyanotic lips, *feet not prayers* the only hymn that still translated when lungs argued with ribs.
 
@@ -48,10 +42,6 @@ Ingress from Vitreus had left ghosts on auspex: harmonics that climbed whenever 
 Marines learned to brace for **double-weight** mornings: bodies still calibrated to glare discipline, lungs recalibrated to slopes that asked for thighs more than eyes.
 
 **Valerius** refused to carry over ration headers from the last theater; he re-stamped everything *Tertius-local* because stamped paper was how you prevented a beautiful error from migrating like a parasite from one logistics skin to another.
-
----
-
-## III. Feet — Not Prayers
 
 Mortar teams chalked **correction arcs** on stone until chalk dust mixed with settled blood and looked like rust — another joke nobody laughed at twice — while spotters learned to distrust their own retinas when hive vents breathed warm fog across optics: Vitreus had taught *reflection*, Tertius taught *compression*, and compression turned hesitation into a measurable casualty rate faster than any pamphlet the Strategium refused to print.
 
@@ -73,10 +63,6 @@ Mortar teams learned to **undercharge** on the shingle — correction arcs chalk
 
 Prayers, here, were luxuries gravity taxed at interest.
 
----
-
-## IV. Compression Narcosis — Echo Without Vocabulary
-
 The extended **reading** beat on Tertius was not auspex poetry; it was physiology weaponized by environment — auspex screens jittering with false mass signatures whenever blood films thickened on lenses, *vox* harmonics breaking when men doubled over not from fear but from **G-load** stealing venous return.
 
 Apothecaries learned to distrust clean waveforms the way Vitreus had taught them to distrust clean reflections: a flat line here meant a man was about to fall, not that the sky was honest.
@@ -90,10 +76,6 @@ Varro listened for **Echo** without granting it vocabulary — permission remain
 **Santo** — **Mira Kell’s** son, militia gray gone the color of wet ash — killed because killing had become **hygiene**: a chore you performed so your hands stopped shaking from the *other* kind of thinking. He did not dream holo-honor now; he dreamed narrow corridors and muzzle flash that left afterimages like accusations.
 
 **Mira** watched him become **useful** the way forges become useful — heat without tenderness — and did not smile; her world had always been a ledger, and this chapter added columns she refused to name aloud, mortal geometry holding agency in the only currency bridges respect: **witness without applause**.
-
----
-
-## V. Sera — Parallel Routes Under G-Load
 
 **Sera** — brought from Vitreus because blindness still gathered routes where eyes gathered lies — ran fiber through trench roofs until cable trays looked like ribs, thin troughs carrying signal where throats carried smoke, and treated every splice like a confession because splices failed without shame and shame kept fingers honest under G-load. When the hive coughed interference, she split routes **parallel** the way Valerius liked filings: duplicate statements that did not contradict until contradiction saved lives.
 
@@ -117,10 +99,6 @@ A forge-serf — young, lungs already scarred from particulate — tried to run 
 
 The serf breathed. Breathing was the only victory hyper-G sometimes granted without charging interest immediately.
 
----
-
-## VI. Principal Escaped Trace — Splinter Clause
-
 The sump coughed black pressure; something on the other side tested the join the way a predator tests fence wire; the join **held**, and the Magus’s route died in paperwork and flame even as the man himself became smoke in a story told too fast for clean capture — **filed: partial breach, containment restored, principal escaped trace**.
 
 That last clause would follow them like a splinter.
@@ -141,10 +119,6 @@ The colonel stamped twice. Hyper-G had taught the mesh the same lesson Incus wou
 
 Some drank; some could not swallow; Valerius stayed until swallowing returned — not kindness exactly; **logistics of the living**, the mortal face officers sought when Marine eyes shone too bright. He left canteen tallies on a rust-pitted admin crate as if the universe could be shamed by **integers**; the universe was not shamed, but staff found the numbers easier to copy than feelings, and that was the point.
 
----
-
-## VII. Active Silence — Teach Me the Prayer
-
 **Iria** came down the beach path on orders **finally** granted — not beside Needles shell-cloak this time, but in the plain brutality of transit rig and dust, hair bound for work, not rite. She looked at Alaric — helmed, as law demanded outside the tiny exemptions the universe grudged — and did not praise.
 
 — The tide on Aethelgard would call this *a reckoning* — she said; the wind pulled at her words and failed to take them.
@@ -162,10 +136,6 @@ Somewhere behind them, the hive still smoked. Somewhere ahead, ledgers waited �
 **Drusus** stood at the trench lip and watched them without intruding. He had deferred Iria through Ignis and Vitreus and the anvil’s opening movement because fire had not yet been honest about its appetite; now honesty wore tarp rows and a near-crowned seal **stopped** at a price counted in tens of thousands. He did not know if active silence was medicine or rite. He filed it as *both* in a margin he would deny if asked.
 
 **Kessler** passed with a squad rotation and saw the two figures on the shingle — giant and mortal, wind and weight — and did not interrupt. Interruption would have been another rhythm the enemy could sync. She marched her boys past the tarp rows instead, feet not prayers, and let the reckoning happen without audience.
-
----
-
-## VIII. Stopped — Not Ended
 
 **Threx** watched the sump seal from a sanctioned auspex bead and received silhouette only — *Triumvirate business; non-salvage* — hatred swallowed because swallowing meant later invoices. Hyper-G had not crowned the brood. It had **stopped** a coronation at a price counted in tens of thousands and left *principal escaped trace* humming in margins like a metronome moved to another room.
 
