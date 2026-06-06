@@ -199,16 +199,6 @@ Behind her, auxilia had bought minutes disguised as grace, Orwen had dragged bod
 
 Vacuum ahead would teach different grammar — one that did not need oxygen to speak.
 
-**Alaric** stood at deck spine one minute after Men of Iron stopped being rumor and did not remove helm — continuity, not spectacle — while **Der Batav** iron had named itself on shingle and halo asked whether iron could stay when sky billed you in intervals. He did not say *We hold*. Holding, here, was **refusal to let indexing light merge columns** before injury was attested.
-
-**Varro** traced ash on baffle where iron men had learned to stay — not prayer, **inventory** — Executor jawline foam, latch tension, weight of silence that had teeth and did not need oxygen to remain lawful.
-
-**Drusus** appended closing margin — *halo coupling may present as Wolf's Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained across three intervals* — sequence, not prophecy, carried forward toward vacuum where freedom would speak cleanly enough to burn mouths.
-
-**Merit** tried once to clip recorder to correction-arc chalk until **Valerius** stamped **NON-COMPLIANT** before clip clicked — witness priority demanded honesty uglier than slides wearing *acceptable variance* like lipstick.
-
-**Iria** read *Not yet* on slate ten minutes late and did not curse delay — delay was how you learned which fires were honest about appetite before you walked into vacuum grammar that did not need oxygen to speak.
-
 **Merit** tried once to clip recorder to correction-arc chalk until **Valerius** stamped **NON-COMPLIANT** — witness routes only.
 
 **Echo** listened at halo baffle for harmonics not yet **tide**-shaped.
