@@ -35,7 +35,7 @@ Pressgangs worked in **cycles** — recruit, bleed, replace — because void did
 
 **Valerius** copied those stamps into a private column labeled *debt transfer* until the column grew tall enough to shame a Navy liaison into admitting, off-record, that the Ring was not a yard but a **mouth** that ate paperwork and called the meal *efficiency*.
 
-One scrapper — **Jorik**, throat stamped *auxilia voidcrew* in ink that had bled through skin — signed for twelve weeks and learned on day four that *week* was hunger’s translation error. He hammered texture into a cable sheath while whispering a work-song that rhymed, by accident, with quota chant from a hive he had never seen. **Drusus**, passing on a mag-boot patrol, logged the rhyme as *environmental coupling — unverified* and hated that his stylus wanted to write *choir* anyway.
+One scrapper — **Jorik**, throat stamped *auxilia voidcrew* in ink that had bled through skin — hammered texture into a cable sheath while whispering a work-song that rhymed, by accident, with quota chant from a hive he had never seen. **Drusus**, passing on a mag-boot patrol, logged the rhyme as *environmental coupling — unverified* and hated that his stylus wanted to write *choir* anyway.
 
 Jorik did not know he had been filed. Filing was how empires loved the powerless: quietly, completely, without requiring gratitude.
 
@@ -135,19 +135,13 @@ The brother whose gauntlet kissed vacuum came to **Drusus** with frostbite paint
 
 That was Apothecarion romance: cruelty accurate enough to be kindness. The brother nodded once and returned to the torn seam to photograph teeth inside teeth, because some men learned to file horror before they learned to mourn it.
 
-**Kessler** ran another breathing cycle with auxilia who had vomited in the boarding tube and were now ashamed of shame — the worst compound interest void collected.
-
-— Again — she said — and meant *until your body believes you are still inside something*.
-
 **Alaric** passed the torn seam without stopping — hinge duty, mass reserved for geometry — but his shadow fell across the brother photographing teeth inside teeth long enough for the man to understand: being seen was not **spectacle**; it was receipt. Receipt was how walls learned to hold without needing speeches.
 
 ---
 
 ## VII. Days — Romance’s Honest Love Poem
 
-Void taught a second syllabus after teeth: **days of air** were not calendar days but hunger’s translation of *week* — Jorik had learned on day four, throat stamped *auxilia voidcrew*, that contracts were receipts the Ring cashed in breath. **Valerius** copied debt-transfer stamps until the column grew tall enough to shame Navy liaisons into admitting the yard was a **mouth** that ate paperwork and called the meal *efficiency*.
-
-Scrapper children learned to sleep in corridors where ribs stacked like hymnals and vacuum kissed seams without warning. **Varro** did not burn their oil shrines yet. He noted coordinates for the day fire would be justified — seal law, not sentiment — because even small human stupidities could become **folk liturgy** if harmonics learned their lyrics.
+Void taught a second syllabus after teeth: **days of air** were not calendar days but hunger’s translation of *week*. Scrapper children learned to sleep in corridors where ribs stacked like hymnals and vacuum kissed seams without warning.
 
 Alaric did not speak encouragement; encouragement would have wasted breath that could be spent clearing. He **cleared** until clearing became place: a pocket of held vacuum, a moment where the Ring’s mouth **paused** mid-bite because something harder than appetite had lodged in its teeth.
 
@@ -159,9 +153,7 @@ One quartermaster — face gray with fatigue, not ash — spread fingers on a ta
 
 Valerius did not promise comfort. He promised **paper**: signatures, stamps, a lie thin enough to march on. The irreversible read was plain in the tallies anyway: the yard had teeth, and teeth did not negotiate. Cult routes were broken or bought; Mechanicus charters were *adjusted* with signatures that would cost someone a career later, when later arrived.
 
-**Threx** logged spoilage and opportunity in the same breath because Mechanicus grief wore numbers when it could not wear shame. Alaric listened to Threx’s channel hiss static that wanted to be triumph and settled for being a receipt — same sound as Pier Nine, different theater, same appetite dressed as procedure.
-
-**Valerius** negotiated air the way chaplains negotiated souls — without promising heaven, only **sequence**: first pressure patches, first water, first wounded, first the living secured so tomorrow could not pretend yesterday had been rumor. When a Mechanicus factor tried to slide *sanctified recovery* language beside a casualty column, Valerius filed it parallel under *Mechanicus asserts salvage continuity* and forced initials, the same trick he had learned would keep blood off wax for another week — except wax did not exist here; only vacuum, which signed nothing and took everything.
+**Valerius** negotiated air the way chaplains negotiated souls — without promising heaven, only **sequence**: first pressure patches, first water, first wounded, first the living secured so tomorrow could not pretend yesterday had been rumor. When a Mechanicus factor tried to slide *sanctified recovery* language beside a casualty column, Valerius filed it parallel under *Mechanicus asserts salvage continuity* and forced initials — the same trick that kept blood off wax on mud worlds, except wax did not exist here; only vacuum, which signed nothing and took everything.
 
 In romances, rings of teeth mark the threshold where heroes learn the world is also a **mouth**. The Batavi learned — and filed the lesson beside others — **Unbent** meaning not *unharmed*, but *still clamped jaw when needed*.
 
@@ -169,87 +161,45 @@ In romances, rings of teeth mark the threshold where heroes learn the world is a
 
 ## VIII. Minutes — Only Truth Void Sells
 
-**Jorik** — auxilia vox-hand, name later filed under *environmental coupling* because institutions preferred weather to confession — counted breathers on a slate until his own breathing rhymed with the Ring’s vacuum cadence. When he whispered *not us* to a partner who had not asked, the partner thought it superstition. After the second mirror spiral, it would be **procedure**. Tonight it was only a man trying to keep arithmetic from eating his throat.
-
-**Kessler** counted her auxilia breathers on a slate until counting became prayer. **Kadmos** stared into the Ring’s glitter until glitter became a map he did not want to memorize. **Valerius** closed his personal slate with a click too soft to be satisfaction.
-
-Days of air traded for teeth. Teeth traded for stamps. Stamps traded for the right to pretend void was **solvable** until Ignis taught minutes could burn and hostage geometry priced seconds in bodies. The Ring was curriculum. The fleet was student. Tuition was always paid in breath.
-
-Somewhere in the dark between stacked ribs, a scrapper clan marked a new shrine in oil and ash — small, stupid, human. Varro did not burn it. Not yet. He noted its coordinates for the day fire would be justified, and walked on, *Codex* skull steady, carrying Incus in his bones the way void carried cold: not as memory, as **weight**.
-
 Hololith briefs for the next hop already named **Ignis-Minor** — thermal mines, harness lines, *scheduled venting* — and **Alaric** read the words the way he read wreckage: slowly, without performance. Sunlight as industry sounded like another mouth learning to chew in a register the Chapter had not yet learned to hear.
 
 He did not tell the fleet they were marching toward **flares**. He told them they were marching toward **minutes**, because minutes were the only truth void ever sold at honest price — and minutes, on Ignis, would burn until ninety seconds became theology priced in bodies.
 
-**Drusus** saved the webway stub under *hostile raid; echo stub* and appended a private line for Triumvirate eyes: *hostage mesh compatible with prior pricing logic — cross-reference Incus throughput — sequence only*. Saving was the Apothecarion’s version of courage when prophecy was still forbidden.
+**Jorik** — auxilia vox-hand, name later filed under *environmental coupling* because institutions preferred weather to confession — counted breathers on a slate until his own breathing rhymed with the Ring’s vacuum cadence. When he whispered *not us* to a partner who had not asked, the partner thought it superstition. After the second mirror spiral, it would be **procedure**. Tonight it was only a man trying to keep arithmetic from eating his throat.
 
-**Jorik** counted breathers until counting rhymed with vacuum cadence and whispered *not us* to a partner who had not asked — superstition tonight, **procedure** after the second mirror spiral — while **Kessler** ran one last cycle with boys who had vomited in boarding tubes and were now ashamed of shame.
+Days of air traded for teeth. Teeth traded for stamps. Stamps traded for the right to pretend void was **solvable** until Ignis taught minutes could burn and hostage geometry priced seconds in bodies. The Ring was curriculum. The fleet was student. Tuition was always paid in breath.
 
-**Valerius** closed his personal slate with a click too soft to be satisfaction and appended one line only he would see — *debt transfer column; witness before throughput* — because void yards taught the same grammar Incus would teach on quotas: one throat for two debts was how convoys choked.
+**Drusus** saved the webway stub under *hostile raid; echo stub* and appended a closing margin for Triumvirate eyes: *Ring environmental coupling; cross-reference Ignis ninety-second stub; treat bunching at airlocks as target geometry — sequence only*. Saving was the Apothecarion’s version of courage when prophecy was still forbidden.
 
-**Sera** — not yet named on glass seas, only a cable-hand’s daughter on relay — strung red and blue tape on a boarding tube while **Kadmos** watched bunching at the airlock and corrected spacing with hand signals older than *vox* protocol. Colors before names. Witness before throughput. The braid had begun in void cold before it learned prisms.
+**Kadmos** sealed micro-charge photographs under Triumvirate biometrics — teeth inside teeth; curriculum proof — and posted boarding cordon one meter deeper because auxilia bunched where mortals always bunched.
 
-He did not say *We hold.* In the Ring, holding meant clamped jaw in vacuum — breath cadence, sealed seams, a pocket of held space where the Maw paused mid-bite. That was enough. That was the whole sermon.
+**Valerius** stamped embarkation toward **Flare Geometries** twice — Marine continuity beside mortal payroll still breathing — and closed his personal slate with a click too soft to be satisfaction.
 
-Ignis waited. Hostage geometry. Scheduled venting. Iria deferred. Ninety seconds not yet priced.
+**Varro** filed Ring threshold as proto-rite — seal attempted, not victory — coordinates noted for shrines that listened back; fire deferred, not forgotten.
 
-**Jorik**’s rhyme logged as *environmental coupling*. **Valerius**’s *debt transfer* column tall enough to shame liaisons. **Alaric**’s shadow as receipt on torn seams. **Drusus**’s webway stub saved for tomorrow’s hostage mesh.
+**Kessler** ran one last breathing cycle with auxilia who had vomited in boarding tubes — compass, not poison — and did not praise; praise turned void cold into **theater**.
 
-**Jorik**’s environmental coupling still rang in Kadmos’s inner ear — teeth inside teeth, void cold, curriculum proof — when **Varro** filed the Ring threshold as proto-rite and **Iria**’s *Not yet* blinked on uplink beside a denial that was not cruelty but **schedule**. Minutes priced in air; air priced in names you would spell later.
-
-**Alaric** did not say *We hold* on open channels. Holding, here, meant Brood-Flutter locked and Santo’s lip learning interest before Mira’s storage taught honest zeros — measurable, stamped twice, witness before throughput.
-
-**Kadmos** stared into the Ring’s glitter until glitter became a map he did not want to memorize — teeth inside teeth, curriculum proof, void cold — and saved one line under Triumvirate seal: *expect bunching at airlocks; treat as target geometry*.
-
-**Drusus** saved the webway stub under *hostile raid; echo stub* and appended *Ring environmental coupling; cross-reference Incus throughput when Ignis hostage mesh confirms* — sequence only, prophecy forbidden, debt accruing interest in theaters that pretended they were unrelated.
-
-**Sera** — cable-hand’s daughter on relay, not yet named on glass seas — taped red and blue fiber on a boarding tube while Marines learned colors before names. Witness before throughput. The braid had begun in void cold.
-
-**Alaric** stood at Ring lip one minute after Brood-Flutter locked and did not remove his helm — continuity, not spectacle — while **Jorik**’s environmental coupling still rang in Kadmos’s inner ear: teeth inside teeth, void cold, curriculum proof. He did not say *We hold*. Holding, here, was **refusal to let glitter merge columns** before injury was attested.
-
-**Iria**’s *Not yet* blinked on uplink beside a denial that was not cruelty but **schedule** — the same blink that would keep Ignis hostage mesh from becoming prophecy before ninety seconds taught honest pricing.
-
-**Valerius** stamped embarkation toward **Flare Geometries** twice — Marine continuity beside mortal payroll still breathing — because webway stub would tax both ledgers when harmonics looked like veins.
-
-**Drusus** appended a closing margin — *Ring environmental coupling; cross-reference Ignis ninety-second stub; treat bunching at airlocks as target geometry* — sequence, not prophecy, carried forward toward scoria that ate knees and taught placement before virtue.
-
-**Kessler** walked the boarding tube one last time while **Sera** taped red and blue fiber — colors before names, witness before throughput — and did not praise Marines learning hues. Praise turned void cold into **theater** before teeth inside teeth became curriculum proof.
-
-Ring glitter forgot motion until Brood-Flutter lock looked like peace — peace another word for **void cold** hiding teeth inside teeth before Jorik's environmental coupling taught bunching at airlocks as target geometry.
-
-**Kessler** ran one last breathing cycle on scoria — compass, not poison — and did not praise auxilia. Praise turned placement before virtue into theater when Ring minutes priced air in bodies the way hive priced ash in quotas.
-
-**Alaric** stood at boarding tube lip one minute without speeches — hinge-work — while red-blue fiber taught colors before names and language failed on glass seas not yet filed as Vitreus egress.
-
-**Sera** taped red and blue fiber on the boarding tube one last time — witness before throughput — while Marines learned to splice by hue when language failed and Ring minutes priced air in bodies the hive had taught to quota in ash.
-
-**Drusus** appended margin — *Ring coupling may present as brood stress rhyme; treat minutes-priced air as environmental false-positive unless sustained* — sequence, not prophecy, because cruel mathematics wore scoria weather instead of hive ash tonight.
-
-**Valerius** stamped toward **Flare Geometries** twice — ammunition continuity beside mortal payroll still breathing — because Ring handoff would tax both ledgers when air priced itself in bodies.
-
-**Varro** filed Ring threshold as proto-rite — seal attempted, not victory — because teeth in air were etiquette the hive wore before flare geometries taught mass-as-verdict without negotiating with courage packages.
-
-**Kadmos** saved Ring stub under *environmental coupling; sequence only* and posted boarding cordon one meter deeper — geometry as insurance — because air priced in bodies was debt flare geometries would spend as mass-as-verdict.
-
-**Iria** passed with tide chart in cuff — active silence — shielding Ring geometry against excuses that would have turned minutes-priced air into **spectacle** before Vitreus taught left was not left.
-
-**Echo** listened at Ring glitter for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing void cold as sequence before flare geometries taught mass-as-verdict.
-
-**Merit** tried once to clip a recorder to boarding hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as Ring hygiene packages when teeth inside teeth were debt flare geometries would spend.
+**Merit** tried once to clip a recorder to boarding hololith until **Valerius** stamped **NON-COMPLIANT** before the clip clicked — witness routes only, no throughput dressed as Ring hygiene packages.
 
 **Orwen** filed Ring timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than void cold dressed as boarding hygiene packages.
 
-**Threx** logged *environmental coupling* beside *sampling window favorable* — Mechanicus grief wearing numbers when it could not wear shame — while minutes-priced air marched toward flare geometries that would teach mass-as-verdict.
+**Echo** listened at Ring glitter for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing void cold as sequence before flare geometries taught mass-as-verdict.
+
+**Sera** — not yet named on glass seas, only a cable-hand’s daughter on relay — taped red and blue fiber on a boarding tube while Marines learned colors before names. Witness before throughput. The braid had begun in void cold before prisms earned filing.
+
+**Threx** logged *environmental coupling* beside *sampling window favorable* — Mechanicus grief wearing numbers when it could not wear shame.
+
+**Iria**’s *Not yet* blinked on uplink beside a denial that was not cruelty but **schedule** — hostage mesh deferred until ninety seconds taught honest pricing.
 
 **Santo** scrubbed scoria from his knees where Ring glitter had taught placement before virtue — compass, not poison — lesson flare geometries would spend when hyper-G arrived as verdict without appeal.
 
-**Threx** logged *substrate volatility* beside *Brood-Flutter locked* — Mechanicus grief wearing numbers — while **Sera**'s red-blue fiber taught Marines to splice by hue when language failed on glass seas not yet filed.
+**Alaric** stood at boarding tube lip without speeches — hinge-work — and did not say *We hold.* In the Ring, holding meant clamped jaw in vacuum: breath cadence, sealed seams, a pocket where the Maw paused mid-bite. That was enough. That was the whole sermon.
 
-**Kessler** walked boarding tube one last time while **Sera** taped fiber — witness before throughput — same cruel mathematics wearing scoria weather instead of hive ash tonight.
+Ignis waited. Hostage geometry. Scheduled venting. Ninety seconds not yet priced.
 
 Interest collecting teeth before receipts.
 
-Teeth inside teeth. Void cold. Curriculum proof.
+Teeth inside teeth. Void cold. Curriculum proof. Brood-Flutter locked. Flare Geometries waiting.
 
 Always owed.
 
