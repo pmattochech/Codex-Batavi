@@ -13,8 +13,6 @@
 
 ---
 
-## I. Tungsten, Not Marble
-
 Council convened not in marble but in tungsten — hold converted to forum, bulkheads still sweating coolant, walls still smelling of void ash as if smoke were slower than grief — because marble lies about permanence and tungsten lies only about comfort.
 
 **Backward braid:** everything Strategium had scheduled while men still bled — **preliminary convening; Der Batav cognomen**, **Men of Iron pressure; downgraded not dismissed**, **Inquisition seal chain initiated**, **relay doctrine permanent revision** — until room learned *close* meant *file*, not *forget*, and filing was how institutions survived their own fingerprints.
@@ -28,10 +26,6 @@ Rational line was counted the way surgeons count sutures after war inside body: 
 Between copies he paused over margin note he had not meant to write — *post-cognito tremor; relay cohort* — because lecture’s harmonics had not ended when hub went quiet. They had only changed venue from vacuum to **skull**.
 
 Embarkation slates stayed **double-stamped**. Merit’s clerks aimed lenses at forum until Kessler shattered another mount and filed *NOT FIELDED*. Sera paired fiber through duplicate trunks behind hold’s false night.
-
----
-
-## II. Chorus — Not Soloist
 
 Mortal witness testimony entered Chapter archive — not as footnote, not as courtesy — as structure.
 
@@ -57,10 +51,6 @@ She laid shell on table like evidence, not ornament, and said sea had already ju
 
 Which was either insubordination or love, and in that room two overlapped.
 
----
-
-## III. Priority Holds — Hinge-Law Again
-
 **Alaric** listened as wall listens — without performing mercy, performing receipt — because mercy is private economy while receipt is public, admission that suffering occurred, that bodies paid, that wall did not stop all blades and must not pretend it did.
 
 When **Threx** attempted to slide salvage annex beside testimony as if annexes were neutral paper, Alaric tapped slate once — **priority holds** — hinge-law again, same stamp that had survived Solaris and lecture hour, and Threx’s jaw worked as if mathematics could chew steel.
@@ -74,10 +64,6 @@ He laid ash along document spine before wax closed, line Mechanicus clerks flinc
 **Drusus** appended clinical annexes until annexes became aisles — **post-battle Wolf’s Curse watch; extended**, **cognito-hazard rotation; extended**, **Navigator annex recovery; extended** — each extension admission that *finale* had been word spoken too soon.
 
 He did not smile when tallies reconciled. Reconciliation, for him, was not happiness. It was **proof** Apothecarion had not slept through its own war.
-
----
-
-## IV. Honest Zeros — Archives Eat Lies and Choke
 
 **Kadmos** stared at hololiths emptied of enemies and felt no triumph, because emptiness is not peace but slack rope, absence of tension that had kept you upright for twenty-nine years. He wanted enemy to punch and got map that apologized with blank sectors.
 
@@ -105,10 +91,6 @@ Which was not doctrine, but it was true enough to be filed.
 
 **Merit** tried once to clip a recorder to forum hololith until **Valerius** stamped **NON-COMPLIANT** — witness routes only, no throughput dressed as *Der Batav* folk liturgy before injury was attested at council threshold where voice first became ink.
 
----
-
-## V. Voice First — Ink Now
-
 Name **Cohors Batavorum** sat in mouths not as boast but as weight accepted, weight you do not juggle for applause but carry because dropping it would mean telling survivors their naming was noise.
 
 It had been voice first — in salt, in tide, in lungs — before ink, and ink arrived now to anchor voice so voice could not be edited out by politer centuries.
@@ -124,10 +106,6 @@ Song also carried line someone had stolen from tender spine — *witness route o
 Inside, Varro and Drusus stood at angles room had learned without slides — Varro where echoes died, Drusus where pulses could be watched without turning watch into **spectacle** — and Alaric stood where door would have been if hold had been designed for exits instead of endurance.
 
 Triumvirate geometry, at end of crucible, looked less like hierarchy and more like **bracing**: three posts holding roof that wanted to fall because roofs always want to fall after long siege.
-
----
-
-## VI. Once Is Witness — Twice Is Training
 
 Clerk read iron man’s self-designation aloud once — because archives demand sentence exist in ink — and room flinched in unison, not from drama, from **memory** of harmonics. **Iria** stopped clerk with palm on slate, not violence, **weight**, and said:
 
@@ -146,10 +124,6 @@ Not poetry, not slogan, *sequence*: first water, first wounds, first manifests, 
 **We hold** had earned its speaking in CV y28. Here, at close, wall spoke **continue** — work without ornament, crucible filing without pretending healing had arrived.
 
 Romance ends its war book not at wedding but at ledger closed — love translated into continuation clauses, oaths that include repayment, names pressed into shoulders until shoulders learn them bone-deep — and crucible closed hollow, ringing, still standing.
-
----
-
-## VII. Inquisition Cylinder — Castra Vetera Holds Thin
 
 Strategium filed **crucible close; provisional** — because *close* was still lie you could only afford if you admitted it was **provisional** — then appended **Der Batav cognomen; archived under witness testimony**, **Men of Iron aftermath; monitoring mandatory**, **Chapter supply; honest zero baseline established**, **relay doctrine; permanent**, **Inquisition seals; chain ongoing**, and finally, in smaller type than any admiral liked: **next convening; Instrumentum** — because even hollow victories still pointed forward, and forward, in CV y29, meant learning which instruments remained when gods stopped borrowing mouths.
 
@@ -171,10 +145,6 @@ Belowdecks, relay tech tested line with phrase **Castra Vetera holds** — three
 
 **Kadmos** listened to test end without comment, then nodded once to tech, because nodding was how you told crew their work mattered when speeches would have insulted their exhaustion.
 
----
-
-## VIII. Provisional — Still Standing
-
 Casualty boards filled twice — once for flesh across twenty-nine years of crucible, once for minds bent before hearts broke — because **witness priority** demanded honesty uglier than slides wearing *acceptable variance* like lipstick.
 
 Drusus appended closing margin for translation burn — *council coupling may present as Wolf’s Curse stress convergence; treat tremor rhyme as environmental false-positive unless sustained across three intervals; record testimony latency beside biomarkers without merging columns prematurely* — not prophecy, **sequence**.
@@ -188,7 +158,6 @@ Guides chalked **correction arcs** on hatch coamings until chalk dust mixed with
 Behind her, **Cohors Batavorum** sat in mouths as weight — voice first, ink now — and crucible closed **provisional**, hollow, ringing, still standing.
 
 Alaric had ordered **continue**. Valerius had filed honest zeros. Santo had taught count boots. Orwen had handed witness forward.
-
 
 One chapter remained: **Instrumentum** — what instruments survived when gods stopped borrowing mouths.
 
