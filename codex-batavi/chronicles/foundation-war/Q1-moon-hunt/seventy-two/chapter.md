@@ -13,8 +13,6 @@
 
 ---
 
-## I. Delivered — Not Rescued
-
 Morning on tide-fringe arrived like apology nobody believed. Sea had spent night **sorting** Black Fan’s debt.
 
 When dawn peeled grey from horizon, shingle wore what mud had hidden: **seventy-two** auxilia returned — *returned*, not rescued — by water too black to call honest.
@@ -37,11 +35,7 @@ Varro answered without turning *Codex* death-skull toward him — toward singing
 
 — Doctrine is what we write after we survive pages.
 
----
-
-## II. Seventy-Two as Sentence
-
-Drusus walked among seventy-two with usual economy. He did not bless. He **catalogued**: laceration azimuths consistent with faunal flankers; crush traumas consistent with enforcer mass; minority cluster of wounds *too neat* — almost Type A’s old patient hand — and those he marked *anomalous* in private buffer he had not yet shown Castellan.
+On the shingle, Drusus walked among seventy-two with usual economy. He did not bless. He **catalogued**: laceration azimuths consistent with faunal flankers; crush traumas consistent with enforcer mass; minority cluster of wounds *too neat* — almost Type A’s old patient hand — and those he marked *anomalous* in private buffer he had not yet shown Castellan.
 
 — Tide is not forensic — he subvocalized into gorget pickup. — Neither is grief.
 
@@ -63,11 +57,7 @@ Scribe tried to round seventy-two down to seventy for first draft. Kadmos leaned
 
 It was not *Codex* language. That was why it worked.
 
----
-
-## III. Furor Slope — Embryo of Axiom
-
-Triumvirate shelter stank of fungus-bandages and heated plastek — romance of field medicine reduced to steam and antiseptic shame. Hololith ticked casualty columns mortals were not meant to see at once. Drusus stripped adjectives from mouth until only instruments remained.
+Upslope from the shingle, Triumvirate shelter stank of fungus-bandages and heated plastek — romance of field medicine reduced to steam and antiseptic shame. Hololith ticked casualty columns mortals were not meant to see at once. Drusus stripped adjectives from mouth until only instruments remained.
 
 — Telemetry — he said, and table lit with sin.
 
@@ -95,11 +85,7 @@ Telemetry was not only numbers. It was **faces** translated into graphs — ocul
 
 He opened secondary buffer — *psychograph — provisional* — and hated buffer name because naming made unreal feel **owned**. He logged dreams reported in whispers: teeth, glass, boots lined in pairs, needle-bridge burning again behind closed visors. He did not call it prophecy. He called it **posture-memory**, and posture-memory was still chemistry, even when it wore myth’s mask.
 
----
-
-## IV. No Rounding Down
-
-Varro listened to shelter’s silences way other men listened to *vox*: pause after *Furor* where nobody wanted to repeat word; smaller pause after *unstable* where brothers realized *unstable* could mean them tomorrow.
+While Drusus logged that buffer, Varro listened to shelter’s silences way other men listened to *vox*: pause after *Furor* where nobody wanted to repeat word; smaller pause after *unstable* where brothers realized *unstable* could mean them tomorrow.
 
 He did not promise clarity. He tightened **silence** as discipline — no humming, no nervous tapping on plasti-sheet — because rhythm leaked information same way *vox* discipline did.
 
@@ -117,11 +103,7 @@ Navy liaison demanded casualty categories before he would release pressure-diffe
 
 Alaric did not visit tent. Visiting would have turned grief into **audience**. He sent Kadmos with single instruction: *no rounding down*. Kadmos returned with ink on gauntlets that was not blood and not dirt. It was someone else’s mistake wiped off slate, small violence done in service of truth.
 
----
-
-## V. Hunters Dislike Soldiers’ Noise
-
-Outside, *vox* caught chattering squeal — **xenos** harmonica riding wind, too patterned for honest atmospheric noise. Auspex techs blamed interference, mineral ghosts, sickly babies in machine spirits.
+Outside the shelter, *vox* caught chattering squeal — **xenos** harmonica riding wind, too patterned for honest atmospheric noise. Auspex techs blamed interference, mineral ghosts, sickly babies in machine spirits.
 
 Iria stood where rain blurred outline into something neither Needles nor Gothic.
 
@@ -139,11 +121,7 @@ Alaric filed that, too — not in wax, in memory, worst archive. Memory did not 
 
 Threx sent single line across cooperative channels — *substrate volatility elevated; recommend sampling window* — and received no answer at all, which was answer: Chapter would not let Mechanicus hunger turn seventy-two into slides while mothers still searched for chins sons had borrowed from childhood.
 
----
-
-## VI. Kessler Digs — Spoon Theology
-
-Sergeant Kessler passed cordon carrying ration tin she did not eat. Mud had dried in hair like old vows.
+Along the cordon, **Sergeant Kessler** passed carrying ration tin she did not eat. Mud had dried in hair like old vows.
 
 — Seventy-two — she muttered — to shingle, to herself, to Certo’s ghost if ghosts attended field kit. — My **headcount** for week.
 
@@ -157,11 +135,7 @@ She wrapped hand in cloth because cloth was what she had, because dignity was so
 
 Needles matriarch sang under breath — not to corpse, to **living** who watched living do work that should have belonged to sea. Song made Drusus pause mid-catalogue. Pause was dangerous. Pause was also human. He allowed three seconds, then returned to numbers, because numbers were how you kept human pauses from becoming **policy** written by grief.
 
----
-
-## VII. Prepare Bait — Intentional Noise
-
-Somewhere in dark between tides — between stalker display and pack clearance — two kinds of killer argued without words way weather argues with hulls: pressure, silence, then **cost**.
+Somewhere in the dark between tides — between stalker display and pack clearance — two kinds of killer argued without words way weather argues with hulls: pressure, silence, then **cost**.
 
 Chapter, sandwiched, paid tuition in blood until it understood syllabus had second volume.
 
@@ -195,11 +169,7 @@ Later, when politics of slides arrived anyway, men would call Threx’s unanswer
 
 **Kessler** counted canteens one last time on shingle wire — kindness with arithmetic teeth — and told auxilia to shoot the ground first if laughter came bolt-deep without humor, lesson cord-weight would file before Versibar earned a name.
 
----
-
-## VIII. Intermission — Debt Always Collects
-
-Evening came down like another tide — slower, but no kinder. Candles relit in jars until wind killed them again. Children learned ritual and performed it with seriousness of soldiers rehearsing failure so failure would feel **familiar**.
+When evening came down like another tide — slower, but no kinder. Candles relit in jars until wind killed them again. Children learned ritual and performed it with seriousness of soldiers rehearsing failure so failure would feel **familiar**.
 
 Varro allowed short Rite for *returned* — not celebration, **acknowledgment** — because acknowledgment was how you prevented sea from becoming only priest.
 
@@ -238,7 +208,6 @@ Black water forgot motion until shingle song looked like peace — peace another
 **Echo** listened at shingle wire one last time — harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing seventy-two as sequence before cord-weight spent Versibar steam the hard way.
 
 **Threx** would file *tide return; yield preserved* beside *witness attests* one last time — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like **solvency**.
-
 
 **Pol** kept monitor seed *sequence only* beside Sera splices until Furor stayed vocabulary arriving late on open channels.
 

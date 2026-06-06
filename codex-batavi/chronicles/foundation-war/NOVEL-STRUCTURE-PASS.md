@@ -141,7 +141,7 @@ Mark `[x]` when structure pass is complete for that slug.
 | 1 | mud-gospel | `Q1-moon-hunt/mud-gospel/chapter.md` | [x] |
 | 2 | the-arrangement | `Q1-moon-hunt/the-arrangement/chapter.md` | [x] |
 | 3 | dog-logic | `Q1-moon-hunt/dog-logic/chapter.md` | [x] |
-| 4 | seventy-two | `Q1-moon-hunt/seventy-two/chapter.md` | [ ] |
+| 4 | seventy-two | `Q1-moon-hunt/seventy-two/chapter.md` | [x] |
 | 5 | bait-doctrine | `Q1-moon-hunt/bait-doctrine/chapter.md` | [ ] |
 | 6 | mirror-routes | `Q1-moon-hunt/mirror-routes/chapter.md` | [ ] |
 | 7 | living-specimen | `Q1-moon-hunt/living-specimen/chapter.md` | [ ] |
