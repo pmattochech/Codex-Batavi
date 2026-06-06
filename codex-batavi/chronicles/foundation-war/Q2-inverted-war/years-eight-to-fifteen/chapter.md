@@ -31,8 +31,6 @@ Staff learn that **parallel filing** is not paperwork fetish when convoys die tw
 
 ## II. Shared Sweat — Slang Becomes Law
 
-Montage years did not announce themselves with trumpets. They arrived as **habit** — seals pressed twice until ink became theology, prefixes kept pole-clean until beautiful errors could not migrate like parasites, junior aides rehearsing initials until signatures looked like armor against tribunal appetite.
-
 **Merit’s** clerks keep trying to monetize morale like weather — *attention throughput*, *witness impressions* — and keep meeting refusals written in hammer strikes and canceled serial numbers until even **Threx** stops pretending optics can audit souls without breaking them.
 
 **Shared Sweat** arrives first as **slang**: dockhands on a tender spine **curse** it — grinning without kindness — when Batavi unload beside them under toxic skies:
@@ -103,8 +101,6 @@ Where **Vitreus** taught doubt of reflections, Varro teaches doubt of **voices**
 
 On a tender spine under toxic skies, **Santo** unloaded beside dockhands who cursed **Shared Sweat** with grins that did not reach their eyes. One dockhand — older, knuckles mapped in old burns — tossed him a rag without ceremony.
 
-**Drusus** slept less and his conclusions shortened — *confirmed brood mechanics; ongoing* — because reconciliation as violence was debt exanimus choir would spend when face of friction earned Instruction sealed behind biometrics and ***licentia lupina*** waited on vault’s other side.
-
 — Wipe the seal — he said — deck don’t care whose god is prettier.
 
 Santo wiped. The rag came away gray. Gray was a color armies learned to wear inside their lungs before they learned to wear it on banners.
@@ -118,8 +114,6 @@ Montage years taught that horror could become **vocabulary** — *expected varia
 Between stars, **mirror routes** claim a **second** convoy — fewer bodies than the first spiral’s harvest **not** because the universe softened but because fear teaches partial wisdom if it does not kill you first — and the blame spiral remains **identical**: Navy coffin data, Mechanicus indictments, Administratum delays, because institutions do not learn from grief; they learn from **repetition** dressed as reform, an irreversible lesson the Strategium files beside the first empty chairs.
 
 The second loss is filed with a colder prefix — **expected variance** — and that prefix is its own kind of wound: proof that horror can become **vocabulary**.
-
-On a tender spine between poles, **Santo** unloaded beside dockhands who cursed **Shared Sweat** with grins that did not reach their eyes — montage teaching muscle syntax before slang earned law — while **Mira** shifted loads so nothing tipped, witness without applause traveling in both directions.
 
 **Pryce**’s three words — *not us; repeat* — had become superstition after the first mirror spiral; after the second, they became **procedure** written into convoy briefs nobody saluted.
 
@@ -183,73 +177,35 @@ She touched the tide table once — not prayer, **calibration** — and returned
 
 Book II closed not with triumph but with **habit**: seals, slang, second spirals, wolf-skulls on one face and death-skulls on many, a son who saluted without flinching and a mother who adjusted loads so nothing tipped.
 
-**Varro** moved through midwatch chapels without speeches, Executor wolf-skull catching candlelight wrong until candlelight learned modesty, denying Echo easy seams the way Vitreus had denied mirrors easy lies. **Drusus** slept less. **Valerius** stamped twice. Habits were how institutions gestated when nobody admitted they were building cathedrals from refusals.
-
 Book III would ask for gulfs.
 
-**Captain Orwen** — Militarum ink still learning Batavi cadence — filed range cards on tender spines until his hand went flat from exhaustion, not courage, because flat was the only voice Solaris would accept later when prisms made faces lie. Montage taught him that *range* was sometimes the only story a world would accept when mirrors ate truth.
+**Drusus** appended one montage margin — *expect harmonic bleed on Gulf ingress; treat sensor ghosts as debt until disproven; do not merge Sigma filings prematurely; principal escaped trace — monitor only* — sequence, not prophecy.
 
-**Kadmos** collected habits like ammunition — how mortals bunch under macro cough, where auxilia cheat traverses when scared, how **Orwen**’s voice flattened three decks before wash — and stored them without cruelty as **predictions**, because prediction kept brothers from dying for poetry when montage years tried to pretend horror could become vocabulary like *expected variance*.
+**Valerius** stamped embarkation toward **Gulf Deployment** twice — spearhead continuity beside void lane still solvent.
 
-On a void convoy between poles, **Pryce**’s three words — *not us; repeat* — were copied into brief margins until junior officers mistook them for prayer. They were not prayer. They were **procedure** written by a man who had watched mirrors eat a fleet and learned that repetition dressed as reform was still repetition.
+**Merit** tried once to monetize **Shared Sweat** as morale throughput on a tender spine; **Kessler** broke the recorder mount and **Valerius** stamped **NON-COMPLIANT**. Even **Threx** accepted the refusal when stamps made mysticism look like **solvency**.
 
-**Merit** tried once to monetize **Shared Sweat** as morale throughput on a tender spine; **Kessler** broke the recorder mount and **Valerius** stamped **NON-COMPLIANT** before the first grin could become **folk liturgy**. Even **Threx** accepted the refusal when stamps made mysticism look like **solvency**.
+**Kadmos** collected habits like ammunition — **Orwen**’s flattened voice, **Pryce**’s procedure, auxilia cheat traverses — and stored them as **predictions**.
 
-**Alaric** walked the last montage corridor without speaking — continuity, not spectacle — while Shared Sweat still steamed in relay margins and expected variance taught clerks that honest zeros were not defeat but **solvency**. Book II closed in **habit**, not triumph — seals, slang, second spirals, wolf-skulls on one face and death-skulls on many.
+**Captain Orwen** filed range cards on tender spines until his hand went flat from exhaustion, not courage — flat was the only voice Solaris would accept later when prisms made faces lie.
 
-**Varro** stood at embarkation spine with Executor jawline catching dawn wrong-light — Exanimus vault earned, not fashion — and did not speak. Speaking would have turned montage into **liturgy** before Gulf decks learned phase taxonomy in ceramic edges.
+**Orwen** filed montage timestamps without adjectives — ranges, no metaphors.
 
-**Pryce**’s *not us; repeat* still traveled in Valerius’s private column — acceptable loss mistaken for debt accruing interest in names you would spell later — and **Drusus** sealed a burn file noting *Ignis hostage mesh compatible with prior pricing logic* without sending it, because saving was the Apothecarion’s version of courage.
+**Echo** listened at montage braid for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow**.
 
-**Drusus** appended one last montage margin — *expect harmonic bleed on Gulf ingress; treat sensor ghosts as debt until disproven; do not merge Sigma filings prematurely* — sequence, not prophecy, carried forward like mud in tread.
+**Rothmar** boarded south with kill-marks still polished until an older sergeant made him wipe them — *Ash don’t care whose god is prettier* — lesson Gulf tombs would spend in ceramic law.
 
-**Sera** taped fiber on tender spines with colors stolen from **Iria’s** tide charts — blue for *hold*, yellow for *maybe*, red for *do not trust your relief* — until exhausted hands could splice by hue when language failed. **Valerius** approved on first pass, rarer than love on the mesh, because love did not keep convoys solvent when mirrors lied.
+**Varro** stood at embarkation spine with Executor jawline steady — ***licentia lupina*** rare, seal not theater — and did not speak. Speaking would have turned montage into **liturgy**.
 
-**Alaric** walked the last montage corridor without speaking — continuity, not spectacle — while Shared Sweat still steamed in relay margins and **Varro**’s Executor jawline caught dawn wrong-light on embarkation spine. Exanimus vault earned, not fashion; wolf-skull on one face, death-skulls on many.
+**Sera**’s color-coded fiber still ran tender spines — blue for *hold*, yellow for *maybe*, red for *do not trust your relief*.
 
-**Kessler** heard the double stamps click and went back to counting canteens — expected variance, deployment confirmed — because counting was the only vaccine that had never lied to her yet when Gulf decks already hummed in hololith margins.
+**Alaric** walked the last montage corridor without speaking — continuity, not spectacle — while deployment confirmation bound paperwork and tide in one receipt.
 
-Book III would ask for gulfs. Book II closed in **habit**, not triumph — seals, slang, second spirals, principal escaped trace waiting in sump smoke.
-
-**Drusus** sealed the Q2 close margin one last time — *expect harmonic bleed on Gulf ingress; treat sensor ghosts as debt until disproven; Shared Sweat moral debt noted* — sequence, not prophecy, carried forward like mud in tread toward ceramic edges and interval ticks.
-
-**Pryce**’s *not us; repeat* still traveled in Valerius’s private column beside principal escaped trace — acceptable loss mistaken for debt accruing interest in names you would spell later in sump smoke.
-
-**Varro** stood at embarkation spine with Executor jawline steady — ***licentia lupina*** written so wolf-skulls multiplied only where the **Judex** chose extension — and did not speak. Speaking would have turned montage into **liturgy** before Gulf decks learned phase taxonomy.
-
-**Drusus** sealed the Q2 close margin one last time — *expect harmonic bleed on Gulf ingress; Shared Sweat moral debt noted; principal escaped trace waiting in sump smoke* — sequence, not prophecy, carried forward like mud in tread.
-
-**Pryce**’s *not us; repeat* still traveled in Valerius’s private column beside principal escaped trace — acceptable loss mistaken for debt accruing interest in names you would spell later when Gulf tombs learned ceramic law.
-
-**Kadmos** saved montage shame under *Inheritance terrain; sequence only* — because years eight to fifteen were braid, not single war, and shame that stayed honest was sometimes the only vaccine when mirrors lied politely.
-
-**Rothmar** boarded south with kill-marks still polished like jewelry until an older sergeant made him wipe them — *Ash doesn’t care whose god is prettier* — lesson Gulf tombs would spend in ceramic law before Beast Records taught trust eaten from within.
-
-
-**Valerius** stamped toward **Gulf Deployment** twice — Marine continuity beside mortal chains still solvent — because years eight to fifteen were debt accruing interest in names tombs would spell when ceramic edges stepped and vanished.
-
-
-**Varro** seeded Silence Cohort linework across theaters — ***licentia lupina*** rare, seal not theater — because almost-voices in chaplain nets were debt exanimus choir would spend when face of friction earned Instruction sealed behind biometrics.
-
-**Drusus** appended montage margin — *inheritance terrain; DO NOT MERGE braid with single-war slide-truth* — sequence, not prophecy, because Gulf tombs would step and vanish before Beast Records taught trust eaten from within.
-
-**Kadmos** chalked montage routes one last time — *Inheritance terrain; sequence only* — because braid, not single war, was the only honest map when mirrors lied politely and Rothmar boarded south with kill-marks wiped.
-
-**Echo** listened at montage braid for harmonics not yet **tide**-shaped — Triumvirate seal still **narrow** — filing years eight to fifteen as sequence before gulf deployment taught ceramic law.
-
-**Sera** tagged southbound handshake *monitor only* until Pol seed starved merge columns and Gulf Deployment earned attested injury.
-
-**Orwen** filed montage timestamps without adjectives — ranges, no metaphors — because facts laid like bricks survived longer than slide-truth dressed as reconciliation.
-
-**Threx** would file *yield preserved* beside *witness attests* — same appetite, different costume — until **Valerius** stamped *witness route only* and made friction look like **solvency**.
-
-**Alaric** stood at embarkation lip one minute without speeches — hinge-work — because montage shame waited in years eight to fifteen as braid, not single war, and Gulf tombs would step and vanish before Beast Records billed trust eaten from within.
-
-**Mira** passed embarkation with tally ink on her knuckles — witness without applause — while braid, not single war, was the only honest map institutions would try to merge into one slide-truth unless someone stamped twice and refused.
+Principal escaped trace still hummed in sump smoke. Expected variance filed cold. Shared Sweat steamed in relay margins.
 
 Interest collecting teeth before receipts.
 
-Shared Sweat. Expected variance. Deployment confirmed. Principal escaped trace waiting in sump smoke. Executor wolf-skull on one face, death-skulls on many. Gulf decks already humming in hololith margins.
+Shared Sweat. Expected variance. Deployment confirmed. Q2 closed in habit. Gulf Deployment waiting.
 
 Always owed.
 
