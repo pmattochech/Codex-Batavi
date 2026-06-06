@@ -478,6 +478,34 @@ Because the schedule **held** twice in one day, and someone competent had writte
 
 ---
 
-**Staff filing (180.M42 present):** **Elara Solis (~30)** — full Outer Gate fleet command lock; doctrine memo (idol-risk at ford). **Inquisitor Vane** — self-neutralized; **Gamma-Three** walked; no further subsector Ordo escalation. **Witness Ford** — **Theta-Nine** + **Kappa-Three** live convoy cycles. **Alaric** — Castellan; Throne briefing through Elara operational. *Idol drift:* Ferrum-Secondus **183** on file; Vespera **189** ahead.
+## VI. First cycle ledger (night band)
+
+The consolidation memo did not sleep.
+
+**Jonas Solis** — home on audit rotation, still in his outer coat — found Elara at the band annex when the third convoy of the night was already filed.
+
+— Mother — he said. — Administratum tried to rename the approach strip **Solis Gate** on the **177** revision slate.
+
+Elara did not look up from the timing table.
+
+— Strike it — she said. — File **Witness Ford**. Names on choke geometry become **crowns** when mortals miss a meal.
+
+Jonas struck it.
+
+— The lieutenant asked whether the Castellan’s channel stays open on **fourth cycle** — he said.
+
+— Shadow hold — she said. — Present enough to deter. Absent enough to avoid **invoice theology**. Tell him Alaric does not take tips at the ford.
+
+On the wall screen, **Lambda-Two** — medicament haul, low priority — crept toward mark seven at the speed boredom preferred.
+
+Elara watched it decelerate without drama.
+
+Martha would call that a good day.
+
+The Outer Gate called it **Tuesday**.
+
+---
+
+**Staff filing (180.M42 present):** **Elara Solis (~30)** — full Outer Gate fleet command lock; doctrine memo (idol-risk at ford). **Inquisitor Vane** — self-neutralized; **Gamma-Three** walked; no further subsector Ordo escalation. **Witness Ford** — **Theta-Nine** + **Kappa-Three** live convoy cycles; **Lambda-Two** night-band repeat. **Jonas Solis** — Administratum slate correction (*Solis Gate* struck). **Alaric** — Castellan; Throne briefing through Elara operational; shadow-hold channel doctrine. *Idol drift:* Ferrum-Secondus **183** on file; Vespera **189** ahead.
 
 **Hub:** [15-post-vigil/README.md](README.md) · **Elara ladder:** [07-iron-venus/README.md](../07-iron-venus/README.md)
