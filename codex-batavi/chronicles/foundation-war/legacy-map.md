@@ -1,6 +1,6 @@
 # Foundation War — legacy serial → slug map
 
-**Status:** Legacy numbered files under `chronicles/00-foundation-war/` were **deleted May 2026** after migration audit. This table is a **tombstone** for git history, Notion IDs, and old links. Canonical prose: [`INDEX.md`](INDEX.md). **Prose scaffold:** [`PROSE-SCAFFOLD.md`](PROSE-SCAFFOLD.md).
+**Status:** Legacy numbered files under `chronicles/00-foundation-war/` were **deleted May 2026** after migration audit. A **redirect tombstone** remains at [`../00-foundation-war/README.md`](../00-foundation-war/README.md) for old bookmarks. This table is the **file-by-file tombstone** for git history, Notion IDs, and old links. Canonical prose: [`INDEX.md`](INDEX.md). **Prose scaffold:** [`PROSE-SCAFFOLD.md`](PROSE-SCAFFOLD.md).
 
 **Geography (canonical prose):** [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md).
 
@@ -45,3 +45,6 @@
 | `chapter-36-the-core-refuses.md` | `Q4-der-batav/the-core-refuses/chapter.md` |
 | `chapter-37-der-batav-council.md` | `Q4-der-batav/der-batav-council/chapter.md` |
 | `chapter-38-instrumentum-solum.md` | `Q4-der-batav/instrumentum-solum/chapter.md` |
+| `chapter-prose-scaffold.md` | `PROSE-SCAFFOLD.md` |
+| `README.md` (legacy hub) | `INDEX.md` · `README.md` |
+| `aethelgard-first-quarter.md` | [`../../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md`](../../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md) (staff archive; not serial prose) |

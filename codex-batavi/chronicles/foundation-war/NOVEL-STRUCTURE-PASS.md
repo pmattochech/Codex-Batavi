@@ -1,5 +1,7 @@
 # Foundation War — novel structure pass (instructions)
 
+**Status:** **Complete** (May 2026) — **39/39** `chapter.md` files novel-form; tracker §6 all `[x]`. This file remains the **runbook archive** for future edits that reintroduce section headers.
+
 **Purpose:** One-time **layout repair** across all **39** `chapter.md` files — convert scaffold-era **sectioned report** shape into **single novel chapters** without changing canon, plot order, or voice.
 
 **Authority:** [`.cursorrules`](../../.cursorrules) §0.1 (chronicle unit structure) · depth/coda contract: [`PROSE-SCAFFOLD.md`](PROSE-SCAFFOLD.md) · read order: [`INDEX.md`](INDEX.md).

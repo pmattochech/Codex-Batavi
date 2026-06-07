@@ -1,6 +1,6 @@
 # Foundation War — canonical crucible serial
 
-**Status:** **Canonical serial complete.** Deep prose (Q0 + 38 chapters); **`Next:`** chain verified; staff/atlas/biology pointers repointed; legacy numbered serial **deleted May 2026** (tombstone: [`legacy-map.md`](legacy-map.md)).
+**Status:** **Canonical serial complete.** Deep prose (Q0 + 38 chapters); **`Next:`** chain verified; **novel structure pass complete** (39/39 — [`NOVEL-STRUCTURE-PASS.md`](NOVEL-STRUCTURE-PASS.md) §6); staff/atlas/biology pointers repointed; legacy numbered serial **deleted May 2026** (redirect: [`../00-foundation-war/README.md`](../00-foundation-war/README.md) · map: [`legacy-map.md`](legacy-map.md)).
 
 **Density pass (complete):** §VIII dedupe + single forward handoff coda across all 39 `chapter.md` files (May 2026). **Serial total:** **9,176 lines** on disk (`wc -l`). **Bands:**
 
@@ -18,13 +18,9 @@ Codas: **Interest → stamp line → Always owed** (or quarter-specific liturgy 
 
 **Purpose:** Slug-based crucible serial under **Castra Vetera** annals. Read order is **`INDEX.md`** (source of truth); each `chapter.md` ends with a **`Next:`** link for linear reading.
 
-**Depth contract:** [`PROSE-SCAFFOLD.md`](PROSE-SCAFFOLD.md)
+**Depth contract:** [`PROSE-SCAFFOLD.md`](PROSE-SCAFFOLD.md) · **Layout repair (closed):** [`NOVEL-STRUCTURE-PASS.md`](NOVEL-STRUCTURE-PASS.md)
 
 **Staff annals (summary):** [`../../personae-command-index/events-and-chronologies/foundation-war.md`](../../personae-command-index/events-and-chronologies/foundation-war.md)
-
-**Prose scaffold (depth contract):** [`PROSE-SCAFFOLD.md`](PROSE-SCAFFOLD.md)
-
-**Legacy numbered serial:** **deleted May 2026** — file-by-file tombstone only: [`legacy-map.md`](legacy-map.md)
 
 **Geography & identity (Mar 2026 retcon):** **Insula Tenebrarum** subsector — **Castra Vetera** polity / **Nine Phalanx** mesh (**Ultima**, **Imperium Nihilus**). **Delta island:** fringe void (xenos) + **Tenebrarum Ribbon** (warp storm) vs inward **Nihilus corridor** tithe pressure. **Witness Ford** outward filter; **Iron Highways** + **Forge / Tempest / Crown Marsh Channels**. Chapter role: **wall against the tide** (filter, not rim tourism). Authoritative lock: [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). **Retired in new prose:** *Porta Nihili*, *Loken Passage*. Pole IX **Halo mouth** = **Focal Crown / Solaris–Halo theater** — not Halo Stars region.
 
