@@ -4,7 +4,7 @@
 **When:** **~183.M42** (six years before Hive Vespera Red Harvest)  
 **Where:** Noviomagus Prime — **Hive Ferrum-Secondus** (industrial ring; forge-adjacent labor lattice)  
 **Who:** **Branimir Vorhalt** (*Decanus Primus*, Silence Cohort) with **forty** ivory pauldrons; **Marshal Acastian Vhal** (Adeptus Arbites, first Noviomagus co-supervision on record for Castellan-idol cases); **Alaric von Helis** (public refusal of redirected devotion); guild stewards of **House Kethmar-Residual** (struck from law post-action)  
-**Cross-references:** [hive-vespera-red-harvest.md](hive-vespera-red-harvest.md) *(successor purge)* · [10-proof-of-chain.md](../06-silent-vigil/10-proof-of-chain.md) · [`contingency-axiom-lupus.md`](../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md) · [dossier-branimir.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md)
+**Cross-references:** [hive-vespera-red-harvest.md](hive-vespera-red-harvest.md) *(successor purge)* · [proof-of-chain/chapter.md](../silent-vigil/proof-of-chain/chapter.md) · [`contingency-axiom-lupus.md`](../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md) · [dossier-branimir.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md)
 
 **Geography lock:** **Insula Tenebrarum** · **Noviomagus Prime** — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Internal corrective action — not frontier theater.
 
@@ -554,4 +554,4 @@ On Noviomagus, even warnings became paperwork if you filed them correctly.
 
 **Staff filing:** Pre–Vespera **Castellan-idol drift** — surgical Silence + Arbites corrective (not full Vexillatio purge). **Day-120** standing lattice; **amber** chalk wolf (no title) — Corbec *Soon* ladder. **Marshal Vhal** co-supervision precedent; Arbites addendum seed: *personal devotion to command personae ≠ legal loyalty* (case **FS-183-041**, cited at Vespera). **Branimir Vorhalt** / Silence pattern capture. **Alaric** public refusal of **Wall-Sovereign** civic title. **Corbec** *Prima* note: *watch Vespera*.
 
-**Successor purge:** [hive-vespera-red-harvest.md](hive-vespera-red-harvest.md) · **Chain law:** [10-proof-of-chain.md](../06-silent-vigil/10-proof-of-chain.md)
+**Successor purge:** [hive-vespera-red-harvest.md](hive-vespera-red-harvest.md) · **Chain law:** [proof-of-chain/chapter.md](../silent-vigil/proof-of-chain/chapter.md)

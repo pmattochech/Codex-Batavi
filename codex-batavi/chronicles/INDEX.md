@@ -2,7 +2,7 @@
 
 ## foundation-war (canonical serial)
 
-**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [prose scaffold](foundation-war/PROSE-SCAFFOLD.md) · [novel structure pass](foundation-war/NOVEL-STRUCTURE-PASS.md) · [legacy → slug tombstone](foundation-war/legacy-map.md) · [legacy redirect](00-foundation-war/README.md). **Serial complete** (Q0 prelude + 38 chapters; density + novel structure passes closed May 2026). **Quarter hubs:** [Q0](foundation-war/Q0-prelude/INDEX.md) · [Q1](foundation-war/Q1-moon-hunt/INDEX.md) · [Q2](foundation-war/Q2-inverted-war/INDEX.md) · [Q3](foundation-war/Q3-gulf-and-beast/INDEX.md) · [Q4](foundation-war/Q4-der-batav/INDEX.md). **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
+**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [prose scaffold](foundation-war/PROSE-SCAFFOLD.md) · [novel structure pass](foundation-war/NOVEL-STRUCTURE-PASS.md) · [legacy → slug tombstone](foundation-war/legacy-map.md) · [chronicles legacy map](legacy-map.md) · [legacy redirect](00-foundation-war/README.md). **Serial complete** (Q0 prelude + 38 chapters; density + novel structure passes closed May 2026). **Quarter hubs:** [Q0](foundation-war/Q0-prelude/INDEX.md) · [Q1](foundation-war/Q1-moon-hunt/INDEX.md) · [Q2](foundation-war/Q2-inverted-war/INDEX.md) · [Q3](foundation-war/Q3-gulf-and-beast/INDEX.md) · [Q4](foundation-war/Q4-der-batav/INDEX.md). **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
 
 **Staff summary** (nine poles, phases, casualty bands, cross-links): [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md).
 
@@ -35,7 +35,29 @@
 ## 04-incus-gravis-tribunal
 - [incus-gravis-campaign.md](04-incus-gravis-tribunal/incus-gravis-campaign.md)
 
-## 05-viggo-saga
+## silent-vigil — The Silent Vigil
+*(050.M42 – 150.M42 — The Chapter operates under a Castellan who is present but hollowed out. The Legati carry what Alaric cannot carry.)*
+
+**Hub:** [silent-vigil/README.md](silent-vigil/README.md) · **Read order:** [silent-vigil/INDEX.md](silent-vigil/INDEX.md) · **Legacy redirect:** [06-silent-vigil/README.md](06-silent-vigil/README.md)
+
+**Flat serial (slug tree — migrated May 2026):**
+
+- [alabarda-to-relay/chapter.md](silent-vigil/alabarda-to-relay/chapter.md) ✅ — Alabarda postscript (conversion to relay).
+- [strategium-silence/chapter.md](silent-vigil/strategium-silence/chapter.md) ✅ — Strategium, Viggo as anchor, orders through the wolf, Alaric's collapse and Drusus's clinical discovery.
+- [fracture-recognition/chapter.md](silent-vigil/fracture-recognition/chapter.md) ✅ — sealed recognition phase: Varro + Drusus map post-second Red Wolf breach pattern.
+- [old-voices-council/chapter.md](silent-vigil/old-voices-council/chapter.md) ✅ — council ring session: Corbec + Armin support contingency codification.
+- [post-voices-legatus-ring/chapter.md](silent-vigil/post-voices-legatus-ring/chapter.md) ✅ — nine-seat Legatus Ring: dispute axes, Kessler dissent on record.
+- [decima-gatekeepers/chapter.md](silent-vigil/decima-gatekeepers/chapter.md) ✅ — Kadmos + Otho implementation phase: Decima lock discipline under Tyvar oversight.
+- [protocol-forged-in-iron/chapter.md](silent-vigil/protocol-forged-in-iron/chapter.md) ✅ — doctrine ratification and boundary disclosure to Alaric.
+- [war-game-black-mirror/chapter.md](silent-vigil/war-game-black-mirror/chapter.md) ✅ — controlled anti-Alpha validation exercise.
+- [proof-of-chain/chapter.md](silent-vigil/proof-of-chain/chapter.md) ✅ — live continuity test under controlled Castellan absence window.
+- [without-distinction/chapter.md](silent-vigil/without-distinction/chapter.md) ✅ — ca. 099.M42. Halvard, Legatus of the I Vexillatio. Post-battle protocol without celebration.
+- [last-heat-of-the-wall/chapter.md](silent-vigil/last-heat-of-the-wall/chapter.md) ✅ — Martha's kitchen, Elara childhood with Viggo, Viggo's death (~162.M42), Mantle of Providence.
+
+**Pending slug migration (same saga index):** *valerian-heresy* part · *corbec-ardens* · *viggo-the-heat-of-the-stone* subsagas — still at legacy paths until next commit. Malakor V: [00-malakor-v.md](06-silent-vigil/00-malakor-v.md).
+
+## 05-viggo-saga *(→ silent-vigil/viggo-the-heat-of-the-stone — pending)*
+
 - [viggo-saga.md](05-viggo-saga/viggo-saga.md) — includes *Baptism of Oil and Ice*; *Decima* escort; RTC II (Type B)
 - [garmr-witness-dravic.md](05-viggo-saga/garmr-witness-dravic.md) — Brother-Sergeant **Cael Dravic** witness; report to Varro
 - [varro-anima-speculum.md](05-viggo-saga/varro-anima-speculum.md) — Judex *anima speculum*; chained wolf / Crimson Wolf soul-sight
@@ -45,26 +67,7 @@
 - [04-seed-in-iron.md](05-viggo-saga/04-seed-in-iron.md) — aftermath and setup for Radulf Castrin pressure
 - [05-radulf-and-the-wall.md](05-viggo-saga/05-radulf-and-the-wall.md) — private audience: Radulf Castrin confronts Alaric with honor-weight and command restoration terms
 
-## 06-silent-vigil — The Silent Vigil
-*(050.M42 – 150.M42 — The Chapter operates under a Castellan who is present but hollowed out. The Legati carry what Alaric cannot carry.)*
-
-**Hub:** [06-silent-vigil/README.md](06-silent-vigil/README.md) — **read order vs chronology** (legacy **545→055**, **552→162** correction logged).
-
-- [00-malakor-v.md](06-silent-vigil/00-malakor-v.md) ✅ — 050.M42. The bait, the forty-three-minute fight, the wordless sentence. **Valerian Heresy** blood-price (**~300** pairs on the cord that cycle). The trigger of the Silent Vigil.
-- [01-alabarda-to-relay.md](06-silent-vigil/01-alabarda-to-relay.md) ✅ — Alabarda postscript (conversion to relay).
-- [02-strategium-silence.md](06-silent-vigil/02-strategium-silence.md) ✅ — Silent Vigil. Strategium, Viggo as anchor, orders through the wolf, Alaric’s collapse and Drusus’s clinical discovery.
-- [03-without-distinction.md](06-silent-vigil/03-without-distinction.md) ✅ — ca. 099.M42. Halvard, Legatus of the I Vexillatio. Post-battle protocol without celebration or praise: maintenance, replenishment, chaplain, descent to the cells. The weight of being functional as the only form of honor.
-- [04-last-heat-of-the-wall.md](06-silent-vigil/04-last-heat-of-the-wall.md) ✅ — Martha’s kitchen, Elara childhood with Viggo, Viggo’s death (**~162.M42** Orbital Winter; Elara ~12), Mantle of Providence, bones on Fenris.
-- [05-fracture-recognition.md](06-silent-vigil/05-fracture-recognition.md) ✅ — sealed recognition phase: Varro + Drusus map post-second Red Wolf breach pattern and open anti-inversion redundancy drafting.
-- [06-old-voices-council.md](06-silent-vigil/06-old-voices-council.md) ✅ — council ring session: Corbec + Armin support contingency codification; custody tiers and lethal terminal doctrine are stated.
-- [06-post-voices-legatus-ring.md](06-silent-vigil/06-post-voices-legatus-ring.md) ✅ — nine-seat Legatus Ring: dispute axes, Kessler dissent on record, Tier A/B/C assignment before Decima mechanics.
-- [07-decima-gatekeepers.md](06-silent-vigil/07-decima-gatekeepers.md) ✅ — Kadmos + Otho implementation phase: limited-custody execution drills, command gating, and Decima lock discipline under Tyvar oversight.
-- [08-protocol-forged-in-iron.md](06-silent-vigil/08-protocol-forged-in-iron.md) ✅ — doctrine ratification and boundary disclosure to Alaric (objective-only access, continuity-over-comfort accepted).
-- [09-war-game-black-mirror.md](06-silent-vigil/09-war-game-black-mirror.md) ✅ — controlled anti-Alpha validation exercise; Decima proves gate discipline under false-command pressure and noise injection.
-- [10-proof-of-chain.md](06-silent-vigil/10-proof-of-chain.md) ✅ — live continuity test under controlled Castellan absence window; chain law holds without unauthorized drift.
-
-## 16-corbec-the-first-legatus
-*(Corbec POV sub-chronicle, moved out of Silent Vigil for readability.)*
+## 16-corbec-the-first-legatus *(→ silent-vigil/corbec-ardens — pending)*
 
 - [valerian-heresy-witness-corbec-i.md](16-corbec-the-first-legatus/valerian-heresy-witness-corbec-i.md)
 - [01-valerian-rot-spread.md](16-corbec-the-first-legatus/01-valerian-rot-spread.md)

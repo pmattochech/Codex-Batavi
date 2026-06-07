@@ -4,7 +4,7 @@
 **When:** **~189.M42** (mature post-Vigil era)  
 **Where:** Noviomagus Prime — Hive Vespera  
 **Who:** **Alaric von Helis** (noble-caste severance and house judgment), **Corbec Ardens** with **full I Prima** — line companies and specialized cohorts (**Silence**, **Shadows**, **Stasis**, **Nullity**) — lower-hive purge geometry, **Adeptus Arbites** (Marshal Acastian Vhal, Judge-Militant Serix) attached to **both** task columns, city population and noble houses of Vespera  
-**Cross-references:** [ferrum-secondus-wolf-ledger.md](ferrum-secondus-wolf-ledger.md) *(precursor ~183.M42)* · [../06-silent-vigil/10-proof-of-chain.md](../06-silent-vigil/10-proof-of-chain.md) · [../06-silent-vigil/06-post-voices-legatus-ring.md](../06-silent-vigil/06-post-voices-legatus-ring.md) · [`contingency-axiom-lupus.md`](../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §VI (~**189.M42**)
+**Cross-references:** [ferrum-secondus-wolf-ledger.md](ferrum-secondus-wolf-ledger.md) *(precursor ~183.M42)* · [../silent-vigil/proof-of-chain/chapter.md](../silent-vigil/proof-of-chain/chapter.md) · [../silent-vigil/post-voices-legatus-ring/chapter.md](../silent-vigil/post-voices-legatus-ring/chapter.md) · [`contingency-axiom-lupus.md`](../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §VI (~**189.M42**)
 
 **Geography lock:** **Insula Tenebrarum** · **Noviomagus Prime** (Chapter seat / forge-world) — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Internal purge — not frontier theater. **Loyalty doctrine:** personal devotion to command personae ≠ legal loyalty to Terra (Marshal Vhal addendum).
 
@@ -554,4 +554,4 @@ There were no monuments for Red Harvest in Vespera. The closest thing to memoria
 
 **Staff filing:** Secession doctrine — idolatry of Castellan personae over Throne chain. **Corbec** / full *Prima* lower-hive lattice; **Alaric** upper spire house judgment. Specialty cohorts (**Silence**, **Shadows**, **Stasis**, **Nullity**) under purge geometry. Arbites co-supervision (Marshal Vhal, Judge-Militant Serix).
 
-**Prior chain law:** [10-proof-of-chain.md](../06-silent-vigil/10-proof-of-chain.md) · **Legatus Ring:** [06-post-voices-legatus-ring.md](../06-silent-vigil/06-post-voices-legatus-ring.md)
+**Prior chain law:** [proof-of-chain/chapter.md](../silent-vigil/proof-of-chain/chapter.md) · **Legatus Ring:** [06-post-voices-legatus-ring.md](../silent-vigil/post-voices-legatus-ring/chapter.md)

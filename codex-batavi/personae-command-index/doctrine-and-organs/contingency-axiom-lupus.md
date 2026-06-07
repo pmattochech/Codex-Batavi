@@ -126,14 +126,14 @@ Substitute inherits Tier A custody **minus** kill-route segments not briefed —
 
 **Triumvirate partial loss:** Varro-only or Drusus-only rules per `protocol-access-matrix.md` §4; both unavailable → Tyvar + Radulf + Corbec emergency Ring; Kadmos/Otho remain Tier B until Tier A reconstituted.
 
-*Narrative:* [`06-post-voices-legatus-ring.md`](../../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md) · *Planning:* [`silent-vigil-legatus-council-plan.md`](../../planning/silent-vigil-legatus-council-plan.md) §5–§6.
+*Narrative:* [`06-post-voices-legatus-ring.md`](../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md) · *Hub:* [`README.md`](../../chronicles/06-silent-vigil/README.md) (protocol arc origin).
 
 ---
 
 ## 9. Cross-reference bundle
 
-- Planning source: `codex-batavi/planning/silent-vigil-contingency-protocol-plan.md`
+- Chronicle hub: `../../chronicles/06-silent-vigil/README.md`
 - Access governance: `protocol-access-matrix.md`
 - Related pathology: `crimson-wolf-rubor-thermicus.md`
 - Command structure: `military-hierarchy.md`
-- Chronicle chain: `../../chronicles/06-silent-vigil/05-fracture-recognition.md` · `../../chronicles/06-silent-vigil/06-old-voices-council.md` · `../../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md` · `../../chronicles/06-silent-vigil/07-decima-gatekeepers.md` · `../../chronicles/06-silent-vigil/08-protocol-forged-in-iron.md` · `../../chronicles/06-silent-vigil/09-war-game-black-mirror.md` · `../../chronicles/06-silent-vigil/10-proof-of-chain.md`
+- Chronicle chain: `../../chronicles/silent-vigil/fracture-recognition/chapter.md` · `../../chronicles/silent-vigil/old-voices-council/chapter.md` · `../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md` · `../../chronicles/silent-vigil/decima-gatekeepers/chapter.md` · `../../chronicles/silent-vigil/protocol-forged-in-iron/chapter.md` · `../../chronicles/silent-vigil/war-game-black-mirror/chapter.md` · `../../chronicles/silent-vigil/proof-of-chain/chapter.md`

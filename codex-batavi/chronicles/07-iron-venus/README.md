@@ -6,8 +6,8 @@
 
 | When | Elara (~) | Event | File |
 |------|-----------|--------|------|
-| **150.M42** | infant | Parapet discovery; kitchen integration | [iron-venus.md](iron-venus.md) · [04-last-heat-of-the-wall.md](../06-silent-vigil/04-last-heat-of-the-wall.md) *(span)* |
-| **~162.M42** | ~12 | Viggo terminis — Orbital Winter | [04-last-heat-of-the-wall.md](../06-silent-vigil/04-last-heat-of-the-wall.md) |
+| **150.M42** | infant | Parapet discovery; kitchen integration | [iron-venus.md](iron-venus.md) · [last-heat-of-the-wall/chapter.md](../silent-vigil/last-heat-of-the-wall/chapter.md) *(span)* |
+| **~162.M42** | ~12 | Viggo terminis — Orbital Winter | [last-heat-of-the-wall/chapter.md](../silent-vigil/last-heat-of-the-wall/chapter.md) |
 | **165.M42** | ~15 | *The Wooden Sword* — public Guilliman yard | [wolf-daughter.md](wolf-daughter.md) |
 | **168.M42** | ~18 | Luna Sigma observer — *Price of Memory* | [price-of-memory.md](../11-sigma-moon/price-of-memory.md) |
 | **~170.M42** | ~20 | Tobias terminis — Sector Industrial 7 | [wolf-daughter.md](wolf-daughter.md) |

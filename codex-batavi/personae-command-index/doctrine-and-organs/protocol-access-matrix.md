@@ -121,7 +121,7 @@ Substitute may not execute kill-route phases without **Drusus** briefing certifi
 - **Drusus unavailable:** Clinical lock frozen at last hash; Varro + Tyvar may execute Tier II firewall; Tier III requires dual Tier A Legatus confirm + Tyvar readiness.
 - **Both unavailable:** Tyvar + Radulf + Corbec convoke emergency Ring; Tier B executors only until Tier A reconstituted.
 
-*Ring session:* [`06-post-voices-legatus-ring.md`](../../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md)
+*Ring session:* [`06-post-voices-legatus-ring.md`](../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md)
 
 ---
 
@@ -146,6 +146,6 @@ Substitute may not execute kill-route phases without **Drusus** briefing certifi
 ## 7. Cross-reference bundle
 
 - Primary doctrine: `contingency-axiom-lupus.md`
-- Planning source: `codex-batavi/planning/silent-vigil-access-matrix-plan.md`
+- Chronicle hub: `../../chronicles/06-silent-vigil/README.md`
 - Related chain law: `military-hierarchy.md`
-- Validation chronicles: `../../chronicles/06-silent-vigil/06-post-voices-legatus-ring.md` · `../../chronicles/06-silent-vigil/07-decima-gatekeepers.md` · `../../chronicles/06-silent-vigil/08-protocol-forged-in-iron.md` · `../../chronicles/06-silent-vigil/09-war-game-black-mirror.md` · `../../chronicles/06-silent-vigil/10-proof-of-chain.md`
+- Validation chronicles: `../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md` · `../../chronicles/silent-vigil/decima-gatekeepers/chapter.md` · `../../chronicles/silent-vigil/protocol-forged-in-iron/chapter.md` · `../../chronicles/silent-vigil/war-game-black-mirror/chapter.md` · `../../chronicles/silent-vigil/proof-of-chain/chapter.md`
