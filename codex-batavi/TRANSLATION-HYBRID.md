@@ -23,7 +23,7 @@ This document defines **when and how** English is maintained across the Codex, i
 | Tier | Scope | Rationale |
 |------|--------|-----------|
 | **P0** | [`chronicles/INDEX.md`](chronicles/INDEX.md), [`codex-batavi/README.md`](README.md), hub `INDEX.md` files in each top-level folder | Navigation and discoverability |
-| **P1** | Arcs you extend most often (e.g. `chronicles/07-iron-venus/`, `11-sigma-moon/`, `12-vigilax/`, `13-apotheosis/`) | High reader and author traffic |
+| **P1** | Arcs you extend most often (e.g. `chronicles/silent-vigil/iron-venus/`, `11-sigma-moon/`, `12-vigilax/`, `13-apotheosis/`) | High reader and author traffic |
 | **P2** | `personae-command-index/` (dossiers, doctrine, master chronology) | Reference for all writing |
 | **P3** | `atlas-and-topography/`, `arsenal-and-logistics/`, `political-relations/`, `lexicon-and-litanies/` | Supporting lore |
 | **P4** | `biological-encyclopedia-bestiary/` | Large, stable blocks — revise when edited or in dedicated sprints |
@@ -37,7 +37,7 @@ This document defines **when and how** English is maintained across the Codex, i
 2. **Edit** — Files in scope only; update internal links where link **text** must read naturally in English.
 3. **Check** — Broken relative links; headings used as anchors; tables and code blocks unchanged unless prose.
 4. **Glossary** — Add new coinages or chosen glosses to `GLOSSARY-EN.md`.
-5. **Commit** — One logical batch per PR/commit message (e.g. `Translate chronicles/07-iron-venus to English`).
+5. **Commit** — One logical batch per PR/commit message (e.g. `Migrate chronicles/silent-vigil/iron-venus slug tree`).
 
 ---
 
@@ -60,7 +60,7 @@ Section **0.1** states the default language for **new and edited** Markdown. Thi
 | Batch | Scope | Status |
 |-------|--------|--------|
 | **P0** | Root `README.md`, `codex-batavi/README.md`, all hub `INDEX.md` files (`chronicles/`, `personae-command-index/`, `atlas-and-topography/`, `arsenal-and-logistics/`, `biological-encyclopedia-bestiary/`, `lexicon-and-litanies/`, `political-relations/`) | **Done** |
-| **P1** | `chronicles/07-iron-venus/`, `11-sigma-moon/`, `12-vigilax/`, `13-apotheosis/` (prose in place; English path slugs) | **Done** |
+| **P1** | `chronicles/silent-vigil/iron-venus/`, `11-sigma-moon/`, `12-vigilax/`, `13-apotheosis/` (prose in place; English path slugs) | **Done** |
 | **P2** | `personae-command-index/` — doctrine (`doctrine-and-organs/`), events (`events-and-chronologies/`), intro/heraldry (`intro-and-heraldry/`), all `character-dossiers/**/*.md` (subfolders by role: triumvirate, legati, mortals, etc.) | **Done** |
 | **P3** | `atlas-and-topography/` (incl. `systems/`), `arsenal-and-logistics/`, `political-relations/`, `lexicon-and-litanies/` (prose in English; English path slugs) | **Done** |
 | **P4** | `biological-encyclopedia-bestiary/` (biology encyclopedia, matrices, Viggo dossier; English path slugs) | **Done** |

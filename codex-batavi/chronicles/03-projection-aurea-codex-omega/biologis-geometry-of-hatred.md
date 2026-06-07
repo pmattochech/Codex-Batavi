@@ -8,7 +8,7 @@
 **Reporter:** Chief Apothecary Drusus  
 **File status:** Absolute doctrinal revision (end of Pendulum theory)
 
-**Geography lock:** **Malakor V** — peripheral **Nine Phalanx** sector, Cicatrix Maledictum influence — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Surface narrative: [`../malakor-v/chapter.md`](../silent-vigil/valerian-heresy/malakor-v/chapter.md).
+**Geography lock:** **Malakor V** — peripheral **Nine Phalanx** sector, Cicatrix Maledictum influence — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Surface narrative: [`malakor-v/chapter.md`](../silent-vigil/valerian-heresy/malakor-v/chapter.md).
 
 **Archival note:** Primary record of **The Cull** discovery — written immediately after Malakor V, based on maximum-intensity case (Valerius / Tier III proximity to Horus-line cadence). Tiered response scale (corruption depth × Horus-line proximity), formal distinction between **The Cull** and **Amplified Axiom of Reason** (generic Chaos without recognizable gene-seed), and axis containment protocols were formalized in following months in ***discipline harness codex*** — see [`projection-aurea-wolfs-curse.md`](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md).
 
@@ -166,4 +166,4 @@ I am the Brake. Pyramid geometry does not simplify my job. It makes it **trigono
 
 ---
 
-**Next:** [`spiritus-vertex-of-condemnation.md`](spiritus-vertex-of-condemnation.md) (Varro — Reclusiam vertex) · [`codex-omega-revision.md`](codex-omega-revision.md) (Alaric — 160.M42 correction of Silent Vigil self-myth) · [`../malakor-v/chapter.md`](../silent-vigil/valerian-heresy/malakor-v/chapter.md) (field narrative)
+**Next:** [`spiritus-vertex-of-condemnation.md`](spiritus-vertex-of-condemnation.md) (Varro — Reclusiam vertex) · [`codex-omega-revision.md`](codex-omega-revision.md) (Alaric — 160.M42 correction of Silent Vigil self-myth) · [`malakor-v/chapter.md`](../silent-vigil/valerian-heresy/malakor-v/chapter.md) (field narrative)

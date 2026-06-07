@@ -8,7 +8,7 @@
 **Reporter:** Master Chaplain Varro (the Judex / the Anchor)  
 **Troop spiritual state:** **The Cull** — headsman’s vertex
 
-**Geography lock:** **Malakor V** — Nine Phalanx periphery, Cicatrix influence — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Field narrative: [`../malakor-v/chapter.md`](../silent-vigil/valerian-heresy/malakor-v/chapter.md).
+**Geography lock:** **Malakor V** — Nine Phalanx periphery, Cicatrix influence — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Field narrative: [`malakor-v/chapter.md`](../silent-vigil/valerian-heresy/malakor-v/chapter.md).
 
 **Companion chronicles:** [`spiritus-broken-silence.md`](../02-biologis-spiritus-foundation/spiritus-broken-silence.md) (Wild Hunt soul) · [`spiritus-void-drought.md`](../02-biologis-spiritus-foundation/spiritus-void-drought.md) (March soul) · [`codex-omega-revision.md`](codex-omega-revision.md) (Alaric — later Root correction).
 
@@ -200,4 +200,4 @@ Some silences are **theology** too heavy for *Vermilion* ink.
 
 ---
 
-**Next:** [`codex-omega-revision.md`](codex-omega-revision.md) (160.M42 — Alaric corrects inventory fallacy · Root / Zero Point) · [`../malakor-v/chapter.md`](../silent-vigil/valerian-heresy/malakor-v/chapter.md) (field narrative · chain · first day of rain)
+**Next:** [`codex-omega-revision.md`](codex-omega-revision.md) (160.M42 — Alaric corrects inventory fallacy · Root / Zero Point) · [`malakor-v/chapter.md`](../silent-vigil/valerian-heresy/malakor-v/chapter.md) (field narrative · chain · first day of rain)

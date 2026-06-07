@@ -94,7 +94,7 @@ Every **Legatus** *Alabarda Vexillum* for **2nd–9th Vexillatio** carries **fou
 
 **Bearer:** Typically **senior *Decima* Ancient-equivalent** or **Castellan honour guard** — *not* interchangeable with Legatus *Alabarda* logistics; relay rules may **differ** (Triumvirate net).
 
-***Armourium* / *Reclusiam* register annex (justice charge precedent):** [register-decima-malakor-justice.md](../../chronicles/vexillum-register/register-decima-malakor-justice.md). **Narrative (051.M42 commission):** [decima-justice-vexillum.md](../../chronicles/silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md). **Sentence:** [../malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md).
+***Armourium* / *Reclusiam* register annex (justice charge precedent):** [register-decima-malakor-justice.md](../../chronicles/vexillum-register/register-decima-malakor-justice.md). **Narrative (051.M42 commission):** [decima-justice-vexillum.md](../../chronicles/silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md). **Sentence:** [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md).
 
 ---
 
@@ -116,9 +116,9 @@ Every **Legatus** *Alabarda Vexillum* for **2nd–9th Vexillatio** carries **fou
 * [GLOSSARY-EN.md](../../GLOSSARY-EN.md) — *Alabarda Vexillum*, *justice vexillum*  
 * [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) — Legatus / *Alabarda* career lattice  
 * [dossier-valerius.md](../character-dossiers/expunged/dossier-valerius.md) — expunged First Legatus  
-* [../malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md) — execution context
+* [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md) — execution context
 * [vexillum-register/](../../chronicles/vexillum-register/) — *Strategium* after-action memoranda for **field 4** certified actions  
-* [14-vexillum-chronicles/](../../chronicles/14-vexillum-chronicles/INDEX.md) — longform narratives (**III** / **VIII** pair with [vigilax-incident.md](../../chronicles/12-vigilax/vigilax-incident.md) / [helbrecht-witness-ford-meeting.md](../../chronicles/08-audit-diplomacy/helbrecht-witness-ford-meeting.md); **X** *Decima* justice cloth: [decima-justice-vexillum.md](../../chronicles/silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md); Malakor sentence: [../malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md))
+* [14-vexillum-chronicles/](../../chronicles/14-vexillum-chronicles/INDEX.md) — longform narratives (**III** / **VIII** pair with [vigilax-incident.md](../../chronicles/12-vigilax/vigilax-incident.md) / [helbrecht-witness-ford-meeting.md](../../chronicles/08-audit-diplomacy/helbrecht-witness-ford-meeting.md); **X** *Decima* justice cloth: [decima-justice-vexillum.md](../../chronicles/silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md); Malakor sentence: [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md))
 
 ---
 

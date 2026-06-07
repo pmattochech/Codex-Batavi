@@ -53,7 +53,7 @@
 
 ## 07-iron-venus *(legacy — see silent-vigil/iron-venus)*
 
-**Hub:** [silent-vigil/iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md) — Elara age ladder (parapet **150.M42** anchor). **Tombstone:** [silent-vigil/iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md).
+**Hub:** [silent-vigil/iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md) — Elara age ladder (parapet **150.M42** anchor). **Tombstone:** [07-iron-venus/README.md](07-iron-venus/README.md).
 
 - [iron-venus/chapter.md](silent-vigil/iron-venus/iron-venus/chapter.md) — parapet adoption · kitchen · naming (**150.M42**)
 - [sanctuary-smoke-and-bread/chapter.md](silent-vigil/iron-venus/sanctuary-smoke-and-bread/chapter.md) — present-era Martha kitchen

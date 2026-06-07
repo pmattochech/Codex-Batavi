@@ -84,4 +84,4 @@ They had traded **the only coin that survives in the *Nihilus***: proof each kne
 
 ---
 
-**Cross-reference:** [wolf-daughter.md](../silent-vigil/iron-venus/wolf-daughter/chapter.md) (165.M42, *The Wooden Sword*). [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV. **VIII** *Octava* lens: [witness-ford-octava.md](../14-vexillum-chronicles/witness-ford-octava.md).
+**Cross-reference:** [wolf-daughter/chapter.md](../silent-vigil/iron-venus/wolf-daughter/chapter.md) (165.M42, *The Wooden Sword*). [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV. **VIII** *Octava* lens: [witness-ford-octava.md](../14-vexillum-chronicles/witness-ford-octava.md).
