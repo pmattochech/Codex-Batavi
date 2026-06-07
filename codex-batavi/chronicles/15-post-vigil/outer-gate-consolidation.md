@@ -4,7 +4,7 @@
 **When:** **180.M42** *(secondary Imperial filing; CV annals primary)*  
 **Where:** **Witness Ford** outward choke · **Noviomagus Prime** *Strategium* · Outer Gate fleet command (`***Wrath of Noviomagus***` registry band)  
 **Who:** **Elara Solis** (Admiral, Outer Gate fleet — age **~30**); **Alaric von Helis**; **Inquisitor Vane** (Ordo Hereticus — final subsector audit); **Shield-Captain Tyvar**; Triumvirate (**Drusus**, **Varro**)  
-**Cross-references:** [wolf-daughter.md](../07-iron-venus/wolf-daughter.md) *(Throne briefing handoff — prior cycle)* · [call-to-the-throne.md](../13-apotheosis/call-to-the-throne.md) · [ferrum-secondus-wolf-ledger.md](ferrum-secondus-wolf-ledger.md) · [hive-vespera-red-harvest.md](hive-vespera-red-harvest.md) *(idol drift successor)* · [`inquisition-geometry.md`](../../political-relations/inquisition-geometry.md)
+**Cross-references:** [wolf-daughter.md](../silent-vigil/iron-venus/wolf-daughter/chapter.md) *(Throne briefing handoff — prior cycle)* · [call-to-the-throne.md](../13-apotheosis/call-to-the-throne.md) · [ferrum-secondus-wolf-ledger.md](ferrum-secondus-wolf-ledger.md) · [hive-vespera-red-harvest.md](hive-vespera-red-harvest.md) *(idol drift successor)* · [`inquisition-geometry.md`](../../political-relations/inquisition-geometry.md)
 
 **Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — outward filter = **Witness Ford**. Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
@@ -508,4 +508,4 @@ The Outer Gate called it **Tuesday**.
 
 **Staff filing (180.M42 present):** **Elara Solis (~30)** — full Outer Gate fleet command lock; doctrine memo (idol-risk at ford). **Inquisitor Vane** — self-neutralized; **Gamma-Three** walked; no further subsector Ordo escalation. **Witness Ford** — **Theta-Nine** + **Kappa-Three** live convoy cycles; **Lambda-Two** night-band repeat. **Jonas Solis** — Administratum slate correction (*Solis Gate* struck). **Alaric** — Castellan; Throne briefing through Elara operational; shadow-hold channel doctrine. *Idol drift:* Ferrum-Secondus **183** on file; Vespera **189** ahead.
 
-**Hub:** [15-post-vigil/README.md](README.md) · **Elara ladder:** [07-iron-venus/README.md](../07-iron-venus/README.md)
+**Hub:** [15-post-vigil/README.md](README.md) · **Elara ladder:** [silent-vigil/iron-venus/INDEX.md](../silent-vigil/iron-venus/INDEX.md)

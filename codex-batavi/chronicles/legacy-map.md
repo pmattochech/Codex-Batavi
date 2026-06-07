@@ -8,7 +8,7 @@
 
 ## Silent Vigil (May 2026)
 
-**New saga root:** [`silent-vigil/`](silent-vigil/INDEX.md) · redirects: [`06-silent-vigil/README.md`](06-silent-vigil/README.md) · [`05-viggo-saga/README.md`](05-viggo-saga/README.md) · [`16-corbec-the-first-legatus/README.md`](16-corbec-the-first-legatus/README.md)
+**New saga root:** [`silent-vigil/`](silent-vigil/INDEX.md) · redirects: [`06-silent-vigil/README.md`](06-silent-vigil/README.md) · [`05-viggo-saga/README.md`](05-viggo-saga/README.md) · [`16-corbec-the-first-legatus/README.md`](16-corbec-the-first-legatus/README.md) · [`07-iron-venus/README.md`](07-iron-venus/README.md)
 
 ### Main serial (`06-silent-vigil/`)
 
@@ -58,5 +58,16 @@
 | `03-palace-of-the-wall.md` | `silent-vigil/viggo-the-heat-of-the-stone/palace-of-the-wall/chapter.md` |
 | `04-seed-in-iron.md` | `silent-vigil/viggo-the-heat-of-the-stone/seed-in-iron/chapter.md` |
 | `05-radulf-and-the-wall.md` | `silent-vigil/viggo-the-heat-of-the-stone/radulf-and-the-wall/chapter.md` |
+
+### Subsaga: `iron-venus` (`07-iron-venus/`)
+
+| Legacy file | New path |
+|---:|---|
+| `iron-venus.md` | `silent-vigil/iron-venus/iron-venus/chapter.md` |
+| `wolf-daughter.md` | `silent-vigil/iron-venus/wolf-daughter/chapter.md` |
+| `sanctuary-smoke-and-bread.md` | `silent-vigil/iron-venus/sanctuary-smoke-and-bread/chapter.md` |
+| `record-drusus-elara.md` | `silent-vigil/iron-venus/record-drusus-elara/chapter.md` |
+| `record-varro-elara.md` | `silent-vigil/iron-venus/record-varro-elara/chapter.md` |
+| `README.md` | `silent-vigil/iron-venus/INDEX.md` |
 
 **Register annexes** (documentary — stay under `vexillum-register/` for now): [register-decima-malakor-justice.md](vexillum-register/register-decima-malakor-justice.md) · [memorandum-prima-rectification-precedent.md](vexillum-register/memorandum-prima-rectification-precedent.md)

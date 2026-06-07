@@ -2,7 +2,7 @@
 
 *Not for the open Reclusiam or the pulpit. Working memory of the Master of Chaplains. **178.M42** — written after consolidation of the Gate; memories describe events from **150.M42** onward.*
 
-*The objective outcome of the discovery on the Parapet and the first night in the kitchen remains canonical in [iron-venus.md](iron-venus.md). This text is complementary: voice, doctrinal silences, and reading of the invisible over time.*
+*The objective outcome of the discovery on the Parapet and the first night in the kitchen remains canonical in [iron-venus/chapter.md](../iron-venus/chapter.md). This text is complementary: voice, doctrinal silences, and reading of the invisible over time.*
 
 ---
 
@@ -106,4 +106,4 @@ If they seek the truth that even death needs **one flame** so as not to mistake 
 
 ---
 
-*Chain: see [record-drusus-elara.md](record-drusus-elara.md) (same frame, clinical voice).*
+*Chain: see [record-drusus-elara/chapter.md](../record-drusus-elara/chapter.md) (same frame, clinical voice).*

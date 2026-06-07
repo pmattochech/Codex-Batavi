@@ -2,7 +2,7 @@
 
 *Not for the formal *Apothecarion*. Working memory of the Chief Apothecary. **178.M42** — written after consolidation of the Gate; memories describe events from **150.M42** onward.*
 
-*The objective outcome of the discovery on the Parapet and the first night in the kitchen remains canonical in [iron-venus.md](iron-venus.md). This text is complementary: voice, conscious omissions, and clinical reading over time.*
+*The objective outcome of the discovery on the Parapet and the first night in the kitchen remains canonical in [iron-venus/chapter.md](../iron-venus/chapter.md). This text is complementary: voice, conscious omissions, and clinical reading over time.*
 
 ---
 
@@ -94,4 +94,4 @@ If this file is ever read by someone other than me, let them read it for what it
 
 ---
 
-*Chain: see [record-varro-elara.md](record-varro-elara.md) (same frame, doctrinal voice).*
+*Chain: see [record-varro-elara/chapter.md](../record-varro-elara/chapter.md) (same frame, doctrinal voice).*

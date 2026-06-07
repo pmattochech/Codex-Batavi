@@ -4,7 +4,7 @@
 
 **Hub:** [README.md](README.md) · **Staff:** [`master-chronology.md`](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · **Legacy redirects:** [`../06-silent-vigil/README.md`](../06-silent-vigil/README.md) · [`../legacy-map.md`](../legacy-map.md)
 
-**Parts / subsagas:** [`valerian-heresy/INDEX.md`](valerian-heresy/INDEX.md) *(placeholder name)* · [`corbec-ardens/INDEX.md`](corbec-ardens/INDEX.md) · [`viggo-the-heat-of-the-stone/INDEX.md`](viggo-the-heat-of-the-stone/INDEX.md)
+**Parts / subsagas:** [`valerian-heresy/INDEX.md`](valerian-heresy/INDEX.md) *(placeholder name)* · [`corbec-ardens/INDEX.md`](corbec-ardens/INDEX.md) · [`viggo-the-heat-of-the-stone/INDEX.md`](viggo-the-heat-of-the-stone/INDEX.md) · [`iron-venus/INDEX.md`](iron-venus/INDEX.md)
 
 ---
 
@@ -16,6 +16,7 @@
 | 2 | `decima-justice-vexillum` | *Decima Justice Vexillum* | [chapter.md](valerian-heresy/decima-justice-vexillum/chapter.md) |
 | — | *(Corbec subsaga)* | | [corbec-ardens/INDEX.md](corbec-ardens/INDEX.md) |
 | — | *(Viggo subsaga)* | | [viggo-the-heat-of-the-stone/INDEX.md](viggo-the-heat-of-the-stone/INDEX.md) |
+| — | *(Iron Venus subsaga)* | Elara arc **150–180.M42** | [iron-venus/INDEX.md](iron-venus/INDEX.md) |
 | 3 | `alabarda-to-relay` | *Alabarda to Relay* | [chapter.md](alabarda-to-relay/chapter.md) |
 | 4 | `strategium-silence` | *Strategium Silence* | [chapter.md](strategium-silence/chapter.md) |
 | 5 | `fracture-recognition` | *Fracture Recognition* | [chapter.md](fracture-recognition/chapter.md) |

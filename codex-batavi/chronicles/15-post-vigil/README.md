@@ -12,6 +12,6 @@
 
 **Chronology read order:** **180** (present lock) · **183** Wolf Ledger · **189** Red Harvest — idol escalation ladder.
 
-**Elara age ladder:** [07-iron-venus/README.md](../07-iron-venus/README.md)
+**Elara age ladder:** [silent-vigil/iron-venus/INDEX.md](../silent-vigil/iron-venus/INDEX.md)
 
 **Hub:** [`../INDEX.md`](../INDEX.md)

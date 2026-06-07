@@ -38,31 +38,34 @@
 ## silent-vigil — The Silent Vigil
 *(050.M42 – 150.M42 — Castellan present, hollowed; Legati carry what Alaric cannot.)*
 
-**Hub:** [silent-vigil/README.md](silent-vigil/README.md) · **Read order:** [silent-vigil/INDEX.md](silent-vigil/INDEX.md) · **Legacy redirects:** [06-silent-vigil/README.md](06-silent-vigil/README.md) · [05-viggo-saga/README.md](05-viggo-saga/README.md) · [16-corbec-the-first-legatus/README.md](16-corbec-the-first-legatus/README.md)
+**Hub:** [silent-vigil/README.md](silent-vigil/README.md) · **Read order:** [silent-vigil/INDEX.md](silent-vigil/INDEX.md) · **Legacy redirects:** [06-silent-vigil/README.md](06-silent-vigil/README.md) · [05-viggo-saga/README.md](05-viggo-saga/README.md) · [16-corbec-the-first-legatus/README.md](16-corbec-the-first-legatus/README.md) · [07-iron-venus/README.md](07-iron-venus/README.md)
 
 **Parts / subsagas:**
 
 - **valerian-heresy** *(placeholder name):* [valerian-heresy/INDEX.md](silent-vigil/valerian-heresy/INDEX.md) — Malakor V · *Decima* justice cloth
 - **corbec-ardens:** [corbec-ardens/INDEX.md](silent-vigil/corbec-ardens/INDEX.md) — First Legatus witness lattice
 - **viggo-the-heat-of-the-stone:** [viggo-the-heat-of-the-stone/INDEX.md](silent-vigil/viggo-the-heat-of-the-stone/INDEX.md) — Garmr's Shelf · ~055.M42
+- **iron-venus:** [iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md) — Elara Solis · parapet **150.M42** → Outer Gate **180.M42**
 
 **Main serial:** see [silent-vigil/INDEX.md](silent-vigil/INDEX.md) for full read-order table.
 
-## 07-iron-venus
+**Legacy redirect:** [silent-vigil/iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md) *(subsaga moved May 2026)*
 
-**Hub:** [07-iron-venus/README.md](07-iron-venus/README.md) — Elara age ladder (parapet **150.M42** anchor).
+## 07-iron-venus *(legacy — see silent-vigil/iron-venus)*
 
-- [iron-venus.md](07-iron-venus/iron-venus.md) — aggregated block (short merged H1s: *The End of the Vigil*, Tyvar, Aethelgard, etc.)
-- [sanctuary-smoke-and-bread.md](07-iron-venus/sanctuary-smoke-and-bread.md)
-- [wolf-daughter.md](07-iron-venus/wolf-daughter.md) ✅ — Iron Venus arc. **165.M42** Wooden Sword (~**15**); Tobias (~**170.M42**); consecration ~**174**; **180.M42** Outer Gate present lock in epilogue. **Age ladder:** [07-iron-venus/README.md](07-iron-venus/README.md).
+**Hub:** [silent-vigil/iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md) — Elara age ladder (parapet **150.M42** anchor). **Tombstone:** [silent-vigil/iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md).
+
+- [iron-venus/chapter.md](silent-vigil/iron-venus/iron-venus/chapter.md) — parapet adoption · kitchen · naming (**150.M42**)
+- [sanctuary-smoke-and-bread/chapter.md](silent-vigil/iron-venus/sanctuary-smoke-and-bread/chapter.md) — present-era Martha kitchen
+- [wolf-daughter/chapter.md](silent-vigil/iron-venus/wolf-daughter/chapter.md) ✅ — Iron Venus arc. **165.M42** Wooden Sword (~**15**); Tobias (~**170.M42**); consecration ~**174**; **180.M42** Outer Gate present lock in epilogue.
 - **Parapet — personal records (Drusus + Varro), frame 178.M42**
-  - [record-drusus-elara.md](07-iron-venus/record-drusus-elara.md) ✅ — clinical voice; retroactive wall log + live room (*Apothecarion*); snarl, telemetry, calibrated gestures; two patients; Varro / purpose–fear; kitchen (thermal anchor, name, decibels, cortisol); growth (checkups, touch on the white sleeve, parapet, tear / Primarch recalibration); 165.M42; Tobias, antechamber (BP / pupil); Academy as load; close 178.M42.
-  - [record-varro-elara.md](07-iron-venus/record-varro-elara.md) ✅ — doctrinal voice; arrival at the *Apothecarion* (snarl, *vox* to Drusus, anchoring, fear vs. purpose); Triumvirate; kitchen, name **Elara Solis**, growth beats (sleep, helm, parapet); 165.M42; Tobias; Naval Academy through reports; Malakor / close 178.M42.
-  - *Note:* records are **retrospective**, not fiction locked to a single instant; canonical Parapet / kitchen scene in [iron-venus.md](07-iron-venus/iron-venus.md). See [dossier-elara-solis.md](../personae-command-index/character-dossiers/mortals/dossier-elara-solis.md).
+  - [record-drusus-elara/chapter.md](silent-vigil/iron-venus/record-drusus-elara/chapter.md) ✅ — clinical voice; retroactive wall log + live room (*Apothecarion*); snarl, telemetry, calibrated gestures; two patients; Varro / purpose–fear; kitchen (thermal anchor, name, decibels, cortisol); growth (checkups, touch on the white sleeve, parapet, tear / Primarch recalibration); 165.M42; Tobias, antechamber (BP / pupil); Academy as load; close 178.M42.
+  - [record-varro-elara/chapter.md](silent-vigil/iron-venus/record-varro-elara/chapter.md) ✅ — doctrinal voice; arrival at the *Apothecarion* (snarl, *vox* to Drusus, anchoring, fear vs. purpose); Triumvirate; kitchen, name **Elara Solis**, growth beats (sleep, helm, parapet); 165.M42; Tobias; Naval Academy through reports; Malakor / close 178.M42.
+  - *Note:* records are **retrospective**, not fiction locked to a single instant; canonical Parapet / kitchen scene in [iron-venus/chapter.md](silent-vigil/iron-venus/iron-venus/chapter.md). See [dossier-elara-solis.md](../personae-command-index/character-dossiers/mortals/dossier-elara-solis.md).
 
 ## 17-guilliman-notes
 
-*(Regent encounter register — Guilliman POV serial; prose without saga H1 lock. **~051–120.M42** staff band; **165.M42** public yard beat is separate — [wolf-daughter.md](07-iron-venus/wolf-daughter.md).)*
+*(Regent encounter register — Guilliman POV serial; prose without saga H1 lock. **~051–120.M42** staff band; **165.M42** public yard beat is separate — [wolf-daughter/chapter.md](silent-vigil/iron-venus/wolf-daughter/chapter.md).)*
 
 **Hub:** [17-guilliman-notes/README.md](17-guilliman-notes/README.md)
 
@@ -86,7 +89,7 @@
 - [diplomacy-aethelgard.md](08-audit-diplomacy/diplomacy-aethelgard.md)
 - [dragon-in-the-hearth-tushan.md](08-audit-diplomacy/dragon-in-the-hearth-tushan.md)
 - [gray-silence-of-fenris.md](08-audit-diplomacy/gray-silence-of-fenris.md)
-- [helbrecht-witness-ford-meeting.md](08-audit-diplomacy/helbrecht-witness-ford-meeting.md) ✅ — **096.M42 | Silent Vigil.** First Helbrecht–Alaric meeting at **Witness Ford**; Templar crusade, xenos attack at the choke, *We hold*; faith vs. geometry; echoes in [wolf-daughter.md](07-iron-venus/wolf-daughter.md) (165.M42).
+- [helbrecht-witness-ford-meeting.md](08-audit-diplomacy/helbrecht-witness-ford-meeting.md) ✅ — **096.M42 | Silent Vigil.** First Helbrecht–Alaric meeting at **Witness Ford**; Templar crusade, xenos attack at the choke, *We hold*; faith vs. geometry; echoes in [wolf-daughter/chapter.md](silent-vigil/iron-venus/wolf-daughter/chapter.md) (165.M42).
 - [witness-ford-octava.md](14-vexillum-chronicles/witness-ford-octava.md) — **VIII** *Octava* / *Alabarda* field 4 lens: **Ivar Malevent**, ford net, nested fire with Black Templars; companion to *helbrecht-witness-ford-meeting*.
 
 ## 09-frontier-life
@@ -121,7 +124,7 @@
 
 Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in Vigilax public records). No Elara (not yet born).
 
-**Helbrecht / Witness Ford:** first meeting in the Vigil — [helbrecht-witness-ford-meeting.md](08-audit-diplomacy/helbrecht-witness-ford-meeting.md) (**096.M42**). Second meeting in [wolf-daughter.md](07-iron-venus/wolf-daughter.md) (165.M42, with Guilliman and Calgar).
+**Helbrecht / Witness Ford:** first meeting in the Vigil — [helbrecht-witness-ford-meeting.md](08-audit-diplomacy/helbrecht-witness-ford-meeting.md) (**096.M42**). Second meeting in [wolf-daughter/chapter.md](silent-vigil/iron-venus/wolf-daughter/chapter.md) (165.M42, with Guilliman and Calgar).
 
 ---
 
@@ -153,7 +156,7 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 
 **Span:** post–Silent Vigil maturity on **Noviomagus** and mesh-internal law. Hub: [15-post-vigil/README.md](15-post-vigil/README.md).
 
-- [outer-gate-consolidation.md](15-post-vigil/outer-gate-consolidation.md) — **180.M42** *(present staff lock)*. Elara Outer Gate fleet; Vane final audit neutralized; **Witness Ford** **Theta-Nine** / **Kappa-Three** / **Lambda-Two** cycles; **Jonas** strikes *Solis Gate* rename; shadow-hold channel doctrine. *See* [07-iron-venus/README.md](07-iron-venus/README.md).
+- [outer-gate-consolidation.md](15-post-vigil/outer-gate-consolidation.md) — **180.M42** *(present staff lock)*. Elara Outer Gate fleet; Vane final audit neutralized; **Witness Ford** **Theta-Nine** / **Kappa-Three** / **Lambda-Two** cycles; **Jonas** strikes *Solis Gate* rename; shadow-hold channel doctrine. *See* [iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md).
 - [ferrum-secondus-wolf-ledger.md](15-post-vigil/ferrum-secondus-wolf-ledger.md) — **~183.M42**. Ferrum-Secondus Castellan-idol drift — **Branimir** / Silence surgical correction; **Vhal** Arbites co-supervision (**FS-183-041**); day-120 standing lattice + **amber** chalk foreshadow; Alaric refuses civic crown scroll. *Precursor:* [hive-vespera-red-harvest.md](15-post-vigil/hive-vespera-red-harvest.md).
 - [hive-vespera-red-harvest.md](15-post-vigil/hive-vespera-red-harvest.md) — **~189.M42**. Hive Vespera secession: rebels reject Terra while declaring Alaric rightful ruler. **Corbec** / full *Prima* lower-hive purge lattice; **Alaric** upper spire house judgment; zero clemency, servitorization, penal normalization. *See* [master-chronology.md](../personae-command-index/events-and-chronologies/master-chronology.md) §VI.
 

@@ -4,7 +4,7 @@
 
 **Imperial span:** **~051.M42 – ~120.M42** (post–*Limes Lupus* Regent audit through Silent Vigil). Dates are **staff filing bands**, not stamped in every file.
 
-**Not in this serial:** the **165.M42** public yard inspection (*The Wooden Sword*) — [wolf-daughter.md](../07-iron-venus/wolf-daughter.md) with Calgar and Helbrecht.
+**Not in this serial:** the **165.M42** public yard inspection (*The Wooden Sword*) — [wolf-daughter.md](../silent-vigil/iron-venus/wolf-daughter/chapter.md) with Calgar and Helbrecht.
 
 ---
 
@@ -34,7 +34,7 @@
 | Topic | File |
 |-------|------|
 | Collar treaty ratification | [legislative-chronology.md](../../personae-command-index/events-and-chronologies/legislative-chronology.md) §II · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §III |
-| Public Regent yard beat | [wolf-daughter.md](../07-iron-venus/wolf-daughter.md) (**165.M42**) |
+| Public Regent yard beat | [wolf-daughter.md](../silent-vigil/iron-venus/wolf-daughter/chapter.md) (**165.M42**) |
 | Helbrecht first measure | [helbrecht-witness-ford-meeting.md](../08-audit-diplomacy/helbrecht-witness-ford-meeting.md) (**096.M42**) |
 
 **Hub:** [`../INDEX.md`](../INDEX.md) § **17-guilliman-notes**
