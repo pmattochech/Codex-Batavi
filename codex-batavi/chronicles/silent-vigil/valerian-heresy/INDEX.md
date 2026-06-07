@@ -13,4 +13,4 @@
 
 **Corbec witness subsaga:** [../corbec-ardens/INDEX.md](../corbec-ardens/INDEX.md)
 
-**Staff / clinical:** [biologis-geometry-of-hatred.md](../../03-projection-aurea-codex-omega/biologis-geometry-of-hatred.md) · [spiritus-vertex-of-condemnation.md](../../03-projection-aurea-codex-omega/spiritus-vertex-of-condemnation.md)
+**Staff / clinical:** [biologis-geometry-of-hatred.md](../../projection-aurea-codex-omega/biologis-geometry-of-hatred/chapter.md) · [spiritus-vertex-of-condemnation.md](../../projection-aurea-codex-omega/spiritus-vertex-of-condemnation/chapter.md)

@@ -43,7 +43,7 @@
 
 * **Watch proof:** **Certified *Watch cycle*** — longest **solo** Watch extension in Legatus peer group (months exterior, weeks interior — **tithe / warp-leg skew** irrelevant to Watch certification; **frontier-native**).  
 * **Rise:** Promoted after **simulated** Shouter collapse exercise proved previous Legatus **overcommitted** kill ratio and **lost** antenna integrity; Vetra’s solution was **uglier** and **lived**.  
-* **140.M42 | Silent Hours:** Held **Vacuum Shouter** relay and laser farm through Maleventum-class EM storm; preemptive scorch on coupling bay; minimal-power pulse acknowledged by Noviomagus; twenty-seven *Nona* battle-brothers killed; certified *Alabarda* **field 4**. Narrative: [silent-hours-marco-de-vetra.md](../../../chronicles/14-vexillum-chronicles/silent-hours-marco-de-vetra.md) · [aar-vex-ix-silent-hours.md](../../../chronicles/vexillum-register/aar-vex-ix-silent-hours.md).
+* **140.M42 | Silent Hours:** Held **Vacuum Shouter** relay and laser farm through Maleventum-class EM storm; preemptive scorch on coupling bay; minimal-power pulse acknowledged by Noviomagus; twenty-seven *Nona* battle-brothers killed; certified *Alabarda* **field 4**. Narrative: [silent-hours-marco-de-vetra.md](../../../chronicles/vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) · [aar-vex-ix-silent-hours.md](../../../chronicles/vexillum-register/aar-vex-ix-silent-hours.md).
 
 ---
 
@@ -59,4 +59,4 @@
 
 POV for **relay horror**, **delay tactics**, **Threshold** sacrifice stories, and **macro** Chapter wake-up calls. High leverage for apocalypse-tier invasions. **Legatus Ring:** command virtue **ugly solutions that live**; failure-risk **misreading Castellan suppression as jamming and false-escalating Tier II**.
 
-**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §11; [silent-hours-marco-de-vetra.md](../../../chronicles/14-vexillum-chronicles/silent-hours-marco-de-vetra.md) (**140.M42**, *Nona* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.9; [master-chronology.md](../../events-and-chronologies/master-chronology.md) (**Threshold** / **Witness Ford** mesh); [06-post-voices-legatus-ring.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §11; [silent-hours-marco-de-vetra.md](../../../chronicles/vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) (**140.M42**, *Nona* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.9; [master-chronology.md](../../events-and-chronologies/master-chronology.md) (**Threshold** / **Witness Ford** mesh); [06-post-voices-legatus-ring.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).

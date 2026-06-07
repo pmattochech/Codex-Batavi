@@ -62,7 +62,7 @@
 
 POV: **Neophyte** before the **sarcophagus**; **promotion** **salute**; **siege** **wake** — or **tight** **OOC** **interior** **dread** **if** you **ever** go **subjective** (sparingly; **song-like** **texture** for **reader** **only**).
 
-**Cross-references:** [dossier-alaric.md](../triumvirate/dossier-alaric.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) (*Sexta* / siege); [technical-datasheet.md](../../doctrine-and-organs/technical-datasheet.md) (neophyte **truth** rites). [biologis-iron-mitosis.md](../../../chronicles/02-biologis-spiritus-foundation/biologis-iron-mitosis.md) — *Dreadnought* **warm** echo. [projection-aurea-wolfs-curse.md](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) (progenoid **economy**, Dreadnought **edge** **case**); [frontier-wolf-rite.md](../../doctrine-and-organs/frontier-wolf-rite.md) (Versibar = **no** harvest).
+**Cross-references:** [dossier-alaric.md](../triumvirate/dossier-alaric.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) (*Sexta* / siege); [technical-datasheet.md](../../doctrine-and-organs/technical-datasheet.md) (neophyte **truth** rites). [biologis-iron-mitosis.md](../../../chronicles/biologis-spiritus-foundation/biologis-iron-mitosis/chapter.md) — *Dreadnought* **warm** echo. [projection-aurea-wolfs-curse.md](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) (progenoid **economy**, Dreadnought **edge** **case**); [frontier-wolf-rite.md](../../doctrine-and-organs/frontier-wolf-rite.md) (Versibar = **no** harvest).
 
 ---
 

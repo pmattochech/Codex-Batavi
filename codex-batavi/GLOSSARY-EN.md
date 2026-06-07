@@ -7,13 +7,13 @@ Use when writing or editing English prose. Extend as you go.
 | Wolf's Curse | Three stages: Furor, Exanimus, Execratio |
 | **Iron Protocol** | Battle motto: *We hold.* |
 | **Faith Protocol** | Formal litany: *The Emperor dictates, we comply.* |
-| ***Quinta* cadence** (assault / Aethelgard) | *We hold, as the Needles hold the cold tide.* — vexillatio answer to Iron Protocol; first documented **074.M42**, Moraine-Nine ([`dreadwolf-red-tide.md`](chronicles/14-vexillum-chronicles/dreadwolf-red-tide.md)) |
-| **Einar Dreadwolf** | **Steppenwolf** (detached registry) + **first of The Lost** (*Amissi*); Lieutenant (**KIA 168.M42** Luna Sigma); capture **074.M42**; arc: [`dreadwolf-kzorns-maw.md`](chronicles/14-vexillum-chronicles/dreadwolf-kzorns-maw.md) → [`dreadwolf-red-tide.md`](chronicles/14-vexillum-chronicles/dreadwolf-red-tide.md) → [`dreadwolf-terminus.md`](chronicles/14-vexillum-chronicles/dreadwolf-terminus.md) |
+| ***Quinta* cadence** (assault / Aethelgard) | *We hold, as the Needles hold the cold tide.* — vexillatio answer to Iron Protocol; first documented **074.M42**, Moraine-Nine ([`dreadwolf-red-tide.md`](chronicles/vexillum-chronicles/dreadwolf-red-tide/chapter.md)) |
+| **Einar Dreadwolf** | **Steppenwolf** (detached registry) + **first of The Lost** (*Amissi*); Lieutenant (**KIA 168.M42** Luna Sigma); capture **074.M42**; arc: [`dreadwolf-kzorns-maw.md`](chronicles/vexillum-chronicles/dreadwolf-kzorns-maw/chapter.md) → [`dreadwolf-red-tide.md`](chronicles/vexillum-chronicles/dreadwolf-red-tide/chapter.md) → [`dreadwolf-terminus.md`](chronicles/vexillum-chronicles/dreadwolf-terminus/chapter.md) |
 | **The Lost (*Amissi*)** | Small **Vermilion** detachment — **Exanimus** brothers who cannot hold stable ordinary command; **Varro** direct authority (Death Company analogue); **not** a cohort; founding exemplar **Einar** (registry stack with **Steppenwolf**) — [`amissi-the-lost.md`](personae-command-index/doctrine-and-organs/amissi-the-lost.md) |
 | **Thunder-claws (*ungues fulminis*)** | Noviomagus compact **lightning claws** — dorsal blades, **free fingers**; *Amissi* / Shadows family — [`einar-thunder-claws-reference.md`](lore-images/einar-thunder-claws-reference.md) |
 | **Gaine digitale** | Fingertip **sheaths** for Exanimus keratin — **trimming waived** while worn; paired with thunder-claws on *Amissi* rig |
-| ***Spina Cineris*** | Subcranial terminis pin — **molecular destabilization** + collar seal; **Brass-denial**; **168.M42** ([`dreadwolf-terminus.md`](chronicles/14-vexillum-chronicles/dreadwolf-terminus.md)) |
-| **Molecular destabilization charge** | Noviomagus purge ordnance — bounded volume unmade to **ash/slag**; macro [`tithe-of-the-rejected.md`](chronicles/09-frontier-life/tithe-of-the-rejected.md); micro ***Spina Cineris*** |
+| ***Spina Cineris*** | Subcranial terminis pin — **molecular destabilization** + collar seal; **Brass-denial**; **168.M42** ([`dreadwolf-terminus.md`](chronicles/vexillum-chronicles/dreadwolf-terminus/chapter.md)) |
+| **Molecular destabilization charge** | Noviomagus purge ordnance — bounded volume unmade to **ash/slag**; macro [`tithe-of-the-rejected.md`](chronicles/frontier-life/tithe-of-the-rejected/chapter.md); micro ***Spina Cineris*** |
 | Cohors Batavorum / Batavian Iron-Guard | Chapter identity; motto *Unbent* |
 | **Batavi** vs **Batavian** | **Batavi** for marines and concrete things (*a Batavi battle-brother, Batavi Terminator*). **Batavian** for abstractions (*Batavian logic, Batavian geometry, Batavian Iron-Guard*). |
 | Castellan | Alaric’s role as Chapter Master |
@@ -57,7 +57,7 @@ Use when writing or editing English prose. Extend as you go.
 | **Versibar** | Execratio war-form. Plural **Versibars**. |
 | **Valerian Heresy** | Formal name for **Valerius** treason and **I** *Prima* rot (**Malakor V**, 050.M42); ~**300** Chapter losses (**KIA** / **Versibar**, theater-wide); **five** lawful *Prima* **witnesses**; leaves **~200** **Firstboot** core — see [`master-chronology.md`](personae-command-index/events-and-chronologies/master-chronology.md), [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md). |
 | **Reading B** (*Medicinae*) | **Malakor-era** filing split: **conflict-hour** **Versibar** manifests **separate** ledger from **pre-crisis** hold cohorts so rot-surge statistics do not absorb older cage-lineage data. |
-| **Cassian Vorn** (expunged) | Valerius’s **First Sword**; **second documented lucid Versibar** (weaker adjunct **Warp** latch than Valerius); internal **butcher** role during the rot; killed in wider **Malakor** geometry — [`dossier-valerius.md`](personae-command-index/character-dossiers/expunged/dossier-valerius.md) §§V–VII, [00-malakor-v.md](chronicles/06-silent-vigil/00-malakor-v.md). |
+| **Cassian Vorn** (expunged) | Valerius’s **First Sword**; **second documented lucid Versibar** (weaker adjunct **Warp** latch than Valerius); internal **butcher** role during the rot; killed in wider **Malakor** geometry — [`dossier-valerius.md`](personae-command-index/character-dossiers/expunged/dossier-valerius.md) §§V–VII, [00-malakor-v.md](chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md). |
 | ***Adversarii at Portas*** | **Black Cell** terminal protocol: **Versibars** as area denial when defeat is certain. **Battlefield** first documented at **Malakor V** — *the Cull* + **Alpha**-vectored **loyal Versibars** vs traitors; not indiscriminate **Portas** — encyclopedia **Exanimus Testament** block. |
 | **Batav Wolf** | Common name for ***Canis Batavorum***; natives: **the Batav** (*Der Batav* in myth). **Not** Fenrisian **Thunderwolf**. Species note: [`batav-wolf-canis-batavorum.md`](biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md). |
 | **Steppenwolf** / **Steppenwolves** | Battle-brother who stays **lawful Chapter strength** while operating **outside** the home **Vexillatio** rhythm — lattice **over-sharpens** his chimeric predisposition / *Furor* mesh; **distance** often reads **more stable**. **Not** exile; *Strategium* **alternate appliance**. **Watch numbers:** **exception ledger** — not counted against the **capped voluntary rotation pool** ([`deathwatch-and-batavorum.md`](political-relations/deathwatch-and-batavorum.md) §4). **Frontier-native:** sworn inside the mesh; **service age** tracks **CV** / Strategium annals while **tithe ~M42** and **warp-leg** logs may **skew** — **no** subsetor **dome-aging** or **exit ricochet** as default physics ([`master-chronology.md`](personae-command-index/events-and-chronologies/master-chronology.md) addendum). Common pattern: **perpetual Deathwatch** with scheduled returns for **brief** + **Rites of Participation and Regulation**; also rim / **Halo Stars** kill-teams (often **Shadows Cohort**). Etymology: **White Scars** exchange (Chogoris **off-pack** predator analogy). See [`steppenwolf-doctrine.md`](personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md). |
@@ -82,7 +82,7 @@ Use when writing or editing English prose. Extend as you go.
 | **Haruspicium Batavorum** | Librarian doctrine: geometric “reading” of the Warp as passive telemetry (rites framed as algorithm) |
 | **Batavian Haruspex** / **Batavian Haruspices** | Embedded *Librarium* psykers trained in Haruspicium Batavorum (five per Vexillatio) |
 | **Blindgate** | *Librarium* active protocol against directed mental attack (illusion, compulsion, intrusion); complements passive Haruspicium — see [`council-and-librarium.md`](personae-command-index/doctrine-and-organs/council-and-librarium.md) §2.2 |
-| **Broken Haruspicium** | Archival term for collapse of Haruspicium Batavorum when the categorization grid is consumed or voided by the phenomenon under read — first documented at scale **168.M42**, Battle of Luna Sigma ([`battle-of-sigma-moon.md`](chronicles/11-sigma-moon/battle-of-sigma-moon.md)) |
+| **Broken Haruspicium** | Archival term for collapse of Haruspicium Batavorum when the categorization grid is consumed or voided by the phenomenon under read — first documented at scale **168.M42**, Battle of Luna Sigma ([`battle-of-sigma-moon.md`](chronicles/sigma-moon/battle-of-sigma-moon/chapter.md)) |
 | Warp (EN) | **Warp** / **Immaterium** in prose |
 | **Faith of work** | Basal **Porta Nihili** mortal piety — honor the Emperor through **labor**, **seals**, **receipts**; see [porta-nihili-shared-vocabulary.md](lexicon-and-litanies/porta-nihili-shared-vocabulary.md) |
 | **Shift orthodoxy** | Moral correctness = **correct duty cycle** (timing, tally, maintenance) — same file |
@@ -106,13 +106,13 @@ Use when writing or editing English prose. Extend as you go.
 | Gate / Wall against the tide | Chapter role — **filter**, not galactic treasure door |
 | *Nihili Protocol* | Final containment: Blackstone Pylon cascade; Tyvar’s activation judgment (name **not** the subsector designation) |
 | ***Porta Nihili*** / **Loken Passage** | **Retired** — legacy chronicles only; do not use in new atlas/wiki prose |
-| **Bottle Fair** | Informal multi-world trade window (often **Golden Grain Station** / **Atlas** load-swap); **bottle creole** haggle — prose e.g. [bottle-fair-yarn.md](chronicles/09-frontier-life/bottle-fair-yarn.md) |
+| **Bottle Fair** | Informal multi-world trade window (often **Golden Grain Station** / **Atlas** load-swap); **bottle creole** haggle — prose e.g. [bottle-fair-yarn.md](chronicles/frontier-life/bottle-fair-yarn/chapter.md) |
 | *Vermilion* | File classification tier |
 | *Iron Belly* | *Bovine-Mass* freighter (legacy chronicle reference) |
 | *Hive Mind* / *Hive Fleet* | Standard Tyranid English |
 | Materials | **adamantium**, **plasteel**, **ceramite**, **promethium**, **ferrocrete** — prefer established 40k terms |
 
-**Ships / proper names:** *Gray Gargoyle* — cruiser ([`vigilax-incident.md`](chronicles/12-vigilax/vigilax-incident.md)). ***Wrath of Noviomagus*** — strike cruiser ([`viggo-saga.md`](chronicles/05-viggo-saga/viggo-saga.md)).
+**Ships / proper names:** *Gray Gargoyle* — cruiser ([`vigilax-incident.md`](chronicles/vigilax/vigilax-incident/chapter.md)). ***Wrath of Noviomagus*** — strike cruiser ([`viggo-saga.md`](chronicles/silent-vigil/viggo-the-heat-of-the-stone/viggo-saga/chapter.md)).
 
 **Forms of address:** Tobias Solis — **Master Tobias** in English chronicles.
 

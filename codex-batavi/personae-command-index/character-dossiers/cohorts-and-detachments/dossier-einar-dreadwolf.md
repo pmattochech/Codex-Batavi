@@ -67,12 +67,12 @@
 * **Rise:** Needles shore tribes → *Quinta* assault line; **century** of service held at **Furor** only. *Strategium* and *Medicinae* filed him **Steppenwolf** early — **V** *Quinta* lattice **over-sharpened** his predisposition; stability tracked on **detached** kill-geometry (Needles relays, reef corridors, long *vox* silence), not garrison pack rhythm. He is **not** a generic Steppenwolf: he is the **first** brother on detached registry later inducted as **first of The Lost** — see [steppenwolf-doctrine.md](../../doctrine-and-organs/steppenwolf-doctrine.md) §5.1.  
 * **Closest bond:** **Armin Sturmwahl** — jump-qualified friendship; Sturmwahl’s only recorded **hesitation** before a cull stroke. **Amissi** transfer removes standing Legatus ownership; bond remains personal.  
 * **074.M42 | Shepherd’s Hook → *Kzorn’s Maw* → Moraine-Nine:**  
-  * **Capture:** **V** *Quinta* squad (twelve) overrun at tide relay. Narrative: [dreadwolf-kzorns-maw.md](../../../chronicles/14-vexillum-chronicles/dreadwolf-kzorns-maw.md) · recovery: [dreadwolf-red-tide.md](../../../chronicles/14-vexillum-chronicles/dreadwolf-red-tide.md).  
+  * **Capture:** **V** *Quinta* squad (twelve) overrun at tide relay. Narrative: [dreadwolf-kzorns-maw.md](../../../chronicles/vexillum-chronicles/dreadwolf-kzorns-maw/chapter.md) · recovery: [dreadwolf-red-tide.md](../../../chronicles/vexillum-chronicles/dreadwolf-red-tide/chapter.md).  
   * **Conscious Nails;** eleven mercy-killed aboard ship; **forced first Exanimus** on crash.  
   * **Recovery:** Cull **withheld** after salute + ***Quinta* cadence**.  
   * **After:** Inducted **The Lost** (*Amissi*) — **first of The Lost**; **Steppenwolf** filing **retained** on detached registry (Judex watch supersedes ordinary Legatus slate, not distance geometry). **Varro** direct authority; *Vermilion* — *In watch. Under the Deathwolf’s jaws. No soul-name. No precedent. No cult.*  
-* **074–167.M42 | *Amissi* service:** Small-pool deployments with Judex; refit armor and **Dreadwolf Claws** retained (purified and re-wrought); ***Spina Cineris*** maintained by **Drusus**. Legend vignette (reef cult / **Slaughterbound**): [dreadwolf-precipitation.md](../../../chronicles/14-vexillum-chronicles/dreadwolf-precipitation.md).  
-* **168.M42 | Luna Sigma — terminis:** [dreadwolf-terminus.md](../../../chronicles/14-vexillum-chronicles/dreadwolf-terminus.md) · [battle-of-sigma-moon.md](../../../chronicles/11-sigma-moon/battle-of-sigma-moon.md).
+* **074–167.M42 | *Amissi* service:** Small-pool deployments with Judex; refit armor and **Dreadwolf Claws** retained (purified and re-wrought); ***Spina Cineris*** maintained by **Drusus**. Legend vignette (reef cult / **Slaughterbound**): [dreadwolf-precipitation.md](../../../chronicles/vexillum-chronicles/dreadwolf-precipitation/chapter.md).  
+* **168.M42 | Luna Sigma — terminis:** [dreadwolf-terminus.md](../../../chronicles/vexillum-chronicles/dreadwolf-terminus/chapter.md) · [battle-of-sigma-moon.md](../../../chronicles/sigma-moon/battle-of-sigma-moon/chapter.md).
 
 ---
 
@@ -95,7 +95,7 @@
 | **Marine visage** | **Holds chains** — tripartite bind |
 | **Liturgy** | **No soul-name** |
 
-See [`projection-aurea-wolfs-curse.md`](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §C; [`varro-anima-speculum.md`](../../../chronicles/05-viggo-saga/varro-anima-speculum.md).
+See [`projection-aurea-wolfs-curse.md`](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §C; [`varro-anima-speculum.md`](../../../chronicles/silent-vigil/viggo-the-heat-of-the-stone/varro-anima-speculum/chapter.md).
 
 ---
 
@@ -103,4 +103,4 @@ See [`projection-aurea-wolfs-curse.md`](../../../biological-encyclopedia-bestiar
 
 POV for **Nails + Wolf’s Curse**, **Amissi** detachment, **almost-cull**, **Brass-denial terminis**. **Chronological blindness:** pre–048.M42 — no **Strand α/β** labels in dialogue.
 
-**Cross-reference:** [amissi-the-lost.md](../../doctrine-and-organs/amissi-the-lost.md) · [steppenwolf-doctrine.md](../../doctrine-and-organs/steppenwolf-doctrine.md) §5.1 · [dossier-armin-sturmwahl.md](../legati/dossier-armin-sturmwahl.md) · [dossier-varro.md](../triumvirate/dossier-varro.md) · [master-chronology.md](../../events-and-chronologies/master-chronology.md) §IV · §VI · [dreadwolf-terminus.md](../../../chronicles/14-vexillum-chronicles/dreadwolf-terminus.md).
+**Cross-reference:** [amissi-the-lost.md](../../doctrine-and-organs/amissi-the-lost.md) · [steppenwolf-doctrine.md](../../doctrine-and-organs/steppenwolf-doctrine.md) §5.1 · [dossier-armin-sturmwahl.md](../legati/dossier-armin-sturmwahl.md) · [dossier-varro.md](../triumvirate/dossier-varro.md) · [master-chronology.md](../../events-and-chronologies/master-chronology.md) §IV · §VI · [dreadwolf-terminus.md](../../../chronicles/vexillum-chronicles/dreadwolf-terminus/chapter.md).

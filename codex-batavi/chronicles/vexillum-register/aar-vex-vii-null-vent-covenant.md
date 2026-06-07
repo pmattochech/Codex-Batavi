@@ -5,7 +5,7 @@
 **Date:** 112.M42  
 **Unit:** **VII** *Septima* (full Vexillatio; *Armourium* plasma auditors embedded)
 
-**Full chronicle:** [null-vent-covenant.md](../14-vexillum-chronicles/null-vent-covenant.md)
+**Full chronicle:** [null-vent-covenant.md](../vexillum-chronicles/null-vent-covenant/chapter.md)
 
 ---
 

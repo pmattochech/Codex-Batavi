@@ -43,7 +43,7 @@
 
 * **Watch proof:** **Certified *Watch cycle*** completed before *Sexta* confirmation — includes at least one **void-station** siege rotation (file sealed).  
 * **Rise:** **Captain** during **dual-anchor** fortification crisis where both worlds’ skyhooks had to hold while a third failed; *Strategium* read his after-action as **textbook** *Friction Geometry* for gulf warfare.  
-* **098.M42 | Korvus twin breach:** Led **VI** *Sexta* simultaneous assault on Korvus-A vault and Korvus-B spine within one Strategium tick; tether preserved; 44 battle-brothers killed or incapacitated; certified *Alabarda* **field 4**. Narrative: [korvus-twin-breach.md](../../../chronicles/14-vexillum-chronicles/korvus-twin-breach.md) · [aar-vex-vi-korvus-breach.md](../../../chronicles/vexillum-register/aar-vex-vi-korvus-breach.md).
+* **098.M42 | Korvus twin breach:** Led **VI** *Sexta* simultaneous assault on Korvus-A vault and Korvus-B spine within one Strategium tick; tether preserved; 44 battle-brothers killed or incapacitated; certified *Alabarda* **field 4**. Narrative: [korvus-twin-breach.md](../../../chronicles/vexillum-chronicles/korvus-twin-breach/chapter.md) · [aar-vex-vi-korvus-breach.md](../../../chronicles/vexillum-register/aar-vex-vi-korvus-breach.md).
 
 ---
 
@@ -59,4 +59,4 @@
 
 POV for **siege**, **vault horror**, **Gravis meatgrinder**, and **stasis-adjacent** dread. Complements *Quarta* high-G static war (Branimir’s turf) at **macro** Legatus scale. **Legatus Ring:** command virtue **Gravis meatgrinder clarity**; failure-risk **slowing redundancy activation until physical breach confirms command inversion**.
 
-**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §8; [korvus-twin-breach.md](../../../chronicles/14-vexillum-chronicles/korvus-twin-breach.md) (**098.M42**, *Sexta* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.6; [06-post-voices-legatus-ring.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §8; [korvus-twin-breach.md](../../../chronicles/vexillum-chronicles/korvus-twin-breach/chapter.md) (**098.M42**, *Sexta* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.6; [06-post-voices-legatus-ring.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).

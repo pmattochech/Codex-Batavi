@@ -5,7 +5,7 @@
 **Unit:** **IV** *Quarta* (primary holding element; adjacent elements per *Strategium* trace)  
 **Classification:** Chapter — biological / tactical annex
 
-**Full chronicle:** [ruhe-defense.md](../14-vexillum-chronicles/ruhe-defense.md)
+**Full chronicle:** [ruhe-defense.md](../vexillum-chronicles/ruhe-defense/chapter.md)
 
 ---
 
@@ -21,7 +21,7 @@
 
 **IV** *Quarta* **anchored** — **heavy bolt rifles**, **missile** teams, **storm shield** locks on **choke** crests. Movement **minimized**; **gravitic boot** discipline enforced **hourly** (Legatus order — fatigue casualties unacceptable vs. **void** collapse).
 
-March of the Machine state (perfect-soldier **detachment** under veil) documented by *Medicinae* — **not** repeated in this AAR; see [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §III and [spiritus-broken-silence.md](../02-biologis-spiritus-foundation/spiritus-broken-silence.md).
+March of the Machine state (perfect-soldier **detachment** under veil) documented by *Medicinae* — **not** repeated in this AAR; see [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §III and [spiritus-broken-silence.md](../biologis-spiritus-foundation/spiritus-broken-silence/chapter.md).
 
 **Enemy:** Trygon **breach** attempt **collapsed** under **overlapping** AT and **melee** lock on **leading** organisms.
 

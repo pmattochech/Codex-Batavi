@@ -5,7 +5,7 @@
 **Date:** 140.M42  
 **Unit:** **IX** *Nona* (full Vexillatio)
 
-**Full chronicle:** [silent-hours-marco-de-vetra.md](../14-vexillum-chronicles/silent-hours-marco-de-vetra.md)
+**Full chronicle:** [silent-hours-marco-de-vetra.md](../vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md)
 
 ---
 

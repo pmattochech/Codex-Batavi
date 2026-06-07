@@ -95,7 +95,7 @@
 
 **Power gladius** remains issued and trained — *Second Blade* doctrine does not vanish on Aethelgard — but *Quinta* **line** culture treats the gladius as **finish** and the **chainsword** as **default** in assault manifests. **Power axes** and **heavy bolt pistols** share the same modal load as [frontier-patterns-primaris.md](frontier-patterns-primaris.md) (*Aethelgard-pattern*).
 
-**Legatus seat:** [dossier-armin-sturmwahl.md](../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md). **Field exemplum:** [gutgrind-descent.md](../chronicles/14-vexillum-chronicles/gutgrind-descent.md).
+**Legatus seat:** [dossier-armin-sturmwahl.md](../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md). **Field exemplum:** [gutgrind-descent.md](../chronicles/vexillum-chronicles/gutgrind-descent/chapter.md).
 
 ---
 

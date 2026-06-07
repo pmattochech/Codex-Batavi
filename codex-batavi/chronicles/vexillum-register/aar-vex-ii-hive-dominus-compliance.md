@@ -5,7 +5,7 @@
 **Unit:** **II** *Secunda* (full Vexillatio, Legatus command)  
 **Classification:** Chapter / *Strategium* — compliance under Castra Vetera mandate
 
-**Full chronicle:** [hive-dominus-compliance.md](../14-vexillum-chronicles/hive-dominus-compliance.md)
+**Full chronicle:** [hive-dominus-compliance.md](../vexillum-chronicles/hive-dominus-compliance/chapter.md)
 
 ---
 

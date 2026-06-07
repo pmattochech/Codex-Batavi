@@ -8,8 +8,8 @@
 
 ## 1. Purpose of this extract
 
-**Full chronicle (Castellan / Helbrecht / faith audit):** [helbrecht-witness-ford-meeting.md](../08-audit-diplomacy/helbrecht-witness-ford-meeting.md)  
-**VIII *Octava* / void net / field 4 lens (Legatus Malevent):** [witness-ford-octava.md](../14-vexillum-chronicles/witness-ford-octava.md)
+**Full chronicle (Castellan / Helbrecht / faith audit):** [helbrecht-witness-ford-meeting.md](../audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md)  
+**VIII *Octava* / void net / field 4 lens (Legatus Malevent):** [witness-ford-octava.md](../vexillum-chronicles/witness-ford-octava/chapter.md)
 
 This AAR isolates the certified void beat for *Alabarda* field 4.
 

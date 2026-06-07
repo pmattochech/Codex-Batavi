@@ -32,7 +32,7 @@
 
 **Symptom:** **Forge-throughput Ecclesiarchy** alliance (**Iron Zeal**) — priests in **coveralls**, communion at **stations** — outside missionaries read frontier **silence** as **atheism**; locals read **noise worship** as **theft of oxygen**.
 
-**Symptom:** **Batavi altitude** reads as **weather** — patrol geometry alters **market layout**, **fair seasons**, **silence festivals** — mortals adapt routes; **proximity substrata** absorbs habit **without** doctrinal pamphlets ([witness-inheritance-vignettes.md](../../chronicles/09-frontier-life/witness-inheritance-vignettes.md)).
+**Symptom:** **Batavi altitude** reads as **weather** — patrol geometry alters **market layout**, **fair seasons**, **silence festivals** — mortals adapt routes; **proximity substrata** absorbs habit **without** doctrinal pamphlets ([witness-inheritance-vignettes.md](../../chronicles/frontier-life/witness-inheritance-vignettes/chapter.md)).
 
 ---
 

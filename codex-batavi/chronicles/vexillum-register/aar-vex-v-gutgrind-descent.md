@@ -6,7 +6,7 @@
 **Unit:** **V** *Quinta* (full Vexillatio)  
 **Enemy:** Orks — Waaagh! splinter Gutgrind (scrap-spire fortress)
 
-**Full chronicle:** [gutgrind-descent.md](../14-vexillum-chronicles/gutgrind-descent.md)
+**Full chronicle:** [gutgrind-descent.md](../vexillum-chronicles/gutgrind-descent/chapter.md)
 
 ---
 

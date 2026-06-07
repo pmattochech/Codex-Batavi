@@ -8,7 +8,7 @@ Unlike children on other Imperial worlds, Martha’s brood was raised under “w
 
 **Age:** 34 years (4 years older than Elara Solis).  
 **Status:** Married to **Sarah**. They are parents of a 5-year-old boy, marking the start of the fortress’s new civil generation.  
-**Current role:** Senior auditor at one of Noviomagus Prime’s factories. **180.M42:** On audit rotation, supports **Elara** at Outer Gate band annex — struck Administratum *Solis Gate* rename on **Witness Ford** approach slate ([outer-gate-consolidation.md](../../../chronicles/15-post-vigil/outer-gate-consolidation.md)).  
+**Current role:** Senior auditor at one of Noviomagus Prime’s factories. **180.M42:** On audit rotation, supports **Elara** at Outer Gate band annex — struck Administratum *Solis Gate* rename on **Witness Ford** approach slate ([outer-gate-consolidation.md](../../../chronicles/post-vigil/outer-gate-consolidation/chapter.md)).  
 **Trait:** Alaric von Helis personally tested his capacity and knowledge before appointing him, applying the principle of putting the best resource in the right place. Jonas applies “friction logic” to ledgers to keep productive efficiency.
 
 ## 2\. Mara (The provider / Second mother)

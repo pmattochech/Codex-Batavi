@@ -126,13 +126,13 @@ Substitute inherits Tier A custody **minus** kill-route segments not briefed —
 
 **Triumvirate partial loss:** Varro-only or Drusus-only rules per `protocol-access-matrix.md` §4; both unavailable → Tyvar + Radulf + Corbec emergency Ring; Kadmos/Otho remain Tier B until Tier A reconstituted.
 
-*Narrative:* [`06-post-voices-legatus-ring.md`](../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md) · *Hub:* [`README.md`](../../chronicles/06-silent-vigil/README.md) (protocol arc origin).
+*Narrative:* [`06-post-voices-legatus-ring.md`](../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md) · *Hub:* [`README.md`](../../chronicles/silent-vigil/README.md) (protocol arc origin).
 
 ---
 
 ## 9. Cross-reference bundle
 
-- Chronicle hub: `../../chronicles/06-silent-vigil/README.md`
+- Chronicle hub: `../../chronicles/silent-vigil/README.md`
 - Access governance: `protocol-access-matrix.md`
 - Related pathology: `crimson-wolf-rubor-thermicus.md`
 - Command structure: `military-hierarchy.md`

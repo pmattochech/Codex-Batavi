@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, 4th Vexillatio (*Quarta*).  
 **Seat:** **Incus-Gravis sphere** (Tertius / Secundus jurisdiction) — high-gravity shingle seas, inverted hives, grav-locked trench war.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda Vexillum* (*Quarta* lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md). **Field 4:** **March defense** — static grav-locked line under Tyranid **Shadow in the Warp** ([ruhe-defense.md](../../../chronicles/14-vexillum-chronicles/ruhe-defense.md)).  
+**Bearer of:** *Alabarda Vexillum* (*Quarta* lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md). **Field 4:** **March defense** — static grav-locked line under Tyranid **Shadow in the Warp** ([ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md)).  
 **Apparent service age:** ~230–280 Terran years (estimate; frontier-native filing).
 
 ---
@@ -62,4 +62,4 @@
 
 POV for **high-G trench war**, **Tyranid veil holds**, **March-edge** coalition friction, and **rotation-table** drama on long sieges. Contrast to Branimir: Valestrand is **macro** governor; Branimir is **street/cataloguer** POV. **Legatus Ring:** command virtue **hold without liturgy**; failure-risk **treating Castellan absence as victory leave, not substitution chain**.
 
-**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §6; [ruhe-defense.md](../../../chronicles/14-vexillum-chronicles/ruhe-defense.md) · [aar-vex-iv-ruhe-defense.md](../../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md) · [disciplines-and-curia-vexilli.md](../../doctrine-and-organs/disciplines-and-curia-vexilli.md) · [dossier-branimir.md](../cohorts-and-detachments/dossier-branimir.md) · [master-chronology.md](../../events-and-chronologies/master-chronology.md) §III; [06-post-voices-legatus-ring.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §6; [ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md) · [aar-vex-iv-ruhe-defense.md](../../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md) · [disciplines-and-curia-vexilli.md](../../doctrine-and-organs/disciplines-and-curia-vexilli.md) · [dossier-branimir.md](../cohorts-and-detachments/dossier-branimir.md) · [master-chronology.md](../../events-and-chronologies/master-chronology.md) §III; [06-post-voices-legatus-ring.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).

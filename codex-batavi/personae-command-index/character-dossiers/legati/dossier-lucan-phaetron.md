@@ -43,7 +43,7 @@
 
 * **Watch proof:** **Certified *Watch cycle***; includes xenos engagements where **EM and thermal** signatures were the primary intelligence channel.  
 * **Rise:** **Lieutenant** fame from holding a **lens dock** against Drukhari raiders with **controlled** plasma bloom — *Strategium* noted **zero** catastrophic vent chain.  
-* **112.M42 | Null-Vent Covenant:** Led **VII** *Septima* containment of plasma/photonic cascade on Vitreus orbital plate Seven; manifold bled to vacuum ports; nineteen *Septima* battle-brothers killed; allied skitarii dead redacted under Mechanicus treaty; certified *Alabarda* **field 4**. Narrative: [null-vent-covenant.md](../../../chronicles/14-vexillum-chronicles/null-vent-covenant.md) · [aar-vex-vii-null-vent-covenant.md](../../../chronicles/vexillum-register/aar-vex-vii-null-vent-covenant.md).
+* **112.M42 | Null-Vent Covenant:** Led **VII** *Septima* containment of plasma/photonic cascade on Vitreus orbital plate Seven; manifold bled to vacuum ports; nineteen *Septima* battle-brothers killed; allied skitarii dead redacted under Mechanicus treaty; certified *Alabarda* **field 4**. Narrative: [null-vent-covenant.md](../../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md) · [aar-vex-vii-null-vent-covenant.md](../../../chronicles/vexillum-register/aar-vex-vii-null-vent-covenant.md).
 
 ---
 
@@ -59,4 +59,4 @@
 
 POV for **plasma discipline**, **photonic hellscapes**, and **Mechanicus tension**. Good technical voice without becoming a Techmarine. **Legatus Ring:** command virtue **punishes careless fire**; failure-risk **over-focusing material vent failure while command IFF collapses**.
 
-**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §9; [null-vent-covenant.md](../../../chronicles/14-vexillum-chronicles/null-vent-covenant.md) (**112.M42**, *Septima* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.7; [06-post-voices-legatus-ring.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).
+**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §9; [null-vent-covenant.md](../../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md) (**112.M42**, *Septima* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.7; [06-post-voices-legatus-ring.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).

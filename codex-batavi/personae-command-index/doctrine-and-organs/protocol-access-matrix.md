@@ -146,6 +146,6 @@ Substitute may not execute kill-route phases without **Drusus** briefing certifi
 ## 7. Cross-reference bundle
 
 - Primary doctrine: `contingency-axiom-lupus.md`
-- Chronicle hub: `../../chronicles/06-silent-vigil/README.md`
+- Chronicle hub: `../../chronicles/silent-vigil/README.md`
 - Related chain law: `military-hierarchy.md`
 - Validation chronicles: `../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md` · `../../chronicles/silent-vigil/decima-gatekeepers/chapter.md` · `../../chronicles/silent-vigil/protocol-forged-in-iron/chapter.md` · `../../chronicles/silent-vigil/war-game-black-mirror/chapter.md` · `../../chronicles/silent-vigil/proof-of-chain/chapter.md`

@@ -6,7 +6,7 @@
 **Unit:** **VI** *Sexta* (full Vexillatio; Siege division weighted)  
 **Enemy:** Heretic Astartes warband — unmarked plate, siege doctrine; public register carries no gene-line titling
 
-**Full chronicle:** [korvus-twin-breach.md](../14-vexillum-chronicles/korvus-twin-breach.md)
+**Full chronicle:** [korvus-twin-breach.md](../vexillum-chronicles/korvus-twin-breach/chapter.md)
 
 ---
 

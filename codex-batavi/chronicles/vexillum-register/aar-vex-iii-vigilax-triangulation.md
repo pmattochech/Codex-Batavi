@@ -9,12 +9,12 @@
 
 ## 1. Purpose of this extract
 
-Full narrative, witness testimony, and political aftermath: [vigilax-incident.md](../12-vigilax/vigilax-incident.md).
+Full narrative, witness testimony, and political aftermath: [vigilax-incident.md](../vigilax/vigilax-incident/chapter.md).
 
 This AAR isolates the **certified tactical beat** for ***Alabarda* field 4**.
 
-**Full chronicle (complete incident — Varro, Serragris, *Gray Gargoyle*):** [vigilax-incident.md](../12-vigilax/vigilax-incident.md)  
-**III *Tertia* / triangulation / field 4 lens (Legatus Brach + Drusus + Marna-Down):** [vigilax-triangulation.md](../14-vexillum-chronicles/vigilax-triangulation.md)
+**Full chronicle (complete incident — Varro, Serragris, *Gray Gargoyle*):** [vigilax-incident.md](../vigilax/vigilax-incident/chapter.md)  
+**III *Tertia* / triangulation / field 4 lens (Legatus Brach + Drusus + Marna-Down):** [vigilax-triangulation.md](../vexillum-chronicles/vigilax-triangulation/chapter.md)
 
 ## 2. Situation (summary)
 

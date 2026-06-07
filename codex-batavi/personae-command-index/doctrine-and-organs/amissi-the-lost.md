@@ -70,7 +70,7 @@ Admission is **rare** and **Vermilion**:
 2. **Free digits** — palm and fingers **articulated**; no power-fist bucket.  
 3. **Gaine digitale** — elongated fingertip **sheaths** (adamantium couplers); Exanimus keratin vents into channel — **trimming waived** while issued; *Medicinae* clears sheaths on schedule.
 
-**Visual reference (tooling, not canon geometry lock):** [`einar-thunder-claws-reference.md`](../../lore-images/einar-thunder-claws-reference.md)
+**Visual reference (tooling, not canon geometry lock):** [`einar-thunder-claws-reference.md`](../../lore-images/einar-thunder-claws-reference.md) *(Einar **Dreadwolf Claws** only; standard *Amissi* geometry remains §V above)*
 
 ---
 
@@ -87,6 +87,6 @@ Admission is **rare** and **Vermilion**:
 
 **168.M42 | Luna Sigma:** Subject KIA; ***Spina Cineris*** terminis; watch file closed. *Amissi* detachment continues under Varro; pool replenishment **case-by-case** only.
 
-**Hands (Einar exception):** **Dreadwolf Claws** — lightning claw pattern recovered aboard **Kzorn’s Maw** during capture; later **purified and re-wrought** under **Kadmos** with *Reclusiam* oversight (Varro/clergy) into Castra Vetera interface standards. Weapon silhouette retained as bestial talon-hand; corruption receipts denied.
+**Hands (Einar exception):** **Dreadwolf Claws** — open-hand assault lightning claws recovered aboard **Kzorn’s Maw** during capture; later **purified and re-wrought** under **Kadmos** with *Reclusiam* oversight (Varro/clergy) into Castra Vetera interface standards. **Wolverine geometry** — knuckle-coupled blades, extend/retract, fingers free; corruption receipts denied.
 
-Narrative: [dreadwolf-terminus.md](../../chronicles/14-vexillum-chronicles/dreadwolf-terminus.md).
+Narrative: [dreadwolf-terminus.md](../../chronicles/vexillum-chronicles/dreadwolf-terminus/chapter.md).

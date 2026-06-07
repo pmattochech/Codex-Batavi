@@ -30,7 +30,7 @@ She placed herself between Alaric and Guilliman, pointing the toy blade at the R
 
 Helbrecht’s hand went to his sword hilt, a conditioned reflex. Alaric stepped forward, ready to intercept a blow even from the Emperor’s son. But Guilliman raised a hand.
 
-*First Helbrecht–Alaric meeting at **Witness Ford** (Silent Vigil, 096.M42): see [helbrecht-witness-ford-meeting.md](../../../08-audit-diplomacy/helbrecht-witness-ford-meeting.md).*
+*First Helbrecht–Alaric meeting at **Witness Ford** (Silent Vigil, 096.M42): see [helbrecht-witness-ford-meeting.md](../../../audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md).*
 
 The Primarch looked at the girl, then at the wooden sword, then at the gray eyes blazing with protective ferocity.
 
@@ -122,10 +122,10 @@ By **180.M42**, **Elara Solis** — age thirty by parapet reckoning — commands
 
 In Martha’s kitchen she is still the girl who stole biscuits. **Jonas**, on audit rotation, strikes Administratum rename slates before choke geometry becomes **crowns**. On the command bridge she is the **Iron Venus** — **shadow hold** at the ford: present enough to deter, absent enough to avoid **idol**.
 
-**Inquisitor Vane’s** final subsector audit closed without Ordo escalation; **Tyvar**’s collar and Alaric’s wall remain the second arithmetic. Present-era chronicle: [outer-gate-consolidation.md](../../../15-post-vigil/outer-gate-consolidation.md). Age ladder: [INDEX.md](../INDEX.md).
+**Inquisitor Vane’s** final subsector audit closed without Ordo escalation; **Tyvar**’s collar and Alaric’s wall remain the second arithmetic. Present-era chronicle: [outer-gate-consolidation.md](../../../post-vigil/outer-gate-consolidation/chapter.md). Age ladder: [INDEX.md](../INDEX.md).
 
 She is the only living creature in the entire Nihilus Imperium who may enter the Astartes *Strategium* unannounced. She is the only person in the galaxy who can look at the **Versibar** in Alaric’s eyes and see only the protector who shielded her from the rain — **father-shaped** in her heart; **protector-filed** in his. She is the only one who can set a hand on Alaric von Helis’s pauldron and remind him that beneath ceramite and gene-craft the promise to a dead mason still holds: protect the pack, whatever the cost.
 
 ---
 
-**Staff filing:** Parapet **150.M42** = year 0 · **165** Wooden Sword (~**15**) · **~170** Tobias terminis (~**20**) · **~174** consecration (age **24**) · **180** Outer Gate lock (~**30**). Guilliman yard beat **not** in [17-guilliman-notes](../../../17-guilliman-notes/README.md) serial (public inspection vs private register).
+**Staff filing:** Parapet **150.M42** = year 0 · **165** Wooden Sword (~**15**) · **~170** Tobias terminis (~**20**) · **~174** consecration (age **24**) · **180** Outer Gate lock (~**30**). Guilliman yard beat **not** in [guilliman-notes](../../../guilliman-notes/README.md) serial (public inspection vs private register).
