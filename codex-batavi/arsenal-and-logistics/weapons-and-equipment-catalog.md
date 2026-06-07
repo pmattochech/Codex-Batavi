@@ -39,13 +39,13 @@ Cross-reference for armament cited outside the arsenal. Full narrative specifica
 |-------------|--------|-------|----------|
 | ***Absolution* bolt pistol** | Varro | Heavy drum; single shots (“sentence”). | [dossier-varro.md](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) §4 |
 | ***Morkai’s Bite*** | Alaric (gift from Logan Grimnar) | Great Wolf’s axe; one-handed use; Kraken / true ice. | [dossier-alaric.md](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) §5 |
-| **Bolt pistol** (diplomatic scene) | Ragnar Blackmane | Narrative use (mercy to the *runt*). | [viggo-saga.md](../chronicles/05-viggo-saga/viggo-saga.md) |
+| **Bolt pistol** (diplomatic scene) | Ragnar Blackmane | Narrative use (mercy to the *runt*). | [viggo-saga.md](../chronicles/silent-vigil/viggo-the-heat-of-the-stone/viggo-saga/chapter.md) |
 
 ## Field tactical designations (operational metaphor)
 
 | Term | Meaning | Where it appears |
 |------|---------|------------------|
-| **Pillars of Noviomagus** | Boots / traction claws — ground anchoring | Chronicles, [viggo-saga.md](../chronicles/05-viggo-saga/viggo-saga.md) |
+| **Pillars of Noviomagus** | Boots / traction claws — ground anchoring | Chronicles, [viggo-saga.md](../chronicles/silent-vigil/viggo-the-heat-of-the-stone/viggo-saga/chapter.md) |
 | **Gauntlet pair** | Left / right gauntlet (Alaric combat doctrine) | [dossier-alaric.md](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md), chronicles |
 
 ## Related

@@ -4,13 +4,13 @@
 **Date filed:** 051.M42 (supplement to 050.M42 event)  
 **Subject:** Heraldic justification for dominant charge — feral wolf slain by gladius
 
-**Full chronicle (commission, bearer, Graile echo):** [decima-justice-vexillum.md](../14-vexillum-chronicles/decima-justice-vexillum.md)
+**Full chronicle (commission, bearer, Graile echo):** [decima-justice-vexillum.md](../silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md)
 
 ---
 
 ## I. Referenced event
 
-**050.M42 | Malakor V** — execution of the First Legatus (Valerius, *Lupercal* claim) by Lord Castellan Alaric von Helis; Triumvirate witness geometry. Narrative: [00-malakor-v.md](../06-silent-vigil/00-malakor-v.md).
+**050.M42 | Malakor V** — execution of the First Legatus (Valerius, *Lupercal* claim) by Lord Castellan Alaric von Helis; Triumvirate witness geometry. Narrative: [../malakor-v/chapter.md](../silent-vigil/valerian-heresy/malakor-v/chapter.md).
 
 ## II. Register meaning (cloth)
 

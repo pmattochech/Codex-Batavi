@@ -36,46 +36,17 @@
 - [incus-gravis-campaign.md](04-incus-gravis-tribunal/incus-gravis-campaign.md)
 
 ## silent-vigil — The Silent Vigil
-*(050.M42 – 150.M42 — The Chapter operates under a Castellan who is present but hollowed out. The Legati carry what Alaric cannot carry.)*
+*(050.M42 – 150.M42 — Castellan present, hollowed; Legati carry what Alaric cannot.)*
 
-**Hub:** [silent-vigil/README.md](silent-vigil/README.md) · **Read order:** [silent-vigil/INDEX.md](silent-vigil/INDEX.md) · **Legacy redirect:** [06-silent-vigil/README.md](06-silent-vigil/README.md)
+**Hub:** [silent-vigil/README.md](silent-vigil/README.md) · **Read order:** [silent-vigil/INDEX.md](silent-vigil/INDEX.md) · **Legacy redirects:** [06-silent-vigil/README.md](06-silent-vigil/README.md) · [05-viggo-saga/README.md](05-viggo-saga/README.md) · [16-corbec-the-first-legatus/README.md](16-corbec-the-first-legatus/README.md)
 
-**Flat serial (slug tree — migrated May 2026):**
+**Parts / subsagas:**
 
-- [alabarda-to-relay/chapter.md](silent-vigil/alabarda-to-relay/chapter.md) ✅ — Alabarda postscript (conversion to relay).
-- [strategium-silence/chapter.md](silent-vigil/strategium-silence/chapter.md) ✅ — Strategium, Viggo as anchor, orders through the wolf, Alaric's collapse and Drusus's clinical discovery.
-- [fracture-recognition/chapter.md](silent-vigil/fracture-recognition/chapter.md) ✅ — sealed recognition phase: Varro + Drusus map post-second Red Wolf breach pattern.
-- [old-voices-council/chapter.md](silent-vigil/old-voices-council/chapter.md) ✅ — council ring session: Corbec + Armin support contingency codification.
-- [post-voices-legatus-ring/chapter.md](silent-vigil/post-voices-legatus-ring/chapter.md) ✅ — nine-seat Legatus Ring: dispute axes, Kessler dissent on record.
-- [decima-gatekeepers/chapter.md](silent-vigil/decima-gatekeepers/chapter.md) ✅ — Kadmos + Otho implementation phase: Decima lock discipline under Tyvar oversight.
-- [protocol-forged-in-iron/chapter.md](silent-vigil/protocol-forged-in-iron/chapter.md) ✅ — doctrine ratification and boundary disclosure to Alaric.
-- [war-game-black-mirror/chapter.md](silent-vigil/war-game-black-mirror/chapter.md) ✅ — controlled anti-Alpha validation exercise.
-- [proof-of-chain/chapter.md](silent-vigil/proof-of-chain/chapter.md) ✅ — live continuity test under controlled Castellan absence window.
-- [without-distinction/chapter.md](silent-vigil/without-distinction/chapter.md) ✅ — ca. 099.M42. Halvard, Legatus of the I Vexillatio. Post-battle protocol without celebration.
-- [last-heat-of-the-wall/chapter.md](silent-vigil/last-heat-of-the-wall/chapter.md) ✅ — Martha's kitchen, Elara childhood with Viggo, Viggo's death (~162.M42), Mantle of Providence.
+- **valerian-heresy** *(placeholder name):* [valerian-heresy/INDEX.md](silent-vigil/valerian-heresy/INDEX.md) — Malakor V · *Decima* justice cloth
+- **corbec-ardens:** [corbec-ardens/INDEX.md](silent-vigil/corbec-ardens/INDEX.md) — First Legatus witness lattice
+- **viggo-the-heat-of-the-stone:** [viggo-the-heat-of-the-stone/INDEX.md](silent-vigil/viggo-the-heat-of-the-stone/INDEX.md) — Garmr's Shelf · ~055.M42
 
-**Pending slug migration (same saga index):** *valerian-heresy* part · *corbec-ardens* · *viggo-the-heat-of-the-stone* subsagas — still at legacy paths until next commit. Malakor V: [00-malakor-v.md](06-silent-vigil/00-malakor-v.md).
-
-## 05-viggo-saga *(→ silent-vigil/viggo-the-heat-of-the-stone — pending)*
-
-- [viggo-saga.md](05-viggo-saga/viggo-saga.md) — includes *Baptism of Oil and Ice*; *Decima* escort; RTC II (Type B)
-- [garmr-witness-dravic.md](05-viggo-saga/garmr-witness-dravic.md) — Brother-Sergeant **Cael Dravic** witness; report to Varro
-- [varro-anima-speculum.md](05-viggo-saga/varro-anima-speculum.md) — Judex *anima speculum*; chained wolf / Crimson Wolf soul-sight
-- [01-varro-drusus-after-garmr.md](05-viggo-saga/01-varro-drusus-after-garmr.md) — immediate Varro–Drusus concern conference; formal summons decision
-- [02-triumvirate-summons-breached.md](05-viggo-saga/02-triumvirate-summons-breached.md) — Alaric misses formal summons; breach escalates to palace intervention
-- [03-palace-of-the-wall.md](05-viggo-saga/03-palace-of-the-wall.md) — Varro + Drusus confront Alaric; explicit Black Cells warning
-- [04-seed-in-iron.md](05-viggo-saga/04-seed-in-iron.md) — aftermath and setup for Radulf Castrin pressure
-- [05-radulf-and-the-wall.md](05-viggo-saga/05-radulf-and-the-wall.md) — private audience: Radulf Castrin confronts Alaric with honor-weight and command restoration terms
-
-## 16-corbec-the-first-legatus *(→ silent-vigil/corbec-ardens — pending)*
-
-- [valerian-heresy-witness-corbec-i.md](16-corbec-the-first-legatus/valerian-heresy-witness-corbec-i.md)
-- [01-valerian-rot-spread.md](16-corbec-the-first-legatus/01-valerian-rot-spread.md)
-- [valerian-heresy-reading-b-corbec.md](16-corbec-the-first-legatus/valerian-heresy-reading-b-corbec.md)
-- [03-cassian-vorn-first-sword.md](16-corbec-the-first-legatus/03-cassian-vorn-first-sword.md)
-- [04-vorn-duel-open-field.md](16-corbec-the-first-legatus/04-vorn-duel-open-field.md)
-- [05-run-to-the-wall.md](16-corbec-the-first-legatus/05-run-to-the-wall.md)
-- [06-the-sentence-seen-from-below.md](16-corbec-the-first-legatus/06-the-sentence-seen-from-below.md)
+**Main serial:** see [silent-vigil/INDEX.md](silent-vigil/INDEX.md) for full read-order table.
 
 ## 07-iron-venus
 
@@ -174,7 +145,7 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 - [korvus-twin-breach.md](14-vexillum-chronicles/korvus-twin-breach.md) — **VI** *Sexta*, **098.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; *Alabarda* field 4.
 - [null-vent-covenant.md](14-vexillum-chronicles/null-vent-covenant.md) — **VII** *Septima*, **112.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; *Alabarda* field 4.
 - [silent-hours-marco-de-vetra.md](14-vexillum-chronicles/silent-hours-marco-de-vetra.md) — **IX** *Nona*, **140.M42** Marco de Vetra; **Cassian Vetra**; Shouter relay under EM storm; *Alabarda* field 4.
-- [decima-justice-vexillum.md](14-vexillum-chronicles/decima-justice-vexillum.md) — **X** *Decima* **justice vexillum** (not *Alabarda*); **051.M42** commission; **Kadmos**, **Varro**, first Ancient; **Markus Graile** echo; companion to [00-malakor-v.md](06-silent-vigil/00-malakor-v.md).
+- [decima-justice-vexillum/chapter.md](silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md) — **X** *Decima* **justice vexillum** (indexed under Silent Vigil · *valerian-heresy*); companion to [malakor-v/chapter.md](silent-vigil/valerian-heresy/malakor-v/chapter.md).
 
 ---
 

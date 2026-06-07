@@ -52,7 +52,7 @@ Use when writing or editing English prose. Extend as you go.
 | ***Ictus coercitionis*** | Varro’s **restraint stroke** — Crozius **Sentence** calibration to bind ***Castra-Lupus*** / carapace without killing Alaric |
 | **Death Wolf** | ***Reclusiam*** idiom for Varro when meeting **Crimson Wolf** — curse’s skull-face, not living predator |
 | ***Anima speculum*** | Varro’s soul-mirror judgment sense — reads curse as **wolf-soul** (chained + gladius pin vs fire-smoke **Crimson Wolf**); line cage progression + **tripartite bind** (Einar): [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §C |
-| **Cael Dravic** | *Decima* Brother-Sergeant; Garmr’s Shelf RTC II witness — [`garmr-witness-dravic.md`](chronicles/05-viggo-saga/garmr-witness-dravic.md) |
+| **Cael Dravic** | *Decima* Brother-Sergeant; Garmr’s Shelf RTC II witness — [`garmr-witness-dravic.md`](chronicles/silent-vigil/viggo-the-heat-of-the-stone/garmr-witness-dravic/chapter.md) |
 | **Chimeric seed (certain / pools unknown)** | Medically **confirmed** chimera; **donor gene-pools not known** even to Triumvirate — [`progenitor-classification.md`](personae-command-index/doctrine-and-organs/progenitor-classification.md) |
 | **Versibar** | Execratio war-form. Plural **Versibars**. |
 | **Valerian Heresy** | Formal name for **Valerius** treason and **I** *Prima* rot (**Malakor V**, 050.M42); ~**300** Chapter losses (**KIA** / **Versibar**, theater-wide); **five** lawful *Prima* **witnesses**; leaves **~200** **Firstboot** core — see [`master-chronology.md`](personae-command-index/events-and-chronologies/master-chronology.md), [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md). |

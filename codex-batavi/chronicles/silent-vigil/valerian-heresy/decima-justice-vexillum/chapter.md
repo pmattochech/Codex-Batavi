@@ -1,12 +1,12 @@
 # [CHRONICLE] *DECIMA* — THE JUSTICE CLOTH
 
 **Classification:** Chapter narrative — *Armourium* / *Reclusiam* register (not a Legatus *Alabarda* field-4 triumph; **X** *Decima* **justice vexillum**)  
-**Companion:** Sentence and aftermath — [00-malakor-v.md](../06-silent-vigil/00-malakor-v.md). Read both; the cloth is **verdict after** the corridor.
+**Companion:** Sentence and aftermath — [malakor-v/chapter.md](../malakor-v/chapter.md). Read both; the cloth is **verdict after** the corridor.
 **When:** **051.M42** (commission week; event **050.M42** Malakor V)  
 **Where:** **Noviomagus Prime** — *Armourium* heraldic annex; *Reclusiam* witness chamber  
 **Who:** **Varro** (doctrinal seal); **Kadmos** (forge law); unnamed ***Decima* Ancient-equivalent** (first bearer on file); echo: **Captain Markus Graile** (later line drill)
 
-**Cross-references:** [register-decima-malakor-justice.md](../vexillum-register/register-decima-malakor-justice.md) · [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §4 · [dossier-markus-graile.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §III
+**Cross-references:** [register-decima-malakor-justice.md](../../../vexillum-register/register-decima-malakor-justice.md) · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §4 · [dossier-markus-graile.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §III
 
 ---
 
@@ -74,5 +74,5 @@ The justice vexillum is **doctrine made cloth** — *Varro*’s oath and the Cul
 
 ---
 
-*Register annex:* [register-decima-malakor-justice.md](../vexillum-register/register-decima-malakor-justice.md)  
-*Sentence chronicle:* [00-malakor-v.md](../06-silent-vigil/00-malakor-v.md)
+*Register annex:* [register-decima-malakor-justice.md](../../../vexillum-register/register-decima-malakor-justice.md)  
+*Sentence chronicle:* [malakor-v/chapter.md](../malakor-v/chapter.md)

@@ -1,8 +1,8 @@
 # Space Wolves & traitor-legion relations — worksheet (backlog / not canon until scenes ship)
 
-**Goal:** Keep **diplomatic, aesthetic, and battlefield** stories with **Space Wolves** and with **Traitor / Heresy-imprint** foes **aligned** with [progenitor-classification.md](personae-command-index/doctrine-and-organs/progenitor-classification.md) — **Russ-line–adjacent** phenotype **without** open-record Fenris parentage; **Strand β** as **sealed** clinical language, **never** a public “Sons of Horus successor” label unless you write a leak arc.
+**Goal:** Keep **diplomatic, aesthetic, and battlefield** stories with **Space Wolves** and with **Traitor / Heresy-imprint** foes **aligned** with [progenitor-classification.md](../personae-command-index/doctrine-and-organs/progenitor-classification.md) — **Russ-line–adjacent** phenotype **without** open-record Fenris parentage; **Strand β** as **sealed** clinical language, **never** a public “Sons of Horus successor” label unless you write a leak arc.
 
-**Law:** [`.cursorrules`](../.cursorrules) §0.2 · heraldry separation: [intro-and-heraldry.md](personae-command-index/intro-and-heraldry/chapter-identity.md) · outsider beliefs: [`FOUNDING-OUTSIDER-KNOWLEDGE-PLAN.md`](planning/FOUNDING-OUTSIDER-KNOWLEDGE-PLAN.md).
+**Law:** [`.cursorrules`](../.cursorrules) §0.2 · heraldry separation: [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) · outsider beliefs: [`FOUNDING-OUTSIDER-KNOWLEDGE-PLAN.md`](FOUNDING-OUTSIDER-KNOWLEDGE-PLAN.md).
 
 ---
 
@@ -22,12 +22,12 @@ Use this so **alliance** stays **credible** without **collapsing** unknown found
 
 | Axis | Canon hooks already in repo | Story levers / tensions |
 |------|-----------------------------|-------------------------|
-| **Material diplomacy** | *Morkai’s Bite* (Grimnar gift), **Bjorn** belt talisman, **Fenris**-forged relics on Alaric/Varro (see [dossier-alaric.md](personae-command-index/character-dossiers/triumvirate/dossier-alaric.md), [dossier-varro.md](personae-command-index/character-dossiers/triumvirate/dossier-varro.md)) | Gifts prove **respect**, not **gene-seed disclosure** |
+| **Material diplomacy** | *Morkai’s Bite* (Grimnar gift), **Bjorn** belt talisman, **Fenris**-forged relics on Alaric/Varro (see [dossier-alaric.md](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md), [dossier-varro.md](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md)) | Gifts prove **respect**, not **gene-seed disclosure** |
 | **Visual kinship** | *Fenris-pattern* / **wolf-skull** helms as **Noviomagus adaptations** | SW may read **kin**; Batavi read **equipment lineage** + **doctrine difference** (*Analytical Silence* vs howls) |
-| **Biology** | Manuals still map lupine defects to **Fenris** as “loud ghost” ([chimera-pendulum.md](chronicles/03-projection-aurea-codex-omega/chimera-pendulum.md)) | Apothecary **friction**: Fenris baselines **fail** to explain chimeric predisposition fully |
-| **The Thunderwolf line** | **Batav Wolf** / *Canis Batavorum* **≠** Fenris **Thunderwolf** ([GLOSSARY-EN.md](GLOSSARY-EN.md)) | Scene where a Wolf **mistakes** the pelt or the beast — **correct** them in-character |
+| **Biology** | Manuals still map lupine defects to **Fenris** as “loud ghost” ([chimera-pendulum.md](../chronicles/03-projection-aurea-codex-omega/chimera-pendulum.md)) | Apothecary **friction**: Fenris baselines **fail** to explain chimeric predisposition fully |
+| **The Thunderwolf line** | **Batav Wolf** / *Canis Batavorum* **≠** Fenris **Thunderwolf** ([GLOSSARY-EN.md](../GLOSSARY-EN.md)) | Scene where a Wolf **mistakes** the pelt or the beast — **correct** them in-character |
 
-**Chronicle touchpoints (non-exhaustive):** [gray-silence-of-fenris.md](chronicles/08-audit-diplomacy/gray-silence-of-fenris.md), [viggo-saga.md](chronicles/05-viggo-saga/viggo-saga.md), [diplomacy-aethelgard.md](chronicles/08-audit-diplomacy/diplomacy-aethelgard.md), [dragon-in-the-hearth-tushan.md](chronicles/08-audit-diplomacy/dragon-in-the-hearth-tushan.md) (compare: other Chapter visits).
+**Chronicle touchpoints (non-exhaustive):** [gray-silence-of-fenris.md](../chronicles/08-audit-diplomacy/gray-silence-of-fenris.md), [viggo-saga.md](../chronicles/silent-vigil/viggo-the-heat-of-the-stone/viggo-saga/chapter.md), [diplomacy-aethelgard.md](../chronicles/08-audit-diplomacy/diplomacy-aethelgard.md), [dragon-in-the-hearth-tushan.md](../chronicles/08-audit-diplomacy/dragon-in-the-hearth-tushan.md) (compare: other Chapter visits).
 
 ---
 
@@ -37,7 +37,7 @@ Use this so **alliance** stays **credible** without **collapsing** unknown found
 |------|-------------|---------------------|
 | **Tactical shock** | Alaric silhouette → **genetic memory hesitation** in Traitor veterans (*dossier-alaric* **terror math**) | Describe **effect**, not **gene confession** from Batavi POV in early eras |
 | **Strand β** | the Cull / “judge” biology; **Mournival-pattern** internal tag | Only **Triumvirate / sealed clinical** POV after your timeline allows; no **line-troop** primarch laundry lists |
-| **Blackshield / renegade** | Policy in [deathwatch-and-batavorum.md](political-relations/deathwatch-and-batavorum.md) | Do not **merge** blackshield fiction with “secretly XVI” without a deliberate arc |
+| **Blackshield / renegade** | Policy in [deathwatch-and-batavorum.md](../political-relations/deathwatch-and-batavorum.md) | Do not **merge** blackshield fiction with “secretly XVI” without a deliberate arc |
 
 ---
 
@@ -57,4 +57,4 @@ Use this so **alliance** stays **credible** without **collapsing** unknown found
 
 ---
 
-*Last reviewed: 2026-03-28.*
+*Last reviewed: 2026-05-28.*

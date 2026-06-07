@@ -243,4 +243,4 @@ The Silent Vigil would last **one hundred years**. What changed was the **weight
 
 ---
 
-*Justice vexillum commission (051.M42 — tenth lattice standard):* [decima-justice-vexillum.md](../14-vexillum-chronicles/decima-justice-vexillum.md) · *Armourium* annex: [register-decima-malakor-justice.md](../vexillum-register/register-decima-malakor-justice.md).
+*Justice vexillum commission (051.M42 — tenth lattice standard):* [decima-justice-vexillum.md](../silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md) · *Armourium* annex: [register-decima-malakor-justice.md](../vexillum-register/register-decima-malakor-justice.md).

@@ -22,7 +22,7 @@ He witnessed **abbreviated *rubor thermicus*** in the Patriarch melt-cave — cr
 
 Sealed deposition to **Varro**; Graile ordered full report, no mess-room folklore.
 
-Chronicles: [`garmr-witness-dravic.md`](../../../chronicles/05-viggo-saga/garmr-witness-dravic.md) · [`viggo-saga.md`](../../../chronicles/05-viggo-saga/viggo-saga.md)
+Chronicles: [`garmr-witness-dravic.md`](../../../chronicles/silent-vigil/viggo-the-heat-of-the-stone/garmr-witness-dravic/chapter.md) · [`viggo-saga.md`](../../../chronicles/silent-vigil/viggo-the-heat-of-the-stone/viggo-saga/chapter.md)
 
 ---
 
