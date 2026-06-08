@@ -1,6 +1,6 @@
 # Foundation War — legacy serial → slug map
 
-**Status:** Legacy numbered files under `chronicles/00-foundation-war/` were **deleted May 2026** after migration audit. A **redirect tombstone** remains at [`../00-foundation-war/README.md`](../00-foundation-war/README.md) for old bookmarks. This table is the **file-by-file tombstone** for git history, Notion IDs, and old links. Canonical prose: [`INDEX.md`](INDEX.md). **Prose scaffold:** [`PROSE-SCAFFOLD.md`](PROSE-SCAFFOLD.md).
+**Status:** Legacy numbered files and redirect folder under `chronicles/00-foundation-war/` were **deleted May 2026** after slug-tree migration. This table is the **file-by-file tombstone** for git history, Notion IDs, and old links. Canonical prose: [`INDEX.md`](INDEX.md). **Prose scaffold:** [`PROSE-SCAFFOLD.md`](PROSE-SCAFFOLD.md).
 
 **Geography (canonical prose):** [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md).
 

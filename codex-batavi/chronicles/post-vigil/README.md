@@ -14,4 +14,4 @@
 
 **Elara age ladder:** [silent-vigil/iron-venus/INDEX.md](../silent-vigil/iron-venus/INDEX.md)
 
-**Index:** [INDEX.md](INDEX.md) · **Legacy:** [../15-post-vigil/README.md](../15-post-vigil/README.md) · **Hub:** [`../INDEX.md`](../INDEX.md)
+**Index:** [INDEX.md](INDEX.md) · **Hub:** [`../INDEX.md`](../INDEX.md)

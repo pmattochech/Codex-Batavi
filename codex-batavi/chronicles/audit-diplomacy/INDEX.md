@@ -2,7 +2,6 @@
 
 **Span / role:** External audits and frontier diplomacy
 
-**Legacy redirect:** [`../08-audit-diplomacy/README.md`](../08-audit-diplomacy/README.md)
 
 | Slug | File |
 |------|------|

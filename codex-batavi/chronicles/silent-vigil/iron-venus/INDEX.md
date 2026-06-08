@@ -37,4 +37,4 @@
 
 **Records note:** Drusus and Varro texts are **retrospective**, not fiction locked to a single instant; canonical Parapet / kitchen scene in [iron-venus/chapter.md](iron-venus/chapter.md).
 
-**Staff:** [`master-chronology.md`](../../../personae-command-index/events-and-chronologies/master-chronology.md) §V–VI · [`../INDEX.md`](../INDEX.md) (Silent Vigil) · **Legacy redirect:** [`../../07-iron-venus/README.md`](../../07-iron-venus/README.md)
+**Staff:** [`master-chronology.md`](../../../personae-command-index/events-and-chronologies/master-chronology.md) §V–VI · [`../INDEX.md`](../INDEX.md) (Silent Vigil)

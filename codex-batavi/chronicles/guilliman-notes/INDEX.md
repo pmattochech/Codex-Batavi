@@ -2,7 +2,7 @@
 
 **Voice:** third-person limited — **Roboute Guilliman** POV.
 
-**Imperial span:** **~051.M42 – ~120.M42** · **Hub:** [README.md](README.md) · **Legacy:** [../guilliman-notes/README.md](../guilliman-notes/README.md)
+**Imperial span:** **~051.M42 – ~120.M42** · **Hub:** [README.md](README.md)
 
 | # | Slug | Interlocutor | File |
 |---|------|--------------|------|

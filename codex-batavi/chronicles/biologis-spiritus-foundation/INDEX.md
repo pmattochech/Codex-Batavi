@@ -2,7 +2,6 @@
 
 **Span / role:** 015–048.M42 Wolf's Curse mapping arc
 
-**Legacy redirect:** [`../02-biologis-spiritus-foundation/README.md`](../02-biologis-spiritus-foundation/README.md)
 
 | Slug | File |
 |------|------|

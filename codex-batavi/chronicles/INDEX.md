@@ -2,7 +2,7 @@
 
 ## foundation-war (canonical serial)
 
-**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [prose scaffold](foundation-war/PROSE-SCAFFOLD.md) · [novel structure pass](foundation-war/NOVEL-STRUCTURE-PASS.md) · [legacy → slug tombstone](foundation-war/legacy-map.md) · [chronicles legacy map](legacy-map.md) · [legacy redirect](00-foundation-war/README.md). **Serial complete** (Q0 prelude + 38 chapters; density + novel structure passes closed May 2026). **Quarter hubs:** [Q0](foundation-war/Q0-prelude/INDEX.md) · [Q1](foundation-war/Q1-moon-hunt/INDEX.md) · [Q2](foundation-war/Q2-inverted-war/INDEX.md) · [Q3](foundation-war/Q3-gulf-and-beast/INDEX.md) · [Q4](foundation-war/Q4-der-batav/INDEX.md). **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
+**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [prose scaffold](foundation-war/PROSE-SCAFFOLD.md) · [novel structure pass](foundation-war/NOVEL-STRUCTURE-PASS.md) · [legacy → slug map](foundation-war/legacy-map.md) · [chronicles legacy map](legacy-map.md). **Serial complete** (Q0 prelude + 38 chapters; density + novel structure passes closed May 2026). **Quarter hubs:** [Q0](foundation-war/Q0-prelude/INDEX.md) · [Q1](foundation-war/Q1-moon-hunt/INDEX.md) · [Q2](foundation-war/Q2-inverted-war/INDEX.md) · [Q3](foundation-war/Q3-gulf-and-beast/INDEX.md) · [Q4](foundation-war/Q4-der-batav/INDEX.md). **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
 
 **Staff summary** (nine poles, phases, casualty bands, cross-links): [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md).
 
@@ -14,13 +14,13 @@
 
 ## green-tempest
 
-**Index:** [green-tempest/INDEX.md](green-tempest/INDEX.md) · **Legacy:** [01-green-tempest/README.md](01-green-tempest/README.md)
+**Index:** [green-tempest/INDEX.md](green-tempest/INDEX.md)
 
 - [green-tempest.md](green-tempest/green-tempest/chapter.md) — *The Book of Iron: The Green Tempest*
 
 ## biologis-spiritus-foundation
 
-**Index:** [biologis-spiritus-foundation/INDEX.md](biologis-spiritus-foundation/INDEX.md) · **Legacy:** [02-biologis-spiritus-foundation/README.md](02-biologis-spiritus-foundation/README.md)
+**Index:** [biologis-spiritus-foundation/INDEX.md](biologis-spiritus-foundation/INDEX.md)
 
 - [biologis-monsoon.md](biologis-spiritus-foundation/biologis-monsoon/chapter.md)
 - [biologis-iron-mitosis.md](biologis-spiritus-foundation/biologis-iron-mitosis/chapter.md)
@@ -30,7 +30,7 @@
 
 ## projection-aurea-codex-omega
 
-**Index:** [projection-aurea-codex-omega/INDEX.md](projection-aurea-codex-omega/INDEX.md) · **Legacy:** [03-projection-aurea-codex-omega/README.md](03-projection-aurea-codex-omega/README.md)
+**Index:** [projection-aurea-codex-omega/INDEX.md](projection-aurea-codex-omega/INDEX.md)
 
 
 **Status:** **Historical doctrine records** (048–050.M42 pendulum → pyramid arc). Headers mark superseded theory; events remain canon.
@@ -43,14 +43,14 @@
 
 ## incus-gravis-tribunal
 
-**Index:** [incus-gravis-tribunal/INDEX.md](incus-gravis-tribunal/INDEX.md) · **Legacy:** [04-incus-gravis-tribunal/README.md](04-incus-gravis-tribunal/README.md)
+**Index:** [incus-gravis-tribunal/INDEX.md](incus-gravis-tribunal/INDEX.md)
 
 - [incus-gravis-campaign.md](incus-gravis-tribunal/incus-gravis-campaign/chapter.md)
 
 ## silent-vigil — The Silent Vigil
 *(050.M42 – 150.M42 — Castellan present, hollowed; Legati carry what Alaric cannot.)*
 
-**Hub:** [silent-vigil/README.md](silent-vigil/README.md) · **Read order:** [silent-vigil/INDEX.md](silent-vigil/INDEX.md) · **Legacy redirects:** [06-silent-vigil/README.md](06-silent-vigil/README.md) · [05-viggo-saga/README.md](05-viggo-saga/README.md) · [16-corbec-the-first-legatus/README.md](16-corbec-the-first-legatus/README.md) · [07-iron-venus/README.md](07-iron-venus/README.md)
+**Hub:** [silent-vigil/README.md](silent-vigil/README.md) · **Read order:** [silent-vigil/INDEX.md](silent-vigil/INDEX.md) · **Legacy map:** [legacy-map.md](legacy-map.md)
 
 **Parts / subsagas:**
 
@@ -61,11 +61,9 @@
 
 **Main serial:** see [silent-vigil/INDEX.md](silent-vigil/INDEX.md) for full read-order table.
 
-**Legacy redirect:** [silent-vigil/iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md) *(subsaga moved May 2026)*
+### iron-venus *(subsaga detail)*
 
-## 07-iron-venus *(legacy — see silent-vigil/iron-venus)*
-
-**Hub:** [silent-vigil/iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md) — Elara age ladder (parapet **150.M42** anchor). **Tombstone:** [07-iron-venus/README.md](07-iron-venus/README.md).
+**Hub:** [silent-vigil/iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md) — Elara age ladder (parapet **150.M42** anchor).
 
 - [iron-venus/chapter.md](silent-vigil/iron-venus/iron-venus/chapter.md) — parapet adoption · kitchen · naming (**150.M42**)
 - [sanctuary-smoke-and-bread/chapter.md](silent-vigil/iron-venus/sanctuary-smoke-and-bread/chapter.md) — present-era Martha kitchen
@@ -98,7 +96,7 @@
 
 ## audit-diplomacy
 
-**Index:** [audit-diplomacy/INDEX.md](audit-diplomacy/INDEX.md) · **Legacy:** [08-audit-diplomacy/README.md](08-audit-diplomacy/README.md)
+**Index:** [audit-diplomacy/INDEX.md](audit-diplomacy/INDEX.md)
 
 - [audit-of-logic.md](audit-diplomacy/audit-of-logic/chapter.md)
 - [diplomacy-aethelgard.md](audit-diplomacy/diplomacy-aethelgard/chapter.md)
@@ -109,7 +107,7 @@
 
 ## frontier-life
 
-**Index:** [frontier-life/INDEX.md](frontier-life/INDEX.md) · **Legacy:** [09-frontier-life/README.md](09-frontier-life/README.md)
+**Index:** [frontier-life/INDEX.md](frontier-life/INDEX.md)
 
 - [limes-renegade-resupply.md](frontier-life/limes-renegade-resupply/chapter.md) — **Limes** resupply purge: *Ash Standard* (guest renegade Chapter); **§I** dock *texture* + **Serun Orach**; time-bait **§II**; *Strategium* / *Nona* **§III**; gallery **§IV**; **Silence** / **Shadow**, *Decima* **§V**; **Asterion Moloc** + **Kadmos** hulks **§VI**; seventy-two-hour strike **§VII** (**\*\*\*.M42** date TBD)
 - [tithe-of-the-rejected.md](frontier-life/tithe-of-the-rejected/chapter.md) — includes ***The Tithe of the Rejected***
@@ -119,7 +117,7 @@
 
 ## tithe-of-sweetness
 
-**Index:** [tithe-of-sweetness/INDEX.md](tithe-of-sweetness/INDEX.md) · **Legacy:** [10-tithe-of-sweetness/README.md](10-tithe-of-sweetness/README.md)
+**Index:** [tithe-of-sweetness/INDEX.md](tithe-of-sweetness/INDEX.md)
 
 - [tithe-of-sweetness.md](tithe-of-sweetness/tithe-of-sweetness/chapter.md)
 
@@ -127,7 +125,7 @@
 
 ## sigma-moon
 
-**Index:** [sigma-moon/INDEX.md](sigma-moon/INDEX.md) · **Legacy:** [11-sigma-moon/README.md](11-sigma-moon/README.md)
+**Index:** [sigma-moon/INDEX.md](sigma-moon/INDEX.md)
 
 
 **Milestone:** 168.M42 — The Battle of Luna Sigma.
@@ -139,7 +137,7 @@
 
 ## vigilax
 
-**Index:** [vigilax/INDEX.md](vigilax/INDEX.md) · **Legacy:** [12-vigilax/README.md](12-vigilax/README.md)
+**Index:** [vigilax/INDEX.md](vigilax/INDEX.md)
 
 
 **Milestone:** **110.M42** (Silent Vigil, **before** Elara’s birth).
@@ -163,7 +161,7 @@ Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in
 
 ## vexillum-chronicles
 
-**Index:** [vexillum-chronicles/INDEX.md](vexillum-chronicles/INDEX.md) · **Legacy:** [14-vexillum-chronicles/README.md](14-vexillum-chronicles/README.md)
+**Index:** [vexillum-chronicles/INDEX.md](vexillum-chronicles/INDEX.md)
 
 
 Longform narrative for field-4 certified operations (each links back to its AAR).
@@ -184,7 +182,7 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 
 ## post-vigil
 
-**Index:** [post-vigil/INDEX.md](post-vigil/INDEX.md) · **Hub:** [post-vigil/README.md](post-vigil/README.md) · **Legacy:** [15-post-vigil/README.md](15-post-vigil/README.md)
+**Index:** [post-vigil/INDEX.md](post-vigil/INDEX.md) · **Hub:** [post-vigil/README.md](post-vigil/README.md)
 
 
 **Span:** post–Silent Vigil maturity on **Noviomagus** and mesh-internal law. Hub: [post-vigil/README.md](post-vigil/README.md).
@@ -197,7 +195,7 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 
 ## apotheosis
 
-**Index:** [apotheosis/INDEX.md](apotheosis/INDEX.md) · **Legacy:** [13-apotheosis/README.md](13-apotheosis/README.md)
+**Index:** [apotheosis/INDEX.md](apotheosis/INDEX.md)
 
 
 **Status:** **Restored (May 2026).** Geography and physics retcon — **Witness Ford** / **Insula Tenebrarum** filter node; ***Nihili Protocol*** = **pylon cascade**, not temporal collapse. Retired names absent from active prose: *Porta Nihili*, *Loken Passage*.

@@ -2,7 +2,6 @@
 
 **Span / role:** 155.M42 nobility purge
 
-**Legacy redirect:** [`../04-incus-gravis-tribunal/README.md`](../04-incus-gravis-tribunal/README.md)
 
 | Slug | File |
 |------|------|

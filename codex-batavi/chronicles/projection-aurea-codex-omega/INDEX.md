@@ -2,7 +2,6 @@
 
 **Span / role:** 048–050.M42 doctrine records (superseded theory; events canon)
 
-**Legacy redirect:** [`../03-projection-aurea-codex-omega/README.md`](../03-projection-aurea-codex-omega/README.md)
 
 | Slug | File |
 |------|------|

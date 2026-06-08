@@ -26,4 +26,3 @@ Full narrative chronicles for operations certified on ***Alabarda* field 4** (an
 
 Heraldic master table: [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3.
 
-**Legacy redirect:** [`../14-vexillum-chronicles/README.md`](../14-vexillum-chronicles/README.md)

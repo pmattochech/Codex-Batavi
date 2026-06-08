@@ -1,6 +1,8 @@
 # Chronicles — legacy numbered folders → slug map
 
-**Status:** Tombstone for saga migrations off numbered `NN-*` folders. **Foundation War** has its own map: [`foundation-war/legacy-map.md`](foundation-war/legacy-map.md).
+**Status:** Tombstone for saga migrations off numbered `NN-*` folders. **Redirect folders deleted May 2026** after slug-tree migration; use this table for git history, Notion IDs, and old bookmarks.
+
+**Foundation War** has its own map: [`foundation-war/legacy-map.md`](foundation-war/legacy-map.md).
 
 **Canonical chronicle index:** [`INDEX.md`](INDEX.md)
 
@@ -8,7 +10,7 @@
 
 ## Silent Vigil (May 2026)
 
-**New saga root:** [`silent-vigil/`](silent-vigil/INDEX.md) · redirects: [`06-silent-vigil/README.md`](06-silent-vigil/README.md) · [`05-viggo-saga/README.md`](05-viggo-saga/README.md) · [`16-corbec-the-first-legatus/README.md`](16-corbec-the-first-legatus/README.md) · [`07-iron-venus/README.md`](07-iron-venus/README.md)
+**Saga root:** [`silent-vigil/`](silent-vigil/INDEX.md)
 
 ### Main serial (`06-silent-vigil/`)
 
@@ -70,28 +72,29 @@
 | `record-varro-elara.md` | `silent-vigil/iron-venus/record-varro-elara/chapter.md` |
 | `README.md` | `silent-vigil/iron-venus/INDEX.md` |
 
-**Register annexes** (documentary — stay under `vexillum-register/` for now): [register-decima-malakor-justice.md](vexillum-register/register-decima-malakor-justice.md) · [memorandum-prima-rectification-precedent.md](vexillum-register/memorandum-prima-rectification-precedent.md)
+**Register annexes** (documentary — stay under `vexillum-register/`): [register-decima-malakor-justice.md](vexillum-register/register-decima-malakor-justice.md) · [memorandum-prima-rectification-precedent.md](vexillum-register/memorandum-prima-rectification-precedent.md)
+
 ---
 
 ## Remaining chronicles (May 2026)
 
-**Pattern:** `NN-folder/file.md` → `{saga-root}/{slug}/chapter.md` · tombstone at `NN-folder/README.md`
+**Pattern:** `NN-folder/file.md` → `{saga-root}/{slug}/chapter.md`
 
-| Legacy folder | Saga root | Redirect |
-|---|---|---|
-| `01-green-tempest/` | [`green-tempest/`](green-tempest/INDEX.md) | [`01-green-tempest/README.md`](01-green-tempest/README.md) |
-| `02-biologis-spiritus-foundation/` | [`biologis-spiritus-foundation/`](biologis-spiritus-foundation/INDEX.md) | [`02-biologis-spiritus-foundation/README.md`](02-biologis-spiritus-foundation/README.md) |
-| `03-projection-aurea-codex-omega/` | [`projection-aurea-codex-omega/`](projection-aurea-codex-omega/INDEX.md) | [`03-projection-aurea-codex-omega/README.md`](03-projection-aurea-codex-omega/README.md) |
-| `04-incus-gravis-tribunal/` | [`incus-gravis-tribunal/`](incus-gravis-tribunal/INDEX.md) | [`04-incus-gravis-tribunal/README.md`](04-incus-gravis-tribunal/README.md) |
-| `08-audit-diplomacy/` | [`audit-diplomacy/`](audit-diplomacy/INDEX.md) | [`08-audit-diplomacy/README.md`](08-audit-diplomacy/README.md) |
-| `09-frontier-life/` | [`frontier-life/`](frontier-life/INDEX.md) | [`09-frontier-life/README.md`](09-frontier-life/README.md) |
-| `10-tithe-of-sweetness/` | [`tithe-of-sweetness/`](tithe-of-sweetness/INDEX.md) | [`10-tithe-of-sweetness/README.md`](10-tithe-of-sweetness/README.md) |
-| `11-sigma-moon/` | [`sigma-moon/`](sigma-moon/INDEX.md) | [`11-sigma-moon/README.md`](11-sigma-moon/README.md) |
-| `12-vigilax/` | [`vigilax/`](vigilax/INDEX.md) | [`12-vigilax/README.md`](12-vigilax/README.md) |
-| `13-apotheosis/` | [`apotheosis/`](apotheosis/INDEX.md) | [`13-apotheosis/README.md`](13-apotheosis/README.md) |
-| `14-vexillum-chronicles/` | [`vexillum-chronicles/`](vexillum-chronicles/INDEX.md) | [`14-vexillum-chronicles/README.md`](14-vexillum-chronicles/README.md) |
-| `15-post-vigil/` | [`post-vigil/`](post-vigil/INDEX.md) | [`15-post-vigil/README.md`](15-post-vigil/README.md) |
-| `17-guilliman-notes/` | [`guilliman-notes/`](guilliman-notes/INDEX.md) | [`17-guilliman-notes/README.md`](17-guilliman-notes/README.md) |
+| Legacy folder | Saga root |
+|---|---|
+| `00-foundation-war/` | [`foundation-war/`](foundation-war/INDEX.md) — see [`foundation-war/legacy-map.md`](foundation-war/legacy-map.md) |
+| `01-green-tempest/` | [`green-tempest/`](green-tempest/INDEX.md) |
+| `02-biologis-spiritus-foundation/` | [`biologis-spiritus-foundation/`](biologis-spiritus-foundation/INDEX.md) |
+| `03-projection-aurea-codex-omega/` | [`projection-aurea-codex-omega/`](projection-aurea-codex-omega/INDEX.md) |
+| `04-incus-gravis-tribunal/` | [`incus-gravis-tribunal/`](incus-gravis-tribunal/INDEX.md) |
+| `08-audit-diplomacy/` | [`audit-diplomacy/`](audit-diplomacy/INDEX.md) |
+| `09-frontier-life/` | [`frontier-life/`](frontier-life/INDEX.md) |
+| `10-tithe-of-sweetness/` | [`tithe-of-sweetness/`](tithe-of-sweetness/INDEX.md) |
+| `11-sigma-moon/` | [`sigma-moon/`](sigma-moon/INDEX.md) |
+| `12-vigilax/` | [`vigilax/`](vigilax/INDEX.md) |
+| `13-apotheosis/` | [`apotheosis/`](apotheosis/INDEX.md) |
+| `14-vexillum-chronicles/` | [`vexillum-chronicles/`](vexillum-chronicles/INDEX.md) |
+| `15-post-vigil/` | [`post-vigil/`](post-vigil/INDEX.md) |
+| `17-guilliman-notes/` | [`guilliman-notes/`](guilliman-notes/INDEX.md) |
 
-**Unchanged:** [`vexillum-register/`](vexillum-register/INDEX.md) (documentary AAR layer) · [`foundation-war/`](foundation-war/legacy-map.md) (separate map)
-
+**Unchanged:** [`vexillum-register/`](vexillum-register/INDEX.md) (documentary AAR layer)

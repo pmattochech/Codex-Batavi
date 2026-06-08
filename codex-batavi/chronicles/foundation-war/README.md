@@ -1,6 +1,6 @@
 # Foundation War — canonical crucible serial
 
-**Status:** **Canonical serial complete.** Deep prose (Q0 + 38 chapters); **`Next:`** chain verified; **novel structure pass complete** (39/39 — [`NOVEL-STRUCTURE-PASS.md`](NOVEL-STRUCTURE-PASS.md) §6); staff/atlas/biology pointers repointed; legacy numbered serial **deleted May 2026** (redirect: [`../00-foundation-war/README.md`](../00-foundation-war/README.md) · map: [`legacy-map.md`](legacy-map.md)).
+**Status:** **Canonical serial complete.** Deep prose (Q0 + 38 chapters); **`Next:`** chain verified; **novel structure pass complete** (39/39 — [`NOVEL-STRUCTURE-PASS.md`](NOVEL-STRUCTURE-PASS.md) §6); staff/atlas/biology pointers repointed; legacy numbered serial **deleted May 2026** [`legacy-map.md`](legacy-map.md)).
 
 **Density pass (complete):** §VIII dedupe + single forward handoff coda across all 39 `chapter.md` files (May 2026). **Serial total:** **9,176 lines** on disk (`wc -l`). **Bands:**
 

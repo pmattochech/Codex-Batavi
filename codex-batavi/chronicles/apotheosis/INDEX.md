@@ -2,7 +2,6 @@
 
 **Span / role:** 175.M42 Captain-General visit · Nihili Protocol
 
-**Legacy redirect:** [`../13-apotheosis/README.md`](../13-apotheosis/README.md)
 
 | Slug | File |
 |------|------|

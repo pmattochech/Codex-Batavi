@@ -2,7 +2,6 @@
 
 **Span / role:** 180.M42+ Noviomagus internal law
 
-**Legacy redirect:** [`../15-post-vigil/README.md`](../15-post-vigil/README.md)
 
 | Slug | File |
 |------|------|

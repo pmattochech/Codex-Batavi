@@ -58,7 +58,7 @@ Every **Legatus** *Alabarda Vexillum* for **2nd–9th Vexillatio** carries **fou
 
 ## 3. Vexillatio II–IX — register table (success + icon hints)
 
-**Narrative:** longform chronicles live in [14-vexillum-chronicles](../../chronicles/vexillum-chronicles/INDEX.md); **III** also uses [vigilax-incident.md](../../chronicles/vigilax/vigilax-incident/chapter.md) as companion to [vigilax-triangulation.md](../../chronicles/vexillum-chronicles/vigilax-triangulation/chapter.md); **VIII** uses [helbrecht-witness-ford-meeting.md](../../chronicles/audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) as companion to [witness-ford-octava.md](../../chronicles/vexillum-chronicles/witness-ford-octava/chapter.md). *Strategium* extracts: [vexillum-register](../../chronicles/vexillum-register/INDEX.md).
+**Narrative:** longform chronicles live in [vexillum-chronicles](../../chronicles/vexillum-chronicles/INDEX.md); **III** also uses [vigilax-incident.md](../../chronicles/vigilax/vigilax-incident/chapter.md) as companion to [vigilax-triangulation.md](../../chronicles/vexillum-chronicles/vigilax-triangulation/chapter.md); **VIII** uses [helbrecht-witness-ford-meeting.md](../../chronicles/audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) as companion to [witness-ford-octava.md](../../chronicles/vexillum-chronicles/witness-ford-octava/chapter.md). *Strategium* extracts: [vexillum-register](../../chronicles/vexillum-register/INDEX.md).
 
 | Vex. | Anchor / specialty (field 3 — icon direction) | Greatest success (field 4) | Chronicle / note |
 |------|-----------------------------------------------|----------------------------|------------------|
@@ -118,7 +118,7 @@ Every **Legatus** *Alabarda Vexillum* for **2nd–9th Vexillatio** carries **fou
 * [dossier-valerius.md](../character-dossiers/expunged/dossier-valerius.md) — expunged First Legatus  
 * [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md) — execution context
 * [vexillum-register/](../../chronicles/vexillum-register/) — *Strategium* after-action memoranda for **field 4** certified actions  
-* [14-vexillum-chronicles/](../../chronicles/vexillum-chronicles/INDEX.md) — longform narratives (**III** / **VIII** pair with [vigilax-incident.md](../../chronicles/vigilax/vigilax-incident/chapter.md) / [helbrecht-witness-ford-meeting.md](../../chronicles/audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md); **X** *Decima* justice cloth: [decima-justice-vexillum.md](../../chronicles/silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md); Malakor sentence: [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md))
+* [vexillum-chronicles/](../../chronicles/vexillum-chronicles/INDEX.md) — longform narratives (**III** / **VIII** pair with [vigilax-incident.md](../../chronicles/vigilax/vigilax-incident/chapter.md) / [helbrecht-witness-ford-meeting.md](../../chronicles/audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md); **X** *Decima* justice cloth: [decima-justice-vexillum.md](../../chronicles/silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md); Malakor sentence: [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md))
 
 ---
 

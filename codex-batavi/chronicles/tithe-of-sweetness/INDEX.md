@@ -2,7 +2,6 @@
 
 **Span / role:** Martha kitchen vignette
 
-**Legacy redirect:** [`../10-tithe-of-sweetness/README.md`](../10-tithe-of-sweetness/README.md)
 
 | Slug | File |
 |------|------|

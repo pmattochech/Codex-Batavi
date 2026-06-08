@@ -2,7 +2,7 @@
 
 **Status:** Slug-tree migration **complete** (May 2026). **Imperial span:** **050.M42 – 150.M42** — Castellan present, emotionally hollowed; Legati carry what Alaric cannot.
 
-**Hub:** [README.md](README.md) · **Staff:** [`master-chronology.md`](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · **Legacy redirects:** [`../06-silent-vigil/README.md`](../06-silent-vigil/README.md) · [`../legacy-map.md`](../legacy-map.md)
+**Hub:** [README.md](README.md) · **Staff:** [`master-chronology.md`](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · **Legacy map:** [`../legacy-map.md`](../legacy-map.md)
 
 **Parts / subsagas:** [`valerian-heresy/INDEX.md`](valerian-heresy/INDEX.md) *(placeholder name)* · [`corbec-ardens/INDEX.md`](corbec-ardens/INDEX.md) · [`viggo-the-heat-of-the-stone/INDEX.md`](viggo-the-heat-of-the-stone/INDEX.md) · [`iron-venus/INDEX.md`](iron-venus/INDEX.md)
 

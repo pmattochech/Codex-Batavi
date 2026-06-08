@@ -2,7 +2,6 @@
 
 **Span / role:** Mesh mortal texture · Limes · witness inheritance
 
-**Legacy redirect:** [`../09-frontier-life/README.md`](../09-frontier-life/README.md)
 
 | Slug | File |
 |------|------|
