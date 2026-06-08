@@ -5,7 +5,7 @@
 **Classification:** Triumvirate / Custodes eyes · partial open record  
 **Companion chronicle:** [`seal-of-the-portal.md`](seal-of-the-portal.md) (Tyvar — *Nihili Protocol* custody)
 
-**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Outward choke = **Witness Ford**; marsh-channel triangle carries void logistics. **Retired in this prose:** *Porta Nihili*, *Loken Passage*. ***Nihili Protocol*** = **Blackstone Pylon cascade** / warp-leg sterilization — **not** temporal anomaly.
+**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Outward choke = **Witness Ford**; marsh-channel triangle carries void logistics. **Retired in this prose:** *Porta Nihili*, *Loken Passage*. ***Nihili Protocol*** = **Blackstone Pylon cascade** / warp-leg sterilization — **not** temporal anomaly.
 
 ---
 

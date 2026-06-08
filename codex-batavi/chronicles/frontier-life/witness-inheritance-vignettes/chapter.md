@@ -4,9 +4,9 @@
 
 **Purpose:** Exhibit **proximity substrata** in motion — how *Cohors Batavorum* absorbs Castra Vetera habit **without** doctrinal annexes. Not theology; **geometry with breath in it.**
 
-**Doctrine:** [proximity-substrata-and-witness-inheritance.md](../../personae-command-index/doctrine-and-organs/proximity-substrata-and-witness-inheritance.md) · [friction-rites.md](../../personae-command-index/doctrine-and-organs/friction-rites.md)
+**Doctrine:** [proximity-substrata-and-witness-inheritance.md](../../../personae-command-index/doctrine-and-organs/proximity-substrata-and-witness-inheritance.md) · [friction-rites.md](../../../personae-command-index/doctrine-and-organs/friction-rites.md)
 
-**Vocabulary & mortal ear:** [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · [friction-glossary-batavi-mortal-mishearings.md](../../lexicon-and-litanies/friction-glossary-batavi-mortal-mishearings.md)
+**Vocabulary & mortal ear:** [porta-nihili-shared-vocabulary.md](../../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · [friction-glossary-batavi-mortal-mishearings.md](../../../lexicon-and-litanies/friction-glossary-batavi-mortal-mishearings.md)
 
 ---
 
@@ -82,4 +82,4 @@ They believe **what kept the last shift alive long enough to clock out.**
 
 Cross-reference sealed biologies elsewhere. This annex is **only** the noise before the prayer becomes steel.
 
-**Related vocabulary:** [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · **deep culture (example worlds):** [ethnography-aethelgard-prime.md](../../atlas-and-topography/cultures/ethnography-aethelgard-prime.md) · [ethnography-khan-bator-prime.md](../../atlas-and-topography/cultures/ethnography-khan-bator-prime.md)
+**Related vocabulary:** [porta-nihili-shared-vocabulary.md](../../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · **deep culture (example worlds):** [ethnography-aethelgard-prime.md](../../../atlas-and-topography/cultures/ethnography-aethelgard-prime.md) · [ethnography-khan-bator-prime.md](../../../atlas-and-topography/cultures/ethnography-khan-bator-prime.md)

@@ -5,7 +5,7 @@
 **Where:** **V** *Quinta* theater — Aethelgard reef-chain, feral shrine-complex  
 **Who:** **Lieutenant Einar Dreadwolf** (*Amissi*); **Varro**; **Legatus Armin Sturmwahl**; line investigation element (sergeant + neophyte-qualified brothers)
 
-**Cross-references:** [dossier-einar-dreadwolf.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [amissi-the-lost.md](../../personae-command-index/doctrine-and-organs/amissi-the-lost.md) · [steppenwolf-doctrine.md](../../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) §5.1 · [dossier-armin-sturmwahl.md](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [dossier-varro.md](../../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [dreadwolf-red-tide.md](dreadwolf-red-tide/chapter.md) · [dreadwolf-terminus.md](dreadwolf-terminus/chapter.md)
+**Cross-references:** [dossier-einar-dreadwolf.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [amissi-the-lost.md](../../../personae-command-index/doctrine-and-organs/amissi-the-lost.md) · [steppenwolf-doctrine.md](../../../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) §5.1 · [dossier-armin-sturmwahl.md](../../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [dossier-varro.md](../../../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [dreadwolf-red-tide.md](dreadwolf-red-tide/chapter.md) · [dreadwolf-terminus.md](dreadwolf-terminus/chapter.md)
 
 ---
 

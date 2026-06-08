@@ -8,9 +8,9 @@
 **Author:** Alaric von Helis, Lord Castellan of *Cohors Batavorum*  
 **File status:** Revised 160.M42 (*Era of the Root* / Decade of the Sun)
 
-**Geography lock:** **Castra Vetera** / **Nine Phalanx** — *Sanctum Strategium*, Noviomagus Prime; Malakor V cited in original — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md).
+**Geography lock:** **Castra Vetera** / **Nine Phalanx** — *Sanctum Strategium*, Noviomagus Prime; Malakor V cited in original — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md).
 
-**Companion chronicles:** [`biologis-geometry-of-hatred.md`](biologis-geometry-of-hatred/chapter.md) · [`spiritus-vertex-of-condemnation.md`](spiritus-vertex-of-condemnation/chapter.md) · [`malakor-v/chapter.md`](../silent-vigil/valerian-heresy/malakor-v/chapter.md) (field narrative — **primary** for corridor sequence) · [`codex-omega-pendulum.md`](codex-omega-pendulum/chapter.md) (048.M42 — superseded pendulum).
+**Companion chronicles:** [`biologis-geometry-of-hatred.md`](biologis-geometry-of-hatred/chapter.md) · [`spiritus-vertex-of-condemnation.md`](spiritus-vertex-of-condemnation/chapter.md) · [`malakor-v/chapter.md`](../../silent-vigil/valerian-heresy/malakor-v/chapter.md) (field narrative — **primary** for corridor sequence) · [`codex-omega-pendulum.md`](codex-omega-pendulum/chapter.md) (048.M42 — superseded pendulum).
 
 **Staff note:** Original 050.M42 audio transcription contains **memory distortion** on open-channel dialogue (see Addendum A.1). Field record: force-sword sentence, **no** *vox* before or after strike.
 
@@ -259,4 +259,4 @@ The flaw that refuses to die is also flaw that refuses to stop **protecting** on
 
 ---
 
-**Next:** [`malakor-v/chapter.md`](../silent-vigil/valerian-heresy/malakor-v/chapter.md) (field narrative) · [`record-varro-elara/chapter.md`](../silent-vigil/iron-venus/record-varro-elara/chapter.md) (Root / Iron Venus arc) · [`disciplines-and-curia-vexilli.md`](../../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md) (harness codex formalization)
+**Next:** [`malakor-v/chapter.md`](../../silent-vigil/valerian-heresy/malakor-v/chapter.md) (field narrative) · [`record-varro-elara/chapter.md`](../../silent-vigil/iron-venus/record-varro-elara/chapter.md) (Root / Iron Venus arc) · [`disciplines-and-curia-vexilli-plan.md`](../../../planning/disciplines-and-curia-vexilli-plan.md) (harness codex formalization)

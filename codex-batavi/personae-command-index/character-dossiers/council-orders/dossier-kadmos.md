@@ -117,4 +117,4 @@
 
 For Silent Vigil expansion, Kadmos’s command virtue is **execution rigor under partial knowledge**; his failure-risk profile is **mechanical certainty bias** (assuming lockout geometry can solve what is still a moral-command fracture).
 
-**Cross-reference:** [07-decima-gatekeepers.md](../../../chronicles/silent-vigil/decima-gatekeepers/chapter.md) · [09-war-game-black-mirror.md](../../../chronicles/silent-vigil/war-game-black-mirror/chapter.md) · [protocol-access-matrix.md](../../doctrine-and-organs/protocol-access-matrix.md).
+**Cross-reference:** [decima-gatekeepers/chapter.md](../../../chronicles/silent-vigil/decima-gatekeepers/chapter.md) · [war-game-black-mirror/chapter.md](../../../chronicles/silent-vigil/war-game-black-mirror/chapter.md) · [protocol-access-matrix.md](../../doctrine-and-organs/protocol-access-matrix.md).

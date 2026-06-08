@@ -3,7 +3,7 @@
 **Date:** 050.M42  
 **Theater:** Malakor V — peripheral sector of the Nine Phalanx, Cicatrix Maledictum influence zone  
 **Characters:** Alaric von Helis, Drusus (rear guard), Varro (doctrinal witness), the Versibar of the I Vexillatio  
-**Scope:** **Valerian Heresy** — **I** *Prima* rot; **~300** Chapter losses (**KIA** / **Versibar**) in the wider Malakor theater; first **documented** **battlefield** ***Adversarii at Portas*** correlation ([`projection-aurea-wolfs-curse.md`](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — **Exanimus Testament**).
+**Scope:** **Valerian Heresy** — **I** *Prima* rot; **~300** Chapter losses (**KIA** / **Versibar**) in the wider Malakor theater; first **documented** **battlefield** ***Adversarii at Portas*** correlation ([`projection-aurea-wolfs-curse.md`](../../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — **Exanimus Testament**).
 
 ---
 
@@ -243,4 +243,4 @@ The Silent Vigil would last **one hundred years**. What changed was the **weight
 
 ---
 
-*Justice vexillum commission (051.M42 — tenth lattice standard):* [decima-justice-vexillum.md](../silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md) · *Armourium* annex: [register-decima-malakor-justice.md](../vexillum-register/register-decima-malakor-justice.md).
+*Justice vexillum commission (051.M42 — tenth lattice standard):* [decima-justice-vexillum.md](../decima-justice-vexillum/chapter.md) · *Armourium* annex: [register-decima-malakor-justice.md](../../vexillum-register/register-decima-malakor-justice.md).

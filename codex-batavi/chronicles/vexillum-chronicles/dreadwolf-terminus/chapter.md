@@ -89,4 +89,4 @@ Varro closed the *Vermilion* line on the slate:
 | Gene-seed | **No harvest** — tissue annihilated; protocol destroy |
 | *Alabarda* field 4 | **No** — closure of watch file, not triumph panel |
 
-**Cross-reference:** [dossier-einar-dreadwolf.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [aar-vex-v-dreadwolf-red-tide.md](../vexillum-register/aar-vex-v-dreadwolf-red-tide.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §VI.
+**Cross-reference:** [dossier-einar-dreadwolf.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [aar-vex-v-dreadwolf-red-tide.md](../vexillum-register/aar-vex-v-dreadwolf-red-tide.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §VI.

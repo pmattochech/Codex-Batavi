@@ -1,12 +1,12 @@
 # [CHRONICLE] LEGATUS RING — POST-VOICES CONSENSUS
 
 **Classification:** sealed council narrative — nine-seat Ring session  
-**When:** **~055.M42** (same cycle as [`06-old-voices-council.md`](06-old-voices-council.md); convened after Old Voices adjourned)  
+**When:** **~055.M42** (same cycle as [`old-voices-council/chapter.md`](old-voices-council/chapter.md); convened after Old Voices adjourned)  
 **Where:** Noviomagus Prime — *Strategium* outer council ring (nine marked stations; vox-filtered; not the black chamber)  
 **Who:** **Varro** (chair), **Drusus**, **Corbec Ardens**, **Henric Kessler**, **Theron Brach**, **Orin Valestrand**, **Armin Sturmwahl**, **Gervas Bifronte**, **Lucan Phaetron**, **Ivar Malevent**, **Cassian Vetra**, **Radulf Castrin** (witness weight)  
-**Cross-references:** [`06-old-voices-council.md`](06-old-voices-council.md) · [`README.md`](README.md) (protocol arc origin) · [`../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md`](../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md)
+**Cross-references:** [`old-voices-council/chapter.md`](old-voices-council/chapter.md) · [`README.md`](README.md) (protocol arc origin) · [`../../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md`](../../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md)
 
-**Geography lock:** **Insula Tenebrarum** · **Noviomagus Prime** (Chapter seat) — [`../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Outward choke **Witness Ford** referenced in terminal law debate only.
+**Geography lock:** **Insula Tenebrarum** · **Noviomagus Prime** (Chapter seat) — [`../../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Outward choke **Witness Ford** referenced in terminal law debate only.
 
 ---
 
@@ -156,4 +156,4 @@ Then he left to make Secunda’s ledger honest enough to survive the day the bar
 
 ---
 
-**Next:** [`07-decima-gatekeepers.md`](07-decima-gatekeepers.md) · ~055.M42 · limited-custody mechanics
+**Next:** [`decima-gatekeepers/chapter.md`](decima-gatekeepers/chapter.md) · ~055.M42 · limited-custody mechanics

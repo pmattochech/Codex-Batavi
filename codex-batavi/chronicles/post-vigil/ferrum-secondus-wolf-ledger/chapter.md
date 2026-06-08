@@ -4,9 +4,9 @@
 **When:** **~183.M42** (six years before Hive Vespera Red Harvest)  
 **Where:** Noviomagus Prime — **Hive Ferrum-Secondus** (industrial ring; forge-adjacent labor lattice)  
 **Who:** **Branimir Vorhalt** (*Decanus Primus*, Silence Cohort) with **forty** ivory pauldrons; **Marshal Acastian Vhal** (Adeptus Arbites, first Noviomagus co-supervision on record for Castellan-idol cases); **Alaric von Helis** (public refusal of redirected devotion); guild stewards of **House Kethmar-Residual** (struck from law post-action)  
-**Cross-references:** [hive-vespera-red-harvest.md](hive-vespera-red-harvest/chapter.md) *(successor purge)* · [proof-of-chain/chapter.md](../silent-vigil/proof-of-chain/chapter.md) · [`contingency-axiom-lupus.md`](../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md) · [dossier-branimir.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md)
+**Cross-references:** [hive-vespera-red-harvest.md](hive-vespera-red-harvest/chapter.md) *(successor purge)* · [proof-of-chain/chapter.md](../silent-vigil/proof-of-chain/chapter.md) · [`contingency-axiom-lupus.md`](../../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md) · [dossier-branimir.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md)
 
-**Geography lock:** **Insula Tenebrarum** · **Noviomagus Prime** — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Internal corrective action — not frontier theater.
+**Geography lock:** **Insula Tenebrarum** · **Noviomagus Prime** — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Internal corrective action — not frontier theater.
 
 ---
 

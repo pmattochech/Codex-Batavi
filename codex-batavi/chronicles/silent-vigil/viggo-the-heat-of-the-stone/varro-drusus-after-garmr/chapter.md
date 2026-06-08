@@ -4,7 +4,7 @@
 **When:** **~055.M42** (immediately after [`varro-anima-speculum.md`](varro-anima-speculum.md))  
 **Where:** Noviomagus Prime — *Reclusiam* sub-vault, adjoining *Apothecarion* corridor  
 **Who:** **Varro** (Judex), **Drusus** (Chief Apothecary), subject of concern **Alaric von Helis**  
-**Cross-references:** [`garmr-witness-dravic.md`](garmr-witness-dravic.md) · [`viggo-saga.md`](viggo-saga.md)
+**Cross-references:** [`garmr-witness-dravic.md`](garmr-witness-dravic.md) · [`viggo-saga.md`](../seed-in-iron/chapter.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 The Chapter operates under a rigid split between **harnessed predisposition** (trained disciplines + *Curia* clearance) and **failure** (Wolf’s Curse degeneration, §B).
 
-**A) CHIMERIC FUEL AND THREE DISCIPLINES (Cawl’s architecture; Chapter harness)** *Chimeric gene-seed carries **predisposition**, not a license to possess the line. Internal registers model **primary scaffold** and **secondary imprint** (treason-sensitivity axis) — pressure that rises near matching threat signatures. *(Legacy draft may still read “Strand α/β”; **new prose** uses plain terms per [`progenitor-classification.md`](../personae-command-index/doctrine-and-organs/progenitor-classification.md).)* The brother **enters form** through trained rite and ***Curia Vexilli*** clearance; unmanaged fuel advances **Wolf’s Curse** (§B). Full doctrine: [`../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md`](../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md). POV layers: [`../personae-command-index/doctrine-and-organs/progenitor-classification.md`](../personae-command-index/doctrine-and-organs/progenitor-classification.md).*
+**A) CHIMERIC FUEL AND THREE DISCIPLINES (Cawl’s architecture; Chapter harness)** *Chimeric gene-seed carries **predisposition**, not a license to possess the line. Internal registers model **primary scaffold** and **secondary imprint** (treason-sensitivity axis) — pressure that rises near matching threat signatures. *(Legacy draft may still read “Strand α/β”; **new prose** uses plain terms per [`progenitor-classification.md`](../personae-command-index/doctrine-and-organs/progenitor-classification.md).)* The brother **enters form** through trained rite and ***Curia Vexilli*** clearance; unmanaged fuel advances **Wolf’s Curse** (§B). Harness spec (planning): [`../planning/disciplines-and-curia-vexilli-plan.md`](../planning/disciplines-and-curia-vexilli-plan.md). POV layers: [`../personae-command-index/doctrine-and-organs/progenitor-classification.md`](../personae-command-index/doctrine-and-organs/progenitor-classification.md).*
 
 | Discipline | Fuel signature (predisposition rises) |
 |------------|-------------------------------------|
@@ -25,7 +25,7 @@ The Chapter operates under a rigid split between **harnessed predisposition** (t
 - The Cull: **corruption depth** + **proximity to Horus line** — not headcount.  
 - Cult / genestealer networks without fleet Shadow: **Silence Cohort**, *Lex Imperialis* — not deep March by default.
 
-**Historical mass events** (e.g. South Wall cellular detonation, company “deck drop” after Ork clearance): filed **pre-*Curia*** or **unauthorized depth** — not post–Malakor steady state. See [`../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md`](../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md) §2 (historical note).
+**Historical mass events** (e.g. South Wall cellular detonation, company “deck drop” after Ork clearance): filed **pre-*Curia*** or **unauthorized depth** — not post–Malakor steady state. See [`../planning/disciplines-and-curia-vexilli-plan.md`](../planning/disciplines-and-curia-vexilli-plan.md) §2 (historical note).
 
 **B) WOLF’S CURSE (failure)** *Chimeric lineage genetic degeneration. A biological ratchet: anatomical progression is strictly irreversible. Once a Batavi reaches a new degradation stage, physical stigmata remain permanent even if logical mind recovers.*
 

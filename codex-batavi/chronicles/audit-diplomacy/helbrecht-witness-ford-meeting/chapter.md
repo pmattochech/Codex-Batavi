@@ -2,7 +2,7 @@
 
 **When:** 096.M42 (Silent Vigil)  
 **Where:** **Witness Ford** outward choke — **Threshold** mesh patrol bastion; **Tempest Marsh Channel** transit authorization in effect  
-**Geography lock:** [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Retired in new prose: *Porta Nihili*, *Loken Passage*.
+**Geography lock:** [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
 ---
 
@@ -84,4 +84,4 @@ They had traded **the only coin that survives in the *Nihilus***: proof each kne
 
 ---
 
-**Cross-reference:** [wolf-daughter/chapter.md](../silent-vigil/iron-venus/wolf-daughter/chapter.md) (165.M42, *The Wooden Sword*). [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV. **VIII** *Octava* lens: [witness-ford-octava.md](../vexillum-chronicles/witness-ford-octava/chapter.md).
+**Cross-reference:** [wolf-daughter/chapter.md](../silent-vigil/iron-venus/wolf-daughter/chapter.md) (165.M42, *The Wooden Sword*). [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV. **VIII** *Octava* lens: [witness-ford-octava.md](../vexillum-chronicles/witness-ford-octava/chapter.md).

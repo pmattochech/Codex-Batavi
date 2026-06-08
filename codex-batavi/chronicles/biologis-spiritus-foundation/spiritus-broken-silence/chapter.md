@@ -5,9 +5,9 @@
 **Classification:** *Vermilion* / Judex eyes  
 **Reporter:** Master Chaplain Varro (Guardian of the Soul)
 
-**Geography lock:** **Insula Tenebrarum** · **Noviomagus Prime** (*Castrum Ferrum*, *Reclusiam*) — detection at **Witness Ford** / **Threshold** arrays — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Retired in new prose: *Porta Nihili*, *Loken Passage*.
+**Geography lock:** **Insula Tenebrarum** · **Noviomagus Prime** (*Castrum Ferrum*, *Reclusiam*) — detection at **Witness Ford** / **Threshold** arrays — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
-**Historical hazard (staff filing):** Chapter-wide ***Exanimus* coma** and hypovolemic deck collapse after Ork clearance = **pre-***Curia Vexilli*** / unauthorized depth** — soul and body paid a bill harness had not yet learned to itemize ([`disciplines-and-curia-vexilli.md`](../../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md) §2.1).
+**Historical hazard (staff filing):** Chapter-wide ***Exanimus* coma** and hypovolemic deck collapse after Ork clearance = **pre-***Curia Vexilli*** / unauthorized depth** — soul and body paid a bill harness had not yet learned to itemize ([`disciplines-and-curia-vexilli-plan.md`](../../../planning/disciplines-and-curia-vexilli-plan.md) §2.1).
 
 **Companion chronicles:** [`green-tempest.md`](../green-tempest/green-tempest/chapter.md) (*Strategium* surface) · [`biologis-monsoon.md`](biologis-monsoon/chapter.md) (Drusus — hormone ledger) · [`biologis-iron-mitosis.md`](biologis-iron-mitosis/chapter.md) (Alpha cocoon — flesh ledger).
 

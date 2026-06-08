@@ -5,7 +5,7 @@
 **Where:** Castra-Vetera Prime — upper stack, **Ministry of Tithe Lex**  
 **Who:** **II** *Secunda* under **Legatus Henric Kessler** (*Measured Line*)
 
-**Cross-references:** [dossier-henric-kessler.md](../../personae-command-index/character-dossiers/legati/dossier-henric-kessler.md) · [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV
+**Cross-references:** [dossier-henric-kessler.md](../../../personae-command-index/character-dossiers/legati/dossier-henric-kessler.md) · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV
 
 ---
 

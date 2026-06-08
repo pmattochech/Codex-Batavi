@@ -8,7 +8,7 @@
 **Author:** Alaric von Helis, Lord Castellan of *Cohors Batavorum*  
 **Subject:** Doctrinal synthesis of **chimeric predisposition** — command ledger
 
-**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** — *Sanctum Strategium*, Noviomagus Prime — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Wars cited: Noviomagus Prime South Wall (046.M42) · **Noviomagus Secundus** mines (048.M42).
+**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** — *Sanctum Strategium*, Noviomagus Prime — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Wars cited: Noviomagus Prime South Wall (046.M42) · **Noviomagus Secundus** mines (048.M42).
 
 **Historical hazard (staff filing):** Mass Wild Hunt **rebound** (South Wall deck collapse) = **pre-***Curia Vexilli*** / unauthorized depth** — not post-~051.M42 harness norm.
 

@@ -43,9 +43,9 @@ Chapter-wide redundancy (promoted from former vex Genetor / Confessor):
 | **Genetor Primus** | Co-signs depth/rotation tables; audits nine vex Genetors; Watch disclosure under Drusus |
 | **Confessor Primus** | Co-signs conduct caps; audits nine vex Confessors; penance law under Varro |
 
-Origin: informal ***Prima*** council after **Valerian Heresy**; **officialized *ca.* 051.M42** with post–Malakor lattice. Disciplines, fuel vs form, rotation: [`disciplines-and-curia-vexilli.md`](disciplines-and-curia-vexilli.md).
+Origin: informal ***Prima*** council after **Valerian Heresy**; **officialized *ca.* 051.M42** with post–Malakor lattice. Disciplines, fuel vs form, rotation (planning spec): [`disciplines-and-curia-vexilli-plan.md`](../../planning/disciplines-and-curia-vexilli-plan.md).
 
-**Legatus Ring (chapter-wide):** Nine marked stations — Legati **I–IX** — for cross-vex operational consensus; distinct from per-vex ***Curia Vexilli*** and from sealed **Old Voices** genesis sessions. **~055.M42** Ring ratified **Contingency Axiom Lupus** custody before Decima mechanics — [`06-post-voices-legatus-ring.md`](../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md); staff substitution map: [`contingency-axiom-lupus.md`](contingency-axiom-lupus.md) §8 · [`protocol-access-matrix.md`](protocol-access-matrix.md) §4.
+**Legatus Ring (chapter-wide):** Nine marked stations — Legati **I–IX** — for cross-vex operational consensus; distinct from per-vex ***Curia Vexilli*** and from sealed **Old Voices** genesis sessions. **~055.M42** Ring ratified **Contingency Axiom Lupus** custody before Decima mechanics — [`post-voices-legatus-ring/chapter.md`](../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md); staff substitution map: [`contingency-axiom-lupus.md`](contingency-axiom-lupus.md) §8 · [`protocol-access-matrix.md`](protocol-access-matrix.md) §4.
 
 *Heraldry, line divisions, cohort grid:* [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md). *Vexillatio weapon and chassis bias:* [vexillatio-operational-armory.md](../../arsenal-and-logistics/vexillatio-operational-armory.md).
 

@@ -2,7 +2,7 @@
 
 **Record:** civilian annex — **bottle creole**, shared forks, **no tactical data**
 
-**Shared terms:** [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · **triptych POVs:** [porta-nihili-mortals-triptych.md](porta-nihili-mortals-triptych/chapter.md)
+**Shared terms:** [porta-nihili-shared-vocabulary.md](../../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · **triptych POVs:** [porta-nihili-mortals-triptych.md](porta-nihili-mortals-triptych/chapter.md)
 
 ---
 

@@ -13,5 +13,6 @@ Thematic structure. Immutable rules: `.cursorrules` (in this folder; copy also a
 | [biological-encyclopedia-bestiary](biological-encyclopedia-bestiary/INDEX.md) | chimeric predisposition, Wolf’s Curse, biogeographic matrices, named specimens, Viggo |
 | [lexicon-and-litanies](lexicon-and-litanies/INDEX.md) | Der Batav myth, operational philosophy |
 | [political-relations](political-relations/INDEX.md) | Ecclesiarchy, Inquisition, Lex Imperialis |
+| [planning](planning/) | Draft specs and backlog — e.g. [disciplines-and-curia-vexilli-plan.md](planning/disciplines-and-curia-vexilli-plan.md) |
 
 **Maintenance:** automatic split from legacy monoliths — `../scripts/split_codex_markdown.py` and `../scripts/organize_codex.py` (the latter expects files `02_…`–`08_…` **in this** `codex-batavi/` folder; do not rerun without restoring sources).

@@ -5,7 +5,7 @@
 **Where:** **Vitreus** — lens-forge arcology, **orbital plate Seven**  
 **Who:** **VII** *Septima* under **Legatus Lucan Phaetron**; *Armourium* plasma auditors; Mechanicus allied elements
 
-**Cross-references:** [dossier-lucan-phaetron.md](../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexillatio-operational-armory.md](../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.7 · [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3
+**Cross-references:** [dossier-lucan-phaetron.md](../../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.7 · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3
 
 ---
 

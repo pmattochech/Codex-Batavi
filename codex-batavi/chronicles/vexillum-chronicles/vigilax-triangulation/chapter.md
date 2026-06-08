@@ -6,7 +6,7 @@
 **Where:** Vigilax Prime — **Serragris** (echo only here) · **Marna-Down** tube sector  
 **Who:** **III** *Tertia* under **Legatus Theron Brach**; **Drusus** (*Medicinae*); Chaplain **Varro** (parallel thread — see companion)
 
-**Cross-references:** [dossier-theron-brach.md](../../personae-command-index/character-dossiers/legati/dossier-theron-brach.md) · [aar-vex-iii-vigilax-triangulation.md](../vexillum-register/aar-vex-iii-vigilax-triangulation.md) · [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §VI
+**Cross-references:** [dossier-theron-brach.md](../../../personae-command-index/character-dossiers/legati/dossier-theron-brach.md) · [aar-vex-iii-vigilax-triangulation.md](../vexillum-register/aar-vex-iii-vigilax-triangulation.md) · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §VI
 
 ---
 

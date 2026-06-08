@@ -251,7 +251,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Command squads:** Legatus retinue around ***Alabarda*** — relay bearers, Confessor / Genetor aides, champion-grade duelists as needed; not *Codex* 10-man company command clone.
 
-**Other:** **Genetor Primus**, **Confessor Primus** — Chapter-wide banner-court audit ([disciplines-and-curia-vexilli.md](doctrine-and-organs/disciplines-and-curia-vexilli.md)). **Steppenwolf** detached registry ([steppenwolf-doctrine.md](doctrine-and-organs/steppenwolf-doctrine.md)).
+**Other:** **Genetor Primus**, **Confessor Primus** — Chapter-wide banner-court audit ([`disciplines-and-curia-vexilli-plan.md`](../planning/disciplines-and-curia-vexilli-plan.md)). **Steppenwolf** detached registry ([steppenwolf-doctrine.md](doctrine-and-organs/steppenwolf-doctrine.md)).
 
 ### Specialist ranks
 

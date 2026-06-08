@@ -7,11 +7,11 @@
 **Reporter:** Scribes of the Castra Vetera *Strategium* (oversight: Chief Apothecary Drusus)  
 **Threat:** Xenos invasion — *Waaagh! Skarjaw*
 
-**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). **Noviomagus Prime** (*Castrum Ferrum*); outward detection at **Witness Ford** / **Threshold** deep-listening arrays. Retired in new prose: *Porta Nihili*, *Loken Passage*.
+**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). **Noviomagus Prime** (*Castrum Ferrum*); outward detection at **Witness Ford** / **Threshold** deep-listening arrays. Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
 **Precedent arc:** Foundation War closed on instrument — [`instrumentum-solum/chapter.md`](../foundation-war/Q4-der-batav/instrumentum-solum/chapter.md). This record opens the **expansion-threshold** era: the Chapter files war as geometry again, not ledger alone.
 
-**Historical hazard (staff filing):** Mass *Exanimus* coma and chapter-wide deck collapse after Ork clearance = **pre-***Curia Vexilli*** / unauthorized depth** — not post-~051.M42 harness norm ([`disciplines-and-curia-vexilli.md`](../../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md) §2.1).
+**Historical hazard (staff filing):** Mass *Exanimus* coma and chapter-wide deck collapse after Ork clearance = **pre-***Curia Vexilli*** / unauthorized depth** — not post-~051.M42 harness norm ([`disciplines-and-curia-vexilli-plan.md`](../../../planning/disciplines-and-curia-vexilli-plan.md) §2.1).
 
 ---
 

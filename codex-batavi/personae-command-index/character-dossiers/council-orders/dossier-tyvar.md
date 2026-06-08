@@ -77,4 +77,4 @@ For Silent Vigil expansion, Tyvar’s command virtue is **cold threshold clarity
 
 ## 8. [WIKI] CROSS-REFERENCES
 
-[`07-decima-gatekeepers.md`](../../../chronicles/silent-vigil/decima-gatekeepers/chapter.md) · [`08-protocol-forged-in-iron.md`](../../../chronicles/silent-vigil/protocol-forged-in-iron/chapter.md) · [`09-war-game-black-mirror.md`](../../../chronicles/silent-vigil/war-game-black-mirror/chapter.md) · [`proof-of-chain/chapter.md`](../../../chronicles/silent-vigil/proof-of-chain/chapter.md) · [`protocol-access-matrix.md`](../../doctrine-and-organs/protocol-access-matrix.md)
+[`decima-gatekeepers/chapter.md`](../../../chronicles/silent-vigil/decima-gatekeepers/chapter.md) · [`protocol-forged-in-iron/chapter.md`](../../../chronicles/silent-vigil/protocol-forged-in-iron/chapter.md) · [`war-game-black-mirror/chapter.md`](../../../chronicles/silent-vigil/war-game-black-mirror/chapter.md) · [`proof-of-chain/chapter.md`](../../../chronicles/silent-vigil/proof-of-chain/chapter.md) · [`protocol-access-matrix.md`](../../doctrine-and-organs/protocol-access-matrix.md)

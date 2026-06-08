@@ -17,7 +17,6 @@
 - [council-and-librarium.md](doctrine-and-organs/council-and-librarium.md) — Extended Council; Haruspicium / Blindgate; **§5–§6** upstream quartet & downstream issuance
 - [batavi-affect-kinesics-and-mortal-literacy.md](doctrine-and-organs/batavi-affect-kinesics-and-mortal-literacy.md) — affect–display decoupling; reaction-class kinesics; mortal read-rights; Castellan mortal interface
 - [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md)
-- [disciplines-and-curia-vexilli.md](doctrine-and-organs/disciplines-and-curia-vexilli.md) — Wild Hunt / March of the Machine / The Cull; *Curia Vexilli*; Genetor Primus / Confessor Primus
 - [friction-rites.md](doctrine-and-organs/friction-rites.md)
 - [proximity-substrata-and-witness-inheritance.md](doctrine-and-organs/proximity-substrata-and-witness-inheritance.md) — silent cultural intake via Castra Vetera proximity; Judex filtration; neophyte increment
 - [steppenwolf-doctrine.md](doctrine-and-organs/steppenwolf-doctrine.md) — detached brothers; perpetual Watch / rim teams; slang etymology (White Scars / Chogoris loan)

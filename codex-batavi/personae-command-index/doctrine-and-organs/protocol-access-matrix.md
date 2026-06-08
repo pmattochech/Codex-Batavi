@@ -121,7 +121,7 @@ Substitute may not execute kill-route phases without **Drusus** briefing certifi
 - **Drusus unavailable:** Clinical lock frozen at last hash; Varro + Tyvar may execute Tier II firewall; Tier III requires dual Tier A Legatus confirm + Tyvar readiness.
 - **Both unavailable:** Tyvar + Radulf + Corbec convoke emergency Ring; Tier B executors only until Tier A reconstituted.
 
-*Ring session:* [`06-post-voices-legatus-ring.md`](../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md)
+*Ring session:* [`post-voices-legatus-ring/chapter.md`](../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md)
 
 ---
 

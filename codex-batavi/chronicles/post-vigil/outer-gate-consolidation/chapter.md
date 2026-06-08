@@ -4,7 +4,7 @@
 **When:** **180.M42** *(secondary Imperial filing; CV annals primary)*  
 **Where:** **Witness Ford** outward choke · **Noviomagus Prime** *Strategium* · Outer Gate fleet command (`***Wrath of Noviomagus***` registry band)  
 **Who:** **Elara Solis** (Admiral, Outer Gate fleet — age **~30**); **Alaric von Helis**; **Inquisitor Vane** (Ordo Hereticus — final subsector audit); **Shield-Captain Tyvar**; Triumvirate (**Drusus**, **Varro**)  
-**Cross-references:** [wolf-daughter/chapter.md](../silent-vigil/iron-venus/wolf-daughter/chapter.md) *(Throne briefing handoff — prior cycle)* · [call-to-the-throne.md](../apotheosis/call-to-the-throne/chapter.md) · [ferrum-secondus-wolf-ledger.md](ferrum-secondus-wolf-ledger/chapter.md) · [hive-vespera-red-harvest.md](hive-vespera-red-harvest/chapter.md) *(idol drift successor)* · [`inquisition-geometry.md`](../../political-relations/inquisition-geometry.md)
+**Cross-references:** [wolf-daughter/chapter.md](../silent-vigil/iron-venus/wolf-daughter/chapter.md) *(Throne briefing handoff — prior cycle)* · [call-to-the-throne.md](../apotheosis/call-to-the-throne/chapter.md) · [ferrum-secondus-wolf-ledger.md](ferrum-secondus-wolf-ledger/chapter.md) · [hive-vespera-red-harvest.md](hive-vespera-red-harvest/chapter.md) *(idol drift successor)* · [`inquisition-geometry.md`](../../../political-relations/inquisition-geometry.md)
 
 **Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — outward filter = **Witness Ford**. Retired in new prose: *Porta Nihili*, *Loken Passage*.
 

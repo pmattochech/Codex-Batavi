@@ -6,9 +6,9 @@
 **Reporter:** Chief Apothecary Drusus, Lord of the *Castrum Medicae*  
 **Object of study:** **IV** *Quarta* (4th Cohort) · limbic collapse under **Shadow in the Warp**
 
-**Geography lock:** **Insula Tenebrarum** · **Noviomagus Secundus** (industrial mining body, Castra Vetera mesh) — primary forge **Noviomagus Prime** on separate filing — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Tyranid contact = **fleet-scale** *Hive Mind* veil — **not** lone Genestealer cult geometry ([`projection-aurea-wolfs-curse.md`](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §A).
+**Geography lock:** **Insula Tenebrarum** · **Noviomagus Secundus** (industrial mining body, Castra Vetera mesh) — primary forge **Noviomagus Prime** on separate filing — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Tyranid contact = **fleet-scale** *Hive Mind* veil — **not** lone Genestealer cult geometry ([`projection-aurea-wolfs-curse.md`](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §A).
 
-**Historical hazard (staff filing):** Uncontrolled **March** *loop* persistence post-battle = **pre-***Curia Vexilli*** harness gap** — biology answered swarm horror before rite learned off-switch and rotation ([`disciplines-and-curia-vexilli.md`](../../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md)).
+**Historical hazard (staff filing):** Uncontrolled **March** *loop* persistence post-battle = **pre-***Curia Vexilli*** harness gap** — biology answered swarm horror before rite learned off-switch and rotation ([`disciplines-and-curia-vexilli-plan.md`](../../../planning/disciplines-and-curia-vexilli-plan.md)).
 
 **Companion chronicles:** [`biologis-monsoon.md`](biologis-monsoon/chapter.md) (046.M42 — Wild Hunt axis) · [`spiritus-void-drought.md`](spiritus-void-drought/chapter.md) (Varro — soul frequency) · [`chimera-pendulum.md`](../projection-aurea-codex-omega/chimera-pendulum/chapter.md) (Triumvirate conclave — pendulum named).
 

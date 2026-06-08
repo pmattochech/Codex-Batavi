@@ -2,7 +2,7 @@
 
 **Record:** civilian annex — **faith of work**, **bottle creole**, no tactical classified data
 
-**Vocabulary:** [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · cultures: [worlds-central-bastion.md](../../atlas-and-topography/cultures/worlds-central-bastion.md), [worlds-crucible.md](../../atlas-and-topography/cultures/worlds-crucible.md), [worlds-threshold.md](../../atlas-and-topography/cultures/worlds-threshold.md) · **cross-world market yarn:** [bottle-fair-yarn.md](bottle-fair-yarn/chapter.md)
+**Vocabulary:** [porta-nihili-shared-vocabulary.md](../../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · cultures: [worlds-central-bastion.md](../../../atlas-and-topography/cultures/worlds-central-bastion.md), [worlds-crucible.md](../../../atlas-and-topography/cultures/worlds-crucible.md), [worlds-threshold.md](../../../atlas-and-topography/cultures/worlds-threshold.md) · **cross-world market yarn:** [bottle-fair-yarn.md](bottle-fair-yarn/chapter.md)
 
 ---
 

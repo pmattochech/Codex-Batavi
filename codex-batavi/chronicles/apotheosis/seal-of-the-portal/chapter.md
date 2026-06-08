@@ -5,7 +5,7 @@
 **Classification:** observational record · no classified inventory designation on open register  
 **Companion chronicle:** [`call-to-the-throne.md`](call-to-the-throne.md) (Trajann calibration · protocol handoff)
 
-**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Outward choke = **Witness Ford**. ***Nihili Protocol*** closes the mesh by **pylon cascade** — corridor sealed, not “time undone.” **Retired in this prose:** *Porta Nihili*, *Loken Passage*.
+**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Outward choke = **Witness Ford**. ***Nihili Protocol*** closes the mesh by **pylon cascade** — corridor sealed, not “time undone.” **Retired in this prose:** *Porta Nihili*, *Loken Passage*.
 
 ---
 

@@ -6,7 +6,7 @@
 **Reporter:** Chief Apothecary Drusus, Lord of the *Castrum Medicae*  
 **Object of study:** Alaric von Helis — **predatory reconstruction** / **iron mitosis** (provisional term)
 
-**Geography lock:** **Noviomagus Prime** · *Castrum Medicae* / *Apothecarion* — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Campaign context: [`biologis-monsoon.md`](biologis-monsoon/chapter.md) · [`green-tempest.md`](../green-tempest/green-tempest/chapter.md).
+**Geography lock:** **Noviomagus Prime** · *Castrum Medicae* / *Apothecarion* — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Campaign context: [`biologis-monsoon.md`](biologis-monsoon/chapter.md) · [`green-tempest.md`](../green-tempest/green-tempest/chapter.md).
 
 **Staff note:** Mass line-brother **predatory reconstruction** in adjacent tanks = same **pre-***Curia*** Wild Hunt rebound** class as monsoon filing; Castellan case = **Alpha frequency** exception band.
 

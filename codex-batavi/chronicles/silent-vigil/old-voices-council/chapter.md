@@ -4,7 +4,7 @@
 **When:** **~055.M42** (next cycle after [`fracture-recognition/chapter.md`](fracture-recognition/chapter.md))  
 **Where:** Noviomagus Prime — Strategium council ring  
 **Who:** **Varro**, **Drusus**, **Corbec Ardens**, **Armin Sturmwahl**, with limited-phase mention of **Kadmos**, **Otho**, **Tyvar**  
-**Cross-references:** [`fracture-recognition/chapter.md`](fracture-recognition/chapter.md) · [`../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md`](../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md)
+**Cross-references:** [`fracture-recognition/chapter.md`](fracture-recognition/chapter.md) · [`../../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md`](../../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md)
 
 ---
 
@@ -200,4 +200,4 @@ The officers left in pairs and silence, each carrying a different share of the s
 
 ---
 
-**Next:** [`06-post-voices-legatus-ring.md`](06-post-voices-legatus-ring.md) · ~055.M42 · nine-seat Ring consensus
+**Next:** [`post-voices-legatus-ring/chapter.md`](post-voices-legatus-ring/chapter.md) · ~055.M42 · nine-seat Ring consensus

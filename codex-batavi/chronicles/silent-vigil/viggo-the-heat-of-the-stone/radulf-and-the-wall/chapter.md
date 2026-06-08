@@ -1,10 +1,10 @@
 # [CHRONICLE] RADULF AND THE WALL
 
 **Classification:** Triumvirate-authorized private audience — command recovery sequence  
-**When:** **~055.M42** (morning cycle after `[04-seed-in-iron.md](04-seed-in-iron.md)`)  
+**When:** **~055.M42** (morning cycle after `[seed-in-iron/chapter.md](04-seed-in-iron.md)`)  
 **Where:** Noviomagus Prime — Castellan palace, lower audience vault  
 **Who:** **Radulf Castrin** (*The Old Wolf*), **Alaric von Helis**, **Viggo**  
-**Cross-references:** `[dossier-radulf-castrin.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-radulf-castrin.md)` · `[03-palace-of-the-wall.md](03-palace-of-the-wall.md)`
+**Cross-references:** `[dossier-radulf-castrin.md](../../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-radulf-castrin.md)` · `[palace-of-the-wall/chapter.md](../palace-of-the-wall/chapter.md)`
 
 ---
 

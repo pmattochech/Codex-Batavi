@@ -5,9 +5,9 @@
 **Classification:** *Vermilion* / Judex eyes  
 **Reporter:** Master Chaplain Varro (Guardian of the Soul)
 
-**Geography lock:** **Insula Tenebrarum** · **Noviomagus Secundus** (mining/industrial body, Castra Vetera mesh) — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). **Shadow in the Warp** = fleet-scale *Hive Mind* veil — **not** cult-scale hybrid trigger ([`projection-aurea-wolfs-curse.md`](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §A).
+**Geography lock:** **Insula Tenebrarum** · **Noviomagus Secundus** (mining/industrial body, Castra Vetera mesh) — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). **Shadow in the Warp** = fleet-scale *Hive Mind* veil — **not** cult-scale hybrid trigger ([`projection-aurea-wolfs-curse.md`](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §A).
 
-**Historical hazard (staff filing):** Post-battle **March** *loop* without harness off-switch = **pre-***Curia Vexilli*** gap** — soul and rite lagged biology ([`disciplines-and-curia-vexilli.md`](../../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md)).
+**Historical hazard (staff filing):** Post-battle **March** *loop* without harness off-switch = **pre-***Curia Vexilli*** gap** — soul and rite lagged biology ([`disciplines-and-curia-vexilli-plan.md`](../../../planning/disciplines-and-curia-vexilli-plan.md)).
 
 **Companion chronicles:** [`biologis-drought.md`](biologis-drought/chapter.md) (Drusus — hormone / neural ledger) · [`spiritus-broken-silence.md`](spiritus-broken-silence/chapter.md) (046.M42 — Wild Hunt soul record) · [`chimera-pendulum.md`](../projection-aurea-codex-omega/chimera-pendulum/chapter.md) (Triumvirate conclave).
 

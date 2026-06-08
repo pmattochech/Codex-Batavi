@@ -5,7 +5,7 @@
 **Where:** **Shepherd’s Hook** tide relay → **Kzorn’s Maw** (World Eaters prison hulk) → crash toward **Moraine-Nine** feral hemisphere  
 **Who:** **Lieutenant Einar** (*Quinta* capture squad — twelve brothers, eleven mercy-killed aboard ship)
 
-**Companion (recovery):** [dreadwolf-red-tide.md](dreadwolf-red-tide/chapter.md) · **Cross-references:** [dossier-einar-dreadwolf.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [aar-vex-v-dreadwolf-red-tide.md](../vexillum-register/aar-vex-v-dreadwolf-red-tide.md) · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV
+**Companion (recovery):** [dreadwolf-red-tide.md](dreadwolf-red-tide/chapter.md) · **Cross-references:** [dossier-einar-dreadwolf.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [aar-vex-v-dreadwolf-red-tide.md](../vexillum-register/aar-vex-v-dreadwolf-red-tide.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV
 
 ---
 

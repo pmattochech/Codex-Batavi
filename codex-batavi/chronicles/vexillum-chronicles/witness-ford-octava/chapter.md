@@ -5,9 +5,9 @@
 **Where:** **Witness Ford** choke — **Threshold** mesh; **VIII** *Octava* anchor bastion and hull theater  
 **Companion:** [helbrecht-witness-ford-meeting.md](../audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) (Castellan / Helbrecht / faith audit)
 
-**Geography lock:** [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Retired in new prose: *Porta Nihili*, *Loken Passage*.
+**Geography lock:** [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
-**Cross-references:** [dossier-ivar-malevent.md](../../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) · [aar-vex-viii-witness-ford-intercept.md](../vexillum-register/aar-vex-viii-witness-ford-intercept.md) · [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 · [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV
+**Cross-references:** [dossier-ivar-malevent.md](../../../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) · [aar-vex-viii-witness-ford-intercept.md](../vexillum-register/aar-vex-viii-witness-ford-intercept.md) · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV
 
 ---
 

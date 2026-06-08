@@ -65,7 +65,7 @@
 
 ## 7\. \[WIKI\] CROSS-REFERENCES
 
-*Doctrine:* [`council-and-librarium.md`](../../doctrine-and-organs/council-and-librarium.md) (§5–§6 upstream/downstream issuance) · [`military-hierarchy.md`](../../doctrine-and-organs/military-hierarchy.md) §4.3–§4.5 · [`specialty-cohorts.md`](../../../arsenal-and-logistics/specialty-cohorts.md) §4 · [`GLOSSARY-EN.md`](../../../GLOSSARY-EN.md) (Haruspicium Batavorum, Batavian Haruspex, Blindgate, Broken Haruspicium) · [`07-decima-gatekeepers.md`](../../../chronicles/silent-vigil/decima-gatekeepers/chapter.md) · [`09-war-game-black-mirror.md`](../../../chronicles/silent-vigil/war-game-black-mirror/chapter.md).
+*Doctrine:* [`council-and-librarium.md`](../../doctrine-and-organs/council-and-librarium.md) (§5–§6 upstream/downstream issuance) · [`military-hierarchy.md`](../../doctrine-and-organs/military-hierarchy.md) §4.3–§4.5 · [`specialty-cohorts.md`](../../../arsenal-and-logistics/specialty-cohorts.md) §4 · [`GLOSSARY-EN.md`](../../../GLOSSARY-EN.md) (Haruspicium Batavorum, Batavian Haruspex, Blindgate, Broken Haruspicium) · [`decima-gatekeepers/chapter.md`](../../../chronicles/silent-vigil/decima-gatekeepers/chapter.md) · [`war-game-black-mirror/chapter.md`](../../../chronicles/silent-vigil/war-game-black-mirror/chapter.md).
 
 ---
 

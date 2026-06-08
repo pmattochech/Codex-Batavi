@@ -22,7 +22,7 @@
 | **IX** | *Nona* | [Cassian Vetra](character-dossiers/legati/dossier-cassian-vetra.md) | — |
 | **X** | *Decima* | ** — ** (no Legatus; Triumvirate direct) | Alaric, Drusus, Varro, Kadmos, Otho; Markus Graile (Captain); Cael Dravic (Sergeant) |
 
-**Chapter organ delegates (not Legati):** **Genetor Primus** (*Medicinae*) and **Confessor Primus** (*Reclusiam*) — offices in [`disciplines-and-curia-vexilli.md`](doctrine-and-organs/disciplines-and-curia-vexilli.md); **named holders TBD**.
+**Chapter organ delegates (not Legati):** **Genetor Primus** (*Medicinae*) and **Confessor Primus** (*Reclusiam*) — offices in [`disciplines-and-curia-vexilli-plan.md`](../planning/disciplines-and-curia-vexilli-plan.md); **named holders TBD**.
 
 ---
 

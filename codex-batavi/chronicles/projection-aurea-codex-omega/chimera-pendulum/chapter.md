@@ -7,7 +7,7 @@
 **Classification:** *Magenta* / *Strategium* Inner Circle archives  
 **Reporter:** Scribes of the Inner Circle *(redaction layer: Triumvirate clearance)*
 
-**Geography lock:** **Insula Tenebrarum** · **Nine Phalanx** / **Castra Vetera** crown — *Castrum Medicae* deep vault, Noviomagus Prime — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md).
+**Geography lock:** **Insula Tenebrarum** · **Nine Phalanx** / **Castra Vetera** crown — *Castrum Medicae* deep vault, Noviomagus Prime — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md).
 
 **Companion chronicles:** [`biologis-monsoon.md`](../biologis-spiritus-foundation/biologis-monsoon/chapter.md) (046.M42 — Wild Hunt) · [`biologis-drought.md`](../biologis-spiritus-foundation/biologis-drought/chapter.md) (048.M42 — March) · [`spiritus-broken-silence.md`](../biologis-spiritus-foundation/spiritus-broken-silence/chapter.md) · [`spiritus-void-drought.md`](../biologis-spiritus-foundation/spiritus-void-drought/chapter.md) · [`codex-omega-pendulum.md`](codex-omega-pendulum/chapter.md) (Alaric sealed journal — same night).
 

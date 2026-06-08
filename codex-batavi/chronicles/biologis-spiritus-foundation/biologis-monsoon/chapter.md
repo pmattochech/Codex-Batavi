@@ -6,9 +6,9 @@
 **Reporter:** Chief Apothecary Drusus, Lord of the *Castrum Medicae*  
 **Archive status:** Evolving doctrine / active biological protocol
 
-**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** — [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Detection at **Witness Ford** / **Threshold** arrays; battle theater **Noviomagus Prime** (*Castrum Ferrum*, South Wall). Retired in new prose: *Porta Nihili*, *Loken Passage*.
+**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Detection at **Witness Ford** / **Threshold** arrays; battle theater **Noviomagus Prime** (*Castrum Ferrum*, South Wall). Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
-**Historical hazard (staff filing):** Mass hypovolemic **deck drop** and company-wide *Exanimus* coma after Ork clearance are logged **pre-***Curia Vexilli*** / unauthorized depth** — biology ahead of rite. Post-~051.M42 harness norm: **rebound** = tremor, elevated **Furor** watch, pharmakon — not chapter-wide unconscious collapse ([`disciplines-and-curia-vexilli.md`](../../personae-command-index/doctrine-and-organs/disciplines-and-curia-vexilli.md) §2.1).
+**Historical hazard (staff filing):** Mass hypovolemic **deck drop** and company-wide *Exanimus* coma after Ork clearance are logged **pre-***Curia Vexilli*** / unauthorized depth** — biology ahead of rite. Post-~051.M42 harness norm: **rebound** = tremor, elevated **Furor** watch, pharmakon — not chapter-wide unconscious collapse ([`disciplines-and-curia-vexilli-plan.md`](../../../planning/disciplines-and-curia-vexilli-plan.md) §2.1).
 
 **Companion chronicle:** [`green-tempest.md`](../green-tempest/green-tempest/chapter.md) (*Strategium* surface record, same campaign).
 
