@@ -259,4 +259,4 @@ The flaw that refuses to die is also flaw that refuses to stop **protecting** on
 
 ---
 
-**Next:** [`malakor-v/chapter.md`](../../silent-vigil/valerian-heresy/malakor-v/chapter.md) (field narrative) · [`record-varro-elara/chapter.md`](../../silent-vigil/iron-venus/record-varro-elara/chapter.md) (Root / Iron Venus arc) · [`disciplines-and-curia-vexilli-plan.md`](../../../planning/disciplines-and-curia-vexilli-plan.md) (harness codex formalization)
+**Next:** [`malakor-v/chapter.md`](../../silent-vigil/valerian-heresy/P4-malakor/malakor-v/chapter.md) (field narrative) · [`record-varro-elara/chapter.md`](../../outdated/elara-iron-venus/iron-venus/record-varro-elara/chapter.md) (Root / Iron Venus arc — **OUTDATED**) · [`disciplines-and-curia-vexilli-plan.md`](../../../planning/disciplines-and-curia-vexilli-plan.md) (harness codex formalization)

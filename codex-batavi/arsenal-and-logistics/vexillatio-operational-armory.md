@@ -75,6 +75,8 @@ Each **Legatus** commands one **indivisible** Vexillatio of 500. The table maps 
 
 **Pure line:** Suppression cells skew toward **disciplined semi-auto** and **covering angles** over volume saturation.
 
+**Castellan sustainment (Chapter law):** *Secunda* holds ledger authority for **Castra-Vetera armory vaults** — repair, refit, pattern fidelity, and sealed TDA libraries including ***Depositorium Cataphractae*** (Cataphractii-pattern reserve; first draw for ***Castra-Lupus — Helis*** post–Execratio). Noviomagus forges **birth** new plate; **Castra-Vetera Prime** **keeps** what must not be lost — predecessor *Castra-Lupus* configurations archived here, not reissued. [`castra-lupus-doctrine.md`](castra-lupus-doctrine.md) §4.
+
 ---
 
 ### Vexillatio III — *Tertia* (Khan-Bator Prime)

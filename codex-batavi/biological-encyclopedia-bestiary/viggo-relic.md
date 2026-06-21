@@ -11,7 +11,7 @@
 Rescued during Genestealer purge on ice world Garmr’s Shelf (**~055.M42**, Silent Vigil era), Viggo was the *runt* (smallest, weakest) of a culled litter. Condemned by biology and about to receive Ragnar Blackmane’s mercy, he was sheltered by Alaric von Helis in his armor’s insulated collar niche to avoid systemic failure from hypothermia.
 
 * **Imprinting:** The pup did not imprint Fenris or the pack; he imprinted on reactor vibration and promethium smell. He chose iron.  
-* **Shame debt (sealed):** Lord Castellan had entered an **abbreviated *rubor thermicus*** window in the Patriarch tunnel (**Type B** — see [`crimson-wolf-rubor-thermicus.md`](../personae-command-index/doctrine-and-organs/crimson-wolf-rubor-thermicus.md)) and nearly killed the pup before **self-recapture** at the sight of the dead she-wolf and litter. Keeping Viggo alive filed thereafter as **atonement geometry**, not sentiment — though Martha’s kitchen and Elara would later teach the Wall other words for the same bond.
+* **Shame debt (sealed):** Lord Castellan had entered an **abbreviated the Red Wolf** window in the Patriarch tunnel (**Type B** — see [`the-red-wolf.md`](../personae-command-index/doctrine-and-organs/the-red-wolf.md)) and nearly killed the pup before **self-recapture** at the sight of the dead she-wolf and litter. Keeping Viggo alive filed thereafter as **atonement geometry**, not sentiment — though Martha’s kitchen would later teach the Wall other words for the same bond *(Elara beats parked)*.
 
 ## 2. Tactical doctrine: “fast shadow”
 

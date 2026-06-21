@@ -255,3 +255,7 @@ Just a body that could not stand back up, left in the open where the theater had
 — We move.
 
 And we left the yard before the wind could bury the proof.
+
+---
+
+**End of Witness (5 of 7)** · **Next:** [run-to-the-wall](../run-to-the-wall/chapter.md)

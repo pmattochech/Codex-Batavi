@@ -6,7 +6,7 @@
 
 * **Official name:** Batavian Iron-Guard (High Gothic: *Cohors Batavorum*).  
 * **Operational name:** *Cohors Batavorum* (Frontier Wolves). Used on vox and tactical logs.  
-* **Symbol:** A black wolf (**chimeric phenotype** on sealed clinical registers; **open record:** progenitor unknown) holding a horizontal gladius in its jaws, over stylized waves (amphibious origin).  
+* **Symbol:** A **white** wolf (**chimeric phenotype** on sealed clinical registers; **open record:** progenitor unknown) holding a horizontal gladius in its jaws, over stylized waves (amphibious origin). **Not** the dark-coated living *Canis Batavorum* — heraldic charge only.  
 * **Armor colors:**  
   * **Primary:** Industrial grey (*Mechanicus Standard Grey*). Functionality, forge “sweat,” absence of vanity.  
   * **Secondary (pauldrons):** Crimson (*Mephiston Red*). Blood of the lineage and civil life sworn to protect.  

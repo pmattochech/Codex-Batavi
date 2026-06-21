@@ -1,6 +1,6 @@
 # Viggo — The Heat of the Stone *(subsaga)*
 
-**When:** **~055.M42** (Garmr's Shelf imprint through Radulf audience). **Crimson Wolf Type B** documented here.
+**When:** **~055.M42** (Garmr's Shelf imprint through Radulf audience). **the Red Wolf** Type B documented here.
 
 **Parent saga:** [../INDEX.md](../INDEX.md) · [../README.md](../README.md)
 
@@ -17,4 +17,4 @@
 
 **Next in main Silent Vigil chain:** [fracture-recognition/chapter.md](../fracture-recognition/chapter.md)
 
-**Dossier cross-links:** [dossier-alaric.md](../../../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) · [crimson-wolf-rubor-thermicus.md](../../../personae-command-index/doctrine-and-organs/crimson-wolf-rubor-thermicus.md)
+**Dossier cross-links:** [dossier-alaric.md](../../../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) · [the-red-wolf.md](../../../personae-command-index/doctrine-and-organs/the-red-wolf.md)

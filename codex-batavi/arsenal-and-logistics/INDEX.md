@@ -15,5 +15,7 @@
 - [frontier-patterns-primaris.md](frontier-patterns-primaris.md) — *World-pattern* Primaris designations
 
 ## Catalogs (cross-reference dossiers & chronicles)
+- [castra-lupus-doctrine.md](castra-lupus-doctrine.md) — Lord Castellan ***Castra-Lupus*** office + ***Caput Ferreum*** regalia (*lupus in castra*)
+- [legati-operational-register.md](legati-operational-register.md) — Legati I–IX strategy, identity, armor baseline (*vir in acie*)
 - [chassis-and-armor-catalog.md](chassis-and-armor-catalog.md)
 - [weapons-and-equipment-catalog.md](weapons-and-equipment-catalog.md)

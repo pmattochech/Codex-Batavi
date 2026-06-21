@@ -102,7 +102,7 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 **Head:** **Monomolecular-edged** primary cutting plane on narrow cheek — **blade-first** fault on lens forges and vent windows (**one** clean plane, no chain vibration). **Mono spike** impaler — minimal diameter, seal iris and conduit flange. **Small insulated hammer** — non-cutting seal tasks only; **no** promethium or chain on this head (contamination risk to mono lattice). Heat-shielded haft.
 
-**Operational fit:** Plasma and photonic containment — Null-Vent discipline.
+**Operational fit:** Plasma and photonic containment — Null-Vent discipline; **plant** at manifold node or vacuum-port spine for **vent-window** relay; **mono blade/spike** on seal iris and conduit flange; **dual seal** (Legatus + Techmarine) before overcharge.
 
 **Bearer dossier:** [dossier-lucan-phaetron.md](../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md).
 
@@ -114,7 +114,7 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 **Head:** **Compact power spear** — depressed cross-section for corridor carry. **Micro hook** — boarding harness, cable, wreck snare. **Hammer cap** — bulkhead knock rhythm (melta follows). Cloth **furled** in fight; relay **skin-tight** under EM hash. **Power sword** on belt for pressurized passages where pole length is liability.
 
-**Operational fit:** Boarding, passage containment — lane axis control.
+**Operational fit:** Boarding, passage containment — **lane axis control**; plant at bulkhead choke or prism face for **nested-fire** sector handoff; cloth **furled** under EM hash; **combat shield** left-lead when mounted (Legatus mount certification — **not** integral office plate).
 
 **Bearer dossier:** [dossier-ivar-malevent.md](../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md).
 
@@ -128,7 +128,7 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 **Haft — grav-lock telescoping:** Inner sleeves on **micro-grav rails**; **grav-lock** seats at **relay** (extended) and **combat** (short) lengths. **Legatus-only** actuation on bearer interface; sub-audible **hum cuts** when lock seats (same discipline family as jump-pack grav checks — wrong hum, unsafe plant). **Extended:** taller auspex baseline, Shouter window, mast-plant on array deck or reactor ring. **Short:** riot at mast foot, tight industrial alleys, scorched-coupling work without fouling overhead.
 
-**Operational fit:** Relay survival, layered delay, EM budget — **time and signal** over duel prestige.
+**Operational fit:** Relay survival, layered delay, EM budget — **time and signal** over duel prestige; **extended** mast-plant for Shouter window; **short** mode for mast-foot riot and scorched-coupling denial; **grav-lock** actuation on Legatus bearer interface only.
 
 **Bearer dossier:** [dossier-cassian-vetra.md](../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md).
 

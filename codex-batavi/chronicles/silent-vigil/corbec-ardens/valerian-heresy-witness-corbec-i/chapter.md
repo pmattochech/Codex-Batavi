@@ -223,3 +223,7 @@ And in the first breath before the fight, I finally allowed myself the rest of t
 The figure took one step forward.
 
 I stepped to meet him.
+
+---
+
+**End of Witness (1 of 7)** · **Next:** [valerian-rot-spread](../valerian-rot-spread/chapter.md)

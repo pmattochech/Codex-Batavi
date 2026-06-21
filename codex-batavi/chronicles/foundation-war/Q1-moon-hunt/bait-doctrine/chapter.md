@@ -5,11 +5,11 @@
 **Theater:** Pole I — the Moon Hunt  
 *Tactical intent: force **Type A** (display/honor-kinetic) engagement; deny Type B pack geometry by isolation of a single stalker. Moral hazard: **accepted** (Castellan’s seal).*
 
-**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../../../atlas-and-topography/castra-vetera-galactic-lock.md). **Witness Ford** outward filter; **Forge / Tempest / Crown** marsh channels. Retired in new prose: *Porta Nihili*, *Loken Passage*.
+**Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — `[castra-vetera-galactic-lock.md](../../../../atlas-and-topography/castra-vetera-galactic-lock.md)`. **Witness Ford** outward filter; **Forge / Tempest / Crown** marsh channels. Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
 **Chronicle law:** Pre-***Der Batav*** · bait order **Castellan seal** · volunteers only · Furor slope noted · *We hold* not spoken.
 
-**Precedent:** Seventy-two · hunter snobbery — [`seventy-two/chapter.md`](../seventy-two/chapter.md).
+**Precedent:** Seventy-two · hunter snobbery — `[seventy-two/chapter.md](../seventy-two/chapter.md)`.
 
 ---
 

@@ -173,3 +173,7 @@ Brann’s laugh was a single bitter sound.
 He did not answer.
 
 But he kept walking, and that was enough.
+
+---
+
+**End of Witness (6 of 7)** · **Next:** [the-sentence-seen-from-below](../the-sentence-seen-from-below/chapter.md)

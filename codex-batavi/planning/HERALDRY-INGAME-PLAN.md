@@ -63,7 +63,7 @@ Community write-ups that describe **direct `.pak` hex edits**, **byte-identical 
 Produce one **authoritative** 2D file (for you or a commission):
 
 - **Square** canvas, **power-of-two** (e.g. 512×512, 1024×1024) — exact size per template mod / tool you follow.
-- **Wolf + roundel** match `[chapter-seal-canonical.png](lore-images/chapter-seal-canonical.png)` (105° lens triangle, black wolf on crimson field, etc.).
+- **Wolf + roundel** match `[chapter-seal-canonical.png](lore-images/chapter-seal-canonical.png)` (105° lens triangle, **white** wolf on crimson field, etc.).
 - Leave **alpha** clean if the decal uses transparency on pauldron metal.
 - Optional backlog: **hand-painted** master first — `[TOMORROW-TODOS.md](TOMORROW-TODOS.md)` **Hand-made visuals** (no generative-AI-first rule in your workflow).
 

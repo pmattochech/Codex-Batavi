@@ -6,12 +6,13 @@
 
 | File | When | Thesis |
 |------|------|--------|
-| [`outer-gate-consolidation.md`](outer-gate-consolidation/chapter.md) | **180.M42** *(present staff lock)* | Elara Outer Gate command; Vane neutralized; **Theta-Nine** / **Kappa-Three** / **Lambda-Two** ford cycles; **Jonas** strikes *Solis Gate* rename; shadow-hold doctrine |
 | [`ferrum-secondus-wolf-ledger.md`](ferrum-secondus-wolf-ledger/chapter.md) | ~**183.M42** | Pre–Vespera surgical idol drift — Silence + Arbites; day-120 lattice; **amber** chalk / Corbec *Soon*; Alaric refuses Wall-Sovereign title |
 | [`hive-vespera-red-harvest.md`](hive-vespera-red-harvest/chapter.md) | ~**189.M42** | Hive secession idolizing Alaric — punitive purge, asset rebuild, loyalty-to-Throne-only doctrine |
 
-**Chronology read order:** **180** (present lock) · **183** Wolf Ledger · **189** Red Harvest — idol escalation ladder.
+**Parked (OUTDATED):** [`outer-gate-consolidation`](../outdated/elara-iron-venus/outer-gate-consolidation/chapter.md) — **180.M42** Elara arc
 
-**Elara age ladder:** [silent-vigil/iron-venus/INDEX.md](../silent-vigil/iron-venus/INDEX.md)
+**Chronology read order:** **183** Wolf Ledger · **189** Red Harvest — idol escalation ladder.
+
+**Elara age ladder (parked):** [outdated/elara-iron-venus/iron-venus/INDEX.md](../outdated/elara-iron-venus/iron-venus/INDEX.md)
 
 **Index:** [INDEX.md](INDEX.md) · **Hub:** [`../INDEX.md`](../INDEX.md)

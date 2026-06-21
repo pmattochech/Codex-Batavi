@@ -19,7 +19,7 @@
 | **1c** | Export **`d_shldr_night_lords_02.tga`** → copy into **`RSHLDR/`** (right shoulder). |
 | **1d** | Mirror or duplicate **`_cc`** colour companion files if you replace palette-driven mips (`d_shldr_night_lords_01_cc.tga`, `02_cc.tga`). On first pass, **keep stock `_cc` + `.pct_mip` mips** until in-game read is validated — then regenerate mips if your pipeline supports it. |
 
-**Geometry lock:** frontal black wolf, crimson roundel field, **105°** lens triangles, white horizontal gladius + contour, wave charge — per [`../personae-command-index/intro-and-heraldry/chapter-identity.md`](../personae-command-index/intro-and-heraldry/chapter-identity.md).
+**Geometry lock:** frontal **white** wolf, crimson roundel field, **105°** lens triangles, white horizontal gladius + contour, wave charge — per [`../personae-command-index/intro-and-heraldry/chapter-identity.md`](../personae-command-index/intro-and-heraldry/chapter-identity.md).
 
 ---
 

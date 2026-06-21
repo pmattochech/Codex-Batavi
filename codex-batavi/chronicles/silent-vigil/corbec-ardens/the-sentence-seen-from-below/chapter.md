@@ -145,3 +145,7 @@ These were not songs. They were not myths.
 They were data that had to be carried by someone still alive.
 
 That someone was me.
+
+---
+
+**End of Witness (7 of 7)** · **Companion:** [Malakor V](../../valerian-heresy/P4-malakor/malakor-v/chapter.md) · **Main serial:** [decima-justice-vexillum](../../valerian-heresy/P5-reformation/decima-justice-vexillum/chapter.md)

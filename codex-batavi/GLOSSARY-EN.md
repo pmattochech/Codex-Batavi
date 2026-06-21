@@ -7,17 +7,55 @@ Use when writing or editing English prose. Extend as you go.
 | Wolf's Curse | Three stages: Furor, Exanimus, Execratio |
 | **Iron Protocol** | Battle motto: *We hold.* |
 | **Faith Protocol** | Formal litany: *The Emperor dictates, we comply.* |
-| ***Quinta* cadence** (assault / Aethelgard) | *We hold, as the Needles hold the cold tide.* — vexillatio answer to Iron Protocol; first documented **074.M42**, Moraine-Nine ([`dreadwolf-red-tide.md`](chronicles/vexillum-chronicles/dreadwolf-red-tide/chapter.md)) |
-| **Einar Dreadwolf** | **Steppenwolf** (detached registry) + **first of The Lost** (*Amissi*); Lieutenant (**KIA 168.M42** Luna Sigma); capture **074.M42**; arc: [`dreadwolf-kzorns-maw.md`](chronicles/vexillum-chronicles/dreadwolf-kzorns-maw/chapter.md) → [`dreadwolf-red-tide.md`](chronicles/vexillum-chronicles/dreadwolf-red-tide/chapter.md) → [`dreadwolf-terminus.md`](chronicles/vexillum-chronicles/dreadwolf-terminus/chapter.md) |
+| ***Quinta* cadence** (assault / Aethelgard) | *We hold, as the Needles hold the cold tide.* — vexillatio answer to Iron Protocol; first documented **074.M42**, Moraine-Nine ([`red-tide/chapter.md`](chronicles/dreadwolf/red-tide/chapter.md)) |
+| **Einar Dreadwolf** | **Steppenwolf** (detached registry) + **first of The Lost** (*Amissi*); Lieutenant (**KIA 168.M42** Luna Sigma); capture **074.M42**; arc: [`dreadwolf/INDEX.md`](chronicles/dreadwolf/INDEX.md) — [`kzorns-maw`](chronicles/dreadwolf/kzorns-maw/chapter.md) → [`red-tide`](chronicles/dreadwolf/red-tide/chapter.md) → [`terminus`](chronicles/dreadwolf/terminus/chapter.md) |
 | **The Lost (*Amissi*)** | Small **Vermilion** detachment — **Exanimus** brothers who cannot hold stable ordinary command; **Varro** direct authority (Death Company analogue); **not** a cohort; founding exemplar **Einar** (registry stack with **Steppenwolf**) — [`amissi-the-lost.md`](personae-command-index/doctrine-and-organs/amissi-the-lost.md) |
 | **Thunder-claws (*ungues fulminis*)** | Noviomagus compact **lightning claws** — dorsal blades, **free fingers**; *Amissi* / Shadows family — [`einar-thunder-claws-reference.md`](lore-images/einar-thunder-claws-reference.md) |
 | **Gaine digitale** | Fingertip **sheaths** for Exanimus keratin — **trimming waived** while worn; paired with thunder-claws on *Amissi* rig |
-| ***Spina Cineris*** | Subcranial terminis pin — **molecular destabilization** + collar seal; **Brass-denial**; **168.M42** ([`dreadwolf-terminus.md`](chronicles/vexillum-chronicles/dreadwolf-terminus/chapter.md)) |
+| ***Spina Cineris*** | Subcranial terminis pin — **molecular destabilization** + collar seal; **Brass-denial**; **168.M42** ([`terminus/chapter.md`](chronicles/dreadwolf/terminus/chapter.md)) |
 | **Molecular destabilization charge** | Noviomagus purge ordnance — bounded volume unmade to **ash/slag**; macro [`tithe-of-the-rejected.md`](chronicles/frontier-life/tithe-of-the-rejected/chapter.md); micro ***Spina Cineris*** |
 | Cohors Batavorum / Batavian Iron-Guard | Chapter identity; motto *Unbent* |
 | **Batavi** vs **Batavian** | **Batavi** for marines and concrete things (*a Batavi battle-brother, Batavi Terminator*). **Batavian** for abstractions (*Batavian logic, Batavian geometry, Batavian Iron-Guard*). |
-| Castellan | Alaric’s role as Chapter Master |
-| *Castra-Lupus* | Alaric’s armor (proper name — italic if styled) |
+| Castellan | Lord Castellan — Chapter Master office (Alaric von Helis, incumbent) |
+| ***Castra-Lupus*** | **Office:** Lord Castellan’s **artificer armor** — one bespoke commission per incumbent, not a passed-down chassis. **Incumbent tag:** *Castra-Lupus — Helis* (Alaric). [`castra-lupus-doctrine.md`](arsenal-and-logistics/castra-lupus-doctrine.md) |
+| ***Caput Ferreum Castellani*** | **Castellan regalia** — industrial **lupine head** helm (*Iron Head*); inherited with title; ***Institutum Capitis Ferrei***. Not skull geometry; not Fenris / Wolf Guard pattern. |
+| ***lupus in castra*** / ***vir in acie*** | Castellan vs Legatus identity metaphor — **wolf in the fortress** vs **man in the line**; [`castra-lupus-doctrine.md`](arsenal-and-logistics/castra-lupus-doctrine.md) §1.1 |
+| ***Institutum Capitis Ferrei*** | Chapter custom — Iron Head rite for Lord Castellan succession |
+| **Legatus (operational register)** | Per-vex strategy + identity — [`legati-operational-register.md`](arsenal-and-logistics/legati-operational-register.md) |
+| **Legatus artificer** | **Mark X Tacticus** Noviomagus artificer commission per Legatus; **distinct kit per seat** — ***Typus Primus — Ardens*** = grade/acceptance gauge, not shared silhouette |
+| ***Rite of the block*** | Legatus + **Kadmos** co-design session; vault legacy parts refitted to Mk X — always **artificer** grade — [`legati-operational-register.md`](arsenal-and-logistics/legati-operational-register.md) § Legatus armor |
+| **Legatus chest aquila** | **All Legati I–IX** — artificer breastplate |
+| **Legatus vault graft floor** | Castra-Vetera / Noviomagus vault parts on Legatus Mk X commissions: **Mark V and later only** |
+| **Legatus Crux gate** | Assess **TDA / Terminator office** fit → **if NO**, **no Crux**; **if YES**, Corbec-pattern inset. **Worn:** Corbec · Bifronte |
+| **Legatus crest** | **Default:** fixed transverse **crimson / white** lamella · **Exceptions:** *Quintus* wolf head + pelt · *Sextus* ornate iron halo |
+| ***Typus Primus — Ardens*** | *Prima* Legatus reference armor (Corbec Ardens) — master gauge for Legati + *Prima* vex-calibrated line |
+| ***Typus Secundus — Kessler*** | *Secunda* Legatus armor (Henric Kessler) — judge / Lex optics; **Watch honor block** (right pauldron + arm); **no Crux** — [`dossier-henric-kessler.md`](personae-command-index/character-dossiers/legati/dossier-henric-kessler.md) §1 |
+| ***Typus Tertius — Brach*** | *Tertia* Legatus armor (Theron Brach) — **Mk VIII Errant-pattern** artificer helm; **Mk V** stud rims; flash-skirts; **no Crux** — [`dossier-theron-brach.md`](personae-command-index/character-dossiers/legati/dossier-theron-brach.md) §1 |
+| ***Typus Quartus — Valestrand*** | *Quarta* Legatus armor (Orin Valestrand) — **Mk VII-pattern** artificer helm; **Mk V** stud rims; relay + storm-shield left; **exposed gravitic boots**; **no Crux** — [`dossier-orin-valestrand.md`](personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md) §1 |
+| ***Typus Quintus — Sturmwahl*** | *Quinta* Legatus armor (Armin Sturmwahl) — **Mk V-pattern** helm (**black Batav wolf head + black pelt**, *Canis Batavorum*; no crest); **integral jump pack**; relief **eagle / V / QVINTA**; **no Crux** — [`dossier-armin-sturmwahl.md`](personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) §1 |
+| ***Typus Sextus — Bifronte*** | *Sexta* Legatus armor (Gervas Bifronte) — **Tartaros-pattern TDA** office; **ornate iron halo**; **visible homer**; **Crux worn**; twin-pillar / **SEXTA** relief — [`dossier-gervas-bifronte.md`](personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md) §1 |
+| ***Typus Septimus — Phaetron*** | *Septima* Legatus armor (Lucan Phaetron) — **Mk X artificer** helm (**heat-filter optic stack**); **Null-Vent manifold pack**; **Mk V** stud rims; **plasma incinerator** routing; relief **hex facet / lens disc**; **no Crux** — [`dossier-lucan-phaetron.md`](personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md) §1 |
+| ***Typus Octavus — Malevent*** | *Octava* Legatus armor (Ivar Malevent) — **Mk X artificer** helm (**Maleventum EM-shrouded optics**); **Watch honor block** (right pauldron + arm); relay + **combat-shield mount** left (**not integral**); **grav-chute** hardpoints; **no Crux** — [`dossier-ivar-malevent.md`](personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) §1 |
+| ***Typus Nonus — Vetra*** | *Nona* Legatus armor (Cassian Vetra) — **Mk X artificer** helm (**low-profile auspex brow**); **Watch honor block** (right pauldron + arm); relay + **Fulmen grav-lock** interface left; **HB/boltstorm** pin routing; **pulse-ladder** pack emboss; **no shield** hardware; **no Crux** — [`dossier-cassian-vetra.md`](personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md) §1 |
+| **Fulmen grav-lock interface (Legatus)** | Left vambrace actuation port — *Typus Nonus* (Vetra); **relay extended** / **combat short** haft modes on *Alabarda* Type Fulmen |
+| **Maleventum-class optics (Legatus)** | **EM-shrouded** brow stack — *Typus Octavus* (Malevent); reef / void auspex filter read |
+| **Errant-pattern helm (Legatus)** | **Mk VIII Errant** bowl + raised collar, **artificer** refit to Mk X — *Typus Tertius* (Brach); neck-seal / lying-air read |
+| **Mk VII-pattern helm (Legatus)** | **Mark VII** bowl, **artificer** refit to Mk X — *Typus Quartus* (Valestrand); siege / grav-hold read |
+| **Mk V-pattern helm (Legatus)** | **Mark V** bowl, **artificer** refit to Mk X — *Typus Quintus* (Sturmwahl); **black Batav wolf head + black pelt** (*Canis Batavorum*) replaces crest |
+| **Tartaros-pattern TDA (Legatus)** | **Tartaros** artificer **Terminator** — *Typus Sextus* (Bifronte); daily office plate |
+| **Legatus teleport homer** | Visible dorsal hardpoint — *Typus Sextus* breach rite (**GREEN** anvil / **RED** extract) |
+| **Legatus crest exception (wolf + pelt)** | *Typus Quintus* — **black Batav wolf head + black pelt** (*Canis Batavorum* **animal** trophy) replaces crest — **not** the **white** heraldic seal charge |
+| **Legatus crest exception (iron halo)** | *Typus Sextus* — **ornate iron halo** on cowl replaces transverse crest |
+| **Mk V stud rim (Legatus vault)** | **Mark V** pauldron stud band, vault graft — e.g. *Typus Tertius* · *Typus Quartus* |
+| **Legatus integral jump pack** | Office-worn assault pack replacing standard Mk X backpack — *Typus Quintus* (Sturmwahl); eagle heads lateral, **iron halo** on spine |
+| **Null-Vent manifold pack (Legatus)** | Artificer Mk X backpack with **external emergency bleed routing** — *Typus Septimus* (Phaetron); always worn |
+| **Watch belt pendant (“I”)** | Minimal Deathwatch service signal on belt — alternative to full honor block (Sturmwahl) |
+| **Chapter pauldron wolf** | **White** frontal-wolf on **crimson** left pauldron (line + Legatus) — **same charge** as chapter seal; full **seal** roundel adds gladius + waves — [`visual-identity-paint-guide.md`](visual-identity-paint-guide.md) |
+| **Crux Terminatus (Legatus)** | **Gate:** TDA / Terminator **office** fit — **worn:** Corbec (Mk X grandfather) · Bifronte (Tartaros TDA) |
+| **Watch-return honor block** | After certified *Watch cycle*: optional **silver/black Deathwatch** **right pauldron + right arm**; left stays Chapter — §4.3 [`deathwatch-and-batavorum.md`](political-relations/deathwatch-and-batavorum.md) |
+| **Corvus-pattern helm** | **Mark VI Corvus** bowl refitted to Mk X — Legatus beak cowl; telemetry / *Alabarda* merge; *Typus Primus* (Corbec); not line Mk X bowl |
+| ***Prima* debt chains** | Rolled iron/ceramite chains, **right forearm only** — *Prima* Legatus obligation mark (Corbec institution) |
+| ***Depositorium Cataphractae*** | Sealed **Cataphractii** TDA vault under **Castra-Vetera Prime**; **II *Secunda*** sustainment |
 | Silent Vigil | **~100-year** corridor era post–Malakor V (**050–150.M42** in primary annals); weight was **clinical**, not dome-time dilation |
 | Iron Venus | Elara epithet |
 | Nine Phalanx | 3×3 system mesh (Castra Vetera) |
@@ -47,12 +85,11 @@ Use when writing or editing English prose. Extend as you go.
 | Dark Age of Technology | Never **DAoT** as main form in EN |
 | chimeric predisposition | Inheritance / biological triangle — German where canon uses it |
 | Furor / Exanimus / Execratio | Wolf’s Curse stages — proper labels |
-| **Crimson Wolf** (*Lupus ruber*) | ***Reclusiam*** name for Lord Castellan **thermal predator bleed** — not Execratio; see [`crimson-wolf-rubor-thermicus.md`](personae-command-index/doctrine-and-organs/crimson-wolf-rubor-thermicus.md) |
-| ***Rubor thermicus*** (RTC) | *Apothecarion* clinical name for the same event; **≤1** per engagement when failure occurs. **I:** Malakor V (**050.M42**, full). **II:** Garmr’s Shelf (**~055.M42**, **Type B** abbreviated — Viggo pup). Third **full** window disputed. [`crimson-wolf-rubor-thermicus.md`](personae-command-index/doctrine-and-organs/crimson-wolf-rubor-thermicus.md) |
+| **the Red Wolf** | Lord Castellan **discipline breach** — upright savage violence, **no** armor morph; **friend–foe discrimination** fails; **≤1** window per engagement when failure occurs. **I:** Malakor V (**050.M42**, full). **II:** Garmr’s Shelf (**~055.M42**, **Type B** abbreviated — Viggo pup). Third **full** window disputed. [`the-red-wolf.md`](personae-command-index/doctrine-and-organs/the-red-wolf.md) |
 | ***Ictus coercitionis*** | Varro’s **restraint stroke** — Crozius **Sentence** calibration to bind ***Castra-Lupus*** / carapace without killing Alaric |
-| **Death Wolf** | ***Reclusiam*** idiom for Varro when meeting **Crimson Wolf** — curse’s skull-face, not living predator |
-| ***Anima speculum*** | Varro’s soul-mirror judgment sense — reads curse as **wolf-soul** (chained + gladius pin vs fire-smoke **Crimson Wolf**); line cage progression + **tripartite bind** (Einar): [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §C |
-| **Cael Dravic** | *Decima* Brother-Sergeant; Garmr’s Shelf RTC II witness — [`garmr-witness-dravic.md`](chronicles/silent-vigil/viggo-the-heat-of-the-stone/garmr-witness-dravic/chapter.md) |
+| **Death Wolf** | ***Reclusiam*** idiom for Varro when meeting **the Red Wolf** — curse’s skull-face, not living predator |
+| ***Anima speculum*** | Varro’s soul-mirror judgment sense — reads curse as **wolf-soul** (chained + gladius pin vs unpinned **the Red Wolf**); line cage progression + **tripartite bind** (Einar): [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §C |
+| **Cael Dravic** | *Decima* Brother-Sergeant; Garmr’s Shelf Red Wolf II witness — [`garmr-witness-dravic.md`](chronicles/silent-vigil/viggo-the-heat-of-the-stone/garmr-witness-dravic/chapter.md) |
 | **Chimeric seed (certain / pools unknown)** | Medically **confirmed** chimera; **donor gene-pools not known** even to Triumvirate — [`progenitor-classification.md`](personae-command-index/doctrine-and-organs/progenitor-classification.md) |
 | **Versibar** | Execratio war-form. Plural **Versibars**. |
 | **Valerian Heresy** | Formal name for **Valerius** treason and **I** *Prima* rot (**Malakor V**, 050.M42); ~**300** Chapter losses (**KIA** / **Versibar**, theater-wide); **five** lawful *Prima* **witnesses**; leaves **~200** **Firstboot** core — see [`master-chronology.md`](personae-command-index/events-and-chronologies/master-chronology.md), [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md). |

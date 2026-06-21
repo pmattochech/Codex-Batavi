@@ -60,6 +60,18 @@ The **Liaison-Praefect** (or Drusus-deputized scribe) files the **certification 
 * **Rationale (Triumvirate register):** A governor of 500 or an anchor-guard **blade** must prove they can **mesh alien gears** — allied Chapters, Inquisitorial eyes, xenos tempo — without dissolving Batavi discipline. After **Malakor V**, that proof became **non-optional**. The Watch is the **cheap forge** for it.  
 * **Why not retroactive:** Stripping posts or **dragging** established commanders backward through the Watch would **break the line** mid-campaign — the same fracture geometry **Valerius** proved lethal. The decree **binds the future**, not as punishment for the **past**. *Strategium* scribes file that logic beside the clause; field officers sometimes gloss it in **Low Gothic** as “**pre-decree incumbency**.”
 
+### 4.3 Watch-return honor (Chapter plate)
+
+After a **certified *Watch cycle***, a brother may **retain** Deathwatch heraldry as **honor marks** on return to Chapter colors (~**90% industrial grey** chassis — not full deployment black). **Batavi convention (Legatus exemplar — *Typus Secundus — Kessler*):**
+
+* **Right pauldron + right arm** — **silver/black Deathwatch** veteran pad (**“I”** field) and matching vambrace.  
+* **Left pauldron** — **crimson** field, **white** frontal-wolf transfer, Chapter rim law.  
+* **Left forearm** — **relay terminal** (Legatus) or line-standard forearm (battle-brothers).  
+* **Crux Terminatus** — **not** required on Watch-honor right pauldron; Legati who wear Crux use **Corbec-pattern Mk X** on **crimson** right pauldron when they **do not** display full Watch honor block.
+* **Minimal signal (optional):** Some incumbents retain only a belt **“I” pendant** — certified service without split pauldron/arm block (*Typus Quintus — Sturmwahl*).
+
+Other Chapters vary; Batavi file this as **optional** display, common on **post–051.M42** Legatus appointees who cleared the career gate. Detail: [legati-operational-register.md](../arsenal-and-logistics/legati-operational-register.md) § Legatus armor · [dossier-henric-kessler.md](../personae-command-index/character-dossiers/legati/dossier-henric-kessler.md) §1 · [dossier-armin-sturmwahl.md](../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) §1.
+
 ---
 
 ## 5. Apothecary liaison — *Pactum Clavis Sanguinis*

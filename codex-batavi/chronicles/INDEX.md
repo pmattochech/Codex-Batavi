@@ -48,49 +48,44 @@
 - [incus-gravis-campaign.md](incus-gravis-tribunal/incus-gravis-campaign/chapter.md)
 
 ## silent-vigil — The Silent Vigil
-*(050.M42 – 150.M42 — Castellan present, hollowed; Legati carry what Alaric cannot.)*
+*(~086.M42 – ~186.M42 — Vigil **starts at Malakor**; Castellan hollowed; Legati carry what Alaric cannot. Legacy **050–150** filing superseded **May 2026** — see Valerian scaffold.)*
 
 **Hub:** [silent-vigil/README.md](silent-vigil/README.md) · **Read order:** [silent-vigil/INDEX.md](silent-vigil/INDEX.md) · **Legacy map:** [legacy-map.md](legacy-map.md)
 
 **Parts / subsagas:**
 
-- **valerian-heresy** *(placeholder name):* [valerian-heresy/INDEX.md](silent-vigil/valerian-heresy/INDEX.md) — Malakor V · *Decima* justice cloth
-- **corbec-ardens:** [corbec-ardens/INDEX.md](silent-vigil/corbec-ardens/INDEX.md) — First Legatus witness lattice
-- **viggo-the-heat-of-the-stone:** [viggo-the-heat-of-the-stone/INDEX.md](silent-vigil/viggo-the-heat-of-the-stone/INDEX.md) — Garmr's Shelf · ~055.M42
-- **iron-venus:** [iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md) — Elara Solis · parapet **150.M42** → Outer Gate **180.M42**
+- **valerian-heresy** *(placeholder name):* [valerian-heresy/INDEX.md](silent-vigil/valerian-heresy/INDEX.md) — **25-chapter main serial** (P0–P5) · **SCAFFOLD:** [SCAFFOLD.md](silent-vigil/valerian-heresy/SCAFFOLD.md)
+- **corbec-ardens:** [corbec-ardens/INDEX.md](silent-vigil/corbec-ardens/INDEX.md) — **adjacent** witness subsaga **7** (∥ Malakor week)
+- **viggo-the-heat-of-the-stone:** [viggo-the-heat-of-the-stone/INDEX.md](silent-vigil/viggo-the-heat-of-the-stone/INDEX.md) — Garmr's Shelf · **~091.M42** *(pending sweep)*
 
 **Main serial:** see [silent-vigil/INDEX.md](silent-vigil/INDEX.md) for full read-order table.
 
-### iron-venus *(subsaga detail)*
+**Parked (May 2026 — not active canon):** [outdated/elara-iron-venus/](outdated/elara-iron-venus/README.md) *(Elara / Iron Venus)* · [spinoffs/guilliman-notes/](spinoffs/guilliman-notes/README.md) *(Regent encounter register)*
 
-**Hub:** [silent-vigil/iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md) — Elara age ladder (parapet **150.M42** anchor).
+---
 
-- [iron-venus/chapter.md](silent-vigil/iron-venus/iron-venus/chapter.md) — parapet adoption · kitchen · naming (**150.M42**)
-- [sanctuary-smoke-and-bread/chapter.md](silent-vigil/iron-venus/sanctuary-smoke-and-bread/chapter.md) — present-era Martha kitchen
-- [wolf-daughter/chapter.md](silent-vigil/iron-venus/wolf-daughter/chapter.md) ✅ — Iron Venus arc. **165.M42** Wooden Sword (~**15**); Tobias (~**170.M42**); consecration ~**174**; **180.M42** Outer Gate present lock in epilogue.
-- **Parapet — personal records (Drusus + Varro), frame 178.M42**
-  - [record-drusus-elara/chapter.md](silent-vigil/iron-venus/record-drusus-elara/chapter.md) ✅ — clinical voice; retroactive wall log + live room (*Apothecarion*); snarl, telemetry, calibrated gestures; two patients; Varro / purpose–fear; kitchen (thermal anchor, name, decibels, cortisol); growth (checkups, touch on the white sleeve, parapet, tear / Primarch recalibration); 165.M42; Tobias, antechamber (BP / pupil); Academy as load; close 178.M42.
-  - [record-varro-elara/chapter.md](silent-vigil/iron-venus/record-varro-elara/chapter.md) ✅ — doctrinal voice; arrival at the *Apothecarion* (snarl, *vox* to Drusus, anchoring, fear vs. purpose); Triumvirate; kitchen, name **Elara Solis**, growth beats (sleep, helm, parapet); 165.M42; Tobias; Naval Academy through reports; Malakor / close 178.M42.
-  - *Note:* records are **retrospective**, not fiction locked to a single instant; canonical Parapet / kitchen scene in [iron-venus/chapter.md](silent-vigil/iron-venus/iron-venus/chapter.md). See [dossier-elara-solis.md](../personae-command-index/character-dossiers/mortals/dossier-elara-solis.md).
+## outdated — Elara / Iron Venus (parked)
 
-## guilliman-notes
+**Status:** **OUTDATED** — do not cite dates or events in active chronology. Full bundle: [outdated/elara-iron-venus/README.md](outdated/elara-iron-venus/README.md) · [iron-venus/INDEX.md](outdated/elara-iron-venus/iron-venus/INDEX.md)
 
-*(Regent encounter register — Guilliman POV serial; prose without saga H1 lock. **~051–120.M42** staff band; **165.M42** public yard beat is separate — [wolf-daughter/chapter.md](silent-vigil/iron-venus/wolf-daughter/chapter.md).)*
+---
 
-**Hub:** [guilliman-notes/README.md](guilliman-notes/README.md)
+## spinoffs — Guilliman encounter register (parked)
+
+**Status:** **SPINOFF** — not main mesh canon during Alaric rework. Hub: [spinoffs/guilliman-notes/README.md](spinoffs/guilliman-notes/README.md)
 
 | # | File | Interlocutor | Note |
 |---|------|--------------|------|
-| 1 | [01-first-encounter.md](guilliman-notes/first-encounter/chapter.md) | Alaric | Identity / culture-as-law |
-| 2 | [02-second-encounter.md](guilliman-notes/second-encounter/chapter.md) | Alaric | Visage breach; Valerius as man |
-| 3 | [03-third-encounter.md](guilliman-notes/third-encounter/chapter.md) | Alaric | Legati / Silent Vigil numbers |
-| 4 | [04-fourth-encounter.md](guilliman-notes/fourth-encounter/chapter.md) | Alaric | Kitchen / Elara translation layer |
-| 5 | [05-fifth-encounter.md](guilliman-notes/fifth-encounter/chapter.md) | Drusus + Varro | Triumvirate clinical |
-| 6 | [06-sixth-encounter.md](guilliman-notes/sixth-encounter/chapter.md) | Uriel Ventris | Deathwatch external witness |
-| 7 | [07-guilliman-verdict.md](guilliman-notes/guilliman-verdict/chapter.md) | *(solo)* | **Verdict** — *Alaric remains* |
-| 8 | [08-eighth-encounter.md](guilliman-notes/eighth-encounter/chapter.md) | Kessler + Alaric | Trenchworks wargame |
-| 9 | [09-ninth-encounter.md](guilliman-notes/ninth-encounter/chapter.md) | Brach · Sturmwahl · Corbec | Mortal-weight field tour (3 loci) |
-| 10 | [tenth-encounter/chapter.md](guilliman-notes/tenth-encounter/chapter.md) | Tyvar | *Limes Lupus* collar review |
+| 1 | [first-encounter/chapter.md](spinoffs/guilliman-notes/first-encounter/chapter.md) | Alaric | Identity / culture-as-law |
+| 2 | [second-encounter/chapter.md](spinoffs/guilliman-notes/second-encounter/chapter.md) | Alaric | Visage breach; Valerius as man |
+| 3 | [third-encounter/chapter.md](spinoffs/guilliman-notes/third-encounter/chapter.md) | Alaric | Legati / Silent Vigil numbers |
+| 4 | [fourth-encounter/chapter.md](spinoffs/guilliman-notes/fourth-encounter/chapter.md) | Alaric | Kitchen / Elara translation layer |
+| 5 | [fifth-encounter/chapter.md](spinoffs/guilliman-notes/fifth-encounter/chapter.md) | Drusus + Varro | Triumvirate clinical |
+| 6 | [sixth-encounter/chapter.md](spinoffs/guilliman-notes/sixth-encounter/chapter.md) | Uriel Ventris | Deathwatch external witness |
+| 7 | [guilliman-verdict/chapter.md](spinoffs/guilliman-notes/guilliman-verdict/chapter.md) | *(solo)* | **Verdict** — *Alaric remains* |
+| 8 | [eighth-encounter/chapter.md](spinoffs/guilliman-notes/eighth-encounter/chapter.md) | Kessler + Alaric | Trenchworks wargame |
+| 9 | [ninth-encounter/chapter.md](spinoffs/guilliman-notes/ninth-encounter/chapter.md) | Brach · Sturmwahl · Corbec | Mortal-weight field tour |
+| 10 | [tenth-encounter/chapter.md](spinoffs/guilliman-notes/tenth-encounter/chapter.md) | Tyvar | *Limes Lupus* collar review |
 
 ---
 
@@ -102,7 +97,7 @@
 - [diplomacy-aethelgard.md](audit-diplomacy/diplomacy-aethelgard/chapter.md)
 - [dragon-in-the-hearth-tushan.md](audit-diplomacy/dragon-in-the-hearth-tushan/chapter.md)
 - [gray-silence-of-fenris.md](audit-diplomacy/gray-silence-of-fenris/chapter.md)
-- [helbrecht-witness-ford-meeting.md](audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) ✅ — **096.M42 | Silent Vigil.** First Helbrecht–Alaric meeting at **Witness Ford**; Templar crusade, xenos attack at the choke, *We hold*; faith vs. geometry; echoes in [wolf-daughter/chapter.md](silent-vigil/iron-venus/wolf-daughter/chapter.md) (165.M42).
+- [helbrecht-witness-ford-meeting.md](audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) ✅ — **096.M42 | Silent Vigil.** First Helbrecht–Alaric meeting at **Witness Ford**; Templar crusade, xenos attack at the choke, *We hold*; faith vs. geometry. *(Parked: echoes in [wolf-daughter/chapter.md](outdated/elara-iron-venus/iron-venus/wolf-daughter/chapter.md) — OUTDATED.)*
 - [witness-ford-octava.md](vexillum-chronicles/witness-ford-octava/chapter.md) — **VIII** *Octava* / *Alabarda* field 4 lens: **Ivar Malevent**, ford net, nested fire with Black Templars; companion to *helbrecht-witness-ford-meeting*.
 
 ## frontier-life
@@ -123,6 +118,21 @@
 
 ---
 
+## dreadwolf
+
+**Index:** [dreadwolf/INDEX.md](dreadwolf/INDEX.md) · **Hub:** [dreadwolf/README.md](dreadwolf/README.md)
+
+**Span:** **074.M42 – 168.M42** — **Lieutenant Einar Dreadwolf** (*Amissi*); Judex watch; **closed arc** (KIA Luna Sigma). *Vermilion* adjunct — **not** *Alabarda* field 4.
+
+- [kzorns-maw/chapter.md](dreadwolf/kzorns-maw/chapter.md) — **074.M42** capture; Shepherd’s Hook, conscious Nails, **Kzorn’s Maw**.
+- [red-tide/chapter.md](dreadwolf/red-tide/chapter.md) — **074.M42** Moraine-Nine recovery; ***Quinta* cadence**; *Amissi* founding.
+- [precipitation/chapter.md](dreadwolf/precipitation/chapter.md) — *Amissi* era; reef cult; **Slaughterbound** duel.
+- [terminus/chapter.md](dreadwolf/terminus/chapter.md) — **168.M42** Luna Sigma; ***Spina Cineris***; companion to [battle-of-sigma-moon/chapter.md](sigma-moon/battle-of-sigma-moon/chapter.md).
+
+**Register:** [aar-vex-v-dreadwolf-red-tide.md](vexillum-register/aar-vex-v-dreadwolf-red-tide.md).
+
+---
+
 ## sigma-moon
 
 **Index:** [sigma-moon/INDEX.md](sigma-moon/INDEX.md)
@@ -130,8 +140,9 @@
 
 **Milestone:** 168.M42 — The Battle of Luna Sigma.
 
-- [battle-of-sigma-moon.md](sigma-moon/battle-of-sigma-moon/chapter.md) ✅ — Alaric faces Angron in single combat. The Librarians’ signal, the Broken Haruspicium, the fifty-three-minute fight and the regenerative coma. The Integration Anomaly. **Einar Dreadwolf** terminis on outer perimeter — [dreadwolf-terminus.md](vexillum-chronicles/dreadwolf-terminus/chapter.md).
-- [price-of-memory.md](sigma-moon/price-of-memory/chapter.md) ✅ — Elara and Tobias reach evacuated Luna Sigma. The Inquisitor who lies by omission. Alaric says only what he can. Elara archives everything for when she holds enough rank.
+- [battle-of-sigma-moon.md](sigma-moon/battle-of-sigma-moon/chapter.md) ✅ — Alaric faces Angron in single combat. The Librarians’ signal, the Broken Haruspicium, the fifty-three-minute fight and the regenerative coma. The Integration Anomaly. **Einar Dreadwolf** terminis on outer perimeter — [terminus/chapter.md](dreadwolf/terminus/chapter.md).
+
+*(Parked — OUTDATED bundle: [price-of-memory/chapter.md](outdated/elara-iron-venus/price-of-memory/chapter.md))*
 
 ---
 
@@ -149,7 +160,7 @@
 
 Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in Vigilax public records). No Elara (not yet born).
 
-**Helbrecht / Witness Ford:** first meeting in the Vigil — [helbrecht-witness-ford-meeting.md](audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) (**096.M42**). Second meeting in [wolf-daughter/chapter.md](silent-vigil/iron-venus/wolf-daughter/chapter.md) (165.M42, with Guilliman and Calgar).
+**Helbrecht / Witness Ford:** first meeting in the Vigil — [helbrecht-witness-ford-meeting.md](audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) (**096.M42**). *(Parked: second meeting was [wolf-daughter/chapter.md](outdated/elara-iron-venus/iron-venus/wolf-daughter/chapter.md) — OUTDATED bundle.)*
 
 ---
 
@@ -168,10 +179,7 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 
 - [INDEX.md](vexillum-chronicles/INDEX.md) — chronicle list + pointers to **III** / **VIII** / Malakor-adjacent material
 - [ruhe-defense.md](vexillum-chronicles/ruhe-defense/chapter.md) — **IV** *Quarta*, **048.M42** Tyranid veil / shingle line; **Branimir Vorhalt** POV; Drusus coefficients; *Alabarda* *March of the Machine* reference hold.
-- [dreadwolf-kzorns-maw.md](vexillum-chronicles/dreadwolf-kzorns-maw/chapter.md) — **V** *Quinta*, **074.M42**; Shepherd’s Hook capture, conscious Nails, ship slaughter (*Vermilion* adjunct; companion to Red Tide).
-- [dreadwolf-red-tide.md](vexillum-chronicles/dreadwolf-red-tide/chapter.md) — **V** *Quinta*, **074.M42** Moraine-Nine recovery; **Einar Dreadwolf**; **not** *Alabarda* field 4.
-- [dreadwolf-precipitation.md](vexillum-chronicles/dreadwolf-precipitation/chapter.md) — **V** *Quinta*, *Amissi* era; reef cult net, three Exalted dead, **Slaughterbound** duel; **precipitation** (Einar / Varro / Armin); spectator narrative; **not** *Alabarda* field 4.
-- [dreadwolf-terminus.md](vexillum-chronicles/dreadwolf-terminus/chapter.md) — **V** *Quinta*, **168.M42** Luna Sigma; **Einar Dreadwolf** KIA; ***Spina Cineris***; closes Judex watch; companion to [battle-of-sigma-moon.md](sigma-moon/battle-of-sigma-moon/chapter.md).
+- *(moved)* **Einar Dreadwolf** closed arc — [dreadwolf/INDEX.md](dreadwolf/INDEX.md) (**074–168.M42**; **not** field 4)
 - [gutgrind-descent.md](vexillum-chronicles/gutgrind-descent/chapter.md) — **V** *Quinta*, **121.M42** Selene-Black; **Armin Sturmwahl** vs Warboss Gutgrind; Ork scrap-spire; *Alabarda* field 4 (post–**Foundation War / Aethelgard opening** register).
 - [korvus-twin-breach.md](vexillum-chronicles/korvus-twin-breach/chapter.md) — **VI** *Sexta*, **098.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; *Alabarda* field 4.
 - [null-vent-covenant.md](vexillum-chronicles/null-vent-covenant/chapter.md) — **VII** *Septima*, **112.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; *Alabarda* field 4.
@@ -187,7 +195,7 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 
 **Span:** post–Silent Vigil maturity on **Noviomagus** and mesh-internal law. Hub: [post-vigil/README.md](post-vigil/README.md).
 
-- [outer-gate-consolidation.md](post-vigil/outer-gate-consolidation/chapter.md) — **180.M42** *(present staff lock)*. Elara Outer Gate fleet; Vane final audit neutralized; **Witness Ford** **Theta-Nine** / **Kappa-Three** / **Lambda-Two** cycles; **Jonas** strikes *Solis Gate* rename; shadow-hold channel doctrine. *See* [iron-venus/INDEX.md](silent-vigil/iron-venus/INDEX.md).
+- [outer-gate-consolidation.md](outdated/elara-iron-venus/outer-gate-consolidation/chapter.md) — **180.M42** *(OUTDATED — Elara arc parked)*. Outer Gate fleet; Vane audit; **Witness Ford** cycles. *See* [elara-iron-venus/iron-venus/INDEX.md](outdated/elara-iron-venus/iron-venus/INDEX.md).
 - [ferrum-secondus-wolf-ledger.md](post-vigil/ferrum-secondus-wolf-ledger/chapter.md) — **~183.M42**. Ferrum-Secondus Castellan-idol drift — **Branimir** / Silence surgical correction; **Vhal** Arbites co-supervision (**FS-183-041**); day-120 standing lattice + **amber** chalk foreshadow; Alaric refuses civic crown scroll. *Precursor:* [hive-vespera-red-harvest.md](post-vigil/hive-vespera-red-harvest/chapter.md).
 - [hive-vespera-red-harvest.md](post-vigil/hive-vespera-red-harvest/chapter.md) — **~189.M42**. Hive Vespera secession: rebels reject Terra while declaring Alaric rightful ruler. **Corbec** / full *Prima* lower-hive purge lattice; **Alaric** upper spire house judgment; zero clemency, servitorization, penal normalization. *See* [master-chronology.md](../personae-command-index/events-and-chronologies/master-chronology.md) §VI.
 

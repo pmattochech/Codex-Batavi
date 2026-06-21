@@ -4,7 +4,9 @@
 
 **Hub:** [README.md](README.md) · **Staff:** [`master-chronology.md`](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · **Legacy map:** [`../legacy-map.md`](../legacy-map.md)
 
-**Parts / subsagas:** [`valerian-heresy/INDEX.md`](valerian-heresy/INDEX.md) *(placeholder name)* · [`corbec-ardens/INDEX.md`](corbec-ardens/INDEX.md) · [`viggo-the-heat-of-the-stone/INDEX.md`](viggo-the-heat-of-the-stone/INDEX.md) · [`iron-venus/INDEX.md`](iron-venus/INDEX.md)
+**Parts / subsagas:** [`valerian-heresy/INDEX.md`](valerian-heresy/INDEX.md) *(placeholder name)* · [`corbec-ardens/INDEX.md`](corbec-ardens/INDEX.md) · [`viggo-the-heat-of-the-stone/INDEX.md`](viggo-the-heat-of-the-stone/INDEX.md)
+
+**Parked (not active canon):** [`../outdated/elara-iron-venus/`](../outdated/elara-iron-venus/README.md) · [`../spinoffs/guilliman-notes/`](../spinoffs/guilliman-notes/README.md)
 
 ---
 
@@ -16,7 +18,6 @@
 | 2 | `decima-justice-vexillum` | *Decima Justice Vexillum* | [chapter.md](valerian-heresy/decima-justice-vexillum/chapter.md) |
 | — | *(Corbec subsaga)* | | [corbec-ardens/INDEX.md](corbec-ardens/INDEX.md) |
 | — | *(Viggo subsaga)* | | [viggo-the-heat-of-the-stone/INDEX.md](viggo-the-heat-of-the-stone/INDEX.md) |
-| — | *(Iron Venus subsaga)* | Elara arc **150–180.M42** | [iron-venus/INDEX.md](iron-venus/INDEX.md) |
 | 3 | `alabarda-to-relay` | *Alabarda to Relay* | [chapter.md](alabarda-to-relay/chapter.md) |
 | 4 | `strategium-silence` | *Strategium Silence* | [chapter.md](strategium-silence/chapter.md) |
 | 5 | `fracture-recognition` | *Fracture Recognition* | [chapter.md](fracture-recognition/chapter.md) |
@@ -27,8 +28,9 @@
 | 10 | `war-game-black-mirror` | *War Game Black Mirror* | [chapter.md](war-game-black-mirror/chapter.md) |
 | 11 | `proof-of-chain` | *Proof of Chain* | [chapter.md](proof-of-chain/chapter.md) |
 | 12 | `without-distinction` | *Without Distinction* | [chapter.md](without-distinction/chapter.md) |
-| 13 | `last-heat-of-the-wall` | *Last Heat of the Wall* | [chapter.md](last-heat-of-the-wall/chapter.md) |
 
-**Chronology ≠ table order** for *Last Heat* (multi-decade span) and *Without Distinction* (~099.M42). See [README.md](README.md).
+**Parked subsaga / span:** *Last Heat of the Wall* · *Iron Venus* — [`../outdated/elara-iron-venus/`](../outdated/elara-iron-venus/README.md)
+
+**Chronology ≠ table order** for *Without Distinction* (~099.M42). See [README.md](README.md).
 
 **Documentary register material** (future split from narrative chronicles): [`../vexillum-register/`](../vexillum-register/INDEX.md)

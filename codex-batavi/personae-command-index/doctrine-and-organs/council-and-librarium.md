@@ -38,7 +38,7 @@ Chronic Warp **audition** is a Wolf’s Curse accelerant for unschooled psykers.
 
 ## 3. THE ARMOURIUM AND KADMOS’S CONCLAVE (OBEDIENT IRON)
 
-The **Master of the Forge** does not command a hidden “eleventh company”: he commands the **Armourium** — the entirety of **Techmarines**, **Artificers**, and **tech-acolytes** whose job is keeping the **ceiling of 5,000** operational. Most Techmarines **rotate** between **Noviomagus** (planetary forges, shipyards, *Castra-Lupus*) and **Vexillationes** in theater, with minimum dwell set by the *Strategium* so the Chapter does not hoard engineers in the rear and starve the line.
+The **Master of the Forge** does not command a hidden “eleventh company”: he commands the **Armourium** — the entirety of **Techmarines**, **Artificers**, and **tech-acolytes** whose job is keeping the **ceiling of 5,000** operational. Most Techmarines **rotate** between **Noviomagus** (planetary forges, shipyards, ***Castra-Lupus* commissions**) and **Vexillationes** in theater, with minimum dwell set by the *Strategium* so the Chapter does not hoard engineers in the rear and starve the line.
 
 **Numeric fit:** **four** campaign Techmarines per Vexillatio (Vex. I–X), **frozen** in the Standard Order of Battle; the **Master of the Forge** holds the **fifth** supreme technical post **inside** the 10th Vexillatio (see [military-hierarchy.md](military-hierarchy.md) §4.3). The **Conclave** on Noviomagus rotates **who** fills each of the four campaign slots — it does not inflate the ceiling. Everything **counts** toward **5,000** Astartes.
 
@@ -49,7 +49,7 @@ The **Master of the Forge** does not command a hidden “eleventh company”: he
 | Council pillar | Order | Relation to Vexillationes |
 |----------------|--------|---------------------------|
 | **Otho** | *Librarium* | **Batavian Haruspices** in each Vexillatio; **Haruspicium Batavorum** (passive); **Blindgate** (active mental defense); Nullity liaison. |
-| **Kadmos** | *Armourium* | Techmarines and Artificers; forge ↔ front rotation; *Castra-Lupus* maintenance. |
+| **Kadmos** | *Armourium* | Techmarines and Artificers; forge ↔ front rotation; ***Castra-Lupus* commissions** and incumbent sustainment. |
 | *(Triumvirate)* | *Medicinae* / *Reclusiam* | **Drusus** and **Varro** head Apothecary and Chaplain networks; bodies deployed **inside** the 500 per Vexillatio. |
 
 None of these structures sit “outside” the ceiling: they are **layers** on the same **10 × 500** mesh. *Frozen table (4+4+3+5; Tenth +5):* [military-hierarchy.md](military-hierarchy.md) §4.3; operational adjustments §4.5.

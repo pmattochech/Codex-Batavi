@@ -4,7 +4,7 @@
 **When:** **~055.M42** (days after Garmr’s Shelf; after [`garmr-witness-dravic.md`](garmr-witness-dravic.md))
 **Where:** Noviomagus Prime — *Reclusiam* inner vault  
 **Who:** **Varro** (Judex); subject **Alaric von Helis** (Castellan)  
-**Cross-references:** [`crimson-wolf-rubor-thermicus.md`](../../../../personae-command-index/doctrine-and-organs/crimson-wolf-rubor-thermicus.md) · [`dossier-varro.md`](../../../../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [`viggo-saga.md`](../seed-in-iron/chapter.md)
+**Cross-references:** [`the-red-wolf.md`](../../../../personae-command-index/doctrine-and-organs/the-red-wolf.md) · [`dossier-varro.md`](../../../../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [`viggo-saga.md`](../viggo-saga/chapter.md)
 
 ---
 

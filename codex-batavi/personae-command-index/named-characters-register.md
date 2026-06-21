@@ -89,7 +89,7 @@
 | **Commander Dante** — Blood Angels | *Iron and Blood Tribunal* |
 | **Mephiston** — Blood Angels | Same tribunal |
 | **Angron** — Daemon Primarch | Sigma Moon; *Castra-Lupus* destruction |
-| **Inquisitor Vane** — Ordo Hereticus | Silent Vigil audits; **180.M42** self-neutralized — [outer-gate-consolidation.md](../chronicles/post-vigil/outer-gate-consolidation/chapter.md) |
+| **Inquisitor Vane** — Ordo Hereticus | Silent Vigil audits; **180.M42** self-neutralized — [outer-gate-consolidation/chapter.md](../chronicles/outdated/elara-iron-venus/outer-gate-consolidation/chapter.md) *(OUTDATED)* |
 
 ---
 

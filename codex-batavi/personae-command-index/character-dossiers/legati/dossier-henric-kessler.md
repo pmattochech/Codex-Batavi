@@ -16,8 +16,15 @@
 *Stillness that reads as threat in a hab-block.*
 
 * **Physique:** Slightly taller than Chapter median; favors stance that **clears sightlines** for subordinates without verbal instruction.  
-* **Armor:** Fitted for **measured semi-auto** drills — magnified optics packages common on his command liason patterns; grav-gun certification tabs on gorget when theater demands.  
-* **Marks:** Old **shrapnel lace** on left greave (Castra-Vetera riot work, date classified).
+* **Armor — *Typus Secundus — Kessler* (Legatus configuration):** Noviomagus **artificer Mark X Tacticus** — **distinct** from *Typus Primus — Ardens* (Corbec): seat reads **Lex**, **Watch proof**, and **civilian optics**, not gauge-and-debt austerity. ~**90% industrial grey** chassis (Chapter plate on return from Watch — not full kill-team black). **Chest aquila** (Legatus law). **Purity seals** on gorget, joins, and backpack latches (witness density above line norm). **Grav-gun certification tabs** on gorget when theater demands.  
+  * **Helm:** **Mark X artificer** grey bowl; **full bronze faceplate**; **orange lenses**. **Fixed transverse crest** — **alternating crimson and white** lamella (Legatus law). **Gold Imperial eagle** (close wings) on rear mount — Throne mandate / judge read (replaces iron halo geometry).  
+  * **Gorget / upper torso:** Short reinforced **Roman pteruges** at gorget base; **crimson transverse cloth sash** woven over breastplate (senator / high-rank honor-sash geometry — public **magistrate in the line** read).  
+  * **Left forearm:** Flush **relay terminal** — mag-seal socket, hardline to thoracic *Alabarda* merge when EM forbids wireless.  
+  * **Right forearm + right pauldron:** **Deathwatch veteran honor block** — full **silver/black Watch** pauldron (**“I”** field) and matching **right vambrace** retained after certified *Watch cycle* return; **no Crux Terminatus**. **Roman II** stamped discrete on pauldron rear lip or lower bowl (*Secunda* ordinal only).  
+  * **Left pauldron:** **Crimson** field; **white** frontal-wolf transfer; **white fillet** on pauldron rim (Chapter color law with crest / sash).  
+  * **Greaves:** Old **shrapnel lace** on **left greave** (Castra-Vetera riot work, date classified).  
+  * **Explicit negatives:** No *Prima* debt chains · no Crux · no Lex crosshair · no second aquila on pauldrons.  
+* **Visage protocol:** Helm sealed outside Triumvirate-authorized exceptions.
 
 ---
 
@@ -58,4 +65,4 @@
 
 POV for **hive legality**, **collateral dread**, and **Castra-Vetera** corridor thrillers. Contrast to Branimir: Kessler is **macro** governor, not *decanus* street hunter. **Legatus Ring:** command virtue **compliance without theater**; failure-risk **refusing Tier III plain language because Administratum optics cannot absorb it** — filed **written dissent** on Tier III optics (~055.M42), frame accepted.
 
-**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §4; **078.M42 | Hive Dominus** — *Alabarda* field 4 certified compliance: [hive-dominus-compliance.md](../../../chronicles/vexillum-chronicles/hive-dominus-compliance/chapter.md) · [aar-vex-ii-hive-dominus-compliance.md](../../../chronicles/vexillum-register/aar-vex-ii-hive-dominus-compliance.md). [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.2; [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md) (Tier III optics dissent on record).
+**Cross-reference:** Armor — ***Typus Secundus — Kessler*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § II. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §4; **078.M42 | Hive Dominus** — *Alabarda* field 4 certified compliance: [hive-dominus-compliance.md](../../../chronicles/vexillum-chronicles/hive-dominus-compliance/chapter.md) · [aar-vex-ii-hive-dominus-compliance.md](../../../chronicles/vexillum-register/aar-vex-ii-hive-dominus-compliance.md). [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.2; [deathwatch-and-batavorum.md](../../../political-relations/deathwatch-and-batavorum.md) §4.3; [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md) (Tier III optics dissent on record).

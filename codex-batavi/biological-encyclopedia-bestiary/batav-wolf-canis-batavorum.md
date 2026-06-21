@@ -93,7 +93,7 @@ The Batav Wolf is **not** only a coastal animal. It occupies **two** productive 
 
 * **Batav Wolf trial:** [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) (entry requirements).
 
-* **Heraldry:** Chapter **wolf** charges — lineage and myth composite, not taxonomic claim.
+* **Heraldry:** Chapter **wolf** charges — **white** rectilinear seal / pauldron stencil; **not** a taxonomic claim on *Canis Batavorum* (species is **dark-coated**).
 
 ---
 

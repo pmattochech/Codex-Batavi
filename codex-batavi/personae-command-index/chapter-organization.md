@@ -86,7 +86,7 @@ Main sections use level-2 headings; subsections level-3; field labels **bold** w
 
 ## Colors of the Chapter
 
-**Chapter symbol:** Roundel achievement — **crimson** field, **black** rectilinear frontal **wolf**, **orange** lens triangles (**105°** leg corner), **white** horizontal **gladius** + **black** contour, **black** double ring, **angular wave** band. Pauldron: **same wolf** (reduced), not a second icon. Rasters: [chapter-seal-official.png](../lore-images/chapter-seal-official.png). Law: [intro-and-heraldry.md](intro-and-heraldry/chapter-identity.md), [visual-identity-paint-guide.md](../visual-identity-paint-guide.md). **No lunar field.**
+**Chapter symbol:** Roundel achievement — **crimson** field, **white** rectilinear frontal **wolf**, **orange** lens triangles (**105°** leg corner), **white** horizontal **gladius** + **black** contour, **black** double ring, **angular wave** band. Pauldron: **same wolf** (reduced), not a second icon. Rasters: [chapter-seal-official.png](../lore-images/chapter-seal-official.png). Law: [intro-and-heraldry.md](intro-and-heraldry/chapter-identity.md), [visual-identity-paint-guide.md](../visual-identity-paint-guide.md). **No lunar field.**
 
 **Armor colors:** **Mechanicus Standard Grey** (~90% chassis); **Mephiston Red** pauldrons, forearms, oath-tracery; **Troll Slayer Orange** helm lenses (triangular read). Weathering: Noviomagus industrial haze.
 
@@ -98,8 +98,9 @@ Main sections use level-2 headings; subsections level-3; field labels **bold** w
 | **4b** | Sergeant | As line; squad geometry on relay / pauldron rim |
 | **4c** | Veteran / Siege division | Gold rim cue on pauldron; helm may carry campaign marks |
 | **4d** | Apothecary / Chaplain / specialist | *Medicinae* white-surgical (Drusus pattern); *Reclusiam* skull (Executor wolf-skull **Judex only**); *Librarius* cipher helm |
+| **4e** | **Legatus** (I–IX) | **Per-seat** kit (e.g. *Typus Primus* **Corvus** + crest; *Typus Quintus* **Mk V** + wolf/pelt; *Typus Sextus* **Tartaros TDA** + ornate halo). **Default crest:** crimson / white transverse. **Chest aquila**. Orange lenses. Reference: ***Typus Primus — Ardens*** — [legati-operational-register.md](../arsenal-and-logistics/legati-operational-register.md) § Legatus armor |
 
-**Shoulder insignia:** **Left:** Chapter wolf (crimson field or transfer). **Right:** Cohort color (Silence ivory, Shadows black, Stasis gunmetal, Nullity cobalt) + pure-line division rim (black / silver / gold). **Vexillatio** identity on ***Alabarda*** four-field panel (Roman **I–IX**), not a second shoulder chapter icon.
+**Shoulder insignia:** **Left:** **White** frontal-wolf on **crimson** field (or transfer). **Right:** Cohort color (Silence ivory, Shadows black, Stasis gunmetal, Nullity cobalt) + pure-line division rim (black / silver / gold). **Vexillatio** identity on ***Alabarda*** four-field panel (Roman **I–IX**), not a second shoulder chapter icon.
 
 **Weapon colors:** **Noviomagus-pattern** bolt weapons — gunmetal, black furniture, minimal crimson pinstripe; chainswords and gladii — steel / ceramite, utilitarian. Cawl-pattern bolt rifle per Munitorum sheet below.
 
@@ -371,7 +372,7 @@ Per-Vexillatio split: [military-hierarchy.md](doctrine-and-organs/military-hiera
 
 ### Chapter Command
 
-**Chapter Master:** **Alaric von Helis** — see [dossier-alaric.md](character-dossiers/triumvirate/dossier-alaric.md). *Castra-Lupus* Terminator-era chassis; *We hold*; protector geometry to Solis line.
+**Chapter Master:** **Alaric von Helis** — see [dossier-alaric.md](character-dossiers/triumvirate/dossier-alaric.md). ***Castra-Lupus — Helis*** (Castellan artificer armor); ***Caput Ferreum Castellani***; *We hold*; protector geometry to Solis line. Office law: [castra-lupus-doctrine.md](../arsenal-and-logistics/castra-lupus-doctrine.md).
 
 **Chapter Champion:** **No standalone Codex “Chapter Champion” post.** Duelist excellence filed under **Legatus/captain** champions and ***Decima*** retinue. Closest analog: **Markus Graile** (Castellan captain-instructor) / **Radulf LVI-1** (Leviathan ancient).
 

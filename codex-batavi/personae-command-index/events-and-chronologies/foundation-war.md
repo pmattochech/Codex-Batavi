@@ -67,7 +67,7 @@ Figures fluctuate by pole and week; treat as **staff estimates** tied to serial 
 | Batavi landed | **~500** | Small founding footprint; crucible replaces numbers with *geometry* |
 | peak weekly dead (acute pulses) | **9–66** | spikes track void accidents, tunnel collapses, estuary pushes, MoI encounters |
 | Versibar / curse-adjacent loss (cumulative rites) | **low tens – low hundreds** | spikes around **Execratio** clustering; **includes** brothers elevated from **replenishment** drafted during the crucible, not founding hull alone — tighten at serial lock |
-| rational line at crucible terminus (~**CV y29**) | **~480–520** | **~500** battle-brothers **not** in **Execratio** — population lock before post-war expansion and **Valerian Heresy** math; overlaps Imperial **~045.M42** *approx* |
+| rational line at crucible terminus (~**CV y29**) | **~480–520** | **~500** battle-brothers **not** in **Execratio** at crucible close; **post-crucible** growth toward **~5,000** during **two-power** era before **Valerian Heresy** — see [`valerian-heresy.md`](valerian-heresy.md); overlaps Imperial **~045.M42** *approx* |
 
 ---
 

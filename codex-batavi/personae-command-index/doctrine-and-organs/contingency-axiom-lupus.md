@@ -134,6 +134,6 @@ Substitute inherits Tier A custody **minus** kill-route segments not briefed —
 
 - Chronicle hub: `../../chronicles/silent-vigil/README.md`
 - Access governance: `protocol-access-matrix.md`
-- Related pathology: `crimson-wolf-rubor-thermicus.md`
+- Related pathology: `the-red-wolf.md`
 - Command structure: `military-hierarchy.md`
 - Chronicle chain: `../../chronicles/silent-vigil/fracture-recognition/chapter.md` · `../../chronicles/silent-vigil/old-voices-council/chapter.md` · `../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md` · `../../chronicles/silent-vigil/decima-gatekeepers/chapter.md` · `../../chronicles/silent-vigil/protocol-forged-in-iron/chapter.md` · `../../chronicles/silent-vigil/war-game-black-mirror/chapter.md` · `../../chronicles/silent-vigil/proof-of-chain/chapter.md`

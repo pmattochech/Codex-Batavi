@@ -1,8 +1,8 @@
 # Wolf’s Curse × Primaris reinforcement — planning rules (not integrated canon)
 
-**Status:** Design notes for **Firstborn crucible → Primaris reinforcement** and **curse progression policy**. **Merged into canon:** **§6** (Exanimus Firstborn vs Primaris) now lives in [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md). Other bullets here remain **staging** until copied to dossiers / armory / chronology as needed.
+**Status:** Design notes for **Firstborn crucible → Primaris reinforcement** and **curse progression policy**. **Merged into canon:** **§6** (Exanimus Firstborn vs Primaris) now lives in [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md). Other bullets here remain **staging** until copied to dossiers / armory / chronology as needed.
 
-**Canonical biology:** [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md).
+**Canonical biology:** [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md).
 
 **Update rule:** Refresh when the project owner prompts.
 
@@ -36,7 +36,7 @@
 
 ## 3. Wolf’s Curse — operational upsides vs costs (from current encyclopedia)
 
-Summarized from [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) for **writer-facing** tradeoffs.
+Summarized from [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) for **writer-facing** tradeoffs.
 
 ### Furor (*irritable exhaustion*)
 
@@ -96,7 +96,7 @@ Summarized from [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-best
 
 ## 6. Firstborn vs Primaris at Exanimus (**merged** into encyclopedia)
 
-**Canonical:** [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) (*Exanimus — Firstborn vs Primaris*).
+**Canonical:** [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) (*Exanimus — Firstborn vs Primaris*).
 
 Summary:
 
@@ -108,10 +108,10 @@ Summary:
 
 ## 7. Integration checklist (when owner orders **write**)
 
-- [x] `projection-aurea-wolfs-curse.md` — Firstborn vs Primaris Exanimus; Valerian **Adversarii** note (this pass).
-- [ ] Triumvirate dossiers — **Varro / Drusus** psychology vs **Alaric** patriarch load.
-- [ ] `chassis-and-armor-catalog.md` / `vexillatio-operational-armory.md` — Firstborn vs Primaris era kit.
-- [ ] `master-chronology.md` — first reinforcement milestone **flush with** Foundation War terminus; **Valerian** casualty row if not already synced everywhere.
+- [x] [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — Firstborn vs Primaris Exanimus; Valerian **Adversarii** note (this pass).
+- [ ] Triumvirate dossiers — **Varro / Drusus** psychology vs **Alaric** patriarch load ([`dossier-varro.md`](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [`dossier-drusus.md`](../personae-command-index/character-dossiers/triumvirate/dossier-drusus.md) · [`dossier-alaric.md`](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md)).
+- [ ] [`chassis-and-armor-catalog.md`](../arsenal-and-logistics/chassis-and-armor-catalog.md) / [`vexillatio-operational-armory.md`](../arsenal-and-logistics/vexillatio-operational-armory.md) — Firstborn vs Primaris era kit.
+- [ ] [`master-chronology.md`](../personae-command-index/events-and-chronologies/master-chronology.md) — first reinforcement milestone **flush with** Foundation War terminus; **Valerian** casualty row if not already synced everywhere.
 - [x] [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md) — population / Valerian / **Adversarii** bullets (merged).
 
 ---
@@ -119,4 +119,4 @@ Summary:
 ## 8. Cross-links
 
 - Foundation war / MoI / time layer: [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md)
-- Full clinical detail: [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)
+- Full clinical detail: [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)

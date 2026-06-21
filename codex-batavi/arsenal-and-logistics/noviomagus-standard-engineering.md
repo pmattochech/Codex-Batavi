@@ -32,7 +32,17 @@ Triple-reinforced joints with vulcanized synthetic rubber for Noviomagus’s pol
 
 ---
 
-## 3. Catalog cross-references
+## 3. Legatus and line variants
+
+**Line baseline:** [§1–2](#1-structural-systems-and-mobility) — every battle-brother fights **Noviomagus Standard** or a **certified variant**.
+
+**Vex-calibrated line (*Prima* and peer Vexillationes):** Line plate **acceptance-trialed** against the home Legatus reference gauge — same forge class and seal discipline, **without** Legatus-only marks (Corvus beak, iron halo, crest, Crux, debt chains) unless rank earns them. *Prima* uses ***Typus Primus — Ardens*** (Corbec) as master block.
+
+**Legatus artificer:** One **artificer** commission per Legatus — relay-hardpoints, Curia telemetry, tighter tolerances. Each Legatus co-designs kit with **Kadmos** (***rite of the block***); **Castra-Vetera vault** legacy parts **Mark V and later only** **refitted** where applicable — always **artificer** grade. Default: **Mark X Tacticus**. **All Legati:** **chest aquila**; **left forearm relay** (or relay cogitator on TDA); **default crest** — **alternating crimson and white** transverse lamella · **exceptions:** *Typus Quintus* — **black Batav wolf head + black pelt** (*Canis Batavorum*); *Typus Sextus* — **ornate iron halo**. ***Typus Primus — Ardens*** (Corbec): **Corvus-pattern** beak + crest + **Crux worn**. ***Typus Secundus — Kessler*** (II): bronze-face Mk X + optional **Watch honor block**. ***Typus Tertius — Brach*** (III): **Mk VIII Errant-pattern**. ***Typus Quartus — Valestrand*** (IV): **Mk VII-pattern**. ***Typus Quintus — Sturmwahl*** (V): **Mk V-pattern** + **integral jump pack** (iron halo on spine; **no crest**). ***Typus Sextus — Bifronte*** (VI): **Tartaros-pattern TDA** office only + **Crux worn** + **visible homer**. **Crux Terminatus:** TDA / Terminator **office** gate — Corbec (Mk X grandfather) · Bifronte (TDA). Full institution: [legati-operational-register.md](legati-operational-register.md) § Legatus armor · references through [dossier-gervas-bifronte.md](../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md) §1.
+
+---
+
+## 4. Catalog cross-references
 
 | Topic | Document |
 |-------|----------|

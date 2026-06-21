@@ -24,10 +24,10 @@ Use this so **alliance** stays **credible** without **collapsing** unknown found
 |------|-----------------------------|-------------------------|
 | **Material diplomacy** | *Morkai’s Bite* (Grimnar gift), **Bjorn** belt talisman, **Fenris**-forged relics on Alaric/Varro (see [dossier-alaric.md](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md), [dossier-varro.md](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md)) | Gifts prove **respect**, not **gene-seed disclosure** |
 | **Visual kinship** | *Fenris-pattern* / **wolf-skull** helms as **Noviomagus adaptations** | SW may read **kin**; Batavi read **equipment lineage** + **doctrine difference** (*Analytical Silence* vs howls) |
-| **Biology** | Manuals still map lupine defects to **Fenris** as “loud ghost” ([chimera-pendulum.md](../chronicles/03-projection-aurea-codex-omega/chimera-pendulum.md)) | Apothecary **friction**: Fenris baselines **fail** to explain chimeric predisposition fully |
+| **Biology** | Manuals still map lupine defects to **Fenris** as “loud ghost” ([chimera-pendulum.md](../chronicles/projection-aurea-codex-omega/chimera-pendulum/chapter.md)) | Apothecary **friction**: Fenris baselines **fail** to explain chimeric predisposition fully |
 | **The Thunderwolf line** | **Batav Wolf** / *Canis Batavorum* **≠** Fenris **Thunderwolf** ([GLOSSARY-EN.md](../GLOSSARY-EN.md)) | Scene where a Wolf **mistakes** the pelt or the beast — **correct** them in-character |
 
-**Chronicle touchpoints (non-exhaustive):** [gray-silence-of-fenris.md](../chronicles/08-audit-diplomacy/gray-silence-of-fenris.md), [viggo-saga.md](../chronicles/silent-vigil/viggo-the-heat-of-the-stone/viggo-saga/chapter.md), [diplomacy-aethelgard.md](../chronicles/08-audit-diplomacy/diplomacy-aethelgard.md), [dragon-in-the-hearth-tushan.md](../chronicles/08-audit-diplomacy/dragon-in-the-hearth-tushan.md) (compare: other Chapter visits).
+**Chronicle touchpoints (non-exhaustive):** [gray-silence-of-fenris.md](../chronicles/audit-diplomacy/gray-silence-of-fenris/chapter.md), [viggo-saga.md](../chronicles/silent-vigil/viggo-the-heat-of-the-stone/viggo-saga/chapter.md), [diplomacy-aethelgard.md](../chronicles/audit-diplomacy/diplomacy-aethelgard/chapter.md), [dragon-in-the-hearth-tushan.md](../chronicles/audit-diplomacy/dragon-in-the-hearth-tushan/chapter.md) (compare: other Chapter visits).
 
 ---
 

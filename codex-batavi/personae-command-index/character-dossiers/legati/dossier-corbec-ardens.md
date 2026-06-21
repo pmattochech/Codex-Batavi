@@ -15,9 +15,14 @@
 
 *Grey that sets the clock for every other grey.*
 
-* **Physique:** Broad, economical motion — the body language of someone who measures campaigns in **rounds-per-cell** and replacement tubes, not duels.  
-* **Armor:** Standard Primaris-line plate with **minimal** personal heraldic deviation; *Prima* officers are expected to **model** Noviomagus-pattern austerity. Orange lens wash from the *Alabarda* relay is his most recognizable battlefield signature.  
-* **Visage protocol:** Helm sealed outside the Triumvirate-authorized exceptions; no kitchen visage privilege.
+* **Physique:** Broad, economical motion — campaigns measured in **rounds-per-cell** and replacement tubes. Post-Malakor filings rank him **highest lethal geometry** in the Chapter (sealed audit); he **does not** perform duelist theater — wins by **gap and gauge**, not spectacle.  
+* **Armor — *Typus Primus — Ardens* (Legatus reference configuration):** Noviomagus **artificer Mark X Tacticus** — the **master gauge** for Legatus **artificer grade**, acceptance trials, and *Prima* vex-calibrated line plate. **Not** a visual kit other Legati copy: each Legatus receives a **distinct** configuration matched to seat and impact profile (Corbec = **gauge**; peer Legati may read **law**, **siege**, **void**, etc.). ~**90% industrial grey**; **chest aquila** (Legatus law); **purity seals** on gorget, joins, and backpack latches; small **broken-cog caliper** on gorget or chest (obligation mark paired with chains).  
+  * **Helm — Corvus-pattern (*Typus Primus* helm family):** **Mark VI Corvus** bowl refitted to Mk X — extended **beak cowl** housing auspex, *Alabarda* relay merge, and *Curia* telemetry (*Armourium* **Corvus** designation; shares **sensor-spine** vocabulary with gulf-fort auspex doctrine — distinct from Gervas Bifronte’s **Korvus breach** campaign toponym). **Fixed transverse crest** — **alternating crimson and white** lamella (Chapter symbol colors); **rank only**. **Worked iron halo** (segmented forge ring behind helm). **Orange lenses**; Furor stripe if biology requires.  
+  * **Left forearm:** Flush **relay terminal** — mag-seal socket, hardline to thoracic *Alabarda* merge when EM forbids wireless.  
+  * **Right forearm:** **Rolled iron/ceramite chains** — *Prima* **debt we carry** on the body; maintained like any instrument, forearm-only.  
+  * **Pauldrons:** **Left** — **white** frontal-wolf transfer on **crimson** field; **white fillet** on rim. **Right** — standard **Mark X Crux Terminatus** inset (Corbec pattern; **optional** Legatus institution — **worn** on *Prima*). Optional unrepaired **Malakor audit scar** (groove on left pauldron from Cassian Vorn contact).  
+  * **Battlefield signature:** Orange lens wash when *Alabarda* relay is live.  
+* **Visage protocol:** Helm sealed outside Triumvirate-authorized exceptions; no kitchen visage privilege.
 
 ---
 
@@ -34,7 +39,7 @@
 
 * ***Alabarda* head — Type Primus (reference):** power axe cheek, short power impaler, power hammer opposite, butt spike for plant and lattice — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §3.  
 * **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — *Prima* baseline **industrial war**: bolters, chainswords, sustained automatic culture.  
-* **Command style:** Positions *Prima* as the **calibration Vexillatio** for the other eight — when another Legatus disputes *Armourium* queue priority, Corbec’s answer is **live fire tallies**, not rank shout.  
+* **Command style:** Positions *Prima* as the **calibration Vexillatio** for the other eight — when another Legatus disputes *Armourium* queue priority, Corbec’s answer is **live fire tallies**, not rank shout. His **Typus Primus** armor is the **acceptance trial** *Prima* line brothers are measured against (vex-calibrated Noviomagus Standard — same class, without Legatus-only marks).  
 * **Specialty cohort interface:** Treats Silence, Shadows, Stasis, and Nullity as **equal teeth** — refuses to starve one cohort to feed another’s legend.
 
 ---
@@ -63,4 +68,4 @@
 
 POV for **Noviomagus industrial** stories, post-traitor **command shame** without melodrama, and **Legatus** decisions under *Friction Geometry*. In Silent Vigil expansion, his command virtue is **continuity under humiliation**; his failure-risk profile is **over-indexing on throughput certainty when adaptive ambiguity is required**. **~189.M42 | Hive Vespera Red Harvest:** commanded full *Prima* purge lattice — lower hive kill geometry, *Alabarda* relay synchronization, specialty cohort tasking — while Alaric held upper spire house judgment.
 
-**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md); [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3; [master-chronology.md](../../events-and-chronologies/master-chronology.md) §III; [old-voices-council/chapter.md](../../../chronicles/silent-vigil/old-voices-council/chapter.md); [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md); [ferrum-secondus-wolf-ledger.md](../../../chronicles/post-vigil/ferrum-secondus-wolf-ledger/chapter.md); [hive-vespera-red-harvest.md](../../../chronicles/post-vigil/hive-vespera-red-harvest/chapter.md); [proof-of-chain/chapter.md](../../../chronicles/silent-vigil/proof-of-chain/chapter.md).
+**Cross-reference:** [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) · [noviomagus-standard-engineering.md](../../../arsenal-and-logistics/noviomagus-standard-engineering.md) §3 · [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md); [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3; [master-chronology.md](../../events-and-chronologies/master-chronology.md) §III; [old-voices-council/chapter.md](../../../chronicles/silent-vigil/old-voices-council/chapter.md); [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md); [ferrum-secondus-wolf-ledger.md](../../../chronicles/post-vigil/ferrum-secondus-wolf-ledger/chapter.md); [hive-vespera-red-harvest.md](../../../chronicles/post-vigil/hive-vespera-red-harvest/chapter.md); [proof-of-chain/chapter.md](../../../chronicles/silent-vigil/proof-of-chain/chapter.md).

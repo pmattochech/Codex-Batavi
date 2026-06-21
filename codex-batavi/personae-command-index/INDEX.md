@@ -69,7 +69,7 @@
 
 ### mortals
 
-- [dossier-elara-solis.md](character-dossiers/mortals/dossier-elara-solis.md)
+- [dossier-elara-solis.md](../chronicles/outdated/elara-iron-venus/dossier-elara-solis.md) — **OUTDATED** (parked pending redesign)
 - [dossier-martha.md](character-dossiers/mortals/dossier-martha.md)
 - [dossier-tobias.md](character-dossiers/mortals/dossier-tobias.md)
 - [dossier-forge-brood.md](character-dossiers/mortals/dossier-forge-brood.md)
@@ -81,6 +81,7 @@
 ## events-and-chronologies
 
 - [foundation-war.md](events-and-chronologies/foundation-war.md) — *Foundation War* staff summary · **canonical prose:** [`../chronicles/foundation-war/INDEX.md`](../chronicles/foundation-war/INDEX.md)
+- [valerian-heresy.md](events-and-chronologies/valerian-heresy.md) — *Valerian Heresy* / brother civil war (scaffold **May 2026**) · **chronicle hub:** [`../chronicles/silent-vigil/valerian-heresy/README.md`](../chronicles/silent-vigil/valerian-heresy/README.md)
 - [drusus-retrospective-aethelgard-first-quarter.md](events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md) — archival Drusus lens (texture only; troop math superseded)
 - [master-chronology.md](events-and-chronologies/master-chronology.md)
 - [legislative-chronology.md](events-and-chronologies/legislative-chronology.md)

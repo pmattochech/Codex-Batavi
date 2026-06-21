@@ -89,4 +89,4 @@ Admission is **rare** and **Vermilion**:
 
 **Hands (Einar exception):** **Dreadwolf Claws** — open-hand assault lightning claws recovered aboard **Kzorn’s Maw** during capture; later **purified and re-wrought** under **Kadmos** with *Reclusiam* oversight (Varro/clergy) into Castra Vetera interface standards. **Wolverine geometry** — knuckle-coupled blades, extend/retract, fingers free; corruption receipts denied.
 
-Narrative: [dreadwolf-terminus.md](../../chronicles/vexillum-chronicles/dreadwolf-terminus/chapter.md).
+Narrative: [dreadwolf/INDEX.md](../../chronicles/dreadwolf/INDEX.md) · [terminus/chapter.md](../../chronicles/dreadwolf/terminus/chapter.md).

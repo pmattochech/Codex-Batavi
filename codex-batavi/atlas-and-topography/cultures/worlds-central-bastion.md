@@ -25,7 +25,7 @@
 
 **Scale & role:** Ecumenopolis **bureaucracy brain** — judgment, tithe, noble houses, **perpetual autumn** climate control.
 
-**Economy-ecology:** Paper-light smog from **cogitation incense**; kilometers of **registry vaults**; gardens kept **muted orange** for optical calm.
+**Economy-ecology:** Paper-light smog from **cogitation incense**; kilometers of **registry vaults** (including ***Depositorium Cataphractae*** — sealed Legiones-era **Cataphractii** TDA cache, Castellan armory sustainment under **II *Secunda***); gardens kept **muted orange** for optical calm.
 
 **Porta Nihili flavor:** The Throne receives **correct filing**. **Penance** is **amended forms**. Pilgrimage is **appeal windows**. Holiness is **concordance** between three departments that hate each other.
 

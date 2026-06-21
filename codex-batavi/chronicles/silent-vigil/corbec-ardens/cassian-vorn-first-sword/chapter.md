@@ -211,3 +211,7 @@ This duel was inevitable.
 Not because fate wanted it.
 
 Because the theater demanded it.
+
+---
+
+**End of Witness (4 of 7)** · **Next:** [vorn-duel-open-field](../vorn-duel-open-field/chapter.md)

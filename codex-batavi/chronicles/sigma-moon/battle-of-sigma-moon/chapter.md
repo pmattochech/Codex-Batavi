@@ -84,7 +84,7 @@ The battle for outer perimeters lasted forty minutes. The World Eaters did not u
 
 The First Vexillatio held. *We hold.* The iron wall did not give way.
 
-On the outer storage spine, **V** *Quinta* cut World Eaters mass before it learned to breathe without frenzy. **Lieutenant Einar Dreadwolf** fell there — self-triggered ***Spina Cineris*** terminis, Judex witness, **no skull and no spill** for Brass to receipt — minutes before the Primarch manifested. Full account: [dreadwolf-terminus.md](../vexillum-chronicles/dreadwolf-terminus/chapter.md).
+On the outer storage spine, **V** *Quinta* cut World Eaters mass before it learned to breathe without frenzy. **Lieutenant Einar Dreadwolf** fell there — self-triggered ***Spina Cineris*** terminis, Judex witness, **no skull and no spill** for Brass to receipt — minutes before the Primarch manifested. Full account: [terminus/chapter.md](../dreadwolf/terminus/chapter.md).
 
 Then Angron descended.
 

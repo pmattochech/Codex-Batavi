@@ -6,7 +6,7 @@
 **Unit:** **V** *Quinta* recovery element under **Legatus Armin Sturmwahl**; **Varro** (Judex witness)  
 **Enemy:** Feral Orks; World Eaters survivors; Khorne-adjacent bleed from prior moon/station incursions
 
-**Full chronicle:** [dreadwolf-red-tide.md](../vexillum-chronicles/dreadwolf-red-tide/chapter.md)
+**Full chronicle:** [red-tide/chapter.md](../dreadwolf/red-tide/chapter.md) · saga: [dreadwolf/INDEX.md](../dreadwolf/INDEX.md)
 
 **Register note:** **Not** certified for *Alabarda* **field 4** — precedent is **Judex watch** and *Vermilion* soul file, not heraldic triumph.
 
@@ -24,7 +24,7 @@ Recover **V** *Quinta* battle-brother remains for **Versibar / KIA** funeral geo
 
 ## 3. Execution
 
-**Phase 0 — Capture (annex):** Twelve brothers; eleven shipboard mercy killings after Nails-induced soul collapse; subject killed World Eaters crew and escaped crash — see [dreadwolf-kzorns-maw.md](../vexillum-chronicles/dreadwolf-kzorns-maw/chapter.md).
+**Phase 0 — Capture (annex):** Twelve brothers; eleven shipboard mercy killings after Nails-induced soul collapse; subject killed World Eaters crew and escaped crash — see [kzorns-maw/chapter.md](../dreadwolf/kzorns-maw/chapter.md).
 
 **Phase A — Approach:** Gunboat insert; Sturmwahl + Varro + twelve-brother escort.
 
@@ -54,8 +54,8 @@ Recovery element: **two** wounded (Ork scrap ambush en route out).
 
 **Lieutenant Einar Dreadwolf** — KIA Luna Sigma outer perimeter during Battle of Sigma Moon. Wearing full ***Amissi* Mk X Tacticus** rig; self-triggered ***Spina Cineris*** (*Destabilis Molecularis* terminis); **Varro** + **Armin Sturmwahl** witness; gene-seed **null** (annihilated). *Vermilion* watch file **closed** — *Terminus 168.M42 — Luna Sigma. Receipt denied.*
 
-Narrative: [dreadwolf-terminus.md](../vexillum-chronicles/dreadwolf-terminus/chapter.md) · [battle-of-sigma-moon.md](../sigma-moon/battle-of-sigma-moon/chapter.md).
+Narrative: [terminus/chapter.md](../dreadwolf/terminus/chapter.md) · [battle-of-sigma-moon/chapter.md](../sigma-moon/battle-of-sigma-moon/chapter.md).
 
 ---
 
-**Cross-reference:** [dossier-einar-dreadwolf.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [dreadwolf-kzorns-maw.md](../vexillum-chronicles/dreadwolf-kzorns-maw/chapter.md) · [dreadwolf-terminus.md](../vexillum-chronicles/dreadwolf-terminus/chapter.md) · [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §C.
+**Cross-reference:** [dossier-einar-dreadwolf.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [dreadwolf/INDEX.md](../dreadwolf/INDEX.md) · [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §C.

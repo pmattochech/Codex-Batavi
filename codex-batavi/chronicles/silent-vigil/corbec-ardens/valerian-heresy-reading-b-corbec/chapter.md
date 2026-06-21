@@ -298,3 +298,7 @@ This time I spoke it aloud.
 Not as a chant.
 
 As a refusal to let the archive lie.
+
+---
+
+**End of Witness (3 of 7)** · **Next:** [cassian-vorn-first-sword](../cassian-vorn-first-sword/chapter.md)

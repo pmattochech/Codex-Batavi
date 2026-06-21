@@ -16,8 +16,17 @@
 *Gravity is the first weapon; he wears it like plate.*
 
 * **Physique:** Dense, short-strided even without boots — calves and ankles overbuilt from decades on **Incus-Gravis** drill decks. Reads **slow** to outsiders; on shingle he is the fastest man who does not fall.  
-* **Armor:** **Gravitic boot** routing always exposed for inspection; storm-shield certification worn on **left** vambrace as habit, not vanity. Heavy bolt and melta slings cycled for **semi-auto** discipline, not mag-dump culture.  
-* **Tell:** Before every briefing, taps **heel seals** twice on deck — subordinates learn the sound means *Curia* clearance is already on the relay.
+* **Armor — *Typus Quartus — Valestrand* (Legatus configuration):** Noviomagus **artificer Mark X Tacticus** — co-designed with **Kadmos** (*rite of the block*); seat reads **high-G static hold**, **March-edge** discipline, and **boot-debt** geometry — not thermal theater, Lex optics, or Watch split plate. ~**90% industrial grey** chassis. **Chest aquila** (Legatus law). **Purity seals** on gorget, joins, and backpack latches.  
+  * **Helm — Mk VII-pattern (*Typus Quartus* helm family):** **Artificer** **Mark VII** bowl refitted to Mk X neck ring — siege-line / trench governor read; **fixed transverse crest** — **alternating crimson and white** lamella (Legatus law). **Orange lenses**; **no** rear halo / aquila on helm.  
+  * **Gorget:** **Reinforced** Mk X gorget — trench **seal laminates** (grav-lock / shingle choke work).  
+  * **Left forearm:** **Relay terminal** on artificer vambrace + **storm-shield mount** (integrated certification housing — habit, not vanity).  
+  * **Right vambrace + gauntlet:** **Crimson** (chapter trim); **heavy bolter / melta** sling routing; **semi-auto** discipline, not mag-dump culture.  
+  * **Pauldrons:** **Both crimson**; **Mk V stud rims** (Castra-Vetera vault graft) on **both**; **left** — **white** frontal-wolf + **white fillet**; **right** — **no Crux Terminatus** (Terminator office identity **no**); **Roman IV** stamped on rear lip.  
+  * **Greaves / sabatons:** **Gravitic boot routing** exposed for inspection (Noviomagus anchor points visible); scored **shingle** tread on sabatons.  
+  * **Power pack:** Standard Mk X artificer backpack.  
+  * **Tell:** Before every briefing, taps **heel seals** twice on deck — subordinates learn the sound means *Curia* clearance is already on the relay.  
+  * **Explicit negatives:** No Crux · no Watch honor block · no *Prima* chains · no Corvus beak · no Errant collar stack · no sash · **TDA / Terminator** office plate (mission swap only) · **Gravis** reserved for line/theater certification, not Legatus commission.  
+* **Visage protocol:** Helm sealed outside Triumvirate-authorized exceptions.
 
 ---
 
@@ -62,4 +71,4 @@
 
 POV for **high-G trench war**, **Tyranid veil holds**, **March-edge** coalition friction, and **rotation-table** drama on long sieges. Contrast to Branimir: Valestrand is **macro** governor; Branimir is **street/cataloguer** POV. **Legatus Ring:** command virtue **hold without liturgy**; failure-risk **treating Castellan absence as victory leave, not substitution chain**.
 
-**Cross-reference:** [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §6; [ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md) · [aar-vex-iv-ruhe-defense.md](../../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md) · [disciplines-and-curia-vexilli-plan.md](../../../planning/disciplines-and-curia-vexilli-plan.md) · [dossier-branimir.md](../cohorts-and-detachments/dossier-branimir.md) · [master-chronology.md](../../events-and-chronologies/master-chronology.md) §III; [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).
+**Cross-reference:** Armor — ***Typus Quartus — Valestrand*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § IV. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §6; [ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md) · [aar-vex-iv-ruhe-defense.md](../../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md) · [disciplines-and-curia-vexilli-plan.md](../../../planning/disciplines-and-curia-vexilli-plan.md) · [dossier-branimir.md](../cohorts-and-detachments/dossier-branimir.md) · [master-chronology.md](../../events-and-chronologies/master-chronology.md) §III; [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).

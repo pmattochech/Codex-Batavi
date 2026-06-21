@@ -197,3 +197,7 @@ Service demands reason instead of devotion.
 I did not say the line aloud.
 
 I lived it, one measured step at a time, across the extraction flats that had stopped being a place and become a proof.
+
+---
+
+**End of Witness (2 of 7)** · **Next:** [valerian-heresy-reading-b-corbec](../valerian-heresy-reading-b-corbec/chapter.md)
