@@ -30,3 +30,11 @@ This strategy’s difference from other Imperial doctrines is cost-benefit focus
 
 * **Resource preservation:** Maximize enemy kills with minimum ammunition and Imperial lives spent (both Astartes and Auxilia).  
 * **The invisible victory:** Ideal Friction Geometry victory is not a heroic charge but combat where the enemy bleeds to exhaustion against static defenses, defeated by war’s mathematics before breaking the first contact line.
+
+## 5. MESH FORTIFICATION (SIEGE MASTER)
+
+**Office:** **Gervas Bifronte**, Legatus of **VI *Sexta***, holds Chapter-wide authority as **Siege Master**, ***Maior Caementarius*** (**Greater Mason**), and ***Pater Murorum*** (**Father of Walls**) — supreme drafting on **static defense** and **capital fortress** geometry across the **Nine Phalanx**, without superseding Legati in battle command.
+
+* **Legati forge councils:** Theater-native fort plans at each Legatus seat — industrial (*Prima*), measured-fire (*Secunda*), chem-thermal (*Tertia*), high-G (*Quarta*), assault-release (*Quinta*), twin-gate vaults (*Sexta*), plasma containment (*Septima*), void interlock (*Octava*), relay denial (*Nona*) — one Chapter grammar, nine operational faces. Detail: [`dossier-gervas-bifronte.md`](../character-dossiers/legati/dossier-gervas-bifronte.md) §3.2.  
+* **Castellan audit:** Lord Castellan **Alaric** receives **Bifronte’s audit** — unreconciled weak meters and unarmed redundancy lanes — before major mesh seals.  
+* **Iron Warriors counter-siege:** Redundancy mesh (§1) was **blood-certified** during the **Cage of Bifrons** (*Ferrum Cage*, ~092–098.M42) and climaxed at **Korvus twin breach** — sealed register names **Iron Warriors**; public scrolls stay **undifferentiated heretic Astartes**.

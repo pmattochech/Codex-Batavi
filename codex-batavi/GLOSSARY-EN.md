@@ -69,6 +69,11 @@ Use when writing or editing English prose. Extend as you go.
 | **witness routes only** | Margin law / folk liturgy: testimony and escort manifests stay **parallel** — no sample transit without escort manifest parity; spreads from tender spine graffiti to Chapter habit (Q4 cluster). |
 | **parallel filing** | Staff immune grammar: two ledgers under one timestamp (e.g. Mechanicus salvage assertion beside Navy escort losses) — **DO NOT MERGE** grief into throughput. |
 | Friction Geometry | Primary tactical doctrine |
+| **Siege Master (Chapter office)** | **Gervas Bifronte** — supreme static-defense drafting across Nine Phalanx; peer Legati in battle command — [`dossier-gervas-bifronte.md`](personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md) §3.2 |
+| ***Maior Caementarius*** | **Greater Mason** — *Strategium* / *Armourium* title; mesh fortress architect (Gervas Bifronte) |
+| ***Pater Murorum*** | **Father of Walls** — Guard / mortal mesh coinage for Siege Master; Astartes liturgy prefers *Maior Caementarius* |
+| **Cage of Bifrons (*Ferrum Cage*)** | ~**092–098.M42** — **Iron Warriors**–aligned siege on Bifrons vault mesh; public register **undifferentiated heretic Astartes**; sealed *Strategium* names IV Legion siege doctrine; climaxes **Korvus twin breach** — [`dossier-gervas-bifronte.md`](personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md) §4 |
+| **Bifronte audit** | Castellan weak-point slate before major mesh seals — unreconciled meters, unarmed redundancy lanes |
 | Axiom of Reason / *Axioma Rationis* | Latin styled where established |
 | Triumvirate | Alaric, Drusus, Varro |
 | **Upstream quartet** | **Full-resolution** seats for the Chapter’s recurring unease — **Alaric**, **Drusus**, **Varro**, **Chief Librarian Otho** — **not** open Administratum pedigree certainty; hypotheses diverge until the *Strategium* converges. See [`council-and-librarium.md`](personae-command-index/doctrine-and-organs/council-and-librarium.md) §5. |

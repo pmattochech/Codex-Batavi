@@ -24,7 +24,7 @@
 | **III** | *Tertia* | Khan-Bator Prime | **Theron Brach** (Legatus) | [dossier-theron-brach.md](../legati/dossier-theron-brach.md) | Optional: Ruin division face |
 | **IV** | *Quarta* | Incus-Gravis sphere | **Orin Valestrand** (Legatus) · **Branimir Vorhalt** (*Decanus Primus*, Silence) | [dossier-orin-valestrand.md](../legati/dossier-orin-valestrand.md) · [dossier-branimir.md](../cohorts-and-detachments/dossier-branimir.md) | Optional: assault sergeant exemplar |
 | **V** | *Quinta* | Aethelgard Prime | **Armin Sturmwahl** (Legatus) · **Einar Dreadwolf** (Lieutenant) | [dossier-armin-sturmwahl.md](../legati/dossier-armin-sturmwahl.md) · [dossier-einar-dreadwolf.md](../cohorts-and-detachments/dossier-einar-dreadwolf.md) | — |
-| **VI** | *Sexta* | Bifrons-Ferrum | **Gervas Bifronte** (Legatus) | [dossier-gervas-bifronte.md](../legati/dossier-gervas-bifronte.md) | Optional: Indomitor line NCO |
+| **VI** | *Sexta* | Bifrons-Ferrum | **Gervas Bifronte** (Legatus; **Siege Master**, ***Maior Caementarius***) | [dossier-gervas-bifronte.md](../legati/dossier-gervas-bifronte.md) | Optional: Indomitor line NCO · **Ferrum Cage** chronicle (backlog) |
 | **VII** | *Septima* | Vitreus | **Lucan Phaetron** (Legatus) | [dossier-lucan-phaetron.md](../legati/dossier-lucan-phaetron.md) | Optional: marksman cell lead |
 | **VIII** | *Octava* | Great Reef / Maleventum | **Ivar Malevent** (Legatus) | [dossier-ivar-malevent.md](../legati/dossier-ivar-malevent.md) | Optional: boarding *decanus* |
 | **IX** | *Nona* | Marco de Vetra | **Cassian Vetra** (Legatus) | [dossier-cassian-vetra.md](../legati/dossier-cassian-vetra.md) | Optional: Shouter crew chief |

@@ -48,7 +48,7 @@
 - [dossier-theron-brach.md](character-dossiers/legati/dossier-theron-brach.md) — Legatus, 3rd *Tertia* (Khan-Bator Prime)
 - [dossier-orin-valestrand.md](character-dossiers/legati/dossier-orin-valestrand.md) — Legatus, 4th *Quarta* (Incus-Gravis sphere)
 - [dossier-armin-sturmwahl.md](character-dossiers/legati/dossier-armin-sturmwahl.md) — Legatus, 5th *Quinta* (Aethelgard Prime)
-- [dossier-gervas-bifronte.md](character-dossiers/legati/dossier-gervas-bifronte.md) — Legatus, 6th *Sexta* (Bifrons-Ferrum)
+- [dossier-gervas-bifronte.md](character-dossiers/legati/dossier-gervas-bifronte.md) — Legatus, 6th *Sexta* (Bifrons-Ferrum); Chapter **Siege Master**, ***Maior Caementarius*** / ***Pater Murorum***
 - [dossier-lucan-phaetron.md](character-dossiers/legati/dossier-lucan-phaetron.md) — Legatus, 7th *Septima* (Vitreus)
 - [dossier-ivar-malevent.md](character-dossiers/legati/dossier-ivar-malevent.md) — Legatus, 8th *Octava* (Great Reef / Maleventum)
 - [dossier-cassian-vetra.md](character-dossiers/legati/dossier-cassian-vetra.md) — Legatus, 9th *Nona* (Marco de Vetra)

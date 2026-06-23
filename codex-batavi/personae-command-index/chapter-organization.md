@@ -80,7 +80,7 @@ Main sections use level-2 headings; subsections level-3; field labels **bold** w
 
 **Size:** **5,000** battle-brothers with full gene-seed and Chapter status — **ten Vexillationes × 500**. Declared ***Codex Astartes* breach** (*Pax Batavorum*): friction-war replacement conveyor, not vanity expansion. Neophytes in pipeline, servitors, and auxilia **outside** the 5,000 ceiling. Table: [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §4.
 
-**Description:** The Chapter is a **Triumvirate-governed** war machine: **Alaric** (wall geometry), **Drusus** (biology), **Varro** (discipline / psychic risk). Nine **Legati** bear the ***Alabarda Vexillum*** on nine seats; **Vexillatio X (*Decima*)** is the Castellan’s anchor guard without a Legatus. Extended Council: **Kadmos** (*Armourium*), **Otho** (*Librarium*). Allies: Imperial Navy (Elara Solis), Mechanicus (conditional), Deathwatch (treaty), Inquisition (geometry of tolerance). Foes: traitor Astartes (Malakor register), Tyranids, Orks, genestealers, Necrons — theater-dependent.
+**Description:** The Chapter is a **Triumvirate-governed** war machine: **Alaric** (wall geometry), **Drusus** (biology), **Varro** (discipline / psychic risk). Nine **Legati** bear the ***Alabarda Vexillum*** on nine seats; **Vexillatio X (*Decima*)** is the Castellan’s anchor guard without a Legatus. **Siege Master / mesh architect:** **Gervas Bifronte** (Legatus, VI *Sexta*) — ***Maior Caementarius*** and ***Pater Murorum***; drafts capital fortresses with every Legatus while respecting each seat’s operational mode; supplies **Bifronte audit** weak-point slates to Alaric before major mesh commitments ([dossier-gervas-bifronte.md](character-dossiers/legati/dossier-gervas-bifronte.md)). Extended Council: **Kadmos** (*Armourium*), **Otho** (*Librarium*). Allies: Imperial Navy (Elara Solis), Mechanicus (conditional), Deathwatch (treaty), Inquisition (geometry of tolerance). Foes: traitor Astartes (Malakor register), Tyranids, Orks, genestealers, Necrons — theater-dependent.
 
 ---
 
@@ -322,7 +322,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **5th Battle Company —** **Vexillatio V (*Quinta*)** — Aethelgard Prime; storm assault; **Legatus Armin Sturmwahl**.
 
-**6th Tactical Reserve Company —** **Vexillatio VI (*Sexta*)** — Bifrons-Ferrum; siege breach; **Legatus Gervas Bifronte**.
+**6th Tactical Reserve Company —** **Vexillatio VI (*Sexta*)** — Bifrons-Ferrum; siege breach; **Legatus Gervas Bifronte** (Chapter **Siege Master**, ***Maior Caementarius*** / ***Pater Murorum***).
 
 **7th Tactical Reserve Company —** **Vexillatio VII (*Septima*)** — Vitreus; plasma/photonic; **Legatus Lucan Phaetron**.
 

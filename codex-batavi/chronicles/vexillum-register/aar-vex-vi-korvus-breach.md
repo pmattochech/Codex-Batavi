@@ -3,7 +3,8 @@
 **Operation:** KORVUS TWIN BREACH  
 **Theater:** Bifrons-Ferrum gulf — fortresses Korvus-A (outer vault) and Korvus-B (inner spine), linked by tether hab  
 **Date:** 098.M42  
-**Unit:** **VI** *Sexta* (full Vexillatio; Siege division weighted)  
+**Unit:** **VI** *Sexta* (full Vexillatio; Siege division weighted) — **Legatus Gervas Bifronte** (*Maior Caementarius*)  
+**Campaign:** Climax of **Cage of Bifrons** (*Ferrum Cage*, ~092–098.M42) — multi-year siege on Bifrons vault mesh; sealed register names **Iron Warriors**–aligned elements  
 **Enemy:** Heretic Astartes warband — unmarked plate, siege doctrine; public register carries no gene-line titling
 
 **Full chronicle:** [korvus-twin-breach.md](../vexillum-chronicles/korvus-twin-breach/chapter.md)
@@ -32,6 +33,6 @@ Close: inner-spine traitors failed to arm full scuttle — Nullity-adjacent inte
 
 ## 5. *Strategium* certification (field 4)
 
-**Field 4** commemorates simultaneous gulf-fort breach under a single clock — siege reference for the Bifrons-Ferrum theater.
+**Field 4** commemorates simultaneous gulf-fort breach under a single clock — **Ferrum Cage** climax and siege reference for the Bifrons-Ferrum theater.
 
 **Chronology:** [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV.

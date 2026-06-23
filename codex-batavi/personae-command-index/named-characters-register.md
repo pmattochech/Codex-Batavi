@@ -42,7 +42,7 @@
 | **Orin Valestrand** — Legatus, IV *Quarta* | Incus-Gravis high-G shingle war; March-of-the-Machine anchor doctrine; 048.M42 March defense; rotation discipline |
 | **Armin Sturmwahl** — Legatus, V *Quinta* | Storm assault / jump descent; impatience with static holds; Wild Hunt cultural home; Dreadwolf Red Tide (**074.M42**); Gutgrind Descent; Luna Sigma (**168.M42**) |
 | **Einar Dreadwolf** — Lieutenant; **Steppenwolf** + **first of The Lost** (*Amissi*) (**KIA 168.M42**) | Detached registry + Judex watch; full **Mk X Tacticus**; **Mk V** helm (no studs); black pauldrons / red limbs; thunder-claws + traction boots; Moraine-Nine → Luna Sigma |
-| **Gervas Bifronte** — Legatus, VI *Sexta* | Bifrons-Ferrum twin-gate siege; Gravis breach math |
+| **Gervas Bifronte** — Legatus, VI *Sexta* | **Siege Master**, ***Maior Caementarius*** / ***Pater Murorum***; Nine Phalanx fortress architect; Bifronte audit to Alaric; Cage of Bifrons; Korvus twin breach (**098.M42**)
 | **Lucan Phaetron** — Legatus, VII *Septima* | Vitreus plasma/photonic containment |
 | **Ivar Malevent** — Legatus, VIII *Octava* | Reef/Maleventum void war; **Witness Ford** intercept (096.M42) |
 | **Cassian Vetra** — Legatus, IX *Nona* | Marco de Vetra relay; Vacuum Shouter denial geometry |

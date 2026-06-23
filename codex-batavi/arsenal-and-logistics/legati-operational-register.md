@@ -151,15 +151,16 @@ Nona    ─ relay pin / delay until the shout
 
 ---
 
-## VI · *Sexta* — Gervas Bifronte (*Twin-Gate Warden / Indomitor Ledger*)
+## VI · *Sexta* — Gervas Bifronte (*Twin-Gate Warden / Greater Mason / Father of Walls*)
 
 | Field | Lock |
 | ----- | ---- |
 | **Seat** | **Bifrons-Ferrum** — dual-world gulf forts, vaults, stasis-adjacent logistics |
+| **Chapter offices** | **Siege Master**; ***Maior Caementarius***; ***Pater Murorum*** — mesh fortress architect; **Bifronte audit** to Castellan |
 | **Theater strategy** | **Siege and vault war** — densest **TDA / Indomitor** pool; plasma cannons, cyclones, storm shields; Siege = cultural core |
 | ***Alabarda*** | **Type Malleus** — dominant power maul / forge hammer; reinforced breach plant haft |
-| **Operational identity** | **Gate A / Gate B** single equation; **twin-phase commit** (variable fast wave → homer **GREEN** anvil / **RED** extract); monastic patience → staccato breach minute |
-| **Field 4** | **Korvus twin breach** (098.M42) — two forts, one Strategium tick |
+| **Operational identity** | **Gate A / Gate B** single equation; **twin-phase commit** (variable fast wave → homer **GREEN** anvil / **RED** extract); vigil-first patience → staccato breach minute; **Legati forge councils** per seat |
+| **Field 4** | **Korvus twin breach** (098.M42) — climax of **Cage of Bifrons** (*Ferrum Cage*); two forts, one Strategium tick |
 | **Legatus Ring** | Virtue: **Gravis meatgrinder clarity** · Risk: **slowing redundancy activation until physical breach confirms command inversion** |
 | **Armor** | ***Typus Sextus — Bifronte*** — **locked** (see below) |
 | **Dossier** | [`dossier-gervas-bifronte.md`](../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md) |
