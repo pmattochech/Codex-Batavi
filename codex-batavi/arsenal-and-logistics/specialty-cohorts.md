@@ -8,7 +8,7 @@ The **four specialty cohorts** are not units “apart” from the Chapter: in **
 
 **Instruction:** veterans of the **10th Vexillatio** (*anchor guard*) rotate as **certified instructors** through the other nine Vexillationes, so each fifty-Marine detachment reproduces the same tactical *standard* (Silence, Shadows, Stasis, Nullity) without doctrinal fragmentation.
 
-**Path to the Tenth:** time in line + sequential service in all four specialty detachments + extreme merit + **Batav Wolf trial** (see [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3). Narrative reading of *Canis Batavorum* and “silent wolf” symbolism: [diplomacy-aethelgard.md](../chronicles/audit-diplomacy/diplomacy-aethelgard/chapter.md), [gray-silence-of-fenris.md](../chronicles/audit-diplomacy/gray-silence-of-fenris/chapter.md).
+**Path to the Tenth:** time in line + sequential service in all four specialty detachments + extreme merit + **Batav Wolf trial** (see [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3). Species / trial law: [batav-wolf-canis-batavorum.md](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md). **Legacy symbolism (do not cite):** [gray-silence-of-fenris.md](../chronicles/outdated/martha-kitchen-guest-astartes/gray-silence-of-fenris/chapter.md), [diplomacy-aethelgard.md](../chronicles/outdated/space-wolves-alaric-relations/diplomacy-aethelgard/chapter.md).
 
 *Numeric map and summary heraldry:* [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md).
 

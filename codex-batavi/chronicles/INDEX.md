@@ -45,7 +45,7 @@
 
 **Index:** [incus-gravis-tribunal/INDEX.md](incus-gravis-tribunal/INDEX.md)
 
-- [incus-gravis-campaign.md](incus-gravis-tribunal/incus-gravis-campaign/chapter.md)
+- [incus-gravis-campaign.md](incus-gravis-tribunal/incus-gravis-campaign/chapter.md) — **active Batavi beats** · full prose **legacy:** [blood-angels-batavi-legacy/INDEX.md](outdated/blood-angels-batavi-legacy/INDEX.md)
 
 ## silent-vigil — The Silent Vigil
 *(~086.M42 – ~186.M42 — Vigil **starts at Malakor**; Castellan hollowed; Legati carry what Alaric cannot. Legacy **050–150** filing superseded **May 2026** — see Valerian scaffold.)*
@@ -67,6 +67,19 @@
 ## outdated — Elara / Iron Venus (parked)
 
 **Status:** **OUTDATED** — do not cite dates or events in active chronology. Full bundle: [outdated/elara-iron-venus/README.md](outdated/elara-iron-venus/README.md) · [iron-venus/INDEX.md](outdated/elara-iron-venus/iron-venus/INDEX.md)
+
+## outdated — Space Wolves ↔ Alaric (LEGACY)
+
+**Status:** **LEGACY** — hearth / *brother* relationship prose **not** active canon. **Active policy:** [`political-relations/space-wolves-relations.md`](../political-relations/space-wolves-relations.md). Hub: [outdated/space-wolves-alaric-relations/INDEX.md](outdated/space-wolves-alaric-relations/INDEX.md)
+
+---
+
+## outdated — Martha’s Kitchen guest Astartes (LEGACY)
+
+**Status:** **LEGACY** — non-Batavi Astartes **in Martha’s Kitchen** are **not** active canon (staff lock **June 2026**). Hub: [outdated/martha-kitchen-guest-astartes/INDEX.md](outdated/martha-kitchen-guest-astartes/INDEX.md)
+
+- [gray-silence-of-fenris.md](outdated/martha-kitchen-guest-astartes/gray-silence-of-fenris/chapter.md) — Space Wolves / Ash *(legacy)*
+- [dragon-in-the-hearth-tushan.md](outdated/martha-kitchen-guest-astartes/dragon-in-the-hearth-tushan/chapter.md) — Salamanders / Tu’Shan *(legacy)*
 
 ---
 
@@ -94,10 +107,9 @@
 **Index:** [audit-diplomacy/INDEX.md](audit-diplomacy/INDEX.md)
 
 - [audit-of-logic.md](audit-diplomacy/audit-of-logic/chapter.md)
-- [diplomacy-aethelgard.md](audit-diplomacy/diplomacy-aethelgard/chapter.md)
-- [dragon-in-the-hearth-tushan.md](audit-diplomacy/dragon-in-the-hearth-tushan/chapter.md)
-- [gray-silence-of-fenris.md](audit-diplomacy/gray-silence-of-fenris/chapter.md)
 - [helbrecht-witness-ford-meeting.md](audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) ✅ — **096.M42 | Silent Vigil.** First Helbrecht–Alaric meeting at **Witness Ford**; Templar crusade, xenos attack at the choke, *We hold*; faith vs. geometry. *(Parked: echoes in [wolf-daughter/chapter.md](outdated/elara-iron-venus/iron-venus/wolf-daughter/chapter.md) — OUTDATED.)*
+
+*Space Wolves ↔ Alaric:* **active policy** [`space-wolves-relations.md`](../political-relations/space-wolves-relations.md) · **legacy prose / kit** [outdated/space-wolves-alaric-relations/INDEX.md](outdated/space-wolves-alaric-relations/INDEX.md)
 - [witness-ford-octava.md](vexillum-chronicles/witness-ford-octava/chapter.md) — **VIII** *Octava* / *Alabarda* field 4 lens: **Ivar Malevent**, ford net, nested fire with Black Templars; companion to *helbrecht-witness-ford-meeting*.
 
 ## frontier-life

@@ -1,4 +1,6 @@
-# Aethelgard: Diplomacy of Fangs and the Batav Wolf
+# [LEGACY] Aethelgard: Diplomacy of Fangs and the Batav Wolf
+
+**Status:** **LEGACY** — pre–**June 2026** Fenris–Castellan relationship model (hearth-adjacent warmth, *brother* register). **Do not cite** in active canon. Bundle: [INDEX.md](../INDEX.md). **Active replacement:** [`space-wolves-relations.md`](../../../political-relations/space-wolves-relations.md) *(policy only — no external kit)*.
 
 **Location:** Aethelgard Prime, North Spire Pinnacle (above the tideline).  
 **Present:** Lord Castellan Alaric von Helis, Great Wolf Logan Grimnar, Young King Ragnar Blackmane.  
@@ -42,4 +44,4 @@ Logan Grimnar set a heavy gauntlet on Alaric’s shoulder, beside the gray hide.
 
 ---
 
-***Strategium* note (doctrinal linkage):** The *Canis Batavorum* species documented in this encounter — anchored, silent predator, oily coat, structural endurance — became the **biological archetype** of the **Batav Wolf trial**: the **10th Vexillatio** candidate must subdue a specimen in containment **without** killing the beast for convenience **and without** *Furor* breach, proving the same economy of violence the Castellan demands of himself. *See organica:* [vexillationes-and-visual-summary.md](../../../arsenal-and-logistics/vexillationes-and-visual-summary.md), [military-hierarchy.md](../../../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
+***Strategium* note (doctrinal linkage — LEGACY file):** The *Canis Batavorum* species documented in this encounter — anchored, silent predator, oily coat, structural endurance — became the **biological archetype** of the **Batav Wolf trial**. **Active doctrine** no longer cites this scene — see [`military-hierarchy.md`](../../../../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3 and [`batav-wolf-canis-batavorum.md`](../../../../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md). **Do not cite** — [INDEX.md](../INDEX.md).

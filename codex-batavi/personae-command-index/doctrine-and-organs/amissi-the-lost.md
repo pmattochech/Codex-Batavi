@@ -10,7 +10,7 @@
 
 **The Lost** — registry Latin ***Amissi*** — is a **small Vermilion detachment** of **Exanimus**-staged battle-brothers who **cannot** hold stable obedience to ordinary *Vexillatio* / Legatus tasking. They are **not** a fifth cohort. They do **not** replace Silence, Shadows, Stasis, or Nullity.
 
-*Strategium* analogy (open scrolls only): Blood Angels **Death Company** — brothers already past reliable command geometry, deployed only under **Chaplain** authority until death or cull.
+*Strategium* analogy (open scrolls only): **terminal obedience debt** — brothers already past reliable command geometry, deployed only under **Chaplain** authority until death or cull (**no** guest-Chapter curse mechanics on active register).
 
 Batavi difference: **no** mass black armor cult; **no** liturgical soul-name; **no** *Alabarda* triumph. **Varro** holds **direct responsible authority** under Triumvirate mandate. **Drusus** holds clinical files. **Legati** may **fight beside** *Amissi*; they **do not** own mission slate.
 

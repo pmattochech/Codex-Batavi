@@ -88,6 +88,32 @@
 | `post-vigil/outer-gate-consolidation/` | `outdated/elara-iron-venus/outer-gate-consolidation/` |
 | `personae-command-index/.../dossier-elara-solis.md` | `outdated/elara-iron-venus/dossier-elara-solis.md` |
 
+### Martha’s Kitchen — guest Astartes (LEGACY — June 2026)
+
+**Status:** **LEGACY** — non-Batavi Astartes in Martha’s Kitchen **not** active canon. Hub: [`outdated/martha-kitchen-guest-astartes/INDEX.md`](outdated/martha-kitchen-guest-astartes/INDEX.md)
+
+| Former path | Parked path |
+|---|---|
+| `audit-diplomacy/gray-silence-of-fenris/chapter.md` | `outdated/martha-kitchen-guest-astartes/gray-silence-of-fenris/chapter.md` |
+| `audit-diplomacy/dragon-in-the-hearth-tushan/chapter.md` | `outdated/martha-kitchen-guest-astartes/dragon-in-the-hearth-tushan/chapter.md` |
+
+### Space Wolves ↔ Alaric relations (LEGACY — June 2026)
+
+**Active:** [`political-relations/space-wolves-relations.md`](../political-relations/space-wolves-relations.md). Hub: [`outdated/space-wolves-alaric-relations/INDEX.md`](outdated/space-wolves-alaric-relations/INDEX.md)
+
+| Former path | Parked path |
+|---|---|
+| `audit-diplomacy/diplomacy-aethelgard/chapter.md` | `outdated/space-wolves-alaric-relations/diplomacy-aethelgard/chapter.md` |
+| `dossier-alaric.md` §4.1 (Bjorn / external kit) | `outdated/space-wolves-alaric-relations/dossier-alaric-bjorn-legacy-extract.md` *(fully legacy — not migrated)* |
+
+### Blood Angels ↔ Batavi (LEGACY — June 2026)
+
+**Active Batavi beats:** [`incus-gravis-tribunal/incus-gravis-campaign/chapter.md`](../incus-gravis-tribunal/incus-gravis-campaign/chapter.md). Hub: [`outdated/blood-angels-batavi-legacy/INDEX.md`](outdated/blood-angels-batavi-legacy/INDEX.md)
+
+| Former active path | Parked path |
+|---|---|
+| `incus-gravis-tribunal/incus-gravis-campaign/chapter.md` (full prose) | `outdated/blood-angels-batavi-legacy/incus-gravis-campaign/chapter.md` |
+
 ---
 
 ## Remaining chronicles (May 2026)

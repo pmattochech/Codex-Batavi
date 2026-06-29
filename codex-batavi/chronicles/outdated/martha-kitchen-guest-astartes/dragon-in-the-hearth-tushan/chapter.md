@@ -1,4 +1,6 @@
-# The Dragon in the Hearth: Tu’Shan’s Warmth at Noviomagus
+# [LEGACY] The Dragon in the Hearth: Tu’Shan’s Warmth at Noviomagus
+
+**Status:** **LEGACY** — non-Batavi guest Astartes in Martha’s Kitchen; **do not cite** in active canon. Bundle: [INDEX.md](../INDEX.md).
 
 **Location:** Martha’s Kitchen (Absolute Decompression Zone), *Castrum Ferrum*.  
 **Visitor:** Tu’Shan, Regent of Prometheus, Chapter Master of the Salamanders.  

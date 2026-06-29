@@ -140,7 +140,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Adeptus Mechanicus:** **Transactional alliance.** Techmarines trained on Mars pattern; Noviomagus forges co-produce frontier patterns. Friction over **unauthorized modifications**; cooperation when salvage and siege math benefit the mesh ([dossier-kadmos.md](character-dossiers/council-orders/dossier-kadmos.md)).
 
-**Adeptus Astartes Chapters:** **Space Wolves** contact (Garmr, Viggo saga) — allied but culturally tense. Other Chapters: case-by-case; Deathwatch as structured bridge ([deathwatch-and-batavorum.md](../political-relations/deathwatch-and-batavorum.md)). No standing rivalry with Ultramarines-style *Codex* purists beyond bureaucratic suspicion of **5,000** strength.
+**Adeptus Astartes Chapters:** **Space Wolves** — reluctant allies; filing [`space-wolves-relations.md`](../political-relations/space-wolves-relations.md) (Garmr / Viggo **theater**: [`viggo-saga`](../chronicles/silent-vigil/viggo-the-heat-of-the-stone/viggo-saga/chapter.md)). Other Chapters: case-by-case; Deathwatch as structured bridge ([`deathwatch-and-batavorum.md`](../political-relations/deathwatch-and-batavorum.md)). No standing rivalry with Ultramarines-style *Codex* purists beyond bureaucratic suspicion of **5,000** strength.
 
 **Astra Militarum:** **Geometry-first.** Regiments that hold a line receive calculated support; abandonment is **policy** when math demands — breeds hatred in some regiments, loyalty in others (tithe-of-sweetness register).
 
@@ -154,7 +154,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Rogue Traders:** **Selective.** Passage economics through Loken route; no dominant dynasty named in open register.
 
-**Other:** **Adeptus Custodes** — Denial Protocol in Martha’s kitchen when present. **Adeptus Arbites** — legal architecture partner (e.g. Hive Vespera purge). **Imperial Navy** — Elara Solis / Outer Gate fleet geometry. **Adepta Sororitas** — no standing treaty file.
+**Other:** **Adeptus Custodes** — Denial Protocol if ever present in kitchen prose *(no active chronicle; non-Batavi kitchen guests are **LEGACY** — [martha-kitchen-guest-astartes/INDEX.md](../../chronicles/outdated/martha-kitchen-guest-astartes/INDEX.md))*. **Adeptus Arbites** — legal architecture partner (e.g. Hive Vespera purge). **Imperial Navy** — Elara Solis / Outer Gate fleet geometry. **Adepta Sororitas** — no standing treaty file.
 
 ### Hated foes
 

@@ -1,4 +1,6 @@
-# Ash: Fenris’s Silence at Noviomagus
+# [LEGACY] Ash: Fenris’s Silence at Noviomagus
+
+**Status:** **LEGACY** — non-Batavi guest Astartes in Martha’s Kitchen; **do not cite** in active canon. Bundle: [INDEX.md](../INDEX.md).
 
 **Location:** Martha’s Kitchen (Absolute Decompression Zone).  
 **Event:** Resupply of Logan Grimnar’s Great Company (return from the Ghoul Stars campaign).  
@@ -68,4 +70,4 @@ That night, while Fenrisians slept dreaming of loud battles, Alaric von Helis st
 
 ---
 
-***Strategium* note (symbolic parallel):** *Ash* does not replace the **Batav Wolf trial** (*Canis Batavorum* in a containment chamber; see [diplomacy-aethelgard.md](diplomacy-aethelgard/chapter.md)), but **mirrors** the psychic criterion demanded of the candidate: impose **dominance** without vocal spectacle, without uncontrolled *Furor* — the “different frequency” as advantage, not flaw. *See:* [military-hierarchy.md](../../../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
+***Strategium* note (symbolic parallel — LEGACY file):** *Ash* does not replace the **Batav Wolf trial**. **Active doctrine:** [military-hierarchy.md](../../../../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3 · [batav-wolf-canis-batavorum.md](../../../../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md). **Do not cite** — [INDEX.md](../INDEX.md).

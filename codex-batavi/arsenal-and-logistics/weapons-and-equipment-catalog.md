@@ -38,7 +38,6 @@ Cross-reference for armament cited outside the arsenal. Full narrative specifica
 | Designation | Bearer | Notes | Document |
 |-------------|--------|-------|----------|
 | ***Absolution* bolt pistol** | Varro | Heavy drum; single shots (“sentence”). | [dossier-varro.md](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) §4 |
-| ***Morkai’s Bite*** | Alaric (gift from Logan Grimnar) | Great Wolf’s axe; one-handed use; Kraken / true ice. | [dossier-alaric.md](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) §5 |
 | **Bolt pistol** (diplomatic scene) | Ragnar Blackmane | Narrative use (mercy to the *runt*). | [viggo-saga.md](../chronicles/silent-vigil/viggo-the-heat-of-the-stone/viggo-saga/chapter.md) |
 
 ## Field tactical designations (operational metaphor)

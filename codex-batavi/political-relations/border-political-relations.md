@@ -51,6 +51,12 @@ The frontier’s most delicate relationship. The *Holy Ordos* keep the Chapter u
 
 The Deathwatch is treated as a **mission creditor**, not a brotherhood above politics: **vetted rotations**, *Medicinae* gates, **witness** requirements, and **tiered** gene-seed disclosure. **Chapter law** (*ca.* **051.M42**, **after** the First Legatus’s fall at Malakor V) makes a **certified *Watch cycle*** mandatory for **Legatus** and for **Vexillatio X** membership (except supreme posts). Utility against xenos buys tolerance; **Versibars**, unstable chimeric predisposition swings, and **Batavian Haruspices** are tightly constrained on loan. **Steppenwolves** — brothers who **stay** on detached / perpetual Watch (or other rim geometry) because the home **Vexillatio** lattice destabilizes them — are a separate *Strategium* ledger; see [steppenwolf-doctrine.md](../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md).
 
+### [Space Wolves — frontier relations](space-wolves-relations.md)
+
+*— Reluctant allies; receipt diplomacy*
+
+**Not** pack, **not** friends. **Policy:** [`space-wolves-relations.md`](space-wolves-relations.md). **Viggo** theater: [`viggo-saga`](../chronicles/silent-vigil/viggo-the-heat-of-the-stone/viggo-saga/chapter.md). **Legacy** prose / kit: [`space-wolves-alaric-relations/INDEX.md`](../chronicles/outdated/space-wolves-alaric-relations/INDEX.md).
+
 ### [Ecclesiarchy on the frontier](ecclesiarchy-on-the-frontier.md)
 
 *— The god who works*

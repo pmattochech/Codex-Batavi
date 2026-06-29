@@ -120,7 +120,7 @@ The shield was destroyed. The stakes tore from the ground with blocks of fused f
 
 The wall gave. Alaric did not.
 
-He was on his feet before Angron crossed the wreckage, *Castra-Lupus* with cracks in thoracic reinforcement, three servomotors in the right arm fused. *Morkai’s Bite* was in his left hand.
+He was on his feet before Angron crossed the wreckage, *Castra-Lupus* with cracks in thoracic reinforcement, three servomotors in the right arm fused. ***The Sentence*** was in his left hand.
 
 What Drusus’s biometric logs captured at that moment was, in his later words, *“the most clinically disturbing metric of my entire career”*: Alaric von Helis, facing a Daemon Primarch who had just destroyed his shield with one blow, showed heart rate 62 beats per minute. Blood pressure within standard operational parameter. Adrenaline level: elevated, not critical.
 
@@ -132,7 +132,7 @@ The fight lasted fifty-three minutes.
 
 Full logs are *Vermilion* classified and will not be reproduced in this file. What may be said:
 
-Alaric did not wound Angron. Not once, in fifty-three minutes of single combat. *Morkai’s Bite*, ice axe of a Chapter Master wielded like a work tool, struck the Daemon Primarch on seventeen documented occasions. On seventeen occasions the wound closed before the next breath’s impact could register.
+Alaric did not wound Angron. Not once, in fifty-three minutes of single combat. ***The Sentence***, Noviomagus force gladius wielded like a work tool, struck the Daemon Primarch on seventeen documented occasions. On seventeen occasions the wound closed before the next breath’s impact could register.
 
 What Alaric did was hold attention.
 
@@ -154,7 +154,7 @@ The Lupercal Anomaly was documented at the Battle of Luna Sigma in a way no theo
 
 Angron stopped.
 
-Not long — perhaps two seconds, perhaps three. But he stopped. He looked at the gray-and-crimson iron colossus before him with one arm and still advancing. The pelts on *Castra-Lupus*’s shoulders — Viggo and the *Canis Batavorum* — projected the silhouette that had disturbed Blood Angels, Space Wolves, and traitors for centuries: **Lupercal-class** in *Strategium* files — **observer effect** and **hesitation latency**, not an open claim of gene-seed identity, which the Chapter’s **public** record still lists **unknown**.
+Not long — perhaps two seconds, perhaps three. But he stopped. He looked at the gray-and-crimson iron colossus before him with one arm and still advancing. The pelts on *Castra-Lupus*’s shoulders — Viggo and the *Canis Batavorum* — projected a silhouette that had disturbed **traitor veterans** in *Strategium* files for centuries: **Lupercal-class** **observer effect** and **hesitation latency**, not an open claim of gene-seed identity, which the Chapter’s **public** record still lists **unknown**.
 
 What was in Angron’s eyes in that moment, no living being on that field could interpret. Not tactical hesitation. Not fear. Something older — recognition between two organisms biology places in categories language cannot reach.
 

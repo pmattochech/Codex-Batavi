@@ -2,7 +2,7 @@
 
 Doctrinal protocol — classification: internal use / Triumvirate and Vexillationes
 
-*Cross-reference: [friction-rites.md](friction-rites.md) § Greater rite | [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) § Execratio stage | [incus-gravis-campaign.md](../../chronicles/incus-gravis-tribunal/incus-gravis-campaign/chapter.md) — primary record | [proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md) — witness inheritance vs Judex-sanctioned rite*
+*Cross-reference: [friction-rites.md](friction-rites.md) § Greater rite | [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) § Execratio stage | [incus-gravis-campaign.md](../../chronicles/incus-gravis-tribunal/incus-gravis-campaign/chapter.md) — active Batavi beats | [proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md) — witness inheritance vs Judex-sanctioned rite | **Legacy narrative:** [blood-angels-batavi-legacy](../../chronicles/outdated/blood-angels-batavi-legacy/INDEX.md)*
 
 ---
 

@@ -7,3 +7,6 @@
 | Bundle | Path | Note |
 |--------|------|------|
 | **Elara / Iron Venus** | [`elara-iron-venus/`](elara-iron-venus/INDEX.md) | Character arc + dependent beats parked pending full redesign |
+| **Martha’s Kitchen — guest Astartes** | [`martha-kitchen-guest-astartes/`](martha-kitchen-guest-astartes/INDEX.md) | **LEGACY** — other Chapters at the stove (**June 2026**) |
+| **Space Wolves ↔ Alaric** | [`space-wolves-alaric-relations/`](space-wolves-alaric-relations/INDEX.md) | **LEGACY** prose + external kit; **active policy:** [`space-wolves-relations.md`](../../political-relations/space-wolves-relations.md) |
+| **Blood Angels ↔ Batavi** | [`blood-angels-batavi-legacy/`](blood-angels-batavi-legacy/INDEX.md) | **LEGACY** — guest-Chapter / Black Rage prose (**June 2026**) |

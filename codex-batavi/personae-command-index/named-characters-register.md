@@ -86,10 +86,10 @@
 | **Roboute Guilliman** — Lord Regent | Nine Phalanx inspection |
 | **Marneus Calgar** — Ultramarines | With Guilliman at Noviomagus |
 | **High Marshal Helbrecht** — Black Templars | **Witness Ford** transit (096.M42 first meeting) |
-| **Commander Dante** — Blood Angels | *Iron and Blood Tribunal* |
-| **Mephiston** — Blood Angels | Same tribunal |
 | **Angron** — Daemon Primarch | Sigma Moon; *Castra-Lupus* destruction |
 | **Inquisitor Vane** — Ordo Hereticus | Silent Vigil audits; **180.M42** self-neutralized — [outer-gate-consolidation/chapter.md](../chronicles/outdated/elara-iron-venus/outer-gate-consolidation/chapter.md) *(OUTDATED)* |
+
+**Parked (LEGACY — guest-Chapter mechanics):** Blood Angels / Dante / Mephiston — [`blood-angels-batavi-legacy/INDEX.md`](../chronicles/outdated/blood-angels-batavi-legacy/INDEX.md)
 
 ---
 

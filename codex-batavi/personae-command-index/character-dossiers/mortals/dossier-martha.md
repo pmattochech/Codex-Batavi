@@ -16,6 +16,7 @@ Martha is living proof that power on Noviomagus Prime is not always measured in 
 
 Within her kitchen’s bounds, military rank is secondary to Martha’s orders.
 
+* **Guest policy (staff lock June 2026):** Active canon — **Batavi** Astartes and **mortals** only at the stove. Scenes with **other Chapters’** Marines (or similar guest transhumans) dining in the Clean Zone are **LEGACY** — see [martha-kitchen-guest-astartes/INDEX.md](../../../chronicles/outdated/martha-kitchen-guest-astartes/INDEX.md). Diplomacy with predecessor Chapters happens **elsewhere** (yards, field, Strategium, ford).
 * **Clean rule:** Not even the Lord of the Wall is exempt. Entering Martha’s kitchen requires boot-clean protocol and weapon systems deactivated. The “Clean Zone” is a sanctuary of domestic order amid industrial chaos.  
 * **Meat tax:** Viggo, the late Thunderwolf, was Martha’s silent enforcer. He kept recruits and servants in line for scraps of synthetic meat. After the wolf’s death, silence in the kitchen became her most lasting tribute.
 
