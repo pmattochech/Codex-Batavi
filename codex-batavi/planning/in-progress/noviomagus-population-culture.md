@@ -6,10 +6,10 @@
 
 **Sources folded in:**
 
-* Basal Porta Nihili / Noviomagus capital notes — [`../atlas-and-topography/cultures/porta-nihili-and-basal-stratum.md`](../../atlas-and-topography/cultures/porta-nihili-and-basal-stratum.md)
-* Central Bastion fork — [`../atlas-and-topography/cultures/worlds-central-bastion.md`](../../atlas-and-topography/cultures/worlds-central-bastion.md) § Noviomagus Prime
+* Basal Porta Nihili / Noviomagus capital notes — [`porta-nihili-and-basal-stratum.md`](../../atlas-and-topography/cultures/porta-nihili-and-basal-stratum.md)
+* Central Bastion fork — [`worlds-central-bastion.md`](../../atlas-and-topography/cultures/worlds-central-bastion.md) § Noviomagus Prime
 * Chat draft — three classes × *Hymn of the Lost* mood premises (2026-07-17)
-* Author mood lock (external, not in-universe hymn) — see planning note when merged; Colm R. McGuinness & Annapantsu, *Hymn of the Lost*
+* Author mood lock (external, not in-universe hymn) — Colm R. McGuinness & Annapantsu, *Hymn of the Lost*; full lock file TBD under planning when that PR lands
 
 **Explicit non-goals (this file):**
 
