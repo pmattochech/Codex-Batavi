@@ -15,7 +15,7 @@ Luna Sigma had no civilians worth the name — only convicts, servitors, and sol
 
 The World Eaters did not arrive as a fleet with manners. They arrived as **pressure** — chainaxe rhythm, boltless charges, the compulsion of the Massacre written into skull iron. Batavi ranks answered with short bursts and gladius finishes, the way Noviomagus taught: no duel, only invoice.
 
-**Einar Dreadwolf** fought where the corridor widened into a storage spine — full **Mk X Tacticus** in *Amissi* paint, **black** pauldrons, **red** arms and greaves below the knee, **Mk V** bowl sealed under cowl, **Dreadwolf Claws** scoring WE champions into wet arithmetic when the **Red Demon** in his Nails stayed quiet. When it did not stay quiet, he fought anyway, because the marine visage still held the chains Varro had read at Moraine-Nine.
+**Einar Dreadwolf** fought where the corridor widened into a storage spine — Assault Intercessor **Mk X Tacticus** in *Amissi* paint, jump pack riding his back for speed more than glory, **black** pauldrons (Chapter wolf and chained wolf-skull **X**), **Mephiston Red** only on gauntlets and boot feet, half-helm locking nose and jaw while mane and **Nails** ran free, **Wolf Talons** scoring WE champions into wet arithmetic under a **red** field glow when the **Red Demon** in his Nails stayed quiet. When it did not stay quiet, he fought anyway, because the marine visage still held the chains Varro had read at Moraine-Nine.
 
 Varro watched him the way a gauge watches a furnace: not with hope, with **tolerance math**.
 
@@ -27,7 +27,7 @@ They never filed which World Eaters champion took the spine. Brothers who surviv
 
 Later, in a *Reclusiam* annex no remembrancer would ever see, Varro wrote one line: *Receipt denied at Luna Sigma. Subject terminated by self-administered **Spina Cineris** under Judex witness.*
 
-On the field, the champion had **Einar** pinned against a ruptured containment wall — one **Dreadwolf Claw** buried in ceramite, the extended blades of the other raised for the kind of kill that ends in **lifted bone** and **spilled offering**.
+On the field, the champion had **Einar** pinned against a ruptured containment wall — one **Wolf Talon** buried in ceramite, the extended blades of the other raised for the kind of kill that ends in **lifted bone** and **spilled offering**.
 
 — **For the Skull Throne** — the voice was amusement wearing a helmet. — **For the Blood God. Give me your head, little wolf.**
 
