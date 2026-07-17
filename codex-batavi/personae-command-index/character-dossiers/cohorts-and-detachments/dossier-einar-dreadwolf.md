@@ -65,7 +65,8 @@
 ## 4\. History (in-universe — chronology access)
 
 * **Rise:** Needles shore tribes → *Quinta* assault line; **century** of service held at **Furor** only. *Strategium* and *Medicinae* filed him **Steppenwolf** early — **V** *Quinta* lattice **over-sharpened** his predisposition; stability tracked on **detached** kill-geometry (Needles relays, reef corridors, long *vox* silence), not garrison pack rhythm. He is **not** a generic Steppenwolf: he is the **first** brother on detached registry later inducted as **first of The Lost** — see [steppenwolf-doctrine.md](../../doctrine-and-organs/steppenwolf-doctrine.md) §5.1.  
-* **Closest bond:** **Armin Sturmwahl** — jump-qualified friendship; Sturmwahl’s only recorded **hesitation** before a cull stroke. **Amissi** transfer removes standing Legatus ownership; bond remains personal.  
+* **Closest bond:** **Armin Sturmwahl** — jump-qualified friendship; Sturmwahl’s only recorded **hesitation** before a cull stroke. **Amissi** transfer removes standing Legatus ownership; bond remains personal.
+* **Standing escort (post–074):** **V** *Quinta* veteran Chaplain on every deploy — Varro decree; ***licentia lupina*** wolf-skull (orange lenses, not Judex red). Draft: [iron-pack-at-the-kill-pool/chapter.md](../../../chronicles/draft/amissi/iron-pack-at-the-kill-pool/chapter.md) · doctrine: [`amissi-the-lost.md`](../../doctrine-and-organs/amissi-the-lost.md) §IIIb.  
 * **074.M42 | Shepherd’s Hook → *Kzorn’s Maw* → Moraine-Nine:**  
   * **Capture:** **V** *Quinta* squad (twelve) overrun at tide relay. Narrative: [kzorns-maw/chapter.md](../../../chronicles/dreadwolf/kzorns-maw/chapter.md) · recovery: [red-tide/chapter.md](../../../chronicles/dreadwolf/red-tide/chapter.md).  
   * **Conscious Nails;** eleven mercy-killed aboard ship; **forced first Exanimus** on crash.  
