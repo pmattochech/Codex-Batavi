@@ -146,11 +146,11 @@ This was not a lone hunt. It was a **precipitation** — vectors converging beca
 
 He had come ashore hours before *Salt Ration* kissed mud — gunboat insert was line geometry, slow and witness-safe. Einar’s insert had been **absence**: a lighter craft, a quieter ramp, a corridor of mangroves that learned his weight the way Needles shore had learned it when he was only **Furor** and pride still passed for stability.
 
-Assault Intercessor **Mk X Tacticus** moved now with *Amissi* heraldry spare and hard — black pauldrons (Chapter wolf and chained wolf-skull **X**), Mechanicus grey on arms and legs, **Mephiston Red** only on gauntlets and boot feet, jump pack riding for speed more than flight. Half-helm locked nose and jaw; mane and cable–**Nails** ran free above it. **Wolf Talons** slept over the knuckles until the moment required extension, red field dark until lit. The open mane did not hide the **bulk** of Exanimus hypertrophy or the way his stride refused parade spacing. The Lost did not announce themselves. The reef announced them anyway: birds stopping mid-call, brack going still, insects failing to restart in pockets he passed through.
+Assault Intercessor **Mk X Tacticus** moved now with *Amissi* heraldry spare and hard — black pauldrons (Chapter wolf and chained wolf-skull **X**), Mechanicus grey on arms and legs, **Mephiston Red** only on gauntlets and boot feet, jump pack riding for speed more than flight. Half-helm locked nose and jaw; mane and cable–**Nails** ran free above it. **Wolf Talons** slept dark along the wrist housings until the moment required the **red** field, blades still, field unlit. The open mane did not hide the **bulk** of Exanimus hypertrophy or the way his stride refused parade spacing. The Lost did not announce themselves. The reef announced them anyway: birds stopping mid-call, brack going still, insects failing to restart in pockets he passed through.
 
 At a stub shrine choked with reed wicks, he killed three cultists in the time it took a mortal priest to draw breath for a final syllable.
 
-No sermon. No mercy line for the record. **Wolf Talons** extended once, retracted flush, fingers free to finish what blades had opened. He left the bodies in **grammar** the sergeant’s element would misread — opened, arranged enough to warn the warp, not enough to waste seconds pedantry no longer deserved. Exanimus strength layered on a century of Furor-only discipline; **Butcher’s Nails** riding free in the mane, not steering yet, but **listening** for the frequency that lived at the bind-site ahead, a low itch behind the teeth that said the spiral was trying to **seat**.
+No sermon. No mercy line for the record. **Wolf Talons** lit once — wrist blades under a **red** field — then went dark again when the work was done. He left the bodies in **grammar** the sergeant’s element would misread — opened, arranged enough to warn the warp, not enough to waste seconds pedantry no longer deserved. Exanimus strength layered on a century of Furor-only discipline; **Butcher’s Nails** riding free in the mane, not steering yet, but **listening** for the frequency that lived at the bind-site ahead, a low itch behind the teeth that said the spiral was trying to **seat**.
 
 He was not *Versibar*. The distinction mattered to *Medicinae* and mattered more to **Varro**. Einar could feel the Red Demon test the chain at the bars and find it holding — marine visage still fixing wolf and demon in the same grip, tripartite bind not yet a public failure. That hold cost **distance**. Distance was the only leash he still trusted when the lattice over-sharpened his wildness.
 
@@ -168,7 +168,7 @@ He was hunting **Einar**.
 
 Distance measured in tree lines and silence, not meters. Eyes on ceramite that must not shed **Batavi blood** — friendly throats, friendly gene-grace, the catastrophic arithmetic of a Lost brother cutting through line brothers because the Red had lied about whose plate was whose. Ears tuned for the moment when corruption might **wear** the armor instead of the man: nail-song climbing past audit, liturgy bleeding into Brass cadence, the wolf no longer holding the demon but **feeding** it.
 
-From a root hollow, Varro watched Einar clear the stub shrine. He watched the kills finish. He watched the claws retract. He did not intervene. Intervention was for **failure** or **bounded** verdict, not for competence that still made the Judex’s skin tighten.
+From a root hollow, Varro watched Einar clear the stub shrine. He watched the kills finish. He watched the wrist fields go dark. He did not intervene. Intervention was for **failure** or **bounded** verdict, not for competence that still made the Judex’s skin tighten.
 
 Every kill Einar made was a datum.
 
@@ -282,7 +282,7 @@ Not cowardice. Mathematics. One wrong step and Batavi blood would join the brack
 
 On the landward side of the bowl, a cowl moved through dead reed without ripple — **Varro**, lower than the lip, not yet between, **measuring**. On the seaward side, assault grey paused at the treeline — **Armin Sturmwahl**, gorget sealed, thumb on a grav stud he did not need, not descending to the line element, not challenging the spiral yet. Two vectors the youths could not see. One vector they could see only as **motion** inside the stones.
 
-Red gauntlets flashed between reef teeth. Black pauldron. **Wolf Talon** stutter, retract, stutter. A second shape warped taller than human allowance — lacerator scream, daemonic claw opening and closing, plate that looked like World Eaters iconography had become **skin disease**. The bind-site fever pulsed once, as if the bowl had inhaled.
+Red gauntlets flashed between reef teeth. Black pauldron. **Wolf Talons** stutter — field flare, cut, field flare. A second shape warped taller than human allowance — lacerator scream, daemonic claw opening and closing, plate that looked like World Eaters iconography had become **skin disease**. The bind-site fever pulsed once, as if the bowl had inhaled.
 
 The sergeant understood, too late for comfort and early enough for fear:
 
@@ -322,7 +322,7 @@ The Slaughterbound charged forward because forward was how Khorne counted.
 
 **Einar** went vertical.
 
-Traction claws bit reef stone at an angle assault manuals filed under emergency, not doctrine. **Wolf Talons** extended in stutter bursts — knuckle blades flashing red, retracting flush, free hand finishing what steel opened — and the Slaughterbound’s mass turned where its habit expected open sand. It found **lip** instead. Found **height**. Found a silhouette that was still Batavi in heraldry and was **not** Batavi in spacing.
+Traction claws bit reef stone at an angle assault manuals filed under emergency, not doctrine. **Wolf Talons** cut in stutter bursts — wrist blades flashing **red**, field biting, field dying between strikes — and the Slaughterbound’s mass turned where its habit expected open sand. It found **lip** instead. Found **height**. Found a silhouette that was still Batavi in heraldry and was **not** Batavi in spacing.
 
 **Not Batavi geometry.**
 
@@ -362,7 +362,7 @@ The Slaughterbound began to **learn** — late, angry, still heavy enough to end
 
 **Einar** gave it one face-forward instant and spent it.
 
-Traction claws skidded on stone, found purchase where there should have been none, and the jump pack lit a short hard burn that was not flight so much as **Needles** vector — shore assault habit surviving inside *Amissi* watch, using thrust for speed and angle, not for glory. **Wolf Talons** punched once, retracted, punched again. The second strike was not flourish. It was **accounting**.
+Traction claws skidded on stone, found purchase where there should have been none, and the jump pack lit a short hard burn that was not flight so much as **Needles** vector — shore assault habit surviving inside *Amissi* watch, using thrust for speed and angle, not for glory. **Wolf Talons** punched once, field dark for a breath, punched again. The second strike was not flourish. It was **accounting**.
 
 ---
 
@@ -402,7 +402,7 @@ Not words. Not cadence. Not the *Quinta* gift line, not *We hold*, not anything 
 
 The sound crossed the salt pan and came back wrong off the spiral stones, multiplied into a choir of one voice. Birds that had been silent broke into flight too late, as if ashamed they had missed the cue. The bind-site shiver that had not quite become incursion **exhaled** and left metal cooling and sand ordinary again — ordinary except for the lord’s corpse and the demi-daemons and the Batavi in red gauntlets still standing over all of it.
 
-**Einar** did not fall. He did not kneel. He screamed until the scream spent itself against the sky and what remained was breath and the wet shine on his gauntlets and the tremor in hands that **Wolf Talons** had left **free** and still lethal.
+**Einar** did not fall. He did not kneel. He screamed until the scream spent itself against the sky and what remained was breath and the wet shine on his gauntlets and the tremor in wrists that still carried **Wolf Talons**, field dark, blades still lethal.
 
 ---
 
@@ -426,7 +426,7 @@ No one cheered. *Quinta* did not cheer slaughter that had not been theirs.
 
 The Slaughterbound’s lacerator slowed, teeth still whirring, then stuttered to stop with the mechanical petulance of weapons that had lost their argument. The daemonic claw lay open on salt, palm up, as if waiting for a god to take receipt. Warp heat was gone. Only copper and cooling ceramite and the oil stink of chain teeth.
 
-**Einar** stood over the lord one more moment — marine visage, chains, wolf and demon still in the same grip per the Judex files the sergeant would never read. Half-helm still locked; mane and **Nails** still free when the scream finished. **Wolf Talons** retracted flush. He did not look at the rim. He did not look at the three Exalted. He looked at the seaward treeline once, landward reed once, as if measuring who had been close enough to **audit** without being close enough to **share**.
+**Einar** stood over the lord one more moment — marine visage, chains, wolf and demon still in the same grip per the Judex files the sergeant would never read. Half-helm still locked; mane and **Nails** still free when the scream finished. **Wolf Talons** went dark along the wrist housings. He did not look at the rim. He did not look at the three Exalted. He looked at the seaward treeline once, landward reed once, as if measuring who had been close enough to **audit** without being close enough to **share**.
 
 **Varro** began to close from the landward side, not running, not calling out. **Armin Sturmwahl** began to close from the sea, grav stud untouched, assault grey cutting the bowl lip at an angle that would intersect the spiral throat without crossing the line element. They had not traveled together. They had converged anyway. Precipitation was not finished. It had only finished **killing**.
 
@@ -558,7 +558,7 @@ Then **Einar** ran.
 
 Not retreat. **Hunt** — into mangroves, into wrong spacing, into the distance that had always steadied him before the lattice could over-sharpen his wildness again. **Steppenwolf** registry and *Amissi* watch did not contradict in motion: both were the same confession that pack warmth was not his stabilizer. The reef was.
 
-**Wolf Talons** flashed once in brack shadow — knuckle blades catching tide light under a red field, retracting flush — and were gone. Birds hesitated, then failed to sing. Brack went still in a pocket and stayed still, as if the water remembered who had passed and chose not to gossip.
+**Wolf Talons** flashed once in brack shadow — wrist blades catching tide light under a **red** field, then dark — and were gone. Birds hesitated, then failed to sing. Brack went still in a pocket and stayed still, as if the water remembered who had passed and chose not to gossip.
 
 **Varro** did not run after him. Judex did not chase wolves; Judex **measured** them and let distance do the work watch required. The cowl turned landward, following the frequency of motion without admitting pursuit. Watch interval resumed on the ledger the sergeant would never read.
 
