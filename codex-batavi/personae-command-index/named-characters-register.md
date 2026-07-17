@@ -41,7 +41,7 @@
 | **Theron Brach** — Legatus, III *Tertia* | Khan-Bator chem–thermal war; Vigilax kill-box geometry |
 | **Orin Valestrand** — Legatus, IV *Quarta* | Incus-Gravis high-G shingle war; March-of-the-Machine anchor doctrine; 048.M42 March defense; rotation discipline |
 | **Armin Sturmwahl** — Legatus, V *Quinta* | Storm assault / jump descent; impatience with static holds; Wild Hunt cultural home; Dreadwolf Red Tide (**074.M42**); Gutgrind Descent; Luna Sigma (**168.M42**) |
-| **Einar Dreadwolf** — Lieutenant; **Steppenwolf** + **first of The Lost** (*Amissi*) (**KIA 168.M42**) | Detached registry + Judex watch; Assault Intercessor **Mk X Tacticus** + jump pack; half-helm (nose/mouth/jaw); black pauldrons (Chapter wolf + chained wolf-skull **X**); Mephiston Red gauntlets/boot feet only; **Wolf Talons** (red field) + traction boots; Moraine-Nine → Luna Sigma |
+| **Einar Dreadwolf** — Lieutenant; **Steppenwolf** + **first of The Lost** (*Amissi*) (**KIA 168.M42**) | Detached registry + Judex watch; Assault Intercessor **Mk X Tacticus** + jump pack; half-helm (nose/mouth/jaw); black pauldrons (Chapter wolf + chained wolf-skull **X**); Mephiston Red gauntlets/boot feet only; **Wolf Talons** (Imperial **Angel’s Talons** wrist pattern; red field; Batavi remake) + traction boots; Moraine-Nine → Luna Sigma |
 | **Gervas Bifronte** — Legatus, VI *Sexta* | **Siege Master**, ***Maior Caementarius*** / ***Pater Murorum***; Nine Phalanx fortress architect; Bifronte audit to Alaric; Cage of Bifrons; Korvus twin breach (**098.M42**)
 | **Lucan Phaetron** — Legatus, VII *Septima* | Vitreus plasma/photonic containment |
 | **Ivar Malevent** — Legatus, VIII *Octava* | Reef/Maleventum void war; **Witness Ford** intercept (096.M42) |
@@ -93,4 +93,4 @@
 
 ---
 
-*Last updated: 2026-07-16 — Einar Dreadwolf kit lock: Assault Intercessor + half-helm + Wolf Talons; capture 074.M42; terminis 168.M42 Luna Sigma.*
+*Last updated: 2026-07-17 — Einar Dreadwolf kit lock: Assault Intercessor + half-helm + Wolf Talons (Angel’s Talons wrist pattern); capture 074.M42; terminis 168.M42 Luna Sigma.*

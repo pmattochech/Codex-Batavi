@@ -55,7 +55,7 @@ What answered was not *Axiom*. What answered was **wolf** without Furor’s leas
 
 When the howl stopped, **Stenmark**’s eyes were open and **empty** of the marine who had held the Needles line.
 
-**Einar** killed him with the first ship-pattern lightning claw he had stolen from the ship — open-hand gauntlet, ugly traitor steel, not Batavi issue.
+**Einar** killed him with the first ship-pattern lightning claw he had stolen from the ship — wrist-housing blades, ugly traitor steel, not Batavi issue.
 
 The World Eaters watched. Some laughed. None interfered. Interference was for men who still thought this was **conversion**. It was **consumption**, and consumption liked witnesses.
 
@@ -121,7 +121,7 @@ What came after was **throughput**.
 
 The World Eaters had grown bored of their work. The bleed had grown **hungry**. The Batavi lieutenant with new nails and old pride burned to ash walked the galleries because staying still meant the Red would steer and he would not know whose hands were on the claws.
 
-Ship steel on both wrists — open-hand lightning claws taken from a World Eaters locker: blades that **extended from the knuckle couplers**, fingers still free beneath the field. Weapons of the enemy, geometry of the enemy, **honesty** of the enemy — the same rig *Armourium* would later purify and rename **Wolf Talons**.
+Ship steel on both wrists — Imperial **Angel’s Talons** pattern lightning claws taken from a World Eaters locker: energized blades seated on **wrist housings**, projecting forward, ugly and common as any traitor Armourium bay. Weapons of the enemy, geometry of the enemy, **honesty** of the enemy — the same pattern class *Armourium* would later purify, remake in Batavi steel, and rename **Wolf Talons**.
 
 He killed the surgeons first.
 
