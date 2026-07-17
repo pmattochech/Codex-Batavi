@@ -22,6 +22,10 @@
 * **Solis family** = **lower upper class** (bridge household band — not mid-common, not stack-magnate peak)
 * Class **shards** drafted below (§4) — slang / rite / taboo per stratum
 
+**Locks added 2026-07-17 (borders pass):**
+
+* **Black Rain** + **elevator rights** as primary day-to-day class police (§6)
+
 ---
 
 ## 0. Author mood premises (music → mesh)
@@ -169,9 +173,68 @@ One **slang** / **small rite** / **taboo** per class. Atlas-wide shards (*rain-c
 
 ---
 
-## 6. Open / next (do not invent here without a pass)
+## 6. Black Rain + elevator rights — day-to-day class police
 
-* How **Black Rain** and **elevator rights** police class borders day-to-day
+Noviomagus does not need a separate “caste police” ministry for most of life. **Acid weather** and **vertical keys** do the sorting. Administratum and house guards enforce edges; the mesh **feels** the border before a clerk speaks.
+
+### 6.1 Black Rain (horizontal / bodily border)
+
+**What it is:** Acid **Black Rain** — industrial sky-fall that eats untreated cloth, open wounds, cheap filters, and unsealed dead. Life is **rust management**: filters, gutters, reclaim vats (atlas fork).
+
+**How it sorts classes:**
+
+| Stratum | Rain exposure | Practical meaning |
+|---------|---------------|-------------------|
+| **Rabble** | High / chronic | Work the gutters, reclaim vats, open stacks. Filter time is currency (*filter-hour*). Bodies left in open rain = taboo because the rain **erases** what little name they had |
+| **Common** | Managed | District canopies, shift tunnels, seal-booth queues under cover. Rain schedule is moral calendar — late to cover = shame and yield risk |
+| **Upper** | Bought distance | Sealed galleries, private filters, rain-closed balconies. Lower-upper (Solis band) still *knows* the smell; magnates pretend it is below them |
+
+**Border behaviors:**
+
+* **Filter grade** is readable class: cracked rag → stamped guild filter → house-sealed cartridge.
+* **Rain-closed face** (atlas shard) = stoicism under weather; also a tell — who flinches, who has never had to.
+* **Open-rain funerary breach** (rabble taboo) vs **logged death under cover** (common/upper) — same planet, different right to keep a name dry.
+* Shared Sweat moments (Guard muster, Wall crisis) temporarily **flatten** rain class: everyone gets wet enough to remember the forge is one machine. Hierarchy returns with the next dry gallery.
+
+### 6.2 Elevator rights (vertical / legal border)
+
+**What they are:** Keys, plaques, and schedules that govern **which hive stack levels** a body may enter. Elevator castes (atlas) are the hard spine under soft manners.
+
+**How it sorts classes:**
+
+| Stratum | Elevator stance | Practical meaning |
+|---------|-----------------|-------------------|
+| **Rabble** | Mostly **denied** or **service-only** | Stairs, service shafts, illegal climbs. Caught on a mid-stack car = beating, fine in filter-hours, or reclaim labor |
+| **Common** | **Shift rights** | Plaque + shift window opens specific cars. Wrong car at wrong bell = “not seal-clean.” District dynasties trade elevator windows like dowries |
+| **Upper** | **House keys** | Private cars, priority bells, guest manifests. Peak magnates own stack segments; **lower-upper / Solis** hold **bridge passes** — civil + Chapter-adjacent floors without owning the shaft |
+
+**Border behaviors:**
+
+* **Civil ID plaque** at the gate is liturgy: flash, stamp, enter. No plaque = rabble geometry even if clothes look clean.
+* **Guest ink** (temporary elevator right) is upper patronage currency — a Solis house stamp can walk a common clerk into a Chapter-civil room; the same stamp will not open a magnate’s peak gallery.
+* **Bell theft** (riding outside your window) is common-class scandal; rabble treat it as survival; upper treat discovery as house shame if *their* guest did it.
+* Batavi / Chapter precincts sit on **special keys** — not “upper class,” but a **parallel vertical**. Lower-upper bridge houses are the mortals most used to that parallel without claiming it.
+
+### 6.3 When rain and elevators act together
+
+The sharpest borders are **intersections**:
+
+1. **Wet shaft** — service elevators that open onto rain-side platforms: rabble and common meet; upper almost never. Violence and deals happen here.
+2. **Dry gallery after shift bell** — common flood upward; rabble turned at the plaque; upper already inside.
+3. **Storm lock** — when Black Rain spikes, elevators freeze on “priority only.” Upper and critical forge crews move; everyone else learns their stratum in the wait.
+4. **Solis pattern** — lower-upper walks **covered** routes with **bridge passes**: dry enough to keep *face-hold*, keyed enough for Chapter/civil rooms, not peak enough to forget the smell.
+
+### 6.4 Fiction tells (quick use)
+
+* A character’s first class signal: **filter**, then **plaque**, then **which car they board without looking**.
+* Insult: send someone into open rain without kit; worse insult: put their dead in it.
+* Mercy: loan a filter-hour or a guest ink — rabble and common understand; upper calls it patronage.
+* Hymn mood: storm lock is **duty without audience** made literal — you hold your place in the queue because the shaft will not love you for climbing.
+
+---
+
+## 7. Open / next (do not invent here without a pass)
+
 * Institutional slices inside the three classes (forge-priests, Ministorum clergy, Administratum, Guard billets) — optional, not new classes
 * Bleed into / from **I *Prima*** Vexilla culture — **later file**, after this population draft closes
 * Promote into `atlas-and-topography/cultures/ethnography-noviomagus-prime.md` when ratified
@@ -179,11 +242,12 @@ One **slang** / **small rite** / **taboo** per class. Atlas-wide shards (*rain-c
 
 ---
 
-## 7. Ratification checklist
+## 8. Ratification checklist
 
 - [ ] Class labels accepted (Rabble / Common / Upper) or renamed
 - [x] **Solis family** = lower upper class
 - [x] Class **shards** drafted (§4)
+- [x] **Black Rain** + **elevator rights** as class police (§6)
 - [ ] Mood × class tables accepted or trimmed
 - [ ] Atlas fork § Noviomagus still matches (no silent contradiction)
 - [ ] No accidental in-universe hymn claim
