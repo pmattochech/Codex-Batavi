@@ -7,7 +7,7 @@
 
 **Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../../../atlas-and-topography/castra-vetera-galactic-lock.md). **Witness Ford** outward filter; **Forge / Tempest / Crown** marsh channels. Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
-**Chronicle law:** CV y13 · **Executor** wolf-skull transition · ***licentia lupina*** filed · Exanimus **not** banner-law · *We hold* not spoken.
+**Chronicle law:** CV y13 · **Executor** wolf-skull transition (shared Chaplain livery) · ***licentia lupina*** filed as far-field leash · Exanimus **not** banner-law · *We hold* not spoken.
 
 **Precedent:** *Inheritance* confirmed · Pol dead — [`brood-signature/chapter.md`](../brood-signature/chapter.md).
 
@@ -111,9 +111,9 @@ Servitors clicked in the vault corners, stupid as saints; **Threx’s** optics g
 
 The old **Codex death-skull** went into a travel case like a retired witness, foam cut to its jawline, latch clicking with a sound too small for history and too loud for comfort.
 
-Then Varro wrote what the Chapter would later file without poetry: **no Chaplain** would carry **that wolf-skull cast** unless the **Judex** ordered it; a **Reclusiam** seal — ***licentia lupina*** — would name the exceptions, in ink, in advance, so wolf masks multiplied only where **Varro** chose **extension**, not fashion.
+Then Varro wrote what the Chapter would later file without poetry: the **wolf-skull cast** would be **Chaplain livery** — shared, ego-erased, not a Judex vanity — so every crozius-bearer wore the same death-face. The human **death-skull** would remain for those still learning the crypt and the Wall — **Mortivigils** — until the years (or Varro’s rare skip) raised them.
 
-**Subordinate Chaplains** would keep the **death-skull** the *Codex* expected — until a line signed by the **Judex** said otherwise.
+A second seal — ***licentia lupina*** — would name, in ink, which Chaplains might leash brothers who hunted **far from Castra** — the detached and the Lost — and keep them **Batavi**, so distance did not grow a second identity.
 
 A few witnesses swallowed; one serf started to clap because humans clap when they do not know what else to do, and **Kadmos** stopped the sound with a glance that was not anger — only the reminder that applause turned helmets into theater.
 

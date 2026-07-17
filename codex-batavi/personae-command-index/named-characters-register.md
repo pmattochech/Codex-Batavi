@@ -32,7 +32,7 @@
 |----------------|----------------------|
 | **Alaric von Helis** — Lord Castellan / Chapter Master; *Castra-Lupus* | Living wall; *We hold*; Type III Duty Furor; intermediate Execratio lock (~2.85 m); Alpha frequency; Viggo anchor; Frontier Wolf plaque chain; Crimson Wolf risk; protector (not self-narrated father) to Elara |
 | **Drusus** — Chief Apothecary (Triumvirate) | Clinical triage; never removes helm; catalogs chimeric fuel and Wolf’s Curse; proved Viggo as Alaric’s biological anchor; Type III Duty |
-| **Varro** — Master Chaplain / Judex (Triumvirate) | Silent sentence; Executor wolf-skull helm; *Axiom* auditor; *anima speculum* soul-read; Type III Duty; Crimson Wolf containment |
+| **Varro** — Master Chaplain / Judex; **Master of the Judiciars** (Triumvirate) | Silent sentence; Executor wolf-skull + incense jaws / fire-orb eyes / thurible pack; *Axiom* auditor; *anima speculum*; Mortivigil/Chaplain helm law; Type III Duty; Crimson Wolf containment |
 | **Kadmos** — Master of the Forge | Noviomagus-born Techmarine; siege and biomechanical engineering; bronze arm; *Machine Spirit* and forge spine |
 | **Otho** — Chief Librarian | *Blood Augur*; Haruspicium Batavorum / Blindgate; treats Warp as telemetry |
 | **Tyvar** — Senior Strategium Overseer | Cold procedural brake; duty-pressure and chain-integrity audits |
@@ -41,7 +41,7 @@
 | **Theron Brach** — Legatus, III *Tertia* | Khan-Bator chem–thermal war; Vigilax kill-box geometry |
 | **Orin Valestrand** — Legatus, IV *Quarta* | Incus-Gravis high-G shingle war; March-of-the-Machine anchor doctrine; 048.M42 March defense; rotation discipline |
 | **Armin Sturmwahl** — Legatus, V *Quinta* | Storm assault / jump descent; impatience with static holds; Wild Hunt cultural home; Dreadwolf Red Tide (**074.M42**); Gutgrind Descent; Luna Sigma (**168.M42**) |
-| **Einar Dreadwolf** — Lieutenant; **Steppenwolf** + **first of The Lost** (*Amissi*) (**KIA 168.M42**) | Detached registry + Judex watch; full **Mk X Tacticus**; **Mk V** helm (no studs); black pauldrons / red limbs; thunder-claws + traction boots; Moraine-Nine → Luna Sigma |
+| **Einar Dreadwolf** — Lieutenant; **Steppenwolf** + **first of The Lost** (*Amissi*) (**KIA 168.M42**) | Detached registry + Judex watch; Assault Intercessor **Mk X Tacticus** + jump pack; half-helm (nose/mouth/jaw); black pauldrons (Chapter wolf + chained wolf-skull **X**); Mephiston Red gauntlets/boot feet only; **Wolf Talons** (red field) + traction boots; Moraine-Nine → Luna Sigma |
 | **Gervas Bifronte** — Legatus, VI *Sexta* | **Siege Master**, ***Maior Caementarius*** / ***Pater Murorum***; Nine Phalanx fortress architect; Bifronte audit to Alaric; Cage of Bifrons; Korvus twin breach (**098.M42**)
 | **Lucan Phaetron** — Legatus, VII *Septima* | Vitreus plasma/photonic containment |
 | **Ivar Malevent** — Legatus, VIII *Octava* | Reef/Maleventum void war; **Witness Ford** intercept (096.M42) |
@@ -93,4 +93,4 @@
 
 ---
 
-*Last updated: 2026-05-20 — Einar Dreadwolf: capture 074.M42 (Silent Vigil); terminis 168.M42 Luna Sigma.*
+*Last updated: 2026-07-16 — Einar Dreadwolf kit lock: Assault Intercessor + half-helm + Wolf Talons; capture 074.M42; terminis 168.M42 Luna Sigma.*

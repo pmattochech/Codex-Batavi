@@ -103,7 +103,7 @@ Drusus closed the slate and looked up.
 
 — Do you believe he will answer Radulf if he did not answer us.
 
-Varro’s red lenses stayed on the dark screen where the message had gone.
+Varro’s fire-orbs stayed on the dark screen where the message had gone.
 
 — I believe he will hear him.
 

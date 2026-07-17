@@ -168,7 +168,7 @@ At the **column’s** center, **Alaric von Helis** advanced. The **Castra-Lupus 
 
 To his left, Chief Apothecary Drusus. His chassis kept the cohort’s industrial-gray thermal camouflage, surgical white reserved for his multi-lens tactical helm, heavy med-pack, and right arm mounting the *Narthecium*, marked with the *Apothecarion*’s red heraldry. He reeked of chemical antiseptic that cut the ship’s stench. The *Narthecium* on his arm buzzed, blue-light scanners already sweeping the crowd, cataloging fractures, infections, and vitamin deficiencies in real time.
 
-To the right, High Chaplain Varro. A tower of ebony and static dread. Though armor and heavy cowl were sunk in absolute black, the Executor mask dominating his face was a stripped wolf skull, textured in aged bone and ivory, blood-red lenses glowing in the gloom. His *Crozius Arcanum* radiated latent energy, pulsing like the heart of a dead star. He was the Anchor, Guardian of Reason who imposed order by the brutality of his presence alone.
+To the right, High Chaplain Varro. A tower of ebony and static dread. Though armor and heavy cowl were sunk in absolute black, the Executor mask dominating his face was a stripped wolf skull, textured in aged bone and ivory, fire-orbs burning in the orbits without free flame, incense whispering past the mandible. His *Crozius Arcanum* radiated latent energy, pulsing like the heart of a dead star. He was the Anchor, Guardian of Reason who imposed order by the brutality of his presence alone.
 
 Alaric stopped at the foot of the embarkation ramp. He did not draw weapons. He simply looked at the mass of wounded flesh and terrified eyes.
 
@@ -215,7 +215,7 @@ The sound-wave hit Beastmen like a physical wall. The charging leader froze mid-
 
 — **THE BEAST DOES NOT COMMAND HERE,** — Varro declared, his voice reverberating in every lung present. — **YOU STAND BEFORE THE LAW OF IRON. NOISE IS WASTE. PANIC IS INEFFICIENCY. WHOEVER SNARLS AT THE WALL WILL BE CRUSHED BY IT.**
 
-The silence that followed was absolute and terrifying. Thousands of abhumans, moments ago in frenzy, now stood paralyzed. Varro rotated his helm slowly, red lenses pinning each Beastman, measuring will to live against will to fight.
+The silence that followed was absolute and terrifying. Thousands of abhumans, moments ago in frenzy, now stood paralyzed. Varro rotated his helm slowly, fire-orbs pinning each Beastman, measuring will to live against will to fight.
 
 Fury had been tamed. Now flesh had to be assessed.
 
@@ -466,7 +466,7 @@ Varro, the Chapter’s soul, took the final step. He was no longer only High Cha
 
 The noble dropped the cup. Wine spread across the floor like first sign of the massacre to come.
 
-Panic is a volatile odor, and in Hangar 12 it replaced lily perfume in a microsecond. The Malakor Majoris noble felt wine soak his shoes as he looked up. He no longer saw soldiers; he saw an ancient predator’s eyes mirrored in **Varro**’s red lenses.
+Panic is a volatile odor, and in Hangar 12 it replaced lily perfume in a microsecond. The Malakor Majoris noble felt wine soak his shoes as he looked up. He no longer saw soldiers; he saw an ancient predator’s eyes mirrored in **Varro**’s fire-orbs.
 
 — Wh-what is this? — the noble stammered, backing toward the ramp. — We are the General’s envoys! This is bureaucratic outrage!
 
@@ -482,7 +482,7 @@ Around them, Silence and Shadow Cohorts moved as one. No disorderly firefight. E
 
 Varro reached the ramp top where the ship’s purser tried to seal pneumatic doors. The High Chaplain held a door with one hand, luxury metal folding under gauntlet force. With the other he seized the purser’s face.
 
-— **LOOK AT ME,** — Varro hissed, forcing the man to meet red lenses. — **YOUR FEAR SMELLS SWEET, BUT YOUR CRIMES SMELL LIKE INFECTION. YOU CORRUPTED WHAT THE EMPEROR MADE SACRED. YOU TURNED DUTY INTO VICE.**
+— **LOOK AT ME,** — Varro hissed, forcing the man to meet the fire-orbs. — **YOUR FEAR SMELLS SWEET, BUT YOUR CRIMES SMELL LIKE INFECTION. YOU CORRUPTED WHAT THE EMPEROR MADE SACRED. YOU TURNED DUTY INTO VICE.**
 
 — I only followed orders! — the purser begged, urine soaking silk trousers.
 

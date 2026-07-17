@@ -187,7 +187,7 @@ Forgemasters erased chalk ticks where they could so sympathy spikes could not mi
 
 **Alaric** stood at forge lip one minute after sympathy spikes filed and did not remove his helm — continuity, not spectacle — while Incus had its echo now: gulf throat in forge hum, sealed aperture in static, inheritance in sympathy spikes. He did not say *We hold*. Holding, here, was **refusal to let forge hum merge columns** before injury was attested.
 
-**Varro** traced ash on slag wall that caught forge-light like mirror — not prayer, **inventory** — death-skull geometry giving way to Executor jawline where Exanimus vault had already earned ***licentia lupina***.
+**Varro** traced ash on slag wall that caught forge-light like mirror — not prayer, **inventory** — death-skull geometry giving way to Executor jawline where Exanimus vault had already made the wolf-skull **Chaplain law**, and ***licentia lupina*** a leash for those who hunted too far to stay nameless.
 
 **Kadmos** saved Incus echo stub under *hostile forge coupling; echo stub* — sympathy spike, sealed aperture.
 
