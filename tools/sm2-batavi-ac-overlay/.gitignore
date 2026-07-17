@@ -1,0 +1,11 @@
+# Downloaded / Wine tooling
+vendor/
+
+# Generated build outputs (recreate via ./run convert / build_user_materials_pak.sh)
+tga/
+stage/
+stage_materials/
+*.pak
+!pack/.gitignore
+*.pct_mip
+*.tga
