@@ -1,0 +1,29 @@
+// SYNTHETIC FIXTURE — not a real game file.
+// Used to verify Clone-BataviSso.ps1 wiring. Replace with extracted game SSO for Path B.
+
+customization_decal_library
+{
+    decal_entry night_lords_shoulder_l
+    {
+        display_name "Night Lords"
+        id night_lords_shldr_01
+        texture d_shldr_night_lords_01
+        slot shoulder_left
+    }
+
+    decal_entry night_lords_shoulder_r
+    {
+        display_name "Night Lords"
+        id night_lords_shldr_02
+        texture d_shldr_night_lords_02
+        slot shoulder_right
+    }
+
+    decal_entry ultramarines_shoulder_l
+    {
+        display_name "Ultramarines"
+        id ultramarines_shldr_01
+        texture d_shldr_ultramarines_01
+        slot shoulder_left
+    }
+}
