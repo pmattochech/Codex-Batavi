@@ -28,7 +28,7 @@ Recover **V** *Quinta* battle-brother remains for **Versibar / KIA** funeral geo
 
 **Phase A — Approach:** Gunboat insert; Sturmwahl + Varro + twelve-brother escort.
 
-**Phase B — Epicenter contact:** Lieutenant **Einar** found alive — **first documented Exanimus** (subject held **Furor only** through prior century of service); partial armor, **Dreadwolf Claws** (tainted ship-origin lightning claws), **Butcher’s Nails** cable merge in new mane, slaughter of World Eaters and Orks ongoing.
+**Phase B — Epicenter contact:** Lieutenant **Einar** found alive — **first documented Exanimus** (subject held **Furor only** through prior century of service); partial armor, tainted ship-origin lightning claws (later purified as **Wolf Talons**), **Butcher’s Nails** cable merge in new mane, slaughter of World Eaters and Orks ongoing.
 
 **Phase C — Cull geometry:** Legatus raised blade; subject terminated last hostile, dropped weapons, **fist-to-chest salute**, spoke ***Quinta* cadence** (*We hold, as the Needles hold the cold tide.*). Cull **not** executed.
 
@@ -52,7 +52,7 @@ Recovery element: **two** wounded (Ork scrap ambush en route out).
 
 ## 6. Terminus (168.M42)
 
-**Lieutenant Einar Dreadwolf** — KIA Luna Sigma outer perimeter during Battle of Sigma Moon. Wearing full ***Amissi* Mk X Tacticus** rig; self-triggered ***Spina Cineris*** (*Destabilis Molecularis* terminis); **Varro** + **Armin Sturmwahl** witness; gene-seed **null** (annihilated). *Vermilion* watch file **closed** — *Terminus 168.M42 — Luna Sigma. Receipt denied.*
+**Lieutenant Einar Dreadwolf** — KIA Luna Sigma outer perimeter during Battle of Sigma Moon. Wearing Assault Intercessor ***Amissi*** **Mk X Tacticus** (half-helm; jump pack; **Wolf Talons**); self-triggered ***Spina Cineris*** (*Destabilis Molecularis* terminis); **Varro** + **Armin Sturmwahl** witness; gene-seed **null** (annihilated). *Vermilion* watch file **closed** — *Terminus 168.M42 — Luna Sigma. Receipt denied.*
 
 Narrative: [terminus/chapter.md](../dreadwolf/terminus/chapter.md) · [battle-of-sigma-moon/chapter.md](../sigma-moon/battle-of-sigma-moon/chapter.md).
 

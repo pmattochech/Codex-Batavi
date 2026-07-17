@@ -55,7 +55,7 @@ What answered was not *Axiom*. What answered was **wolf** without Furor’s leas
 
 When the howl stopped, **Stenmark**’s eyes were open and **empty** of the marine who had held the Needles line.
 
-**Einar** killed him with the first **Dreadwolf Claw** he had stolen from the ship — open-hand gauntlet, ugly traitor steel, not Batavi issue.
+**Einar** killed him with the first ship-pattern lightning claw he had stolen from the ship — open-hand gauntlet, ugly traitor steel, not Batavi issue.
 
 The World Eaters watched. Some laughed. None interfered. Interference was for men who still thought this was **conversion**. It was **consumption**, and consumption liked witnesses.
 
@@ -121,7 +121,7 @@ What came after was **throughput**.
 
 The World Eaters had grown bored of their work. The bleed had grown **hungry**. The Batavi lieutenant with new nails and old pride burned to ash walked the galleries because staying still meant the Red would steer and he would not know whose hands were on the claws.
 
-Ship steel on both wrists — **Dreadwolf Claws** taken from a World Eaters locker: open-hand lightning claws with blades that **extended from the knuckle couplers**, fingers still free beneath the field. Weapons of the enemy, geometry of the enemy, **honesty** of the enemy.
+Ship steel on both wrists — open-hand lightning claws taken from a World Eaters locker: blades that **extended from the knuckle couplers**, fingers still free beneath the field. Weapons of the enemy, geometry of the enemy, **honesty** of the enemy — the same rig *Armourium* would later purify and rename **Wolf Talons**.
 
 He killed the surgeons first.
 
@@ -137,7 +137,7 @@ The hulk did not fall because he won.
 
 It fell because the moons’ bleed turned **sharp**, because engines died, because a prison ship with no pilot but panic met Moraine-Nine’s brack and **broke** open on the feral face, vomiting atmosphere and meat into salt pans where Orks already gathered.
 
-**Einar** rode the crash in the center of the ship’s dying geometry, nails singing, cables twitching in a mane that **erupted** as the hull tore — first **Exanimus** forced through skin and law in one afternoon, jaw brutalized forward, fangs past the lip line, **Dreadwolf Claws** crackling at his wrists as metal screamed. Red hands not yet filed because the Chapter was not there to file them.
+**Einar** rode the crash in the center of the ship’s dying geometry, nails singing, cables twitching in a mane that **erupted** as the hull tore — first **Exanimus** forced through skin and law in one afternoon, jaw brutalized forward, fangs past the lip line, ship-claw fields crackling at his wrists as metal screamed. Red hands not yet filed because the Chapter was not there to file them.
 
 He walked out of the fire into Ork country and kept killing.
 
