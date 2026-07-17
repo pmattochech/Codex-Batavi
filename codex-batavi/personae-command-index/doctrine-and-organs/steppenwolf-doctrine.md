@@ -58,6 +58,8 @@ Steppenwolf service is a **branch**, not a punishment detail. It is **not** a su
 
 See [dossier-einar-dreadwolf.md](../character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [amissi-the-lost.md](amissi-the-lost.md) §II.
 
+**Far-field Chaplain leash:** Steppenwolves (and *Amissi*) operating far from Castra may be assigned a Chaplain under ***licentia lupina*** — keep them **Batavi**, deny identity drift. Same seal covers both pools; see [mortivigil-and-reclusiam-helm-law.md](mortivigil-and-reclusiam-helm-law.md) §IV.
+
 ---
 
 ## 6. Related
@@ -68,4 +70,5 @@ See [dossier-einar-dreadwolf.md](../character-dossiers/cohorts-and-detachments/d
 - [friction-rites.md](friction-rites.md) — tactile / liturgical anchors (contrast: Steppenwolf’s distance from daily lattice)  
 - [specialty-cohorts.md](../../arsenal-and-logistics/specialty-cohorts.md) — Shadows Cohort (modal overlap)  
 - [border-political-relations.md](../../political-relations/border-political-relations.md) — institutional frame for detached Imperial cooperation  
+- [mortivigil-and-reclusiam-helm-law.md](mortivigil-and-reclusiam-helm-law.md) — ***licentia lupina*** far-field Chaplain sanction  
 - [amissi-the-lost.md](amissi-the-lost.md) · [dossier-einar-dreadwolf.md](../character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) — §5.1 registry stack (first of The Lost)  

@@ -2,7 +2,7 @@
 
 Doctrinal protocol — classification: internal use / Triumvirate and Vexillationes
 
-*Cross-reference: [friction-rites.md](friction-rites.md) § Greater rite | [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) § Execratio stage | [incus-gravis-campaign.md](../../chronicles/incus-gravis-tribunal/incus-gravis-campaign/chapter.md) — active Batavi beats | [proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md) — witness inheritance vs Judex-sanctioned rite | **Legacy narrative:** [blood-angels-batavi-legacy](../../chronicles/outdated/blood-angels-batavi-legacy/INDEX.md)*
+*Cross-reference: [friction-rites.md](friction-rites.md) § Greater rite | [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) § Execratio stage | [mortivigil-and-reclusiam-helm-law.md](mortivigil-and-reclusiam-helm-law.md) §VI–§VIII — standard death pipeline, Wall-name vs crypt, sacred offense to **Batavi** dead | [incus-gravis-campaign.md](../../chronicles/incus-gravis-tribunal/incus-gravis-campaign/chapter.md) — active Batavi beats | [proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md) — witness inheritance vs Judex-sanctioned rite | **Legacy narrative:** [blood-angels-batavi-legacy](../../chronicles/outdated/blood-angels-batavi-legacy/INDEX.md)*
 
 ---
 
@@ -62,11 +62,23 @@ It is the same opening protocol of every campaign and close of every treaty. Its
 
 ---
 
-### Addendum — The name in the foundation
+### Addendum — The name in the foundation (Wall-fusion)
 
-After the pyre cools, the Batavi warrior’s name is carved into the ferrocrete footings of the nearest facility or settlement — not a separate monument, not a headstone, but the load-bearing structure of the city itself.
+After the pyre cools, the Batavi warrior’s name is carved into the ferrocrete footings of the nearest facility or settlement — not a separate monument, not a headstone, but the load-bearing structure of the place he died defending. **Mortivigils** own this craft across Castra Vetera (any city / fort / station), not Noviomagus alone.
 
 The warrior stops being the wall’s guard. He becomes the Wall.
+
+**Relation to standard death geometry** ([mortivigil-and-reclusiam-helm-law.md](mortivigil-and-reclusiam-helm-law.md) §VI–§VII):
+
+| Layer | Standard death (Furor / Exanimus / clean KIA) | **Frontier Wolf Rite** (Execratio / Versibar) |
+|-------|-----------------------------------------------|-----------------------------------------------|
+| Gene-seed | Harvest when tissue passes audit | **None** — progenoids destroyed by rewrite |
+| Pyre | Soft tissue burned; **skeleton + relics/cybernetics** recovered | Iron pyre of bestial remains (containment shroud); remnant recovery when possible |
+| **Wall-name** | Fused where he held | Same — name in the foundation |
+| **Bones / crypt** | Home capital crypt (or Chapter-supreme vault if applicable) | Remnants / ash-bone cases to the same crypt map when recoverable; *absent rite* when body is lost |
+| **Alaric plaques** | Not this rite’s cord | **Castellan Versibar register** — root + iron plaque pairs on *Castra-Lupus* cord (§III) — **mortal-witness / Execratio ledger**, not the Astartes bone crypt |
+
+Desecration of **Batavi** Wall-names, crypts, pyre custody, or plaque-pairs is among the Chapter’s greatest offenses (alongside treason). Other Chapters’ dead are respected in war; they are not sacred in this register.
 
 The vigil does not end with death. It changes nature.
 
