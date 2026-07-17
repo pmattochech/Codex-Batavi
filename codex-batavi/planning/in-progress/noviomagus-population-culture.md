@@ -15,8 +15,12 @@
 
 * Full Vexilla / Batavi operational culture
 * Saving the hymn as an in-world canticle
-* Class shards slang lock (optional next pass)
 * Other Castra Vetera worlds (Castra-Vetera Prime, Khan-Bator, Aethelgard, …)
+
+**Locks added 2026-07-17 (shards pass):**
+
+* **Solis family** = **lower upper class** (bridge household band — not mid-common, not stack-magnate peak)
+* Class **shards** drafted below (§4) — slang / rite / taboo per stratum
 
 ---
 
@@ -105,7 +109,9 @@ Working labels: **Rabble** · **Common population** · **Upper class**.
 
 ### 3.3 The upper class
 
-**Who:** Stack-elevator magnates, forge-house elders, Administratum liaison blood, Ministorum chapter-house patrons, Solis-adjacent bridge households — people who can buy cleaner air and cleaner seals.
+**Who:** Stack-elevator magnates, forge-house elders, Administratum liaison blood, Ministorum chapter-house patrons, and **lower-upper bridge houses** — people who can buy cleaner air and cleaner seals.
+
+**Solis family (lock):** **Lower upper class.** Bridge household that can enter forge-cant rooms and Chapter-adjacent civil rooms without holding peak elevator rights. Soft power = Shared Sweat / kitchen continuity and quiet *face-hold* — still upper, not mid-common.
 
 **Mood landing:**
 
@@ -116,11 +122,43 @@ Working labels: **Rabble** · **Common population** · **Upper class**.
 | Weathered service | Keep the machine fed — labor quotas, ammo contracts, rain infrastructure. Charity = rationed usefulness (filter endowments, widow guilds), not ecstasy. Fear useless piety as much as heresy |
 | Loss as weather | Name losses in marble and ledgers — still treat them as **cost**. House continuity absorbs Guard sons, drowned districts, Wall-fusion stories from below |
 
-**Sound:** Cooler, longer sentences; forge-cant under High Gothic. Resent rabble noise; envy Batavi certainty. Some quietly prefer Chapter silence to Ministorum thunder — not love, **recognition** that the Wall also needs no audience.
+**Sound:** Cooler, longer sentences; forge-cant under High Gothic. Resent rabble noise; envy Batavi certainty. Some quietly prefer Chapter silence to Ministorum thunder — not love, **recognition** that the Wall also needs no audience. Lower-upper / Solis band: quieter than magnates; less auctioned piety.
 
 ---
 
-## 4. Class friction matrix (population-only)
+## 4. Class shards (draft lock candidate)
+
+One **slang** / **small rite** / **taboo** per class. Atlas-wide shards (*rain-closed face*, *black tooth*) still apply as mesh color; class shards below are stratum-specific.
+
+### 4.1 Rabble
+
+| Kind | Shard | Note |
+|------|-------|------|
+| **Slang** | *filter-hour* | Unit of life; “owe me two filter-hours” = real debt |
+| **Rite** | *pipe watch* | Before a reclaim dive: one hand on the pipe, one on a brother’s shoulder; no words if the rain is loud |
+| **Taboo** | Body in **open Black Rain** | Worse than theft — the rain “eats names” |
+
+### 4.2 Common
+
+| Kind | Shard | Note |
+|------|-------|------|
+| **Slang** | *seal-clean* | Morally right *and* administratively safe; “that’s not seal-clean” ends arguments |
+| **Rite** | *gear prayer* | Three knuckle taps on the duty belt at shift start (already on atlas; **common default**) |
+| **Taboo** | **Unlogged scrap** | Stealing from the Throne’s yield — worse gossip than chapel absence |
+
+### 4.3 Upper (incl. lower-upper / Solis band)
+
+| Kind | Shard | Note |
+|------|-------|------|
+| **Slang** | *face-hold* | Keeping Imperial form when the mesh feels forgotten; Solis houses do this quietly, without auctioning piety |
+| **Rite** | *window stamp* | Touch the house seal (or chapel lintel) once when leaving for Chapter/civil rooms — continuity, not spectacle |
+| **Taboo** | **Loud devotion** that can’t survive an audit | Empty sermonizing that shames the forge; lower-upper especially hates looking like fringe barbarians to Batavi or Administratum guests |
+
+**Solis color:** lean *window stamp* + *face-hold*; Shared Sweat / kitchen continuity as soft power inside the lower-upper band.
+
+---
+
+## 5. Class friction matrix (population-only)
 
 | Pressure | Rabble | Common | Upper |
 |----------|--------|--------|-------|
@@ -131,20 +169,21 @@ Working labels: **Rabble** · **Common population** · **Upper class**.
 
 ---
 
-## 5. Open / next (do not invent here without a pass)
+## 6. Open / next (do not invent here without a pass)
 
-* One **shard** per class (slang / small rite / taboo) — optional lock pass
-* Where **Solis-tier** sits between common and upper (bridge household detail)
 * How **Black Rain** and **elevator rights** police class borders day-to-day
+* Institutional slices inside the three classes (forge-priests, Ministorum clergy, Administratum, Guard billets) — optional, not new classes
 * Bleed into / from **I *Prima*** Vexilla culture — **later file**, after this population draft closes
 * Promote into `atlas-and-topography/cultures/ethnography-noviomagus-prime.md` when ratified
 * Sibling worlds after Noviomagus closes
 
 ---
 
-## 6. Ratification checklist
+## 7. Ratification checklist
 
 - [ ] Class labels accepted (Rabble / Common / Upper) or renamed
+- [x] **Solis family** = lower upper class
+- [x] Class **shards** drafted (§4)
 - [ ] Mood × class tables accepted or trimmed
 - [ ] Atlas fork § Noviomagus still matches (no silent contradiction)
 - [ ] No accidental in-universe hymn claim
