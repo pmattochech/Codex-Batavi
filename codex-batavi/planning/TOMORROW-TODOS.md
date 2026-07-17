@@ -16,3 +16,7 @@
 ## Lore maintenance
 
 - [ ] Re-sync Notion after path renames if page-map drifts (`tools/notion-sync/page-map.json`)
+- [x] *Reclusiam* / Varro visual polish + Frontier Wolf ↔ death pipeline link (2026-07-16)
+- [ ] Open *Reclusiam* / crypt / Judiciar / character backlog — see [`disciplines-and-curia-vexilli-plan.md`](disciplines-and-curia-vexilli-plan.md) §9
+- [x] *Hymn of the Lost* author mood lock — [`HYMN-OF-THE-LOST-MOOD-LOCK.md`](HYMN-OF-THE-LOST-MOOD-LOCK.md) §1
+- [ ] Culture-doc mood note + pre-reconquest mortal chronicle — same file §2–§3
