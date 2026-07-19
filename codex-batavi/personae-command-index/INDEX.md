@@ -20,6 +20,8 @@
 - [friction-rites.md](doctrine-and-organs/friction-rites.md)
 - [proximity-substrata-and-witness-inheritance.md](doctrine-and-organs/proximity-substrata-and-witness-inheritance.md) — silent cultural intake via Castra Vetera proximity; Judex filtration; neophyte increment
 - [steppenwolf-doctrine.md](doctrine-and-organs/steppenwolf-doctrine.md) — detached brothers; perpetual Watch / rim teams; slang etymology (White Scars / Chogoris loan)
+- [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md) — Mortivigil → Chaplain helm law; death pipeline; nine crypts + Chapter-supreme vault; Castra-Lupus triad
+- [amissi-the-lost.md](doctrine-and-organs/amissi-the-lost.md) — The Lost (*Amissi*)
 - [frontier-wolf-rite.md](doctrine-and-organs/frontier-wolf-rite.md) — Execratio funeral protocol; plaque system and Alaric’s Chain of Names
 - [friction-geometry.md](doctrine-and-organs/friction-geometry.md)
 - [pax-batavorum.md](doctrine-and-organs/pax-batavorum.md)

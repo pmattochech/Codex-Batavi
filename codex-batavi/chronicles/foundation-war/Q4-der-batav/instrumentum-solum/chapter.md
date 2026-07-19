@@ -163,7 +163,7 @@ Thunder was still rumored. Measurement continued. Wall had not healed. It had **
 
 **Alaric** said *We hold anyway* once, low, open channel — not ornament but **instrument**: measurable, stamped twice, witness before throughput.
 
-**Varro** traced ash on the berth baffle — not prayer, **inventory** — Executor jawline foam, latch tension, ***licentia lupina*** written so wolf-skulls multiplied only where the **Judex** chose extension, not fashion.
+**Varro** traced ash on the berth baffle — not prayer, **inventory** — Executor jawline foam, latch tension, ***licentia lupina*** written so far-field wolves stayed **Batavi** where the **Judex** chose leash, not fashion.
 
 **Drusus** sealed the final margin under Triumvirate stamp — *Foundation War closed provisional; treat all coupling rhymes as sequence, not prophecy; witness routes only*.
 

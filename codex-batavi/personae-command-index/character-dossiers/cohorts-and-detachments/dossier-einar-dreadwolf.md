@@ -19,25 +19,26 @@
 * **Physique:** Broad-shouldered assault build; **digitigrade** conversion **not** present — flat foot, *Quinta* jump-line anchor intact. Post–Moraine-Nine **Mk X Tacticus** refit accommodates **Exanimus** muscle hypertrophy.  
 * **Furor (pre-capture — sole stage):** Flame-pool irises, slit pupils, perpetual exhaustion mask, **Type I — Pride** engraved state (Aethelgard shore competence). **No** Exanimus protocol: no lip-piercing canines, no predatory mane, **no** crimson limb filing — he held the line under *Axiom* for a century without crossing.  
 * **First Exanimus (074.M42 — Nails + ship + Moraine-Nine):** Forced across the threshold during implantation and massacre — jaw hypertrophy, mane, **red limb** heraldry, near-snarl lock; **irreversible** per curse law. What Sturmwahl almost culled was **new** stage geometry, not an old wolf.  
-* **Post-capture stigmata:** **Butcher’s Nails** analog — conscious implant bundle; **cable** and **neural loom** tissue **merged** into the **new** mane along nape and jaw line. Not a separate *Wolf’s Curse* stage — **foreign architecture** riding Strand β pressure; Varro files as **second beast** bound inside the first. Nails **concealed** under armor cowl after refit; bulk still **apparent**.
+* **Post-capture stigmata:** **Butcher’s Nails** analog — conscious implant bundle; **cable** and **neural loom** tissue **merged** into the **new** mane along nape and jaw line. Not a separate *Wolf’s Curse* stage — **foreign architecture** riding Strand β pressure; Varro files as **second beast** bound inside the first. Post-refit half-helm leaves mane and Nails **free-floating and visible** in the field — not cowled.
 
-### Armor and kit (post–074 refit — *Amissi* standard)
+### Armor and kit (post–074 refit — *Amissi* / Einar exceptions)
 
-**Chassis:** Full **Mk X Tacticus** (Intercessor-pattern) — Noviomagus refit for Exanimus frame. **Not** Gravis.
+**Chassis:** Full **Mk X Tacticus** — **Assault Intercessor** silhouette — Noviomagus refit for Exanimus frame. **Jump pack** issued primarily for **speed and maneuverability** (vector cuts, vault, sudden closure); sustained flight is secondary. **Not** Gravis.
 
 | Element | Detail |
 |---------|--------|
-| **Helm** | **Mk V pattern**, **without molecular bonding studs** (smooth forge-filed bowl); **Furor** horizontal crimson visor stripe; **Troll Slayer Orange** lens read |
-| **Cowl / gorget** | High neck cowl — Nails and cable–mane **hidden**, not removed; occasional twitch under cloth |
-| **Pauldrons** | **Both black** — **left:** Chapter frontal-wolf roundel in **red**; **right:** **wolf skull** in **red** (*Amissi* charge — not Executor Chaplain skull) |
-| **Paint** | Mechanicus Standard Grey body; **both arms** (full vambrace + gauntlet) and **both legs below the knee** (lower greave) — **Mephiston Red** |
-| **Hands** | **Dreadwolf Claws** — paired lightning claws re-wrought as a **talon-hand**: the weapon is a hand itself, with energized talons extending as the **second phalanx** of each finger, yielding a bestial silhouette while retaining full grip control. Origin: stolen ship-pattern claws aboard **Kzorn’s Maw** during capture; later **purified and remade** into Castra Vetera interface standards under **Kadmos** with *Reclusiam* oversight (**Varro** / clergy) |
-| **Boots** | **Traction claws** — three short adamantium claws per boot (Batavi / Castellan traction doctrine; industrial, not Chaos heraldry) |
-| ***Spina Cineris*** | Subcranial terminis port at atlas — sealed in gorget; **Brass-denial** protocol |
+| **Helm** | **Half-helm** — lower-skull plate only (**nose, mouth, and jaw** covered); crown, mane, and Nails left **open and free-floating**. No full Mk V bowl; no concealing cowl |
+| **Gorget** | Atlas seal for ***Spina Cineris*** — no high neck cowl over the mane |
+| **Pauldrons** | **Both black** — **left:** Chapter frontal-wolf roundel in **Mephiston Red**; **right:** *Amissi* **chained wolf skull** in **Mephiston Red**, with chains painted **Mechanicus Standard Grey** as an **X** over the skull (not Executor Chaplain skull) |
+| **Paint** | Mechanicus Standard Grey on body, arms (vambrace and above), and legs (greave and above); **Mephiston Red** **only** on **gauntlets** (including fingers) and **boot feet** — not vambraces, not greaves |
+| **Hands** | **Wolf Talons** — Imperial **Angel’s Talons** pattern lightning claws (the common wrist-housing layout: energized blades seated on **wrist / lower-gauntlet** mounts and projecting forward — **not** knuckle / Wolverine over-hand geometry). **Batavi** industrial remake under **Kadmos** with *Reclusiam* oversight (**Varro** / clergy) — Castra Vetera interfaces, **no** Blood Angels / Sanguinary ornamental read. Field glow: **red** (not blue). Origin: ship-pattern claws taken aboard **Kzorn’s Maw** during capture; later **purified and remade** as **Wolf Talons** |
+| **Boots** | **Traction claws** — three short adamantium claws per boot (Batavi / Castellan traction doctrine; industrial, not Chaos heraldry); boot **feet** Mephiston Red per paint lock above |
+| **Jump pack** | Assault Intercessor pattern — speed / maneuver first; flight secondary |
+| ***Spina Cineris*** | Subcranial terminis port at atlas — sealed at gorget; **Brass-denial** protocol |
 
-**074 Moraine-Nine (chronicle kit):** **Partial** plate or stripped; **Dreadwolf Claws** in tainted ship-origin configuration; helm **off** or lost in crash — **not** the refit above.
+**074 Moraine-Nine (chronicle kit):** **Partial** plate or stripped; ship-origin lightning claws (later purified as **Wolf Talons**) in tainted configuration; helm **off** or lost in crash — **not** the refit above.
 
-**Tooling reference (legacy thunder-claws layout):** [`einar-thunder-claws-reference.md`](../../../lore-images/einar-thunder-claws-reference.md) *(legacy / tooling; Einar’s current weapon is Dreadwolf Claws)*
+**Tooling reference (Wolf Talons layout):** [`einar-thunder-claws-reference.md`](../../../lore-images/einar-thunder-claws-reference.md)
 
 ---
 
@@ -55,7 +56,7 @@
 ## 3\. Combat and doctrine
 
 * **Role:** **The Lost** — traitor-hunt, World Eaters closure, Versibar recovery geometry; **mandatory Varro** on every mission slate.  
-* **Style:** **Wulfen-adjacent** closure — not *Versibar*; **Dreadwolf Claws** and **traction-boot** geometry when the **Red Demon** (Nails + Khorne bleed) is not steering.  
+* **Style:** **Wulfen-adjacent** closure — not *Versibar*; **Wolf Talons**, **jump-pack** vectors, and **traction-boot** geometry when the **Red Demon** (Nails + Khorne bleed) is not steering.  
 * **Gene-seed:** Harvested on death **only** if tissue passes **Vermilion** audit; if corruption is confirmed, **destroyed**. At **168.M42** terminis, ***Spina Cineris*** annihilated progenoid tissue — harvest **null**.  
 * ***Spina Cineris* (terminis pin):** Subcranial **molecular destabilization** package at atlas–cervical junction — installed after **074.M42** recovery; sealed in gorget; **Brass-denial** protocol for *Amissi* watch brothers.  
 * ***Quinta* cadence:** When steadiness returns after slaughter — *We hold, as the Needles hold the cold tide.* (See [GLOSSARY-EN.md](../../../GLOSSARY-EN.md).)
@@ -72,7 +73,7 @@
   * **Conscious Nails;** eleven mercy-killed aboard ship; **forced first Exanimus** on crash.  
   * **Recovery:** Cull **withheld** after salute + ***Quinta* cadence**.  
   * **After:** Inducted **The Lost** (*Amissi*) — **first of The Lost**; **Steppenwolf** filing **retained** on detached registry (Judex watch supersedes ordinary Legatus slate, not distance geometry). **Varro** direct authority; *Vermilion* — *In watch. Under the Deathwolf’s jaws. No soul-name. No precedent. No cult.*  
-* **074–167.M42 | *Amissi* service:** Small-pool deployments with Judex; refit armor and **Dreadwolf Claws** retained (purified and re-wrought); ***Spina Cineris*** maintained by **Drusus**. Legend vignette (reef cult / **Slaughterbound**): [precipitation/chapter.md](../../../chronicles/dreadwolf/precipitation/chapter.md).
+* **074–167.M42 | *Amissi* service:** Small-pool deployments with Judex; Assault Intercessor refit (half-helm, jump pack, **Wolf Talons** purified and re-wrought); ***Spina Cineris*** maintained by **Drusus**. Legend vignette (reef cult / **Slaughterbound**): [precipitation/chapter.md](../../../chronicles/dreadwolf/precipitation/chapter.md).
 * **168.M42 | Luna Sigma — terminis:** [terminus/chapter.md](../../../chronicles/dreadwolf/terminus/chapter.md) · [battle-of-sigma-moon/chapter.md](../../../chronicles/sigma-moon/battle-of-sigma-moon/chapter.md).
 
 ---

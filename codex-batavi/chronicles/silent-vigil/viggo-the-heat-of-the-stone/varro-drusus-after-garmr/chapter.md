@@ -10,7 +10,7 @@
 
 The sub-vault had no decoration and no mercy. Steel walls drank sound, and the lamps kept the same cold color from shift-start to shift-end, as if time itself were under discipline.
 
-Varro waited in full plate, cowl low, red lenses fixed on nothing visible. Dravic had left minutes earlier. His words had not.
+Varro waited in full plate, cowl low, fire-orbs fixed on nothing visible. Dravic had left minutes earlier. His words had not.
 
 The door cycled once. Drusus entered without escort, white surgical arm reflecting lumen in hard lines.
 

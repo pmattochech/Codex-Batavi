@@ -144,3 +144,26 @@ Adjutant Chaplains and sub-cohort Apothecaries remain in the **500** table; **Ge
 ## 8. One-line register
 
 *The seed offers fuel; the rite offers form; parallel clearance, schedule, and penance keep the fire on the wall and not in the marrow.*
+
+---
+
+## 9. Backlog — *Reclusiam* / Mortivigil / Castra-Lupus / characters
+
+*Polish done (2026-07-16): old “Judex-only wolf-skull / red-lens Varro” lines synced in key chronicles; Frontier Wolf Rite tied to death pipeline + plaque vs crypt split — [`frontier-wolf-rite.md`](../personae-command-index/doctrine-and-organs/frontier-wolf-rite.md) · [`mortivigil-and-reclusiam-helm-law.md`](../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md).*
+
+### Naming / sites
+- **Name the Castra-Lupus triad** (Strategium–Monastery / Apothecarion / Reclusiam houses) and the **Chapter-supreme bone vault**; distinguish on maps from *Prima* capital crypt (both Noviomagus).
+- **Name the nine Legatus capital crypts**; site plans per seat world.
+- Wall-fusion craft detail (how names enter foundations across hive / fort / station types).
+
+### Doctrine still open
+- **Judiciar track** under Varro as **Master of the Judiciars** — evolve later (separate from Mortivigil).
+- Optional: name Noviomagus incense resin blend for Varro’s thurible / jaw exhaustors.
+
+### Creative expansion
+- More **named battle-brothers** (beyond current dossiers / Einar arc).
+- **Imperial citizens** / mortal-side lore under Castra Vetera.
+- Optional: refresh [`varro-chaplain-judex.png`](../lore-images/varro-chaplain-judex.png) art ref to fire-orbs + incense jaws + pack thurible / flanking candles.
+- **Mortal mood / chronicle (Hymn of the Lost):** author mood lock done — [`HYMN-OF-THE-LOST-MOOD-LOCK.md`](HYMN-OF-THE-LOST-MOOD-LOCK.md) §1; backlog §2 culture-doc note; backlog §3 pre-reconquest mortal chronicle.
+
+Doctrine lock: [`mortivigil-and-reclusiam-helm-law.md`](../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md) §VI–§IX.

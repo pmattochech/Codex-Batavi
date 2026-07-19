@@ -61,7 +61,7 @@ Tyvar did not answer. That was the correct answer.
 
 The Noviomagus Prime *Strategium* was a room designed to be functional, not impressive — hololithic maps, cogitator terminals, the iron table without ornament Alaric had used for six centuries. The only aesthetic concession was the window to the outer forge yard, where Noviomagus industrial chimneys produced the permanent iron haze locals called “the second sky.”
 
-Trajann entered, assessed the space once, and stood beside the table. He did not sit. The six Custodes of his escort lined the walls. The Triumvirate stood before him — Alaric center, Drusus left with surgical helm and multi-lenses, Varro right in ***Executor* wolf-skull helm** — consecrated to **Judex** law rather than hearth-counsel. Under ***Reclusiam* helm law**, subordinate Chaplains still wore ***Codex* death-skull** unless **Varro** had issued ***licentia lupina***.
+Trajann entered, assessed the space once, and stood beside the table. He did not sit. The six Custodes of his escort lined the walls. The Triumvirate stood before him — Alaric center, Drusus left with surgical helm and multi-lenses, Varro right in ***Executor* wolf-skull helm** with Judex extras — consecrated to **Judex** law rather than hearth-counsel. Under ***Reclusiam* helm law**, full Chaplains wore the same wolf-skull death-face; **Mortivigils** kept the human skull; ***licentia lupina*** named far-field leashes, not masks.
 
 Tyvar remained behind Alaric, slightly to the right.
 

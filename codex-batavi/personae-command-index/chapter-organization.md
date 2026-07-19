@@ -62,13 +62,21 @@ Main sections use level-2 headings; subsections level-3; field labels **bold** w
 
 ### Fortress Monastery
 
-**Name:** **Castra-Lupus** (wolf-fortress); command brain **Strategium** (Adamant Throne / silent-vigil era).
+**Name:** **Castra-Lupus** (wolf-fortress precinct); command brain **Strategium** (Adamant Throne / silent-vigil era).
 
-**Type:** **Planetary fortress complex** on Noviomagus Prime integrated with void yards; **not** a fleet-based wandering monastery. Strike elements embark from system docks (*Wrath of Noviomagus*, etc.).
+**Type:** **Planetary fortress precinct** on Noviomagus Prime — **three primary buildings** (not a single fused warren); integrated with void yards; **not** a fleet-based wandering monastery. Strike elements embark from system docks (*Wrath of Noviomagus*, etc.).
 
-**Location:** Noviomagus Prime — central bastion stack; sub-fortresses and relay forts across the **Nine Phalanx** (Legatus seats, Maleventum station, Bifrons gates, etc.).
+**Location:** Noviomagus Prime — central bastion precinct; sub-fortresses and relay forts across the **Nine Phalanx** (Legatus seats, Maleventum station, Bifrons gates, etc.).
 
-**Description:** Industrial cathedral-warren: Strategium vaults, *Apothecarion* sealed wings, *Reclusiam* iron chapel, *Librarius* telemetry stacks, Martha’s kitchen as **sanctioned human anchor** (see chronicles). Unique chambers include **Hell Cells**, **Vermilion** filing, **Iron and Blood Tribunal** memorial site, Frontier Wolf plaque crypt. Chamber detail — § **Details → Chambers**.
+**Triad (locked):**
+
+| Building | Seat | Role |
+|----------|------|------|
+| **Strategium / Chapter Monastery** | Castellan | War-brain, living muster, council; *Librarius* / *Armourium* annex stacks; Martha’s kitchen as **sanctioned human anchor** |
+| **Apothecarion** | Drusus | Gene-seed, autopsy, Furor / *Vermilion* |
+| **Reclusiam** | Varro | Soul-law, Mortivigil HQ, Chapter-supreme bone vault |
+
+Unique chambers include **Hell Cells**, **Vermilion** filing, **Iron and Blood Tribunal** memorial site, Frontier Wolf plaque crypt, **Chapter-supreme bone vault**, and *Prima* capital crypt (Noviomagus — distinct from the supreme vault). Death geometry: [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md). Chamber detail — § **Details → Chambers**.
 
 ### Characteristics
 
@@ -97,7 +105,7 @@ Main sections use level-2 headings; subsections level-3; field labels **bold** w
 | **4a** | Line battle-brother | Standard grey; orange lenses |
 | **4b** | Sergeant | As line; squad geometry on relay / pauldron rim |
 | **4c** | Veteran / Siege division | Gold rim cue on pauldron; helm may carry campaign marks |
-| **4d** | Apothecary / Chaplain / specialist | *Medicinae* white-surgical (Drusus pattern); *Reclusiam* skull (Executor wolf-skull **Judex only**); *Librarius* cipher helm |
+| **4d** | Apothecary / Chaplain / specialist | *Medicinae* white-surgical (Drusus pattern); *Reclusiam*: Chaplain Executor wolf-skull (red lenses) / Varro fire-orb Judex extras + thurible pack / Mortivigil human death-skull (orange); *Librarius* cipher helm |
 | **4e** | **Legatus** (I–IX) | **Per-seat** kit (e.g. *Typus Primus* **Corvus** + crest; *Typus Quintus* **Mk V** + wolf/pelt; *Typus Sextus* **Tartaros TDA** + ornate halo). **Default crest:** crimson / white transverse. **Chest aquila**. Orange lenses. Reference: ***Typus Primus — Ardens*** — [legati-operational-register.md](../arsenal-and-logistics/legati-operational-register.md) § Legatus armor |
 
 **Shoulder insignia:** **Left:** **White** frontal-wolf on **crimson** field (or transfer). **Right:** Cohort color (Silence ivory, Shadows black, Stasis gunmetal, Nullity cobalt) + pure-line division rim (black / silver / gold). **Vexillatio** identity on ***Alabarda*** four-field panel (Roman **I–IX**), not a second shoulder chapter icon.
@@ -194,7 +202,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Perception of the Emperor:** **Father-Emperor** and ultimate duty anchor — not Chapter-hyped god-king cult. *Faith Protocol* accepts Imperial cult language; inner register stays **compliance**.
 
-**Views on death:** Marine death = **fulfilled friction** if gene-seed recovered; dishonor = discipline failure or uncontrolled **Versibar**. Mortal death = statistic unless witness debt imprints (Frontier Wolf plaques). Fallen brothers: crypts, [frontier-wolf-rite.md](doctrine-and-organs/frontier-wolf-rite.md), name chain on Castellan reliquary.
+**Views on death:** Marine death = **fulfilled friction** if gene-seed recovered; dishonor = discipline failure or uncontrolled **Versibar**. Mortal death = statistic unless witness debt imprints (Frontier Wolf plaques). Fallen brothers: funeral pyre → Wall-name (where he held) → bones to home crypt — [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md); Frontier Wolf plaques [frontier-wolf-rite.md](doctrine-and-organs/frontier-wolf-rite.md). **Greatest offenses:** **treason** and **desecration of Batavi dead** (other dead are respected, not sacred).
 
 **Adherence to Codex Astartes:** **Non-compliant / divergent by promulgated policy.** Strength cap (**5,000**), **Vexillatio** grid, cohort structure, **Legatus** authority, ***Alabarda*** runtime law. Retains compatible elements: squad scale, specialist orders, Primaris equipment classes.
 
@@ -262,7 +270,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Techmarine —** **4** per Vexillatio; Noviomagus rotation. Chief: **Kadmos**.
 
-**Chaplain —** **Adjutant Chaplains** + **Confessor Vexilli**; **Varro** Judex. Executor wolf-skull **exclusive** to Varro unless ***licentia lupina***.
+**Chaplain —** **Mortivigils** (human death-skull, orange lenses) → **Chaplains** (shared Executor wolf-skull, red lenses) + **Confessor Vexilli**; **Varro** Judex + Master of the Judiciars. ***Licentia lupina*** = *Amissi* / Steppenwolf far-field leash — [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md).
 
 **Apothecary —** **4** + **Genetor Vexilli** per vex; Chief **Drusus**. Furor triage absolute.
 
@@ -390,13 +398,13 @@ Per-Vexillatio split: [military-hierarchy.md](doctrine-and-organs/military-hiera
 
 **Librarius —** Otho’s telemetry stacks; sealed prognost archives; Blindgate training.
 
-**Reclusiam —** Iron chapel; Varro’s litany vaults; Hell Cell access.
+**Reclusiam —** Separate Castra-Lupus house; Varro’s litany vaults; Hell Cell access; Mortivigil HQ; Chapter-supreme bone vault.
 
-**Armory —** Kadmos vaults; pattern armories per Vexillatio embarkation.
+**Armory —** Kadmos vaults (Monastery annex / forge stacks); pattern armories per Vexillatio embarkation.
 
-**Apothecarion —** Drusus sealed labs; gene-seed crypts; Furor monitoring.
+**Apothecarion —** Separate Castra-Lupus house; Drusus sealed labs; gene-seed crypts; Furor monitoring.
 
-**Crypts —** Fallen brother ossuaries; Frontier Wolf plaque chain; reliquary for Viggo-era talismans.
+**Crypts —** **Nine Legatus capital crypts** + **Chapter-supreme vault** (Castra-Lupus *Reclusiam*) for Triumvirate / heroes / *Amissi* / Grey Hounds–era orphans; *Prima* capital crypt also on Noviomagus (distinct). **Wall-names** fuse where the brother died defending — not only Noviomagus. Pipeline: [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md) §VI–§VII. Frontier Wolf plaque chain; Viggo-era talismans.
 
 ### Political power
 
@@ -428,19 +436,21 @@ Per-Vexillatio split: [military-hierarchy.md](doctrine-and-organs/military-hiera
 
 ## Reclusiam
 
-**Master of Sanctity:** **Varro** (Master Chaplain / Judex) — appoints chaplains; [dossier-varro.md](character-dossiers/triumvirate/dossier-varro.md).
+**Master of Sanctity:** **Varro** (Master Chaplain / Judex; **Master of the Judiciars**) — appoints Mortivigils and Chaplains; [dossier-varro.md](character-dossiers/triumvirate/dossier-varro.md).
 
 **Prayers:** *The Emperor dictates, we comply.* *We hold.* Litanies in [friction-rites.md](doctrine-and-organs/friction-rites.md).
 
-**Rituals:** Friction rites; Frontier Wolf funeral; *Iron and Blood Tribunal* witness; Hell Cell; induction under *Axiom*.
+**Rituals:** Friction rites; Frontier Wolf funeral; funeral pyre; Mortivigil Wall-fusion / bone repatriation; *Iron and Blood Tribunal* witness; Hell Cell; induction under *Axiom*.
 
 **Oaths:** Mission oaths as **geometry contracts** — hold duration, gene-seed recovery, silence under vox.
 
-**Penitence:** *Axiom* breach; wargear disrespect; uncontrolled Furor; **Hell Cell** vertical stripe record.
+**Penitence:** *Axiom* breach; wargear disrespect; uncontrolled Furor; **Hell Cell** vertical stripe record. Capital spiritual crimes include **treason** and **desecration of Batavi dead**.
 
 **Holy Relics:** Viggo talismans (regulated); Castellan reliquary; tribunal helm witness pieces.
 
-**Other:** *anima speculum* soul-read — Varro exclusive high-risk tool.
+**Helm / rank / death law:** [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md).
+
+**Other:** *anima speculum* soul-read — Varro exclusive high-risk tool. Castra-Lupus **Reclusiam** house = Mortivigil HQ + Chapter-supreme vault.
 
 ---
 

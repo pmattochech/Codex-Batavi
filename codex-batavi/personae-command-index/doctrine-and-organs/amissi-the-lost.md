@@ -38,7 +38,7 @@ Admission is **rare** and **Vermilion**:
 | **Legatus** | **No** standing ownership of *Amissi* roster |
 | **Drusus** | *Medicinae* — sheath maintenance, nail/cable trim, ***Spina Cineris*** protocol, instability charts |
 
-**Chaplain function:** Varro (or *Reclusiam* delegate under written ***licentia amissorum***) is the **loyalty engine** — brothers hear orders as **sentence**, not suggestion. Without Chaplain presence on mission slate, *Amissi* **do not** deploy.
+**Chaplain function:** Varro (or *Reclusiam* Chaplain under written ***licentia lupina***) is the **loyalty engine** — brothers hear orders as **sentence**, not suggestion. Without Chaplain presence on mission slate, *Amissi* **do not** deploy. ***Licentia lupina*** also covers **Steppenwolf** far-field leash (one seal, both pools); best licensed Chaplains are chained toward *Amissi*. **Mortivigils never** hold the license. See [mortivigil-and-reclusiam-helm-law.md](mortivigil-and-reclusiam-helm-law.md) §IV.
 
 ### IIIb. Standing escort — Einar Dreadwolf (Varro decree)
 
@@ -69,10 +69,10 @@ Other *Amissi* brothers: escort is **case-by-case** *Quinta* or *Reclusiam* dele
 | **Limbs (paint)** | **Both arms** (full vambrace + gauntlet) and **both legs below the knee** (lower greave panels) — **Mephiston Red** (*Amissi* extension of Exanimus “red hands” mark) |
 | **Pauldrons** | **Both black** — **left:** Chapter frontal-wolf roundel in **red**; **right:** **wolf skull** charge in **red** (watch file — **not** *Codex* Chaplain Executor skull) |
 | **Body** | Mechanicus Standard Grey elsewhere; standard Batavi trim |
-| **Hands** | **Thunder-claws** — Noviomagus compact lightning claws (see §V); **gaine digitale** sheaths — keratin **not** trimmed while rig worn *(Einar Dreadwolf exception: retains **Dreadwolf Claws**; see §VII)* |
+| **Hands** | **Thunder-claws** — Noviomagus compact lightning claws (see §V); **gaine digitale** sheaths — keratin **not** trimmed while rig worn *(Einar Dreadwolf exception: **Wolf Talons**; see §VII)* |
 | **Boots** | **Traction claws** — three short adamantium claws per boot (Castellan / **Pillars of Noviomagus** doctrine; Night Lords–adjacent **silhouette only**, Batavi industrial execution) |
 
-**074 theater exception:** Moraine-Nine epicenter remains **Dreadwolf Claws** (tainted ship-origin lightning claws) / crisis kit in chronicle record — not this refit.
+**074 theater exception:** Moraine-Nine epicenter remains ship-origin lightning claws (later purified as **Wolf Talons**) / crisis kit in chronicle record — not this refit. **Einar** post-refit kit diverges from the table above on helm, paint, pauldrons, hands, and jump pack — see §VII.
 
 ---
 
@@ -86,7 +86,7 @@ Other *Amissi* brothers: escort is **case-by-case** *Quinta* or *Reclusiam* dele
 2. **Free digits** — palm and fingers **articulated**; no power-fist bucket.  
 3. **Gaine digitale** — elongated fingertip **sheaths** (adamantium couplers); Exanimus keratin vents into channel — **trimming waived** while issued; *Medicinae* clears sheaths on schedule.
 
-**Visual reference (tooling, not canon geometry lock):** [`einar-thunder-claws-reference.md`](../../lore-images/einar-thunder-claws-reference.md) *(Einar **Dreadwolf Claws** only; standard *Amissi* geometry remains §V above)*
+**Visual reference (tooling, not canon geometry lock):** [`einar-thunder-claws-reference.md`](../../lore-images/einar-thunder-claws-reference.md) *(Einar **Wolf Talons** only; standard *Amissi* geometry remains §V above)*
 
 ---
 
@@ -103,6 +103,12 @@ Other *Amissi* brothers: escort is **case-by-case** *Quinta* or *Reclusiam* dele
 
 **168.M42 | Luna Sigma:** Subject KIA; ***Spina Cineris*** terminis; watch file closed. *Amissi* detachment continues under Varro; pool replenishment **case-by-case** only.
 
-**Hands (Einar exception):** **Dreadwolf Claws** — open-hand assault lightning claws recovered aboard **Kzorn’s Maw** during capture; later **purified and re-wrought** under **Kadmos** with *Reclusiam* oversight (Varro/clergy) into Castra Vetera interface standards. **Wolverine geometry** — knuckle-coupled blades, extend/retract, fingers free; corruption receipts denied.
+**Kit (Einar exceptions vs §IV standard):**
 
-Narrative: [dreadwolf/INDEX.md](../../chronicles/dreadwolf/INDEX.md) · [terminus/chapter.md](../../chronicles/dreadwolf/terminus/chapter.md).
+* **Chassis / mobility:** **Assault Intercessor** Mk X Tacticus + **jump pack** — primarily **speed and maneuverability**; sustained flight secondary.  
+* **Helm:** **Half-helm** — lower skull only (**nose, mouth, jaw**); mane and **Butcher’s Nails** / cable–mane **free-floating and visible** (no high cowl).  
+* **Paint:** Mechanicus Standard Grey on body, arms, and legs; **Mephiston Red** **only** on **gauntlets** (including fingers) and **boot feet**.  
+* **Pauldrons (both black):** **left** — Chapter frontal-wolf in **Mephiston Red**; **right** — *Amissi* **chained wolf skull** in **Mephiston Red**, chains **Mechanicus Standard Grey** as an **X** over the skull.  
+* **Hands — Wolf Talons:** Imperial **Angel’s Talons** pattern lightning claws (common **wrist-housing** blade layout) recovered aboard **Kzorn’s Maw** during capture; later **purified and re-wrought** under **Kadmos** with *Reclusiam* oversight (Varro/clergy) into Castra Vetera interface standards. **Batavi** industrial finish — **not** knuckle / Wolverine over-hand geometry, **not** Blood Angels / Sanguinary ornamental styling; **red** energy-field glow (not blue); corruption receipts denied.
+
+Narrative: [dreadwolf/INDEX.md](../../chronicles/dreadwolf/INDEX.md) · [terminus/chapter.md](../../chronicles/dreadwolf/terminus/chapter.md) · [dossier-einar-dreadwolf.md](../character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md).

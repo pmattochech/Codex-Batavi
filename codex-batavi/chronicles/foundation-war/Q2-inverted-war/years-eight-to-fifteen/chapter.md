@@ -69,7 +69,7 @@ He annotates vitals charts the way other men annotate kill-boxes, and when a foo
 
 Apothecarion interns learn to transcribe tremors across battle-brothers without turning transcription into prophecy — **rhyme**, Drusus permits; **oracle**, he burns — until junior medicae stop mistaking coincidence for curse and start treating coincidence as **data hygiene**.
 
-**Varro** seeds **Silence Cohort** linework across theaters until chaplaincies resemble **networks** — not parishes only, but *maps* of where the Immaterial presses, where vows must be reinforced with ash. The montage crosses **CV y13**, so what the eye learns late in the span is **Executor** geometry on the **Judex** — ***Executor* wolf-skull** once the crucible hardens the mask — while line priests keep the ***Codex* death-skull** and **only rarely**, by ***licentia lupina***, a licensed brother wears a matching cast.
+**Varro** seeds **Silence Cohort** linework across theaters until chaplaincies resemble **networks** — not parishes only, but *maps* of where the Immaterial presses, where vows must be reinforced with ash. The montage crosses **CV y13**, so what the eye learns late in the span is **Executor** geometry as **shared Chaplain death-face** — ***Executor* wolf-skull** once the crucible hardens the mask — while **Mortivigils** keep the ***Codex* death-skull**, and ***licentia lupina*** names who may leash far-field wolves without letting them grow a second name.
 
 Those optics read as less theater than **seal**; some officers call it mysticism because mysticism is easier to dismiss than infrastructure, and Varro does not correct them — he prefers enemies comfortable in their categories.
 
@@ -165,7 +165,7 @@ Book III would ask for gulfs.
 
 **Rothmar** boarded south with kill-marks still polished until an older sergeant made him wipe them — *Ash don’t care whose god is prettier* — lesson Gulf tombs would spend in ceramic law.
 
-**Varro** stood at embarkation spine with Executor jawline steady — ***licentia lupina*** rare, seal not theater — and did not speak. Speaking would have turned montage into **liturgy**.
+**Varro** stood at embarkation spine with Executor jawline steady — ***licentia lupina*** rare even then, a leash-seal not a fashion stamp — and did not speak. Speaking would have turned montage into **liturgy**.
 
 **Sera**’s color-coded fiber still ran tender spines — blue for *hold*, yellow for *maybe*, red for *do not trust your relief*.
 
