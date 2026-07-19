@@ -1,0 +1,2 @@
+# Optional — higher-quality TGA resize. Pipeline works without it (stdlib PNG decoder).
+Pillow>=10.0.0
