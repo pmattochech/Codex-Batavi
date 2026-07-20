@@ -19,4 +19,5 @@
 - [x] *Reclusiam* / Varro visual polish + Frontier Wolf ↔ death pipeline link (2026-07-16)
 - [ ] Open *Reclusiam* / crypt / Judiciar / character backlog — see [`disciplines-and-curia-vexilli-plan.md`](disciplines-and-curia-vexilli-plan.md) §9
 - [x] *Hymn of the Lost* author mood lock — [`HYMN-OF-THE-LOST-MOOD-LOCK.md`](HYMN-OF-THE-LOST-MOOD-LOCK.md) §1
-- [ ] Culture-doc mood note + pre-reconquest mortal chronicle — same file §2–§3
+- [x] Noviomagus population ethnography ratified — [`../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../atlas-and-topography/cultures/ethnography-noviomagus-prime.md)
+- [ ] Culture-doc mood note + pre-reconquest mortal chronicle — [`HYMN-OF-THE-LOST-MOOD-LOCK.md`](HYMN-OF-THE-LOST-MOOD-LOCK.md) §2–§3
