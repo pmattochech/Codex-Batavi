@@ -26,6 +26,10 @@
 
 * **Black Rain** + **elevator rights** as primary day-to-day class police (§6)
 
+**Locks added 2026-07-20 (institutions pass):**
+
+* Institutional slices (§7) — forge-priests / Ministorum / Administratum / Guard billets **inside** the three classes (not new classes)
+
 ---
 
 ## 0. Author mood premises (music → mesh)
@@ -233,21 +237,86 @@ The sharpest borders are **intersections**:
 
 ---
 
-## 7. Open / next (do not invent here without a pass)
+## 7. Institutional slices (inside the three classes)
 
-* Institutional slices inside the three classes (forge-priests, Ministorum clergy, Administratum, Guard billets) — optional, not new classes
-* Bleed into / from **I *Prima*** Vexilla culture — **later file**, after this population draft closes
-* Promote into `atlas-and-topography/cultures/ethnography-noviomagus-prime.md` when ratified
-* Sibling worlds after Noviomagus closes
+These are **jobs / robes**, not a fourth class. The same priest or clerk still sits in Rabble, Common, or Upper by filter, plaque, and elevator key. Institution only changes **which holy object they swear by** and **who they answer to when the rain rises**.
+
+### 7.1 Forge-priests (Mechanicus-adjacent / forge blessing)
+
+**Who:** Torque-blessers, machine-cant readers, die-wardens, reclaim-bay tech-adepts who still count as *people* in district speech (full Magos politics deferred).
+
+| Class | How they sit | Sound |
+|-------|--------------|-------|
+| **Rabble** | Gutter tech who can coax a pump; half-trained, oil-stained, paid in filter-hours | “Spirit’s angry. Hit it twice.” |
+| **Common** | Shift forge-priest at the stamp booth’s neighbor — blesses torque, logs scrap sin | Seal + wrench; faith of work in red robes |
+| **Upper** | House / stack Magos-liaison; owns clean data and clean oil | Speaks High Gothic to guests, forge cant to the floor |
+
+**Friction:** Prefer the **stamp** over the chapel. Soft contempt for Ministorum who cannot read a yield slate. Shared Sweat with Guard when the Wall needs shells — not friendship, supply theology.
+
+### 7.2 Ministorum clergy
+
+**Who:** Chapel priests, street confessors, chapter-house preachers, itinerant firebrands.
+
+| Class | How they sit | Sound |
+|-------|--------------|-------|
+| **Rabble** | Rain-side confessors, shrine niches in reclaim tunnels; often hungry, sometimes useful | Short absolution, long suspicion of “pretty sermons” |
+| **Common** | District chapel — baptisms, death stamps, feast days under canopy | Must compete with seal-booth holiness; best ones learn forge cant |
+| **Upper** | Chapter-house patrons’ priests; lintel saints; *face-hold* theater | Loud devotion that fails audit = upper taboo (§4.3) |
+
+**Friction:** Chronic accent problem — Throne-as-God speech on a world that pays the Emperor in **labor**. Post-Batavi, quiet priests who **share sweat** rise; empty thunder falls. They do **not** get to redefine class borders — rain and elevators still win.
+
+### 7.3 Administratum clerks
+
+**Who:** Tally-scribes, plaque issuers, elevator-window schedulers, tithe auditors, guest-ink writers.
+
+| Class | How they sit | Sound |
+|-------|--------------|-------|
+| **Rabble** | Almost none with real stamps; forgers and “almost-clerks” who sell fake windows | Dangerous; beatings when caught |
+| **Common** | The spine — plaque booth, shift bell ledger, rain-schedule posts | *seal-clean* is their native tongue |
+| **Upper** | Liaison blood, audit chiefs, house registry keepers | Paper as Wall; fear of Terra’s forgetting shows as over-filing |
+
+**Friction:** Hold **elevator rights** in practice more than any sermon. Mercy = guest ink; cruelty = storm-lock priority lists. Solis lower-upper lives or dies by which clerks return their calls.
+
+### 7.4 Guard billets (Astra Militarum / PDF / Shared Sweat line)
+
+**Who:** Planetary defense, tithe Guard drafts, mustered district militia under Imperial officers; not Batavi (Vexilla deferred).
+
+| Class | How they sit | Sound |
+|-------|--------------|-------|
+| **Rabble** | Levy fodder, tunnel clearers, rain-side pickets | Die wet; earn filter-hours if they come back |
+| **Common** | Career PDF / shift-militia with plaque and canopy barracks | Shared Sweat pride — “we dig with the Wall when it comes” |
+| **Upper** | Officer houses, commission buyers, Solis-band staff officers who can enter Chapter-civil rooms | Soft power via muster lists; envy Batavi silence |
+
+**Friction:** Closest mortal institution to Batavi **Shared Sweat** without being Chapter culture. Flatten rain class briefly in crisis; restore hierarchy after. Ork hate is their daily sermon; xenos “specialists” stay alien even when useful to a Rogue Trader elsewhere.
+
+### 7.5 Cross-cut (quick fiction use)
+
+| Need a scene of… | Reach for… |
+|------------------|------------|
+| Holiness with a receipt | Common forge-priest + stamp booth |
+| Sermon that sounds wrong | Upper Ministorum failing *face-hold* / audit |
+| Class border enforced | Administratum plaque / elevator window |
+| Hymn mood without chapel | Guard picket in Black Rain — duty without audience |
+| Solis bridge | Lower-upper house + Administratum guest ink + quiet priest who knows when to shut up |
 
 ---
 
-## 8. Ratification checklist
+## 8. Open / next (do not invent here without a pass)
+
+* Bleed into / from **I *Prima*** Vexilla culture — **later file**, after this population draft closes
+* Promote into `atlas-and-topography/cultures/ethnography-noviomagus-prime.md` when ratified
+* Sibling worlds after Noviomagus closes
+* Optional: local hate-rank vs xenos (mesh talk; not required to close Noviomagus)
+
+---
+
+## 9. Ratification checklist
 
 - [ ] Class labels accepted (Rabble / Common / Upper) or renamed
 - [x] **Solis family** = lower upper class
 - [x] Class **shards** drafted (§4)
 - [x] **Black Rain** + **elevator rights** as class police (§6)
+- [x] Institutional slices drafted (§7)
 - [ ] Mood × class tables accepted or trimmed
 - [ ] Atlas fork § Noviomagus still matches (no silent contradiction)
 - [ ] No accidental in-universe hymn claim
