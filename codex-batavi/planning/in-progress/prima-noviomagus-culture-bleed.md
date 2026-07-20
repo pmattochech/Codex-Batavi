@@ -1,131 +1,118 @@
 # \[WIKI\] I *Prima* ↔ Noviomagus — culture bleed
 
-**Status:** **IN PROGRESS** — wiki register for two-way cultural bleed. Not a replacement for mortal ethnography or full Vexilla doctrine.  
-**Opened:** 2026-07-20.  
-**Theater:** **Noviomagus Prime** · **Vexillatio I (*Prima*)** seat · **Castra-Lupus** precinct.
+**Status:** **IN PROGRESS** (tightened 2026-07-20) — two-way bleed register. Does **not** replace [`ethnography-noviomagus-prime.md`](../../atlas-and-topography/cultures/ethnography-noviomagus-prime.md) or full Vexilla doctrine.  
+**Theater:** **Noviomagus Prime** · **Vexillatio I (*Prima*)** · **Castra-Lupus**.
 
-**Primary sources:**
-
-* Mortals: [`ethnography-noviomagus-prime.md`](../../atlas-and-topography/cultures/ethnography-noviomagus-prime.md) · archive [`noviomagus-population-culture.md`](noviomagus-population-culture.md)
-* Vexilla / seat: [`dossier-corbec-ardens.md`](../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md) · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md)
-* Death / precinct geometry: [`mortivigil-and-reclusiam-helm-law.md`](../../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md)
+**Sources:** ethnography · [`dossier-corbec-ardens.md`](../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md) · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §2.2 · [`mortivigil-and-reclusiam-helm-law.md`](../../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md)
 
 ---
 
-## 1. Purpose
-
-Document how **Noviomagus populi** and **I *Prima*** (Batavi line culture on the capital seat) **influence each other** without collapsing into one culture.
+## 1. Ownership
 
 | Layer | Owns | Does not own |
 |-------|------|--------------|
-| **Populi ethnography** | Class, faith-of-work, rain/elevators, civic institutions | *Axiom*, Furor law, Legatus shame lattice |
-| **I *Prima*** | Calibration war-culture, ammo economy, obligation vexillum, garrison continuity | Stamp-booth holiness, filter-hour debt, civilian elevator windows |
-| **This bleed file** | Shared habits, contact surfaces, mutual misreads | New gene-seed or Founding claims |
+| **Populi ethnography** | Class, faith-of-work, rain/elevators, civic robes | *Axiom*, Furor law, Legatus shame lattice |
+| **I *Prima*** | Calibration war-culture, ammo economy, obligation vexillum, garrison continuity | Stamp-booth holiness, filter-hours, civilian elevator windows |
+| **This file** | Shared habits, contact surfaces, mutual misreads | Gene-seed / Founding claims |
 
 ---
 
 ## 2. Hard edges (do not merge)
 
-Kept separate on purpose:
-
-1. **Faith:** Populi remain **Ecclesiarchy-baptized** with **throughput theology**. *Prima* / Chapter honor **Ancestor-Sovereign / Throne-weight** — not God-Emperor worship. Shared vocabulary (“seal,” “hold,” “duty”) ≠ shared creed.
-2. **Class police:** **Black Rain** and **elevator rights** sort mortals. Chapter precincts use a **parallel vertical** (special keys). A brother is not “upper class”; a magnate is not “Legatus-adjacent” by money alone.
-3. **Shame vs scrap-sin:** *Prima*’s **obligation field** (Valerian / Malakor debt the lattice carries) is **not** mortal *unlogged scrap*. Mortals may gossip “the Wall remembers a stain”; they do not carry *Alabarda* fourth-field law.
-4. **Solis bridge ≠ *Prima* billet:** Solis = **lower upper** mortal soft power (kitchen / Shared Sweat / guest ink). Not a Vexilla rank and not Chapter kinship.
-5. **Xenos:** Populi habitual hate (Orks, etc.) and Guard Shared Sweat ≠ Chapter threat geometry. *Prima* does not “baptize” Eldar retainers into civic welcome.
+1. **Faith:** Populi = Ecclesiarchy + throughput theology. *Prima* = Ancestor-Sovereign / Throne-weight. Shared words (“seal,” “hold,” “duty”) ≠ shared creed.  
+2. **Verticals:** Mortals sorted by **Black Rain** + **elevator rights**. Chapter = **parallel keys**. Brothers ≠ upper class; magnates ≠ Legatus by money.  
+3. **Shame ≠ scrap:** *Prima* **obligation field** (Valerian / Malakor debt the lattice carries) ≠ mortal *unlogged scrap*.  
+4. **Solis ≠ billet:** Solis = **lower upper** soft power (kitchen / Shared Sweat / guest ink) — not Vexilla rank.  
+5. **Xenos:** Civic Ork-hate / Guard sweat ≠ Chapter threat geometry; no civic “welcome” for Eldar retainers.
 
 ---
 
-## 3. Side-by-side register
+## 3. Side-by-side
 
-### 3.1 What each side sees
-
-| Topic | **Populi eyes** | **I *Prima* eyes** |
-|-------|-----------------|-------------------|
-| The Wall | Necessary shadow; Shared Sweat when the ditch fills; envy of silence (upper) / dark pride (rabble) | Stewardship index — forge queues, billet truth, calibration for other Vexillationes |
-| Holiness | Stamp booth, plaque, rain schedule | *Axiom*, Analytical Silence, gear-prayer as **friction habit** imported from mortal docks |
-| Failure | Unlogged scrap, missed shift, open-rain dead | Precedent gaps, throughput certainty overplayed, obligation debt on the standard |
-| Castra-Lupus | Parallel elevator / forbidden galleries / “don’t ask the wolf’s floor” | Triad precinct (Strategium / Apothecarion / Reclusiam); living muster + soul/gene law |
-| Corbec / Legatus | Forge governor who makes ammo clocks real; not a feast king | **Warden Gauge** — live-fire tallies over rank shout; seat Valerius stained, continuity under humiliation |
-| Martha’s kitchen / Solis | Lower-upper *face-hold*; human rooms that still smell like work | Sanctioned human anchor (Chapter side) — populi Solis band is the **civil** mirror, not the same institution |
-
-### 3.2 Shared contact surfaces (bleed zone)
-
-| Surface | Populi → *Prima* | *Prima* → populi |
-|---------|------------------|------------------|
-| **Gear prayer** | Common shift rite (three knuckle taps) | Borrowed into Batavi friction / duty-belt habit |
-| **Shared Sweat** | Guard/PDF + forge crews dig with the Wall in crisis; class briefly flattens | Doctrine of plans **alongside** Guard commanders; respect chain of command; then hierarchy returns |
-| **Ammo / yield clocks** | Stamp booth and tithe seal as prayer | *Prima* **industrial war** culture — bolters, sustained automatic, line-replacement tempo under Corbec |
-| **Rain / storm lock** | Mortals learn stratum in the wait | Brothers treat weather as logistics; do not “solve” class by charity theater |
-| **Guest ink / bridge passes** | Solis lower-upper walks Chapter-civil rooms | *Prima* billet fiction and Watch liaison paperwork touch the same civil stack — cold professionalism |
-| **Death geography** | Wall-names, district pyres, *Prima* **capital crypt** (home vex) | Distinct **Chapter-supreme vault** (Reclusiam) — mortals must not confuse the two; name-index can audit Wall-fusions |
+| Topic | Populi | I *Prima* |
+|-------|--------|-----------|
+| Wall | Necessary shadow; Shared Sweat in the ditch; envy / dark pride by class | Stewardship index — queues, billets, calibration for other Vexillationes |
+| Holy | Stamp booth, plaque, rain schedule | *Axiom*, Analytical Silence; gear-prayer as borrowed friction habit |
+| Failure | Unlogged scrap, missed shift, open-rain dead | Precedent gaps; over-certain throughput; obligation on the *Alabarda* |
+| Castra-Lupus | “Wolf’s floor” — forbidden galleries | Triad: Strategium / Apothecarion / Reclusiam |
+| Corbec | Forge governor; ammo clocks; not feast king | **Warden Gauge** — tallies over shout; continuity under humiliation |
+| Solis / kitchen | Lower-upper *face-hold*; civil bridge | Martha’s kitchen = Chapter soft door; Solis band = **civil mirror**, not the same institution |
 
 ---
 
-## 4. Directional bleed (wiki bullets)
+## 4. Bleed zone (both ways)
 
-### 4.1 Populi → I *Prima*
+| Surface | → *Prima* | → populi |
+|---------|-----------|----------|
+| **Gear prayer** | Common shift rite | Into Batavi duty-belt friction |
+| **Shared Sweat** | Guard/PDF + forge dig with Wall; class briefly flattens | Plans alongside Guard; hierarchy returns after |
+| **Ammo / yield** | Seal as prayer | Industrial war tempo under Corbec |
+| **Storm lock** | Stratum learned in the wait | Weather = logistics; no charity theater |
+| **Guest ink** | Solis into Chapter-civil rooms | *Prima* / Watch paperwork on same civil stack — cold |
+| **Death map** | Wall-names; *Prima* **capital crypt** | Separate **Chapter-supreme vault**; do not confuse |
 
-* **Forge cant** and **throughput theology** taught the Chapter that speech is cheap; receipts matter — feeds *Analytical Silence* and live-fire tallies.
-* **Gear prayer** migrated from dockers/shift hands into Astartes friction culture (atlas shard already notes the borrow).
-* **Urban *limitanei* self-image** (we built the wall) rhymes with Chapter **wall instrument** identity — rhyme, not identity theft.
-* **Exhausted loyalty** (Hymn mood, author-side) is the civilian weather *Prima* garrisons walk through; Corbec’s Silent Vigil virtue (**continuity under humiliation**) answers that weather without preaching.
+**Populi → *Prima* (short):** forge cant / receipts → silence + tallies; gear prayer migrate; *limitanei* “we built the wall” **rhymes** with wall-instrument (rhyme only); exhausted loyalty is the weather Corbec’s continuity answers.
 
-### 4.2 I *Prima* → populi
-
-* **Shared Sweat** becomes civic pride language for common Guard/PDF (“we dig with the Wall”).
-* **Quiet priests** who share sweat rise; empty Ministorum thunder falls — Chapter silence as *recognition*, not conversion.
-* **Calibration seat** pressure: Noviomagus feels *Prima* as the forge that other wars are measured against — ammo queues, not parade.
-* **Obligation gossip:** after Valerian stain, mortals learn a thin story (“the first seat broke; the Wall still holds”) without receiving sealed *Lupercal* doctrine.
-* **Parallel keys:** Chapter floors teach lower-upper houses (Solis band) how to *face-hold* around wolves without claiming wolf rank.
+***Prima* → populi (short):** Shared Sweat as civic pride; quiet priests rise, empty thunder falls; calibration seat = ammo queues not parade; thin Valerian gossip without sealed doctrine; parallel keys teach Solis *face-hold* without wolf rank.
 
 ---
 
-## 5. Class × *Prima* contact (quick table)
+## 5. Class contact
 
-| Class | Typical *Prima* contact | Misread risk |
-|-------|-------------------------|--------------|
-| **Rabble** | Rain pickets, reclaim near Wall musters, wet shafts | Thinks brothers are “upper”; brothers think rabble are logistics weather |
-| **Common** | Shared Sweat, stamp/forge supply, gear prayer | Thinks Shared Sweat = kinship; *Prima* means geometry + payroll |
-| **Upper (peak)** | Tithe/audit rooms, patronage of chapels | Wants ownership of the shadow; *Prima* refuses feudal kingship |
-| **Lower upper / Solis** | Bridge passes, kitchen continuity, civil–Chapter rooms | Soft power mistaken for Chapter affection; keep **protector / duty** framing on Astartes side |
+| Class | Contact | Misread |
+|-------|---------|---------|
+| **Rabble** | Rain pickets, wet shafts | Brothers = “upper” / rabble = weather |
+| **Common** | Shared Sweat, stamp supply | Sweat = kinship (it isn’t) |
+| **Upper (peak)** | Tithe / chapel patronage | Want to own the shadow |
+| **Solis / lower upper** | Bridge passes, kitchen | Soft power ≠ Chapter affection |
 
 ---
 
 ## 6. Institutions at the seam
 
-| Institution | Bleed note |
-|-------------|------------|
-| **Forge-priests** | Supply theology meets *Prima* ammo clocks — easiest mortal–Astartes handshake |
-| **Ministorum** | Accent conflict; *Prima* silence undercuts God-Emperor ecstasy without rewriting baptism records |
-| **Administratum** | Elevator windows + guest ink vs Chapter special keys — two verticals, one planet |
-| **Guard / PDF** | Primary Shared Sweat partner; closest to *Prima* without being Vexilla |
-| **Castra-Lupus triad** | Populi outside; *Prima* inside — Martha’s kitchen is the sanctioned soft door, not a public forum |
+| Institution | Note |
+|-------------|------|
+| **Forge-priests** | Easiest handshake — supply theology ↔ ammo clocks |
+| **Ministorum** | Accent conflict; silence undercuts ecstasy, not baptism records |
+| **Administratum** | Civic elevators vs Chapter keys — two verticals |
+| **Guard / PDF** | Primary Shared Sweat partner |
+| **Castra-Lupus** | Populi outside; *Prima* inside; kitchen = soft door, not forum |
 
 ---
 
-## 7. Fiction tells (wiki use)
+## 7. Fiction tells
 
-* A mortal’s first *Prima* signal: **who sweats beside them** without a sermon.  
-* A brother’s first populi signal: **filter → plaque → which car**, then whether the stamp booth or the chapel gets the line.  
-* Wrong scene: Chapter Master as hive king; Solis as *Prima* officer; obligation field as “unlogged scrap.”  
-* Right scene: storm lock — mortals queue by stratum; *Prima* moves on priority geometry; Shared Sweat only when the ditch is one ditch.
-
----
-
-## 8. Open / next
-
-- [ ] Named **district** examples where *Prima* billet and Solis bridge overlap  
-- [ ] One **Valerian-aftermath** mortal rumor vs sealed *Strategium* line (side-by-side, no leak)  
-- [ ] Promote to atlas/personae wiki home when ratified (path TBD)  
-- [ ] Keep ethnography §7 deferred pointer updated to this file  
+* Mortal → *Prima* signal: **who sweats beside them** without a sermon.  
+* Brother → populi signal: **filter → plaque → car**, then stamp booth vs chapel.  
+* **Wrong:** hive-king Castellan; Solis as *Prima* officer; obligation = unlogged scrap.  
+* **Right:** storm lock — mortals queue by stratum; *Prima* on priority geometry; Shared Sweat only when the ditch is one.
 
 ---
 
-## 9. Cross-links
+## 8. Locked examples (tightened from open list)
 
-* Ethnography: [`ethnography-noviomagus-prime.md`](../../atlas-and-topography/cultures/ethnography-noviomagus-prime.md)  
-* Legatus: [`dossier-corbec-ardens.md`](../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md)  
-* Organization / Castra-Lupus: [`chapter-organization.md`](../../personae-command-index/chapter-organization.md)  
-* Vexillum obligation: [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §2.2  
-* Crypt split: [`mortivigil-and-reclusiam-helm-law.md`](../../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md)
+### 8.1 District overlap — *Third Shift Concord* / forge-lip billet
+
+**Draft lock:** *Prima* line-replacement and ammo acceptance trials press the **Third Shift Concord** middle-stack band (ethnography common class). Solis **bridge passes** open Chapter-civil rooms on the **Castra-Lupus outer galleries**, not Strategium floors. Overlap zone = stamp booths + PDF canopy barracks within one rain-schedule district of the forge lip — Shared Sweat musters here; peak magnate cars do not.
+
+### 8.2 Valerian aftermath — rumor vs seal
+
+| Populi rumor (thin, allowed) | *Strategium* seal (not for street) |
+|------------------------------|-------------------------------------|
+| “The first seat broke. The Wall still holds.” | Valerius expunged; *Lupercal* claim; Malakor geometry; *Alabarda* fourth field = **debt the lattice carries**, not successor guilt ([vexilla §2.2](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md)) |
+| “Corbec keeps the clocks honest.” | Witness / containment register; no traitor name in orders — “First Legatus error” only when audit forces it |
+
+No sealed names, no Versibar catechism, no *Lupercal* in mortal mouths.
+
+---
+
+## 9. Still open
+
+- [ ] Ratify → promote path (atlas annex vs personae wiki home)  
+- [ ] Optional second district (rabble wet-shaft muster) if a chronicle needs it  
+
+---
+
+## 10. Cross-links
+
+[`ethnography-noviomagus-prime.md`](../../atlas-and-topography/cultures/ethnography-noviomagus-prime.md) · [`dossier-corbec-ardens.md`](../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md) · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · [`mortivigil-and-reclusiam-helm-law.md`](../../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md)
