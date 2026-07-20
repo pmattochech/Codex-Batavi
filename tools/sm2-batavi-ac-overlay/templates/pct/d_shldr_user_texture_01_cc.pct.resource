@@ -2,7 +2,7 @@ __type: res_desc_pct
 downsampled: true
 header:
   faceSize: 1398096
-  format: 51
+  format: 52
   mipLevel:
   - offset: 0
     size: 1048576

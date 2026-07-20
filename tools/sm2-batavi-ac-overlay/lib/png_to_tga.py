@@ -150,18 +150,55 @@ def decode_png_rgba(path: Path) -> tuple[int, int, bytes]:
     return width, height, bytes(rgba)
 
 
-def load_bgra(src: Path, size: int) -> bytes:
+def load_rgba(src: Path, size: int) -> bytes:
     try:
         from PIL import Image  # type: ignore
 
         im = Image.open(src).convert("RGBA")
         if im.size != (size, size):
             im = im.resize((size, size), Image.Resampling.LANCZOS)
-        r, g, b, a = im.split()
-        return Image.merge("RGBA", (b, g, r, a)).tobytes()
+        return im.tobytes()
     except ImportError:
         w, h, rgba = decode_png_rgba(src)
-        return rgba_to_bgra(nearest_resize_rgba(rgba, w, h, size))
+        return nearest_resize_rgba(rgba, w, h, size)
+
+
+def load_bgra(src: Path, size: int) -> bytes:
+    return rgba_to_bgra(load_rgba(src, size))
+
+
+def rgba_to_user_albedo_bgra(rgba: bytes) -> bytes:
+    """Blank-slot albedo like Blood Revenants Chapter Markings.
+
+    - Emblem: mid-gray RGB (~130) with source alpha
+    - Background / cutouts: true transparent (0,0,0,0) — NOT (255,255,255,0)
+    """
+    out = bytearray(len(rgba))
+    for i in range(0, len(rgba), 4):
+        r, g, b, a = rgba[i], rgba[i + 1], rgba[i + 2], rgba[i + 3]
+        if a > 128 and (r + g + b) > 120:
+            out[i : i + 4] = bytes((130, 130, 130, 255))  # BGRA gray
+        else:
+            out[i : i + 4] = bytes((0, 0, 0, 0))
+    return bytes(out)
+
+
+def rgba_to_cc_mask_bgra(rgba: bytes) -> bytes:
+    """Blank-slot _cc like Blood Revenants (NOT Adjudicators opaque black).
+
+    Same alpha silhouette as albedo; R/G/B = primary/secondary/tertiary.
+    Transparent background (0,0,0,0). Bright emblem -> primary (R) + secondary (G)
+    so default AC colors (black primary / white secondary) still read.
+    """
+    out = bytearray(len(rgba))
+    for i in range(0, len(rgba), 4):
+        r, g, b, a = rgba[i], rgba[i + 1], rgba[i + 2], rgba[i + 3]
+        if a > 128 and (r + g + b) > 120:
+            # BGRA: R=primary, G=secondary
+            out[i : i + 4] = bytes((0, 255, 255, 255))
+        else:
+            out[i : i + 4] = bytes((0, 0, 0, 0))
+    return bytes(out)
 
 
 def main() -> int:
@@ -169,14 +206,33 @@ def main() -> int:
     ap.add_argument("png", type=Path)
     ap.add_argument("out_tga", type=Path, nargs="+")
     ap.add_argument("--size", type=int, default=1024)
+    ap.add_argument(
+        "--cc-mask",
+        action="store_true",
+        help="write blank-slot *_cc tint masks (Blood Revenants style)",
+    )
+    ap.add_argument(
+        "--user-albedo",
+        action="store_true",
+        help="write blank-slot albedo (gray emblem, true transparent bg)",
+    )
     args = ap.parse_args()
     if not args.png.is_file():
         print(f"error: missing {args.png}", file=sys.stderr)
         return 1
-    bgra = load_bgra(args.png, args.size)
+    rgba = load_rgba(args.png, args.size)
+    if args.cc_mask:
+        bgra = rgba_to_cc_mask_bgra(rgba)
+        tag = " [cc-mask]"
+    elif args.user_albedo:
+        bgra = rgba_to_user_albedo_bgra(rgba)
+        tag = " [user-albedo]"
+    else:
+        bgra = rgba_to_bgra(rgba)
+        tag = ""
     for out in args.out_tga:
         write_tga(out, bgra, args.size, args.size)
-        print(f"wrote {out}")
+        print(f"wrote {out}{tag}")
     return 0
 
 

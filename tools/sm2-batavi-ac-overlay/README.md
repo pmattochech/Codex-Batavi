@@ -33,9 +33,12 @@ Manual split (optional): `./run prepare-tga` then TexMipper by hand — see [`TE
 
 ## In-game
 
-Armouring Hall → left/right pauldron decal → **SH User 01**.
+Armouring Hall → left/right pauldron decal → **Custom Pauldron Marking 01 (Self Supplied)**.
 
-Default AC coloring may tint the art. If the wolf looks crushed, set decal primary toward **White_Scar** (and keep secondary/tertiary transparent) so the painted seal reads.
+Textures follow **Blood Revenants Chapter Markings** (Nexus mod that fills AC blank slots):
+- albedo = mid-gray emblem + true `(0,0,0,0)` transparency (not white-with-alpha-0)
+- `*_cc` = R/G/B tint channels with the **same alpha** (format 52), not opaque black
+- pack is textures (+ optional late `zz_…` materials for AO stacks)
 
 ## Files written by prepare-tga
 
