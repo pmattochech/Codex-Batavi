@@ -21,6 +21,8 @@
 
 **Deep ethnography (mortals):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md)
 
+---
+
 ## Castra-Vetera Prime (The Administrative Throne)
 
 **Scale & role:** Ecumenopolis **bureaucracy brain** — judgment, tithe, noble houses, **perpetual autumn** climate control.
