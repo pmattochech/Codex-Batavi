@@ -2,7 +2,7 @@
 
 **Status:** **Ratified** 2026-07-20 — promoted from [`../../planning/in-progress/noviomagus-population-culture.md`](../../planning/in-progress/noviomagus-population-culture.md).
 
-**Scope:** **Mortal** civilization — class, faith-of-work, rain/elevator borders, institutional robes — **not** Vexillatio battle doctrine. Batavi footprint only through **civilian habit** (Shared Sweat, Chapter shadow, parallel elevator keys). **I *Prima*** culture bleed = later file.
+**Scope:** **Mortal** civilization — class, faith-of-work, rain/elevator borders, institutional robes — **not** Vexillatio battle doctrine. Batavi footprint only through **civilian habit** (Shared Sweat, Chapter shadow, parallel elevator keys). **I *Prima* bleed (in progress):** [`../../planning/in-progress/prima-noviomagus-culture-bleed.md`](../../planning/in-progress/prima-noviomagus-culture-bleed.md).
 
 **Atlas:** [system-i-central-bastion.md](../systems/system-i-central-bastion.md) · cultural fork: [worlds-central-bastion.md](worlds-central-bastion.md) § **Noviomagus Prime** · basal creed: [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md) · shared terms: [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · **Ecclesiarchy overlap:** [ecclesiarchy-on-the-frontier.md](../../political-relations/ecclesiarchy-on-the-frontier.md) · paired ethnographies: [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md) · [ethnography-aethelgard-prime.md](ethnography-aethelgard-prime.md)
 
@@ -153,6 +153,6 @@ Not a fourth class — robes that change **which holy object** and **which boss*
 
 ## 7. Deferred
 
-* **I *Prima* / Vexilla culture bleed** — separate file when opened.  
+* **I *Prima* / Vexilla culture bleed** — drafting: [`../../planning/in-progress/prima-noviomagus-culture-bleed.md`](../../planning/in-progress/prima-noviomagus-culture-bleed.md).  
 * **Sibling-world** ethnographies beyond this capital study.  
 * Optional mesh **xenos hate-rank** note (chat-grounded; not required here).
