@@ -13,13 +13,13 @@
 
 **Porta Nihili flavor:** Faith is **throughput theology**. Saints are **forge masters whose dies never wandered**. Sin is **unlogged scrap** and **missed torque**. Chapels exist; workers often prefer **the stamp booth** — *“God saw the seal.”*
 
-**Social structure:** **District dynasties** (Guild of the Lower Gutter, Third Shift Concord), **civil ID plaque** cult (birth iron), **elevator castes** between hive stacks. **Solis-tier** mortals (Martha-type households) bridge civil and military rooms.
+**Social structure:** **District dynasties** (Guild of the Lower Gutter, Third Shift Concord), **civil ID plaque** cult (birth iron), **elevator castes** between hive stacks. **Solis-tier** mortals (Martha-type households) sit in the **lower upper** band — bridge civil and Chapter-adjacent rooms without peak elevator ownership.
 
 **Fork:** **Provincial Roman** energy — **High Gothic law**, **local forge cant**. Not “spiky barbarians”; **urban *limitanei*** who built the wall themselves.
 
 **Shards:** *rain-closed face* (stoicism), *gear prayer* (three knuckle taps on a duty belt — borrowed into Batavi friction habit), *black tooth* (honest corrosion — badge of seniority).
 
----
+**Deep ethnography (mortals):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md)
 
 ## Castra-Vetera Prime (The Administrative Throne)
 

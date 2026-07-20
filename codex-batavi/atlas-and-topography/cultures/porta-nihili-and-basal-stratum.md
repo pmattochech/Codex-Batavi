@@ -16,6 +16,8 @@
 
 Elsewhere in Castra Vetera, worlds are **more** “barbaricum”: fewer cathedrals, more **oath**, **guild**, **tide**, **mine**, **signal**. Noviomagus is where **Imperial default** and **frontier substrata** negotiate in open daylight.
 
+**Deep ethnography (mortals):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md)
+
 ---
 
 ## 2. The faith of work (Porta Nihili basal creed)

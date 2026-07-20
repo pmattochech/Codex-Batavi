@@ -1,34 +1,25 @@
-# IN PROGRESS — Noviomagus population culture
+# RATIFIED — Noviomagus population culture (archive)
 
-**Status:** **Draft / work-in-progress** — not locked ethnography. Lives under `planning/in-progress/` until ratified into atlas culture files.  
-**Focus:** **Imperial mortal population** of **Noviomagus Prime** only. **Vexillatio culture** deferred (will influence and be influenced later; do not merge the two here).  
-**Opened:** 2026-07-17.
+**Status:** **Ratified 2026-07-20.** Active ethnography:
 
-**Sources folded in:**
+→ [`../../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../../atlas-and-topography/cultures/ethnography-noviomagus-prime.md)
 
-* Basal Porta Nihili / Noviomagus capital notes — [`porta-nihili-and-basal-stratum.md`](../../atlas-and-topography/cultures/porta-nihili-and-basal-stratum.md)
-* Central Bastion fork — [`worlds-central-bastion.md`](../../atlas-and-topography/cultures/worlds-central-bastion.md) § Noviomagus Prime
-* Chat draft — three classes × *Hymn of the Lost* mood premises (2026-07-17)
-* Author mood lock (external, not in-universe hymn) — Colm R. McGuinness & Annapantsu, *Hymn of the Lost*; full lock file TBD under planning when that PR lands
+**Do not extend canon here** — edit the ethnography (or open a new `in-progress/` sibling for Vexilla bleed / sibling worlds). Draft body below is **frozen** for history.
 
-**Explicit non-goals (this file):**
+**Opened:** 2026-07-17 · **Closed:** 2026-07-20.
 
-* Full Vexilla / Batavi operational culture
-* Saving the hymn as an in-world canticle
-* Other Castra Vetera worlds (Castra-Vetera Prime, Khan-Bator, Aethelgard, …)
+### Ratification record
 
-**Locks added 2026-07-17 (shards pass):**
-
-* **Solis family** = **lower upper class** (bridge household band — not mid-common, not stack-magnate peak)
-* Class **shards** drafted below (§4) — slang / rite / taboo per stratum
-
-**Locks added 2026-07-17 (borders pass):**
-
-* **Black Rain** + **elevator rights** as primary day-to-day class police (§6)
-
-**Locks added 2026-07-20 (institutions pass):**
-
-* Institutional slices (§7) — forge-priests / Ministorum / Administratum / Guard billets **inside** the three classes (not new classes)
+| Item | Result |
+|------|--------|
+| Class labels **Rabble / Common / Upper** | **Accepted** |
+| Solis = **lower upper class** | **Accepted** |
+| Mood × class tables | **Accepted** |
+| Shards / Black Rain + elevators / institutions | **Accepted** |
+| Atlas fork consistency | **Accepted** |
+| In-universe hymn claim | **None** (author mood only) |
+| Vexilla influence | **Deferred** |
+| Promoted | **Yes** → ethnography |
 
 ---
 
@@ -301,24 +292,21 @@ These are **jobs / robes**, not a fourth class. The same priest or clerk still s
 
 ---
 
-## 8. Open / next (do not invent here without a pass)
+## 8. Post-ratification backlog (elsewhere)
 
-* Bleed into / from **I *Prima*** Vexilla culture — **later file**, after this population draft closes
-* Promote into `atlas-and-topography/cultures/ethnography-noviomagus-prime.md` when ratified
-* Sibling worlds after Noviomagus closes
-* Optional: local hate-rank vs xenos (mesh talk; not required to close Noviomagus)
+* Bleed into / from **I *Prima*** Vexilla culture — **later file**
+* Sibling worlds after Noviomagus
+* Optional: local hate-rank vs xenos (mesh talk)
 
----
+## 9. Checklist (closed)
 
-## 9. Ratification checklist
-
-- [ ] Class labels accepted (Rabble / Common / Upper) or renamed
+- [x] Class labels accepted (Rabble / Common / Upper)
 - [x] **Solis family** = lower upper class
 - [x] Class **shards** drafted (§4)
 - [x] **Black Rain** + **elevator rights** as class police (§6)
 - [x] Institutional slices drafted (§7)
-- [ ] Mood × class tables accepted or trimmed
-- [ ] Atlas fork § Noviomagus still matches (no silent contradiction)
-- [ ] No accidental in-universe hymn claim
-- [ ] Vexilla influence still deferred
-- [ ] Ready to promote out of `in-progress/`
+- [x] Mood × class tables accepted
+- [x] Atlas fork § Noviomagus still matches
+- [x] No accidental in-universe hymn claim
+- [x] Vexilla influence still deferred
+- [x] Promoted out of active `in-progress/` → ethnography
