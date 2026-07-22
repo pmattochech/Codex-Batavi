@@ -204,7 +204,7 @@ A common family hears stairwell quiet and panics: *abandoned*. A Ribbon House ad
 - [x] Cross-link Phase A ethnography §9 → this file
 - [x] Cross-link [`worlds-central-bastion.md`](worlds-central-bastion.md) § **Castra-Vetera Prime**
 - [x] Cross-link atlas [`INDEX.md`](../INDEX.md)
-- [ ] **Phase C** — II *Secunda* wing periphery (Castra-Minor and other wing bodies): **deferred** — seat standard + one local delta only when explicitly ordered; **do not** write wing stubs in this pass
+- [x] **Phase C** — II *Secunda* wing periphery: [worlds-central-bastion.md](worlds-central-bastion.md) § **II *Secunda* wing** (Castra-Minor)
 - [ ] Optional: planning backlog checkbox sync in [`../../planning/disciplines-and-curia-vexilli-plan.md`](../../planning/disciplines-and-curia-vexilli-plan.md) / [`../../planning/TOMORROW-TODOS.md`](../../planning/TOMORROW-TODOS.md) when next backlog pass runs
 - [ ] Optional deep chronicle scenes under Dominus / corridor legality still free to cite this bleed without rewriting it
 

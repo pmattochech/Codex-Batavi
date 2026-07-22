@@ -330,7 +330,7 @@ Not a fourth class — same strata, different boss / holy object.
 ## 9. Related / deferred
 
 - Phase B bleed file: [quinta-aethelgard-culture-bleed.md](quinta-aethelgard-culture-bleed.md) — V *Quinta* ↔ Aethelgard (ratified)  
-- Wing periphery: **deferred** — *Quinta* seat bodies under [worlds-crucible.md](worlds-crucible.md) inherit Phase B; no wing stubs this pass  
+- Wing periphery (Phase C): [worlds-crucible.md](worlds-crucible.md) § **V *Quinta* wing** — Tempestas-Major-VII / Tempestas-Major; inherit Phase B  
 - Sibling seats: do **not** absorb Noviomagus / Khan-Bator / other Legatus worlds  
 - Geography lock: [geography-aethelgard-prime.md](geography-aethelgard-prime.md)  
 - Legatus surface dossier (not populi doctrine): [`../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md`](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md)

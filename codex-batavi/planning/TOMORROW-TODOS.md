@@ -38,4 +38,4 @@
 ### Waves
 
 - [x] Wave 2 — Phase B bleeds for seats I–IX (Elysium: no Legatus bleed)
-- [ ] Wave 3 — Phase C wing periphery bots per Legatus
+- [x] Wave 3 — Phase C wing periphery stubs per Legatus (I *Prima* already had wing; II–IX added; Elysium: no wing)

@@ -4,7 +4,7 @@
 **Theater:** **Marco de Vetra** (The Vacuum Shouter) · **Vexillatio IX (*Nona*)** · Legatus **Cassian Vetra** (**the Warden**).  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding) · Phase B template §§B1–B8.  
 **Local mortal sin (lock):** **Premature cry** — unbudgeted outbound (thermal, radio, or laser shout outside the release schedule).  
-**Wave 3 only:** **Station-IX (*Sidus Silentii*)** and Vigil-Lucis peripherals remain **cross-link stubs** on [`worlds-threshold.md`](worlds-threshold.md) — **no Phase C wing essay** this file.
+**Phase C wing:** **Station-IX (*Sidus Silentii*)** and Vigil-Lucis peripherals = fork stubs on [`worlds-threshold.md`](worlds-threshold.md) § **IX *Nona* wing** — **no Phase C wing essay** in this bleed file.
 
 **Sources:** [`ethnography-marco-de-vetra.md`](ethnography-marco-de-vetra.md) · [`dossier-cassian-vetra.md`](../../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md) · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 (IX *Nona* / Silent Hours) · [`alabarda-head-groups.md`](../../arsenal-and-logistics/alabarda-head-groups.md) §11 · [`vexillatio-operational-armory.md`](../../arsenal-and-logistics/vexillatio-operational-armory.md) · [`silent-hours-marco-de-vetra.md`](../../chronicles/vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) · [`aar-vex-ix-silent-hours.md`](../../chronicles/vexillum-register/aar-vex-ix-silent-hours.md) · [`mortivigil-and-reclusiam-helm-law.md`](../../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md)
 
@@ -34,7 +34,7 @@
 
 5. **Xenos / civic hate ≠ Chapter geometry:** Mast-foot Ork-hate, pirate-cutout rage, Navy “broadcast habit” insults, and Guard sweat ≠ *Nona* threat geometry (layered delay, EM budget, deny-intact-capture, Threshold dyad with *Octava*). No civic “welcome” for xenos retainers; no civilian briefing that collapses friend–foe discrimination into elegant auspex faith. Mortals learn **who stops transmitting**; brothers plan **who may spend shells on the moon**.
 
-**Station-IX edge (Wave 3 — do not absorb):** Station-IX = **monastic receiver** (listen-only, cold vow, laser to Vitreus). Marco = **bait and shout** (delay-and-deny until the cry flies or the moon burns). Import gossip (*listen marriage*, *sidus silence*) may color Marco speech; **do not** collapse the two into one silence cult in bleed scenes.
+**Station-IX edge (do not absorb into Marco identity):** Station-IX = **monastic receiver** (listen-only, cold vow, laser to Vitreus). Marco = **bait and shout** (delay-and-deny until the cry flies or the moon burns). Import gossip (*listen marriage*, *sidus silence*) may color Marco speech; **do not** collapse the two into one silence cult in bleed scenes.
 
 ---
 
@@ -64,7 +64,7 @@
 | **Manual vox / click-code** | Mute-runner chalk and farm click habits rhyme with Legatus belt kit — redundant paths when elegant auspex gags | Mortals see “the Warden still checks the spool” as proof the moon is not abandoned to hash lies |
 | **Hash weather** | Stratum unlock order is civilian class school; *Nona* treats hash as **logistics and EM budget**, not charity theater | Storm lock: rabble last; upper already inside; brothers on perimeter watches six hours after the wire goes quiet (public tell without sealed doctrine) |
 | **Death map** | Wall-name rumor for those who died under Chapter shadow; delay-saint marble separate | Twenty-seven Silent Hours names live in Chapter register / capital crypt — **do not** file as civilian shout-martyr cult or premature-cry sermon |
-| **Station-IX gossip (Wave 3)** | Thin import only — listen-marriage / cold-vow talk as **misread risk** if brothers treat Marco as Sidus Silentii | Mortals may borrow receiver metaphors; bleed scenes must keep bait/shout identity distinct |
+| **Station-IX gossip (Phase C wing)** | Thin import only — listen-marriage / cold-vow talk as **misread risk** if brothers treat Marco as Sidus Silentii | Mortals may borrow receiver metaphors; bleed scenes must keep bait/shout identity distinct |
 
 ### Populi → *Nona* (short + deep)
 
@@ -126,7 +126,7 @@ Include Imperial / seat orgs from Phase A §7A that **actually touch** the Chapt
 | **Chartist captains / void guilds** | Dock unions; open-net chatter that paints the moon = premature cry adjacent. Tariff temptation rhymes with leak; *Nona* cares when chatter becomes targeting. |
 | **Local noble / vitra tithe houses** | Peak shame = house leak. Want influence without owning the shout. Bleed pressure on Vetra’s delegation flaw. |
 | **Criminal / under-gallery powers** | Sell premature cry as service (stolen beacons, beam-wedding kits, heat-smuggling). Civic fact; Chapter treats as outbound risk, not romance. |
-| **Station-IX / Vigil-Lucis (Wave 3 cross-link only)** | Thin cultural import. Seam rule: **receiver ≠ bait**. No Phase C absorption; fork stubs stay on [`worlds-threshold.md`](worlds-threshold.md) § Station-IX. |
+| **Station-IX / Vigil-Lucis (Phase C wing)** | Thin cultural import. Seam rule: **receiver ≠ bait**. Wing stubs: [`worlds-threshold.md`](worlds-threshold.md) § **IX *Nona* wing**. |
 | **Other Astartes / Inquisition / Astropaths** | Sealed/rumor only on Marco. Bleed scenes: hush words and schedule piety answers — **no** Founding laundry, **no** Choir intimacy as civic culture. |
 | **Threshold dyad (*Octava* / Malevent)** | Command-layer invoice rhyme (reef vs moon) — **not** civilian ownership. Mortals may hear “same storm, different port”; do not write Maleventum dock law into Marco ethnography via this bleed. |
 
@@ -137,7 +137,7 @@ Include Imperial / seat orgs from Phase A §7A that **actually touch** the Chapt
 - **Mortal → *Nona* signal:** A hand hovering over a transmit stud, then dropping — or a delay stamp pressed hard enough to bruise paper while hash rises — **and** who sweats silent beside them at mast foot without a sermon.
 - **Brother → populi signal:** Check the **manual vox spool** before trusting the pretty relay; scorch said **twice**; perimeter watch still walking when the wire is quiet; liturgical line spoken **once** per cycle.
 - **Wrong:** Hive-king Castellan on a bait-moon; vitra-string house as *Nona* officer track; premature cry = Silent Hours debt; collapsing Marco into Station-IX cold-vow monks; Warden as God-Emperor ecstasy preacher; open-vox hero speeches as virtue; Founding / progenitor / clinical curse stages in farm mouths; friend–foe abbreviations; Solis kitchen geography pasted onto Marco.
-- **Right:** Schedule piety under bait-moon pride; clearance felt before speech; Shared Sweat silence as courtesy; seconds bought so the shout behind stays clean; shame = cheap expendability / unpaid seconds on the Chapter side, premature cry on the mortal side; Wave 3 Station-IX kept as gossip, not identity.
+- **Right:** Schedule piety under bait-moon pride; clearance felt before speech; Shared Sweat silence as courtesy; seconds bought so the shout behind stays clean; shame = cheap expendability / unpaid seconds on the Chapter side, premature cry on the mortal side; Station-IX kept as gossip/wing stub, not Marco identity.
 
 ### Locked rumor vs seal (Silent Hours)
 
@@ -155,7 +155,7 @@ No sealed pulse text, no Versibar / *Das Erbe* catechism, no Founding claims in 
 
 - [x] Phase B bleed ratified → atlas cultures (this file)  
 - [x] Cross-links updated: [`ethnography-marco-de-vetra.md`](ethnography-marco-de-vetra.md) · [`worlds-threshold.md`](worlds-threshold.md) § Marco de Vetra · [`../INDEX.md`](../INDEX.md)  
-- [ ] **Phase C — IX *Nona* wing periphery** (**deferred**) — Station-IX (*Sidus Silentii*), Silent Belt & Ghost Buoys, Glass Eye, and other Vigil-Lucis bodies remain **Wave 3 fork stubs** on [`worlds-threshold.md`](worlds-threshold.md); inherit this bleed only when a **bounded Phase C order** names them; **no** separate wing bleed wiki unless ordered  
+- [x] **Phase C — IX *Nona* wing periphery:** [`worlds-threshold.md`](worlds-threshold.md) § **IX *Nona* wing** (Station-IX, Silent Belt, Glass Eye, Vigil-Secundus, Ice Sentinels); inherit this bleed; **no** separate wing bleed wiki  
 - [ ] Do **not** absorb VIII *Octava* / Maleventum reef culture, Vitreus / *Septima*, or Noviomagus / *Prima* capitals into Marco scenes via lazy Threshold paste  
 - [ ] Deep chronicle scenes may still open district micro-stubs (mast-foot, Coupling Bay Seven pattern) without promoting Phase C
 
@@ -163,4 +163,4 @@ No sealed pulse text, no Versibar / *Das Erbe* catechism, no Founding claims in 
 
 ## Cross-links
 
-[`ethnography-marco-de-vetra.md`](ethnography-marco-de-vetra.md) · [`worlds-threshold.md`](worlds-threshold.md) § **Marco de Vetra** · § **Station-IX** (Wave 3 stub only) · [`dossier-cassian-vetra.md`](../../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md) · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · [`silent-hours-marco-de-vetra.md`](../../chronicles/vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) · [`aar-vex-ix-silent-hours.md`](../../chronicles/vexillum-register/aar-vex-ix-silent-hours.md) · [`mortivigil-and-reclusiam-helm-law.md`](../../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md) · worked pattern: [`prima-noviomagus-culture-bleed.md`](prima-noviomagus-culture-bleed.md)
+[`ethnography-marco-de-vetra.md`](ethnography-marco-de-vetra.md) · [`worlds-threshold.md`](worlds-threshold.md) § **Marco de Vetra** · § **IX *Nona* wing** · [`dossier-cassian-vetra.md`](../../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md) · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · [`silent-hours-marco-de-vetra.md`](../../chronicles/vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) · [`aar-vex-ix-silent-hours.md`](../../chronicles/vexillum-register/aar-vex-ix-silent-hours.md) · [`mortivigil-and-reclusiam-helm-law.md`](../../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md) · worked pattern: [`prima-noviomagus-culture-bleed.md`](prima-noviomagus-culture-bleed.md)

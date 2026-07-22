@@ -337,10 +337,10 @@ Not a fourth class — same strata, different boss / holy object.
 ## 9. Related / deferred
 
 - **Phase B bleed file:** [`sexta-bifrons-ferrum-culture-bleed.md`](sexta-bifrons-ferrum-culture-bleed.md) (VI *Sexta* ↔ Bifrons-Ferrum) — **ratified**. Do not mix bleed doctrine into this Phase A body.  
-- **Wing periphery:** `deferred` — no VI *Sexta* wing stubs this pass (Phase C out of scope); do not absorb Vitreus, Logus Ring, Incus spheres, or other Legatus seats.  
+- **Wing periphery (Phase C):** [worlds-crucible.md](worlds-crucible.md) § **VI *Sexta* wing** — Logus Ring (oral salvage delta). Do not absorb Vitreus, Incus, or other Legatus seats.  
 - **Sibling seats:** Noviomagus (*Prima*), Castra-Vetera (*Secunda*), Khan-Bator (*Tertia*), Incus-Gravis (*Quarta*), Aethelgard (*Quinta*), Vitreus (*Septima*), Maleventum/Reef (*Octava*), Marco de Vetra (*Nona*) — **not** absorbed here.  
 - **Vault texture note:** Castra-Vetera / Castra-Lupus vault *surface* (sealed approaches, inventory prestige, sustainment rumor) may color tomb districts; **not** fortress-monastery office law, *Depositorium* clinical filing, or *Reclusiam* crypt pipeline.
 
 ---
 
-*Revision discipline:* dates and battle outcomes elsewhere in Codex supersede ethnographic generalizations if they conflict. Framework acceptance: §§0–9 + §7A present; Phase B linked; Phase C deferred without doctrine bleed into this body.
+*Revision discipline:* dates and battle outcomes elsewhere in Codex supersede ethnographic generalizations if they conflict. Framework acceptance: §§0–9 + §7A present; Phase B linked; Phase C wing linked without doctrine bleed into this body.

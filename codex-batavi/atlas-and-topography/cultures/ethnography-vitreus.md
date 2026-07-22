@@ -296,7 +296,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 | **Criminal / underhive powers** (as civic fact) | **Present** | Shade cartels, scrap-lens diversions, illegal beauty dens, glass-eater remnants. Civic fact in ash berms and cooling crust undercities. Class: Rabble base; Common buyers; Upper hypocritical patrons. Sin: industrialized stray scatter. Arbites/PDF contest; Mechanicus red-tags feedstock theft hardest. |
 | **Glass-diver covenants** (seat-specific) | **Core** | Mortal guide orders — many blind young on purpose; highest practical status for honest impairment. Meet Astartes/auxilia as route sellers (hazard stamps, iodine). Class mobility ladder from Rabble apprentice to Common licensed guide; Upper patronage. Accent: “left is not left — cheaper.” Sin: selling false trenches; keeping sight while claiming empty-socket rates. |
 | **Refraction courts / lens notaries** (seat-specific) | **Core** | Jurisprudence as optics. Mortals meet them for contracts, shard confession, angle disputes. Bridge for Facet Houses. Sin: false instrument testimony; bribed facets. |
-| **Solaris-Alpha / Silica Field traffic** (seat-adjacent, not full ethnography) | **Thin** | Mirror-row and Glass Belt rumor shapes Vitreus piety (*God is angle*) but **full Silica Field ethnography deferred (Wave 3)** — do not absorb here. Mortals know blindfold pilgrim stories and field-widow PTSD cult gossip as imported weather. |
+| **Solaris-Alpha / Silica Field traffic** (seat-adjacent, Phase C stub — not full ethnography) | **Thin** | Mirror-row and Glass Belt rumor shapes Vitreus piety (*God is angle*). Wing stub: [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** — do not absorb as Phase A here. Mortals know blindfold pilgrim stories and field-widow PTSD cult gossip as imported weather. |
 
 ---
 
@@ -327,11 +327,11 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 ## 9. Related / deferred
 
 - Phase B bleed file: [`septima-vitreus-culture-bleed.md`](septima-vitreus-culture-bleed.md) — VII *Septima* ↔ Vitreus (ratified)  
-- Wing periphery: `deferred` — VII *Septima* wing stubs only after Phase B (inherit bleed; no separate wing bleed wiki unless ordered)  
+- Wing periphery (Phase C): [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** — Ignis-Minor / Solaris-Alpha & Silica Field stubs (inherit bleed; no separate wing bleed wiki)  
 - Sibling seats: do not absorb Aethelgard, Noviomagus, Incus forks, or Logus oral law  
-- **Silica Field / Solaris-Alpha:** atlas rumor and piety bleed only — **full ethnography Wave 3 / not this pass** (no Phase C Silica ethnography)  
+- **Silica Field / Solaris-Alpha:** Phase C stub under [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** — not a separate Phase A ethnography in this file  
 - Null-Vent folk memory (**112.M42**): surface orbital gossip only — chronicle/AAR remain sealed depth outside populi catechism  
-- Acceptance gate: Phase A §§0–9 complete; Phase B linked; Phase C deferred without mixing Vexilla doctrine into populi body
+- Acceptance gate: Phase A §§0–9 complete; Phase B linked; Phase C wing linked without mixing Vexilla doctrine into populi body
 
 ---
 

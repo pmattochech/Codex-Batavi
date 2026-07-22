@@ -183,7 +183,7 @@ Death/name civic geography: chemical funerals and alkali pits after spore panic 
 
 ## 5. Economy
 
-**World function / export:** Caloric factory — algae, slime starch, bulk calories measured in **tons per breath**. Secondary: fertilizer chain from **Bator-Secundus** (cross-link only; Wave 3 / Phase C later) — marriage metaphors borrow stable compounds. Tertiary: **Vacuum Harvest Fields** neurochem — dosimetry piety; workers joke *glass tongue*; law treats batch contamination as soul risk. Atlas Elevator / Golden Grain Station is the export bottleneck; Bottle Fair windows hitch to load-swap.
+**World function / export:** Caloric factory — algae, slime starch, bulk calories measured in **tons per breath**. Secondary: fertilizer chain from **Bator-Secundus** (Phase C wing stub) — marriage metaphors borrow stable compounds. Tertiary: **Vacuum Harvest Fields** neurochem — dosimetry piety; workers joke *glass tongue*; law treats batch contamination as soul risk. Atlas Elevator / Golden Grain Station is the export bottleneck; Bottle Fair windows hitch to load-swap. Wing: [worlds-central-bastion.md](worlds-central-bastion.md) § **III *Tertia* wing**.
 
 **How work runs:** Monoculture plains on algorithm green; slime barge routes; silo vertical shifts; oxygen-monitor HSE as production religion; chart inspectors as hunger/famine toggles.
 
@@ -266,7 +266,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 | **Criminal / underhive powers** (as civic fact) | **Present** | Barge skim syndicates, illegal braid climbers, false-spoilage rings. Civic fact when charts blush. Not romantic underhive kings — diversion networks. Sin = open diversion. |
 | **Oxygen-monitor orders (seat-specific)** | **Core** | Masked inspectors with real HSE power — angels who prevent fire-god; feared when red-tagging festal torch. Enforce secondary sorter. Class access across common; upper liaison; rabble labor. Sin = torch without permit / chemistry cover for diversion. |
 | **Cable / Atlas sever offices (seat-specific)** | **Present** | Honored and isolated sever engineers; *cut-day* drills; shared-fate theology. Cultural gravity at Golden Grain. Wing-station detail deferred; seat mortals still live the rumor. |
-| **Vacuum Harvest / neurochem gardens (orbit — cross-link)** | **Thin** | Dosimetry piety, *glass tongue*, batch contamination as soul risk. Workers and batch mothers as rumor on the surface; full wing ethnography deferred (Wave 3). |
+| **Vacuum Harvest / neurochem gardens (orbit — Phase C wing)** | **Thin** | Dosimetry piety, *glass tongue*, batch contamination as soul risk. Workers and batch mothers as rumor on the surface; wing stub: [worlds-central-bastion.md](worlds-central-bastion.md) § **III *Tertia* wing**. |
 
 ---
 
@@ -301,7 +301,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 ## 9. Related / deferred
 
 - **Phase B bleed file:** [tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md) — III *Tertia* ↔ Khan-Bator (ratified). Do not mix Vexilla doctrine into populi body above.
-- **Wing periphery (Phase C / Wave 3):** `deferred` — **Bator-Secundus**, **Bator-Tertius**, **Vacuum Harvest Fields**, **Golden Grain Station / Atlas Elevator** remain fork stubs / cross-links under [worlds-central-bastion.md](worlds-central-bastion.md); seat standard + local delta later. **Not** absorbed into this ethnography.
+- **Wing periphery (Phase C):** [worlds-central-bastion.md](worlds-central-bastion.md) § **III *Tertia* wing** — Golden Grain / Vacuum Harvest / Bator-Secundus / Bator-Tertius (seat standard + local delta each). **Not** absorbed into this ethnography.
 - **Sibling seats:** Noviomagus / I *Prima* and Castra-Vetera / II *Secunda* — do not absorb; forge bleed and law-mother forms stay sibling, not Khan-Bator body.
 - **External mortal relations (kept):** Noviomagus gear envy; Castra-Vetera law mother; Aethelgard salt brother; Bator-Tertius green horror recreation for elites (status hunt cant at silo gates — cross-link only).
 
@@ -323,7 +323,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 - [x] Batavi creed not collapsed into Ministorum  
 - [x] No Founding/progenitor invention; no opaque friend–foe abbreviations  
 - [x] Chronological blindness respected  
-- [x] Phase B linked ([tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md)); Phase C deferred without mixing doctrine into populi body  
+- [x] Phase B linked ([tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md)); Phase C wing linked without mixing doctrine into populi body  
 - [x] Yield / oxygen / elevator / silo locks retained  
 
 *Revision discipline:* dates and battle outcomes elsewhere in Codex supersede ethnographic generalizations if they conflict. System atlas “5th Company” diversion watch phrasing is **legacy topography shorthand** — seat lock for this ethnography is **Vexillatio III (*Tertia*) · Theron Brach**.

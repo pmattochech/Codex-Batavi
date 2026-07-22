@@ -8,7 +8,7 @@
 **Legatus:** [`../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md`](../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md)  
 **Chronicle touch (sealed depth vs folk):** [`../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md`](../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md) · AAR register (not street catechism)  
 **Local mortal sin (lock):** **stray scatter**  
-**Scope bar:** Silica Field / Solaris-Alpha = **Wave 3 only** (atlas rumor + piety bleed) — **no** Phase C ethnography for Silica this pass. **No** Founding / progenitor invention.
+**Scope bar (bleed file):** Silica Field / Solaris-Alpha appear here only as atlas rumor + piety bleed — deep Phase C stubs live under [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** (not a separate Phase A ethnography). **No** Founding / progenitor invention.
 
 ---
 
@@ -18,7 +18,7 @@
 |-------|------|--------------|
 | **Populi ethnography** ([`ethnography-vitreus.md`](ethnography-vitreus.md)) | Glare rights, facet/lab keys, clarity theology, refraction courts, Dark-Veil Facet Houses, glass-diver covenants, civic **stray scatter**, Melts / vent-bell habit as *civilian* weather | *Axiom*, Furor / Exanimus / Execratio clinical law, gene-seed architecture, Founding claims, sealed Null-Vent AAR taxonomy, friend–foe discrimination doctrine as mortal catechism |
 | **VII *Septima*** | Plasma / photonic **energy stress** war-culture; **vent-window** sign-off; dual seal (Legatus tick + Techmarine / machine auspex tick); Null-Vent manifold discipline; *Typus Septimus* glare plate; *Alabarda* Type Lamina containment geometry; punishment of careless fire; Librarium as **noise budget** risk near forges | Stamp-booth holiness, shade-window rationing, civilian melt psalms as Chapter rite, Facet House porch law, Mechanicus lens sovereignty |
-| **This bleed file** | Bidirectional habits at the seam; hard edges; class contact; Mechanicus **Core handshake**; Wrong / Right fiction tells; Null-Vent **folk vs seal** split | Replacing Phase A; Phase C wing stubs; Silica Field full ethnography; inventing progenitor / Founding on the open record |
+| **This bleed file** | Bidirectional habits at the seam; hard edges; class contact; Mechanicus **Core handshake**; Wrong / Right fiction tells; Null-Vent **folk vs seal** split | Replacing Phase A; writing Phase C wing stubs inside this file; inventing progenitor / Founding on the open record |
 
 **Ownership tell for fiction:** If a beat needs *why mortals budget clarity*, stay in Phase A. If a beat needs *why a brother clicks a knuckle before a vent window while a Magos cold-courtesies him*, this file owns it.
 
@@ -40,7 +40,7 @@
 
 - **Mechanicus Core ≠ Chapter forge:** Vitreus lens sovereignty is Mechanicus weather. *Septima* is seat shadow and containment partner — **not** a second forge throne. Productive **calibration hate** (Phaetron ↔ Magos / Kadmos chain) is handshake fuel, not merger.
 - **Null-Vent folk ≠ Null-Vent seal:** Street may say *the Burn held the plate* (**112.M42** orbital gossip). Sealed AAR, skitarii redaction under treaty, and *Alabarda* field 4 (**Null-Vent Covenant**) stay off populi catechism.
-- **Silica Field Wave 3 only:** Mirror-row rumor and *God is angle* piety may color Vitreus speech. **Do not** dump Silica Field ethnography, field-widow cult deep structure, or Phase C wing bodies into this bleed.
+- **Silica Field (Phase C wing, not this bleed):** Mirror-row rumor and *God is angle* piety may color Vitreus speech. **Do not** dump Silica Field ethnography or wing stubs into this bleed — see [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing**.
 
 ---
 
@@ -176,7 +176,7 @@ Law as optics; shard confession. Bleed: Facet Houses broker civil angles near Ch
 
 ### Chartist captains / void guilds (Present) · Imperial Navy (Thin)
 
-Photonic cargo and plate escort. Hate Silica approaches as **rumor** (Wave 3 — do not deepen into Silica ethnography). Bleed: unauthorized hull polish that blooms into docks = scatter cousin; *Septima* may clear a lane without owning chartist claim rites.
+Photonic cargo and plate escort. Hate Silica approaches as **rumor** (wing stub depth on worlds-crucible — do not deepen into Phase A ethnography here). Bleed: unauthorized hull polish that blooms into docks = scatter cousin; *Septima* may clear a lane without owning chartist claim rites.
 
 ### Thin / sealed / absent (seam note only)
 
@@ -228,7 +228,7 @@ Photonic cargo and plate escort. Hate Silica approaches as **rumor** (Wave 3 —
 - Mechanicus Core handshake as productive calibration hate under treaty  
 - *the Burn held the plate* as folk memory after **112.M42** — pride without sealed ledger  
 - Dark-Veil bridge without claiming Strategium  
-- Silica Field only as Wave 3 rumor / *God is angle* piety color  
+- Silica Field only as rumor / *God is angle* piety color here; Phase C stub on worlds-crucible § VII wing  
 
 **Mortal → scene signal (compressed):**  
 Rag film / guild smoked lenses / house lacquer → melt bell vs vent bell → who may speak during mute → whether a second stamp is demanded → whether grey plate rearranges the dock.
@@ -242,8 +242,7 @@ Matte anti-glare panels; orange lenses; knuckle before window; pole planted at m
 
 - [x] Phase B file ratified at framework B1–B8 depth — this path  
 - [x] Cross-links: [`ethnography-vitreus.md`](ethnography-vitreus.md) · [`worlds-crucible.md`](worlds-crucible.md) § Vitreus · [`../INDEX.md`](../INDEX.md)  
-- [ ] Phase C — VII *Septima* **wing periphery stubs** (Ignis-Minor / other seat-wing bodies only) — **deferred**; inherit this bleed when ordered; no separate wing bleed wiki unless ordered  
-- [ ] **Silica Field / Solaris-Alpha** full ethnography — **Wave 3 only**; atlas rumor + piety bleed permitted; **MUST NOT** Phase C ethnography for Silica this pass  
+- [x] Phase C — VII *Septima* **wing periphery stubs:** [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** (Ignis-Minor / Solaris-Alpha & Silica Field stub depth; not separate Phase A ethnography); inherit this bleed; no separate wing bleed wiki  
 - [ ] Logus Ring, Bifrons, Aethelgard, and other Legatus seats — **not absorbed**  
 - [ ] Sealed Null-Vent chronicle / AAR depth — remains outside populi catechism; cite, do not dump  
 - [ ] Founding / progenitor — **forbidden invent**; open record stays unknown / redacted / not disclosed  

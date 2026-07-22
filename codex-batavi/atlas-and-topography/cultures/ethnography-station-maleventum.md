@@ -320,7 +320,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 ## 9. Related / deferred
 
 - Phase B bleed file: **closed** — [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md) (VIII *Octava* ↔ Station-Maleventum + Great Reef contact surfaces).  
-- Wing periphery: **deferred** — VIII *Octava* wing stubs under [worlds-threshold.md](worlds-threshold.md) only when ordered (Phase C). **MUST NOT** absorb Nox / Abyssal-Anchor this pass.  
+- Wing periphery (Phase C): [worlds-threshold.md](worlds-threshold.md) § **VIII *Octava* wing** — Tempest-V / Nox / Abyssal-Anchor / Singularity-Point & Cerberus (seat-standard + delta). Great Reef remains Phase A twin, not a wing ethnography body.  
 - Sibling seats: do **not** absorb — Tempest-V, Nox, Abyssal-Anchor, Marco de Vetra (*Nona*), Noviomagus (*Prima*), etc.  
 - Deep twin already in-file: **Great Reef** (§ Twin). No second ethnography this run.
 
