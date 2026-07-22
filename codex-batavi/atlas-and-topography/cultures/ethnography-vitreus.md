@@ -5,6 +5,7 @@
 **Seat:** Vexillatio VII (*Septima*) · Legatus: Lucan Phaetron  
 **Scope:** Mortal populi only — not full Vexilla doctrine. Chapter footprint via civilian habit until Phase B.  
 **Atlas / fork:** [system-ii-crucible.md](../systems/system-ii-crucible.md) · [worlds-crucible.md](worlds-crucible.md) § **Vitreus** · Legatus: [dossier-lucan-phaetron.md](../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md)  
+**Phase B bleed:** [septima-vitreus-culture-bleed.md](septima-vitreus-culture-bleed.md)  
 **Basal / Ecclesiarchy:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md) · [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · [ecclesiarchy-on-the-frontier.md](../../political-relations/ecclesiarchy-on-the-frontier.md)  
 **Author mood:** Hymn map applied — yes · [`../../planning/HYMN-OF-THE-LOST-MOOD-LOCK.md`](../../planning/HYMN-OF-THE-LOST-MOOD-LOCK.md)  
 **Local mortal sin (lock):** **stray scatter**  
@@ -325,12 +326,12 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 
 ## 9. Related / deferred
 
-- Phase B bleed file: `deferred` — *Septima* ↔ Vitreus culture bleed (not this pass)  
-- Wing periphery: `deferred` — VII *Septima* wing stubs only after Phase B  
+- Phase B bleed file: [`septima-vitreus-culture-bleed.md`](septima-vitreus-culture-bleed.md) — VII *Septima* ↔ Vitreus (ratified)  
+- Wing periphery: `deferred` — VII *Septima* wing stubs only after Phase B (inherit bleed; no separate wing bleed wiki unless ordered)  
 - Sibling seats: do not absorb Aethelgard, Noviomagus, Incus forks, or Logus oral law  
-- **Silica Field / Solaris-Alpha:** atlas rumor and piety bleed only — **full ethnography Wave 3 / not this pass**  
+- **Silica Field / Solaris-Alpha:** atlas rumor and piety bleed only — **full ethnography Wave 3 / not this pass** (no Phase C Silica ethnography)  
 - Null-Vent folk memory (**112.M42**): surface orbital gossip only — chronicle/AAR remain sealed depth outside populi catechism  
-- Acceptance gate: Phase A §§0–9 complete; Phase B/C explicitly deferred without mixing Vexilla doctrine into populi body
+- Acceptance gate: Phase A §§0–9 complete; Phase B linked; Phase C deferred without mixing Vexilla doctrine into populi body
 
 ---
 
