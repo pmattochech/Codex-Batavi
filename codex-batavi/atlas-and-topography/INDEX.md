@@ -4,17 +4,17 @@
 - [general-atlas.md](general-atlas.md) — macro context, summary atlas, links
 - **Human cultures (Castra Vetera; legacy path `porta-nihili-*`):** [cultures/porta-nihili-and-basal-stratum.md](cultures/porta-nihili-and-basal-stratum.md) · [cultures/worlds-central-bastion.md](cultures/worlds-central-bastion.md) · [cultures/worlds-crucible.md](cultures/worlds-crucible.md) · [cultures/worlds-threshold.md](cultures/worlds-threshold.md)
 - **Binding process:** [../planning/vexilla-homeworld-culture-framework.md](../planning/vexilla-homeworld-culture-framework.md)
-- **Deep ethnography (Phase A capitals + shared):**
-  - [cultures/ethnography-noviomagus-prime.md](cultures/ethnography-noviomagus-prime.md) — I *Prima* · Noviomagus · [cultures/prima-noviomagus-culture-bleed.md](cultures/prima-noviomagus-culture-bleed.md) (bleed) · [cultures/worlds-central-bastion.md](cultures/worlds-central-bastion.md) § **I *Prima* wing**
-  - [cultures/ethnography-castra-vetera-prime.md](cultures/ethnography-castra-vetera-prime.md) — II *Secunda* · Castra-Vetera · [cultures/secunda-castra-vetera-culture-bleed.md](cultures/secunda-castra-vetera-culture-bleed.md) (bleed)
-  - [cultures/ethnography-khan-bator-prime.md](cultures/ethnography-khan-bator-prime.md) — III *Tertia* · Khan-Bator
-  - [cultures/ethnography-elysium-minor.md](cultures/ethnography-elysium-minor.md) — **shared** Central Bastion / Apothecarion civil (**not** a Vexilla capital)
-  - [cultures/ethnography-incus-gravis-tertius.md](cultures/ethnography-incus-gravis-tertius.md) — IV *Quarta* · Incus-Gravis Tertius · [cultures/quarta-incus-gravis-tertius-culture-bleed.md](cultures/quarta-incus-gravis-tertius-culture-bleed.md) (bleed) · [cultures/worlds-crucible.md](cultures/worlds-crucible.md) § **Incus-Gravis Tertius**
-  - [cultures/ethnography-aethelgard-prime.md](cultures/ethnography-aethelgard-prime.md) — V *Quinta* · Aethelgard · [cultures/geography-aethelgard-prime.md](cultures/geography-aethelgard-prime.md) (biomes)
-  - [cultures/ethnography-bifrons-ferrum.md](cultures/ethnography-bifrons-ferrum.md) — VI *Sexta* · Bifrons-Ferrum · [cultures/sexta-bifrons-ferrum-culture-bleed.md](cultures/sexta-bifrons-ferrum-culture-bleed.md) (bleed)
-  - [cultures/ethnography-vitreus.md](cultures/ethnography-vitreus.md) — VII *Septima* · Vitreus
-  - [cultures/ethnography-station-maleventum.md](cultures/ethnography-station-maleventum.md) — VIII *Octava* · Station-Maleventum + Great Reef twin · [cultures/octava-station-maleventum-culture-bleed.md](cultures/octava-station-maleventum-culture-bleed.md) (bleed)
-  - [cultures/ethnography-marco-de-vetra.md](cultures/ethnography-marco-de-vetra.md) — IX *Nona* · Marco de Vetra
+- **Deep ethnography (Phase A) + Phase B bleeds:**
+  - [cultures/ethnography-noviomagus-prime.md](cultures/ethnography-noviomagus-prime.md) — I *Prima* · [cultures/prima-noviomagus-culture-bleed.md](cultures/prima-noviomagus-culture-bleed.md) · [cultures/worlds-central-bastion.md](cultures/worlds-central-bastion.md) § **I *Prima* wing**
+  - [cultures/ethnography-castra-vetera-prime.md](cultures/ethnography-castra-vetera-prime.md) — II *Secunda* · [cultures/secunda-castra-vetera-culture-bleed.md](cultures/secunda-castra-vetera-culture-bleed.md)
+  - [cultures/ethnography-khan-bator-prime.md](cultures/ethnography-khan-bator-prime.md) — III *Tertia* · [cultures/tertia-khan-bator-culture-bleed.md](cultures/tertia-khan-bator-culture-bleed.md)
+  - [cultures/ethnography-elysium-minor.md](cultures/ethnography-elysium-minor.md) — **shared** Central Bastion / Apothecarion civil (**not** a Vexilla capital; **no** Legatus bleed)
+  - [cultures/ethnography-incus-gravis-tertius.md](cultures/ethnography-incus-gravis-tertius.md) — IV *Quarta* · [cultures/quarta-incus-gravis-tertius-culture-bleed.md](cultures/quarta-incus-gravis-tertius-culture-bleed.md)
+  - [cultures/ethnography-aethelgard-prime.md](cultures/ethnography-aethelgard-prime.md) — V *Quinta* · [cultures/quinta-aethelgard-culture-bleed.md](cultures/quinta-aethelgard-culture-bleed.md) · [cultures/geography-aethelgard-prime.md](cultures/geography-aethelgard-prime.md) (biomes)
+  - [cultures/ethnography-bifrons-ferrum.md](cultures/ethnography-bifrons-ferrum.md) — VI *Sexta* · [cultures/sexta-bifrons-ferrum-culture-bleed.md](cultures/sexta-bifrons-ferrum-culture-bleed.md)
+  - [cultures/ethnography-vitreus.md](cultures/ethnography-vitreus.md) — VII *Septima* · [cultures/septima-vitreus-culture-bleed.md](cultures/septima-vitreus-culture-bleed.md)
+  - [cultures/ethnography-station-maleventum.md](cultures/ethnography-station-maleventum.md) — VIII *Octava* · [cultures/octava-station-maleventum-culture-bleed.md](cultures/octava-station-maleventum-culture-bleed.md) (station + Reef)
+  - [cultures/ethnography-marco-de-vetra.md](cultures/ethnography-marco-de-vetra.md) — IX *Nona* · [cultures/nona-marco-de-vetra-culture-bleed.md](cultures/nona-marco-de-vetra-culture-bleed.md)
 - **Porta Nihili tooling (forks / history / hooks):** [cultures/porta-nihili-world-friction-matrix.md](cultures/porta-nihili-world-friction-matrix.md) (world-vs-world conflict fuel) · [cultures/porta-nihili-mortal-history-beat.md](cultures/porta-nihili-mortal-history-beat.md) (three-layer mortal timeline — cultural symptoms)
 - *Legatus seats ↔ Vexillationes (weapon bias):* [../arsenal-and-logistics/vexillatio-operational-armory.md](../arsenal-and-logistics/vexillatio-operational-armory.md) §2
 - **systems/** (topography and geopolitics; canonical flora/fauna matrices in the [encyclopedia](../biological-encyclopedia-bestiary/INDEX.md))

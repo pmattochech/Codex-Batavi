@@ -24,18 +24,18 @@
 
 ### Phase A capitals (framework) — ratified on master
 
-- [x] I *Prima* — Noviomagus — [`../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../atlas-and-topography/cultures/ethnography-noviomagus-prime.md) · bleed [`../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md) · wing stubs [`../atlas-and-topography/cultures/worlds-central-bastion.md`](../atlas-and-topography/cultures/worlds-central-bastion.md) § **I *Prima* wing**
-- [x] II *Secunda* — Castra-Vetera — [`../atlas-and-topography/cultures/ethnography-castra-vetera-prime.md`](../atlas-and-topography/cultures/ethnography-castra-vetera-prime.md)
-- [x] III *Tertia* — Khan-Bator — [`../atlas-and-topography/cultures/ethnography-khan-bator-prime.md`](../atlas-and-topography/cultures/ethnography-khan-bator-prime.md) · bleed [`../atlas-and-topography/cultures/tertia-khan-bator-culture-bleed.md`](../atlas-and-topography/cultures/tertia-khan-bator-culture-bleed.md)
-- [x] Shared — Elysium-Minor (Apothecarion civil) — [`../atlas-and-topography/cultures/ethnography-elysium-minor.md`](../atlas-and-topography/cultures/ethnography-elysium-minor.md)
-- [x] IV *Quarta* — Incus-Gravis Tertius — [`../atlas-and-topography/cultures/ethnography-incus-gravis-tertius.md`](../atlas-and-topography/cultures/ethnography-incus-gravis-tertius.md)
-- [x] V *Quinta* — Aethelgard — [`../atlas-and-topography/cultures/ethnography-aethelgard-prime.md`](../atlas-and-topography/cultures/ethnography-aethelgard-prime.md) · bleed [`../atlas-and-topography/cultures/quinta-aethelgard-culture-bleed.md`](../atlas-and-topography/cultures/quinta-aethelgard-culture-bleed.md)
-- [x] VI *Sexta* — Bifrons-Ferrum — [`../atlas-and-topography/cultures/ethnography-bifrons-ferrum.md`](../atlas-and-topography/cultures/ethnography-bifrons-ferrum.md)
-- [x] VII *Septima* — Vitreus — [`../atlas-and-topography/cultures/ethnography-vitreus.md`](../atlas-and-topography/cultures/ethnography-vitreus.md) · bleed [`../atlas-and-topography/cultures/septima-vitreus-culture-bleed.md`](../atlas-and-topography/cultures/septima-vitreus-culture-bleed.md)
-- [x] VIII *Octava* — Station-Maleventum (+ Reef twin) — [`../atlas-and-topography/cultures/ethnography-station-maleventum.md`](../atlas-and-topography/cultures/ethnography-station-maleventum.md)
-- [x] IX *Nona* — Marco de Vetra — [`../atlas-and-topography/cultures/ethnography-marco-de-vetra.md`](../atlas-and-topography/cultures/ethnography-marco-de-vetra.md) · bleed [`../atlas-and-topography/cultures/nona-marco-de-vetra-culture-bleed.md`](../atlas-and-topography/cultures/nona-marco-de-vetra-culture-bleed.md)
+- [x] I *Prima* — Noviomagus — ethnography + [`prima-noviomagus-culture-bleed.md`](../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md) · wing stubs
+- [x] II *Secunda* — Castra-Vetera — ethnography + [`secunda-castra-vetera-culture-bleed.md`](../atlas-and-topography/cultures/secunda-castra-vetera-culture-bleed.md)
+- [x] III *Tertia* — Khan-Bator — ethnography + [`tertia-khan-bator-culture-bleed.md`](../atlas-and-topography/cultures/tertia-khan-bator-culture-bleed.md)
+- [x] Shared — Elysium-Minor — ethnography only (**no** Legatus bleed)
+- [x] IV *Quarta* — Incus Tertius — ethnography + [`quarta-incus-gravis-tertius-culture-bleed.md`](../atlas-and-topography/cultures/quarta-incus-gravis-tertius-culture-bleed.md)
+- [x] V *Quinta* — Aethelgard — ethnography + [`quinta-aethelgard-culture-bleed.md`](../atlas-and-topography/cultures/quinta-aethelgard-culture-bleed.md)
+- [x] VI *Sexta* — Bifrons-Ferrum — ethnography + [`sexta-bifrons-ferrum-culture-bleed.md`](../atlas-and-topography/cultures/sexta-bifrons-ferrum-culture-bleed.md)
+- [x] VII *Septima* — Vitreus — ethnography + [`septima-vitreus-culture-bleed.md`](../atlas-and-topography/cultures/septima-vitreus-culture-bleed.md)
+- [x] VIII *Octava* — Maleventum — ethnography + [`octava-station-maleventum-culture-bleed.md`](../atlas-and-topography/cultures/octava-station-maleventum-culture-bleed.md)
+- [x] IX *Nona* — Marco de Vetra — ethnography + [`nona-marco-de-vetra-culture-bleed.md`](../atlas-and-topography/cultures/nona-marco-de-vetra-culture-bleed.md)
 
-### Next waves
+### Waves
 
-- [ ] Wave 2 — Phase B bleeds for seats I–IX (Elysium: no Legatus bleed) — **III *Tertia* done** ([`tertia-khan-bator-culture-bleed.md`](../atlas-and-topography/cultures/tertia-khan-bator-culture-bleed.md)); I *Prima* bleed already on master
+- [x] Wave 2 — Phase B bleeds for seats I–IX (Elysium: no Legatus bleed)
 - [ ] Wave 3 — Phase C wing periphery bots per Legatus
