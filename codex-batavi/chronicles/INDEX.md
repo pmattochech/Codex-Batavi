@@ -20,6 +20,7 @@
 - [uninvited-road](traitor-first-contact/uninvited-road/chapter.md) — Otho / Haruspices / Nullity vs Thousand Sons (Vhorak); Witness Ford coffin shard; insult scar-names
 - [wasted-talent](traitor-first-contact/wasted-talent/chapter.md) — Iron Warriors vs Bifronte/*Sexta* vault armory; “Wasted Talent.”
 - [dead-meat](traitor-first-contact/dead-meat/chapter.md) — World Eaters (Khâdor/Skarvak) wiped by Armin/*Quinta*; Alpha Legion invisible scope-file; Silence ivory eye-lock handoff; “dead meat.”
+- [nothing-too-perfect](traitor-first-contact/nothing-too-perfect/chapter.md) — Silence + *Secunda*/Kessler vs Alpha Legion; dual-POV; Valens Ritter dual-path; “nothing too perfect.”
 
 ## green-tempest
 

@@ -69,8 +69,6 @@ Khâdor Vhex tried to make a stand that would buy extract. There was no extract 
 
 The stack went quiet except for grey countdown and the tick of cooling chain.
 
-The stack went quiet except for grey countdown and the tick of cooling chain.
-
 Above the kill-ground, an Alpha Legion watcher who had never intended to bleed for either side remained **invisible** — not glory-hidden, doctrine-hidden: no silhouette offered, no vox bleed, no pride-flare for either butcher-cult to notice. He worked the report through a long scope, slate ticking under the lens as if the Hydra could file a war without existing inside it.
 
 No intervention. No rescue. Filing only — the Hydra’s oldest mercy.
@@ -109,4 +107,4 @@ Then the next war began — not with a charge, with a question neither Legion ha
 
 *End of Chapter.*
 
-*Next:* Alpha Legion vs Batavi Silence (ivory right pauldron eye-lock — series handoff from this scope)
+*Next:* [Nothing Too Perfect](../nothing-too-perfect/chapter.md) — Silence + *Secunda* vs Alpha Legion (dual-POV handoff from this scope)
