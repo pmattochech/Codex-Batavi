@@ -128,6 +128,8 @@
 
 **Shards:** *autumn vow* (promise under falling leaves holograph), *ribbon saint* (archivist martyred for refusing to alter a death date), *triple stamp kiss* (iron humor — kiss the seal, not the ring).
 
+**Deep ethnography (mortals):** [ethnography-castra-vetera-prime.md](ethnography-castra-vetera-prime.md) · seat II *Secunda* · Legatus Henric Kessler (*the Caliper*). Phase B bleed deferred.
+
 ---
 
 ## Khan-Bator Prime (The Iron Granary)
