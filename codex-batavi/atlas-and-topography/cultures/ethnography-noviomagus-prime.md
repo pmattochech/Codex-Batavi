@@ -11,7 +11,7 @@
 **Local mortal sin (lock):** **Unlogged scrap** (paired civic wound: **missed torque**)  
 **Legatus public read (mortal):** **Warden Gauge** — the forge governor who keeps the ammo clocks honest; tallies over feast; not a parade king
 
-**I *Prima* bleed (ratified, separate file):** [`prima-noviomagus-culture-bleed.md`](prima-noviomagus-culture-bleed.md) · Legatus dossier (Chapter layer): [`dossier-corbec-ardens.md`](../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md)
+**I *Prima* bleed (ratified, Phase B template B1–B8 max depth):** [`prima-noviomagus-culture-bleed.md`](prima-noviomagus-culture-bleed.md) · Legatus dossier (Chapter layer): [`dossier-corbec-ardens.md`](../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md)
 
 ---
 
@@ -288,7 +288,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 
 ## 9. Related / deferred
 
-- **Phase B bleed file:** [`prima-noviomagus-culture-bleed.md`](prima-noviomagus-culture-bleed.md) (**ratified** — do not mix full bleed doctrine into this populi body).  
+- **Phase B bleed file:** [`prima-noviomagus-culture-bleed.md`](prima-noviomagus-culture-bleed.md) (**ratified** — framework Phase B template B1–B8 maximum depth; do not mix full bleed doctrine into this populi body).  
 - **Wing periphery (Phase C):** [`worlds-central-bastion.md`](worlds-central-bastion.md) § **I *Prima* wing** — Castrum Ferrum, Ferrum-Secondus, Hive Vespera, wet-shaft, Steel Belt, Horreum-Secundus (Noviomagus standard + minor local delta; no separate ethnographies this pass).  
 - **Sibling seats:** *Secunda* / *Tertia* and beyond — **do not absorb**.  
 - **Legatus Chapter layer:** [`dossier-corbec-ardens.md`](../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md) (sealed biography ≠ populi public read).

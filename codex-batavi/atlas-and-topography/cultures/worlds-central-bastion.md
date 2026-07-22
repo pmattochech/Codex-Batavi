@@ -22,7 +22,7 @@
 
 **Class / sin / Legatus (Phase A locks):** Fiction strata **Rabble · Common · Upper**; bridge = **Solis lower-upper**. Local mortal sin = **unlogged scrap** (paired: missed torque). Mortal Legatus read = **Warden Gauge** (Corbec Ardens — ammo clocks, not feast king). Sorting border = **Black Rain** + **elevator rights**.
 
-**Deep ethnography (mortals — framework Phase A):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md) · binding process: [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) · **I *Prima* bleed:** [prima-noviomagus-culture-bleed.md](prima-noviomagus-culture-bleed.md) · **Prima wing periphery (fork stubs):** § **I *Prima* wing** below.
+**Deep ethnography (mortals — framework Phase A):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md) · binding process: [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) · **I *Prima* bleed (Phase B B1–B8 max depth):** [prima-noviomagus-culture-bleed.md](prima-noviomagus-culture-bleed.md) · **Prima wing periphery (fork stubs):** § **I *Prima* wing** below.
 
 ---
 
