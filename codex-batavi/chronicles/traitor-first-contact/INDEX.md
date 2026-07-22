@@ -12,6 +12,7 @@
 | **Dead Meat** | [dead-meat/chapter.md](dead-meat/chapter.md) | **Khâdor Vhex** · **Skarvak** (WE) · Alpha Legion filer | Armin + *Quinta*; full wipe; SW/BA/WE sum + mince rebuttal; AL **invisible** scope-file; eye-lock with **ivory right pauldron** (Silence unnamed) → [Nothing Too Perfect](nothing-too-perfect/chapter.md). |
 | **Nothing Too Perfect** | [nothing-too-perfect/chapter.md](nothing-too-perfect/chapter.md) | AL (all **Alpharius**/lies) ↔ **Severin Holt** · **Kessler**/*Secunda* · **Valens Ritter** | Dual-POV file-war + invisible hunt; Sleepers/interrogatories; dual-path ivory/black. |
 | **No Joy** | [no-joy/chapter.md](no-joy/chapter.md) | **Vorthax Skain** (NL) · **Lord Mordren Vhaal** | Mystery hunters emerge/fade; Orvek wolf-helm kill; crew rescued to Castra Vetera; enemy proximity ban (Imperials OK). |
+| **No Encore** | [no-encore/chapter.md](no-encore/chapter.md) | **Vael Syrinx** · **Lirion** (EC) | Lucan/*Septima* + Stasis; Vitreus; Batavi silent; boredom → rage; *no encore*. |
 
 **Draft siblings (not yet promoted):**
 

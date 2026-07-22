@@ -23,6 +23,7 @@
 - [dead-meat](traitor-first-contact/dead-meat/chapter.md) — World Eaters (Khâdor/Skarvak) wiped by Armin/*Quinta*; Alpha Legion invisible scope-file; Silence ivory eye-lock handoff; “dead meat.”
 - [nothing-too-perfect](traitor-first-contact/nothing-too-perfect/chapter.md) — Silence + *Secunda*/Kessler vs Alpha Legion; dual-POV; Valens Ritter dual-path; “nothing too perfect.”
 - [no-joy](traitor-first-contact/no-joy/chapter.md) — Night Lords (Skain / Lord Mordren Vhaal) vs Batavi Shadows; *Saint Oriel Beckoning*; “Stay away from Castra Vetera.”
+- [no-encore](traitor-first-contact/no-encore/chapter.md) — Emperor’s Children (Vael Syrinx / Lirion) vs Lucan/*Septima* + Stasis; Vitreus; silent greys; “no encore.”
 
 ## green-tempest
 

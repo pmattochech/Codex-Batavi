@@ -133,4 +133,4 @@ On the dead bridge, the distress beacon kept singing until someone shut it off �
 
 *End of Chapter.*
 
-*Next:* (Series handoff TBD)
+*Next:* [No Encore](../no-encore/chapter.md) — Emperor’s Children vs *Septima* + Stasis
