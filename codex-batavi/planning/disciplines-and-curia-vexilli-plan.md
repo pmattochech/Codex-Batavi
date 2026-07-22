@@ -162,7 +162,7 @@ Adjutant Chaplains and sub-cohort Apothecaries remain in the **500** table; **Ge
 
 ### Creative expansion
 - More **named battle-brothers** (beyond current dossiers / Einar arc).
-- **Imperial citizens** / mortal-side lore under Castra Vetera — **Noviomagus closed:** ethnography [`../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../atlas-and-topography/cultures/ethnography-noviomagus-prime.md) · *Prima* bleed [`../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md).
+- **Imperial citizens** / mortal-side lore under Castra Vetera — **Noviomagus closed:** ethnography [`../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../atlas-and-topography/cultures/ethnography-noviomagus-prime.md) · *Prima* bleed [`../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md). **Castra-Vetera Prime Phase A closed (framework):** ethnography [`../atlas-and-topography/cultures/ethnography-castra-vetera-prime.md`](../atlas-and-topography/cultures/ethnography-castra-vetera-prime.md) — II *Secunda* / Kessler; Phase B bleed + Phase C wing deferred.
 - Optional: refresh [`varro-chaplain-judex.png`](../lore-images/varro-chaplain-judex.png) art ref to fire-orbs + incense jaws + pack thurible / flanking candles.
 - **Mortal mood / chronicle (Hymn of the Lost):** author mood lock done — [`HYMN-OF-THE-LOST-MOOD-LOCK.md`](HYMN-OF-THE-LOST-MOOD-LOCK.md) §1; backlog §2 culture-doc note (ethnography linked); backlog §3 pre-reconquest mortal chronicle.
 
