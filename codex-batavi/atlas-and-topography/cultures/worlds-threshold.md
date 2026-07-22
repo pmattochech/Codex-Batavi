@@ -21,13 +21,14 @@
 
 **Shards:** *spark marriage* (bond sealed under controlled arc), *wasp vow* (silence until battery speaks), *salt in the hull* (purification — ground the ship’s mood).
 
-**Deep ethnography (twin section):** [ethnography-station-maleventum.md](ethnography-station-maleventum.md) § **Twin — Great Reef**.
+**Deep ethnography (twin section):** [ethnography-station-maleventum.md](ethnography-station-maleventum.md) § **Twin — Great Reef**.  
+**Phase B bleed (station + reef contact surfaces):** [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md).
 
 ---
 
 ## Station-Maleventum (“Ultima Arx”)
 
-**Scale & role:** **Ramilles**-class **asteroid** fortress — **Iron Strait** choke; **Vexillatio VIII (*Octava*)** seat — Legatus **Ivar Malevent**; Chapter void culture bleeds into **civilian** dock law (surface habit until Phase B).
+**Scale & role:** **Ramilles**-class **asteroid** fortress — **Iron Strait** choke; **Vexillatio VIII (*Octava*)** seat — Legatus **Ivar Malevent**; Chapter void culture bleeds into **civilian** dock law (Phase B: [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md)).
 
 **Economy-ecology:** **Siege normal** — drills **interrupt** births and weddings.
 
@@ -41,7 +42,8 @@
 
 **Local mortal sin (lock):** **false pressure**. **Legatus public read (mortal):** **the Soft Voice** / **Static-Lord**.
 
-**Deep ethnography (Phase A — primary habitat + Great Reef twin):** [ethnography-station-maleventum.md](ethnography-station-maleventum.md).
+**Deep ethnography (Phase A — primary habitat + Great Reef twin):** [ethnography-station-maleventum.md](ethnography-station-maleventum.md).  
+**Phase B bleed:** [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md) — Navy/Navis heavy seam; Witness Ford = hazard not time-magic. Phase C wing **deferred**.
 
 ---
 
