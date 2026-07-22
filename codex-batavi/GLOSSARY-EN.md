@@ -7,6 +7,11 @@ Use when writing or editing English prose. Extend as you go.
 | Wolf's Curse | Three stages: Furor, Exanimus, Execratio |
 | **Iron Protocol** | Battle motto: *We hold.* |
 | **Faith Protocol** | Formal litany: *The Emperor dictates, we comply.* |
+| **Tenets of the Grey Wolves** | *Reclusiam* catechism (licensed liturgy) — [`tenets-of-the-grey-wolves.md`](lexicon-and-litanies/tenets-of-the-grey-wolves.md) |
+| **Litany of Iron** | Hold litany — *Iron remembers. Flesh obeys. The wall does not kneel.* → answer **Iron Protocol** |
+| **Litany of the Batav** | Kill-commit litany — *From the Needles. Into the tide. Break the armored skull.* |
+| **Ash-Oath** | Ancestor-Sovereign litany — *He carries the weight. We carry the wall.* |
+| **Wolfkeeper** | Chapter name for full *Reclusiam* soul-office (gloss: Chaplain); apex **Judex** / Master Wolfkeeper = Varro — [`wolfkeeper-and-reclusiam.md`](personae-command-index/doctrine-and-organs/wolfkeeper-and-reclusiam.md) |
 | ***Quinta* cadence** (assault / Aethelgard) | *We hold, as the Needles hold the cold tide.* — vexillatio answer to Iron Protocol; first documented **074.M42**, Moraine-Nine ([`red-tide/chapter.md`](chronicles/dreadwolf/red-tide/chapter.md)) |
 | **Einar Dreadwolf** | **Steppenwolf** (detached registry) + **first of The Lost** (*Amissi*); Lieutenant (**KIA 168.M42** Luna Sigma); capture **074.M42**; arc: [`dreadwolf/INDEX.md`](chronicles/dreadwolf/INDEX.md) — [`kzorns-maw`](chronicles/dreadwolf/kzorns-maw/chapter.md) → [`red-tide`](chronicles/dreadwolf/red-tide/chapter.md) → [`terminus`](chronicles/dreadwolf/terminus/chapter.md) |
 | **The Lost (*Amissi*)** | Small **Vermilion** detachment — **Exanimus** brothers who cannot hold stable ordinary command; **Varro** direct authority (Death Company analogue); **not** a cohort; founding exemplar **Einar** (registry stack with **Steppenwolf**) — [`amissi-the-lost.md`](personae-command-index/doctrine-and-organs/amissi-the-lost.md) |
