@@ -132,19 +132,21 @@
 
 ## Khan-Bator Prime (The Iron Granary)
 
+**Seat:** Vexillatio **III** (*Tertia*) · Legatus **Theron Brach** (mortal public read: **the Seal Flame**).
+
 **Scale & role:** **Dense atmosphere, super-oxygen** — **trillions** across **monoculture plains** and **nutrient-slime oceans**; **10 km silo-cities**.
 
 **Economy-ecology:** Caloric **factory** — algae, slime, bulk starch. **Fire religion** suppressed on purpose; sparks **kill** in oxygen-rich air.
 
 **Porta Nihili flavor:** God is **fed**. Virtue is **yield per hectare**. Sin is **diversion** — stolen grain is **theft from the Throne’s mouth**. Chapels bless **silos**, not soldiers first.
 
-**Social structure:** **Silo nobility** (elevator rights), **slime bargemen** guilds, **oxygen monitor** orders (masked, respected, feared). Seasonal **hunger festivals** are **statistical**, not festive — charts, not fireworks.
+**Social structure:** **Silo nobility** (elevator rights), **slime bargemen** guilds, **oxygen monitor** orders (masked, respected, feared), **Chart-Grace** lower-upper bridge houses (debt grace / Atlas-civil passes). Seasonal **hunger festivals** are **statistical**, not festive — charts, not fireworks. Class labels **Rabble / Common / Upper**; primary sorter **elevator rights**, secondary **oxygen grade**.
 
-**Fork:** **Granary empire** — bread-and-salt morality without romance. **Egypt / Mauretania** mood: **calendar saints**, **flood metaphors** rewritten as **slime tide**.
+**Fork:** **Granary empire** — bread-and-salt morality without romance. **Egypt / Mauretania** mood: **calendar saints**, **flood metaphors** rewritten as **slime tide**. Budget metaphor: **breath**. Physical locks: **yield · oxygen · elevator · silo**.
 
 **Shards:** *blue lung* (worker pride — oxygen adaptation), *salt-in-the-ration* (shared fate — imported into Batavi Dead’s Salt genealogy), *silo marriage* (two houses merge elevator keys).
 
-**Deep ethnography (mortals):** [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md)
+**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md). **Phase B** (*Tertia* bleed) and **Phase C** wing (Bator-Secundus / Tertius / Vacuum Harvest / Golden Grain) **deferred** — cross-link stubs below only; not absorbed into the capital ethnography.
 
 ---
 
