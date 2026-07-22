@@ -6,6 +6,7 @@
 | Chapter | File | POV | Batavi face | Notes |
 |---------|------|-----|-------------|-------|
 | **Claim Denied** | [claim-denied/chapter.md](claim-denied/chapter.md) | **Haarken Worldclaimer** · Gloomtalons | Corbec + *Prima* (unnamed) | Valerius-adjacency without naming him; claim vs gauge; Abaddon off-stage |
+| **The Uninvited Road** | [uninvited-road/chapter.md](uninvited-road/chapter.md) | **Otho** · Haruspices · **Nullity** | Coffin shard / Witness Ford annex; Magister Vhorak (Ashen Spiral); TS scar-names as **insults** |
 
 **Draft siblings (not yet promoted):**
 
