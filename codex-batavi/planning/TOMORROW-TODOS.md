@@ -31,7 +31,7 @@
 - [x] IV *Quarta* — Incus-Gravis Tertius — [`../atlas-and-topography/cultures/ethnography-incus-gravis-tertius.md`](../atlas-and-topography/cultures/ethnography-incus-gravis-tertius.md)
 - [x] V *Quinta* — Aethelgard — [`../atlas-and-topography/cultures/ethnography-aethelgard-prime.md`](../atlas-and-topography/cultures/ethnography-aethelgard-prime.md)
 - [x] VI *Sexta* — Bifrons-Ferrum — [`../atlas-and-topography/cultures/ethnography-bifrons-ferrum.md`](../atlas-and-topography/cultures/ethnography-bifrons-ferrum.md)
-- [x] VII *Septima* — Vitreus — [`../atlas-and-topography/cultures/ethnography-vitreus.md`](../atlas-and-topography/cultures/ethnography-vitreus.md)
+- [x] VII *Septima* — Vitreus — [`../atlas-and-topography/cultures/ethnography-vitreus.md`](../atlas-and-topography/cultures/ethnography-vitreus.md) · bleed [`../atlas-and-topography/cultures/septima-vitreus-culture-bleed.md`](../atlas-and-topography/cultures/septima-vitreus-culture-bleed.md)
 - [x] VIII *Octava* — Station-Maleventum (+ Reef twin) — [`../atlas-and-topography/cultures/ethnography-station-maleventum.md`](../atlas-and-topography/cultures/ethnography-station-maleventum.md)
 - [x] IX *Nona* — Marco de Vetra — [`../atlas-and-topography/cultures/ethnography-marco-de-vetra.md`](../atlas-and-topography/cultures/ethnography-marco-de-vetra.md)
 

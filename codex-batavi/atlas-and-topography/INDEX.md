@@ -12,7 +12,7 @@
   - [cultures/ethnography-incus-gravis-tertius.md](cultures/ethnography-incus-gravis-tertius.md) — IV *Quarta* · Incus-Gravis Tertius
   - [cultures/ethnography-aethelgard-prime.md](cultures/ethnography-aethelgard-prime.md) — V *Quinta* · Aethelgard · [cultures/geography-aethelgard-prime.md](cultures/geography-aethelgard-prime.md) (biomes)
   - [cultures/ethnography-bifrons-ferrum.md](cultures/ethnography-bifrons-ferrum.md) — VI *Sexta* · Bifrons-Ferrum
-  - [cultures/ethnography-vitreus.md](cultures/ethnography-vitreus.md) — VII *Septima* · Vitreus
+  - [cultures/ethnography-vitreus.md](cultures/ethnography-vitreus.md) — VII *Septima* · Vitreus · [cultures/septima-vitreus-culture-bleed.md](cultures/septima-vitreus-culture-bleed.md) (bleed)
   - [cultures/ethnography-station-maleventum.md](cultures/ethnography-station-maleventum.md) — VIII *Octava* · Station-Maleventum + Great Reef twin
   - [cultures/ethnography-marco-de-vetra.md](cultures/ethnography-marco-de-vetra.md) — IX *Nona* · Marco de Vetra
 - **Porta Nihili tooling (forks / history / hooks):** [cultures/porta-nihili-world-friction-matrix.md](cultures/porta-nihili-world-friction-matrix.md) (world-vs-world conflict fuel) · [cultures/porta-nihili-mortal-history-beat.md](cultures/porta-nihili-mortal-history-beat.md) (three-layer mortal timeline — cultural symptoms)

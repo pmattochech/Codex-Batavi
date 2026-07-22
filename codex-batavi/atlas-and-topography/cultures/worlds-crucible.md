@@ -87,7 +87,7 @@
 
 **Shards:** *slow eye* (trained patience before burst), *melt psalm* (hum while glass runs), *shard confession* (break glass — truth proportional to fragments).
 
-**Deep ethnography (mortals):** [ethnography-vitreus.md](ethnography-vitreus.md) — Phase A ratified; Phase B/C deferred; Silica Field full ethnography not absorbed (Wave 3).
+**Deep ethnography (mortals):** [ethnography-vitreus.md](ethnography-vitreus.md) — Phase A ratified · [septima-vitreus-culture-bleed.md](septima-vitreus-culture-bleed.md) (Phase B bleed) · Phase C wing stubs deferred · Silica Field full ethnography not absorbed (Wave 3).
 
 ---
 
