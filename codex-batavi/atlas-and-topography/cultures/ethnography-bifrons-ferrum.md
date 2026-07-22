@@ -11,6 +11,8 @@
 **Local mortal sin (lock):** **asymmetric seal**  
 **Legatus public read (mortal):** ***Pater Murorum*** — Father of Walls; also Twin-Gate Warden on Guard billets and span gossip
 
+**VI *Sexta* bleed (ratified, separate file):** [`sexta-bifrons-ferrum-culture-bleed.md`](sexta-bifrons-ferrum-culture-bleed.md) · Legatus dossier (Chapter layer): [`../../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md`](../../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md)
+
 **Sibling ethnographies (do not absorb):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md) · [ethnography-aethelgard-prime.md](ethnography-aethelgard-prime.md) · [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md)
 
 ---
@@ -334,11 +336,11 @@ Not a fourth class — same strata, different boss / holy object.
 
 ## 9. Related / deferred
 
-- **Phase B bleed file:** `deferred` — proposed path when ordered: [`sexta-bifrons-ferrum-culture-bleed.md`](sexta-bifrons-ferrum-culture-bleed.md) (VI *Sexta* ↔ Bifrons-Ferrum). Do not mix bleed doctrine into this Phase A body.  
-- **Wing periphery:** `deferred` — no VI *Sexta* wing stubs this pass; do not absorb Vitreus, Logus Ring, Incus spheres, or other Legatus seats.  
+- **Phase B bleed file:** [`sexta-bifrons-ferrum-culture-bleed.md`](sexta-bifrons-ferrum-culture-bleed.md) (VI *Sexta* ↔ Bifrons-Ferrum) — **ratified**. Do not mix bleed doctrine into this Phase A body.  
+- **Wing periphery:** `deferred` — no VI *Sexta* wing stubs this pass (Phase C out of scope); do not absorb Vitreus, Logus Ring, Incus spheres, or other Legatus seats.  
 - **Sibling seats:** Noviomagus (*Prima*), Castra-Vetera (*Secunda*), Khan-Bator (*Tertia*), Incus-Gravis (*Quarta*), Aethelgard (*Quinta*), Vitreus (*Septima*), Maleventum/Reef (*Octava*), Marco de Vetra (*Nona*) — **not** absorbed here.  
 - **Vault texture note:** Castra-Vetera / Castra-Lupus vault *surface* (sealed approaches, inventory prestige, sustainment rumor) may color tomb districts; **not** fortress-monastery office law, *Depositorium* clinical filing, or *Reclusiam* crypt pipeline.
 
 ---
 
-*Revision discipline:* dates and battle outcomes elsewhere in Codex supersede ethnographic generalizations if they conflict. Framework acceptance: §§0–9 + §7A present; Phase B/C deferred without doctrine bleed.
+*Revision discipline:* dates and battle outcomes elsewhere in Codex supersede ethnographic generalizations if they conflict. Framework acceptance: §§0–9 + §7A present; Phase B linked; Phase C deferred without doctrine bleed into this body.
