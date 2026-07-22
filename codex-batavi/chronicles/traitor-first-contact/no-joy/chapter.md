@@ -6,7 +6,7 @@
 **Who:** Night Lords squadron under **Vorthax Skain**; Batavi Lieutenant **Orvek Kriesen** (unnamed on-page until blood signature); recovery led by major Night Lord **Lord Mordren Vhaal**
 
 **Intel premise:** Batavi execution of **enemy** proximity (Night Lords / Chaos / xenos) near Castra Vetera — Imperial hulls may approach; this Ministorum merchant was prey for VIII, then a kill-box. Surviving crew **rescued to Castra Vetera**. Hunters stay **mystery** until blood signature / reels.  
-**Beat lock:** Disappearances climb Skain’s band through **curiosity → morbid fun → hate → despair**. Bridge tableau + sack. Unseen vox monologue; red lenses; Skain falls / slips in brothers’ gore; Orvek **emerges from invisibility** (user helm: grey-iron wolf head, crimson eyes); gorget haul; *Stay away from Castra Vetera*; upward brain-severing kill. Reader POV: visible Batavi fade back into invisibility → grim dead silence. Recovery: **Lord Mordren Vhaal** finds blood signature **From Orvek Kriesen of the Shadows Cohort**, then cogitators wake and he watches the kill-POVs.
+**Beat lock:** Disappearances climb Skain’s band through **curiosity → morbid fun → hate → despair**. Bridge tableau + sack. Unseen vox monologue; red lenses; Skain falls / slips in brothers’ gore; Orvek **emerges from invisibility** (grey-iron wolf head, crimson eyes — as locked on-page); gorget haul; *Stay away from Castra Vetera*; upward brain-severing kill. Visible Batavi cell fades back into invisibility → grim dead silence. Recovery: **Lord Mordren Vhaal** finds blood signature **From Orvek Kriesen of the Shadows Cohort**, then cogitators wake and he watches the kill-POVs.
 
 **Series:** [INDEX.md](../INDEX.md)  
 **Cross-references:** [steppenwolf-doctrine.md](../../../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) · [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md) §3.1 · [cohort-standard-kit.md](../../../arsenal-and-logistics/cohort-standard-kit.md) §2 · [nothing-too-perfect/chapter.md](../nothing-too-perfect/chapter.md) · [castra-vetera-galactic-lock.md](../../../atlas-and-topography/castra-vetera-galactic-lock.md)
@@ -91,7 +91,7 @@ The hunter’s free hand took Skain by the gorget and hauled him up into that mu
 
 The gladius went in from under the jaw — up through the head, brain severed, curriculum closed. Vorthax Skain ended without art.
 
-For a breath the reader’s eye was allowed what Skain had been denied: the bridge held more than one grey. Batavi marines stood visible in the kill-light and the residual glow of red lenses — black pauldrons, industrial plate, wolf-echoes without theater — a cell that had been there the whole time, invisible until the work required a body.
+For a breath the dark admitted what Skain had been denied: the bridge held more than one grey. Batavi marines stood visible in the kill-light and the residual glow of red lenses — black pauldrons, industrial plate, wolf-echoes without theater — a cell that had been there the whole time, invisible until the work required a body.
 
 Then they left the way they had come.
 
