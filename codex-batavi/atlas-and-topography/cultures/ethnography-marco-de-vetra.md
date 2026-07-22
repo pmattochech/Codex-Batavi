@@ -11,6 +11,8 @@
 **Local mortal sin (lock):** **Premature cry** (unbudgeted outbound — thermal, radio, or laser shout outside the release schedule)  
 **Legatus public read (mortal):** **the Warden** — bait-moon governor who buys seconds so the shout behind him stays clean
 
+**IX *Nona* bleed (ratified, separate file):** [`nona-marco-de-vetra-culture-bleed.md`](nona-marco-de-vetra-culture-bleed.md) · Legatus dossier (Chapter layer): [`dossier-cassian-vetra.md`](../../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md)
+
 ---
 
 ## 0. Preamble
@@ -72,7 +74,7 @@ Scale is **sparse** by Noviomagus measure: service castes, hereditary laser-hous
 ### 0.5 Local mortal sin & Legatus read
 
 - **Local mortal sin — premature cry:** Any **unbudgeted outbound** — open vox beyond suit mesh, laser paint without clearance, antenna test outside the window, panic pulse during hash, “helpful” early warning that paints the moon. Enforced by delay clerks, farm magistrates, Arbites when blood follows, and social death when it does not. **Class-colored:** Rabble = panic ping / stolen suit beacon; Common = mis-stamped window / “just a calibration”; Upper = patronage leak / house rivalry shout disguised as piety. Wolf metaphor discouraged in chapel speech; **signal wolf** (someone who howls early) is allowed cant.
-- **Legatus public read:** Mortals call Cassian Vetra **the Warden** — the bait-moon’s governor. Surface rumor: he lets enemies spend shells on the moon so the shout behind him stays clean. Attribution (mortal retellings of a formal line): *“Let them spend shells on me. The shout is not mine — it is yours, behind me.”* Full *Nona* doctrine = Phase B.
+- **Legatus public read:** Mortals call Cassian Vetra **the Warden** — the bait-moon’s governor. Surface rumor: he lets enemies spend shells on the moon so the shout behind him stays clean. Attribution (mortal retellings of a formal line): *“Let them spend shells on me. The shout is not mine — it is yours, behind me.”* Full *Nona* bleed mechanics: [`nona-marco-de-vetra-culture-bleed.md`](nona-marco-de-vetra-culture-bleed.md).
 
 ---
 
@@ -246,11 +248,11 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 
 ## 9. Related / deferred
 
-- Phase B bleed file: **deferred** — `nona-marco-de-vetra-culture-bleed.md` (not this pass)  
+- Phase B bleed file: [`nona-marco-de-vetra-culture-bleed.md`](nona-marco-de-vetra-culture-bleed.md) (**ratified** — do not mix full bleed doctrine into this populi body)  
 - Wing periphery: **deferred** — Station-IX, Silent Belt, Glass Eye, and other Vigil-Lucis bodies remain fork stubs on [worlds-threshold.md](worlds-threshold.md); Wave 3 cross-link only; no Phase C in this file  
 - Sibling seats: do **not** absorb *Octava* / Malevent reef culture, Noviomagus forge capital, or other Threshold capitals into this ethnography  
 
-**Acceptance gate (Phase A):** §§0–9 present; physical frame + fork + sorting tables; local sin locked (**premature cry**); Legatus public read (**the Warden**); six categories deep and class-banded; Sound per class; institutional slices; Imperial orgs matrix complete; shards + Wrong/Right; Education substantive; Batavi creed not collapsed into Ministorum; no Founding/progenitor invention; no opaque friend–foe abbreviations; chronological blindness respected; Phase B/C explicitly deferred.
+**Acceptance gate (Phase A):** §§0–9 present; physical frame + fork + sorting tables; local sin locked (**premature cry**); Legatus public read (**the Warden**); six categories deep and class-banded; Sound per class; institutional slices; Imperial orgs matrix complete; shards + Wrong/Right; Education substantive; Batavi creed not collapsed into Ministorum; no Founding/progenitor invention; no opaque friend–foe abbreviations; chronological blindness respected; Phase B linked separately; Phase C explicitly deferred.
 
 ---
 

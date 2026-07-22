@@ -33,9 +33,9 @@
 - [x] VI *Sexta* — Bifrons-Ferrum — [`../atlas-and-topography/cultures/ethnography-bifrons-ferrum.md`](../atlas-and-topography/cultures/ethnography-bifrons-ferrum.md)
 - [x] VII *Septima* — Vitreus — [`../atlas-and-topography/cultures/ethnography-vitreus.md`](../atlas-and-topography/cultures/ethnography-vitreus.md)
 - [x] VIII *Octava* — Station-Maleventum (+ Reef twin) — [`../atlas-and-topography/cultures/ethnography-station-maleventum.md`](../atlas-and-topography/cultures/ethnography-station-maleventum.md)
-- [x] IX *Nona* — Marco de Vetra — [`../atlas-and-topography/cultures/ethnography-marco-de-vetra.md`](../atlas-and-topography/cultures/ethnography-marco-de-vetra.md)
+- [x] IX *Nona* — Marco de Vetra — [`../atlas-and-topography/cultures/ethnography-marco-de-vetra.md`](../atlas-and-topography/cultures/ethnography-marco-de-vetra.md) · bleed [`../atlas-and-topography/cultures/nona-marco-de-vetra-culture-bleed.md`](../atlas-and-topography/cultures/nona-marco-de-vetra-culture-bleed.md)
 
 ### Next waves
 
-- [ ] Wave 2 — Phase B bleeds for seats I–IX (Elysium: no Legatus bleed)
+- [ ] Wave 2 — Phase B bleeds for seats I–IX (Elysium: no Legatus bleed; I *Prima* + IX *Nona* done)
 - [ ] Wave 3 — Phase C wing periphery bots per Legatus

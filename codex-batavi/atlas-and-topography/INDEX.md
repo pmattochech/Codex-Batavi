@@ -14,7 +14,7 @@
   - [cultures/ethnography-bifrons-ferrum.md](cultures/ethnography-bifrons-ferrum.md) — VI *Sexta* · Bifrons-Ferrum
   - [cultures/ethnography-vitreus.md](cultures/ethnography-vitreus.md) — VII *Septima* · Vitreus
   - [cultures/ethnography-station-maleventum.md](cultures/ethnography-station-maleventum.md) — VIII *Octava* · Station-Maleventum + Great Reef twin
-  - [cultures/ethnography-marco-de-vetra.md](cultures/ethnography-marco-de-vetra.md) — IX *Nona* · Marco de Vetra
+  - [cultures/ethnography-marco-de-vetra.md](cultures/ethnography-marco-de-vetra.md) — IX *Nona* · Marco de Vetra · [cultures/nona-marco-de-vetra-culture-bleed.md](cultures/nona-marco-de-vetra-culture-bleed.md) (bleed) · [cultures/worlds-threshold.md](cultures/worlds-threshold.md) § Marco (Phase C wing deferred — Station-IX Wave 3 stubs only)
 - **Porta Nihili tooling (forks / history / hooks):** [cultures/porta-nihili-world-friction-matrix.md](cultures/porta-nihili-world-friction-matrix.md) (world-vs-world conflict fuel) · [cultures/porta-nihili-mortal-history-beat.md](cultures/porta-nihili-mortal-history-beat.md) (three-layer mortal timeline — cultural symptoms)
 - *Legatus seats ↔ Vexillationes (weapon bias):* [../arsenal-and-logistics/vexillatio-operational-armory.md](../arsenal-and-logistics/vexillatio-operational-armory.md) §2
 - **systems/** (topography and geopolitics; canonical flora/fauna matrices in the [encyclopedia](../biological-encyclopedia-bestiary/INDEX.md))
