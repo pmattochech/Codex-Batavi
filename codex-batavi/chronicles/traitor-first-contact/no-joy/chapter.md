@@ -91,7 +91,7 @@ Then the distance lied.
 
 The grey was simply **there** — close enough to own Skain’s breath — as if the slow walk had been a courtesy the dark revoked at the last meter. Power gladius woke in a hard white edge. Its light cut the void and finally gave the hunter a body: industrial grey wolf-marked plate, black work where the dark had hidden it, and a helm that was not a Castellan’s full Iron Head — a **custom Mark VI Corvus** rebuilt into a **wolf’s skull-and-muzzle grammar**, beaked ancestry still readable under the lupine reshape, similar enough to the Wall’s famous predator helm to insult recognition, different enough that Skain knew this was not the Father of the Wall come to lecture. Red lenses in the wolf’s orbits. No applause in them.
 
-Orvek Kriesen’s free hand took Skain by the gorget and hauled him up into that muzzle until midnight ceramite kissed wolf-plate and the Night Lord’s insults died against another Legion’s quiet.
+The hunter’s free hand took Skain by the gorget and hauled him up into that muzzle until midnight ceramite kissed wolf-plate and the Night Lord’s insults died against another Legion’s quiet.
 
 — Stay away from Castra Vetera.
 
