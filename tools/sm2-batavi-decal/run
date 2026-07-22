@@ -1,0 +1,52 @@
+#!/usr/bin/env bash
+# Linux / WSL entrypoint for the Batavi SM2 decal pipeline.
+set -euo pipefail
+
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+CMD="${1:-}"
+shift || true
+
+usage() {
+  cat <<'EOF'
+Usage: ./run <command> [args...]
+
+Commands:
+  prepare-tga [newslot|replace] [seal.png]   Export seal to TGA
+  clone-sso [template-dir]                   Clone Batavi SSO entries
+  pack [out_name] [stage-dir]                Build Mods .pak (zip -0)
+  install-local [game-root]                  Copy stage/ into client_pc/root/local/
+  shell                                      Interactive bash in this directory
+  help                                       Show this help
+
+On Windows, always use run.cmd (forces WSL). Do not run the .ps1 wrappers outside WSL.
+EOF
+}
+
+case "$CMD" in
+  prepare-tga|tga)
+    exec bash "$ROOT/bin/prepare_tga_from_seal.sh" "$@"
+    ;;
+  clone-sso|clone)
+    exec bash "$ROOT/bin/clone_batavi_sso.sh" "$@"
+    ;;
+  pack|pak)
+    exec bash "$ROOT/bin/new_mod_pak.sh" "$@"
+    ;;
+  install-local|install)
+    exec bash "$ROOT/bin/install_to_local.sh" "$@"
+    ;;
+  shell)
+    cd "$ROOT"
+    exec bash
+    ;;
+  help|-h|--help|"")
+    usage
+    [[ -n "$CMD" ]] || exit 1
+    exit 0
+    ;;
+  *)
+    echo "error: unknown command: $CMD" >&2
+    usage >&2
+    exit 1
+    ;;
+esac

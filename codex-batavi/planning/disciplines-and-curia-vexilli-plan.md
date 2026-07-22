@@ -162,8 +162,8 @@ Adjutant Chaplains and sub-cohort Apothecaries remain in the **500** table; **Ge
 
 ### Creative expansion
 - More **named battle-brothers** (beyond current dossiers / Einar arc).
-- **Imperial citizens** / mortal-side lore under Castra Vetera.
+- **Imperial citizens** / mortal-side lore under Castra Vetera — **Noviomagus closed:** ethnography [`../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../atlas-and-topography/cultures/ethnography-noviomagus-prime.md) · *Prima* bleed [`../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md).
 - Optional: refresh [`varro-chaplain-judex.png`](../lore-images/varro-chaplain-judex.png) art ref to fire-orbs + incense jaws + pack thurible / flanking candles.
-- **Mortal mood / chronicle (Hymn of the Lost):** author mood lock done — [`HYMN-OF-THE-LOST-MOOD-LOCK.md`](HYMN-OF-THE-LOST-MOOD-LOCK.md) §1; backlog §2 culture-doc note; backlog §3 pre-reconquest mortal chronicle.
+- **Mortal mood / chronicle (Hymn of the Lost):** author mood lock done — [`HYMN-OF-THE-LOST-MOOD-LOCK.md`](HYMN-OF-THE-LOST-MOOD-LOCK.md) §1; backlog §2 culture-doc note (ethnography linked); backlog §3 pre-reconquest mortal chronicle.
 
 Doctrine lock: [`mortivigil-and-reclusiam-helm-law.md`](../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md) §VI–§IX.

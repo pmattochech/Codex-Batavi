@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210mm" height="297mm" viewBox="0 0 210 297"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  inkscape:version="1.4.3"
+  sodipodi:docname="batavi-transfer-sheet-01-roles-A4.svg">
+  <sodipodi:namedview
+     id="namedview"
+     pagecolor="#1a1a1a"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:document-units="mm"
+     units="mm"
+     showgrid="true"
+     inkscape:grid-bbox="true">
+    <inkscape:grid type="xygrid" units="mm" spacingx="5" spacingy="5" empspacing="2"/>
+  </sodipodi:namedview>
+  <title>batavi-transfer-sheet-01-roles-A4.svg</title>
+  <defs id="defs"/>
+  <g inkscape:groupmode="layer" id="layer_guides" inkscape:label="00 Guides">
+  <text x="6" y="8" style="font-family:DejaVu Sans,sans-serif;font-size:3.6px;fill:#9a9a9a">BATAVI TRANSFERS 01/02 — Pure line roles + wolf slots</text>
+  <text x="6" y="12.5" style="font-family:DejaVu Sans,sans-serif;font-size:2.4px;fill:#9a9a9a">White glyphs · dark page preview · export PNG/PDF with transparent BG for waterslide</text>
+  <text x="6" y="16.5" style="font-family:DejaVu Sans,sans-serif;font-size:2.2px;fill:#9a9a9a">Source plan: planning/BATAVI-TRANSFER-DECALS-PLAN.md</text>
+  <rect x="4" y="4" width="202" height="289" style="fill:none;stroke:#9a9a9a;stroke-width:0.25;stroke-dasharray:1.5,1.5"/>
+  </g>
+  <g inkscape:groupmode="layer" id="layer_wolf" inkscape:label="01 Left wolf (import chapter-seal.svg)">
+  <text x="6" y="24" style="font-family:DejaVu Sans,sans-serif;font-size:2.8px;fill:#9a9a9a">LEFT PAULDRON — paste simplified wolf from chapter-seal.svg (S / M / L)</text>
+  <circle cx="18" cy="38" r="6" style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:1,0.8"/>
+  <text x="14" y="48" style="font-family:DejaVu Sans,sans-serif;font-size:2.2px;fill:#ffffff">wolf S</text>
+  <circle cx="50" cy="38" r="8" style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:1,0.8"/>
+  <text x="46" y="50" style="font-family:DejaVu Sans,sans-serif;font-size:2.2px;fill:#ffffff">wolf M</text>
+  <circle cx="82" cy="38" r="11" style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:1,0.8"/>
+  <text x="78" y="53" style="font-family:DejaVu Sans,sans-serif;font-size:2.2px;fill:#ffffff">wolf L</text>
+  </g>
+  <g inkscape:groupmode="layer" id="layer_roles" inkscape:label="02 Pure line role + Roman I–X">
+  <text x="6" y="52" style="font-family:DejaVu Sans,sans-serif;font-size:2.6px;fill:#9a9a9a">Battleline (Codex vertical arrow)</text>
+  <g id="master_battleline" inkscape:label="master_battleline">
+  <path style="fill:#ffffff;stroke:none" d="M 12.31,61.58 L 15.69,61.58 L 15.69,57.48 L 16.73,57.48 L 14,53.97 L 11.27,57.48 L 12.31,57.48 Z"/>
+  </g>
+  <g id="batavi_r_shldr_line_battleline_I" inkscape:label="batavi_r_shldr_line_battleline_I">
+  <path style="fill:#ffffff;stroke:none" d="M 28.39,61.41 L 31.61,61.41 L 31.61,57.50 L 32.60,57.50 L 30.0,54.16 L 27.40,57.50 L 28.39,57.50 Z"/>
+  <text x="30.0" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">I</text>
+  <text x="30.0" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">I</text>
+  </g>
+  <g id="batavi_r_shldr_line_battleline_II" inkscape:label="batavi_r_shldr_line_battleline_II">
+  <path style="fill:#ffffff;stroke:none" d="M 45.59,61.41 L 48.81,61.41 L 48.81,57.50 L 49.80,57.50 L 47.2,54.16 L 44.60,57.50 L 45.59,57.50 Z"/>
+  <text x="47.2" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">II</text>
+  <text x="47.2" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">II</text>
+  </g>
+  <g id="batavi_r_shldr_line_battleline_III" inkscape:label="batavi_r_shldr_line_battleline_III">
+  <path style="fill:#ffffff;stroke:none" d="M 62.79,61.41 L 66.01,61.41 L 66.01,57.50 L 67.00,57.50 L 64.4,54.16 L 61.80,57.50 L 62.79,57.50 Z"/>
+  <text x="64.4" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#000000;opacity:0.35">III</text>
+  <text x="64.4" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#ffffff">III</text>
+  </g>
+  <g id="batavi_r_shldr_line_battleline_IV" inkscape:label="batavi_r_shldr_line_battleline_IV">
+  <path style="fill:#ffffff;stroke:none" d="M 79.99,61.41 L 83.21,61.41 L 83.21,57.50 L 84.20,57.50 L 81.6,54.16 L 79.00,57.50 L 79.99,57.50 Z"/>
+  <text x="81.6" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">IV</text>
+  <text x="81.6" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">IV</text>
+  </g>
+  <g id="batavi_r_shldr_line_battleline_V" inkscape:label="batavi_r_shldr_line_battleline_V">
+  <path style="fill:#ffffff;stroke:none" d="M 97.19,61.41 L 100.41,61.41 L 100.41,57.50 L 101.40,57.50 L 98.8,54.16 L 96.20,57.50 L 97.19,57.50 Z"/>
+  <text x="98.8" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">V</text>
+  <text x="98.8" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">V</text>
+  </g>
+  <g id="batavi_r_shldr_line_battleline_VI" inkscape:label="batavi_r_shldr_line_battleline_VI">
+  <path style="fill:#ffffff;stroke:none" d="M 114.39,61.41 L 117.61,61.41 L 117.61,57.50 L 118.60,57.50 L 116.0,54.16 L 113.40,57.50 L 114.39,57.50 Z"/>
+  <text x="116.0" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">VI</text>
+  <text x="116.0" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">VI</text>
+  </g>
+  <g id="batavi_r_shldr_line_battleline_VII" inkscape:label="batavi_r_shldr_line_battleline_VII">
+  <path style="fill:#ffffff;stroke:none" d="M 131.59,61.41 L 134.81,61.41 L 134.81,57.50 L 135.80,57.50 L 133.2,54.16 L 130.60,57.50 L 131.59,57.50 Z"/>
+  <text x="133.2" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#000000;opacity:0.35">VII</text>
+  <text x="133.2" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#ffffff">VII</text>
+  </g>
+  <g id="batavi_r_shldr_line_battleline_VIII" inkscape:label="batavi_r_shldr_line_battleline_VIII">
+  <path style="fill:#ffffff;stroke:none" d="M 148.79,61.41 L 152.01,61.41 L 152.01,57.50 L 153.00,57.50 L 150.39999999999998,54.16 L 147.80,57.50 L 148.79,57.50 Z"/>
+  <text x="150.39999999999998" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:1.7px;fill:#000000;opacity:0.35">VIII</text>
+  <text x="150.39999999999998" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:1.7px;fill:#ffffff">VIII</text>
+  </g>
+  <g id="batavi_r_shldr_line_battleline_IX" inkscape:label="batavi_r_shldr_line_battleline_IX">
+  <path style="fill:#ffffff;stroke:none" d="M 165.99,61.41 L 169.21,61.41 L 169.21,57.50 L 170.20,57.50 L 167.6,54.16 L 165.00,57.50 L 165.99,57.50 Z"/>
+  <text x="167.6" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">IX</text>
+  <text x="167.6" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">IX</text>
+  </g>
+  <g id="batavi_r_shldr_line_battleline_X" inkscape:label="batavi_r_shldr_line_battleline_X">
+  <path style="fill:#ffffff;stroke:none" d="M 183.19,61.41 L 186.41,61.41 L 186.41,57.50 L 187.40,57.50 L 184.79999999999998,54.16 L 182.20,57.50 L 183.19,57.50 Z"/>
+  <text x="184.79999999999998" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">X</text>
+  <text x="184.79999999999998" y="58.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">X</text>
+  </g>
+  <text x="6" y="88" style="font-family:DejaVu Sans,sans-serif;font-size:2.6px;fill:#9a9a9a">Close support (crossed arrows)</text>
+  <g id="master_assault" inkscape:label="master_assault">
+  <g transform="translate(14,94) rotate(45)">
+    <rect x="-0.71" y="-4.42" width="1.43" height="8.84" style="fill:#ffffff"/>
+    <path d="M 0,-5.98 L 2.08,-3.38 L -2.08,-3.38 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.98 L 2.08,3.38 L -2.08,3.38 Z" style="fill:#ffffff"/>
+  </g>
+  <g transform="translate(14,94) rotate(-45)">
+    <rect x="-0.71" y="-4.42" width="1.43" height="8.84" style="fill:#ffffff"/>
+    <path d="M 0,-5.98 L 2.08,-3.38 L -2.08,-3.38 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.98 L 2.08,3.38 L -2.08,3.38 Z" style="fill:#ffffff"/>
+  </g>
+  </g>
+  <g id="batavi_r_shldr_line_assault_I" inkscape:label="batavi_r_shldr_line_assault_I">
+  <g transform="translate(30.0,94) rotate(45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <g transform="translate(30.0,94) rotate(-45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <text x="30.0" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">I</text>
+  <text x="30.0" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">I</text>
+  </g>
+  <g id="batavi_r_shldr_line_assault_II" inkscape:label="batavi_r_shldr_line_assault_II">
+  <g transform="translate(47.2,94) rotate(45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <g transform="translate(47.2,94) rotate(-45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <text x="47.2" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">II</text>
+  <text x="47.2" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">II</text>
+  </g>
+  <g id="batavi_r_shldr_line_assault_III" inkscape:label="batavi_r_shldr_line_assault_III">
+  <g transform="translate(64.4,94) rotate(45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <g transform="translate(64.4,94) rotate(-45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <text x="64.4" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#000000;opacity:0.35">III</text>
+  <text x="64.4" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#ffffff">III</text>
+  </g>
+  <g id="batavi_r_shldr_line_assault_IV" inkscape:label="batavi_r_shldr_line_assault_IV">
+  <g transform="translate(81.6,94) rotate(45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <g transform="translate(81.6,94) rotate(-45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <text x="81.6" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">IV</text>
+  <text x="81.6" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">IV</text>
+  </g>
+  <g id="batavi_r_shldr_line_assault_V" inkscape:label="batavi_r_shldr_line_assault_V">
+  <g transform="translate(98.8,94) rotate(45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <g transform="translate(98.8,94) rotate(-45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <text x="98.8" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">V</text>
+  <text x="98.8" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">V</text>
+  </g>
+  <g id="batavi_r_shldr_line_assault_VI" inkscape:label="batavi_r_shldr_line_assault_VI">
+  <g transform="translate(116.0,94) rotate(45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <g transform="translate(116.0,94) rotate(-45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <text x="116.0" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">VI</text>
+  <text x="116.0" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">VI</text>
+  </g>
+  <g id="batavi_r_shldr_line_assault_VII" inkscape:label="batavi_r_shldr_line_assault_VII">
+  <g transform="translate(133.2,94) rotate(45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <g transform="translate(133.2,94) rotate(-45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <text x="133.2" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#000000;opacity:0.35">VII</text>
+  <text x="133.2" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#ffffff">VII</text>
+  </g>
+  <g id="batavi_r_shldr_line_assault_VIII" inkscape:label="batavi_r_shldr_line_assault_VIII">
+  <g transform="translate(150.39999999999998,94) rotate(45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <g transform="translate(150.39999999999998,94) rotate(-45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <text x="150.39999999999998" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:1.7px;fill:#000000;opacity:0.35">VIII</text>
+  <text x="150.39999999999998" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:1.7px;fill:#ffffff">VIII</text>
+  </g>
+  <g id="batavi_r_shldr_line_assault_IX" inkscape:label="batavi_r_shldr_line_assault_IX">
+  <g transform="translate(167.6,94) rotate(45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <g transform="translate(167.6,94) rotate(-45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <text x="167.6" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">IX</text>
+  <text x="167.6" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">IX</text>
+  </g>
+  <g id="batavi_r_shldr_line_assault_X" inkscape:label="batavi_r_shldr_line_assault_X">
+  <g transform="translate(184.79999999999998,94) rotate(45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <g transform="translate(184.79999999999998,94) rotate(-45)">
+    <rect x="-0.68" y="-4.22" width="1.36" height="8.43" style="fill:#ffffff"/>
+    <path d="M 0,-5.70 L 1.98,-3.22 L -1.98,-3.22 Z" style="fill:#ffffff"/>
+    <path d="M 0,5.70 L 1.98,3.22 L -1.98,3.22 Z" style="fill:#ffffff"/>
+  </g>
+  <text x="184.79999999999998" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">X</text>
+  <text x="184.79999999999998" y="94.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">X</text>
+  </g>
+  <text x="6" y="124" style="font-family:DejaVu Sans,sans-serif;font-size:2.6px;fill:#9a9a9a">Fire support (inverted V)</text>
+  <g id="master_firesupport" inkscape:label="master_firesupport">
+  <path style="fill:#ffffff;stroke:none" d="M 9.32,126.62 L 11.01,126.62 L 14,132.08 L 16.99,126.62 L 18.68,126.62 L 14,134.03 Z"/>
+  </g>
+  <g id="batavi_r_shldr_line_firesupport_I" inkscape:label="batavi_r_shldr_line_firesupport_I">
+  <path style="fill:#ffffff;stroke:none" d="M 25.54,126.78 L 27.15,126.78 L 30.0,131.98 L 32.85,126.78 L 34.46,126.78 L 30.0,133.84 Z"/>
+  <text x="30.0" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">I</text>
+  <text x="30.0" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">I</text>
+  </g>
+  <g id="batavi_r_shldr_line_firesupport_II" inkscape:label="batavi_r_shldr_line_firesupport_II">
+  <path style="fill:#ffffff;stroke:none" d="M 42.74,126.78 L 44.35,126.78 L 47.2,131.98 L 50.05,126.78 L 51.66,126.78 L 47.2,133.84 Z"/>
+  <text x="47.2" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">II</text>
+  <text x="47.2" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">II</text>
+  </g>
+  <g id="batavi_r_shldr_line_firesupport_III" inkscape:label="batavi_r_shldr_line_firesupport_III">
+  <path style="fill:#ffffff;stroke:none" d="M 59.94,126.78 L 61.55,126.78 L 64.4,131.98 L 67.25,126.78 L 68.86,126.78 L 64.4,133.84 Z"/>
+  <text x="64.4" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#000000;opacity:0.35">III</text>
+  <text x="64.4" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#ffffff">III</text>
+  </g>
+  <g id="batavi_r_shldr_line_firesupport_IV" inkscape:label="batavi_r_shldr_line_firesupport_IV">
+  <path style="fill:#ffffff;stroke:none" d="M 77.14,126.78 L 78.75,126.78 L 81.6,131.98 L 84.45,126.78 L 86.06,126.78 L 81.6,133.84 Z"/>
+  <text x="81.6" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">IV</text>
+  <text x="81.6" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">IV</text>
+  </g>
+  <g id="batavi_r_shldr_line_firesupport_V" inkscape:label="batavi_r_shldr_line_firesupport_V">
+  <path style="fill:#ffffff;stroke:none" d="M 94.34,126.78 L 95.95,126.78 L 98.8,131.98 L 101.65,126.78 L 103.26,126.78 L 98.8,133.84 Z"/>
+  <text x="98.8" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">V</text>
+  <text x="98.8" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">V</text>
+  </g>
+  <g id="batavi_r_shldr_line_firesupport_VI" inkscape:label="batavi_r_shldr_line_firesupport_VI">
+  <path style="fill:#ffffff;stroke:none" d="M 111.54,126.78 L 113.15,126.78 L 116.0,131.98 L 118.85,126.78 L 120.46,126.78 L 116.0,133.84 Z"/>
+  <text x="116.0" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">VI</text>
+  <text x="116.0" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">VI</text>
+  </g>
+  <g id="batavi_r_shldr_line_firesupport_VII" inkscape:label="batavi_r_shldr_line_firesupport_VII">
+  <path style="fill:#ffffff;stroke:none" d="M 128.74,126.78 L 130.35,126.78 L 133.2,131.98 L 136.05,126.78 L 137.66,126.78 L 133.2,133.84 Z"/>
+  <text x="133.2" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#000000;opacity:0.35">VII</text>
+  <text x="133.2" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#ffffff">VII</text>
+  </g>
+  <g id="batavi_r_shldr_line_firesupport_VIII" inkscape:label="batavi_r_shldr_line_firesupport_VIII">
+  <path style="fill:#ffffff;stroke:none" d="M 145.94,126.78 L 147.55,126.78 L 150.39999999999998,131.98 L 153.25,126.78 L 154.86,126.78 L 150.39999999999998,133.84 Z"/>
+  <text x="150.39999999999998" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:1.7px;fill:#000000;opacity:0.35">VIII</text>
+  <text x="150.39999999999998" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:1.7px;fill:#ffffff">VIII</text>
+  </g>
+  <g id="batavi_r_shldr_line_firesupport_IX" inkscape:label="batavi_r_shldr_line_firesupport_IX">
+  <path style="fill:#ffffff;stroke:none" d="M 163.14,126.78 L 164.75,126.78 L 167.6,131.98 L 170.45,126.78 L 172.06,126.78 L 167.6,133.84 Z"/>
+  <text x="167.6" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">IX</text>
+  <text x="167.6" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">IX</text>
+  </g>
+  <g id="batavi_r_shldr_line_firesupport_X" inkscape:label="batavi_r_shldr_line_firesupport_X">
+  <path style="fill:#ffffff;stroke:none" d="M 180.34,126.78 L 181.95,126.78 L 184.79999999999998,131.98 L 187.65,126.78 L 189.26,126.78 L 184.79999999999998,133.84 Z"/>
+  <text x="184.79999999999998" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">X</text>
+  <text x="184.79999999999998" y="130.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">X</text>
+  </g>
+  <text x="6" y="160" style="font-family:DejaVu Sans,sans-serif;font-size:2.6px;fill:#9a9a9a">Command slot (skull + laurel)</text>
+  <g id="master_command" inkscape:label="master_command">
+  <ellipse cx="14" cy="165.48" rx="2.34" ry="2.46" style="fill:#ffffff"/>
+  <ellipse cx="13.15" cy="165.35" rx="0.46" ry="0.58" style="fill:#111"/>
+  <ellipse cx="14.85" cy="165.35" rx="0.46" ry="0.58" style="fill:#111"/>
+  <path d="M 13.54,166.26 L 14.46,166.26 L 14,167.04 Z" style="fill:#111"/>
+  <path d="M 10.62,166.78 Q 9.58,164.83 11.92,162.62" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <path d="M 17.38,166.78 Q 18.42,164.83 16.08,162.62" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <rect x="12.70" y="167.69" width="2.60" height="1.56" rx="0.25" style="fill:#ffffff"/>
+  </g>
+  <g id="batavi_r_shldr_line_command_I" inkscape:label="batavi_r_shldr_line_command_I">
+  <ellipse cx="30.0" cy="165.50" rx="2.23" ry="2.34" style="fill:#ffffff"/>
+  <ellipse cx="29.19" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <ellipse cx="30.81" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <path d="M 29.57,166.25 L 30.43,166.25 L 30.0,166.99 Z" style="fill:#111"/>
+  <path d="M 26.78,166.74 Q 25.78,164.88 28.02,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <path d="M 33.22,166.74 Q 34.22,164.88 31.98,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <rect x="28.76" y="167.61" width="2.48" height="1.49" rx="0.25" style="fill:#ffffff"/>
+  <text x="30.0" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">I</text>
+  <text x="30.0" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">I</text>
+  </g>
+  <g id="batavi_r_shldr_line_command_II" inkscape:label="batavi_r_shldr_line_command_II">
+  <ellipse cx="47.2" cy="165.50" rx="2.23" ry="2.34" style="fill:#ffffff"/>
+  <ellipse cx="46.39" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <ellipse cx="48.01" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <path d="M 46.77,166.25 L 47.63,166.25 L 47.2,166.99 Z" style="fill:#111"/>
+  <path d="M 43.98,166.74 Q 42.98,164.88 45.22,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <path d="M 50.42,166.74 Q 51.42,164.88 49.18,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <rect x="45.96" y="167.61" width="2.48" height="1.49" rx="0.25" style="fill:#ffffff"/>
+  <text x="47.2" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">II</text>
+  <text x="47.2" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">II</text>
+  </g>
+  <g id="batavi_r_shldr_line_command_III" inkscape:label="batavi_r_shldr_line_command_III">
+  <ellipse cx="64.4" cy="165.50" rx="2.23" ry="2.34" style="fill:#ffffff"/>
+  <ellipse cx="63.59" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <ellipse cx="65.21" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <path d="M 63.97,166.25 L 64.83,166.25 L 64.4,166.99 Z" style="fill:#111"/>
+  <path d="M 61.18,166.74 Q 60.18,164.88 62.42,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <path d="M 67.62,166.74 Q 68.62,164.88 66.38,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <rect x="63.16" y="167.61" width="2.48" height="1.49" rx="0.25" style="fill:#ffffff"/>
+  <text x="64.4" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#000000;opacity:0.35">III</text>
+  <text x="64.4" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#ffffff">III</text>
+  </g>
+  <g id="batavi_r_shldr_line_command_IV" inkscape:label="batavi_r_shldr_line_command_IV">
+  <ellipse cx="81.6" cy="165.50" rx="2.23" ry="2.34" style="fill:#ffffff"/>
+  <ellipse cx="80.79" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <ellipse cx="82.41" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <path d="M 81.17,166.25 L 82.03,166.25 L 81.6,166.99 Z" style="fill:#111"/>
+  <path d="M 78.38,166.74 Q 77.38,164.88 79.62,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <path d="M 84.82,166.74 Q 85.82,164.88 83.58,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <rect x="80.36" y="167.61" width="2.48" height="1.49" rx="0.25" style="fill:#ffffff"/>
+  <text x="81.6" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">IV</text>
+  <text x="81.6" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">IV</text>
+  </g>
+  <g id="batavi_r_shldr_line_command_V" inkscape:label="batavi_r_shldr_line_command_V">
+  <ellipse cx="98.8" cy="165.50" rx="2.23" ry="2.34" style="fill:#ffffff"/>
+  <ellipse cx="97.99" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <ellipse cx="99.61" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <path d="M 98.37,166.25 L 99.23,166.25 L 98.8,166.99 Z" style="fill:#111"/>
+  <path d="M 95.58,166.74 Q 94.58,164.88 96.82,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <path d="M 102.02,166.74 Q 103.02,164.88 100.78,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <rect x="97.56" y="167.61" width="2.48" height="1.49" rx="0.25" style="fill:#ffffff"/>
+  <text x="98.8" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">V</text>
+  <text x="98.8" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">V</text>
+  </g>
+  <g id="batavi_r_shldr_line_command_VI" inkscape:label="batavi_r_shldr_line_command_VI">
+  <ellipse cx="116.0" cy="165.50" rx="2.23" ry="2.34" style="fill:#ffffff"/>
+  <ellipse cx="115.19" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <ellipse cx="116.81" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <path d="M 115.57,166.25 L 116.43,166.25 L 116.0,166.99 Z" style="fill:#111"/>
+  <path d="M 112.78,166.74 Q 111.78,164.88 114.02,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <path d="M 119.22,166.74 Q 120.22,164.88 117.98,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <rect x="114.76" y="167.61" width="2.48" height="1.49" rx="0.25" style="fill:#ffffff"/>
+  <text x="116.0" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">VI</text>
+  <text x="116.0" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">VI</text>
+  </g>
+  <g id="batavi_r_shldr_line_command_VII" inkscape:label="batavi_r_shldr_line_command_VII">
+  <ellipse cx="133.2" cy="165.50" rx="2.23" ry="2.34" style="fill:#ffffff"/>
+  <ellipse cx="132.39" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <ellipse cx="134.01" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <path d="M 132.77,166.25 L 133.63,166.25 L 133.2,166.99 Z" style="fill:#111"/>
+  <path d="M 129.98,166.74 Q 128.98,164.88 131.22,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <path d="M 136.42,166.74 Q 137.42,164.88 135.18,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <rect x="131.96" y="167.61" width="2.48" height="1.49" rx="0.25" style="fill:#ffffff"/>
+  <text x="133.2" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#000000;opacity:0.35">VII</text>
+  <text x="133.2" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.0px;fill:#ffffff">VII</text>
+  </g>
+  <g id="batavi_r_shldr_line_command_VIII" inkscape:label="batavi_r_shldr_line_command_VIII">
+  <ellipse cx="150.39999999999998" cy="165.50" rx="2.23" ry="2.34" style="fill:#ffffff"/>
+  <ellipse cx="149.59" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <ellipse cx="151.21" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <path d="M 149.97,166.25 L 150.83,166.25 L 150.39999999999998,166.99 Z" style="fill:#111"/>
+  <path d="M 147.18,166.74 Q 146.18,164.88 148.42,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <path d="M 153.62,166.74 Q 154.62,164.88 152.38,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <rect x="149.16" y="167.61" width="2.48" height="1.49" rx="0.25" style="fill:#ffffff"/>
+  <text x="150.39999999999998" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:1.7px;fill:#000000;opacity:0.35">VIII</text>
+  <text x="150.39999999999998" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:1.7px;fill:#ffffff">VIII</text>
+  </g>
+  <g id="batavi_r_shldr_line_command_IX" inkscape:label="batavi_r_shldr_line_command_IX">
+  <ellipse cx="167.6" cy="165.50" rx="2.23" ry="2.34" style="fill:#ffffff"/>
+  <ellipse cx="166.79" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <ellipse cx="168.41" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <path d="M 167.17,166.25 L 168.03,166.25 L 167.6,166.99 Z" style="fill:#111"/>
+  <path d="M 164.38,166.74 Q 163.38,164.88 165.62,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <path d="M 170.82,166.74 Q 171.82,164.88 169.58,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <rect x="166.36" y="167.61" width="2.48" height="1.49" rx="0.25" style="fill:#ffffff"/>
+  <text x="167.6" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">IX</text>
+  <text x="167.6" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">IX</text>
+  </g>
+  <g id="batavi_r_shldr_line_command_X" inkscape:label="batavi_r_shldr_line_command_X">
+  <ellipse cx="184.79999999999998" cy="165.50" rx="2.23" ry="2.34" style="fill:#ffffff"/>
+  <ellipse cx="183.99" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <ellipse cx="185.61" cy="165.38" rx="0.43" ry="0.56" style="fill:#111"/>
+  <path d="M 184.37,166.25 L 185.23,166.25 L 184.79999999999998,166.99 Z" style="fill:#111"/>
+  <path d="M 181.58,166.74 Q 180.58,164.88 182.82,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <path d="M 188.02,166.74 Q 189.02,164.88 186.78,162.78" style="fill:none;stroke:#ffffff;stroke-width:0.55"/>
+  <rect x="183.56" y="167.61" width="2.48" height="1.49" rx="0.25" style="fill:#ffffff"/>
+  <text x="184.79999999999998" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#000000;opacity:0.35">X</text>
+  <text x="184.79999999999998" y="166.15" text-anchor="middle" dominant-baseline="central" style="font-family:DejaVu Serif,serif;font-weight:bold;font-size:2.3px;fill:#ffffff">X</text>
+  </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer_notes" inkscape:label="99 Notes">
+  <text x="6" y="285" style="font-family:DejaVu Sans,sans-serif;font-size:2.2px;fill:#9a9a9a">Convert text to path before print: select Romans → Path → Object to Path. Rims = paint, not transfer.</text>
+  <text x="6" y="290" style="font-family:DejaVu Sans,sans-serif;font-size:2.2px;fill:#9a9a9a">Assault alt: crossed gladii — duplicate assault row and redraw if preferred (plan §10).</text>
+  </g>
+</svg>

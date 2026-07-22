@@ -1,6 +1,7 @@
 # Lexicon & litanies
 
 - [der-batav-myth-foundation.md](der-batav-myth-foundation.md) — *Der Batav* myth and founding identity (dual receipt §IV; serial [`foundation-war/INDEX.md`](../chronicles/foundation-war/INDEX.md))
+- [tenets-of-the-grey-wolves.md](tenets-of-the-grey-wolves.md) — *Reclusiam* catechism: Litany of Iron, Litany of the Batav, Ash-Oath, Closed Door, Sentence Cadence, Death Wolf Measure
 - [mentality-and-philosophy.md](mentality-and-philosophy.md) — operational philosophy of the Chapter
 - [porta-nihili-shared-vocabulary.md](porta-nihili-shared-vocabulary.md) — **mortal** Castra Vetera / Porta Nihili shared terms (faith of work, bottle creole, witness debt, etc.)
 - [friction-glossary-batavi-mortal-mishearings.md](friction-glossary-batavi-mortal-mishearings.md) — Batavi / Strategium phrases mortals mishear → shard slang (dialogue color)

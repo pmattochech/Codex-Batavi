@@ -12,6 +12,12 @@
 
 ---
 
+## traitor-first-contact
+
+**Index:** [traitor-first-contact/INDEX.md](traitor-first-contact/INDEX.md)
+
+- [claim-denied](traitor-first-contact/claim-denied/chapter.md) — Haarken Worldclaimer / Gloomtalons first contact; Corbec + *Prima* (unnamed); claim vs gauge
+
 ## green-tempest
 
 **Index:** [green-tempest/INDEX.md](green-tempest/INDEX.md)
