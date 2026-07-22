@@ -10,7 +10,7 @@
 | **Wasted Talent** | [wasted-talent/chapter.md](wasted-talent/chapter.md) | **Warsmith Drogan Kalkas** (IW) | Bifronte self-names (Sexta / Ten Vexillas / Ten Praetors); Fist+IW cage; **nameless wretch** / **wasted talent** (Man-Child of Olympia); IW theorize vexilla org. |
 | **Dead Meat** | [dead-meat/chapter.md](dead-meat/chapter.md) | **Khâdor Vhex** · **Skarvak** (WE) · Alpha Legion filer | Armin + *Quinta*; full wipe; SW/BA/WE sum + mince rebuttal; AL **invisible** scope-file; eye-lock with **ivory right pauldron** (Silence unnamed) → [Nothing Too Perfect](nothing-too-perfect/chapter.md). |
 | **Nothing Too Perfect** | [nothing-too-perfect/chapter.md](nothing-too-perfect/chapter.md) | AL (all **Alpharius**/lies) ↔ **Severin Holt** · **Kessler**/*Secunda* · **Valens Ritter** | Dual-POV file-war + invisible hunt; Sleepers/interrogatories; dual-path ivory/black. |
-| **No Joy** | [no-joy/chapter.md](no-joy/chapter.md) | **Vorthax Skain** (NL) · **Lord Mordren Vhaal** | Mystery hunters; Skain slips in gore; Orvek: *Stay away from Castra Vetera*; blood signature + cogitator reels for Vhaal. |
+| **No Joy** | [no-joy/chapter.md](no-joy/chapter.md) | **Vorthax Skain** (NL) · **Lord Mordren Vhaal** | Mystery hunters emerge/fade; Orvek wolf-helm kill; crew rescued to Castra Vetera; enemy proximity ban (Imperials OK). |
 
 **Draft siblings (not yet promoted):**
 

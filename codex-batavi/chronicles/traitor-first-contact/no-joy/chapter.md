@@ -5,8 +5,8 @@
 **Where:** Ministorum-chartered merchant hull ***Saint Oriel Beckoning*** — too close to **Insula Tenebrarum** / Castra Vetera approaches; later void far out on a course + distress beacon set for NL recovery  
 **Who:** Night Lords squadron under **Vorthax Skain**; Batavi Lieutenant **Orvek Kriesen** (unnamed on-page until blood signature); recovery led by major Night Lord **Lord Mordren Vhaal**
 
-**Intel premise:** Not a rescue. Execution of those who dared push near Castra Vetera. Crew are not mesh-native — few survivors by design. Hunters stay **mystery** in the body until a brief late name.  
-**Beat lock:** Disappearances climb Skain’s band through **curiosity → morbid fun → hate → despair**. Bridge tableau + sack. Unseen vox monologue; red lenses; Skain falls / slips in brothers’ gore; slow approach then **sudden close**; gladius-light reveals wolf-Corvus helm (Mk VI custom — akin to but not Alaric’s Iron Head); gorget haul; *Stay away from Castra Vetera*; upward brain-severing kill. Recovery: **Lord Mordren Vhaal** finds blood signature **From Orvek Kriesen of the Shadows Cohort**, then cogitators wake and he watches the kill-POVs.
+**Intel premise:** Batavi execution of **enemy** proximity (Night Lords / Chaos / xenos) near Castra Vetera — Imperial hulls may approach; this Ministorum merchant was prey for VIII, then a kill-box. Surviving crew **rescued to Castra Vetera**. Hunters stay **mystery** until blood signature / reels.  
+**Beat lock:** Disappearances climb Skain’s band through **curiosity → morbid fun → hate → despair**. Bridge tableau + sack. Unseen vox monologue; red lenses; Skain falls / slips in brothers’ gore; Orvek **emerges from invisibility** (user helm: grey-iron wolf head, crimson eyes); gorget haul; *Stay away from Castra Vetera*; upward brain-severing kill. Reader POV: visible Batavi fade back into invisibility → grim dead silence. Recovery: **Lord Mordren Vhaal** finds blood signature **From Orvek Kriesen of the Shadows Cohort**, then cogitators wake and he watches the kill-POVs.
 
 **Series:** [INDEX.md](../INDEX.md)  
 **Cross-references:** [steppenwolf-doctrine.md](../../../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) · [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md) §3.1 · [cohort-standard-kit.md](../../../arsenal-and-logistics/cohort-standard-kit.md) §2 · [nothing-too-perfect/chapter.md](../nothing-too-perfect/chapter.md) · [castra-vetera-galactic-lock.md](../../../atlas-and-topography/castra-vetera-galactic-lock.md)
@@ -15,7 +15,7 @@
 
 Vorthax Skain loved merchant hulls.
 
-Warships lied with armor. Ministorum-chartered guild ships lied with saints’ names on the prow and ledgers in the belly — and both screamed prettier when you peeled the men who wrote them. The *Saint Oriel Beckoning* had drifted too near the Insula’s black approaches, close enough to Castra Vetera’s rumor-wall that even coward captains should have turned. They had not. So Skain’s squadron came aboard in the old way: lights killed, corridors claimed, fear taught as curriculum.
+Warships lied with armor. Ministorum-chartered guild ships lied with saints’ names on the prow and ledgers in the belly — and both screamed prettier when you peeled the men who wrote them. The *Saint Oriel Beckoning* had drifted near the Insula’s black approaches — close enough to Castra Vetera’s rumor-wall that an Imperial merchant might still call it honest trade lanes, and close enough that Night Lords called it an invitation. Skain’s squadron came aboard in the old way: lights killed, corridors claimed, fear taught as curriculum. The Wall did not hunt saints’ ledgers. The Wall hunted what wore midnight and thought the dark was private property.
 
 The crew learned quickly. Guild officers tried to buy minutes with coin-codes. Ratings tried to hide in grain voids. Skain’s brothers made art from both mistakes — flensing knives, trophy jokes, the bright wet theater Night Lords called honesty. Skain walked the dark like a teacher pleased with a classroom that finally understood the lesson.
 
@@ -81,15 +81,9 @@ He slipped.
 
 Brothers’ blood and opened guts made the bridge a slick. Skain skidded in what had been his squadron, flensing-artist reduced to a thing crawling in its own lesson, still screaming for honor while the red coins watched without applause.
 
-One figure detached from the dark and came on foot.
+Then the dark in front of him stopped being empty.
 
-Slow.
-
-Not a leap. Not a Raptor stoop. A measured approach through the gore, red lenses fixed on Skain as if the Night Lord were already a closed invoice. No joy in the stride. Skain’s back hit a bulkhead. Nowhere left to slip.
-
-Then the distance lied.
-
-The grey was simply **there** — close enough to own Skain’s breath — as if the slow walk had been a courtesy the dark revoked at the last meter. Power gladius woke in a hard white edge. Its light cut the void and finally gave the hunter a body: industrial grey wolf-marked plate, black work where the dark had hidden it, and a helm that was not the Wall’s Castellan Iron Head — a **custom Mark VI Corvus** rebuilt into a **wolf’s head**, beaked ancestry still readable under the lupine reshape, similar enough to that famous predator helm to insult recognition, different enough that Skain knew this was not the Unbent come down from his throne of plate. Red lenses in the wolf’s orbits. No applause in them.
+The hunter **emerged from invisibility** at grappling range — no slow walk, no courtesy of distance, simply present where Skain’s fear had been pointing. Power gladius woke in a hard white edge. Its light cut the void and finally gave the hunter a body: industrial grey wolf-marked plate, black work where the dark had hidden it, and a wolf head made of grey iron snarling at him, with crimson eyes looking for blood to be spilled.
 
 The hunter’s free hand took Skain by the gorget and hauled him up into that muzzle until midnight ceramite kissed wolf-plate and the Night Lord’s insults died against another Legion’s quiet.
 
@@ -97,7 +91,11 @@ The hunter’s free hand took Skain by the gorget and hauled him up into that mu
 
 The gladius went in from under the jaw — up through the head, brain severed, curriculum closed. Vorthax Skain ended without art.
 
-The red constellation went out. The hull’s remaining mortal noise was thin — a few crew who had survived by being irrelevant to an execution writ, not because anyone had come to save them. They were not Castra Vetera stock. The mission had never priced their lives as treasure.
+For a breath the reader’s eye was allowed what Skain had been denied: the bridge held more than one grey. Batavi marines stood visible in the kill-light and the residual glow of red lenses — black pauldrons, industrial plate, wolf-echoes without theater — a cell that had been there the whole time, invisible until the work required a body.
+
+Then they left the way they had come.
+
+Not a jump-pack exit. Not a teleport flare. One by one the figures thinned, edges drinking the dark, until invisibility took them back and the command bridge held only the dead, the impaled mockery, the sack, and a grim dead silence that did not clap.
 
 Far from the Insula — course already laid, distress beacon already singing a Night Lords frequency like bait on a long line — a greater shadow answered than Skain’s small squadron had ever deserved.
 
@@ -105,7 +103,7 @@ Far from the Insula — course already laid, distress beacon already singing a N
 
 Not a scavenger-captain. A name the VIII spoke with care in the dark: flensing choirs under his warrant, worlds taught fear on his timetable, a lord who recovered brothers when recovery still meant something. He came ready for a fight and found a gallery.
 
-Skinless. Headless. Impaled. The sack. The bridge. The few living crew who could not explain anything except darkness and red eyes and a voice that hated joy.
+Skinless. Headless. Impaled. The sack. The bridge. No living crew — the mortals who had survived Skain’s art had already been lifted toward Castra Vetera, Imperial blood returned to Imperial walls. The Wall did not punish saints’ ledgers for sailing near. It punished enemies who thought proximity was permission.
 
 Then Vhaal’s gaze found the deck itself.
 
@@ -113,7 +111,7 @@ Painted in Night Lord blood across the command bridge floor — not hidden, not 
 
 FROM ORVEK KRIESEN OF THE SHADOWS COHORT
 
-Only after he had read it did the guild cogitators wake — as if the hull had waited for a worthy eye. Hololiths bloomed. Reels ran. Each missing brother’s last minutes, filmed from angles that should not have existed: duct-POV, rafter-POV, angles that made the dark itself a camera. Knife work. Quiet finishes. No laughter on the audio. Skain on his back in the guts of his own art. The slow approach. The sudden close. Gladius-light on wolf-Corvus helm. Gorget haul. One line. The upward kill.
+Only after he had read it did the guild cogitators wake — as if the hull had waited for a worthy eye. Hololiths bloomed. Reels ran. Each missing brother’s last minutes, filmed from angles that should not have existed: duct-POV, rafter-POV, angles that made the dark itself a camera. Knife work. Quiet finishes. No laughter on the audio. Skain on his back in the guts of his own art. The hunter emerging from nothing. Gladius-light on a grey-iron wolf head. Gorget haul. One line. The upward kill. Greys standing visible for a breath — then gone.
 
 Lord Mordren Vhaal watched until the end without speaking.
 
@@ -125,9 +123,9 @@ Blood signature: **Orvek Kriesen** of the **Shadows Cohort**.
 They took our method and returned it without appetite. Impaled. Skinned. Heads in a sack of our skins.  
 Vox contempt: we are not hunters; we are punchbags who learned to make the dark clap.  
 Spoken ban: **Stay away from Castra Vetera.**  
-Ship: *Saint Oriel Beckoning* — trespass execution, not rescue. Beacon was bait. Course was bait.  
+Ship: *Saint Oriel Beckoning* — VIII trespass kill-box; Imperial crew recovered to the Wall. Beacon was bait. Course was bait.  
 Scar-name candidates: joyless flayers / red-eyed skinsmiths / void shadows.  
-Assessment: do not treat their Wall as a cage they cannot leave. They leave. They hunt. They do not enjoy it — and that is worse.
+Assessment: do not treat their Wall as a cage they cannot leave. They leave. They hunt. They do not enjoy it — and that is worse. Imperial hulls may approach. **We** may not.
 
 On the dead bridge, the distress beacon kept singing until someone shut it off — too late, which was the point.
 
