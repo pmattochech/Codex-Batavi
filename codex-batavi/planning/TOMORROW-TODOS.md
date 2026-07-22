@@ -23,4 +23,5 @@
 - [x] I *Prima* ↔ Noviomagus culture bleed ratified — [`../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md)
 - [x] I *Prima* wing periphery fork stubs — [`../atlas-and-topography/cultures/worlds-central-bastion.md`](../atlas-and-topography/cultures/worlds-central-bastion.md) § **I *Prima* wing**
 - [x] Vexilla homeworld culture framework (binding + bot contract) — [`vexilla-homeworld-culture-framework.md`](vexilla-homeworld-culture-framework.md)
+- [x] Vitreus Phase A ethnography ratified (VII *Septima*) — [`../atlas-and-topography/cultures/ethnography-vitreus.md`](../atlas-and-topography/cultures/ethnography-vitreus.md)
 - [ ] Culture-doc mood note + pre-reconquest mortal chronicle — [`HYMN-OF-THE-LOST-MOOD-LOCK.md`](HYMN-OF-THE-LOST-MOOD-LOCK.md) §2–§3

@@ -71,7 +71,7 @@
 
 ## Vitreus (The Lens World)
 
-**Scale & role:** **Molten glass oceans**; **photonic** industry; Mechanicus **lens** sovereignty.
+**Scale & role:** **Molten glass oceans**; **photonic** industry; Mechanicus **lens** sovereignty. **Vexillatio VII (*Septima*)** seat · Legatus **Lucan Phaetron** (*the Glass Burn* — mortal public read).
 
 **Economy-ecology:** **Blindness** as moral risk; **silica** ash; **reflection** theology unavoidable.
 
@@ -82,6 +82,8 @@
 **Fork:** **Byzantine optic bureaucracy** — beauty is **instrument**, not ornament.
 
 **Shards:** *slow eye* (trained patience before burst), *melt psalm* (hum while glass runs), *shard confession* (break glass — truth proportional to fragments).
+
+**Deep ethnography (mortals):** [ethnography-vitreus.md](ethnography-vitreus.md) — Phase A ratified; Phase B/C deferred; Silica Field full ethnography not absorbed (Wave 3).
 
 ---
 
