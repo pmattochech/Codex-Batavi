@@ -13,6 +13,7 @@
 | **Nothing Too Perfect** | [nothing-too-perfect/chapter.md](nothing-too-perfect/chapter.md) | AL (all **Alpharius**/lies) ↔ **Severin Holt** · **Kessler**/*Secunda* · **Valens Ritter** | Dual-POV file-war + invisible hunt; Sleepers/interrogatories; dual-path ivory/black. |
 | **No Joy** | [no-joy/chapter.md](no-joy/chapter.md) | **Vorthax Skain** (NL) · **Lord Mordren Vhaal** | Mystery hunters emerge/fade; Orvek wolf-helm kill; crew rescued to Castra Vetera; enemy proximity ban (Imperials OK). |
 | **No Encore** | [no-encore/chapter.md](no-encore/chapter.md) | **Vael Syrinx** · **Lirion** (EC) | Lucan/*Septima* + Stasis; Vitreus; Batavi silent; boredom → rage; *no encore*. |
+| **Oxygen Debt** | [oxygen-debt/chapter.md](oxygen-debt/chapter.md) | **Lord Gholrax** (DG) | Brach/*Tertia* + Orin/*Quarta* + Nullity; silo cult portal; Beasts/plague-song; *oxygen debt*. |
 
 **Draft siblings (not yet promoted):**
 

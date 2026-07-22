@@ -90,4 +90,4 @@ The Wall did not bow.
 
 *End of Chapter.*
 
-*Next:* (Series handoff TBD — Death Guard)
+*Next:* [Oxygen Debt](../oxygen-debt/chapter.md) — Death Guard vs *Tertia* / *Quarta* / Nullity
