@@ -6,7 +6,7 @@
 **Who:** Night Lords squadron under **Vorthax Skain**; Batavi Lieutenant **Orvek Kriesen** (unnamed on-page until blood signature); recovery led by major Night Lord **Lord Mordren Vhaal**
 
 **Intel premise:** Not a rescue. Execution of those who dared push near Castra Vetera. Crew are not mesh-native — few survivors by design. Hunters stay **mystery** in the body until a brief late name.  
-**Beat lock:** Disappearances climb Skain’s band through **curiosity → morbid fun → hate → despair**. Bridge tableau + sack. Unseen vox monologue; red lenses; Skain falls / slips in brothers’ gore; **Orvek** approaches slow — only spoken line: *Stay away from Castra Vetera* — kills Skain. Recovery: major NL **Lord Mordren Vhaal** finds blood signature **From Orvek Kriesen of the Shadows Cohort**, then cogitators wake and he watches the kill-POVs.
+**Beat lock:** Disappearances climb Skain’s band through **curiosity → morbid fun → hate → despair**. Bridge tableau + sack. Unseen vox monologue; red lenses; Skain falls / slips in brothers’ gore; slow approach then **sudden close**; gladius-light reveals wolf-Corvus helm (Mk VI custom — akin to but not Alaric’s Iron Head); gorget haul; *Stay away from Castra Vetera*; upward brain-severing kill. Recovery: **Lord Mordren Vhaal** finds blood signature **From Orvek Kriesen of the Shadows Cohort**, then cogitators wake and he watches the kill-POVs.
 
 **Series:** [INDEX.md](../INDEX.md)  
 **Cross-references:** [steppenwolf-doctrine.md](../../../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) · [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md) §3.1 · [cohort-standard-kit.md](../../../arsenal-and-logistics/cohort-standard-kit.md) §2 · [nothing-too-perfect/chapter.md](../nothing-too-perfect/chapter.md) · [castra-vetera-galactic-lock.md](../../../atlas-and-topography/castra-vetera-galactic-lock.md)
@@ -85,11 +85,17 @@ One figure detached from the dark and came on foot.
 
 Slow.
 
-Not a leap. Not a Raptor stoop. A measured approach through the gore, industrial grey the rumors named Cohors Batavorum, red lenses fixed on Skain as if the Night Lord were already a closed invoice. No joy in the stride. No speech until Skain’s back hit a bulkhead and there was nowhere left to slip.
+Not a leap. Not a Raptor stoop. A measured approach through the gore, red lenses fixed on Skain as if the Night Lord were already a closed invoice. No joy in the stride. Skain’s back hit a bulkhead. Nowhere left to slip.
+
+Then the distance lied.
+
+The grey was simply **there** — close enough to own Skain’s breath — as if the slow walk had been a courtesy the dark revoked at the last meter. Power gladius woke in a hard white edge. Its light cut the void and finally gave the hunter a body: industrial grey wolf-marked plate, black work where the dark had hidden it, and a helm that was not a Castellan’s full Iron Head — a **custom Mark VI Corvus** rebuilt into a **wolf’s skull-and-muzzle grammar**, beaked ancestry still readable under the lupine reshape, similar enough to the Wall’s famous predator helm to insult recognition, different enough that Skain knew this was not the Father of the Wall come to lecture. Red lenses in the wolf’s orbits. No applause in them.
+
+Orvek Kriesen’s free hand took Skain by the gorget and hauled him up into that muzzle until midnight ceramite kissed wolf-plate and the Night Lord’s insults died against another Legion’s quiet.
 
 — Stay away from Castra Vetera.
 
-The power gladius ended Vorthax Skain before the next insult could become art.
+The gladius went in from under the jaw — up through the head, brain severed, curriculum closed. Vorthax Skain ended without art.
 
 The red constellation went out. The hull’s remaining mortal noise was thin — a few crew who had survived by being irrelevant to an execution writ, not because anyone had come to save them. They were not Castra Vetera stock. The mission had never priced their lives as treasure.
 
@@ -107,7 +113,7 @@ Painted in Night Lord blood across the command bridge floor — not hidden, not 
 
 FROM ORVEK KRIESEN OF THE SHADOWS COHORT
 
-Only after he had read it did the guild cogitators wake — as if the hull had waited for a worthy eye. Hololiths bloomed. Reels ran. Each missing brother’s last minutes, filmed from angles that should not have existed: duct-POV, rafter-POV, angles that made the dark itself a camera. Knife work. Quiet finishes. No laughter on the audio. Skain on his back in the guts of his own art. The grey lieutenant’s slow approach. The single line. The kill.
+Only after he had read it did the guild cogitators wake — as if the hull had waited for a worthy eye. Hololiths bloomed. Reels ran. Each missing brother’s last minutes, filmed from angles that should not have existed: duct-POV, rafter-POV, angles that made the dark itself a camera. Knife work. Quiet finishes. No laughter on the audio. Skain on his back in the guts of his own art. The slow approach. The sudden close. Gladius-light on wolf-Corvus helm. Gorget haul. One line. The upward kill.
 
 Lord Mordren Vhaal watched until the end without speaking.
 
