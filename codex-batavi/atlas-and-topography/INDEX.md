@@ -3,8 +3,18 @@
 - **[castra-vetera-galactic-lock.md](castra-vetera-galactic-lock.md)** — **authoritative** Insula Tenebrarum placement, marsh channels, identity charter
 - [general-atlas.md](general-atlas.md) — macro context, summary atlas, links
 - **Human cultures (Castra Vetera; legacy path `porta-nihili-*`):** [cultures/porta-nihili-and-basal-stratum.md](cultures/porta-nihili-and-basal-stratum.md) · [cultures/worlds-central-bastion.md](cultures/worlds-central-bastion.md) · [cultures/worlds-crucible.md](cultures/worlds-crucible.md) · [cultures/worlds-threshold.md](cultures/worlds-threshold.md)
-- **Deep ethnography (world studies):** [cultures/ethnography-noviomagus-prime.md](cultures/ethnography-noviomagus-prime.md) (Central Bastion / forge capital) · [cultures/prima-noviomagus-culture-bleed.md](cultures/prima-noviomagus-culture-bleed.md) (I *Prima* ↔ Noviomagus bleed) · [cultures/worlds-central-bastion.md](cultures/worlds-central-bastion.md) § **I *Prima* wing** (periphery fork stubs) · [cultures/ethnography-aethelgard-prime.md](cultures/ethnography-aethelgard-prime.md) (Crucible / tide-world) · [cultures/ethnography-khan-bator-prime.md](cultures/ethnography-khan-bator-prime.md) (Central Bastion / Iron Granary — **III *Tertia*** Phase A framework; wing Phase C deferred) · [cultures/worlds-central-bastion.md](cultures/worlds-central-bastion.md) § **Khan-Bator Prime** (fork + wing cross-links)
-- **Aethelgard geography (four biomes):** [cultures/geography-aethelgard-prime.md](cultures/geography-aethelgard-prime.md)
+- **Binding process:** [../planning/vexilla-homeworld-culture-framework.md](../planning/vexilla-homeworld-culture-framework.md)
+- **Deep ethnography (Phase A capitals + shared):**
+  - [cultures/ethnography-noviomagus-prime.md](cultures/ethnography-noviomagus-prime.md) — I *Prima* · Noviomagus · [cultures/prima-noviomagus-culture-bleed.md](cultures/prima-noviomagus-culture-bleed.md) (bleed) · [cultures/worlds-central-bastion.md](cultures/worlds-central-bastion.md) § **I *Prima* wing**
+  - [cultures/ethnography-castra-vetera-prime.md](cultures/ethnography-castra-vetera-prime.md) — II *Secunda* · Castra-Vetera
+  - [cultures/ethnography-khan-bator-prime.md](cultures/ethnography-khan-bator-prime.md) — III *Tertia* · Khan-Bator
+  - [cultures/ethnography-elysium-minor.md](cultures/ethnography-elysium-minor.md) — **shared** Central Bastion / Apothecarion civil (**not** a Vexilla capital)
+  - [cultures/ethnography-incus-gravis-tertius.md](cultures/ethnography-incus-gravis-tertius.md) — IV *Quarta* · Incus-Gravis Tertius
+  - [cultures/ethnography-aethelgard-prime.md](cultures/ethnography-aethelgard-prime.md) — V *Quinta* · Aethelgard · [cultures/geography-aethelgard-prime.md](cultures/geography-aethelgard-prime.md) (biomes)
+  - [cultures/ethnography-bifrons-ferrum.md](cultures/ethnography-bifrons-ferrum.md) — VI *Sexta* · Bifrons-Ferrum
+  - [cultures/ethnography-vitreus.md](cultures/ethnography-vitreus.md) — VII *Septima* · Vitreus
+  - [cultures/ethnography-station-maleventum.md](cultures/ethnography-station-maleventum.md) — VIII *Octava* · Station-Maleventum + Great Reef twin
+  - [cultures/ethnography-marco-de-vetra.md](cultures/ethnography-marco-de-vetra.md) — IX *Nona* · Marco de Vetra
 - **Porta Nihili tooling (forks / history / hooks):** [cultures/porta-nihili-world-friction-matrix.md](cultures/porta-nihili-world-friction-matrix.md) (world-vs-world conflict fuel) · [cultures/porta-nihili-mortal-history-beat.md](cultures/porta-nihili-mortal-history-beat.md) (three-layer mortal timeline — cultural symptoms)
 - *Legatus seats ↔ Vexillationes (weapon bias):* [../arsenal-and-logistics/vexillatio-operational-armory.md](../arsenal-and-logistics/vexillatio-operational-armory.md) §2
 - **systems/** (topography and geopolitics; canonical flora/fauna matrices in the [encyclopedia](../biological-encyclopedia-bestiary/INDEX.md))
