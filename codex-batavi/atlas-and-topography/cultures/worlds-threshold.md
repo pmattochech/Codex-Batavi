@@ -9,11 +9,11 @@
 
 ## The Great Reef
 
-**Scale & role:** **Conductor-rich** belt — **million-volt arcs**, **Wasp Nest** batteries, **only mined straits** passable.
+**Scale & role:** **Conductor-rich** belt — **million-volt arcs**, **Wasp Nest** batteries, **only mined straits** passable. **Deep twin** (mortal culture, holds/arcs) lives in the Station-Maleventum ethnography — not a separate file this pass.
 
 **Economy-ecology:** **Static** as weather — **grounding** is survival; **lightning** as **calendar**.
 
-**Porta Nihili flavor:** God is **well grounded**. Virtue is **continuity** — *“current paid.”* Sin is **unshielded boast** — attracts arc.
+**Porta Nihili flavor:** God is **well grounded**. Virtue is **continuity** — *“current paid.”* Sin is **unshielded boast** — attracts arc (reef accent of ethnography lock **false pressure**).
 
 **Social structure:** **Reef clans** (route families), **strait pilots**, **iron priests** who bless **cables** and **skin**.
 
@@ -21,11 +21,13 @@
 
 **Shards:** *spark marriage* (bond sealed under controlled arc), *wasp vow* (silence until battery speaks), *salt in the hull* (purification — ground the ship’s mood).
 
+**Deep ethnography (twin section):** [ethnography-station-maleventum.md](ethnography-station-maleventum.md) § **Twin — Great Reef**.
+
 ---
 
 ## Station-Maleventum (“Ultima Arx”)
 
-**Scale & role:** **Ramilles**-class **asteroid** fortress — **Iron Strait** choke; **I Company** culture bleeds into **civilian** dock law.
+**Scale & role:** **Ramilles**-class **asteroid** fortress — **Iron Strait** choke; **Vexillatio VIII (*Octava*)** seat — Legatus **Ivar Malevent**; Chapter void culture bleeds into **civilian** dock law (surface habit until Phase B).
 
 **Economy-ecology:** **Siege normal** — drills **interrupt** births and weddings.
 
@@ -36,6 +38,10 @@
 **Fork:** **Fortress civitas** — **Spartan** discipline without Sparta — **gun theology**.
 
 **Shards:** *arx knee* (kneel on grating — rank), *strait ring* (wedding band cut from cable), *first salvo child* (born during drill — lucky or cursed — debated).
+
+**Local mortal sin (lock):** **false pressure**. **Legatus public read (mortal):** **the Soft Voice** / **Static-Lord**.
+
+**Deep ethnography (Phase A — primary habitat + Great Reef twin):** [ethnography-station-maleventum.md](ethnography-station-maleventum.md).
 
 ---
 
