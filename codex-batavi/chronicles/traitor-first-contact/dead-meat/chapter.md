@@ -1,0 +1,94 @@
+# [CHRONICLE] Dead Meat
+
+**Classification:** Novel chapter — World Eaters POV · Batavi scar-known / versatile · *Quinta* temper unknown · full warband wipe · Alpha Legion rim-filing  
+**When:** Present era — after **Wasted Talent** (IW Ten Vexillas / Praetor theory circulating)  
+**Where:** Contested industrial **spire-stack** (vertical kill-ground; tide-adjacent approaches)  
+**Who:** Small WE warband — lord **Khâdor Vhex**, Master of Executions **Skarvak the Ledger-Axe**, Berserkers, Skulltakers; Legatus **Armin Sturmwahl** + **V** *Quinta*; Alpha Legion rim-watcher (files only)
+
+**Intel premise:** Traitor margins now carry incomplete org-sketch (Ten Vexillas / Ten Praetors) and proof the greys are versatile. This warband **hears it and does not care** — pride, nails, blood-need. They “know” Batavi from prior scars (quiet wall, gauge, cobalt, polished cage). They are **not** prepared for *Quinta*.  
+**Beat lock:** Armin opens on every World Eater — **“Armin Sturmwahl, Quinta — and you are dead meat.”** Hunt commit — **“The wolf of the spires feeds tonight.”** Hybrid shout (SW / BA / WE sum); Armin rebuts — **wrong chapters / mince.** Full wipe. Alpha Legion files.
+
+**Series:** [INDEX.md](../INDEX.md)  
+**Cross-references:** [dossier-armin-sturmwahl.md](../../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § *Quinta* · [wasted-talent/chapter.md](../wasted-talent/chapter.md)
+
+---
+
+Khâdor Vhex had the Iron Warriors’ slate read to him twice and laughed both times.
+
+Ten Vexillas. Ten Praetors. Cage-masons who defended like Fists and hit back like the IV. Versatile greys. Cohors Batavorum. The words tasted like coward-math — the kind of filing Warsmiths made when they wanted their failures to sound like scholarship. Khâdor’s warband was small and honest: Berserkers, Skulltakers, one Master of Executions, one lord who still remembered what a proper slaughter smelled like before ledgers ruined the joy. Nails sang. Chainaxes hungered. The spire-stack ahead was a vertical abattoir waiting for owners.
+
+— Let the IV count their ten slices — Khâdor told the circle. — We know these greys. Quiet wall. No song. No dream. Cage-dogs. They hold. We cut. Blood for the Blood God.
+
+Skarvak the Ledger-Axe tilted his executioner’s helm as if weighing a skull already owed.
+
+— If they are versatile — Skarvak said — then tonight we prove versatility bleeds the same.
+
+They did not care. Pride and rage had already decided the truth.
+
+The first grey answer arrived as drop-shadows on the spire flanks — jump packs, industrial plate, crimson pauldrons scuffed like earned hull-kisses, wolf-echoes without Fenris theater. Not the Tartaros cage-lords the IV had whined about. Not cobalt metering. Assault meat. Saw-mass already screaming in the descent.
+
+Then the open channel spoke, clipped as a countdown, loud enough for every World Eater in the stack:
+
+— Armin Sturmwahl, Quinta — and you are dead meat.
+
+Khâdor’s laugh became a roar. Dead meat. Good. The greys had finally learned to speak like killers.
+
+— False brothers — a Berserker howled, delighted. — Grey eaters! Come bleed!
+
+Quinta did not answer with theater. Quinta landed.
+
+Boltstorm first — measured, ugly, spent like law. Then chainswords as default, not exception: saw-mass after the landing, tide pressure made vertical, brothers treating dying as acceptable spend if the enemy ended. Skulltakers met them expecting the scar-Batavi — patient, industrial, almost monastic until the anvil. What they got was hunt.
+
+Skarvak saw their commander in the first breath of real contact: Mark-assault silhouette, jump pack always worn, black wolf-head and pelt on the helm, orange lenses, a three-point polearm that was not a parade relic — chain-beard axe cheek, impaler, hammer, and a belt chainsword riding like a second truth. The lord of Quinta did not hang back on a pole-line. He dropped into the mass as if gravity were an invoice he refused to pay late.
+
+— The wolf of the spires feeds tonight — Armin said, and the feed began.
+
+Khâdor tried to make it a World Eaters fight: forward, louder, nails wider, axes higher. Quinta made it a puncture. Armin’s polearm and saw worked as one rhythm — feral to any eye that only watched the spray, calculated to any eye that watched the counts. He broke a centerline of Berserkers the way a disease finds a weak organ, planted the haft’s butt-spike in the hole he had made, and Quinta spread from that failed joint like contagion. Jump packs. Chain closure. Countdown vox. No sermon. No gift of the nails. Only mince.
+
+— Sober pack — someone snarled, offended into honesty. — Butcher-wolves—
+
+Blood-kin without the gift. That was the foul taste under the joy. They fought like brothers. That was the problem.
+
+Skarvak the Ledger-Axe came for Armin because Masters of Executions exist to end things that should not be allowed to become legend. The chainaxe and the three-point polearm met in a vertical throat between spire ribs. Sparks. Servo-scream. Nails screaming for more. Armin’s answer was wrath without waste — hammer cheek, chain beard, belt saw when the bind needed a second mouth. Skarvak pressed. Armin did not yield the puncture. He fended the higher killer the way a storm fends a roof: not by debating weather, by removing structure.
+
+Khâdor saw his Master driven back a step that cost a Skulltaker three lives in the gap and understood, too late, that the Iron Warriors’ slate had been incomplete in the only way that mattered. Versatile did not mean the greys had ten ways to hold. It meant some of their slices were storm-slaughter — and this one had opened the night by naming every World Eater dead meat.
+
+A Berserker, half his plate gone and laughing blood, found the words the nails wanted for the wrongness:
+
+— It is like they are the sum of three Legions — he roared at Armin’s wolf-helm and crimson pauldrons. — Space Wolves! Blood Angels! World Eaters! Howling! Hungry! Unafraid to die if we die with them—
+
+Armin’s orange lenses did not flicker toward poetry.
+
+— Wrong chapters — he said.
+
+The belt chainsword came up as punctuation.
+
+— The only likeness is the meat — we keep turning your degenerates into mince.
+
+Khâdor Vhex tried to make a stand that would buy extract. There was no extract left that deserved the name. Quinta closed the spire lanes with jump and saw and planted poles until the warband was not a warband — only meat arranged by someone who scored the night in closure speed. Skarvak fell still swinging, Ledger-Axe unpaid. Khâdor died naming false brothers and meaning it as hate and kinship both.
+
+The stack went quiet except for grey countdown and the tick of cooling chain.
+
+On a cold gantry above the kill-ground, an Alpha Legion watcher who had never intended to bleed for either side finished the slate.
+
+No intervention. No rescue. Filing only — the Hydra’s oldest mercy.
+
+Cohors Batavorum — confirmed Chapter name.  
+Prior scars incomplete.  
+*Sexta* = cage / Fist+IW hybrid (IV filing).  
+*Quinta* = storm assault / jump / chainsword line / puncture-to-contagion. Not the same slice.  
+Commander self-named: **Armin Sturmwahl**, **Quinta**. Opening liturgy to every XII present: **dead meat**. Hunt line: **wolf of the spires feeds tonight**.  
+Small warband **Khâdor Vhex** + MoE **Skarvak the Ledger-Axe** + Berserkers / Skulltakers — **full wipe**.  
+XII mid-fight theory (record as scar-speech, not gene-fact): greys fight as if sum of Space Wolves, Blood Angels, World Eaters. Sturmwahl rebuttal: wrong chapters; likeness is meat; degenerates into mince.  
+WE kinship-offense names in clear: false brothers, grey eaters, sober pack, butcher-wolves.  
+Assessment: Ten Vexillas theory gains temper-proof. Do not assume all slices hold. Some hunt. Some erase.
+
+The operative sealed the packet for traitor margins and left the spires to the greys.
+
+Below, Armin Sturmwahl pulled the planted haft free, checked the pack’s grav-hum once — ritual, not superstition — and was already late for the next landing zone that still thought it was alive.
+
+---
+
+*End of Chapter.*
+
+*Next:* (Series handoff TBD)
