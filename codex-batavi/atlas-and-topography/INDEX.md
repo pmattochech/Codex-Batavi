@@ -9,7 +9,7 @@
   - [cultures/ethnography-castra-vetera-prime.md](cultures/ethnography-castra-vetera-prime.md) — II *Secunda* · Castra-Vetera · [cultures/secunda-castra-vetera-culture-bleed.md](cultures/secunda-castra-vetera-culture-bleed.md) (bleed)
   - [cultures/ethnography-khan-bator-prime.md](cultures/ethnography-khan-bator-prime.md) — III *Tertia* · Khan-Bator
   - [cultures/ethnography-elysium-minor.md](cultures/ethnography-elysium-minor.md) — **shared** Central Bastion / Apothecarion civil (**not** a Vexilla capital)
-  - [cultures/ethnography-incus-gravis-tertius.md](cultures/ethnography-incus-gravis-tertius.md) — IV *Quarta* · Incus-Gravis Tertius
+  - [cultures/ethnography-incus-gravis-tertius.md](cultures/ethnography-incus-gravis-tertius.md) — IV *Quarta* · Incus-Gravis Tertius · [cultures/quarta-incus-gravis-tertius-culture-bleed.md](cultures/quarta-incus-gravis-tertius-culture-bleed.md) (bleed) · [cultures/worlds-crucible.md](cultures/worlds-crucible.md) § **Incus-Gravis Tertius**
   - [cultures/ethnography-aethelgard-prime.md](cultures/ethnography-aethelgard-prime.md) — V *Quinta* · Aethelgard · [cultures/geography-aethelgard-prime.md](cultures/geography-aethelgard-prime.md) (biomes)
   - [cultures/ethnography-bifrons-ferrum.md](cultures/ethnography-bifrons-ferrum.md) — VI *Sexta* · Bifrons-Ferrum
   - [cultures/ethnography-vitreus.md](cultures/ethnography-vitreus.md) — VII *Septima* · Vitreus

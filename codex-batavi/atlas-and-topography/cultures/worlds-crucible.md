@@ -20,6 +20,7 @@
 **Shards:** *knee scripture* (pattern of microfracture read like palm), *shingle choir* (avalanche warning calls), *flat god* (deity whose miracle is **horizontal**).
 
 **Deep ethnography (mortals):** [ethnography-incus-gravis-tertius.md](ethnography-incus-gravis-tertius.md) — Phase A capital for **IV** *Quarta* (Orin Valestrand). Secundus / Incus-Gravis-I = sphere jurisdiction cross-links only until Wave 3.
+**Phase B bleed:** [quarta-incus-gravis-tertius-culture-bleed.md](quarta-incus-gravis-tertius-culture-bleed.md) — IV *Quarta* ↔ Tertius (Shingle Warden; sin lock **false yield**; March = surface rhyme only). Phase C wing deferred.
 
 ---
 

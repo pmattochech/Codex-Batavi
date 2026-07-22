@@ -9,6 +9,7 @@
 **Author mood:** Hymn map applied — yes · [`../../planning/HYMN-OF-THE-LOST-MOOD-LOCK.md`](../../planning/HYMN-OF-THE-LOST-MOOD-LOCK.md)  
 **Local mortal sin (lock):** **false yield**  
 **Legatus public read (mortal):** **the Shingle Warden** — the Grav Lock who measures hours and meters, not sermons
+**IV *Quarta* bleed (ratified, separate file):** [`quarta-incus-gravis-tertius-culture-bleed.md`](quarta-incus-gravis-tertius-culture-bleed.md) · Legatus dossier (Chapter layer): [`dossier-orin-valestrand.md`](../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md)
 
 ---
 
@@ -285,7 +286,7 @@ Not a fourth class — same strata, different boss / holy object.
 
 ## 9. Related / deferred
 
-- **Phase B bleed file:** `deferred` — future `quarta-incus-gravis-tertius-culture-bleed.md` (or ordered slug) after Phase A stable.  
+- **Phase B bleed file:** [`quarta-incus-gravis-tertius-culture-bleed.md`](quarta-incus-gravis-tertius-culture-bleed.md) (**ratified** — do not mix full bleed doctrine into this populi body).  
 - **Wing periphery:** `deferred` — Incus-Gravis sphere bodies under *Quarta* only when ordered; **Secundus** and **Incus-Gravis-I** remain **jurisdiction cross-links**, not absorbed ethnographies this pass.  
 - **Sibling seats:** Do not absorb *Quinta* Aethelgard tide culture, *Sexta* Bifrons vault culture, Noviomagus forge culture, or other Legatus capitals.  
 - **Sphere cross-links (not ethnographies):** [worlds-crucible.md](worlds-crucible.md) § **Incus-Gravis Secundus** · § **Incus-Gravis-I** · atlas [system-ii-crucible.md](../systems/system-ii-crucible.md) § Gravity Anvil.
