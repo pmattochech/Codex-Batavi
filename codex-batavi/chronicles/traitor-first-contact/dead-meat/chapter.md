@@ -6,7 +6,7 @@
 **Who:** Small WE warband — lord **Khâdor Vhex**, Master of Executions **Skarvak the Ledger-Axe**, Berserkers, Skulltakers; Legatus **Armin Sturmwahl** + **V** *Quinta*; Alpha Legion rim-watcher (files only)
 
 **Intel premise:** Traitor margins now carry incomplete org-sketch (Ten Vexillas / Ten Praetors) and proof the greys are versatile. This warband **hears it and does not care** — pride, nails, blood-need. They “know” Batavi from prior scars (quiet wall, gauge, cobalt, polished cage). They are **not** prepared for *Quinta*.  
-**Beat lock:** Armin opens on every World Eater — **“Armin Sturmwahl, Quinta — and you are dead meat.”** Hunt commit — **“The wolf of the spires feeds tonight.”** Hybrid shout (SW / BA / WE sum); Armin rebuts — **wrong chapters / mince.** Full wipe. Alpha Legion files.
+**Beat lock:** Armin opens on every World Eater — **“Armin Sturmwahl, Quinta — and you are dead meat.”** Hunt commit — **“The wolf of the spires feeds tonight.”** Hybrid shout (SW / BA / WE sum); Armin rebuts — **wrong chapters / mince.** Full wipe. Alpha Legion files **while invisible** through a scope; eye-lock with a *Quinta* brother in **black right pauldron** (Shadows — unnamed to AL) starts the **next chapter**.
 
 **Series:** [INDEX.md](../INDEX.md)  
 **Cross-references:** [dossier-armin-sturmwahl.md](../../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § *Quinta* · [wasted-talent/chapter.md](../wasted-talent/chapter.md)
@@ -69,7 +69,9 @@ Khâdor Vhex tried to make a stand that would buy extract. There was no extract 
 
 The stack went quiet except for grey countdown and the tick of cooling chain.
 
-On a cold gantry above the kill-ground, an Alpha Legion watcher who had never intended to bleed for either side finished the slate.
+The stack went quiet except for grey countdown and the tick of cooling chain.
+
+Above the kill-ground, an Alpha Legion watcher who had never intended to bleed for either side remained **invisible** — not glory-hidden, doctrine-hidden: no silhouette offered, no vox bleed, no pride-flare for either butcher-cult to notice. He worked the report through a long scope, slate ticking under the lens as if the Hydra could file a war without existing inside it.
 
 No intervention. No rescue. Filing only — the Hydra’s oldest mercy.
 
@@ -83,12 +85,28 @@ XII mid-fight theory (record as scar-speech, not gene-fact): greys fight as if s
 WE kinship-offense names in clear: false brothers, grey eaters, sober pack, butcher-wolves.  
 Assessment: Ten Vexillas theory gains temper-proof. Do not assume all slices hold. Some hunt. Some erase.
 
-The operative sealed the packet for traitor margins and left the spires to the greys.
+He sealed the packet for traitor margins and kept the scope on the greys a heartbeat longer — habit, not hunger.
+
+One of Quinta stood apart from the saw-mass celebration that was not celebration: industrial grey like the rest, but the **right pauldron was black** — a mark without a name in any IV slate, without a doctrine tag in any World Eater howl. The operative did not know cohort tables. He knew only the asymmetry. The black-shoulder was looking elsewhere, down-stack, as if counting exits that did not exist for the dead.
+
+Then the helm turned.
+
+Not a search pattern. Not a lucky sweep. A lock — orange or whatever lens-tint the distance lied about — straight into the scope, into the gantry that should have been empty, into the operative who had not revealed himself and had not closed range.
+
+Detected.
+
+The Alpha Legionnaire did not flinch for the slate. The slate was already true. He flinched for the older insult: invisibility denied by a grey who should not have known the Hydra was there at all.
 
 Below, Armin Sturmwahl pulled the planted haft free, checked the pack’s grav-hum once — ritual, not superstition — and was already late for the next landing zone that still thought it was alive.
+
+On the cold gantry, the watcher and the black right pauldron held the line of sight a fraction longer than either side would later admit in clean reports.
+
+Then the next war began — not with a charge, with a question neither Legion had priced:
+
+*How did you see me?*
 
 ---
 
 *End of Chapter.*
 
-*Next:* (Series handoff TBD)
+*Next:* Alpha Legion vs Batavi Shadows (black right pauldron eye-lock — series handoff from this scope)
