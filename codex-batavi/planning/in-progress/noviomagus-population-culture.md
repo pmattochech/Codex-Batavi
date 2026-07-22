@@ -294,7 +294,7 @@ These are **jobs / robes**, not a fourth class. The same priest or clerk still s
 
 ## 8. Post-ratification backlog (elsewhere)
 
-* Bleed into / from **I *Prima*** Vexilla culture — **open:** [`prima-noviomagus-culture-bleed.md`](prima-noviomagus-culture-bleed.md)
+* Bleed into / from **I *Prima*** Vexilla culture — **closed:** [`../../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md)
 * Sibling worlds after Noviomagus
 * Optional: local hate-rank vs xenos (mesh talk)
 

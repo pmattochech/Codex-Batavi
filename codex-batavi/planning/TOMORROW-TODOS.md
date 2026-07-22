@@ -20,4 +20,5 @@
 - [ ] Open *Reclusiam* / crypt / Judiciar / character backlog — see [`disciplines-and-curia-vexilli-plan.md`](disciplines-and-curia-vexilli-plan.md) §9
 - [x] *Hymn of the Lost* author mood lock — [`HYMN-OF-THE-LOST-MOOD-LOCK.md`](HYMN-OF-THE-LOST-MOOD-LOCK.md) §1
 - [x] Noviomagus population ethnography ratified — [`../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../atlas-and-topography/cultures/ethnography-noviomagus-prime.md)
+- [x] I *Prima* ↔ Noviomagus culture bleed ratified — [`../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md)
 - [ ] Culture-doc mood note + pre-reconquest mortal chronicle — [`HYMN-OF-THE-LOST-MOOD-LOCK.md`](HYMN-OF-THE-LOST-MOOD-LOCK.md) §2–§3

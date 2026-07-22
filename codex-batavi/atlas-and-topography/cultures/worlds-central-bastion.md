@@ -19,7 +19,7 @@
 
 **Shards:** *rain-closed face* (stoicism), *gear prayer* (three knuckle taps on a duty belt — borrowed into Batavi friction habit), *black tooth* (honest corrosion — badge of seniority).
 
-**Deep ethnography (mortals):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md)
+**Deep ethnography (mortals):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md) · **I *Prima* bleed:** [prima-noviomagus-culture-bleed.md](prima-noviomagus-culture-bleed.md)
 
 ---
 
