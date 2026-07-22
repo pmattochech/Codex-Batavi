@@ -1,7 +1,8 @@
 # \[WIKI\] DOSSIER: CHAPLAIN VARRO
 
-**Title:** Master Chaplain of the *Cohors Batavorum* / Guardian of the soul / **Judex**  
+**Title:** Master Wolfkeeper of the *Cohors Batavorum* / Guardian of the soul / **Judex** (Imperial gloss: Master Chaplain)  
 **Other titles:** The Executor, Silent Judge, Shadow of the Law; **Master of the Judiciars** (Judiciar doctrine **TBD**)  
+**Class doctrine:** [wolfkeeper-and-reclusiam.md](../../doctrine-and-organs/wolfkeeper-and-reclusiam.md) · Liturgy: [tenets-of-the-grey-wolves.md](../../../lexicon-and-litanies/tenets-of-the-grey-wolves.md)  
 **Archetype:** Psychological terror / pragmatic headsman  
 **Estimated age:** ~580 Terran years (Foundation War veteran).
 

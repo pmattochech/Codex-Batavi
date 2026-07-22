@@ -436,9 +436,9 @@ Per-Vexillatio split: [military-hierarchy.md](doctrine-and-organs/military-hiera
 
 ## Reclusiam
 
-**Master of Sanctity:** **Varro** (Master Chaplain / Judex; **Master of the Judiciars**) — appoints Mortivigils and Chaplains; [dossier-varro.md](character-dossiers/triumvirate/dossier-varro.md).
+**Master of Sanctity:** **Varro** (Master Wolfkeeper / Judex; Imperial gloss Master Chaplain; **Master of the Judiciars**) — appoints Mortivigils and Wolfkeepers; [dossier-varro.md](character-dossiers/triumvirate/dossier-varro.md) · [wolfkeeper-and-reclusiam.md](doctrine-and-organs/wolfkeeper-and-reclusiam.md).
 
-**Prayers:** *The Emperor dictates, we comply.* *We hold.* Litanies in [friction-rites.md](doctrine-and-organs/friction-rites.md).
+**Prayers:** *The Emperor dictates, we comply.* *We hold.* Licensed liturgy: [tenets-of-the-grey-wolves.md](../lexicon-and-litanies/tenets-of-the-grey-wolves.md). Friction rites: [friction-rites.md](doctrine-and-organs/friction-rites.md).
 
 **Rituals:** Friction rites; Frontier Wolf funeral; funeral pyre; Mortivigil Wall-fusion / bone repatriation; *Iron and Blood Tribunal* witness; Hell Cell; induction under *Axiom*.
 
@@ -448,7 +448,7 @@ Per-Vexillatio split: [military-hierarchy.md](doctrine-and-organs/military-hiera
 
 **Holy Relics:** Viggo talismans (regulated); Castellan reliquary; tribunal helm witness pieces.
 
-**Helm / rank / death law:** [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md).
+**Helm / rank / death law:** [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md). **Class name:** [wolfkeeper-and-reclusiam.md](doctrine-and-organs/wolfkeeper-and-reclusiam.md).
 
 **Other:** *anima speculum* soul-read — Varro exclusive high-risk tool. Castra-Lupus **Reclusiam** house = Mortivigil HQ + Chapter-supreme vault.
 
