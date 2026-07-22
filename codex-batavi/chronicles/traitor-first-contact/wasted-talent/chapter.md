@@ -67,7 +67,7 @@ The grey lord met him with a mason’s polearm made for vault war: hammer-domina
 
 Kalkas snarled the old truth Iron Warriors used like a prayer.
 
-— You stole our war—
+— You stole our war — he said, maul rising. — Who are you?
 
 The Tartaros cowl turned. Orange lenses. When the grey lord spoke, it was not sermon — construction truth, stamped so clean an enemy could not pretend he had misheard:
 
