@@ -150,4 +150,4 @@ But for one night in Castra-Vetera, the invisible learned that empty air could b
 
 *End of Chapter.*
 
-*Next:* (Series handoff TBD)
+*Next:* [No Joy](../no-joy/chapter.md) — Night Lords vs Steppenwolf Shadows
