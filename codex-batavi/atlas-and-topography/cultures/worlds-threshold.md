@@ -171,6 +171,8 @@
 
 **Shards:** *beam wedding* (laser paints couple silhouette — unsafe, **illegal**, still done), *vitra string* (laser house lineage), *shouter’s fast* (no transmit day — yearly).
 
+**Deep ethnography (mortals — Phase A):** [ethnography-marco-de-vetra.md](ethnography-marco-de-vetra.md) · Legatus surface: Cassian Vetra (**the Warden**) · Phase B bleed / Phase C wing (**Station-IX** and Vigil-Lucis peripherals) **deferred** — Wave 3 cross-link only.
+
 ---
 
 ## Vigil-Secundus (The Blind Garden)
