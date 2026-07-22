@@ -3,10 +3,10 @@
 **Classification:** Novel chapter — Night Lords POV · Batavi hunters unnamed until late · merchant trespass near Insula  
 **When:** Present era — after circulating Batavi scars (Chapter known; off-mesh operators not yet priced)  
 **Where:** Ministorum-chartered merchant hull ***Saint Oriel Beckoning*** — too close to **Insula Tenebrarum** / Castra Vetera approaches; later void far out on a course + distress beacon set for NL recovery  
-**Who:** Night Lords squadron under **Vorthax Skain**; Batavi cell under Lieutenant **Orvek Kriesen** (identity withheld on-page until late); second Night Lords recovery element
+**Who:** Night Lords squadron under **Vorthax Skain**; Batavi Lieutenant **Orvek Kriesen** (unnamed on-page until blood signature); recovery led by major Night Lord **Lord Mordren Vhaal**
 
 **Intel premise:** Not a rescue. Execution of those who dared push near Castra Vetera. Crew are not mesh-native — few survivors by design. Hunters stay **mystery** in the body until a brief late name.  
-**Beat lock:** Disappearances climb Skain’s band through **curiosity → morbid fun → hate → despair**. Bridge tableau: skinless headless brothers impaled; sack of skins drops their heads on Skain. Unseen vox monologue; red lenses multiply in the dark; Orvek appears — *Stay away from this sector* — kills the last NL. Recovery NL find cogitator kill-POVs and file the scar (**Shadows** named only in filing / late beat).
+**Beat lock:** Disappearances climb Skain’s band through **curiosity → morbid fun → hate → despair**. Bridge tableau + sack. Unseen vox monologue; red lenses; Skain falls / slips in brothers’ gore; **Orvek** approaches slow — only spoken line: *Stay away from Castra Vetera* — kills Skain. Recovery: major NL **Lord Mordren Vhaal** finds blood signature **From Orvek Kriesen of the Shadows Cohort**, then cogitators wake and he watches the kill-POVs.
 
 **Series:** [INDEX.md](../INDEX.md)  
 **Cross-references:** [steppenwolf-doctrine.md](../../../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) · [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md) §3.1 · [cohort-standard-kit.md](../../../arsenal-and-logistics/cohort-standard-kit.md) §2 · [nothing-too-perfect/chapter.md](../nothing-too-perfect/chapter.md) · [castra-vetera-galactic-lock.md](../../../atlas-and-topography/castra-vetera-galactic-lock.md)
@@ -75,35 +75,50 @@ Red lenses opened in the dark.
 
 Not one pair. Many. Ceiling ribs. Bridge corners. The black above the holo-dais. Eyes only — red coins floating in void-dark, a constellation that did not breathe loud enough to clap for Night Lords.
 
-Skain spun, bolter up, hate and despair braided into one useless aim.
+Skain’s bolter came up and his courage went the other way. Terror — real terror, the kind Night Lords preferred to own rather than wear — took his knees. He went over hard onto his back, midnight plate ringing on guild deck, and tried to crab away from the constellation, boots scraping for purchase that was no longer there.
 
-Then a single figure was simply **there** — immediately in front of him, as if distance had been a courtesy revoked. Industrial grey the rumors named Cohors Batavorum. Red lenses close enough to reflect Skain’s own midnight paint. No joy in the stance.
+He slipped.
 
-— Orvek Kriesen — the Batavi said, not as boast, as filing. — Shadows. Message for your Legion:
+Brothers’ blood and opened guts made the bridge a slick. Skain skidded in what had been his squadron, flensing-artist reduced to a thing crawling in its own lesson, still screaming for honor while the red coins watched without applause.
 
-— Stay away from this sector.
+One figure detached from the dark and came on foot.
+
+Slow.
+
+Not a leap. Not a Raptor stoop. A measured approach through the gore, industrial grey the rumors named Cohors Batavorum, red lenses fixed on Skain as if the Night Lord were already a closed invoice. No joy in the stride. No speech until Skain’s back hit a bulkhead and there was nowhere left to slip.
+
+— Stay away from Castra Vetera.
 
 The power gladius ended Vorthax Skain before the next insult could become art.
 
 The red constellation went out. The hull’s remaining mortal noise was thin — a few crew who had survived by being irrelevant to an execution writ, not because anyone had come to save them. They were not Castra Vetera stock. The mission had never priced their lives as treasure.
 
-Far from the Insula — course already laid, distress beacon already singing a Night Lords frequency like bait on a long line — a second VIII element found the *Saint Oriel Beckoning* drifting where Batavi mathematics had left it: close enough to recover, far enough that Castra Vetera’s approaches stayed clean.
+Far from the Insula — course already laid, distress beacon already singing a Night Lords frequency like bait on a long line — a greater shadow answered than Skain’s small squadron had ever deserved.
 
-They boarded ready for a fight and found a gallery.
+**Lord Mordren Vhaal** boarded the *Saint Oriel Beckoning* personally.
+
+Not a scavenger-captain. A name the VIII spoke with care in the dark: flensing choirs under his warrant, worlds taught fear on his timetable, a lord who recovered brothers when recovery still meant something. He came ready for a fight and found a gallery.
 
 Skinless. Headless. Impaled. The sack. The bridge. The few living crew who could not explain anything except darkness and red eyes and a voice that hated joy.
 
-In the guild cogitators — left unlocked, left obvious — reels waited. Each missing brother’s last minutes, filmed from angles that should not have existed: duct-POV, rafter-POV, angles that made the dark itself a camera. Knife work. Quiet finishes. No laughter on the audio. No speech until the bridge monologue and the sector ban. Grey plate in glimpses. Red lenses. A lieutenant who ended Skain like closing a ledger — and, on the audio tag, one word for the hunters: **Shadows**.
+Then Vhaal’s gaze found the deck itself.
 
-The recovery lord watched until hate had somewhere to sit.
+Painted in Night Lord blood across the command bridge floor — not hidden, not subtle, a signature left for the right audience:
 
-Then he filed, because Night Lords file what wounds them:
+FROM ORVEK KRIESEN OF THE SHADOWS COHORT
+
+Only after he had read it did the guild cogitators wake — as if the hull had waited for a worthy eye. Hololiths bloomed. Reels ran. Each missing brother’s last minutes, filmed from angles that should not have existed: duct-POV, rafter-POV, angles that made the dark itself a camera. Knife work. Quiet finishes. No laughter on the audio. Skain on his back in the guts of his own art. The grey lieutenant’s slow approach. The single line. The kill.
+
+Lord Mordren Vhaal watched until the end without speaking.
+
+Then he filed, because lords of the Night Lords file what wounds a Legion:
 
 Cohors Batavorum — confirmed.  
-Not mesh-bound only. They come off Castra Vetera. Their **Shadows** — red-eyed, joyless, duct-born.  
+Not mesh-bound only. They come off Castra Vetera.  
+Blood signature: **Orvek Kriesen** of the **Shadows Cohort**.  
 They took our method and returned it without appetite. Impaled. Skinned. Heads in a sack of our skins.  
 Vox contempt: we are not hunters; we are punchbags who learned to make the dark clap.  
-Message: **Stay away from this sector.**  
+Spoken ban: **Stay away from Castra Vetera.**  
 Ship: *Saint Oriel Beckoning* — trespass execution, not rescue. Beacon was bait. Course was bait.  
 Scar-name candidates: joyless flayers / red-eyed skinsmiths / void shadows.  
 Assessment: do not treat their Wall as a cage they cannot leave. They leave. They hunt. They do not enjoy it — and that is worse.
