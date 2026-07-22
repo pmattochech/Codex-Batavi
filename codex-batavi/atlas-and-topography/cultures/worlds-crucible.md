@@ -67,6 +67,8 @@
 
 **Shards:** *split vow* (oath taken on mid-cable), *iron echo* (name said to gulf — returns if moral), *span child* (born during bridge repair — lucky).
 
+**Deep ethnography (mortals):** [ethnography-bifrons-ferrum.md](ethnography-bifrons-ferrum.md) — Vexillatio **VI** (*Sexta*) seat · Legatus **Gervas Bifronte** · Phase A ratified. Phase B/C deferred.
+
 ---
 
 ## Vitreus (The Lens World)
@@ -103,21 +105,23 @@
 
 ## Aethelgard Prime (The Moon-World — tides)
 
-**Scale & role:** **Tempestas-Major** moon; **kilometer tides**; **Der Batav** myth; **V** *Quinta* seat.
+**Scale & role:** **Tempestas-Major** moon; **kilometer tides**; **Der Batav** myth; **V** *Quinta* seat · Legatus **Armin Sturmwahl** (mortal read: **Storm-Master**).
 
 **Geography:** Four major biomes — **snowy mountains**, **taiga**, **swamps**, **shoreline** (**Needles**, salt mud, **falesia-style cliffs** / **precipices**). Canonical layout: [geography-aethelgard-prime.md](geography-aethelgard-prime.md).
 
-**Economy-ecology:** **Tide clocks** everything — **salt**, **mud**, **needles** estuaries, **bridge** saints.
+**Economy-ecology:** **Tide clocks** everything — **salt**, **mud**, **needles** estuaries, **bridge** saints. Budget metaphor: **mud as budget**; receipt: **salt**.
 
 **Porta Nihili flavor:** God is **tide-paid**. Virtue is **witness** — **estuary** theology: *“The Throne measures the delta; we keep the mud honest.”*
 
-**Social structure:** **Salt families**, **bridge guilds**, **Needle speech** (estuary dialects), **river arbiters** — law is **water right** first.
+**Social structure:** **Salt families**, **bridge guilds**, **Needle speech** (estuary dialects), **river arbiters** — law is **water right** first. Fiction strata: Rabble · Common · Upper · bridge band **Span-ledger houses**.
 
 **Fork:** Strongest **non-Noviomagus** barbaricum heart — **Celtic / Germanic estuary** *feel* — **oath knots**, **headwater shrines**, **mud as memory** (already in chronicle texture).
 
-**Shards:** *crown-and-estuary* (political season), *salt marriage* (brine handshake), *tide silence* (no lie when water rises — custom, not magic).
+**Local mortal sin (lock):** *ghost haul* (unwitnessed salvage).
 
-**Deep ethnography (mortals):** [ethnography-aethelgard-prime.md](ethnography-aethelgard-prime.md)
+**Shards:** *crown-and-estuary* (political season), *salt marriage* (brine handshake), *tide silence* (no lie when water rises — custom, not magic), *witness debt*, *Storm-Master weather*.
+
+**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-aethelgard-prime.md](ethnography-aethelgard-prime.md) · Phase B / *Quinta* wing periphery **deferred**.
 
 ---
 
