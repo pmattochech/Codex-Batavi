@@ -2,7 +2,8 @@
 
 **Classification:** Draft combat narrative — Black Legion / Haarken POV · first contact with iron-grey Astartes (Batavi unknown to narrator)  
 **When:** Present era — Imperial ~M42 filing approximate  
-**Where:** Imperial fortress-hive mid-curtain (industrial spine / Guard Shared Sweat breach)  
+**Where:** Imperial fortress-hive mid-curtain (industrial spine / Guard still on the fire-step)
+**Voice hygiene:** Traitor POV — no Batavi institutional terms (*Shared Sweat*, *Prima*, *Alabarda*, Malakor) in the narrative body; describe only what BL can see.  
 **Who:** **Haarken Worldclaimer** (Gloomtalons / Black Legion herald); Gloomtalon Raptors; Imperial Guard line; Legatus **Corbec Ardens** + **I** *Prima* (unnamed to BL at contact)
 
 **Premise lock:** Corbec answers what sits **most adjacent** to expunged First Legatus **Valerius** (archtraitor / *Lupercal*-claim register) — *Prima* seat after Malakor; debt carried, not kinship offered. Valerius is **not** named to the enemy.
@@ -25,7 +26,7 @@ A Guardsman unit broke. Another held because holding was all that remained. Haar
 
 Then the iron-grey arrived.
 
-Not Navy angels. Not glittering Custodes. Astartes in industrial plate, wolf-echoes stamped without Fenris theater, moving as if ammunition were a moral law. They did not announce a Chapter. They did not answer the claim. They slotted into the Guard line as if Shared Sweat were a doctrine older than Haarken’s proclamation — bolt lanes measured, gaps sealed, mortal backs covered without sermon.
+Not Navy angels. Not glittering Custodes. Astartes in industrial plate, wolf-echoes stamped without Fenris theater, moving as if ammunition were a moral law. They did not announce a Chapter. They did not answer the claim. They slotted into the Guard line the way a machine takes missing gears — bolt lanes measured, gaps sealed, mortal backs covered without sermon. Haarken had seen Astartes use humans as sandbags. He had rarely seen them treat mortals as parts that must keep working.
 
 Haarken’s Raptors laughed on the warband net.
 
@@ -41,7 +42,7 @@ Haarken felt annoyance before rage.
 
 — Name your master — he called across the smoke, Helspear wet with mortal blood. — If you are the Warmaster’s lost curs, kneel and be rewritten. If you are Throne-dogs, kneel and be ended. Either way, this hive is claimed.
 
-The Corvus beak turned. Orange lenses. No chapter rant. Behind the Legatus, grey brothers reset a heavy bolter cell and dragged a wounded Guardsman behind ceramite without looking for thanks.
+The Corvus beak turned. Orange lenses. No chapter rant. Behind the grey lord, brothers reset a heavy bolter cell and dragged a wounded Guardsman behind ceramite without looking for thanks.
 
 When the grey lord spoke, it was low, few words, the voice of a man who preferred manifests to myths.
 
@@ -63,13 +64,13 @@ Then he watched the chains on the grey lord’s right forearm catch the lumen-fl
 
 Haarken did not know the expunged name. He did not need it. He could smell the adjacency: this was the response that survives after a brotherhood almost becomes what the Black Legion sells as destiny.
 
-— You wear chains — Haarken mocked, pressing the Helspear into a clash against the Legatus’s *Alabarda* geometry — axe-cheek, hammer, plant. — Badab learned chains. Colchis learned chains. The Warmaster learned—
+— You wear chains — Haarken mocked, pressing the Helspear into a clash against the grey lord’s officer-polearm — axe-cheek, hammer, plant. — Badab learned chains. Colchis learned chains. The Warmaster learned—
 
 — Debt — the grey lord cut, sparse, patient, intolerant of the waste in Haarken’s speech. — Not your collar. We carry what failed. We do not become it.
 
-The duel was gap and gauge, not spectacle. Haarken fought as herald and Raptor-lord: leap, proclamation, spear-thrust meant to plant ownership in flesh. The Corvus lord fought as the calibration of five hundred — economy of motion, pressure without theater, lethal geometry that post-Malakor audits would have ranked without applause. When Haarken opened a wound in grey ceramite, the answer was not a roar. It was a counter that made the next jump-angle expensive.
+The duel was gap and gauge, not spectacle. Haarken fought as herald and Raptor-lord: leap, proclamation, spear-thrust meant to plant ownership in flesh. The Corvus lord fought as if he were the calibration mark for every grey brother in the breach — economy of motion, pressure without theater, lethal geometry that ranked itself without applause. When Haarken opened a wound in grey ceramite, the answer was not a roar. It was a counter that made the next jump-angle expensive.
 
-Gloomtalons tried to peel the Guard off the line. *Prima* — still unnamed — refused the peel. Bolt volume as moral law. A mortal sergeant who should have fled found himself still alive behind a grey pauldron and chose, absurdly, to reload.
+Gloomtalons tried to peel the Guard off the line. The iron-grey — still without a name Haarken could steal — refused the peel. Bolt volume as moral law. A mortal sergeant who should have fled found himself still alive behind a grey pauldron and chose, absurdly, to reload.
 
 Haarken drove for the claim again, voice wide for the vox-recorders that would feed Abaddon’s distant warrant.
 
