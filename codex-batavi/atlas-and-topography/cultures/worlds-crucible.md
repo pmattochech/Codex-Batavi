@@ -190,7 +190,7 @@
 
 ### Solaris-Alpha (The Prism) & the Silica Field
 
-**Scale & role:** **Mirror constellations** — heat weapon / **industrial sun** routing; **Silica Field** blinds auspex and naked eye alike. Phase C stub depth only — **not** a separate Phase A ethnography file.
+**Scale & role:** **Mirror constellations** — heat weapon / **industrial sun** routing; **Silica Field** blinds ship sensors and naked eye alike. Phase C stub depth only — **not** a separate Phase A ethnography file.
 
 **Economy-ecology:** **Glass navigation** — **eyes** fail; **faith in route** literal. Lens industry pushed to **mirror rows**.
 
