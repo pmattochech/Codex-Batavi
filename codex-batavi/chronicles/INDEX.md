@@ -18,6 +18,7 @@
 
 - [claim-denied](traitor-first-contact/claim-denied/chapter.md) — Haarken Worldclaimer / Gloomtalons first contact; Corbec + *Prima* (unnamed); claim vs gauge
 - [uninvited-road](traitor-first-contact/uninvited-road/chapter.md) — Otho / Haruspices / Nullity vs Thousand Sons (Vhorak); Witness Ford coffin shard; insult scar-names
+- [wasted-talent](traitor-first-contact/wasted-talent/chapter.md) — Iron Warriors vs Bifronte/*Sexta* vault armory; “Wasted Talent.”
 
 ## green-tempest
 
