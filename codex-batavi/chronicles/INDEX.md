@@ -16,7 +16,15 @@
 
 **Index:** [traitor-first-contact/INDEX.md](traitor-first-contact/INDEX.md)
 
+- [cellar-tenant](traitor-first-contact/cellar-tenant/chapter.md) — Word Bearers (Kharax / Malethor) first contact; Varro unnamed; cellar tenant / Neverborn cringe
 - [claim-denied](traitor-first-contact/claim-denied/chapter.md) — Haarken Worldclaimer / Gloomtalons first contact; Corbec + *Prima* (unnamed); claim vs gauge
+- [uninvited-road](traitor-first-contact/uninvited-road/chapter.md) — Otho / Haruspices / Nullity vs Thousand Sons (Vhorak); Witness Ford coffin shard; insult scar-names
+- [wasted-talent](traitor-first-contact/wasted-talent/chapter.md) — Iron Warriors vs Bifronte/*Sexta* vault armory; “Wasted Talent.”
+- [dead-meat](traitor-first-contact/dead-meat/chapter.md) — World Eaters (Khâdor/Skarvak) wiped by Armin/*Quinta*; Alpha Legion invisible scope-file; Silence ivory eye-lock handoff; “dead meat.”
+- [nothing-too-perfect](traitor-first-contact/nothing-too-perfect/chapter.md) — Silence + *Secunda*/Kessler vs Alpha Legion; dual-POV; Valens Ritter dual-path; “nothing too perfect.”
+- [no-joy](traitor-first-contact/no-joy/chapter.md) — Night Lords (Skain / Lord Mordren Vhaal) vs Batavi Shadows; *Saint Oriel Beckoning*; “Stay away from Castra Vetera.”
+- [no-encore](traitor-first-contact/no-encore/chapter.md) — Emperor’s Children (Vael Syrinx / Lirion) vs Lucan/*Septima* + Stasis; Vitreus; silent greys; “no encore.”
+- [oxygen-debt](traitor-first-contact/oxygen-debt/chapter.md) — Death Guard (Gholrax) vs Brach/*Tertia* + Orin/*Quarta* + Nullity; silo portal; “oxygen debt.”
 
 ## green-tempest
 

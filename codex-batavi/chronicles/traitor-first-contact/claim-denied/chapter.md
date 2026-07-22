@@ -110,4 +110,4 @@ And the man in the beak had felt, somehow, like the living rebuttal to whatever 
 
 *End of Chapter.*
 
-*Next:* (Series handoff TBD — sibling first-contact promotions / Gloomtalon warbook scar-name lock)
+*Next:* [The Uninvited Road](../uninvited-road/chapter.md)

@@ -6,7 +6,7 @@
 |------|------|-----|-------|
 | Wolves at the ford (Fenris) | [wolves-at-the-ford-space-wolf-pov.md](wolves-at-the-ford-space-wolf-pov.md) | Wolf Lord **Gunnar Grey-Mane** | **Muzzled wolves** → **wolves with swords in their mouths** coined here (ridge witness). |
 | Wolves at the ford (Castellan) | [wolves-at-the-ford-alaric-pov.md](wolves-at-the-ford-alaric-pov.md) | **Alaric von Helis** | Same engagement; Batavi do **not** know the Fenris nickname shift during or immediately after. |
-| Cellar tenant (Word Bearer first contact) | [cellar-tenant-word-bearer-pov/chapter.md](cellar-tenant-word-bearer-pov/chapter.md) | Brother **Kharax** (XVII) · Dark Apostle **Malethor** | Varro unnamed; Fenris misread broken; lesser Neverborn cringe; Batavi rally after judgment-as-worth |
+| Cellar tenant (Word Bearer first contact) | **PROMOTED** → [../traitor-first-contact/cellar-tenant/chapter.md](../traitor-first-contact/cellar-tenant/chapter.md) | Brother **Kharax** (XVII) · Dark Apostle **Malethor** | Novel chapter; draft folder retained as stub pointer only |
 | Failure wears red (Red Corsair first contact) | [failure-wears-red-corsair-pov/chapter.md](failure-wears-red-corsair-pov/chapter.md) | **Huron Blackheart** · Red Corsairs | Alaric + *Decima* unnamed; Ministorum tithe-ship plunder; pre-fall mirror; “You left the wall.” |
 | Claim denied (Black Legion / Haarken) | **PROMOTED** → [../traitor-first-contact/claim-denied/chapter.md](../traitor-first-contact/claim-denied/chapter.md) | **Haarken Worldclaimer** · Gloomtalons | Novel chapter; draft folder retained as stub pointer only |
 

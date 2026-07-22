@@ -72,13 +72,13 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 ---
 
-## 7. Type Descensus — three-point halberd, chain beard (*Quinta*)
+## 7. Type Descensus — bardiche chainaxe, forward beard (*Quinta*)
 
 **Vexillatio:** **V** *Quinta* (Aethelgard).
 
-**Head:** **Same three-face halberd logic as Primus** — **impaler** (power) · **hammer** (power) opposite · **butt spike** for plant — but the **axe cheek is replaced** by a **chainaxe** with **long bardiche beard** (extended cutting arc, saw-mass after boltstorm landing). **Belt chainsword** issued; **dual-wield** certified when relay is **planted** or borne by escort — closed gantry, descent window, tight vertical clearance after lattice lock.
+**Head:** **Bardiche-profile**, not Primus three-face halberd. Primary is a **chainaxe** with a **long bardiche beard raked / pointing forward** (reach cleave along the enemy line — saw-mass after boltstorm landing). **No impaler.** **Long shaft** — standoff enough to eat assault meat before it closes. **Butt spike** for plant once the puncture exists. **Belt chainsword** for the close band; **power gladius** for the quick death. Dual-wield (bardiche + chainsword) certified when relay is **planted** or borne by escort — closed gantry, descent window, tight vertical clearance after lattice lock.
 
-**Operational fit:** Storm assault, jump lanes, Wild Hunt closure tempo.
+**Operational fit:** Storm assault, jump lanes, Wild Hunt closure tempo — range beard → close saw → gladius finish.
 
 **Bearer dossier:** [dossier-armin-sturmwahl.md](../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md).
 
@@ -142,7 +142,7 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 | **II** | *Secunda* | **Hasta** | Spear thrust, minimal sweep |
 | **III** | *Tertia* | **Ignis** | Corrosive etch + chem-sealed haft |
 | **IV** | *Quarta* | **Securis** | Guillotine cleaver + sliding hook |
-| **V** | *Quinta* | **Descensus** | Chain beard + impaler + hammer + belt chainsword |
+| **V** | *Quinta* | **Descensus** | Forward bardiche chain-beard · long shaft · belt chainsword · power gladius (no impaler) |
 | **VI** | *Sexta* | **Malleus** | Maul-first breach |
 | **VII** | *Septima* | **Lamina** | Mono blade + mono spike |
 | **VIII** | *Octava* | **Contus** | Void spear + hull cap |
