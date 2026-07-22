@@ -156,6 +156,8 @@
 
 ## Elysium-Minor (The Flesh Greenhouse)
 
+**Seat note:** **Shared Central Bastion** civil world — **Apothecarion demographic audit** (Drusus). **Not** a Vexillatio / Legatus capital · **not** Prima–Secunda–Tertia wing.
+
 **Scale & role:** **Paradise** on lease — **rest reward** for productivity; **demographic incubator** under **Apothecarion** audit (pheromones, fertility nudge).
 
 **Economy-ecology:** Artificial sky, engineered beaches; **biology is the export** — births, not bolts.
@@ -167,6 +169,8 @@
 **Fork:** **Mask liturgy** — paradise as **factory input**. Culture looks **decadent**; spreadsheets say **strategic**.
 
 **Shards:** *glass wave* (fake surf sound), *pink saint* (obsolete — joke about first fertility martyr), *two-sun wedding* (both stars visible from honeymoon dome).
+
+**Deep ethnography (mortals):** [ethnography-elysium-minor.md](ethnography-elysium-minor.md) — Phase A ratified; **no** Legatus bleed file (shared civil / Apothecarion authority).
 
 ---
 
