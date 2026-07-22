@@ -36,17 +36,19 @@ It was a sweet misread. It fit the black gospel Haarken carried: the galaxy stil
 
 Haarken descended into the breach to read them properly.
 
-The grey lord did not come as a duelist. He came as a gauge — and he came with a polearm that made Haarken’s smile thin behind the grille.
+The grey lord did not come as a duelist. He came as a gauge.
 
-It was not a simple halberd and not a Champion’s show-glaive. Long Noviomagus-ugly haft, officer mass, a vexillum panel lashed below the head: four fields Haarken could not read as heraldry he respected — wolf-charge, a fat Roman numeral, some seat-mark, and a broken-cog quadrant that looked like shame stitched into cloth. The head itself was a working toolkit forged into murder: one cheek a humming **power axe** for cut and hook; opposite, a dense **power hammer** face for stagger and fault; between them a short, vicious **power impaler** meant for gorget, joint, and seam; the butt tipped with a **spike** built to plant in deck and turn the whole shaft into a pivot.
+It was not a simple halberd and not a Champion’s show-glaive. Long shaft, officer mass, a vexillum panel lashed below the head: four fields Haarken could not read as heraldry he respected.
 
-Where Raptors spent jump-fuel for terror angles, the iron-grey spent rounds like a forge spends bar-stock — counted, placed, intolerant of heroic waste. A Gloomtalon who dove for a Guard officer died mid-scream: the grey lord planted the butt-spike, pivoted, and took the Raptor’s thigh-seal with the axe-cheek in one economy arc that ended in the impaler through the jump-pack feed. No flourish. Terminators were few; line mass was enough. The curtain that should have collapsed recalibrated.
+And the grey lord barely moved.
+
+Where Raptors spent jump-fuel for terror angles, the iron-grey around him spent rounds like a forge spends bar-stock — counted, placed, intolerant of heroic waste. A Gloomtalon dove for a Guard officer and never reached him: two grey brothers stepped into the dive-lane and ended the scream with bolt and blade while their lord stood, polearm grounded, orange lenses reading the breach like a tally sheet. Another Raptor tried the high angle for the Corvus beak; a third grey caught him mid-stoop and put him into the Hab-rubble. The curtain that should have collapsed recalibrated — not because the gauge chased kills, because his force made chasing unnecessary.
 
 Haarken felt annoyance before rage.
 
 — Name your master — he called across the smoke, Helspear wet with mortal blood. — If you are the Warmaster’s lost curs, kneel and be rewritten. If you are Throne-dogs, kneel and be ended. Either way, this hive is claimed.
 
-The Corvus beak turned. Orange lenses. No chapter rant. Behind the grey lord, brothers reset a heavy bolter cell and dragged a wounded Guardsman behind ceramite without looking for thanks. The four-field cloth stirred once in the breach-wind and hung again, ugly and obedient.
+The Corvus beak turned. Orange lenses. No chapter rant. Brothers to either side reset a heavy bolter cell and dragged a wounded Guardsman behind ceramite without looking for thanks. The vexillum cloth stirred once in the breach-wind and hung again.
 
 When the grey lord spoke, it was low, few words, the voice of a man who preferred manifests to myths.
 
@@ -64,31 +66,33 @@ A Raptor sergeant voxed the sweet lie again — *Sons’ mongrels, Lupercal’s 
 
 Haarken almost believed it.
 
-Then he watched the chains on the grey lord’s right forearm catch the lumen-flash — rolled iron, maintained like an instrument — and the broken-cog mark at the gorget, twin to the cloth’s shame-field, and understood he was looking at something adjacent to treason without being treason’s friend. Not a Warmaster’s heir. A Chapter that had already met its own archtraitor’s shape and filed the debt into the body of the man who now held the seat.
+Then he watched the chains on the grey lord’s right forearm catch the lumen-flash — rolled iron, maintained like an instrument — and the broken-cog mark at the gorget, and understood he was looking at something adjacent to treason without being treason’s friend. Not a Warmaster’s heir. A Chapter that had already met its own archtraitor’s shape and filed the debt into the body of the man who now held the seat.
 
 Haarken did not know the expunged name. He did not need it. He could smell the adjacency: this was the response that survives after a brotherhood almost becomes what the Black Legion sells as destiny.
 
-He came in on screaming pack-thrust, Helspear seeking ownership.
+He came in on screaming pack-thrust, Helspear seeking ownership — because if the gauge would not move for Raptors, Haarken would make him move.
 
-The grey lord met him with the polearm as a system. Butt-spike kissed ferrocrete — plant — and the shaft became a fulcrum. Helspear scraped past the axe-cheek in a shower of conflicting fields. The hammer-face answered Haarken’s next leap with a short, ugly concussion across the Raptor-lord’s hip that stole altitude mid-jump. Haarken recovered with herald fury; the short impaler licked for his gorget-seal and bit paint, not throat — a gauge’s restraint, not a Champion’s greed.
+Only then did the Corvus lord shift.
 
-— You wear chains — Haarken mocked, binding spear to haft, trying to make the fight a proclamation. — Badab learned chains. Colchis learned chains. The Warmaster learned—
+Not a charge. A step, a turn of the long shaft, the head coming up from rest as if a tool had been lifted from a rack. Helspear met power-field with a hard, ugly ring. The grey lord gave Haarken nothing theatrical: a short bind, a shove that stole the jump’s leftover height, a single answering cut when the herald overcommitted. Around them his brothers kept the breach sealed so their lord did not have to become a whirlwind. They killed the angles. He killed the claim.
+
+— You wear chains — Haarken mocked, spear locked to haft, trying to make the fight a proclamation. — Badab learned chains. Colchis learned chains. The Warmaster learned—
 
 — Debt — the grey lord cut, sparse, patient, intolerant of the waste in Haarken’s speech. — Not your collar. We carry what failed. We do not become it.
 
-The duel was gap and gauge, not spectacle. Haarken fought as herald and Raptor-lord: leap, proclamation, spear-thrust meant to plant ownership in flesh. The Corvus lord fought as if he were the calibration mark for every grey brother in the breach — and the multi-faced polearm was his measuring tool. Axe for the cut that opens a jump-line. Hammer for the stagger that denies a second stoop. Impaler for the joint that ends a scream without emptying a magazine. Plant for the moment the lane must become geometry again. When Haarken opened a wound in grey ceramite, the answer was not a roar. It was a counter-hook with the axe-beard that dragged Haarken’s spear-point off-true, then a hammer-tap to the wrist-servo that made the Helspear suddenly heavy.
+The clash was gap and gauge, not spectacle. Haarken fought as herald and Raptor-lord: leap, proclamation, spear-thrust meant to plant ownership in flesh. The Corvus lord moved only when the next second required it — then stopped again, polearm returning toward that grounded readiness, while iron-grey fire made sure Haarken’s warband could not punish the stillness. When Haarken opened a wound in grey ceramite, the answer was not a roar. It was one corrective blow, then the line absorbing the rest.
 
-Gloomtalons tried to peel the Guard off the line. The iron-grey — still without a name Haarken could steal — refused the peel. Bolt volume as moral law. A mortal sergeant who should have fled found himself still alive behind a grey pauldron and chose, absurdly, to reload. The four-field vexillum never lifted as a triumph banner; it only marked where the gauge stood.
+Gloomtalons tried to peel the Guard off the fire-step. The iron-grey — still without a name Haarken could steal — refused the peel without needing their lord to leave his mark-point. Bolt volume as moral law. A mortal sergeant who should have fled found himself still alive behind a grey pauldron and chose, absurdly, to reload.
 
 Haarken drove for the claim again, voice wide for the vox-recorders that would feed Abaddon’s distant warrant.
 
 — In the Despoiler’s name—
 
-The butt-spike planted. The shaft locked. The axe-cheek took the Helspear’s shaft in a bind that was pure industrial contempt.
+The long shaft came up once more — only as far as needed — and stopped the Helspear in a bind that was pure industrial contempt.
 
 — Hold the cell — the beak told his own net, not Haarken. Then, to the herald, one more cut: — Your Warmaster is a story you use to steal worlds. We are not in it.
 
-No kinship granted. No Lupercal flirtation. No Chapter name. Only the industrial refusal of a seat that had already buried the brotherhood’s most famous hunger for that kind of glory — spoken with a polearm that did four jobs and asked for no poem.
+No kinship granted. No Lupercal flirtation. No Chapter name. Only the industrial refusal of a seat that had already buried the brotherhood’s most famous hunger for that kind of glory — spoken by a lord whose force had already made most of the killing his unnecessary.
 
 Haarken disengaged when the breach stopped being a claim and became a meat-bill. Raptors lifted on screaming packs. The Helspear left ferrocrete with a shriek like a cancelled deed. On the warband channel he spat new scar-names for the unknowns — *gauge-wolves*, *chain-dogs*, *the ones who will not be claimed* — and filed the warning Abaddon’s vanguard must carry:
 
