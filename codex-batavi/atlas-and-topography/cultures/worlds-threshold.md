@@ -53,7 +53,7 @@
 
 ## VIII *Octava* wing (Maleventum periphery)
 
-**Rule:** Same fortress-civitas as Station-Maleventum (+ Reef contact surfaces from bleed) — **false pressure** sin, Soft Voice / Static-Lord surface, seal/hold piety. Inherit [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md). Ivar Malevent stays on Ultima Arx. **Not** Marco/Nona seat. Witness Ford = hazard not time-magic. Great Reef twin remains Phase A filing above — not a wing body here.
+**Rule:** Same fortress-civitas as Station-Maleventum (+ Reef contact surfaces from bleed) — **false pressure** sin, Soft Voice / Static-Lord surface, seal/hold piety, Rabble/Common/Upper. Inherit [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md). Ivar Malevent stays on Ultima Arx. **Not** Marco/Nona seat. Witness Ford = hazard not time-magic. Great Reef twin remains Phase A filing above — not a wing body here.
 
 ### Tempest-V
 
@@ -99,7 +99,7 @@
 
 ### Singularity-Point & Block Station “Cerberus”
 
-**Scale & role:** **Time-rift** navigation weapon — **42-second** calm windows on the choke approach; Witness Ford hazard stack, not calendar magic.
+**Scale & role:** Unstable **navigational rift** / calm-window hazard — **42 stellar seconds** of usable quiet on the choke approach; Witness Ford hazard stack, **not** calendar magic or dome dilation.
 
 **Economy-ecology:** **Timing** as primary resource — **clocks** holy.
 
@@ -133,7 +133,7 @@
 
 ## IX *Nona* wing (Vigil-Lucis periphery)
 
-**Rule:** Same bait/shout civilization as Marco de Vetra — **premature cry** sin, Warden surface, delay-and-deny schedule piety. Inherit [nona-marco-de-vetra-culture-bleed.md](nona-marco-de-vetra-culture-bleed.md). Cassian Vetra stays on Marco. **Hard edge:** Station-IX = monastic **receiver** (listen-only); Marco = **bait and shout** — do **not** collapse into one silence cult.
+**Rule:** Same bait/shout civilization as Marco de Vetra — **premature cry** sin, Warden surface, delay-and-deny schedule piety, Rabble/Common/Upper (+ vitra-string bridge). Inherit [nona-marco-de-vetra-culture-bleed.md](nona-marco-de-vetra-culture-bleed.md). Cassian Vetra stays on Marco. **Hard edge:** Station-IX = monastic **receiver** (listen-only); Marco = **bait and shout** — do **not** collapse into one silence cult.
 
 ### Station-IX (“Sidus Silentii”)
 

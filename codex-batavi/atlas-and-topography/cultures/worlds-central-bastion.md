@@ -130,7 +130,7 @@
 
 **Shards:** *autumn vow* (promise under falling leaves holograph), *ribbon saint* (archivist martyred for refusing to alter a death date), *triple stamp kiss* (iron humor — kiss the seal, not the ring).
 
-**Deep ethnography (mortals):** [ethnography-castra-vetera-prime.md](ethnography-castra-vetera-prime.md) · seat II *Secunda* · Legatus Henric Kessler (*the Caliper*). **Phase B bleed:** [secunda-castra-vetera-culture-bleed.md](secunda-castra-vetera-culture-bleed.md) · **Secunda wing periphery (fork stubs):** § **II *Secunda* wing** below.
+**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-castra-vetera-prime.md](ethnography-castra-vetera-prime.md) · seat II *Secunda* · Legatus Henric Kessler (*the Caliper*). **Phase B bleed (ratified):** [secunda-castra-vetera-culture-bleed.md](secunda-castra-vetera-culture-bleed.md) · **Secunda wing periphery (fork stubs):** § **II *Secunda* wing** below.
 
 ---
 
@@ -186,7 +186,7 @@
 
 **Porta Nihili flavor:** Ascension is **virtue**. **Cable blessing** days: inspectors climb in **silence**. Sin is **unbalanced load** — moralized as **greed** (diversion cousin).
 
-**Social structure:** **Cable guilds** (initiation climbs), **counterweight pilgrims**, **sever engineers** kept honored and isolated — they know how **everything dies**. Class ladder holds; Chart-Grace passes matter at Atlas civil gates.
+**Social structure:** **Cable guilds** (initiation climbs), **counterweight pilgrims**, **sever engineers** kept honored and isolated — they know how **everything dies**. Class ladder holds; Chart-Grace passes matter at Atlas civil gates. Org delta: **Batavi / Navy choke rigor** louder than plains PDF — sever authority and cable blessing days sit above surface militia manners without making the tether a second Legatus seat.
 
 **Fork:** Granary empire as **vertical rope kinship** / cable blessing.
 
@@ -200,11 +200,11 @@
 
 **Porta Nihili flavor:** Holiness is **measured drip**. Workers bless **spectrometers**. Sin is **handshake contamination** — taboo carries real **batch risk** (diversion as purity breach).
 
-**Social structure:** **Garden mathematicians**, **visor novitiates**, **batch mothers** who never touch soil. Rabble/Common/Upper compress around batch clearance; Chart-Grace rare.
+**Social structure:** **Garden mathematicians**, **visor novitiates**, **batch mothers** who never touch soil. Rabble/Common/Upper compress around batch clearance; Chart-Grace rare. Org delta: **Apothecarion batch lock** heavier than on the plains seat — civilians meet sealed dosage audits and visor clearance before harvest leave; Shared Sweat rare (solitary clean-room labor).
 
 **Fork:** Granary as **chem monastery** / measured drip.
 
-**Shards:** *green lie* (lush display nutrient-poor), *glass tongue* (speak softly — algae hears vibration).
+**Shards:** *green lie* (lush display nutrient-poor), *glass tongue* (speak softly — algae hears vibration), *batch mother* (never-touch seniority — *blue lung* cousin in orbit).
 
 ### Bator-Secundus (The Chemical Moon)
 

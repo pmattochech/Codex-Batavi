@@ -165,13 +165,17 @@ Tithe mechanics: latency quotas, silence audits, beam-hour accounts to Administr
 
 ## 6. Education
 
-Who learns: farm children with string claim; delay-clerk apprentices; Administratum relay track; chapel schools for upper; rabble learn suit seal and chalk by bruising. Who is kept dark: anyone without clearance — literacy without transmit right is common and intentional. Tracks: **guild** (alignment, coupling), **house** (vitra string), **chapel** (High Gothic + silence discipline), **Administratum** (release ledgers), **PDF** (mast-foot drills). Curriculum-as-virtue: counting, muting, friend–foe discrimination by behavior (who transmits), hash weather etiquette, scorch drill obedience. Cost: years of apprenticeship, patronage debts, bodies lost in training walks. Literacy *does* this: lets you read a release slate and know whether speaking is sin.
+Who learns: farm children with string claim; delay-clerk apprentices; Administratum relay track; chapel schools for upper; rabble learn suit seal and chalk by bruising. Who is kept dark: anyone without clearance — literacy without transmit right is common and intentional.
+
+Tracks: **guild** (alignment, coupling, gel rites); **house** (vitra string patronage); **chapel** (High Gothic + silence discipline); **Administratum** (release ledgers, denial lists); **PDF** (mast-foot drills, suit mesh). Curriculum-as-virtue: counting windows, muting open net, friend–foe discrimination by behavior (*who transmits*), hash weather etiquette, scorch-drill obedience. Cost: years of apprenticeship, patronage debts, hearing and eye damage from beam-farm walkabouts, bodies lost in training walks outside seal.
+
+Literacy *does* this: lets you read a release slate and know whether speaking is sin; lets a Common delay clerk refuse a house shout without dying for it; lets Upper vitra children sponsor silence without performing leaky piety.
 
 **By class**
 
-- **Rabble:** Oral chalk schools; suit catechism; reading optional, muting mandatory.
-- **Common:** Guild schools; delay apprenticeship; literacy = employability at trunk gates.
-- **Upper / Vitra:** House tutors; Administratum polish; chapel High Gothic; taught to sponsor silence without performing leaky piety.
+- **Rabble:** Oral chalk schools; suit catechism; reading optional, muting mandatory. Worked example: duct children taught three chalk marks — *window open / window closed / do not touch* — before letters.
+- **Common:** Guild schools; delay apprenticeship; literacy = employability at trunk gates. Worked example: coupling-bay primers that grade apprentices on mute duration under fake hash alarms.
+- **Upper / Vitra:** House tutors; Administratum polish; chapel High Gothic; taught to sponsor silence and buy denial without broadcasting pride. Worked example: string-house children drilled on *shouter’s fast* calendars as house virtue, not feast.
 
 ---
 

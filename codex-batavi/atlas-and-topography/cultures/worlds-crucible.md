@@ -48,13 +48,13 @@
 
 **Economy-ecology:** **Heat index** replaces calendar; **rotation** is salvation. Load-share becomes **shift-share** off the burn face.
 
-**Porta Nihili flavor:** Faith is **signal purity**. Prayer is **hand-over-mouth** discipline on open channels — **Men of Iron** trauma baked in. Mass is **filter check** — *“God breathes through scrubber.”* Buckling here is **dirty signal**.
+**Porta Nihili flavor:** Faith is **signal purity**. Prayer is **hand-over-mouth** discipline on open channels — **Men of Iron** trauma baked in. Mass is **filter check** — *“God breathes through scrubber.”* Buckling here is **dirty signal**. Forged clean-filter stamps, stolen rotation slips, and false “off-dish” claims are **false yield** cousins under heat.
 
 **Social structure:** **Sentence castes**, **radar monks** (abbreviated clergy with **technical ordination**), **rotation romance** — love is **who swaps you out** of the burn. Rabble = dish crews; Common = filter techs; Upper = array wardens under lead.
 
 **Fork:** Tertius as **penal theology** / signal purity under heat; rotation = salvation.
 
-**Shards:** *lead kiss* (initiation burn), *echo shift* (forbidden word for deserter — also a band), *red minute* (flare prayer window).
+**Shards:** *lead kiss* (initiation burn), *echo shift* (forbidden word for deserter — also a band), *red minute* (flare prayer window), *dirty signal* (false-yield cousin — forged filter / lied rotation).
 
 ---
 
@@ -166,7 +166,7 @@
 
 **Shards:** *slow eye* (trained patience before burst), *melt psalm* (hum while glass runs), *shard confession* (break glass — truth proportional to fragments).
 
-**Deep ethnography (mortals):** [ethnography-vitreus.md](ethnography-vitreus.md) — Phase A ratified · [septima-vitreus-culture-bleed.md](septima-vitreus-culture-bleed.md) (Phase B bleed). **Phase C wing:** [§ VII *Septima* wing](#vii-septima-wing-vitreus--silica-periphery) (Ignis-Minor / Solaris-Alpha & Silica Field). Silica Field = stub depth only — **not** a separate Phase A ethnography file.
+**Deep ethnography (mortals):** [ethnography-vitreus.md](ethnography-vitreus.md) — Phase A ratified · [septima-vitreus-culture-bleed.md](septima-vitreus-culture-bleed.md) (Phase B bleed). **Phase C wing:** [§ VII *Septima* wing](#vii-septima-wing-vitreus--silica-periphery) (Ignis-Minor / Solaris-Alpha / Silica Field as separate stubs). Silica Field + Solaris-Alpha = stub depth only — **not** separate Phase A ethnography files.
 
 ---
 
@@ -188,16 +188,30 @@
 
 **Shards:** *ember name* (rename after first burn scar), *bridge marriage* (union only after joint span), *glass foot* (luck — means you lived).
 
-### Solaris-Alpha (The Prism) & the Silica Field
+### Solaris-Alpha (The Prism)
 
-**Scale & role:** **Mirror constellations** — heat weapon / **industrial sun** routing; **Silica Field** blinds ship sensors and naked eye alike. Phase C stub depth only — **not** a separate Phase A ethnography file.
+**Scale & role:** **Mirror constellations** — heat weapon / **industrial sun** routing for Vitreus photonic industry. Phase C stub depth only — **not** a separate Phase A ethnography file.
 
-**Economy-ecology:** **Glass navigation** — **eyes** fail; **faith in route** literal. Lens industry pushed to **mirror rows**.
+**Economy-ecology:** Controlled glare as **work weather**; mirror-row maintenance feeds lens yield without open-field suicide routes.
 
-**Porta Nihili flavor:** God is **angle**. Sin is **glare** — **spiritual and tactical** heresy unified (**stray scatter** in open field). Pilgrims walk **mirror rows** blindfolded — **initiation**.
+**Porta Nihili flavor:** God is **angle** under managed sun. Sin is **glare vanity** — polish and procession that breaks treaty angles (**stray scatter** cousin).
 
-**Social structure:** **Mirror acolytes**, **route singers** (oral **vector** hymns), **blind guides** — **highest** status pilots. Rabble = row sweepers; Common = singers; Upper = guide lineages. *Field widows* color PTSD cult rumor — stub only.
+**Social structure:** **Mirror acolytes**, **facet schedulers**, **veil crews**. Rabble = row sweepers; Common = angle clerks; Upper = treaty-angle houses.
 
-**Fork:** Vitreus lens piety as **mirror mystic** / God-is-angle route singing.
+**Fork:** Vitreus lens piety as **industrial-sun facet law** (managed glare, not blindfield mysticism).
 
-**Shards:** *bent prayer* (refraction pun), *field widows* (optical ghosts — PTSD cult), *twelve thousand* (martyr mirrors — mythology of overclock tragedy).
+**Shards:** *bent prayer* (refraction pun), *twelve thousand* (martyr mirrors — overclock tragedy myth), *veil minute* (honest shade seniority).
+
+### The Silica Field
+
+**Scale & role:** Asteroid **Glass Belt** that blinds ship sensors and naked eye alike; secret **Mirror Routes** or hull-grind. Phase C stub depth only — **not** a separate Phase A ethnography file.
+
+**Economy-ecology:** **Glass navigation** — **eyes** fail; **faith in route** literal. Survival is oral vector, not chart paper alone.
+
+**Porta Nihili flavor:** God is **angle** in lethal open field. Sin is **glare** — spiritual and tactical heresy unified (**stray scatter** in the belt). Pilgrims walk **mirror rows** blindfolded — **initiation**.
+
+**Social structure:** **Route singers** (oral **vector** hymns), **blind guides** — **highest** status pilots, **field widows** (PTSD cult color — stub only). Rabble = salvage sweepers; Common = singers; Upper = guide lineages.
+
+**Fork:** Vitreus lens piety as **mirror mystic** / God-is-angle route singing in lethal glass.
+
+**Shards:** *field widows* (optical ghosts — PTSD cult), *mirror route* (oral vector that keeps a hull alive), *blindfold vow* (initiation — eyes fail on purpose).

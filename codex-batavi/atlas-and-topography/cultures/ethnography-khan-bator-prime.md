@@ -265,7 +265,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 | **Local noble houses / tithe dynasties** | **Core** | Silo nobility + tithe nobility; elevator keys; silo marriage; debt grace politics. Chart-Grace = lower-upper bridge. Sin = house diversion dressed as grace. |
 | **Criminal / underhive powers** (as civic fact) | **Present** | Barge skim syndicates, illegal braid climbers, false-spoilage rings. Civic fact when charts blush. Not romantic underhive kings — diversion networks. Sin = open diversion. |
 | **Oxygen-monitor orders (seat-specific)** | **Core** | Masked inspectors with real HSE power — angels who prevent fire-god; feared when red-tagging festal torch. Enforce secondary sorter. Class access across common; upper liaison; rabble labor. Sin = torch without permit / chemistry cover for diversion. |
-| **Cable / Atlas sever offices (seat-specific)** | **Present** | Honored and isolated sever engineers; *cut-day* drills; shared-fate theology. Cultural gravity at Golden Grain. Wing-station detail deferred; seat mortals still live the rumor. |
+| **Cable / Atlas sever offices (seat-specific)** | **Present** | Honored and isolated sever engineers; *cut-day* drills; shared-fate theology. Cultural gravity at Golden Grain. Phase C wing stub: [worlds-central-bastion.md](worlds-central-bastion.md) § **III *Tertia* wing**; seat mortals still live the rumor. |
 | **Vacuum Harvest / neurochem gardens (orbit — Phase C wing)** | **Thin** | Dosimetry piety, *glass tongue*, batch contamination as soul risk. Workers and batch mothers as rumor on the surface; wing stub: [worlds-central-bastion.md](worlds-central-bastion.md) § **III *Tertia* wing**. |
 
 ---

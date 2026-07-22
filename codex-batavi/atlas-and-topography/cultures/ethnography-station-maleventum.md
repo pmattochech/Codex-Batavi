@@ -31,7 +31,7 @@ Citizens think in **holds**, **salvo windows**, **ground straps**, **pressure ti
 
 **Not Tempest-V:** not vibration-monk minimalism. Ultima Arx is crowded, drilled, naval-adjacent, loud with sirens and soft with open-*vox* discipline.
 
-**Not Abyssal-Anchor / Nox:** this file does **not** absorb dock-noir entrepôt culture or black-glass gravity mysticism. Those bodies keep fork stubs in [worlds-threshold.md](worlds-threshold.md) until their own ethnographies are ordered.
+**Not Abyssal-Anchor / Nox:** this file does **not** absorb dock-noir entrepôt culture or black-glass gravity mysticism. Phase C fork stubs live on [worlds-threshold.md](worlds-threshold.md) § **VIII *Octava* wing**; **Phase A depth only if ordered**.
 
 **Porta Nihili accent:** Throne is **hold**. Pilgrimage is **watch rotation**. Baptism is **pressure test** — *“sealed like bulkhead.”* Virtue is continuity under siege-normal. Outsiders misread Spartan silence as empty faith; locals hear it as **gun theology** — discipline thick, myth lean, receipts thicker than incense.
 
