@@ -110,7 +110,7 @@ No sealed names, no Versibar catechism, no *Lupercal* in mortal mouths.
 ## 9. Closed / deferred
 
 - [x] Ratified → atlas cultures (this file)  
-- [ ] Optional second district (rabble wet-shaft muster) — only if a chronicle needs it (not required to close Noviomagus)
+- [ ] Optional second district (rabble wet-shaft muster) — only if a chronicle needs it (**Noviomagus capital package is closed** without it)
 
 ---
 

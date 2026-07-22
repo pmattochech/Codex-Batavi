@@ -4,7 +4,7 @@
 
 → [`../../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../../atlas-and-topography/cultures/ethnography-noviomagus-prime.md)
 
-**Do not extend canon here** — edit the ethnography (or open a new `in-progress/` sibling for Vexilla bleed / sibling worlds). Draft body below is **frozen** for history.
+**Do not extend canon here** — edit the ethnography or the ratified *Prima* bleed ([`../../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md)); open a new `in-progress/` sibling only for **other** worlds. Draft body below is **frozen** for history.
 
 **Opened:** 2026-07-17 · **Closed:** 2026-07-20.
 
@@ -18,7 +18,7 @@
 | Shards / Black Rain + elevators / institutions | **Accepted** |
 | Atlas fork consistency | **Accepted** |
 | In-universe hymn claim | **None** (author mood only) |
-| Vexilla influence | **Deferred** |
+| Vexilla influence (I *Prima* bleed) | **Closed 2026-07-22** → [`../../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md) |
 | Promoted | **Yes** → ethnography |
 
 ---
@@ -308,5 +308,5 @@ These are **jobs / robes**, not a fourth class. The same priest or clerk still s
 - [x] Mood × class tables accepted
 - [x] Atlas fork § Noviomagus still matches
 - [x] No accidental in-universe hymn claim
-- [x] Vexilla influence still deferred
+- [x] Vexilla influence (I *Prima*) closed → bleed wiki
 - [x] Promoted out of active `in-progress/` → ethnography
