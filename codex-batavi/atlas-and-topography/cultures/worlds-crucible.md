@@ -67,6 +67,8 @@
 
 **Shards:** *split vow* (oath taken on mid-cable), *iron echo* (name said to gulf — returns if moral), *span child* (born during bridge repair — lucky).
 
+**Deep ethnography (mortals):** [ethnography-bifrons-ferrum.md](ethnography-bifrons-ferrum.md) — Vexillatio **VI** (*Sexta*) seat · Legatus **Gervas Bifronte** · Phase A ratified. Phase B/C deferred.
+
 ---
 
 ## Vitreus (The Lens World)
