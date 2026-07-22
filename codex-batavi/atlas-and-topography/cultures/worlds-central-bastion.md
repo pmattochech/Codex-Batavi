@@ -1,7 +1,8 @@
 # Central Bastion — per-world human culture
 
 **System atlas:** [system-i-central-bastion.md](../systems/system-i-central-bastion.md)  
-**Basal stratum:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md)
+**Basal stratum:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md)  
+**I *Prima* wing:** Noviomagus Prime + periphery stubs in § **I *Prima* wing** (same civilization, local deltas). Castra-Vetera / Khan-Bator remain *Secunda* / *Tertia* seats.
 
 ---
 
@@ -19,7 +20,97 @@
 
 **Shards:** *rain-closed face* (stoicism), *gear prayer* (three knuckle taps on a duty belt — borrowed into Batavi friction habit), *black tooth* (honest corrosion — badge of seniority).
 
-**Deep ethnography (mortals):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md) · **I *Prima* bleed:** [prima-noviomagus-culture-bleed.md](prima-noviomagus-culture-bleed.md)
+**Deep ethnography (mortals):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md) · **I *Prima* bleed:** [prima-noviomagus-culture-bleed.md](prima-noviomagus-culture-bleed.md) · **Prima wing periphery (fork stubs):** § **I *Prima* wing** below.
+
+---
+
+## I *Prima* wing (Noviomagus periphery)
+
+**Rule:** Same civilization as Noviomagus Prime — throughput theology, plaque/elevator sorting, Shared Sweat, stamp-booth holiness — with **one small fork** per body. Class labels **Rabble / Common / Upper** still apply; local keys change (dock passes, tank rights, ring claims). **Not** II *Secunda* / III *Tertia* seats. Chapter contact inherits [prima-noviomagus-culture-bleed.md](prima-noviomagus-culture-bleed.md); Corbec’s gauge stays on Noviomagus Prime.
+
+### Castrum Ferrum (orbital citadel / hangar spine)
+
+**Scale & role:** Orbital citadel and Hangar Primus spine above the forge capital — clamp logistics, void apron labor, Chapter-adjacent civil rooms without Strategium floors.
+
+**Economy-ecology:** Vacuum discipline instead of Black Rain; magnetic clamps are **weather**.
+
+**Porta Nihili flavor:** Same seals, less rain — the stamp booth that can kill you.
+
+**Social structure:** Upper = clamp-license dynasties; common = dock-shift plaques; rabble = void-apron crews who never see hive rain.
+
+**Fork:** Capital manners under **vacuum discipline**.
+
+**Shards:** *clamp kiss* (tap the seal twice before mag-lock) beside ordinary *gear prayer*; *rain-closed face* still names stoicism even without rain.
+
+### Ferrum-Secondus (Second Ring / mid-hive industrial band)
+
+**Scale & role:** Mid-hive industrial band on Noviomagus — geartrain continuity without the capital’s soft *face-hold* buffer. Chronicle anchors: ~183 Ferrum-Secondus Wolf Ledger.
+
+**Economy-ecology:** Same rust management; thinner Solis-band cushion.
+
+**Porta Nihili flavor:** Castellan-idol **temptation weather** — prayer cards in lockers read as scrap-sin cousin, not new creed.
+
+**Social structure:** Common class denser; upper thinner and louder about “Wall loyalty”; rabble = shift lockers and filter stairs.
+
+**Fork:** Noviomagus **without the capital’s face-hold**.
+
+**Shards:** *amber chalk* as civic rumor color (not doctrine) — “Soon” jokes after ~183; *black tooth* seniority still holds.
+
+### Hive Vespera (named hive stack)
+
+**Scale & role:** Named Noviomagus hive — post–~189 Red Harvest culture is **over-logged** Noviomagus, not a new people.
+
+**Economy-ecology:** Cadastre rebuild; house titles voided; drains and channels as infrastructure memory.
+
+**Porta Nihili flavor:** Devotion-to-persona treated as **theft from Terra’s mouth**. Shared Sweat returns as penance labor under Arbites + *Prima* residual geometry.
+
+**Social structure:** Same class ladder under heavier Administratum / Arbites weight; noble names struck from public roll.
+
+**Fork:** Noviomagus that **broke the seal** once.
+
+**Shards:** *red drain* (careful taboo joke about channels — never pride); stamp booths louder than chapels.
+
+### Wet-shaft band (rabble muster district)
+
+**Scale & role:** Stack district where elevator failure is **permanent weather** — rabble muster, PDF canopy, scrap stairs. District, not a planet.
+
+**Economy-ecology:** Acid drip as default; stamp booths on stilts.
+
+**Porta Nihili flavor:** Same throughput theology under wet failure; *Prima* parallel keys only when the ditch is one (bleed hard edge).
+
+**Social structure:** Rabble-heavy; common = stilts and canopy militia; upper almost absent except audit visits.
+
+**Fork:** Elevator failure as climate.
+
+**Shards:** *shaft cough* (honest lung badge — *black tooth* cousin); *gear prayer* on wet iron.
+
+### The Steel Belt & the Grinder
+
+**Scale & role:** Debris ring between Noviomagus and Horreum-Secundus — industrial waste, hull grave, forced navigation channel. Salvage feeds forge reclaim.
+
+**Economy-ecology:** Collision ecology — salvage as weather; weld receipts, not tribal crowns.
+
+**Porta Nihili flavor:** Throughput theology on scrap — fortune is **first logged weld**; claim-jumping = **unlogged scrap**. Shrines = impact craters with offering slag.
+
+**Social structure:** Sieve crews (nomadic but **manifested**); grinder pilots; static rocks = elevator castes of the ring. *Prima*/Kadmos vacuum training reads as Shared Sweat with cutters.
+
+**Fork:** Noviomagus **in orbit** — salvage as receipt culture, not salvage kings.
+
+**Shards:** *rust vow* (iron oxide on palm = **logged** first weld), *second bite* (salvage dispute under claim file), *ring widow* (partner lost to grinder collision).
+
+### Horreum-Secundus (Aquaculture belt)
+
+**Scale & role:** Wet belts feeding combat algae, filtration, and high-protein chains into the forge stack (biogeographic matrix).
+
+**Economy-ecology:** Tanks, blooms, metal water — water is the forge medium.
+
+**Porta Nihili flavor:** Solution theology still **receipt** theology — purity = clear tank; sin = wrong bloom. Blessings = dip and refract at the stamp booth by the basin.
+
+**Social structure:** Tank kin = district dynasties; scum readers = stamp-booth priests of refract; harvest divers. Envy of Noviomagus dry-stacks is sport until tithe tightens.
+
+**Fork:** Noviomagus where **water is the forge**.
+
+**Shards:** *glass saint* (first algae breeder), *three stirs* (morning rite = *gear prayer* with a ladle), *sweet rot* (named bloom disaster — swear word).
 
 ---
 
@@ -155,30 +246,10 @@
 
 ## The Steel Belt & the Grinder
 
-**Scale & role:** **Debris ring** — industrial waste, hull grave; **forced navigation** channel.
-
-**Economy-ecology:** **Collision ecology** — salvage as weather.
-
-**Porta Nihili flavor:** Fortune is **first weld**. Shrines are **compact impact craters** filled with **offering slag**. Sin is **claim-jumping** — spiritual and legal.
-
-**Social structure:** **Sieve tribes** (nomadic scrappers), **grinder pilots**, **static kings** on stable rocks. Law is **oral claim** backed by **torch and cutter**.
-
-**Fork:** **Salvage barbaricum** — **post-Roman scrap heap** energy: **new kings every orbit**.
-
-**Shards:** *rust vow* (iron oxide on palm), *second bite* (salvage rights dispute ritual), *ring widow* (partner lost to grinder collision).
+**Filing:** I *Prima* wing periphery — full fork stub under § **I *Prima* wing** (Noviomagus standard + orbital salvage delta).
 
 ---
 
 ## Horreum-Secundus (Aquaculture belt)
 
-**Scale & role:** Canonically tied to **combat algae**, **filtration**, **high-protein** chains (biogeographic matrix).
-
-**Economy-ecology:** **Wet belts** — tanks, blooms, taste of **metal water**.
-
-**Porta Nihili flavor:** Life is **solution theology** — purity is **clear water**, sin is **bloomed wrong**. Blessings involve **dip and refract**.
-
-**Social structure:** **Tank kin** (family by basin), **scum readers** (diagnostics as augury), **harvest divers**.
-
-**Fork:** **Marsh monastery** meets **industrial fishery** — quiet, wet, precise.
-
-**Shards:** *glass saint* (first algae breeder), *three stirs* (morning rite), *sweet rot* (named bloom disaster — swear word).
+**Filing:** I *Prima* wing periphery — full fork stub under § **I *Prima* wing** (Noviomagus standard + wet-forge delta).

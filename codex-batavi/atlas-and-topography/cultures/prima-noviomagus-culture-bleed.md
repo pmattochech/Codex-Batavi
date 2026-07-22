@@ -110,10 +110,11 @@ No sealed names, no Versibar catechism, no *Lupercal* in mortal mouths.
 ## 9. Closed / deferred
 
 - [x] Ratified → atlas cultures (this file)  
-- [ ] Optional second district (rabble wet-shaft muster) — only if a chronicle needs it (**Noviomagus capital package is closed** without it)
+- [x] I *Prima* wing periphery fork stubs → [`worlds-central-bastion.md`](worlds-central-bastion.md) § **I *Prima* wing** (inherit this bleed; no separate wing bleed wiki)  
+- [x] Wet-shaft band filed as district stub under that wing section (deep scene still optional if a chronicle needs it)
 
 ---
 
 ## 10. Cross-links
 
-[`ethnography-noviomagus-prime.md`](ethnography-noviomagus-prime.md) · [`dossier-corbec-ardens.md`](../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md) · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · [`mortivigil-and-reclusiam-helm-law.md`](../../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md)
+[`ethnography-noviomagus-prime.md`](ethnography-noviomagus-prime.md) · [`worlds-central-bastion.md`](worlds-central-bastion.md) § **I *Prima* wing** · [`dossier-corbec-ardens.md`](../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md) · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · [`mortivigil-and-reclusiam-helm-law.md`](../../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md)

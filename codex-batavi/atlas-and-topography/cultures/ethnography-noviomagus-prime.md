@@ -154,5 +154,6 @@ Not a fourth class — robes that change **which holy object** and **which boss*
 ## 7. Related / deferred
 
 * **I *Prima* / Vexilla culture bleed** — **ratified:** [`prima-noviomagus-culture-bleed.md`](prima-noviomagus-culture-bleed.md).  
-* **Sibling-world** ethnographies beyond this capital study.  
+* **I *Prima* wing periphery** (Castrum Ferrum, Ferrum-Secondus, Hive Vespera, wet-shaft, Steel Belt, Horreum-Secundus) — fork stubs: [`worlds-central-bastion.md`](worlds-central-bastion.md) § **I *Prima* wing**; Noviomagus standard + minor local delta; no separate ethnographies this pass.  
+* **Sibling seats** (*Secunda* / *Tertia* and beyond) — not Prima wing.  
 * Optional mesh **xenos hate-rank** note (chat-grounded; not required here).
