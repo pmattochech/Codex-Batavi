@@ -125,7 +125,7 @@
 
 **Shards:** *crown-and-estuary* (political season), *salt marriage* (brine handshake), *tide silence* (no lie when water rises — custom, not magic), *witness debt*, *Storm-Master weather*.
 
-**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-aethelgard-prime.md](ethnography-aethelgard-prime.md) · Phase B / *Quinta* wing periphery **deferred**.
+**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-aethelgard-prime.md](ethnography-aethelgard-prime.md) · Phase B bleed: [quinta-aethelgard-culture-bleed.md](quinta-aethelgard-culture-bleed.md) · *Quinta* wing periphery (Phase C) **deferred**.
 
 ---
 

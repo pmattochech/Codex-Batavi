@@ -321,7 +321,7 @@ Not a fourth class — same strata, different boss / holy object.
 
 **Mortal → scene signal:** Mud line on boots → which tide bell they answer → whether they offer salt-cup or High Gothic first → how they flinch when descent weather empties the street.  
 
-**Wrong:** Dumping Einar / *Amissi* / gene-seed / Founding claims into Needles street talk as fact; collapsing Batavi Ancestor-Sovereign into Ministorum god-worship; treating tide silence as psychic sorcery; writing Noviomagus elevator piety onto embankments; Phase B bleed mechanics inside this file.  
+**Wrong:** Dumping Einar / *Amissi* / gene-seed / Founding claims into Needles street talk as fact; collapsing Batavi Ancestor-Sovereign into Ministorum god-worship; treating tide silence as psychic sorcery; writing Noviomagus elevator piety onto embankments; full Vexilla bleed mechanics inside this Phase A file (see Phase B).  
 
 **Right:** Water before blood; ghost haul as class-colored sin; Storm-Master as route weather; mud-boot priests; chronological blindness on Moon Hunt (hunting weather, not sealed doctrine); Shared Sweat as who stood the gate.
 
@@ -329,8 +329,8 @@ Not a fourth class — same strata, different boss / holy object.
 
 ## 9. Related / deferred
 
-- Phase B bleed file: **deferred** — planned path pattern `quinta-aethelgard-prime-culture-bleed.md` (not written this pass)  
-- Wing periphery: **deferred** — *Quinta* seat bodies under [worlds-crucible.md](worlds-crucible.md) inherit after Phase B; no wing stubs this pass  
+- Phase B bleed file: [quinta-aethelgard-culture-bleed.md](quinta-aethelgard-culture-bleed.md) — V *Quinta* ↔ Aethelgard (ratified)  
+- Wing periphery: **deferred** — *Quinta* seat bodies under [worlds-crucible.md](worlds-crucible.md) inherit Phase B; no wing stubs this pass  
 - Sibling seats: do **not** absorb Noviomagus / Khan-Bator / other Legatus worlds  
 - Geography lock: [geography-aethelgard-prime.md](geography-aethelgard-prime.md)  
 - Legatus surface dossier (not populi doctrine): [`../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md`](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md)
