@@ -311,8 +311,8 @@ Not a fourth class — same strata, different boss / holy object.
 
 ## 9. Related / deferred
 
-- **Phase B bleed file:** `deferred` — intended path later: [`secunda-castra-vetera-culture-bleed.md`](secunda-castra-vetera-culture-bleed.md) (not written this pass).  
-- **Wing periphery:** `deferred` — Castra-Minor and other II *Secunda* wing bodies inherit seat standard + local delta only after Phase B.  
+- **Phase B bleed file:** [`secunda-castra-vetera-culture-bleed.md`](secunda-castra-vetera-culture-bleed.md) — II *Secunda* ↔ Castra-Vetera Prime (ratified).  
+- **Wing periphery:** `deferred` — Castra-Minor and other II *Secunda* wing bodies inherit seat standard + local delta only after Phase C order (Phase B closed).  
 - **Sibling seats:** Do **not** absorb Noviomagus forge culture (I *Prima*) or Khan-Bator granary culture (III *Tertia*).  
 - **Optional draft archive:** [`../../planning/in-progress/castra-vetera-population-culture.md`](../../planning/in-progress/castra-vetera-population-culture.md)
 
