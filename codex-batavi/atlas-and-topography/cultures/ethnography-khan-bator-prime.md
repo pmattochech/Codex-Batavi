@@ -101,7 +101,7 @@ Citizens think in **yield**, **breath**, **elevator windows**, and **silo seals*
 
 ## 1. Military (mortal)
 
-Khan-Bator’s mortal force geometry is **corridor, barge, and silo** — not parade ground romance. Planetary Defense Force and local militia own spark-curfew enforcement, bloom-riot containment, and Atlas approach pickets. Imperial Guard draft windows pull from silo stacks and barge guilds when the Wall is hungry for bodies; Arbites posture hardens when diversion riots threaten tithe integrity. Shared Sweat contact is surface: parallel keys at inspection floors, civilian rope kin in Atlas queues learning helm-still pauses, bargemen knife-flat hand signals for load balance that Batavi sometimes mirror — not Chapter doctrine, not Vexilla bleed (Phase B deferred).
+Khan-Bator’s mortal force geometry is **corridor, barge, and silo** — not parade ground romance. Planetary Defense Force and local militia own spark-curfew enforcement, bloom-riot containment, and Atlas approach pickets. Imperial Guard draft windows pull from silo stacks and barge guilds when the Wall is hungry for bodies; Arbites posture hardens when diversion riots threaten tithe integrity. Shared Sweat contact is surface: parallel keys at inspection floors, civilian rope kin in Atlas queues learning helm-still pauses, bargemen knife-flat hand signals for load balance that Batavi sometimes mirror — not Chapter doctrine; full Vexilla bleed in [tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md).
 
 **Who dies first when the Wall is late:** rabble in slime docks and red-tagged districts; then common PDF canopy and barge militia; upper evacuate by house elevator while Chart-Grace argue guest ink for civil floors. Oxygen monitors die early in fire years — angels of HSE become corpses of chemistry.
 
@@ -300,7 +300,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 
 ## 9. Related / deferred
 
-- **Phase B bleed file:** `deferred` — planned path pattern `tertia-khan-bator-culture-bleed.md` (not written this pass). Do not mix Vexilla doctrine into populi body above.
+- **Phase B bleed file:** [tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md) — III *Tertia* ↔ Khan-Bator (ratified). Do not mix Vexilla doctrine into populi body above.
 - **Wing periphery (Phase C / Wave 3):** `deferred` — **Bator-Secundus**, **Bator-Tertius**, **Vacuum Harvest Fields**, **Golden Grain Station / Atlas Elevator** remain fork stubs / cross-links under [worlds-central-bastion.md](worlds-central-bastion.md); seat standard + local delta later. **Not** absorbed into this ethnography.
 - **Sibling seats:** Noviomagus / I *Prima* and Castra-Vetera / II *Secunda* — do not absorb; forge bleed and law-mother forms stay sibling, not Khan-Bator body.
 - **External mortal relations (kept):** Noviomagus gear envy; Castra-Vetera law mother; Aethelgard salt brother; Bator-Tertius green horror recreation for elites (status hunt cant at silo gates — cross-link only).
@@ -323,7 +323,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 - [x] Batavi creed not collapsed into Ministorum  
 - [x] No Founding/progenitor invention; no opaque friend–foe abbreviations  
 - [x] Chronological blindness respected  
-- [x] Phase B/C explicitly deferred without mixing doctrine into populi body  
+- [x] Phase B linked ([tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md)); Phase C deferred without mixing doctrine into populi body  
 - [x] Yield / oxygen / elevator / silo locks retained  
 
 *Revision discipline:* dates and battle outcomes elsewhere in Codex supersede ethnographic generalizations if they conflict. System atlas “5th Company” diversion watch phrasing is **legacy topography shorthand** — seat lock for this ethnography is **Vexillatio III (*Tertia*) · Theron Brach**.
