@@ -1,12 +1,12 @@
 # [CHRONICLE] No Joy
 
-**Classification:** Novel chapter — Night Lords POV · Steppenwolf Shadows execution (no ivory on hull) · merchant trespass near Insula  
+**Classification:** Novel chapter — Night Lords POV · Batavi hunters unnamed until late · merchant trespass near Insula  
 **When:** Present era — after circulating Batavi scars (Chapter known; off-mesh operators not yet priced)  
 **Where:** Ministorum-chartered merchant hull ***Saint Oriel Beckoning*** — too close to **Insula Tenebrarum** / Castra Vetera approaches; later void far out on a course + distress beacon set for NL recovery  
-**Who:** Night Lords squadron under **Vorthax Skain**; Steppenwolf Shadows cell under Lieutenant **Orvek Kriesen** (veteran/elite — **red lenses** exception); second Night Lords recovery element
+**Who:** Night Lords squadron under **Vorthax Skain**; Batavi cell under Lieutenant **Orvek Kriesen** (identity withheld on-page until late); second Night Lords recovery element
 
-**Intel premise:** Not a rescue. Execution of those who dared push near Castra Vetera. Crew are not mesh-native — few survivors by design. Shadows run duct/kill-box protocol (knife/gladius, suppressed, minimal signature). No Vexillatio self-name required.  
-**Beat lock:** Disappearances climb Skain’s band through **curiosity → morbid fun → hate → despair**. Bridge tableau: skinless headless brothers impaled; sack of skins drops their heads on Skain. **Orvek Kriesen** monologues on ship vox (unseen); red lenses multiply in the dark; Orvek appears — *Stay away from this sector* — kills the last NL. Recovery NL find cogitator kill-POVs and file the scar.
+**Intel premise:** Not a rescue. Execution of those who dared push near Castra Vetera. Crew are not mesh-native — few survivors by design. Hunters stay **mystery** in the body until a brief late name.  
+**Beat lock:** Disappearances climb Skain’s band through **curiosity → morbid fun → hate → despair**. Bridge tableau: skinless headless brothers impaled; sack of skins drops their heads on Skain. Unseen vox monologue; red lenses multiply in the dark; Orvek appears — *Stay away from this sector* — kills the last NL. Recovery NL find cogitator kill-POVs and file the scar (**Shadows** named only in filing / late beat).
 
 **Series:** [INDEX.md](../INDEX.md)  
 **Cross-references:** [steppenwolf-doctrine.md](../../../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) · [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md) §3.1 · [cohort-standard-kit.md](../../../arsenal-and-logistics/cohort-standard-kit.md) §2 · [nothing-too-perfect/chapter.md](../nothing-too-perfect/chapter.md) · [castra-vetera-galactic-lock.md](../../../atlas-and-topography/castra-vetera-galactic-lock.md)
@@ -41,8 +41,6 @@ Morbid fun settled over the squadron like perfume. They hunted the hunter. They 
 
 Skain did not yet call it hate. He called it a better game.
 
-What he did not see — what none of them priced — were black pauldrons moving where merchant ducts believed themselves blind: Steppenwolf Shadows on an execution writ, no ivory pattern-priest on the hull, veteran elites with **red lenses** that did not advertise until they chose to. Knife primary. Power gladius for ceramite. Suppressed bolts when a throat needed ending without a sermon. Kill-boxes prepared in junctions stewards thought were storage. Minimal signature. No chainsword scream. No joy-flare. Protocol.
-
 A third brother vanished between one scream and the next.
 
 A fourth left only a dropped flensing blade and a cooling joke on the vox.
@@ -75,13 +73,13 @@ Skain roared insults into the dark — coward, bastard, skinless dog, come out i
 
 Red lenses opened in the dark.
 
-Not one pair. Many. Ceiling ribs. Bridge corners. The black above the holo-dais. Eyes without armor offered — Steppenwolf veterans allowing only the elite tell, red coins floating in void-dark, a constellation that did not breathe loud enough to clap for Night Lords.
+Not one pair. Many. Ceiling ribs. Bridge corners. The black above the holo-dais. Eyes only — red coins floating in void-dark, a constellation that did not breathe loud enough to clap for Night Lords.
 
 Skain spun, bolter up, hate and despair braided into one useless aim.
 
-Then a single figure was simply **there** — immediately in front of him, as if distance had been a courtesy revoked. Matte black pauldron. Industrial grey the rumors named Cohors Batavorum. Red lenses close enough to reflect Skain’s own midnight paint. No joy in the stance. Lieutenant’s economy.
+Then a single figure was simply **there** — immediately in front of him, as if distance had been a courtesy revoked. Industrial grey the rumors named Cohors Batavorum. Red lenses close enough to reflect Skain’s own midnight paint. No joy in the stance.
 
-— Orvek Kriesen — the Batavi said, not as boast, as filing. — Steppenwolf. Shadows. Message for your Legion:
+— Orvek Kriesen — the Batavi said, not as boast, as filing. — Shadows. Message for your Legion:
 
 — Stay away from this sector.
 
@@ -95,14 +93,14 @@ They boarded ready for a fight and found a gallery.
 
 Skinless. Headless. Impaled. The sack. The bridge. The few living crew who could not explain anything except darkness and red eyes and a voice that hated joy.
 
-In the guild cogitators — left unlocked, left obvious — reels waited. Each missing brother’s last minutes, filmed from angles that should not have existed: duct-POV, rafter-POV, kill-box-POV. Knife work. Gladius finishes. Suppressed bolts. No laughter on the audio. No speech until the bridge monologue and the sector ban. Cohors Batavorum plate in glimpses. Black pauldrons. Red lenses. A lieutenant who ended Skain like closing a ledger.
+In the guild cogitators — left unlocked, left obvious — reels waited. Each missing brother’s last minutes, filmed from angles that should not have existed: duct-POV, rafter-POV, angles that made the dark itself a camera. Knife work. Quiet finishes. No laughter on the audio. No speech until the bridge monologue and the sector ban. Grey plate in glimpses. Red lenses. A lieutenant who ended Skain like closing a ledger — and, on the audio tag, one word for the hunters: **Shadows**.
 
 The recovery lord watched until hate had somewhere to sit.
 
 Then he filed, because Night Lords file what wounds them:
 
 Cohors Batavorum — confirmed.  
-Not mesh-bound only. They come off Castra Vetera. Steppenwolf Shadows — duct dogs, red-eyed elites, joyless.  
+Not mesh-bound only. They come off Castra Vetera. Their **Shadows** — red-eyed, joyless, duct-born.  
 They took our method and returned it without appetite. Impaled. Skinned. Heads in a sack of our skins.  
 Vox contempt: we are not hunters; we are punchbags who learned to make the dark clap.  
 Message: **Stay away from this sector.**  
