@@ -7,7 +7,7 @@
 |---------|------|-----|-------------|-------|
 | **Claim Denied** | [claim-denied/chapter.md](claim-denied/chapter.md) | **Haarken Worldclaimer** · Gloomtalons | Corbec + *Prima* (unnamed) | Valerius-adjacency without naming him; claim vs gauge; Abaddon off-stage |
 | **The Uninvited Road** | [uninvited-road/chapter.md](uninvited-road/chapter.md) | **Otho** · Haruspices · **Nullity** | Coffin shard / Witness Ford annex; Magister Vhorak (Ashen Spiral); TS scar-names as **insults** |
-| **Wasted Talent** | [wasted-talent/chapter.md](wasted-talent/chapter.md) | **Warsmith Drogan Kalkas** (IW) | Bifronte + *Sexta* vault armory; Fist+IW hybrid offense; insult **“Wasted Talent.”** |
+| **Wasted Talent** | [wasted-talent/chapter.md](wasted-talent/chapter.md) | **Warsmith Drogan Kalkas** (IW) | Bifronte self-names (Sexta / Ten Vexillas / Ten Praetors); Fist+IW cage; **nameless wretch** / **wasted talent** (Man-Child of Olympia); IW theorize vexilla org. |
 
 **Draft siblings (not yet promoted):**
 
