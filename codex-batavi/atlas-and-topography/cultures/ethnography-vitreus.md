@@ -327,7 +327,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 ## 9. Related / deferred
 
 - Phase B bleed file: [`septima-vitreus-culture-bleed.md`](septima-vitreus-culture-bleed.md) — VII *Septima* ↔ Vitreus (ratified)  
-- Wing periphery (Phase C): [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** — Ignis-Minor / Solaris-Alpha & Silica Field stubs (inherit bleed; no separate wing bleed wiki)  
+- Wing periphery (Phase C): [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** — Ignis-Minor / Solaris-Alpha / Silica Field stubs (inherit bleed; no separate wing bleed wiki)  
 - Sibling seats: do not absorb Aethelgard, Noviomagus, Incus forks, or Logus oral law  
 - **Silica Field / Solaris-Alpha:** Phase C stub under [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** — not a separate Phase A ethnography in this file  
 - Null-Vent folk memory (**112.M42**): surface orbital gossip only — chronicle/AAR remain sealed depth outside populi catechism  

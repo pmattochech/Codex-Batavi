@@ -242,7 +242,7 @@ Matte anti-glare panels; orange lenses; knuckle before window; pole planted at m
 
 - [x] Phase B file ratified at framework B1–B8 depth — this path  
 - [x] Cross-links: [`ethnography-vitreus.md`](ethnography-vitreus.md) · [`worlds-crucible.md`](worlds-crucible.md) § Vitreus · [`../INDEX.md`](../INDEX.md)  
-- [x] Phase C — VII *Septima* **wing periphery stubs:** [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** (Ignis-Minor / Solaris-Alpha & Silica Field stub depth; not separate Phase A ethnography); inherit this bleed; no separate wing bleed wiki  
+- [x] Phase C — VII *Septima* **wing periphery stubs:** [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** (Ignis-Minor / Solaris-Alpha / Silica Field as separate stubs — not separate Phase A ethnographies); inherit this bleed; no separate wing bleed wiki  
 - [ ] Logus Ring, Bifrons, Aethelgard, and other Legatus seats — **not absorbed**  
 - [ ] Sealed Null-Vent chronicle / AAR depth — remains outside populi catechism; cite, do not dump  
 - [ ] Founding / progenitor — **forbidden invent**; open record stays unknown / redacted / not disclosed  
