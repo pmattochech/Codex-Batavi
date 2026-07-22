@@ -150,7 +150,7 @@
 
 **Shards:** *blue lung* (worker pride — oxygen adaptation), *salt-in-the-ration* (shared fate — imported into Batavi Dead’s Salt genealogy), *silo marriage* (two houses merge elevator keys).
 
-**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md). **Phase B** (*Tertia* bleed) and **Phase C** wing (Bator-Secundus / Tertius / Vacuum Harvest / Golden Grain) **deferred** — cross-link stubs below only; not absorbed into the capital ethnography.
+**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md). **Phase B bleed (ratified):** [tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md) — III *Tertia* ↔ Khan-Bator. **Phase C** wing (Bator-Secundus / Tertius / Vacuum Harvest / Golden Grain) **deferred** (Wave 3) — cross-link stubs below only; not absorbed into the capital ethnography; inherit Phase B when written.
 
 ---
 

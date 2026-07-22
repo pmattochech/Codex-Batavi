@@ -26,7 +26,7 @@
 
 - [x] I *Prima* — Noviomagus — [`../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../atlas-and-topography/cultures/ethnography-noviomagus-prime.md) · bleed [`../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md) · wing stubs [`../atlas-and-topography/cultures/worlds-central-bastion.md`](../atlas-and-topography/cultures/worlds-central-bastion.md) § **I *Prima* wing**
 - [x] II *Secunda* — Castra-Vetera — [`../atlas-and-topography/cultures/ethnography-castra-vetera-prime.md`](../atlas-and-topography/cultures/ethnography-castra-vetera-prime.md)
-- [x] III *Tertia* — Khan-Bator — [`../atlas-and-topography/cultures/ethnography-khan-bator-prime.md`](../atlas-and-topography/cultures/ethnography-khan-bator-prime.md)
+- [x] III *Tertia* — Khan-Bator — [`../atlas-and-topography/cultures/ethnography-khan-bator-prime.md`](../atlas-and-topography/cultures/ethnography-khan-bator-prime.md) · bleed [`../atlas-and-topography/cultures/tertia-khan-bator-culture-bleed.md`](../atlas-and-topography/cultures/tertia-khan-bator-culture-bleed.md)
 - [x] Shared — Elysium-Minor (Apothecarion civil) — [`../atlas-and-topography/cultures/ethnography-elysium-minor.md`](../atlas-and-topography/cultures/ethnography-elysium-minor.md)
 - [x] IV *Quarta* — Incus-Gravis Tertius — [`../atlas-and-topography/cultures/ethnography-incus-gravis-tertius.md`](../atlas-and-topography/cultures/ethnography-incus-gravis-tertius.md)
 - [x] V *Quinta* — Aethelgard — [`../atlas-and-topography/cultures/ethnography-aethelgard-prime.md`](../atlas-and-topography/cultures/ethnography-aethelgard-prime.md)
@@ -37,5 +37,5 @@
 
 ### Next waves
 
-- [ ] Wave 2 — Phase B bleeds for seats I–IX (Elysium: no Legatus bleed)
+- [ ] Wave 2 — Phase B bleeds for seats I–IX (Elysium: no Legatus bleed) — **III *Tertia* done** ([`tertia-khan-bator-culture-bleed.md`](../atlas-and-topography/cultures/tertia-khan-bator-culture-bleed.md)); I *Prima* bleed already on master
 - [ ] Wave 3 — Phase C wing periphery bots per Legatus

@@ -7,7 +7,7 @@
 - **Deep ethnography (Phase A capitals + shared):**
   - [cultures/ethnography-noviomagus-prime.md](cultures/ethnography-noviomagus-prime.md) — I *Prima* · Noviomagus · [cultures/prima-noviomagus-culture-bleed.md](cultures/prima-noviomagus-culture-bleed.md) (bleed) · [cultures/worlds-central-bastion.md](cultures/worlds-central-bastion.md) § **I *Prima* wing**
   - [cultures/ethnography-castra-vetera-prime.md](cultures/ethnography-castra-vetera-prime.md) — II *Secunda* · Castra-Vetera
-  - [cultures/ethnography-khan-bator-prime.md](cultures/ethnography-khan-bator-prime.md) — III *Tertia* · Khan-Bator
+  - [cultures/ethnography-khan-bator-prime.md](cultures/ethnography-khan-bator-prime.md) — III *Tertia* · Khan-Bator · [cultures/tertia-khan-bator-culture-bleed.md](cultures/tertia-khan-bator-culture-bleed.md) (bleed)
   - [cultures/ethnography-elysium-minor.md](cultures/ethnography-elysium-minor.md) — **shared** Central Bastion / Apothecarion civil (**not** a Vexilla capital)
   - [cultures/ethnography-incus-gravis-tertius.md](cultures/ethnography-incus-gravis-tertius.md) — IV *Quarta* · Incus-Gravis Tertius
   - [cultures/ethnography-aethelgard-prime.md](cultures/ethnography-aethelgard-prime.md) — V *Quinta* · Aethelgard · [cultures/geography-aethelgard-prime.md](cultures/geography-aethelgard-prime.md) (biomes)
