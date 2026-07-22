@@ -139,7 +139,7 @@ Nona    ─ relay pin / delay until the shout
 | ----- | ---- |
 | **Seat** | **Aethelgard Prime** — tide moons, vertical infrastructure, jump certification hub |
 | **Theater strategy** | **Storm assault** — highest jump allocation, Inceptor adjacency, boltstorm descent; **chainsword-primary** pure line (Chapter **exception**) |
-| ***Alabarda*** | **Type Descensus** — chainaxe cheek, impaler/hammer, belt chainsword; dual-wield when pole planted or escort-borne |
+| ***Alabarda*** | **Type Descensus** — bardiche chainaxe (forward long beard), long shaft, no impaler; belt chainsword; power gladius finish; dual-wield when planted or escort-borne |
 | **Operational identity** | **Closure speed** scoreboard; **frontline slaughter → plant → contagion spread** from failed pressure point; countdown vox; **Wild Hunt** when massed enemies spike tempo |
 | **Field 4** | **Gutgrind Descent** (121.M42) — jump clearance, Ork scrap-spire, Selene-Black |
 | **Legatus Ring** | Virtue: **decisive tempo under uncertainty** · Risk: **premature Tier escalation if stress lanes are skipped** |

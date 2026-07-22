@@ -61,7 +61,7 @@ Reinforced sabatons — **spike rows** on the boot lip, industrial talons — me
 
 And the Legatus of the Fifth — **Armin**, the slate said — was already **spinning**.
 
-His weapon was not a chainsword. Not in this rite. An **Alabarda** — three-faced halberd, chain-bearded cheek, **Type Descensus** the Batavi registers called it, as if naming the bite made it civil. He planted the butt spike, pivoted, and the head became a **circle of death** — not frenzy, **radius**. Every Ork that entered the arc paid **piece-rate**: opened, dropped, shoved aside for the next invoice.
+His weapon was not a chainsword. Not in this rite. An **Alabarda** — **bardiche** grammar, chainaxe head with a **long beard raked forward**, shaft long enough to invoice Orks before they closed — **Type Descensus** the Batavi registers called it, as if naming the bite made it civil. He planted the butt spike, pivoted, and the head became a **circle of death** — not frenzy, **radius**. Every Ork that entered the arc paid **piece-rate**: opened, dropped, shoved aside for the next invoice.
 
 His men copied the geometry. Jump pack vent. Spike plant. **Cut.** Bolt pistol finish. **Move.** No warrior preening. A **production line** with blood instead of oil.
 
