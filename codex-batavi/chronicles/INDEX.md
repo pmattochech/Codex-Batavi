@@ -21,7 +21,7 @@
 - [wasted-talent](traitor-first-contact/wasted-talent/chapter.md) — Iron Warriors vs Bifronte/*Sexta* vault armory; “Wasted Talent.”
 - [dead-meat](traitor-first-contact/dead-meat/chapter.md) — World Eaters (Khâdor/Skarvak) wiped by Armin/*Quinta*; Alpha Legion invisible scope-file; Silence ivory eye-lock handoff; “dead meat.”
 - [nothing-too-perfect](traitor-first-contact/nothing-too-perfect/chapter.md) — Silence + *Secunda*/Kessler vs Alpha Legion; dual-POV; Valens Ritter dual-path; “nothing too perfect.”
-- [no-joy](traitor-first-contact/no-joy/chapter.md) — Night Lords vs Steppenwolf Shadows (Orvek Kriesen); *Kelvorn Assay*; “Stay away from this sector.”
+- [no-joy](traitor-first-contact/no-joy/chapter.md) — Night Lords vs Steppenwolf Shadows (Orvek Kriesen); *Saint Oriel's Tithe-Hold*; “Stay away from this sector.”
 
 ## green-tempest
 

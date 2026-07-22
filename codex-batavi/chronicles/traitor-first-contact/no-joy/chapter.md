@@ -2,7 +2,7 @@
 
 **Classification:** Novel chapter — Night Lords POV · Steppenwolf Shadows execution (no ivory on hull) · merchant trespass near Insula  
 **When:** Present era — after circulating Batavi scars (Chapter known; off-mesh operators not yet priced)  
-**Where:** Merchant guild hull ***Kelvorn Assay*** — too close to **Insula Tenebrarum** / Castra Vetera approaches; later void far out on a course + distress beacon set for NL recovery  
+**Where:** Merchant guild hull ***Saint Oriel's Tithe-Hold*** — too close to **Insula Tenebrarum** / Castra Vetera approaches; later void far out on a course + distress beacon set for NL recovery  
 **Who:** Night Lords squadron under **Vorthax Skain**; Steppenwolf Shadows cell under Lieutenant **Orvek Kriesen** (veteran/elite — **red lenses** exception); second Night Lords recovery element
 
 **Intel premise:** Not a rescue. Execution of those who dared push near Castra Vetera. Crew are not mesh-native — few survivors by design. Shadows run duct/kill-box protocol (knife/gladius, suppressed, minimal signature). No Vexillatio self-name required.  
@@ -15,7 +15,7 @@
 
 Vorthax Skain loved merchant hulls.
 
-Warships lied with armor. Guild ships lied with ledgers — and ledgers screamed prettier when you peeled the men who wrote them. The *Kelvorn Assay* had drifted too near the Insula’s black approaches, close enough to Castra Vetera’s rumor-wall that even coward captains should have turned. They had not. So Skain’s squadron came aboard in the old way: lights killed, corridors claimed, fear taught as curriculum.
+Warships lied with armor. Guild ships lied with ledgers — and ledgers screamed prettier when you peeled the men who wrote them. The *Saint Oriel's Tithe-Hold* had drifted too near the Insula’s black approaches, close enough to Castra Vetera’s rumor-wall that even coward captains should have turned. They had not. So Skain’s squadron came aboard in the old way: lights killed, corridors claimed, fear taught as curriculum.
 
 The crew learned quickly. Guild officers tried to buy minutes with coin-codes. Ratings tried to hide in grain voids. Skain’s brothers made art from both mistakes — flensing knives, trophy jokes, the bright wet theater Night Lords called honesty. Skain walked the dark like a teacher pleased with a classroom that finally understood the lesson.
 
@@ -55,7 +55,7 @@ They consolidated toward the command bridge because consolidation felt like cont
 
 Despair did not come as philosophy. It came as furniture.
 
-The bridge of the *Kelvorn Assay* had been a guild brain once — holo-ledgers, route slates, a captain’s chair padded for men who counted risk in percentages. Now it was a mockery gallery. Skain’s missing brothers hung skinless and headless, impaled along the command spine as if someone had studied Night Lords primers and returned the homework graded in iron. Their skins were not on them. Their heads were not on them. The lesson was readable even to a killer who preferred not to read.
+The bridge of the *Saint Oriel's Tithe-Hold* had been a guild brain once — holo-ledgers, route slates, a captain’s chair padded for men who counted risk in percentages. Now it was a mockery gallery. Skain’s missing brothers hung skinless and headless, impaled along the command spine as if someone had studied Night Lords primers and returned the homework graded in iron. Their skins were not on them. Their heads were not on them. The lesson was readable even to a killer who preferred not to read.
 
 Something soft and heavy hit the deck at Skain’s boots.
 
@@ -67,7 +67,7 @@ Ship-wide vox woke without a face.
 
 The voice was cold, sparse, almost polite in its contempt — not a preacher, not a rival artist. A judge who had already finished the sentence and was only explaining the invoice.
 
-— You call yourselves hunters — the voice said through every caster on the *Kelvorn Assay*. — You are not. Murder is work. Work can be clean. You are murderers who need the scream to feel tall. That is not hunting. That is a bullied deranged mind that got tired of being the punchbag and decided the universe should flinch instead.
+— You call yourselves hunters — the voice said through every caster on the *Saint Oriel's Tithe-Hold*. — You are not. Murder is work. Work can be clean. You are murderers who need the scream to feel tall. That is not hunting. That is a bullied deranged mind that got tired of being the punchbag and decided the universe should flinch instead.
 
 Skain roared insults into the dark — coward, bastard, skinless dog, come out if you have honor, show your face, fight like a Legionnaire, stop hiding in ducts like a slave.
 
@@ -89,7 +89,7 @@ The power gladius ended Vorthax Skain before the next insult could become art.
 
 The red constellation went out. The hull’s remaining mortal noise was thin — a few crew who had survived by being irrelevant to an execution writ, not because anyone had come to save them. They were not Castra Vetera stock. The mission had never priced their lives as treasure.
 
-Far from the Insula — course already laid, distress beacon already singing a Night Lords frequency like bait on a long line — a second VIII element found the *Kelvorn Assay* drifting where Batavi mathematics had left it: close enough to recover, far enough that Castra Vetera’s approaches stayed clean.
+Far from the Insula — course already laid, distress beacon already singing a Night Lords frequency like bait on a long line — a second VIII element found the *Saint Oriel's Tithe-Hold* drifting where Batavi mathematics had left it: close enough to recover, far enough that Castra Vetera’s approaches stayed clean.
 
 They boarded ready for a fight and found a gallery.
 
@@ -106,7 +106,7 @@ Not mesh-bound only. They come off Castra Vetera. Steppenwolf Shadows — duct d
 They took our method and returned it without appetite. Impaled. Skinned. Heads in a sack of our skins.  
 Vox contempt: we are not hunters; we are punchbags who learned to make the dark clap.  
 Message: **Stay away from this sector.**  
-Ship: *Kelvorn Assay* — trespass execution, not rescue. Beacon was bait. Course was bait.  
+Ship: *Saint Oriel's Tithe-Hold* — trespass execution, not rescue. Beacon was bait. Course was bait.  
 Scar-name candidates: joyless flayers / red-eyed skinsmiths / void shadows.  
 Assessment: do not treat their Wall as a cage they cannot leave. They leave. They hunt. They do not enjoy it — and that is worse.
 
