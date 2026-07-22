@@ -40,6 +40,22 @@ Admission is **rare** and **Vermilion**:
 
 **Chaplain function:** Varro (or *Reclusiam* Chaplain under written ***licentia lupina***) is the **loyalty engine** — brothers hear orders as **sentence**, not suggestion. Without Chaplain presence on mission slate, *Amissi* **do not** deploy. ***Licentia lupina*** also covers **Steppenwolf** far-field leash (one seal, both pools); best licensed Chaplains are chained toward *Amissi*. **Mortivigils never** hold the license. See [mortivigil-and-reclusiam-helm-law.md](mortivigil-and-reclusiam-helm-law.md) §IV.
 
+### IIIb. Standing escort — Einar Dreadwolf (Varro decree)
+
+After **074.M42** Moraine-Nine, **Varro** fixed a **standing mission slate**: a **veteran Chaplain of V *Quinta*** permanently accompanies **Lieutenant Einar Dreadwolf** on every *Amissi* deployment until terminis (**168.M42** Luna Sigma). The escort holds the **interval** — breath counts, Imperial friend–foe filing, *vox* law to the Judex — while Einar holds the kill geometry.
+
+**Draft chronicle (SW friction):** [iron-pack-at-the-kill-pool/chapter.md](../../chronicles/draft/amissi/iron-pack-at-the-kill-pool/chapter.md)
+
+| Field | Lock |
+|-------|------|
+| **Bearer** | **V** *Quinta* veteran Chaplain (e.g. **Ordin** in draft) — not Varro on ordinary sorties |
+| **Deploy gate** | ***licentia amissorum*** on slate + escort named in Vermilion register |
+| **Helm** | ***licentia lupina*** — **Executor-profile wolf-skull** (delegation of Judex office); **orange** lens read only — **no** ember-red eyes (Judex **Executor** mark reserved for Varro) |
+| **Mandible / feeding** | Same mechanical law as other licensed wolf-skull bearers — rails, manual access, never bare face in ranks |
+| **Open read (guest Chapters)** | “False Wolf Priest” / stolen skull — **misfile**; Batavi answer: **licensed sentence**, not Fenris saga |
+
+Other *Amissi* brothers: escort is **case-by-case** *Quinta* or *Reclusiam* delegate under the same pair of licenses; Einar is the **only** fixed dyad on record.
+
 ---
 
 ## IV. Armor and heraldry (post–074 refit standard)
@@ -93,6 +109,6 @@ Admission is **rare** and **Vermilion**:
 * **Helm:** **Half-helm** — lower skull only (**nose, mouth, jaw**); mane and **Butcher’s Nails** / cable–mane **free-floating and visible** (no high cowl).  
 * **Paint:** Mechanicus Standard Grey on body, arms, and legs; **Mephiston Red** **only** on **gauntlets** (including fingers) and **boot feet**.  
 * **Pauldrons (both black):** **left** — Chapter frontal-wolf in **Mephiston Red**; **right** — *Amissi* **chained wolf skull** in **Mephiston Red**, chains **Mechanicus Standard Grey** as an **X** over the skull.  
-* **Hands — Wolf Talons:** Space Wolves–adjacent lightning claws recovered aboard **Kzorn’s Maw** during capture; later **purified and re-wrought** under **Kadmos** with *Reclusiam* oversight (Varro/clergy) into Castra Vetera interface standards. **Wolverine geometry** — blades over the hand / knuckle line, extend/retract, fingers free; **red** energy-field glow (not blue); corruption receipts denied.
+* **Hands — Wolf Talons:** Imperial **Angel’s Talons** pattern lightning claws (common **wrist-housing** blade layout) recovered aboard **Kzorn’s Maw** during capture; later **purified and re-wrought** under **Kadmos** with *Reclusiam* oversight (Varro/clergy) into Castra Vetera interface standards. **Batavi** industrial finish — **not** knuckle / Wolverine over-hand geometry, **not** Blood Angels / Sanguinary ornamental styling; **red** energy-field glow (not blue); corruption receipts denied.
 
 Narrative: [dreadwolf/INDEX.md](../../chronicles/dreadwolf/INDEX.md) · [terminus/chapter.md](../../chronicles/dreadwolf/terminus/chapter.md) · [dossier-einar-dreadwolf.md](../character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md).

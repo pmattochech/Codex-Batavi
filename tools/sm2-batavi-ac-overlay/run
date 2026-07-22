@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+set -euo pipefail
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+CMD="${1:-}"
+shift || true
+
+case "$CMD" in
+  prepare-tga|tga)
+    exec bash "$ROOT/bin/prepare_tga.sh" "$@"
+    ;;
+  convert|convert-and-pack)
+    exec bash "$ROOT/bin/convert_and_pack.sh" "$@"
+    ;;
+  pack|pak)
+    exec bash "$ROOT/bin/pack.sh" "$@"
+    ;;
+  help|-h|--help|"")
+    cat <<'EOF'
+Batavi shoulders on Additional Chapters blank slots (SH User 01)
+
+  ./run prepare-tga [optional/seal.png]
+  ./run convert          # Wine+TexMipper on Nobara, then pack
+  ./run pack
+
+Mods already installed to Steam mods/ when convert succeeds:
+  wa_astartes_... / sh0030_bridge / sh0100_additional_chapters / sh0110_batavi_shoulders
+EOF
+    [[ -n "$CMD" ]] || exit 1
+    ;;
+  *)
+    echo "unknown: $CMD" >&2
+    exit 1
+    ;;
+esac
