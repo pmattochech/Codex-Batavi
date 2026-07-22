@@ -57,19 +57,23 @@ Naming it would make it real.
 
 The Tartaros lord advanced only when the equation required it — vigil-first, then sudden — and when the corridors finally brought Warsmith and Legatus into the same ferrocrete throat, Kalkas lifted his siege maul as if he could beat the insult back into orthodoxy.
 
-The grey lord met him with Type Malleus grammar: hammer-dominant, plant-ready, contempt for stupid haste. Sparks. Servo-scream. A storm bolter punctuating counts. Around them *Sexta* kept the vault armory sealed the way a forge keeps a furnace door sealed — not from fear, from ledger.
+The grey lord met him with a mason’s polearm made for vault war: hammer-dominant head, plant-ready haft, contempt for stupid haste. Sparks. Servo-scream. A storm bolter punctuating counts. Around them *Sexta* kept the vault armory sealed the way a forge keeps a furnace door sealed — not from fear, from ledger.
 
 Kalkas snarled the old truth Iron Warriors used like a prayer.
 
 — You stole our war—
 
-The Tartaros cowl turned. Orange lenses. When Gervas Bifronte spoke, it was one line, not oratory — the time for speeches already done:
+The Tartaros cowl turned. Orange lenses. When Gervas Bifronte spoke, it was not oratory — the time for speeches already done — only construction truth, sparse as a stamped weak-point:
 
-— Wasted Talent.
+— I am the Father of Walls.
 
-The words landed harder than the maul.
+The title landed without theater. Not a boast for mortals. A filing. Mesh coinage worn like a tool: *Pater Murorum* made plain for an enemy who understood masonry as theology.
 
-Not *traitor*. Not *faithless*. Not *Olympia’s failure* dressed for a Ministorum audience. **Wasted Talent** — as if Kalkas’s entire Legion were a brilliant tool left to rust in bitterness, while these greys had kept the math and spent it on walls that still served the living.
+— And you — Bifronte finished, hammer-haft shifting a degree, one line to close the ledger — are Wasted Talent.
+
+The insult landed harder than the maul.
+
+Not *traitor*. Not *faithless*. Not *Olympia’s failure* dressed for a Ministorum audience. **Wasted Talent** — spoken by a man who named himself the living proof of walls kept — as if Kalkas’s entire Legion were a brilliant tool left to rust in bitterness, while these greys had kept the math and spent it on fortresses that still served the living.
 
 Kalkas howled without poetry and tried to kill the sentence by killing the speaker.
 
@@ -83,11 +87,11 @@ On the void-climb he filed the insult where it would fester:
 
 Cohors Batavorum — *Sexta* vault-dogs.  
 Fight like Iron Warriors who still hold like Fists.  
-Their mason called us **Wasted Talent**.
+Their mason named himself **Father of Walls** and called us **Wasted Talent**.
 
 He almost erased the line. He did not. Warsmiths keep accurate ledgers even when the numbers hate them.
 
-Behind the sealed armory, Bifronte reset thermal checks and tether seals, already building the next strike while any remaining Iron Warriors might still think the vault slept. He did not celebrate. Celebration was haste of the heart. The vault did not hurry.
+Behind the sealed armory, Bifronte reset thermal checks and tether seals, already building the next strike while any remaining Iron Warriors might still think the vault slept. Father of Walls was not a cheer. It was a job description. He did not celebrate. Celebration was haste of the heart. The vault did not hurry.
 
 Neither did he — until he did.
 
