@@ -171,7 +171,7 @@ Only orgs from Phase A §7A that **actually touch** Chapter footprint on this mo
 
 - [x] Phase B bleed ratified → [`quinta-aethelgard-culture-bleed.md`](quinta-aethelgard-culture-bleed.md) (this file)
 - [x] Cross-links: [`ethnography-aethelgard-prime.md`](ethnography-aethelgard-prime.md) §9 · [`worlds-crucible.md`](worlds-crucible.md) § **Aethelgard Prime** · [`../INDEX.md`](../INDEX.md)
-- [ ] **Phase C — *Quinta* wing periphery:** deferred — Tempestas-Major moons / Crucible bodies under Sturmwahl wing only; seat standard + one local delta each; inherit this bleed; **no** wing stubs this pass
+- [x] **Phase C — *Quinta* wing periphery:** [worlds-crucible.md](worlds-crucible.md) § **V *Quinta* wing** (Tempestas-Major-VII / Tempestas-Major); inherit this bleed
 - [ ] Deep scene optional: surge+descent overlap chronicle beat (not required to close Phase B)
 - [ ] Sealed files stay sealed for populi: Einar Dreadwolf / *Amissi* / Steppenwolf / Red Tide recovery taxonomy — Chapter and Vermilion only; street may keep **Needles cold-tide proverbs** without owning those names as fact
 

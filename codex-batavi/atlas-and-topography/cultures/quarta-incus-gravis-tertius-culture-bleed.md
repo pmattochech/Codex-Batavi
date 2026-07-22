@@ -8,7 +8,7 @@
 
 **Sources:** [`ethnography-incus-gravis-tertius.md`](ethnography-incus-gravis-tertius.md) · [`dossier-orin-valestrand.md`](../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md) · [`vexillatio-operational-armory.md`](../../arsenal-and-logistics/vexillatio-operational-armory.md) § **IV *Quarta*** · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) (field 4 = March defense) · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`mortivigil-and-reclusiam-helm-law.md`](../../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md)
 
-**Sphere hygiene:** **Incus-Gravis Secundus** and **Incus-Gravis-I** appear only as **jurisdiction cross-links** — **not** bleed subjects this pass. Phase C wing periphery = **deferred**.
+**Sphere hygiene:** **Incus-Gravis Secundus** and **Incus-Gravis-I** are **not** bleed subjects in this file. Phase C wing stubs: [worlds-crucible.md](worlds-crucible.md) § **IV *Quarta* wing**.
 
 ---
 
@@ -159,7 +159,7 @@ Institutions from Phase A §7A that actually touch the Chapter — deep seam not
 
 - [x] Phase B bleed ratified → atlas cultures (this file)  
 - [x] Cross-links: ethnography §9 · [`worlds-crucible.md`](worlds-crucible.md) § **Incus-Gravis Tertius** · atlas [`INDEX.md`](../INDEX.md)  
-- [ ] **Phase C** — IV *Quarta* wing periphery (**deferred** this order; seat standard + local deltas only when ordered; **no** separate wing bleed wiki unless ordered)  
+- [x] **Phase C** — IV *Quarta* wing periphery: [worlds-crucible.md](worlds-crucible.md) § **IV *Quarta* wing**; **no** separate wing bleed wiki  
 - [ ] **Incus-Gravis Secundus** ethnography / bleed — **not** this file’s subject (jurisdiction cross-link only)  
 - [ ] **Incus-Gravis-I** ethnography / bleed — **not** this file’s subject (jurisdiction cross-link only)  
 - [ ] Optional deep scene locks (district overlap / Ruhe rumor table) — available if a chronicle batch orders them; not required to close Phase B

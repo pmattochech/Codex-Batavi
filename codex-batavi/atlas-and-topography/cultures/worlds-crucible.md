@@ -19,92 +19,42 @@
 
 **Shards:** *knee scripture* (pattern of microfracture read like palm), *shingle choir* (avalanche warning calls), *flat god* (deity whose miracle is **horizontal**).
 
-**Deep ethnography (mortals):** [ethnography-incus-gravis-tertius.md](ethnography-incus-gravis-tertius.md) — Phase A capital for **IV** *Quarta* (Orin Valestrand). Secundus / Incus-Gravis-I = sphere jurisdiction cross-links only until Wave 3.
-**Phase B bleed:** [quarta-incus-gravis-tertius-culture-bleed.md](quarta-incus-gravis-tertius-culture-bleed.md) — IV *Quarta* ↔ Tertius (Shingle Warden; sin lock **false yield**; March = surface rhyme only). Phase C wing deferred.
+**Deep ethnography (mortals):** [ethnography-incus-gravis-tertius.md](ethnography-incus-gravis-tertius.md) — Phase A capital for **IV** *Quarta* (Orin Valestrand).
+**Phase B bleed:** [quarta-incus-gravis-tertius-culture-bleed.md](quarta-incus-gravis-tertius-culture-bleed.md) — IV *Quarta* ↔ Tertius (Shingle Warden; sin lock **false yield**; March = surface rhyme only). **Phase C wing:** [§ IV *Quarta* wing](#iv-quarta-wing-incus-periphery) (Secundus / Incus-Gravis-I).
 
 ---
 
-## Incus-Gravis Secundus (The Inverted Hive)
+## IV *Quarta* wing (Incus periphery)
 
-**Scale & role:** Perforated world — **underground cities**; **crystal circuit** export.
+**Rule:** Same civilization as Incus-Gravis Tertius — weight/yield piety, **false yield** sin, Shingle Warden surface, Rabble/Common/Upper. Inherit [quarta-incus-gravis-tertius-culture-bleed.md](quarta-incus-gravis-tertius-culture-bleed.md). Valestrand stays on Tertius. **Not** other Legatus seats.
 
-**Economy-ecology:** **No sun cult** — light is **lamps**, **LED mendicants**, **biolume** guilds.
+### Incus-Gravis Secundus (The Inverted Hive)
 
-**Porta Nihili flavor:** The Emperor **sees in receipt** — down here, **see** means **audit trail**. Virtue is **clean trace** through tunnels. Sin is **bright waste** — light spent without yield.
+**Scale & role:** Perforated world — **underground cities**; **crystal circuit** export. Same *Quarta* weight civilization under crust, not a second seat.
 
-**Social structure:** **Lamp lineages**, **mirror prophets** (optical engineers with liturgical hats), **crystal scribes** who carve **both** scripture and **data**.
+**Economy-ecology:** **No sun cult** — light is **lamps**, **LED mendicants**, **biolume** guilds. Yield is measured in **clean lumen-hours**, not open-sky harvest.
 
-**Fork:** **Mystery-catacomb civilization** — **threshold oaths**, **initiation tiers**, meals in **dark** and **half-dark**.
+**Porta Nihili flavor:** The Emperor **sees in receipt** — down here, **see** means **audit trail**. Virtue is **clean trace** through tunnels. Sin is **bright waste** — light spent without yield (**false yield** cousin).
 
-**Shards:** *lower sun* (lamp boss), *echo marriage* (vows repeated until cavern agrees), *crystal tooth* (data-jewelry — memorial AS storage).
+**Social structure:** **Lamp lineages**, **mirror prophets** (optical engineers with liturgical hats), **crystal scribes** who carve **both** scripture and **data**. Rabble = tunnel shift; Common = lamp licenses; Upper = circuit export houses.
 
----
+**Fork:** Tertius weight culture as **catacomb lamp** / no-sun audit trail.
 
-## Incus-Gravis-I (The Scorched — penal radar)
+**Shards:** *lower sun* (lamp boss), *echo marriage* (vows repeated until cavern agrees), *crystal tooth* (data-jewelry — memorial AS storage), *bright waste* (false-yield cousin under crust).
 
-**Scale & role:** **~900°C** tide-locked surface; **penal legions** run **solar alert arrays** under **lead**.
+### Incus-Gravis-I (The Scorched — penal radar)
 
-**Economy-ecology:** **Heat index** replaces calendar; **rotation** is salvation.
+**Scale & role:** **~900°C** tide-locked surface; **penal legions** run **solar alert arrays** under **lead**. Same *Quarta* piety under heat sentence.
 
-**Porta Nihili flavor:** Faith is **signal purity**. Prayer is **hand-over-mouth** discipline on open channels — **Men of Iron** trauma baked in. Mass is **filter check** — *“God breathes through scrubber.”*
+**Economy-ecology:** **Heat index** replaces calendar; **rotation** is salvation. Load-share becomes **shift-share** off the burn face.
 
-**Social structure:** **Sentence castes**, **radar monks** (abbreviated clergy with **technical ordination**), **rotation romance** — love is **who swaps you out** of the burn.
+**Porta Nihili flavor:** Faith is **signal purity**. Prayer is **hand-over-mouth** discipline on open channels — **Men of Iron** trauma baked in. Mass is **filter check** — *“God breathes through scrubber.”* Buckling here is **dirty signal**. Forged clean-filter stamps, stolen rotation slips, and false “off-dish” claims are **false yield** cousins under heat.
 
-**Fork:** **Penal theology** — freedom is **cycle off dish**; holiness is **static suffering** avoided.
+**Social structure:** **Sentence castes**, **radar monks** (abbreviated clergy with **technical ordination**), **rotation romance** — love is **who swaps you out** of the burn. Rabble = dish crews; Common = filter techs; Upper = array wardens under lead.
 
-**Shards:** *lead kiss* (initiation burn), *echo shift* (forbidden word for deserter — also a band), *red minute* (flare prayer window).
+**Fork:** Tertius as **penal theology** / signal purity under heat; rotation = salvation.
 
----
-
-## Bifrons-Ferrum (The Dual World)
-
-**Scale & role:** Planet **halved**; **5,000 km** gulf; **cable** and **magnetic** bridges — **arsenal**, **Dreadnought** stasis, **tomb** prestige.
-
-**Economy-ecology:** Wind in the **gulf**; **cable hum** constant; **death** visible as **asset**.
-
-**Porta Nihili flavor:** The Throne keeps **both halves** in inventory. Weddings **span** cables. Funerals **weight** coffins against **tonnage quotas** — gallows humor become **liturgy**.
-
-**Social structure:** **Bridge guilds** (highest mortality, highest pay), **tomb wardens**, **dual senates** (one per hemisphere) that **must** reconcile on **neutral span**.
-
-**Fork:** **Twin-kingdom** **Dacian** mood — gorge as **altar**; **death is not hidden** — it’s **inventory**.
-
-**Shards:** *split vow* (oath taken on mid-cable), *iron echo* (name said to gulf — returns if moral), *span child* (born during bridge repair — lucky).
-
-**Deep ethnography (mortals):** [ethnography-bifrons-ferrum.md](ethnography-bifrons-ferrum.md) — Vexillatio **VI** (*Sexta*) seat · Legatus **Gervas Bifronte** · Phase A ratified. **VI *Sexta* bleed:** [sexta-bifrons-ferrum-culture-bleed.md](sexta-bifrons-ferrum-culture-bleed.md) (Phase B ratified). Phase C wing periphery deferred.
-
----
-
-## Vitreus (The Lens World)
-
-**Scale & role:** **Molten glass oceans**; **photonic** industry; Mechanicus **lens** sovereignty. **Vexillatio VII (*Septima*)** seat · Legatus **Lucan Phaetron** (*the Glass Burn* — mortal public read).
-
-**Economy-ecology:** **Blindness** as moral risk; **silica** ash; **reflection** theology unavoidable.
-
-**Porta Nihili flavor:** God is **clarity**. Sin is **stray scatter** — moral and optical. Blessing: **angled prayer** — face the correct **facet**.
-
-**Social structure:** **Lens clergy**, **refraction lawyers** (optical metaphor for jurisprudence), **dark veils** (honest impairment — status). **Glass-eater** heresy **suppressed** (literal — metabolic cult).
-
-**Fork:** **Byzantine optic bureaucracy** — beauty is **instrument**, not ornament.
-
-**Shards:** *slow eye* (trained patience before burst), *melt psalm* (hum while glass runs), *shard confession* (break glass — truth proportional to fragments).
-
-**Deep ethnography (mortals):** [ethnography-vitreus.md](ethnography-vitreus.md) — Phase A ratified · [septima-vitreus-culture-bleed.md](septima-vitreus-culture-bleed.md) (Phase B bleed) · Phase C wing stubs deferred · Silica Field full ethnography not absorbed (Wave 3).
-
----
-
-## The Logus Ring (The Great Disk — breaker yard)
-
-**Scale & role:** **Accretion disk** — **trillions of tons** of **dust**, **hulls**, **St. Elmo’s fire**.
-
-**Economy-ecology:** **Spark weather** — navigation by **electric taste** on hull.
-
-**Porta Nihili flavor:** Fortune is **claim**. **Auction prayer** — bid recorded as **vow**. The Throne loves **honest salvage** — *“God gives rust to the bold.”*
-
-**Social structure:** **Breaker aristocracy** (title by **first weld**), **chroniclers** who **sing deeds** — oral **title chains** on scrap.
-
-**Fork:** **Oral law barbaricum** in vacuum — **Norse-skald** texture without importing names.
-
-**Shards:** *blue tooth* (St. Elmo kiss — initiation), *ring widow* (spouse lost to ion storm), *first touch* (claim rite).
+**Shards:** *lead kiss* (initiation burn), *echo shift* (forbidden word for deserter — also a band), *red minute* (flare prayer window), *dirty signal* (false-yield cousin — forged filter / lied rotation).
 
 ---
 
@@ -126,68 +76,142 @@
 
 **Shards:** *crown-and-estuary* (political season), *salt marriage* (brine handshake), *tide silence* (no lie when water rises — custom, not magic), *witness debt*, *Storm-Master weather*.
 
-**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-aethelgard-prime.md](ethnography-aethelgard-prime.md) · Phase B bleed: [quinta-aethelgard-culture-bleed.md](quinta-aethelgard-culture-bleed.md) · *Quinta* wing periphery (Phase C) **deferred**.
+**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-aethelgard-prime.md](ethnography-aethelgard-prime.md) · Phase B bleed: [quinta-aethelgard-culture-bleed.md](quinta-aethelgard-culture-bleed.md). **Phase C wing:** [§ V *Quinta* wing](#v-quinta-wing-tempestas-periphery) (Tempestas-Major-VII / Tempestas-Major).
 
 ---
 
-## Ignis-Minor (The Volcanic Forge Moon)
+## V *Quinta* wing (Tempestas periphery)
 
-**Scale & role:** **Glass rivers**, **basalt seas** — **Techmarine** drill, bridge over **magma**.
+**Rule:** Same civilization as Aethelgard Prime — tide/witness piety, **ghost haul** sin, Storm-Master surface, salt/bridge sorting, Span-ledger bridge band. Inherit [quinta-aethelgard-culture-bleed.md](quinta-aethelgard-culture-bleed.md). Sturmwahl stays on Aethelgard. **Not** other seats.
 
-**Economy-ecology:** **Heat** as neighbor; mistakes **incinerate**.
+### Tempestas-Major-VII (Grendel’s Maw)
 
-**Porta Nihili flavor:** God rewards **precision**. Pilgrimage is **span** — walk a **cooling arch**. Sin is **lazy step** — *“Sloth burns.”*
+**Scale & role:** **Acid mud ocean**, **iron fungi**, ***Tyrannus Lutum*** — line **maneuver** hell. Same estuary civilization pushed into **mire** — not a second Legatus seat.
 
-**Social structure:** **Ash acolytes**, **span engineers**, **cooling saints** — bodies **charted** for sweat loss.
+**Economy-ecology:** **Mire** eats **metal and pride**; breath is **chemical**. Tide-budget becomes **foot-budget** — every step is a receipt or a loss.
 
-**Fork:** **Initiation inferno** — small, proud, **stunt-theology**.
+**Porta Nihili flavor:** God loves **slow advance**. Virtue is **measured stride** — sermon is **foot placement**. Sin is **splash pride** (**ghost haul** cousin when salvage is claimed without witnessed path).
 
-**Shards:** *ember name* (rename after first burn scar), *bridge marriage* (union only after joint span), *glass foot* (luck — means you lived).
+**Social structure:** **Mire tribes** (registered auxilia scouts), **acid monks** (PPE mysticism), **fungi readers** — augury as **chem diagnosis**. Rabble = scout boots; Common = PPE guild; Upper = registered path-keepers.
 
----
-
-## Tempestas-Major-VII (Grendel’s Maw)
-
-**Scale & role:** **Acid mud ocean**, **iron fungi**, ***Tyrannus Lutum*** — line **maneuver** hell.
-
-**Economy-ecology:** **Mire** eats **metal and pride**; breath is **chemical**.
-
-**Porta Nihili flavor:** God loves **slow advance**. Virtue is **measured stride** — sermon is **foot placement**. Sin is **splash pride**.
-
-**Social structure:** **Mire tribes** (registered auxilia scouts), **acid monks** (PPE mysticism), **fungi readers** — augury as **chem diagnosis**.
-
-**Fork:** **Swamp barbaricum** — **taboo geometry** — *where not to step* is **oral law**.
+**Fork:** Estuary culture as **mire / taboo foot-placement** barbaricum.
 
 **Shards:** *green bite* (honest wound), *maw silence* (no shout in fog — acoustic lure), *shard saint* (fungus that saved a village — relic).
 
----
+### Tempestas-Major (The Storm Giant — gas giant context)
 
-## Tempestas-Major (The Storm Giant — gas giant context)
+**Scale & role:** **Magnetosphere** traps **moons** — pilot culture **cosmopolitan** among **killer winds**. Parent sky of Aethelgard; same *Quinta* witness piety in void weather. Do not invent further moons beyond atlas bodies.
 
-**Scale & role:** **Magnetosphere** traps **moons** — pilot culture **cosmopolitan** among **killer winds**.
+**Economy-ecology:** **Storm burials** — crews lost to **wind** become **ancestor weather**. Salt/bridge sorting becomes **mooring** sorting.
 
-**Economy-ecology:** **Storm burials** — crews lost to **wind** become **ancestor weather**.
+**Porta Nihili flavor:** Throne is **heard in thunder** — **volume theology** discouraged; **quiet cockpit** piety. Unwitnessed salvage in cloud is still **ghost haul**.
 
-**Porta Nihili flavor:** Throne is **heard in thunder** — **volume theology** discouraged; **quiet cockpit** piety.
+**Social structure:** **Storm kindreds** (named after **lost ships**), **mooring priests**, **wind accountants** — grief as **balance sheet**. Rabble = apron crews; Common = kindred pilots; Upper = grief-ledger houses.
 
-**Social structure:** **Storm kindreds** (named after **lost ships**), **mooring priests**, **wind accountants** — grief as **balance sheet**.
-
-**Fork:** **Islander** barbaricum — **ocean that is sky**.
+**Fork:** Estuary as **islander sky-ocean** pilot kin / storm burial grief ledgers.
 
 **Shards:** *wake name* (take dead crew into kin), *tie prayer* (rope knot liturgy), *major violet* (poetry color — storm tint).
 
 ---
 
-## Solaris-Alpha (The Prism) & the Silica Field
+## Bifrons-Ferrum (The Dual World)
 
-**Scale & role:** **Mirror constellations** — heat weapon / **industrial sun** routing; **Silica Field** blinds **auspex**.
+**Scale & role:** Planet **halved**; **5,000 km** gulf; **cable** and **magnetic** bridges — **arsenal**, **Dreadnought** stasis, **tomb** prestige.
 
-**Economy-ecology:** **Glass navigation** — **eyes** fail; **faith in route** literal.
+**Economy-ecology:** Wind in the **gulf**; **cable hum** constant; **death** visible as **asset**.
 
-**Porta Nihili flavor:** God is **angle**. Sin is **glare** — **spiritual and tactical** heresy unified. Pilgrims walk **mirror rows** blindfolded — **initiation**.
+**Porta Nihili flavor:** The Throne keeps **both halves** in inventory. Weddings **span** cables. Funerals **weight** coffins against **tonnage quotas** — gallows humor become **liturgy**.
 
-**Social structure:** **Mirror acolytes**, **route singers** (oral **vector** hymns), **blind guides** — **highest** status pilots.
+**Social structure:** **Bridge guilds** (highest mortality, highest pay), **tomb wardens**, **dual senates** (one per hemisphere) that **must** reconcile on **neutral span**.
 
-**Fork:** **Mirror mystics** — **secret geometry** as **lay piety**.
+**Fork:** **Twin-kingdom** **Dacian** mood — gorge as **altar**; **death is not hidden** — it’s **inventory**.
 
-**Shards:** *bent prayer* (refraction pun), *field widows* (optical ghosts — PTSD cult), *twelve thousand* (martyr mirrors — mythology of overclock tragedy).
+**Shards:** *split vow* (oath taken on mid-cable), *iron echo* (name said to gulf — returns if moral), *span child* (born during bridge repair — lucky).
+
+**Deep ethnography (mortals):** [ethnography-bifrons-ferrum.md](ethnography-bifrons-ferrum.md) — Vexillatio **VI** (*Sexta*) seat · Legatus **Gervas Bifronte** · Phase A ratified. **VI *Sexta* bleed:** [sexta-bifrons-ferrum-culture-bleed.md](sexta-bifrons-ferrum-culture-bleed.md) (Phase B ratified). **Phase C wing:** [§ VI *Sexta* wing](#vi-sexta-wing-bifrons--ferrum-x-periphery) (Logus Ring).
+
+---
+
+## VI *Sexta* wing (Bifrons / Ferrum-X periphery)
+
+**Rule:** Same twin-halves civilization — **asymmetric seal** sin, *Pater Murorum* surface, span/tomb inventory piety. Inherit [sexta-bifrons-ferrum-culture-bleed.md](sexta-bifrons-ferrum-culture-bleed.md). Bifronte stays on Bifrons. **Not** Vitreus/Incus seats. Ferrum-X radiation weather colors labor; do not invent new ethnography worlds.
+
+### The Logus Ring (The Great Disk — breaker yard)
+
+**Scale & role:** **Accretion disk** — **trillions of tons** of **dust**, **hulls**, **St. Elmo’s fire**. Twin inventory culture in **breaker** space — not a second seat.
+
+**Economy-ecology:** **Spark weather** — navigation by **electric taste** on hull. Ferrum-X glare and X-ray wash color shift length and claim haste; labor ledgers still speak **inventory**, not new creed.
+
+**Porta Nihili flavor:** Fortune is **claim**. **Auction prayer** — bid recorded as **vow**. The Throne loves **honest salvage** — *“God gives rust to the bold.”* One-face claim without ring reconciliation = **asymmetric seal** cousin.
+
+**Social structure:** **Breaker aristocracy** (title by **first weld**), **chroniclers** who **sing deeds** — oral **title chains** on scrap. Rabble = sieve hands; Common = weld crews; Upper = first-weld houses.
+
+**Fork:** Twin inventory culture as **oral salvage law** / first-weld claim aristocracy in accretion dust.
+
+**Shards:** *blue tooth* (St. Elmo kiss — initiation), *ring widow* (spouse lost to ion storm), *first touch* (claim rite).
+
+---
+
+## Vitreus (The Lens World)
+
+**Scale & role:** **Molten glass oceans**; **photonic** industry; Mechanicus **lens** sovereignty. **Vexillatio VII (*Septima*)** seat · Legatus **Lucan Phaetron** (*the Glass Burn* — mortal public read).
+
+**Economy-ecology:** **Blindness** as moral risk; **silica** ash; **reflection** theology unavoidable.
+
+**Porta Nihili flavor:** God is **clarity**. Sin is **stray scatter** — moral and optical. Blessing: **angled prayer** — face the correct **facet**.
+
+**Social structure:** **Lens clergy**, **refraction lawyers** (optical metaphor for jurisprudence), **dark veils** (honest impairment — status). **Glass-eater** heresy **suppressed** (literal — metabolic cult).
+
+**Fork:** **Byzantine optic bureaucracy** — beauty is **instrument**, not ornament.
+
+**Shards:** *slow eye* (trained patience before burst), *melt psalm* (hum while glass runs), *shard confession* (break glass — truth proportional to fragments).
+
+**Deep ethnography (mortals):** [ethnography-vitreus.md](ethnography-vitreus.md) — Phase A ratified · [septima-vitreus-culture-bleed.md](septima-vitreus-culture-bleed.md) (Phase B bleed). **Phase C wing:** [§ VII *Septima* wing](#vii-septima-wing-vitreus--silica-periphery) (Ignis-Minor / Solaris-Alpha / Silica Field as separate stubs). Silica Field + Solaris-Alpha = stub depth only — **not** separate Phase A ethnography files.
+
+---
+
+## VII *Septima* wing (Vitreus / silica periphery)
+
+**Rule:** Same Vitreus civilization — clarity/**stray scatter** sin, Glass Burn surface, lens piety. Inherit [septima-vitreus-culture-bleed.md](septima-vitreus-culture-bleed.md). Phaetron stays on Vitreus. **Not** other seats.
+
+### Ignis-Minor (The Volcanic Forge Moon)
+
+**Scale & role:** **Glass rivers**, **basalt seas** — **Techmarine** drill, bridge over **magma**. Same lens civilization under heat — not a second seat.
+
+**Economy-ecology:** **Heat** as neighbor; mistakes **incinerate**. Clarity becomes **span geometry** over cooling rock.
+
+**Porta Nihili flavor:** God rewards **precision**. Pilgrimage is **span** — walk a **cooling arch**. Sin is **lazy step** — *“Sloth burns.”* (**stray scatter** cousin when the foot breaks the angle).
+
+**Social structure:** **Ash acolytes**, **span engineers**, **cooling saints** — bodies **charted** for sweat loss. Rabble = ash crews; Common = span techs; Upper = cooling houses.
+
+**Fork:** Glass clarity as **initiation inferno** / span-over-magma precision.
+
+**Shards:** *ember name* (rename after first burn scar), *bridge marriage* (union only after joint span), *glass foot* (luck — means you lived).
+
+### Solaris-Alpha (The Prism)
+
+**Scale & role:** **Mirror constellations** — heat weapon / **industrial sun** routing for Vitreus photonic industry. Phase C stub depth only — **not** a separate Phase A ethnography file.
+
+**Economy-ecology:** Controlled glare as **work weather**; mirror-row maintenance feeds lens yield without open-field suicide routes.
+
+**Porta Nihili flavor:** God is **angle** under managed sun. Sin is **glare vanity** — polish and procession that breaks treaty angles (**stray scatter** cousin).
+
+**Social structure:** **Mirror acolytes**, **facet schedulers**, **veil crews**. Rabble = row sweepers; Common = angle clerks; Upper = treaty-angle houses.
+
+**Fork:** Vitreus lens piety as **industrial-sun facet law** (managed glare, not blindfield mysticism).
+
+**Shards:** *bent prayer* (refraction pun), *twelve thousand* (martyr mirrors — overclock tragedy myth), *veil minute* (honest shade seniority).
+
+### The Silica Field
+
+**Scale & role:** Asteroid **Glass Belt** that blinds ship sensors and naked eye alike; secret **Mirror Routes** or hull-grind. Phase C stub depth only — **not** a separate Phase A ethnography file.
+
+**Economy-ecology:** **Glass navigation** — **eyes** fail; **faith in route** literal. Survival is oral vector, not chart paper alone.
+
+**Porta Nihili flavor:** God is **angle** in lethal open field. Sin is **glare** — spiritual and tactical heresy unified (**stray scatter** in the belt). Pilgrims walk **mirror rows** blindfolded — **initiation**.
+
+**Social structure:** **Route singers** (oral **vector** hymns), **blind guides** — **highest** status pilots, **field widows** (PTSD cult color — stub only). Rabble = salvage sweepers; Common = singers; Upper = guide lineages.
+
+**Fork:** Vitreus lens piety as **mirror mystic** / God-is-angle route singing in lethal glass.
+
+**Shards:** *field widows* (optical ghosts — PTSD cult), *mirror route* (oral vector that keeps a hull alive), *blindfold vow* (initiation — eyes fail on purpose).

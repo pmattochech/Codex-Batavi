@@ -2,7 +2,7 @@
 
 **System atlas:** [system-i-central-bastion.md](../systems/system-i-central-bastion.md)  
 **Basal stratum:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md)  
-**I *Prima* wing:** Noviomagus Prime + periphery stubs in § **I *Prima* wing** (same civilization, local deltas). Castra-Vetera / Khan-Bator remain *Secunda* / *Tertia* seats.
+**I *Prima* wing:** Noviomagus Prime + periphery stubs in § **I *Prima* wing** (same civilization, local deltas). **II *Secunda* / III *Tertia* wings:** Castra-Vetera / Khan-Bator seats + periphery stubs in §§ below. Elysium-Minor remains shared (not a Legatus wing).
 
 ---
 
@@ -130,7 +130,27 @@
 
 **Shards:** *autumn vow* (promise under falling leaves holograph), *ribbon saint* (archivist martyred for refusing to alter a death date), *triple stamp kiss* (iron humor — kiss the seal, not the ring).
 
-**Deep ethnography (mortals):** [ethnography-castra-vetera-prime.md](ethnography-castra-vetera-prime.md) · seat II *Secunda* · Legatus Henric Kessler (*the Caliper*). **Phase B bleed:** [secunda-castra-vetera-culture-bleed.md](secunda-castra-vetera-culture-bleed.md). Phase C wing deferred.
+**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-castra-vetera-prime.md](ethnography-castra-vetera-prime.md) · seat II *Secunda* · Legatus Henric Kessler (*the Caliper*). **Phase B bleed (ratified):** [secunda-castra-vetera-culture-bleed.md](secunda-castra-vetera-culture-bleed.md) · **Secunda wing periphery (fork stubs):** § **II *Secunda* wing** below.
+
+---
+
+## II *Secunda* wing (Castra-Vetera periphery)
+
+**Rule:** Same civilization as Castra-Vetera Prime — consistory / filing piety, false concordance (*misfile*) as local sin, Rabble/Common/Upper, Caliper surface read. Inherit [secunda-castra-vetera-culture-bleed.md](secunda-castra-vetera-culture-bleed.md). Kessler’s Caliper stays on Castra-Vetera Prime. **Not** Prima/Tertia seats. **Not** Elysium.
+
+### Castra-Minor (The Scribes’ Moon)
+
+**Scale & role:** Airless **archive moon** — **inert-gas domes**, **iron shelving**, **Guard of Silence**. Throne filing culture under vacuum discipline; vault overflow for Castra-Vetera registries, not a second capital.
+
+**Economy-ecology:** Information **cooling** — documents age in darkness; **thermal discipline** prevents rot. Inert-gas weather replaces autumn holograph calm.
+
+**Porta Nihili flavor:** God is **indexed**. Prayer is **shelving protocol**. Evil is **misfiled soul** — metaphor that became **law** after one heresy trial used **wrong registry** as evidence. Same concordance piety as the seat; volume is mute.
+
+**Social structure:** **Mute orders** (vows), **index adepts**, **cart pilgrimages** along vacuum docks. Outsiders hire **whisper lawyers** — priests who may speak **one sentence** per day off-dome. Org delta: **Guard of Silence** / mute orders heavier than seat police; Arbites thin; Shared Sweat rare (archive labor is solitary, not ditch-paired).
+
+**Fork:** Consistory piety as **monastic scriptoria** / mute shelving — not rustic; **terrifying clarity**.
+
+**Shards:** *dust confession* (fingerprints are biography), *the lower shelf* (hell — obsolete cases), *catalog wedding* (union filed under shared header).
 
 ---
 
@@ -150,7 +170,69 @@
 
 **Shards:** *blue lung* (worker pride — oxygen adaptation), *salt-in-the-ration* (shared fate — imported into Batavi Dead’s Salt genealogy), *silo marriage* (two houses merge elevator keys).
 
-**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md). **Phase B bleed (ratified):** [tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md) — III *Tertia* ↔ Khan-Bator. **Phase C** wing (Bator-Secundus / Tertius / Vacuum Harvest / Golden Grain) **deferred** (Wave 3) — cross-link stubs below only; not absorbed into the capital ethnography; inherit Phase B when written.
+**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md). **Phase B bleed (ratified):** [tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md) — III *Tertia* ↔ Khan-Bator · **Tertia wing periphery (fork stubs):** § **III *Tertia* wing** below. Not absorbed into the capital ethnography; inherit Phase B.
+
+---
+
+## III *Tertia* wing (Khan-Bator periphery)
+
+**Rule:** Same civilization as Khan-Bator — breath/yield theology, diversion = local sin, Seal Flame surface, Rabble/Common/Upper + Chart-Grace bridge. Inherit [tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md). Brach/Seal Flame stays on Khan-Bator Prime. **Not** other Legatus seats.
+
+### Golden Grain Station & the Atlas Elevator
+
+**Scale & role:** **35,000 km** tether — **export bottleneck**; greatest **civilian choke** in System I. Granary empire’s vertical throat, not a separate people.
+
+**Economy-ecology:** **Vertical logistics** — cable tension is **shared fate**. Yield leaves the plains by rope; diversion at the tether is still **theft from the Throne’s mouth**.
+
+**Porta Nihili flavor:** Ascension is **virtue**. **Cable blessing** days: inspectors climb in **silence**. Sin is **unbalanced load** — moralized as **greed** (diversion cousin).
+
+**Social structure:** **Cable guilds** (initiation climbs), **counterweight pilgrims**, **sever engineers** kept honored and isolated — they know how **everything dies**. Class ladder holds; Chart-Grace passes matter at Atlas civil gates. Org delta: **Batavi / Navy choke rigor** louder than plains PDF — sever authority and cable blessing days sit above surface militia manners without making the tether a second Legatus seat.
+
+**Fork:** Granary empire as **vertical rope kinship** / cable blessing.
+
+**Shards:** *third-strand oath* (swear on elevator braid), *cut-day* (drill — not feast), *Atlas knee* (bruise as seniority).
+
+### Vacuum Harvest Fields
+
+**Scale & role:** Orbiting **glass and adamant** hydropon toruses — **neurochem** for Chapter stabilization and elite diets. Orbit granary, not a new creed.
+
+**Economy-ecology:** Mirrored radiation; **dosage theology** literal — too much **vitamin pride** blinds. Yield measured in drip, not hectare.
+
+**Porta Nihili flavor:** Holiness is **measured drip**. Workers bless **spectrometers**. Sin is **handshake contamination** — taboo carries real **batch risk** (diversion as purity breach).
+
+**Social structure:** **Garden mathematicians**, **visor novitiates**, **batch mothers** who never touch soil. Rabble/Common/Upper compress around batch clearance; Chart-Grace rare. Org delta: **Apothecarion batch lock** heavier than on the plains seat — civilians meet sealed dosage audits and visor clearance before harvest leave; Shared Sweat rare (solitary clean-room labor).
+
+**Fork:** Granary as **chem monastery** / measured drip.
+
+**Shards:** *green lie* (lush display nutrient-poor), *glass tongue* (speak softly — algae hears vibration), *batch mother* (never-touch seniority — *blue lung* cousin in orbit).
+
+### Bator-Secundus (The Chemical Moon)
+
+**Scale & role:** **Ammonia skies**, **reagent lakes**, **synthesis spires** feeding Khan-Bator monoculture. Reagent coast of the granary, not a Legatus seat.
+
+**Economy-ecology:** Beautiful **poison** — color as warning. Children learn **hue catechism** before letters. Oxygen fear inverted: here the air itself is the hazard.
+
+**Porta Nihili flavor:** The Throne loves **correct reaction**. Marriage mixes **two stable compounds**. Funerals use **controlled burn** — faith and HSE merge. Yield theology as stoichiometry.
+
+**Social structure:** **Alchemist houses**, **mask makers**, **wind prophets** who read **vapor augury** (mostly meteorology — filed as religion for tax). Upper = stable-compound houses; common = mask guilds; rabble = lake-edge labor.
+
+**Fork:** Granary as **acid coastal** reagent culture.
+
+**Shards:** *blue bride* (filter veil), *lake promise* (oaths dissolve if spoken twice), *spire cough* (honest ailment — badge).
+
+### Bator-Tertius (The Voracious Greenhouse)
+
+**Scale & role:** **Radiation jungle**, **guillotine trees**, **Grox-Prime** protein — **Shadow Cohort** training and **flesh tithe**. Hunt-flesh wing of the granary empire.
+
+**Economy-ecology:** Predatory **green** — movement kills. Protein yield under canopy instead of slime tide.
+
+**Porta Nihili flavor:** God rewards **still merit**. Baptism is **blood-draw** from safe thorn — administered by **rangers**, not priests. Diversion = meat taken off the tithe ledger.
+
+**Social structure:** **Hunt families**, **tree-lineage** maps, **meat tithe** brokers. Rank is **scar elevation**. Class labels hold; Chart-Grace thin beyond tithe brokers.
+
+**Fork:** Granary as **forest-barbaricum** / still-merit hunt flesh.
+
+**Shards:** *green handshake* (blood pact), *canopy silence* (taboo during leaf-fall hunt), *grox tooth* (currency in bush trade).
 
 ---
 
@@ -176,81 +258,31 @@
 
 ## Castra-Minor (The Scribes’ Moon)
 
-**Scale & role:** Airless **archive moon** — **inert-gas domes**, **iron shelving**, **Guard of Silence**.
-
-**Economy-ecology:** Information **cooling** — documents age in darkness; **thermal discipline** prevents rot.
-
-**Porta Nihili flavor:** God is **indexed**. Prayer is **shelving protocol**. Evil is **misfiled soul** — metaphor that became **law** after one heresy trial used **wrong registry** as evidence.
-
-**Social structure:** **Mute orders** (vows), **index adepts**, **cart pilgrimages** along vacuum docks. Outsiders hire **whisper lawyers** — priests who may speak **one sentence** per day off-dome.
-
-**Fork:** **Monastic scriptoria** — not rustic; **terrifying clarity**.
-
-**Shards:** *dust confession* (fingerprints are biography), *the lower shelf* (hell — obsolete cases), *catalog wedding* (union filed under shared header).
+**Filing:** II *Secunda* wing periphery — full fork stub under § **II *Secunda* wing** (Castra-Vetera standard + monastic scriptoria / mute shelving delta).
 
 ---
 
 ## Golden Grain Station & the Atlas Elevator
 
-**Scale & role:** **35,000 km** tether — **export bottleneck**; greatest **civilian choke** in System I.
-
-**Economy-ecology:** **Vertical logistics** — cable tension is **shared fate**.
-
-**Porta Nihili flavor:** Ascension is **virtue**. **Cable blessing** days: inspectors climb in **silence**. Sin is **unbalanced load** — moralized as **greed**.
-
-**Social structure:** **Cable guilds** (initiation climbs), **counterweight pilgrims**, **sever engineers** kept honored and isolated — they know how **everything dies**.
-
-**Fork:** **Mountain-trade civilization** in void form — **rope kinship**, **caravanserai** stations.
-
-**Shards:** *third-strand oath* (swear on elevator braid), *cut-day* (drill — not feast), *Atlas knee* (bruise as seniority).
+**Filing:** III *Tertia* wing periphery — full fork stub under § **III *Tertia* wing** (Khan-Bator standard + vertical rope kinship / cable blessing delta).
 
 ---
 
 ## Vacuum Harvest Fields
 
-**Scale & role:** Orbiting **glass and adamant** hydropon toruses — **neurochem** for Chapter stabilization and elite diets.
-
-**Economy-ecology:** Mirrored radiation; **dosage theology** literal — too much **vitamin pride** blinds.
-
-**Porta Nihili flavor:** Holiness is **measured drip**. Workers bless **spectrometers**. Sin is **handshake contamination** — taboo carries real **batch risk**.
-
-**Social structure:** **Garden mathematicians**, **visor novitiates**, **batch mothers** who never touch soil.
-
-**Fork:** **Chem monastery** — aesthetics **clinical**, spirituality **acute**.
-
-**Shards:** *green lie* (lush display nutrient-poor), *glass tongue* (speak softly — algae hears vibration).
+**Filing:** III *Tertia* wing periphery — full fork stub under § **III *Tertia* wing** (Khan-Bator standard + chem monastery / measured drip delta).
 
 ---
 
 ## Bator-Secundus (The Chemical Moon)
 
-**Scale & role:** **Ammonia skies**, **reagent lakes**, **synthesis spires** feeding Khan-Bator monoculture.
-
-**Economy-ecology:** Beautiful **poison** — color as warning. Children learn **hue catechism** before letters.
-
-**Porta Nihili flavor:** The Throne loves **correct reaction**. Marriage mixes **two stable compounds**. Funerals use **controlled burn** — faith and HSE merge.
-
-**Social structure:** **Alchemist houses**, **mask makers**, **wind prophets** who read **vapor augury** (mostly meteorology — filed as religion for tax).
-
-**Fork:** **Coastal barbaricum of acid** — **poetry sharp**, lives short.
-
-**Shards:** *blue bride* (filter veil), *lake promise* (oaths dissolve if spoken twice), *spire cough* (honest ailment — badge).
+**Filing:** III *Tertia* wing periphery — full fork stub under § **III *Tertia* wing** (Khan-Bator standard + acid coastal reagent delta).
 
 ---
 
 ## Bator-Tertius (The Voracious Greenhouse)
 
-**Scale & role:** **Radiation jungle**, **guillotine trees**, **Grox-Prime** protein — **Shadow Cohort** training and **flesh tithe**.
-
-**Economy-ecology:** Predatory **green** — movement kills.
-
-**Porta Nihili flavor:** God rewards **still merit**. Baptism is **blood-draw** from safe thorn — administered by **rangers**, not priests.
-
-**Social structure:** **Hunt families**, **tree-lineage** maps, **meat tithe** brokers. Rank is **scar elevation**.
-
-**Fork:** **Forest-barbaricum** — **initiation cults**, **Germanic-adjacent** *feel* (oath rings, wilderness witness), no Earth names required.
-
-**Shards:** *green handshake* (blood pact), *canopy silence* (taboo during leaf-fall hunt), *grox tooth* (currency in bush trade).
+**Filing:** III *Tertia* wing periphery — full fork stub under § **III *Tertia* wing** (Khan-Bator standard + forest-barbaricum / still-merit hunt flesh delta).
 
 ---
 

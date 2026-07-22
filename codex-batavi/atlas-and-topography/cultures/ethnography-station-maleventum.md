@@ -31,7 +31,7 @@ Citizens think in **holds**, **salvo windows**, **ground straps**, **pressure ti
 
 **Not Tempest-V:** not vibration-monk minimalism. Ultima Arx is crowded, drilled, naval-adjacent, loud with sirens and soft with open-*vox* discipline.
 
-**Not Abyssal-Anchor / Nox:** this file does **not** absorb dock-noir entrepôt culture or black-glass gravity mysticism. Those bodies keep fork stubs in [worlds-threshold.md](worlds-threshold.md) until their own ethnographies are ordered.
+**Not Abyssal-Anchor / Nox:** this file does **not** absorb dock-noir entrepôt culture or black-glass gravity mysticism. Phase C fork stubs live on [worlds-threshold.md](worlds-threshold.md) § **VIII *Octava* wing**; **Phase A depth only if ordered**.
 
 **Porta Nihili accent:** Throne is **hold**. Pilgrimage is **watch rotation**. Baptism is **pressure test** — *“sealed like bulkhead.”* Virtue is continuity under siege-normal. Outsiders misread Spartan silence as empty faith; locals hear it as **gun theology** — discipline thick, myth lean, receipts thicker than incense.
 
@@ -320,7 +320,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 ## 9. Related / deferred
 
 - Phase B bleed file: **closed** — [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md) (VIII *Octava* ↔ Station-Maleventum + Great Reef contact surfaces).  
-- Wing periphery: **deferred** — VIII *Octava* wing stubs under [worlds-threshold.md](worlds-threshold.md) only when ordered (Phase C). **MUST NOT** absorb Nox / Abyssal-Anchor this pass.  
+- Wing periphery (Phase C): [worlds-threshold.md](worlds-threshold.md) § **VIII *Octava* wing** — Tempest-V / Nox / Abyssal-Anchor / Singularity-Point & Cerberus (seat-standard + delta). Great Reef remains Phase A twin, not a wing ethnography body.  
 - Sibling seats: do **not** absorb — Tempest-V, Nox, Abyssal-Anchor, Marco de Vetra (*Nona*), Noviomagus (*Prima*), etc.  
 - Deep twin already in-file: **Great Reef** (§ Twin). No second ethnography this run.
 

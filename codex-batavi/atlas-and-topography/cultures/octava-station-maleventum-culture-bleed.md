@@ -7,7 +7,7 @@
 
 **Sources:** [`ethnography-station-maleventum.md`](ethnography-station-maleventum.md) · [`dossier-ivar-malevent.md`](../../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) · [`castra-vetera-galactic-lock.md`](../castra-vetera-galactic-lock.md) · [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) · [`vexillatio-operational-armory.md`](../../arsenal-and-logistics/vexillatio-operational-armory.md) § VIII · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md)
 
-**MUST NOT (this file):** Phase C wing ethnography for **Nox** or **Abyssal-Anchor**; Founding / progenitor invention; Witness Ford as time-magic; gene-seed / *Axiom* / Furor clinical law dumped into dock rumor as fact.
+**MUST NOT (this file):** Writing Phase C wing stubs inside this bleed; Founding / progenitor invention; Witness Ford as time-magic; gene-seed / *Axiom* / Furor clinical law dumped into dock rumor as fact. Wing stubs live on [`worlds-threshold.md`](worlds-threshold.md) § **VIII *Octava* wing**.
 
 ---
 
@@ -17,7 +17,7 @@
 |-------|------|--------------|
 | **Populi ethnography** (Phase A) | Pressure tickets, gun-family plaques, mute-runner ink, reef holds/arcs, **false pressure** / **ungrounded boast**, Strait-house soft power, Navy/Navis *as civilians meet them*, Soft Voice / Static-Lord as **surface nickname** | *Axiom*, Analytical Silence law, Furor/Exanimus clinical taxonomy, *Alabarda* sealed field readings, Strategium munition theory of marsh channels |
 | **VIII *Octava*** | Void-fight war-culture (boarding, corridor interlock, hull melta, Maleventum-filtered optics), Master of the Watch geometry, nested fire with allies, soft open-*vox* / hardline shout as **Chapter habit**, Witness Ford intercept register (096.M42 field 4 — sealed meaning), friction with *Nona* over signal time | Stamp-booth holiness, civilian pressure tickets as class law, reef *spark marriage* as mortal contract, Navy burn-budget as fleet doctrine owned by *Octava*, Ecclesiarchy God-Emperor worship |
-| **This bleed file** | Bidirectional habits, hard edges, class contact, Navy/Navis seam mechanics, station **and** reef contact surfaces, mutual misreads, fiction tells | Replacing Phase A; inventing Founding; writing Phase C for Nox / Abyssal-Anchor / Tempest-V; collapsing Batavi creed into Ministorum |
+| **This bleed file** | Bidirectional habits, hard edges, class contact, Navy/Navis seam mechanics, station **and** reef contact surfaces, mutual misreads, fiction tells | Replacing Phase A; inventing Founding; writing Phase C wing stubs inside this file; collapsing Batavi creed into Ministorum |
 
 **Twin rule:** Great Reef is **same civilization mesh**, not a second capital. Bleed surfaces below name **station** and **reef** where habits diverge; ownership does not split into two ethnographies.
 
@@ -126,7 +126,7 @@
 | **Other Astartes (episodic)** | 096.M42 Witness Ford intercept with Black Templars — mortal story of nested void fire beside Soft Voice. Boarding etiquette stress. **No** Founding / gene-receipt tavern fact. |
 | **Rogue Traders** | Watched guests at Arx; more at home toward Abyssal-Anchor (**not** absorbed here). Hidden hold attempt on a pressure world = sin against station law under Chapter weather. |
 
-**Explicit non-seams this pass:** Adepta Sororitas (thin hospitality only), Astropaths (thin / sealed cargo), Inquisition (rumor weather), Custodes / Assassinorum (absent). Do **not** open Phase C for **Nox** or **Abyssal-Anchor** in this file.
+**Explicit non-seams this pass:** Adepta Sororitas (thin hospitality only), Astropaths (thin / sealed cargo), Inquisition (rumor weather), Custodes / Assassinorum (absent). Nox / Abyssal-Anchor / Tempest-V / Cerberus Phase C stubs live on [`worlds-threshold.md`](worlds-threshold.md) § **VIII *Octava* wing** — not in this bleed.
 
 ---
 
@@ -143,8 +143,7 @@
 
 - [x] Phase B bleed ratified → this file (`octava-station-maleventum-culture-bleed.md`)  
 - [x] Cross-links: ethnography §9 · [`worlds-threshold.md`](worlds-threshold.md) § Station-Maleventum / § Great Reef · atlas [`INDEX.md`](../INDEX.md)  
-- [ ] Phase C — VIII *Octava* wing periphery stubs under [`worlds-threshold.md`](worlds-threshold.md) **only when ordered** (Tempest-V / other wing bodies as seat-standard + delta — **not** this run)  
-- [ ] **MUST NOT this pass:** Nox / Abyssal-Anchor Phase C ethnography or bleed absorption  
+- [x] Phase C — VIII *Octava* wing periphery stubs: [`worlds-threshold.md`](worlds-threshold.md) § **VIII *Octava* wing** (Tempest-V / Nox / Abyssal-Anchor / Singularity-Point & Cerberus)  
 - [ ] Sibling seats stay unabsorbed: *Nona* / Marco de Vetra, Noviomagus / *Prima*, etc. — Threshold partnership with Cassian Vetra is friction note only (*who dies louder* for signal time), not culture merge  
 - [ ] Deep chronicle scenes (gallery hour, hold drill, Outer Gate window) optional when a fiction pass is ordered — tells above are enough to write without inventing Founding
 
@@ -152,7 +151,7 @@
 
 ## Cross-links
 
-[`ethnography-station-maleventum.md`](ethnography-station-maleventum.md) · [`worlds-threshold.md`](worlds-threshold.md) § **Station-Maleventum** · § **The Great Reef** · [`dossier-ivar-malevent.md`](../../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) · [`castra-vetera-galactic-lock.md`](../castra-vetera-galactic-lock.md) · [`vexillatio-operational-armory.md`](../../arsenal-and-logistics/vexillatio-operational-armory.md) § VIII · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md)
+[`ethnography-station-maleventum.md`](ethnography-station-maleventum.md) · [`worlds-threshold.md`](worlds-threshold.md) § **Station-Maleventum** · § **The Great Reef** · § **VIII *Octava* wing** · [`dossier-ivar-malevent.md`](../../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) · [`castra-vetera-galactic-lock.md`](../castra-vetera-galactic-lock.md) · [`vexillatio-operational-armory.md`](../../arsenal-and-logistics/vexillatio-operational-armory.md) § VIII · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md)
 
 ---
 

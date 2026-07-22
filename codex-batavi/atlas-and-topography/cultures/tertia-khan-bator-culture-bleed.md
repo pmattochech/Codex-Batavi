@@ -18,7 +18,7 @@
 |-------|------|--------------|
 | **Populi ethnography** ([ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md)) | Class strata (Rabble / Common / Upper); Chart-Grace bridge; breath-as-budget; elevator + oxygen sorting; caloric honesty; diversion as civic sin; oxygen-monitor HSE; silo / barge / Atlas civic rites; Ministorum paste accent | *Axiom*; Furor / Exanimus / Execratio clinical law; *Alabarda* runtime; gene-seed; Founding claims; Type Ignis doctrine; Legatus Ring failure taxonomy |
 | **III *Tertia*** | Agri-industrial hazard war-culture; thermal breach + chem-seal discipline; harvest-window evacuation geometry; lying-air detection; Type Ignis *Alabarda*; Seal Flame command habit (hatch-nod); caloric war / Chief Victualler mesh duty; chem-sealed silo fort interiors; Vigilax-class triangulation success register | Stamp-booth / silo-seal holiness as creed; civilian elevator windows as rank; Chart-Grace debt-grace politics; Hunger-festival graph liturgy; Fire Devil folktale authority |
-| **This bleed file** | Bidirectional habits, hard edges, class contact, seam institutions, Wrong / Right fiction tells, sealed-vs-rumor seams | Replacing Phase A; inventing wing-moon ethnographies (Wave 3); absorbing Noviomagus forge bleed; inventing Founding / progenitor |
+| **This bleed file** | Bidirectional habits, hard edges, class contact, seam institutions, Wrong / Right fiction tells, sealed-vs-rumor seams | Replacing Phase A; writing Phase C wing stubs inside this file; absorbing Noviomagus forge bleed; inventing Founding / progenitor |
 
 ---
 
@@ -72,7 +72,7 @@
 
 2. **Exhausted loyalty weather:** Hymn-mapped common sound (*chart-closed face*, soft contempt for loud missionaries) is the climate *Tertia* continuity answers. Controlled-heat jokes in briefing rhyme with barge dark humor; ice on the trigger rhymes with spark law — **rhyme only**.
 
-3. **Atlas / third-strand gravity:** Cable-guild mute climb and *cut-day* terror teach Shared Sweat rope kin to treat unbalanced load as moral failure. *Tertia* plant sites respect cable tension rumor without owning Golden Grain ethnography (Phase C deferred).
+3. **Atlas / third-strand gravity:** Cable-guild mute climb and *cut-day* terror teach Shared Sweat rope kin to treat unbalanced load as moral failure. *Tertia* plant sites respect cable tension rumor without owning Golden Grain ethnography (Phase C wing: [worlds-central-bastion.md](worlds-central-bastion.md) § **III *Tertia* wing**).
 
 4. **Diversion as false friend:** Mortals try to file Chapter cordon seizures as “anti-diversion piety.” Brothers who accept that filing risk confusing **civic chart law** with **threat geometry**. Hard edge B2.3 holds.
 
@@ -102,7 +102,7 @@
 - **Wet shaft / slime dock** — rabble + common; peak upper almost never; *Tertia* line may stand in Shared Sweat without becoming barge guild.
 - **Dry silo gallery after shift bell** — common up; Chart-Grace already inside civil floors; rabble turned; brothers on parallel keys above or beside — visible as cordon, not as elevator merge.
 - **Spark curfew lock** — stratum learned in the wait; Seal Flame drills intensify the wait; oxygen monitors walk the line between civic angel and Chapter weather.
-- **Atlas knee / Golden Grain approach** — cable guild + Chart-Grace; *Tertia* presence as sever-drill alert partner, not station ethnography (Wave 3).
+- **Atlas knee / Golden Grain approach** — cable guild + Chart-Grace; *Tertia* presence as sever-drill alert partner, not station ethnography (Phase C wing on worlds-central-bastion).
 
 ---
 
@@ -149,7 +149,7 @@ Include Imperial orgs from Phase A §7A that **actually touch** the Chapter. Abs
   - Treat **Chart-Grace** as Vexilla officers or as Solis / Martha’s kitchen.
   - Invent **Founding** number or progenitor Chapter; dump gene-seed or Strand labels into barge mouths.
   - Call every Marine burn *foreign spark*; call every civic spark ban *cowardice*.
-  - Absorb **Bator-Secundus / Tertius / Vacuum Harvest / Golden Grain** as full ethnographies here (Wave 3 / Phase C).
+  - Absorb **Bator-Secundus / Tertius / Vacuum Harvest / Golden Grain** as full ethnographies here (wing stubs live on worlds-central-bastion § III).
   - Keep obsolete “Fifth Vexillatio” as seat doctrine; opaque friend–foe abbreviations.
 
 - **Right:**
@@ -179,7 +179,7 @@ No sealed clinical curse stages, no Founding claims, no gene-seed laundry in mor
 
 - [x] Phase B bleed file written → [`tertia-khan-bator-culture-bleed.md`](tertia-khan-bator-culture-bleed.md) (this file)
 - [x] Cross-links: ethnography §9 · [`worlds-central-bastion.md`](worlds-central-bastion.md) § **Khan-Bator Prime** · atlas [`INDEX.md`](../INDEX.md)
-- [ ] **Phase C / Wave 3 — wing periphery (NOT this pass):** **Bator-Secundus**, **Bator-Tertius**, **Vacuum Harvest Fields**, **Golden Grain Station / Atlas Elevator** — seat standard + one local delta each later; inherit this bleed; **no** separate wing bleed wiki unless ordered; **not absorbed** here
+- [x] **Phase C — wing periphery:** [worlds-central-bastion.md](worlds-central-bastion.md) § **III *Tertia* wing** — Bator-Secundus / Tertius / Vacuum Harvest / Golden Grain; inherit this bleed; **not absorbed** here
 - [ ] Sibling seats: do **not** absorb I *Prima* forge bleed or II *Secunda* law-mother forms into Khan-Bator body
 - [ ] Deep chronicle scenes optional if a later chapter needs Third-Shift-style district naming beyond the harvest-window cordon lock above
 

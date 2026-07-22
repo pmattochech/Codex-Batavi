@@ -210,7 +210,7 @@ Only orgs from Phase A §7A that **actually touch** Chapter footprint on this se
 
 - [x] Phase B bleed filed → [`sexta-bifrons-ferrum-culture-bleed.md`](sexta-bifrons-ferrum-culture-bleed.md) (this document)  
 - [x] Cross-links: ethnography §9 · [`worlds-crucible.md`](worlds-crucible.md) § **Bifrons-Ferrum** · atlas [`INDEX.md`](../INDEX.md)  
-- [ ] **Phase C — VI *Sexta* wing periphery** — **deferred** (explicitly out of scope this pass). No stubs for Vitreus adjacency, Logus Ring, Ferrum-X stations, or other bodies under this wing until ordered.  
+- [x] **Phase C — VI *Sexta* wing periphery:** [worlds-crucible.md](worlds-crucible.md) § **VI *Sexta* wing** (Logus Ring). Do not absorb Vitreus / Incus seats.  
 - [ ] Wave-2 sibling bleeds (other seats) — **not this file**  
 - [ ] Deep chronicle scenes using B4 locked seams — optional fiction, not required for bleed ratification
 

@@ -23,7 +23,7 @@ Urbanism is **inverted**. Hive cities are carved **down** into crystalline adama
 
 **Slow death** is **microfracture**. Knees, ankles, lumbar plates, and strap-points fail first. Bone scans are as ordinary as ration stamps. Orthotics are not luxury medical theater — they are **civic clothing**. A body that “walks clean” without straps is either Upper (bought distance from true load) or lying. Citizens think in **yield points**, **boot debt**, **strap hours**, **compression shifts**, and **load festivals**. The provincial feel is **highland-anvil barbaricum** wearing Imperial forms: High Gothic on tithe boards, Porta Nihili work-creed in every brace shop, and a stubborn belief that God loves **what does not buckle**.
 
-**Sphere note (jurisdiction only — not this file’s ethnography):** Vexillatio IV (*Quarta*) seat jurisdiction covers the **Incus-Gravis sphere** — Tertius capital ethnography here; **Incus-Gravis Secundus** and **Incus-Gravis-I** appear only as **cross-links** (crystal-tunnel lamp culture; scorched penal radar). Full ethnographies for those bodies are **Wave 3 / deferred** — do **not** treat this document as their culture dump.
+**Sphere note (jurisdiction only — not this file’s ethnography):** Vexillatio IV (*Quarta*) seat jurisdiction covers the **Incus-Gravis sphere** — Tertius capital ethnography here; **Incus-Gravis Secundus** and **Incus-Gravis-I** Phase C stubs live on [worlds-crucible.md](worlds-crucible.md) § **IV *Quarta* wing** — do **not** treat this document as their culture dump.
 
 ### 0.2 Fork
 
@@ -287,6 +287,6 @@ Not a fourth class — same strata, different boss / holy object.
 ## 9. Related / deferred
 
 - **Phase B bleed file:** [`quarta-incus-gravis-tertius-culture-bleed.md`](quarta-incus-gravis-tertius-culture-bleed.md) (**ratified** — do not mix full bleed doctrine into this populi body).  
-- **Wing periphery:** `deferred` — Incus-Gravis sphere bodies under *Quarta* only when ordered; **Secundus** and **Incus-Gravis-I** remain **jurisdiction cross-links**, not absorbed ethnographies this pass.  
+- **Wing periphery (Phase C):** [worlds-crucible.md](worlds-crucible.md) § **IV *Quarta* wing** — **Secundus** and **Incus-Gravis-I** as seat-standard + delta stubs (not separate Phase A ethnographies).  
 - **Sibling seats:** Do not absorb *Quinta* Aethelgard tide culture, *Sexta* Bifrons vault culture, Noviomagus forge culture, or other Legatus capitals.  
 - **Sphere cross-links (not ethnographies):** [worlds-crucible.md](worlds-crucible.md) § **Incus-Gravis Secundus** · § **Incus-Gravis-I** · atlas [system-ii-crucible.md](../systems/system-ii-crucible.md) § Gravity Anvil.

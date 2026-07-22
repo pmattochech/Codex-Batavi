@@ -29,7 +29,7 @@ Scale is **sparse** by Noviomagus measure: service castes, hereditary laser-hous
 
 **Not Noviomagus:** No Black Rain elevator theology, no forge throughput as primary holiness, no stack-plaque spine. Seals still matter, but the holy receipt is **scheduled silence kept** and **scheduled shout released** — not torque logged on a die.
 
-**Not neighbor Threshold bodies (this pass):** **Station-IX (*Sidus Silentii*)** is the **monastic receiver** — cold vow, listen-only, laser to Vitreus. Marco is the **bait and shout** — delay-and-deny until the cry flies or the moon burns. Do **not** collapse the two into one silence cult. Station-IX and other Vigil-Lucis peripherals are **Wave 3 cross-links only** here — fork stubs remain on [worlds-threshold.md](worlds-threshold.md); no Phase C wing essay in this file.
+**Neighbor Threshold bodies (Phase C):** **Station-IX (*Sidus Silentii*)** is the **monastic receiver** — cold vow, listen-only, laser to Vitreus. Marco is the **bait and shout** — delay-and-deny until the cry flies or the moon burns. Do **not** collapse the two into one silence cult. Wing stubs: [worlds-threshold.md](worlds-threshold.md) § **IX *Nona* wing** — no Phase C essay in this ethnography file.
 
 **Porta Nihili accent:** Throne is **heard when permitted**. Virtue is **hold** — *“shout only when budgeted.”* Sin is **premature cry**. Outsiders misread Marco as “quiet monks” (Station-IX error) or as “broadcast zealots” (Navy rumor). Locals are **neither**: they are **schedulers of permission**.
 
@@ -165,13 +165,17 @@ Tithe mechanics: latency quotas, silence audits, beam-hour accounts to Administr
 
 ## 6. Education
 
-Who learns: farm children with string claim; delay-clerk apprentices; Administratum relay track; chapel schools for upper; rabble learn suit seal and chalk by bruising. Who is kept dark: anyone without clearance — literacy without transmit right is common and intentional. Tracks: **guild** (alignment, coupling), **house** (vitra string), **chapel** (High Gothic + silence discipline), **Administratum** (release ledgers), **PDF** (mast-foot drills). Curriculum-as-virtue: counting, muting, friend–foe discrimination by behavior (who transmits), hash weather etiquette, scorch drill obedience. Cost: years of apprenticeship, patronage debts, bodies lost in training walks. Literacy *does* this: lets you read a release slate and know whether speaking is sin.
+Who learns: farm children with string claim; delay-clerk apprentices; Administratum relay track; chapel schools for upper; rabble learn suit seal and chalk by bruising. Who is kept dark: anyone without clearance — literacy without transmit right is common and intentional.
+
+Tracks: **guild** (alignment, coupling, gel rites); **house** (vitra string patronage); **chapel** (High Gothic + silence discipline); **Administratum** (release ledgers, denial lists); **PDF** (mast-foot drills, suit mesh). Curriculum-as-virtue: counting windows, muting open net, friend–foe discrimination by behavior (*who transmits*), hash weather etiquette, scorch-drill obedience. Cost: years of apprenticeship, patronage debts, hearing and eye damage from beam-farm walkabouts, bodies lost in training walks outside seal.
+
+Literacy *does* this: lets you read a release slate and know whether speaking is sin; lets a Common delay clerk refuse a house shout without dying for it; lets Upper vitra children sponsor silence without performing leaky piety.
 
 **By class**
 
-- **Rabble:** Oral chalk schools; suit catechism; reading optional, muting mandatory.
-- **Common:** Guild schools; delay apprenticeship; literacy = employability at trunk gates.
-- **Upper / Vitra:** House tutors; Administratum polish; chapel High Gothic; taught to sponsor silence without performing leaky piety.
+- **Rabble:** Oral chalk schools; suit catechism; reading optional, muting mandatory. Worked example: duct children taught three chalk marks — *window open / window closed / do not touch* — before letters.
+- **Common:** Guild schools; delay apprenticeship; literacy = employability at trunk gates. Worked example: coupling-bay primers that grade apprentices on mute duration under fake hash alarms.
+- **Upper / Vitra:** House tutors; Administratum polish; chapel High Gothic; taught to sponsor silence and buy denial without broadcasting pride. Worked example: string-house children drilled on *shouter’s fast* calendars as house virtue, not feast.
 
 ---
 
@@ -215,7 +219,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 | **Criminal / underhive powers** (as civic fact) | **Present** | Illegal beam-wedding rings, stolen beacons, chalk black-markets, heat-smuggling. Civic fact: under-gallery powers sell premature cry as a service and die for it. |
 | **Mute runner guilds (seat-specific)** | **Core** | Licensed and unlicensed couriers who never echo on open net — Threshold service caste made local law. Bridge between rabble survival and common licensing. |
 | **Delay clergy / signal clergy (seat-specific)** | **Core** | Civilian “priests of the window” — not Ministorum substitutes, but Porta accent specialists. Enforce premature cry as mortal sin alongside chapel. |
-| **Station-IX / Vigil-Lucis peripherals (Wave 3 cross-link only)** | **Thin** (cultural import) | Cold-vow and listen-marriage gossip imported; **not** absorbed as Marco identity. Full ethnography/wing deferred — see [worlds-threshold.md](worlds-threshold.md) § Station-IX. |
+| **Station-IX / Vigil-Lucis peripherals (Phase C wing)** | **Thin** (cultural import) | Cold-vow and listen-marriage gossip imported; **not** absorbed as Marco identity. Wing stubs: [worlds-threshold.md](worlds-threshold.md) § **IX *Nona* wing**. |
 
 ---
 
@@ -249,10 +253,10 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 ## 9. Related / deferred
 
 - Phase B bleed file: [`nona-marco-de-vetra-culture-bleed.md`](nona-marco-de-vetra-culture-bleed.md) (**ratified** — do not mix full bleed doctrine into this populi body)  
-- Wing periphery: **deferred** — Station-IX, Silent Belt, Glass Eye, and other Vigil-Lucis bodies remain fork stubs on [worlds-threshold.md](worlds-threshold.md); Wave 3 cross-link only; no Phase C in this file  
+- Wing periphery (Phase C): [worlds-threshold.md](worlds-threshold.md) § **IX *Nona* wing** — Station-IX, Silent Belt, Glass Eye, Vigil-Secundus, Ice Sentinels; no wing essay in this ethnography file  
 - Sibling seats: do **not** absorb *Octava* / Malevent reef culture, Noviomagus forge capital, or other Threshold capitals into this ethnography  
 
-**Acceptance gate (Phase A):** §§0–9 present; physical frame + fork + sorting tables; local sin locked (**premature cry**); Legatus public read (**the Warden**); six categories deep and class-banded; Sound per class; institutional slices; Imperial orgs matrix complete; shards + Wrong/Right; Education substantive; Batavi creed not collapsed into Ministorum; no Founding/progenitor invention; no opaque friend–foe abbreviations; chronological blindness respected; Phase B linked separately; Phase C explicitly deferred.
+**Acceptance gate (Phase A):** §§0–9 present; physical frame + fork + sorting tables; local sin locked (**premature cry**); Legatus public read (**the Warden**); six categories deep and class-banded; Sound per class; institutional slices; Imperial orgs matrix complete; shards + Wrong/Right; Education substantive; Batavi creed not collapsed into Ministorum; no Founding/progenitor invention; no opaque friend–foe abbreviations; chronological blindness respected; Phase B linked separately; Phase C wing linked on worlds-threshold.
 
 ---
 
