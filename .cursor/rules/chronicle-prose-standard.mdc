@@ -12,7 +12,7 @@ All chronicle files are **literary prose**, not bullet-point summaries or wiki e
 - **Third-person close** or **first-person** depending on POV; match POV already established in the chapter.
 - **Dense, immersive sentences** — interior thought embedded in action, not separated into "he thought" tags.
 - **Sensory anchoring** — smell, sound, weight of armor, temperature, weather.
-- **Em-dash dialogue** — format `— Line — Character said.` (period after *said*, capital on continuation).
+- **Em-dash dialogue** — Brazilian Portuguese *discurso direto* (travessão), not US/UK quotes. Full must-follow: `.cursorrules` §0.1 **Book-style dialogue** (A–E). Short form: `— Line — Character said.` Travessão only opens speech or frames narrator tags — **never** as a spoken colon/pause. Narrator prose may still use em dashes for apposition.
 - **No section-header bullet reports** — headers (`## I.`) are allowed as chapter breaks but content must be prose, not lists.
 - **No stat boxes or wiki infoboxes** inside the narrative body.
 

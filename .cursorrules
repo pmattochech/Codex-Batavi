@@ -27,14 +27,35 @@ Mandatory obedience order for the AI:
 * **Chronicle unit structure (single file):** Every chronicle is **one** continuous narrative in **one** Markdown file — **one novel chapter**, not a report split into Parts or numbered sections. **Forbidden in the body:** internal subdivisions named **Part**, **Chapter**, or numbered/roman **sections** (`## I.`, `## II.`, `## Part One`, `### Chapter 3`, `Part II —`, `§VII` as a body header); **horizontal rules (`---`) used as scene breaks** inside the narrative. **Scene and time shifts** must land **in prose** — new paragraph, place/time/POV carried by the sentences (novel default), not by rules or titled blocks. **Allowed inside the file:** (1) a short **metadata / filing block** at the top (title, dates, theater, links), then **one** `---` fence before the body; (2) the **continuous body** through the closing handoff; (3) optional **one** `---` before end matter only (*End of Chapter*, *Next:*). **Saga serial:** one slug folder = **one** chapter on the read chain — do **not** nest multiple narrative chapters inside one `chapter.md`. **Repair:** on **assigned** edits, remove internal section headers and in-body `---` scene rules; stitch beats in prose — do **not** silently mass-rewrite stable chronicles outside an explicit batch.
 * **Legacy:** Do not silently rewrite stable prose outside an assigned batch or explicit request (see [`TRANSLATION-HYBRID.md`](TRANSLATION-HYBRID.md)).
 * ***Warhammer 40,000*:** Keep game terms, equipment names, and fixed mottoes in canonical English; internal Chapter coinages follow [`GLOSSARY-EN.md`](GLOSSARY-EN.md).
-* **Book-style dialogue (narrative Markdown in `codex-batavi/`):** Prose is **English**, but **dialogue punctuation follows Brazilian (ABNT-style) conventions**, not US/UK quotation-mark dialogue.
-  1. **Never** use straight quotation marks (`" "`) for **running scene speech** in fiction. Always open speech with an **em dash** ( — ), not a hyphen (-) or en dash (–).
-  2. **Opening dash (new speech run):** place the em dash, then **a single space**, then the spoken words (e.g. `— Know this.` / `— Hello.`).
-  3. **Spacing for non-opening dashes:** every em dash that is **not** the line-opening speech dash must have **single spaces on both sides** (e.g. `— It is cold — he said — too cold.`).
-  4. **Closing punctuation with tag:** if the spoken line ends by handing off to the narrator’s tag, place the **period or comma after the narrator’s clause** (e.g. `— I know — he said.` or `— I know —, he said, looking away.`).
-  5. **Tag ends the sentence; speech continues:** end the narrator block with a **period**, then begin the next spoken line with a **new em dash** on a new line (e.g. `— I already finished the report — the clerk said.` then `— Can I leave now?`).
-  6. **Glyph:** always the **long em dash** ( — ). Do not substitute hyphen (-) or en dash (–).
-  7. **No closing dash at line end:** if a character’s spoken line ends and nothing else follows on that line, **do not** add a trailing em dash. *(Use em dashes at the end of the line only when they are framing a narrator interruption/tag per rule 3.)*
+* **Book-style dialogue (narrative Markdown in `codex-batavi/`):** Prose is **English**, but **dialogue punctuation follows Brazilian Portuguese *discurso direto* / editorial practice** (travessão), **not** US/UK quotation-mark dialogue. **Source note:** this is **not** ABNT NBR academic citation law. ABNT NBR 10520 governs scholarly *citações* (quotes / indented block quotes). Fiction dialogue here follows **norma culta + Brazilian editorial manuals** (travessão for speech; *verbos dicendi*; intercalação). We keep the shorthand “ABNT-style” only as project habit — the **must-follow** rules below are the lock.
+
+  **A. Glyphs**
+  1. **Travessão only:** long em dash ( — ). Never hyphen (-) or en dash / meia-risca (–) for dialogue bars.
+  2. **Opening bar:** em dash, then **one space**, then speech (`— Know this.`).
+  3. **Non-opening bars:** every mid-line em dash has **spaces on both sides** (`— It is cold — he said — too cold.`).
+
+  **B. Roles of the travessão in *discurso direto* (must-follow)**
+  4. **Open a speech turn:** each new spoken run begins with a travessão (change of speaker = new run).
+  5. **Frame narrator intercalation only:** mid-speech em dashes exist **solely** to open/close the narrator’s cut (*verbo dicendi* or brief narrator action tied to the tag). Pattern: `— [speech] — [narrator] — [speech continues].` or `— [speech] — [narrator].`
+  6. **House lock — no false voice-bars inside speech:** **do not** use a travessão **inside the spoken words** as pause, colon, dash-for-emphasis, or rhetorical break. That mimics a new speech opener or a second narrator cut. Inside speech, use **comma, colon, semicolon, period, ? !**.  
+     Wrong: `— When he fails — Otho continued — and he will fail in places — you will not…`  
+     Right: `— When he fails — Otho continued — and he will fail in places, you will not…`
+  7. **No orphan closing bar:** if speech ends and nothing follows on the line, **no** trailing em dash.
+
+  **C. Period, capital, comma (Portuguese dialogue grammar → English prose)**
+  8. **Tag with *verbo dicendi* ends the sentence:** period (or !/? belonging to speech stay before the tag; sentence close sits after the narrator clause): `— I know — he said.` / `— Leave now! — she shouted.`
+  9. **Same-sentence resume after tag:** lowercase continues the spoken sentence after the closing narrator bar: `— She will come this afternoon — Marta said. — She should arrive near dusk.` (second bar = new speech run after period on the tag line; if speech continues mid-sentence through the tag: `— … — he said — and then…`).
+  10. **Comma after narrator bar when syntax requires it:** if removing the narrator cut would leave a comma in the spoken sentence, keep that comma **after** the closing travessão of the tag: `— She would come today — Jorge explained —, but she was delayed.` (cf. Portuguese: vírgula após o travessão quando a fala exige).
+  11. **Narrator action without *dicendi*:** if the material after a speech-closing bar is **not** a speech tag but a separate action sentence, capitalize and treat as narrator prose: `— I am done with this. — The legate struck the door and left.`
+  12. **Tag ends; new spoken sentence:** period after narrator, then **new line** + new opening travessão:  
+      `— I already finished the report — the clerk said.`  
+      `— Can I leave now?`
+
+  **D. Narrator prose (outside speech runs) — allowed**
+  13. **Em dash for apposition / emphasis** in narrator sentences remains **allowed** (Portuguese: travessão isolating explanation, alternative to commas/parentheses): `The vault held ash — not empty, only spent.` Do **not** confuse this with dialogue bars; do **not** start a narrator sentence with a speech-style `—` unless it is actual *discurso direto*.
+
+  **E. Quotes**
+  14. **Straight `"..."`** = **documentary only** (records, slates, orders, registries, epigraphs, attributed excerpts). Not for ordinary scene speech. (Aligns with separating literary travessão from ABNT-style citation quotes in dossiers.)
 * **Quotes (documentary only):** Reserve `"..."` for **documentary** text: in-universe records, slates, orders, registries, formal *attributed* excerpts, epigraphs, or explicit “the text says …” quotation — **not** for ordinary dialogue in fiction. *(If a record reproduces speech, it may use quotes; scene prose still uses the em-dash rules above.)*
 * **No opaque military acronyms (reader clarity):** Do **not** use **IFF** or other unexplained abbreviations in `codex-batavi/` prose, dossiers, or chronicles. Write the concept in full: **friend–foe discrimination**, **friend–foe targeting failure**, **auspex friend–foe lock**, or spell out **identification friend or foe** when a technical register needs the formal term. Same rule in meta summaries of canon when writing for this project. On **assigned** edits, replace legacy **IFF** with the full phrasing — do **not** silently mass-rewrite stable prose outside an explicit batch.
 
