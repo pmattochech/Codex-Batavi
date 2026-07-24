@@ -3,9 +3,9 @@
 **Classification:** Chapter tactical narrative (public register abridgment: [aar-vex-ix-silent-hours.md](../vexillum-register/aar-vex-ix-silent-hours.md))  
 **When:** 140.M42 (Silent Vigil)  
 **Where:** **Marco de Vetra** — **Vacuum Shouter** relay, laser farm complex, reactor vault spines  
-**Who:** **IX** *Nona* under **Legatus Cassian Vetra**
+**Who:** **NONA** under **Legatus Cassian Vetra**
 
-**Cross-references:** [dossier-cassian-vetra.md](../../../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.9 · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3
+**Cross-references:** [dossier-cassian-vetra.md](../../../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.9 · [vexilla-by-vexilla-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §3
 
 ---
 
@@ -31,13 +31,13 @@ Vetra kept **manual** redundancies hot — cables and click-codes the *Armourium
 
 Raiders came in cutout livery: human pirates, xenos kit where profit allowed, buyers somewhere off-scroll who wanted **arrays intact** — resale value, intel value, the obscene fantasy of **capture** without paying the **scrap** price.
 
-*Nona* intended to **spoil** the merchandise.
+NONA intended to **spoil** the merchandise.
 
 ---
 
 ## III. LAYERED DELAY
 
-Suppression interlocked the alleys between array farms the way *Quarta* interlocked trenches — different gravity, same religion: **geometry** eats time.
+Suppression interlocked the alleys between array farms the way QVARTA interlocked trenches — different gravity, same religion: **geometry** eats time.
 
 Boltstorm and heavy bolter teams rotated on **ninety-minute** clocks so barrels cooled before thermal alarms became **false witnesses** under EM damp. Sergeants logged heat the way Apothecaries logged fever — not because the *Codex* demanded poetry, because **lies** in the wire killed relay integrity faster than bolter rounds.
 
@@ -73,7 +73,7 @@ When silence finally returned to the wire, it was not peace. It was **absence** 
 
 ## VI. FIELD FOUR
 
-**IX** flies **Silent Hours** on the *Alabarda* not because the battle was loud, but because it was **not allowed** to fall **quiet** in the wrong mouth — proof that *Nona* wins in **receipt**, not kill ratio.
+**IX** flies **Silent Hours** on the *Alabarda* not because the battle was loud, but because it was **not allowed** to fall **quiet** in the wrong mouth — proof that NONA wins in **receipt**, not kill ratio.
 
 The shout survived. That is the only boast the cloth allows.
 

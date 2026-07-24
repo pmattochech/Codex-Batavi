@@ -20,12 +20,12 @@
 
 ## Thesis
 
-**Vexilla I–IX** born **after** heresy — fragment the hammer; specialty → Legatus pipeline.
+**PRIMA–NONA** born **after** heresy — fragment the hammer; specialty → Legatus pipeline.
 
 ## Beat locks
 
 - ~2,500 under one rebel nearly broke mesh
-- Nine specialty Vexillationes
+- Nine specialty Vexilla
 - Legati from squad lineages
 - User pipeline detail TBD
 
@@ -39,7 +39,7 @@
 
 ## Irreversible fact (must file)
 
-***Alabarda* vexilla I–IX** commissioned — civil war era **no cloth** ends here.
+***Alabarda* vexilla PRIMA–NONA** commissioned — civil war era **no cloth** ends here.
 
 ## Chronicle law
 
@@ -52,7 +52,7 @@
 
 ## Chain
 
-- **Precedent scaffold:** [prima-obligation](../prima-obligation/SCAFFOLD.md)
+- **Precedent scaffold:** [PRIMA-obligation](../prima-obligation/SCAFFOLD.md)
 - **Next scaffold:** [primaris-after-ash](../primaris-after-ash/SCAFFOLD.md)
 
 ## Depth target

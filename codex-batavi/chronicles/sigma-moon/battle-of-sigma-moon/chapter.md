@@ -52,7 +52,7 @@ Alaric stood still for two seconds. For those who knew him, two seconds of total
 
 What follows is the body of evidence behind the archive term **Broken Haruspicium** — from Henricus’s first fracture through the shutdown order.
 
-In the 72 hours between Henricus’s warning and Angron’s manifestation on Luna Sigma, I monitored the forty-three **Batavian Haruspices** distributed across the Vexillationes at maximum alert. What follows is an honest report of what I observed in the Warp — and what the Warp did back.
+In the 72 hours between Henricus’s warning and Angron’s manifestation on Luna Sigma, I monitored the forty-three **Batavian Haruspices** distributed across the Vexilla at maximum alert. What follows is an honest report of what I observed in the Warp — and what the Warp did back.
 
 The presence approaching emitted no signal. It emitted **normalized absence of signal**. Where I expected background noise — the constant echo of entropy, fractured psychic traffic on the border — there was growing suppression, as if the whole Warp spectrum began to recede from the source. An expanding aura vacuum.
 
@@ -78,13 +78,13 @@ The distinction matters.
 
 The World Eaters fleet left the Warp eight hours from Luna Sigma. There was no Loken Passage to guide them — they forced exit through the Cicatrix, leaving tears of corrupted reality Blackstone Pylons took hours to suture. The cost to them was irrelevant. World Eaters ships do not count own losses as an operational variable.
 
-Alaric was on Luna Sigma with the First Vexillatio and two thousand line warriors. Tyvar, Shield-Captain of the Custodes, stood forty meters to his left — a golden statue who had not spoken a word since Otho’s warning. Drusus was in the rear, mobile *Apothecarion* positioned outside the first impact line.
+Alaric was on Luna Sigma with the First Vexilla and two thousand line warriors. Tyvar, Shield-Captain of the Custodes, stood forty meters to his left — a golden statue who had not spoken a word since Otho’s warning. Drusus was in the rear, mobile *Apothecarion* positioned outside the first impact line.
 
 The battle for outer perimeters lasted forty minutes. The World Eaters did not use tactics; they used mass and fury, and their fury was genuinely unlike any other Chaos force — no mutant corruption, no greed or intrigue. Only the absolute compulsion of the Massacre, carved into the Butcher’s Nails each had carried nailed in the skull since the Great Heresy.
 
-The First Vexillatio held. *We hold.* The iron wall did not give way.
+The First Vexilla held. *We hold.* The iron wall did not give way.
 
-On the outer storage spine, **V** *Quinta* cut World Eaters mass before it learned to breathe without frenzy. **Lieutenant Einar Dreadwolf** fell there — self-triggered ***Spina Cineris*** terminis, Judex witness, **no skull and no spill** for Brass to receipt — minutes before the Primarch manifested. Full account: [terminus/chapter.md](../dreadwolf/terminus/chapter.md).
+On the outer storage spine, **QVINTA** cut World Eaters mass before it learned to breathe without frenzy. **Lieutenant Einar Dreadwolf** fell there — self-triggered ***Spina Cineris*** terminis, Judex witness, **no skull and no spill** for Brass to receipt — minutes before the Primarch manifested. Full account: [terminus/chapter.md](../dreadwolf/terminus/chapter.md).
 
 Then Angron descended.
 
@@ -136,7 +136,7 @@ Alaric did not wound Angron. Not once, in fifty-three minutes of single combat. 
 
 What Alaric did was hold attention.
 
-The geometry was this: while Angron focused on the only being on the field who had survived his first blow and kept advancing, the World Eaters around them lost spiritual leadership cohesion. Without Angron distributing Khorne’s presence across the field, they were only berserkers with Nails in the skull — lethal, but contained by the First Vexillatio.
+The geometry was this: while Angron focused on the only being on the field who had survived his first blow and kept advancing, the World Eaters around them lost spiritual leadership cohesion. Without Angron distributing Khorne’s presence across the field, they were only berserkers with Nails in the skull — lethal, but contained by the First Vexilla.
 
 Evacuation advanced.
 

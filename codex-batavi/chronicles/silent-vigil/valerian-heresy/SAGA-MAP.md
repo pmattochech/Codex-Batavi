@@ -17,7 +17,7 @@
 | **3** | **~080–085** | **Hot rot** | Resentment → hate; harvest theology; bulk of host aligns; lawful witness narrows |
 | **3b** | **~085** | **Seal / open break** | Lucid **Versibar**; **Daemon Prince** ascent; implicit-Horus answer; **Lupercal** claim |
 | **4** | **~086** | **Malakor V** | Trap; apex **why?**; execution; **~300** toll; **Silent Vigil begins** |
-| **5** | **~086–092** | **Reformation** | **~1,000** spine; stock crisis; *Prima* shame field; **vexilla** commission; *Decima* |
+| **5** | **~086–092** | **Reformation** | **~1,000** spine; stock crisis; PRIMA shame field; **vexilla** commission; DECIMA |
 | **6** | **~087–088** | **Primaris insult** | Reinforcement after bloodletting; **~5,000** ratified; ***Limes Lupus*** collar |
 
 **Parent corridor after phase 4:** Silent Vigil **~086–186** ([`../README.md`](../README.md)).
@@ -42,7 +42,7 @@ Scenes marked **✅ own** = covered by published prose (may need retcon pass). *
 |-------|-----------|--------|-------|
 | Shared campaign table — same tactical language | Valerius or staff | 📝 | Malakor hook pays off **decades** later |
 | **Wild Hunt** / major mesh operation (optional anchor) | Field officer | 📝 | Strength **~2k–4k** band |
-| Corbec enters *Prima* as **line brother** (not Legatus) | Corbec / witness | 📝 | Lawful spine before rot |
+| Corbec enters PRIMA as **line brother** (not Legatus) | Corbec / witness | 📝 | Lawful spine before rot |
 
 ### Phase 2 — Cold rot (~065–080)
 
@@ -90,9 +90,9 @@ Scenes marked **✅ own** = covered by published prose (may need retcon pass). *
 
 | Scene | POV owner | Status | Notes |
 |-------|-----------|--------|-------|
-| ***Decima* justice vexillum** — wolf transfixed by blade | Varro / Kadmos | ✅ 🔧 | [`decima-justice-vexillum/chapter.md`](P5-reformation/decima-justice-vexillum/chapter.md) |
-| ***Prima* obligation field** + broken cog | Register / forge | 📝 | [`memorandum-prima-rectification-precedent.md`](../../vexillum-register/memorandum-prima-rectification-precedent.md) companion scene |
-| **Vexilla I–IX commission** — anti-concentration | Kadmos / Strategium | 📝 | User specialty-squad → Legatus pipeline (**detail TBD**) |
+| **DECIMA justice vexillum** — wolf transfixed by blade | Varro / Kadmos | ✅ 🔧 | [`decima-justice-vexillum/chapter.md`](P5-reformation/decima-justice-vexillum/chapter.md) |
+| **PRIMA obligation field** + broken cog | Register / forge | 📝 | [`memorandum-PRIMA-rectification-precedent.md`](../../vexillum-register/memorandum-prima-rectification-precedent.md) companion scene |
+| **PRIMA–NONA commission** — anti-concentration | Kadmos / Strategium | 📝 | User specialty-squad → Legatus pipeline (**detail TBD**) |
 | Corbec **Castellan vigil** seeded | Corbec / Varro | 📝 | Leads to Axiom Lupus (~091) — [`../viggo-the-heat-of-the-stone/`](../viggo-the-heat-of-the-stone/INDEX.md) |
 
 ### Phase 6 — Primaris (~087–088)
@@ -112,8 +112,8 @@ Scenes marked **✅ own** = covered by published prose (may need retcon pass). *
 | **Valerius** (expunged) | 0–4 | Threshold pole; fall arc; seal speech; Versibar terminus | Staff / dossier; **no** dedicated rot POV chapter yet |
 | **Corbec lattice** | 2–5 | Lawful witness; resistance; duel; sentence; future vigil | Corbec subsaga **7** chapters |
 | **Cassian Vorn** | 3–4 | Enforcement; second lucid Versibar; duel antagonist | `cassian-vorn-first-sword`, `vorn-duel-open-field` |
-| **Drusus** | 2–5 | Clinical; Reading B; Cull; *Das Erbe* (no early Strand labels) | malakor-v; reading-b; decima margin |
-| **Varro** | 4–5 | Doctrinal witness; *Decima* seal | malakor-v; decima |
+| **Drusus** | 2–5 | Clinical; Reading B; Cull; *Das Erbe* (no early Strand labels) | malakor-v; reading-b; DECIMA margin |
+| **Varro** | 4–5 | Doctrinal witness; DECIMA seal | malakor-v; DECIMA |
 | **Mortal mesh** | 0–6 | Credit audience; island debt; Shared Sweat | **Gap** — planned rot + epilogue scenes |
 | **Staff / register** | 5–6 | Documentary afterglow | vexillum-register companions |
 
@@ -128,7 +128,7 @@ Scenes marked **✅ own** = covered by published prose (may need retcon pass). *
 | Slug | Owns | Does **not** own (gap) | Phase | Prose status |
 |------|------|------------------------|-------|--------------|
 | [`malakor-v`](P4-malakor/malakor-v/chapter.md) | Hook; shared-tactics trap; theater accounting **~300**; Versibar **Alpha**; Castellan interception; apex exchange | Bisection; 40-yr rot; harvest theology origin | **4** | ✅ draft — 🔧 dates + duration line |
-| [`decima-justice-vexillum`](P5-reformation/decima-justice-vexillum/chapter.md) | *Decima* cloth law; post-sentence heraldry; Varro/Kadmos register voice | Vexilla I–IX commission detail | **5** | ✅ draft — 🔧 **051→~087** at sweep |
+| [`DECIMA-justice-vexillum`](P5-reformation/decima-justice-vexillum/chapter.md) | DECIMA cloth law; post-sentence heraldry; Varro/Kadmos register voice | PRIMA–NONA commission detail | **5** | ✅ draft — 🔧 **051→~087** at sweep |
 
 ### Corbec subsaga ([`../corbec-ardens/`](../corbec-ardens/INDEX.md)) — **adjacent**, not main serial
 
@@ -148,8 +148,8 @@ Scenes marked **✅ own** = covered by published prose (may need retcon pass). *
 
 | Asset | Owns |
 |-------|------|
-| [`register-decima-malakor-justice.md`](../../vexillum-register/register-decima-malakor-justice.md) | Sentence annex |
-| [`memorandum-prima-rectification-precedent.md`](../../vexillum-register/memorandum-prima-rectification-precedent.md) | *Prima* obligation precedent |
+| [`register-DECIMA-malakor-justice.md`](../../vexillum-register/register-decima-malakor-justice.md) | Sentence annex |
+| [`memorandum-PRIMA-rectification-precedent.md`](../../vexillum-register/memorandum-prima-rectification-precedent.md) | PRIMA obligation precedent |
 | [`biologis-geometry-of-hatred`](../../projection-aurea-codex-omega/biologis-geometry-of-hatred/chapter.md) | Clinical hatred geometry |
 | [`spiritus-vertex-of-condemnation`](../../projection-aurea-codex-omega/spiritus-vertex-of-condemnation/chapter.md) | Condemnation vertex |
 
@@ -168,7 +168,7 @@ Scenes marked **✅ own** = covered by published prose (may need retcon pass). *
 | E | `lupercal-hour` | **3b** | Seal speech; open break |
 | — | *(Corbec 1–7)* | **4** | Terminal theater — **exists** |
 | — | `malakor-v` | **4** | Castellan POV — **exists** |
-| F | `decima-justice-vexillum` | **5** | **exists** |
+| F | `DECIMA-justice-vexillum` | **5** | **exists** |
 | G | `vexilla-commission` *(working)* | **5** | **TBD** — user pipeline detail |
 | H | `primaris-after-ash` *(working)* | **6** | Collar + 5k insult |
 | I | `island-debt` *(working)* | **5–6** | Shared Sweat / Witness Ford epilogue |
@@ -184,12 +184,12 @@ Scenes marked **✅ own** = covered by published prose (may need retcon pass). *
 1. `two-power-pact` → `pyrric-receipts` → `first-question`  
 2. `harvest-catechism` → `lupercal-hour`  
 3. Corbec **1–7** (witness lane) **∥** `malakor-v` (Castellan lane) — same **~086** week; either order OK if reader tracks parallel  
-4. `decima-justice-vexillum`  
+4. `DECIMA-justice-vexillum`  
 5. *(future)* `vexilla-commission` · `primaris-after-ash` · `island-debt`
 
 ### B — Current shelf (published only)
 
-**Main serial:** `malakor-v` (ch. **20**) → `decima-justice-vexillum` (ch. **21**)
+**Main serial:** `malakor-v` (ch. **20**) → `DECIMA-justice-vexillum` (ch. **21**)
 
 **Parallel subsaga:** Corbec **1 → 7** ([`../corbec-ardens/INDEX.md`](../corbec-ardens/INDEX.md)) — read **∥** ch. **20** or bracketing it
 

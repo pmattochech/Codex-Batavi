@@ -26,7 +26,7 @@ Brann looked at me once, and I could tell he wanted to argue. Not because he dis
 
 We moved anyway.
 
-The extraction flats were not empty. They were populated by the same thing all war eventually creates: men who are still alive and do not know why. Some wore *Prima* colors. Some wore other vexils rotated into this mouth. Some had stripped markings entirely. In the distance, we saw groups moving with too much cohesion for civilians and too much hunger for disciplined Astartes.
+The extraction flats were not empty. They were populated by the same thing all war eventually creates: men who are still alive and do not know why. Some wore PRIMA colors. Some wore other vexils rotated into this mouth. Some had stripped markings entirely. In the distance, we saw groups moving with too much cohesion for civilians and too much hunger for disciplined Astartes.
 
 It would have been easier if the rot had drawn a clean border.
 
@@ -186,7 +186,7 @@ Hadrik corrected quietly.
 
 He was right. Five was a means, not an idol.
 
-We could not save the Vexillatio. We could not "undo" the rot. We could not make devotion become reason again by force of will.
+We could not save the Vexilla. We could not "undo" the rot. We could not make devotion become reason again by force of will.
 
 We could do one thing.
 

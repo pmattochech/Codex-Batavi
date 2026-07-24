@@ -2,7 +2,7 @@
 
 **Status:** Ratified — 2026-07-22  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding)  
-**Seat:** Vexillatio **II** (*Secunda*) · Legatus: **Henric Kessler**  
+**Seat:** Vexilla **II** (SECVNDA) · Legatus: **Henric Kessler**  
 **Scope:** Mortal populi only — not full Vexilla doctrine. Chapter footprint via civilian habit until Phase B.  
 **Atlas / fork:** [system-i-central-bastion.md](../systems/system-i-central-bastion.md) · [worlds-central-bastion.md](worlds-central-bastion.md) § **Castra-Vetera Prime**  
 **Basal / Ecclesiarchy:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md) · [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · [grey-clerk-piety.md](../../political-relations/grey-clerk-piety.md) · [ecclesiarchy-on-the-frontier.md](../../political-relations/ecclesiarchy-on-the-frontier.md)  
@@ -143,7 +143,7 @@ Castra-Vetera’s mortal force culture is **corridor law**: PDF and hive militia
 
 - **Draft board as appeal window:** Common families treat conscription notice as a docket — amendments, medical concordance, advocate delay. False medical concordance = local mortal sin with military teeth.
 - **Riot at closed overflow:** Rabble press a shuttered window; PDF fires warning; Arbites decide whether the ministry “deserves” a baton lesson. Batavi almost never appear for pure queue riot — absence is itself a civic fact.
-- **Shared Sweat surface:** Joint corridor clearances; Guard learning not to spray Schedule K; civilians learning that *Secunda* stalker angles mean **assigned targets**, not wrath. Mortals do not receive *Axiom* lectures — they receive **hold** and **no fire on that facade**.
+- **Shared Sweat surface:** Joint corridor clearances; Guard learning not to spray Schedule K; civilians learning that SECVNDA stalker angles mean **assigned targets**, not wrath. Mortals do not receive *Axiom* lectures — they receive **hold** and **no fire on that facade**.
 
 ---
 
@@ -205,7 +205,7 @@ Priests vs laity: priests who cannot read a docket are entertainment or suspect;
 
 **World function / export:** Judgment, tithe governance, registry storage, noble contract brokerage, legal and archival services for the Central Bastion mesh. Paper-light industry (binders, slate, incense scrubbers) supports the brain; heavy forge output is imported from Noviomagus rumor and sealed routes. Wealth means **vault depth**, **window priority**, **advocate retainers**, and **clean concordance credit** — not scrap tons or silo elevators.
 
-Work runs on **dockets and hour-bands**. Tithe payment is seal-and-table: ministries convert planetary and house obligations into stamped debt; failure smell is **ink-rot and panic incense** in a closed audit hall — clerks speaking too quietly, Arbites at the door, autumn holographs switched to “mourning cycle.” Exemptions: noble treaty rooms, Chapter-adjacent sealed facilities (including ***Depositorium Cataphractae*** sustainment under *Secunda* — mortals do not audit it), certain Ministorum and Mechanicus liaison suites on Schedule K lists. Real markets: ribbon vendors, advocate fees, forged-slip black markets, tea-stall licenses. Ledger fiction: “everyone is filed” — rabble know otherwise.
+Work runs on **dockets and hour-bands**. Tithe payment is seal-and-table: ministries convert planetary and house obligations into stamped debt; failure smell is **ink-rot and panic incense** in a closed audit hall — clerks speaking too quietly, Arbites at the door, autumn holographs switched to “mourning cycle.” Exemptions: noble treaty rooms, Chapter-adjacent sealed facilities (including ***Depositorium Cataphractae*** sustainment under SECVNDA — mortals do not audit it), certain Ministorum and Mechanicus liaison suites on Schedule K lists. Real markets: ribbon vendors, advocate fees, forged-slip black markets, tea-stall licenses. Ledger fiction: “everyone is filed” — rabble know otherwise.
 
 **By class**
 
@@ -242,7 +242,7 @@ Not a fourth class — same strata, different boss / holy object.
 | **Administratum** | Overflow clerks who void names | Scribe spine; concordance booths | Audit chiefs; tithe-house registries | Own the sorting border; enforce floors more than sermons |
 | **Guard / PDF / Arbites** | Levy / baton targets | Stack career; draft wound | Officer / liaison houses | Closest Shared Sweat without being Chapter; Lex optics bind fire |
 | **Advocates (paper duelists)** | Unlicensed runners (illegal) | Voucher advocates | House advocates; Ribbon Houses | Make appeal windows into careers; false concordance temptation |
-| ***Depositorium* adjacency (Chapter facility, not a world)** | Rumor / fear of sealed lifts | Know “do not queue that shaft” | Noble treaties mention without entry rights | Mortals meet it as **absence** and **guarded door** — *Secunda* sustainment, not populi workplace |
+| ***Depositorium* adjacency (Chapter facility, not a world)** | Rumor / fear of sealed lifts | Know “do not queue that shaft” | Noble treaties mention without entry rights | Mortals meet it as **absence** and **guarded door** — SECVNDA sustainment, not populi workplace |
 
 ---
 
@@ -253,7 +253,7 @@ Not a fourth class — same strata, different boss / holy object.
 | **Adeptus Administratum** | **Core** | The planet’s nervous system. Scribe bloodlines, concordance booths, appeal windows, vault registries. Class lives inside its hour-bands. Local sin (**false concordance**) is first an Administratum wound. Batavi shadow respects clean Lex optics; does not replace clerks. |
 | **Adeptus Ministorum / Ecclesiarchy** | **Present** | Autumn liturgy, baptismal and burial books, ribbon-saint cult adjacent to official saints. Friction with grey-clerk piety when sermons steal queue time. Cannot outrank a triple stamp in Common eyes when receipts are scarce. Creed language stays God-Emperor; do not merge with Batavi Ancestor-Sovereign. |
 | **Adeptus Arbites** | **Core** | Atrium peace, advocate-gallery enforcement, Schedule K adjacency patrols. Kessler’s mortal reputation is partly that he fires **as if they watch** — because they often do. Rabble know batons; Upper know liability. |
-| **Adeptus Mechanicus** (incl. local forge-priests) | **Thin** | Vault climate, cogitation incense scrubbers, shelving automata, Schedule K liaison suites. Not a forge-world priesthood — **do not steal Prima culture**. Adepts here are archivists of temperature and seal integrity. Deep Chapter caches (***Depositorium Cataphractae***) are *Secunda* facility law, not Magos public cult. |
+| **Adeptus Mechanicus** (incl. local forge-priests) | **Thin** | Vault climate, cogitation incense scrubbers, shelving automata, Schedule K liaison suites. Not a forge-world priesthood — **do not steal PRIMA culture**. Adepts here are archivists of temperature and seal integrity. Deep Chapter caches (***Depositorium Cataphractae***) are SECVNDA facility law, not Magos public cult. |
 | **Imperial Guard / Astra Militarum** (draft, billet, regiment links) | **Present** | Draft boards as dockets; billets in stack spines; Shared Sweat with Batavi in corridor wars. Common families feel Guard as tax-of-bodies; Upper officer houses treat it as optics career. |
 | **Planetary Defense Force / local militia** | **Present** | Stack guards, window-riot control, vault-perimeter watch. Career path for Common; fodder path for Rabble. Trains on listed walls and friend–foe clearance language without Chapter doctrine dumps. |
 | **Imperial Navy** | **Thin** | Iron Highway customs and void-court liaison offices on high stacks; sailors as temporary docket problems. Not a Navy world — presence is paperwork about ships, not ship culture. |
@@ -263,14 +263,14 @@ Not a fourth class — same strata, different boss / holy object.
 | **Officio Assassinorum** | **Absent** | No mortal civic footprint. Any kill attributed to “quiet offices” stays unverified tavern math — not ethnography fact. |
 | **Adepta Sororitas** | **Absent** | No convent culture on the Administrative Throne this pass; autumn faith is clerk-and-chapel, not Sister militant. |
 | **Adeptus Custodes** | **Sealed/rumor only** | Golden rumor from far screens; Denial Protocol unknown to populi as doctrine. Not a street presence. |
-| **Other Astartes Chapters** (guests, rivals, myths) | **Thin** | Guest-Chapter myths and hololith fears of hab-erasure (Hive Dominus confraternity expectation). Batavi *Secunda* is the local Astartes fact; other Chapters are cautionary tales and dock rumor — no Founding laundry. |
+| **Other Astartes Chapters** (guests, rivals, myths) | **Thin** | Guest-Chapter myths and hololith fears of hab-erasure (Hive Dominus confraternity expectation). Batavi SECVNDA is the local Astartes fact; other Chapters are cautionary tales and dock rumor — no Founding laundry. |
 | **Rogue Trader dynasties** | **Thin** | Charter hearings in noble galleries; exotic dockets; mistrusted as noise against concordance calm. |
 | **Chartist captains / void guilds** | **Present** | Customs monks, load blessings, Iron Highway traffic as endless variance slips. Grey-clerk cousins to Administratum; fight forge-world captains over hash matches. |
 | **Local noble houses / tithe dynasties** | **Core** | Own private windows, vault keys, autumn vow politics. Marriage contract-first. Feed and fear Kessler’s legal geometry when collateral math threatens house facades. |
 | **Criminal / underhive powers** (as civic fact) | **Present** | Forged-ribbon markets, false concordance workshops, overflow protection gangs. Not romantic underhive kingdoms — **filing counterfeiters** and baton economies. Arbites treat them as Throne-theft rings. |
 | **Advocate collegia** (seat-specific) | **Core** | Semi-licensed paper duelists; Ribbon Houses as bridge band. Make pilgrimage (appeal windows) into profession. Primary temptation vector for local mortal sin. |
 | **Scribe bloodline guilds** (seat-specific) | **Core** | Inherit mid-floor literacy and badge rights. Cultural spine of Common. Guard death-date honesty as near-religious craft (*ribbon saint* ideal). |
-| ***Depositorium Cataphractae*** / Castra-Vetera armory vaults (seat-specific Chapter facility) | **Sealed/rumor only** (to populi) | Facility under **II *Secunda*** — Castellan armory sustainment and sealed TDA cache — **not** a separate planet. Mortals know forbidden lifts, rumor of “old plate,” and that *Secunda* keeps what must not be lost. Cultural effect = **sacred absence** + PDF/Arbites perimeter taboo. No tourist theology. |
+| ***Depositorium Cataphractae*** / Castra-Vetera armory vaults (seat-specific Chapter facility) | **Sealed/rumor only** (to populi) | Facility under **SECVNDA** — Castellan armory sustainment and sealed TDA cache — **not** a separate planet. Mortals know forbidden lifts, rumor of “old plate,” and that SECVNDA keeps what must not be lost. Cultural effect = **sacred absence** + PDF/Arbites perimeter taboo. No tourist theology. |
 | **Castra-Minor (Scribes’ Moon) link** (seat-adjacent) | **Present** (as offworld career myth) | Archive moon with Guard of Silence — aspiration and exile story for clerks. “Misfiled soul” metaphor imported as law-horror. Not this ethnography’s surface geography; shapes Common nightmare of wrong shelving. |
 
 ---
@@ -304,16 +304,16 @@ Not a fourth class — same strata, different boss / holy object.
 - Penance as **amended forms**; pilgrimage as **queue**.
 - Local sin as **false concordance** (*misfile*), colored by class.
 - Kessler as **the Caliper** — measured fire, Lex-before-bolt, legal geometry civilians can see.
-- ***Depositorium Cataphractae*** as sealed facility under *Secunda*, not a culture-world.
+- ***Depositorium Cataphractae*** as sealed facility under SECVNDA, not a culture-world.
 - Hymn mood as **author map** only — exhausted loyalty, forgotten-not-faithless, loss as docket weather.
 
 ---
 
 ## 9. Related / deferred
 
-- **Phase B bleed file:** [`secunda-castra-vetera-culture-bleed.md`](secunda-castra-vetera-culture-bleed.md) — II *Secunda* ↔ Castra-Vetera Prime (ratified).  
-- **Wing periphery (Phase C):** [worlds-central-bastion.md](worlds-central-bastion.md) § **II *Secunda* wing** — Castra-Minor (monastic scriptoria / mute shelving delta); inherit Phase B.  
-- **Sibling seats:** Do **not** absorb Noviomagus forge culture (I *Prima*) or Khan-Bator granary culture (III *Tertia*).  
+- **Phase B bleed file:** [`SECVNDA-castra-vetera-culture-bleed.md`](secunda-castra-vetera-culture-bleed.md) — SECVNDA ↔ Castra-Vetera Prime (ratified).  
+- **Wing periphery (Phase C):** [worlds-central-bastion.md](worlds-central-bastion.md) § **SECVNDA wing** — Castra-Minor (monastic scriptoria / mute shelving delta); inherit Phase B.  
+- **Sibling seats:** Do **not** absorb Noviomagus forge culture (PRIMA) or Khan-Bator granary culture (TERTIA).  
 - **Optional draft archive:** [`../../planning/in-progress/castra-vetera-population-culture.md`](../../planning/in-progress/castra-vetera-population-culture.md)
 
 ---

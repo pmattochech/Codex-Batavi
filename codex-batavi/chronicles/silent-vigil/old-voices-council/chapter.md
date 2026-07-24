@@ -158,7 +158,7 @@ Varro turned slightly toward them.
 
 Kadmos inclined his head.
 
-— Machine-state lockouts, route denial, Decima handshake integrity.
+— Machine-state lockouts, route denial, DECIMA handshake integrity.
 
 Otho followed.
 

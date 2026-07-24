@@ -16,7 +16,7 @@ Halvard powered down the terminal and said to the void:
 
 ---
 
-The voice needed no audience. The sergeants already knew. Sergeants of the I Vexillatio always knew before the order, because the order was always the same and had been the same longer than any of them could trace. The protocol had no author on record. It had accreted — each Legatus before the I Vexillatio adding a layer to the procedure, cauterizing a weakness seen in himself or read in the record of those who came before.
+The voice needed no audience. The sergeants already knew. Sergeants of the PRIMA always knew before the order, because the order was always the same and had been the same longer than any of them could trace. The protocol had no author on record. It had accreted — each Legatus before the PRIMA adding a layer to the procedure, cauterizing a weakness seen in himself or read in the record of those who came before.
 
 The result was a protocol that celebrated nothing.
 
@@ -26,11 +26,11 @@ What there was was work.
 
 ---
 
-Phase one lasted six hours. Armor open, components out, every piece inspected and logged. Ceramite that had taken impact was checked for microfracture before any other assessment — not because general protocol demanded it before biochemical evaluation, but because the I Vexillatio had learned that Marines with certain Graven State variants tended to undervalue physical damage in the immediate post-combat window. Pride left in a Marine’s Furor Graven State did not sit well with admitting compromised plate. Checking ceramite first removed pride from the equation.
+Phase one lasted six hours. Armor open, components out, every piece inspected and logged. Ceramite that had taken impact was checked for microfracture before any other assessment — not because general protocol demanded it before biochemical evaluation, but because the PRIMA had learned that Marines with certain Graven State variants tended to undervalue physical damage in the immediate post-combat window. Pride left in a Marine’s Furor Graven State did not sit well with admitting compromised plate. Checking ceramite first removed pride from the equation.
 
 That was knowledge written nowhere. It lived in sergeants’ hands, passed one to another as field technique rather than psychological containment doctrine.
 
-Halvard maintained his own gear without delegating. Not performative humility — protocol. A Legatus of the I Vexillatio had no armor assistant during phase one. The rule had been instituted by someone the record did not preserve, and the reason was obvious enough that no one needed it written: a Marine who hands maintenance duty to another Marine is placing something above the present task. Anything above the present task was the first millimeter of drift the protocol existed to prevent.
+Halvard maintained his own gear without delegating. Not performative humility — protocol. A Legatus of the PRIMA had no armor assistant during phase one. The rule had been instituted by someone the record did not preserve, and the reason was obvious enough that no one needed it written: a Marine who hands maintenance duty to another Marine is placing something above the present task. Anything above the present task was the first millimeter of drift the protocol existed to prevent.
 
 He worked in silence. Around him, in silence, the rest of the unit did the same.
 
@@ -40,7 +40,7 @@ Phase two was caloric replenishment and minimum regulatory sleep — four hours 
 
 The immediate post-combat interval was the most dangerous point.
 
-On campaign, Graven State had direction: enemy ahead, task at hand, the *Axioma Rationis* as chain holding biology within acceptable parameters. In the pause after victory, direction vanished. Intensity accumulated during engagement remained in the system with no object to aim at. In Marines from other units, that dissipated with time and rest. In Marines of the I Vexillatio, there was a specificity: they knew what happened when objectless intensity met the void. They had read the record. They had gone down to the cells in the previous sector.
+On campaign, Graven State had direction: enemy ahead, task at hand, the *Axioma Rationis* as chain holding biology within acceptable parameters. In the pause after victory, direction vanished. Intensity accumulated during engagement remained in the system with no object to aim at. In Marines from other units, that dissipated with time and rest. In Marines of the PRIMA, there was a specificity: they knew what happened when objectless intensity met the void. They had read the record. They had gone down to the cells in the previous sector.
 
 Halvard had first gone down to the cells as a sergeant, under the Legatus who had held command before him. The Legatus had not explained why he brought new sergeants down. He had simply descended, opened the outer containment grate, and stood before the occupant long enough for smell, scale, and presence of what was inside to stop being conceptual.
 
@@ -50,9 +50,9 @@ Halvard had understood at once. He had needed no explanation.
 
 The chaplain visit was phase three.
 
-The I Vexillatio had no resident chaplain. It had a visit cycle — the proximal-sector chaplain rotated through units, and the I Vexillatio topped the priority list regardless of operational state. That too had been instituted by someone with no name on record, and the current chaplain had accepted the priority without question because the protocol accompanying the visit was documented and clinically justified.
+The PRIMA had no resident chaplain. It had a visit cycle — the proximal-sector chaplain rotated through units, and the PRIMA topped the priority list regardless of operational state. That too had been instituted by someone with no name on record, and the current chaplain had accepted the priority without question because the protocol accompanying the visit was documented and clinically justified.
 
-The I Vexillatio chaplain visit was not confession in standard doctrinal sense. It was calibration. The chaplain asked specific questions — about state at combat peak, about the moment immediately after engagement ended, about anything during the campaign that had resonated with Graven state in an unusual way. Answers were logged. Those diverging from the Marine’s historical pattern were flagged for follow-up.
+The PRIMA chaplain visit was not confession in standard doctrinal sense. It was calibration. The chaplain asked specific questions — about state at combat peak, about the moment immediately after engagement ended, about anything during the campaign that had resonated with Graven state in an unusual way. Answers were logged. Those diverging from the Marine’s historical pattern were flagged for follow-up.
 
 Halvard had sat with the chaplain, this time, and answered the questions in the usual way. Then there had been a long pause — the chaplain was a man of few words even by frontier standards — and the chaplain had asked, so directly there was no evading:
 
@@ -104,13 +104,13 @@ Halvard stayed until he felt the datum was present again. Then he went up.
 
 ---
 
-The I Vexillatio post-campaign protocol lasted sixteen hours total. Afterward the unit was functional for new orders. No banners. No praise. No honor-book entry that was not operational.
+The PRIMA post-campaign protocol lasted sixteen hours total. Afterward the unit was functional for new orders. No banners. No praise. No honor-book entry that was not operational.
 
 Halvard wrote the phase-four final report on the terminal and watched the unit status field. All indicators within parameters. The *Apothecarion* technician had flagged two Marines for extended follow-up — not as alert, as precaution. They were the correct precautions for the correct state types.
 
-The I Vexillatio was operational.
+The PRIMA was operational.
 
-Halvard killed the terminal light. Somewhere above him, two sectors and one hundred Vigil-years away, Lord Castellan Alaric von Helis ruled from an Adamant Throne without removing his armor. The Chapter functioned. The frontier held. And the I Vexillatio had left the field with six hundred three eliminated and seventeen dead and no new dishonor to add to the weight it already carried.
+Halvard killed the terminal light. Somewhere above him, two sectors and one hundred Vigil-years away, Lord Castellan Alaric von Helis ruled from an Adamant Throne without removing his armor. The Chapter functioned. The frontier held. And the PRIMA had left the field with six hundred three eliminated and seventeen dead and no new dishonor to add to the weight it already carried.
 
 It was not distinction.
 
@@ -120,4 +120,4 @@ Halvard slept the six regulatory hours without making room for more.
 
 ---
 
-*I Vexillatio operational file, ca. 099.M42. No special classification. Contents: standard post-campaign report, routine doctrinal protocol. No action worth note.*
+*PRIMA operational file, ca. 099.M42. No special classification. Contents: standard post-campaign report, routine doctrinal protocol. No action worth note.*

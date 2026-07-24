@@ -2,7 +2,7 @@
 
 **Status:** **Ratified** 2026-07-22 — Phase A capital ethnography (framework-first write; no prior `in-progress/` draft).  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding)  
-**Seat:** Vexillatio **VI** (*Sexta*) · Legatus: **Gervas Bifronte**  
+**Seat:** Vexilla **VI** (SEXTA) · Legatus: **Gervas Bifronte**  
 **Scope:** Mortal populi only — not full Vexilla doctrine. Chapter footprint via civilian habit until Phase B.  
 **Atlas / fork:** [system-ii-crucible.md](../systems/system-ii-crucible.md) · [worlds-crucible.md](worlds-crucible.md) § **Bifrons-Ferrum**  
 **Basal / Ecclesiarchy:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md) · [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · [ecclesiarchy-on-the-frontier.md](../../political-relations/ecclesiarchy-on-the-frontier.md)  
@@ -11,7 +11,7 @@
 **Local mortal sin (lock):** **asymmetric seal**  
 **Legatus public read (mortal):** ***Pater Murorum*** — Father of Walls; also Twin-Gate Warden on Guard billets and span gossip
 
-**VI *Sexta* bleed (ratified, separate file):** [`sexta-bifrons-ferrum-culture-bleed.md`](sexta-bifrons-ferrum-culture-bleed.md) · Legatus dossier (Chapter layer): [`../../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md`](../../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md)
+**SEXTA bleed (ratified, separate file):** [`SEXTA-bifrons-ferrum-culture-bleed.md`](sexta-bifrons-ferrum-culture-bleed.md) · Legatus dossier (Chapter layer): [`../../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md`](../../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md)
 
 **Sibling ethnographies (do not absorb):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md) · [ethnography-aethelgard-prime.md](ethnography-aethelgard-prime.md) · [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md)
 
@@ -336,9 +336,9 @@ Not a fourth class — same strata, different boss / holy object.
 
 ## 9. Related / deferred
 
-- **Phase B bleed file:** [`sexta-bifrons-ferrum-culture-bleed.md`](sexta-bifrons-ferrum-culture-bleed.md) (VI *Sexta* ↔ Bifrons-Ferrum) — **ratified**. Do not mix bleed doctrine into this Phase A body.  
-- **Wing periphery (Phase C):** [worlds-crucible.md](worlds-crucible.md) § **VI *Sexta* wing** — Logus Ring (oral salvage delta). Do not absorb Vitreus, Incus, or other Legatus seats.  
-- **Sibling seats:** Noviomagus (*Prima*), Castra-Vetera (*Secunda*), Khan-Bator (*Tertia*), Incus-Gravis (*Quarta*), Aethelgard (*Quinta*), Vitreus (*Septima*), Maleventum/Reef (*Octava*), Marco de Vetra (*Nona*) — **not** absorbed here.  
+- **Phase B bleed file:** [`SEXTA-bifrons-ferrum-culture-bleed.md`](sexta-bifrons-ferrum-culture-bleed.md) (SEXTA ↔ Bifrons-Ferrum) — **ratified**. Do not mix bleed doctrine into this Phase A body.  
+- **Wing periphery (Phase C):** [worlds-crucible.md](worlds-crucible.md) § **SEXTA wing** — Logus Ring (oral salvage delta). Do not absorb Vitreus, Incus, or other Legatus seats.  
+- **Sibling seats:** Noviomagus (PRIMA), Castra-Vetera (SECVNDA), Khan-Bator (TERTIA), Incus-Gravis (QVARTA), Aethelgard (QVINTA), Vitreus (SEPTIMA), Maleventum/Reef (OCTAVA), Marco de Vetra (NONA) — **not** absorbed here.  
 - **Vault texture note:** Castra-Vetera / Castra-Lupus vault *surface* (sealed approaches, inventory prestige, sustainment rumor) may color tomb districts; **not** fortress-monastery office law, *Depositorium* clinical filing, or *Reclusiam* crypt pipeline.
 
 ---

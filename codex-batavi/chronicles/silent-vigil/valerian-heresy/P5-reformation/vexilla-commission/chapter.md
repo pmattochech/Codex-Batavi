@@ -8,11 +8,11 @@
 
 *Beat lock:* Anti-concentration; specialty squad → Legatus pipeline.
 
-**Chronicle law:** two-power era until open break · **no** *Alabarda* vexilla I–IX during civil war · chronological blindness on artifact origin · ABNT dialogue when drafting.
+**Chronicle law:** two-power era until open break · **no** *Alabarda* vexilla PRIMA–NONA during civil war · chronological blindness on artifact origin · ABNT dialogue when drafting.
 
 **Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`../../../../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../../../../atlas-and-topography/castra-vetera-galactic-lock.md).
 
-**Precedent:** [prima-obligation](../prima-obligation/chapter.md)
+**Precedent:** [PRIMA-obligation](../prima-obligation/chapter.md)
 
 **Draft scaffold:** [SCAFFOLD.md](SCAFFOLD.md)
 

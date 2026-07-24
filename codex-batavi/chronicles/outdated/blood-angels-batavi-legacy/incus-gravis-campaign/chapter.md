@@ -152,7 +152,7 @@ Side by side, by strict mutual survival necessity, Baal’s noble angels and Nov
 
 It was at the epicenter of that grinder of flesh and plasteel that Commander Dante, operating with his line’s lethal grace, witnessed the terminal cost of Batavian steel.
 
-The Batavian **Haldor**, a veteran of the **10th Vexillation** (*Guard of the Anchor*, colloquially the Castellan’s *pack*), who had stood guard beside Alaric hours before, hit the limit of his organic elasticity. The succession of extreme kinetic stress, accumulated peripheral damage to the armor, and chiefly the corrupting psychic influence of the wound in the sky acted as the final chemical catalyst. **Inner Vigil** collapsed. The iron cage broke.
+The Batavian **Haldor**, a veteran of the **DECIMA** (*Guard of the Anchor*, colloquially the Castellan’s *pack*), who had stood guard beside Alaric hours before, hit the limit of his organic elasticity. The succession of extreme kinetic stress, accumulated peripheral damage to the armor, and chiefly the corrupting psychic influence of the wound in the sky acted as the final chemical catalyst. **Inner Vigil** collapsed. The iron cage broke.
 
 Dante, after hewing a heretic with his crimson power axe, froze at an unnatural sound. Not a cry of pain or battle fury. The dull, terrible noise of industrial ceramite cracking from within under impossible biological pressure.
 

@@ -72,7 +72,7 @@ RENAMES: list[tuple[str, str]] = [
 
     # ── arsenal (historical; current tree uses arsenal-and-logistics/ + English slugs) ──
     ("arsenal-and-logistics/intro-e-engenharia-padrao-noviomagus.md", "noviomagus-standard-engineering.md"),
-    ("arsenal-and-logistics/coorte-das-falanges-e-resumo-visual.md", "vexillationes-and-visual-summary.md"),
+    ("arsenal-and-logistics/coorte-das-falanges-e-resumo-visual.md", "vexilla-and-visual-summary.md"),
 
     # ── enciclopédia ───────────────────────────────────────────────────────
     ("biological-encyclopedia-bestiary/wiki-reliquia-biologica-viggo.md", "viggo-relic.md"),

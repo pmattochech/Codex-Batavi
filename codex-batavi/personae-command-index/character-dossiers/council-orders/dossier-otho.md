@@ -4,8 +4,8 @@
 
 **Rank:** Chief Librarian; Master of the *Librarium*.  
 **Chapter:** *Cohors Batavorum*.  
-**Operational home Vexillatio:** 10th *Decima* (supreme post — anchor guard lattice).  
-**Primary theater:** Noviomagus archives and fleet *Librarium* nodes; rotates with **Vexillationes** for certification audits.
+**Operational home Vexilla:** 10th DECIMA (supreme post — anchor guard lattice).  
+**Primary theater:** Noviomagus archives and fleet *Librarium* nodes; rotates with **Vexilla** for certification audits.
 
 **Visual reference (working — AI facsimile, not a geometry lock):** [`otho-chief-librarian.png`](../../../lore-images/otho-chief-librarian.png) — grey–crimson *Librarius* read, third-eye cluster; dossier §2–§3 for arms and doctrine.
 
@@ -16,7 +16,7 @@
 *Cold read.*
 
 * **Warp as instrument panel:** For Otho, the Immaterium is not myth; it is **entropy with statistics**. He does not shut down limbic fire the way some Chapters teach faith-void meditation — he **relabels** input until the Wolf’s Curse is under-fed on **affect**. Daemons and whispers are **named** as anomaly classes where doctrine allows, then handled like furnace telemetry: spikes, bleed, resonance bands. The aesthetic of horror is treated as **noise** to be filtered before it reaches the beast.  
-* **Haruspicium Batavorum:** Otho authored the mature form of the doctrine — the **geometric grid** imposed on Warp-sense, *Axioma Rationis* forcing chaos into coefficients, variables, and corrupted code strings. Embedded **Batavian Haruspices** (five per Vexillatio) are his distributed passive array; their output is **coordinates of moral and psychic failure** for the line, not theater lightning.  
+* **Haruspicium Batavorum:** Otho authored the mature form of the doctrine — the **geometric grid** imposed on Warp-sense, *Axioma Rationis* forcing chaos into coefficients, variables, and corrupted code strings. Embedded **Batavian Haruspices** (five per Vexilla) are his distributed passive array; their output is **coordinates of moral and psychic failure** for the line, not theater lightning.  
 * **Blindgate:** Where Haruspicium is **passive radar**, Blindgate is **active perimeter** on the mind: occlusion loops, command-code mantras, refusal to grant intruders **narrative purchase**. Otho trains haruspices to sever illusion and compulsion threads without mistaking the protocol for invulnerability.  
 * **Triumvirate adjacency:** He does not sit the Triumvirate — **Alaric**, **Drusus**, **Varro** do — but the Chapter’s psychic hygiene is a **three-legged stool** in practice: Otho (structured Immaterium read), **Drusus** (body and endocrine truth when the Grid slips), **Varro** (soul-language, rite law, *Reclusiam* veto). When all three align on compromise, the *Strategium* may order Warp **shutdown** regardless of intelligence cost.  
 * **Upstream Warp seat / downstream issuance:** At Chief Librarian resolution, Otho handles Immaterium phenomena that present as **truth-shaped coercion** — coherent **fragments**, not tidy genealogies. Batavian Haruspices inherit **Grid** discipline and **Blindgate** occlusion as **issued tooling**, not mandatory narrative theology. Full issuance model: [council-and-librarium.md](../../doctrine-and-organs/council-and-librarium.md) §5–§6.
@@ -43,7 +43,7 @@
 * **Drusus:** Professional symbiosis. When Haruspicium **holds**, Drusus sees quieter biomarkers; when it **breaks**, Drusus sees **Furor** and hemorrhage. Neither man treats the other’s layer as optional.  
 * **Varro:** Tension and respect. Varro names spiritual hazard; Otho names **immaterium topology**. Disputes are rare; when they occur, they are about **whether a rite or a grid closure** is the correct containment — not about whether containment is needed.  
 * **Kadmos:** Cordial **Extended Council** parity — Otho certifies *Haruspicium* readiness; Kadmos certifies *Machine Spirit* integrity. Joint audits on embarked **Geller**-adjacent systems are standing procedure.  
-* **Silent Vigil contingency interface (limited access):** Otho receives command-lock and psychic-threshold slices for anti-inversion protocol execution, without full matrix internals. His role is to classify coercive warp/noise states fast enough that Decima and forge-side executors can act without interpretive delay.  
+* **Silent Vigil contingency interface (limited access):** Otho receives command-lock and psychic-threshold slices for anti-inversion protocol execution, without full matrix internals. His role is to classify coercive warp/noise states fast enough that DECIMA and forge-side executors can act without interpretive delay.  
 * **Batavian Haruspices:** Otho is the **only** full architect of the doctrine; haruspices are **readers**, not improvisers. Promotion to *Librarium* seniority is tied to ability to teach the grid **without** poetic drift.
 
 ## 5\. \[WIKI\] RECORDED FEATS

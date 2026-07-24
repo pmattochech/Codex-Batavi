@@ -88,7 +88,7 @@ In the hours that followed, Strategium officers began doing something that looke
 
 They rewrote maps.
 
-Not the big maps with stars. The small maps: route overlays, anchor declarations, where *Prima* was "seated" on paper, which nodes were treated as homes, which nodes were treated as wounds you do not build shrines around.
+Not the big maps with stars. The small maps: route overlays, anchor declarations, where PRIMA was "seated" on paper, which nodes were treated as homes, which nodes were treated as wounds you do not build shrines around.
 
 They refused to let traitor geography remain a home.
 
@@ -100,7 +100,7 @@ Brann said:
 
 — They’ll put it on the forge world.
 
-He meant: they will re-seat *Prima* away from the rift mouth. They will make paper do what paper can do: declare a severance even if the blood remembers.
+He meant: they will re-seat PRIMA away from the rift mouth. They will make paper do what paper can do: declare a severance even if the blood remembers.
 
 I nodded.
 
@@ -148,4 +148,4 @@ That someone was me.
 
 ---
 
-**End of Witness (7 of 7)** · **Companion:** [Malakor V](../../valerian-heresy/P4-malakor/malakor-v/chapter.md) · **Main serial:** [decima-justice-vexillum](../../valerian-heresy/P5-reformation/decima-justice-vexillum/chapter.md)
+**End of Witness (7 of 7)** · **Companion:** [Malakor V](../../valerian-heresy/P4-malakor/malakor-v/chapter.md) · **Main serial:** [DECIMA-justice-vexillum](../../valerian-heresy/P5-reformation/decima-justice-vexillum/chapter.md)

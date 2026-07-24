@@ -2,8 +2,8 @@
 
 **Classification:** sealed validation chronicle — controlled anti-Alpha simulation  
 **When:** **~056.M42** (cycles after [`protocol-forged-in-iron/chapter.md`](protocol-forged-in-iron/chapter.md))  
-**Where:** Noviomagus Prime — Decima black range / Strategium simulation grid  
-**Who:** **Tyvar** (oversight), **Kadmos** (lock geometry), **Otho** (signal/noise control), Decima execution cadres, remote review by **Varro** and **Drusus**  
+**Where:** Noviomagus Prime — DECIMA black range / Strategium simulation grid  
+**Who:** **Tyvar** (oversight), **Kadmos** (lock geometry), **Otho** (signal/noise control), DECIMA execution cadres, remote review by **Varro** and **Drusus**  
 **Cross-references:** [`decima-gatekeepers/chapter.md`](decima-gatekeepers/chapter.md) · [`protocol-forged-in-iron/chapter.md`](protocol-forged-in-iron/chapter.md) · [`../../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md`](../../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md)
 
 ---
@@ -14,7 +14,7 @@ Every wall in it moved. Every lane could close without warning. Every marker tha
 
 Tyvar stood in the observation trench with no helm and no expression. Kadmos’s bronze arm was linked to the range lattice through a heavy cable the thickness of a forearm. Otho sat three stations down, eyes half-lidded, filtering simulation noise in real time so the drills hurt the right part of the mind.
 
-On the floor below, four Decima execution elements waited at assigned start marks.
+On the floor below, four DECIMA execution elements waited at assigned start marks.
 
 No banners.
 No prayer call.

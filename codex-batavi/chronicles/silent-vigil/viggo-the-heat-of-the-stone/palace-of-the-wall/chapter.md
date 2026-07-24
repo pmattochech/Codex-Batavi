@@ -3,14 +3,14 @@
 **Classification:** Triumvirate sealed — disciplinary/spiritual intervention  
 **When:** **~055.M42** (immediately after [`02-triumvirate-summons-breached.md`](02-triumvirate-summons-breached.md))  
 **Where:** Noviomagus Prime — Castellan palace sector  
-**Who:** **Varro**, **Drusus**, **Alaric von Helis**, on-duty *Decima* guards  
+**Who:** **Varro**, **Drusus**, **Alaric von Helis**, on-duty DECIMA guards  
 **Cross-references:** [`garmr-witness-dravic.md`](garmr-witness-dravic.md) · [`viggo-saga.md`](../seed-in-iron/chapter.md)
 
 ---
 
 The palace was built to absorb noise. Even armored boots sounded smaller inside it, as if the structure itself refused to amplify men.
 
-Decima guards lined the inner hall at regulation interval. Every visor followed Varro and Drusus as they crossed the threshold, then snapped forward again too quickly.
+DECIMA guards lined the inner hall at regulation interval. Every visor followed Varro and Drusus as they crossed the threshold, then snapped forward again too quickly.
 
 No one spoke.
 
@@ -42,7 +42,7 @@ Varro took one step closer.
 
 — You had command duty.
 
-The air in the hall tightened. Two Decima marines shifted weight without moving their boots.
+The air in the hall tightened. Two DECIMA marines shifted weight without moving their boots.
 
 Alaric’s helm angled toward Drusus for an instant, then back to Varro.
 
@@ -92,7 +92,7 @@ Alaric took one step forward.
 
 — I held the line. I kept your chapter breathing while you filed phrases in a vault.
 
-No one in Decima moved, but every visor was now fixed on the three of them.
+No one in DECIMA moved, but every visor was now fixed on the three of them.
 
 Varro reached over his shoulder and drew the Crozius in one smooth line.
 
@@ -115,7 +115,7 @@ Then Varro spoke, each word cold and exact.
 
 — Put yourself together, or the Black Cells will do that for you, mongrel.
 
-The line hit the hall like impact ordnance. One Decima guard flinched before discipline caught him.
+The line hit the hall like impact ordnance. One DECIMA guard flinched before discipline caught him.
 
 Alaric’s right hand twitched toward his hilt and stopped in the same motion.
 
@@ -188,7 +188,7 @@ For the first time, something close to a human exhale passed through Alaric’s 
 
 Varro turned toward the corridor.
 
-— Decima, stand easy.
+— DECIMA, stand easy.
 
 The guards did not relax much, but the strain left their shoulders by degrees.
 

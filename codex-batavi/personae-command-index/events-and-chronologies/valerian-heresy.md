@@ -1,6 +1,6 @@
 # VALERIAN HERESY (staff summary)
 
-**Tags:** #Valerius #MalakorV #Prima #CivilWar #CastraVetera #BrotherWar #PostCrucible
+**Tags:** #Valerius #MalakorV #PRIMA #CivilWar #CastraVetera #BrotherWar #PostCrucible
 
 **Status:** **Author scaffold (May 2026)** — supersedes prior staff filing that placed Malakor V at **~050.M42** and post-crucible rot at **~045–049.M42**. **Canonical prose** (`malakor-v`, Corbec subsaga) **not** silently rewritten until assigned pass. **Source of truth for retcon:** [`../../chronicles/silent-vigil/valerian-heresy/SCAFFOLD.md`](../../chronicles/silent-vigil/valerian-heresy/SCAFFOLD.md) · [`CHRONOLOGY.md`](../../chronicles/silent-vigil/valerian-heresy/CHRONOLOGY.md).
 
@@ -12,11 +12,11 @@
 
 ## 1. Summary
 
-The **Valerian Heresy** is the Chapter’s **brother civil war** — not a sudden infection arc, but **~40 Imperial years** of **two-power** mesh command (Castellan **Alaric** / First Legatus **Valerius**) while strength returns toward **~5,000** battle-brothers. **No *Alabarda* vexilla cloth** exists during the war — only **two hosts**. **Vexillationes I–IX** and *Decima* **justice vexillum** are **post-heresy** institutions: anti-concentration reform + specialty Legati grown from field squads.
+The **Valerian Heresy** is the Chapter’s **brother civil war** — not a sudden infection arc, but **~40 Imperial years** of **two-power** mesh command (Castellan **Alaric** / First Legatus **Valerius**) while strength returns toward **~5,000** battle-brothers. **No *Alabarda* vexilla cloth** exists during the war — only **two hosts**. **PRIMA–NONA** and DECIMA **justice vexillum** are **post-heresy** institutions: anti-concentration reform + specialty Legati grown from field squads.
 
 **Terminal crisis (~086.M42):** **Malakor V** — execution of **Valerius** (*Lupercal* / lucid **Versibar** / **Daemon Prince** ascent in endgame). Opens **Silent Vigil** (**~086–186.M42**). Loyal victory imposes **island debt**: Castra Vetera and mortal mesh **almost** (not quite) prioritized over open Administratum narrative — Witness Ford, Shared Sweat, receipt culture hardened.
 
-**Corbec Ardens** and a **small lawful core** = internal resistance inside rot-era *Prima*; post-Malakor → **Castellan vigil** (Contingency Axiom Lupus chain) — **not** distrust; **will not lose another great leader to a finished “why.”**
+**Corbec Ardens** and a **small lawful core** = internal resistance inside rot-era PRIMA; post-Malakor → **Castellan vigil** (Contingency Axiom Lupus chain) — **not** distrust; **will not lose another great leader to a finished “why.”**
 
 ---
 
@@ -75,7 +75,7 @@ Valerius’s private completion (paraphrase lock):
 | **2** | **~065–~080** | **Cold rot** — why? seed; credit wound; Chaos raids on Valerius cheek |
 | **3** | **~080–~085** | **Hot rot** — harvest theology; open break; lucid Versibar |
 | **4** | **~086** | **Malakor V** — climax; execution; **Silent Vigil begins** |
-| **5** | **~086–~092** | **Reformation** — stock crisis; *Prima* shame field; **vexilla commission** |
+| **5** | **~086–~092** | **Reformation** — stock crisis; PRIMA shame field; **vexilla commission** |
 | **6** | **~087–~088** | **Primaris** + **~5,000** ratification + ***Limes Lupus*** (after Malakor) |
 
 Detail: [`CHRONOLOGY.md`](../../chronicles/silent-vigil/valerian-heresy/CHRONOLOGY.md).
@@ -90,9 +90,9 @@ Detail: [`CHRONOLOGY.md`](../../chronicles/silent-vigil/valerian-heresy/CHRONOLO
 | Pre-Malakor peak (two-power era) | **~5,000** |
 | Post-Malakor active spine (order-of-magnitude) | **~1,000** brothers; **≤500** progenoid sets (or fewer) until **Primaris** pipeline |
 | Theater toll at Malakor | **~300** KIA / Versibar (mesh-wide; not “half Chapter”) |
-| Lawful *Prima* witness core | **small** (Corbec lattice + restricted identities) |
+| Lawful PRIMA witness core | **small** (Corbec lattice + restricted identities) |
 
-**Vexilla:** created **after** heresy — **never** during two-power war. **Field 4** register certifications for II–IX **post-date** with commission era (prior **048–140** filings in old chronology = **pending link sweep**).
+**Vexilla:** created **after** heresy — **never** during two-power war. **Field 4** register certifications for SECVNDA–NONA **post-date** with commission era (prior **048–140** filings in old chronology = **pending link sweep**).
 
 ---
 
@@ -112,10 +112,10 @@ Victory after **brother-war** → **debt** to mortals and mesh Valerius claimed 
 |-------|------|
 | Serial hub | [`INDEX.md`](../../chronicles/silent-vigil/valerian-heresy/INDEX.md) (**25** main chapters) |
 | Malakor climax | [`malakor-v/chapter.md`](../../chronicles/silent-vigil/valerian-heresy/P4-malakor/malakor-v/chapter.md) |
-| *Decima* justice vexillum | [`decima-justice-vexillum/chapter.md`](../../chronicles/silent-vigil/valerian-heresy/P5-reformation/decima-justice-vexillum/chapter.md) |
+| DECIMA justice vexillum | [`decima-justice-vexillum/chapter.md`](../../chronicles/silent-vigil/valerian-heresy/P5-reformation/decima-justice-vexillum/chapter.md) |
 | Corbec witness (adjacent) | [`corbec-ardens/INDEX.md`](../../chronicles/silent-vigil/corbec-ardens/INDEX.md) — **7** chapters, parallel subsaga |
 | Valerius dossier | [`dossier-valerius.md`](../character-dossiers/expunged/dossier-valerius.md) |
-| Register | [`register-decima-malakor-justice.md`](../../chronicles/vexillum-register/register-decima-malakor-justice.md) |
+| Register | [`register-DECIMA-malakor-justice.md`](../../chronicles/vexillum-register/register-decima-malakor-justice.md) |
 
 **Planned serial expansion:** see [`SCAFFOLD.md`](../../chronicles/silent-vigil/valerian-heresy/SCAFFOLD.md) §9 · **Saga map:** [`SAGA-MAP.md`](../../chronicles/silent-vigil/valerian-heresy/SAGA-MAP.md).
 
@@ -126,7 +126,7 @@ Victory after **brother-war** → **debt** to mortals and mesh Valerius claimed 
 - [ ] [`master-chronology.md`](master-chronology.md) §II–§IV date rail  
 - [ ] [`dossier-valerius.md`](../character-dossiers/expunged/dossier-valerius.md) §IV–V dates  
 - [ ] [`silent-vigil/README.md`](../../chronicles/silent-vigil/README.md) + subsaga INDEX date stamps  
-- [ ] [`vexilla-by-vexillatio-design.md`](../intro-and-heraldry/vexilla-by-vexillatio-design.md) — post-heresy commission note  
+- [ ] [`vexilla-by-vexilla-design.md`](../intro-and-heraldry/vexilla-by-vexilla-design.md) — post-heresy commission note  
 - [ ] `malakor-v` header dates + “forty-three years” line  
 - [ ] GLOSSARY / downstream **~050** references  
 

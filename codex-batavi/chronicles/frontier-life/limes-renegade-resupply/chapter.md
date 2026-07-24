@@ -4,7 +4,7 @@
 
 **When:** ***.M42*** (Silent Vigil; **pre-**175.M42 ***Nihili Protocol*** custody where it matters to border law)  
 **Where:** **Noviomagus Prime** — anchored void, high-orbit dock, ferrocrete spine to the forges  
-**Who:** Lord Castellan **Alaric von Helis**; **IX** *Nona*; **Silence** / **Shadow** cohort detachments; **X** *Decima* anchor; guest **Chapter of the Ash Standard** (name **struck** from all public registers **seventy-two** hours after the event; this file uses the label only as a narrative handle).  
+**Who:** Lord Castellan **Alaric von Helis**; **NONA**; **Silence** / **Shadow** cohort detachments; **DECIMA** anchor; guest **Chapter of the Ash Standard** (name **struck** from all public registers **seventy-two** hours after the event; this file uses the label only as a narrative handle).  
 **Cross-references:** [border-political-relations.md](../../../political-relations/border-political-relations.md) (indispensability / treaty blood); [military-hierarchy.md](../../../personae-command-index/doctrine-and-organs/military-hierarchy.md) (cohort grid); [pax-batavorum.md](../../../personae-command-index/doctrine-and-organs/pax-batavorum.md) (*Limes* obligation)
 
 ---
@@ -41,7 +41,7 @@ Deeper in the noosphere, **Magos-auxiliary Henrik Soll** held a *skin* the Mecha
 
 He logged **PATTERN FLAT (NONCONCLUSIVE / MONITOR)**. He nudged a *lean* weight to the *Strategium* shell — not a siren, not a *halt* order, only a heavier feather on scales already tipping, because a Magos who *screams* wolf early is a Magos the *Strategium* soon stops hearing even when the wolf is real *enough* to weigh a forgeworld in *teeth*, and a forgeworld that *misreads* a guest’s *silence* can pay for that misread in *vapor* and *tithe* the *Munitorum* will still file as *orderly* *loss*.
 
-**Brother-Sergeant Varik Orest** of the Fifth *Vexillatio* *Quinta* *liked* a rude guest, the way a man *likes* a problem he can *name* without having to *love* the problem’s face. Rudeness is *honest*; you can *plan* for *honest*; *courtesy* that dried *his* mouth was a different kind of *weather*, and the weather *wrong* in a *Limes* hour where a sergeant’s *job* is to keep a deck from mistaking a *Munitorum* “green” for a *benediction* just because a *Munitorum* lens is trained to *love* a civil stamp more than a true breath. The high dock, that morning, still carried the *bored* light the auspex would file as routine, the *bored* *Munitorum* hour the *Armourium* would file as *throughput*, and Orest did not trade in those fictions; he *measured* weight and *measured* eyes.
+**Brother-Sergeant Varik Orest** of the Fifth *Vexilla* QVINTA *liked* a rude guest, the way a man *likes* a problem he can *name* without having to *love* the problem’s face. Rudeness is *honest*; you can *plan* for *honest*; *courtesy* that dried *his* mouth was a different kind of *weather*, and the weather *wrong* in a *Limes* hour where a sergeant’s *job* is to keep a deck from mistaking a *Munitorum* “green” for a *benediction* just because a *Munitorum* lens is trained to *love* a civil stamp more than a true breath. The high dock, that morning, still carried the *bored* light the auspex would file as routine, the *bored* *Munitorum* hour the *Armourium* would file as *throughput*, and Orest did not trade in those fictions; he *measured* weight and *measured* eyes.
 
 His second, **Brother Morne**, murmured that the Ash *moved* as if the deck behind them had *teeth*, and Orest grunted that *naming* it thins the *wall* before a *Limes* hour distills *fear* into a *file* a register can *tithe* without blushing.
 
@@ -65,7 +65,7 @@ In the *Strategium* shell, **Varro** and **Drusus** did not *debate*; they *weig
 
 — I will not waste a captive mind on a guest I can drown in *ink*, — Varro returned — *yet* the *ink* is *already* *wet*.
 
-A relay crossed to the *Fifth*; the **Legatus of the *Quinta*** received no theatrics, only a *weight* *tick* and a *Strategium* *request* to *hold* *Vexillatio* lanes *uncrossed* until a Castellan *closed* a *mouth* *or* *opened* a *bore*.
+A relay crossed to the *Fifth*; the **Legatus of the QVINTA** received no theatrics, only a *weight* *tick* and a *Strategium* *request* to *hold* *Vexilla* lanes *uncrossed* until a Castellan *closed* a *mouth* *or* *opened* a *bore*.
 
 **Serun Orach** of the *Ash Standard* met Alaric in an antechamber sized for a billeting *throat*, not a throne room. Noviomagus does not *worship* a guest: it *measures* a guest, and a measurement is a colder intimacy than a confessional, because a confessional still feints toward a *soul* while a *Limes* gut feints first toward *bore* and clearance, toward the honest geometry of a throat that either fits a seal or does not. The light on Noviomagus that morning looked *bored* the way a forge looks bored when a workpiece is neither a victory nor a failure yet, only a piece a hammer must fit before it earns a *name*.
 
@@ -141,9 +141,9 @@ In the *Strategium* shell, **Varro** and **Drusus** did not *debate*; they *weig
 
 — I will not waste a captive mind on a guest I can drown in *ink*, — Varro returned — *yet* the *ink* is *already* *wet*.
 
-A relay crossed to the *Fifth*; the **Legatus of the *Quinta*** received no theatrics, only a *weight* *tick* and a *Strategium* *request* to *hold* *Vexillatio* lanes *uncrossed* until a Castellan *closed* a *mouth* *or* *opened* a *bore*.
+A relay crossed to the *Fifth*; the **Legatus of the QVINTA** received no theatrics, only a *weight* *tick* and a *Strategium* *request* to *hold* *Vexilla* lanes *uncrossed* until a Castellan *closed* a *mouth* *or* *opened* a *bore*.
 
-*IX* *Nona* *gave* *a* *courteous* *hail* the *way* a *node* *gives* a *courteous* *hail* *when* it *asks* a *name* to *be* *answered* *without* a *theater* *Munitorum* *lenses* *can* *sell* to *Terra*'s* *distant* *deputies* as a *Limes* *breeze* that is *only* *weather* *until* a *Crown* *tastes* a *Limes* *gut* the way a *bore* *tastes* a *rivet* and *discovers* a *Limes* *breeze* *can* *be* a *mouth* *too*. *The* *answer* *was* *not* *the* *crackle* a *bureaucracy* *calls* *jam*; *jam* is *a* *coincidence* *a* *clerk* *can* *sigh* *over* *dressed* *as* *wiring* *failure*.
+*IX* NONA *gave* *a* *courteous* *hail* the *way* a *node* *gives* a *courteous* *hail* *when* it *asks* a *name* to *be* *answered* *without* a *theater* *Munitorum* *lenses* *can* *sell* to *Terra*'s* *distant* *deputies* as a *Limes* *breeze* that is *only* *weather* *until* a *Crown* *tastes* a *Limes* *gut* the way a *bore* *tastes* a *rivet* and *discovers* a *Limes* *breeze* *can* *be* a *mouth* *too*. *The* *answer* *was* *not* *the* *crackle* a *bureaucracy* *calls* *jam*; *jam* is *a* *coincidence* *a* *clerk* *can* *sigh* *over* *dressed* *as* *wiring* *failure*.
 
 *A* *sealed* *packet* *moved* *on* the *Falange* of *Nine* *mesh* — *three* *by* *three*, a *tourism* of *grids* *Crown* *chancelleries* *love* *on* parchments *Noviomagus* *billets* *as* *a* *throat* the *Munitorum* *row* *must* *count* *honestly* *before* a *Vermilion* *annex* *nicks* a *Limes* *tongue* and *Crown* *arithmetic* *learns* a *Limes* *gut* the way a *bore* *keeps* a *rivet* *tight* *until* a *seal* *fails* *or* a *fist* *tightens* *first*.
 
@@ -155,7 +155,7 @@ A relay crossed to the *Fifth*; the **Legatus of the *Quinta*** received no thea
 
 They stopped where the forges returned heat to the air the way a bored blade returns warmth to a palm: honest, without flattery, without absolution. Below, the *caldron* floor moved in its own slow weather — cranes, sparks, the bass note of hammers kept off camera by distance but never off the bone. Up here the Administratum could have staged a postcard for a billeting *year*: *tolerance* in good light, throughput filed as a *Munitorum* hour, *Armourium* arithmetic smiling in the private language of tonnage. The railing carried vibration you could mistake for life if you had never watched a dock learn the difference between *green* on an auspex and truth in *Limes* gut. Alaric did not lean out for the view. He used the pause the way a sergeant uses a cordon — not to rest, to read a throat while it still believed it was only breathing weather.
 
-The Batavi escort stayed where escorts stay on guest days: near enough to be friction, far enough not to be theater. Their presence was not *security* staged for a register; it was weight on a scale Orach could feel without needing to count faces. Beyond the mesh, somewhere in the *Falange* of *Nine* grind of grids and seals, relays still crawled — **PATTERN FLAT**, **CARN** paired with **Soll**, *IX Nona* answering names without drama — facts that did not belong in this conversation and therefore shaped it anyway, the way tide shapes a harbor even when captains speak only of paperwork.
+The Batavi escort stayed where escorts stay on guest days: near enough to be friction, far enough not to be theater. Their presence was not *security* staged for a register; it was weight on a scale Orach could feel without needing to count faces. Beyond the mesh, somewhere in the *Falange* of *Nine* grind of grids and seals, relays still crawled — **PATTERN FLAT**, **CARN** paired with **Soll**, *NONA answering names without drama — facts that did not belong in this conversation and therefore shaped it anyway, the way tide shapes a harbor even when captains speak only of paperwork.
 
 **Serun Orach** was a mouth lent a rank, not a king. A mouth can remain civil the way a stamp remains civil until the debt behind it is named. He opened with gratitude because gratitude is cheap armor: throughput, prompt berths, the professionalism of Noviomagus dockhands — each sentence accurate enough to pass a clerk’s skim and hollow enough to hide what accuracy was for. Alaric answered in monosyllables where monosyllables still counted as courtesy. He did not offer encouragement. Encouragement is what you give when you want a man to believe tomorrow will forgive today; on a *Limes* day tomorrow is another jurisdiction’s fiction.
 
@@ -189,7 +189,7 @@ Orest checked the guests first. He did not look for weapons. He looked for impat
 
 **Cray** had been the impatient one since the first nod — nameplate clipped, manners over-corrected. Cray’s helm turned toward the refuel boom and away again, a small mechanical dart of attention that meant *exit* before it meant *task*. The Ash did not move like dockhands. They moved like men who had rehearsed a route in darkness.
 
-Orest’s vox crackled with the kind of order the *Quinta* preferred: no sermon, no flourish, only a line made audible.
+Orest’s vox crackled with the kind of order the QVINTA preferred: no sermon, no flourish, only a line made audible.
 
 — Lanes remain uncrossed. — He did not raise his voice. He did not need to. — Anyone who crosses buys the correction.
 
@@ -205,7 +205,7 @@ He tasted the day’s logic without naming it. The *Strategium* did not send poe
 
 Across the deck, **Silence** arrived as the absence of extra words.
 
-You did not see Silence as a squad the way you see *Decima*. You noticed that open vox channels thinned to work-order grammar, that dockhands stopped saying each other’s names, that a joke died in a throat before it became sound. You noticed that the polite noise of a guest ship stopped being flattering and started being *flat* in a way that felt wrong under the skin.
+You did not see Silence as a squad the way you see DECIMA. You noticed that open vox channels thinned to work-order grammar, that dockhands stopped saying each other’s names, that a joke died in a throat before it became sound. You noticed that the polite noise of a guest ship stopped being flattering and started being *flat* in a way that felt wrong under the skin.
 
 Orest felt it as a tightening in his own voice. He found himself speaking in shorter phrases. Even his breaths seemed counted, as if the air were being measured for contamination.
 
@@ -253,11 +253,11 @@ Somewhere above, the order that mattered did not sound like an order.
 
 It sounded like **Alaric von Helis** speaking a sentence that did not need emotion to carry weight.
 
-— Silence. Shadow. *Decima*. — The Castellan’s voice on the secure channel was as dry as a work-order. — Hold.
+— Silence. Shadow. DECIMA. — The Castellan’s voice on the secure channel was as dry as a work-order. — Hold.
 
 Orest did not feel inspired. He felt *aligned*. Inspiration is a mortal luxury. Alignment is what keeps transhuman bodies from becoming myths.
 
-Then *Decima* arrived where guests could not pretend they had misunderstood.
+Then DECIMA arrived where guests could not pretend they had misunderstood.
 
 The justice vexillum did not come with a choir. It came with the rhythm of boots that did not hurry. A bearer line moved like a bore being set: one step, one breath, each footfall a quiet stamp on the deck’s authority. The cloth itself looked wrong in dock light — too stark, too judicial — like a sentence carried in fabric so it could be seen from any angle.
 
@@ -521,7 +521,7 @@ He kept his eyes on the hatches anyway.
 
 **Silence** and **Shadow** did not celebrate on an open channel.
 
-They did what they do after a cordon hardens: they stripped drama from the noosphere until only *routing* remained — clean enough for *IX Nona* to answer without theater, lean enough for logs to stop pretending *flat* was a compliment.
+They did what they do after a cordon hardens: they stripped drama from the noosphere until only *routing* remained — clean enough for *NONA to answer without theater, lean enough for logs to stop pretending *flat* was a compliment.
 
 **Varro** and **Drusus** did not argue the strike in public.
 

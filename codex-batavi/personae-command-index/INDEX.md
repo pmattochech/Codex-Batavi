@@ -2,13 +2,13 @@
 
 ## registers
 
-- [chapter-organization.md](chapter-organization.md) — **official** Chapter organization record (PDF section structure; **Vexillatio** terminology)
-- [named-characters-register.md](named-characters-register.md) — all named figures (dossier + major chronicle); **IV *Quarta* Legatus gap** flagged
+- [chapter-organization.md](chapter-organization.md) — **official** Chapter organization record (PDF section structure; **Vexilla** terminology)
+- [named-characters-register.md](named-characters-register.md) — all named figures (dossier + major chronicle); **QVARTA Legatus gap** flagged
 
 ## intro-and-heraldry
 
 - [intro-and-heraldry.md](intro-and-heraldry/chapter-identity.md) — title, myth, and heraldry summary
-- [vexilla-by-vexillatio-design.md](intro-and-heraldry/vexilla-by-vexillatio-design.md) — *Alabarda* four-field register; *Prima* obligation §2.2; *Decima* justice vexillum §4
+- [vexilla-by-vexilla-design.md](intro-and-heraldry/vexilla-by-vexilla-design.md) — *Alabarda* four-field register; PRIMA obligation §2.2; DECIMA justice vexillum §4
 
 ## doctrine-and-organs
 
@@ -31,7 +31,7 @@
 
 ### plans
 
-- [vexillatio-named-characters-plan.md](character-dossiers/plans/vexillatio-named-characters-plan.md) — backlog worksheet: one named figure per *Prima*–*Decima* (status matrix + dossier stub)
+- [vexilla-named-characters-plan.md](character-dossiers/plans/vexilla-named-characters-plan.md) — backlog worksheet: one named figure per PRIMA–DECIMA (status matrix + dossier stub)
 
 ### triumvirate
 
@@ -46,22 +46,22 @@
 
 ### legati
 
-- [dossier-corbec-ardens.md](character-dossiers/legati/dossier-corbec-ardens.md) — Legatus, 1st *Prima* (Noviomagus Prime)
-- [dossier-henric-kessler.md](character-dossiers/legati/dossier-henric-kessler.md) — Legatus, 2nd *Secunda* (Castra-Vetera Prime)
-- [dossier-theron-brach.md](character-dossiers/legati/dossier-theron-brach.md) — Legatus, 3rd *Tertia* (Khan-Bator Prime)
-- [dossier-orin-valestrand.md](character-dossiers/legati/dossier-orin-valestrand.md) — Legatus, 4th *Quarta* (Incus-Gravis sphere)
-- [dossier-armin-sturmwahl.md](character-dossiers/legati/dossier-armin-sturmwahl.md) — Legatus, 5th *Quinta* (Aethelgard Prime)
-- [dossier-gervas-bifronte.md](character-dossiers/legati/dossier-gervas-bifronte.md) — Legatus, 6th *Sexta* (Bifrons-Ferrum); Chapter **Siege Master**, ***Maior Caementarius*** / ***Pater Murorum***
-- [dossier-lucan-phaetron.md](character-dossiers/legati/dossier-lucan-phaetron.md) — Legatus, 7th *Septima* (Vitreus)
-- [dossier-ivar-malevent.md](character-dossiers/legati/dossier-ivar-malevent.md) — Legatus, 8th *Octava* (Great Reef / Maleventum)
-- [dossier-cassian-vetra.md](character-dossiers/legati/dossier-cassian-vetra.md) — Legatus, 9th *Nona* (Marco de Vetra)
+- [dossier-corbec-ardens.md](character-dossiers/legati/dossier-corbec-ardens.md) — Legatus, 1st PRIMA (Noviomagus Prime)
+- [dossier-henric-kessler.md](character-dossiers/legati/dossier-henric-kessler.md) — Legatus, 2nd SECVNDA (Castra-Vetera Prime)
+- [dossier-theron-brach.md](character-dossiers/legati/dossier-theron-brach.md) — Legatus, 3rd TERTIA (Khan-Bator Prime)
+- [dossier-orin-valestrand.md](character-dossiers/legati/dossier-orin-valestrand.md) — Legatus, 4th QVARTA (Incus-Gravis sphere)
+- [dossier-armin-sturmwahl.md](character-dossiers/legati/dossier-armin-sturmwahl.md) — Legatus, 5th QVINTA (Aethelgard Prime)
+- [dossier-gervas-bifronte.md](character-dossiers/legati/dossier-gervas-bifronte.md) — Legatus, 6th SEXTA (Bifrons-Ferrum); Chapter **Siege Master**, ***Maior Caementarius*** / ***Pater Murorum***
+- [dossier-lucan-phaetron.md](character-dossiers/legati/dossier-lucan-phaetron.md) — Legatus, 7th SEPTIMA (Vitreus)
+- [dossier-ivar-malevent.md](character-dossiers/legati/dossier-ivar-malevent.md) — Legatus, 8th OCTAVA (Great Reef / Maleventum)
+- [dossier-cassian-vetra.md](character-dossiers/legati/dossier-cassian-vetra.md) — Legatus, 9th NONA (Marco de Vetra)
 
 ### cohorts-and-detachments
 
 - [dossier-branimir.md](character-dossiers/cohorts-and-detachments/dossier-branimir.md) — Silence Cohort (*Decanus Primus* Branimir Vorhalt)
 - [dossier-soren-riis.md](character-dossiers/cohorts-and-detachments/dossier-soren-riis.md) — Apothecary; Liaison-Praefect (Deathwatch / *Medicinae*)
-- [dossier-markus-graile.md](character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) — Captain, 10th *Decima* (anchor guard / instructor face)
-- [dossier-valens-ritter.md](character-dossiers/cohorts-and-detachments/dossier-valens-ritter.md) — **Valens Ritter** — Silence + Shadows dual-path (folklore: *Silent Shadow* / *Two-Path Wolf*); ledger *Prima*, spend *Octava*
+- [dossier-markus-graile.md](character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) — Captain, 10th DECIMA (anchor guard / instructor face)
+- [dossier-valens-ritter.md](character-dossiers/cohorts-and-detachments/dossier-valens-ritter.md) — **Valens Ritter** — Silence + Shadows dual-path (folklore: *Silent Shadow* / *Two-Path Wolf*); ledger PRIMA, spend OCTAVA
 - [dossier-einar-dreadwolf.md](character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) — **Einar Dreadwolf** — **The Lost** (*Amissi*); **KIA 168.M42** — [amissi-the-lost.md](doctrine-and-organs/amissi-the-lost.md)
 - [dossier-radulf-castrin.md](character-dossiers/cohorts-and-detachments/dossier-radulf-castrin.md) — **Radulf Castrin**, **The Old Wolf** (Leviathan) — mentor / merit rites / siege line; entombment **TBD**
 

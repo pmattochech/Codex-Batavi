@@ -15,7 +15,7 @@
 |-------|------|
 | **~M42** | ~058 *(timestamp sweep pending)* |
 | **Quarter** | P1 — Wapenbroeders |
-| **Theater** | *Prima* / Strategium procedure office |
+| **Theater** | PRIMA / Strategium procedure office |
 | **POV** | Clerk + Corbec introduction (procedure, not subsaga voice) |
 
 ## Thesis
@@ -27,7 +27,7 @@
 - **Not** Corbec subsaga POV prose — filing scene
 - Witness = prevent rumor becoming doctrine
 - Corbec as line brother assigned
-- *Prima* stain not yet public
+- PRIMA stain not yet public
 - Link forward to witness subsaga without duplicating Malakor week
 
 ## Scene spine (draft targets)

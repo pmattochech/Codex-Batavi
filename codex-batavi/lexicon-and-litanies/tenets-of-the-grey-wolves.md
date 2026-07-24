@@ -18,7 +18,7 @@ Faith register: **oath**, **Throne-weight**, **Ancestor-Sovereign** — the divi
 |-------|------|
 | **Faith Protocol** | *The Emperor dictates, we comply.* |
 | **Iron Protocol** | *We hold.* |
-| ***Quinta* cadence** (assault / Aethelgard) | *We hold, as the Needles hold the cold tide.* |
+| **QVINTA cadence** (assault / Aethelgard) | *We hold, as the Needles hold the cold tide.* |
 
 ---
 

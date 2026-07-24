@@ -1,8 +1,8 @@
-# AFTER-ACTION REPORT — March defense (IV *Quarta* register)
+# AFTER-ACTION REPORT — March defense (QVARTA register)
 
 **Operation:** RUHE (static line — Tyranid contact)  
 **Date:** 048.M42  
-**Unit:** **IV** *Quarta* (primary holding element; adjacent elements per *Strategium* trace)  
+**Unit:** **QVARTA** (primary holding element; adjacent elements per *Strategium* trace)  
 **Classification:** Chapter — biological / tactical annex
 
 **Full chronicle:** [ruhe-defense.md](../vexillum-chronicles/ruhe-defense/chapter.md)
@@ -19,7 +19,7 @@
 
 ## 3. Execution
 
-**IV** *Quarta* **anchored** — **heavy bolt rifles**, **missile** teams, **storm shield** locks on **choke** crests. Movement **minimized**; **gravitic boot** discipline enforced **hourly** (Legatus order — fatigue casualties unacceptable vs. **void** collapse).
+**QVARTA** **anchored** — **heavy bolt rifles**, **missile** teams, **storm shield** locks on **choke** crests. Movement **minimized**; **gravitic boot** discipline enforced **hourly** (Legatus order — fatigue casualties unacceptable vs. **void** collapse).
 
 March of the Machine state (perfect-soldier **detachment** under veil) documented by *Medicinae* — **not** repeated in this AAR; see [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §III and [spiritus-broken-silence.md](../biologis-spiritus-foundation/spiritus-broken-silence/chapter.md).
 
@@ -31,6 +31,6 @@ Severe — **within** *Strategium* **acceptable** envelope for **buying** **orbi
 
 ## 5. *Strategium* certification (field 4)
 
-**IV** *Quarta* **field 4** commemorates **static** **hold** under **Tyranid** **veil** — the **reference** *March of the Machine*-geometry **line** for **high-G** **siege** culture.
+**QVARTA** **field 4** commemorates **static** **hold** under **Tyranid** **veil** — the **reference** *March of the Machine*-geometry **line** for **high-G** **siege** culture.
 
 **Chronology:** [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §III.

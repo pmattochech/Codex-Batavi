@@ -26,7 +26,7 @@ One `---` under header, then **continuous novel prose** — no internal `## I.` 
 
 | Topic | Rule |
 |-------|------|
-| **Vexilla** | **No** I–IX *Alabarda* cloth during P0–P4 civil war |
+| **Vexilla** | **No** PRIMA–NONA *Alabarda* cloth during P0–P4 civil war |
 | **Fall** | Credit wound + **why?** — not possession rewriting loyalty |
 | **Horus seal** | **Once** in P3 `lupercal-hour` — unnamed in register |
 | **Versibar / DP** | Valerius endgame only — not mid-era Furor |
@@ -42,7 +42,7 @@ One `---` under header, then **continuous novel prose** — no internal `## I.` 
 |------|--------|
 | Rot chapters (P0–P3) | **~200–260** lines when mature — bridge chapters may run shorter if time-compression is explicit |
 | Malakor (P4) | **~200+** — witness lattice already at depth |
-| Reformation (P5) | **~150–220** — register voice allowed in *Decima* / obligation chapters |
+| Reformation (P5) | **~150–220** — register voice allowed in DECIMA / obligation chapters |
 
 Each chapter should land **one irreversible filed fact** the next chapter can depend on.
 

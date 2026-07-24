@@ -17,8 +17,8 @@ The Triumvirate’s answer is the same core equation as everywhere else: **indis
 * **Friction Geometry in *Zone Mortalis*:** Tyranid boardings, Necron tomb corridors, genestealer hives — the Batavi default to **static kill-math**, **testudo discipline**, and **Analytical Silence** that does not feed the swarm emotional noise (see **March of the Machine** edge harness in void boardings where relevant).  
 * **Industrial siege mindset:** Breach-and-hold on xenos megastructures matches **Stasis** and **Siege**-division training more than parade *Codex* assault.  
 * **Counter-infiltration:** **Silence Cohort**-trained brothers (or veterans carrying that certification) are occasionally requested for **cult / hybrid** theaters where “pattern, not paranoia” is the brief. The Chapter treats these requests as **high-risk political** — success is shared; failure would be blamed on “wolf-marked” operators.  
-* **Primaris battlefield mass:** Where the Watch must hold a beachhead until relief, a **Gravis-heavy** or **heavy-intercessor** detachment from **Vexillatio VI**-linked certification is sometimes named in *Armourium*–Watch correspondence (modal, not standing treaty text).
-* **Steppenwolf overlap:** Some brothers are **Triumvirate-filed** as **perpetual Watch** operators — detached from home **Vexillatio** for **biological–operational stability**, returning on schedule for Chapter **brief** and **Rites of Participation and Regulation** — not a *Watch cycle* shortcut for career gates unless *Strategium* certifies closure per §4.1. See [steppenwolf-doctrine.md](../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md).
+* **Primaris battlefield mass:** Where the Watch must hold a beachhead until relief, a **Gravis-heavy** or **heavy-intercessor** detachment from **SEXTA**-linked certification is sometimes named in *Armourium*–Watch correspondence (modal, not standing treaty text).
+* **Steppenwolf overlap:** Some brothers are **Triumvirate-filed** as **perpetual Watch** operators — detached from home **Vexilla** for **biological–operational stability**, returning on schedule for Chapter **brief** and **Rites of Participation and Regulation** — not a *Watch cycle* shortcut for career gates unless *Strategium* certifies closure per §4.1. See [steppenwolf-doctrine.md](../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md).
 
 ---
 
@@ -35,7 +35,7 @@ The Triumvirate’s answer is the same core equation as everywhere else: **indis
 
 These are **Chapter law** for Deathwatch service unless the Triumvirate issues a written exception:
 
-1. **Rotation and throughput (two tracks):** For **general** line Marines not on Legatus or *Decima* tracks, rotation remains **voluntary** and **capped** — sized to **mission need**, not Watch appetite; the *Strategium* refuses **standing permanent** “tithe” without time limits. For Marines **flagged** for **Legatus** succession or **Vexillatio X** (*Decima*) admission, *Strategium* **schedules** a **qualifying deployment**; that cycle is **mandatory** for eligibility (see **Career law** below). **Steppenwolf exception (numbers):** brothers on the **Triumvirate detached registry** ([steppenwolf-doctrine.md](../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md)) are **not** counted against the **standard capped rotation pool** that governs those rules; their **Watch headcount** is **budgeted separately** under the Watch–Chapter appendix (perpetual / long-secondment rows).  
+1. **Rotation and throughput (two tracks):** For **general** line Marines not on Legatus or DECIMA tracks, rotation remains **voluntary** and **capped** — sized to **mission need**, not Watch appetite; the *Strategium* refuses **standing permanent** “tithe” without time limits. For Marines **flagged** for **Legatus** succession or **DECIMA** (DECIMA) admission, *Strategium* **schedules** a **qualifying deployment**; that cycle is **mandatory** for eligibility (see **Career law** below). **Steppenwolf exception (numbers):** brothers on the **Triumvirate detached registry** ([steppenwolf-doctrine.md](../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md)) are **not** counted against the **standard capped rotation pool** that governs those rules; their **Watch headcount** is **budgeted separately** under the Watch–Chapter appendix (perpetual / long-secondment rows).  
 2. **Apothecary gate:** *Medicinae* clears **Furor**, chimeric predisposition stability, and **Versibar** exclusion. Disclosure packets and Watch handshakes run through the **Liaison-Praefect** (*Pactum Clavis Sanguinis* — §5). No **Stage 3** (**Versibar**) Marine may be offered; **Execratio** survivors are **Chapter strategic assets**, not Watch commodities.  
 3. **Witness clause preserved:** Where the Watch refuses an Inquisitorial or **Administratum** witness, the Chapter **defaults to no** — or negotiates a **substitute observer** (e.g. **Arbites** magistrate, **Custodes**-adjacent protocol where treaty allows).  
 4. **Return and debrief:** Returning brothers pass **clinical** and **Reclusiam** audit (Varro’s office) for **warp exposure**, **xenos psychoactive residue**, and **discipline drift**. Data useful to the Watch is **sanitized** before any wider sharing.  
@@ -52,11 +52,11 @@ A **certified *Watch cycle*** satisfies **all** of:
 
 The **Liaison-Praefect** (or Drusus-deputized scribe) files the **certification tile** on the Marine’s aptitude chain. Partial deployments, liaison-only duty, or **supreme-post** service **do not** substitute for a brother’s **field** cycle unless **Triumvirate** records a **unanimous** written exception in *Vermilion*.
 
-### 4.2 Career law — Legatus and *Decima* (decree ***ca.* 051.M42**, post–Valerius)
+### 4.2 Career law — Legatus and DECIMA (decree ***ca.* 051.M42**, post–Valerius)
 
 * **Origin:** The rule **did not exist** under **Valerius**, First Legatus (015–050.M42). It was imposed **after** his **elimination** and expungement (**Malakor V, 050.M42**) — *Strategium* response to a Legatus-tier fracture the old lattice had not foreseen. **Codification** is logged ***ca.* 051.M42**; see [dossier-valerius.md](../personae-command-index/character-dossiers/expunged/dossier-valerius.md).  
-* **Legatus:** No **new** appointment to **Legatus / Elder-Master** without **≥1** certified *Watch cycle*. Incumbents who held the *Alabarda* **before the 051.M42 decree** retain post; replacements must qualify. *Alabarda* vexillum **register** (four fields; *Prima* obligation doctrine §2.2): [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md). See [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.  
-* **Vexillatio X:** Every battle-brother in *Decima* **except** the five **supreme posts** (Lord Castellan, Chief Apothecary, Master Chaplain, Master of the Forge, Chief Librarian) **must** have **≥1** certified *Watch cycle* before **final** admission. Brothers **already rostered** in *Decima* when the **051.M42** decree took effect fall under ***clausula retentionis antecedentis*** — the **legacy-lattice clause**: they **retain** lawful standing **without** retroactive Watch service; **every admission** after the seal must certify **(1)**.  
+* **Legatus:** No **new** appointment to **Legatus / Elder-Master** without **≥1** certified *Watch cycle*. Incumbents who held the *Alabarda* **before the 051.M42 decree** retain post; replacements must qualify. *Alabarda* vexillum **register** (four fields; PRIMA obligation doctrine §2.2): [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md). See [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.  
+* **DECIMA:** Every battle-brother in DECIMA **except** the five **supreme posts** (Lord Castellan, Chief Apothecary, Master Chaplain, Master of the Forge, Chief Librarian) **must** have **≥1** certified *Watch cycle* before **final** admission. Brothers **already rostered** in DECIMA when the **051.M42** decree took effect fall under ***clausula retentionis antecedentis*** — the **legacy-lattice clause**: they **retain** lawful standing **without** retroactive Watch service; **every admission** after the seal must certify **(1)**.  
 * **Rationale (Triumvirate register):** A governor of 500 or an anchor-guard **blade** must prove they can **mesh alien gears** — allied Chapters, Inquisitorial eyes, xenos tempo — without dissolving Batavi discipline. After **Malakor V**, that proof became **non-optional**. The Watch is the **cheap forge** for it.  
 * **Why not retroactive:** Stripping posts or **dragging** established commanders backward through the Watch would **break the line** mid-campaign — the same fracture geometry **Valerius** proved lethal. The decree **binds the future**, not as punishment for the **past**. *Strategium* scribes file that logic beside the clause; field officers sometimes gloss it in **Low Gothic** as “**pre-decree incumbency**.”
 
@@ -80,10 +80,10 @@ Watch medicine and *Medicinae* do not merge; they **handshake** under a written 
 
 ### 5.1 Chapter-side office
 
-**Liaison-Praefect (Deathwatch correspondence)** — a senior Apothecary **appointed by Chief Apothecary Drusus**, not elected by Vexillatio popularity. The office rotates **which Apothecary** holds the title (terms set by *Medicinae*), but **one** named brother is always the **vox-primary** for Watch *Apothecarion* traffic, debrief nodes, and disclosure packets.
+**Liaison-Praefect (Deathwatch correspondence)** — a senior Apothecary **appointed by Chief Apothecary Drusus**, not elected by Vexilla popularity. The office rotates **which Apothecary** holds the title (terms set by *Medicinae*), but **one** named brother is always the **vox-primary** for Watch *Apothecarion* traffic, debrief nodes, and disclosure packets.
 
 * **Current bearer:** **Apothecary Soren Riis** — see [dossier-soren-riis.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-soren-riis.md).  
-* **Billet fiction:** Riis is **filed** under **Vexillatio I** (*Prima*) for Administratum neatness; his duty is **Chapter-wide** and he travels to agreed **debrief anchors** (Noviomagus, neutral stations, escorted Watch facilities). He does **not** take a permanent Watch fortress posting; absence is **temporary** and he remains on Chapter strength tallies.  
+* **Billet fiction:** Riis is **filed** under **PRIMA** (PRIMA) for Administratum neatness; his duty is **Chapter-wide** and he travels to agreed **debrief anchors** (Noviomagus, neutral stations, escorted Watch facilities). He does **not** take a permanent Watch fortress posting; absence is **temporary** and he remains on Chapter strength tallies.  
 * **Authority:** Speaks for *Medicinae* on **clearance**, **sedation chemistry**, **xenos biohazard triage** shared with Watch, and **what Watch scanners are allowed to see** in a Batavi’s biologis feed.
 
 ### 5.2 Watch-side counterpart
@@ -120,11 +120,11 @@ Riis (or his delegated *Medicinae* scribe) **personally** downgrades any Watch r
 
 *Strategium* files rotations as logistics; **experience** is narrower and heavier.
 
-**Severance, not exile.** The departing Marine keeps **oath** to the Emperor and **gene-debt** to the Wall, but his **daily geometry** detaches from **Vexillatio** rhythm — different *vox* cadence, alien **kill-signatures**, allies who **stare** at grey plate and **wolf-mark** whispers. *Analytical Silence* becomes **armor** against questions he is forbidden to answer fully.
+**Severance, not exile.** The departing Marine keeps **oath** to the Emperor and **gene-debt** to the Wall, but his **daily geometry** detaches from **Vexilla** rhythm — different *vox* cadence, alien **kill-signatures**, allies who **stare** at grey plate and **wolf-mark** whispers. *Analytical Silence* becomes **armor** against questions he is forbidden to answer fully.
 
 **The body as contested ground.** Tiered disclosure means Watch medicae **touch** what *Medicinae* still owns. Many Batavi experience that as **clinical invasion** tolerated only because **Riis’s seal** says the hands are **leased**, not **sold**.
 
-**Career double edge.** For **officer tracks**, the Watch is **no adventure** — it is a **gate tax** after Malakor V. For **volunteers**, it can read as **prestige** or **escape** from a Vexillatio grind; either way, return proves they did not **dissolve** into Wild Hunt camaraderie with outsiders.
+**Career double edge.** For **officer tracks**, the Watch is **no adventure** — it is a **gate tax** after Malakor V. For **volunteers**, it can read as **prestige** or **escape** from a Vexilla grind; either way, return proves they did not **dissolve** into Wild Hunt camaraderie with outsiders.
 
 **Return.** A clean audit restores **file** identity, not always **felt** belonging. Corridor gossip may treat the returnee as **proved** — or as **touched** by Ordo politics. The Chapter does not **mythologize** the Watch; it **logs** it. What the Marine **does** with that loneliness is his *Axiom* load.
 
@@ -133,9 +133,9 @@ Riis (or his delegated *Medicinae* scribe) **personally** downgrades any Watch r
 ## 8. Related
 
 - [steppenwolf-doctrine.md](../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) — perpetual Watch / detached brothers; not Deathwatch-exclusive  
-- [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) — Legatus / *Decima* prerequisites (§3); 5,000 ceiling  
+- [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) — Legatus / DECIMA prerequisites (§3); 5,000 ceiling  
 - [dossier-soren-riis.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-soren-riis.md) — Liaison-Praefect (Deathwatch)  
 - [dossier-drusus.md](../personae-command-index/character-dossiers/triumvirate/dossier-drusus.md) — Chief Apothecary / *Medicinae*  
 - [inquisition-geometry.md](inquisition-geometry.md) — Holy Ordos umbrella  
 - [border-political-relations.md](border-political-relations.md) — institutional doctrine  
-- [vexillatio-operational-armory.md](../arsenal-and-logistics/vexillatio-operational-armory.md) — modal specialties (VI, VIII, cohort skills)
+- [vexilla-operational-armory.md](../arsenal-and-logistics/vexilla-operational-armory.md) — modal specialties (VI, VIII, cohort skills)

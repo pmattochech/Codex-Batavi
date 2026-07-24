@@ -4,7 +4,7 @@
 **Imperial filing:** ~048.M42 *(secondary; CV annals primary)*  
 **Classification:** *Vermilion* / Triumvirate eyes  
 **Reporter:** Chief Apothecary Drusus, Lord of the *Castrum Medicae*  
-**Object of study:** **IV** *Quarta* (4th Cohort) · limbic collapse under **Shadow in the Warp**
+**Object of study:** **QVARTA** (4th Cohort) · limbic collapse under **Shadow in the Warp**
 
 **Geography lock:** **Insula Tenebrarum** · **Noviomagus Secundus** (industrial mining body, Castra Vetera mesh) — primary forge **Noviomagus Prime** on separate filing — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Tyranid contact = **fleet-scale** *Hive Mind* veil — **not** lone Genestealer cult geometry ([`projection-aurea-wolfs-curse.md`](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) §A).
 
@@ -24,7 +24,7 @@ I did not understand the **void**.
 
 Two years after the South Wall burned green, Leviathan shadow touched the mesh edge. Bio-ships did not darken Noviomagus Prime first. They fell on **Secundus** — the mining body where ore theology outranked cathedral height, where permacrete catacombs ran like arteries under stripped industrial crust.
 
-**IV** *Quarta* — eight hundred brothers I had walked beside through calmer wars — descended into those arteries to purge synapse nodes before the hive could root.
+**QVARTA** — eight hundred brothers I had walked beside through calmer wars — descended into those arteries to purge synapse nodes before the hive could root.
 
 I remained in the *Strategium Medicae*, ten kilometers above the front line, linked to their biometric *auspex* net. Distance is supposed to grant clarity. That day it granted **horror at resolution**.
 

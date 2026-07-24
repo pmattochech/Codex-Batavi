@@ -2,7 +2,7 @@
 
 **Classification:** Chapter tactical narrative — *Vermilion* adjunct (Judex witness; **not** *Alabarda* field 4)  
 **When:** **168.M42** — Luna Sigma, Noviomagus system (Battle of Sigma Moon)  
-**Unit:** **The Lost** (*Amissi*) — **Lieutenant Einar Dreadwolf**; **Varro** (Judex, direct authority); **Legatus Armin Sturmwahl** (attached *Quinta* element, not chain-of-command)  
+**Unit:** **The Lost** (*Amissi*) — **Lieutenant Einar Dreadwolf**; **Varro** (Judex, direct authority); **Legatus Armin Sturmwahl** (attached QVINTA element, not chain-of-command)  
 **Companion:** [battle-of-sigma-moon/chapter.md](../sigma-moon/battle-of-sigma-moon/chapter.md) §III–IV (Castellan duel) · prior arc: [kzorns-maw/chapter.md](../kzorns-maw/chapter.md) · [red-tide/chapter.md](../red-tide/chapter.md)
 
 ---
@@ -11,7 +11,7 @@
 
 Luna Sigma had no civilians worth the name — only convicts, servitors, and soldiers who had learned to sleep beside ore crushers. When Otho’s *Apex* warning closed the Warp channels, the moon became a ledger page waiting for ink.
 
-**Armin Sturmwahl** brought **V** *Quinta* in on the First Vexillatio’s outer ring — not to hold the Castellan’s line, but to **cut World Eaters geometry** before it learned how to breathe without mass. Forty meters from **Varro**, who stood where rear command could still see the ferrocrete without pretending to see the Warp.
+**Armin Sturmwahl** brought **QVINTA** in on the First Vexilla’s outer ring — not to hold the Castellan’s line, but to **cut World Eaters geometry** before it learned how to breathe without mass. Forty meters from **Varro**, who stood where rear command could still see the ferrocrete without pretending to see the Warp.
 
 The World Eaters did not arrive as a fleet with manners. They arrived as **pressure** — chainaxe rhythm, boltless charges, the compulsion of the Massacre written into skull iron. Batavi ranks answered with short bursts and gladius finishes, the way Noviomagus taught: no duel, only invoice.
 
@@ -59,7 +59,7 @@ The champion screamed and came for the Judex. Varro’s *Crozius* answered in **
 
 ## IV. AFTER THE PRIMARCH
 
-Angron descended minutes later. Alaric walked to meet him. **V** *Quinta* was pulled into the evacuation vectors Varro held when seven Furor marines tried to advance on the Castellan’s duel.
+Angron descended minutes later. Alaric walked to meet him. **QVINTA** was pulled into the evacuation vectors Varro held when seven Furor marines tried to advance on the Castellan’s duel.
 
 **Einar Dreadwolf** was not on the stretcher list.
 
@@ -67,7 +67,7 @@ Drusus’s recovery teams found the *Amissi* armor profile at the storage spine 
 
 Armin stood in the gunboat bay while Luna Sigma shrank on the auspex.
 
-He did not speak the ***Quinta* cadence** aloud. Varro had already heard it at Moraine-Nine; hearing it again would have been for comfort, and comfort was not a weapon the Legatus spent in front of the Judex.
+He did not speak the **QVINTA cadence** aloud. Varro had already heard it at Moraine-Nine; hearing it again would have been for comfort, and comfort was not a weapon the Legatus spent in front of the Judex.
 
 He touched his fist to his chest once — the same salute Einar had given when the cull blade rose at Moraine-Nine — and turned to the next vector.
 

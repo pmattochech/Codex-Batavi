@@ -12,7 +12,7 @@
 
 That week the *Segmentum* authorized passage for a **crusade fist** of Black Templars — three gunships, frigate escorts, and at the center the ancient standard of **High Marshal Helbrecht**. The Imperial mission was generic enough to fit half a scroll line: *faith reinforcement in the Pacificus shadow*; the real mission, everyone knew, was to **show the fist** where the Astronomican failed.
 
-Alaric von Helis did not board the Templar ship. He received Helbrecht in the **transit chamber** of the patrolling Vexillatio’s anchor orbital bastion — an adamantium box without windows, lit by hololiths that drew the ford and marsh approach like a longitudinal artery cut. The Lord Castellan stood, *Castra-Lupus* sealed, wolf helm fixed on the map. There was no crusade-cousin greeting. There was **mutual armor recognition**.
+Alaric von Helis did not board the Templar ship. He received Helbrecht in the **transit chamber** of the patrolling Vexilla’s anchor orbital bastion — an adamantium box without windows, lit by hololiths that drew the ford and marsh approach like a longitudinal artery cut. The Lord Castellan stood, *Castra-Lupus* sealed, wolf helm fixed on the map. There was no crusade-cousin greeting. There was **mutual armor recognition**.
 
 — The Ford does not open from pity — said Alaric. The voice ran so low the room’s sensors boosted a decibel for human attendants. — It opens from geometry. You bring fire. I bring the wall. Do not confuse the two.
 
@@ -30,7 +30,7 @@ Warning did not come as declared heresy. It came as **mass pressure**: edge sens
 
 Alaric did not move his fist to a weapon.
 
-— We hold the ford — he said to the Vexillatio’s open *vox* and, by extension, to Helbrecht’s channel. — *We hold.*
+— We hold the ford — he said to the Vexilla’s open *vox* and, by extension, to Helbrecht’s channel. — *We hold.*
 
 The Black Templars needed no invitation to kill.
 
@@ -84,4 +84,4 @@ They had traded **the only coin that survives in the *Nihilus***: proof each kne
 
 ---
 
-**Cross-reference:** [wolf-daughter/chapter.md](../../outdated/elara-iron-venus/iron-venus/wolf-daughter/chapter.md) (165.M42, *The Wooden Sword* — **OUTDATED**). [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV. **VIII** *Octava* lens: [witness-ford-octava.md](../vexillum-chronicles/witness-ford-octava/chapter.md).
+**Cross-reference:** [wolf-daughter/chapter.md](../../outdated/elara-iron-venus/iron-venus/wolf-daughter/chapter.md) (165.M42, *The Wooden Sword* — **OUTDATED**). [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV. **OCTAVA** lens: [witness-ford-octava.md](../vexillum-chronicles/witness-ford-octava/chapter.md).

@@ -3,7 +3,7 @@
 **Classification:** *Vermilion* adjunct — capture testimony (precedes recovery narrative)  
 **When:** **074.M42** (Silent Vigil; days before Moraine-Nine crash)  
 **Where:** **Shepherd’s Hook** tide relay → **Kzorn’s Maw** (World Eaters prison hulk) → crash toward **Moraine-Nine** feral hemisphere  
-**Who:** **Lieutenant Einar** (*Quinta* capture squad — twelve brothers, eleven mercy-killed aboard ship)
+**Who:** **Lieutenant Einar** (QVINTA capture squad — twelve brothers, eleven mercy-killed aboard ship)
 
 **Companion (recovery):** [red-tide/chapter.md](../red-tide/chapter.md) · **Cross-references:** [dossier-einar-dreadwolf.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [aar-vex-v-dreadwolf-red-tide.md](../../vexillum-register/aar-vex-v-dreadwolf-red-tide.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV
 
@@ -23,11 +23,11 @@ The incursion did not give him the chance to keep that belief.
 
 Khorne-leaning bleed through the relay lattice was not a full breach — not yet — but enough to make corridors **honest** about violence: bulkheads sweating rust-colored condensation, vox carrying laughter that was not Ork and not human, auspex painting heat where no promethium burned. **World Eaters** came with the bleed — not a grand warband parade, a **butcher’s** detachment escorting a prison hulk whose registry the Batavi would later read as **Kzorn’s Maw**.
 
-Twelve *Quinta* brothers. Names that would become sacks on *Brine Ledger*: **Stenmark, Torsten, Brand, Rurik, Voss, Wold, Yorik, Grimvard, Leif, Sigvard, Hakon** — and **Einar**, lieutenant, oldest in pride if not in rank.
+Twelve QVINTA brothers. Names that would become sacks on *Brine Ledger*: **Stenmark, Torsten, Brand, Rurik, Voss, Wold, Yorik, Grimvard, Leif, Sigvard, Hakon** — and **Einar**, lieutenant, oldest in pride if not in rank.
 
 They held eleven hours.
 
-Then the Hook **failed** the way tide structures fail — not all at once, in **invoices**: a door that should have sealed; a kill-team channel that went thick; **Torsten**’s vox cutting mid-count. When the World Eaters entered the last junction, the squad still fought as *Quinta* — chainsword and bolt, vertical habits applied to horizontal hell — but capture was already written in the geometry. You could read it in the way **Brand**’s ammo tally stopped updating.
+Then the Hook **failed** the way tide structures fail — not all at once, in **invoices**: a door that should have sealed; a kill-team channel that went thick; **Torsten**’s vox cutting mid-count. When the World Eaters entered the last junction, the squad still fought as QVINTA — chainsword and bolt, vertical habits applied to horizontal hell — but capture was already written in the geometry. You could read it in the way **Brand**’s ammo tally stopped updating.
 
 ---
 

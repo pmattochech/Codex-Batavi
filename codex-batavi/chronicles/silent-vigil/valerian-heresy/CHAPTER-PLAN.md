@@ -58,7 +58,7 @@
 
 | # | Slug | Beat |
 |---|------|------|
-| 21 | `decima-justice-vexillum` | Justice cloth — **draft** |
+| 21 | `DECIMA-justice-vexillum` | Justice cloth — **draft** |
 | 22–25 | *(see INDEX)* | Obligation → island debt |
 
 ---

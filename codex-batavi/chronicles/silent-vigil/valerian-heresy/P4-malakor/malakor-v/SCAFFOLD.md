@@ -46,7 +46,7 @@ Shared-tactics **hook** closes; apex **why?** / wall vs tide; execution not conv
 
 - Apex dialogue lock
 - No vexilla
-- I Prima rot language — retcon aware
+- PRIMA rot language — retcon aware
 
 ## Voice / craft
 
@@ -55,7 +55,7 @@ Shared-tactics **hook** closes; apex **why?** / wall vs tide; execution not conv
 ## Chain
 
 - **Precedent scaffold:** [lupercal-hour](../lupercal-hour/SCAFFOLD.md)
-- **Next scaffold:** [decima-justice-vexillum](../decima-justice-vexillum/SCAFFOLD.md)
+- **Next scaffold:** [DECIMA-justice-vexillum](../decima-justice-vexillum/SCAFFOLD.md)
 - **Parallel read:** **∥** [`corbec-ardens`](../../corbec-ardens/INDEX.md) witness subsaga (7 chapters)
 
 ## Depth target

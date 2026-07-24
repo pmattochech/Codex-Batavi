@@ -14,7 +14,7 @@ Doctrine’s foundation is reshaping terrain — specifically civilian and indus
 
 In the open field, Friction Geometry appears as rigid formations and **Analytical Silence**.
 
-* **Closed testudo:** Marines fight shoulder to shoulder, often using large rectangular shields (*scuta*) magnetically locked to one another, forming a mobile ceramite wall (classical formation; do not confuse with the organic unit **Vexillatio**).  
+* **Closed testudo:** Marines fight shoulder to shoulder, often using large rectangular shields (*scuta*) magnetically locked to one another, forming a mobile ceramite wall (classical formation; do not confuse with the organic unit **Vexilla**).  
 * **The last-man line:** Symbolically shown on standards, there is a line of “no retreat.” Doctrine states that if the enemy advances one meter beyond the calculated limit, Batavi must retake that meter or die on it, backs to the “Romulus line” (the sacred limit).
 
 ## 3. INDIVIDUAL COMBAT: THE “SECOND BLADE” DOCTRINE
@@ -33,8 +33,8 @@ This strategy’s difference from other Imperial doctrines is cost-benefit focus
 
 ## 5. MESH FORTIFICATION (SIEGE MASTER)
 
-**Office:** **Gervas Bifronte**, Legatus of **VI *Sexta***, holds Chapter-wide authority as **Siege Master**, ***Maior Caementarius*** (**Greater Mason**), and ***Pater Murorum*** (**Father of Walls**) — supreme drafting on **static defense** and **capital fortress** geometry across the **Nine Phalanx**, without superseding Legati in battle command.
+**Office:** **Gervas Bifronte**, Legatus of **SEXTA**, holds Chapter-wide authority as **Siege Master**, ***Maior Caementarius*** (**Greater Mason**), and ***Pater Murorum*** (**Father of Walls**) — supreme drafting on **static defense** and **capital fortress** geometry across the **Nine Phalanx**, without superseding Legati in battle command.
 
-* **Legati forge councils:** Theater-native fort plans at each Legatus seat — industrial (*Prima*), measured-fire (*Secunda*), chem-thermal (*Tertia*), high-G (*Quarta*), assault-release (*Quinta*), twin-gate vaults (*Sexta*), plasma containment (*Septima*), void interlock (*Octava*), relay denial (*Nona*) — one Chapter grammar, nine operational faces. Detail: [`dossier-gervas-bifronte.md`](../character-dossiers/legati/dossier-gervas-bifronte.md) §3.2.  
+* **Legati forge councils:** Theater-native fort plans at each Legatus seat — industrial (PRIMA), measured-fire (SECVNDA), chem-thermal (TERTIA), high-G (QVARTA), assault-release (QVINTA), twin-gate vaults (SEXTA), plasma containment (SEPTIMA), void interlock (OCTAVA), relay denial (NONA) — one Chapter grammar, nine operational faces. Detail: [`dossier-gervas-bifronte.md`](../character-dossiers/legati/dossier-gervas-bifronte.md) §3.2.  
 * **Castellan audit:** Lord Castellan **Alaric** receives **Bifronte’s audit** — unreconciled weak meters and unarmed redundancy lanes — before major mesh seals.  
 * **Iron Warriors counter-siege:** Redundancy mesh (§1) was **blood-certified** during the **Cage of Bifrons** (*Ferrum Cage*, ~092–098.M42) and climaxed at **Korvus twin breach** — sealed register names **Iron Warriors**; public scrolls stay **undifferentiated heretic Astartes**.

@@ -52,7 +52,7 @@ Summarized from [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-b
 |--------|------|
 | **Early predatory recognition** — faster threat loop. | **Misreads** diplomacy / deceit unless *Axiom* reins it. |
 | **Objective fixation** — grinds problems until solved. | **Won’t disengage** when orders demand; fixation **days** without override. |
-| **Vexillatio territorial threshold** — instant protect reflex for sector/brothers. | **Acts before justification** post-hoc. |
+| **Vexilla territorial threshold** — instant protect reflex for sector/brothers. | **Acts before justification** post-hoc. |
 | Combat: **high-efficiency predatory focus**; claws **pierce ceramite** (sustained). | **Post-combat** = **highest instability**; **trimming / pain**; *Axiom* = **continuous work**. |
 | Veterans: **functional respect** for reads forged under cost. | **Red hands** — visible forever. |
 
@@ -102,7 +102,7 @@ Summary:
 
 - **Exanimus-only** “Primaris-like” **field** read for **Firstborn**; **no** niche theft at **Furor** or baseline line.
 - **Primaris:** slower climb into the curse (buffers / baseline); **worse** emotional–behavioral envelope **once** Exanimus **locks**.
-- ***Decima* only:** **median** stability claim for **IX** *Decima* **Firstboot** Exanimus vs **Primaris** — not every vexillatio; **exceptions** allowed.
+- **DECIMA only:** **median** stability claim for **IX** DECIMA **Firstboot** Exanimus vs **Primaris** — not every Vexilla; **exceptions** allowed.
 
 ---
 
@@ -110,7 +110,7 @@ Summary:
 
 - [x] [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — Firstborn vs Primaris Exanimus; Valerian **Adversarii** note (this pass).
 - [ ] Triumvirate dossiers — **Varro / Drusus** psychology vs **Alaric** patriarch load ([`dossier-varro.md`](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [`dossier-drusus.md`](../personae-command-index/character-dossiers/triumvirate/dossier-drusus.md) · [`dossier-alaric.md`](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md)).
-- [ ] [`chassis-and-armor-catalog.md`](../arsenal-and-logistics/chassis-and-armor-catalog.md) / [`vexillatio-operational-armory.md`](../arsenal-and-logistics/vexillatio-operational-armory.md) — Firstborn vs Primaris era kit.
+- [ ] [`chassis-and-armor-catalog.md`](../arsenal-and-logistics/chassis-and-armor-catalog.md) / [`vexilla-operational-armory.md`](../arsenal-and-logistics/vexilla-operational-armory.md) — Firstborn vs Primaris era kit.
 - [ ] [`master-chronology.md`](../personae-command-index/events-and-chronologies/master-chronology.md) — first reinforcement milestone **flush with** Foundation War terminus; **Valerian** casualty row if not already synced everywhere.
 - [x] [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md) — population / Valerian / **Adversarii** bullets (merged).
 

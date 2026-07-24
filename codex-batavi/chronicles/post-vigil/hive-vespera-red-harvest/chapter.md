@@ -3,7 +3,7 @@
 **Classification:** post-Silent Vigil punitive chronicle — Noviomagus internal secession purge  
 **When:** **~189.M42** (mature post-Vigil era)  
 **Where:** Noviomagus Prime — Hive Vespera  
-**Who:** **Alaric von Helis** (noble-caste severance and house judgment), **Corbec Ardens** with **full I Prima** — line companies and specialized cohorts (**Silence**, **Shadows**, **Stasis**, **Nullity**) — lower-hive purge geometry, **Adeptus Arbites** (Marshal Acastian Vhal, Judge-Militant Serix) attached to **both** task columns, city population and noble houses of Vespera  
+**Who:** **Alaric von Helis** (noble-caste severance and house judgment), **Corbec Ardens** with **full PRIMA* — line companies and specialized cohorts (**Silence**, **Shadows**, **Stasis**, **Nullity**) — lower-hive purge geometry, **Adeptus Arbites** (Marshal Acastian Vhal, Judge-Militant Serix) attached to **both** task columns, city population and noble houses of Vespera  
 **Cross-references:** [ferrum-secondus-wolf-ledger.md](ferrum-secondus-wolf-ledger/chapter.md) *(precursor ~183.M42)* · [../silent-vigil/proof-of-chain/chapter.md](../silent-vigil/proof-of-chain/chapter.md) · [../silent-vigil/post-voices-legatus-ring/chapter.md](../silent-vigil/post-voices-legatus-ring/chapter.md) · [`contingency-axiom-lupus.md`](../../../personae-command-index/doctrine-and-organs/contingency-axiom-lupus.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §VI (~**189.M42**)
 
 **Geography lock:** **Insula Tenebrarum** · **Noviomagus Prime** (Chapter seat / forge-world) — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). Internal purge — not frontier theater. **Loyalty doctrine:** personal devotion to command personae ≠ legal loyalty to Terra (Marshal Vhal addendum).
@@ -63,7 +63,7 @@ Line command received a sequence cold enough to read like machine law: isolate, 
 
 The geometry split at signature:
 
-**Corbec Ardens** took **all of Prima** — line battle companies and every specialized cohort under *Prima*’s lattice — plus Arbites shock cadres for the **lower hive**: rabble, stewards, guild militias, barricade war, labor capture, and the red work in manufactoria and hab trenches.
+**Corbec Ardens** took **all of PRIMA** — line battle companies and every specialized cohort under PRIMA’s lattice — plus Arbites shock cadres for the **lower hive**: rabble, stewards, guild militias, barricade war, labor capture, and the red work in manufactoria and hab trenches.
 
 **Alaric** took a narrow column — Arbites Judge-Militant teams, Mechanicus conversion liaison, custody clerks — for the **upper spire tiers and house compounds** alone: negotiation theater, house heads, minor nobility, familiars, and household servants who had failed to denounce their masters.
 
@@ -71,7 +71,7 @@ The briefing included evidence bundles recovered from Vespera’s own data vault
 
 A **Stasis** binder — gunmetal tabs on tram and choke maps — rated **hold geometry**: which barricade faces would fold in twelve seconds, which freight mouths could take a mutant tide, which bridge spans could not flex without snapping a labor lane. Corbec assigned **forty** gunmetal brothers to the horizontal war before the first barricade burned.
 
-A **Nullity** folio — cobalt ribbon, *Librarium* seal beside each page — charted **witch-signatures** in Vespera’s shrine warrens: unsanctioned psykers hidden from Tithe inspection, latent choirs fed by house chaplains, plaster dust that had begun to crawl on auspex stills, and a primary spike the Haruspices labeled **Kethmar-bled** until the house name was struck from public law. Corbec assigned **twenty** cobalt brothers and **five** embedded **Batavian Haruspices** under *Prima*’s Nullity–*Haruspicium* liaison channel. No bolt without clearance.
+A **Nullity** folio — cobalt ribbon, *Librarium* seal beside each page — charted **witch-signatures** in Vespera’s shrine warrens: unsanctioned psykers hidden from Tithe inspection, latent choirs fed by house chaplains, plaster dust that had begun to crawl on auspex stills, and a primary spike the Haruspices labeled **Kethmar-bled** until the house name was struck from public law. Corbec assigned **twenty** cobalt brothers and **five** embedded **Batavian Haruspices** under PRIMA’s Nullity–*Haruspicium* liaison channel. No bolt without clearance.
 
 A separate **Silence** annex — ivory-tabbed, *Medicinae*-adjacent handwriting on the cover — catalogued **pattern debt**: ventilation-vault assembly times matched to pay-cycle drops; foremen whose gait signatures appeared in six districts under different names; tutors whose lesson-card revisions shared one ink-chemistry trace with house archivists. None of it was chaotic. That made it worse. Corbec read the annex twice and assigned **fifty** ivory brothers before the first gate sealed.
 
@@ -106,9 +106,9 @@ The operation began before dawn-cycle under forge-cloud, when Vespera’s upper 
 
 From orbit, the assault looked less like war than like maintenance. Traffic lanes blinked from green to locked red in concentric rings. Elevator trunks stopped at synchronized heights. Heat signatures in key plazas were boxed by moving walls of disciplined steel while the rest of the hive still believed it had a full morning left before consequence — or, in the lower decks, believed the morning belonged to **him**, and that the locks were ceremonial until the Castellan showed his face and claimed what they had prepared in his name.
 
-Corbec ran the **full Prima** command lattice from the rear synchronization node — line companies and specialized cohorts unmasked for internal purge, Arbites shock cadres slaved to each breach wave. Alaric did not walk the magistrate avenue. While Corbec’s steel descended, the Castellan climbed by secured lift trunk toward the house spires with Judge-Militant Serix’s writ teams and conversion liaison already moving on separate schedules.
+Corbec ran the **full PRIMA** command lattice from the rear synchronization node — line companies and specialized cohorts unmasked for internal purge, Arbites shock cadres slaved to each breach wave. Alaric did not walk the magistrate avenue. While Corbec’s steel descended, the Castellan climbed by secured lift trunk toward the house spires with Judge-Militant Serix’s writ teams and conversion liaison already moving on separate schedules.
 
-Prima sealed arterial gates, cut outbound cargo, and severed relay spires with heavy precision fire. Line battle companies entered the civic core where unofficial councils had met under the painted faces of old machine saints. Cohort detachments peeled off by task, not by vanity:
+PRIMA sealed arterial gates, cut outbound cargo, and severed relay spires with heavy precision fire. Line battle companies entered the civic core where unofficial councils had met under the painted faces of old machine saints. Cohort detachments peeled off by task, not by vanity:
 
 **Silence** — the **throat**: ration markets, tram mouths, ventilation vaults, any choke where speech could become crowd.
 
@@ -118,7 +118,7 @@ Prima sealed arterial gates, cut outbound cargo, and severed relay spires with h
 
 **Nullity** — the **poisoned air**: shrine warrens, witch-signatures, latent choirs — no bolt without Haruspic clearance.
 
-Arbites shock columns advanced in the wake of each Prima breach line, black armor under Lex banners, sealing each combat gain into enforceable sentence territory. Where ivory had already tagged a mouth, the shock troopers arrived to **sign** what Silence had read.
+Arbites shock columns advanced in the wake of each PRIMA breach line, black armor under Lex banners, sealing each combat gain into enforceable sentence territory. Where ivory had already tagged a mouth, the shock troopers arrived to **sign** what Silence had read.
 
 The chronicle files what follows by **phase** and **cohort**, because Vespera’s purge was one lattice with four specialized teeth and a line that only fired what the slate had already named.
 
@@ -128,7 +128,7 @@ The chronicle files what follows by **phase** and **cohort**, because Vespera’
 
 ### Corbec and the line
 
-Corbec walked the central magistrate avenue without haste, grey armor carrying *Prima*’s orange lens wash through ash and alarm light. He did not issue speeches through open vox. He issued vectors.
+Corbec walked the central magistrate avenue without haste, grey armor carrying PRIMA’s orange lens wash through ash and alarm light. He did not issue speeches through open vox. He issued vectors.
 
 — Third lane, lock.
 — Atrium six, burn the archive.
@@ -138,11 +138,11 @@ Every command arrived like a gate closing.
 
 Line officers and cohort sergeants repeated those vectors without embellishment. In Batavi channels, words were not used to inspire. They were used to remove uncertainty. By the time the third relay wave cleared, every sub-unit in the kill grid knew exactly which lanes were for neutralization, which were for extraction, and which were for labor capture.
 
-The first civic vox tower that attempted a "citizen regency declaration" survived long enough to transmit nine words before Prima siege fire cut the mast at the joint and dropped six stories of relay steel into the crowd cheering below.
+The first civic vox tower that attempted a "citizen regency declaration" survived long enough to transmit nine words before PRIMA siege fire cut the mast at the joint and dropped six stories of relay steel into the crowd cheering below.
 
 They had been cheering **for** Alaric.
 
-When grey armor appeared on the magistrate feed in the same hour — *Prima* marks, not a Castellan’s solitary spear — the sound in the plaza changed. Not battle cry. Not yet surrender. The raw disbelief of people who had been told the Wall would **side** with Vespera against Terra and had instead met a full Vexillatio’s kill geometry. Some threw themselves flat with painted wolf cloth still in their hands. Others stood frozen long enough to be logged as auxiliaries. A woman in apron-steel was seen beating her fists against a tram pillar, screaming Alaric’s name as if volume could rewind the bolts Corbec’s lattice had already issued. The crowd ran red through dust and sparks, and whatever speech had been planned for that hour dissolved into static and the first honest understanding that **no** king had come home — only law, in steel.
+When grey armor appeared on the magistrate feed in the same hour — PRIMA marks, not a Castellan’s solitary spear — the sound in the plaza changed. Not battle cry. Not yet surrender. The raw disbelief of people who had been told the Wall would **side** with Vespera against Terra and had instead met a full Vexilla’s kill geometry. Some threw themselves flat with painted wolf cloth still in their hands. Others stood frozen long enough to be logged as auxiliaries. A woman in apron-steel was seen beating her fists against a tram pillar, screaming Alaric’s name as if volume could rewind the bolts Corbec’s lattice had already issued. The crowd ran red through dust and sparks, and whatever speech had been planned for that hour dissolved into static and the first honest understanding that **no** king had come home — only law, in steel.
 
 ### Silence
 
@@ -150,7 +150,7 @@ In the hab trenches below that tower, the same static kept crackling for nearly 
 
 Silence did not fire into the static. They **listened**. Emergency code mixed with fragments of the failed declaration; beneath it, a steward’s voice coaching a child’s chorus to sing Alaric’s name on shift change. Silence triangulated the harmonic — not sorcery, **routing** — and sent Arbites to the maintenance closet behind Hab Tier Six. Inside: a portable vox rig, three prayer sheets with civic devotion formulas, and a tutor who had stitched secession into lesson cards. He was taken alive because alive still had ledger names on his tongue. The children were routed to processing queues with labor indices, not to mercy speeches.
 
-At the civic statues, stewards tried to route civilians into symbolic mass gatherings, still betting that mass adoration would stay Astartes hands. Ivory was already there in service plate where the crowd expected only grey — pauldrons dulled under soot cloaks, auspex wands hidden in tool belts, brothers posing as shift inspectors long enough to mark which faces were **local** and which were **paid**. When Prima broke the gatherings by corridor segmentation and non-negotiable dispersal timing, the tags were already on the stewards’ collars. Line companies closed the pockets; Silence took the tagged mouths alive or dead before the crowd could turn grief into a second sermon. Those who moved lived into processing queues. Those who held banners instead of obeying route orders were logged as active auxiliaries to secession and removed with the same efficiency as armed cadres.
+At the civic statues, stewards tried to route civilians into symbolic mass gatherings, still betting that mass adoration would stay Astartes hands. Ivory was already there in service plate where the crowd expected only grey — pauldrons dulled under soot cloaks, auspex wands hidden in tool belts, brothers posing as shift inspectors long enough to mark which faces were **local** and which were **paid**. When PRIMA broke the gatherings by corridor segmentation and non-negotiable dispersal timing, the tags were already on the stewards’ collars. Line companies closed the pockets; Silence took the tagged mouths alive or dead before the crowd could turn grief into a second sermon. Those who moved lived into processing queues. Those who held banners instead of obeying route orders were logged as active auxiliaries to secession and removed with the same efficiency as armed cadres.
 
 A woman in shift-leader blues had guided civilians into a ring, voice warm with practiced mercy — eyes that never tracked the statue’s face, always the crowd’s reaction. Silence had watched her for eleven seconds: gait too symmetrical, pauses too evenly spaced, the micro-sway of a body that had rehearsed sympathy in a mirror. A concussion grenade dialed to **stun** geometry shattered the ring. Webbing took her at the ankle; the carbine stock took her teeth when she tried to bite through the filament. An Arbites clerk read the charge — *incitement, secession register* — while she gurgled through broken enamel.
 
@@ -166,7 +166,7 @@ When stewards tried to turn the magistrate plaza crowd into a **human shield**, 
 
 ## Phase II — Corbec’s synchronization node
 
-Corbec did not leave the tribunal annex. He had planted the ***Alabarda Vexillum*** in the deck plates — halberd head down, banner furled against the haft, relay spine lit with *Prima*’s orange wash. Arbites clerks stood at the warrant table beside him. The *Alabarda* merged auspex from a dozen breach points into one lattice only his Vexillatio could read: heat blooms, vox hash, grav-boot signatures, Nullity witch-markers flashing cobalt on the overlay.
+Corbec did not leave the tribunal annex. He had planted the ***Alabarda* + Vexilla** in the deck plates — halberd head down, banner furled against the haft, relay spine lit with PRIMA’s orange wash. Arbites clerks stood at the warrant table beside him. The *Alabarda* merged auspex from a dozen breach points into one lattice only his Vexilla could read: heat blooms, vox hash, grav-boot signatures, Nullity witch-markers flashing cobalt on the overlay.
 
 His orders did not rise in volume. They **partitioned**.
 
@@ -216,7 +216,7 @@ On Corbec’s overlay, cobalt markers flared along the ward spine. The *Alabarda
 
 — Shrine ward live. Nullity forward. Stasis hold bridge until cobalt clears.
 
-The rabble had thought Prima’s advance was the end of hope. They mistook it for the **beginning of their proof**.
+The rabble had thought PRIMA’s advance was the end of hope. They mistook it for the **beginning of their proof**.
 
 ### Shadows
 
@@ -224,7 +224,7 @@ Illegal arenas had bled into the manufactoria years before the purge — house c
 
 One pit champion, veins black under the skin, made it to a coolant alcove with a monomolecular shiv. A Shadows brother descended on rappel line, smoke canister first, **power gladius** second — point finding the spine through stim-rigid muscle behind the collar seam, boot driving the corpse into the sump without ceremony.
 
-A steward in **servitor coveralls** — correct grease, wrong gait — tried to reach a magistrate pict-blind after the plaza feed showed *Prima* instead of a crown. Shadows **appeared** one junction ahead: stalker bolt through the wrist; **power gladius** through the ribs when he turned to run. The coveralls were house issue under the grease.
+A steward in **servitor coveralls** — correct grease, wrong gait — tried to reach a magistrate pict-blind after the plaza feed showed PRIMA instead of a crown. Shadows **appeared** one junction ahead: stalker bolt through the wrist; **power gladius** through the ribs when he turned to run. The coveralls were house issue under the grease.
 
 A “medicae” team pushed through a riot pocket toward wounded civilians. Overwatch saw the kit — no blood on the whites, plasma packs on the wrong side for Noviomagus triage doctrine. Shadows dropped the lead “medic” from a gantry with a heavy bolt pistol shot dialed to **quiet**, then melta-sealed the hatch so the pocket could not receive a second wave. Line medicae arrived afterward and did the actual triage.
 
@@ -286,7 +286,7 @@ At the **lower docks**, ivory seized a lithograph press stamping wolf echo besid
 
 Where the threats were merely human — gang clusters with las-cutters, militia with stolen autoguns — **line kill teams** did the work Shadows and Silence had priced.
 
-Sergeant **Voss** led **Alpha** through the manufactorum spine in interlocking kill geometry Corbec had copied from *Secunda*’s measured-line registers. Corbec’s voice on the relay:
+Sergeant **Voss** led **Alpha** through the manufactorum spine in interlocking kill geometry Corbec had copied from SECVNDA’s measured-line registers. Corbec’s voice on the relay:
 
 — Alpha, left fork — two shooters, partial cover. Semi-auto. Hands and weapons.
 — Alpha, hold — Silence tags moving through your rear.
@@ -304,15 +304,15 @@ Where armed clusters refused disarm order, line brothers cut them down where the
 
 In Boiler Ward Seventeen, a rebel steward detonated his own ration queue when asked to surrender records. Fifty-seven civilians died under collapsing grain hoppers and burning promethium mist. The steward was recovered in pieces and catalogued as "self-expended command material."
 
-In Hab Court Twelve, a rebel catechist preached that the Castellan would **vindicate** them at the last hour. He spoke for four minutes before a Prima marksman removed him mid-sentence. His followers surged the lane shouting Alaric’s name as plea until Corbec’s choke geometry answered with bolter discipline. Thirty-two died at the choke gate still believing recognition had been one breath away.
+In Hab Court Twelve, a rebel catechist preached that the Castellan would **vindicate** them at the last hour. He spoke for four minutes before a PRIMA marksman removed him mid-sentence. His followers surged the lane shouting Alaric’s name as plea until Corbec’s choke geometry answered with bolter discipline. Thirty-two died at the choke gate still believing recognition had been one breath away.
 
-By the time the counterattack broke, Vespera’s gangs had learned: the Castellan was not coming to crown them; **Prima** was not one squad but a **machine**; and the orange pulse on a distant relay meant Corbec had already assigned their deaths before they finished screaming Alaric’s name.
+By the time the counterattack broke, Vespera’s gangs had learned: the Castellan was not coming to crown them; *PRIMA* was not one squad but a **machine**; and the orange pulse on a distant relay meant Corbec had already assigned their deaths before they finished screaming Alaric’s name.
 
 ---
 
 ## Phase V — Shrine district: final bridge
 
-The last organized resistance in the lower hive ended where rebel stewards had chained refinery workers to process columns and threatened to vent promethium lines if Prima crossed the final bridge.
+The last organized resistance in the lower hive ended where rebel stewards had chained refinery workers to process columns and threatened to vent promethium lines if PRIMA crossed the final bridge.
 
 ### Stasis
 
@@ -326,7 +326,7 @@ The last organized resistance in the lower hive ended where rebel stewards had c
 
 **Silence** had been on the district for an hour. Spotters crouched in gantries, reading **hands** not faces — which palm rested on a dead-man stud, which “medic” carried kit weight wrong for medicae. They fed Corbec numbers; they did not shoot until the center-axis team moved.
 
-A Prima brother took the left steward at the wrist before the palm could close. A second took the false medic’s elbow until the detonator key fell. The right steward tried to scream Alaric’s name into the speaker loop; an ivory spotter drove a power gladius through the speaker housing, then through his throat.
+A PRIMA brother took the left steward at the wrist before the palm could close. A second took the false medic’s elbow until the detonator key fell. The right steward tried to scream Alaric’s name into the speaker loop; an ivory spotter drove a power gladius through the speaker housing, then through his throat.
 
 The bridge did not vent.
 
@@ -499,7 +499,7 @@ When the purge closed, Alaric filed the final summary with no ornament. Corbec f
 
 Secession cell dismantled.
 Hive command caste replaced — house heads dead by Castellan judgment; minor nobility and adult familiars servitorized; house children reallocated under hypno-seal; household servants to penal labor or battalions.
-Lower population purged under *Prima* geometry.
+Lower population purged under PRIMA geometry.
 **Silence** annex: **cells named**, **vaults mapped**, **lesson nodes burned** — recurrence watch ongoing.  
 **Shadows** annex: **duct geometry corrected**, **chem pits scorched**, **noble-shaft sealed** — upper mesh patrol reduced but not withdrawn.  
 **Stasis** annex: **Track Four cleared**, **K-7 mouth sealed**, **shrine bridge held** — one brother KIA, choke pins replaced across six districts.  
@@ -552,6 +552,6 @@ There were no monuments for Red Harvest in Vespera. The closest thing to memoria
 
 ---
 
-**Staff filing:** Secession doctrine — idolatry of Castellan personae over Throne chain. **Corbec** / full *Prima* lower-hive lattice; **Alaric** upper spire house judgment. Specialty cohorts (**Silence**, **Shadows**, **Stasis**, **Nullity**) under purge geometry. Arbites co-supervision (Marshal Vhal, Judge-Militant Serix).
+**Staff filing:** Secession doctrine — idolatry of Castellan personae over Throne chain. **Corbec** / full PRIMA lower-hive lattice; **Alaric** upper spire house judgment. Specialty cohorts (**Silence**, **Shadows**, **Stasis**, **Nullity**) under purge geometry. Arbites co-supervision (Marshal Vhal, Judge-Militant Serix).
 
 **Prior chain law:** [proof-of-chain/chapter.md](../silent-vigil/proof-of-chain/chapter.md) · **Legatus Ring:** [post-voices-legatus-ring/chapter.md](../silent-vigil/post-voices-legatus-ring/chapter.md)

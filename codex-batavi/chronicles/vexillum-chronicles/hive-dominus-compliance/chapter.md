@@ -3,9 +3,9 @@
 **Classification:** Foundation Archive — Chapter tactical narrative (public register abridgment: [aar-vex-ii-hive-dominus-compliance.md](../vexillum-register/aar-vex-ii-hive-dominus-compliance.md))  
 **When:** 078.M42 (Silent Vigil)  
 **Where:** Castra-Vetera Prime — upper stack, **Ministry of Tithe Lex**  
-**Who:** **II** *Secunda* under **Legatus Henric Kessler** (*Measured Line*)
+**Who:** **SECVNDA** under **Legatus Henric Kessler** (*Measured Line*)
 
-**Cross-references:** [dossier-henric-kessler.md](../../../personae-command-index/character-dossiers/legati/dossier-henric-kessler.md) · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV
+**Cross-references:** [dossier-henric-kessler.md](../../../personae-command-index/character-dossiers/legati/dossier-henric-kessler.md) · [vexilla-by-vexilla-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §3 · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV
 
 ---
 
@@ -21,7 +21,7 @@ The first broadcasts from the guild sounded like revolution. The second sounded 
 
 Castra-Vetera’s Arbites requested Astartes support with language scrubbed clean of panic. The *Strategium* answered with a single name on the dispatch slate — not a sermon, not a threat, a **governor** who could speak **Lex** in the same breath as ballistics.
 
-**Henric Kessler** took the stack with **II** *Secunda* as if accepting a filing cabinet the size of a world.
+**Henric Kessler** took the stack with **SECVNDA** as if accepting a filing cabinet the size of a world.
 
 ---
 
@@ -71,7 +71,7 @@ Brother **Kaelen** worked a gantry no wider than his shoulders, a maintenance sp
 
 The man behind the plascrete was not a thinker. He was a **thumb** on a dead-man switch.
 
-Kaelen did not hate him. Hatred was a luxury *Secunda* trained out of stalker lanes; hatred made you **pull** early. Instead Kaelen counted heartbeats the way other men counted ammunition — not because the *Codex* demanded poetry, because the *Armourium* had proved that cardiac rhythm telegraphed decision before the brain finished its lie.
+Kaelen did not hate him. Hatred was a luxury SECVNDA trained out of stalker lanes; hatred made you **pull** early. Instead Kaelen counted heartbeats the way other men counted ammunition — not because the *Codex* demanded poetry, because the *Armourium* had proved that cardiac rhythm telegraphed decision before the brain finished its lie.
 
 Nine hours.
 
@@ -87,11 +87,11 @@ The Ministry later engraved Kaelen’s tally name on a plaque no one visits. Kes
 
 Not every story in the stack ended with a clean receipt.
 
-Twelve hostages died **before** *Secunda* could cross their thresholds — executed as leverage that failed, bodies left where cameras would find them, a lesson written in meat for the next negotiator who never arrived. Kessler walked one of those rooms in person, helm on, *vox* off, hands empty at his sides. Witnesses among the scribes swore later the Legatus **looked** at each corpse the way an Apothecary looked at a failed graft — not grief, **audit**.
+Twelve hostages died **before** SECVNDA could cross their thresholds — executed as leverage that failed, bodies left where cameras would find them, a lesson written in meat for the next negotiator who never arrived. Kessler walked one of those rooms in person, helm on, *vox* off, hands empty at his sides. Witnesses among the scribes swore later the Legatus **looked** at each corpse the way an Apothecary looked at a failed graft — not grief, **audit**.
 
 Forty-seven lived.
 
-Six civilians died in crossfire the Ministry would argue over for years — **enemy** fire during extraction, the Chapter’s own logs insisted, and Kessler would not sign a line that blamed a guild rifle if auspex could not **prove** it. *Secunda* did not outsource guilt to footnotes; it carried what it earned.
+Six civilians died in crossfire the Ministry would argue over for years — **enemy** fire during extraction, the Chapter’s own logs insisted, and Kessler would not sign a line that blamed a guild rifle if auspex could not **prove** it. SECVNDA did not outsource guilt to footnotes; it carried what it earned.
 
 Twenty-three battle-brothers went down — shrapnel, partial structural collapse, one grav-well mishap that shattered a knee and did not excuse the gunner from debrief. Twelve returned to full line duty within ninety days. The rest carried scars into the next compliance war like **Lex** carried amendments.
 
@@ -115,11 +115,11 @@ Kessler received the seal in a room that smelled like paper and ozone, same as t
 
 ## VII. THE CLOTH
 
-Years later, when *Armourium* stenciled the **crosshair over sealed arch** on the Second’s *Alabarda*, neophytes learned a truth the Administratum preferred softened: **II** *Secunda*’s greatest certified triumph was not a body count. It was **negative space** — the wall that did not fall, the chapel that did not become powder, the proof that the Chapter could be **lethal** without being **lazy**.
+Years later, when *Armourium* stenciled the **crosshair over sealed arch** on the Second’s *Alabarda*, neophytes learned a truth the Administratum preferred softened: **SECVNDA**’s greatest certified triumph was not a body count. It was **negative space** — the wall that did not fall, the chapel that did not become powder, the proof that the Chapter could be **lethal** without being **lazy**.
 
 The Emperor dictates.
 
-On Hive Dominus, **Secunda** complied — one round at a time.
+On Hive Dominus, *SECVNDA* complied — one round at a time.
 
 ---
 

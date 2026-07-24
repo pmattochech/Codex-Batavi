@@ -10,7 +10,7 @@
 
 ---
 
-The outer ring was larger than the sealed session room and uglier on purpose. No engravings worth saluting. Nine marks worn into the deck where *Alabarda* butts had rested across decades of argument — Prima through Nona, clockwise, with a tenth witness line set back half a meter for men who had already paid for the right to speak without commanding a Vexillatio.
+The outer ring was larger than the sealed session room and uglier on purpose. No engravings worth saluting. Nine marks worn into the deck where *Alabarda* butts had rested across decades of argument — PRIMA through NONA, clockwise, with a tenth witness line set back half a meter for men who had already paid for the right to speak without commanding a Vexilla.
 
 Varro called the Ring to order without prayer.
 
@@ -18,15 +18,15 @@ Varro called the Ring to order without prayer.
 
 Drusus projected the same storm track from before. Summons breaches. Latency windows. Suppression spikes. No one asked him to simplify it.
 
-Corbec took Prima’s mark first because custom demanded it and because he would not delegate shame.
+Corbec took PRIMA’s mark first because custom demanded it and because he would not delegate shame.
 
 — I stand where I stood — he said. — Codify redundancy now. If the Castellan and Triumvirate are the first anti-corruption mechanism, the Chapter must be the second when the first fails. No rank exception. No clean feeling at trigger time.
 
-Armin occupied Quinta’s mark like a man already counting seconds he could not spend in debate.
+Armin occupied QVINTA’s mark like a man already counting seconds he could not spend in debate.
 
 — Second the frame — he said. — Add execution truth. Tier three is not a council item when alpha-frequency is live. Pre-brief. Pre-train. Stress geometry before law pretends it is merciful.
 
-Kessler at Secunda did not sit. His armor carried Administratum compliance scars from hive spires that had to die without cracking sanctae facades.
+Kessler at SECVNDA did not sit. His armor carried Administratum compliance scars from hive spires that had to die without cracking sanctae facades.
 
 — I need the terminal clause in language the Ministry can misfile without turning it into clemency — he said. — Measured fire is still fire. If Tier three reads like optional mercy, officers will hesitate until the line is already ash.
 
@@ -42,15 +42,15 @@ The room accepted that the way forge floors accept sparks — briefly bright, th
 
 ---
 
-Theron Brach spoke from Tertia with the flat fatigue of a Legatus who had learned chemical plumes the way other men learned scripture.
+Theron Brach spoke from TERTIA with the flat fatigue of a Legatus who had learned chemical plumes the way other men learned scripture.
 
 — Treat inversion like toxic geometry — he said. — Contain upstream before you debate downstream poetry. If suppression spikes read like bad air, respond like bad air first.
 
-Orin Valestrand at Quarta added almost quietly:
+Orin Valestrand at QVARTA added almost quietly:
 
 — High-G bunkers teach hold — he said. — Silent Vigil teaches empty throne. Do not confuse Castellan absence with victory leave. Substitution chain must be boring enough that sergeants execute it without looking for praise.
 
-Gervas Bifronte’s Sexta voice came out of the vault-school register — slow, heavy, patient in the way siege made patient.
+Gervas Bifronte’s SEXTA voice came out of the vault-school register — slow, heavy, patient in the way siege made patient.
 
 — I will not rush Tier two because Armin wants minutes — he said. — Physical breach evidence still matters. Command inversion and wall breach are not the same alarm. Confuse them and you burn legitimacy before you burn the traitor.
 
@@ -62,15 +62,15 @@ Gervas met him without flinching.
 
 — Then your tier ladder already says so. I am asking the Ring not to pretend every silence is inversion because silence frightens you.
 
-Lucan Phaetron from Septima clicked a vent-guard with one knuckle — habit, not theater.
+Lucan Phaetron from SEPTIMA clicked a vent-guard with one knuckle — habit, not theater.
 
 — One bad plasma vent blinds a cohort — he said. — Inversion at alpha scale is blindness with teeth. I want execution slices scoped so my brothers do not cook each other trying to obey a signal they half-understood.
 
-Ivar Malevent took Octava’s mark last among the void-facing half of the circle.
+Ivar Malevent took OCTAVA’s mark last among the void-facing half of the circle.
 
-— Witness Ford is not my private beach — he said. — If terminal law closes the mesh, it closes for reef and forge alike. Do not let inland officers treat outward choke as Octava problem when the bill comes due.
+— Witness Ford is not my private beach — he said. — If terminal law closes the mesh, it closes for reef and forge alike. Do not let inland officers treat outward choke as OCTAVA problem when the bill comes due.
 
-Cassian Vetra at Nona had been listening the way comms officers listened — for the harmonic under the words.
+Cassian Vetra at NONA had been listening the way comms officers listened — for the harmonic under the words.
 
 — Suppression is not always jamming — he said. — Latency plus silence can mimic dead antenna. Weight suppression indicators in Tier one or you will false-escalate into firewall when the Castellan is only drowning.
 
@@ -92,7 +92,7 @@ OBJECTIVE AWARENESS — TIER C
 
 — Names — he said.
 
-Drusus read Tier A without ornament. Varro. Drusus. Tyvar. Corbec. Armin. Remaining signatory seats assigned in Vexillatio order for black-chamber wax — Kessler, Brach, Valestrand, Bifronte, Phaetron, Malevent, Vetra — each receiving strategic custody slices proportional to theater, not vanity.
+Drusus read Tier A without ornament. Varro. Drusus. Tyvar. Corbec. Armin. Remaining signatory seats assigned in Vexilla order for black-chamber wax — Kessler, Brach, Valestrand, Bifronte, Phaetron, Malevent, Vetra — each receiving strategic custody slices proportional to theater, not vanity.
 
 — Guilliman by request — Varro added.
 
@@ -110,7 +110,7 @@ Armin pointed at Tier B.
 
 Kessler raised one gauntlet.
 
-— I file written dissent on Tier three optics — he said. — Frame accepted. Terminal clause accepted. Secunda record will show I warned you what Administratum courthouses do with plain language.
+— I file written dissent on Tier three optics — he said. — Frame accepted. Terminal clause accepted. SECVNDA record will show I warned you what Administratum courthouses do with plain language.
 
 Varro entered it without debate.
 
@@ -130,7 +130,7 @@ He looked station to station. No blocking dissent came.
 
 — Then the Ring carries the proposal to implementation — he said. — Kadmos and Otho receive limited custody design. Validation lanes open when Armin’s stress geometry demands them. Black chamber waits on mechanics, not on courage.
 
-Corbec stepped off Prima’s mark.
+Corbec stepped off PRIMA’s mark.
 
 — Protocols fail when written by men trying to feel clean — he said. — We already failed that test once. Do not fail the second.
 
@@ -150,9 +150,9 @@ Nobody saluted it.
 
 The Ring unlocked. Legati filed out in threes and silence, each carrying a different share of the same burden the Old Voices had named an hour before — to keep Alaric from falling, and to ensure the Chapter remained standing if he did.
 
-Kessler remained one minute at Secunda’s mark, reading his dissent line twice before sealing it into the Vermilion annex.
+Kessler remained one minute at SECVNDA’s mark, reading his dissent line twice before sealing it into the Vermilion annex.
 
-Then he left to make Secunda’s ledger honest enough to survive the day the barricade might have to hold.
+Then he left to make SECVNDA’s ledger honest enough to survive the day the barricade might have to hold.
 
 ---
 

@@ -44,7 +44,7 @@ This record is both Strategium ledger and confession. If it survives me, let suc
 
 ### Official Strategium record (Castellan attestation)
 
-* I confirm systemic mass biological activation across wall **Vexillationes** seven days before visual contact. Xenos psychic presence acted as immediate endocrine catalyst — not fear, **hunger**.  
+* I confirm systemic mass biological activation across wall **Vexilla** seven days before visual contact. Xenos psychic presence acted as immediate endocrine catalyst — not fear, **hunger**.  
 * Tactical symptoms: accelerated muscular hypertrophy; bone density spike; pain receptor inhibition; apex territorial aggression; orange iris halo; predatory pupil narrowing.  
 * Combat doctrine: shield-wall suppression and bolter primacy became **obsolete** without order. Infantry shifted to shock melee — bolters mag-locked at waist, blades forward. Large xenos kill efficiency rose beyond any model I trust on open scroll.  
 * Alpha duel: I deactivated gladius before contact. Mandible torn free. *Waaagh!* field cracked. Sector held.  
@@ -74,7 +74,7 @@ I woke on a grate with a new arm and fewer memories. Equipment, not miracle.
 ## II. Event Two — The Drought (Machine Vector)
 
 **Identified trigger:** Tyranid xenos threat — fleet-scale **Shadow in the Warp** / *Hive Mind* synaptic pressure. **Not** lone Genestealer cult geometry.  
-**Engagement reference:** Purge of **Noviomagus Secundus** mining catacombs · **IV** *Quarta* primary element.
+**Engagement reference:** Purge of **Noviomagus Secundus** mining catacombs · **QVARTA** primary element.
 
 ### Official Strategium record (Castellan attestation)
 
@@ -138,7 +138,7 @@ I mean it. Protector geometry includes **refusal** when orders ask us to forget 
 * *Strategium:* Elevate **Golden Projection** to *Magenta* training partition — Wild Hunt and March symptom cards for all Legati; Genestealer cult threat routed to Silence Cohort, not assumed March trigger.  
 * *Apothecarion:* Drusus to draft rebound protocols — pharmacology first, theology second.  
 * *Reclusiam:* Varro to draft **sensory rewarming** minimum rites for post-March recovery — mortal contact classified **load-bearing**, not sentimental hazard.  
-* *Castellan:* I will stand South Wall memorial and Secundus recovery rotations personally until IV *Quarta* names return to basal rest without civilian hands.
+* *Castellan:* I will stand South Wall memorial and Secundus recovery rotations personally until QVARTA names return to basal rest without civilian hands.
 
 I will not pretend harness exists because we named the gear. Naming is first trench. *Curia* comes later or we keep paying pre-authorized bills in comatose brothers.
 

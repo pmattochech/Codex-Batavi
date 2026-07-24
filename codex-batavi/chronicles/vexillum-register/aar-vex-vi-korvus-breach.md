@@ -3,7 +3,7 @@
 **Operation:** KORVUS TWIN BREACH  
 **Theater:** Bifrons-Ferrum gulf — fortresses Korvus-A (outer vault) and Korvus-B (inner spine), linked by tether hab  
 **Date:** 098.M42  
-**Unit:** **VI** *Sexta* (full Vexillatio; Siege division weighted) — **Legatus Gervas Bifronte** (*Maior Caementarius*)  
+**Unit:** **SEXTA** (full Vexilla; Siege division weighted) — **Legatus Gervas Bifronte** (*Maior Caementarius*)  
 **Campaign:** Climax of **Cage of Bifrons** (*Ferrum Cage*, ~092–098.M42) — multi-year siege on Bifrons vault mesh; sealed register names **Iron Warriors**–aligned elements  
 **Enemy:** Heretic Astartes warband — unmarked plate, siege doctrine; public register carries no gene-line titling
 
@@ -21,7 +21,7 @@ Single-clock breach: outer vault penetration and inner spine entry within one St
 
 ## 3. Execution
 
-**VI** *Sexta* split: Terminator and Aggressor cadres on Korvus-A landings; Gravis Eradicator teams on Korvus-B’s ventral sill.
+**SEXTA** split: Terminator and Aggressor cadres on Korvus-A landings; Gravis Eradicator teams on Korvus-B’s ventral sill.
 
 Synchronization: vox-disciplined count from the Legatus; first melta touch on A’s vault seam matched to B’s bulkhead thermal cut.
 
@@ -29,7 +29,7 @@ Close: inner-spine traitors failed to arm full scuttle — Nullity-adjacent inte
 
 ## 4. Losses
 
-**VI** *Sexta*: 44 battle-brothers killed or incapacitated beyond immediate Apothecary recovery.
+**SEXTA**: 44 battle-brothers killed or incapacitated beyond immediate Apothecary recovery.
 
 ## 5. *Strategium* certification (field 4)
 

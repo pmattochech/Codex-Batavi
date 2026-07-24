@@ -15,7 +15,7 @@
 |-------|------|
 | **~M42** | ~083 *(timestamp sweep pending)* |
 | **Quarter** | P3 — Hot rot |
-| **Theater** | Strategium witness filing / *Prima* line |
+| **Theater** | Strategium witness filing / PRIMA line |
 | **POV** | Staff filing with Corbec name in ledger (not subsaga POV) |
 
 ## Thesis

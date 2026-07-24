@@ -3,12 +3,12 @@
 **Classification:** Novel chapter — Black Legion / Haarken POV · first contact with iron-grey Astartes (Batavi unknown to narrator)  
 **When:** Present era — Imperial ~M42 filing approximate  
 **Where:** Imperial fortress-hive mid-curtain (industrial spine; Guard still on the fire-step)  
-**Who:** **Haarken Worldclaimer** (Gloomtalons); Gloomtalon Raptors; Imperial Guard line; Legatus **Corbec Ardens** + **I** *Prima* (unnamed to BL at contact)
+**Who:** **Haarken Worldclaimer** (Gloomtalons); Gloomtalon Raptors; Imperial Guard line; Legatus **Corbec Ardens** + **PRIMA** (unnamed to BL at contact)
 
-**Voice hygiene:** Traitor POV body — no Batavi institutional terms (*Shared Sweat*, *Prima*, *Alabarda*, Malakor, Cohors Batavorum). Describe only what the XVII’s cousins in black can see and invent.  
-**Premise lock:** Corbec answers what sits most adjacent to expunged First Legatus **Valerius** (*Lupercal*-claim register) without naming him to the enemy; Corbec moves only when required — his vexillatio does the killing work. Abaddon off-stage (warrant only).
+**Voice hygiene:** Traitor POV body — no Batavi institutional terms (*Shared Sweat*, PRIMA, *Alabarda*, Malakor, Cohors Batavorum). Describe only what the XVII’s cousins in black can see and invent.  
+**Premise lock:** Corbec answers what sits most adjacent to expunged First Legatus **Valerius** (*Lupercal*-claim register) without naming him to the enemy; Corbec moves only when required — his Vexilla does the killing work. Abaddon off-stage (warrant only).
 
-**Cross-references:** [dossier-corbec-ardens.md](../../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md) · [dossier-valerius.md](../../../personae-command-index/character-dossiers/expunged/dossier-valerius.md) · [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § *Prima* · [INDEX.md](../INDEX.md) · draft siblings pending promotion: [cellar-tenant](../../draft/cellar-tenant-word-bearer-pov/chapter.md) · [failure-wears-red](../../draft/failure-wears-red-corsair-pov/chapter.md)
+**Cross-references:** [dossier-corbec-ardens.md](../../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md) · [dossier-valerius.md](../../../personae-command-index/character-dossiers/expunged/dossier-valerius.md) · [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § PRIMA · [INDEX.md](../INDEX.md) · draft siblings pending promotion: [cellar-tenant](../../draft/cellar-tenant-word-bearer-pov/chapter.md) · [failure-wears-red](../../draft/failure-wears-red-corsair-pov/chapter.md)
 
 **Series:** [traitor-first-contact/INDEX.md](../INDEX.md)
 
