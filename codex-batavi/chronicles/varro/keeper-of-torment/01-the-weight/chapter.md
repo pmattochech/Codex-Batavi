@@ -6,7 +6,7 @@
 **Who:** **Varro** (Judex); Versibar wards (unnamed in hearing); **Atreus** (elder ward — not spoken at grille); **Bram** (*Reclusiam* mortal — first appearance)  
 **Book:** *Varro* — ***Keeper of Torment*** Part I (opening span)  
 **Span lock:** cold-day descent and vigil through **Bram’s first appearance** only  
-**Planning:** [`varro-book-elder-ward-collector.md`](../../../planning/in-progress/varro-book-elder-ward-collector.md)
+**Planning:** `[varro-book-elder-ward-collector.md](../../../planning/in-progress/varro-book-elder-ward-collector.md)`
 
 ---
 
@@ -16,7 +16,7 @@ That was how Varro filed it, and filing made the hours walkable. The forges stil
 
 His mind arrived heavy, as it did every morning he still owned a mind.
 
-He was a symbol his Chapter feared and aspired toward in the same breath — Judex, Death Wolf silhouette, Executor wolf-skull with fire-orb eyes that never offered a human weather report. Brothers widened corridors for him without always knowing why. Veterans read the silence on him the way sailors read a sky that has decided not to forgive. The burden of that reading sat in his marrow: to be the shape law took when law had to wear a face of iron, and to remain one of the few who had walked the Wolf’s Curse without surrendering the chart of self — while still leashing, every hour, the beast that lived behind the chart.
+He was a symbol his Chapter feared and aspired toward in the same breath — the Judex,  the Death Wolf Executor with fireery eyes that never offered a human weather report. Brothers widened corridors for him without always knowing why. Veterans read the silence on him the way sailors read a sky that has decided not to forgive. The burden of that reading sat in his marrow: to be the shape law took when law had to wear a face of iron, and to remain one of the few who had walked the Wolf’s Curse without surrendering the chart of self — while still leashing, every hour, the beast that lived behind the chart.
 
 Further still: the watch over those who had gone past the threshold where language still meant brotherhood. The Lost in motion under other leashes. The Versibar held below in red dark. For many of them, fear was the only dialect left. He spoke it without raising his voice. Presence. Stillness. The geometry of a predator that had not come to play.
 
@@ -26,7 +26,7 @@ There was always too much of the same discovery waiting behind grille after gril
 
 He descended.
 
-The Dark Cells did not announce themselves with sermon. They announced themselves with pressure change, with the pheromonal warning of Versibar territory, with red lumens tuned low for biology rather than theater. The central corridor ran straight as a verdict — two men wide, stone that had learned the scrape of keratin and the patience of adamantium. Along both flanks, cell mouths opened like withheld breaths. Five and five on this level, and other levels below and above repeating the same hard grammar of hold.
+The Dark Cells did not announce themselves with sermon. They announced themselves with pressure change, with the pheromonal warning of Versibar territory, with red lumens tuned low for biology rather than theater. The central corridor ran straight as a verdict — two men wide, stone that had learned the scrape of keratin and the patience of adamantium. Along both flanks, cell mouths opened like withheld breaths.
 
 On the upper floors the Hell Cage still sat in the middle of that grammar: a ring walk around a central pen, one circular sentence per level where ego had finished dying and only the animal remained to be housed. Varro did not tour the rings. He passed them the way a gauge passes a furnace — near enough to feel heat, not near enough to pretend inspection was mercy. Behind those curved walls something heavy shifted. Something tested stone with the boredom of a siege that had forgotten why it began. Fame of the Cage traveled farther than boots. Even from the side corridor, the air carried the rumor of feast-hunger, of mouths that no longer remembered names.
 
@@ -42,7 +42,7 @@ Each one a receipt the Chapter paid in iron and duration. Each one a reminder th
 
 The levels dropped.
 
-Lower corridors shed the Hell Cage’s ring. The formation stayed kin — central spine, cell doors, red light — but the air changed flavor. Less blank feast. More fracture. Suffering with edges. Remembrance that could not assemble itself into speech and therefore became pressure, pacing, the occasional sound that might have been a word if words still had owners. Gideon would have named that gradient in warp-cant on another day. Today Varro named it only as depth: the farther down, the less the animal was alone with itself, and the more something like a shredded self still tried to haunt the meat.
+Lower corridors shed the Hell Cage’s ring. The formation stayed kin — central spine, cell doors, red light — but the air changed flavor. Less blank feast. More fracture. Suffering with edges. Remembrance that could not assemble itself into speech and therefore became pressure, pacing, the occasional sound that might have been a word if words still had owners. Haruspex would have named that gradient in warp-cant. Varro named it only as depth: the farther down, the less the animal was alone with itself, and the more something like a shredded self still tried to haunt the meat.
 
 He went all the way.
 
@@ -52,7 +52,7 @@ Varro did not speak the name.
 
 He stopped. He stayed.
 
-This was not punishment with an edge. Hell Cage rings still had the shape of a sentence, however final. Black Cell duration for the never-chose was unfinished law wearing iron. When this brother fell — final hours of the Valerian Heresy, Malakor’s end, the same crucible season that broke other geometries open — the Exanimus Testament had not yet existed as Chapter paperwork. Consent had not yet been a door a mind could be asked to walk through. The Chapter learned later how to name choices for the living. This one had been left outside the naming. Ninety-six years of hold. A jailer’s shame that was not *he became Versibar*, but *we learned how to ask afterward, and we cannot ask backward*.
+This was not punishment with an edge. Hell Cage rings still had the shape of a sentence, however final. Black Cell duration for the never-chose was unfinished law wearing iron. When this brother fell — final hours of the Valerian Heresy, the same crucible season that broke other geometries open — the Exanimus Testament had not yet existed as Chapter paperwork. Consent had not yet been a door a mind could be asked to walk through. The Chapter learned later how to name choices for the living. This one had been left outside the naming. Ninety-six years of hold. A jailer’s shame that was not *he became Versibar*, but *we learned how to ask afterward, and we cannot ask backward*.
 
 Varro inventoried without sermon.
 
