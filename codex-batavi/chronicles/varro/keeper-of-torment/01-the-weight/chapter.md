@@ -1,128 +1,84 @@
 # Keeper of Torment — I. The Weight
 
-**Classification:** *Reclusiam* Vermilion / *Librarium* adjacent — Judex personal register (staging chronicle)  
+**Classification:** *Reclusiam* Vermilion — Judex personal register (staging chronicle)  
 **When:** **146.M42**  
-**Where:** Noviomagus Prime — *Reclusiam*; Black Cells approach; Chapter archives  
-**Who:** **Varro** (Judex); **Bram** (*Reclusiam* mortal); **Otho** (Chief Librarian); **Gideon** (named / tasked — not yet Cells)  
-**Book:** *Varro* — ***Keeper of Torment*** Part I  
-**Planning:** [`varro-book-elder-ward-collector.md`](../../../planning/in-progress/varro-book-elder-ward-collector.md) §3 I‑PLAN  
-**Next:** Part II — first cell sessions with Gideon  
+**Where:** Noviomagus Prime — Black Cells / Dark Cells; *Reclusiam* approach  
+**Who:** **Varro** (Judex); Versibar wards (unnamed in hearing); **Atreus** (elder ward — not spoken at grille); **Bram** (*Reclusiam* mortal — first appearance)  
+**Book:** *Varro* — ***Keeper of Torment*** Part I (opening span)  
+**Span lock:** cold-day descent and vigil through **Bram’s first appearance** only  
+**Planning:** [`varro-book-elder-ward-collector.md`](../../../planning/in-progress/varro-book-elder-ward-collector.md)
 
 ---
 
-The *Reclusiam* held cold the way a vault holds ash — not empty, only spent. Forge thunder came through the stone as a distant pulse. Incense from the Judex pack thurible thinned into the corridor and made the air taste like judgment that had already been filed.
+It was a cold day.
 
-Varro came from the *Amissi* watch with that cold still on him.
+That was how Varro filed it, and filing made the hours walkable. The forges still threw heat through Noviomagus stone. The *Reclusiam* still smelled of ash, wax, and thurible-smoke. Cold was not the air. Cold was the permission he gave himself to carry a weight that would not negotiate.
 
-Einar Dreadwolf had been where the leash still answered — living Exanimus under Judex authority, storm held in motion, the kind of brother the Chapter could still spend without pretending the spending was mercy. The visit had been short. It always was. Varro did not go to the Lost for comfort. He went to take inventory of a furnace that had not yet burned the house down.
+His mind arrived heavy, as it did every morning he still owned a mind.
 
-It did not lighten him.
+He was a symbol his Chapter feared and aspired toward in the same breath — Judex, Death Wolf silhouette, Executor wolf-skull with fire-orb eyes that never offered a human weather report. Brothers widened corridors for him without always knowing why. Veterans read the silence on him the way sailors read a sky that has decided not to forgive. The burden of that reading sat in his marrow: to be the shape law took when law had to wear a face of iron, and to remain one of the few who had walked the Wolf’s Curse without surrendering the chart of self — while still leashing, every hour, the beast that lived behind the chart.
 
-It reminded him, with the precision of a gauge, that some brothers could still be held while walking, and that one brother beneath Noviomagus had been held only in place since Malakor’s end — since the Valerian Heresy’s final hours, when the Castellan’s own worst window opened on that world and Atreus’s mind finished falling where law had not yet learned how to ask a man what he wanted done with the ruin.
+Further still: the watch over those who had gone past the threshold where language still meant brotherhood. The Lost in motion under other leashes. The Versibar held below in red dark. For many of them, fear was the only dialect left. He spoke it without raising his voice. Presence. Stillness. The geometry of a predator that had not come to play.
 
-The Black Cells did not require a sermon. They required descent.
+There were always too many.
 
-Red lumens. Reduced visibility for biological reasons, not theatrical ones. The pheromonal warning of Versibar territory rode the air like a threat that had learned patience. Atreus was behind the grille the way a siege engine was behind a gate — mass, habit, and the wrong kind of stillness.
+There was always too much of the same discovery waiting behind grille after grille: that animal was what remained when the Chapter’s naming arrived too late, or not at all.
 
-Varro did not preach.
+He descended.
 
-He inventoried.
+The Dark Cells did not announce themselves with sermon. They announced themselves with pressure change, with the pheromonal warning of Versibar territory, with red lumens tuned low for biology rather than theater. The central corridor ran straight as a verdict — two men wide, stone that had learned the scrape of keratin and the patience of adamantium. Along both flanks, cell mouths opened like withheld breaths. Five and five on this level, and other levels below and above repeating the same hard grammar of hold.
 
-Grille integrity. Field hum. The scrape-marks where keratin had tested adamantium for ninety-six years and found neither forgiveness nor exit. The absence of a Testament plaque — because when Atreus fell, the Exanimus Testament had not yet been written into Chapter law. That filing would come only in **145**, a year ago by the Imperium’s approximate calendars, ninety-five years too late for the brother who had already become the thing the paperwork would later try to civilize.
+On the upper floors the Hell Cage still sat in the middle of that grammar: a ring walk around a central pen, one circular sentence per level where ego had finished dying and only the animal remained to be housed. Varro did not tour the rings. He passed them the way a gauge passes a furnace — near enough to feel heat, not near enough to pretend inspection was mercy. Behind those curved walls something heavy shifted. Something tested stone with the boredom of a siege that had forgotten why it began. Fame of the Cage traveled farther than boots. Even from the side corridor, the air carried the rumor of feast-hunger, of mouths that no longer remembered names.
 
-Varro’s shame was not that Atreus had become Versibar.
+He kept walking.
 
-His shame was geometry.
+Side cells held what the Cage did not claim: Versibar with more storm than pure blank, bodies that still sometimes hit the grille as if memory had muscles. He did not preach at them. He inventoried. Field hum. Seal integrity. The wrong stillness. The wrong motion. A brother-shape that rose too fast and stopped when the Judex shadow crossed the bars — fear as language, answered by a silence that meant *not today*. Another cell where something breathed like wet bellows and refused to show its head. Another where claws had written years into the lower course of the wall, not as writing, as insistence.
 
-The Chapter had learned, afterward, how to name choices for the living — *Death of the Wolf*, *Iron Prison*, consent taken while a mind could still sign. They had left this one outside the naming. A debt older than the forms. A jailer who had mistaken duration for duty.
+Too many.
 
-Hell Cells had an edge. A brother thrown among beasts for vanity still received a sentence with a shape — pain, humiliation, return, or the knowledge that return might not come. Black Cells for the never-chose were different. They were not punishment. They were unfinished law wearing iron.
+Always too many.
 
-Atreus had duration without consent.
+Each one a receipt the Chapter paid in iron and duration. Each one a reminder that the beast inside Varro’s own marrow was not metaphor. It was a resident. He held it because holding was the job. He held *them* because someone had to stand on this side of the threshold and remain a man who could still file a day as cold instead of as surrender.
 
-Varro stood in that difference until standing became another kind of failure.
+The levels dropped.
 
-He rose from the watch without a word to the wardens. The Executor wolf-skull took the red light and gave nothing back. Fire-orb eyes held their furnace without performance. The cowl made him a silhouette ranks already feared; today the silhouette carried a colder silence than baseline, and he knew it because veterans would have widened clearance without knowing why.
+Lower corridors shed the Hell Cage’s ring. The formation stayed kin — central spine, cell doors, red light — but the air changed flavor. Less blank feast. More fracture. Suffering with edges. Remembrance that could not assemble itself into speech and therefore became pressure, pacing, the occasional sound that might have been a word if words still had owners. Gideon would have named that gradient in warp-cant on another day. Today Varro named it only as depth: the farther down, the less the animal was alone with itself, and the more something like a shredded self still tried to haunt the meat.
 
-Bram knew why.
+He went all the way.
 
-The old mortal waited in the *Reclusiam* antechamber the way ash waited in a bowl — useful, quiet, placed. One hundred nine years by longevity treatments and Noviomagus stubbornness; a century under Varro’s wing since he had been a child at the crucible’s end. He trimmed what needed trimming. He carried sealed ledgers without opening them. He never asked for the face behind the mandible rails.
+Atreus’s cell waited at the end of the lowest corridor — last mouth, last grille, the place the map stopped pretending it had elsewhere to put the debt. Red lumen. Pheromone thick enough to taste. Behind the bars: mass, habit, and the wrong kind of presence — siege engine and wound in one silhouette.
 
-He looked at the Judex and read the weather.
+Varro did not speak the name.
+
+He stopped. He stayed.
+
+This was not punishment with an edge. Hell Cage rings still had the shape of a sentence, however final. Black Cell duration for the never-chose was unfinished law wearing iron. When this brother fell — final hours of the Valerian Heresy, Malakor’s end, the same crucible season that broke other geometries open — the Exanimus Testament had not yet existed as Chapter paperwork. Consent had not yet been a door a mind could be asked to walk through. The Chapter learned later how to name choices for the living. This one had been left outside the naming. Ninety-six years of hold. A jailer’s shame that was not *he became Versibar*, but *we learned how to ask afterward, and we cannot ask backward*.
+
+Varro inventoried without sermon.
+
+Grille integrity. Field hum. Scrape-marks where keratin had tested adamantium for decades and found neither forgiveness nor exit. The absence of a Testament plaque. The heat of a body that still generated war.
+
+Then he let inventory become witness.
+
+There — if witness was allowed to be cruel and precise — a shard of man left behind: loneliness with nowhere to stand, suffering that did not know it was suffering because the chart for suffering had burned, penance taken without choosing, duration mistaken for duty by everyone who had ever walked away from this door telling themselves the cage was a vigil. The shard did not wave. It did not plead. It existed as pressure in the quiet between the animal’s breaths, as the unbearable suggestion that something inside still knew what a brother was for, and could not climb back to the word.
+
+And there — occupying the same meat, ruling the present tense — the animal: brutality without argument, savagery as weather, the Versibar truth that feast and kill were simpler than memory. It shifted behind the grille. It tasted the Judex on the air. It understood fear. It did not understand debt. It pressed close enough that Varro felt the old pheromonal warning climb his spine like a second pulse, and the beast inside his own marrow answered with hunger that had to be filed, leashed, denied the vote.
+
+Man-shard and animal. Same door. Two temperatures.
+
+He stayed until staying threatened to become another kind of theater — the jailer performing grief as if grief were a key. It was not. Presence had not reduced the duration. Cold filing had not thawed the century. The symbol could stand here until the forges died and the grille would still hold a brother who had never been offered a choice the Chapter later learned to write down.
+
+Varro turned.
+
+He climbed out of the red dark with the cold day still correctly labeled on his interior slate. Corridor. Threshold. *Reclusiam* air that smelled of ash instead of Versibar warning. The weight did not lighten. It only changed rooms.
+
+Bram was waiting in the antechamber the way he had waited through a century of Varro’s weather — old mortal, longevity-stubborn, ash under the nails, eyes that had learned the mask without ever demanding the face.
+
+He looked at the Judex and read what the fire-orbs would not perform.
 
 — Today is a colder one, my lord? — Bram said.
 
-Varro did not deny it.
-
-Denial would have been theater, and theater was a currency he refused to spend on the only mortal allowed to notice when the symbol had climate.
-
-He inclined the wolf-skull a fraction — acknowledgment, not confession — and left Bram with the question standing in the cold like a gauge left open.
-
-Presence had failed as medicine.
-
-He had stood beside Atreus for decades of Vigil ice and one year of fresh Testament ink that could not retroactively sign a dead choice. Standing was not mapping. Standing was not ending. Standing was how a jailer pretended the cage was a vigil.
-
-Varro would not perform that failure alone and call it doctrine.
-
-He left the *Reclusiam* cold for the archives’ dryer dark — wax, ozone, and the patience of records that had outlived the men who filed them. Haruspicium tables slept under cloth. Blindgate drills waited on slate like knives that preferred boredom to blood. Otho did not rise with ceremony. He looked up as if a coefficient had entered the room.
-
-Varro remained standing. The *Crozius* hung at his side like a tribunal die that had not yet been asked to fall.
-
-— I require a measure — Varro said.
-
-Otho’s helm cluster ticked once, soft as a stylus.
-
-— Of what class?
-
-— Of a storm I can stand beside and cannot map.
-
-He did not say *Atreus* first. He said the debt in inventory language, because that was the only language the archives respected without turning it into liturgy.
-
-— Black Cells. Pre-Testament hold. Malakor-season fall. Never chose because choice did not yet exist as law. Presence has not reduced the duration. I will not keep failing him with silence and call the silence sacred.
-
-Otho was quiet long enough for the forges far above to change shift-tone.
-
-— You want healing — Otho said. Not accusation. Classification.
-
-— I want size — Varro answered. — How large the turmoil is. What still suffers. What is only hunger wearing a brother’s shape. Comfort if comfort serves the measure. Not a miracle. Not a release order. A map.
-
-— Maps are expensive — Otho said. — Especially when they prove you were right to be ashamed.
-
-— Then spend me — Varro said.
-
-Otho did not offer mysticism. He offered a tool.
-
-— Gideon.
-
-The name landed without trumpet. A Batavian Haruspex grown into the border where *Librarium* Grid and *Apothecarion* telemetry already shared habits — ego-file, mind-storm bounds, the kind of reading that refused to call a daemon a story if a coefficient would do.
-
-— He will size the turmoil — Otho said. — He will file what can be filed. He will not free a Versibar with poetry. If the storm has width, you will know it. If it has only teeth, you will know that too.
-
-— Good — Varro said.
-
-— When he fails — Otho continued — and he will fail in places, you will not convert the failure into theater. You asked for measure. Measure includes the cost of looking.
-
-Varro’s fire-orbs held steady.
-
-— I have already paid for not looking — he said. — Send him.
-
-Otho sealed the task on slate with cinnabar that looked, in the archive light, too much like dried blood and too little like ceremony.
-
-— Gideon is tasked — Otho said. — The Cells are still your cage, Judex. He only brings a second pair of eyes.
-
-Varro turned to go.
-
-At the threshold of the archives, the weight did not leave. Einar’s recent watch still sat on the same spine as Atreus’s grille. Bram’s colder day still stood unanswered in words. The map had not yet been drawn.
-
-But the jailer had asked for it.
-
-That was not mercy.
-
-It was the first honest motion he had made toward the never-chose in a year of new law that could not reach backward far enough.
-
-The Black Cells waited below, red and patient — on the edge of work that would hurt, with Gideon named and the storm still unmeasured, and Varro walking back into Noviomagus cold as if cold were the only climate a Judex was allowed to admit.
-
 ---
 
-*End of Chapter*  
-*Next: Part II — measure sessions; name as wound; Trazyn at the end.*
+*Opening span ends at Bram’s first appearance.*  
+*Next (when ordered): Bram #1 answer-texture → library / descent with Gideon → Atreus’s door as chapter end.*
