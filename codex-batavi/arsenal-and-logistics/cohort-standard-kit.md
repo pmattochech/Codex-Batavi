@@ -83,7 +83,7 @@
 | **Stasis** | Bolt rifle + shield | Gladius / maul | Scuta pins, extra mags |
 | **Nullity** | Bolt rifle (marksman variants possible) | Gladius + null rod cells | Haruspex liaison, warding |
 
-**Vexilla-level bias** (plasma-heavy VII, jump-heavy V, etc.) applies chiefly to **pure line** and **embarked heavy** pools — [vexillatio-operational-armory.md](vexillatio-operational-armory.md).
+**Vexilla-level bias** (plasma-heavy VII, jump-heavy V, etc.) applies chiefly to **pure line** and **embarked heavy** pools — [vexilla-operational-armory.md](vexilla-operational-armory.md).
 
 ---
 
@@ -101,6 +101,6 @@
 
 ## 7. Related
 
-- [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) — heraldry  
+- [vexilla-and-visual-summary.md](vexilla-and-visual-summary.md) — heraldry  
 - [specialty-cohorts.md](specialty-cohorts.md) — doctrine and iconography  
 - [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) — 500-cell table

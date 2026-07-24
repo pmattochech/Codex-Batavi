@@ -5,7 +5,7 @@
 **Terminology lock:** Combat grid = **Vexilla** only — the word **Company** is not used for Batavi units. Where the template names *Codex* companies, this register maps the same slots to **PRIMA–DECIMA**.  
 **Authority:** Supersedes scattered summaries for organization; detail lives in linked doctrine files. Immutables: `.cursorrules`, [progenitor-classification.md](doctrine-and-organs/progenitor-classification.md).
 
-**Related:** [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) · [vexillationes-and-visual-summary.md](../arsenal-and-logistics/vexillationes-and-visual-summary.md) · [visual-identity-paint-guide.md](../visual-identity-paint-guide.md) · [master-chronology.md](events-and-chronologies/master-chronology.md)
+**Related:** [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) · [vexilla-and-visual-summary.md](../arsenal-and-logistics/vexilla-and-visual-summary.md) · [visual-identity-paint-guide.md](../visual-identity-paint-guide.md) · [master-chronology.md](events-and-chronologies/master-chronology.md)
 
 ---
 
@@ -112,9 +112,9 @@ Unique chambers include **Hell Cells**, **Vermilion** filing, **Iron and Blood T
 
 **Weapon colors:** **Noviomagus-pattern** bolt weapons — gunmetal, black furniture, minimal crimson pinstripe; chainswords and gladii — steel / ceramite, utilitarian. Cawl-pattern bolt rifle per Munitorum sheet below.
 
-**Organizational markings:** **Vexilla** seat name (**PRIMA–NONA**) on Legatus ***Alabarda* + Vexilla** (LATIN-CAPS field). **Sub-cohort** captains command **100**; **lieutenants** **50**; **sergeants** **5–10** cells. No *Codex* company color trim. **Wolf’s Curse** clinical marks: **Furor** — horizontal crimson visor stripe; **Exanimus** — crimson gauntlets/forearms; **Hell Cell** penance — **vertical** helm stripe (distinct). Cohort and division tables: [vexillationes-and-visual-summary.md](../arsenal-and-logistics/vexillationes-and-visual-summary.md).
+**Organizational markings:** **Vexilla** seat name (**PRIMA–NONA**) on Legatus ***Alabarda* + Vexilla** (LATIN-CAPS field). **Sub-cohort** captains command **100**; **lieutenants** **50**; **sergeants** **5–10** cells. No *Codex* company color trim. **Wolf’s Curse** clinical marks: **Furor** — horizontal crimson visor stripe; **Exanimus** — crimson gauntlets/forearms; **Hell Cell** penance — **vertical** helm stripe (distinct). Cohort and division tables: [vexilla-and-visual-summary.md](../arsenal-and-logistics/vexilla-and-visual-summary.md).
 
-**Chapter decorations and honor markings:** Campaign kill-tallies on greaves; DECIMA justice iconography; **no** trophy skull theatre on line troops; restrained oath-script on knee plates. Legatus panels carry **success** or (PRIMA only) **obligation** fourth field — [vexilla-by-vexillatio-design.md](intro-and-heraldry/vexilla-by-vexillatio-design.md). Gilding rare — forge austerity.
+**Chapter decorations and honor markings:** Campaign kill-tallies on greaves; DECIMA justice iconography; **no** trophy skull theatre on line troops; restrained oath-script on knee plates. Legatus panels carry **success** or (PRIMA only) **obligation** fourth field — [vexilla-by-vexilla-design.md](intro-and-heraldry/vexilla-by-vexilla-design.md). Gilding rare — forge austerity.
 
 **Symbolics meaning:** **Grey** = iron / civic burden / Noviomagus forge. **Crimson** = blood of the root (mortals the wall shields). **Orange lenses** = watchful machine predation regulated. **Wolf** = frontier predator mastered by geometry (not Fenris tribal god). **Horizontal gladius** = *second blade* / economical strike doctrine. **Waves** = amphibious myth and insertion that won the sector.
 
@@ -376,7 +376,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 | Supreme command (DECIMA only) | 5 |
 | **Total battle-brothers** | **5,000** |
 
-Per-Vexilla split: [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §4.3 · [vexillationes-and-visual-summary.md](../arsenal-and-logistics/vexillationes-and-visual-summary.md) §1.1. **Legati roster:** [named-characters-register.md](named-characters-register.md).
+Per-Vexilla split: [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §4.3 · [vexilla-and-visual-summary.md](../arsenal-and-logistics/vexilla-and-visual-summary.md) §1.1. **Legati roster:** [named-characters-register.md](named-characters-register.md).
 
 ### Chapter Command
 

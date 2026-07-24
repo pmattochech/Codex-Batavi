@@ -2,7 +2,7 @@
 
 **Goal:** At least **one named character per Vexilla** (PRIMA–DECIMA) for table identity, chronicles, and cross-links — without breaking [`.cursorrules`](../../../../.cursorrules) (**chronological blindness**, **personae locks**, **gene-line POV layers**).
 
-**Registers:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) (Legatus seat ↔ theater) · [vexillationes-and-visual-summary.md](../../../arsenal-and-logistics/vexillationes-and-visual-summary.md) · [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3–§4.
+**Registers:** [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) (Legatus seat ↔ theater) · [vexilla-and-visual-summary.md](../../../arsenal-and-logistics/vexilla-and-visual-summary.md) · [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3–§4.
 
 ---
 
@@ -11,7 +11,7 @@
 - **Pick a slot** per row (Legatus, captain, cohort *decanus*, pure-line sergeant, etc.). You do **not** need ten Legati on day one — one **exemplar** per 500-cell block is enough for the backlog.
 - **New dossier path:** `personae-command-index/character-dossiers/<category>/dossier-<surname-or-epithet>.md` (e.g. `legati/`, `cohorts-and-detachments/`, `mortals/`) — mirror tone/sections of existing dossiers (see [dossier-branimir.md](../cohorts-and-detachments/dossier-branimir.md)).
 - **Index:** add one line in [INDEX.md](../../INDEX.md) under character-dossiers when a file ships.
-- **Cross-link:** optional one-line mention in [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §2 table footnotes when a **Legatus** is canonized.
+- **Cross-link:** optional one-line mention in [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §2 table footnotes when a **Legatus** is canonized.
 
 ---
 

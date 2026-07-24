@@ -110,7 +110,7 @@ PRIMA uses the **same four-field grid** but **field 4 is not triumph** — it is
 * [alabarda-head-groups.md](../../arsenal-and-logistics/alabarda-head-groups.md) — *Alabarda* **head groups** per Vexilla (**PRIMA–NONA**); detach/plant law; bearer authority; cloth identity unchanged  
 * [chapter-identity.md](chapter-identity.md) — *Alabarda* + Vexilla doctrine  
 * [military-hierarchy.md](../doctrine-and-organs/military-hierarchy.md) §3 — Legatus / DECIMA  
-* [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md) — quick ref  
+* [vexilla-and-visual-summary.md](../../arsenal-and-logistics/vexilla-and-visual-summary.md) — quick ref  
 * [visual-identity-paint-guide.md](../../visual-identity-paint-guide.md) — palette / panel notes  
 * [infantry-visual-identity.md](../../arsenal-and-logistics/infantry-visual-identity.md) — plate + vexillum cross-read  
 * [GLOSSARY-EN.md](../../GLOSSARY-EN.md) — *Alabarda* + Vexilla, *justice vexillum*  

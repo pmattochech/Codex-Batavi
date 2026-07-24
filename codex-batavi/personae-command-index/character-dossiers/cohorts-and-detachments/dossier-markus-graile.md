@@ -7,7 +7,7 @@
 **Role:** Senior **tactical executor** for anchor-guard operations **not** reserved to the five supreme posts; primary **instructor-out** liaison for DECIMA purity standards on loan to PRIMA–NONA.  
 **Chapter:** *Cohors Batavorum*.  
 **Reports to:** Lord Castellan **Alaric von Helis** through *Strategium* battle channels (no intermediate Legatus in DECIMA).  
-**Standards:** Does **not** bear a Legatus *Alabarda*; the ***justice vexillum*** (**feral wolf slain by sword**) flies with **Castellan escort** / DECIMA Ancient-equivalent per [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md) §4.  
+**Standards:** Does **not** bear a Legatus *Alabarda*; the ***justice vexillum*** (**feral wolf slain by sword**) flies with **Castellan escort** / DECIMA Ancient-equivalent per [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md) §4.  
 **Apparent service age:** ~180–220 Terran years (estimate).
 
 ---
@@ -17,7 +17,7 @@
 *The Wall’s working definition.*
 
 * **Physique:** Balanced — neither the tallest nor the heaviest in DECIMA, which is **deliberate**; Graile models **median** Batavi morphology for teaching credibility.  
-* **Armor:** **Balanced manifest** loadouts per [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.10 — rotates division billets visibly so returning sergeants cannot guess his “favorite” tool.  
+* **Armor:** **Balanced manifest** loadouts per [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.10 — rotates division billets visibly so returning sergeants cannot guess his “favorite” tool.  
 * **Blade:** Named **plain** gladius pattern — no ego etching; kills are filed by **mission**, not nickname.
 
 ---
@@ -58,4 +58,4 @@
 
 POV for **DECIMA line Marine** perspective — **not** Alaric, **not** a Legatus — useful for **instructor fics**, **anchor-guard** grind, and **Watch-trial** aftermath humanity.
 
-**Cross-reference:** *Justice vexillum* narrative (051.M42 commission; Graile echo): [decima-justice-vexillum.md](../../../chronicles/silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md). [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3 (DECIMA, entry requirements); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.10.
+**Cross-reference:** *Justice vexillum* narrative (051.M42 commission; Graile echo): [decima-justice-vexillum.md](../../../chronicles/silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md). [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3 (DECIMA, entry requirements); [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.10.

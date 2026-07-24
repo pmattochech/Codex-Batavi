@@ -5,7 +5,7 @@
 **Where:** **Marco de Vetra** — **Vacuum Shouter** relay, laser farm complex, reactor vault spines  
 **Who:** **NONA** under **Legatus Cassian Vetra**
 
-**Cross-references:** [dossier-cassian-vetra.md](../../../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.9 · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3
+**Cross-references:** [dossier-cassian-vetra.md](../../../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.9 · [vexilla-by-vexilla-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §3
 
 ---
 

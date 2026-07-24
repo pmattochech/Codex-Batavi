@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, OCTAVA. **Master of the Watch** (incumbent) — reef, Maleventum station, ford watch geometry.  
 **Seat:** **Great Reef / Station-Maleventum** theater — void fight, boarding, reef transit under ion scourge (Threshold macro-system).  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* + Vexilla (OCTAVA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md). **Field 4:** **Witness Ford intercept** (096.M42) — joint void containment with Black Templars.  
+**Bearer of:** *Alabarda* + Vexilla (OCTAVA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Witness Ford intercept** (096.M42) — joint void containment with Black Templars.  
 **Apparent service age:** ~230–280 Terran years (estimate).
 
 ---
@@ -45,7 +45,7 @@
 
 * ***Alabarda* head — Type Contus (void spear):** **compact power spear** (depressed cross-section for corridor carry), **micro hook** (boarding harness, cable, wreck snare), **bulkhead hammer cap** (knock rhythm — melta follows); cloth **furled** in fight; relay **skin-tight** under EM hash — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §10.  
 * **Pole doctrine:** **Combat shield left** (mounted when certified), **Contus right** in approach interlock; **power sword** on belt in tight pressurized runs. Plant at **bulkhead choke, prism face, or boarding lock** for **lane closure** and nested-fire sector handoff — Legatus **feeds the net**, does not leave for torpedo-lane glory.  
-* **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — OCTAVA **void fight**: combat shields, power swords, compact bolters, grav-chutes, hull melta; **Maleventum-filtered** optics; **compact bolter** cadence — no wasted photon under hash.  
+* **Theater fit:** [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) — OCTAVA **void fight**: combat shields, power swords, compact bolters, grav-chutes, hull melta; **Maleventum-filtered** optics; **compact bolter** cadence — no wasted photon under hash.  
 * **Command style:** Suppression **corridor interlock**; Ruin **breach charges** and **bulkhead melta** as default culture — OCTAVA does not apologize for **ship meat**; **nested fire** with allies (Batavi arcs end where assault lanes begin).  
 * **Threshold coordination:** Interfaces with **Cassian Vetra** (NONA) relay doctrine — Malevent knows the bait-moon seat **buys seconds** for the Wall; friction over **who dies louder** for signal time, mutual trust in contact.
 
@@ -71,4 +71,4 @@
 
 POV for **boarding**, **ion storms**, **reef chokepoints**, and **Maleventum** EM horror. Natural bridge to NONA and fleet chronicles. **Legatus Ring:** command virtue **void fire brigade pride without privatizing mesh law**; failure-risk **blocking inland terminal law as “not OCTAVA theater”**.
 
-**Cross-reference:** Armor — ***Typus Octavus — Malevent*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § VIII. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §10; [witness-ford-octava.md](../../../chronicles/vexillum-chronicles/witness-ford-octava/chapter.md) (**096.M42**, OCTAVA field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.8; [general-atlas.md](../../../atlas-and-topography/general-atlas.md) (Threshold mesh); [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).
+**Cross-reference:** Armor — ***Typus Octavus — Malevent*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § VIII. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §10; [witness-ford-octava.md](../../../chronicles/vexillum-chronicles/witness-ford-octava/chapter.md) (**096.M42**, OCTAVA field 4). [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.8; [general-atlas.md](../../../atlas-and-topography/general-atlas.md) (Threshold mesh); [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).

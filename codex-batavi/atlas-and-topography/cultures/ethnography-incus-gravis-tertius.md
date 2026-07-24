@@ -4,7 +4,7 @@
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding)  
 **Seat:** Vexilla **IV** (QVARTA) · Legatus: **Orin Valestrand**  
 **Scope:** Mortal populi only — not full Vexilla doctrine. Chapter footprint via civilian habit until Phase B.  
-**Atlas / fork:** [system-ii-crucible.md](../systems/system-ii-crucible.md) · [worlds-crucible.md](worlds-crucible.md) § **Incus-Gravis Tertius** · armory seat skew: [vexillatio-operational-armory.md](../../arsenal-and-logistics/vexillatio-operational-armory.md) § **QVARTA** · Legatus surface: [dossier-orin-valestrand.md](../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md)  
+**Atlas / fork:** [system-ii-crucible.md](../systems/system-ii-crucible.md) · [worlds-crucible.md](worlds-crucible.md) § **Incus-Gravis Tertius** · armory seat skew: [vexilla-operational-armory.md](../../arsenal-and-logistics/vexilla-operational-armory.md) § **QVARTA** · Legatus surface: [dossier-orin-valestrand.md](../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md)  
 **Basal / Ecclesiarchy:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md) · [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · [ecclesiarchy-on-the-frontier.md](../../political-relations/ecclesiarchy-on-the-frontier.md)  
 **Author mood:** Hymn map applied — yes · [`../../planning/HYMN-OF-THE-LOST-MOOD-LOCK.md`](../../planning/HYMN-OF-THE-LOST-MOOD-LOCK.md)  
 **Local mortal sin (lock):** **false yield**  

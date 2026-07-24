@@ -192,7 +192,7 @@ Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in
 
 ## vexillum-register
 
-*Strategium* after-actions and memoranda for ***Alabarda* field 4** (plus PRIMA obligation and DECIMA justice register). Master table: [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3.
+*Strategium* after-actions and memoranda for ***Alabarda* field 4** (plus PRIMA obligation and DECIMA justice register). Master table: [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §3.
 
 - [INDEX.md](vexillum-register/INDEX.md) — list of all register files
 

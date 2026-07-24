@@ -21,5 +21,5 @@ Full narrative chronicles for operations certified on ***Alabarda* field 4** (an
 - **OCTAVA** — **pair:** [witness-ford-octava.md](witness-ford-octava/chapter.md) (OCTAVA / field 4 lens) + [helbrecht-witness-ford-meeting.md](../audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) (Castellan / Helbrecht / faith)
 - **PRIMA obligation / DECIMA justice** — [malakor-v/chapter.md](../silent-vigil/valerian-heresy/P4-malakor/malakor-v/chapter.md); memorandum [memorandum-prima-rectification-precedent.md](../vexillum-register/memorandum-prima-rectification-precedent.md); chronicle [decima-justice-vexillum/chapter.md](../silent-vigil/valerian-heresy/P5-reformation/decima-justice-vexillum/chapter.md); annex [register-decima-malakor-justice.md](../vexillum-register/register-decima-malakor-justice.md)
 
-Heraldic master table: [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3.
+Heraldic master table: [vexilla-by-vexilla-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §3.
 

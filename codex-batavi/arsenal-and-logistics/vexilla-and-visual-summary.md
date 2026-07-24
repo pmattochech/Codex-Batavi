@@ -15,7 +15,7 @@ The *Cohors Batavorum* fields **5,000** battle-brothers in **ten Vexilla** of **
 | **DECIMA** | *DECIMA* — **anchor guard**              | Mobile; lethal escort to the Lord Castellan                                                                                             | Direct subordination to the **Triumvirate** / tactical **liaison** on Alaric’s frequency |
 
 
-***Alabarda* + Vexilla (quick ref):** halberd + **detachable** four-field cloth — **carried together**, may **ground-pin** separately; chapter achievement, **LATIN-CAPS** ordinal **PRIMA–NONA**, anchor/specialty icon, **greatest success**; **PRIMA**: fourth field = **obligation/remembrance**, **broken-cog** border, **debt not inherited crime** — [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §§1–2; haft **relay**. **DECIMA**: separate **justice vexillum** (feral wolf **slain by sword**) — same file §4. Also: [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/chapter-identity.md); [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
+***Alabarda* + Vexilla (quick ref):** halberd + **detachable** four-field cloth — **carried together**, may **ground-pin** separately; chapter achievement, **LATIN-CAPS** ordinal **PRIMA–NONA**, anchor/specialty icon, **greatest success**; **PRIMA**: fourth field = **obligation/remembrance**, **broken-cog** border, **debt not inherited crime** — [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §§1–2; haft **relay**. **DECIMA**: separate **justice vexillum** (feral wolf **slain by sword**) — same file §4. Also: [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/chapter-identity.md); [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
 
 **Terminology note:** **Nine Phalanx** names the **geographic block** of nine systems (administrative toponym), **not** a combat unit. The combat unit of 500 is always **Vexilla**.
 
@@ -96,7 +96,7 @@ The **284** (PRIMA–NONA) or **279** (DECIMA) **pure-line** Batavi keep **both*
 
 Heraldry marks **who** a Marine is in the 500-cell grid; **operational armory** marks **what** his Vexilla usually embarks **first** on the manifest. The two layers stack: a **Shadows** brother in **SEPTIMA** still carries the **cohort** kit, but his armory draws **Vitreus-pattern** plasma more often than a brother in **PRIMA**.
 
-- Full register (Legatus seat ↔ PRIMA–NONA) and modal weapons / chassis: [vexillatio-operational-armory.md](vexillatio-operational-armory.md).  
+- Full register (Legatus seat ↔ PRIMA–NONA) and modal weapons / chassis: [vexilla-operational-armory.md](vexilla-operational-armory.md).  
 - *World-pattern* Primaris names: [frontier-patterns-primaris.md](frontier-patterns-primaris.md).  
 - Chassis baseline: [noviomagus-standard-engineering.md](noviomagus-standard-engineering.md).
 

@@ -16,7 +16,7 @@
   - [cultures/ethnography-station-maleventum.md](cultures/ethnography-station-maleventum.md) — OCTAVA · [cultures/octava-station-maleventum-culture-bleed.md](cultures/octava-station-maleventum-culture-bleed.md) (station + Reef) · [cultures/worlds-threshold.md](cultures/worlds-threshold.md) § **OCTAVA wing**
   - [cultures/ethnography-marco-de-vetra.md](cultures/ethnography-marco-de-vetra.md) — NONA · [cultures/nona-marco-de-vetra-culture-bleed.md](cultures/nona-marco-de-vetra-culture-bleed.md) · [cultures/worlds-threshold.md](cultures/worlds-threshold.md) § **NONA wing**
 - **Porta Nihili tooling (forks / history / hooks):** [cultures/porta-nihili-world-friction-matrix.md](cultures/porta-nihili-world-friction-matrix.md) (world-vs-world conflict fuel) · [cultures/porta-nihili-mortal-history-beat.md](cultures/porta-nihili-mortal-history-beat.md) (three-layer mortal timeline — cultural symptoms)
-- *Legatus seats ↔ Vexilla (weapon bias):* [../arsenal-and-logistics/vexillatio-operational-armory.md](../arsenal-and-logistics/vexillatio-operational-armory.md) §2
+- *Legatus seats ↔ Vexilla (weapon bias):* [../arsenal-and-logistics/vexilla-operational-armory.md](../arsenal-and-logistics/vexilla-operational-armory.md) §2
 - **systems/** (topography and geopolitics; canonical flora/fauna matrices in the [encyclopedia](../biological-encyclopedia-bestiary/INDEX.md))
   - [system-i-central-bastion.md](systems/system-i-central-bastion.md)
   - [system-ii-crucible.md](systems/system-ii-crucible.md)

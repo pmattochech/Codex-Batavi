@@ -2,7 +2,7 @@
 
 **Status:** Planning — print / wiki first; SM2 inject later.  
 **Grammar template:** Games Workshop / *Space Marine* **Ultramarines** (and Codex Astartes) **transfer-sheet logic** — chapter left, role+numeral right, rank knee — adapted to Cohors Batavorum **Vexilla** mesh (not Codex companies).  
-**Related:** [`HERALDRY-INGAME-PLAN.md`](HERALDRY-INGAME-PLAN.md) · [`../arsenal-and-logistics/infantry-visual-identity.md`](../arsenal-and-logistics/infantry-visual-identity.md) · [`../arsenal-and-logistics/specialty-cohorts.md`](../arsenal-and-logistics/specialty-cohorts.md) · [`../arsenal-and-logistics/vexillationes-and-visual-summary.md`](../arsenal-and-logistics/vexillationes-and-visual-summary.md) · [`../visual-identity-paint-guide.md`](../visual-identity-paint-guide.md) · seal raster [`../lore-images/chapter-seal-official.png`](../lore-images/chapter-seal-official.png)
+**Related:** [`HERALDRY-INGAME-PLAN.md`](HERALDRY-INGAME-PLAN.md) · [`../arsenal-and-logistics/infantry-visual-identity.md`](../arsenal-and-logistics/infantry-visual-identity.md) · [`../arsenal-and-logistics/specialty-cohorts.md`](../arsenal-and-logistics/specialty-cohorts.md) · [`../arsenal-and-logistics/vexilla-and-visual-summary.md`](../arsenal-and-logistics/vexilla-and-visual-summary.md) · [`../visual-identity-paint-guide.md`](../visual-identity-paint-guide.md) · seal raster [`../lore-images/chapter-seal-official.png`](../lore-images/chapter-seal-official.png)
 
 **Non-canon note:** This file is **design law for transfers**. Existing wiki still says “left = frontal wolf” in places that already match; **pure-line rim vs Codex company colour** is a deliberate Batavi fork (see §4).
 
@@ -140,7 +140,7 @@ batavi_knee_{line|sgt|lt|capt}
 On explicit sync order, update:
 
 - [`infantry-visual-identity.md`](../arsenal-and-logistics/infantry-visual-identity.md) — left = wolf only; right = role/cohort + Roman  
-- [`vexillationes-and-visual-summary.md`](../arsenal-and-logistics/vexillationes-and-visual-summary.md) — visual hierarchy step for Romans on **right**
+- [`vexilla-and-visual-summary.md`](../arsenal-and-logistics/vexilla-and-visual-summary.md) — visual hierarchy step for Romans on **right**
 
 ---
 

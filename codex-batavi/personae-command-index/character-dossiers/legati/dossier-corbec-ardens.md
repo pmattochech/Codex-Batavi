@@ -4,9 +4,9 @@
 
 **Full name:** Corbec Ardens.  
 **Rank:** **Legatus**, PRIMA.  
-**Seat:** **Noviomagus Prime** — governor of the Chapter’s reference forge and line-replacement tempo. **Law:** Holds PRIMA’s *Legatus* anchor **on** Noviomagus per **post–050.M42** *Strategium* **re-seat** (after the First Legatus **forward** geometry on the Cicatrix lip was **closed**); not a continuation of Valerius’s campaign HQ. *See* [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3 (PRIMA).  
+**Seat:** **Noviomagus Prime** — governor of the Chapter’s reference forge and line-replacement tempo. **Law:** Holds PRIMA’s *Legatus* anchor **on** Noviomagus per **post–050.M42** *Strategium* **re-seat** (after the First Legatus **forward** geometry on the Cicatrix lip was **closed**); not a continuation of Valerius’s campaign HQ. *See* [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3 (PRIMA).  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* + Vexilla (PRIMA lattice) — **four-field** face per [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md): fourth quadrant is **obligation / remembrance** (Malakor–Valerius register), **broken-cog** border; *Strategium* brief to PRIMA transfers: *debt we carry — not a crime you committed* (§2.2).  
+**Bearer of:** *Alabarda* + Vexilla (PRIMA lattice) — **four-field** face per [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md): fourth quadrant is **obligation / remembrance** (Malakor–Valerius register), **broken-cog** border; *Strategium* brief to PRIMA transfers: *debt we carry — not a crime you committed* (§2.2).  
 **Apparent service age:** ~260–310 Terran years (estimate; frontier-native).
 
 ---
@@ -38,7 +38,7 @@
 ## 3\. Combat and doctrine
 
 * ***Alabarda* head — Type Primus (reference):** power axe cheek, short power impaler, power hammer opposite, butt spike for plant and lattice — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §3.  
-* **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — PRIMA baseline **industrial war**: bolters, chainswords, sustained automatic culture.  
+* **Theater fit:** [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) — PRIMA baseline **industrial war**: bolters, chainswords, sustained automatic culture.  
 * **Command style:** Positions PRIMA as the **calibration Vexilla** for the other eight — when another Legatus disputes *Armourium* queue priority, Corbec’s answer is **live fire tallies**, not rank shout. His **Typus Primus** armor is the **acceptance trial** PRIMA line brothers are measured against (vex-calibrated Noviomagus Standard — same class, without Legatus-only marks).  
 * **Specialty cohort interface:** Treats Silence, Shadows, Stasis, and Nullity as **equal teeth** — refuses to starve one cohort to feed another’s legend.
 

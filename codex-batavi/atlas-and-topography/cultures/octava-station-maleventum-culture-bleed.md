@@ -5,7 +5,7 @@
 **Sin lock (populi):** **false pressure** (reef accent: **ungrounded boast**).  
 **Seam weight:** **Imperial Navy** + **Insular Navis / chart-houses** — Core cultural engines at every contact surface below.
 
-**Sources:** [`ethnography-station-maleventum.md`](ethnography-station-maleventum.md) · [`dossier-ivar-malevent.md`](../../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) · [`castra-vetera-galactic-lock.md`](../castra-vetera-galactic-lock.md) · [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) · [`vexillatio-operational-armory.md`](../../arsenal-and-logistics/vexillatio-operational-armory.md) § VIII · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md)
+**Sources:** [`ethnography-station-maleventum.md`](ethnography-station-maleventum.md) · [`dossier-ivar-malevent.md`](../../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) · [`castra-vetera-galactic-lock.md`](../castra-vetera-galactic-lock.md) · [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) · [`vexilla-operational-armory.md`](../../arsenal-and-logistics/vexilla-operational-armory.md) § VIII · [`vexilla-by-vexilla-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md)
 
 **MUST NOT (this file):** Writing Phase C wing stubs inside this bleed; Founding / progenitor invention; Witness Ford as time-magic; gene-seed / *Axiom* / Furor clinical law dumped into dock rumor as fact. Wing stubs live on [`worlds-threshold.md`](worlds-threshold.md) § **OCTAVA wing**.
 
@@ -151,7 +151,7 @@
 
 ## Cross-links
 
-[`ethnography-station-maleventum.md`](ethnography-station-maleventum.md) · [`worlds-threshold.md`](worlds-threshold.md) § **Station-Maleventum** · § **The Great Reef** · § **OCTAVA wing** · [`dossier-ivar-malevent.md`](../../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) · [`castra-vetera-galactic-lock.md`](../castra-vetera-galactic-lock.md) · [`vexillatio-operational-armory.md`](../../arsenal-and-logistics/vexillatio-operational-armory.md) § VIII · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md)
+[`ethnography-station-maleventum.md`](ethnography-station-maleventum.md) · [`worlds-threshold.md`](worlds-threshold.md) § **Station-Maleventum** · § **The Great Reef** · § **OCTAVA wing** · [`dossier-ivar-malevent.md`](../../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) · [`castra-vetera-galactic-lock.md`](../castra-vetera-galactic-lock.md) · [`vexilla-operational-armory.md`](../../arsenal-and-logistics/vexilla-operational-armory.md) § VIII · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md) · [`vexilla-by-vexilla-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) · [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md)
 
 ---
 

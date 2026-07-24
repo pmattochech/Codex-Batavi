@@ -5,7 +5,7 @@
 **Where:** Bifrons-Ferrum **gulf** — **Korvus-A** (outer macro-vault), **Korvus-B** (inner spine), **tether** hab  
 **Who:** **SEXTA** under **Legatus Gervas Bifronte**; heretic Astartes warband — **unmarked** plate, siege doctrine (public register: **no** gene-line titling)
 
-**Cross-references:** [dossier-gervas-bifronte.md](../../../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.6 · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3
+**Cross-references:** [dossier-gervas-bifronte.md](../../../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.6 · [vexilla-by-vexilla-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §3
 
 ---
 

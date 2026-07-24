@@ -26,4 +26,4 @@ This document records why **field 4** of the First’s battle standard carries *
 
 *Strategium* acknowledges **no** competing “greatest success” panel for **I** *Vexilla* on the same axis as **SECVNDA–NONA**.
 
-**Cross-ref:** [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §2–2.2.
+**Cross-ref:** [vexilla-by-vexilla-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §2–2.2.

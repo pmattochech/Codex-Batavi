@@ -127,7 +127,7 @@ def main() -> None:
         "noviomagus-standard-engineering.md",
         "infantry-visual-identity.md",
         "specialty-cohorts.md",
-        "vexillationes-and-visual-summary.md",
+        "vexilla-and-visual-summary.md",
     ]
     for i, name in enumerate(names):
         (arsenal / name).write_text("".join(a_lines[bounds[i] : bounds[i + 1]]), encoding="utf-8")

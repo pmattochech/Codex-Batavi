@@ -43,7 +43,7 @@
 
 Detail: [`noviomagus-standard-engineering.md`](noviomagus-standard-engineering.md) §4 · [`dossier-corbec-ardens.md`](../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md) §1 · [`dossier-henric-kessler.md`](../personae-command-index/character-dossiers/legati/dossier-henric-kessler.md) §1 · [`dossier-theron-brach.md`](../personae-command-index/character-dossiers/legati/dossier-theron-brach.md) §1 · [`dossier-orin-valestrand.md`](../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md) §1 · [`dossier-armin-sturmwahl.md`](../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) §1 · [`dossier-gervas-bifronte.md`](../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md) §1 · [`dossier-lucan-phaetron.md`](../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md) §1 · [`dossier-ivar-malevent.md`](../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) §1 · [`dossier-cassian-vetra.md`](../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md) §1.
 
-**Theater bias (Vex-wide):** [`vexillatio-operational-armory.md`](vexillatio-operational-armory.md) §3 · **Vexillum field 4:** [`vexilla-by-vexillatio-design.md`](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3.
+**Theater bias (Vex-wide):** [`vexilla-operational-armory.md`](vexilla-operational-armory.md) §3 · **Vexillum field 4:** [`vexilla-by-vexilla-design.md`](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §3.
 
 ---
 
@@ -225,7 +225,7 @@ NONA    ─ relay pin / delay until the shout
 - [`military-hierarchy.md`](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3 — Legatus / Castellan chain  
 - [`castra-lupus-doctrine.md`](castra-lupus-doctrine.md) — Castellan kit only  
 - [`alabarda-head-groups.md`](alabarda-head-groups.md) — pole identity  
-- [`vexillatio-operational-armory.md`](vexillatio-operational-armory.md) — modal weapons and chassis bias  
+- [`vexilla-operational-armory.md`](vexilla-operational-armory.md) — modal weapons and chassis bias  
 - Legati dossiers — [`legati/`](../personae-command-index/character-dossiers/legati/)
 
 **Maintenance:** When a Legatus armor package is locked in design review, update that section’s **Armor** row here and the matching dossier §1 in the same pass.

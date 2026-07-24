@@ -55,7 +55,7 @@ Beyond anatomical changes, Alaric von Helis’s intermediate-stage stabilization
   * **Right shoulder and inner lining (affection/anchor):** Old Thunderwolf Viggo white pelt lines armor interior retaining reactor heat. Large intact taxidermy Viggo head rests right shoulder, white forepaws crossing Alaric’s neck each side like embrace. White wolf eyes pale blue lenses. Both taxidermy lenses (red and blue) emit same glow Astartes visors.  
 * **Gyro mourning:** Witnessing Viggo’s death by age, Alaric refused wolf burial in “cold earth.” Shut gyros and exterminator armor traction systems, frozen statue-like 24 uninterrupted hours silent mourning rite.  
 * **Fixed sentinel talisman:** Ivory-carved amulet fixed armor. Rune Priests Fenris forged from Viggo bones; relic channels guardian protection watching Alaric’s flanks beside Emperor.  
-* **DECIMA escort — justice vexillum:** On formal *Strategium* deployments, the **anchor guard** flies the **justice vexillum** beside the Castellan — **feral wolf slain by sword**, register of **Malakor V** and First Legatus treason **ended** (not Legatus *Alabarda* geometry). [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md) §4; [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3.
+* **DECIMA escort — justice vexillum:** On formal *Strategium* deployments, the **anchor guard** flies the **justice vexillum** beside the Castellan — **feral wolf slain by sword**, register of **Malakor V** and First Legatus treason **ended** (not Legatus *Alabarda* geometry). [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md) §4; [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3.
 
 ### 1.3. THE CHAIN OF NAMES
 

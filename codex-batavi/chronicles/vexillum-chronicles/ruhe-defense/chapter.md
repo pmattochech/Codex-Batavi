@@ -5,7 +5,7 @@
 **Where:** Incus-Gravis theater — high-gravity **shingle** trenches, grav-locked revetments  
 **Who:** **QVARTA** (primary holding element); *Medicinae* annex; viewpoint **Brother Branimir Vorhalt** (4th cohort, pre–*Decanus Primus* Silence certification)
 
-**Cross-references:** [dossier-orin-valestrand.md](../../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md) (Legatus, QVARTA) · [dossier-branimir.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §III · [spiritus-broken-silence.md](../biologis-spiritus-foundation/spiritus-broken-silence/chapter.md) · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3
+**Cross-references:** [dossier-orin-valestrand.md](../../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md) (Legatus, QVARTA) · [dossier-branimir.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §III · [spiritus-broken-silence.md](../biologis-spiritus-foundation/spiritus-broken-silence/chapter.md) · [vexilla-by-vexilla-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §3
 
 ---
 

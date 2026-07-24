@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, QVARTA.  
 **Seat:** **Incus-Gravis sphere** (Tertius / Secundus jurisdiction) — high-gravity shingle seas, inverted hives, grav-locked trench war.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* + Vexilla (QVARTA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md). **Field 4:** **March defense** — static grav-locked line under Tyranid **Shadow in the Warp** ([ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md)).  
+**Bearer of:** *Alabarda* + Vexilla (QVARTA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **March defense** — static grav-locked line under Tyranid **Shadow in the Warp** ([ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md)).  
 **Apparent service age:** ~230–280 Terran years (estimate; frontier-native filing).
 
 ---
@@ -42,7 +42,7 @@
 ## 3\. Combat and doctrine
 
 * ***Alabarda* head — Type Securis (cleave and drag):** massive power cleaver / guillotine plane, sliding hook on spine, heaviest plant spike — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §6.  
-* **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — QVARTA **high-G static war**: heavy bolt rifles, meltaguns, tactical missiles, storm shields on chokes; Siege/Ruin skew.  
+* **Theater fit:** [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) — QVARTA **high-G static war**: heavy bolt rifles, meltaguns, tactical missiles, storm shields on chokes; Siege/Ruin skew.  
 * **March of the Machine:** QVARTA is the Chapter’s registered **March** school — **march-edge** on coalition boards; **march-deep** only with logged Shadow threshold and **Genetor Vexilli** clearance. Valestrand trains brothers to **anchor** under veil pressure, not to chase auspex ghosts.  
 * **Command style:** **Semi-auto on crest**, missile trades with **receipts**, storm shields on choke geometry; forbids early mag-dumps when Shadow makes waiting feel like consent. Post–***Curia Vexilli*** era: rotation law enforced — same lance does not take deep March twice without stand-down.  
 * **Silence Cohort:** Relies on **Branimir Vorhalt**’s cadre for cult and mimic work **without** fleet Shadow — Valestrand does not pretend biology replaces ivory vigilance.

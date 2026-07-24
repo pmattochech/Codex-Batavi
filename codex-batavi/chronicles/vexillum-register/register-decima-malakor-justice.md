@@ -25,4 +25,4 @@ Typically senior DECIMA Ancient-equivalent or Castellan honour guard — not int
 
 ## IV. Cross-reference
 
-[vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §4.
+[vexilla-by-vexilla-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §4.

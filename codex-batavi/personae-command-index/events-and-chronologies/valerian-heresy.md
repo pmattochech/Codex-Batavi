@@ -126,7 +126,7 @@ Victory after **brother-war** → **debt** to mortals and mesh Valerius claimed 
 - [ ] [`master-chronology.md`](master-chronology.md) §II–§IV date rail  
 - [ ] [`dossier-valerius.md`](../character-dossiers/expunged/dossier-valerius.md) §IV–V dates  
 - [ ] [`silent-vigil/README.md`](../../chronicles/silent-vigil/README.md) + subsaga INDEX date stamps  
-- [ ] [`vexilla-by-vexillatio-design.md`](../intro-and-heraldry/vexilla-by-vexillatio-design.md) — post-heresy commission note  
+- [ ] [`vexilla-by-vexilla-design.md`](../intro-and-heraldry/vexilla-by-vexilla-design.md) — post-heresy commission note  
 - [ ] `malakor-v` header dates + “forty-three years” line  
 - [ ] GLOSSARY / downstream **~050** references  
 

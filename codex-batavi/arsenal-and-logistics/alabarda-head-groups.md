@@ -10,7 +10,7 @@
 
 **Alabarda:** The Legatus **halberd / polearm** — head group, haft relay, butt spike. Combat instrument and *Curia* telemetry spine.
 
-**Vexilla (cloth):** The **four-field battle standard** of that Legatus’s unit — chapter icon, **LATIN-CAPS** ordinal (**PRIMA**–**NONA**), anchor/specialty, success or (PRIMA only) obligation/remembrance — [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md).
+**Vexilla (cloth):** The **four-field battle standard** of that Legatus’s unit — chapter icon, **LATIN-CAPS** ordinal (**PRIMA**–**NONA**), anchor/specialty, success or (PRIMA only) obligation/remembrance — [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md).
 
 **Carry law:** Alabarda and Vexilla are **issued and carried together** as one Legatus rig. They are **not** permanently fixed as a single welded trophy.
 
@@ -26,7 +26,7 @@
 
 **What varies on the Alabarda:** Only the **head group** (and, for **NONA**, certified **haft length modes**) — *Armourium* **pattern** per Vexilla seat. The metal answers **theater geometry**; the cloth answers **unit identity**.
 
-**DECIMA:** Flies the separate **justice vexillum**, not a Legatus *Alabarda* clone — [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §4.
+**DECIMA:** Flies the separate **justice vexillum**, not a Legatus *Alabarda* clone — [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §4.
 
 ---
 
@@ -167,7 +167,7 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 ## 13. Related
 
 - [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) — *Alabarda* + Vexilla cloth and physical rig  
-- [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — four-field register  
+- [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) — four-field register  
 - [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3 — Legatus / relay  
-- [vexillatio-operational-armory.md](vexillatio-operational-armory.md) — theater proficiency per Vex  
+- [vexilla-operational-armory.md](vexilla-operational-armory.md) — theater proficiency per Vex  
 - [lore-images/alabarda-vexillum-layout-reference.png](../lore-images/alabarda-vexillum-layout-reference.png) — yard and panel geometry  

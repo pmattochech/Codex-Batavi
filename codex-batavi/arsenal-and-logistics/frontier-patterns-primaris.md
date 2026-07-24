@@ -32,7 +32,7 @@ A Marine may carry a **Khan-Bator-pattern flamer** while serving in SECVNDA — 
 | **Marco de Vetra** | Boltstorm / sustained bolt packages, heavy bolter (tactical mount), missile launcher (tactical), melta, bolt carbine | **Relay-holder** maintenance: heat cycling for long bursts, **demo-safe** fusing, **laser-window** EM hygiene. |
 | **Singularity-Point** (Cerberus watch; not Legatus seat) | Instigator bolt carbine, melta rifle, neo-volkite caliver | **Rift-adjacent** trials; **low-volume** batches; strict accountability; issued to NONA rotations and specialist cells. |
 
-*Which Vexilla leans on which family:* [vexillatio-operational-armory.md](vexillatio-operational-armory.md) §3.
+*Which Vexilla leans on which family:* [vexilla-operational-armory.md](vexilla-operational-armory.md) §3.
 
 ---
 

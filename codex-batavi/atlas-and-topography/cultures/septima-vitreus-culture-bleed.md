@@ -251,7 +251,7 @@ Matte anti-glare panels; orange lenses; knuckle before window; pole planted at m
 
 ## Cross-links
 
-[`ethnography-vitreus.md`](ethnography-vitreus.md) · [`worlds-crucible.md`](worlds-crucible.md) § **Vitreus** · [`../INDEX.md`](../INDEX.md) · [`dossier-lucan-phaetron.md`](../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md) · [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) · [`../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · [`../../arsenal-and-logistics/vexillatio-operational-armory.md`](../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.7 · [`null-vent-covenant.md`](../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md)
+[`ethnography-vitreus.md`](ethnography-vitreus.md) · [`worlds-crucible.md`](worlds-crucible.md) § **Vitreus** · [`../INDEX.md`](../INDEX.md) · [`dossier-lucan-phaetron.md`](../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md) · [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) · [`../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) · [`../../arsenal-and-logistics/vexilla-operational-armory.md`](../../arsenal-and-logistics/vexilla-operational-armory.md) §3.7 · [`null-vent-covenant.md`](../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md)
 
 ---
 

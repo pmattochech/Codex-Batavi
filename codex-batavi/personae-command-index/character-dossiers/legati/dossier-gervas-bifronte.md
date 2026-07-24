@@ -7,7 +7,7 @@
 **Chapter offices:** **Siege Master** of the *Cohors Batavorum*; ***Maior Caementarius*** (**Greater Mason**); ***Pater Murorum*** (**Father of Walls** — Guard and mortal mesh coinage).  
 **Seat:** **Bifrons-Ferrum** — dual-world gulf fortifications, stasis-adjacent vault war, siege core of the Crucible macro-system.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* + Vexilla (SEXTA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md).  
+**Bearer of:** *Alabarda* + Vexilla (SEXTA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
 **Apparent service age:** ~240–290 Terran years (estimate).
 
 ---
@@ -47,7 +47,7 @@
 ### 3.1 Legatus combat (SEXTA)
 
 * ***Alabarda* head — Type Malleus (impact-first):** dominant power maul / forge hammer face; reduced axe edge; reinforced haft for breach plant — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §8.  
-* **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — SEXTA **siege and vault war**: largest **Indomitor** pool, plasma cannons on heavy chassis, cyclone support, storm shields on line brothers.  
+* **Theater fit:** [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) — SEXTA **siege and vault war**: largest **Indomitor** pool, plasma cannons on heavy chassis, cyclone support, storm shields on line brothers.  
 * **Twin-phase commit (Bifronte grammar):** **Pre-breach** — TDA in assault boats, slow tide, thermal checks. **Breach minute** — **Gate A / Gate B** on **one mark** (*Three. Two. One. Mark.*). **Ingress** — **mission-variable** fast wave (Land Raiders, bikes, jump elements — mix per theater) clears the hole and plants homer. **Reserve** — homer **GREEN** → Bifronte + terminator wedge **teleport in**; homer **RED** (pre-authorized on slate) → **extraction** if geometry closes — not panic vox. Opposite of Sturmwahl: Gervas **opens** the puncture and **commits** mass after evidence, he does **not** race the first meter.  
 * **Command style:** Siege division is **cultural heart**; Suppression trains **breach escort** and **interior lockstep** rather than open skirmish vanity.  
 * **Stasis logistics:** Coordinates with *Armourium* on **Dreadnought-adjacent** supply — vocabulary overlaps with Kadmos’s forge priests without merging chains of command.
@@ -63,7 +63,7 @@
 | Vault sustainment / pattern fidelity | **SECVNDA** (*Depositorium Cataphractae*, Castra-Vetera vaults) | Gervas **designs**; SECVNDA **keeps** what must not be lost |
 | Final hold / mesh seal | **Alaric** | Receives **Bifronte audit** before major Strategium commitments |
 
-**Legati forge councils:** Gervas convenes **theater-native** fortress plans at each **Legatus seat** — never one blueprint copied nine times. Each capital receives a mesh that **respects** that Vexilla’s operational mode ([`vexillatio-operational-armory.md`](../../../arsenal-and-logistics/vexillatio-operational-armory.md)):
+**Legati forge councils:** Gervas convenes **theater-native** fortress plans at each **Legatus seat** — never one blueprint copied nine times. Each capital receives a mesh that **respects** that Vexilla’s operational mode ([`vexilla-operational-armory.md`](../../../arsenal-and-logistics/vexilla-operational-armory.md)):
 
 | Seat | Seat | Mason’s adaptation |
 | ---- | ---- | ------------------ |
@@ -120,4 +120,4 @@ Three acts — staff map to *Vigilance* register (Foundation build · brother-wa
 
 POV for **siege**, **vault horror**, **Gravis meatgrinder**, **teleport reserve**, **stasis-adjacent** dread, **architect council** (Legati forge sessions), **Castellan weak-point audit**, **counter-siege** (*Ferrum Cage*), and **penance without sermon**. Complements QVARTA high-G static war (Branimir’s turf) at **macro** Legatus scale. **Legatus Ring:** command virtue **Gravis meatgrinder clarity**; failure-risk **slowing redundancy activation until physical breach confirms command inversion**.
 
-**Cross-reference:** Armor — ***Typus Sextus — Bifronte*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § VI. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §8; [korvus-twin-breach.md](../../../chronicles/vexillum-chronicles/korvus-twin-breach/chapter.md) (**098.M42**, SEXTA field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.6; [friction-geometry.md](../../doctrine-and-organs/friction-geometry.md); [valerian-heresy.md](../../events-and-chronologies/valerian-heresy.md); [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).
+**Cross-reference:** Armor — ***Typus Sextus — Bifronte*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § VI. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §8; [korvus-twin-breach.md](../../../chronicles/vexillum-chronicles/korvus-twin-breach/chapter.md) (**098.M42**, SEXTA field 4). [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.6; [friction-geometry.md](../../doctrine-and-organs/friction-geometry.md); [valerian-heresy.md](../../events-and-chronologies/valerian-heresy.md); [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).

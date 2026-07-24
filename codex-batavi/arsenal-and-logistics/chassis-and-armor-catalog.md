@@ -8,8 +8,8 @@ Reference entries for equipment cited in dossiers and chronicles. Full tactical 
 | Designation | Description | Document |
 | ----------- | ----------- | -------- |
 | **Noviomagus Standard** | Industrial Astartes chassis mod: high-density ceramite, gravitic anchoring, traction, chemical sealing. | [noviomagus-standard-engineering.md](noviomagus-standard-engineering.md) |
-| **Cohort / Vexilla heraldry** | Pauldrons, lenses, line divisions by Vexilla, cross-cutting cohorts. | [infantry-visual-identity.md](infantry-visual-identity.md), [specialty-cohorts.md](specialty-cohorts.md), [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) |
-| **Vexilla-scale chassis bias** | Modal **Gravis**, **Indomitor**, and **Tactical Dreadnought Armour** pool concentrated under **SEXTA** (SEXTA, Bifrons-Ferrum); jump-rated packages under **QVINTA**; balanced pool under **DECIMA**. | [vexillatio-operational-armory.md](vexillatio-operational-armory.md) §3 |
+| **Cohort / Vexilla heraldry** | Pauldrons, lenses, line divisions by Vexilla, cross-cutting cohorts. | [infantry-visual-identity.md](infantry-visual-identity.md), [specialty-cohorts.md](specialty-cohorts.md), [vexilla-and-visual-summary.md](vexilla-and-visual-summary.md) |
+| **Vexilla-scale chassis bias** | Modal **Gravis**, **Indomitor**, and **Tactical Dreadnought Armour** pool concentrated under **SEXTA** (SEXTA, Bifrons-Ferrum); jump-rated packages under **QVINTA**; balanced pool under **DECIMA**. | [vexilla-operational-armory.md](vexilla-operational-armory.md) §3 |
 
 
 ## Exceptional chassis and variants

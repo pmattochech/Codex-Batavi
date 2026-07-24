@@ -6,7 +6,7 @@
 **Local mortal sin (lock):** **ghost haul** (unwitnessed salvage).  
 **Physical locks carried from Phase A:** **tide** / **mud** / **salt**.
 
-**Sources:** [`ethnography-aethelgard-prime.md`](ethnography-aethelgard-prime.md) · [`dossier-armin-sturmwahl.md`](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [`worlds-crucible.md`](worlds-crucible.md) § **Aethelgard Prime** · [`geography-aethelgard-prime.md`](geography-aethelgard-prime.md) · [`vexillatio-operational-armory.md`](../../arsenal-and-logistics/vexillatio-operational-armory.md) § QVINTA · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) § QVINTA · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md)
+**Sources:** [`ethnography-aethelgard-prime.md`](ethnography-aethelgard-prime.md) · [`dossier-armin-sturmwahl.md`](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [`worlds-crucible.md`](worlds-crucible.md) § **Aethelgard Prime** · [`geography-aethelgard-prime.md`](geography-aethelgard-prime.md) · [`vexilla-operational-armory.md`](../../arsenal-and-logistics/vexilla-operational-armory.md) § QVINTA · [`vexilla-by-vexilla-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) § QVINTA · [`chapter-organization.md`](../../personae-command-index/chapter-organization.md)
 
 **Hard hygiene:** Do **not** dump Einar / *Amissi* / Steppenwolf sealed doctrine, gene-seed, or Founding claims into populi rumor as fact. Phase C wing stubs are **out of scope** this pass.
 
@@ -181,7 +181,7 @@ Only orgs from Phase A §7A that **actually touch** Chapter footprint on this mo
 
 ## Cross-links
 
-[`ethnography-aethelgard-prime.md`](ethnography-aethelgard-prime.md) · [`worlds-crucible.md`](worlds-crucible.md) § **Aethelgard Prime** · [`../INDEX.md`](../INDEX.md) · [`geography-aethelgard-prime.md`](geography-aethelgard-prime.md) · [`dossier-armin-sturmwahl.md`](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [`vexillatio-operational-armory.md`](../../arsenal-and-logistics/vexillatio-operational-armory.md) · [`vexilla-by-vexillatio-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) · [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md)
+[`ethnography-aethelgard-prime.md`](ethnography-aethelgard-prime.md) · [`worlds-crucible.md`](worlds-crucible.md) § **Aethelgard Prime** · [`../INDEX.md`](../INDEX.md) · [`geography-aethelgard-prime.md`](geography-aethelgard-prime.md) · [`dossier-armin-sturmwahl.md`](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [`vexilla-operational-armory.md`](../../arsenal-and-logistics/vexilla-operational-armory.md) · [`vexilla-by-vexilla-design.md`](../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) · [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md)
 
 ---
 

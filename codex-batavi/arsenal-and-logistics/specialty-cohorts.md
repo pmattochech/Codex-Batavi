@@ -4,13 +4,13 @@
 
 ## 1\. COHORTS AND VEXILLATIONES (GRID MODEL)
 
-The **four specialty cohorts** are not units “apart” from the Chapter: in **each** Vexilla there is an **organic contingent of fifty** warriors **per** cohort (4 × 50 = **200**). The remainder of the **500** ceiling is **pure line** (**284** in PRIMA–NONA; **279** in X), **organic support** (**16**: 4 Apothecaries, 4 Techmarines, 3 adjutant Chaplains, 5 **Batavian Haruspices**), and, **only in the Tenth**, **five** supreme posts — see [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) §1.1.
+The **four specialty cohorts** are not units “apart” from the Chapter: in **each** Vexilla there is an **organic contingent of fifty** warriors **per** cohort (4 × 50 = **200**). The remainder of the **500** ceiling is **pure line** (**284** in PRIMA–NONA; **279** in X), **organic support** (**16**: 4 Apothecaries, 4 Techmarines, 3 adjutant Chaplains, 5 **Batavian Haruspices**), and, **only in the Tenth**, **five** supreme posts — see [vexilla-and-visual-summary.md](vexilla-and-visual-summary.md) §1.1.
 
 **Instruction:** veterans of the **DECIMA** (*anchor guard*) rotate as **certified instructors** through the other nine Vexilla, so each fifty-Marine detachment reproduces the same tactical *standard* (Silence, Shadows, Stasis, Nullity) without doctrinal fragmentation.
 
 **Path to the Tenth:** time in line + sequential service in all four specialty detachments + extreme merit + **Batav Wolf trial** (see [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3). Species / trial law: [batav-wolf-canis-batavorum.md](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md). **Legacy symbolism (do not cite):** [gray-silence-of-fenris.md](../chronicles/outdated/martha-kitchen-guest-astartes/gray-silence-of-fenris/chapter.md), [diplomacy-aethelgard.md](../chronicles/outdated/space-wolves-alaric-relations/diplomacy-aethelgard/chapter.md).
 
-*Numeric map and summary heraldry:* [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md).
+*Numeric map and summary heraldry:* [vexilla-and-visual-summary.md](vexilla-and-visual-summary.md).
 
 ---
 
@@ -66,7 +66,7 @@ Pattern analysis **does not replace** *Lex Imperialis* or custody for interrogat
 
 **Dual-path brothers** (Silence certification plus Shadows certification) are rare; they rotate pauldron by assignment but file **Silence-first** on mixed lattices unless *Strategium* orders otherwise. Reference: [dossier-valens-ritter.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-valens-ritter.md).
 
-**Theater exception (melee only):** **QVINTA** elevates **chainsword** to **primary melee** for **pure line** and jump-assault cells — Aethelgard storm culture and **Wild Hunt** closure — **without** changing the Shadows cohort table. See [cohort-standard-kit.md](cohort-standard-kit.md) §6 · [vexillatio-operational-armory.md](vexillatio-operational-armory.md) (QVINTA).
+**Theater exception (melee only):** **QVINTA** elevates **chainsword** to **primary melee** for **pure line** and jump-assault cells — Aethelgard storm culture and **Wild Hunt** closure — **without** changing the Shadows cohort table. See [cohort-standard-kit.md](cohort-standard-kit.md) §6 · [vexilla-operational-armory.md](vexilla-operational-armory.md) (QVINTA).
 
 ---
 

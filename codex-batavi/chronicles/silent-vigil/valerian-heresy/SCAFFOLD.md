@@ -213,7 +213,7 @@ Victory after brother-war → **island debt**:
 - [ ] [`dossier-alaric.md`](../../../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md)
 - [ ] [`dossier-corbec-ardens.md`](../../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md)
 - [ ] [`../README.md`](../README.md) · [`../INDEX.md`](../INDEX.md)
-- [ ] [`vexilla-by-vexillatio-design.md`](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md)
+- [ ] [`vexilla-by-vexilla-design.md`](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md)
 - [ ] [`vexillum-register/`](../../vexillum-register/INDEX.md) field-4 dates
 - [ ] [`GLOSSARY-EN.md`](../../../GLOSSARY-EN.md)
 - [ ] `malakor-v` + Corbec chapter headers

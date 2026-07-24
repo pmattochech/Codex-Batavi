@@ -8,7 +8,7 @@
 ## intro-and-heraldry
 
 - [intro-and-heraldry.md](intro-and-heraldry/chapter-identity.md) — title, myth, and heraldry summary
-- [vexilla-by-vexillatio-design.md](intro-and-heraldry/vexilla-by-vexillatio-design.md) — *Alabarda* four-field register; PRIMA obligation §2.2; DECIMA justice vexillum §4
+- [vexilla-by-vexilla-design.md](intro-and-heraldry/vexilla-by-vexilla-design.md) — *Alabarda* four-field register; PRIMA obligation §2.2; DECIMA justice vexillum §4
 
 ## doctrine-and-organs
 
@@ -31,7 +31,7 @@
 
 ### plans
 
-- [vexillatio-named-characters-plan.md](character-dossiers/plans/vexillatio-named-characters-plan.md) — backlog worksheet: one named figure per PRIMA–DECIMA (status matrix + dossier stub)
+- [vexilla-named-characters-plan.md](character-dossiers/plans/vexilla-named-characters-plan.md) — backlog worksheet: one named figure per PRIMA–DECIMA (status matrix + dossier stub)
 
 ### triumvirate
 

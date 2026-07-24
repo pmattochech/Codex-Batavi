@@ -3,7 +3,7 @@
 **Purpose:** Single lookup table for **named** figures in `codex-batavi/` — dossier canon, recurring chronicle roles, and major guest Imperial personae.  
 **Not included:** unnamed line troops, crowd extras, or one-line walk-ons unless they recur across files.
 
-**Dossier hub:** [character-dossiers/](character-dossiers/) · **Vexilla worksheet:** [vexillatio-named-characters-plan.md](character-dossiers/plans/vexillatio-named-characters-plan.md)
+**Dossier hub:** [character-dossiers/](character-dossiers/) · **Vexilla worksheet:** [vexilla-named-characters-plan.md](character-dossiers/plans/vexilla-named-characters-plan.md)
 
 ---
 

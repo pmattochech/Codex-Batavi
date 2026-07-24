@@ -1,6 +1,6 @@
 # Vexillum register — *Strategium* after-actions
 
-Formal memoranda and after-action reports tied to ***Alabarda* + Vexilla field 4** (and PRIMA obligation / DECIMA justice register). Heraldic law: [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md).
+Formal memoranda and after-action reports tied to ***Alabarda* + Vexilla field 4** (and PRIMA obligation / DECIMA justice register). Heraldic law: [vexilla-by-vexilla-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md).
 
 **Longform narratives:** [vexillum-chronicles/INDEX.md](../vexillum-chronicles/INDEX.md)
 

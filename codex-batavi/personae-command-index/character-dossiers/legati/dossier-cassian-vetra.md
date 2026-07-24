@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, NONA.  
 **Seat:** **Marco de Vetra** — Threshold **bait-moon**; relay survival, sector cry, layered delay and denial around the **Vacuum Shouter** and critical antenna spines.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* + Vexilla (NONA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md). **Field 4:** **Silent Hours** (140.M42) — Shouter relay held through Maleventum-class EM storm.  
+**Bearer of:** *Alabarda* + Vexilla (NONA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Silent Hours** (140.M42) — Shouter relay held through Maleventum-class EM storm.  
 **Apparent service age:** ~250–300 Terran years (estimate).
 
 ---
@@ -44,7 +44,7 @@
 
 * ***Alabarda* head — Type Fulmen (relay mast and denial):** **coupling hammer** (scorched couplings, antenna joints, feed lines — deny **intact** capture), **sabot spike** (gland seals, fuse housings, coolant spines); **grav-lock** telescoping haft — **relay extended** (mast-plant, Shouter window) / **combat short** (mast foot, industrial alleys); Legatus-only actuation; **wrong hum = unsafe plant** — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §11.  
 * **Pole doctrine:** **Extended** plant on array deck or reactor ring for **relay baseline** and minimal-power Shouter window; **short** mode for riot at mast foot and scorched-coupling work. Pole **buys time and breaks hardware** — killing is the line’s job.  
-* **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — NONA **relay survival**: sustained kinetic pin (**boltstorm** / **heavy bolter** rotation clocks), tactical missiles, melta and demo for **scorched** couplings; **EM budget** rigor so friendly noise does not drown the Shouter.  
+* **Theater fit:** [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) — NONA **relay survival**: sustained kinetic pin (**boltstorm** / **heavy bolter** rotation clocks), tactical missiles, melta and demo for **scorched** couplings; **EM budget** rigor so friendly noise does not drown the Shouter.  
 * **Command style:** **Time and signal** over local kill ratios; **layered delay** until relief or **Chapter-wide** mobilization; **scorch** orders given **twice** on the net; **one** preemptive coupling burn when handoff risk exceeds repair math.  
 * **Threshold coordination:** **Ivar Malevent** (OCTAVA) — same **invoice** in different ports; Vetra holds the moon while Malevent feeds the reef net.  
 * **Cerberus / Singularity-Point:** Rotates detachments per register; signs off on **rift-adjacent** small-arms trials under Threshold protocols.
@@ -71,4 +71,4 @@
 
 POV for **relay horror**, **delay tactics**, **Threshold** sacrifice stories, and **macro** Chapter wake-up calls. High leverage for apocalypse-tier invasions. **Legatus Ring:** command virtue **ugly solutions that live**; failure-risk **misreading Castellan suppression as jamming and false-escalating Tier II**.
 
-**Cross-reference:** Armor — ***Typus Nonus — Vetra*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § IX. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §11; [silent-hours-marco-de-vetra.md](../../../chronicles/vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) (**140.M42**, NONA field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.9; [master-chronology.md](../../events-and-chronologies/master-chronology.md) (**Threshold** / **Witness Ford** mesh); [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).
+**Cross-reference:** Armor — ***Typus Nonus — Vetra*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § IX. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §11; [silent-hours-marco-de-vetra.md](../../../chronicles/vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) (**140.M42**, NONA field 4). [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.9; [master-chronology.md](../../events-and-chronologies/master-chronology.md) (**Threshold** / **Witness Ford** mesh); [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).

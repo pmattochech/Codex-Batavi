@@ -39,9 +39,9 @@ Each **Legatus** commands one **indivisible** Vexilla of 500. The table maps *St
 | **X**    | DECIMA          | **Anchor guard** (Lord Castellan; no Legatus)             | *Strategium* mobile |
 
 
-*Geography:* [general-atlas.md](../atlas-and-topography/general-atlas.md) · *Order of battle:* [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) · *Chain of command:* [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md).
+*Geography:* [general-atlas.md](../atlas-and-topography/general-atlas.md) · *Order of battle:* [vexilla-and-visual-summary.md](vexilla-and-visual-summary.md) · *Chain of command:* [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md).
 
-*Named Legati & DECIMA line face (fiction register):* [vexillatio-named-characters-plan.md](../personae-command-index/character-dossiers/plans/vexillatio-named-characters-plan.md) §2 matrix + dossiers.
+*Named Legati & DECIMA line face (fiction register):* [vexilla-named-characters-plan.md](../personae-command-index/character-dossiers/plans/vexilla-named-characters-plan.md) §2 matrix + dossiers.
 
 *Archive hygiene:* older sector files may still say “company” where *Strategium* now numbers a **Vexilla**; treat as the same 500-cell block unless a document is explicitly historical.
 
@@ -63,7 +63,7 @@ Each **Legatus** commands one **indivisible** Vexilla of 500. The table maps *St
 
 - **045–050.M42 (First Legatus era):** The **500-cell block** was always **PRIMA**; the **Legatus** exercised command from **forward campaign anchors** in the **Threshold / Cicatrix Maledictum–adjacent** theater — stations, reef-adjacent bodies, and **Malakor V**–class kill-boxes — not from Noviomagus Prime. The Chapter’s **industrial spine and tithe heart** remained the **Central Bastion** (Noviomagus mesh). *Strategium* treated that as **deployment geometry**: worst sector, best operator — without confusing **forge law** with **where the First stood to shoot**.
 - **Post–050.M42 (*Strategium* re-seat):** After the **Malakor V** execution and **PRIMA** losses, the Triumvirate **declared** PRIMA’s **registered *Legatus* primary anchor** **Noviomagus Prime** — **logistics** (reference *Armourium*, line-replacement tempo), **tithe neatness**, and **symbolic severance** from the traitor’s forward map. **Rift-lip habit** and relay sacrifice geometry devolve chiefly to **VIII (OCTAVA)** and **IX (NONA)** in the modern register; PRIMA **still deploys** anywhere the mesh orders. *See* [dossier-valerius.md](../personae-command-index/character-dossiers/expunged/dossier-valerius.md) §IV; [master-chronology.md](../personae-command-index/events-and-chronologies/master-chronology.md) §III.
-- **PRIMA *Alabarda* vexillum:** fourth panel field = **obligation / remembrance** (lattice **debt**, not successor’s personal guilt — §2.2), **broken-cog** border; full nine-grid register [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md).
+- **PRIMA *Alabarda* vexillum:** fourth panel field = **obligation / remembrance** (lattice **debt**, not successor’s personal guilt — §2.2), **broken-cog** border; full nine-grid register [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md).
 
 ---
 
@@ -157,7 +157,7 @@ Each **Legatus** commands one **indivisible** Vexilla of 500. The table maps *St
 
 **Proficiency:** **No single theater** — Triumvirate escort, *Strategium* reserve, **instructor** certification for cohort modules across PRIMA–NONA.
 
-**Modal lean:** **Balanced manifest** — every pattern appears at **median** Chapter proportions so veterans model **standard** behavior. Access to **elite guard** chassis pools (*Castra-Lupus* cohort and immediate escort — see [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) §4) sits here, not in PRIMA–NONA.
+**Modal lean:** **Balanced manifest** — every pattern appears at **median** Chapter proportions so veterans model **standard** behavior. Access to **elite guard** chassis pools (*Castra-Lupus* cohort and immediate escort — see [vexilla-and-visual-summary.md](vexilla-and-visual-summary.md) §4) sits here, not in PRIMA–NONA.
 
 **Pure line:** Deliberately rotated through **all** division billets to preserve teaching credibility.
 

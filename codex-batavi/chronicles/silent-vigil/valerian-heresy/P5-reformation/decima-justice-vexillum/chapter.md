@@ -8,7 +8,7 @@
 **Where:** **Noviomagus Prime** — *Armourium* heraldic annex; *Reclusiam* witness chamber  
 **Who:** **Varro** (doctrinal seal); **Kadmos** (forge law); unnamed **DECIMA Ancient-equivalent** (first bearer on file); echo: **Captain Markus Graile** (later line drill)
 
-**Cross-references:** [register-decima-malakor-justice.md](../../../../vexillum-register/register-decima-malakor-justice.md) · [vexilla-by-vexillatio-design.md](../../../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §4 · [dossier-markus-graile.md](../../../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) · [master-chronology.md](../../../../../personae-command-index/events-and-chronologies/master-chronology.md) §III
+**Cross-references:** [register-decima-malakor-justice.md](../../../../vexillum-register/register-decima-malakor-justice.md) · [vexilla-by-vexilla-design.md](../../../../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §4 · [dossier-markus-graile.md](../../../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) · [master-chronology.md](../../../../../personae-command-index/events-and-chronologies/master-chronology.md) §III
 
 ---
 

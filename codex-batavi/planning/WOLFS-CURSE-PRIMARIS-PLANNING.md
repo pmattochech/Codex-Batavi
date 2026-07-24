@@ -110,7 +110,7 @@ Summary:
 
 - [x] [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — Firstborn vs Primaris Exanimus; Valerian **Adversarii** note (this pass).
 - [ ] Triumvirate dossiers — **Varro / Drusus** psychology vs **Alaric** patriarch load ([`dossier-varro.md`](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [`dossier-drusus.md`](../personae-command-index/character-dossiers/triumvirate/dossier-drusus.md) · [`dossier-alaric.md`](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md)).
-- [ ] [`chassis-and-armor-catalog.md`](../arsenal-and-logistics/chassis-and-armor-catalog.md) / [`vexillatio-operational-armory.md`](../arsenal-and-logistics/vexillatio-operational-armory.md) — Firstborn vs Primaris era kit.
+- [ ] [`chassis-and-armor-catalog.md`](../arsenal-and-logistics/chassis-and-armor-catalog.md) / [`vexilla-operational-armory.md`](../arsenal-and-logistics/vexilla-operational-armory.md) — Firstborn vs Primaris era kit.
 - [ ] [`master-chronology.md`](../personae-command-index/events-and-chronologies/master-chronology.md) — first reinforcement milestone **flush with** Foundation War terminus; **Valerian** casualty row if not already synced everywhere.
 - [x] [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md) — population / Valerian / **Adversarii** bullets (merged).
 
