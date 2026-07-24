@@ -78,7 +78,33 @@ He looked at the Judex and read what the fire-orbs would not perform.
 
 — Today is a colder one, my lord? — Bram said.
 
+Varro did not answer the question.
+
+Denial would have been theater. Confession would have been worse. He let the cold stand unlabeled in the open air between them, and inclined the wolf-skull a fraction — acknowledgment that Bram had read correctly, not a report on what the reading meant.
+
+Bram accepted the non-answer the way he accepted sealed ledgers: without picking the wax.
+
+— I renewed the thurible ash while you were below — he said. — The old burn had gone thin. Smelled wrong in the corridor. I’ve set a second bowl by the descent stair if you want the approach heavier before you go down again.
+
+Varro’s gauntlet rested once on the antechamber’s stone shelf — not a caress, a placement, as if checking that the world still had horizontal surfaces. He did not say thank you. He did not say the Cells had been quiet, or loud, or the particular kind of loud that lived at the end of the lowest corridor. The fire-orbs held their furnace. Bram had lived long enough under that light to know when silence was the only honest currency left.
+
+— You were gone longer than your usual count — Bram went on, milder now, almost apologetic for noticing. — I don’t ask what the red dark does. I only keep the upstairs from forgetting you went into it. Shall I hold the outer petitions an hour? The ones that can wait, I mean. There are always ones that can wait.
+
+Varro turned his head toward the petition niche — a small angle, enough. Bram read it as leave them. Or as leave *most* of them. A century had taught him the difference between a Judex who wanted solitude and a Judex who wanted the house to keep breathing without him for one more span of forge-thunder.
+
+— Right — Bram said. — I’ll thin the queue. Keep the ones that bleed. Park the ones that only shout.
+
+He hesitated, then set a clean cloth and a sealed water-skin on the shelf within Varro’s reach, as he had done on other cold days without calling them cold.
+
+— You don’t have to take it — Bram said. — I’ll pretend I put it there for myself if anyone asks. Old men get thirsty. It’s allowed.
+
+Varro did not take the water-skin. He did not refuse it with words either. He stood in the antechamber’s ash-smell with the question of cold still unanswered on the record, and Bram — who had never asked for the face behind the mandible rails — did not ask again.
+
+— I’ll be at the ledgers — Bram said at last, quieter. — When you need the door kept, or opened, or pretended shut. You know where I am, my lord. You always have.
+
+Varro’s cowl inclined once more — weather acknowledged, not explained — and the cold day remained his private filing even after Bram had named it aloud.
+
 ---
 
-*Opening span ends at Bram’s first appearance.*  
-*Next (when ordered): Bram #1 answer-texture → library / descent with Gideon → Atreus’s door as chapter end.*
+*Opening span ends after Bram #1 (cold named; Judex does not answer it directly).*  
+*Next (when ordered): turn toward Otho / library → Bram #2 with Gideon → descent → Atreus’s door as chapter end.*
