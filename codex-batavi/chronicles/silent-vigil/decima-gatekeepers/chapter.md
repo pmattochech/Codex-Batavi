@@ -2,19 +2,19 @@
 
 **Classification:** sealed implementation session — limited-custody execution design  
 **When:** **~055.M42** (immediately after [`post-voices-legatus-ring/chapter.md`](post-voices-legatus-ring/chapter.md))  
-**Where:** Noviomagus Prime — Decima drill vault / command lattice annex  
-**Who:** **Kadmos**, **Otho**, **Tyvar**, Decima execution cadres (restricted), oversight feeds from **Varro** and **Drusus**  
+**Where:** Noviomagus Prime — DECIMA drill vault / command lattice annex  
+**Who:** **Kadmos**, **Otho**, **Tyvar**, DECIMA execution cadres (restricted), oversight feeds from **Varro** and **Drusus**  
 **Cross-references:** [`post-voices-legatus-ring/chapter.md`](post-voices-legatus-ring/chapter.md) · [`old-voices-council/chapter.md`](old-voices-council/chapter.md) · [`../../../personae-command-index/doctrine-and-organs/protocol-access-matrix.md`](../../../personae-command-index/doctrine-and-organs/protocol-access-matrix.md)
 
 ---
 
-The Decima drill vault had no audience galleries and no ornament. It was a functional room built for mistakes that could not be afforded in real corridors. Steel partitions formed a rotating maze; ceiling rails carried dummy targets weighted to Astartes mass; floor nodes tracked pressure signatures with enough sensitivity to expose hesitation by half a step.
+The DECIMA drill vault had no audience galleries and no ornament. It was a functional room built for mistakes that could not be afforded in real corridors. Steel partitions formed a rotating maze; ceiling rails carried dummy targets weighted to Astartes mass; floor nodes tracked pressure signatures with enough sensitivity to expose hesitation by half a step.
 
 Kadmos stood at the central console with his bronze arm docked into the command plate. Data streamed in straight bars down the lens in his right eye. Beside him, Otho kept one gauntlet resting on his force stave, not as threat and not as ceremony, only as stable contact with reality while the psychic telemetry feed ran in the edge of his cognition.
 
 Tyvar watched from a side mark, arms behind his back, saying nothing.
 
-Decima cadre leaders entered in two files and stopped at the painted line.
+DECIMA cadre leaders entered in two files and stopped at the painted line.
 
 Kadmos began first.
 

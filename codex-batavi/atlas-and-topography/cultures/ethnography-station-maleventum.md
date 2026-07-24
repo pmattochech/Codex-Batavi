@@ -2,7 +2,7 @@
 
 **Status:** **Ratified** 2026-07-22 — Phase A capital ethnography (framework-applied, new).  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding)  
-**Seat:** Vexillatio VIII (*Octava*) · Legatus: **Ivar Malevent**  
+**Seat:** Vexilla OCTAVA · Legatus: **Ivar Malevent**  
 **Scope:** Mortal populi only — not full Vexilla doctrine. Chapter footprint via civilian habit until Phase B. **Primary habitat:** Station-Maleventum. **Deep twin (same file):** Great Reef mortal culture (holds, arcs, grounding law) — not a separate ethnography this pass.  
 **Atlas / fork:** [system-iii-threshold.md](../systems/system-iii-threshold.md) · [worlds-threshold.md](worlds-threshold.md) § **Station-Maleventum** · § **The Great Reef** · galactic lock: [castra-vetera-galactic-lock.md](../castra-vetera-galactic-lock.md)  
 **Basal / Ecclesiarchy:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md) · shared terms: [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · [ecclesiarchy-on-the-frontier.md](../../political-relations/ecclesiarchy-on-the-frontier.md)  
@@ -31,7 +31,7 @@ Citizens think in **holds**, **salvo windows**, **ground straps**, **pressure ti
 
 **Not Tempest-V:** not vibration-monk minimalism. Ultima Arx is crowded, drilled, naval-adjacent, loud with sirens and soft with open-*vox* discipline.
 
-**Not Abyssal-Anchor / Nox:** this file does **not** absorb dock-noir entrepôt culture or black-glass gravity mysticism. Phase C fork stubs live on [worlds-threshold.md](worlds-threshold.md) § **VIII *Octava* wing**; **Phase A depth only if ordered**.
+**Not Abyssal-Anchor / Nox:** this file does **not** absorb dock-noir entrepôt culture or black-glass gravity mysticism. Phase C fork stubs live on [worlds-threshold.md](worlds-threshold.md) § **OCTAVA wing**; **Phase A depth only if ordered**.
 
 **Porta Nihili accent:** Throne is **hold**. Pilgrimage is **watch rotation**. Baptism is **pressure test** — *“sealed like bulkhead.”* Virtue is continuity under siege-normal. Outsiders misread Spartan silence as empty faith; locals hear it as **gun theology** — discipline thick, myth lean, receipts thicker than incense.
 
@@ -124,7 +124,7 @@ Primary: pilot fees, grounded salvage, conductor ore under lethal constraints, b
 
 ### T6. Batavi / Navy surface (reef)
 
-*Octava* void presence reads as **weather that boards** — hull truth over auspex lies in mortal proverb. Navy cutters and chartist escorts buy **pilot seats**; Insular Navigators do not casually walk clan holds without escort etiquette. Shared Sweat appears as joint boarding drills and dead crews counted in the same silence.
+OCTAVA void presence reads as **weather that boards** — hull truth over auspex lies in mortal proverb. Navy cutters and chartist escorts buy **pilot seats**; Insular Navigators do not casually walk clan holds without escort etiquette. Shared Sweat appears as joint boarding drills and dead crews counted in the same silence.
 
 ### T7. Twin shards
 
@@ -319,9 +319,9 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 
 ## 9. Related / deferred
 
-- Phase B bleed file: **closed** — [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md) (VIII *Octava* ↔ Station-Maleventum + Great Reef contact surfaces).  
-- Wing periphery (Phase C): [worlds-threshold.md](worlds-threshold.md) § **VIII *Octava* wing** — Tempest-V / Nox / Abyssal-Anchor / Singularity-Point & Cerberus (seat-standard + delta). Great Reef remains Phase A twin, not a wing ethnography body.  
-- Sibling seats: do **not** absorb — Tempest-V, Nox, Abyssal-Anchor, Marco de Vetra (*Nona*), Noviomagus (*Prima*), etc.  
+- Phase B bleed file: **closed** — [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md) (OCTAVA ↔ Station-Maleventum + Great Reef contact surfaces).  
+- Wing periphery (Phase C): [worlds-threshold.md](worlds-threshold.md) § **OCTAVA wing** — Tempest-V / Nox / Abyssal-Anchor / Singularity-Point & Cerberus (seat-standard + delta). Great Reef remains Phase A twin, not a wing ethnography body.  
+- Sibling seats: do **not** absorb — Tempest-V, Nox, Abyssal-Anchor, Marco de Vetra (NONA), Noviomagus (PRIMA), etc.  
 - Deep twin already in-file: **Great Reef** (§ Twin). No second ethnography this run.
 
 ---

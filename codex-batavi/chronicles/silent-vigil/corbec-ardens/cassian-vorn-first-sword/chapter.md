@@ -18,7 +18,7 @@ Battles have churn. Crossfire. Misjudgments. Men dying in ways that look acciden
 
 This looked like work.
 
-Marines were down — some in *Prima* colors, some in plates that had been repainted over old heraldry, some stripped raw — arranged in a pattern that forced survivors to step where they were meant to step. Every movement channelled. Every choice narrowed.
+Marines were down — some in PRIMA colors, some in plates that had been repainted over old heraldry, some stripped raw — arranged in a pattern that forced survivors to step where they were meant to step. Every movement channelled. Every choice narrowed.
 
 In the center of it was a figure moving with deliberate slowness, as if he had all the time in the world because time itself had decided to favor him.
 

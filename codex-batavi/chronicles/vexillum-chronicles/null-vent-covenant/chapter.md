@@ -3,7 +3,7 @@
 **Classification:** Chapter / Mechanicus joint narrative (public register abridgment: [aar-vex-vii-null-vent-covenant.md](../vexillum-register/aar-vex-vii-null-vent-covenant.md))  
 **When:** 112.M42 (Silent Vigil)  
 **Where:** **Vitreus** — lens-forge arcology, **orbital plate Seven**  
-**Who:** **VII** *Septima* under **Legatus Lucan Phaetron**; *Armourium* plasma auditors; Mechanicus allied elements
+**Who:** **SEPTIMA** under **Legatus Lucan Phaetron**; *Armourium* plasma auditors; Mechanicus allied elements
 
 **Cross-references:** [dossier-lucan-phaetron.md](../../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.7 · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3
 
@@ -17,7 +17,7 @@ On plate Seven, the glass sea below the arcology threw back a second sky — dis
 
 The Mechanicus screamed in binaric until the air itself seemed to **taste** like ozone and offended machine-spirits.
 
-The *Strategium* answered with **VII** *Septima*.
+The *Strategium* answered with **SEPTIMA**.
 
 ---
 
@@ -35,7 +35,7 @@ Ruin teams moved node to node along the manifold spine with plasma incinerators 
 
 The Master of the Forge was not on plate Seven in body; his **rite** was. Somewhere in the chain, a Techmarine’s auspex ticked **authorized** while Phaetron ticked **human** — two signatures, one vent window, **no** shortcuts.
 
-*Septima* had trained on Vitreus until **vent** was religion and **discipline** the only miracle. On Seven, religion met **accounting**: bleed the manifold into **vacuum ports** engineered for panic, not pride.
+SEPTIMA had trained on Vitreus until **vent** was religion and **discipline** the only miracle. On Seven, religion met **accounting**: bleed the manifold into **vacuum ports** engineered for panic, not pride.
 
 ---
 
@@ -43,7 +43,7 @@ The Master of the Forge was not on plate Seven in body; his **rite** was. Somewh
 
 Suppression held the perimeter while cultists and **rampant** servitors threw themselves at grey plate as if volume could cool plasma by **mass**.
 
-Bolters spoke in the failure-mode backbone *Septima* still trusted when photonics went mad. Phaetron did not mock the *Codex* for it. He **used** it — short bursts, assigned arcs, no tracer vanity that could blind a spotter’s glass.
+Bolters spoke in the failure-mode backbone SEPTIMA still trusted when photonics went mad. Phaetron did not mock the *Codex* for it. He **used** it — short bursts, assigned arcs, no tracer vanity that could blind a spotter’s glass.
 
 Inside the burn lanes, thermal bloom turned skin into **fiction**. Apothecaries knelt where flesh peeled and did not scream because screams cost **air** the wounded still needed. Drusus’s distant annex would later file burns at this scale under **failure-mode data**, not glory — coefficients of what happened when a forge tried to become a **sun**.
 
@@ -53,13 +53,13 @@ Inside the burn lanes, thermal bloom turned skin into **fiction**. Apothecaries 
 
 Allied skitarii died — number **redacted** in Chapter files, sealed under treaty ink with the Mechanicus. Their magi did not ask for public martyrology; they asked for a **spine** that could be **reclaimed**.
 
-*Septima* lost **nineteen**.
+SEPTIMA lost **nineteen**.
 
-Phaetron counted them the way he counted vent nodes: without flinching, without **spending** the count on rage. Rage vented wrong; *Septima* had buried brothers for that lesson long before plate Seven.
+Phaetron counted them the way he counted vent nodes: without flinching, without **spending** the count on rage. Rage vented wrong; SEPTIMA had buried brothers for that lesson long before plate Seven.
 
 When the sky over the primary dome **did not** go white — when the city did not learn what a forgeship-killer looked like from the **inside** — a Magos spoke a word the lingua-technis translated roughly as **debt**.
 
-Phaetron answered with a nod. *Quinta*, he thought with the grim humor he saved for off-line mess halls, would have paid the same afternoon in **jump fuel**. *Septima* paid it in **restraint**.
+Phaetron answered with a nod. QVINTA, he thought with the grim humor he saved for off-line mess halls, would have paid the same afternoon in **jump fuel**. SEPTIMA paid it in **restraint**.
 
 ---
 

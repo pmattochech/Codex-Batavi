@@ -20,7 +20,7 @@ He arrived without fanfare.
 
 The sky over the transit spine was the color of scorched sugar. Refinery stacks coughed heat into a haze that made distance look like a bruise. Somewhere beyond the mesh, the Nine Phalanx did what it always did: pretended stability was a law rather than a bet.
 
-Theron Brach, Legatus of III Vexillatio — Tertia, was already waiting at the silo spine transfer node.
+Theron Brach, Legatus of TERTIA, was already waiting at the silo spine transfer node.
 
 Not pacing. Not performing patience for a crowd that did not exist. Brach stood like a man who had decided his body would be the first instrument calibrated before anyone else’s pride got involved.
 
@@ -46,7 +46,7 @@ Ahead, a Batavi patrol moved against the flow — four battle-brothers in stagge
 
 The lead was not a sergeant showing off for a visitor.
 
-The lead was Brother Idwal Rhys, III Vexillatio — Tertia, ident tags worn where a human eye could read them without having to ask a vox channel for permission.
+The lead was Brother Idwal Rhys, TERTIA, ident tags worn where a human eye could read them without having to ask a vox channel for permission.
 
 Rhys did not glance at Guilliman.
 
@@ -190,7 +190,7 @@ He did not teach the Batavi their own catechism.
 
 Brach’s helm dipped — fractional, involuntary respect breaking through drill.
 
-— Aye, my lord — Brach said. — Neophytes learn it as **internal** filing, not as a sermon for outsiders. First: live brothers and the sealed operation — because dead heroes do not hold silos. Second: the Vexillatio objective and the corridor window we are sworn to keep open — mass in motion, not glory. Third: the labor lattice under our writ — the nodes that feed the mesh we depend on, because if they starve, we bleed next week. Fourth: **named** continuity — faces we can predict, failures we can price before they become casualties.
+— Aye, my lord — Brach said. — Neophytes learn it as **internal** filing, not as a sermon for outsiders. First: live brothers and the sealed operation — because dead heroes do not hold silos. Second: the Vexilla objective and the corridor window we are sworn to keep open — mass in motion, not glory. Third: the labor lattice under our writ — the nodes that feed the mesh we depend on, because if they starve, we bleed next week. Fourth: **named** continuity — faces we can predict, failures we can price before they become casualties.
 
 Guilliman held the silence again.
 
@@ -278,7 +278,7 @@ Aethelgard smelled like lightning stored in cloth.
 
 Not metaphor. Ozone stitched into damp hemp and salt crust, a planet that had decided weather was a weapon it would teach you to respect instead of enjoy. Guilliman descended from orbit the way he always descended when he meant business: without parade, without escort wings meant to look like wings. The sky over the landing shelf was bruised violet. Wind came in counted pulses, as if the atmosphere itself had learned to speak in cadence.
 
-Armin Sturmwahl, Legatus of V Vexillatio — Quinta, was already on the shelf when Guilliman’s boots touched ferrocrete.
+Armin Sturmwahl, Legatus of QVINTA, was already on the shelf when Guilliman’s boots touched ferrocrete.
 
 Helm on. Hands empty. Weight shifted slightly into the wind as if the planet were a drop zone and he refused to be the variable that slipped.
 
@@ -298,7 +298,7 @@ The tide flats stretched like a ledger written in wet ink: channels, ribs of bla
 
 In the middle of it stood a Batavi battle-brother without ceremony.
 
-Brother Rurik Degen, V Vexillatio — Quinta, helm on, bolter mag-locked to his back like an admission that this was not a range day. He did not loom over the mortals. He did not instruct them as if they were children. He stood where the elders told him to stand, feet in the surf line, and accepted a coil of harpoon line with the same attention he would have given a det-cord spool.
+Brother Rurik Degen, QVINTA, helm on, bolter mag-locked to his back like an admission that this was not a range day. He did not loom over the mortals. He did not instruct them as if they were children. He stood where the elders told him to stand, feet in the surf line, and accepted a coil of harpoon line with the same attention he would have given a det-cord spool.
 
 The creature came later.
 
@@ -380,7 +380,7 @@ Guilliman listened to *expect* as a threat and a gift at once.
 
 Sturmwahl’s harness gave its tiny hum again — honesty, not theater.
 
-— I do not speak for forge seats — Sturmwahl said. — I do not speak for chem silos. I know what *Quinta* buys with blood in the surf.
+— I do not speak for forge seats — Sturmwahl said. — I do not speak for chem silos. I know what QVINTA buys with blood in the surf.
 
 Guilliman looked back toward Degen.
 
@@ -412,7 +412,7 @@ It greeted him with **grey**.
 
 Grey sky pressed against grey stacks. Grey dust found ways to enter seals that had been engineered by proud men who believed seals were perfect. Forges coughed rhythm into the city the way hearts coughed rhythm into ribs — constant, unromantic, too honest to be called music.
 
-Corbec Ardens, Legatus of I Vexillatio — Prima, was already waiting at the mouth of the workers’ strip — still as a datum line, *Alabarda* presence reduced to its smallest honorable shape: no retinue, no herald, no excuse.
+Corbec Ardens, Legatus of PRIMA, was already waiting at the mouth of the workers’ strip — still as a datum line, *Alabarda* presence reduced to its smallest honorable shape: no retinue, no herald, no excuse.
 
 Corbec did not offer tour-guide enthusiasm. He offered **presence** the way a gauge offers presence: steady, minimal, already oriented to throughput.
 
@@ -426,7 +426,7 @@ They did not go to the high galleries.
 
 They entered the workers’ strip where hab blocks leaned close enough to share shadow: wash-lines, shuttered vendors, a child’s chalk battlefield drawn on ferrocrete where promethium stains had been scrubbed until only ghosts remained.
 
-Brother Seren Kael, I Vexillatio — Prima, was not performing for a crowd.
+Brother Seren Kael, PRIMA, was not performing for a crowd.
 
 He was not even performing for the primarch.
 
@@ -512,13 +512,13 @@ Guilliman’s eyes narrowed.
 
 Corbec’s helm dipped — fractional respect, not submission theater.
 
-— By your leave, my lord — Corbec said. — Let him file it. *Prima* files it as **stability spend**. We do not buy the boy’s love. We buy his mother’s week. We buy the street’s silence. We buy one fewer knife drawn over a rumor. If that looks like grooming, then the Imperium’s categories are blind to how Noviomagus eats itself when we are not looking.
+— By your leave, my lord — Corbec said. — Let him file it. PRIMA files it as **stability spend**. We do not buy the boy’s love. We buy his mother’s week. We buy the street’s silence. We buy one fewer knife drawn over a rumor. If that looks like grooming, then the Imperium’s categories are blind to how Noviomagus eats itself when we are not looking.
 
 — You weaponize compassion — Guilliman said.
 
 Corbec did not flinch.
 
-— We weaponize **continuity** — Corbec said. — My lord, *Prima* files this under **billet truth**. The wooden blade is not a gift. It is a **tool** that keeps a boy’s hands busy with something other than myth. Myth kills faster than knives here.
+— We weaponize **continuity** — Corbec said. — My lord, PRIMA files this under **billet truth**. The wooden blade is not a gift. It is a **tool** that keeps a boy’s hands busy with something other than myth. Myth kills faster than knives here.
 
 Guilliman listened to *billet truth* and heard the Chapter’s private language doing what private languages always did: making ethics sound like logistics so logistics could stay ethical.
 
@@ -614,7 +614,7 @@ Guilliman considered the political smell of it — abhuman hands on a Chapter-ad
 
 Corbec’s helm dipped.
 
-— By your leave, my lord — Corbec said. — Let him file it. *Prima* files it as **throughput insurance**. The Mechanicus liaison signs what must be signed. The Ogryn signs with sweat. Kadmos signs with hours. If that looks like heresy, then the Imperium’s categories are blind to how Noviomagus keeps its fists closed around survival.
+— By your leave, my lord — Corbec said. — Let him file it. PRIMA files it as **throughput insurance**. The Mechanicus liaison signs what must be signed. The Ogryn signs with sweat. Kadmos signs with hours. If that looks like heresy, then the Imperium’s categories are blind to how Noviomagus keeps its fists closed around survival.
 
 Guilliman looked back at Gromm.
 

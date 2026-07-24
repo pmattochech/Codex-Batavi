@@ -1,12 +1,12 @@
-*Weapon and sidearm table (identical job kit in every Vexillatio):* [cohort-standard-kit.md](cohort-standard-kit.md).
+*Weapon and sidearm table (identical job kit in every Vexilla):* [cohort-standard-kit.md](cohort-standard-kit.md).
 
 ---
 
 ## 1\. COHORTS AND VEXILLATIONES (GRID MODEL)
 
-The **four specialty cohorts** are not units “apart” from the Chapter: in **each** Vexillatio there is an **organic contingent of fifty** warriors **per** cohort (4 × 50 = **200**). The remainder of the **500** ceiling is **pure line** (**284** in Vex. I–IX; **279** in X), **organic support** (**16**: 4 Apothecaries, 4 Techmarines, 3 adjutant Chaplains, 5 **Batavian Haruspices**), and, **only in the Tenth**, **five** supreme posts — see [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) §1.1.
+The **four specialty cohorts** are not units “apart” from the Chapter: in **each** Vexilla there is an **organic contingent of fifty** warriors **per** cohort (4 × 50 = **200**). The remainder of the **500** ceiling is **pure line** (**284** in PRIMA–NONA; **279** in X), **organic support** (**16**: 4 Apothecaries, 4 Techmarines, 3 adjutant Chaplains, 5 **Batavian Haruspices**), and, **only in the Tenth**, **five** supreme posts — see [vexillationes-and-visual-summary.md](vexillationes-and-visual-summary.md) §1.1.
 
-**Instruction:** veterans of the **10th Vexillatio** (*anchor guard*) rotate as **certified instructors** through the other nine Vexillationes, so each fifty-Marine detachment reproduces the same tactical *standard* (Silence, Shadows, Stasis, Nullity) without doctrinal fragmentation.
+**Instruction:** veterans of the **DECIMA** (*anchor guard*) rotate as **certified instructors** through the other nine Vexilla, so each fifty-Marine detachment reproduces the same tactical *standard* (Silence, Shadows, Stasis, Nullity) without doctrinal fragmentation.
 
 **Path to the Tenth:** time in line + sequential service in all four specialty detachments + extreme merit + **Batav Wolf trial** (see [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3). Species / trial law: [batav-wolf-canis-batavorum.md](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md). **Legacy symbolism (do not cite):** [gray-silence-of-fenris.md](../chronicles/outdated/martha-kitchen-guest-astartes/gray-silence-of-fenris/chapter.md), [diplomacy-aethelgard.md](../chronicles/outdated/space-wolves-alaric-relations/diplomacy-aethelgard/chapter.md).
 
@@ -25,7 +25,7 @@ The **four specialty cohorts** are not units “apart” from the Chapter: in **
 * **Shadows Cohort (infiltration):**  
   * *Color:* **matte black**.  
   * *Iconography:* Wolf skull with two crossed gladii.  
-  * *Command:* The fifty **Shadows** in each Vexillatio **operate under Silence** — ivory owns mesh read, pattern debt, and lattice pricing; black pauldrons execute ducts, kill-boxes, and vertical closure **on Silence-signed targets** (or on Legatus emergency ticks). *Strategium* still books four cohorts; this is **tactical subordination**, not a merged stripe. Kit: [cohort-standard-kit.md](cohort-standard-kit.md) §§1–2.  
+  * *Command:* The fifty **Shadows** in each Vexilla **operate under Silence** — ivory owns mesh read, pattern debt, and lattice pricing; black pauldrons execute ducts, kill-boxes, and vertical closure **on Silence-signed targets** (or on Legatus emergency ticks). *Strategium* still books four cohorts; this is **tactical subordination**, not a merged stripe. Kit: [cohort-standard-kit.md](cohort-standard-kit.md) §§1–2.  
   * *Detached overlap:* Rim / **Halo Stars** work and long autonomous kill-geometry disproportionately file **Shadows** brothers as **Steppenwolves** — see [steppenwolf-doctrine.md](../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md).  
 * **Stasis Cohort (blocking and defense):**  
   * *Color:* **dark gunmetal grey**.  
@@ -66,12 +66,12 @@ Pattern analysis **does not replace** *Lex Imperialis* or custody for interrogat
 
 **Dual-path brothers** (Silence certification plus Shadows certification) are rare; they rotate pauldron by assignment but file **Silence-first** on mixed lattices unless *Strategium* orders otherwise. Reference: [dossier-valens-ritter.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-valens-ritter.md).
 
-**Theater exception (melee only):** **Vex. V (*Quinta*)** elevates **chainsword** to **primary melee** for **pure line** and jump-assault cells — Aethelgard storm culture and **Wild Hunt** closure — **without** changing the Shadows cohort table. See [cohort-standard-kit.md](cohort-standard-kit.md) §6 · [vexillatio-operational-armory.md](vexillatio-operational-armory.md) (*Quinta*).
+**Theater exception (melee only):** **QVINTA** elevates **chainsword** to **primary melee** for **pure line** and jump-assault cells — Aethelgard storm culture and **Wild Hunt** closure — **without** changing the Shadows cohort table. See [cohort-standard-kit.md](cohort-standard-kit.md) §6 · [vexillatio-operational-armory.md](vexillatio-operational-armory.md) (QVINTA).
 
 ---
 
 ## 4\. EMBEDDED *LIBRARIUM* (BATAVIAN HARUSPICES)
 
-The **five Batavian Haruspices** per Vexillatio are **not** a specialty-cohort stripe on the right pauldron; they wear *Librarius* order marks under the same grey–crimson base as other organic support. Their job is **Haruspicium Batavorum** — passive Warp telemetry and pattern translation — with **mandatory liaison** to **Nullity** for blank-adjacent tactics and sealed *vox* chains.
+The **five Batavian Haruspices** per Vexilla are **not** a specialty-cohort stripe on the right pauldron; they wear *Librarius* order marks under the same grey–crimson base as other organic support. Their job is **Haruspicium Batavorum** — passive Warp telemetry and pattern translation — with **mandatory liaison** to **Nullity** for blank-adjacent tactics and sealed *vox* chains.
 
 **Nullity** carries the cobalt field; the haruspices **feed** it coordinates and hazard class, not the reverse. Full doctrine, **Blindgate**, triangulation with *Medicinae* / *Reclusiam*, and Wolf’s Curse interaction: [council-and-librarium.md](../personae-command-index/doctrine-and-organs/council-and-librarium.md). **Chief Librarian:** [dossier-otho.md](../personae-command-index/character-dossiers/council-orders/dossier-otho.md).

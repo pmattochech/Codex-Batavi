@@ -6,7 +6,7 @@
 **Rank:** *Decanus Primus* (functional equivalent to senior sergeant-major of urban counter-intelligence).  
 **Specialization:** Multimodal **pattern** analysis (smell, body sound, gait, speech, where eyes go), *somatic profiling*, live capture for *Lex Imperialis*.  
 **Chapter:** *Cohors Batavorum*.  
-**Operational home Vexillatio:** 4th Vexillatio (*Quarta* — unit recorded as hardened in Noviomagus Secundus March of the Machine; Branimir cross-trained into Silence Cohort after rebound).  
+**Operational home Vexilla:** QVARTA ( — unit recorded as hardened in Noviomagus Secundus March of the Machine; Branimir cross-trained into Silence Cohort after rebound).  
 **Origin:** *Castrum Ferrum*, mid levels (son of triple-shift worker and line inspector).  
 **Apparent service age:** ~180–220 Terran years (estimate; **frontier-native** — **CV** annals; no **exit-ricochet** service fiction).
 
@@ -49,7 +49,7 @@
 
 * **Childhood:** Quota inspector in refrigeration corridor; learned to smell ammonia leak before seeing ice melt.  
 * **Selection:** Recruited for double-shift endurance under low radiation and above-baseline olfactory memory.  
-* **Silence Cohort:** After Noviomagus Secundus, *Apothecarion* and Triumvirate formalized that **not** every xeno threat trips biological pendulum; Branimir was among first *decani* to teach **multimodal pattern reading** at Vexillatio scale, certified by Anchor Guard.
+* **Silence Cohort:** After Noviomagus Secundus, *Apothecarion* and Triumvirate formalized that **not** every xeno threat trips biological pendulum; Branimir was among first *decani* to teach **multimodal pattern reading** at Vexilla scale, certified by Anchor Guard.
 
 ---
 
@@ -57,7 +57,7 @@
 
 *Names vague for operational secrecy.*
 
-* **048.M42 | March line (Incus-Gravis):** As line brother in **IV** *Quarta*, held static trench under Tyranid **Shadow in the Warp**; formative cohort March of the Machine stillness per *Medicinae* annex. Narrative: [ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md) · AAR [aar-vex-iv-ruhe-defense.md](../../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md).  
+* **048.M42 | March line (Incus-Gravis):** As line brother in **QVARTA**, held static trench under Tyranid **Shadow in the Warp**; formative cohort March of the Machine stillness per *Medicinae* annex. Narrative: [ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md) · AAR [aar-vex-iv-ruhe-defense.md](../../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md).  
 * **~183.M42 | Ferrum-Secondus Wolf Ledger:** Led Silence surgical correction after **Exactus Extremis** audit exposed Castellan-idol tithe drift and wolf-echo prayer cards in Ferrum-Secondus shift lockers; joint **Marshal Vhal** mandate; case **FS-183-041**; day-120 standing lattice; **amber** chalk wolf logged with **Corbec** *Soon* foreshadow. Narrative: [ferrum-secondus-wolf-ledger.md](../../../chronicles/post-vigil/ferrum-secondus-wolf-ledger/chapter.md).  
 * **Mirrored shift (Noviomagus Prime):** Identified **mimic** cell — flawless papers, but **gaze** tracked wrong route before each service turn, **step** lacked long-shift knee micro-variation, imported soap smell inconsistent with block; delivered to Arbites before promethium conduit sabotage.  
 * **Over-straight rank:** Detected **motor symmetry** and **compound breathing** too aligned in stevedore squad (intermediate-stage hybrids); containment without shot in dense zone.  
@@ -67,10 +67,10 @@
 
 ## 6\. Relations
 
-* **Orin Valestrand (Legatus, IV *Quarta*):** Holds shingle **geometry** and March harness; Branimir holds **pattern** and cult lanes — parallel review on the banner court. Friction when Silence needs live assets the Legatus cannot shelter on the front.  
+* **Orin Valestrand (Legatus, QVARTA):** Holds shingle **geometry** and March harness; Branimir holds **pattern** and cult lanes — parallel review on the banner court. Friction when Silence needs live assets the Legatus cannot shelter on the front.  
 * **Drusus:** Clinical respect; Branimir is live case study of 4th Cohort → Silence transition (biology vs. vigilance).  
 * **Arbites magistrates:** Frequent operational partner; avoids usurping sentence — prestige comes from **delivering** the living.  
-* **Pure-line Vexillationes:** Some Batavi call the cohort “police”; Branimir answers with prevented-incident data.
+* **Pure-line Vexilla:** Some Batavi call the cohort “police”; Branimir answers with prevented-incident data.
 
 ---
 
@@ -78,4 +78,4 @@
 
 Character ready for **urban thriller** stories on Noviomagus: infiltrators, cults, sabotage. Useful as POV explaining why March of the Machine does **not** trigger against covert Genestealers — and why the Wall is not blind.
 
-**Cross-reference:** [ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md) (*Quarta* / Branimir POV, 048.M42). [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md) §3; [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md) §III.
+**Cross-reference:** [ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md) (QVARTA / Branimir POV, 048.M42). [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md) §3; [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md) §III.

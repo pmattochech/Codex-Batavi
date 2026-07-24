@@ -1,7 +1,7 @@
-# Scaffold — *Decima Justice Vexillum*
+# Scaffold — *DECIMA Justice Vexillum*
 
 **Tree:** Valerian Heresy · **main serial**
-**Saga #:** **21 of 25** · **Slug:** `decima-justice-vexillum`
+**Saga #:** **21 of 25** · **Slug:** `DECIMA-justice-vexillum`
 **Status:** **draft** — Register-structured draft — may keep section headers or flatten at novel pass.
 **Prose:** [chapter.md](chapter.md)
 
@@ -25,7 +25,7 @@
 ## Beat locks
 
 - Not trophy skin — verdict
-- *Decima* separate from I–IX
+- DECIMA separate from PRIMA–NONA
 - Wolf feral not seal wolf
 - Post-Malakor week
 
@@ -39,7 +39,7 @@
 
 ## Irreversible fact (must file)
 
-***Decima* justice vexillum** commissioned — treason body cited.
+**DECIMA justice vexillum** commissioned — treason body cited.
 
 ## Chronicle law
 
@@ -53,7 +53,7 @@
 ## Chain
 
 - **Precedent scaffold:** [malakor-v](../malakor-v/SCAFFOLD.md)
-- **Next scaffold:** [prima-obligation](../prima-obligation/SCAFFOLD.md)
+- **Next scaffold:** [PRIMA-obligation](../prima-obligation/SCAFFOLD.md)
 
 ## Depth target
 

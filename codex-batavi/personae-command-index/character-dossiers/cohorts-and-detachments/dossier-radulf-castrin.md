@@ -8,7 +8,7 @@
 | **Personal name** | **Radulf Castrin** — *register* form: Brother **Radulf** of line **Castrin**; **The Old Wolf** remains the **cult / spoken** name. |
 | **Wolf’s Curse (at interment)** | **Furor** (confirmed). **Furor-engraved type** (chimeric predisposition / Type I–III) **TBD** — *Duty* (Type III) fits the mentor / wall file if you **lock** it. |
 | **Rank at interment** | **TBD** |
-| **Company / Vexillatio** | **TBD** |
+| **Company / Vexilla** | **TBD** |
 | **Chassis** | **Leviathan** (siege / heavy support — loadout **TBD**) |
 | **Location (typical)** | Stasis / arming vault **Bifrons-Ferrum** mesh ([system-ii-crucible.md](../../../atlas-and-topography/systems/system-ii-crucible.md)); wake protocol **TBD** |
 | **Sarcophagus / cognition** | **Batavi** somatic **repair** (and **Furor**-stage **draw** on **progenoid** **economy** — see [projection-aurea-wolfs-curse.md](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)) is filed as the **reason** his **mind** and **neuro-interface** **decay** curve runs **shallower** than **ordinary** *Dreadnought* **coffin** data for a chassis **this** old: **longer** **lucid** **wake** **windows**. This is **not** *Medicinae* remission of **Furor**; **warp transit** and **calendar skew** do **not** “heal” the Wolf’s Curse; *Reclusiam* still **files** **soul**-**wear** as a **real** **limit**. |
@@ -62,7 +62,7 @@
 
 POV: **Neophyte** before the **sarcophagus**; **promotion** **salute**; **siege** **wake** — or **tight** **OOC** **interior** **dread** **if** you **ever** go **subjective** (sparingly; **song-like** **texture** for **reader** **only**).
 
-**Cross-references:** [dossier-alaric.md](../triumvirate/dossier-alaric.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) (*Sexta* / siege); [technical-datasheet.md](../../doctrine-and-organs/technical-datasheet.md) (neophyte **truth** rites). [biologis-iron-mitosis.md](../../../chronicles/biologis-spiritus-foundation/biologis-iron-mitosis/chapter.md) — *Dreadnought* **warm** echo. [projection-aurea-wolfs-curse.md](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) (progenoid **economy**, Dreadnought **edge** **case**); [frontier-wolf-rite.md](../../doctrine-and-organs/frontier-wolf-rite.md) (Versibar = **no** harvest).
+**Cross-references:** [dossier-alaric.md](../triumvirate/dossier-alaric.md); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) (SEXTA / siege); [technical-datasheet.md](../../doctrine-and-organs/technical-datasheet.md) (neophyte **truth** rites). [biologis-iron-mitosis.md](../../../chronicles/biologis-spiritus-foundation/biologis-iron-mitosis/chapter.md) — *Dreadnought* **warm** echo. [projection-aurea-wolfs-curse.md](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) (progenoid **economy**, Dreadnought **edge** **case**); [frontier-wolf-rite.md](../../doctrine-and-organs/frontier-wolf-rite.md) (Versibar = **no** harvest).
 
 ---
 

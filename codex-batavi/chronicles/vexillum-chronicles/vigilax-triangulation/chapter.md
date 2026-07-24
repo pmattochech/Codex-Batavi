@@ -1,10 +1,10 @@
 # [CHRONICLE] VIGILAX — TRIANGULATION
 
-**Classification:** Foundation Archive — Chapter tactical narrative (III *Tertia* / *Alabarda* field 4 register lens)  
+**Classification:** Foundation Archive — Chapter tactical narrative (TERTIA / *Alabarda* field 4 register lens)  
 **Companion:** The full incident — Varro, Serragris, *Gray Gargoyle*, political aftermath — lives in [vigilax-incident.md](../vigilax/vigilax-incident/chapter.md). Read both; they interlock.  
 **When:** 110.M42 (Silent Vigil, before Elara’s birth)  
 **Where:** Vigilax Prime — **Serragris** (echo only here) · **Marna-Down** tube sector  
-**Who:** **III** *Tertia* under **Legatus Theron Brach**; **Drusus** (*Medicinae*); Chaplain **Varro** (parallel thread — see companion)
+**Who:** **TERTIA** under **Legatus Theron Brach**; **Drusus** (*Medicinae*); Chaplain **Varro** (parallel thread — see companion)
 
 **Cross-references:** [dossier-theron-brach.md](../../../personae-command-index/character-dossiers/legati/dossier-theron-brach.md) · [aar-vex-iii-vigilax-triangulation.md](../vexillum-register/aar-vex-iii-vigilax-triangulation.md) · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3 · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §VI
 
@@ -12,7 +12,7 @@
 
 ## I. THE MAP THAT WATCHED
 
-That season, **III** *Tertia* anchored Vigilax the way it anchored any second-tier world under Castra Vetera mandate: long patrols, short reports, silence on the *vox* when silence was the only honest datum.
+That season, **TERTIA** anchored Vigilax the way it anchored any second-tier world under Castra Vetera mandate: long patrols, short reports, silence on the *vox* when silence was the only honest datum.
 
 **Theron Brach** liked maps you could **smell**. Khan-Bator had taught him to read lies in recyclate scrubbers and oxygen curves; Vigilax smelled of wet paper, cheap oil, and incense in neighborhood chapels — a cocktail that made his ambient O2 tick feel almost decorative. Still, he checked it before every sealed hatch. Habit was the only saint that never lied.
 
@@ -29,7 +29,7 @@ On Vigilax, boring was diplomacy.
 
 When **Marines Malevolent** dropped into Orbital Yard Seven Hundred Four, no one had put Brach’s seal on their operations plan. The liaison’s terminal denial became *vox* alarm became route became fire — the usual degradation of bureaucracy under boots that did not ask permission.
 
-Brach did not waste breath cursing **rust-yellow** ceramite. He split the *Tertia* net: keep patrol corridors **open** for Arbites and Ministry runners, hold reaction squads **off** the Malevolent’s chosen spectacle until law could be **spoken** without turning a hive district into a second front.
+Brach did not waste breath cursing **rust-yellow** ceramite. He split the TERTIA net: keep patrol corridors **open** for Arbites and Ministry runners, hold reaction squads **off** the Malevolent’s chosen spectacle until law could be **spoken** without turning a hive district into a second front.
 
 He assumed — because *Strategium* had trained him to assume — that shame traveled faster than orders.
 
@@ -63,7 +63,7 @@ Brach issued movement orders before the Chaplain’s *Crozius* finished its firs
 
 Forty kilometers of tube was not distance for an Astartes convoy; it was **time** in a city’s throat — checkpoints, stalled lifts, civilians who froze when grey plate moved at combat pace.
 
-Brach rode the lead element personally — not heroism, **signal**: *Tertia* was not sneaking. *Tertia* was **deploying** under Castra Vetera law whether rust-yellow liked it or not.
+Brach rode the lead element personally — not heroism, **signal**: TERTIA was not sneaking. TERTIA was **deploying** under Castra Vetera law whether rust-yellow liked it or not.
 
 Three squads peeled into Marna-Down’s lower approaches on staggered clocks so *auspex* wouldn’t read one fat target. Suppression brothers set overlapping fields **before** the Malevolent escort kicked the civil barrier down.
 
@@ -89,7 +89,7 @@ Six of them fell. Four lived long enough to be **wrong** in custody.
 
 Two reached for fragmentation grenades against the civilian cluster.
 
-Brach did not issue a second order. Terminal priority had been briefed **once** in the narthex; *Tertia* had repeated it until boredom made it **muscle**.
+Brach did not issue a second order. Terminal priority had been briefed **once** in the narthex; TERTIA had repeated it until boredom made it **muscle**.
 
 The two did not survive the count.
 
@@ -117,17 +117,17 @@ Brach almost smiled — a Khan-Bator expression, all teeth and no humor.
 
 ## VII. WHAT THE CLOTH REMEMBERS
 
-Later — after *Gray Gargoyle*, after words that should not have been spoken, after the Castellan’s hands drew a limit in front of witnesses — *Armourium* would ask *Tertia* what to paint on the fourth field of the *Alabarda*.
+Later — after *Gray Gargoyle*, after words that should not have been spoken, after the Castellan’s hands drew a limit in front of witnesses — *Armourium* would ask TERTIA what to paint on the fourth field of the *Alabarda*.
 
 Not the *Crozius* strike. Not the burning banner. Those belonged to **Varro** and to **law**.
 
-**Field 4** took **triangulation**: Legatus battle math **plus** *Medicinae* telemetry **while** the Chaplain held the visible square — proof that Vigilax was **one war** fought on **two bearings**, and that **III** *Tertia* could win without being the loudest flame in the room.
+**Field 4** took **triangulation**: Legatus battle math **plus** *Medicinae* telemetry **while** the Chaplain held the visible square — proof that Vigilax was **one war** fought on **two bearings**, and that **TERTIA** could win without being the loudest flame in the room.
 
 Brach’s quote followed him like shrapnel lace.
 
 Fire remembers.
 
-On Vigilax, *Tertia* made it remember **geometry**.
+On Vigilax, TERTIA made it remember **geometry**.
 
 ---
 

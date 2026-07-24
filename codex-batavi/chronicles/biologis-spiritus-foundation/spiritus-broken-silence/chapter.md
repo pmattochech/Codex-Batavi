@@ -171,7 +171,7 @@ On the *vox*, someone began to chant *We hold.* Alaric did not repeat it. The wa
 
 Eradication completed. Noviomagus remained under the Aquila. Forges would burn again.
 
-The exact moment external stimulus cleared the perimeter, Wild Hunt collected its caloric debt — **biological rebound**, not miracle, not temporal trick. Hundreds of tons of ceramite hit blood-stained ground. The 3rd Company — every **Vexillatio** that had stood the South sector — sank into hypovolemic collapse filed in Drusus’s margins as ***Exanimus* stage** before the rite had earned its harness.
+The exact moment external stimulus cleared the perimeter, Wild Hunt collected its caloric debt — **biological rebound**, not miracle, not temporal trick. Hundreds of tons of ceramite hit blood-stained ground. The 3rd Company — every **Vexilla** that had stood the South sector — sank into hypovolemic collapse filed in Drusus’s margins as ***Exanimus* stage** before the rite had earned its harness.
 
 Drusus filled scrolls reporting how internal organs failed and demanded reconstruction. I filled *Liber Spiritus* reporting how souls **emptied**.
 

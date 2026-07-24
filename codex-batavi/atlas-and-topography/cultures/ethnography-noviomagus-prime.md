@@ -2,16 +2,16 @@
 
 **Status:** **Ratified** 2026-07-22 — framework upgrade (Phase A maximum depth) from prior ratified ethnography (2026-07-20). Promoted lineage: [`../../planning/in-progress/noviomagus-population-culture.md`](../../planning/in-progress/noviomagus-population-culture.md).  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding)  
-**Seat:** Vexillatio **I** (*Prima*) · Legatus: **Corbec Ardens**  
+**Seat:** Vexilla **I** (PRIMA) · Legatus: **Corbec Ardens**  
 **Scope:** Mortal populi only — not full Vexilla doctrine. Chapter footprint via civilian habit until Phase B.  
-**Atlas / fork:** [system-i-central-bastion.md](../systems/system-i-central-bastion.md) · [worlds-central-bastion.md](worlds-central-bastion.md) § **Noviomagus Prime** · § **I *Prima* wing**  
+**Atlas / fork:** [system-i-central-bastion.md](../systems/system-i-central-bastion.md) · [worlds-central-bastion.md](worlds-central-bastion.md) § **Noviomagus Prime** · § **PRIMA wing**  
 **Basal / Ecclesiarchy:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md) · [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · [ecclesiarchy-on-the-frontier.md](../../political-relations/ecclesiarchy-on-the-frontier.md)  
 **Paired ethnographies:** [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md) · [ethnography-aethelgard-prime.md](ethnography-aethelgard-prime.md)  
 **Author mood:** Hymn map applied — yes · [`../../planning/HYMN-OF-THE-LOST-MOOD-LOCK.md`](../../planning/HYMN-OF-THE-LOST-MOOD-LOCK.md) (author-side only; hymn does **not** exist in Castra Vetera)  
 **Local mortal sin (lock):** **Unlogged scrap** (paired civic wound: **missed torque**)  
 **Legatus public read (mortal):** **Warden Gauge** — the forge governor who keeps the ammo clocks honest; tallies over feast; not a parade king
 
-**I *Prima* bleed (ratified, Phase B template B1–B8 max depth):** [`prima-noviomagus-culture-bleed.md`](prima-noviomagus-culture-bleed.md) · Legatus dossier (Chapter layer): [`dossier-corbec-ardens.md`](../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md)
+**PRIMA bleed (ratified, Phase B template B1–B8 max depth):** [`PRIMA-noviomagus-culture-bleed.md`](prima-noviomagus-culture-bleed.md) · Legatus dossier (Chapter layer): [`dossier-corbec-ardens.md`](../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md)
 
 ---
 
@@ -103,12 +103,12 @@ Life is **rust management**: filters, gutters, reclaim vats, rain schedules, and
 
 Noviomagus mortal force is organized around **rain geometry**, **forge-lip billets**, and **Shared Sweat** with the Wall — not around parade culture. PDF and career militia hold canopies, storm locks, and reclaim corridors. Imperial Guard draft and billet houses feed the wider mesh when tithe and war demand bodies. Arbites posture is **ledger violence**: riot control at wet shafts, elevator fraud, and scrap diversion that threatens civic order. When the Wall is late, **rabble rain pickets and levy fodder die first**; common shift militia die next in the ditch; upper officer houses file the cost and argue priority.
 
-Chapter contact surfaces (Phase A only): Shared Sweat musters at forge-lip PDF canopy barracks; parallel elevator keys visible but not claimable; dark pride and fear by class. Full *Prima* doctrine, obligation lattice, and calibration war-culture live in Phase B — not here.
+Chapter contact surfaces (Phase A only): Shared Sweat musters at forge-lip PDF canopy barracks; parallel elevator keys visible but not claimable; dark pride and fear by class. Full PRIMA doctrine, obligation lattice, and calibration war-culture live in Phase B — not here.
 
 **By class**
 
 - **Rabble:** Levy fodder, rain pickets, wet-shaft meat when Ork scrap or underhive riot climbs the gutters. No career path worth a plaque. Survival doctrine: hold the pipe, don’t leave a body in open rain, don’t expect a sermon when the canopy fails. Friend–foe discrimination on the street is guild color, filter grade, and who shared a pipe watch — not auspex catechism.  
-- **Common:** Career PDF / district militia, Shared Sweat pride without kinship claim, stamp-supply partners to forge-lip billets. Third Shift Concord middle-stack bands feel *Prima* line-replacement tempo as ammo queues and acceptance trials pressing their rain schedule — surface friction, not billet ownership. Ork hate is daily civic weather; xenos “specialists” stay alien.  
+- **Common:** Career PDF / district militia, Shared Sweat pride without kinship claim, stamp-supply partners to forge-lip billets. Third Shift Concord middle-stack bands feel PRIMA line-replacement tempo as ammo queues and acceptance trials pressing their rain schedule — surface friction, not billet ownership. Ork hate is daily civic weather; xenos “specialists” stay alien.  
 - **Upper:** Officer houses, Solis staff who open civil rooms without owning the shaft, patronage of PDF canopies as *face-hold*. Peak magnates want influence over Guard draft lists without being owned by the Chapter shadow. Lower-upper: closest civilian soft door to Shared Sweat / kitchen continuity — still mortal, still not Vexilla rank.
 
 **Worked examples**
@@ -137,7 +137,7 @@ Leisure: reclaim-song circles under illegal canopies (rabble); guild halls with 
 
 Rank is felt as **filter → plaque → car**, then as guild and house. Humiliation is rain exposure, wrong elevator, guest ink revoked, and being filed as **unlogged**. Street law is district dynasty first (Lower Gutter, Third Shift Concord), then Administratum window, then Arbites when blood or diversion scales. Representation is guild concord and house liaison — not democracy; the forge does not vote, it stamps. Rationing follows rain schedule and plaque grade. Tax-as-wound is the tithe seal and the elevator window fee — paid in yield, years, and children registered to quota.
 
-Marriage / contract norms that define class: **window trades** as dowry among common; house alliance seals among upper; rabble **pipe oaths** (don’t steal filter; don’t leave body) with little paper. Death / name civic geography: open-rain dead = erased; Wall-name rumors filed next to rust; marble and ledger memorials for upper; *Prima* capital crypt and Chapter vaults are **not** populi property — mortals may hear “wolf’s floor” as forbidden gallery rumor only.
+Marriage / contract norms that define class: **window trades** as dowry among common; house alliance seals among upper; rabble **pipe oaths** (don’t steal filter; don’t leave body) with little paper. Death / name civic geography: open-rain dead = erased; Wall-name rumors filed next to rust; marble and ledger memorials for upper; PRIMA capital crypt and Chapter vaults are **not** populi property — mortals may hear “wolf’s floor” as forbidden gallery rumor only.
 
 **By class**
 
@@ -246,7 +246,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 | **Adeptus Administratum** | **Core** | Window law, plaque registries, elevator rights, tithe arithmetic. Mortals meet clerks before priests when holiness needs a receipt. Class access: common spine / upper audit chiefs; rabble meet them as denial and punishment. Local accent: forge cant under High Gothic. Friction with Batavi shadow: two verticals — civic elevators vs Chapter parallel keys. Sin in this robe: misfile, forged window, clean-looking diversion. |
 | **Adeptus Ministorum / Ecclesiarchy** | **Present** | Baptism records and chapel patronage remain Imperial law. Daily holiness often loses to the stamp booth. Class: rain confessors (rabble), district chapels (common), chapter-house patrons (upper). Accent conflict with throughput theology; silence undercuts ecstasy without erasing baptism. Batavi contrast: shared words ≠ shared creed. Sin: empty thunder, loud devotion that fails audit. |
 | **Adeptus Arbites** | **Present** | Ledger violence — wet-shaft riot, elevator fraud, scrap diversion at civic scale. Felt most by rabble and common; upper buys delay, not immunity. Local accent: rain geometry policing. Friction: Shared Sweat may flatten class briefly; Arbites restore hierarchy. Sin: riot against the seal, not private heresy theater. |
-| **Adeptus Mechanicus** (incl. local forge-priests) | **Core** | Forge-priests are civic weather — torque blessing, stamp booth, Magos-liaison houses. Not full Mars replacement theology; mortals stay Ecclesiarchy-baptized on record. Class access mirrors strata. Easiest cultural handshake with *Prima* ammo clocks (surface only). Sin: missed torque, unlogged scrap, dies that wander. |
+| **Adeptus Mechanicus** (incl. local forge-priests) | **Core** | Forge-priests are civic weather — torque blessing, stamp booth, Magos-liaison houses. Not full Mars replacement theology; mortals stay Ecclesiarchy-baptized on record. Class access mirrors strata. Easiest cultural handshake with PRIMA ammo clocks (surface only). Sin: missed torque, unlogged scrap, dies that wander. |
 | **Imperial Guard / Astra Militarum** (draft, billet, regiment links) | **Present** | Draft windows, billet houses, forge-lip overlap with PDF. Common career path adjacent to Shared Sweat; rabble levy fodder; upper officer houses. Cultural effect: Ork hate daily; Wall envy/dark pride. Batavi friction: plans alongside without kinship claim. Sin: desertion, diversion of kit, speech that claims brotherhood with Astartes. |
 | **Planetary Defense Force / local militia** | **Core** | Canopy holders, storm-lock priority, district concord militia. Primary Shared Sweat partner. Class-banded as in §1. Sin: canopy theft, wrong priority at storm lock, unlogged weapons scrap. |
 | **Imperial Navy** | **Thin** | Felt via *Castrum Ferrum* apron labor, embarkation tallies, and Steel Belt channel discipline more than parade fleets. Dock-shift plaques and clamp licenses (wing periphery) inherit Noviomagus receipt culture under vacuum. Most hive mortals meet Navy as rumor, levy, or orbital draft. Sin: clamp fraud, apron diversion. |
@@ -280,15 +280,15 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 
 **Mortal → scene signal:** Filter grade → civil ID plaque → which car boarded without looking; then stamp booth vs chapel; then who sweats in the ditch without a sermon.
 
-**Wrong:** Hive-king Castellan; Solis as *Prima* officer; Corbec as feast king; obligation rumor = unlogged scrap; Batavi creed = Ministorum God-Emperor worship; Founding/progenitor “proof” from street wolf marks; opaque friend–foe letter-codes in mortal mouths.
+**Wrong:** Hive-king Castellan; Solis as PRIMA officer; Corbec as feast king; obligation rumor = unlogged scrap; Batavi creed = Ministorum God-Emperor worship; Founding/progenitor “proof” from street wolf marks; opaque friend–foe letter-codes in mortal mouths.
 
-**Right:** Storm lock — mortals queue by stratum; *Prima* on priority geometry when present; Shared Sweat only when the ditch is one; Warden Gauge = clocks and tallies; throughput theology at the booth; rust as budget; chronological blindness (rumor ≠ *Strategium* seal).
+**Right:** Storm lock — mortals queue by stratum; PRIMA on priority geometry when present; Shared Sweat only when the ditch is one; Warden Gauge = clocks and tallies; throughput theology at the booth; rust as budget; chronological blindness (rumor ≠ *Strategium* seal).
 
 ---
 
 ## 9. Related / deferred
 
-- **Phase B bleed file:** [`prima-noviomagus-culture-bleed.md`](prima-noviomagus-culture-bleed.md) (**ratified** — framework Phase B template B1–B8 maximum depth; do not mix full bleed doctrine into this populi body).  
-- **Wing periphery (Phase C):** [`worlds-central-bastion.md`](worlds-central-bastion.md) § **I *Prima* wing** — Castrum Ferrum, Ferrum-Secondus, Hive Vespera, wet-shaft, Steel Belt, Horreum-Secundus (Noviomagus standard + minor local delta; no separate ethnographies this pass).  
-- **Sibling seats:** *Secunda* / *Tertia* and beyond — **do not absorb**.  
+- **Phase B bleed file:** [`PRIMA-noviomagus-culture-bleed.md`](prima-noviomagus-culture-bleed.md) (**ratified** — framework Phase B template B1–B8 maximum depth; do not mix full bleed doctrine into this populi body).  
+- **Wing periphery (Phase C):** [`worlds-central-bastion.md`](worlds-central-bastion.md) § **PRIMA wing** — Castrum Ferrum, Ferrum-Secondus, Hive Vespera, wet-shaft, Steel Belt, Horreum-Secundus (Noviomagus standard + minor local delta; no separate ethnographies this pass).  
+- **Sibling seats:** SECVNDA / TERTIA and beyond — **do not absorb**.  
 - **Legatus Chapter layer:** [`dossier-corbec-ardens.md`](../../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md) (sealed biography ≠ populi public read).

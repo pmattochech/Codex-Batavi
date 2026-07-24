@@ -27,7 +27,7 @@ The initial response followed *Codex* doctrine with the indifference of a man in
 
 Chief Apothecary Drusus did not watch the map. He watched the line.
 
-In the *Castrum Medicae*, hormone charts for every **Vexillatio** on the wall trembled before auspex could resolve fleet silhouettes. Cortisol spiked in patterns that did not match fear. Growth hormone rose as if the body had already answered a question no officer had asked aloud. Drusus logged the read as *pre-stimulus hypertrophy* and injected suppressors into his own carotid with a hand that did not shake because shaking would have been data.
+In the *Castrum Medicae*, hormone charts for every **Vexilla** on the wall trembled before auspex could resolve fleet silhouettes. Cortisol spiked in patterns that did not match fear. Growth hormone rose as if the body had already answered a question no officer had asked aloud. Drusus logged the read as *pre-stimulus hypertrophy* and injected suppressors into his own carotid with a hand that did not shake because shaking would have been data.
 
 Executor Chaplain Varro stood at the table’s far edge, cowled wolf-skull a matte absence in the holo-glow. He had not spoken since the Ford screamed. Silence, for Varro, was not empty; it was load-bearing.
 
@@ -159,7 +159,7 @@ Alaric — still drenched in enemy ichor — took two stumbling steps toward the
 
 Drusus’s subsequent reports revealed the scale: acute multi-organ failure — tissue self-calcined by hyper-accelerated metabolism. They had beaten the green storm because they let themselves be monsters for one solar cycle. Transhuman flesh was not built to host a hurricane that long without coming apart.
 
-In stasis chambers beneath the *Castrum Ferrum*, while **all Vexillationes** present sank into regenerative coma filed as ***Exanimus* stage**, one observation outlived the immediate casualty lists: the Lord Castellan’s nearly destroyed left arm did not atrophy into keloid. Cells entered febrile mitotic boil — weaving bone and nerve from ash in weeks, not months. Wild Hunt burned the body in a chemical forge; what remained chose to mold into harder alloy than the steel it replaced.
+In stasis chambers beneath the *Castrum Ferrum*, while **all Vexilla** present sank into regenerative coma filed as ***Exanimus* stage**, one observation outlived the immediate casualty lists: the Lord Castellan’s nearly destroyed left arm did not atrophy into keloid. Cells entered febrile mitotic boil — weaving bone and nerve from ash in weeks, not months. Wild Hunt burned the body in a chemical forge; what remained chose to mold into harder alloy than the steel it replaced.
 
 The Chapter’s doctrine hardened its harshest lesson:
 

@@ -53,7 +53,7 @@ Which was both theology and logistics, and therefore true enough to hurt.
 
 **Kadmos** prepared kill-boxes — habit his devotion, geometry his liturgy, future welcomed same way you welcome storm you know will erase your careful sandcastles.
 
-He ran **Vexillatio** officers through boards until boards became muscle memory again, because after Men of Iron silence worst danger was not next enemy but next **blank sector** men would fill with ghosts they could salute.
+He ran **Vexilla** officers through boards until boards became muscle memory again, because after Men of Iron silence worst danger was not next enemy but next **blank sector** men would fill with ghosts they could salute.
 
 He drilled **relay** handoffs until handoffs looked like combat ballet performed by exhausted people who understood elegance, under fleet lights, was just another word for *fewer mistakes*.
 
@@ -77,7 +77,7 @@ Strategium filed reprimand as **doctrine note; morale hazard** beside **archaeol
 
 **Valerius** translated *approach lane open* into *escort manifest parity or no sample transit*, repeating margin law from courier week until it became refrain officers quoted without knowing whose hand had first written it — exactly how good law spreads, through throats tired of improvising mercy at dockside.
 
-In mess that smelled like recycled air and stubborn detergent, **Primaris** lieutenant asked old **Vexillatio** sergeant what **Castra Vetera** *meant*, meaning myth, and got answer that sounded like inventory:
+In mess that smelled like recycled air and stubborn detergent, **Primaris** lieutenant asked old **Vexilla** sergeant what **Castra Vetera** *meant*, meaning myth, and got answer that sounded like inventory:
 
 — Meant **hold orders**. Meant **relay handoffs**. Meant **minutes slept** on slate where honesty could get you yelled at by admiral and thanked by brother who finally slept because someone had counted theft out loud.
 

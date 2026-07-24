@@ -106,27 +106,27 @@ One named precinct, **three primary buildings** (Triumvirate architecture):
 
 | Building | Seat | Role |
 |----------|------|------|
-| **Strategium / Chapter Monastery** | Castellan / Alaric | War-brain, living brothers, *Decima* muster, council; *Librarius* / *Armourium* annex stacks and Martha’s kitchen as sanctioned human anchor remain on this house’s campus |
+| **Strategium / Chapter Monastery** | Castellan / Alaric | War-brain, living brothers, DECIMA muster, council; *Librarius* / *Armourium* annex stacks and Martha’s kitchen as sanctioned human anchor remain on this house’s campus |
 | **Apothecarion** | Drusus | Gene-seed, autopsy, Furor / *Vermilion* labs |
 | **Reclusiam** | Varro | Living soul-law; Mortivigil HQ; gate to **Chapter-supreme bone vault** |
 
 *(Formal High Gothic names for each house and for the supreme vault — backlog.)*
 
-### Nine Vexillatio capital crypts
+### Nine Vexilla capital crypts
 
-One crypt on each **Legatus capital** world. Bones of brothers whose **home Vexillatio** is that seat — including ***Decima*** elites, who return to the vex that forged them.
+One crypt on each **Legatus capital** world. Bones of brothers whose **home Vexilla** is that seat — including **DECIMA** elites, who return to the vex that forged them.
 
 | Vex | Capital (crypt world) |
 |-----|------------------------|
-| **I** *Prima* | **Noviomagus Prime** (capital crypt — distinct from Chapter-supreme vault) |
-| **II** *Secunda* | **Castra-Vetera Prime** |
-| **III** *Tertia* | **Khan-Bator Prime** |
-| **IV** *Quarta* | **Incus-Gravis** sphere (seat world) |
-| **V** *Quinta* | **Aethelgard Prime** |
-| **VI** *Sexta* | **Bifrons-Ferrum** |
-| **VII** *Septima* | **Vitreus** |
-| **VIII** *Octava* | **Great Reef / Maleventum** seat |
-| **IX** *Nona* | **Marco de Vetra** |
+| **PRIMA** | **Noviomagus Prime** (capital crypt — distinct from Chapter-supreme vault) |
+| **SECVNDA** | **Castra-Vetera Prime** |
+| **TERTIA** | **Khan-Bator Prime** |
+| **QVARTA** | **Incus-Gravis** sphere (seat world) |
+| **QVINTA** | **Aethelgard Prime** |
+| **SEXTA** | **Bifrons-Ferrum** |
+| **SEPTIMA** | **Vitreus** |
+| **OCTAVA** | **Great Reef / Maleventum** seat |
+| **NONA** | **Marco de Vetra** |
 
 **Repatriation rule:** bones **always** ship to the **home** capital crypt when a home vex exists — not the nearest crypt of convenience.
 
@@ -160,6 +160,6 @@ Batavi **respect** the dead of other Chapters, auxilia, and mortals as civilized
 | High Gothic / Batavi names for the three Castra-Lupus houses | **TBD** |
 | Chapter-supreme vault formal name | **TBD** |
 | Per-vex crypt formal names | **TBD** |
-| Noviomagus *Prima* capital crypt vs supreme vault site plan | **TBD** (both on Noviomagus; must not be confused) |
+| Noviomagus PRIMA capital crypt vs supreme vault site plan | **TBD** (both on Noviomagus; must not be confused) |
 
 Planning: [`disciplines-and-curia-vexilli-plan.md`](../../planning/disciplines-and-curia-vexilli-plan.md) §9.

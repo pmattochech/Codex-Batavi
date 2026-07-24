@@ -1,10 +1,10 @@
-# Legati operational register (I–IX)
+# Legati operational register (PRIMA–NONA)
 
 *Strategium* summary — **operational strategy**, **fighting identity**, and **armor baseline** for each **Legatus** seat. Castellan contrast: [`castra-lupus-doctrine.md`](castra-lupus-doctrine.md) §1.1 (*lupus in castra* vs *vir in acie*).
 
-**Shared Legatus law (all nine):** One **indivisible Vexillatio** (~500); ***Alabarda Vexillum*** (four-field panel — *Prima* fourth = obligation, not triumph); **sole runtime authority** on pole actuation ([`alabarda-head-groups.md`](alabarda-head-groups.md) §2); ***Curia Vexilli*** (Genetor + Confessor parallel); **certified *Watch cycle*** for post–**051.M42** appointments ([`deathwatch-and-batavorum.md`](../political-relations/deathwatch-and-batavorum.md)); **Triumvirate extension** within assigned Phalanx seat — **not** Castellan substitute.
+**Shared Legatus law (all nine):** One **indivisible Vexilla** (~500); ***Alabarda* + Vexilla** (four-field panel — PRIMA fourth = obligation, not triumph); **sole runtime authority** on pole actuation ([`alabarda-head-groups.md`](alabarda-head-groups.md) §2); ***Curia Vexilli*** (Genetor + Confessor parallel); **certified *Watch cycle*** for post–**051.M42** appointments ([`deathwatch-and-batavorum.md`](../political-relations/deathwatch-and-batavorum.md)); **Triumvirate extension** within assigned Phalanx seat — **not** Castellan substitute.
 
-**Armor (Chapter law):** Legati wear **Legatus artificer** commissions — one configuration per incumbent (**rite of the block** with **Kadmos**; vault legacy parts **Mark V and later only**, **refitted** where applicable — always **artificer** grade). Default chassis: **Mark X Tacticus–class** Noviomagus (**line mass** among the five hundred). ***Typus Sextus — Bifronte*** **exception:** daily **Tartaros-pattern TDA** office plate only. **I *Prima*** — **Corbec Ardens** — holds ***Typus Primus — Ardens***: the **reference gauge** other Legati briefs trace and *Prima* line plate is **vex-calibrated** against. **Not** *Castra-Lupus*. Per-incumbent kit: § **Armor** below; **I–IX** locked.
+**Armor (Chapter law):** Legati wear **Legatus artificer** commissions — one configuration per incumbent (**rite of the block** with **Kadmos**; vault legacy parts **Mark V and later only**, **refitted** where applicable — always **artificer** grade). Default chassis: **Mark X Tacticus–class** Noviomagus (**line mass** among the five hundred). ***Typus Sextus — Bifronte*** **exception:** daily **Tartaros-pattern TDA** office plate only. **PRIMA** — **Corbec Ardens** — holds ***Typus Primus — Ardens***: the **reference gauge** other Legati briefs trace and PRIMA line plate is **vex-calibrated** against. **Not** *Castra-Lupus*. Per-incumbent kit: § **Armor** below; **PRIMA–NONA** locked.
 
 ### Legatus armor — institution
 
@@ -13,22 +13,22 @@
 | **Grade** | **Artificer** — tighter seals, relay marriage, Curia telemetry ports, acceptance stamps; **every** helm or vault graft discussed for Legati is **artificer**-tier, not line plate |
 | **Commission** | ***Rite of the block*** — each Legatus co-designs kit with **Kadmos** (Master of the Forge); **Castra-Vetera vault** legacy components **Mark V and later only** (e.g. **Mk V** stud rims, **Mk VII** bowls, **Mk VIII Errant** collars) **refitted** to Mk X geometry — always **artificer** tier |
 | **Scale** | **Line Astartes** silhouette — Legatus stays **among** the five hundred in mass · ***Typus Sextus*** exception: daily **TDA** office (Bifronte) |
-| **Reference** | ***Typus Primus — Ardens*** (Corbec) = **artificer grade** + acceptance master gauge for Legatus typology and *Prima* vex calibration — **not** a shared visual kit |
+| **Reference** | ***Typus Primus — Ardens*** (Corbec) = **artificer grade** + acceptance master gauge for Legatus typology and PRIMA vex calibration — **not** a shared visual kit |
 | **Helm** | **Per Legatus brief** — e.g. *Typus Primus* **Corvus-pattern** beak (Corbec only); other seats use **different** families (see each incumbent) |
 | **Crest (default)** | **Fixed transverse** brush — **alternating crimson and white** lamella (Chapter symbol colors); **rank** · **Exceptions:** *Typus Quintus* — **black Batav wolf head + black pelt** (*Canis Batavorum* animal trophy; not seal stencil); *Typus Sextus* — **ornate iron halo** (no crest) |
 | **Cuirass (all Legati)** | **Chest aquila** on artificer breastplate |
-| **Rear mount** | **Per incumbent** — e.g. Corbec: **worked iron halo** on **helm**; Sturmwahl: **iron halo** on **jump-pack spine** only; not standardized across I–IX |
+| **Rear mount** | **Per incumbent** — e.g. Corbec: **worked iron halo** on **helm**; Sturmwahl: **iron halo** on **jump-pack spine** only; not standardized across PRIMA–NONA |
 | **Office pack** | **Standard Mk X artificer backpack** unless incumbent brief certifies otherwise — ***Typus Quintus*** (Sturmwahl): **integral jump-assault pack**, always worn |
 | **Chapter wolf (left pauldron)** | **White** frontal-wolf transfer on **crimson** field — **same charge** as chapter seal (reduced); see paint guide |
-| **Left / right** | **Left** = Chapter pauldron + **relay terminal** on forearm · **Right** = **incumbent-specific** (*Prima* debt chains + Crux if worn; Watch honor block; seat marks — see each §) |
+| **Left / right** | **Left** = Chapter pauldron + **relay terminal** on forearm · **Right** = **incumbent-specific** (PRIMA debt chains + Crux if worn; Watch honor block; seat marks — see each §) |
 | **Crux Terminatus** | **Gate:** assess whether **TDA / Terminator** identity fits this Legatus’s **office** theater (daily plate — not mission swap). **If NO** → **no Crux**. **If YES** → **Corbec-pattern Mk X inset** on **crimson** right pauldron. **Worn:** ***Typus Primus — Ardens*** (Corbec; grandfather — Mk X office, **no** TDA daily) · ***Typus Sextus — Bifronte*** (Tartaros TDA office) |
-| ***Prima* debt chains** | **Rolled iron/ceramite chains**, **right forearm only** — ***Prima* Legatus only** |
+| **PRIMA debt chains** | **Rolled iron/ceramite chains**, **right forearm only** — **PRIMA Legatus only** |
 | **Watch-return honor** | Optional after **certified *Watch cycle***: **full honor block** — **right pauldron + right arm** Deathwatch silver/black (left stays Chapter); **or** minimal signal — e.g. belt **“I” pendant** only (Sturmwahl) — see [`deathwatch-and-batavorum.md`](../political-relations/deathwatch-and-batavorum.md) §4.3 |
-| **Line propagation** | Each Legatus’s **500** wear **vex-calibrated Noviomagus Standard** — same acceptance **class** as their Legatus reference, without Legatus-only marks (Crux, crest, seat-specific helm/adornment, *Prima* chains, Watch honor block) unless rank earns them |
+| **Line propagation** | Each Legatus’s **500** wear **vex-calibrated Noviomagus Standard** — same acceptance **class** as their Legatus reference, without Legatus-only marks (Crux, crest, seat-specific helm/adornment, PRIMA chains, Watch honor block) unless rank earns them |
 
 **Template propagation (summary):**
 
-| Piece | *Typus Primus* (Corbec) | Other Legati | *Prima* line 500 |
+| Piece | *Typus Primus* (Corbec) | Other Legati | PRIMA line 500 |
 | ----- | ---------------------- | ------------ | ---------------- |
 | Helm family | **Corvus-pattern** beak + telemetry | **Distinct** per seat (not Corvus-by-default) | Standard Mk X bowl |
 | Crest | **Crimson / white** alternate (default) | Default or **seat exception** (Quintus wolf+pelt; Sextus halo) | No |
@@ -36,7 +36,7 @@
 | Rear helm mount | **Iron halo** (forge ring) | Incumbent-specific (e.g. gold aquila on helm; **none** — Sturmwahl) | No |
 | Office pack | Standard Mk X | **Integral jump-assault** (*Typus Quintus*) or standard | No |
 | Crux (Mk X) | Right pauldron (**worn**) | If gate **yes** (Corbec; Bifronte) | Merit only |
-| Debt chains | Right forearm | ***Prima* Legatus only** | No |
+| Debt chains | Right forearm | **PRIMA Legatus only** | No |
 | Relay terminal | Left forearm | Legatus standard | Optional squad relay |
 | Watch honor block | — | Optional (right pauldron + arm) | No |
 | Chapter wolf color | **White** on left | **White** on left | **White** on left |
@@ -50,25 +50,25 @@ Detail: [`noviomagus-standard-engineering.md`](noviomagus-standard-engineering.m
 ## Strategy map (quick reference)
 
 ```
-Prima  ── industrial baseline / rectification debt
-Secunda ─ measured fire / Lex geometry
-Tertia  ─ thermal-chem breach
-Quarta  ─ high-G static March hold
-Quinta  ─ jump assault / chainsword closure
-Sexta   ─ twin breach siege / Indomitor meatgrinder
-Septima ─ plasma-photonic vent discipline
-Octava  ─ void boarding / reef EM
-Nona    ─ relay pin / delay until the shout
+PRIMA  ── industrial baseline / rectification debt
+SECVNDA ─ measured fire / Lex geometry
+TERTIA  ─ thermal-chem breach
+QVARTA  ─ high-G static March hold
+QVINTA  ─ jump assault / chainsword closure
+SEXTA   ─ twin breach siege / Indomitor meatgrinder
+SEPTIMA ─ plasma-photonic vent discipline
+OCTAVA  ─ void boarding / reef EM
+NONA    ─ relay pin / delay until the shout
 ```
 
 ---
 
-## I · *Prima* — Corbec Ardens (*Warden Gauge*)
+## I · PRIMA — Corbec Ardens (*Warden Gauge*)
 
 | Field | Lock |
 | ----- | ---- |
 | **Seat** | **Noviomagus Prime** — reference forge, line-replacement tempo, tithe heart |
-| **Theater strategy** | **Industrial war baseline** — bolt volume, chainswords, power gladii, sustained automatic fire; *Prima* = **calibration Vexillatio** for the mesh |
+| **Theater strategy** | **Industrial war baseline** — bolt volume, chainswords, power gladii, sustained automatic fire; PRIMA = **calibration Vexilla** for the mesh |
 | ***Alabarda*** | **Type Primus** (reference) — power axe cheek, short power impaler, power hammer, butt plant |
 | **Operational identity** | Ammunition economy as moral law; **Noviomagus austerity** (minimal heraldic deviation); tie-breaker via **live fire tallies**; all four specialty cohorts fed equally |
 | **Field 4** | **Obligation / remembrance** (Malakor–Valerius register) — broken-cog border; *debt we carry — not a crime you committed* |
@@ -77,11 +77,11 @@ Nona    ─ relay pin / delay until the shout
 | **Armor** | ***Typus Primus — Ardens*** — **locked** (see below) |
 | **Dossier** | [`dossier-corbec-ardens.md`](../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md) |
 
-**Armor — *Typus Primus — Ardens* (locked):** Noviomagus **artificer Mark X Tacticus**; **Corvus-pattern** helm (beak telemetry, **crimson / white alternating transverse crest**, **worked iron halo**, orange lenses); **chest aquila**; **left forearm relay terminal**; **right forearm rolled chains** (*Prima* debt); **right pauldron Crux Terminatus** (Mk X, Corbec pattern); **left pauldron** **white** frontal-wolf on **crimson**; **purity seals**; **broken-cog caliper**; optional **Malakor audit scar** (left pauldron). ~90% industrial grey. **Best lethal geometry** in Chapter (sealed audit) — not public Champion theater.
+**Armor — *Typus Primus — Ardens* (locked):** Noviomagus **artificer Mark X Tacticus**; **Corvus-pattern** helm (beak telemetry, **crimson / white alternating transverse crest**, **worked iron halo**, orange lenses); **chest aquila**; **left forearm relay terminal**; **right forearm rolled chains** (PRIMA debt); **right pauldron Crux Terminatus** (Mk X, Corbec pattern); **left pauldron** **white** frontal-wolf on **crimson**; **purity seals**; **broken-cog caliper**; optional **Malakor audit scar** (left pauldron). ~90% industrial grey. **Best lethal geometry** in Chapter (sealed audit) — not public Champion theater.
 
 ---
 
-## II · *Secunda* — Henric Kessler (*Measured Line / Castra-Vetera Caliper*)
+## II · SECVNDA — Henric Kessler (*Measured Line / Castra-Vetera Caliper*)
 
 | Field | Lock |
 | ----- | ---- |
@@ -99,7 +99,7 @@ Nona    ─ relay pin / delay until the shout
 
 ---
 
-## III · *Tertia* — Theron Brach (*Seal Flame / Chem-Lord*)
+## III · TERTIA — Theron Brach (*Seal Flame / Chem-Lord*)
 
 | Field | Lock |
 | ----- | ---- |
@@ -116,7 +116,7 @@ Nona    ─ relay pin / delay until the shout
 
 ---
 
-## IV · *Quarta* — Orin Valestrand (*Shingle Warden / Grav Lock*)
+## IV · QVARTA — Orin Valestrand (*Shingle Warden / Grav Lock*)
 
 | Field | Lock |
 | ----- | ---- |
@@ -133,7 +133,7 @@ Nona    ─ relay pin / delay until the shout
 
 ---
 
-## V · *Quinta* — Armin Sturmwahl (*Descent Ledger / Storm-Master*)
+## V · QVINTA — Armin Sturmwahl (*Descent Ledger / Storm-Master*)
 
 | Field | Lock |
 | ----- | ---- |
@@ -151,7 +151,7 @@ Nona    ─ relay pin / delay until the shout
 
 ---
 
-## VI · *Sexta* — Gervas Bifronte (*Twin-Gate Warden / Greater Mason / Father of Walls*)
+## VI · SEXTA — Gervas Bifronte (*Twin-Gate Warden / Greater Mason / Father of Walls*)
 
 | Field | Lock |
 | ----- | ---- |
@@ -169,7 +169,7 @@ Nona    ─ relay pin / delay until the shout
 
 ---
 
-## VII · *Septima* — Lucan Phaetron (*Glass Burn / Vitreus Voltaic*)
+## VII · SEPTIMA — Lucan Phaetron (*Glass Burn / Vitreus Voltaic*)
 
 | Field | Lock |
 | ----- | ---- |
@@ -186,16 +186,16 @@ Nona    ─ relay pin / delay until the shout
 
 ---
 
-## VIII · *Octava* — Ivar Malevent (*Reef Key / Static-Lord*)
+## VIII · OCTAVA — Ivar Malevent (*Reef Key / Static-Lord*)
 
 | Field | Lock |
 | ----- | ---- |
 | **Seat** | **Great Reef / Station-Maleventum** — void fight, boarding, ion scourge |
 | **Theater strategy** | **Void fight** — combat shields, power swords, compact bolters, grav-chutes, hull melta; EM-filtered auspex |
 | ***Alabarda*** | **Type Contus** — compact void spear, micro hook, bulkhead hammer cap; cloth furled in fight |
-| **Operational identity** | Soft vox on open channels; **two void seals** counted pre-battle; corridor interlock; buys seconds for *Nona* relay |
+| **Operational identity** | Soft vox on open channels; **two void seals** counted pre-battle; corridor interlock; buys seconds for NONA relay |
 | **Field 4** | **Witness Ford intercept** (096.M42) — void net with Black Templars / Helbrecht |
-| **Legatus Ring** | Virtue: **void fire brigade pride without privatizing mesh law** · Risk: **blocking inland terminal law as “not Octava theater”** |
+| **Legatus Ring** | Virtue: **void fire brigade pride without privatizing mesh law** · Risk: **blocking inland terminal law as “not OCTAVA theater”** |
 | **Armor** | ***Typus Octavus — Malevent*** — **locked** (see below) |
 | **Dossier** | [`dossier-ivar-malevent.md`](../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) |
 
@@ -203,7 +203,7 @@ Nona    ─ relay pin / delay until the shout
 
 ---
 
-## IX · *Nona* — Cassian Vetra (*Vacuum Shouter’s Warden*)
+## IX · NONA — Cassian Vetra (*Vacuum Shouter’s Warden*)
 
 | Field | Lock |
 | ----- | ---- |

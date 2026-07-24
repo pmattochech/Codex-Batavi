@@ -1,14 +1,14 @@
-# Phase B — VII *Septima* ↔ Vitreus culture bleed
+# Phase B — SEPTIMA ↔ Vitreus culture bleed
 
 **Status:** Ratified — 2026-07-22  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding) — Phase B only  
-**Theater:** **Vitreus** (The Lens World) · **Vexillatio VII (*Septima*)** · Legatus **Lucan Phaetron** (**the Glass Burn**)  
+**Theater:** **Vitreus** (The Lens World) · **Vexilla SEPTIMA** · Legatus **Lucan Phaetron** (**the Glass Burn**)  
 **Does not replace:** [`ethnography-vitreus.md`](ethnography-vitreus.md) (Phase A) or full Vexilla / sealed clinical doctrine  
 **Atlas / fork:** [`worlds-crucible.md`](worlds-crucible.md) § **Vitreus** · [`../systems/system-ii-crucible.md`](../systems/system-ii-crucible.md)  
 **Legatus:** [`../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md`](../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md)  
 **Chronicle touch (sealed depth vs folk):** [`../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md`](../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md) · AAR register (not street catechism)  
 **Local mortal sin (lock):** **stray scatter**  
-**Scope bar (bleed file):** Silica Field / Solaris-Alpha appear here only as atlas rumor + piety bleed — deep Phase C stubs live under [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** (not a separate Phase A ethnography). **No** Founding / progenitor invention.
+**Scope bar (bleed file):** Silica Field / Solaris-Alpha appear here only as atlas rumor + piety bleed — deep Phase C stubs live under [worlds-crucible.md](worlds-crucible.md) § **SEPTIMA wing** (not a separate Phase A ethnography). **No** Founding / progenitor invention.
 
 ---
 
@@ -17,7 +17,7 @@
 | Layer | Owns | Does not own |
 |-------|------|--------------|
 | **Populi ethnography** ([`ethnography-vitreus.md`](ethnography-vitreus.md)) | Glare rights, facet/lab keys, clarity theology, refraction courts, Dark-Veil Facet Houses, glass-diver covenants, civic **stray scatter**, Melts / vent-bell habit as *civilian* weather | *Axiom*, Furor / Exanimus / Execratio clinical law, gene-seed architecture, Founding claims, sealed Null-Vent AAR taxonomy, friend–foe discrimination doctrine as mortal catechism |
-| **VII *Septima*** | Plasma / photonic **energy stress** war-culture; **vent-window** sign-off; dual seal (Legatus tick + Techmarine / machine auspex tick); Null-Vent manifold discipline; *Typus Septimus* glare plate; *Alabarda* Type Lamina containment geometry; punishment of careless fire; Librarium as **noise budget** risk near forges | Stamp-booth holiness, shade-window rationing, civilian melt psalms as Chapter rite, Facet House porch law, Mechanicus lens sovereignty |
+| **SEPTIMA** | Plasma / photonic **energy stress** war-culture; **vent-window** sign-off; dual seal (Legatus tick + Techmarine / machine auspex tick); Null-Vent manifold discipline; *Typus Septimus* glare plate; *Alabarda* Type Lamina containment geometry; punishment of careless fire; Librarium as **noise budget** risk near forges | Stamp-booth holiness, shade-window rationing, civilian melt psalms as Chapter rite, Facet House porch law, Mechanicus lens sovereignty |
 | **This bleed file** | Bidirectional habits at the seam; hard edges; class contact; Mechanicus **Core handshake**; Wrong / Right fiction tells; Null-Vent **folk vs seal** split | Replacing Phase A; writing Phase C wing stubs inside this file; inventing progenitor / Founding on the open record |
 
 **Ownership tell for fiction:** If a beat needs *why mortals budget clarity*, stay in Phase A. If a beat needs *why a brother clicks a knuckle before a vent window while a Magos cold-courtesies him*, this file owns it.
@@ -26,41 +26,41 @@
 
 ## B2. Hard edges (do not merge)
 
-1. **Faith:** Populi = Ecclesiarchy baptismal record + Porta Nihili **clarity** accent (God is clarity; angled prayer; instrument log as receipt). *Septima* = **Ancestor-Sovereign / Throne-weight** — oath geometry, not Ministorum God-Emperor worship. Shared words (*Emperor*, *Throne*, *seal*, *hold*) ≠ shared creed. Mute during overcharge windows can look like one piety from the street; it is **not**.
+1. **Faith:** Populi = Ecclesiarchy baptismal record + Porta Nihili **clarity** accent (God is clarity; angled prayer; instrument log as receipt). SEPTIMA = **Ancestor-Sovereign / Throne-weight** — oath geometry, not Ministorum God-Emperor worship. Shared words (*Emperor*, *Throne*, *seal*, *hold*) ≠ shared creed. Mute during overcharge windows can look like one piety from the street; it is **not**.
 
 2. **Verticals / keys:** Mortals sorted by **glare rights** (primary) and **facet / lab keys** (secondary). Chapter precincts run **parallel keys** — guest ink, billet shade, dock shadow — that confuse Administratum guest stacks without promoting anyone into Vexilla rank. Brothers ≠ Upper by kit; Magos-liaison blood ≠ Legatus by treaty ink.
 
-3. **Shame ≠ stray scatter:** Civic **stray scatter** = light / reflection / photonic yield spent outside logged facet, approved angle, or sealed purpose (vanity polish, scrap-lens diversion, false mirrors, pretty telemetry). *Septima* shame lattice = **careless plasma**, **tracer vanity that blinds spotter glass**, **vent signed without dual seal**, and the command failure-risk of **over-focusing material vent failure while friend–foe discrimination collapses**. Rhymes in brightness; **not** the same sin. A refraction court can prosecute scatter without touching Chapter vent law; a Legatus can punish underburn vanity without caring about a shade cartel's veil-minutes.
+3. **Shame ≠ stray scatter:** Civic **stray scatter** = light / reflection / photonic yield spent outside logged facet, approved angle, or sealed purpose (vanity polish, scrap-lens diversion, false mirrors, pretty telemetry). SEPTIMA shame lattice = **careless plasma**, **tracer vanity that blinds spotter glass**, **vent signed without dual seal**, and the command failure-risk of **over-focusing material vent failure while friend–foe discrimination collapses**. Rhymes in brightness; **not** the same sin. A refraction court can prosecute scatter without touching Chapter vent law; a Legatus can punish underburn vanity without caring about a shade cartel's veil-minutes.
 
-4. **Bridge ≠ billet:** **Dark-Veil Facet Houses** = lower-upper civil bridge — dark-veil patents, notary porches, Magos-liaison clerk speech that serves lab door *and* district chapel without owning forge throne or Chapter floors. Shared Sweat water, outer gallery guest ink, and Facet porch time are **civil soft power**. They are **not** *Septima* billet, Strategium access, or Null-Vent manifold authority. Do not cast a Facet notary as “almost a Techmarine” or a billeted brother as “house client.”
+4. **Bridge ≠ billet:** **Dark-Veil Facet Houses** = lower-upper civil bridge — dark-veil patents, notary porches, Magos-liaison clerk speech that serves lab door *and* district chapel without owning forge throne or Chapter floors. Shared Sweat water, outer gallery guest ink, and Facet porch time are **civil soft power**. They are **not** SEPTIMA billet, Strategium access, or Null-Vent manifold authority. Do not cast a Facet notary as “almost a Techmarine” or a billeted brother as “house client.”
 
-5. **Xenos / civic hate ≠ Chapter geometry:** Dock hate for Drukhari glare-tricks, reflection false-enemies, and “pretty traps” is civic survival. *Septima* threat geometry is **vent accounting**, **plasma AT overlap**, **perimeter volume under Suppression**, and Watch-proven EM / thermal intelligence channels. Mortals may cheer when the Burn’s dock story is retold; they do **not** own friend–foe discrimination slices, sequential underburn spines, or Nullity slots near sensitive forges.
+5. **Xenos / civic hate ≠ Chapter geometry:** Dock hate for Drukhari glare-tricks, reflection false-enemies, and “pretty traps” is civic survival. SEPTIMA threat geometry is **vent accounting**, **plasma AT overlap**, **perimeter volume under Suppression**, and Watch-proven EM / thermal intelligence channels. Mortals may cheer when the Burn’s dock story is retold; they do **not** own friend–foe discrimination slices, sequential underburn spines, or Nullity slots near sensitive forges.
 
 **Additional seam locks (short):**
 
-- **Mechanicus Core ≠ Chapter forge:** Vitreus lens sovereignty is Mechanicus weather. *Septima* is seat shadow and containment partner — **not** a second forge throne. Productive **calibration hate** (Phaetron ↔ Magos / Kadmos chain) is handshake fuel, not merger.
+- **Mechanicus Core ≠ Chapter forge:** Vitreus lens sovereignty is Mechanicus weather. SEPTIMA is seat shadow and containment partner — **not** a second forge throne. Productive **calibration hate** (Phaetron ↔ Magos / Kadmos chain) is handshake fuel, not merger.
 - **Null-Vent folk ≠ Null-Vent seal:** Street may say *the Burn held the plate* (**112.M42** orbital gossip). Sealed AAR, skitarii redaction under treaty, and *Alabarda* field 4 (**Null-Vent Covenant**) stay off populi catechism.
-- **Silica Field (Phase C wing, not this bleed):** Mirror-row rumor and *God is angle* piety may color Vitreus speech. **Do not** dump Silica Field ethnography or wing stubs into this bleed — see [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing**.
+- **Silica Field (Phase C wing, not this bleed):** Mirror-row rumor and *God is angle* piety may color Vitreus speech. **Do not** dump Silica Field ethnography or wing stubs into this bleed — see [worlds-crucible.md](worlds-crucible.md) § **SEPTIMA wing**.
 
 ---
 
 ## B3. Side-by-side
 
-| Topic | Populi (Vitreus) | VII *Septima* |
+| Topic | Populi (Vitreus) | SEPTIMA |
 |-------|------------------|---------------|
-| **Wall** | Necessary shadow over glass seas and lens docks; Shared Sweat at melt-water and bloom locks; envy / dark pride by class; route adaptation when Astartes rearrange stalls | Stewardship of **energy-stress** seat — plasma / photonic containment; dock and orbital-plate choke geometry; punish careless fire harder than other Vexillationes |
+| **Wall** | Necessary shadow over glass seas and lens docks; Shared Sweat at melt-water and bloom locks; envy / dark pride by class; route adaptation when Astartes rearrange stalls | Stewardship of **energy-stress** seat — plasma / photonic containment; dock and orbital-plate choke geometry; punish careless fire harder than other Vexilla |
 | **Holy** | Stamp booth / instrument log; angled prayer; melt psalm; mute Mass compromise; clarity with a seal | Ancestor-Sovereign / Throne-weight; Analytical Silence cousin as **ritual silence on overcharge windows**; gear-prayer friction borrowed as knuckle-click / facet-tap rhyme only |
 | **Failure** | **Stray scatter**; shade denial; yield shortfall shame-glare; ozone / burnt silica after cascade near-miss | Bad vent that blinds a cohort; dual-seal breach; tracer vanity; over-certain bloom; command friend–foe collapse while staring at the manifold |
 | **Seat fortress / crypt** | Forbidden galleries and “wolf floors” as rumor; memorial **crystal lenses** and ash-pan release as civic death map | Chapter precincts, Reclusiam / Apothecarion verticals as Chapter law — **not** refraction-court annexes; do not confuse crystal memorials with Chapter crypt |
 | **Legatus public read** | **the Glass Burn** — vent-window signer; brightness that does not forgive lazy eyes; knuckle-click rumor; *the Burn held the plate* after **112.M42** | **Lucan Phaetron** — personally signs critical **vent windows**; *Typus Septimus* Null-Vent manifold; contempt for Mechanicus “primitive plasma” sneers (disciplined once for tone); field line: *“The glass forgives nothing. Be sharper than the lens.”* |
-| **Bridge / kitchen** | Dark-Veil Facet Houses; glass-diver covenants as status ladder; Shared Sweat veil-minutes | Outer civil rooms and auxilia water only; **no** Martha’s-kitchen Solis twin on this seat as default; Facet porch ≠ kitchen soft door of *Prima* |
+| **Bridge / kitchen** | Dark-Veil Facet Houses; glass-diver covenants as status ladder; Shared Sweat veil-minutes | Outer civil rooms and auxilia water only; **no** Martha’s-kitchen Solis twin on this seat as default; Facet porch ≠ kitchen soft door of PRIMA |
 
 **Worked contrast — one vent bell:**
 
 | Layer | What happens |
 |-------|----------------|
 | Populi | Melt psalm dies; Null-Window Silence folk habit; ash berm children taught to close eyes; booth clocks the mute as yield piety |
-| *Septima* | Overcharge window — ritual silence; Legatus / Techmarine dual seal per node; no breath without both ticks; plasma underburn sequential along spine |
+| SEPTIMA | Overcharge window — ritual silence; Legatus / Techmarine dual seal per node; no breath without both ticks; plasma underburn sequential along spine |
 | Mechanicus Core | Machine auspex tick; skitarii corridor freeze; treaty yield hash watching for scatter that would void a plate |
 | Misread if merged | “They all worship the same mute” — false. Three institutions share a **noise budget**; they do not share a creed |
 
@@ -68,7 +68,7 @@
 
 ## B4. Bleed both ways
 
-| Surface | → *Septima* | → populi |
+| Surface | → SEPTIMA | → populi |
 |---------|-------------|----------|
 | **Instrument before eyes** | Spotter / las-fusil culture already distrusts pretty shapes; Vitreus habit reinforces **count angles, not silhouettes** | PDF glare curriculum and Guard draft absorb “trust instruments” as civic virtue — sounds like Chapter when it is only shared weather |
 | **Vent mute / overcharge silence** | Ritual silence as command law; knuckle-click before hard call | Folk **Null-Window Silence**; melt psalm stops; street thinks the Burn “owns” the bell |
@@ -80,15 +80,15 @@
 | **Null-Vent memory (112.M42)** | Sealed field 4; nineteen brothers; manifold bled to vacuum; treaty redaction of skitarii dead | *the Burn held the plate*; pride + fear; no sealed casualty math in booth sermons |
 | **Mechanicus Core handshake** | Calibration fights (productive); plasma doctrine defended against “primitive” sneer; cold courtesy as operational weather | Magos-liaison porches; red-tag fear; folk feel the cold when plate and Chapter stand in one corridor |
 
-### Populi → *Septima* (short + deep examples)
+### Populi → SEPTIMA (short + deep examples)
 
-**Short:** Clarity budget, slow-eye patience, vent mute habit, stray-scatter taboo, and dual-stamp reflex migrate into how *Septima* expects auxilia and dock partners to behave under bloom.
+**Short:** Clarity budget, slow-eye patience, vent mute habit, stray-scatter taboo, and dual-stamp reflex migrate into how SEPTIMA expects auxilia and dock partners to behave under bloom.
 
-**Deep — melt-dock bloom lock:** Common melt guilds already stop chatter when vent bells ring. *Septima* finds this usable without conversion — Suppression volume and plasma AT overlap need quiet corridors more than chapel thunder. Brothers do **not** owe melt-psalm courtesy; they exploit the silence window. Misread: Common NCOs call the mute “Glass Burn piety.” It is **shared noise budget**, not shared faith.
+**Deep — melt-dock bloom lock:** Common melt guilds already stop chatter when vent bells ring. SEPTIMA finds this usable without conversion — Suppression volume and plasma AT overlap need quiet corridors more than chapel thunder. Brothers do **not** owe melt-psalm courtesy; they exploit the silence window. Misread: Common NCOs call the mute “Glass Burn piety.” It is **shared noise budget**, not shared faith.
 
-**Deep — glass-diver trench sale:** A licensed diver sells a “cheaper left” trench to a Guard company shadowed by *Septima*. Chapter geometry may accept the trench as EM / thermal channel sense (Watch-proven habit) while still rejecting the diver’s empty-socket theology as mortal status theater. The bleed is **route literacy**, not cult adoption.
+**Deep — glass-diver trench sale:** A licensed diver sells a “cheaper left” trench to a Guard company shadowed by SEPTIMA. Chapter geometry may accept the trench as EM / thermal channel sense (Watch-proven habit) while still rejecting the diver’s empty-socket theology as mortal status theater. The bleed is **route literacy**, not cult adoption.
 
-**Deep — Facet House guest ink:** Lower-upper notaries open Chapter-civil outer galleries for shade negotiation and billet logistics. *Septima* uses the ink cold. Populi may brag “we hold the Burn’s porch.” Ownership stays with parallel keys — the house did not buy a vent window.
+**Deep — Facet House guest ink:** Lower-upper notaries open Chapter-civil outer galleries for shade negotiation and billet logistics. SEPTIMA uses the ink cold. Populi may brag “we hold the Burn’s porch.” Ownership stays with parallel keys — the house did not buy a vent window.
 
 ### Vexilla → populi (short + deep examples)
 
@@ -96,7 +96,7 @@
 
 **Deep — knuckle-click rumor:** Mortals notice Phaetron’s vent-guard click before hard calls. Street theology tries to file it as angled prayer. Correct read: command mnemonic / protocol tell — **not** shard confession, not facet tap sacrament. Fiction may show a Common hand copying the click for luck; that is superstition bleed, not doctrine transfer.
 
-**Deep — tracer vanity folk rule:** Guard and PDF absorb “no open tracer that blinds spotter glass” as civic sin adjacent to stray scatter. *Septima* armory law is stricter and sealed in arcs. Populi enforcement is shade and shame; Chapter enforcement is punishment of careless fire. Same brightness; different courts.
+**Deep — tracer vanity folk rule:** Guard and PDF absorb “no open tracer that blinds spotter glass” as civic sin adjacent to stray scatter. SEPTIMA armory law is stricter and sealed in arcs. Populi enforcement is shade and shame; Chapter enforcement is punishment of careless fire. Same brightness; different courts.
 
 **Deep — Magos cold courtesy after Null-Vent gossip:** After **112.M42**, skitarii dead stay redacted under treaty while folk say the Burn held the plate. Mortals feel handshake as **productive hate with a receipt**: plates still run; Magos still call Batavi plasma “primitive” in whispered cant; Phaetron still believes he was right about tone. Bleed = **operational coexistence under calibration tension**, not friendship liturgy.
 
@@ -106,7 +106,7 @@
 
 | Class | Contact | Misread |
 |-------|---------|---------|
-| **Rabble** | Ash-berm pickets during bloom; clearance when *Septima* shadows a dock; stolen glimpses of matte grey plate; veil-minute panic when stalls move | Brothers = “Upper with better smoke”; rabble death on open pan = Chapter indifference (often logistics geometry, not contempt sermon); empty-socket divers as “Chapter pets” (false) |
+| **Rabble** | Ash-berm pickets during bloom; clearance when SEPTIMA shadows a dock; stolen glimpses of matte grey plate; veil-minute panic when stalls move | Brothers = “Upper with better smoke”; rabble death on open pan = Chapter indifference (often logistics geometry, not contempt sermon); empty-socket divers as “Chapter pets” (false) |
 | **Common** | Shared Sweat water; PDF glare pickets beside line; melt-shift route adaptation; Guard draft after yield shortfall under seat shadow | Sweat = kinship (it is not); vent mute = proof the Burn is a clarity priest (creed collapse); dual stamp = “we’re almost skitarii / almost Astartes” (robe fantasy) |
 | **Upper (peak)** | Magos-liaison negotiation; treaty language; orbital charter cuts when Chapter containment rearranges plate priority; patronage chapels competing with mute | Want to **own** the seat shadow; auction “correct devotion” as if it buys vent windows; treat Null-Vent folk pride as house property |
 | **Dark-Veil Facet Houses (bridge / lower upper)** | Notary porch guest ink; shade billet brokerage; dual speech (lab + chapel) without forge throne | Soft power = Chapter affection; dark veil = mourning fashion when outsiders visit; porch time = billet rank |
@@ -115,7 +115,7 @@
 
 - **Rabble scene:** Bloom lock — priority kit only. Astartes pass; ash line waits under rag film. Correct emotion = weather + dark pride if the dock holds. Wrong emotion = expecting sermon or ration mercy from the Burn.
 - **Common scene:** Shared Sweat iodine and veil swap, then hierarchy snaps back when the vent window opens. Correct: respect without claim. Wrong: “we bled together, so the facet key is ours.”
-- **Upper scene:** Magos-liaison and Facet patron argue shade for a feast procession. *Septima* refuses dazzle near a manifold node. Correct: Chapter geometry wins the angle. Wrong: house files it as heresy against clarity God — it is **scatter risk + vent law**, not Ministorum trial.
+- **Upper scene:** Magos-liaison and Facet patron argue shade for a feast procession. SEPTIMA refuses dazzle near a manifold node. Correct: Chapter geometry wins the angle. Wrong: house files it as heresy against clarity God — it is **scatter risk + vent law**, not Ministorum trial.
 - **Bridge scene:** Facet notary stamps guest ink for outer gallery. Correct: civil mirror of access. Wrong: notary walks a brother toward Strategium as if house blood equals Legatus tick.
 
 ---
@@ -128,13 +128,13 @@ Institutions drawn from Phase A §7A that **actually touch** Chapter shadow. Dep
 
 **What mortals meet:** Red-tag weather, melt schedules, skitarii corridor clicks, Magos-liaison porches, dual-stamp yield, blind-lab guest labor, orbital-plate treaty language.
 
-**What *Septima* meets:** Machine auspex ticks on every critical vent node; Kadmos rite present even when Kadmos is off-plate; Magos who treat Batavi plasma doctrine as primitive; productive **calibration fights** Phaetron enjoys and resents; skitarii dead **redacted** under treaty after Null-Vent.
+**What SEPTIMA meets:** Machine auspex ticks on every critical vent node; Kadmos rite present even when Kadmos is off-plate; Magos who treat Batavi plasma doctrine as primitive; productive **calibration fights** Phaetron enjoys and resents; skitarii dead **redacted** under treaty after Null-Vent.
 
 **Handshake mechanics (do not flatten):**
 
 | Tick | Owner | Street-visible symptom | Sealed / Chapter meaning |
 |------|-------|------------------------|---------------------------|
-| **Human / Legatus tick** | *Septima* relay (vent-window sign-off) | Knuckle-click rumor; Burn “signed the light” | No breath without Legatus approval per node |
+| **Human / Legatus tick** | SEPTIMA relay (vent-window sign-off) | Knuckle-click rumor; Burn “signed the light” | No breath without Legatus approval per node |
 | **Machine / Techmarine–auspex tick** | Mechanicus + Chapter Techmarine chain | Second stamp on booth clocks; skitarii freeze | No breath without machine auspex approval |
 | **Dual stamp (civil cousin)** | Administratum + Mechanicus yield audits | “Two ticks or it didn’t happen” folk rule | Not the same legal object as vent dual seal — **rhyme only** |
 
@@ -148,11 +148,11 @@ Institutions drawn from Phase A §7A that **actually touch** Chapter shadow. Dep
 
 ### Planetary Defense Force / local militia (Core)
 
-Everyday glare pickets, bloom locks, dock wards. Primary Shared Sweat partner with Guard. Closest mortal force to Wall sweat without being Chapter. Sin: shade-denial abuse; kit theft. Bleed: PDF NCOs teach *don’t stare* in language that rhymes with *Septima* spotter patience — still civic curriculum.
+Everyday glare pickets, bloom locks, dock wards. Primary Shared Sweat partner with Guard. Closest mortal force to Wall sweat without being Chapter. Sin: shade-denial abuse; kit theft. Bleed: PDF NCOs teach *don’t stare* in language that rhymes with SEPTIMA spotter patience — still civic curriculum.
 
 ### Imperial Guard / Astra Militarum (Present)
 
-Draft after photonic shortfalls; billets along lens docks. Accent: instruments before eyes. Bleed: tracer vanity folk rule; route adaptation when *Septima* shadows. Misread: regimental pride claims the Burn as colonel-saint.
+Draft after photonic shortfalls; billets along lens docks. Accent: instruments before eyes. Bleed: tracer vanity folk rule; route adaptation when SEPTIMA shadows. Misread: regimental pride claims the Burn as colonel-saint.
 
 ### Adeptus Administratum (Present)
 
@@ -160,11 +160,11 @@ Optic registries, shade windows, tithe seals. Parallel facet keys vs Chapter gue
 
 ### Adeptus Ministorum / Ecclesiarchy (Present)
 
-Baptismal record intact; mute Mass compromise; spectacle procession = stray scatter risk. Bleed: empty thunder falls where *Septima* silence and booth clocks already won the district. **Hard edge:** Throne-weight ≠ God-Emperor worship — priests who claim the Burn as living saint of clarity are **wrong** for fiction tells.
+Baptismal record intact; mute Mass compromise; spectacle procession = stray scatter risk. Bleed: empty thunder falls where SEPTIMA silence and booth clocks already won the district. **Hard edge:** Throne-weight ≠ God-Emperor worship — priests who claim the Burn as living saint of clarity are **wrong** for fiction tells.
 
 ### Adeptus Arbites (Thin)
 
-Court muscle for diversion and false angle stamps; rare joint dock seals with Chapter shadow. Bleed: instrument evidence culture flatters both Arbites and *Septima* auspex habit — still different courts.
+Court muscle for diversion and false angle stamps; rare joint dock seals with Chapter shadow. Bleed: instrument evidence culture flatters both Arbites and SEPTIMA auspex habit — still different courts.
 
 ### Glass-diver covenants (Core, seat-specific)
 
@@ -176,7 +176,7 @@ Law as optics; shard confession. Bleed: Facet Houses broker civil angles near Ch
 
 ### Chartist captains / void guilds (Present) · Imperial Navy (Thin)
 
-Photonic cargo and plate escort. Hate Silica approaches as **rumor** (wing stub depth on worlds-crucible — do not deepen into Phase A ethnography here). Bleed: unauthorized hull polish that blooms into docks = scatter cousin; *Septima* may clear a lane without owning chartist claim rites.
+Photonic cargo and plate escort. Hate Silica approaches as **rumor** (wing stub depth on worlds-crucible — do not deepen into Phase A ethnography here). Bleed: unauthorized hull polish that blooms into docks = scatter cousin; SEPTIMA may clear a lane without owning chartist claim rites.
 
 ### Thin / sealed / absent (seam note only)
 
@@ -242,7 +242,7 @@ Matte anti-glare panels; orange lenses; knuckle before window; pole planted at m
 
 - [x] Phase B file ratified at framework B1–B8 depth — this path  
 - [x] Cross-links: [`ethnography-vitreus.md`](ethnography-vitreus.md) · [`worlds-crucible.md`](worlds-crucible.md) § Vitreus · [`../INDEX.md`](../INDEX.md)  
-- [x] Phase C — VII *Septima* **wing periphery stubs:** [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** (Ignis-Minor / Solaris-Alpha / Silica Field as separate stubs — not separate Phase A ethnographies); inherit this bleed; no separate wing bleed wiki  
+- [x] Phase C — SEPTIMA **wing periphery stubs:** [worlds-crucible.md](worlds-crucible.md) § **SEPTIMA wing** (Ignis-Minor / Solaris-Alpha / Silica Field as separate stubs — not separate Phase A ethnographies); inherit this bleed; no separate wing bleed wiki  
 - [ ] Logus Ring, Bifrons, Aethelgard, and other Legatus seats — **not absorbed**  
 - [ ] Sealed Null-Vent chronicle / AAR depth — remains outside populi catechism; cite, do not dump  
 - [ ] Founding / progenitor — **forbidden invent**; open record stays unknown / redacted / not disclosed  

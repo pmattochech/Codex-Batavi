@@ -2,14 +2,14 @@
 
 **Status:** **Ratified** 2026-07-22 — upgraded to binding framework depth (Phase A capital).  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding)  
-**Seat:** Vexillatio **V** (*Quinta*) · Legatus: **Armin Sturmwahl**  
+**Seat:** Vexilla **V** (QVINTA) · Legatus: **Armin Sturmwahl**  
 **Scope:** Mortal populi only — not full Vexilla doctrine. Chapter footprint via civilian habit until Phase B.  
 **Atlas / fork:** [system-ii-crucible.md](../systems/system-ii-crucible.md) · [worlds-crucible.md](worlds-crucible.md) § **Aethelgard Prime** · [geography-aethelgard-prime.md](geography-aethelgard-prime.md)  
 **Basal / Ecclesiarchy:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md) · [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · [ecclesiarchy-on-the-frontier.md](../../political-relations/ecclesiarchy-on-the-frontier.md)  
 **Paired ethnography:** [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md) · sibling capital pattern: [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md)  
 **Author mood:** Hymn map applied — yes · [`../../planning/HYMN-OF-THE-LOST-MOOD-LOCK.md`](../../planning/HYMN-OF-THE-LOST-MOOD-LOCK.md)  
 **Local mortal sin (lock):** **ghost haul** (unwitnessed salvage)  
-**Legatus public read (mortal):** **Storm-Master** — *Quinta* descent weather that rearranges markets; mortals adapt routes, not pray to plate.
+**Legatus public read (mortal):** **Storm-Master** — QVINTA descent weather that rearranges markets; mortals adapt routes, not pray to plate.
 
 ---
 
@@ -37,9 +37,9 @@
 
 **Porta Nihili accent:** God is **tide-paid**. Virtue is **witness** — estuary theology: *“The Throne measures the delta; we keep the mud honest.”* Speech is cheap; **salt-cup testimony** and **gate tallies** are holy.
 
-**What outsiders misread:** mud boots in chapel as irreverence (it is survival liturgy); **tide silence** as superstition (it is social contract); **Der Batav** morality tales as beast-worship (usually allegory — clergy tolerate until it slides); *Quinta* patrol schedules as “occupation theater” (civilians experience them as **weather** that moves markets).
+**What outsiders misread:** mud boots in chapel as irreverence (it is survival liturgy); **tide silence** as superstition (it is social contract); **Der Batav** morality tales as beast-worship (usually allegory — clergy tolerate until it slides); QVINTA patrol schedules as “occupation theater” (civilians experience them as **weather** that moves markets).
 
-**Foundation War texture (mortal, chronologically blind):** grandparents speak of **Moon Hunt** seasons — open-record pressure from **unclassified xenos mercenaries** in Needles and swamp channels — as **hunting weather** that ate villages and taught **gate discipline** before Imperial forms returned thick. Mortals do **not** own Chapter doctrine, gene-line laundry, or sealed *Strategium* labels for that crucible. Rumor of “iron helms that fell like weather” is **habit memory**, not a street lecture on Vexilla law. Later *Quinta* presence rhymes with that fear-geometry without explaining it.
+**Foundation War texture (mortal, chronologically blind):** grandparents speak of **Moon Hunt** seasons — open-record pressure from **unclassified xenos mercenaries** in Needles and swamp channels — as **hunting weather** that ate villages and taught **gate discipline** before Imperial forms returned thick. Mortals do **not** own Chapter doctrine, gene-line laundry, or sealed *Strategium* labels for that crucible. Rumor of “iron helms that fell like weather” is **habit memory**, not a street lecture on Vexilla law. Later QVINTA presence rhymes with that fear-geometry without explaining it.
 
 ### 0.3 Sorting border (class police)
 
@@ -69,14 +69,14 @@
 2. **Ebb salvage plain** — rabble and common meet over scrap; upper almost never — ghost haul prosecutions bloom here.  
 3. **Salt pan at dawn** — common mourning and Upper house seals; rabble paid in filter-bread equivalents (*salt-in-the-ration*).  
 4. **Bridge span trial** — guild initiation; deaths sanctify; Upper patrons watch without walking.  
-5. **Descent weather** — *Quinta* drop windows empty a market street; rabble scramble; common re-route; Upper close galleries.
+5. **Descent weather** — QVINTA drop windows empty a market street; rabble scramble; common re-route; Upper close galleries.
 
 **Border tells:** mud line → salt-cup call → which gate you are named at. Insult: **dry net** / **open ledger**. Mercy: second shift for a stranger’s debt / guest berth behind a gate.
 
 ### 0.4 Fiction strata lock
 
 **Labels:** Rabble · Common · Upper  
-**Bridge band:** **Span-ledger houses** — bridge-guild masters and salt-family elders who hold Administratum claw contracts and *Quinta*-adjacent civil rooms without owning cliff galleries outright. Named lower-upper; not peak Upper.
+**Bridge band:** **Span-ledger houses** — bridge-guild masters and salt-family elders who hold Administratum claw contracts and QVINTA-adjacent civil rooms without owning cliff galleries outright. Named lower-upper; not peak Upper.
 
 #### Rabble
 
@@ -128,14 +128,14 @@
 
 #### Span-ledger houses (bridge band)
 
-**Who:** Bridge-guild masters, salt elders with claw contracts, river-arbiter alumni who keep both mud court and seal booth fluent. Soft power = **witness debt** brokerage and quiet face-hold when *Quinta* weather moves markets. Still Upper, not mid-Common — the mortals most used to parallel Chapter routes without claiming billet.
+**Who:** Bridge-guild masters, salt elders with claw contracts, river-arbiter alumni who keep both mud court and seal booth fluent. Soft power = **witness debt** brokerage and quiet face-hold when QVINTA weather moves markets. Still Upper, not mid-Common — the mortals most used to parallel Chapter routes without claiming billet.
 
 **Sound:** Quieter than cliff dynasts; more salt than oil.
 
 ### 0.5 Local mortal sin & Legatus read
 
 - **Local mortal sin — ghost haul:** Taking surge scrap, first-weld metal, Needles fiber, or sonar catch **without** salt-cup witness and/or estuary-court stamp. Class-colored versions: Rabble *ghost haul* as hunger crime; Common as **open ledger** betrayal of district trust; Upper as diversion through private spans and misfiled tonnage (still called ghost haul when mud courts catch the smell). Enforced first by **river arbiters** and **bridge guilds**; Administratum and Arbites eat the case when tonnage or beacon fraud attaches. Used consistently in Religion (false witness under tide), Economy (failure smell), and later Phase B shame≠sin edge.
-- **Legatus public read:** **Storm-Master** (surface) — Armin Sturmwahl’s *Quinta* as **descent weather**. Mortals say the Storm-Master’s clock empties streets before drops; they **adapt routes**, fear helm silence geometry, and take dark pride when assault weather passes inland. No doctrine file; no gene-line gossip as street fact.
+- **Legatus public read:** **Storm-Master** (surface) — Armin Sturmwahl’s QVINTA as **descent weather**. Mortals say the Storm-Master’s clock empties streets before drops; they **adapt routes**, fear helm silence geometry, and take dark pride when assault weather passes inland. No doctrine file; no gene-line gossip as street fact.
 
 ---
 
@@ -147,13 +147,13 @@ Mortal force on Aethelgard is **shore geometry** first: who dies holding a gate,
 
 - **Rabble:** Levy fodder and surge pickets; first into open mud when PDF is late; die on cliff rope under “volunteer” language; riot fuel when ghost-haul prosecutions starve a Needles block. Friend–foe discrimination on the street is **bell and reek** — wrong silhouette in surge fog equals panic, not auspex theory.
 - **Common:** Career PDF shoreline cadres, bridge-guild militia, river-arbiter marshals; Shared Sweat pride without speeches; draft as honor-wound when grain brothers on Khan-Bator eat better rations. Train gate closure as combat drill.
-- **Upper:** Officer houses, PDF patronage, void-charter escorts; buy sons onto dryer postings; fear *Quinta* billet expansion onto private spans more than xenos rumor until hunting weather returns.
+- **Upper:** Officer houses, PDF patronage, void-charter escorts; buy sons onto dryer postings; fear QVINTA billet expansion onto private spans more than xenos rumor until hunting weather returns.
 
 **Worked examples**
 
 - **Draft call after failed tithe seal:** Common districts offer second-shift volunteers to keep Rabble children off the list; Upper houses “gift” kit and take receipt piety.
 - **Riot on ebb plain:** Ghost-haul arrest sparks Needles satire poetry into stones; Arbites hold the bridge approach; PDF chooses whether to shoot into mud that must still fish tomorrow.
-- **Shared Sweat surface:** Batavi and PDF close the same gate during surge under violet storm light — mortals remember **who stood**, not Chapter creed. *Quinta* descent windows empty markets; civilians treat it as weather.
+- **Shared Sweat surface:** Batavi and PDF close the same gate during surge under violet storm light — mortals remember **who stood**, not Chapter creed. QVINTA descent windows empty markets; civilians treat it as weather.
 - **Foundation War echo (blind):** Old Needles stories of **mercenary hunting seasons** teach children to run for embankments when reek goes wrong — still taught as **grandmother law**, not as classified campaign history.
 
 ---
@@ -247,7 +247,7 @@ Literacy on Aethelgard is **survival grammar**: tide tables, gate schedules, wat
 
 **Tracks:** guild apprenticeship (bridge, net, pilot); salt-family ledger schooling; chapel catechism (often secondary to mud liturgy); Administratum claw cadet rooms for Upper and Span-ledger children; PDF shoreline drill as civic curriculum. Curriculum-as-virtue: punctuality, honest count, witness speech, silence during rise. Cost: years on rope and net; patronage for dry classrooms; bodies lost on span trials counted as tuition.
 
-**What literacy does:** Lets you keep a water right; argue ghost haul; translate surge into seal; survive a claw audit; read *Quinta* descent notices as market weather. Illiteracy is not innocence — it is exposure.
+**What literacy does:** Lets you keep a water right; argue ghost haul; translate surge into seal; survive a claw audit; read QVINTA descent notices as market weather. Illiteracy is not innocence — it is exposure.
 
 **By class**
 
@@ -280,7 +280,7 @@ Not a fourth class — same strata, different boss / holy object.
 | **Adeptus Arbites** | **Present** | Eat cases when ghost haul becomes tonnage fraud, false beacon, or riot on ebb plains. Felt as bridge-approach shotguns and corridor law, not estuary poetry. Thin in swamp fringe; thicker near Governor and void docks. |
 | **Adeptus Mechanicus** (incl. local forge-priests) | **Thin** | Shore tech-priests bless torque and rope; no Vitreus-scale lens sovereignty. Bridge guilds carry more daily holiness than Magos theater. Upper houses keep liaison priests on private spans; Rabble sees them as paid rope-charmers. |
 | **Imperial Guard / Astra Militarum** (draft, billet, regiment links) | **Present** | Draft pulls salt and protein districts; billets compete with berths. Common pride / Upper patronage / Rabble fodder. Mesh wars make Khan-Bator ration politics visceral. Shared Sweat surfaces when Guard and Batavi hold mud together. |
-| **Planetary Defense Force / local militia** | **Core** | Shoreline cadres, Needles guides, swamp scouts, gate drills. Civic identity almost equals PDF schedule. *Quinta* descent weather rewrites their maps without rewriting their oaths. |
+| **Planetary Defense Force / local militia** | **Core** | Shoreline cadres, Needles guides, swamp scouts, gate drills. Civic identity almost equals PDF schedule. QVINTA descent weather rewrites their maps without rewriting their oaths. |
 | **Imperial Navy** | **Thin** | Void docks and storm-giant pilot culture touch Upper route marriages and Common haul contracts; Rabble sees Navy as distant thunder and press rumors. Tempestas-Major kindreds are cousin weather, not daily parish. |
 | **Navis Nobilite / Navigator houses** | **Thin** | Route marriage ambition; suspect glamour. Coffin-lane necessity is mesh fact; Aethelgard mortals meet Navigators as rare charter blood, not street priests. Absence of deep house compounds here is information — Insular chart skill lives elsewhere. |
 | **Adeptus Astra Telepathica / Astropaths** | **Thin** | Relay silence habits rhyme with Men of Iron hangover; tide silence is local cousin. Astropaths are sealed rooms Upper pays to fear; Common treats choir rumor as weather; Rabble almost never sees them. |
@@ -288,7 +288,7 @@ Not a fourth class — same strata, different boss / holy object.
 | **Officio Assassinorum** | **Absent** | No civic footprint mortals can name without lying. Absence is information: killing weather here is tide, cliff, and draft. |
 | **Adepta Sororitas** | **Absent** | No convent culture on the mud capital; Ministorum presence is missionary/parish, not Sororitas theater. |
 | **Adeptus Custodes** | **Absent** | Golden contrast not a civic institution on Aethelgard; any sighting would be sealed myth, not parish fact. |
-| **Other Astartes Chapters** (guests, rivals, myths) | **Sealed/rumor only** | Guest plate is rare gossip. Mortals know **Batavi** as local Wall weather (*Quinta*); other Chapters are foreign bells. No street Founding lectures. |
+| **Other Astartes Chapters** (guests, rivals, myths) | **Sealed/rumor only** | Guest plate is rare gossip. Mortals know **Batavi** as local Wall weather (QVINTA); other Chapters are foreign bells. No street Founding lectures. |
 | **Rogue Trader dynasties** | **Thin** | Charter feasts and suspect route marriages; salvage politics when traders smell like Logus. Ghost haul prosecutions love their manifests. |
 | **Chartist captains / void guilds** | **Present** | Haul contracts, bottle-creole markets, grain brother runs to Khan-Bator. Common dock speech; Upper patronage; Rabble stevedore deaths. |
 | **Local noble houses / tithe dynasties** | **Core** | Cliff galleries, salt-pan owners, Span-ledger houses. Tithe humiliation and exemption theater live here. |
@@ -309,7 +309,7 @@ Not a fourth class — same strata, different boss / holy object.
 - *torque wreath* — bridge-saint festival offering  
 - *salt-in-the-ration* — Khan-Bator funeral/relief bread as Throne witness  
 - *ghost haul* — unwitnessed salvage (local mortal sin)  
-- *Storm-Master weather* — *Quinta* descent emptying markets  
+- *Storm-Master weather* — QVINTA descent emptying markets  
 
 | Class | Slang | Rite | Taboo |
 |-------|-------|------|-------|
@@ -329,8 +329,8 @@ Not a fourth class — same strata, different boss / holy object.
 
 ## 9. Related / deferred
 
-- Phase B bleed file: [quinta-aethelgard-culture-bleed.md](quinta-aethelgard-culture-bleed.md) — V *Quinta* ↔ Aethelgard (ratified)  
-- Wing periphery (Phase C): [worlds-crucible.md](worlds-crucible.md) § **V *Quinta* wing** — Tempestas-Major-VII / Tempestas-Major; inherit Phase B  
+- Phase B bleed file: [quinta-aethelgard-culture-bleed.md](quinta-aethelgard-culture-bleed.md) — QVINTA ↔ Aethelgard (ratified)  
+- Wing periphery (Phase C): [worlds-crucible.md](worlds-crucible.md) § **QVINTA wing** — Tempestas-Major-VII / Tempestas-Major; inherit Phase B  
 - Sibling seats: do **not** absorb Noviomagus / Khan-Bator / other Legatus worlds  
 - Geography lock: [geography-aethelgard-prime.md](geography-aethelgard-prime.md)  
 - Legatus surface dossier (not populi doctrine): [`../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md`](../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md)

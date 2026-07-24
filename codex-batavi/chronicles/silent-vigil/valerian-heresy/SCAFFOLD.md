@@ -33,13 +33,13 @@ Post-crucible (**~045.M42**), the mesh is too large for one spearhead. Chapter *
 | **Receipt / council / forge orbit** | **Alaric von Helis** | Central Bastion narrative; Castellan face |
 | **Threshold / Chaos bleed / forward** | **Valerius** (First Legatus) | Worst sector; pyrric defense |
 
-**No *Alabarda* vexilla** for Vex. I–IX during this era — only **two hosts**, two logistics souls.
+**No *Alabarda* vexilla** for PRIMA–NONA during this era — only **two hosts**, two logistics souls.
 
 **Growth:** **~500** at crucible close → **~5,000** by **~080–085** (illegal scale **before** Malakor; collar + formal **~5,000** **after** Primaris).
 
 ### 2.2 Why two powers nearly broke the mesh
 
-**~2,500** under one rebel almost **unmade Castra Vetera**. Post-heresy reform: **nine specialty Vexillationes** + *Decima* — **fragment the hammer**. Future **Legati** = officers who **already led** squads in each theater specialty during the long war.
+**~2,500** under one rebel almost **unmade Castra Vetera**. Post-heresy reform: **nine specialty Vexilla** + DECIMA — **fragment the hammer**. Future **Legati** = officers who **already led** squads in each theater specialty during the long war.
 
 ---
 
@@ -116,7 +116,7 @@ No conversion beat. Recognition that **language is exhausted** → execution / t
 ## 5. Malakor theater (~086.M42)
 
 - Engineered **climax** after open treason — Alaric’s hook uses **shared tactical mind** (decades, not “forty-three years” unless prose updated).
-- **~300** KIA / Versibar — **mesh-wide** bill (containment, *Prima* rot, loyal Versibars) — **not** “half of 5,000.”
+- **~300** KIA / Versibar — **mesh-wide** bill (containment, PRIMA rot, loyal Versibars) — **not** “half of 5,000.”
 - Post-spine **~1,000** loyal brothers; progenoid crisis **≤500** sets.
 - **Silent Vigil begins** — clinical ice **and** identity birth.
 
@@ -128,10 +128,10 @@ No conversion beat. Recognition that **language is exhausted** → execution / t
 
 | Institution | When | Why |
 |-------------|------|-----|
-| ***Prima* Noviomagus re-seat** | post-Malakor | Break traitor map; forge-law |
-| ***Alabarda* vexilla I–IX** | **after** heresy | Anti-concentration; certified **field 4** wins |
-| *Prima* **obligation field** + broken cog | post-Malakor | Debt not inherited crime |
-| ***Decima* justice vexillum** | post-sentence | [`P5-reformation/decima-justice-vexillum/chapter.md`](P5-reformation/decima-justice-vexillum/chapter.md) |
+| **PRIMA Noviomagus re-seat** | post-Malakor | Break traitor map; forge-law |
+| ***Alabarda* vexilla PRIMA–NONA** | **after** heresy | Anti-concentration; certified **field 4** wins |
+| PRIMA **obligation field** + broken cog | post-Malakor | Debt not inherited crime |
+| **DECIMA justice vexillum** | post-sentence | [`P5-reformation/decima-justice-vexillum/chapter.md`](P5-reformation/decima-justice-vexillum/chapter.md) |
 | **Primaris** + **~5,000** + collar | **~087–088** | After bloodletting — gift as insult |
 
 **User vexilla rationale (detail later):** commission follows **your** specialty-squad → Legatus pipeline.
@@ -142,7 +142,7 @@ No conversion beat. Recognition that **language is exhausted** → execution / t
 
 | Role | Lock |
 |------|------|
-| **During rot** | Lawful witness inside *Prima*; resists **final answer** |
+| **During rot** | Lawful witness inside PRIMA; resists **final answer** |
 | **After Malakor** | **Castellan vigil** — Contingency Axiom Lupus chain |
 | **Motive** | **Not** distrust — **will not lose another great leader** to a finished **why** (Valerius fell with strongest will) |
 

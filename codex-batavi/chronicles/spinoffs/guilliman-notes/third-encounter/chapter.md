@@ -30,7 +30,7 @@ Alaric did not flinch.
 
 Guilliman nodded once, then lifted a hand to the datum wall and traced the ten lines that formed the Chapter’s operational spine.
 
-— Ten Vexillationes.
+— Ten Vexilla.
 
 — Yes.
 
@@ -56,7 +56,7 @@ Guilliman’s voice tightened.
 
 Alaric spoke as if reciting a schematic.
 
-— Each Vexillatio is structured to prosecute a campaign alone, resupply alone, and maintain command continuity under attrition. Command roles are layered. Duties are taught as functions, not as personalities.
+— Each Vexilla is structured to prosecute a campaign alone, resupply alone, and maintain command continuity under attrition. Command roles are layered. Duties are taught as functions, not as personalities.
 
 Guilliman’s gaze sharpened.
 

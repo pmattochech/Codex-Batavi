@@ -1,9 +1,9 @@
 # [CHRONICLE] GARMR'S SHELF — DRAVIC BEFORE THE JUDEX
 
-**Classification:** *Reclusiam* sealed — Triumvirate access; *Decima* line need-to-know  
+**Classification:** *Reclusiam* sealed — Triumvirate access; DECIMA line need-to-know  
 **When:** **~055.M42** (same engagement as [`viggo-saga.md`](../seed-in-iron/chapter.md))  
 **Where:** Noviomagus Prime — *Reclusiam* annex chamber (after-action confession on Garmr’s Shelf operation)  
-**Who:** **Brother-Sergeant Cael Dravic** (*Decima*); **Varro** (Judex)  
+**Who:** **Brother-Sergeant Cael Dravic** (DECIMA); **Varro** (Judex)  
 **Companion (Judex response):** [`varro-anima-speculum.md`](varro-anima-speculum.md)
 
 ---
@@ -100,7 +100,7 @@ Varro gave a small nod.
 
 Dravic finally looked straight into the red lenses of the Executor helm.
 
-— After that I stepped in front of him and said *Decima* jargon.
+— After that I stepped in front of him and said DECIMA jargon.
 
 — Say it now.
 

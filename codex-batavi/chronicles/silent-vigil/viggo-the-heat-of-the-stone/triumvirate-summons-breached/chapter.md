@@ -122,7 +122,7 @@ Drusus held the look, then inclined his head.
 
 — Understood.
 
-They reached the palace ingress gate where Decima guard already stood with weapons locked to safe angle and shoulders too rigid to be at rest.
+They reached the palace ingress gate where DECIMA guard already stood with weapons locked to safe angle and shoulders too rigid to be at rest.
 
 The lead guard sergeant saluted.
 

@@ -3,7 +3,7 @@
 **Operation:** SILENT HOURS  
 **Theater:** Marco de Vetra — Vacuum Shouter relay and laser farm complex  
 **Date:** 140.M42  
-**Unit:** **IX** *Nona* (full Vexillatio)
+**Unit:** **NONA** (full Vexilla)
 
 **Full chronicle:** [silent-hours-marco-de-vetra.md](../vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md)
 
@@ -19,7 +19,7 @@ Hold relay integrity until traffic cleared hash thresholds; deny intact capture 
 
 ## 3. Execution
 
-**IX** *Nona* layered delay geometry.
+**NONA** layered delay geometry.
 
 Suppression interlock on approach alleys — boltstorm and heavy bolter teams rotated every 90 minutes to manage barrel heat under EM damp. Ruin held melta charges on coupling bays — order given twice; one bay scorched preemptively to spoil buyer handoff value. Legatus authorized a single Shouter pulse on minimal power to punch through the storm — message contents classified; result verified by Noviomagus acknowledgement.
 
@@ -27,7 +27,7 @@ Suppression interlock on approach alleys — boltstorm and heavy bolter teams ro
 
 ## 4. Losses
 
-**IX** *Nona*: 27 killed; array damage repairable; no intact handoff.
+**NONA**: 27 killed; array damage repairable; no intact handoff.
 
 ## 5. *Strategium* certification (field 4)
 

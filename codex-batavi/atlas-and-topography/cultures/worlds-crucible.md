@@ -19,18 +19,18 @@
 
 **Shards:** *knee scripture* (pattern of microfracture read like palm), *shingle choir* (avalanche warning calls), *flat god* (deity whose miracle is **horizontal**).
 
-**Deep ethnography (mortals):** [ethnography-incus-gravis-tertius.md](ethnography-incus-gravis-tertius.md) — Phase A capital for **IV** *Quarta* (Orin Valestrand).
-**Phase B bleed:** [quarta-incus-gravis-tertius-culture-bleed.md](quarta-incus-gravis-tertius-culture-bleed.md) — IV *Quarta* ↔ Tertius (Shingle Warden; sin lock **false yield**; March = surface rhyme only). **Phase C wing:** [§ IV *Quarta* wing](#iv-quarta-wing-incus-periphery) (Secundus / Incus-Gravis-I).
+**Deep ethnography (mortals):** [ethnography-incus-gravis-tertius.md](ethnography-incus-gravis-tertius.md) — Phase A capital for **QVARTA** (Orin Valestrand).
+**Phase B bleed:** [quarta-incus-gravis-tertius-culture-bleed.md](quarta-incus-gravis-tertius-culture-bleed.md) — QVARTA ↔ Tertius (Shingle Warden; sin lock **false yield**; March = surface rhyme only). **Phase C wing:** [§ QVARTA wing](#iv-quarta-wing-incus-periphery) (Secundus / Incus-Gravis-I).
 
 ---
 
-## IV *Quarta* wing (Incus periphery)
+## QVARTA wing (Incus periphery)
 
 **Rule:** Same civilization as Incus-Gravis Tertius — weight/yield piety, **false yield** sin, Shingle Warden surface, Rabble/Common/Upper. Inherit [quarta-incus-gravis-tertius-culture-bleed.md](quarta-incus-gravis-tertius-culture-bleed.md). Valestrand stays on Tertius. **Not** other Legatus seats.
 
 ### Incus-Gravis Secundus (The Inverted Hive)
 
-**Scale & role:** Perforated world — **underground cities**; **crystal circuit** export. Same *Quarta* weight civilization under crust, not a second seat.
+**Scale & role:** Perforated world — **underground cities**; **crystal circuit** export. Same QVARTA weight civilization under crust, not a second seat.
 
 **Economy-ecology:** **No sun cult** — light is **lamps**, **LED mendicants**, **biolume** guilds. Yield is measured in **clean lumen-hours**, not open-sky harvest.
 
@@ -44,7 +44,7 @@
 
 ### Incus-Gravis-I (The Scorched — penal radar)
 
-**Scale & role:** **~900°C** tide-locked surface; **penal legions** run **solar alert arrays** under **lead**. Same *Quarta* piety under heat sentence.
+**Scale & role:** **~900°C** tide-locked surface; **penal legions** run **solar alert arrays** under **lead**. Same QVARTA piety under heat sentence.
 
 **Economy-ecology:** **Heat index** replaces calendar; **rotation** is salvation. Load-share becomes **shift-share** off the burn face.
 
@@ -60,7 +60,7 @@
 
 ## Aethelgard Prime (The Moon-World — tides)
 
-**Scale & role:** **Tempestas-Major** moon; **kilometer tides**; **Der Batav** myth; **V** *Quinta* seat · Legatus **Armin Sturmwahl** (mortal read: **Storm-Master**).
+**Scale & role:** **Tempestas-Major** moon; **kilometer tides**; **Der Batav** myth; **QVINTA** seat · Legatus **Armin Sturmwahl** (mortal read: **Storm-Master**).
 
 **Geography:** Four major biomes — **snowy mountains**, **taiga**, **swamps**, **shoreline** (**Needles**, salt mud, **falesia-style cliffs** / **precipices**). Canonical layout: [geography-aethelgard-prime.md](geography-aethelgard-prime.md).
 
@@ -76,11 +76,11 @@
 
 **Shards:** *crown-and-estuary* (political season), *salt marriage* (brine handshake), *tide silence* (no lie when water rises — custom, not magic), *witness debt*, *Storm-Master weather*.
 
-**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-aethelgard-prime.md](ethnography-aethelgard-prime.md) · Phase B bleed: [quinta-aethelgard-culture-bleed.md](quinta-aethelgard-culture-bleed.md). **Phase C wing:** [§ V *Quinta* wing](#v-quinta-wing-tempestas-periphery) (Tempestas-Major-VII / Tempestas-Major).
+**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-aethelgard-prime.md](ethnography-aethelgard-prime.md) · Phase B bleed: [quinta-aethelgard-culture-bleed.md](quinta-aethelgard-culture-bleed.md). **Phase C wing:** [§ QVINTA wing](#v-quinta-wing-tempestas-periphery) (Tempestas-Major-VII / Tempestas-Major).
 
 ---
 
-## V *Quinta* wing (Tempestas periphery)
+## QVINTA wing (Tempestas periphery)
 
 **Rule:** Same civilization as Aethelgard Prime — tide/witness piety, **ghost haul** sin, Storm-Master surface, salt/bridge sorting, Span-ledger bridge band. Inherit [quinta-aethelgard-culture-bleed.md](quinta-aethelgard-culture-bleed.md). Sturmwahl stays on Aethelgard. **Not** other seats.
 
@@ -100,7 +100,7 @@
 
 ### Tempestas-Major (The Storm Giant — gas giant context)
 
-**Scale & role:** **Magnetosphere** traps **moons** — pilot culture **cosmopolitan** among **killer winds**. Parent sky of Aethelgard; same *Quinta* witness piety in void weather. Do not invent further moons beyond atlas bodies.
+**Scale & role:** **Magnetosphere** traps **moons** — pilot culture **cosmopolitan** among **killer winds**. Parent sky of Aethelgard; same QVINTA witness piety in void weather. Do not invent further moons beyond atlas bodies.
 
 **Economy-ecology:** **Storm burials** — crews lost to **wind** become **ancestor weather**. Salt/bridge sorting becomes **mooring** sorting.
 
@@ -128,11 +128,11 @@
 
 **Shards:** *split vow* (oath taken on mid-cable), *iron echo* (name said to gulf — returns if moral), *span child* (born during bridge repair — lucky).
 
-**Deep ethnography (mortals):** [ethnography-bifrons-ferrum.md](ethnography-bifrons-ferrum.md) — Vexillatio **VI** (*Sexta*) seat · Legatus **Gervas Bifronte** · Phase A ratified. **VI *Sexta* bleed:** [sexta-bifrons-ferrum-culture-bleed.md](sexta-bifrons-ferrum-culture-bleed.md) (Phase B ratified). **Phase C wing:** [§ VI *Sexta* wing](#vi-sexta-wing-bifrons--ferrum-x-periphery) (Logus Ring).
+**Deep ethnography (mortals):** [ethnography-bifrons-ferrum.md](ethnography-bifrons-ferrum.md) — Vexilla **VI** (SEXTA) seat · Legatus **Gervas Bifronte** · Phase A ratified. **SEXTA bleed:** [sexta-bifrons-ferrum-culture-bleed.md](sexta-bifrons-ferrum-culture-bleed.md) (Phase B ratified). **Phase C wing:** [§ SEXTA wing](#vi-sexta-wing-bifrons--ferrum-x-periphery) (Logus Ring).
 
 ---
 
-## VI *Sexta* wing (Bifrons / Ferrum-X periphery)
+## SEXTA wing (Bifrons / Ferrum-X periphery)
 
 **Rule:** Same twin-halves civilization — **asymmetric seal** sin, *Pater Murorum* surface, span/tomb inventory piety. Inherit [sexta-bifrons-ferrum-culture-bleed.md](sexta-bifrons-ferrum-culture-bleed.md). Bifronte stays on Bifrons. **Not** Vitreus/Incus seats. Ferrum-X radiation weather colors labor; do not invent new ethnography worlds.
 
@@ -154,7 +154,7 @@
 
 ## Vitreus (The Lens World)
 
-**Scale & role:** **Molten glass oceans**; **photonic** industry; Mechanicus **lens** sovereignty. **Vexillatio VII (*Septima*)** seat · Legatus **Lucan Phaetron** (*the Glass Burn* — mortal public read).
+**Scale & role:** **Molten glass oceans**; **photonic** industry; Mechanicus **lens** sovereignty. **Vexilla SEPTIMA** seat · Legatus **Lucan Phaetron** (*the Glass Burn* — mortal public read).
 
 **Economy-ecology:** **Blindness** as moral risk; **silica** ash; **reflection** theology unavoidable.
 
@@ -166,11 +166,11 @@
 
 **Shards:** *slow eye* (trained patience before burst), *melt psalm* (hum while glass runs), *shard confession* (break glass — truth proportional to fragments).
 
-**Deep ethnography (mortals):** [ethnography-vitreus.md](ethnography-vitreus.md) — Phase A ratified · [septima-vitreus-culture-bleed.md](septima-vitreus-culture-bleed.md) (Phase B bleed). **Phase C wing:** [§ VII *Septima* wing](#vii-septima-wing-vitreus--silica-periphery) (Ignis-Minor / Solaris-Alpha / Silica Field as separate stubs). Silica Field + Solaris-Alpha = stub depth only — **not** separate Phase A ethnography files.
+**Deep ethnography (mortals):** [ethnography-vitreus.md](ethnography-vitreus.md) — Phase A ratified · [septima-vitreus-culture-bleed.md](septima-vitreus-culture-bleed.md) (Phase B bleed). **Phase C wing:** [§ SEPTIMA wing](#vii-septima-wing-vitreus--silica-periphery) (Ignis-Minor / Solaris-Alpha / Silica Field as separate stubs). Silica Field + Solaris-Alpha = stub depth only — **not** separate Phase A ethnography files.
 
 ---
 
-## VII *Septima* wing (Vitreus / silica periphery)
+## SEPTIMA wing (Vitreus / silica periphery)
 
 **Rule:** Same Vitreus civilization — clarity/**stray scatter** sin, Glass Burn surface, lens piety. Inherit [septima-vitreus-culture-bleed.md](septima-vitreus-culture-bleed.md). Phaetron stays on Vitreus. **Not** other seats.
 

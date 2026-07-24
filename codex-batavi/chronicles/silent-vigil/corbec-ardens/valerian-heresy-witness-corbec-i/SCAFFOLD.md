@@ -24,7 +24,7 @@ Five-man witness brief; Malakor smell; first kneeling brother; weaponized order 
 ## Beat locks
 
 - Five count as ledger law
-- *Prima* as stain interval
+- PRIMA as stain interval
 - Witness = ammunition
 - First wrong order — door closing
 - Vorn foreshadow at chapter end

@@ -52,7 +52,7 @@ Summarized from [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-b
 |--------|------|
 | **Early predatory recognition** — faster threat loop. | **Misreads** diplomacy / deceit unless *Axiom* reins it. |
 | **Objective fixation** — grinds problems until solved. | **Won’t disengage** when orders demand; fixation **days** without override. |
-| **Vexillatio territorial threshold** — instant protect reflex for sector/brothers. | **Acts before justification** post-hoc. |
+| **Vexilla territorial threshold** — instant protect reflex for sector/brothers. | **Acts before justification** post-hoc. |
 | Combat: **high-efficiency predatory focus**; claws **pierce ceramite** (sustained). | **Post-combat** = **highest instability**; **trimming / pain**; *Axiom* = **continuous work**. |
 | Veterans: **functional respect** for reads forged under cost. | **Red hands** — visible forever. |
 
@@ -102,7 +102,7 @@ Summary:
 
 - **Exanimus-only** “Primaris-like” **field** read for **Firstborn**; **no** niche theft at **Furor** or baseline line.
 - **Primaris:** slower climb into the curse (buffers / baseline); **worse** emotional–behavioral envelope **once** Exanimus **locks**.
-- ***Decima* only:** **median** stability claim for **IX** *Decima* **Firstboot** Exanimus vs **Primaris** — not every vexillatio; **exceptions** allowed.
+- **DECIMA only:** **median** stability claim for **IX** DECIMA **Firstboot** Exanimus vs **Primaris** — not every Vexilla; **exceptions** allowed.
 
 ---
 

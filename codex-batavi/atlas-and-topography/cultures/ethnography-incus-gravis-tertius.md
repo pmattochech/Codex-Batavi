@@ -2,14 +2,14 @@
 
 **Status:** Ratified — 2026-07-22 (Phase A capital — maximum depth)  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding)  
-**Seat:** Vexillatio **IV** (*Quarta*) · Legatus: **Orin Valestrand**  
+**Seat:** Vexilla **IV** (QVARTA) · Legatus: **Orin Valestrand**  
 **Scope:** Mortal populi only — not full Vexilla doctrine. Chapter footprint via civilian habit until Phase B.  
-**Atlas / fork:** [system-ii-crucible.md](../systems/system-ii-crucible.md) · [worlds-crucible.md](worlds-crucible.md) § **Incus-Gravis Tertius** · armory seat skew: [vexillatio-operational-armory.md](../../arsenal-and-logistics/vexillatio-operational-armory.md) § **IV *Quarta*** · Legatus surface: [dossier-orin-valestrand.md](../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md)  
+**Atlas / fork:** [system-ii-crucible.md](../systems/system-ii-crucible.md) · [worlds-crucible.md](worlds-crucible.md) § **Incus-Gravis Tertius** · armory seat skew: [vexillatio-operational-armory.md](../../arsenal-and-logistics/vexillatio-operational-armory.md) § **QVARTA** · Legatus surface: [dossier-orin-valestrand.md](../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md)  
 **Basal / Ecclesiarchy:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md) · [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · [ecclesiarchy-on-the-frontier.md](../../political-relations/ecclesiarchy-on-the-frontier.md)  
 **Author mood:** Hymn map applied — yes · [`../../planning/HYMN-OF-THE-LOST-MOOD-LOCK.md`](../../planning/HYMN-OF-THE-LOST-MOOD-LOCK.md)  
 **Local mortal sin (lock):** **false yield**  
 **Legatus public read (mortal):** **the Shingle Warden** — the Grav Lock who measures hours and meters, not sermons
-**IV *Quarta* bleed (ratified, separate file):** [`quarta-incus-gravis-tertius-culture-bleed.md`](quarta-incus-gravis-tertius-culture-bleed.md) · Legatus dossier (Chapter layer): [`dossier-orin-valestrand.md`](../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md)
+**QVARTA bleed (ratified, separate file):** [`QVARTA-incus-gravis-tertius-culture-bleed.md`](quarta-incus-gravis-tertius-culture-bleed.md) · Legatus dossier (Chapter layer): [`dossier-orin-valestrand.md`](../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md)
 
 ---
 
@@ -23,7 +23,7 @@ Urbanism is **inverted**. Hive cities are carved **down** into crystalline adama
 
 **Slow death** is **microfracture**. Knees, ankles, lumbar plates, and strap-points fail first. Bone scans are as ordinary as ration stamps. Orthotics are not luxury medical theater — they are **civic clothing**. A body that “walks clean” without straps is either Upper (bought distance from true load) or lying. Citizens think in **yield points**, **boot debt**, **strap hours**, **compression shifts**, and **load festivals**. The provincial feel is **highland-anvil barbaricum** wearing Imperial forms: High Gothic on tithe boards, Porta Nihili work-creed in every brace shop, and a stubborn belief that God loves **what does not buckle**.
 
-**Sphere note (jurisdiction only — not this file’s ethnography):** Vexillatio IV (*Quarta*) seat jurisdiction covers the **Incus-Gravis sphere** — Tertius capital ethnography here; **Incus-Gravis Secundus** and **Incus-Gravis-I** Phase C stubs live on [worlds-crucible.md](worlds-crucible.md) § **IV *Quarta* wing** — do **not** treat this document as their culture dump.
+**Sphere note (jurisdiction only — not this file’s ethnography):** Vexilla QVARTA seat jurisdiction covers the **Incus-Gravis sphere** — Tertius capital ethnography here; **Incus-Gravis Secundus** and **Incus-Gravis-I** Phase C stubs live on [worlds-crucible.md](worlds-crucible.md) § **QVARTA wing** — do **not** treat this document as their culture dump.
 
 ### 0.2 Fork
 
@@ -100,7 +100,7 @@ Urbanism is **inverted**. Hive cities are carved **down** into crystalline adama
 ### 0.5 Local mortal sin & Legatus read
 
 - **Local mortal sin — false yield:** Claiming a load share, bone-scan result, strap blessing, or compression-marriage contribution you did not carry. Enforcement: weight guild courts first; orthotic clergy second; Administratum/Arbites when tithe or draft fraud is proven. **Class-colored:** Rabble — strap theft / borrowed stamp; Common — misfiled load-share or “rest day” fraud on the bell; Upper — bought clean scans and guest ink sold as earned scripture. Used in Religion (confession as scan), Economy (tithe failure smell), and later Phase B shame≠sin hard edge.
-- **Legatus public read:** Mortals name Orin Valestrand **the Shingle Warden** — also **Grav Lock** in PDF cant. Surface myth: he taps heel seals twice before clearance; he speaks in hours and meters; he hates “downslope glory.” No sealed March taxonomy in tavern mouths — only that *Quarta* holds when the choir gets ugly.
+- **Legatus public read:** Mortals name Orin Valestrand **the Shingle Warden** — also **Grav Lock** in PDF cant. Surface myth: he taps heel seals twice before clearance; he speaks in hours and meters; he hates “downslope glory.” No sealed March taxonomy in tavern mouths — only that QVARTA holds when the choir gets ugly.
 
 ---
 
@@ -110,7 +110,7 @@ Mortal force on Tertius is organized around a single civilian truth: **movement 
 
 **Arbites posture:** Present at tithe spines, draft halls, and load-festival plazas — less street theater than Noviomagus, more **boot and stamp** enforcement. Riot geometry follows inverted hives: control the **load shafts**, and the underhive starves for air and exit. Corridor suppressions use gravitic boot trainees and shield walls that *rhyme* with Batavi storm-shield habits without claiming Chapter kit.
 
-**Shared Sweat surfaces (civilian only):** Joint Auxilia–PDF trench drills on surface flats; civilian stretcher guilds under shingle slide; Brace House kitchens near Chapter-adjacent civil floors; load festivals where Batavi shadow is watched, not worshipped. Mortals learn *Quarta* as **held crest** rumor — heavy fire, melta on choke, missiles with receipts — not as armory manual. March-of-the-Machine texture reaches civilians as **static hold weather**: long sieges, amber rotation gossip, Shadow-in-the-Warp fear as “the choir goes wrong in the head,” without sealed *Curia* taxonomy.
+**Shared Sweat surfaces (civilian only):** Joint Auxilia–PDF trench drills on surface flats; civilian stretcher guilds under shingle slide; Brace House kitchens near Chapter-adjacent civil floors; load festivals where Batavi shadow is watched, not worshipped. Mortals learn QVARTA as **held crest** rumor — heavy fire, melta on choke, missiles with receipts — not as armory manual. March-of-the-Machine texture reaches civilians as **static hold weather**: long sieges, amber rotation gossip, Shadow-in-the-Warp fear as “the choir goes wrong in the head,” without sealed *Curia* taxonomy.
 
 **By class**
 
@@ -122,7 +122,7 @@ Mortal force on Tertius is organized around a single civilian truth: **movement 
 
 - **Draft hall of Shaft Tertius-Seven:** Common youth scanned; Rabble washouts stamped for Auxilia haul; Upper sons buy “rest certification” and risk false-yield prosecution if a rival house leaks the clinic file.
 - **Slide riot, District Choir-Nine:** Shingle avalanche blocks three exits; Arbites seal upper gates by load grade; Rabble crush in service stairs; PDF holds mid-shaft with shield pairs; Brace House opens one guest corridor — mercy as politics.
-- **Shared Sweat stretcher line:** Civilian orthotic clergy and PDF medicae haul under slide-dust while *Quarta* grey plate anchors a crest beyond the civil fence — contact surface is sweat and silence, not catechism.
+- **Shared Sweat stretcher line:** Civilian orthotic clergy and PDF medicae haul under slide-dust while QVARTA grey plate anchors a crest beyond the civil fence — contact surface is sweat and silence, not catechism.
 
 ---
 
@@ -234,12 +234,12 @@ Not a fourth class — same strata, different boss / holy object.
 
 | Organization | Status | Cultural effect on this world (deep notes or reasoned absence) |
 |--------------|--------|------------------------------------------------------------------|
-| **Adeptus Administratum** | **Core** | Owns load registries, tithe boards, draft tallies, and guest-ink law. Mortals meet them as stamp windows and yield audits. Class access: Common clerks are the spine; Upper owns liaison blood; Rabble meets them as seizure. Local accent: High Gothic stiffened over brace cant. Friction with Batavi shadow: parallel civil floors near *Quarta* precincts — Administratum hates unlogged Chapter guest traffic. Sin in this robe: filing false yield as clean tithe. |
+| **Adeptus Administratum** | **Core** | Owns load registries, tithe boards, draft tallies, and guest-ink law. Mortals meet them as stamp windows and yield audits. Class access: Common clerks are the spine; Upper owns liaison blood; Rabble meets them as seizure. Local accent: High Gothic stiffened over brace cant. Friction with Batavi shadow: parallel civil floors near QVARTA precincts — Administratum hates unlogged Chapter guest traffic. Sin in this robe: filing false yield as clean tithe. |
 | **Adeptus Ministorum / Ecclesiarchy** | **Present** | Baptismal record and festival patronage intact; daily holiness often loses to orthotic clergy. Mortals meet priests at load festivals and Upper chapels more than Rabble alleys. Local accent: God-of-the-unbuckled. Friction: missionaries who delay scans for sermon are socially punished. Sin: selling rest exemptions as piety. |
 | **Adeptus Arbites** | **Present** | Tithe spines, draft halls, riot shaft control, false-yield prosecutions when guild courts fail. Mortals feel them as boot inspections and corridor locks. Class: harder on Rabble bodies, more paper on Upper scandals. Accent: heel-seal law. Friction with Batavi: jurisdiction arguments at civil/Chapter fence lines. Sin: taking guest ink to ignore a soft-knee house. |
-| **Adeptus Mechanicus** (incl. local forge-priests) | **Present** | Brace manufacture, gravitic boot maintenance contracts, adamantium-crust tooling, clinic machines. Mortals meet tech-priests as orthotic suppliers and shaft-engine saints. Class: Common apprentices; Upper contracts; Rabble scrap-tech. Accent: yield-first machine piety, not Vitreus lens mysticism. Friction: *Quarta* gravitic boot doctrine rhymes with local habit — Mechanicus claims the rhyme as their seal. Sin: diverting strap allotments (false yield in metal). |
+| **Adeptus Mechanicus** (incl. local forge-priests) | **Present** | Brace manufacture, gravitic boot maintenance contracts, adamantium-crust tooling, clinic machines. Mortals meet tech-priests as orthotic suppliers and shaft-engine saints. Class: Common apprentices; Upper contracts; Rabble scrap-tech. Accent: yield-first machine piety, not Vitreus lens mysticism. Friction: QVARTA gravitic boot doctrine rhymes with local habit — Mechanicus claims the rhyme as their seal. Sin: diverting strap allotments (false yield in metal). |
 | **Imperial Guard / Astra Militarum** (draft, billet, regiment links) | **Present** | Draft draws from PDF and Auxilia pools into Crucible regiments; billets near surface flats and mid-shaft depots. Mortals meet Guard as seasonal hunger for bodies. Class: Rabble levy; Common career bridge; Upper officer commissions. Accent: static-hold training sells well to off-world colonels. Friction: Batavi Shared Sweat raises Guard pride and Chapter fear together. Sin: desertion framed as “downslope glory.” |
-| **Planetary Defense Force / local militia** | **Core** | Primary mortal military culture — choke holds, boot debt, shield pairs, slide pickets. Mortals live inside PDF calendars. Class-banded as in §1. Accent: Shingle Warden folk etiquette (heel taps). Friction: closest seam to *Quarta* without doctrine rights. Sin: false fitness scans. |
+| **Planetary Defense Force / local militia** | **Core** | Primary mortal military culture — choke holds, boot debt, shield pairs, slide pickets. Mortals live inside PDF calendars. Class-banded as in §1. Accent: Shingle Warden folk etiquette (heel taps). Friction: closest seam to QVARTA without doctrine rights. Sin: false fitness scans. |
 | **Imperial Navy** | **Thin** | System transit hubs and grav-well pilots exist; Tertius is not a fleet capital. Mortals meet Navy as rare void-contract recruiters and supply drop schedules. Class: Upper charter brokers; Common dock-adjacent clerks at orbital spines; Rabble almost never. Absence of thick Navy culture is information: this world exports weight, not void romance. |
 | **Navis Nobilite / Navigator houses** | **Thin** | Insular chart-house traffic for Crucible lanes touches Upper contract rooms; no mass Navigator culture on the flats. Mortals know them as sealed eyes and lethal route prices. Why thin: Tertius identity is crust-and-crush, not warp aristocracy. |
 | **Adeptus Astra Telepathica / Astropaths** | **Thin** | Relay silence habits and listen-only watches exist near March-edge rumor zones; open astropathic cult is rare. Mortals meet sanctioned voices as distant weather. Men of Iron hangover makes loud psychic fashion suspect. |
@@ -286,7 +286,7 @@ Not a fourth class — same strata, different boss / holy object.
 
 ## 9. Related / deferred
 
-- **Phase B bleed file:** [`quarta-incus-gravis-tertius-culture-bleed.md`](quarta-incus-gravis-tertius-culture-bleed.md) (**ratified** — do not mix full bleed doctrine into this populi body).  
-- **Wing periphery (Phase C):** [worlds-crucible.md](worlds-crucible.md) § **IV *Quarta* wing** — **Secundus** and **Incus-Gravis-I** as seat-standard + delta stubs (not separate Phase A ethnographies).  
-- **Sibling seats:** Do not absorb *Quinta* Aethelgard tide culture, *Sexta* Bifrons vault culture, Noviomagus forge culture, or other Legatus capitals.  
+- **Phase B bleed file:** [`QVARTA-incus-gravis-tertius-culture-bleed.md`](quarta-incus-gravis-tertius-culture-bleed.md) (**ratified** — do not mix full bleed doctrine into this populi body).  
+- **Wing periphery (Phase C):** [worlds-crucible.md](worlds-crucible.md) § **QVARTA wing** — **Secundus** and **Incus-Gravis-I** as seat-standard + delta stubs (not separate Phase A ethnographies).  
+- **Sibling seats:** Do not absorb QVINTA Aethelgard tide culture, SEXTA Bifrons vault culture, Noviomagus forge culture, or other Legatus capitals.  
 - **Sphere cross-links (not ethnographies):** [worlds-crucible.md](worlds-crucible.md) § **Incus-Gravis Secundus** · § **Incus-Gravis-I** · atlas [system-ii-crucible.md](../systems/system-ii-crucible.md) § Gravity Anvil.

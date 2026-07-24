@@ -110,7 +110,7 @@ No single-office dependency is permitted.
 
 ## 8. Legatus Ring and Tier A substitution
 
-**Legatus Ring** (standing council, Noviomagus outer ring): Legati **I–IX** resolve operational consensus on Tier I–II readiness and ratify Tier A signatory assignment before black-chamber wax. **Radulf Castrin** holds witness weight without vote. ***Decima*** does not hold Ring seats — Triumvirate authority applies directly.
+**Legatus Ring** (standing council, Noviomagus outer ring): Legati **PRIMA–NONA** resolve operational consensus on Tier I–II readiness and ratify Tier A signatory assignment before black-chamber wax. **Radulf Castrin** holds witness weight without vote. **DECIMA** does not hold Ring seats — Triumvirate authority applies directly.
 
 **Recorded dissent** (e.g. Tier III optics) is **Vermilion** audit liability — not veto at Trigger Group C.
 
@@ -118,9 +118,9 @@ No single-office dependency is permitted.
 
 | Vacant Tier A seat | First substitute | Second substitute |
 |--------------------|------------------|-------------------|
-| *Prima* (Corbec Ardens) | *Secunda* (Henric Kessler) | *Quinta* (Armin Sturmwahl) |
-| *Quinta* (Armin Sturmwahl) | *Prima* (Corbec Ardens) | *Tertia* (Theron Brach) |
-| Other I–IX Legatus | Adjacent **theater-linked** Legatus per *Strategium* map | Radulf witness until re-seat |
+| PRIMA (Corbec Ardens) | SECVNDA (Henric Kessler) | QVINTA (Armin Sturmwahl) |
+| QVINTA (Armin Sturmwahl) | PRIMA (Corbec Ardens) | TERTIA (Theron Brach) |
+| Other PRIMA–NONA Legatus | Adjacent **theater-linked** Legatus per *Strategium* map | Radulf witness until re-seat |
 
 Substitute inherits Tier A custody **minus** kill-route segments not briefed — **Drusus** certifies completeness or downgrades authority to Tier I–II only.
 

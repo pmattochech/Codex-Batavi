@@ -1,8 +1,8 @@
 # Instructions — Vexilla homeworld cultural identity framework
 
 **Status:** Binding process document for agents and co-writers.  
-**Audience:** Human authors **and** automated bots applying this framework to a named Vexillatio seat world.  
-**Worked example (mortal pack):** [`../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../atlas-and-topography/cultures/ethnography-noviomagus-prime.md) · bleed [`../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md) · wing pattern [`../atlas-and-topography/cultures/worlds-central-bastion.md`](../atlas-and-topography/cultures/worlds-central-bastion.md) § **I *Prima* wing**.  
+**Audience:** Human authors **and** automated bots applying this framework to a named Vexilla seat world.  
+**Worked example (mortal pack):** [`../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../atlas-and-topography/cultures/ethnography-noviomagus-prime.md) · bleed [`../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md) · wing pattern [`../atlas-and-topography/cultures/worlds-central-bastion.md`](../atlas-and-topography/cultures/worlds-central-bastion.md) § **PRIMA wing**.  
 **Author mood (optional input):** [`HYMN-OF-THE-LOST-MOOD-LOCK.md`](HYMN-OF-THE-LOST-MOOD-LOCK.md).
 
 ---
@@ -78,7 +78,7 @@ Also update: atlas `INDEX.md` links, seat fork file cross-links, and planning ba
 
 ## 1. How to use (mandatory order)
 
-1. Confirm **target**: world name, Vexillatio ordinal + Latin, Legatus (or TBD), macro-system.  
+1. Confirm **target**: world name, Vexilla ordinal + Latin, Legatus (or TBD), macro-system.  
 2. Load canon: system atlas, `worlds-*.md` fork, basal Porta Nihili, any existing ethnography, Legatus dossier, Hymn mood if used.  
 3. Fill **Phase A** using Template output §§0–9 **in order**, at **maximum depth**.  
 4. Self-validate against § **Acceptance checklist**.  
@@ -185,7 +185,7 @@ Who learns and who is kept dark; tracks (guild / house / chapel / Administratum 
 
 **Status:** Draft / In progress / Ratified — [date]  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding)  
-**Seat:** Vexillatio [I–IX] (*[Latin]*) · Legatus: [name or TBD]  
+**Seat:** Vexilla [PRIMA–NONA] (*[Latin]*) · Legatus: [name or TBD]  
 **Scope:** Mortal populi only — not full Vexilla doctrine. Chapter footprint via civilian habit until Phase B.  
 **Atlas / fork:** [links]  
 **Basal / Ecclesiarchy:** [links]  

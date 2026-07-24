@@ -2,7 +2,7 @@
 
 **System atlas:** [system-i-central-bastion.md](../systems/system-i-central-bastion.md)  
 **Basal stratum:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md)  
-**I *Prima* wing:** Noviomagus Prime + periphery stubs in § **I *Prima* wing** (same civilization, local deltas). **II *Secunda* / III *Tertia* wings:** Castra-Vetera / Khan-Bator seats + periphery stubs in §§ below. Elysium-Minor remains shared (not a Legatus wing).
+**PRIMA wing:** Noviomagus Prime + periphery stubs in § **PRIMA wing** (same civilization, local deltas). **SECVNDA / TERTIA wings:** Castra-Vetera / Khan-Bator seats + periphery stubs in §§ below. Elysium-Minor remains shared (not a Legatus wing).
 
 ---
 
@@ -22,13 +22,13 @@
 
 **Class / sin / Legatus (Phase A locks):** Fiction strata **Rabble · Common · Upper**; bridge = **Solis lower-upper**. Local mortal sin = **unlogged scrap** (paired: missed torque). Mortal Legatus read = **Warden Gauge** (Corbec Ardens — ammo clocks, not feast king). Sorting border = **Black Rain** + **elevator rights**.
 
-**Deep ethnography (mortals — framework Phase A):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md) · binding process: [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) · **I *Prima* bleed (Phase B B1–B8 max depth):** [prima-noviomagus-culture-bleed.md](prima-noviomagus-culture-bleed.md) · **Prima wing periphery (fork stubs):** § **I *Prima* wing** below.
+**Deep ethnography (mortals — framework Phase A):** [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md) · binding process: [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) · **PRIMA bleed (Phase B B1–B8 max depth):** [prima-noviomagus-culture-bleed.md](prima-noviomagus-culture-bleed.md) · **PRIMA wing periphery (fork stubs):** § **PRIMA wing** below.
 
 ---
 
-## I *Prima* wing (Noviomagus periphery)
+## PRIMA wing (Noviomagus periphery)
 
-**Rule:** Same civilization as Noviomagus Prime — throughput theology, plaque/elevator sorting, Shared Sweat, stamp-booth holiness — with **one small fork** per body. Class labels **Rabble / Common / Upper** still apply; local keys change (dock passes, tank rights, ring claims). **Not** II *Secunda* / III *Tertia* seats. Chapter contact inherits [prima-noviomagus-culture-bleed.md](prima-noviomagus-culture-bleed.md); Corbec’s gauge stays on Noviomagus Prime.
+**Rule:** Same civilization as Noviomagus Prime — throughput theology, plaque/elevator sorting, Shared Sweat, stamp-booth holiness — with **one small fork** per body. Class labels **Rabble / Common / Upper** still apply; local keys change (dock passes, tank rights, ring claims). **Not** SECVNDA / TERTIA seats. Chapter contact inherits [prima-noviomagus-culture-bleed.md](prima-noviomagus-culture-bleed.md); Corbec’s gauge stays on Noviomagus Prime.
 
 ### Castrum Ferrum (orbital citadel / hangar spine)
 
@@ -64,7 +64,7 @@
 
 **Economy-ecology:** Cadastre rebuild; house titles voided; drains and channels as infrastructure memory.
 
-**Porta Nihili flavor:** Devotion-to-persona treated as **theft from Terra’s mouth**. Shared Sweat returns as penance labor under Arbites + *Prima* residual geometry.
+**Porta Nihili flavor:** Devotion-to-persona treated as **theft from Terra’s mouth**. Shared Sweat returns as penance labor under Arbites + PRIMA residual geometry.
 
 **Social structure:** Same class ladder under heavier Administratum / Arbites weight; noble names struck from public roll.
 
@@ -78,7 +78,7 @@
 
 **Economy-ecology:** Acid drip as default; stamp booths on stilts.
 
-**Porta Nihili flavor:** Same throughput theology under wet failure; *Prima* parallel keys only when the ditch is one (bleed hard edge).
+**Porta Nihili flavor:** Same throughput theology under wet failure; PRIMA parallel keys only when the ditch is one (bleed hard edge).
 
 **Social structure:** Rabble-heavy; common = stilts and canopy militia; upper almost absent except audit visits.
 
@@ -94,7 +94,7 @@
 
 **Porta Nihili flavor:** Throughput theology on scrap — fortune is **first logged weld**; claim-jumping = **unlogged scrap**. Shrines = impact craters with offering slag.
 
-**Social structure:** Sieve crews (nomadic but **manifested**); grinder pilots; static rocks = elevator castes of the ring. *Prima*/Kadmos vacuum training reads as Shared Sweat with cutters.
+**Social structure:** Sieve crews (nomadic but **manifested**); grinder pilots; static rocks = elevator castes of the ring. PRIMA/Kadmos vacuum training reads as Shared Sweat with cutters.
 
 **Fork:** Noviomagus **in orbit** — salvage as receipt culture, not salvage kings.
 
@@ -120,7 +120,7 @@
 
 **Scale & role:** Ecumenopolis **bureaucracy brain** — judgment, tithe, noble houses, **perpetual autumn** climate control.
 
-**Economy-ecology:** Paper-light smog from **cogitation incense**; kilometers of **registry vaults** (including ***Depositorium Cataphractae*** — sealed Legiones-era **Cataphractii** TDA cache, Castellan armory sustainment under **II *Secunda***); gardens kept **muted orange** for optical calm.
+**Economy-ecology:** Paper-light smog from **cogitation incense**; kilometers of **registry vaults** (including ***Depositorium Cataphractae*** — sealed Legiones-era **Cataphractii** TDA cache, Castellan armory sustainment under **SECVNDA**); gardens kept **muted orange** for optical calm.
 
 **Porta Nihili flavor:** The Throne receives **correct filing**. **Penance** is **amended forms**. Pilgrimage is **appeal windows**. Holiness is **concordance** between three departments that hate each other.
 
@@ -130,13 +130,13 @@
 
 **Shards:** *autumn vow* (promise under falling leaves holograph), *ribbon saint* (archivist martyred for refusing to alter a death date), *triple stamp kiss* (iron humor — kiss the seal, not the ring).
 
-**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-castra-vetera-prime.md](ethnography-castra-vetera-prime.md) · seat II *Secunda* · Legatus Henric Kessler (*the Caliper*). **Phase B bleed (ratified):** [secunda-castra-vetera-culture-bleed.md](secunda-castra-vetera-culture-bleed.md) · **Secunda wing periphery (fork stubs):** § **II *Secunda* wing** below.
+**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-castra-vetera-prime.md](ethnography-castra-vetera-prime.md) · seat SECVNDA · Legatus Henric Kessler (*the Caliper*). **Phase B bleed (ratified):** [secunda-castra-vetera-culture-bleed.md](secunda-castra-vetera-culture-bleed.md) · **SECVNDA wing periphery (fork stubs):** § **SECVNDA wing** below.
 
 ---
 
-## II *Secunda* wing (Castra-Vetera periphery)
+## SECVNDA wing (Castra-Vetera periphery)
 
-**Rule:** Same civilization as Castra-Vetera Prime — consistory / filing piety, false concordance (*misfile*) as local sin, Rabble/Common/Upper, Caliper surface read. Inherit [secunda-castra-vetera-culture-bleed.md](secunda-castra-vetera-culture-bleed.md). Kessler’s Caliper stays on Castra-Vetera Prime. **Not** Prima/Tertia seats. **Not** Elysium.
+**Rule:** Same civilization as Castra-Vetera Prime — consistory / filing piety, false concordance (*misfile*) as local sin, Rabble/Common/Upper, Caliper surface read. Inherit [secunda-castra-vetera-culture-bleed.md](secunda-castra-vetera-culture-bleed.md). Kessler’s Caliper stays on Castra-Vetera Prime. **Not** PRIMA/TERTIA seats. **Not** Elysium.
 
 ### Castra-Minor (The Scribes’ Moon)
 
@@ -156,7 +156,7 @@
 
 ## Khan-Bator Prime (The Iron Granary)
 
-**Seat:** Vexillatio **III** (*Tertia*) · Legatus **Theron Brach** (mortal public read: **the Seal Flame**).
+**Seat:** Vexilla **III** (TERTIA) · Legatus **Theron Brach** (mortal public read: **the Seal Flame**).
 
 **Scale & role:** **Dense atmosphere, super-oxygen** — **trillions** across **monoculture plains** and **nutrient-slime oceans**; **10 km silo-cities**.
 
@@ -170,11 +170,11 @@
 
 **Shards:** *blue lung* (worker pride — oxygen adaptation), *salt-in-the-ration* (shared fate — imported into Batavi Dead’s Salt genealogy), *silo marriage* (two houses merge elevator keys).
 
-**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md). **Phase B bleed (ratified):** [tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md) — III *Tertia* ↔ Khan-Bator · **Tertia wing periphery (fork stubs):** § **III *Tertia* wing** below. Not absorbed into the capital ethnography; inherit Phase B.
+**Deep ethnography (mortals) — Phase A ratified (framework):** [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md). **Phase B bleed (ratified):** [tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md) — TERTIA ↔ Khan-Bator · **TERTIA wing periphery (fork stubs):** § **TERTIA wing** below. Not absorbed into the capital ethnography; inherit Phase B.
 
 ---
 
-## III *Tertia* wing (Khan-Bator periphery)
+## TERTIA wing (Khan-Bator periphery)
 
 **Rule:** Same civilization as Khan-Bator — breath/yield theology, diversion = local sin, Seal Flame surface, Rabble/Common/Upper + Chart-Grace bridge. Inherit [tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md). Brach/Seal Flame stays on Khan-Bator Prime. **Not** other Legatus seats.
 
@@ -238,7 +238,7 @@
 
 ## Elysium-Minor (The Flesh Greenhouse)
 
-**Seat note:** **Shared Central Bastion** civil world — **Apothecarion demographic audit** (Drusus). **Not** a Vexillatio / Legatus capital · **not** Prima–Secunda–Tertia wing.
+**Seat note:** **Shared Central Bastion** civil world — **Apothecarion demographic audit** (Drusus). **Not** a Vexilla / Legatus capital · **not** PRIMA–SECVNDA–TERTIA wing.
 
 **Scale & role:** **Paradise** on lease — **rest reward** for productivity; **demographic incubator** under **Apothecarion** audit (pheromones, fertility nudge).
 
@@ -258,40 +258,40 @@
 
 ## Castra-Minor (The Scribes’ Moon)
 
-**Filing:** II *Secunda* wing periphery — full fork stub under § **II *Secunda* wing** (Castra-Vetera standard + monastic scriptoria / mute shelving delta).
+**Filing:** SECVNDA wing periphery — full fork stub under § **SECVNDA wing** (Castra-Vetera standard + monastic scriptoria / mute shelving delta).
 
 ---
 
 ## Golden Grain Station & the Atlas Elevator
 
-**Filing:** III *Tertia* wing periphery — full fork stub under § **III *Tertia* wing** (Khan-Bator standard + vertical rope kinship / cable blessing delta).
+**Filing:** TERTIA wing periphery — full fork stub under § **TERTIA wing** (Khan-Bator standard + vertical rope kinship / cable blessing delta).
 
 ---
 
 ## Vacuum Harvest Fields
 
-**Filing:** III *Tertia* wing periphery — full fork stub under § **III *Tertia* wing** (Khan-Bator standard + chem monastery / measured drip delta).
+**Filing:** TERTIA wing periphery — full fork stub under § **TERTIA wing** (Khan-Bator standard + chem monastery / measured drip delta).
 
 ---
 
 ## Bator-Secundus (The Chemical Moon)
 
-**Filing:** III *Tertia* wing periphery — full fork stub under § **III *Tertia* wing** (Khan-Bator standard + acid coastal reagent delta).
+**Filing:** TERTIA wing periphery — full fork stub under § **TERTIA wing** (Khan-Bator standard + acid coastal reagent delta).
 
 ---
 
 ## Bator-Tertius (The Voracious Greenhouse)
 
-**Filing:** III *Tertia* wing periphery — full fork stub under § **III *Tertia* wing** (Khan-Bator standard + forest-barbaricum / still-merit hunt flesh delta).
+**Filing:** TERTIA wing periphery — full fork stub under § **TERTIA wing** (Khan-Bator standard + forest-barbaricum / still-merit hunt flesh delta).
 
 ---
 
 ## The Steel Belt & the Grinder
 
-**Filing:** I *Prima* wing periphery — full fork stub under § **I *Prima* wing** (Noviomagus standard + orbital salvage delta).
+**Filing:** PRIMA wing periphery — full fork stub under § **PRIMA wing** (Noviomagus standard + orbital salvage delta).
 
 ---
 
 ## Horreum-Secundus (Aquaculture belt)
 
-**Filing:** I *Prima* wing periphery — full fork stub under § **I *Prima* wing** (Noviomagus standard + wet-forge delta).
+**Filing:** PRIMA wing periphery — full fork stub under § **PRIMA wing** (Noviomagus standard + wet-forge delta).

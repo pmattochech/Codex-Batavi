@@ -6,12 +6,12 @@
 
 ## Main serial (25 chapters)
 
-Flat paths `malakor-v/` and `decima-justice-vexillum/` → quarter folders:
+Flat paths `malakor-v/` and `DECIMA-justice-vexillum/` → quarter folders:
 
 | Legacy | Current |
 |--------|---------|
 | `malakor-v/` | `P4-malakor/malakor-v/` |
-| `decima-justice-vexillum/` | `P5-reformation/decima-justice-vexillum/` |
+| `DECIMA-justice-vexillum/` | `P5-reformation/DECIMA-justice-vexillum/` |
 
 **Brief detour (May 2026):** Corbec chapters were temporarily under `P4-malakor/` — **reverted** to [`../corbec-ardens/`](../corbec-ardens/INDEX.md).
 

@@ -3,10 +3,10 @@
 *(The Glass Burn / Vitreus Voltaic)*
 
 **Full name:** Lucan Phaetron.  
-**Rank:** **Legatus**, 7th Vexillatio (*Septima*).  
+**Rank:** **Legatus**, SEPTIMA.  
 **Seat:** **Vitreus** — thermal and photonic stress; glass seas, lens forges, plasma vent discipline.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda Vexillum* (*Septima* lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md). **Field 4:** **Null-Vent Covenant** (112.M42) — plasma/photonic cascade contained without forgeship detonation.  
+**Bearer of:** *Alabarda* + Vexilla (SEPTIMA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md). **Field 4:** **Null-Vent Covenant** (112.M42) — plasma/photonic cascade contained without forgeship detonation.  
 **Apparent service age:** ~190–240 Terran years (estimate).
 
 ---
@@ -25,7 +25,7 @@
   * **Power pack:** **Null-Vent manifold pack** — artificer Mk X backpack with **external emergency bleed routing** (always worn; heavier industrial read than line plate).  
   * **Purity / rite:** **Purity seals** on gorget and pack latches; **plasma-certification wax tab** on gorget.  
   * **Tell:** **Vent-guard** click with one knuckle before hard calls; thumb to chestplate habit.  
-  * **Explicit negatives:** No Crux · no Watch honor block on plate (Watch proof filed) · no *Prima* chains · no integral jump pack · no TDA daily plate · no Quintus animal trophy · no Sextus cowl halo.  
+  * **Explicit negatives:** No Crux · no Watch honor block on plate (Watch proof filed) · no PRIMA chains · no integral jump pack · no TDA daily plate · no Quintus animal trophy · no Sextus cowl halo.  
 * **Visage protocol:** Helm sealed outside Triumvirate-authorized exceptions.
 
 ---
@@ -42,11 +42,11 @@
 ## 3\. Combat and doctrine
 
 * ***Alabarda* head — Type Lamina (monomolecular precision):** mono-edged primary cheek, mono spike, small insulated hammer on **heat-shielded haft** — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §9. **One clean plane** on seal iris, conduit flange, and lens-forge fault lines — **no chain vibration** (mono lattice contamination risk). **Insulated hammer** for non-cutting seal tasks only.  
-* **Pole doctrine:** Plant at **manifold node, vacuum-port spine, or lens-array choke** for **vent geometry accounting** — relay carries **Legatus tick** while Ruin runs **sequential underburn** along the spine. **Two-hand pole** default in active containment; **one-hand** only for brief **relay actuation** (vent-window sign-off, IFF slice) while the pole stays planted — not dual-wield like *Quinta*. Cloth may stay **furled** under photonic hash and glare.  
+* **Pole doctrine:** Plant at **manifold node, vacuum-port spine, or lens-array choke** for **vent geometry accounting** — relay carries **Legatus tick** while Ruin runs **sequential underburn** along the spine. **Two-hand pole** default in active containment; **one-hand** only for brief **relay actuation** (vent-window sign-off, IFF slice) while the pole stays planted — not dual-wield like QVINTA. Cloth may stay **furled** under photonic hash and glare.  
 * **Dual seal:** **No breath without Legatus and Techmarine** sign-off **per node** — human relay tick and machine auspex tick; Kadmos’s rite in the chain even when Kadmos is not on the plate.  
-* **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — *Septima* **energy stress**: plasma incinerators, las fusils, neo-volkite where contract allows; bolters as **failure backbone** (short bursts, assigned arcs — no tracer vanity that blinds spotter glass).  
+* **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — SEPTIMA **energy stress**: plasma incinerators, las fusils, neo-volkite where contract allows; bolters as **failure backbone** (short bursts, assigned arcs — no tracer vanity that blinds spotter glass).  
 * **Command style:** Ruin overlaps **plasma AT**; Suppression holds perimeter volume; Phaetron personally signs **vent windows** on critical days; **ritual silence** on overcharge windows.  
-* **Training philosophy:** *Septima* **punishes** careless plasma more harshly than other Vexillationes — one bad vent can blind a cohort. Rage vented wrong; the line pays in **restraint**, not hero overcharge.
+* **Training philosophy:** SEPTIMA **punishes** careless plasma more harshly than other Vexilla — one bad vent can blind a cohort. Rage vented wrong; the line pays in **restraint**, not hero overcharge.
 
 ---
 
@@ -54,7 +54,7 @@
 
 * **Watch proof:** **Certified *Watch cycle***; includes xenos engagements where **EM and thermal** signatures were the primary intelligence channel.  
 * **Rise:** **Lieutenant** fame from holding a **lens dock** against Drukhari raiders with **controlled** plasma bloom — *Strategium* noted **zero** catastrophic vent chain.  
-* **112.M42 | Null-Vent Covenant:** Led **VII** *Septima* containment of plasma/photonic cascade on Vitreus orbital plate Seven; manifold bled to vacuum ports; nineteen *Septima* battle-brothers killed; allied skitarii dead redacted under Mechanicus treaty; certified *Alabarda* **field 4**. Narrative: [null-vent-covenant.md](../../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md) · [aar-vex-vii-null-vent-covenant.md](../../../chronicles/vexillum-register/aar-vex-vii-null-vent-covenant.md).
+* **112.M42 | Null-Vent Covenant:** Led **SEPTIMA** containment of plasma/photonic cascade on Vitreus orbital plate Seven; manifold bled to vacuum ports; nineteen SEPTIMA battle-brothers killed; allied skitarii dead redacted under Mechanicus treaty; certified *Alabarda* **field 4**. Narrative: [null-vent-covenant.md](../../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md) · [aar-vex-vii-null-vent-covenant.md](../../../chronicles/vexillum-register/aar-vex-vii-null-vent-covenant.md).
 
 ---
 
@@ -70,4 +70,4 @@
 
 POV for **plasma discipline**, **photonic hellscapes**, and **Mechanicus tension**. Good technical voice without becoming a Techmarine. **Legatus Ring:** command virtue **punishes careless fire**; failure-risk **over-focusing material vent failure while command IFF collapses**.
 
-**Cross-reference:** Armor — ***Typus Septimus — Phaetron*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § VII. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §9; [null-vent-covenant.md](../../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md) (**112.M42**, *Septima* field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.7; [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).
+**Cross-reference:** Armor — ***Typus Septimus — Phaetron*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § VII. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §9; [null-vent-covenant.md](../../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md) (**112.M42**, SEPTIMA field 4). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.7; [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).

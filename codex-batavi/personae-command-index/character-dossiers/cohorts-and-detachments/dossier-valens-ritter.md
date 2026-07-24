@@ -7,8 +7,8 @@
 **Specialization:** Counter-infiltration against **Imperium-mimic** threats (pattern/anomaly + long autonomous stalk-geometry); wetwork authorized under *Strategium* seal where *Lex* and mission set allow.  
 **Chapter:** *Cohors Batavorum*.  
 **Origin:** Noviomagus Prime — forge- and civil-mesh raised (worker cadre / underhab register; exact block *open*).  
-**Gene-home / ledger Vexillatio:** **1st** (*Prima* — **Noviomagus Prime**). Workers’ registers know him by **results**, not sermons.  
-**Primary operational spend:** **8th** (*Octava* — **Great Reef / Maleventum** Threshold theater). **Detached** posture most cycles — *Strategium* tooling aligned with [Steppenwolf](../../doctrine-and-organs/steppenwolf-doctrine.md) registry pattern (Chapter strength; sparse garrison mesh).  
+**Gene-home / ledger Vexilla:** **1st** (PRIMA — **Noviomagus Prime**). Workers’ registers know him by **results**, not sermons.  
+**Primary operational spend:** **8th** (OCTAVA — **Great Reef / Maleventum** Threshold theater). **Detached** posture most cycles — *Strategium* tooling aligned with [Steppenwolf](../../doctrine-and-organs/steppenwolf-doctrine.md) registry pattern (Chapter strength; sparse garrison mesh).  
 **Wolf’s Curse:** **Exanimus** — stabilized; **atypical *Axiom* load** (see §2).  
 **Apparent service age:** ~150–220 Terran years (estimate; **frontier-native** — **CV** annals; no **exit-ricochet** service fiction).
 
@@ -55,14 +55,14 @@
 
 * **Barracks myth:** **Silent Shadow** / **Two-Path Wolf** — brother who walked **ivory** and **black** deep enough that mess-hall lore treats him as **one-off**.  
 * **Open record:** Dual qualification is **known** only as **rumor** on most scrolls; **Triumvirate**, **Council**, and *Medicinae* hold the **certifying annex**. Not a standard career ladder — implies **secondment**, **exception billet**, or **operation-forged** crossover logged under seal.  
-* **Peer reference:** [dossier-branimir.md](dossier-branimir.md) (*Decanus Primus*, Silence — *Quarta*); **Ritter** is **not** Branimir’s duplicate — different **home ledger** (*Prima*), different **spend** (*Octava*), different **psychological cage**.
+* **Peer reference:** [dossier-branimir.md](dossier-branimir.md) (*Decanus Primus*, Silence — QVARTA); **Ritter** is **not** Branimir’s duplicate — different **home ledger** (PRIMA), different **spend** (OCTAVA), different **psychological cage**.
 
 ---
 
 ## 5\. Operations profile (partial — names withheld)
 
 * **Noviomagus Prime (civil mesh):** Mimic and **too-perfect** labor cadres; outcomes delivered to *Lex* chain when capture possible.  
-* **Threshold void (Octava):** Boarding-adjacent and **station** identity work; **solo** or **minimal** detachments per detached registry.
+* **Threshold void (OCTAVA):** Boarding-adjacent and **station** identity work; **solo** or **minimal** detachments per detached registry.
 
 ---
 
@@ -81,6 +81,6 @@
 
 ## 7\. Narrator notes
 
-POV vehicle for **Prima civil infiltration** + **Octava void mimicry** in one **body**; **Alpha / Night Lords** countermission spine (*The Wolf Among Us* and adjacent fiction). Dramatic friction: **looks** like a **Night Lord** on the pict-capture; **reads** terror **tactically**, **never** as **sadistic** sport — **Shadows** culture’s **least comfortable** brother.
+POV vehicle for **PRIMA civil infiltration** + **OCTAVA void mimicry** in one **body**; **Alpha / Night Lords** countermission spine (*The Wolf Among Us* and adjacent fiction). Dramatic friction: **looks** like a **Night Lord** on the pict-capture; **reads** terror **tactically**, **never** as **sadistic** sport — **Shadows** culture’s **least comfortable** brother.
 
-**Cross-reference:** [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md); [steppenwolf-doctrine.md](../../doctrine-and-organs/steppenwolf-doctrine.md); [intro-and-heraldry.md](../../intro-and-heraldry/chapter-identity.md) (peer treatment, red hands); [projection-aurea-wolfs-curse.md](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) (Exanimus); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3 (*Prima* / *Octava*).
+**Cross-reference:** [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md); [steppenwolf-doctrine.md](../../doctrine-and-organs/steppenwolf-doctrine.md); [intro-and-heraldry.md](../../intro-and-heraldry/chapter-identity.md) (peer treatment, red hands); [projection-aurea-wolfs-curse.md](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) (Exanimus); [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3 (PRIMA / OCTAVA).

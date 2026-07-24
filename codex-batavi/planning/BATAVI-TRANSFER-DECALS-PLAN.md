@@ -1,7 +1,7 @@
 # Batavi plate / transfer symbols — planning lock
 
 **Status:** Planning — print / wiki first; SM2 inject later.  
-**Grammar template:** Games Workshop / *Space Marine* **Ultramarines** (and Codex Astartes) **transfer-sheet logic** — chapter left, role+numeral right, rank knee — adapted to Cohors Batavorum **Vexillatio** mesh (not Codex companies).  
+**Grammar template:** Games Workshop / *Space Marine* **Ultramarines** (and Codex Astartes) **transfer-sheet logic** — chapter left, role+numeral right, rank knee — adapted to Cohors Batavorum **Vexilla** mesh (not Codex companies).  
 **Related:** [`HERALDRY-INGAME-PLAN.md`](HERALDRY-INGAME-PLAN.md) · [`../arsenal-and-logistics/infantry-visual-identity.md`](../arsenal-and-logistics/infantry-visual-identity.md) · [`../arsenal-and-logistics/specialty-cohorts.md`](../arsenal-and-logistics/specialty-cohorts.md) · [`../arsenal-and-logistics/vexillationes-and-visual-summary.md`](../arsenal-and-logistics/vexillationes-and-visual-summary.md) · [`../visual-identity-paint-guide.md`](../visual-identity-paint-guide.md) · seal raster [`../lore-images/chapter-seal-official.png`](../lore-images/chapter-seal-official.png)
 
 **Non-canon note:** This file is **design law for transfers**. Existing wiki still says “left = frontal wolf” in places that already match; **pure-line rim vs Codex company colour** is a deliberate Batavi fork (see §4).
@@ -42,7 +42,7 @@ Use the **UM transfer sheet** as a **category and glyph grammar**, not Ultramari
 |---------------------|----------------------|-------------|----------------|
 | **Chapter icon** | Chapter badge | **Left pauldron** | Frontal wolf (white; orange lenses when shown) |
 | **Battlefield role** | Arrow / crossed arrows / inverted V / veteran / command | **Right pauldron** (pure line only) | Line / assault / fire support / command-slot |
-| **Squad / company numeral** | Roman or Arabic in/over the role mark | **Right pauldron — Roman I–X inside / on the mark** | **Vexillatio** number (**not** Codex company) |
+| **Squad / company numeral** | Roman or Arabic in/over the role mark | **Right pauldron — Roman I–X inside / on the mark** | **Vexilla** number (**not** Codex company) |
 | **Company colour (trim)** | Trim colour = company | **Right rim** (pure line) | **Suppression / Ruin / Siege** rim (black / silver / gold) — *not* Codex 1st–10th company colours |
 | **Sergeant / officer rank** | Chevrons / bars on knee or pad | **Right knee** | Line / Sgt / Lt / Capt |
 | **Honours / campaign badges** | Laurels, skulls, scrolls | **Later sheet strip** — optional left knee | Deferred |
@@ -101,7 +101,7 @@ Cohort **is** the tactical role. **Roman + cohort symbol only.**
 | Plate | Filing |
 |-------|--------|
 | Left wolf · right up-arrow **VII** · gold rim · double chevron | Pure-line **Siege**, battleline, Vex. **VII**, **Sergeant** |
-| Left wolf · right black skull/gladii **X** · blank knee | **Shadows**, ***Decima***, **Line** |
+| Left wolf · right black skull/gladii **X** · blank knee | **Shadows**, **DECIMA**, **Line** |
 | Left wolf · right inverted-V **II** · black rim · captain bar | Pure-line **Suppression**, fire support, Vex. **II**, **Captain** |
 | Left wolf · right ivory eye-wolf **III** · triple chevron | **Silence**, Vex. **III**, **Lieutenant** |
 

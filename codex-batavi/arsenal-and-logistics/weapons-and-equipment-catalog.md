@@ -1,12 +1,12 @@
 # Catalog — weapons, shields, and signature gear
 
-## Chapter armory (line and Vexillatio)
+## Chapter armory (line and Vexilla)
 
 **Standard issue and theater bias** are no longer folded into this table. Use:
 
-- [vexillatio-operational-armory.md](vexillatio-operational-armory.md) — what each Vexillatio **leans toward** (bolter vs plasma, jump vs siege, etc.).  
-- [cohort-standard-kit.md](cohort-standard-kit.md) — Silence / Shadows (under Silence) / Stasis / Nullity **job kit**; *Quinta* **chainsword-primary** pure line (§6).  
-- [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — Legatus ***Alabarda Vexillum*** (four-field) and *Decima* **justice vexillum**.  
+- [vexillatio-operational-armory.md](vexillatio-operational-armory.md) — what each Vexilla **leans toward** (bolter vs plasma, jump vs siege, etc.).  
+- [cohort-standard-kit.md](cohort-standard-kit.md) — Silence / Shadows (under Silence) / Stasis / Nullity **job kit**; QVINTA **chainsword-primary** pure line (§6).  
+- [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — Legatus ***Alabarda* + Vexilla** (four-field) and DECIMA **justice vexillum**.  
 - [alabarda-head-groups.md](alabarda-head-groups.md) — *Alabarda* **head types** (Primus through Fulmen) and Legatus **bearer authority**.  
 - [frontier-patterns-primaris.md](frontier-patterns-primaris.md) — *World-pattern* names on **Primaris-grade** weapon classes.
 

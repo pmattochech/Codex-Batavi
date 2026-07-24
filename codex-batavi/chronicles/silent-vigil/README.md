@@ -28,7 +28,7 @@
 | **~045–085** | Brother civil war (two-power era) — *serial planned* | [valerian-heresy/SCAFFOLD.md](valerian-heresy/SCAFFOLD.md) |
 | **~091.M42** | Garmr's Shelf — Viggo imprint, **the Red Wolf** Type B | [viggo-the-heat-of-the-stone/INDEX.md](viggo-the-heat-of-the-stone/INDEX.md) |
 | **~092.M42** | **Contingency Axiom Lupus** — recognition → Ring → validation | [fracture-recognition/chapter.md](fracture-recognition/chapter.md) … [proof-of-chain/chapter.md](proof-of-chain/chapter.md) |
-| **~099.M42** | *Prima* post-campaign protocol (*No Distinction*) | [without-distinction/chapter.md](without-distinction/chapter.md) |
+| **~099.M42** | PRIMA post-campaign protocol (*No Distinction*) | [without-distinction/chapter.md](without-distinction/chapter.md) |
 
 *(Parked Elara / Viggo terminis beats — [outdated/elara-iron-venus/](../outdated/elara-iron-venus/README.md))*
 

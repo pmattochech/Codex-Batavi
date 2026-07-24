@@ -2,7 +2,7 @@
 
 **Status:** Ratified — 2026-07-22  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding)  
-**Seat:** Vexillatio VII (*Septima*) · Legatus: Lucan Phaetron  
+**Seat:** Vexilla SEPTIMA · Legatus: Lucan Phaetron  
 **Scope:** Mortal populi only — not full Vexilla doctrine. Chapter footprint via civilian habit until Phase B.  
 **Atlas / fork:** [system-ii-crucible.md](../systems/system-ii-crucible.md) · [worlds-crucible.md](worlds-crucible.md) § **Vitreus** · Legatus: [dossier-lucan-phaetron.md](../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md)  
 **Phase B bleed:** [septima-vitreus-culture-bleed.md](septima-vitreus-culture-bleed.md)  
@@ -129,7 +129,7 @@
 ### 0.5 Local mortal sin & Legatus read
 
 - **Local mortal sin — stray scatter:** Light, reflection, or photonic yield spent **outside** logged facet, approved angle, or sealed purpose — including vanity polish that doubles glare, unlogged scrap-lens diversion, false-route mirrors, and “pretty” telemetry that blinds workers. Enforced by refraction courts, Mechanicus yield auditors, PDF glare wardens, and district stamp booths. **Class-colored:** Rabble = stolen veil-minutes and illegal shade that dumps glare onto neighbors; Common = misfiled melt waste and open stare during vent windows; Upper = auctioned spectacle processions and off-books lens gifts that break treaty angles.
-- **Legatus public read — the Glass Burn:** Mortals name Lucan Phaetron as the seat’s **vent-window signer** — brightness without forgiveness for lazy eyes. Surface only: fear of careless plasma bloom, pride that *Septima* holds the glass, rumor of knuckle-click before hard calls. Not Chapter doctrine; not Null-Vent clinical file in populi mouths as sealed taxonomy — only “the Burn held the plate” folk memory after **112.M42** orbital gossip.
+- **Legatus public read — the Glass Burn:** Mortals name Lucan Phaetron as the seat’s **vent-window signer** — brightness without forgiveness for lazy eyes. Surface only: fear of careless plasma bloom, pride that SEPTIMA holds the glass, rumor of knuckle-click before hard calls. Not Chapter doctrine; not Null-Vent clinical file in populi mouths as sealed taxonomy — only “the Burn held the plate” folk memory after **112.M42** orbital gossip.
 
 ---
 
@@ -141,7 +141,7 @@ Mortal force on Vitreus is organized around **glare geometry**, **pan corridors*
 
 **Who dies first when the Wall is late:** ash berm rabble and unshielded pan scrubbers; then PDF glare pickets holding docks; Upper buy distance until cascade politics force them into sealed galleries that still crack.
 
-**Shared Sweat surfaces (civilian eyeline only):** melt-shift water shared with billeted Guard; glare-kit swaps during bloom locks; silent respect when *Septima* shadows a lens dock — mortals adapt routes, do not pray to Astartes. Parallel facet keys exist; doctrine does not.
+**Shared Sweat surfaces (civilian eyeline only):** melt-shift water shared with billeted Guard; glare-kit swaps during bloom locks; silent respect when SEPTIMA shadows a lens dock — mortals adapt routes, do not pray to Astartes. Parallel facet keys exist; doctrine does not.
 
 **By class**
 
@@ -280,13 +280,13 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 | **Adeptus Ministorum / Ecclesiarchy** | **Present** | Baptismal record and feast calendar intact; ash-side chapels and mute Mass compromises. Mortals meet priests who must bless veils or lose flock. Class: Rabble distrust dazzle; Common prefer booth; Upper patronage. Accent: clarity theology under God-Emperor words. Friction: Batavi Throne-weight misread as cold chapel. Sin: procession glare / spectacle scatter; soft charges escalate when yield dies. |
 | **Adeptus Arbites** | **Thin** | Concentrated on refraction courts, tithe diversion, and false angle stamps — not full hive policing. Mortals meet them as court muscle and shade-clearance. Class: hit Rabble hard in riots; Common as witnesses; Upper via counsel. Accent: instrument evidence over eyes. Batavi friction: rare joint dock seals. Sin: bribery of angle stamps; “accident” open-pan sentences watched. |
 | **Adeptus Mechanicus** (incl. local forge-priests) | **Core** | **Deep seat organ.** Lens sovereignty, photonic hub, blind laboratories, skitarii-adjacent factory chapels, orbital plate treaties, dual-stamp yield with Administratum. Mortals meet Mechanicus as weather with a voice: red-tag, melt schedule, guest labor, Magos-liaison porches, skitarii corridor clicks. **Class access:** Rabble scrub and fear; Common lay-tech and dock compliance; Upper Magos-liaison blood and Facet House guest ink; peak houses negotiate treaty language without owning forge throne. **Local accent:** prayers indistinguishable from maintenance schedules; beauty is instrument; “Compliance maximizes yield” as sermon-threat; palms scrubbed bloodless; eyes too bright or honestly veiled. **Lay strata:** lens clergy (civil-facing), forge-priests of the pan, crystal scribes, Magos-liaison clerks, skitarii-adjacent overseers. **Friction with Batavi shadow:** productive calibration hate — mortals feel cold courtesy when Astartes plasma doctrine is called “primitive”; after **112.M42** Null-Vent gossip, skitarii dead stay redacted under treaty while folk memory says *the Burn held the plate*. Dual seal culture (human tick / machine tick) leaks into civilian vent-bell habit without teaching Chapter law. **Sin in robe:** stray scatter as yield heresy; unlogged lens diversion; vanity polish; off-books mirror gifts; glass-eater cult when it steals silica feedstock; treating instrument lies as miracles. **Absence of full Forge World independence:** Vitreus is lab-sovereign under Crucible mesh, not a second Noviomagus — identity is **photonic instrument state**, not soot-capital geartrain. |
-| **Imperial Guard / Astra Militarum** (draft, billet, regiment links) | **Present** | Draft from melt guilds and ash berms; billets along lens docks and Shared Sweat water points. Mortals meet recruiters after yield shortfalls. Class: Rabble fodder; Common career NCO glare discipline; Upper officer houses. Accent: “trust instruments before eyes” drilled into auxilia. Batavi friction: route adaptation when *Septima* shadows docks. Sin: open tracer vanity that blinds spotter glass (folk rule); desertion during bloom lock. |
+| **Imperial Guard / Astra Militarum** (draft, billet, regiment links) | **Present** | Draft from melt guilds and ash berms; billets along lens docks and Shared Sweat water points. Mortals meet recruiters after yield shortfalls. Class: Rabble fodder; Common career NCO glare discipline; Upper officer houses. Accent: “trust instruments before eyes” drilled into auxilia. Batavi friction: route adaptation when SEPTIMA shadows docks. Sin: open tracer vanity that blinds spotter glass (folk rule); desertion during bloom lock. |
 | **Planetary Defense Force / local militia** | **Core** | Primary mortal force for glare pickets, dock wards, bloom locks. Mortals meet PDF as everyday kit police. Class-banded as §1. Accent: slow-eye patience, vent silence. Batavi: Shared Sweat pride. Sin: shade denial abuse; kit theft. |
 | **Imperial Navy** | **Thin** | Orbital plate escort and photonic cargo lanes; void crews hate Silica approaches (rumor, not this ethnography’s body). Mortals meet Navy as rare shore leave under smoked glass. Class: Upper charter families; Common dock handlers. Accent: quiet cockpit piety vs Vitreus glare sermons. Sin: unauthorized polish on hull that blooms reflection into docks. |
 | **Navis Nobilite / Navigator houses** | **Thin** | Insular chart-house traffic for Crucible transit; Vitreus is lab stop, not Navigator court capital. Mortals meet them as sealed sedan shadows and route fees. Class: Upper only for contracts; Common as dock rumor. Accent: “left is cheaper” diver wisdom sometimes quoted back at Nobilite arrogance. Sin: selling false mirror routes (prosecuted as scatter + void murder). |
 | **Adeptus Astra Telepathica / Astropaths** | **Thin** | Relay silence culture rhymes with vent mute; Choir presence limited by photonic noise budgets near sensitive forges. Mortals meet sealed towers and listen-only watches. Class: Upper patronage; Common mute habit without understanding. Batavi rumor: Librarium as “noise budget” risk near forges — folk echo only. Sin: unauthorized open *vox* during overcharge windows. |
 | **Inquisition** (any Ordo footprint mortals feel) | **Sealed/rumor only** | Mortals feel sudden lab quarantines and “industrial accident” silence after warp-touched optics scares (Foundation-era folk memory). No open Ordo street cult. Why sealed: treaty + Chapter seat politics keep inquisitorial feet quiet; absence of parade is itself pressure. |
-| **Officio Assassinorum** | **Absent** | No civic footprint mortals can name without inventing horror stories. Why: seat security is Mechanicus + *Septima* shadow + Arbites court muscle; Assassinorum myth used as parent threat, not institution. |
+| **Officio Assassinorum** | **Absent** | No civic footprint mortals can name without inventing horror stories. Why: seat security is Mechanicus + SEPTIMA shadow + Arbites court muscle; Assassinorum myth used as parent threat, not institution. |
 | **Adepta Sororitas** | **Absent** | No standing convent; visiting missions rare and culturally clumsy with mute-Mass preference. Why: ash/glare logistics and Mechanicus treaty density leave little convent real estate; locals file Sisters as off-world dazzle risk. |
 | **Adeptus Custodes** | **Absent** | No mortal-facing presence. Why: frontier lab world; golden vigil not part of civic imagination beyond myth. |
 | **Other Astartes Chapters** (guests, rivals, myths) | **Sealed/rumor only** | Guest-Chapter war stories exist as dock cant; no standing rival Chapter culture. Why: Cohors Batavorum seat shadow dominates Astartes read; outsiders remain rumor to protect treaty optics. |
@@ -296,7 +296,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 | **Criminal / underhive powers** (as civic fact) | **Present** | Shade cartels, scrap-lens diversions, illegal beauty dens, glass-eater remnants. Civic fact in ash berms and cooling crust undercities. Class: Rabble base; Common buyers; Upper hypocritical patrons. Sin: industrialized stray scatter. Arbites/PDF contest; Mechanicus red-tags feedstock theft hardest. |
 | **Glass-diver covenants** (seat-specific) | **Core** | Mortal guide orders — many blind young on purpose; highest practical status for honest impairment. Meet Astartes/auxilia as route sellers (hazard stamps, iodine). Class mobility ladder from Rabble apprentice to Common licensed guide; Upper patronage. Accent: “left is not left — cheaper.” Sin: selling false trenches; keeping sight while claiming empty-socket rates. |
 | **Refraction courts / lens notaries** (seat-specific) | **Core** | Jurisprudence as optics. Mortals meet them for contracts, shard confession, angle disputes. Bridge for Facet Houses. Sin: false instrument testimony; bribed facets. |
-| **Solaris-Alpha / Silica Field traffic** (seat-adjacent, Phase C stub — not full ethnography) | **Thin** | Mirror-row and Glass Belt rumor shapes Vitreus piety (*God is angle*). Wing stub: [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** — do not absorb as Phase A here. Mortals know blindfold pilgrim stories and field-widow PTSD cult gossip as imported weather. |
+| **Solaris-Alpha / Silica Field traffic** (seat-adjacent, Phase C stub — not full ethnography) | **Thin** | Mirror-row and Glass Belt rumor shapes Vitreus piety (*God is angle*). Wing stub: [worlds-crucible.md](worlds-crucible.md) § **SEPTIMA wing** — do not absorb as Phase A here. Mortals know blindfold pilgrim stories and field-widow PTSD cult gossip as imported weather. |
 
 ---
 
@@ -319,17 +319,17 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 
 **Bridge band color (if any):** Dark-Veil Facet Houses — *correct facet* + *face-hold*; notary porch soft power; guest ink without forge throne.  
 **Mortal → scene signal:** Smoked kit grade → plaque/angle stamp → who walks looking past glass → dark veil as status vs rag film as poverty.  
-**Wrong:** Ministorum ecstasy with open glare; treating dark veils as mere mourning fashion; Founding/progenitor gossip in populi mouths; collapsing Batavi into God-Emperor worship; full Silica Field culture dumped into Vitreus streets; clinical *Septima* vent doctrine as mortal catechism.  
+**Wrong:** Ministorum ecstasy with open glare; treating dark veils as mere mourning fashion; Founding/progenitor gossip in populi mouths; collapsing Batavi into God-Emperor worship; full Silica Field culture dumped into Vitreus streets; clinical SEPTIMA vent doctrine as mortal catechism.  
 **Right:** Instrument before eyes; stray scatter as shared sin word; Glass Burn as surface Legatus nickname; Shared Sweat veil-minutes; Facet House bridge without claiming Chapter billet; Mechanicus as Core weather with treaty coldness.
 
 ---
 
 ## 9. Related / deferred
 
-- Phase B bleed file: [`septima-vitreus-culture-bleed.md`](septima-vitreus-culture-bleed.md) — VII *Septima* ↔ Vitreus (ratified)  
-- Wing periphery (Phase C): [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** — Ignis-Minor / Solaris-Alpha / Silica Field stubs (inherit bleed; no separate wing bleed wiki)  
+- Phase B bleed file: [`SEPTIMA-vitreus-culture-bleed.md`](septima-vitreus-culture-bleed.md) — SEPTIMA ↔ Vitreus (ratified)  
+- Wing periphery (Phase C): [worlds-crucible.md](worlds-crucible.md) § **SEPTIMA wing** — Ignis-Minor / Solaris-Alpha / Silica Field stubs (inherit bleed; no separate wing bleed wiki)  
 - Sibling seats: do not absorb Aethelgard, Noviomagus, Incus forks, or Logus oral law  
-- **Silica Field / Solaris-Alpha:** Phase C stub under [worlds-crucible.md](worlds-crucible.md) § **VII *Septima* wing** — not a separate Phase A ethnography in this file  
+- **Silica Field / Solaris-Alpha:** Phase C stub under [worlds-crucible.md](worlds-crucible.md) § **SEPTIMA wing** — not a separate Phase A ethnography in this file  
 - Null-Vent folk memory (**112.M42**): surface orbital gossip only — chronicle/AAR remain sealed depth outside populi catechism  
 - Acceptance gate: Phase A §§0–9 complete; Phase B linked; Phase C wing linked without mixing Vexilla doctrine into populi body
 

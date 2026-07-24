@@ -13,7 +13,7 @@ Examples: *Noviomagus-pattern bolt rifle*, *Vitreus-pattern plasma incinerator*,
 - **World** = Legatus seat or proving ground that signed the acceptance trial.  
 - **Class** = common Adeptus Astartes / Primaris designation (American English in prose; game terms stay GW-canonical where used).
 
-A Marine may carry a **Khan-Bator-pattern flamer** while serving in Vex. II — logistics attached that weapon to the cell; theater bias is **modal**, not tattooed.
+A Marine may carry a **Khan-Bator-pattern flamer** while serving in SECVNDA — logistics attached that weapon to the cell; theater bias is **modal**, not tattooed.
 
 ---
 
@@ -30,19 +30,19 @@ A Marine may carry a **Khan-Bator-pattern flamer** while serving in Vex. II — 
 | **Vitreus** | Plasma incinerator, plasma pistol, las fusil | **Heat bleed** and lens-safe venting. |
 | **Maleventum / Reef** | Bolt carbine, combat shield pairing, power sword | **EM-hardened** auspex and tritium bias. |
 | **Marco de Vetra** | Boltstorm / sustained bolt packages, heavy bolter (tactical mount), missile launcher (tactical), melta, bolt carbine | **Relay-holder** maintenance: heat cycling for long bursts, **demo-safe** fusing, **laser-window** EM hygiene. |
-| **Singularity-Point** (Cerberus watch; not Legatus seat) | Instigator bolt carbine, melta rifle, neo-volkite caliver | **Rift-adjacent** trials; **low-volume** batches; strict accountability; issued to *Nona* rotations and specialist cells. |
+| **Singularity-Point** (Cerberus watch; not Legatus seat) | Instigator bolt carbine, melta rifle, neo-volkite caliver | **Rift-adjacent** trials; **low-volume** batches; strict accountability; issued to NONA rotations and specialist cells. |
 
-*Which Vexillatio leans on which family:* [vexillatio-operational-armory.md](vexillatio-operational-armory.md) §3.
+*Which Vexilla leans on which family:* [vexillatio-operational-armory.md](vexillatio-operational-armory.md) §3.
 
 ---
 
 ## 3. Melee taxonomy (Chapter convention)
 
-- **Power gladius:** default **line** thrust weapon aligned with *Second Blade* doctrine ([friction-geometry.md](../personae-command-index/doctrine-and-organs/friction-geometry.md)) — **except** *Quinta* pure line (below).  
-- **Chainsword:** **saw mass** — Ruin clearance, assault landings; on **Vex. V (*Quinta*)** the **primary melee** for **pure line** and jump-assault cells (Aethelgard storm culture, **Wild Hunt** closure tempo). **Not** the Shadows cohort default (**knife → gladius** under Silence).  
+- **Power gladius:** default **line** thrust weapon aligned with *Second Blade* doctrine ([friction-geometry.md](../personae-command-index/doctrine-and-organs/friction-geometry.md)) — **except** QVINTA pure line (below).  
+- **Chainsword:** **saw mass** — Ruin clearance, assault landings; on **QVINTA** the **primary melee** for **pure line** and jump-assault cells (Aethelgard storm culture, **Wild Hunt** closure tempo). **Not** the Shadows cohort default (**knife → gladius** under Silence).  
 - **Combat knife / power gladius (Shadows):** primary Shadow cohort melee everywhere, including Aethelgard — see [cohort-standard-kit.md](cohort-standard-kit.md) §2.  
-- **Power axe / power sword:** role- and theater-assigned; Vex. V and VIII modal.  
-- **Thunder hammer / power fist:** veteran sergeants, Ruin, Siege, and Vex. VI heavy cells.
+- **Power axe / power sword:** role- and theater-assigned; QVINTA and VIII modal.  
+- **Thunder hammer / power fist:** veteran sergeants, Ruin, Siege, and SEXTA heavy cells.
 
 ---
 

@@ -1,6 +1,6 @@
-# Vexillatio named characters — worksheet (backlog / not canon until dossiers exist)
+# Vexilla named characters — worksheet (backlog / not canon until dossiers exist)
 
-**Goal:** At least **one named character per Vexillatio** (*Prima*–*Decima*) for table identity, chronicles, and cross-links — without breaking [`.cursorrules`](../../../../.cursorrules) (**chronological blindness**, **personae locks**, **gene-line POV layers**).
+**Goal:** At least **one named character per Vexilla** (PRIMA–DECIMA) for table identity, chronicles, and cross-links — without breaking [`.cursorrules`](../../../../.cursorrules) (**chronological blindness**, **personae locks**, **gene-line POV layers**).
 
 **Registers:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) (Legatus seat ↔ theater) · [vexillationes-and-visual-summary.md](../../../arsenal-and-logistics/vexillationes-and-visual-summary.md) · [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3–§4.
 
@@ -17,20 +17,20 @@
 
 ## 2. Status matrix (*Strategium* number ↔ named figure)
 
-| Vex. | *Strategium* name | Primary anchor (theater) | Named character(s) today | Dossier(s) | Gap / next candidate role |
+| Seat | *Strategium* name | Primary anchor (theater) | Named character(s) today | Dossier(s) | Gap / next candidate role |
 |------|-------------------|---------------------------|---------------------------|------------|----------------------------|
-| **I** | *Prima* | Noviomagus Prime | **Corbec Ardens** (Legatus) · **Soren Riis** (Liaison-Praefect; billet *Prima*, Chapter-wide) | [dossier-corbec-ardens.md](../legati/dossier-corbec-ardens.md) · [dossier-soren-riis.md](../cohorts-and-detachments/dossier-soren-riis.md) | Optional: *Quarta*-style cohort exemplar beyond Riis |
-| **II** | *Secunda* | Castra-Vetera Prime | **Henric Kessler** (Legatus) | [dossier-henric-kessler.md](../legati/dossier-henric-kessler.md) | Optional: captain / Silence spotlight |
-| **III** | *Tertia* | Khan-Bator Prime | **Theron Brach** (Legatus) | [dossier-theron-brach.md](../legati/dossier-theron-brach.md) | Optional: Ruin division face |
-| **IV** | *Quarta* | Incus-Gravis sphere | **Orin Valestrand** (Legatus) · **Branimir Vorhalt** (*Decanus Primus*, Silence) | [dossier-orin-valestrand.md](../legati/dossier-orin-valestrand.md) · [dossier-branimir.md](../cohorts-and-detachments/dossier-branimir.md) | Optional: assault sergeant exemplar |
-| **V** | *Quinta* | Aethelgard Prime | **Armin Sturmwahl** (Legatus) · **Einar Dreadwolf** (Lieutenant) | [dossier-armin-sturmwahl.md](../legati/dossier-armin-sturmwahl.md) · [dossier-einar-dreadwolf.md](../cohorts-and-detachments/dossier-einar-dreadwolf.md) | — |
-| **VI** | *Sexta* | Bifrons-Ferrum | **Gervas Bifronte** (Legatus; **Siege Master**, ***Maior Caementarius***) | [dossier-gervas-bifronte.md](../legati/dossier-gervas-bifronte.md) | Optional: Indomitor line NCO · **Ferrum Cage** chronicle (backlog) |
-| **VII** | *Septima* | Vitreus | **Lucan Phaetron** (Legatus) | [dossier-lucan-phaetron.md](../legati/dossier-lucan-phaetron.md) | Optional: marksman cell lead |
-| **VIII** | *Octava* | Great Reef / Maleventum | **Ivar Malevent** (Legatus) | [dossier-ivar-malevent.md](../legati/dossier-ivar-malevent.md) | Optional: boarding *decanus* |
-| **IX** | *Nona* | Marco de Vetra | **Cassian Vetra** (Legatus) | [dossier-cassian-vetra.md](../legati/dossier-cassian-vetra.md) | Optional: Shouter crew chief |
-| **X** | *Decima* | Anchor guard (mobile) | **Alaric, Drusus, Varro, Kadmos, Otho** (supremes) · **Markus Graile** (Captain, line / instructor face) | [dossier-alaric.md](../triumvirate/dossier-alaric.md) · [dossier-drusus.md](../triumvirate/dossier-drusus.md) · [dossier-varro.md](../triumvirate/dossier-varro.md) · [dossier-kadmos.md](../council-orders/dossier-kadmos.md) · [dossier-otho.md](../council-orders/dossier-otho.md) · [dossier-markus-graile.md](../cohorts-and-detachments/dossier-markus-graile.md) | Optional: additional *Decima* blade |
+| **I** | PRIMA | Noviomagus Prime | **Corbec Ardens** (Legatus) · **Soren Riis** (Liaison-Praefect; billet PRIMA, Chapter-wide) | [dossier-corbec-ardens.md](../legati/dossier-corbec-ardens.md) · [dossier-soren-riis.md](../cohorts-and-detachments/dossier-soren-riis.md) | Optional: QVARTA-style cohort exemplar beyond Riis |
+| **II** | SECVNDA | Castra-Vetera Prime | **Henric Kessler** (Legatus) | [dossier-henric-kessler.md](../legati/dossier-henric-kessler.md) | Optional: captain / Silence spotlight |
+| **III** | TERTIA | Khan-Bator Prime | **Theron Brach** (Legatus) | [dossier-theron-brach.md](../legati/dossier-theron-brach.md) | Optional: Ruin division face |
+| **IV** | QVARTA | Incus-Gravis sphere | **Orin Valestrand** (Legatus) · **Branimir Vorhalt** (*Decanus Primus*, Silence) | [dossier-orin-valestrand.md](../legati/dossier-orin-valestrand.md) · [dossier-branimir.md](../cohorts-and-detachments/dossier-branimir.md) | Optional: assault sergeant exemplar |
+| **V** | QVINTA | Aethelgard Prime | **Armin Sturmwahl** (Legatus) · **Einar Dreadwolf** (Lieutenant) | [dossier-armin-sturmwahl.md](../legati/dossier-armin-sturmwahl.md) · [dossier-einar-dreadwolf.md](../cohorts-and-detachments/dossier-einar-dreadwolf.md) | — |
+| **VI** | SEXTA | Bifrons-Ferrum | **Gervas Bifronte** (Legatus; **Siege Master**, ***Maior Caementarius***) | [dossier-gervas-bifronte.md](../legati/dossier-gervas-bifronte.md) | Optional: Indomitor line NCO · **Ferrum Cage** chronicle (backlog) |
+| **VII** | SEPTIMA | Vitreus | **Lucan Phaetron** (Legatus) | [dossier-lucan-phaetron.md](../legati/dossier-lucan-phaetron.md) | Optional: marksman cell lead |
+| **VIII** | OCTAVA | Great Reef / Maleventum | **Ivar Malevent** (Legatus) | [dossier-ivar-malevent.md](../legati/dossier-ivar-malevent.md) | Optional: boarding *decanus* |
+| **IX** | NONA | Marco de Vetra | **Cassian Vetra** (Legatus) | [dossier-cassian-vetra.md](../legati/dossier-cassian-vetra.md) | Optional: Shouter crew chief |
+| **X** | DECIMA | Anchor guard (mobile) | **Alaric, Drusus, Varro, Kadmos, Otho** (supremes) · **Markus Graile** (Captain, line / instructor face) | [dossier-alaric.md](../triumvirate/dossier-alaric.md) · [dossier-drusus.md](../triumvirate/dossier-drusus.md) · [dossier-varro.md](../triumvirate/dossier-varro.md) · [dossier-kadmos.md](../council-orders/dossier-kadmos.md) · [dossier-otho.md](../council-orders/dossier-otho.md) · [dossier-markus-graile.md](../cohorts-and-detachments/dossier-markus-graile.md) | Optional: additional DECIMA blade |
 
-**Historical / expunged:** **Valerius** — First Legatus, **I** *Vexillatio*; [dossier-valerius.md](../expunged/dossier-valerius.md) — **do not** resurrect as active grid name without explicit plot.
+**Historical / expunged:** **Valerius** — First Legatus, **I** *Vexilla*; [dossier-valerius.md](../expunged/dossier-valerius.md) — **do not** resurrect as active grid name without explicit plot.
 
 ---
 
@@ -41,7 +41,7 @@
 
 **Rank:** …  
 **Chapter:** *Cohors Batavorum*.  
-**Operational home Vexillatio:** [N]th (*[Strategium name]*) — [primary anchor].  
+**Operational home Vexilla:** [N]th (*[Strategium name]*) — [primary anchor].  
 **Cohort / division (if applicable):** …
 
 ## 1. Appearance and physiology
@@ -57,10 +57,10 @@ Keep **dates** consistent with [master-chronology.md](../../events-and-chronolog
 
 ## 4. Suggested fill order (optional)
 
-1. **Vex. I Legatus** (or “Acting Warden of Noviomagus Prime”) — highest narrative leverage after Valerius.  
-2. **Vex. IX** — Marco de Vetra / Threshold voice (per your atlas emphasis).  
-3. Remaining **I–IX** Legati or captains in **theater order** you care about for upcoming chronicles.  
-4. **Vex. X** line exemplar — distinct from the five supremes.
+1. **PRIMA Legatus** (or “Acting Warden of Noviomagus Prime”) — highest narrative leverage after Valerius.  
+2. **NONA** — Marco de Vetra / Threshold voice (per your atlas emphasis).  
+3. Remaining **PRIMA–NONA** Legati or captains in **theater order** you care about for upcoming chronicles.  
+4. **DECIMA** line exemplar — distinct from the five supremes.
 
 ---
 
@@ -71,4 +71,4 @@ Keep **dates** consistent with [master-chronology.md](../../events-and-chronolog
 
 ---
 
-*Last reviewed: 2026-03-28. Matrix filled: Legati I–III, V–IX; *Decima* captain; existing I / IV / X anchors retained.*
+*Last reviewed: 2026-03-28. Matrix filled: Legati I–III, V–IX; DECIMA captain; existing I / IV / X anchors retained.*

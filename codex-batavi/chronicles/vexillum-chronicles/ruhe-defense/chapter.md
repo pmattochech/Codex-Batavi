@@ -3,9 +3,9 @@
 **Classification:** Foundation Archive — biological/tactical narrative (public register abridgment: [aar-vex-iv-ruhe-defense.md](../vexillum-register/aar-vex-iv-ruhe-defense.md))  
 **When:** 048.M42 (Golden Projection era — Drusus’s calibration years)  
 **Where:** Incus-Gravis theater — high-gravity **shingle** trenches, grav-locked revetments  
-**Who:** **IV** *Quarta* (primary holding element); *Medicinae* annex; viewpoint **Brother Branimir Vorhalt** (4th cohort, pre–*Decanus Primus* Silence certification)
+**Who:** **QVARTA** (primary holding element); *Medicinae* annex; viewpoint **Brother Branimir Vorhalt** (4th cohort, pre–*Decanus Primus* Silence certification)
 
-**Cross-references:** [dossier-orin-valestrand.md](../../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md) (Legatus, IV *Quarta*) · [dossier-branimir.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §III · [spiritus-broken-silence.md](../biologis-spiritus-foundation/spiritus-broken-silence/chapter.md) · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3
+**Cross-references:** [dossier-orin-valestrand.md](../../../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md) (Legatus, QVARTA) · [dossier-branimir.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-branimir.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §III · [spiritus-broken-silence.md](../biologis-spiritus-foundation/spiritus-broken-silence/chapter.md) · [vexilla-by-vexillatio-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3
 
 ---
 
@@ -13,7 +13,7 @@
 
 They did not see the hive fleet. They saw the **shadow** — pressure on auspex, on *vox*, on the animal brain that still lived under ceramite. The Tyranid did not need to be understood to be **felt**: a wrongness in the shingle sky, as if the rock itself had learned to **want**.
 
-**IV** *Quarta* had trained on Incus-Gravis until gravitic boots were not equipment but **habit**. On the trench spine, every step was a debit. The Legatus of the Fourth did not waste metaphors on the open channel.
+**QVARTA** had trained on Incus-Gravis until gravitic boots were not equipment but **habit**. On the trench spine, every step was a debit. The Legatus of the Fourth did not waste metaphors on the open channel.
 
 — **Hourly boot check. Report seal integrity. If your ankles sing, you’re already in debt.**
 
@@ -89,7 +89,7 @@ Losses sat in the *Strategium* **acceptable** envelope — a phrase that tastes 
 
 Years later, when Silence Cohort instructors spoke of **pattern** without Shadow in the Warp, they would cite men who had learned vigilance because biology **failed** to scream when it should.
 
-Branimir’s dossier would record **Noviomagus Secundus March of the Machine** and the **collective** stillness of the Fourth’s cohort — chronicle-lawyers argue whether that title maps **exactly** to this Incus-Gravis line or to a sister action in the same crusade season. The Chapter does not care for cartographers of pain. It cares that **IV** *Quarta* **held**.
+Branimir’s dossier would record **Noviomagus Secundus March of the Machine** and the **collective** stillness of the Fourth’s cohort — chronicle-lawyers argue whether that title maps **exactly** to this Incus-Gravis line or to a sister action in the same crusade season. The Chapter does not care for cartographers of pain. It cares that **QVARTA** **held**.
 
 ---
 

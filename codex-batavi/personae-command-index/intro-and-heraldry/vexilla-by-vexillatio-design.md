@@ -1,47 +1,47 @@
-# Vexilla by Vexillatio — design register
+# Vexilla by Vexilla — design register
 
-**Status:** **Locked** — ordinal, four-field layout, *Prima* shame, *Decima* justice charge (user decisions). Per-vex **greatest success** rows **II–IX** link to [vexillum-register](../../chronicles/vexillum-register/) after-actions unless marked otherwise.  
+**Status:** **Locked** — ordinal, four-field layout, PRIMA shame, DECIMA justice charge (user decisions). Per-vex **greatest success** rows **SECVNDA**–**NONA** link to [vexillum-register](../../chronicles/vexillum-register/) after-actions unless marked otherwise.  
 **Law:** [chapter-identity.md](chapter-identity.md) (wolf, gladius, waves, **no moon**); [visual-identity-paint-guide.md](../../visual-identity-paint-guide.md); halberd layout [`alabarda-vexillum-layout-reference.png`](../../lore-images/alabarda-vexillum-layout-reference.png). **Line-art stencil (2×2 fields, yard, inverted triple-merlon base — *castellum* flavor, optional in final paint):** [`vexillum-template-lineart-castellum.png`](../../lore-images/vexillum-template-lineart-castellum.png).
 
 ---
 
-## 1. Standard panel — four fields (Vex. II–IX)
+## 1. Standard panel — four fields (SECVNDA–NONA)
 
-Every **Legatus** *Alabarda Vexillum* for **2nd–9th Vexillatio** carries **four** readable images on the vertical face (quarters, stacked registers, or heraldic quarters — *Armourium* picks the stencil; logic is fixed):
+Every **Legatus** *Alabarda* + Vexilla for **SECVNDA–NONA** carries **four** readable images on the vertical face (quarters, stacked registers, or heraldic quarters — *Armourium* picks the stencil; logic is fixed):
 
 | # | Field | Content |
 |---|--------|--------|
 | **1** | **Chapter icon** | Canonical achievement: crimson roundel logic, rectilinear **white wolf**, **orange** lens triangles (**105°**), **white** horizontal **gladius** + black contour, **waves** (full or abbreviated). Same identity as [`chapter-seal-official.png`](../../lore-images/chapter-seal-official.png) (approved roundel crop — **not** an auto-crop from the full vexillum sheet). May **reduce** detail for scale, not **replace** charges. (Legacy flat trace: [`chapter-seal-canonical.png`](../../lore-images/chapter-seal-canonical.png) if present.) |
-| **2** | **Strategium ordinal** | **Large Roman numeral** (**II**–**IX**) — *Armourium* stencil, high contrast (e.g. **white** or **black** on crimson, or on a small **neutral canton**). Must read at distance and when half-furled. |
-| **3** | **Anchor / specialty** | **One** icon for the Vexillatio’s **seat world or war function** (industrial, law, chem, high-G, assault, siege, glass/plasma, void, relay) — **geometric / industrial** preference; avoid a second “chapter mascot.” |
-| **4** | **Greatest success** | **One** charge commemorating the **signal victory** or **defining hold** *Strategium* has certified for that Vexillatio’s public register — not vanity tallies; **audit-grade** honour. *See table §3.* **TBD** = reserve for a named operation you add in chronicles later. |
+| **2** | **Strategium ordinal** | **LATIN-CAPS** seat name (**PRIMA**–**NONA**) — *Armourium* stencil, high contrast (e.g. **white** or **black** on crimson, or on a small **neutral canton**). Must read at distance and when half-furled. Brothers speak this name alone (e.g. **QVINTA**), not “fifth Vexilla.” |
+| **3** | **Anchor / specialty** | **One** icon for the Vexilla’s **seat world or war function** (industrial, law, chem, high-G, assault, siege, glass/plasma, void, relay) — **geometric / industrial** preference; avoid a second “chapter mascot.” |
+| **4** | **Greatest success** | **One** charge commemorating the **signal victory** or **defining hold** *Strategium* has certified for that Vexilla’s public register — not vanity tallies; **audit-grade** honour. *See table §3.* **TBD** = reserve for a named operation you add in chronicles later. |
 
 **Furled:** Field **1** + **2** must remain visible on the outer roll; **3** + **4** may compress to **haft ring code** if relay doctrine demands minimal signature.
 
 ---
 
-## 2. Vexillatio I — *Prima* (same four slots, fourth = **shame**)
+## 2. PRIMA (same four slots, fourth = **shame**)
 
-*Prima* uses the **same four-field grid** but **field 4 is not triumph** — it is **permanent remembrance of failure** the First must **uphold and rectify**.
+PRIMA uses the **same four-field grid** but **field 4 is not triumph** — it is **permanent remembrance of failure** the First must **uphold and rectify**.
 
 | # | Field | Content |
 |---|--------|--------|
-| **1** | **Chapter icon** | As above — *Prima* is still *Cohors Batavorum*. |
-| **2** | **Ordinal** | **I** — large Roman numeral. |
+| **1** | **Chapter icon** | As above — PRIMA is still *Cohors Batavorum*. |
+| **2** | **Ordinal** | **PRIMA** — LATIN-CAPS seat name. |
 | **3** | **Anchor / specialty** | **Noviomagus / reference forge** — e.g. **gear segment**, **forge stack**, **caliper grid** (industrial baseline). |
 | **4** | **Greatest shame** | **Remembrance quadrant** — *not* the traitor’s glory. Suggested **visual grammar** (pick one or combine sparingly): **broken cog** (see §2.1); **expunged blank** where a name was struck; **ash horizon** stripe (**Malakor V**); **broken chain** link count **500** (lost brothers); **no** readable *Lupercal* titling — *Strategium* forbids lettering the crime as slogan. **Doctrine framing:** §2.2. |
 
-### 2.1 *Prima* border — broken cog
+### 2.1 PRIMA border — broken cog
 
 **Primary treatment:** **Cogwheel border** around the panel with **one tooth missing** or **the rim split** — **half-broken cog** reads as **industrial duty interrupted** by treason and **re-forged** under the Noviomagus re-seat.  
 
 **Fallback:** If the painter cannot land “broken half” at small scale, use **intact cog border** with a **single gap** (one tooth **not drawn** / **void**) at **six o’clock** — same meaning, simpler silhouette.
 
-### 2.2 *Prima* fourth field — why shame on the banner does not break the line
+### 2.2 PRIMA fourth field — why shame on the banner does not break the line
 
-**Design rule (legibility):** The remembrance quadrant stays **symbolic** — cog fracture, void plate, ash band, chain tally — so **outsiders** default to “industrial *Prima* mark”; **insiders** supply **debt**. *Strategium* forbids **slogan text** that names the traitor or *Lupercal* on the cloth; the wound is **geometry**, not a taunt enemies can quote across a kill-zone.
+**Design rule (legibility):** The remembrance quadrant stays **symbolic** — cog fracture, void plate, ash band, chain tally — so **outsiders** default to “industrial PRIMA mark”; **insiders** supply **debt**. *Strategium* forbids **slogan text** that names the traitor or *Lupercal* on the cloth; the wound is **geometry**, not a taunt enemies can quote across a kill-zone.
 
-**Induction line (mandatory brief, *Prima* transfers and neophyte orientation):**  
+**Induction line (mandatory brief, PRIMA transfers and neophyte orientation):**  
 > *“**Debt we carry — not a crime you committed.** The lattice failed once; your file starts under that weight so it does not happen again.”*
 
 *Reclusiam* may phrase it as liturgy; *Strategium* logs it as **aptitude receipt** — same sentence, no elaboration in formation (fits *Analytical Silence*).
@@ -50,38 +50,38 @@ Every **Legatus** *Alabarda Vexillum* for **2nd–9th Vexillatio** carries **fou
 
 **Friction (accepted):** Some battle-brothers **resent** flying another generation’s fracture; *Medicinae* and captains treat chronic **bitterness toward the vexillum** as **watch item**, not heresy — discipline only if it **breaks** fire geometry or order. That resentment is **usable fiction**: the standard is heavy **on purpose**, not because the Chapter mistakes humiliation for proof.
 
-**Benefit (why keep it):** The fourth field is **instrument** — **no denial** under smoke, **bounded guilt** (only *Prima* wears *Prima*’s scar), **forward** duty: *rectify*, not *atrophy*.
+**Benefit (why keep it):** The fourth field is **instrument** — **no denial** under smoke, **bounded guilt** (only PRIMA wears PRIMA’s scar), **forward** duty: *rectify*, not *atrophy*.
 
 ***Strategium* memorandum (obligation precedent, not a triumph AAR):** [memorandum-prima-rectification-precedent.md](../../chronicles/vexillum-register/memorandum-prima-rectification-precedent.md).
 
 ---
 
-## 3. Vexillatio II–IX — register table (success + icon hints)
+## 3. SECVNDA–NONA — register table (success + icon hints)
 
-**Narrative:** longform chronicles live in [vexillum-chronicles](../../chronicles/vexillum-chronicles/INDEX.md); **III** also uses [vigilax-incident.md](../../chronicles/vigilax/vigilax-incident/chapter.md) as companion to [vigilax-triangulation.md](../../chronicles/vexillum-chronicles/vigilax-triangulation/chapter.md); **VIII** uses [helbrecht-witness-ford-meeting.md](../../chronicles/audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) as companion to [witness-ford-octava.md](../../chronicles/vexillum-chronicles/witness-ford-octava/chapter.md). *Strategium* extracts: [vexillum-register](../../chronicles/vexillum-register/INDEX.md).
+**Narrative:** longform chronicles live in [vexillum-chronicles](../../chronicles/vexillum-chronicles/INDEX.md); **TERTIA** also uses [vigilax-incident.md](../../chronicles/vigilax/vigilax-incident/chapter.md) as companion to [vigilax-triangulation.md](../../chronicles/vexillum-chronicles/vigilax-triangulation/chapter.md); **OCTAVA** uses [helbrecht-witness-ford-meeting.md](../../chronicles/audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) as companion to [witness-ford-octava.md](../../chronicles/vexillum-chronicles/witness-ford-octava/chapter.md). *Strategium* extracts: [vexillum-register](../../chronicles/vexillum-register/INDEX.md).
 
-| Vex. | Anchor / specialty (field 3 — icon direction) | Greatest success (field 4) | Chronicle / note |
+| Seat | Anchor / specialty (field 3 — icon direction) | Greatest success (field 4) | Chronicle / note |
 |------|-----------------------------------------------|----------------------------|------------------|
-| **II** *Secunda* | **Lex grid / crosshair** — Castra-Vetera, measured fire | **Hive Dominus compliance** — ministry spires held **without** collateral breach; measured fire register | [hive-dominus-compliance.md](../../chronicles/vexillum-chronicles/hive-dominus-compliance/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-ii-hive-dominus-compliance.md) |
-| **III** *Tertia* | **Hazard chevron / silo cylinder** — Khan-Bator, chem–thermal | **Vigilax triangulation** — Legatus drew **kill-box geometry** with Drusus while Varro held the square | [vigilax-triangulation.md](../../chronicles/vexillum-chronicles/vigilax-triangulation/chapter.md) · [vigilax-incident.md](../../chronicles/vigilax/vigilax-incident/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-iii-vigilax-triangulation.md) |
-| **IV** *Quarta* | **Weighted chevron / grav boot** — Incus-Gravis high-G | **March defense** — static grav-locked line under **Tyranid** veil; *Strategium* cites as Quarta reference hold | [ruhe-defense.md](../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md) · [master-chronology.md](../events-and-chronologies/master-chronology.md) §III · **Working art (AI facsimile — not a geometry lock):** [`vexillum-vexillatio-iv-quarta.png`](../../lore-images/vexillum-vexillatio-iv-quarta.png) |
-| **V** *Quinta* | **Descent vector / drop slot** — Aethelgard assault | **Gutgrind Descent** — **V** *Quinta* **jump** clearance of Ork **scrap-spire** on shepherd moon **Selene-Black** (Aethelgard system); *post–mesh* certified triumph (Foundation War **Aethelgard opening** predates **field-4** register logic) | [gutgrind-descent.md](../../chronicles/vexillum-chronicles/gutgrind-descent/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-v-gutgrind-descent.md) |
-| **VI** *Sexta* | **Twin pillars / breach frame** — Bifrons-Ferrum siege | **Korvus breach** — **simultaneous** outer vault + inner spine on **twin** gulf forts (*heretic Astartes*–held); siege clock **single tick** | [korvus-twin-breach.md](../../chronicles/vexillum-chronicles/korvus-twin-breach/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-vi-korvus-breach.md) |
-| **VII** *Septima* | **Hex facet / lens disc** — Vitreus plasma | **Null-Vent Covenant** — **plasma** and **photonic** bleed **contained** without forgeship or hive **detonation**; *Armourium* reference discipline | [null-vent-covenant.md](../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-vii-null-vent-covenant.md) |
-| **VIII** *Octava* | **Porthole ring / static wave** — Reef, Maleventum void | **Witness Ford intercept** — joint **void** geometry with **Black Templars** transit; boarding **containment** of xenos pressure at outward choke | [witness-ford-octava.md](../../chronicles/vexillum-chronicles/witness-ford-octava/chapter.md) · [helbrecht-witness-ford-meeting.md](../../chronicles/audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-viii-witness-ford-intercept.md) |
-| **IX** *Nona* | **Pulse ladder / array mast** — Marco de Vetra relay | **Silent Hours** — **relay** and **laser farm** held until **Shouter** traffic **cleared** Maleventum-class hash; denial of **intact capture** | [silent-hours-marco-de-vetra.md](../../chronicles/vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-ix-silent-hours.md) · [dossier-cassian-vetra.md](../character-dossiers/legati/dossier-cassian-vetra.md) |
+| **SECVNDA** | **Lex grid / crosshair** — Castra-Vetera, measured fire | **Hive Dominus compliance** — ministry spires held **without** collateral breach; measured fire register | [hive-dominus-compliance.md](../../chronicles/vexillum-chronicles/hive-dominus-compliance/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-ii-hive-dominus-compliance.md) |
+| **TERTIA** | **Hazard chevron / silo cylinder** — Khan-Bator, chem–thermal | **Vigilax triangulation** — Legatus drew **kill-box geometry** with Drusus while Varro held the square | [vigilax-triangulation.md](../../chronicles/vexillum-chronicles/vigilax-triangulation/chapter.md) · [vigilax-incident.md](../../chronicles/vigilax/vigilax-incident/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-iii-vigilax-triangulation.md) |
+| **QVARTA** | **Weighted chevron / grav boot** — Incus-Gravis high-G | **March defense** — static grav-locked line under **Tyranid** veil; *Strategium* cites as **QVARTA** reference hold | [ruhe-defense.md](../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-iv-ruhe-defense.md) · [master-chronology.md](../events-and-chronologies/master-chronology.md) §III · **Working art (AI facsimile — not a geometry lock):** [`vexillum-Vexilla-iv-QVARTA.png`](../../lore-images/vexillum-Vexilla-iv-quarta.png) |
+| **QVINTA** | **Descent vector / drop slot** — Aethelgard assault | **Gutgrind Descent** — **QVINTA** **jump** clearance of Ork **scrap-spire** on shepherd moon **Selene-Black** (Aethelgard system); *post–mesh* certified triumph (Foundation War **Aethelgard opening** predates **field-4** register logic) | [gutgrind-descent.md](../../chronicles/vexillum-chronicles/gutgrind-descent/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-v-gutgrind-descent.md) |
+| **SEXTA** | **Twin pillars / breach frame** — Bifrons-Ferrum siege | **Korvus breach** — **simultaneous** outer vault + inner spine on **twin** gulf forts (*heretic Astartes*–held); siege clock **single tick** | [korvus-twin-breach.md](../../chronicles/vexillum-chronicles/korvus-twin-breach/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-vi-korvus-breach.md) |
+| **SEPTIMA** | **Hex facet / lens disc** — Vitreus plasma | **Null-Vent Covenant** — **plasma** and **photonic** bleed **contained** without forgeship or hive **detonation**; *Armourium* reference discipline | [null-vent-covenant.md](../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-vii-null-vent-covenant.md) |
+| **OCTAVA** | **Porthole ring / static wave** — Reef, Maleventum void | **Witness Ford intercept** — joint **void** geometry with **Black Templars** transit; boarding **containment** of xenos pressure at outward choke | [witness-ford-octava.md](../../chronicles/vexillum-chronicles/witness-ford-octava/chapter.md) · [helbrecht-witness-ford-meeting.md](../../chronicles/audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-viii-witness-ford-intercept.md) |
+| **NONA** | **Pulse ladder / array mast** — Marco de Vetra relay | **Silent Hours** — **relay** and **laser farm** held until **Shouter** traffic **cleared** Maleventum-class hash; denial of **intact capture** | [silent-hours-marco-de-vetra.md](../../chronicles/vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) · [AAR](../../chronicles/vexillum-register/aar-vex-ix-silent-hours.md) · [dossier-cassian-vetra.md](../character-dossiers/legati/dossier-cassian-vetra.md) |
 
 *New certified ops:* add chronicle + AAR + one line in [master-chronology.md](../events-and-chronologies/master-chronology.md); bump this table.
 
 ---
 
-## 4. Vexillatio X — *Decima* (anchor guard): **justice vexillum**
+## 4. DECIMA (anchor guard): **justice vexillum**
 
-**Not** a Legatus *Alabarda* clone. *Decima* flies a **separate battle standard** (Castellan escort / *Strategium* reserve) whose **dominant charge** is:
+**Not** a Legatus *Alabarda* clone. DECIMA flies a **separate battle standard** (Castellan escort / *Strategium* reserve) whose **dominant charge** is:
 
 > **A feral wolf — transhuman lupine monstrosity, not the clean chapter stencil — transfixed or slain by a sword** (gladius-type, **white** blade / **black** contour to echo the seal’s blade law).
 
-**Meaning (register language):** execution of **First Legatus treason** — the **death of Valerius’s path** (*Lupercal* claim, I Vexillatio rot) by **Triumvirate will** and the Castellan’s blade at **Malakor V**. It is **not** a trophy skin; it is **doctrine made cloth** — *Varro*’s oath and the Cull geometry in heraldic form.
+**Meaning (register language):** execution of **First Legatus treason** — the **death of Valerius’s path** (*Lupercal* claim, PRIMA rot) by **Triumvirate will** and the Castellan’s blade at **Malakor V**. It is **not** a trophy skin; it is **doctrine made cloth** — *Varro*’s oath and the Cull geometry in heraldic form.
 
 **Companion fields (still four, but hierarchy flips):**
 
@@ -89,10 +89,10 @@ Every **Legatus** *Alabarda Vexillum* for **2nd–9th Vexillatio** carries **fou
 |----------|--------|--------|
 | **Dominant** | **Justice charge** | Feral wolf **killed by sword** (as above). |
 | **Secondary** | **Chapter icon** | Reduced seal or **wolf head only** — must not compete with the justice scene; often **chief** strip or **fly** quarter. |
-| **Tertiary** | **Ordinal** | **X** — Roman ten; can be **stamped** on haft or **small canton** so the central image stays the wolf and blade. |
+| **Tertiary** | **Ordinal** | **DECIMA** — LATIN-CAPS; can be **stamped** on haft or **small canton** so the central image stays the wolf and blade. |
 | **Quaternary** | **Anchor** | **Triumvirate / anchor guard** — minimal **three-dot** or **triangle** (Wall–Scalpel–Judge) **or** plain **grey band** (*instrumentum*). |
 
-**Bearer:** Typically **senior *Decima* Ancient-equivalent** or **Castellan honour guard** — *not* interchangeable with Legatus *Alabarda* logistics; relay rules may **differ** (Triumvirate net).
+**Bearer:** Typically **senior DECIMA Ancient-equivalent** or **Castellan honour guard** — *not* interchangeable with Legatus *Alabarda* logistics; relay rules may **differ** (Triumvirate net).
 
 ***Armourium* / *Reclusiam* register annex (justice charge precedent):** [register-decima-malakor-justice.md](../../chronicles/vexillum-register/register-decima-malakor-justice.md). **Narrative (051.M42 commission):** [decima-justice-vexillum.md](../../chronicles/silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md). **Sentence:** [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md).
 
@@ -100,26 +100,26 @@ Every **Legatus** *Alabarda Vexillum* for **2nd–9th Vexillatio** carries **fou
 
 ## 5. Superseded notes
 
-* Earlier **three-layer** (spine / ordinal / single theater cue) model is **folded into** the **four-field** system: theater lives in **field 3**, triumph (or *Prima* shame / *Decima* justice) in **field 4**.  
-* Ordinal fork: **big Roman numeral** — **locked**.
+* Earlier **three-layer** (spine / ordinal / single theater cue) model is **folded into** the **four-field** system: theater lives in **field 3**, triumph (or PRIMA shame / DECIMA justice) in **field 4**.  
+* Ordinal fork: **LATIN-CAPS seat name** (**PRIMA**…**DECIMA**) — **locked**.
 
 ---
 
 ## 6. Related
 
-* [alabarda-head-groups.md](../../arsenal-and-logistics/alabarda-head-groups.md) — *Alabarda* **head groups** per Vexillatio (I–IX); bearer authority; cloth unchanged  
-* [chapter-identity.md](chapter-identity.md) — *Alabarda Vexillum* doctrine  
-* [military-hierarchy.md](../doctrine-and-organs/military-hierarchy.md) §3 — Legatus / *Decima*  
+* [alabarda-head-groups.md](../../arsenal-and-logistics/alabarda-head-groups.md) — *Alabarda* **head groups** per Vexilla (**PRIMA–NONA**); detach/plant law; bearer authority; cloth identity unchanged  
+* [chapter-identity.md](chapter-identity.md) — *Alabarda* + Vexilla doctrine  
+* [military-hierarchy.md](../doctrine-and-organs/military-hierarchy.md) §3 — Legatus / DECIMA  
 * [vexillationes-and-visual-summary.md](../../arsenal-and-logistics/vexillationes-and-visual-summary.md) — quick ref  
 * [visual-identity-paint-guide.md](../../visual-identity-paint-guide.md) — palette / panel notes  
 * [infantry-visual-identity.md](../../arsenal-and-logistics/infantry-visual-identity.md) — plate + vexillum cross-read  
-* [GLOSSARY-EN.md](../../GLOSSARY-EN.md) — *Alabarda Vexillum*, *justice vexillum*  
+* [GLOSSARY-EN.md](../../GLOSSARY-EN.md) — *Alabarda* + Vexilla, *justice vexillum*  
 * [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) — Legatus / *Alabarda* career lattice  
 * [dossier-valerius.md](../character-dossiers/expunged/dossier-valerius.md) — expunged First Legatus  
 * [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md) — execution context
 * [vexillum-register/](../../chronicles/vexillum-register/) — *Strategium* after-action memoranda for **field 4** certified actions  
-* [vexillum-chronicles/](../../chronicles/vexillum-chronicles/INDEX.md) — longform narratives (**III** / **VIII** pair with [vigilax-incident.md](../../chronicles/vigilax/vigilax-incident/chapter.md) / [helbrecht-witness-ford-meeting.md](../../chronicles/audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md); **X** *Decima* justice cloth: [decima-justice-vexillum.md](../../chronicles/silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md); Malakor sentence: [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md))
+* [vexillum-chronicles/](../../chronicles/vexillum-chronicles/INDEX.md) — longform narratives (**III** / **VIII** pair with [vigilax-incident.md](../../chronicles/vigilax/vigilax-incident/chapter.md) / [helbrecht-witness-ford-meeting.md](../../chronicles/audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md); **DECIMA** justice cloth: [decima-justice-vexillum.md](../../chronicles/silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md); Malakor sentence: [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md))
 
 ---
 
-*Last locked: 2026-03-28 — four-field layout; *Prima* shame + broken cog; *Prima* doctrine §2.2; *Decima* feral wolf slain by sword; V *Quinta* field 4 = **Gutgrind Descent** (Orks), not Foundation War / Aethelgard-opening closure.*
+*Last locked: 2026-03-28 — four-field layout; PRIMA shame + broken cog; PRIMA doctrine §2.2; DECIMA feral wolf slain by sword; QVINTA field 4 = **Gutgrind Descent** (Orks), not Foundation War / Aethelgard-opening closure.*

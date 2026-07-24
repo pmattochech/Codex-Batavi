@@ -120,7 +120,7 @@ You feel it in the way threats stop spreading freely. In the way paths begin to 
 
 We ran the last stretch under fire.
 
-Not a coordinated volley. Not a Vexillatio response. Sporadic shots from behind ribs and pits, as if the theater were still trying to reduce witness to one voice before it was too late.
+Not a coordinated volley. Not a Vexilla response. Sporadic shots from behind ribs and pits, as if the theater were still trying to reduce witness to one voice before it was too late.
 
 Brann stumbled once. His left leg failed for half a second and he caught himself on the halberd shaft I shoved back toward him.
 

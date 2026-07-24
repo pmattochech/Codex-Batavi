@@ -1,4 +1,4 @@
-# REGISTER ANNEX — *Decima* justice vexillum (Malakor precedent)
+# REGISTER ANNEX — DECIMA justice vexillum (Malakor precedent)
 
 **Classification:** *Armourium* / *Reclusiam* — non-*Alabarda* standard  
 **Date filed:** 051.M42 (supplement to 050.M42 event)  
@@ -14,14 +14,14 @@
 
 ## II. Register meaning (cloth)
 
-The justice vexillum is not a battle honour in the **II–IX** sense. It is doctrine made cloth:
+The justice vexillum is not a battle honour in the **SECVNDA–NONA** sense. It is doctrine made cloth:
 
 - Feral wolf — transhuman lupine monstrosity, not the clean chapter stencil.
 - White blade / black-contour gladius — echoes seal law; execution of treason’s path, not a trophy skin.
 
 ## III. Bearer protocol
 
-Typically senior *Decima* Ancient-equivalent or Castellan honour guard — not interchanged with Legatus *Alabarda* logistics.
+Typically senior DECIMA Ancient-equivalent or Castellan honour guard — not interchanged with Legatus *Alabarda* logistics.
 
 ## IV. Cross-reference
 

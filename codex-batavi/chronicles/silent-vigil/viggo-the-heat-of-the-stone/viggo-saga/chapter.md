@@ -6,7 +6,7 @@ The storm on Garmr’s Shelf was not weather; it was natural machining. Wind car
 
 Garmr’s Shelf sat on the Nihilus-facing fringe lanes near **Witness Ford**, close enough to Castra Vetera for hard resupply, far enough to be eaten by bad astropathic weather and delayed mercy. A Space Wolves hunt-presence had held the ice belts for years; Fenrisian wolf lines had followed war and stayed.
 
-Alaric was not alone on the ice — only alone by choice. *Decima* was in-theater with him, distributed by kill geometry: Markus Graile and twelve anchor-guard brothers held the melt-line redoubt, two recon pairs screened ridge approaches, and a reserve file secured exfil vectors to the landing corridor. When Alaric chose a solitary descent anyway, those dispositions became witness points, not protection.
+Alaric was not alone on the ice — only alone by choice. DECIMA was in-theater with him, distributed by kill geometry: Markus Graile and twelve anchor-guard brothers held the melt-line redoubt, two recon pairs screened ridge approaches, and a reserve file secured exfil vectors to the landing corridor. When Alaric chose a solitary descent anyway, those dispositions became witness points, not protection.
 
 On command net the choice became explicit.
 
@@ -108,13 +108,13 @@ At the collar seam under the helm, he opened the service slot, set the runt insi
 
 Only then did he move toward Dravic’s unit.
 
-At the ridge perch, *Decima* did not break formation, but every posture tightened by millimeters. Dravic’s gauntlet closed on his sword hilt by reflex and stayed there, blade sheathed, hand shaking hard enough to rattle knuckle seals. Alaric looked once at him and understood exactly what had been witnessed.
+At the ridge perch, DECIMA did not break formation, but every posture tightened by millimeters. Dravic’s gauntlet closed on his sword hilt by reflex and stayed there, blade sheathed, hand shaking hard enough to rattle knuckle seals. Alaric looked once at him and understood exactly what had been witnessed.
 
 — Return to the redoubt and hold there, Sergeant. Move to Delta-Seven on my six-minute mark.
 
 No one answered at once. Dravic gave a single, stiff nod.
 
-Six minutes later, on Alaric’s mark, *Decima* shifted from redoubt hold to Delta-Seven.
+Six minutes later, on Alaric’s mark, DECIMA shifted from redoubt hold to Delta-Seven.
 
 At Delta-Seven — a wind-scoured service hollow between the ravine mouth and the melt-line approach — heavy boots crushed snow as allied signatures closed fast.
 
@@ -156,13 +156,13 @@ He did not take the engagement.
 
 Sergeant Dravic took it for him.
 
-The warning came across Delta-Seven in one clipped burst, then *Decima* moved with drill-cold precision: two brothers to the left cut, two to the right, Dravic in the center lane with shield braced and sword low. The first Genestealer erupted from permafrost and hit the sergeant’s guard; Dravic absorbed the impact, rotated off-line, and fed it to his flanking pair’s crossfire. The second died to a close-range execution burst that painted the snow violet. The third tried the collar line on Alaric anyway and found Dravic’s blade instead, edge biting through wrist, throat, and spine in one continuous arc.
+The warning came across Delta-Seven in one clipped burst, then DECIMA moved with drill-cold precision: two brothers to the left cut, two to the right, Dravic in the center lane with shield braced and sword low. The first Genestealer erupted from permafrost and hit the sergeant’s guard; Dravic absorbed the impact, rotated off-line, and fed it to his flanking pair’s crossfire. The second died to a close-range execution burst that painted the snow violet. The third tried the collar line on Alaric anyway and found Dravic’s blade instead, edge biting through wrist, throat, and spine in one continuous arc.
 
 It lasted seconds. No theatrics. No hunt-cry. Just line function executed under pressure.
 
-Alaric remained in place while *Decima* finished the kill geometry around him, chest lifting hard under exhausted servos. He did not collapse. He endured.
+Alaric remained in place while DECIMA finished the kill geometry around him, chest lifting hard under exhausted servos. He did not collapse. He endured.
 
-Dravic stepped back into Alaric’s front arc, breathing heavy through his grille, visor flecked with xenos blood. He looked once to the collar seam, once to the Lord Castellan, and said the old *Decima* jargon like a verdict:
+Dravic stepped back into Alaric’s front arc, breathing heavy through his grille, visor flecked with xenos blood. He looked once to the collar seam, once to the Lord Castellan, and said the old DECIMA jargon like a verdict:
 
 — We hold, for those who can't.
 

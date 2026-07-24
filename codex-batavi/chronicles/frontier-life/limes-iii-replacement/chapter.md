@@ -12,9 +12,9 @@ In the *Strategium* shell, **Varro** and **Drusus** did not *debate*; they *weig
 
 — I will not waste a captive mind on a guest I can drown in *ink*, — Varro returned — *yet* the *ink* is *already* *wet*.
 
-A relay crossed to the *Fifth*; the **Legatus of the *Quinta*** received no theatrics, only a *weight* *tick* and a *Strategium* *request* to *hold* *Vexillatio* lanes *uncrossed* until a Castellan *closed* a *mouth* *or* *opened* a *bore*.
+A relay crossed to the *Fifth*; the **Legatus of the QVINTA** received no theatrics, only a *weight* *tick* and a *Strategium* *request* to *hold* *Vexilla* lanes *uncrossed* until a Castellan *closed* a *mouth* *or* *opened* a *bore*.
 
-*IX* *Nona* *gave* *a* *courteous* *hail* the *way* a *node* *gives* a *courteous* *hail* *when* it *asks* a *name* to *be* *answered* *without* a *theater* *Munitorum* *lenses* *can* *sell* to *Terra*'s* *distant* *deputies* as a *Limes* *breeze* that is *only* *weather* *until* a *Crown* *tastes* a *Limes* *gut* the way a *bore* *tastes* a *rivet* and *discovers* a *Limes* *breeze* *can* *be* a *mouth* *too*. *The* *answer* *was* *not* *the* *crackle* a *bureaucracy* *calls* *jam*; *jam* is *a* *coincidence* *a* *clerk* *can* *sigh* *over* *dressed* *as* *wiring* *failure*.
+*IX* NONA *gave* *a* *courteous* *hail* the *way* a *node* *gives* a *courteous* *hail* *when* it *asks* a *name* to *be* *answered* *without* a *theater* *Munitorum* *lenses* *can* *sell* to *Terra*'s* *distant* *deputies* as a *Limes* *breeze* that is *only* *weather* *until* a *Crown* *tastes* a *Limes* *gut* the way a *bore* *tastes* a *rivet* and *discovers* a *Limes* *breeze* *can* *be* a *mouth* *too*. *The* *answer* *was* *not* *the* *crackle* a *bureaucracy* *calls* *jam*; *jam* is *a* *coincidence* *a* *clerk* *can* *sigh* *over* *dressed* *as* *wiring* *failure*.
 
 *A* *sealed* *packet* *moved* *on* the *Falange* of *Nine* *mesh* — *three* *by* *three*, a *tourism* of *grids* *Crown* *chancelleries* *love* *on* parchments *Noviomagus* *billets* *as* *a* *throat* the *Munitorum* *row* *must* *count* *honestly* *before* a *Vermilion* *annex* *nicks* a *Limes* *tongue* and *Crown* *arithmetic* *learns* a *Limes* *gut* the way a *bore* *keeps* a *rivet* *tight* *until* a *seal* *fails* *or* a *fist* *tightens* *first*.
 

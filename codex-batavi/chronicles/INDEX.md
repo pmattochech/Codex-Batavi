@@ -17,14 +17,14 @@
 **Index:** [traitor-first-contact/INDEX.md](traitor-first-contact/INDEX.md)
 
 - [cellar-tenant](traitor-first-contact/cellar-tenant/chapter.md) — Word Bearers (Kharax / Malethor) first contact; Varro unnamed; cellar tenant / Neverborn cringe
-- [claim-denied](traitor-first-contact/claim-denied/chapter.md) — Haarken Worldclaimer / Gloomtalons first contact; Corbec + *Prima* (unnamed); claim vs gauge
+- [claim-denied](traitor-first-contact/claim-denied/chapter.md) — Haarken Worldclaimer / Gloomtalons first contact; Corbec + PRIMA (unnamed); claim vs gauge
 - [uninvited-road](traitor-first-contact/uninvited-road/chapter.md) — Otho / Haruspices / Nullity vs Thousand Sons (Vhorak); Witness Ford coffin shard; insult scar-names
-- [wasted-talent](traitor-first-contact/wasted-talent/chapter.md) — Iron Warriors vs Bifronte/*Sexta* vault armory; “Wasted Talent.”
-- [dead-meat](traitor-first-contact/dead-meat/chapter.md) — World Eaters (Khâdor/Skarvak) wiped by Armin/*Quinta*; Alpha Legion invisible scope-file; Silence ivory eye-lock handoff; “dead meat.”
-- [nothing-too-perfect](traitor-first-contact/nothing-too-perfect/chapter.md) — Silence + *Secunda*/Kessler vs Alpha Legion; dual-POV; Valens Ritter dual-path; “nothing too perfect.”
+- [wasted-talent](traitor-first-contact/wasted-talent/chapter.md) — Iron Warriors vs Bifronte/SEXTA vault armory; “Wasted Talent.”
+- [dead-meat](traitor-first-contact/dead-meat/chapter.md) — World Eaters (Khâdor/Skarvak) wiped by Armin/QVINTA; Alpha Legion invisible scope-file; Silence ivory eye-lock handoff; “dead meat.”
+- [nothing-too-perfect](traitor-first-contact/nothing-too-perfect/chapter.md) — Silence + SECVNDA/Kessler vs Alpha Legion; dual-POV; Valens Ritter dual-path; “nothing too perfect.”
 - [no-joy](traitor-first-contact/no-joy/chapter.md) — Night Lords (Skain / Lord Mordren Vhaal) vs Batavi Shadows; *Saint Oriel Beckoning*; “Stay away from Castra Vetera.”
-- [no-encore](traitor-first-contact/no-encore/chapter.md) — Emperor’s Children (Vael Syrinx / Lirion) vs Lucan/*Septima* + Stasis; Vitreus; silent greys; “no encore.”
-- [oxygen-debt](traitor-first-contact/oxygen-debt/chapter.md) — Death Guard (Gholrax) vs Brach/*Tertia* + Orin/*Quarta* + Nullity; silo portal; “oxygen debt.”
+- [no-encore](traitor-first-contact/no-encore/chapter.md) — Emperor’s Children (Vael Syrinx / Lirion) vs Lucan/SEPTIMA + Stasis; Vitreus; silent greys; “no encore.”
+- [oxygen-debt](traitor-first-contact/oxygen-debt/chapter.md) — Death Guard (Gholrax) vs Brach/TERTIA + Orin/QVARTA + Nullity; silo portal; “oxygen debt.”
 
 ## green-tempest
 
@@ -124,13 +124,13 @@
 - [helbrecht-witness-ford-meeting.md](audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) ✅ — **096.M42 | Silent Vigil.** First Helbrecht–Alaric meeting at **Witness Ford**; Templar crusade, xenos attack at the choke, *We hold*; faith vs. geometry. *(Parked: echoes in [wolf-daughter/chapter.md](outdated/elara-iron-venus/iron-venus/wolf-daughter/chapter.md) — OUTDATED.)*
 
 *Space Wolves ↔ Alaric:* **active policy** [`space-wolves-relations.md`](../political-relations/space-wolves-relations.md) · **legacy prose / kit** [outdated/space-wolves-alaric-relations/INDEX.md](outdated/space-wolves-alaric-relations/INDEX.md)
-- [witness-ford-octava.md](vexillum-chronicles/witness-ford-octava/chapter.md) — **VIII** *Octava* / *Alabarda* field 4 lens: **Ivar Malevent**, ford net, nested fire with Black Templars; companion to *helbrecht-witness-ford-meeting*.
+- [witness-ford-octava.md](vexillum-chronicles/witness-ford-octava/chapter.md) — **OCTAVA** / *Alabarda* field 4 lens: **Ivar Malevent**, ford net, nested fire with Black Templars; companion to *helbrecht-witness-ford-meeting*.
 
 ## frontier-life
 
 **Index:** [frontier-life/INDEX.md](frontier-life/INDEX.md)
 
-- [limes-renegade-resupply.md](frontier-life/limes-renegade-resupply/chapter.md) — **Limes** resupply purge: *Ash Standard* (guest renegade Chapter); **§I** dock *texture* + **Serun Orach**; time-bait **§II**; *Strategium* / *Nona* **§III**; gallery **§IV**; **Silence** / **Shadow**, *Decima* **§V**; **Asterion Moloc** + **Kadmos** hulks **§VI**; seventy-two-hour strike **§VII** (**\*\*\*.M42** date TBD)
+- [limes-renegade-resupply.md](frontier-life/limes-renegade-resupply/chapter.md) — **Limes** resupply purge: *Ash Standard* (guest renegade Chapter); **§I** dock *texture* + **Serun Orach**; time-bait **§II**; *Strategium* / NONA **§III**; gallery **§IV**; **Silence** / **Shadow**, DECIMA **§V**; **Asterion Moloc** + **Kadmos** hulks **§VI**; seventy-two-hour strike **§VII** (**\*\*\*.M42** date TBD)
 - [tithe-of-the-rejected.md](frontier-life/tithe-of-the-rejected/chapter.md) — includes ***The Tithe of the Rejected***
 - [witness-inheritance-vignettes.md](frontier-life/witness-inheritance-vignettes/chapter.md) — vignettes: proximity substrata; forge/pier/bell/threshold habit; slow adoption of Castra Vetera rites (**ca.** 046–118.M42 band)
 - [porta-nihili-mortals-triptych.md](frontier-life/porta-nihili-mortals-triptych/chapter.md) — **mortal POV** triptych: Noviomagus **Throne receipt** / Aethelgard **salt-in-the-ration** / Great Reef **strait house** (**bottle creole**, Astartes offstage)
@@ -151,7 +151,7 @@
 **Span:** **074.M42 – 168.M42** — **Lieutenant Einar Dreadwolf** (*Amissi*); Judex watch; **closed arc** (KIA Luna Sigma). *Vermilion* adjunct — **not** *Alabarda* field 4.
 
 - [kzorns-maw/chapter.md](dreadwolf/kzorns-maw/chapter.md) — **074.M42** capture; Shepherd’s Hook, conscious Nails, **Kzorn’s Maw**.
-- [red-tide/chapter.md](dreadwolf/red-tide/chapter.md) — **074.M42** Moraine-Nine recovery; ***Quinta* cadence**; *Amissi* founding.
+- [red-tide/chapter.md](dreadwolf/red-tide/chapter.md) — **074.M42** Moraine-Nine recovery; **QVINTA cadence**; *Amissi* founding.
 - [precipitation/chapter.md](dreadwolf/precipitation/chapter.md) — *Amissi* era; reef cult; **Slaughterbound** duel.
 - [terminus/chapter.md](dreadwolf/terminus/chapter.md) — **168.M42** Luna Sigma; ***Spina Cineris***; companion to [battle-of-sigma-moon/chapter.md](sigma-moon/battle-of-sigma-moon/chapter.md).
 
@@ -181,8 +181,8 @@
 
 **Theater:** **Vigilax Prime** — civilians under Castra Vetera mandate; Marines Malevolent in unauthorized operation / disproportionate purge.
 
-- [vigilax-incident.md](vigilax/vigilax-incident/chapter.md) ✅ — **Novel** prose (literary narrative, grimdark); same beats: Varro (*Crozius* Reeducation mode, two MM killed, banner destroyed); Marna-Down (III Vexillatio triangulation, Drusus, *Vermilion*); *Gray Gargoyle* with Inquisitor and Black Templars; insult to the Castellan (Valerius / *Lupercal*); Alaric kills the MM Chapter Master with his hands; lasting dread in the Vigil.
-- [vigilax-triangulation.md](vexillum-chronicles/vigilax-triangulation/chapter.md) — **III** *Tertia* / *Alabarda* field 4 lens: Legatus **Theron Brach**, Drusus’s secondary-focus theorem, Marna-Down tube run; companion to *vigilax-incident* (read both).
+- [vigilax-incident.md](vigilax/vigilax-incident/chapter.md) ✅ — **Novel** prose (literary narrative, grimdark); same beats: Varro (*Crozius* Reeducation mode, two MM killed, banner destroyed); Marna-Down (TERTIA triangulation, Drusus, *Vermilion*); *Gray Gargoyle* with Inquisitor and Black Templars; insult to the Castellan (Valerius / *Lupercal*); Alaric kills the MM Chapter Master with his hands; lasting dread in the Vigil.
+- [vigilax-triangulation.md](vexillum-chronicles/vigilax-triangulation/chapter.md) — **TERTIA** / *Alabarda* field 4 lens: Legatus **Theron Brach**, Drusus’s secondary-focus theorem, Marna-Down tube run; companion to *vigilax-incident* (read both).
 
 Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in Vigilax public records). No Elara (not yet born).
 
@@ -192,7 +192,7 @@ Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in
 
 ## vexillum-register
 
-*Strategium* after-actions and memoranda for ***Alabarda* field 4** (plus *Prima* obligation and *Decima* justice register). Master table: [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3.
+*Strategium* after-actions and memoranda for ***Alabarda* field 4** (plus PRIMA obligation and DECIMA justice register). Master table: [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §3.
 
 - [INDEX.md](vexillum-register/INDEX.md) — list of all register files
 
@@ -204,13 +204,13 @@ Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in
 Longform narrative for field-4 certified operations (each links back to its AAR).
 
 - [INDEX.md](vexillum-chronicles/INDEX.md) — chronicle list + pointers to **III** / **VIII** / Malakor-adjacent material
-- [ruhe-defense.md](vexillum-chronicles/ruhe-defense/chapter.md) — **IV** *Quarta*, **048.M42** Tyranid veil / shingle line; **Branimir Vorhalt** POV; Drusus coefficients; *Alabarda* *March of the Machine* reference hold.
+- [ruhe-defense.md](vexillum-chronicles/ruhe-defense/chapter.md) — **QVARTA**, **048.M42** Tyranid veil / shingle line; **Branimir Vorhalt** POV; Drusus coefficients; *Alabarda* *March of the Machine* reference hold.
 - *(moved)* **Einar Dreadwolf** closed arc — [dreadwolf/INDEX.md](dreadwolf/INDEX.md) (**074–168.M42**; **not** field 4)
-- [gutgrind-descent.md](vexillum-chronicles/gutgrind-descent/chapter.md) — **V** *Quinta*, **121.M42** Selene-Black; **Armin Sturmwahl** vs Warboss Gutgrind; Ork scrap-spire; *Alabarda* field 4 (post–**Foundation War / Aethelgard opening** register).
-- [korvus-twin-breach.md](vexillum-chronicles/korvus-twin-breach/chapter.md) — **VI** *Sexta*, **098.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; *Alabarda* field 4.
-- [null-vent-covenant.md](vexillum-chronicles/null-vent-covenant/chapter.md) — **VII** *Septima*, **112.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; *Alabarda* field 4.
-- [silent-hours-marco-de-vetra.md](vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) — **IX** *Nona*, **140.M42** Marco de Vetra; **Cassian Vetra**; Shouter relay under EM storm; *Alabarda* field 4.
-- [decima-justice-vexillum/chapter.md](silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md) — **X** *Decima* **justice vexillum** (indexed under Silent Vigil · *valerian-heresy*); companion to [malakor-v/chapter.md](silent-vigil/valerian-heresy/malakor-v/chapter.md).
+- [gutgrind-descent.md](vexillum-chronicles/gutgrind-descent/chapter.md) — **QVINTA**, **121.M42** Selene-Black; **Armin Sturmwahl** vs Warboss Gutgrind; Ork scrap-spire; *Alabarda* field 4 (post–**Foundation War / Aethelgard opening** register).
+- [korvus-twin-breach.md](vexillum-chronicles/korvus-twin-breach/chapter.md) — **SEXTA**, **098.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; *Alabarda* field 4.
+- [null-vent-covenant.md](vexillum-chronicles/null-vent-covenant/chapter.md) — **SEPTIMA**, **112.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; *Alabarda* field 4.
+- [silent-hours-marco-de-vetra.md](vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) — **NONA**, **140.M42** Marco de Vetra; **Cassian Vetra**; Shouter relay under EM storm; *Alabarda* field 4.
+- [decima-justice-vexillum/chapter.md](silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md) — **DECIMA** **justice vexillum** (indexed under Silent Vigil · *valerian-heresy*); companion to [malakor-v/chapter.md](silent-vigil/valerian-heresy/malakor-v/chapter.md).
 
 ---
 
@@ -223,7 +223,7 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 
 - [outer-gate-consolidation.md](outdated/elara-iron-venus/outer-gate-consolidation/chapter.md) — **180.M42** *(OUTDATED — Elara arc parked)*. Outer Gate fleet; Vane audit; **Witness Ford** cycles. *See* [elara-iron-venus/iron-venus/INDEX.md](outdated/elara-iron-venus/iron-venus/INDEX.md).
 - [ferrum-secondus-wolf-ledger.md](post-vigil/ferrum-secondus-wolf-ledger/chapter.md) — **~183.M42**. Ferrum-Secondus Castellan-idol drift — **Branimir** / Silence surgical correction; **Vhal** Arbites co-supervision (**FS-183-041**); day-120 standing lattice + **amber** chalk foreshadow; Alaric refuses civic crown scroll. *Precursor:* [hive-vespera-red-harvest.md](post-vigil/hive-vespera-red-harvest/chapter.md).
-- [hive-vespera-red-harvest.md](post-vigil/hive-vespera-red-harvest/chapter.md) — **~189.M42**. Hive Vespera secession: rebels reject Terra while declaring Alaric rightful ruler. **Corbec** / full *Prima* lower-hive purge lattice; **Alaric** upper spire house judgment; zero clemency, servitorization, penal normalization. *See* [master-chronology.md](../personae-command-index/events-and-chronologies/master-chronology.md) §VI.
+- [hive-vespera-red-harvest.md](post-vigil/hive-vespera-red-harvest/chapter.md) — **~189.M42**. Hive Vespera secession: rebels reject Terra while declaring Alaric rightful ruler. **Corbec** / full PRIMA lower-hive purge lattice; **Alaric** upper spire house judgment; zero clemency, servitorization, penal normalization. *See* [master-chronology.md](../personae-command-index/events-and-chronologies/master-chronology.md) §VI.
 
 ---
 

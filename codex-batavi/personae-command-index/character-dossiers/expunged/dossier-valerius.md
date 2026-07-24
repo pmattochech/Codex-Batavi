@@ -13,7 +13,7 @@
 | Operational designation | *expunged from formal records* |
 | Informal reference (Alaric) | “the mangy one” |
 | Highest rank | First Legatus *Cohors Batavorum* |
-| Vexillatio | I Vexillatio — *Onyx Wolf* |
+| Vexilla | PRIMA — *Onyx Wolf* |
 | Active service period | 015.M42 – 050.M42 |
 | **Wolf’s Curse** status | Furor stage: **never reached** — Execratio: **reached 049.M42 (preserved by Warp)** |
 | Gene-seed | **Chimeric** (Strand α/β) — **Warp** contamination confirmed unknown date pre-**Versibar** |
@@ -22,16 +22,16 @@
 
 ## II. ROLE IN FOUNDATION WAR (015.M42 – 045.M42 *approx* · annals **~CV y0–y29**)
 
-Valerius first marine formally designated Legatus *Cohors Batavorum*. Fought beside Alaric through the **full crucible** (serial Books I–IV), keeping I Vexillatio functional under the same **nine-pole** conditions driving the rest of the Chapter toward biological collapse.
+Valerius first marine formally designated Legatus *Cohors Batavorum*. Fought beside Alaric through the **full crucible** (serial Books I–IV), keeping PRIMA functional under the same **nine-pole** conditions driving the rest of the Chapter toward biological collapse.
 
 *Ledger contrast (public read vs. Castellan warrant):* On **pure** **warrior** and **visible** **campaign** **success** he **outperformed** **Alaric**; the *Reclusiam* **seal** for **Chapter** **Master** **succession** — witness **Varro** only, [dossier-alaric.md](../triumvirate/dossier-alaric.md) §1.0 — weighted **broad** **command** and **Throne** **fealty** over that **lone** axis, **without** the Castellan’s **prior** **knowledge**.
 
-While most founder marines progressively hit Furor stage under constant **Foundation War first-quarter** hunter pressure, Valerius’s I Vexillatio stayed stable. Valerius held squadrons on principle then governing whole Chapter — formulation becoming pre-doctrinal *Axiom Rationis* base:
+While most founder marines progressively hit Furor stage under constant **Foundation War first-quarter** hunter pressure, Valerius’s PRIMA stayed stable. Valerius held squadrons on principle then governing whole Chapter — formulation becoming pre-doctrinal *Axiom Rationis* base:
 
 > *“Service demands reason instead of devotion. Reason directs duty without blind submission. Duty upheld through regulation of self. I serve the Emperor.”*  
 > — Garviel Loken, pre-Heresy record
 
-That Valerius’s Vexillatio had not fallen read everyone as command virtue. Valerius read confirmation truth not yet daring voice aloud: biologically superior brothers.
+That Valerius’s Vexilla had not fallen read everyone as command virtue. Valerius read confirmation truth not yet daring voice aloud: biologically superior brothers.
 
 Reading wrong. Only chimera gene-seed expression variation — some organisms longer reach stages. Difference biological resistance biological superiority invisible inside. Valerius no way perceive strength felt was absence forge all others passed emerged — broken, rebuilt, therefore more resistant certain pressures.
 
@@ -59,9 +59,9 @@ Crucible close (**~045.M42**) left the Chapter on **~500** rational line; Valeri
 
 Expected: Alaric honor guard. Closest Castellan position implicit successor role.
 
-Received: hardest Subsector command — I Vexillatio allocated highest enemy pressure point, sector nearest Cicatrix Maledictum.
+Received: hardest Subsector command — PRIMA allocated highest enemy pressure point, sector nearest Cicatrix Maledictum.
 
-**Register note (post-expungement, *Strategium* clarity):** That allocation was **forward deployment** — campaign HQs and battle anchors in the **Threshold / rift-adjacent** mesh (including **Malakor V**–class bodies), while the Chapter **forge and industrial spine** stayed **Central Bastion** (Noviomagus system). The **500-cell block** remained *Prima*; the First Legatus did **not** “govern Noviomagus” in the sense the register uses **after** **050.M42**. Following Malakor V, *Strategium* **re-seated** *Prima*’s **declared *Legatus* primary anchor** on **Noviomagus Prime** — logistical lock to the reference forge and **deliberate break** from traitor geography. Open charts thereafter show the First on the forge world; rift mouth is chiefly **VIII**/**IX** rotation, with *Prima* still **ordered** anywhere. Full doctrine: [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3 (*Prima*).
+**Register note (post-expungement, *Strategium* clarity):** That allocation was **forward deployment** — campaign HQs and battle anchors in the **Threshold / rift-adjacent** mesh (including **Malakor V**–class bodies), while the Chapter **forge and industrial spine** stayed **Central Bastion** (Noviomagus system). The **500-cell block** remained PRIMA; the First Legatus did **not** “govern Noviomagus” in the sense the register uses **after** **050.M42**. Following Malakor V, *Strategium* **re-seated** PRIMA’s **declared *Legatus* primary anchor** on **Noviomagus Prime** — logistical lock to the reference forge and **deliberate break** from traitor geography. Open charts thereafter show the First on the forge world; rift mouth is chiefly **VIII**/**IX** rotation, with PRIMA still **ordered** anywhere. Full doctrine: [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3 (PRIMA).
 
 Alaric logic pure tactical: Valerius best operator available, worst sector needed best operator. No punishment designation. From Alaric perspective highest trust vote possible.
 
@@ -71,7 +71,7 @@ Valerius heard designation calculated. Doubt — first question Chaos plants bef
 
 Never asked. Marine Valerius formation does not ask. Question stayed.
 
-Following years saw rotating Vexillationes through sector bleed marines **Versibar** progressively larger numbers. Saw Alaric grow mythic — Castellan *returned* Execratio, anomaly no other Astartes reached — each **Versibar** not returning made Alaric singular Valerius irrelevant comparison. Never reached first stage. Castellan reached last returned. Distance two instead shrinking grew.
+Following years saw rotating Vexilla through sector bleed marines **Versibar** progressively larger numbers. Saw Alaric grow mythic — Castellan *returned* Execratio, anomaly no other Astartes reached — each **Versibar** not returning made Alaric singular Valerius irrelevant comparison. Never reached first stage. Castellan reached last returned. Distance two instead shrinking grew.
 
 049.M42 Valerius reached Execratio.
 
@@ -97,7 +97,7 @@ Next step natural someone decades Horus seed growing without forge would contain
 
 Adopted title same hour.
 
-**Command collapse (I Vexillatio):** The **500**-cell block stayed the Chapter’s filed **TOE** for *Prima*; what broke was **oath** and **command net** — **bulk** of the Vexillatio followed the *Lupercal* claim while **five** battle-brothers held **lawful witness** (identities restricted in rot-era files; one later admitted on **Legatus** lattice: **Corbec Ardens**). Not five hundred bodies received one identical biological stamp in one tick. **Rot-era** **Versibars** manifesting **inside this conflict** feed the surge statistics Drusus later files under **Reading B**: **conflict-hour** cohort **separate ledger** from **pre-crisis** Black-Cell / long-hold **Versibar** populations — older cages **do not** merge into “changed Malakor hour” clinical lines. Valerius **weaponized** releases across **both** tranches; archives keep the split honest. Without *Axiom Rationis* chain, without Varro Type III model, without containment architecture — Valerius opened door said liberation.
+**Command collapse (PRIMA):** The **500**-cell block stayed the Chapter’s filed **TOE** for PRIMA; what broke was **oath** and **command net** — **bulk** of the Vexilla followed the *Lupercal* claim while **five** battle-brothers held **lawful witness** (identities restricted in rot-era files; one later admitted on **Legatus** lattice: **Corbec Ardens**). Not five hundred bodies received one identical biological stamp in one tick. **Rot-era** **Versibars** manifesting **inside this conflict** feed the surge statistics Drusus later files under **Reading B**: **conflict-hour** cohort **separate ledger** from **pre-crisis** Black-Cell / long-hold **Versibar** populations — older cages **do not** merge into “changed Malakor hour” clinical lines. Valerius **weaponized** releases across **both** tranches; archives keep the split honest. Without *Axiom Rationis* chain, without Varro Type III model, without containment architecture — Valerius opened door said liberation.
 
 ---
 
@@ -105,13 +105,13 @@ Adopted title same hour.
 
 ### First engagement (ca. 049.M42)
 
-Alaric received report *Strategium*. Stood still forty-two seconds — longest general staff saw motionless without movement order. Then: *“Mobilize III and V Vexillatio.”* Did not speak name.
+Alaric received report *Strategium*. Stood still forty-two seconds — longest general staff saw motionless without movement order. Then: *“Mobilize III and QVINTA.”* Did not speak name.
 
-Combat inconclusive. Valerius remainder I Vexillatio withdrew minimal casualties. Alaric stared sector they long occupied long moment after withdrawal, nothing visible to watch.
+Combat inconclusive. Valerius remainder PRIMA withdrew minimal casualties. Alaric stared sector they long occupied long moment after withdrawal, nothing visible to watch.
 
 ### Second engagement (ca. 049.M42)
 
-Alaric attacked three Vexillationes rigorous containment geometry. Valerius withdrew again using intimate sector route knowledge mapped Legatus years. Alaric knowledge Valerius space equivalent — planned campaigns together decades same tactical tables.
+Alaric attacked three Vexilla rigorous containment geometry. Valerius withdrew again using intimate sector route knowledge mapped Legatus years. Alaric knowledge Valerius space equivalent — planned campaigns together decades same tactical tables.
 
 Operational advantage became evasion vector. Alaric grasped problem full dimension: no tactical shortcut. Valerius knew exactly Alaric would do, trained Alaric think same.
 
@@ -139,13 +139,13 @@ Alaric spoke nothing before during after.
 
 ### Alaric — expunging
 
-Valerius name removed all formal Chapter records forty-eight hours Malakor V return. Commemorative plates campaign records Legatus listings Foundation War honors — any mention replaced blank or designation *“I Vexillatio — expunged.”*
+Valerius name removed all formal Chapter records forty-eight hours Malakor V return. Commemorative plates campaign records Legatus listings Foundation War honors — any mention replaced blank or designation *“PRIMA — expunged.”*
 
 Rare contexts reference inevitable — historical tactical reports doctrinal analysis present dossier — Alaric uses exclusively deprecatory terms. Common *“mangy one”*: sick marine contaminated touched. Chapter mythology lexicon distinction noble wolf mangy dog absolute — model founder antithesis. Alaric chose word precision.
 
 Never explained choice. Unnecessary.
 
-I Vexillatio plates on chain — 500 pairs largest single-event loss accumulation Chapter history, added night Malakor V return. Valerius plates not. Drusus noted absence. Did not comment.
+PRIMA plates on chain — 500 pairs largest single-event loss accumulation Chapter history, added night Malakor V return. Valerius plates not. Drusus noted absence. Did not comment.
 
 ### Drusus — *Codex* update
 
@@ -157,7 +157,7 @@ Second record more unsettling: **Versibar** consciousness preserved **Warp** —
 
 Added routine monitoring protocol: long biological stability marines — especially never reached **Wolf’s Curse** stage — assessed emphasis specific corruption psychological indicators regardless absence biological markers. Visible stability ceased evidence absence risk.
 
-Drusus never spoke Valerius name after Malakor V. Someone references case clinical context uses *“Vexillatio I case.”*
+Drusus never spoke Valerius name after Malakor V. Someone references case clinical context uses *“PRIMA case.”*
 
 ### Varro — oath
 
@@ -187,7 +187,7 @@ Drusus keeps *Inverted Stability Case* mandatory Apothecary reading. Case header
 
 Varro keeps oath active. **One hundred twenty-five years** since Malakor V no *Cohors Batavorum* marine forced fulfill.
 
-500 I Vexillatio plates Alaric chain — pressed Viggo pelt pauldron silent. Valerius plates not. Absence specific pair chain those count more eloquent inscription.
+500 PRIMA plates Alaric chain — pressed Viggo pelt pauldron silent. Valerius plates not. Absence specific pair chain those count more eloquent inscription.
 
 Alaric once asked neophyte not learned questions not ask why no plate First Legatus.
 
@@ -199,4 +199,4 @@ Kept walking.
 
 ---
 
-**Post-051.M42 *Strategium* cross-reference:** Mandatory **Deathwatch *Watch cycle*** for **Legatus** and *Decima* admission was **codified after** Valerius’s fall — he was **never** under that requirement. See [deathwatch-and-batavorum.md](../../../political-relations/deathwatch-and-batavorum.md) §4.2, [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3.
+**Post-051.M42 *Strategium* cross-reference:** Mandatory **Deathwatch *Watch cycle*** for **Legatus** and DECIMA admission was **codified after** Valerius’s fall — he was **never** under that requirement. See [deathwatch-and-batavorum.md](../../../political-relations/deathwatch-and-batavorum.md) §4.2, [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3.
