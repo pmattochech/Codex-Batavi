@@ -26,13 +26,13 @@ There was always too much of the same discovery waiting behind grille after gril
 
 He descended.
 
-The Black Cells did not announce themselves with sermon. They announced themselves with pressure change, with the pheromonal warning of Versibar territory, with red lumens tuned low for biology rather than theater. The central corridor ran straight as a verdict — two men wide, stone that had learned the scrape of keratin and the patience of adamantium. Along both flanks, cell mouths opened like withheld breaths. Here the Versibar were kept — grille after grille, brother-shapes filed by how much shattered mind still haunted the meat.
+The Black Cells did not announce themselves with sermon. They announced themselves with pressure change, with the pheromonal warning of Versibar territory, with red lumens tuned low for biology rather than theater. The central corridor ran straight as a verdict — two men wide, stone that had learned the scrape of keratin and the patience of adamantium. Along both flanks, cell mouths opened like withheld breaths.
 
-On the upper floors the Hell Cage occupied the middle of that grammar: a round cell at the corridor’s heart, bars between a marked center and an outer ring. It was not a home. No Versibar lived there. It was Varro’s pride-engine — the place a still-armored ego went to die of geometry. A Batavi too vain for the tenets was stripped of plate, set in the small circle at the exact center, and made to understand stillness as survival. Then the vaults of that level opened and the Versibar kept in the side cells were released into the outer ring, clawing through adamantium at arm’s length, acid and keratin a breath from a face that had believed itself too important to be meat. Only the marked center kept the claws from purchase. Leave it, and the lesson ended wet. Fame of that round cell traveled farther than boots. Even empty, even sealed, it made the corridor taste of future humiliation. Varro passed it the way a gauge passes a furnace — near enough to feel heat, not near enough to pretend the architecture was only stone.
+On the upper floors the Hell Cage sat in the middle of that spine — a round mouth of bars, marked center pale under the red, outer ring dark as a held breath. Empty today. Still it carried his work: vanity’s lesson, the kind that left a vertical stripe on a helm and a quieter man in the ranks. Even sealed, the air around it tasted of claws that had almost reached. Varro passed without slowing.
 
 He kept walking.
 
-The side cells answered him with the Chapter’s true inventory. He did not preach at them. He inventoried. Field hum. Seal integrity. The wrong stillness. The wrong motion. A brother-shape that rose too fast and stopped when the Judex shadow crossed the bars — fear as language, answered by a silence that meant *not today*. Another cell where something breathed like wet bellows and refused to show its head. Another where claws had written years into the lower course of the wall, not as writing, as insistence.
+The side cells answered. He did not preach. He inventoried. Field hum. Seal integrity. The wrong stillness. The wrong motion. A brother-shape that rose too fast and stopped when the Judex shadow crossed the bars — fear as language, answered by a silence that meant *not today*. Another cell where something breathed like wet bellows and refused to show its head. Another where claws had written years into the lower course of the wall, not as writing, as insistence.
 
 Too many.
 
@@ -42,7 +42,7 @@ Each one a receipt the Chapter paid in iron and duration. Each one a reminder th
 
 The levels dropped.
 
-Lower corridors kept the same hard spine — central walk, cell doors, red light — without a Hell Cage ring to punctuate the middle. The air changed flavor with depth. Upper holds ran hotter with blank feast-hunger. Lower holds carried more fracture: suffering with edges, remembrance that could not assemble itself into speech and therefore became pressure, pacing, the occasional sound that might have been a word if words still had owners. Haruspex would have named that gradient in warp-cant. Varro named it only as depth: the farther down, the thicker the shattered mind rode inside the animal, and the less clean the filing of *beast alone* became.
+Lower corridors kept the same hard spine — central walk, cell doors, red light — no round cage to break the middle. The air changed with depth. Up above, hunger had been simpler. Down here it came edged with pressure, pacing, sounds that almost remembered how to be words. Varro filed it only as depth.
 
 He went all the way.
 
@@ -52,7 +52,7 @@ Varro did not speak the name.
 
 He stopped. He stayed.
 
-This was not the Hell Cage’s sentence. The Cage had an edge: vanity dragged to the center circle, beasts released, a man taught stillness or torn for failing it. Atreus had duration without consent — unfinished law wearing iron, a side-cell hold that outlasted the paperwork meant to civilize choice. When this brother fell — final hours of the Valerian Heresy, the same crucible season that broke other geometries open — the Exanimus Testament had not yet existed as Chapter law. Consent had not yet been a door a mind could be asked to walk through. The Chapter learned later how to name choices for the living. This one had been left outside the naming. Ninety-six years behind a grille that was never a pride-lesson. A jailer’s shame that was not *he became Versibar*, but *we learned how to ask afterward, and we cannot ask backward*.
+This was not a Hell Cage sentence. No edge. No timed vanity to burn off. Only duration without consent — unfinished law wearing iron. When this brother fell — final hours of the Valerian Heresy, the same crucible season that broke other geometries open — the Exanimus Testament had not yet existed as Chapter law. Consent had not yet been a door a mind could walk through. The Chapter learned later how to name choices for the living. This one had been left outside the naming. Ninety-six years. A jailer’s shame that was not *he became Versibar*, but *we learned how to ask afterward, and we cannot ask backward*.
 
 Varro inventoried without sermon.
 
