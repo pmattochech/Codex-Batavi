@@ -28,7 +28,7 @@ He descended.
 
 The Black Cells did not announce themselves with sermon. They announced themselves with pressure change, with the pheromonal warning of Versibar territory, with red lumens tuned low for biology rather than theater. The central corridor ran straight as a verdict — two men wide, stone that had learned the scrape of keratin and the patience of adamantium. Along both flanks, cell mouths opened like withheld breaths.
 
-On the upper floors the Hell Cage sat in the middle of that spine — a round mouth of bars, marked center pale under the red, outer ring dark as a held breath. Empty today. Still it carried his work: vanity’s lesson, the kind that left a vertical stripe on a helm and a quieter man in the ranks. Even sealed, the air around it tasted of claws that had almost reached. Varro passed without slowing.
+On the upper floors the Hell Cage sat in the middle of that spine — a round mouth of bars, marked center pale under the red, outer ring dark as a held breath. Empty today. He had broken more brothers there than he cared to number — pride first, plate stripped, stillness or the claws — and walked out among the released Versibar while they flinched from the Death Wolf and lunged for the man in the circle. The ones who lasted left with a vertical stripe and a quieter ego. The air still tasted of that work. Varro passed without slowing.
 
 He kept walking.
 
