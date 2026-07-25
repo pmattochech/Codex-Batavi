@@ -26,13 +26,13 @@ There was always too much of the same discovery waiting behind grille after gril
 
 He descended.
 
-The Dark Cells did not announce themselves with sermon. They announced themselves with pressure change, with the pheromonal warning of Versibar territory, with red lumens tuned low for biology rather than theater. The central corridor ran straight as a verdict — two men wide, stone that had learned the scrape of keratin and the patience of adamantium. Along both flanks, cell mouths opened like withheld breaths.
+The Black Cells did not announce themselves with sermon. They announced themselves with pressure change, with the pheromonal warning of Versibar territory, with red lumens tuned low for biology rather than theater. The central corridor ran straight as a verdict — two men wide, stone that had learned the scrape of keratin and the patience of adamantium. Along both flanks, cell mouths opened like withheld breaths. Here the Versibar were kept — grille after grille, brother-shapes filed by how much shattered mind still haunted the meat.
 
-On the upper floors the Hell Cage still sat in the middle of that grammar: a ring walk around a central pen, one circular sentence per level where ego had finished dying and only the animal remained to be housed. Varro did not tour the rings. He passed them the way a gauge passes a furnace — near enough to feel heat, not near enough to pretend inspection was mercy. Behind those curved walls something heavy shifted. Something tested stone with the boredom of a siege that had forgotten why it began. Fame of the Cage traveled farther than boots. Even from the side corridor, the air carried the rumor of feast-hunger, of mouths that no longer remembered names.
+On the upper floors the Hell Cage occupied the middle of that grammar: a round cell at the corridor’s heart, bars between a marked center and an outer ring. It was not a home. No Versibar lived there. It was Varro’s pride-engine — the place a still-armored ego went to die of geometry. A Batavi too vain for the tenets was stripped of plate, set in the small circle at the exact center, and made to understand stillness as survival. Then the vaults of that level opened and the Versibar kept in the side cells were released into the outer ring, clawing through adamantium at arm’s length, acid and keratin a breath from a face that had believed itself too important to be meat. Only the marked center kept the claws from purchase. Leave it, and the lesson ended wet. Fame of that round cell traveled farther than boots. Even empty, even sealed, it made the corridor taste of future humiliation. Varro passed it the way a gauge passes a furnace — near enough to feel heat, not near enough to pretend the architecture was only stone.
 
 He kept walking.
 
-Side cells held what the Cage did not claim: Versibar with more storm than pure blank, bodies that still sometimes hit the grille as if memory had muscles. He did not preach at them. He inventoried. Field hum. Seal integrity. The wrong stillness. The wrong motion. A brother-shape that rose too fast and stopped when the Judex shadow crossed the bars — fear as language, answered by a silence that meant *not today*. Another cell where something breathed like wet bellows and refused to show its head. Another where claws had written years into the lower course of the wall, not as writing, as insistence.
+The side cells answered him with the Chapter’s true inventory. He did not preach at them. He inventoried. Field hum. Seal integrity. The wrong stillness. The wrong motion. A brother-shape that rose too fast and stopped when the Judex shadow crossed the bars — fear as language, answered by a silence that meant *not today*. Another cell where something breathed like wet bellows and refused to show its head. Another where claws had written years into the lower course of the wall, not as writing, as insistence.
 
 Too many.
 
@@ -42,7 +42,7 @@ Each one a receipt the Chapter paid in iron and duration. Each one a reminder th
 
 The levels dropped.
 
-Lower corridors shed the Hell Cage’s ring. The formation stayed kin — central spine, cell doors, red light — but the air changed flavor. Less blank feast. More fracture. Suffering with edges. Remembrance that could not assemble itself into speech and therefore became pressure, pacing, the occasional sound that might have been a word if words still had owners. Haruspex would have named that gradient in warp-cant. Varro named it only as depth: the farther down, the less the animal was alone with itself, and the more something like a shredded self still tried to haunt the meat.
+Lower corridors kept the same hard spine — central walk, cell doors, red light — without a Hell Cage ring to punctuate the middle. The air changed flavor with depth. Upper holds ran hotter with blank feast-hunger. Lower holds carried more fracture: suffering with edges, remembrance that could not assemble itself into speech and therefore became pressure, pacing, the occasional sound that might have been a word if words still had owners. Haruspex would have named that gradient in warp-cant. Varro named it only as depth: the farther down, the thicker the shattered mind rode inside the animal, and the less clean the filing of *beast alone* became.
 
 He went all the way.
 
@@ -52,7 +52,7 @@ Varro did not speak the name.
 
 He stopped. He stayed.
 
-This was not punishment with an edge. Hell Cage rings still had the shape of a sentence, however final. Black Cell duration for the never-chose was unfinished law wearing iron. When this brother fell — final hours of the Valerian Heresy, the same crucible season that broke other geometries open — the Exanimus Testament had not yet existed as Chapter paperwork. Consent had not yet been a door a mind could be asked to walk through. The Chapter learned later how to name choices for the living. This one had been left outside the naming. Ninety-six years of hold. A jailer’s shame that was not *he became Versibar*, but *we learned how to ask afterward, and we cannot ask backward*.
+This was not the Hell Cage’s sentence. The Cage had an edge: vanity dragged to the center circle, beasts released, a man taught stillness or torn for failing it. Atreus had duration without consent — unfinished law wearing iron, a side-cell hold that outlasted the paperwork meant to civilize choice. When this brother fell — final hours of the Valerian Heresy, the same crucible season that broke other geometries open — the Exanimus Testament had not yet existed as Chapter law. Consent had not yet been a door a mind could be asked to walk through. The Chapter learned later how to name choices for the living. This one had been left outside the naming. Ninety-six years behind a grille that was never a pride-lesson. A jailer’s shame that was not *he became Versibar*, but *we learned how to ask afterward, and we cannot ask backward*.
 
 Varro inventoried without sermon.
 
