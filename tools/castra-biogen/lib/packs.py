@@ -169,22 +169,87 @@ def _world_to_lock(world: dict[str, Any]) -> dict[str, Any]:
         "immaterium_stress",
         "risks",
         "specimens",
+        "sources",
     ):
         if locks.get(key) is not None:
             out[key] = locks[key]
+    if locks.get("prose"):
+        out["prose"] = dict(locks["prose"])
     if layers.get("biomes"):
         out["biomes"] = layers["biomes"]
     elif locks.get("biomes"):
         out["biomes"] = locks["biomes"]
     if layers.get("geology"):
-        out["geology"] = layers["geology"]
+        out["geology"] = {
+            k: v
+            for k, v in (layers["geology"] or {}).items()
+            if k
+            in (
+                "gravity_g",
+                "crust",
+                "volcanism",
+                "connectivity",
+                "tidal_lock",
+                "hydrosphere_pct",
+                "topology",
+            )
+        }
     elif locks.get("geology"):
         out["geology"] = locks["geology"]
     if layers.get("chemistry_climate"):
-        out["chemistry_climate"] = layers["chemistry_climate"]
+        chem = layers["chemistry_climate"] or {}
+        out["chemistry_climate"] = {
+            k: chem[k]
+            for k in (
+                "atmosphere",
+                "water",
+                "solvent",
+                "cryosphere",
+                "climate_belts",
+                "immaterium_stress",
+                "immaterium_flavor_tags",
+            )
+            if k in chem
+        }
     elif locks.get("chemistry_climate"):
         out["chemistry_climate"] = locks["chemistry_climate"]
     return out
+
+
+def write_body_lock(
+    world: dict[str, Any],
+    pack_id: str,
+    *,
+    merge_sources: bool = True,
+) -> Path:
+    """Write/update a single body YAML lock under a pack."""
+    slug = (world.get("meta") or {}).get("slug")
+    if not slug:
+        raise ValueError("world meta.slug required")
+    root = bodies_dir(pack_id)
+    root.mkdir(parents=True, exist_ok=True)
+    path = root / f"{slug}.yaml"
+    yaml_body = _world_to_lock(world)
+    if merge_sources and path.is_file():
+        old = load_yaml(path)
+        # preserve sources list from disk if session has none
+        if not yaml_body.get("sources") and old.get("sources"):
+            yaml_body["sources"] = old["sources"]
+    dump_yaml(path, yaml_body)
+    # ensure pack.yaml lists system if known
+    meta_path = pack_dir(pack_id) / "pack.yaml"
+    if meta_path.is_file():
+        meta = load_yaml(meta_path)
+    else:
+        meta = {"id": pack_id, "title": pack_id, "description": "", "systems": []}
+    sys_slug = yaml_body.get("system_slug")
+    if sys_slug:
+        systems = list(meta.get("systems") or [])
+        if sys_slug not in systems:
+            systems.append(sys_slug)
+            meta["systems"] = sorted(systems)
+            dump_yaml(meta_path, meta)
+    return path
 
 
 def note_override(state: dict[str, Any], field: str, locked: Any, user: Any) -> None:

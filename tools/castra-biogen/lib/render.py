@@ -16,15 +16,24 @@ def render_all(world: dict[str, Any]) -> None:
     magos.write_text(_magos(world), encoding="utf-8")
     literary.write_text(_literary(world), encoding="utf-8")
     world["render"] = {
-        "magos_path": str(magos.relative_to(out.parent.parent) if False else magos),
-        "literary_path": str(literary),
+        "magos_path": str(Path("cogitator-results") / slug / "magos.md"),
+        "literary_path": str(Path("cogitator-results") / slug / "literary.md"),
     }
-    # Prefer paths relative to package out/
-    world["render"]["magos_path"] = str(Path("cogitator-results") / slug / "magos.md")
-    world["render"]["literary_path"] = str(Path("cogitator-results") / slug / "literary.md")
+
+
+def _prose_override(world: dict[str, Any], kind: str) -> str | None:
+    prose = (world.get("locks") or {}).get("prose") or {}
+    text = prose.get(kind)
+    if text is None:
+        return None
+    text = str(text).strip()
+    return text if text else None
 
 
 def _magos(world: dict[str, Any]) -> str:
+    override = _prose_override(world, "magos")
+    if override is not None:
+        return override if override.endswith("\n") else override + "\n"
     meta = world["meta"]
     locks = world.get("locks") or {}
     layers = world.get("layers") or {}
@@ -88,8 +97,9 @@ def _magos(world: dict[str, Any]) -> str:
         for s in slots:
             bp = bauplan.get(s["slot_id"]) or {}
             name = s.get("name") or s.get("analogue") or s["slot"]
+            link_note = " [range link]" if s.get("link") else ""
             lines.append(
-                f"- **{s['slot']}** — {name} | Origin: `{s['origin']}` / "
+                f"- **{s['slot']}** — {name}{link_note} | Origin: `{s['origin']}` / "
                 f"`{s['origin_subtype']}` | analogue: `{s.get('analogue')}`"
             )
             if bp.get("dossier"):
@@ -122,6 +132,9 @@ def _magos(world: dict[str, Any]) -> str:
 
 
 def _literary(world: dict[str, Any]) -> str:
+    override = _prose_override(world, "literary")
+    if override is not None:
+        return override if override.endswith("\n") else override + "\n"
     meta = world["meta"]
     layers = world.get("layers") or {}
     locks = world.get("locks") or {}
@@ -163,6 +176,7 @@ def _literary(world: dict[str, Any]) -> str:
             name = s.get("name") or s.get("analogue", "an unnamed form")
             origin = s["origin"]
             subtype = s["origin_subtype"]
+            link = " (range presence)" if s.get("link") else ""
             if origin == "native" and subtype == "neo_endemic":
                 provenance = (
                     "native now — neo-endemic, born of colonizer stock that learned this world"
@@ -173,7 +187,7 @@ def _literary(world: dict[str, Any]) -> str:
                 provenance = f"exotic ({subtype.replace('_', ' ')})"
             lines.append(
                 f"In the {biome['class'].replace('_', ' ')}, the {s['slot'].replace('_', ' ')} "
-                f"niche is held by {name} — {provenance}."
+                f"niche is held by {name}{link} — {provenance}."
             )
         lines.append("")
 

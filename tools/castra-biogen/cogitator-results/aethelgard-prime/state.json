@@ -2,9 +2,9 @@
   "meta": {
     "slug": "aethelgard-prime",
     "system_slug": "system-ii-crucible",
-    "seed": null,
-    "spark": false,
-    "generated_at": "2026-07-27T14:01:49Z"
+    "seed": 3,
+    "spark": true,
+    "generated_at": "2026-07-27T20:24:34Z"
   },
   "locks": {
     "sources": [
@@ -82,21 +82,14 @@
     "local_notes": "Cyclopean tide moon — Needles shoreline, swamps, taiga, snowy mountains.",
     "system_slug": "system-ii-crucible",
     "immaterium_stress": "majoris",
-    "gravity_g": 1.0,
-    "atmosphere": "breathable",
-    "water": true,
-    "cryosphere": "cool",
-    "connectivity": "semi_archipelago",
-    "volcanism": "moderate",
-    "crust": "rocky",
-    "tidal_lock": false,
     "geology": {
       "gravity_g": 1.0,
       "crust": "rocky",
       "volcanism": "moderate",
       "connectivity": "semi_archipelago",
       "tidal_lock": false,
-      "hydrosphere_pct": 70
+      "hydrosphere_pct": 70,
+      "topology": "Snowy mountains, taiga, interior swamps, shoreline Needles/cliffs and intertidal spires."
     },
     "chemistry_climate": {
       "atmosphere": "breathable",
@@ -182,7 +175,7 @@
       "by_biome": {
         "aethelgard_shoreline": [
           {
-            "slot_id": "aethelgard_shoreline__apex__canis_batavorum",
+            "slot_id": "aethelgard_shoreline__apex__canis_batavorum__primary",
             "slot": "apex",
             "analogue": "wetland_ambush_apex",
             "origin": "native",
@@ -194,12 +187,13 @@
             ],
             "medium": "marine",
             "locked": true,
+            "link": false,
             "name": "Canis Batavorum (Batav Wolf)",
             "dossier": "codex-batavi/biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md",
             "notes": "Evolved on Aethelgard from colonizer canids; shoreline Spire drops and interior swamp stalking."
           },
           {
-            "slot_id": "aethelgard_shoreline__secondary_consumer__leviathans_young",
+            "slot_id": "aethelgard_shoreline__secondary_consumer__leviathans_young__primary",
             "slot": "secondary_consumer",
             "analogue": "tidal_piscivore",
             "origin": "native",
@@ -209,6 +203,7 @@
             "secondary_biomes": [],
             "medium": "marine",
             "locked": true,
+            "link": false,
             "name": "Leviathans (young)",
             "dossier": null,
             "notes": "Batav prey in Great Tide folklore."
@@ -223,7 +218,8 @@
             "primary_biome": "aethelgard_shoreline",
             "medium": "marine",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_shoreline__decomposer",
@@ -235,19 +231,21 @@
             "primary_biome": "aethelgard_shoreline",
             "medium": "marine",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_shoreline__primary_consumer",
             "slot": "primary_consumer",
-            "analogue": "intertidal_grazer",
+            "analogue": "shorebird_analogue",
             "origin": "native",
             "origin_subtype": "aboriginal",
             "range": "single",
             "primary_biome": "aethelgard_shoreline",
             "medium": "marine",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_shoreline__scavenger",
@@ -259,7 +257,8 @@
             "primary_biome": "aethelgard_shoreline",
             "medium": "marine",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           }
         ],
         "aethelgard_swamp": [
@@ -273,7 +272,8 @@
             "primary_biome": "aethelgard_swamp",
             "medium": "freshwater",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_swamp__decomposer",
@@ -285,19 +285,21 @@
             "primary_biome": "aethelgard_swamp",
             "medium": "freshwater",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_swamp__primary_consumer",
             "slot": "primary_consumer",
-            "analogue": "wetland_browser",
+            "analogue": "amphibious_grazer",
             "origin": "native",
             "origin_subtype": "aboriginal",
             "range": "single",
             "primary_biome": "aethelgard_swamp",
             "medium": "freshwater",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_swamp__secondary_consumer",
@@ -309,19 +311,8 @@
             "primary_biome": "aethelgard_swamp",
             "medium": "freshwater",
             "locked": false,
-            "name": null
-          },
-          {
-            "slot_id": "aethelgard_swamp__apex",
-            "slot": "apex",
-            "analogue": "swamp_apex_ambush",
-            "origin": "native",
-            "origin_subtype": "aboriginal",
-            "range": "single",
-            "primary_biome": "aethelgard_swamp",
-            "medium": "freshwater",
-            "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_swamp__scavenger",
@@ -333,21 +324,42 @@
             "primary_biome": "aethelgard_swamp",
             "medium": "freshwater",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
+          },
+          {
+            "slot_id": "aethelgard_swamp__apex__canis_batavorum__link",
+            "slot": "apex",
+            "analogue": "wetland_ambush_apex",
+            "origin": "native",
+            "origin_subtype": "neo_endemic",
+            "range": "multi",
+            "primary_biome": "aethelgard_shoreline",
+            "secondary_biomes": [
+              "aethelgard_swamp"
+            ],
+            "medium": "freshwater",
+            "locked": true,
+            "link": true,
+            "name": "Canis Batavorum (Batav Wolf)",
+            "dossier": "codex-batavi/biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md",
+            "notes": "Evolved on Aethelgard from colonizer canids; shoreline Spire drops and interior swamp stalking.",
+            "appearing_in": "aethelgard_swamp"
           }
         ],
         "aethelgard_taiga": [
           {
             "slot_id": "aethelgard_taiga__producer",
             "slot": "producer",
-            "analogue": "conifer_analogue",
+            "analogue": "understory_shrub",
             "origin": "native",
             "origin_subtype": "aboriginal",
             "range": "single",
             "primary_biome": "aethelgard_taiga",
             "medium": "terrestrial",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_taiga__decomposer",
@@ -359,19 +371,21 @@
             "primary_biome": "aethelgard_taiga",
             "medium": "terrestrial",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_taiga__primary_consumer",
             "slot": "primary_consumer",
-            "analogue": "taiga_browser",
+            "analogue": "seed_forager",
             "origin": "native",
             "origin_subtype": "aboriginal",
             "range": "single",
             "primary_biome": "aethelgard_taiga",
             "medium": "terrestrial",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_taiga__mesopredator",
@@ -383,7 +397,8 @@
             "primary_biome": "aethelgard_taiga",
             "medium": "terrestrial",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           }
         ],
         "aethelgard_montane": [
@@ -397,7 +412,8 @@
             "primary_biome": "aethelgard_montane",
             "medium": "terrestrial",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_montane__decomposer",
@@ -409,19 +425,21 @@
             "primary_biome": "aethelgard_montane",
             "medium": "terrestrial",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_montane__primary_consumer",
             "slot": "primary_consumer",
-            "analogue": "montane_browser",
+            "analogue": "cliff_grazer",
             "origin": "native",
             "origin_subtype": "aboriginal",
             "range": "single",
             "primary_biome": "aethelgard_montane",
             "medium": "terrestrial",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "aethelgard_montane__mesopredator",
@@ -433,15 +451,16 @@
             "primary_biome": "aethelgard_montane",
             "medium": "terrestrial",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           }
         ]
       }
     },
     "bauplan": {
       "by_slot": {
-        "aethelgard_shoreline__apex__canis_batavorum": {
-          "slot_id": "aethelgard_shoreline__apex__canis_batavorum",
+        "aethelgard_shoreline__apex__canis_batavorum__primary": {
+          "slot_id": "aethelgard_shoreline__apex__canis_batavorum__primary",
           "origin": "native",
           "origin_subtype": "neo_endemic",
           "medium": "marine",
@@ -450,8 +469,8 @@
           "name": "Canis Batavorum (Batav Wolf)",
           "note": "bauplan deferred to locked dossier — not rewritten"
         },
-        "aethelgard_shoreline__secondary_consumer__leviathans_young": {
-          "slot_id": "aethelgard_shoreline__secondary_consumer__leviathans_young",
+        "aethelgard_shoreline__secondary_consumer__leviathans_young__primary": {
+          "slot_id": "aethelgard_shoreline__secondary_consumer__leviathans_young__primary",
           "name": "Leviathans (young)",
           "analogue": "tidal_piscivore",
           "origin": "native",
@@ -472,7 +491,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "marine",
-          "locomotion": "swim",
+          "locomotion": "benthic_crawl",
           "respiration": "gill_analogue",
           "size_class": "medium",
           "size_ceiling": "leviathan",
@@ -487,7 +506,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "marine",
-          "locomotion": "swim",
+          "locomotion": "benthic_crawl",
           "respiration": "gill_analogue",
           "size_class": "small",
           "size_ceiling": "leviathan",
@@ -498,7 +517,7 @@
         "aethelgard_shoreline__primary_consumer": {
           "slot_id": "aethelgard_shoreline__primary_consumer",
           "name": null,
-          "analogue": "intertidal_grazer",
+          "analogue": "shorebird_analogue",
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "marine",
@@ -517,7 +536,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "marine",
-          "locomotion": "swim",
+          "locomotion": "jet",
           "respiration": "gill_analogue",
           "size_class": "medium",
           "size_ceiling": "leviathan",
@@ -532,8 +551,8 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "freshwater",
-          "locomotion": "swim",
-          "respiration": "gill_analogue",
+          "locomotion": "bottom_walk",
+          "respiration": "cutaneous",
           "size_class": "medium",
           "size_ceiling": "large",
           "trophic_slot": "producer",
@@ -547,7 +566,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "freshwater",
-          "locomotion": "swim",
+          "locomotion": "bottom_walk",
           "respiration": "gill_analogue",
           "size_class": "small",
           "size_ceiling": "large",
@@ -558,11 +577,11 @@
         "aethelgard_swamp__primary_consumer": {
           "slot_id": "aethelgard_swamp__primary_consumer",
           "name": null,
-          "analogue": "wetland_browser",
+          "analogue": "amphibious_grazer",
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "freshwater",
-          "locomotion": "swim",
+          "locomotion": "bottom_walk",
           "respiration": "gill_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -577,26 +596,11 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "freshwater",
-          "locomotion": "swim",
-          "respiration": "gill_analogue",
+          "locomotion": "amphibious",
+          "respiration": "cutaneous",
           "size_class": "medium",
           "size_ceiling": "large",
           "trophic_slot": "secondary_consumer",
-          "primary_biome": "aethelgard_swamp",
-          "locked": false
-        },
-        "aethelgard_swamp__apex": {
-          "slot_id": "aethelgard_swamp__apex",
-          "name": null,
-          "analogue": "swamp_apex_ambush",
-          "origin": "native",
-          "origin_subtype": "aboriginal",
-          "medium": "freshwater",
-          "locomotion": "swim",
-          "respiration": "gill_analogue",
-          "size_class": "large",
-          "size_ceiling": "large",
-          "trophic_slot": "apex",
           "primary_biome": "aethelgard_swamp",
           "locked": false
         },
@@ -607,7 +611,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "freshwater",
-          "locomotion": "swim",
+          "locomotion": "bottom_walk",
           "respiration": "gill_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -615,10 +619,20 @@
           "primary_biome": "aethelgard_swamp",
           "locked": false
         },
+        "aethelgard_swamp__apex__canis_batavorum__link": {
+          "slot_id": "aethelgard_swamp__apex__canis_batavorum__link",
+          "origin": "native",
+          "origin_subtype": "neo_endemic",
+          "medium": "freshwater",
+          "locked": true,
+          "dossier": "codex-batavi/biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md",
+          "name": "Canis Batavorum (Batav Wolf)",
+          "note": "bauplan deferred to locked dossier — not rewritten"
+        },
         "aethelgard_taiga__producer": {
           "slot_id": "aethelgard_taiga__producer",
           "name": null,
-          "analogue": "conifer_analogue",
+          "analogue": "understory_shrub",
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
@@ -637,7 +651,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
-          "locomotion": "cursorial",
+          "locomotion": "fossorial",
           "respiration": "pulmonary_analogue",
           "size_class": "small",
           "size_ceiling": "large",
@@ -648,11 +662,11 @@
         "aethelgard_taiga__primary_consumer": {
           "slot_id": "aethelgard_taiga__primary_consumer",
           "name": null,
-          "analogue": "taiga_browser",
+          "analogue": "seed_forager",
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
-          "locomotion": "cursorial",
+          "locomotion": "ambush_stalk",
           "respiration": "pulmonary_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -667,7 +681,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
-          "locomotion": "cursorial",
+          "locomotion": "fossorial",
           "respiration": "pulmonary_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -682,7 +696,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
-          "locomotion": "cursorial",
+          "locomotion": "fossorial",
           "respiration": "pulmonary_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -697,7 +711,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
-          "locomotion": "cursorial",
+          "locomotion": "ambush_stalk",
           "respiration": "pulmonary_analogue",
           "size_class": "small",
           "size_ceiling": "large",
@@ -708,11 +722,11 @@
         "aethelgard_montane__primary_consumer": {
           "slot_id": "aethelgard_montane__primary_consumer",
           "name": null,
-          "analogue": "montane_browser",
+          "analogue": "cliff_grazer",
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
-          "locomotion": "cursorial",
+          "locomotion": "ambush_stalk",
           "respiration": "pulmonary_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -727,7 +741,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
-          "locomotion": "cursorial",
+          "locomotion": "fossorial",
           "respiration": "pulmonary_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -740,7 +754,7 @@
   },
   "warnings": [],
   "render": {
-    "magos_path": "out/aethelgard-prime/magos.md",
-    "literary_path": "out/aethelgard-prime/literary.md"
+    "magos_path": "cogitator-results/aethelgard-prime/magos.md",
+    "literary_path": "cogitator-results/aethelgard-prime/literary.md"
   }
 }

@@ -1,9 +1,9 @@
 # Magos Biologis Dossier — aethelgard-prime
 
 **System:** system-ii-crucible
-**Seed:** None
-**Spark:** False
-**Generated:** 2026-07-27T14:01:49Z
+**Seed:** 3
+**Spark:** True
+**Generated:** 2026-07-27T20:24:34Z
 
 ## Classification
 
@@ -49,50 +49,50 @@
 - **secondary_consumer** — Leviathans (young) | Origin: `native` / `aboriginal` | analogue: `tidal_piscivore`
   - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `medium` (ceiling `leviathan`)
 - **producer** — intertidal_algae | Origin: `native` / `aboriginal` | analogue: `intertidal_algae`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `medium` (ceiling `leviathan`)
+  - Bauplan: locomotion `benthic_crawl`, respiration `gill_analogue`, size `medium` (ceiling `leviathan`)
 - **decomposer** — coastal_detritivore_crab | Origin: `native` / `aboriginal` | analogue: `coastal_detritivore_crab`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `small` (ceiling `leviathan`)
-- **primary_consumer** — intertidal_grazer | Origin: `native` / `aboriginal` | analogue: `intertidal_grazer`
+  - Bauplan: locomotion `benthic_crawl`, respiration `gill_analogue`, size `small` (ceiling `leviathan`)
+- **primary_consumer** — shorebird_analogue | Origin: `native` / `aboriginal` | analogue: `shorebird_analogue`
   - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `medium` (ceiling `leviathan`)
 - **scavenger** — beach_scavenger | Origin: `native` / `aboriginal` | analogue: `beach_scavenger`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `medium` (ceiling `leviathan`)
+  - Bauplan: locomotion `jet`, respiration `gill_analogue`, size `medium` (ceiling `leviathan`)
 
 ### aethelgard_swamp
 
 - **producer** — peat_reed | Origin: `native` / `aboriginal` | analogue: `peat_reed`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `medium` (ceiling `large`)
+  - Bauplan: locomotion `bottom_walk`, respiration `cutaneous`, size `medium` (ceiling `large`)
 - **decomposer** — bog_fungus | Origin: `native` / `aboriginal` | analogue: `bog_fungus`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `small` (ceiling `large`)
-- **primary_consumer** — wetland_browser | Origin: `native` / `aboriginal` | analogue: `wetland_browser`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `medium` (ceiling `large`)
+  - Bauplan: locomotion `bottom_walk`, respiration `gill_analogue`, size `small` (ceiling `large`)
+- **primary_consumer** — amphibious_grazer | Origin: `native` / `aboriginal` | analogue: `amphibious_grazer`
+  - Bauplan: locomotion `bottom_walk`, respiration `gill_analogue`, size `medium` (ceiling `large`)
 - **secondary_consumer** — swamp_stalker | Origin: `native` / `aboriginal` | analogue: `swamp_stalker`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `medium` (ceiling `large`)
-- **apex** — swamp_apex_ambush | Origin: `native` / `aboriginal` | analogue: `swamp_apex_ambush`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `large` (ceiling `large`)
+  - Bauplan: locomotion `amphibious`, respiration `cutaneous`, size `medium` (ceiling `large`)
 - **scavenger** — carrion_wader | Origin: `native` / `aboriginal` | analogue: `carrion_wader`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `medium` (ceiling `large`)
+  - Bauplan: locomotion `bottom_walk`, respiration `gill_analogue`, size `medium` (ceiling `large`)
+- **apex** — Canis Batavorum (Batav Wolf) [range link] | Origin: `native` / `neo_endemic` | analogue: `wetland_ambush_apex`
+  - Locked dossier: `codex-batavi/biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md` (bauplan not rewritten)
 
 ### aethelgard_taiga
 
-- **producer** — conifer_analogue | Origin: `native` / `aboriginal` | analogue: `conifer_analogue`
+- **producer** — understory_shrub | Origin: `native` / `aboriginal` | analogue: `understory_shrub`
   - Bauplan: locomotion `cursorial`, respiration `pulmonary_analogue`, size `medium` (ceiling `large`)
 - **decomposer** — needle_litter_fungus | Origin: `native` / `aboriginal` | analogue: `needle_litter_fungus`
-  - Bauplan: locomotion `cursorial`, respiration `pulmonary_analogue`, size `small` (ceiling `large`)
-- **primary_consumer** — taiga_browser | Origin: `native` / `aboriginal` | analogue: `taiga_browser`
-  - Bauplan: locomotion `cursorial`, respiration `pulmonary_analogue`, size `medium` (ceiling `large`)
+  - Bauplan: locomotion `fossorial`, respiration `pulmonary_analogue`, size `small` (ceiling `large`)
+- **primary_consumer** — seed_forager | Origin: `native` / `aboriginal` | analogue: `seed_forager`
+  - Bauplan: locomotion `ambush_stalk`, respiration `pulmonary_analogue`, size `medium` (ceiling `large`)
 - **mesopredator** — taiga_meso_carnivore | Origin: `native` / `aboriginal` | analogue: `taiga_meso_carnivore`
-  - Bauplan: locomotion `cursorial`, respiration `pulmonary_analogue`, size `medium` (ceiling `large`)
+  - Bauplan: locomotion `fossorial`, respiration `pulmonary_analogue`, size `medium` (ceiling `large`)
 
 ### aethelgard_montane
 
 - **producer** — alpine_herb | Origin: `native` / `aboriginal` | analogue: `alpine_herb`
-  - Bauplan: locomotion `cursorial`, respiration `pulmonary_analogue`, size `medium` (ceiling `large`)
+  - Bauplan: locomotion `fossorial`, respiration `pulmonary_analogue`, size `medium` (ceiling `large`)
 - **decomposer** — highland_detritivore | Origin: `native` / `aboriginal` | analogue: `highland_detritivore`
-  - Bauplan: locomotion `cursorial`, respiration `pulmonary_analogue`, size `small` (ceiling `large`)
-- **primary_consumer** — montane_browser | Origin: `native` / `aboriginal` | analogue: `montane_browser`
-  - Bauplan: locomotion `cursorial`, respiration `pulmonary_analogue`, size `medium` (ceiling `large`)
+  - Bauplan: locomotion `ambush_stalk`, respiration `pulmonary_analogue`, size `small` (ceiling `large`)
+- **primary_consumer** — cliff_grazer | Origin: `native` / `aboriginal` | analogue: `cliff_grazer`
+  - Bauplan: locomotion `ambush_stalk`, respiration `pulmonary_analogue`, size `medium` (ceiling `large`)
 - **mesopredator** — mountain_meso | Origin: `native` / `aboriginal` | analogue: `mountain_meso`
-  - Bauplan: locomotion `cursorial`, respiration `pulmonary_analogue`, size `medium` (ceiling `large`)
+  - Bauplan: locomotion `fossorial`, respiration `pulmonary_analogue`, size `medium` (ceiling `large`)
 
 ## Biological risks (locked)
 

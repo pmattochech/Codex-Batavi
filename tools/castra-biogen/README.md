@@ -8,6 +8,8 @@ Reusable *Warhammer 40,000* **mesh workshop** — system + biosphere generator n
 
 Hardlocks / pack pins can be **overridden** in the wizard (warnings recorded). **Sealed** Magos + literary + `state.json` land under `cogitator-results/`. Scratch/working copies may use `out/`. Greenfield demo **templates** live under `templates/greenfield/`. `propose-codex` is dry-run only (explicit apply is end-state, not yet).
 
+**Term lexicon:** [`REFERENCE.md`](REFERENCE.md) — layers, enums, origins, biomes, provenance, paths.
+
 **End-state north star:** biosphere → culture/atlas layers → ingest + confirmed write-back to codex. **Now:** Archive reads sealed packs under `cogitator-results/` only.
 
 ## Quick start
@@ -46,11 +48,13 @@ On Windows use `run.cmd` (forces WSL).
 
 Amber-phosphor full-screen TUI:
 
-1. **Boot** — New system | Biosphere only | Load pack | **Browse results** | Abort (`q` quits)  
+1. **Boot** — New system | Biosphere only | Load pack | **Edit body** | **Browse results** | Abort (`q` quits)  
 2. **System (L-1)** — mode; star **Roll / Pick / Skip** (overrides warn) — skipped on Biosphere only  
 3. **Body** — init from slug/pack; pick planet type & immaterium; reroll  
 4. **Biomes (L4)** — add/remove class+richness; **Roll / Skip**; trophic rebuilds from the list  
 5. **Review** — **Seal to results**, **Open in Archive**, Save as pack, propose-codex; **Return to menu** (does not exit)
+
+**Edit body:** load from pack or sealed results → edit classification / geology / climate / biomes / specimens / Magos & literary prose / custom tags → **Save pack** + **Seal results**.
 
 **Archive (Browse results):** bodies and systems under `cogitator-results/` — view `magos.md` / `literary.md` / `state.json` (systems: `system.json` / `system.md`). Read-only; does not load into the active rite yet.
 

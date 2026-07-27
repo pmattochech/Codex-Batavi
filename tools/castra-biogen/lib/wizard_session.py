@@ -212,8 +212,9 @@ class WizardSession:
     # --- biomes ---
 
     def list_biome_classes(self) -> list[str]:
-        data = load_yaml(ENUMS / "biome_classes.yaml")
-        return [c["id"] for c in data.get("classes") or [] if c.get("id")]
+        from . import custom_enums
+
+        return [c["id"] for c in custom_enums.merged_biome_classes(self.pack_id) if c.get("id")]
 
     def list_richness(self) -> list[str]:
         return ["null", "barren", "sparse", "moderate", "rich"]
@@ -234,12 +235,14 @@ class WizardSession:
 
     def add_biome(self, class_id: str, richness: str = "moderate") -> dict[str, Any]:
         assert self.body is not None
+        from . import custom_enums
+
         biomes = copy.deepcopy(self.current_biomes())
         idx = len(biomes)
         meta = next(
             (
                 c
-                for c in (load_yaml(ENUMS / "biome_classes.yaml").get("classes") or [])
+                for c in custom_enums.merged_biome_classes(self.pack_id)
                 if c.get("id") == class_id
             ),
             {},
@@ -297,6 +300,156 @@ class WizardSession:
             self.save_system_out()
         return pipeline.finalize_body(self.body)
 
+    def save_pack_lock(self, pack_id: str | None = None) -> str:
+        """Write current body (and system if present) into pack YAML locks."""
+        pid = pack_id or self.pack_id
+        if not pid:
+            raise ValueError("pack_id required to save lock")
+        if self.body is None:
+            raise ValueError("no body to save")
+        set_active_pack(pid)
+        self.pack_id = pid
+        path = packsmod.write_body_lock(self.body, pid)
+        if self.system is not None:
+            packsmod.export_pack(
+                pid,
+                title=pid,
+                description="",
+                system=self.system,
+                body=None,
+            )
+        self.set_provenance("pack_lock", "picked")
+        return str(path)
+
+    def set_prose_override(self, kind: str, text: str) -> None:
+        assert self.body is not None
+        if kind not in ("magos", "literary"):
+            raise ValueError("kind must be magos or literary")
+        prose = dict((self.body.get("locks") or {}).get("prose") or {})
+        prose[kind] = text
+        self.body.setdefault("locks", {})["prose"] = prose
+        self.set_provenance(f"prose_{kind}", "picked")
+
+    def clear_prose_override(self, kind: str) -> None:
+        assert self.body is not None
+        prose = dict((self.body.get("locks") or {}).get("prose") or {})
+        if kind in prose:
+            del prose[kind]
+        if prose:
+            self.body.setdefault("locks", {})["prose"] = prose
+        else:
+            self.body.setdefault("locks", {}).pop("prose", None)
+        self.set_provenance(f"prose_{kind}", "skipped")
+
+    def generated_prose_preview(self, kind: str) -> str:
+        """Return what L7 would generate without override."""
+        assert self.body is not None
+        from . import render as rendermod
+
+        body = copy.deepcopy(self.body)
+        body.setdefault("locks", {}).pop("prose", None)
+        if kind == "magos":
+            return rendermod._magos(body)
+        return rendermod._literary(body)
+
+    def load_body_for_edit(
+        self,
+        slug: str,
+        *,
+        pack_id: str | None = None,
+        from_results: bool = False,
+    ) -> dict[str, Any]:
+        """Load a body for the Editor hub (pack regenerate or sealed state)."""
+        pack = pack_id or self.pack_id
+        if pack:
+            set_active_pack(pack)
+            self.pack_id = pack
+        if from_results:
+            self.body = statemod.load_world(slug)
+            sys_slug = self.body["meta"].get("system_slug")
+            if sys_slug:
+                try:
+                    self.system = statemod.load_system(sys_slug)
+                except FileNotFoundError:
+                    if pack:
+                        try:
+                            self.system = self.load_pack_system(sys_slug, pack)
+                        except Exception:
+                            self.system = None
+            self.set_provenance("edit", "locked")
+            return self.body
+        # From pack: need system then body layers
+        lock = lockmod.load_body_lock(slug, pack=pack)
+        sys_slug = lock.get("system_slug")
+        if sys_slug:
+            try:
+                self.load_pack_system(sys_slug, pack)
+            except Exception:
+                try:
+                    self.load_system_from_out(sys_slug)
+                except FileNotFoundError:
+                    self.system = None
+        if self.system is None:
+            # minimal placeholder system
+            self.system = statemod.new_system_state(
+                sys_slug or "unknown-system", seed=self.seed, spark=False
+            )
+        return self.start_body(slug, use_lock=True)
+
+    def update_lock_fields(self, updates: dict[str, Any]) -> None:
+        """Patch body locks and rebuild layers."""
+        assert self.body is not None
+        locks = self.body.setdefault("locks", {})
+        for k, v in updates.items():
+            locks[k] = v
+        pipeline.run_body_layers(self.body, self.system)
+        self.set_provenance("lock_fields", "picked")
+
+    def update_geology_lock(self, fields: dict[str, Any]) -> None:
+        assert self.body is not None
+        geo = dict((self.body.get("locks") or {}).get("geology") or {})
+        geo.update(fields)
+        self.body.setdefault("locks", {})["geology"] = geo
+        for k, v in fields.items():
+            if k in ("gravity_g", "topology", "connectivity", "volcanism", "crust", "tidal_lock"):
+                self.body["locks"][k] = v
+        pipeline.run_body_layers(self.body, self.system)
+        self.set_provenance("geology", "picked")
+
+    def update_chem_lock(self, fields: dict[str, Any]) -> None:
+        assert self.body is not None
+        chem = dict((self.body.get("locks") or {}).get("chemistry_climate") or {})
+        chem.update(fields)
+        self.body.setdefault("locks", {})["chemistry_climate"] = chem
+        if "immaterium_stress" in fields:
+            self.body["locks"]["immaterium_stress"] = fields["immaterium_stress"]
+        pipeline.run_body_layers(self.body, self.system)
+        self.set_provenance("chemistry_climate", "picked")
+
+    def current_specimens(self) -> list[dict[str, Any]]:
+        if not self.body:
+            return []
+        return list((self.body.get("locks") or {}).get("specimens") or [])
+
+    def set_specimens(self, specimens: list[dict[str, Any]]) -> None:
+        assert self.body is not None
+        self.body.setdefault("locks", {})["specimens"] = copy.deepcopy(specimens)
+        pipeline.run_body_layers(self.body, self.system)
+        self.set_provenance("specimens", "picked")
+
+    def upsert_specimen(self, spec: dict[str, Any]) -> None:
+        specs = copy.deepcopy(self.current_specimens())
+        sid = spec.get("id")
+        if not sid:
+            raise ValueError("specimen needs id")
+        specs = [s for s in specs if s.get("id") != sid]
+        specs.append(spec)
+        self.set_specimens(specs)
+
+    def remove_specimen(self, specimen_id: str) -> None:
+        specs = [s for s in self.current_specimens() if s.get("id") != specimen_id]
+        self.set_specimens(specs)
+
     def save_as_pack(
         self,
         pack_id: str,
@@ -318,10 +471,14 @@ class WizardSession:
         return propose_codex.format_report(self.body)
 
     def planet_types(self) -> list[str]:
-        return list(load_yaml(ENUMS / "planet_types.yaml").get("planet_types") or [])
+        from . import custom_enums
+
+        return custom_enums.merged_planet_types(self.pack_id)
 
     def body_kinds(self) -> list[str]:
-        return list(load_yaml(ENUMS / "planet_types.yaml").get("body_kinds") or [])
+        from . import custom_enums
+
+        return custom_enums.merged_body_kinds(self.pack_id)
 
     def immaterium_grades(self) -> list[str]:
         return list(load_yaml(ENUMS / "immaterium_stress.yaml").get("grades") or [])
@@ -331,3 +488,9 @@ class WizardSession:
 
     def star_sizes(self) -> list[str]:
         return list(load_yaml(ENUMS / "star_classes.yaml").get("size_bands") or [])
+
+    def trophic_slots(self) -> list[str]:
+        return list(load_yaml(ENUMS / "trophic_slots.yaml").get("slot_order") or [])
+
+    def origin_subtypes(self) -> dict[str, list[str]]:
+        return dict(load_yaml(ENUMS / "origin_subtypes.yaml") or {})

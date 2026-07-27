@@ -147,6 +147,8 @@ def apply_body_lock(world: dict[str, Any], lock: dict[str, Any]) -> None:
         wl["geology"] = dict(lock["geology"])
     if lock.get("chemistry_climate"):
         wl["chemistry_climate"] = dict(lock["chemistry_climate"])
+    if lock.get("prose"):
+        wl["prose"] = dict(lock["prose"])
 
     if lock.get("system_slug") and not world["meta"].get("system_slug"):
         world["meta"]["system_slug"] = lock["system_slug"]

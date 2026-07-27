@@ -34,7 +34,7 @@ class BiomeFlowScreen(Screen):
                 yield Button("Roll biomes", id="btn-roll")
                 yield Button("Skip biomes", id="btn-skip")
             with Horizontal():
-                yield Button("Continue to review →", id="btn-next", variant="primary")
+                yield Button("Continue →", id="btn-next", variant="primary")
                 yield Button("Back", id="btn-back")
         yield WarnLog()
 
@@ -121,6 +121,10 @@ class BiomeFlowScreen(Screen):
             self._refresh()
             return
         if event.button.id == "btn-next":
+            from .edit_hub import EditHubScreen
             from .review import ReviewScreen
 
-            self.app.push_screen(ReviewScreen())
+            if any(isinstance(s, EditHubScreen) for s in self.app.screen_stack):
+                self.app.pop_screen()
+            else:
+                self.app.push_screen(ReviewScreen())

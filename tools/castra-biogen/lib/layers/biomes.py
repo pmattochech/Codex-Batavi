@@ -8,8 +8,10 @@ from ..util import ENUMS, load_yaml, warn
 
 
 def _class_index() -> dict[str, dict]:
-    data = load_yaml(ENUMS / "biome_classes.yaml")
-    return {c["id"]: c for c in data.get("classes") or []}
+    from .. import custom_enums
+
+    classes = custom_enums.merged_biome_classes()
+    return {c["id"]: c for c in classes if c.get("id")}
 
 
 def apply(world: dict[str, Any]) -> None:
