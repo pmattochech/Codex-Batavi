@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-from .util import OUT, dump_json, load_json
+from .util import RESULTS, dump_json, load_json
 
 
 def utc_now() -> str:
@@ -78,11 +78,13 @@ def new_world_state(
 
 
 def system_out_dir(slug: str) -> Path:
-    return OUT / "systems" / slug
+    """Sealed system pack under cogitator-results/systems/<slug>/."""
+    return RESULTS / "systems" / slug
 
 
 def body_out_dir(slug: str) -> Path:
-    return OUT / slug
+    """Sealed body pack under cogitator-results/<slug>/."""
+    return RESULTS / slug
 
 
 def save_system(state: dict[str, Any]) -> Path:

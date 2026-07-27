@@ -20,13 +20,14 @@ class BootScreen(Screen):
         with VerticalScroll(id="main"):
             yield Static("CASUS BIOGENESIS — INITIATE", classes="title")
             yield Static(
-                "The Emperor dictates, we comply. Greenfield system, biosphere-only, or load a pack.",
+                "The Emperor dictates, we comply. Greenfield, biosphere-only, load a pack, or browse sealed results.",
                 classes="litany",
             )
             with Horizontal():
                 yield Button("New system (greenfield)", id="btn-green", variant="primary")
                 yield Button("Biosphere only", id="btn-bio")
                 yield Button("Load pack", id="btn-pack")
+                yield Button("Browse results", id="btn-archive")
                 yield Button("Abort", id="btn-abort")
             yield Label("System slug (greenfield):")
             yield Input(value="new-system", id="slug-input")
@@ -67,6 +68,11 @@ class BootScreen(Screen):
             from .system_pick import SystemPickScreen
 
             self.app.push_screen(SystemPickScreen())
+            return
+        if event.button.id == "btn-archive":
+            from .out_archive import OutArchiveScreen
+
+            self.app.push_screen(OutArchiveScreen())
             return
         if event.button.id == "btn-pack":
             pack_id = getattr(self, "_selected_pack", None)

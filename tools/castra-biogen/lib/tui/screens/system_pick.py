@@ -13,23 +13,23 @@ from ..widgets.warn_log import WarnLog
 
 
 class SystemPickScreen(Screen):
-    """Load system from out/ or from a pack, then jump to BodyFlow."""
+    """Load system from results/ or from a pack, then jump to BodyFlow."""
 
     def compose(self) -> ComposeResult:
         yield CogitatorHeader("BIOSPHERE ONLY // SELECT SYSTEM")
         with VerticalScroll(id="main"):
             yield Static("ATTACH TO EXISTING SYSTEM", classes="title")
             yield Static(
-                "Skip stellar rite. Load a system from out/ or a pack, then shape the biosphere.",
+                "Skip stellar rite. Load a system from sealed results or a pack, then shape the biosphere.",
                 classes="litany",
             )
-            yield Label("Systems in out/:")
+            yield Label("Systems in results:")
             yield ListView(id="out-sys-list")
             yield Label("Or pack + pack system:")
             yield Select([], id="pack-select")
             yield ListView(id="pack-sys-list")
             with Horizontal():
-                yield Button("Load from out/", id="btn-out", variant="primary")
+                yield Button("Load from results", id="btn-out", variant="primary")
                 yield Button("Load from pack", id="btn-pack")
                 yield Button("Back", id="btn-back")
         yield WarnLog()
@@ -83,14 +83,14 @@ class SystemPickScreen(Screen):
                 if lv.highlighted_child is not None:
                     slug = getattr(lv.highlighted_child, "sys_slug", None)
             if not slug:
-                log.push("select a system from out/")
+                log.push("select a system from results/")
                 return
             try:
                 session.load_system_from_out(slug)
             except FileNotFoundError as exc:
                 log.push(str(exc))
                 return
-            log.push(f"loaded system '{slug}' from out/")
+            log.push(f"loaded system '{slug}' from results/")
             from .body_flow import BodyFlowScreen
 
             self.app.push_screen(BodyFlowScreen())

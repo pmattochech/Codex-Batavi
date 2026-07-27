@@ -1,4 +1,4 @@
-"""Review — write out/, save pack, propose-codex preview."""
+"""Review — seal to cogitator-results/, save pack, propose-codex preview."""
 from __future__ import annotations
 
 from textual.app import ComposeResult
@@ -23,7 +23,8 @@ class ReviewScreen(Screen):
             yield Label("Pack title:")
             yield Input(value="Custom mesh", id="pack-title")
             with Horizontal():
-                yield Button("Write out/ (L7)", id="btn-out", variant="primary")
+                yield Button("Seal to results (L7)", id="btn-out", variant="primary")
+                yield Button("Open in Archive", id="btn-archive")
                 yield Button("Save as pack", id="btn-pack")
                 yield Button("Propose codex (dry-run)", id="btn-propose")
             yield Static(id="propose-panel", classes="panel")
@@ -91,8 +92,21 @@ class ReviewScreen(Screen):
                 log.push("no body to finalize")
                 return
             world = session.finalize()
-            log.push(f"wrote out/{world['meta']['slug']}/ (magos + literary + state.json)")
+            log.push(f"sealed cogitator-results/{world['meta']['slug']}/ (magos + literary + state.json)")
             self._refresh()
+            return
+        if event.button.id == "btn-archive":
+            body = session.body or {}
+            slug = (body.get("meta") or {}).get("slug")
+            if not slug:
+                log.push("no body slug — seal to results first or open Archive from boot")
+                return
+            from .out_archive import OutArchiveScreen
+
+            # Prefer magos if present; Archive still opens even before write
+            self.app.push_screen(
+                OutArchiveScreen(kind="body", slug=slug, filename="magos.md")
+            )
             return
         if event.button.id == "btn-pack":
             pack_id = self.query_one("#pack-id", Input).value.strip() or "my-pack"

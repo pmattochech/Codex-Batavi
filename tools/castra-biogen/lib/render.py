@@ -20,8 +20,8 @@ def render_all(world: dict[str, Any]) -> None:
         "literary_path": str(literary),
     }
     # Prefer paths relative to package out/
-    world["render"]["magos_path"] = str(Path("out") / slug / "magos.md")
-    world["render"]["literary_path"] = str(Path("out") / slug / "literary.md")
+    world["render"]["magos_path"] = str(Path("cogitator-results") / slug / "magos.md")
+    world["render"]["literary_path"] = str(Path("cogitator-results") / slug / "literary.md")
 
 
 def _magos(world: dict[str, Any]) -> str:

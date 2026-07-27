@@ -32,6 +32,11 @@ Screen {
     height: 1fr;
 }
 
+TextArea {
+    background: #100c06;
+    color: #ffe08a;
+}
+
 
 .title {
     text-style: bold;
@@ -105,4 +110,5 @@ ListItem {
 ListItem:hover {
     background: #2a2010;
 }
+
 """

@@ -12,7 +12,7 @@ from . import state as statemod
 from .layers import biomes as biomes_layer
 from .layers import stellar
 from .rngutil import make_rng, pick
-from .util import ENUMS, OUT, load_yaml, set_active_pack, warn
+from .util import ENUMS, load_yaml, set_active_pack, warn
 
 
 Provenance = str  # rolled | picked | skipped | locked | overridden
@@ -73,21 +73,16 @@ class WizardSession:
         return self.system
 
     def load_system_from_out(self, slug: str) -> dict[str, Any]:
-        """Load a previously generated system from out/systems/<slug>/."""
+        """Load a previously generated system from cogitator-results/systems/<slug>/."""
         self.system = statemod.load_system(slug)
         self.set_provenance("system", "locked")
         return self.system
 
     @staticmethod
     def list_out_systems() -> list[str]:
-        root = OUT / "systems"
-        if not root.is_dir():
-            return []
-        return sorted(
-            p.name
-            for p in root.iterdir()
-            if p.is_dir() and (p / "system.json").is_file()
-        )
+        from . import out_archive as archive
+
+        return archive.list_out_systems()
 
     def roll_system_star(self) -> dict[str, Any]:
         assert self.system is not None

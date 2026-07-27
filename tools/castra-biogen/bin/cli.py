@@ -43,7 +43,7 @@ def cmd_generate_system(args: argparse.Namespace) -> int:
         existing=args.existing,
         pack=args.pack,
     )
-    print(f"Wrote system pack: out/systems/{args.slug}/")
+    print(f"Wrote system pack: cogitator-results/systems/{args.slug}/")
     print(f"  star: {system['layers'].get('star')}")
     print(f"  body_slots: {len(system['layers'].get('body_slots') or [])}")
     if system.get("warnings"):
@@ -70,7 +70,7 @@ def cmd_generate(args: argparse.Namespace) -> int:
     except (FileNotFoundError, ValueError) as exc:
         print(f"error: {exc}", file=sys.stderr)
         return 1
-    print(f"Wrote body pack: out/{args.slug}/")
+    print(f"Wrote body pack: cogitator-results/{args.slug}/")
     print(f"  magos: {world['render']['magos_path']}")
     print(f"  literary: {world['render']['literary_path']}")
     pt = world["layers"]["planet_type"]

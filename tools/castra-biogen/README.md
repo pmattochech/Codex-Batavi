@@ -1,12 +1,14 @@
 # Castra Biogen
 
-Reusable *Warhammer 40,000* **system + biosphere** generator.
+Reusable *Warhammer 40,000* **mesh workshop** — system + biosphere generator now; culture/atlas briefs and bidirectional `codex-batavi/` later.
 
-- **Interactive:** cogitator TUI — `./run wizard`
+- **Interactive:** cogitator TUI — `./run wizard` (generate **and** browse sealed results)
 - **Scriptable CLI:** `generate-system` / `generate` / `show` / …
 - **Packs:** scenarios under `data/packs/` (Castra Vetera is an **optional example**, not the core)
 
-Hardlocks / pack pins can be **overridden** in the wizard (warnings recorded). Output lands under `out/`. `propose-codex` is dry-run only.
+Hardlocks / pack pins can be **overridden** in the wizard (warnings recorded). **Sealed** Magos + literary + `state.json` land under `cogitator-results/`. Scratch/working copies may use `out/`. Greenfield demo **templates** live under `templates/greenfield/`. `propose-codex` is dry-run only (explicit apply is end-state, not yet).
+
+**End-state north star:** biosphere → culture/atlas layers → ingest + confirmed write-back to codex. **Now:** Archive reads sealed packs under `cogitator-results/` only.
 
 ## Quick start
 
@@ -15,7 +17,7 @@ cd tools/castra-biogen
 python3 -m pip install -r requirements.txt
 chmod +x run bin/cli.py
 
-# Cogitator wizard (guided L-1 → body → save)
+# Cogitator wizard (guided L-1 → body → seal)
 ./run wizard
 ./run wizard --pack castra-vetera --seed 42
 
@@ -31,17 +33,28 @@ chmod +x run bin/cli.py
 
 On Windows use `run.cmd` (forces WSL).
 
+## Output layout
+
+| Path | Role |
+|------|------|
+| `cogitator-results/` | **Sealed finals** — Archive + L7 seal target |
+| `out/` | Scratch / working only |
+| `templates/greenfield/` | Demo / greenfield template stubs (not mesh finals) |
+| `data/packs/` | Scenario locks (e.g. `castra-vetera`) |
+
 ## Wizard
 
 Amber-phosphor full-screen TUI:
 
-1. **Boot** — New system (greenfield) | **Biosphere only** | Load pack | Abort (`q` quits)  
+1. **Boot** — New system | Biosphere only | Load pack | **Browse results** | Abort (`q` quits)  
 2. **System (L-1)** — mode; star **Roll / Pick / Skip** (overrides warn) — skipped on Biosphere only  
 3. **Body** — init from slug/pack; pick planet type & immaterium; reroll  
 4. **Biomes (L4)** — add/remove class+richness; **Roll / Skip**; trophic rebuilds from the list  
-5. **Review** — write `out/`, Save as pack, propose-codex; **Return to menu** (does not exit)
+5. **Review** — **Seal to results**, **Open in Archive**, Save as pack, propose-codex; **Return to menu** (does not exit)
 
-Biosphere only: pick a system from `out/systems/` or a pack, then continue at body → biomes → review.
+**Archive (Browse results):** bodies and systems under `cogitator-results/` — view `magos.md` / `literary.md` / `state.json` (systems: `system.json` / `system.md`). Read-only; does not load into the active rite yet.
+
+Biosphere only: pick a system from `cogitator-results/systems/` or a pack, then continue at body → biomes → review.
 
 ## Packs
 

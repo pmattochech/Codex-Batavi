@@ -10,10 +10,13 @@ DATA = ROOT / "data"
 ENUMS = DATA / "enums"
 MATRICES = DATA / "matrices"
 PACKS = DATA / "packs"
+# Sealed finals (Archive / Write seal). Scratch working copies stay under out/.
+RESULTS = ROOT / "cogitator-results"
+OUT = ROOT / "out"  # scratch / working only — not finals
+TEMPLATES = ROOT / "templates"
 # Legacy paths (pre-pack layout); kept only for compatibility shim
 LOCKS_BODIES = DATA / "locks" / "bodies"
 LOCKS_SYSTEMS = DATA / "locks" / "systems"
-OUT = ROOT / "out"
 
 # Active pack for lock resolution (set by CLI / wizard)
 _active_pack: str | None = None

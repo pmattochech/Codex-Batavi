@@ -108,7 +108,8 @@ def generate_body(
             lock = lockmod.load_system_lock(resolved_system_slug, pack=pack)
             if not lock:
                 raise FileNotFoundError(
-                    f"System '{resolved_system_slug}' not found in out/ and no system lock. "
+                    f"System '{resolved_system_slug}' not found in cogitator-results/ and no system lock. "
+
                     f"Run: ./run generate-system {resolved_system_slug} "
                     f"or pass --existing-system {resolved_system_slug}"
                     + (f" --pack {pack}" if pack else "")

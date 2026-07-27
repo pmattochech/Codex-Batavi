@@ -1,4 +1,5 @@
 out/
+cogitator-results/
 __pycache__/
 *.pyc
 .venv/
