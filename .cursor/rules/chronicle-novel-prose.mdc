@@ -1,0 +1,36 @@
+---
+description: Novel chronicle craft — implication over wiki dumps; seamless corrections. Consult on every chronicle write/edit.
+globs: codex-batavi/chronicles/**/*.md
+alwaysApply: false
+---
+
+# Chronicle novel craft (must-consult)
+
+**Consult this file on every create/edit under `codex-batavi/chronicles/`.** Linked from [`.cursorrules`](../../.cursorrules) §0.1. Complements [`chronicle-prose-standard.mdc`](chronicle-prose-standard.mdc).
+
+## 1. Novel body ≠ wiki
+
+* Chronicles are **scene-forward literary prose**. Doctrine, procedure, chamber specs, and “how it works” belong in **dossiers / encyclopedia / planning** — not as explanatory lectures inside the chapter.
+* **Forbidden in narrative body:** patch-note voice (“X is not Y; X is actually…”), housing/procedure manuals, multi-step how-to of a rite, or correcting a prior misunderstanding *on the page*.
+* **Allowed short lore:** only when it **feels novel** — carried by a POV as lived weight, memory, shame, count, sensory residue, or spoken beat.  
+  *Right:* Varro passing the Hell Cage remembering how many prideful brothers he broke there.  
+  *Wrong:* a paragraph that defines Hell Cage geometry, who lives where, and the full punishment sequence like a wiki entry.
+
+## 2. Implication first
+
+* Prefer **image + consequence** over definition. Trust the wiki for readers who need the schema.
+* If a short gloss is needed for a first appearance, keep it **one breath** inside character or narrator voice — not a sidebar essay.
+
+## 3. Seamless correction (edit hygiene)
+
+* When fixing wrong lore or bad tone in a chronicle: **rewrite the stretch as if it had always been correct**.
+* **Do not** leave meta-scars: “No Versibar lived there. It was actually…” / “Contrary to…” / lecture-corrections that break reading flow.
+* Chat may explain the fix to the user; **the file must only contain clean novel prose**.
+
+## 4. Where full explanation goes
+
+| Need | Put it in |
+|------|-----------|
+| Rite / chamber / doctrine detail | Dossier, encyclopedia, planning lock |
+| Reader-facing schema | Wiki / glossary |
+| Scene feeling of the same fact | Chronicle (lived, brief) |
