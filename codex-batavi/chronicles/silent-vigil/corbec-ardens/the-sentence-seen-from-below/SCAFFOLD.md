@@ -52,7 +52,7 @@ Witness not center; did not see apex duel; sentence geometry from perimeter.
 ## Chain
 
 - **Precedent:** [run-to-the-wall](../run-to-the-wall/SCAFFOLD.md)
-- **Companion (Castellan):** [malakor-v](../../valerian-heresy/P4-malakor/malakor-v/SCAFFOLD.md) · **Main serial continues:** [decima](../../valerian-heresy/P5-reformation/decima-justice-vexillum/SCAFFOLD.md)
+- **Companion (Castellan):** [malakor-v](../../valerian-heresy/P4-malakor/malakor-v/SCAFFOLD.md) · **Main serial continues:** [DECIMA](../../valerian-heresy/P5-reformation/decima-justice-vexillum/SCAFFOLD.md)
 
 ## Depth target
 

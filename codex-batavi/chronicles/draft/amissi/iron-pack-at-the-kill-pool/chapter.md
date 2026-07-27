@@ -2,7 +2,7 @@
 
 **Status:** **Draft** — not on read chain.  
 **Theater:** joint purge (unnamed world), ~**090–120.M42** band (Einar alive; pre–Sigma Moon).  
-**Forces:** *Amissi* (Einar Dreadwolf) · **V** *Quinta* escort Chaplain Ordin · Space Wolves (Champion Skalf; **Ragnar Blackmane**) · Legatus **Armin Sturmwahl** · Lord Castellan **Alaric von Helis**.  
+**Forces:** *Amissi* (Einar Dreadwolf) · **QVINTA** escort Chaplain Ordin · Space Wolves (Champion Skalf; **Ragnar Blackmane**) · Legatus **Armin Sturmwahl** · Lord Castellan **Alaric von Helis**.  
 **Locks:** strange allies / **never us** — no Chapter brotherhood; Fenris **wrong wolves → iron pack** filing only.
 
 ---
@@ -19,7 +19,7 @@ He looked, to an untrained eye, like the stories Fenris told about the edge of t
 
 He looked, to anyone who knew Noviomagus filing, like a brother under sentence.
 
-Behind him, ten paces back, Chaplain Ordin of the Fifth *Quinta* held the leash without touching it. Varro’s written ***licentia lupina*** rested in his gorget seal — delegation, not promotion. The wolf-skull helm on his shoulders matched the Judex profile in bone geometry: stripped lupine muzzle, no lower jaw in the upper piece, mandible on rails for the feeding law Ordin obeyed as any other *Reclusiam* priest. The lenses were **not** ember-red. Standard orange read. Troll Slayer Orange. The skull was sentence borrowed from Varro’s office, not a second Executor pretending to be the Wall’s shadow.
+Behind him, ten paces back, Chaplain Ordin of the Fifth QVINTA held the leash without touching it. Varro’s written ***licentia lupina*** rested in his gorget seal — delegation, not promotion. The wolf-skull helm on his shoulders matched the Judex profile in bone geometry: stripped lupine muzzle, no lower jaw in the upper piece, mandible on rails for the feeding law Ordin obeyed as any other *Reclusiam* priest. The lenses were **not** ember-red. Standard orange read. Troll Slayer Orange. The skull was sentence borrowed from Varro’s office, not a second Executor pretending to be the Wall’s shadow.
 
 Ordin watched Einar’s shoulders rise and fall and counted breath intervals the way Drusus had taught every *Amissi* escort to count them.
 
@@ -55,7 +55,7 @@ Skalf walked forward until the heat from the promethium touched his knee guards.
 
 Ordin stepped into the line between Skalf and Einar. Not wide. Precise. The borrowed wolf-skull caught the firelight; orange lenses, not red. Skalf’s gaze snagged on it like a hook.
 
-— Chaplain Ordin — the priest said. — Fifth *Quinta*. *Amissi* escort. This kill-zone is under Judex sentence.
+— Chaplain Ordin — the priest said. — Fifth QVINTA. *Amissi* escort. This kill-zone is under Judex sentence.
 
 — Judex — Skalf repeated, as if tasting a false word. — You wear a Wolf Priest’s dead and walk a **wulfen** in open sight. You call that Imperial?
 

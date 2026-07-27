@@ -10,7 +10,7 @@ Vigilax Prime was not Noviomagus. It had no forges swallowing the horizon, no ad
 
 The *Administratum* logged the system under **Batavian logistical supervision**: convoy routes, anti-piracy escort, arbitration when local nobles confused tithe with private extortion. It was not occupation. It was geometry. The *Cohors Batavorum* drew the perimeter where the Imperium could still levy without bleeding — a line traced in dispatches, wax seals, and occasional **industrial grey** plate on the docks, never in a victory parade.
 
-That season, the **III Vexillatio** anchored the sector with the routine of those who watch a map: long patrols, short reports, silence on the *vox* when there was nothing to add beyond numbers.
+That season, the **TERTIA** anchored the sector with the routine of those who watch a map: long patrols, short reports, silence on the *vox* when there was nothing to add beyond numbers.
 
 What Vigilax did not expect — what **no** world under logistical mandate expects — was the noise of another law landing without warning.
 
@@ -28,7 +28,7 @@ The **Marines Malevolent** had disembarked as if stepping off a roof: no queue, 
 
 — *Suspected widespread corruption.*
 
-There was no **Ordos** seal Vigilax authorities could verify in the package. There was no coordination with the Legatus of the III Vexillatio. There was, in the cold language of the records, no **approved operations plan** for that landing — only the arrival of rust-yellow ceramite and eyes behind visors that looked at civilians as if at infected tissue.
+There was no **Ordos** seal Vigilax authorities could verify in the package. There was no coordination with the Legatus of the TERTIA. There was, in the cold language of the records, no **approved operations plan** for that landing — only the arrival of rust-yellow ceramite and eyes behind visors that looked at civilians as if at infected tissue.
 
 The liaison transmitted the alarm. The alarm became a route. The route became fire.
 
@@ -140,7 +140,7 @@ It was routine execution.
 
 The answer did not come from Varro.
 
-It came from **three Batavi squads** in position before the first shot — because the Legatus of the III Vexillatio, alerted by **Drusus**, had drawn **triangulation** while the Chaplain still walked Serragris square. It was not prophecy. It was calculation: if one focus blew, another would try to “close the account” before someone on Noviomagus could say *contained.*
+It came from **three Batavi squads** in position before the first shot — because the Legatus of the TERTIA, alerted by **Drusus**, had drawn **triangulation** while the Chaplain still walked Serragris square. It was not prophecy. It was calculation: if one focus blew, another would try to “close the account” before someone on Noviomagus could say *contained.*
 
 When the Malevolent roar met air, the answer was *siege discipline* — suppressing fire, crossed angles, Batavian geometry laid like a technical blanket over panic. The six fell. Four alive. The two who tried fragmentation grenades against the civilian cluster did not survive the count — not cheap vengeance, but a simple rule: **immediate threat to non-combatants** gets terminal priority.
 

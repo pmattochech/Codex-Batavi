@@ -9,7 +9,7 @@
 
 Joint Imperial purge on Incus-Gravis. During extraction, Red Corsair strike and warp breach forced **Zone Mortalis** fighting alongside allied Astartes assets (**guest-Chapter identity — legacy prose only**).
 
-## Wolf’s Curse — Haldor (10th Vexillation)
+## Wolf’s Curse — Haldor (DECIMA)
 
 Veteran **Haldor** (*Guard of the Anchor*) collapsed **Inner Vigil** under kinetic stack + sky-wound psychic pressure → terminal **Execratio** / **Versibar**. Beast **chimera-locked** on traitor colors, then turned on the Imperial line. Lord Castellan **non-lethal geometry** with ***The Sentence*** (brainstem strike); body lowered with deliberate care.
 

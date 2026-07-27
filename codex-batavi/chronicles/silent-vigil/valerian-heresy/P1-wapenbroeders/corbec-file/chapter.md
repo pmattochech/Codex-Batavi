@@ -3,12 +3,12 @@
 **Valerian Heresy** · **Chapter 7 of 25** · *Corbec File*
 **Strategium anchor:** ~058 *(timestamp sweep pending)*
 **Quarter:** P1 — Wapenbroeders
-**Theater:** *Prima* witness procedure
+**Theater:** PRIMA witness procedure
 **Status:** **Scaffold** — structure only; prose not drafted.
 
 *Beat lock:* Witness as ammunition; Corbec before rot.
 
-**Chronicle law:** two-power era until open break · **no** *Alabarda* vexilla I–IX during civil war · chronological blindness on artifact origin · ABNT dialogue when drafting.
+**Chronicle law:** two-power era until open break · **no** *Alabarda* vexilla PRIMA–NONA during civil war · chronological blindness on artifact origin · ABNT dialogue when drafting.
 
 **Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`../../../../../atlas-and-topography/castra-vetera-galactic-lock.md`](../../../../../atlas-and-topography/castra-vetera-galactic-lock.md).
 

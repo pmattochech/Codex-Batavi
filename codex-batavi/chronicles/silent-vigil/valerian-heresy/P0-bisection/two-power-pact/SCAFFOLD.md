@@ -25,7 +25,7 @@ Public **unity oath** masks clean geometry: **receipt cheek** vs **threshold che
 ## Beat locks
 
 - Treaty names sectors — who bleeds forward vs who holds council
-- Explicit: **no *Alabarda* vexilla** for I–IX
+- Explicit: **no *Alabarda* vexilla** for PRIMA–NONA
 - Growth plan acknowledged — illegal scale coming
 - Parade narrative seeds Castellan as **face**
 

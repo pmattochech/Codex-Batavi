@@ -17,7 +17,7 @@
 
 ## I. THE LANDING (015.M42)
 
-There were 287 Marines on the first transport. More arrived in the following months in successive waves until the founding contingent of just over a thousand was complete. Primaris, newly stabilized chimeric gene-seed, Tacticus plate with the provisional crest’s paint still wet. None of us had fought together before the landing. The formation was a sketch — numbered Vexillationes, not tempered. The *Codex Astartes* was the only common denominator.
+There were 287 Marines on the first transport. More arrived in the following months in successive waves until the founding contingent of just over a thousand was complete. Primaris, newly stabilized chimeric gene-seed, Tacticus plate with the provisional crest’s paint still wet. None of us had fought together before the landing. The formation was a sketch — numbered Vexilla, not tempered. The *Codex Astartes* was the only common denominator.
 
 Aethelgard Prime received us with the indifference of a world that had already culled everything weak. Swamps of dark water to hip height, forests of trunks with oxidized metal bark, and the black stone peaks the natives called the Needles — from whose heights local fauna descended to hunt. The ecosystem’s apex carnivore, the *Canis Batavorum*, was famous among the natives for leaping from those rocks straight into the great tides to crush the armored skulls of young Leviathans. The Astartes noted the animal with the technical interest reserved for a functional ambush archetype. None of us imagined, in that moment, that we would be the prey.
 
@@ -31,9 +31,9 @@ Writing now, decades later, we file them as catalogued xenos with dossiers and c
 
 ## II. FIRST CONTACT (015.M42 — Aethelgard, Sector Delta-7)
 
-The 3rd Vexillatio was the first to vanish.
+The TERTIA was the first to vanish.
 
-No combat was logged. No broken vox. No distress signal. Twenty-three Marines went on a surface reconnaissance and did not return. When we sent the 1st Vexillatio to investigate, we found the gear intact — armor, weapons, field supplies — arranged with an organization that seemed almost deliberate. As if the enemy had sorted out what it did not need before taking what it did.
+No combat was logged. No broken vox. No distress signal. Twenty-three Marines went on a surface reconnaissance and did not return. When we sent the PRIMA to investigate, we found the gear intact — armor, weapons, field supplies — arranged with an organization that seemed almost deliberate. As if the enemy had sorted out what it did not need before taking what it did.
 
 No bodies. No blood. No conventional trail.
 
@@ -53,7 +53,7 @@ The hunter-enclave did not seize positions. It did not defend territory. It did 
 
 In the first eight months, the Chapter’s response was doctrinal: increase patrol coverage, reduce isolated units, consolidate positions, establish kill zones. The Codex said that was correct procedure. We lost forty-seven Marines applying correct procedure.
 
-Alaric called a Vexillatio meeting after the fourteenth loss. I remember him at the center of the table, armor still stained from the last field, hands open on the map of Aethelgard. Very still. Stiller than usual.
+Alaric called a Vexilla meeting after the fourteenth loss. I remember him at the center of the table, armor still stained from the last field, hands open on the map of Aethelgard. Very still. Stiller than usual.
 
 *“Does anyone have something different from the Codex to offer,”* he said. It was not a question.
 
@@ -103,7 +103,7 @@ It was the first time I understood what Varro did that I could not. Not liturgy.
 
 The exact date is logged: seventeenth day of the third month of 017.M42.
 
-Legionary Tarkan Vosse, 7th Vexillatio. Twelfth year of service. Clean record. The follow-up report noted *“tension above basal standard, within acceptable margin”* — the same phrase I was writing for two-thirds of the Chapter in that period.
+Legionary Tarkan Vosse, SEPTIMA. Twelfth year of service. Clean record. The follow-up report noted *“tension above basal standard, within acceptable margin”* — the same phrase I was writing for two-thirds of the Chapter in that period.
 
 Vosse’s patrol entered an abandoned mining complex in the northern sector. The auspex showed thermal signatures of four stalkers. They cleared the location per Codex protocol — two simultaneous entry points, mutual cover, status vox every two minutes.
 

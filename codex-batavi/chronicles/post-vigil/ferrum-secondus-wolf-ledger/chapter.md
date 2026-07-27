@@ -312,7 +312,7 @@ The chronicle files what follows by **phase**, because even a surgical correctio
 
 **House Kethmar-Residual** — already a legal ghost — was struck from every remaining guild charter in the ring within one work cycle. Assets transferred to Administratum escrow. Board members who had not fled were **tagged** for penal bands or witness custody depending on whether their signatures appeared on transfer authorizations or only on prayer-card templates.
 
-Corbec Ardens received the *Strategium* packet at *Prima* command before the last charter seal cooled.
+Corbec Ardens received the *Strategium* packet at PRIMA command before the last charter seal cooled.
 
 He read the last page once.
 
@@ -516,7 +516,7 @@ Corbec studied three seconds.
 
 — You would know — Branimir said.
 
-— *Prima* would know — Corbec corrected. — I know what **Soon** looks like when it learns to walk.
+— PRIMA would know — Corbec corrected. — I know what **Soon** looks like when it learns to walk.
 
 Vhal closed case **FS-183-041** with a magistrate stamp that read *surgical correction sustained — recurrence watch extended*. The forge kept quota. The Wall kept silence.
 
@@ -542,7 +542,7 @@ He looked at the doodle — wolf echo, crude, copied from a locker card that sho
 
 — Too late for surgical — he said to the ivory brother beside him.
 
-— We are not *Prima* — the brother said.
+— We are not PRIMA — the brother said.
 
 — No — Branimir said. — We are **early warning**. They did not listen early enough.
 
@@ -552,6 +552,6 @@ On Noviomagus, even warnings became paperwork if you filed them correctly.
 
 ---
 
-**Staff filing:** Pre–Vespera **Castellan-idol drift** — surgical Silence + Arbites corrective (not full Vexillatio purge). **Day-120** standing lattice; **amber** chalk wolf (no title) — Corbec *Soon* ladder. **Marshal Vhal** co-supervision precedent; Arbites addendum seed: *personal devotion to command personae ≠ legal loyalty* (case **FS-183-041**, cited at Vespera). **Branimir Vorhalt** / Silence pattern capture. **Alaric** public refusal of **Wall-Sovereign** civic title. **Corbec** *Prima* note: *watch Vespera*.
+**Staff filing:** Pre–Vespera **Castellan-idol drift** — surgical Silence + Arbites corrective (not full Vexilla purge). **Day-120** standing lattice; **amber** chalk wolf (no title) — Corbec *Soon* ladder. **Marshal Vhal** co-supervision precedent; Arbites addendum seed: *personal devotion to command personae ≠ legal loyalty* (case **FS-183-041**, cited at Vespera). **Branimir Vorhalt** / Silence pattern capture. **Alaric** public refusal of **Wall-Sovereign** civic title. **Corbec** PRIMA note: *watch Vespera*.
 
 **Successor purge:** [hive-vespera-red-harvest.md](hive-vespera-red-harvest/chapter.md) · **Chain law:** [proof-of-chain/chapter.md](../silent-vigil/proof-of-chain/chapter.md)

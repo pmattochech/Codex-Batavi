@@ -1,6 +1,6 @@
 # THE EXTENDED COUNCIL AND THE LIBRARIUM
 
-Beneath the absolute Triumvirate — mind, scalpel, and law of the Chapter — the *Cohors Batavorum* sustains its war effort through the **Extended Council**. This body does not debate morality or glory; it audits tool integrity. It rests on two pillars of unyielding maintenance: **Master of the Forge Kadmos** (the Iron Link), cohesion of adamantium and engines, and **Chief Librarian Otho** (the Blood Augur), cohesion of reality and passive radar for **Vexillationes** in theater.
+Beneath the absolute Triumvirate — mind, scalpel, and law of the Chapter — the *Cohors Batavorum* sustains its war effort through the **Extended Council**. This body does not debate morality or glory; it audits tool integrity. It rests on two pillars of unyielding maintenance: **Master of the Forge Kadmos** (the Iron Link), cohesion of adamantium and engines, and **Chief Librarian Otho** (the Blood Augur), cohesion of reality and passive radar for **Vexilla** in theater.
 
 ## 1. CHIEF LIBRARIAN OTHO (SEER OF FRICTION)
 
@@ -22,7 +22,7 @@ Noviomagus’s *Librarium* acts as the Imperium’s coldest intelligence agency.
 
 ### 2.1 Batavian Haruspices (embedded read)
 
-Each **Vexillatio** embeds **five** **Batavian Haruspices** — *Librarius* battle-brothers trained exclusively in **Haruspicium Batavorum**. They are **not** a fifth specialty cohort; they sit in the **organic support** slice of the 500-cell grid, with **formal liaison** to the **Nullity Cohort** (psychic *vox* channel, *blank*-adjacent drills, witch-mark interdiction). Their output is **telemetry**: friction variables fed to the line, not theater-wide warp storms.
+Each **Vexilla** embeds **five** **Batavian Haruspices** — *Librarius* battle-brothers trained exclusively in **Haruspicium Batavorum**. They are **not** a fifth specialty cohort; they sit in the **organic support** slice of the 500-cell grid, with **formal liaison** to the **Nullity Cohort** (psychic *vox* channel, *blank*-adjacent drills, witch-mark interdiction). Their output is **telemetry**: friction variables fed to the line, not theater-wide warp storms.
 
 Operational shorthand in orders: **haruspex** (singular) / **haruspices** (network). Formal scrollwork and archive tags prefer **Haruspicium Batavorum** for the doctrine and **Batavian Haruspices** for the practitioners.
 
@@ -38,19 +38,19 @@ Chronic Warp **audition** is a Wolf’s Curse accelerant for unschooled psykers.
 
 ## 3. THE ARMOURIUM AND KADMOS’S CONCLAVE (OBEDIENT IRON)
 
-The **Master of the Forge** does not command a hidden “eleventh company”: he commands the **Armourium** — the entirety of **Techmarines**, **Artificers**, and **tech-acolytes** whose job is keeping the **ceiling of 5,000** operational. Most Techmarines **rotate** between **Noviomagus** (planetary forges, shipyards, ***Castra-Lupus* commissions**) and **Vexillationes** in theater, with minimum dwell set by the *Strategium* so the Chapter does not hoard engineers in the rear and starve the line.
+The **Master of the Forge** does not command a hidden “eleventh company”: he commands the **Armourium** — the entirety of **Techmarines**, **Artificers**, and **tech-acolytes** whose job is keeping the **ceiling of 5,000** operational. Most Techmarines **rotate** between **Noviomagus** (planetary forges, shipyards, ***Castra-Lupus* commissions**) and **Vexilla** in theater, with minimum dwell set by the *Strategium* so the Chapter does not hoard engineers in the rear and starve the line.
 
-**Numeric fit:** **four** campaign Techmarines per Vexillatio (Vex. I–X), **frozen** in the Standard Order of Battle; the **Master of the Forge** holds the **fifth** supreme technical post **inside** the 10th Vexillatio (see [military-hierarchy.md](military-hierarchy.md) §4.3). The **Conclave** on Noviomagus rotates **who** fills each of the four campaign slots — it does not inflate the ceiling. Everything **counts** toward **5,000** Astartes.
+**Numeric fit:** **four** campaign Techmarines per Vexilla (PRIMA–DECIMA), **frozen** in the Standard Order of Battle; the **Master of the Forge** holds the **fifth** supreme technical post **inside** the DECIMA (see [military-hierarchy.md](military-hierarchy.md) §4.3). The **Conclave** on Noviomagus rotates **who** fills each of the four campaign slots — it does not inflate the ceiling. Everything **counts** toward **5,000** Astartes.
 
 **Interface with Kadmos:** The Master of the Forge’s word approves chassis variants, siege *auspex*, and *Machine Spirit* protocols; the Triumvirate treats the Armourium as an **indivisible logistical arm** of Friction Geometry.
 
 ## 4. SYNTHESIS: COUNCIL, ORDERS, AND THE 5,000
 
-| Council pillar | Order | Relation to Vexillationes |
+| Council pillar | Order | Relation to Vexilla |
 |----------------|--------|---------------------------|
-| **Otho** | *Librarium* | **Batavian Haruspices** in each Vexillatio; **Haruspicium Batavorum** (passive); **Blindgate** (active mental defense); Nullity liaison. |
+| **Otho** | *Librarium* | **Batavian Haruspices** in each Vexilla; **Haruspicium Batavorum** (passive); **Blindgate** (active mental defense); Nullity liaison. |
 | **Kadmos** | *Armourium* | Techmarines and Artificers; forge ↔ front rotation; ***Castra-Lupus* commissions** and incumbent sustainment. |
-| *(Triumvirate)* | *Medicinae* / *Reclusiam* | **Drusus** and **Varro** head Apothecary and Chaplain networks; bodies deployed **inside** the 500 per Vexillatio. |
+| *(Triumvirate)* | *Medicinae* / *Reclusiam* | **Drusus** and **Varro** head Apothecary and Chaplain networks; bodies deployed **inside** the 500 per Vexilla. |
 
 None of these structures sit “outside” the ceiling: they are **layers** on the same **10 × 500** mesh. *Frozen table (4+4+3+5; Tenth +5):* [military-hierarchy.md](military-hierarchy.md) §4.3; operational adjustments §4.5.
 
@@ -76,7 +76,7 @@ Four seats alone carry **full-resolution** perception of the Chapter’s recurri
 | **Drusus** | *Medicinae* / Apothecarion cadres | **Margins**, forbidden merges, interval rules, triage law — **procedure as mercy**; biomarkers without bedtime stories |
 | **Otho** | *Librarium* / Batavian Haruspices | **Anomaly classes**, Grid slang, Blindgate drills — **telemetry mysticism**; superstition filed as **neurokinetic / sensor script** where justified |
 | **Varro** | *Reclusiam* / Chaplain lattice | **Bind-words**, silence discipline, licensed liturgy — **spiritual maintenance manuals**; terror as **audit**, not rant |
-| **Alaric** | Legati, **10th *Decima*** anchor lattice, formal **command exemplum** | **Friction geometry**, *We hold*, visibility of **humility-in-the-kitchen** — **command gravity** without catechism; NCOs learn **pattern** before **parable** |
+| **Alaric** | Legati, **10th DECIMA** anchor lattice, formal **command exemplum** | **Friction geometry**, *We hold*, visibility of **humility-in-the-kitchen** — **command gravity** without catechism; NCOs learn **pattern** before **parable** |
 
 **Frontline truth model:** Veterans often hold **correct predictions** with **wrong metaphysics** — that is **success**, not failure: heuristics work; causal stories can wait for *Vermilion* time.
 

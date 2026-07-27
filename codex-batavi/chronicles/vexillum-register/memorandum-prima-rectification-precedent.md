@@ -1,8 +1,8 @@
-# MEMORANDUM — *Prima* fourth field (rectification charge)
+# MEMORANDUM — PRIMA fourth field (rectification charge)
 
 **Classification:** *Strategium* / *Armourium* annex — tithe-facing register  
 **Date filed:** 051.M42  
-**Subject:** Precedent for **obligation field** on **I** *Vexillatio* ***Alabarda*** (not a battle honour)
+**Subject:** Precedent for **obligation field** on **I** *Vexilla* ***Alabarda*** (not a battle honour)
 
 ---
 
@@ -22,8 +22,8 @@ This document records why **field 4** of the First’s battle standard carries *
 
 ## IV. Certification
 
-**Field 4** for *Prima* is **not** submitted as an after-action victory. It is **instrument**: bounded guilt, forward duty, **no denial** under smoke.
+**Field 4** for PRIMA is **not** submitted as an after-action victory. It is **instrument**: bounded guilt, forward duty, **no denial** under smoke.
 
-*Strategium* acknowledges **no** competing “greatest success” panel for **I** *Vexillatio* on the same axis as **II–IX**.
+*Strategium* acknowledges **no** competing “greatest success” panel for **I** *Vexilla* on the same axis as **SECVNDA–NONA**.
 
-**Cross-ref:** [vexilla-by-vexillatio-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §2–2.2.
+**Cross-ref:** [vexilla-by-vexilla-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §2–2.2.

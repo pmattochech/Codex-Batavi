@@ -109,9 +109,9 @@ Denied content:
 
 | Vacant seat | First substitute | Second substitute |
 |-------------|------------------|-------------------|
-| *Prima* | *Secunda* | *Quinta* |
-| *Quinta* | *Prima* | *Tertia* |
-| Other I–IX | Theater-linked Legatus (*Strategium* map) | Radulf (witness until re-seat) |
+| PRIMA | SECVNDA | QVINTA |
+| QVINTA | PRIMA | TERTIA |
+| Other PRIMA–NONA | Theater-linked Legatus (*Strategium* map) | Radulf (witness until re-seat) |
 
 Substitute may not execute kill-route phases without **Drusus** briefing certification. Partial briefing → Tier I–II authority ceiling only.
 

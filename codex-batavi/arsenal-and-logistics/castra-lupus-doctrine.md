@@ -2,7 +2,7 @@
 
 Chapter law for the Lord Castellan’s personal kit. Distinct from the **fortress monastery** of the same name on Noviomagus Prime ([`chapter-organization.md`](../personae-command-index/chapter-organization.md) § Fortress Monastery): both invoke **garrison wolf** (*castra* + *lupus*), but the **armor office** and the **citadel** are separate filings.
 
-**Cross-reference:** [`military-hierarchy.md`](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3 (10th Vexillatio / Castellan); [`legati-operational-register.md`](legati-operational-register.md) (*vir in acie*); [`chassis-and-armor-catalog.md`](chassis-and-armor-catalog.md); [`dossier-alaric.md`](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) §1.2 (Helis configuration).
+**Cross-reference:** [`military-hierarchy.md`](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3 (DECIMA / Castellan); [`legati-operational-register.md`](legati-operational-register.md) (*vir in acie*); [`chassis-and-armor-catalog.md`](chassis-and-armor-catalog.md); [`dossier-alaric.md`](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) §1.2 (Helis configuration).
 
 ---
 
@@ -20,16 +20,16 @@ It is **not** a single relic chassis passed between Castellans. Each proclamatio
 
 ## 1.1 *Lupus in castra* vs *vir in acie* (Castellan vs Legatus)
 
-| | **Lord Castellan** | **Legatus (I–IX)** |
+| | **Lord Castellan** | **Legatus (PRIMA–NONA)** |
 | -- | ------------------ | ------------------ |
 | **Metaphor** | **The wolf in the fortress** — predator as **institution**, citadel-scale, mesh capstone | **The man in the line** — sovereign **inside** the five hundred, not above it as monster or regalia |
-| **Body** | ***Castra-Lupus*** (Castellan artificer office) | **Legatus artificer** — Noviomagus **Mark X** commission per incumbent; **chest aquila**; ***Typus Primus — Ardens*** (*Prima* reference). *Prima* line = **vex-calibrated** Noviomagus Standard traced from reference gauge ([`legati-operational-register.md`](legati-operational-register.md) § Legatus armor) |
+| **Body** | ***Castra-Lupus*** (Castellan artificer office) | **Legatus artificer** — Noviomagus **Mark X** commission per incumbent; **chest aquila**; ***Typus Primus — Ardens*** (PRIMA reference). PRIMA line = **vex-calibrated** Noviomagus Standard traced from reference gauge ([`legati-operational-register.md`](legati-operational-register.md) § Legatus armor) |
 | **Face** | ***Caput Ferreum Castellani*** (*Iron Head* — industrial lupine **head**, office regalia) | **Legatus helm** — **per-incumbent** family (e.g. *Typus Primus* **Corvus-pattern**); **crimson / white alternating transverse crest** (all Legati); orange *Alabarda* relay wash |
-| **Identity carrier** | Chassis + helm + *Decima* justice cloth | ***Alabarda* head group** + **command geometry** among the 500 |
+| **Identity carrier** | Chassis + helm + DECIMA justice cloth | ***Alabarda* head group** + **command geometry** among the 500 |
 | **Strategic read** | Where the **fortress** stands, mesh geometry holds | Where **I** plant the pole, **we** do not retreat — still **one brick** in the wall |
 
 **Chapter Latin (minutes / *Armourium*):** ***lupus in castra*** (Castellan) · ***vir in acie*** (Legatus).  
-**Field shorthand:** **the wolf** (Castellan only) · **the pole** / **the Legatus** (I–IX).
+**Field shorthand:** **the wolf** (Castellan only) · **the pole** / **the Legatus** (PRIMA–NONA).
 
 **Explicit negative:** Legati do **not** receive ***Castra-Lupus***, ***Caput Ferreum***, or Castellan office regalia. Per-Legatus configuration is filed in [`legati-operational-register.md`](legati-operational-register.md) and dossiers §1.
 
@@ -75,11 +75,11 @@ Personal regalia on a prior incumbent’s configuration (Alaric: Viggo pelts, ex
 | Site | Role |
 | ---- | ---- |
 | **Noviomagus Prime** | **Birth** — new Noviomagus-pattern artificer work, line replacement, *Castra-Lupus* commission forge |
-| **Castra-Vetera Prime** (**II *Secunda***) | **Vault + sustainment** — repair, refit, pattern fidelity, sealed TDA libraries, predecessor *Castra-Lupus* archive |
+| **Castra-Vetera Prime** (**SECVNDA**) | **Vault + sustainment** — repair, refit, pattern fidelity, sealed TDA libraries, predecessor *Castra-Lupus* archive |
 
 Under the Administrative Throne, kilometers of **registry vaults** ([`worlds-central-bastion.md`](../atlas-and-topography/cultures/worlds-central-bastion.md)) include ***Depositorium Cataphractae*** — a Legiones-era **Cataphractii-pattern** cache filed for centuries as **sealed structural reserve, pattern obsolete**. Post–Execratio emergency draw (**~CV y19** / ~**031.M42**) supplied the **only** base mold Kadmos could refit to Alaric’s locked **~2.85 m** span without **Red Wake**–class footprint — inventory error that saved the first modern Castellan configuration.
 
-*Secunda*’s measured-fire culture treats Castellan sustainment as **ledger armory**: every plate stamped, every refit witnessed, every deviation filed. *Prima* makes steel at scale; *Secunda* **keeps** what must not be lost.
+SECVNDA’s measured-fire culture treats Castellan sustainment as **ledger armory**: every plate stamped, every refit witnessed, every deviation filed. PRIMA makes steel at scale; SECVNDA **keeps** what must not be lost.
 
 ---
 

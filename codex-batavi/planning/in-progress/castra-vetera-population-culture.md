@@ -19,7 +19,7 @@
 | Local mortal sin **false concordance** (*misfile*) | **Accepted** |
 | Legatus public read **the Caliper** (measured fire / legal geometry) | **Accepted** |
 | Hymn mood map (author-side) | **Applied** |
-| ***Depositorium Cataphractae*** | Facility under II *Secunda* in §7A — **not** separate planet |
+| ***Depositorium Cataphractae*** | Facility under SECVNDA in §7A — **not** separate planet |
 | Phase B / C | **Deferred** |
 | Atlas links | `worlds-central-bastion.md` § Castra-Vetera Prime · atlas `INDEX.md` |
 

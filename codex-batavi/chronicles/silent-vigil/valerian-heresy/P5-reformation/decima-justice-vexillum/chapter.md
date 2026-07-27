@@ -2,21 +2,21 @@
 
 **Draft scaffold:** [SCAFFOLD.md](SCAFFOLD.md)
 
-**Classification:** Chapter narrative — *Armourium* / *Reclusiam* register (not a Legatus *Alabarda* field-4 triumph; **X** *Decima* **justice vexillum**)  
+**Classification:** Chapter narrative — *Armourium* / *Reclusiam* register (not a Legatus *Alabarda* field-4 triumph; **DECIMA** **justice vexillum**)  
 **Companion:** Sentence and aftermath — [malakor-v/chapter.md](../../P4-malakor/malakor-v/chapter.md). Read both; the cloth is **verdict after** the corridor.
 **When:** **051.M42** (commission week; event **050.M42** Malakor V)  
 **Where:** **Noviomagus Prime** — *Armourium* heraldic annex; *Reclusiam* witness chamber  
-**Who:** **Varro** (doctrinal seal); **Kadmos** (forge law); unnamed ***Decima* Ancient-equivalent** (first bearer on file); echo: **Captain Markus Graile** (later line drill)
+**Who:** **Varro** (doctrinal seal); **Kadmos** (forge law); unnamed **DECIMA Ancient-equivalent** (first bearer on file); echo: **Captain Markus Graile** (later line drill)
 
-**Cross-references:** [register-decima-malakor-justice.md](../../../../vexillum-register/register-decima-malakor-justice.md) · [vexilla-by-vexillatio-design.md](../../../../../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §4 · [dossier-markus-graile.md](../../../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) · [master-chronology.md](../../../../../personae-command-index/events-and-chronologies/master-chronology.md) §III
+**Cross-references:** [register-decima-malakor-justice.md](../../../../vexillum-register/register-decima-malakor-justice.md) · [vexilla-by-vexilla-design.md](../../../../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §4 · [dossier-markus-graile.md](../../../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) · [master-chronology.md](../../../../../personae-command-index/events-and-chronologies/master-chronology.md) §III
 
 ---
 
 ## I. NOT A TROPHY SKIN
 
-The *Strategium* did not ask for a battle honour in the **II–IX** grammar.
+The *Strategium* did not ask for a battle honour in the **SECVNDA–NONA** grammar.
 
-No kill tally. No named xenos spire. The tenth lattice’s standard was to carry **sentence** the way other Vexillationes carried **triumph** — a difference the Administratum scribes learned to phrase as **separate battle standard** so tithe auditors did not file *Decima* beside Legatus logistics by mistake.
+No kill tally. No named xenos spire. The tenth lattice’s standard was to carry **sentence** the way other Vexilla carried **triumph** — a difference the Administratum scribes learned to phrase as **separate battle standard** so tithe auditors did not file DECIMA beside Legatus logistics by mistake.
 
 **Kadmos** laid the stencil on the adamantium bench like a surgeon laying a rib-spreader — respect without tenderness.
 
@@ -42,11 +42,11 @@ Kadmos signed heat tolerances for battle smokes. Varro signed **oath alignment**
 
 ## III. THE HAFT
 
-The brother chosen to drill carry was not yet **Markus Graile** — decades would pass before that captain’s file sat thick enough for *Decima* line face. The first name on the bearer log is **redacted** in public annex; corridor myth calls him only **the First Ancient**, which is both honor and **burden**.
+The brother chosen to drill carry was not yet **Markus Graile** — decades would pass before that captain’s file sat thick enough for DECIMA line face. The first name on the bearer log is **redacted** in public annex; corridor myth calls him only **the First Ancient**, which is both honor and **burden**.
 
 He lifted the pole in the annex and felt weight unrelated to mass: **three hundred** pairs on the cord from **Malakor** elsewhere in the fleet memory — **not** three hundred and one.
 
-He did not ask why the count mattered. *Decima* learned early not to ask certain questions aloud.
+He did not ask why the count mattered. DECIMA learned early not to ask certain questions aloud.
 
 ---
 
@@ -62,7 +62,7 @@ No speech. *We hold* was not the word for that hour.
 
 ## V. LATER — THE LESSON
 
-Years into the Silent Vigil, **Markus Graile** — *Decima* captain, median plate, plain gladius — would stand before loaned sergeants from **I–IX** and tap the justice charge with one knuckle.
+Years into the Silent Vigil, **Markus Graile** — DECIMA captain, median plate, plain gladius — would stand before loaned sergeants from **PRIMA–NONA** and tap the justice charge with one knuckle.
 
 — **I am not the Throne** — he would say, voice even so host Legati did not have to flinch on the net. — **I am the lesson they rehearse before the Throne moves.**
 
@@ -81,4 +81,4 @@ The justice vexillum is **doctrine made cloth** — *Varro*’s oath and the Cul
 
 ---
 
-**End of Chapter 21** · **Next:** [prima-obligation](../prima-obligation/chapter.md)
+**End of Chapter 21** · **Next:** [PRIMA-obligation](../prima-obligation/chapter.md)

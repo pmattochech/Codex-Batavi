@@ -3,7 +3,7 @@
 **Classification:** Chapter tactical narrative — *Vermilion* adjunct (Judex witness; **not** *Alabarda* field 4)  
 **When:** **074.M42** (Silent Vigil)  
 **Where:** **Moraine-Nine** — brack shepherd moon, Aethelgard tide theater; wreck of **World Eaters** prison hulk **Kzorn’s Maw** (translated registry)  
-**Who:** **Lieutenant Einar** (recovery as **Einar Dreadwolf**); **Legatus Armin Sturmwahl**; **Varro** (Judex); **V** *Quinta* recovery element
+**Who:** **Lieutenant Einar** (recovery as **Einar Dreadwolf**); **Legatus Armin Sturmwahl**; **Varro** (Judex); **QVINTA** recovery element
 
 **Cross-references:** [kzorns-maw/chapter.md](../kzorns-maw/chapter.md) (capture — Shepherd’s Hook, conscious Nails, ship slaughter) · [dossier-einar-dreadwolf.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [dossier-armin-sturmwahl.md](../../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [dossier-varro.md](../../../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [aar-vex-v-dreadwolf-red-tide.md](../../vexillum-register/aar-vex-v-dreadwolf-red-tide.md)
 
@@ -35,7 +35,7 @@ The Navy liaison on the hardline made the mistake of speaking hope because her c
 
 She went quiet. The bay did not.
 
-Around him, *Quinta* armor stood in recovery load — bolt pistols, chainaxes racked for close work, jump packs **absent** because this was gunboat insert and mud war, not descent glamour. Twelve brothers. Enough to fight if the wreck fought back. More than enough to **carry** what remained. Brother **Haldor** had served beside **Lieutenant Einar** on three Needles assaults; he did not ask whether Einar could be alive. He asked, in the flat tone assault specialists used when they already knew the answer:
+Around him, QVINTA armor stood in recovery load — bolt pistols, chainaxes racked for close work, jump packs **absent** because this was gunboat insert and mud war, not descent glamour. Twelve brothers. Enough to fight if the wreck fought back. More than enough to **carry** what remained. Brother **Haldor** had served beside **Lieutenant Einar** on three Needles assaults; he did not ask whether Einar could be alive. He asked, in the flat tone assault specialists used when they already knew the answer:
 
 — **Do we bag gene-grace at the wreck line or on the gunboat?**
 
@@ -65,9 +65,9 @@ Sturmwahl looked at him.
 
 No one in the bay mistook that for drama. It was **procedure**.
 
-The gunboat *Brine Ledger* waited in the tide well with engines dialed to **quiet** — Moraine-Nine’s brack did not forgive heat signatures that advertised Astartes pride to feral Orks. Insert in forty minutes. Return before second tide surge. Burn rites on the deck if the mud refused to give up dry ground. The timetable was the kind Navy called **modest** and *Quinta* called **honest**: enough time to recover bodies, not enough time to pretend the moon was safe.
+The gunboat *Brine Ledger* waited in the tide well with engines dialed to **quiet** — Moraine-Nine’s brack did not forgive heat signatures that advertised Astartes pride to feral Orks. Insert in forty minutes. Return before second tide surge. Burn rites on the deck if the mud refused to give up dry ground. The timetable was the kind Navy called **modest** and QVINTA called **honest**: enough time to recover bodies, not enough time to pretend the moon was safe.
 
-Sturmwahl’s thumb found the grav-comp test stud on his jump harness anyway. Habit, not mission — packs stayed racked. Sub-audible hum rose through the bay floor, held, **passed**. Around him, *Quinta* had learned that sound the way shore children learned storm horns: if the hum was wrong, the slate **delayed**. If the hum was wrong, you **did not** go, because gravity always collected and the Needles had taught the Chapter that the tide did not refund mistakes.
+Sturmwahl’s thumb found the grav-comp test stud on his jump harness anyway. Habit, not mission — packs stayed racked. Sub-audible hum rose through the bay floor, held, **passed**. Around him, QVINTA had learned that sound the way shore children learned storm horns: if the hum was wrong, the slate **delayed**. If the hum was wrong, you **did not** go, because gravity always collected and the Needles had taught the Chapter that the tide did not refund mistakes.
 
 The hum held.
 
@@ -85,7 +85,7 @@ The manifest column was short enough to be an insult.
 
 **Lieutenant Einar.** Needles cadre. Assault line. Status: **unresolved**.
 
-Below him, eleven *Quinta* names already stamped **KIA / hulk capture** before the crash telemetry arrived: **Stenmark, Rurik, Torsten, Voss, Wold, Yorik, Grimvard, Leif, Sigvard, Brand, Hakon.** The astropath had not sent poetry. He had sent **accounting** that still expected the moon to argue.
+Below him, eleven QVINTA names already stamped **KIA / hulk capture** before the crash telemetry arrived: **Stenmark, Rurik, Torsten, Voss, Wold, Yorik, Grimvard, Leif, Sigvard, Brand, Hakon.** The astropath had not sent poetry. He had sent **accounting** that still expected the moon to argue.
 
 The recovery element’s names were not on that slate. They were on the insert roster — **Haldor, Falken, Eskil, Orm, Knut** among the twelve — men still breathing, still able to carry what the annex had already written in ink.
 
@@ -117,7 +117,7 @@ Brother **Falken** — youngest on the insert, still wearing the assault special
 
 Falken swallowed that and kept checking seals.
 
-**Orm** and **Knut** worked the chainaxe racks in silence — old Needles habit, steel kissed once per weapon as if the moon might judge the sound. **Eskil** ran auspex calibration against the hull’s interference whine; the rest stacked bolt crates with the bored precision of men who had already decided grief would be a luxury after insert. One veteran near the Judex bench watched Varro without watching him — the way *Quinta* men did when they wanted to know whether the mission was punishment, penance, or law.
+**Orm** and **Knut** worked the chainaxe racks in silence — old Needles habit, steel kissed once per weapon as if the moon might judge the sound. **Eskil** ran auspex calibration against the hull’s interference whine; the rest stacked bolt crates with the bored precision of men who had already decided grief would be a luxury after insert. One veteran near the Judex bench watched Varro without watching him — the way QVINTA men did when they wanted to know whether the mission was punishment, penance, or law.
 
 None of them said **rescue**.
 
@@ -165,7 +165,7 @@ What it found was **heat** at the crash epicenter — one signature moving throu
 
 The first Orks came before the ramp finished hissing shut.
 
-Not a Waaagh! — feral scum drawn by crash heat and the smell of Astartes gene-grace they could not name but knew how to **eat**. Six bodies on the left spit. **Eskil**’s auspex had called them three seconds early; **Haldor** and **Orm** met them with bolt pistols at mouth height, economical, no jump-pack glamour, just the *Quinta* habit of spending ammunition like seconds on a landing clock.
+Not a Waaagh! — feral scum drawn by crash heat and the smell of Astartes gene-grace they could not name but knew how to **eat**. Six bodies on the left spit. **Eskil**’s auspex had called them three seconds early; **Haldor** and **Orm** met them with bolt pistols at mouth height, economical, no jump-pack glamour, just the QVINTA habit of spending ammunition like seconds on a landing clock.
 
 — **Left approach clear** — Haldor voxed. — **No greenskin between us and the hull spine.**
 
@@ -181,7 +181,7 @@ The prison ship’s shadow was worse up close than from orbit.
 
 No Navy honor guard. No Mechanicus salvage tag. Only scrap-villages stirring at the forest edge, Ork silhouettes watching from mangrove teeth, waiting to see whether the grey giants would leave meat behind.
 
-*Quinta* moved in recovery geometry — two-man bounds, gene-grace sacks on **Falken**’s back at the gunboat line, the rest forward. Sturmwahl kept the slate clipped to his wrist. Each name he closed was a small act of war against the moon’s appetite.
+QVINTA moved in recovery geometry — two-man bounds, gene-grace sacks on **Falken**’s back at the gunboat line, the rest forward. Sturmwahl kept the slate clipped to his wrist. Each name he closed was a small act of war against the moon’s appetite.
 
 They found **Brand** first.
 
@@ -207,7 +207,7 @@ Sturmwahl looked at him.
 
 — **I am on time** — the Judex answered. — **The ship is late.**
 
-They burned nothing yet. *Quinta* doctrine on Moraine-Nine was **carry first**, burn on deck where Drusus’s air was clean. The tide did not get smoke rights to the Chapter dead.
+They burned nothing yet. QVINTA doctrine on Moraine-Nine was **carry first**, burn on deck where Drusus’s air was clean. The tide did not get smoke rights to the Chapter dead.
 
 **Rurik** came next, then **Voss**, then **Wold** — each found in a different corridor mouth, each telling the same story in different postures: brothers who had stopped being **arguments** the enemy could use. Some bore the nail beds. Some bore only the **attempt**. Stenmark had died with his hands still gripping a chainaxe that was not Chapter issue — ship steel, World Eaters forge smell baked into the links.
 
@@ -237,7 +237,7 @@ He had heard **work**.
 
 They climbed the fused spine in silence.
 
-The *Quinta* way on Aethelgard was to treat silence as **load-bearing** — not emptiness, structure. Sturmwahl felt the load increase with every meter: hull groaning, tide sucking at the pans below, the metronome ahead counting out a tempo that was not prayer and not rage but the terrible middle thing a brother became when the ship had already taken everything except the **body**.
+The QVINTA way on Aethelgard was to treat silence as **load-bearing** — not emptiness, structure. Sturmwahl felt the load increase with every meter: hull groaning, tide sucking at the pans below, the metronome ahead counting out a tempo that was not prayer and not rage but the terrible middle thing a brother became when the ship had already taken everything except the **body**.
 
 At the ridge crest, the epicenter opened below.
 
@@ -331,7 +331,7 @@ He brought his fists to his **clenched chest** — not surrender. **Salute**. He
 
 — **We hold** — Einar said — **as the Needles hold the cold tide.**
 
-The words were *Quinta* assault cadence — Iron Protocol bent through Aethelgard’s coast, where **hold** meant you did not let the surge take the names on the seawall. Not Faith Protocol. Not a plea. An **answer** to the geometry of the moment: still Batavi, still bounded, still refusing to let the tide rewrite what he was.
+The words were QVINTA assault cadence — Iron Protocol bent through Aethelgard’s coast, where **hold** meant you did not let the surge take the names on the seawall. Not Faith Protocol. Not a plea. An **answer** to the geometry of the moment: still Batavi, still bounded, still refusing to let the tide rewrite what he was.
 
 Sturmwahl’s blade did not fall.
 
@@ -427,7 +427,7 @@ Varro’s voice came from the dark hood line.
 
 **Einar** flinched once — micro, there and gone — at the weight of that. He did not argue. Arguing with Varro was how men discovered they had already confessed.
 
-The shell hatch opened on brack wind. **Haldor** stood in the corridor with eight other *Quinta* silhouettes and the row of gene-grace sacks like a choir that would never sing. Beyond them, on the open aft deck where Navy rules allowed Astartes fire only under seal, **Falken** and **Eskil** had prepared the burn pans — promethium channels, tide shields, wax tallies ready for Drusus’s later quarrel.
+The shell hatch opened on brack wind. **Haldor** stood in the corridor with eight other QVINTA silhouettes and the row of gene-grace sacks like a choir that would never sing. Beyond them, on the open aft deck where Navy rules allowed Astartes fire only under seal, **Falken** and **Eskil** had prepared the burn pans — promethium channels, tide shields, wax tallies ready for Drusus’s later quarrel.
 
 Sturmwahl led the rites himself.
 
@@ -439,7 +439,7 @@ No one corrected him.
 
 **Einar** heard it. He did not claim it. He did not refuse it.
 
-Sturmwahl watched the tide take the ash and thought of Selene-Black years later, of Ork spires and jump fuel spent like coins — different war, same **invoice**. The moon had already earned a title in *Quinta* mouths: **Red Tide**. The brother had earned one in theirs.
+Sturmwahl watched the tide take the ash and thought of Selene-Black years later, of Ork spires and jump fuel spent like coins — different war, same **invoice**. The moon had already earned a title in QVINTA mouths: **Red Tide**. The brother had earned one in theirs.
 
 *Brine Ledger* lifted before second surge. The feral hemisphere shrank to a stain on the viewport. **Einar** sat in the farthest bench with cables still in his mane and **Varro** between him and the door, not as guard — as **hinge**.
 
@@ -459,7 +459,7 @@ Silent Vigil did not celebrate survivors. It **filed** them and returned them to
 
 ### The honor name
 
-**Einar Dreadwolf** spread through **V** *Quinta* faster than ink.
+**Einar Dreadwolf** spread through **QVINTA** faster than ink.
 
 It started on *Brine Ledger*’s aft deck — **Knut**’s whisper, the burn smoke, the way a name became convenient when the annex no longer fit in the mouth. By the time the gunboat made Aethelgard tide well, brothers who had not seen the bowl were already using it in checklists and jump briefings as if the word had always existed.
 
@@ -525,7 +525,7 @@ Not to crowds. To the wall. To **Armin**. To the Judex who would file the words 
 
 ### What clerks could audit
 
-* **Name:** **Einar Dreadwolf** — honor registry, assault *Quinta*; **not** *Reclusiam* soul-title.  
+* **Name:** **Einar Dreadwolf** — honor registry, assault QVINTA; **not** *Reclusiam* soul-title.  
 * **Biology:** **Furor-only** ~century; **first Exanimus** forced **074.M42** (Nails + Khorne-adjacent bleed); cable-mane merge; Drusus maintenance schedule.  
 * **Assignment:** **The Lost** (*Amissi*); **Varro** direct authority on **every** mission slate; traitor-hunt / Versibar recovery (Armageddon-class splinters logged later); full **Mk X Tacticus** refit per [amissi-the-lost.md](../../../personae-command-index/doctrine-and-organs/amissi-the-lost.md).  
 * **Doctrine:** Eleven shipboard mercy killings — **frontier duty** under Sturmwahl seal; Confessor lattice accepts soul-geometry defense; **not** absolution.  
@@ -548,7 +548,7 @@ In the assault bay, **Haldor** drilled closure cadence with recruits who did not
 
 **Einar** kept mess-hall clearance. Not contempt for brothers — **focus**. When Varro’s watch interval was active, he ate where the Judex could see the mandible of discipline work: manual, industrial, unromantic. The Chapter honored him at distance. He preferred distance. Distance was the only leash he still trusted.
 
-Once, a Confessor adjunct from *Quinta*’s banner court asked whether the gift line should be taught as exemplum.
+Once, a Confessor adjunct from QVINTA’s banner court asked whether the gift line should be taught as exemplum.
 
 Varro’s answer arrived before Sturmwahl’s:
 
@@ -558,11 +558,11 @@ Varro’s answer arrived before Sturmwahl’s:
 
 ### Red Tide (oral register)
 
-Moraine-Nine did not appear on public *Alabarda* cloth. It was too small for heraldic triumph and too ugly for Administratum poetry. In *Quinta* mouths it became **Red Tide** — the brack pan where eleven names were burned and one name was **not** taken.
+Moraine-Nine did not appear on public *Alabarda* cloth. It was too small for heraldic triumph and too ugly for Administratum poetry. In QVINTA mouths it became **Red Tide** — the brack pan where eleven names were burned and one name was **not** taken.
 
 The tide, for once, had been denied its receipt.
 
-Later, when **Gutgrind** fell on Selene-Black (**121.M42**), **Armin Sturmwahl**’s assault bay would run jump drills on a moon that **wanted** to be conquered. Brothers would laugh about scrap-spires and Ork kings because laughter was how *Quinta* spent fear without spending discipline.
+Later, when **Gutgrind** fell on Selene-Black (**121.M42**), **Armin Sturmwahl**’s assault bay would run jump drills on a moon that **wanted** to be conquered. Brothers would laugh about scrap-spires and Ork kings because laughter was how QVINTA spent fear without spending discipline.
 
 And in the hum-check silence before descent, veterans who had been on *Brine Ledger* would hear something under the grav-comp tone — not superstition, **memory**:
 

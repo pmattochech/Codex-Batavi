@@ -5,13 +5,13 @@
 
 **Note:** Many Threshold bodies host **sparse** populations — culture is often **service castes**, **hereditary crews**, **monastic specialists**. Faith of work expresses as **watch**, **listen**, **delay**.
 
-**Wings:** VIII *Octava* (Maleventum periphery) and IX *Nona* (Vigil-Lucis periphery) Phase C stubs below. Great Reef remains Phase A twin of Station-Maleventum ethnography — **not** an Octava wing ethnography body.
+**Wings:** OCTAVA (Maleventum periphery) and NONA (Vigil-Lucis periphery) Phase C stubs below. Great Reef remains Phase A twin of Station-Maleventum ethnography — **not** an OCTAVA wing ethnography body.
 
 ---
 
 ## The Great Reef
 
-**Filing note:** Phase A **twin** of Station-Maleventum ethnography (holds/arcs) — **not** Phase C *Octava* wing periphery. Reef contact surfaces appear in Phase B bleed; wing stubs do not reopen a separate Reef ethnography.
+**Filing note:** Phase A **twin** of Station-Maleventum ethnography (holds/arcs) — **not** Phase C OCTAVA wing periphery. Reef contact surfaces appear in Phase B bleed; wing stubs do not reopen a separate Reef ethnography.
 
 **Scale & role:** **Conductor-rich** belt — **million-volt arcs**, **Wasp Nest** batteries, **only mined straits** passable. **Deep twin** (mortal culture, holds/arcs) lives in the Station-Maleventum ethnography — not a separate file this pass.
 
@@ -32,7 +32,7 @@
 
 ## Station-Maleventum (“Ultima Arx”)
 
-**Scale & role:** **Ramilles**-class **asteroid** fortress — **Iron Strait** choke; **Vexillatio VIII (*Octava*)** seat — Legatus **Ivar Malevent**; Chapter void culture bleeds into **civilian** dock law (Phase B: [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md)).
+**Scale & role:** **Ramilles**-class **asteroid** fortress — **Iron Strait** choke; **Vexilla OCTAVA** seat — Legatus **Ivar Malevent**; Chapter void culture bleeds into **civilian** dock law (Phase B: [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md)).
 
 **Economy-ecology:** **Siege normal** — drills **interrupt** births and weddings.
 
@@ -47,13 +47,13 @@
 **Local mortal sin (lock):** **false pressure**. **Legatus public read (mortal):** **the Soft Voice** / **Static-Lord**.
 
 **Deep ethnography (Phase A — primary habitat + Great Reef twin):** [ethnography-station-maleventum.md](ethnography-station-maleventum.md).  
-**Phase B bleed:** [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md) — Navy/Navis heavy seam; Witness Ford = hazard not time-magic. **Octava wing periphery (fork stubs):** § **VIII *Octava* wing** below.
+**Phase B bleed:** [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md) — Navy/Navis heavy seam; Witness Ford = hazard not time-magic. **OCTAVA wing periphery (fork stubs):** § **OCTAVA wing** below.
 
 ---
 
-## VIII *Octava* wing (Maleventum periphery)
+## OCTAVA wing (Maleventum periphery)
 
-**Rule:** Same fortress-civitas as Station-Maleventum (+ Reef contact surfaces from bleed) — **false pressure** sin, Soft Voice / Static-Lord surface, seal/hold piety, Rabble/Common/Upper. Inherit [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md). Ivar Malevent stays on Ultima Arx. **Not** Marco/Nona seat. Witness Ford = hazard not time-magic. Great Reef twin remains Phase A filing above — not a wing body here.
+**Rule:** Same fortress-civitas as Station-Maleventum (+ Reef contact surfaces from bleed) — **false pressure** sin, Soft Voice / Static-Lord surface, seal/hold piety, Rabble/Common/Upper. Inherit [octava-station-maleventum-culture-bleed.md](octava-station-maleventum-culture-bleed.md). Ivar Malevent stays on Ultima Arx. **Not** Marco/NONA seat. Witness Ford = hazard not time-magic. Great Reef twin remains Phase A filing above — not a wing body here.
 
 ### Tempest-V
 
@@ -115,7 +115,7 @@
 
 ## Marco de Vetra (The Vacuum Shouter — IX seat)
 
-**Scale & role:** **Relay moon** — **lasers**, **antennas**, **delay-and-deny** doctrine; **Nona** Legatus seat.
+**Scale & role:** **Relay moon** — **lasers**, **antennas**, **delay-and-deny** doctrine; *NONA* Legatus seat.
 
 **Economy-ecology:** **Beam life** — alignment is **crop**; **downtime** is **famine**.
 
@@ -127,11 +127,11 @@
 
 **Shards:** *beam wedding* (laser paints couple silhouette — unsafe, **illegal**, still done), *vitra string* (laser house lineage), *shouter’s fast* (no transmit day — yearly).
 
-**Deep ethnography (mortals — Phase A):** [ethnography-marco-de-vetra.md](ethnography-marco-de-vetra.md) · Legatus surface: Cassian Vetra (**the Warden**) · **IX *Nona* bleed:** [nona-marco-de-vetra-culture-bleed.md](nona-marco-de-vetra-culture-bleed.md) · **Nona wing periphery (fork stubs):** § **IX *Nona* wing** below — Station-IX as **monastic receiver** wing stub (listen-only; not collapsed into Marco shout cult).
+**Deep ethnography (mortals — Phase A):** [ethnography-marco-de-vetra.md](ethnography-marco-de-vetra.md) · Legatus surface: Cassian Vetra (**the Warden**) · **NONA bleed:** [nona-marco-de-vetra-culture-bleed.md](nona-marco-de-vetra-culture-bleed.md) · **NONA wing periphery (fork stubs):** § **NONA wing** below — Station-IX as **monastic receiver** wing stub (listen-only; not collapsed into Marco shout cult).
 
 ---
 
-## IX *Nona* wing (Vigil-Lucis periphery)
+## NONA wing (Vigil-Lucis periphery)
 
 **Rule:** Same bait/shout civilization as Marco de Vetra — **premature cry** sin, Warden surface, delay-and-deny schedule piety, Rabble/Common/Upper (+ vitra-string bridge). Inherit [nona-marco-de-vetra-culture-bleed.md](nona-marco-de-vetra-culture-bleed.md). Cassian Vetra stays on Marco. **Hard edge:** Station-IX = monastic **receiver** (listen-only); Marco = **bait and shout** — do **not** collapse into one silence cult.
 

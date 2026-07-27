@@ -3,7 +3,7 @@
 **Operation:** DREADWOLF RED TIDE (recovery / witness)  
 **Theater:** Moraine-Nine, Aethelgard tide theater — feral hemisphere; wreck **Kzorn’s Maw** (World Eaters prison hulk)  
 **Date:** 074.M42  
-**Unit:** **V** *Quinta* recovery element under **Legatus Armin Sturmwahl**; **Varro** (Judex witness)  
+**Unit:** **QVINTA** recovery element under **Legatus Armin Sturmwahl**; **Varro** (Judex witness)  
 **Enemy:** Feral Orks; World Eaters survivors; Khorne-adjacent bleed from prior moon/station incursions
 
 **Full chronicle:** [red-tide/chapter.md](../dreadwolf/red-tide/chapter.md) · saga: [dreadwolf/INDEX.md](../dreadwolf/INDEX.md)
@@ -14,13 +14,13 @@
 
 ## 1. Situation
 
-**Shepherd’s Hook** tide relay (Aethelgard theater) fell to World Eaters prison detachment escorting hulk **Kzorn’s Maw** during Khorne-adjacent bleed on adjacent moons/stations. **V** *Quinta* squad (twelve) captured; **eleven** mercy-killed aboard ship under conscious **Butcher’s Nails** protocol; **Lieutenant Einar** last implanted, sole loyal survivor. Hulk crashed Moraine-Nine feral hemisphere; prior *Strategium* containment limited wider theater; wreck became Ork feeding ground.
+**Shepherd’s Hook** tide relay (Aethelgard theater) fell to World Eaters prison detachment escorting hulk **Kzorn’s Maw** during Khorne-adjacent bleed on adjacent moons/stations. **QVINTA** squad (twelve) captured; **eleven** mercy-killed aboard ship under conscious **Butcher’s Nails** protocol; **Lieutenant Einar** last implanted, sole loyal survivor. Hulk crashed Moraine-Nine feral hemisphere; prior *Strategium* containment limited wider theater; wreck became Ork feeding ground.
 
 Intelligence at recovery: **no** loyal vox from hull. Heat at epicenter — single Astartes-class mover amid mass combat.
 
 ## 2. Mission
 
-Recover **V** *Quinta* battle-brother remains for **Versibar / KIA** funeral geometry. Minimal assault footprint. **Not** anticipated: living subject at epicenter.
+Recover **QVINTA** battle-brother remains for **Versibar / KIA** funeral geometry. Minimal assault footprint. **Not** anticipated: living subject at epicenter.
 
 ## 3. Execution
 
@@ -30,13 +30,13 @@ Recover **V** *Quinta* battle-brother remains for **Versibar / KIA** funeral geo
 
 **Phase B — Epicenter contact:** Lieutenant **Einar** found alive — **first documented Exanimus** (subject held **Furor only** through prior century of service); partial armor, tainted ship-origin lightning claws (later purified as **Wolf Talons**), **Butcher’s Nails** cable merge in new mane, slaughter of World Eaters and Orks ongoing.
 
-**Phase C — Cull geometry:** Legatus raised blade; subject terminated last hostile, dropped weapons, **fist-to-chest salute**, spoke ***Quinta* cadence** (*We hold, as the Needles hold the cold tide.*). Cull **not** executed.
+**Phase C — Cull geometry:** Legatus raised blade; subject terminated last hostile, dropped weapons, **fist-to-chest salute**, spoke **QVINTA cadence** (*We hold, as the Needles hold the cold tide.*). Cull **not** executed.
 
 **Phase D — Extract:** Subject secured; debrief aboard recovery shell.
 
 ## 4. Losses
 
-**V** *Quinta* (prior capture element): **eleven** KIA / mercy-killed aboard hulk (soul-geometry filing); **one** survivor (**Einar**) with conscious Nails implantation.
+**QVINTA** (prior capture element): **eleven** KIA / mercy-killed aboard hulk (soul-geometry filing); **one** survivor (**Einar**) with conscious Nails implantation.
 
 Recovery element: **two** wounded (Ork scrap ambush en route out).
 

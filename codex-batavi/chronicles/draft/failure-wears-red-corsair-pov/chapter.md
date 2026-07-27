@@ -3,9 +3,9 @@
 **Classification:** Draft combat narrative — Red Corsair / Huron POV · first contact with iron-grey Astartes (Batavi unknown to narrator)  
 **When:** Present era — Imperial ~M42 filing approximate  
 **Where:** Ministorum tithe-ship *Ledger of Saint Mhorus* (spine corridors / tithe-vault approach)  
-**Who:** **Lufgt Huron** (Blackheart); Red Corsair boarding cadre; Lord Castellan **Alaric von Helis** (unnamed to Corsairs); ***Decima*** anchor guard (unnamed as such at contact)
+**Who:** **Lufgt Huron** (Blackheart); Red Corsair boarding cadre; Lord Castellan **Alaric von Helis** (unnamed to Corsairs); **DECIMA** anchor guard (unnamed as such at contact)
 
-**Cross-references:** [dossier-alaric.md](../../../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) · [military-hierarchy.md](../../../personae-command-index/doctrine-and-organs/military-hierarchy.md) (*Decima*) · [castra-lupus-doctrine.md](../../../arsenal-and-logistics/castra-lupus-doctrine.md) · [cellar-tenant-word-bearer-pov/chapter.md](../cellar-tenant-word-bearer-pov/chapter.md) (parallel first-contact series)
+**Cross-references:** [dossier-alaric.md](../../../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) · [military-hierarchy.md](../../../personae-command-index/doctrine-and-organs/military-hierarchy.md) (DECIMA) · [castra-lupus-doctrine.md](../../../arsenal-and-logistics/castra-lupus-doctrine.md) · [cellar-tenant-word-bearer-pov/chapter.md](../cellar-tenant-word-bearer-pov/chapter.md) (parallel first-contact series)
 
 **Status:** Draft workspace — not yet on a saga read chain.
 

@@ -3,11 +3,11 @@
 *(The Red Tide / Under the Deathwolf’s Jaws / **Steppenwolf** / **Amissi** — The Lost)*
 
 **Full name:** **Einar Dreadwolf** — brother-given honor name after **Moraine-Nine**; shore registry before capture cited **Einar** of **Needles** cadre (Aethelgard native).  
-**Rank:** **Lieutenant** — executive field rank, **The Lost** (*Amissi*); origin **V** *Quinta* (Aethelgard Prime).  
+**Rank:** **Lieutenant** — executive field rank, **The Lost** (*Amissi*); origin **QVINTA** (Aethelgard Prime).  
 **Registry:** **Steppenwolf** (detached registry) — filed for most of his active century; **first of The Lost** (*Amissi* founding exemplar, **074.M42**). The two statuses **stack**; neither replaces the other on the tallies.  
 **Status:** **KIA 168.M42** — Luna Sigma (Battle of Sigma Moon).  
 **Chapter:** *Cohors Batavorum*.  
-**Unit:** [**The Lost** (*Amissi*)](../../doctrine-and-organs/amissi-the-lost.md) — Vermilion detachment; **Varro** direct responsible authority (not cohort, not Legatus-owned). Pre–**074** tasking followed **Steppenwolf** geometry (solo vectors, sparse mesh) while *Quinta* remained nominal home billet.  
+**Unit:** [**The Lost** (*Amissi*)](../../doctrine-and-organs/amissi-the-lost.md) — Vermilion detachment; **Varro** direct responsible authority (not cohort, not Legatus-owned). Pre–**074** tasking followed **Steppenwolf** geometry (solo vectors, sparse mesh) while QVINTA remained nominal home billet.  
 **Apparent service age:** ~100–120 Terran years (estimate); **~century** in managed **Furor** only — **never** Exanimus before the Nails.
 
 ---
@@ -16,7 +16,7 @@
 
 *What the Needles made; what the ship tried to unmake.*
 
-* **Physique:** Broad-shouldered assault build; **digitigrade** conversion **not** present — flat foot, *Quinta* jump-line anchor intact. Post–Moraine-Nine **Mk X Tacticus** refit accommodates **Exanimus** muscle hypertrophy.  
+* **Physique:** Broad-shouldered assault build; **digitigrade** conversion **not** present — flat foot, QVINTA jump-line anchor intact. Post–Moraine-Nine **Mk X Tacticus** refit accommodates **Exanimus** muscle hypertrophy.  
 * **Furor (pre-capture — sole stage):** Flame-pool irises, slit pupils, perpetual exhaustion mask, **Type I — Pride** engraved state (Aethelgard shore competence). **No** Exanimus protocol: no lip-piercing canines, no predatory mane, **no** crimson limb filing — he held the line under *Axiom* for a century without crossing.  
 * **First Exanimus (074.M42 — Nails + ship + Moraine-Nine):** Forced across the threshold during implantation and massacre — jaw hypertrophy, mane, **red limb** heraldry, near-snarl lock; **irreversible** per curse law. What Sturmwahl almost culled was **new** stage geometry, not an old wolf.  
 * **Post-capture stigmata:** **Butcher’s Nails** analog — conscious implant bundle; **cable** and **neural loom** tissue **merged** into the **new** mane along nape and jaw line. Not a separate *Wolf’s Curse* stage — **foreign architecture** riding Strand β pressure; Varro files as **second beast** bound inside the first. Post-refit half-helm leaves mane and Nails **free-floating and visible** in the field — not cowled.
@@ -46,7 +46,7 @@
 
 * **Temperament:** Before capture — **pride** as fuel (Aethelgard shore: prove the tide did not own you). After capture — **duty** as welded replacement (same vector as Triumvirate **Type III**, but **line** rank, not stabilized).  
 * **Command stability:** **Exanimus** + Nails — **cannot** hold ordinary Legatus tasking reliably; deploys only under **Varro** (*Amissi* / Death Company analogue).  
-* **Voice:** Low, tide-flat; in recovery debrief, one sentence that became *Quinta* law: — **They were gone.** — **I gave them the gift to die as Batavi before the enemy could bite at their souls.**  
+* **Voice:** Low, tide-flat; in recovery debrief, one sentence that became QVINTA law: — **They were gone.** — **I gave them the gift to die as Batavi before the enemy could bite at their souls.**  
 * **Distance:** Keeps clearance from pack warmth — not contempt; **focus**. Brothers honor him; he does not accept mess-hall proximity when Varro’s watch interval is active.  
 * **Self-request:** Has asked **Armin Sturmwahl** to **cull** him if duty geometry fails — Armin has **not** filed assent; Varro has **not** forbidden the request.  
 * **Refusal:** Will **not** train neophytes — *Strategium* accepts (precedent hazard).
@@ -59,19 +59,19 @@
 * **Style:** **Wulfen-adjacent** closure — not *Versibar*; **Wolf Talons**, **jump-pack** vectors, and **traction-boot** geometry when the **Red Demon** (Nails + Khorne bleed) is not steering.  
 * **Gene-seed:** Harvested on death **only** if tissue passes **Vermilion** audit; if corruption is confirmed, **destroyed**. At **168.M42** terminis, ***Spina Cineris*** annihilated progenoid tissue — harvest **null**.  
 * ***Spina Cineris* (terminis pin):** Subcranial **molecular destabilization** package at atlas–cervical junction — installed after **074.M42** recovery; sealed in gorget; **Brass-denial** protocol for *Amissi* watch brothers.  
-* ***Quinta* cadence:** When steadiness returns after slaughter — *We hold, as the Needles hold the cold tide.* (See [GLOSSARY-EN.md](../../../GLOSSARY-EN.md).)
+* **QVINTA cadence:** When steadiness returns after slaughter — *We hold, as the Needles hold the cold tide.* (See [GLOSSARY-EN.md](../../../GLOSSARY-EN.md).)
 
 ---
 
 ## 4\. History (in-universe — chronology access)
 
-* **Rise:** Needles shore tribes → *Quinta* assault line; **century** of service held at **Furor** only. *Strategium* and *Medicinae* filed him **Steppenwolf** early — **V** *Quinta* lattice **over-sharpened** his predisposition; stability tracked on **detached** kill-geometry (Needles relays, reef corridors, long *vox* silence), not garrison pack rhythm. He is **not** a generic Steppenwolf: he is the **first** brother on detached registry later inducted as **first of The Lost** — see [steppenwolf-doctrine.md](../../doctrine-and-organs/steppenwolf-doctrine.md) §5.1.  
+* **Rise:** Needles shore tribes → QVINTA assault line; **century** of service held at **Furor** only. *Strategium* and *Medicinae* filed him **Steppenwolf** early — **QVINTA** lattice **over-sharpened** his predisposition; stability tracked on **detached** kill-geometry (Needles relays, reef corridors, long *vox* silence), not garrison pack rhythm. He is **not** a generic Steppenwolf: he is the **first** brother on detached registry later inducted as **first of The Lost** — see [steppenwolf-doctrine.md](../../doctrine-and-organs/steppenwolf-doctrine.md) §5.1.  
 * **Closest bond:** **Armin Sturmwahl** — jump-qualified friendship; Sturmwahl’s only recorded **hesitation** before a cull stroke. **Amissi** transfer removes standing Legatus ownership; bond remains personal.
-* **Standing escort (post–074):** **V** *Quinta* veteran Chaplain on every deploy — Varro decree; ***licentia lupina*** wolf-skull (orange lenses, not Judex red). Draft: [iron-pack-at-the-kill-pool/chapter.md](../../../chronicles/draft/amissi/iron-pack-at-the-kill-pool/chapter.md) · doctrine: [`amissi-the-lost.md`](../../doctrine-and-organs/amissi-the-lost.md) §IIIb.  
+* **Standing escort (post–074):** **QVINTA** veteran Chaplain on every deploy — Varro decree; ***licentia lupina*** wolf-skull (orange lenses, not Judex red). Draft: [iron-pack-at-the-kill-pool/chapter.md](../../../chronicles/draft/amissi/iron-pack-at-the-kill-pool/chapter.md) · doctrine: [`amissi-the-lost.md`](../../doctrine-and-organs/amissi-the-lost.md) §IIIb.  
 * **074.M42 | Shepherd’s Hook → *Kzorn’s Maw* → Moraine-Nine:**  
-  * **Capture:** **V** *Quinta* squad (twelve) overrun at tide relay. Narrative: [kzorns-maw/chapter.md](../../../chronicles/dreadwolf/kzorns-maw/chapter.md) · recovery: [red-tide/chapter.md](../../../chronicles/dreadwolf/red-tide/chapter.md).  
+  * **Capture:** **QVINTA** squad (twelve) overrun at tide relay. Narrative: [kzorns-maw/chapter.md](../../../chronicles/dreadwolf/kzorns-maw/chapter.md) · recovery: [red-tide/chapter.md](../../../chronicles/dreadwolf/red-tide/chapter.md).  
   * **Conscious Nails;** eleven mercy-killed aboard ship; **forced first Exanimus** on crash.  
-  * **Recovery:** Cull **withheld** after salute + ***Quinta* cadence**.  
+  * **Recovery:** Cull **withheld** after salute + **QVINTA cadence**.  
   * **After:** Inducted **The Lost** (*Amissi*) — **first of The Lost**; **Steppenwolf** filing **retained** on detached registry (Judex watch supersedes ordinary Legatus slate, not distance geometry). **Varro** direct authority; *Vermilion* — *In watch. Under the Deathwolf’s jaws. No soul-name. No precedent. No cult.*  
 * **074–167.M42 | *Amissi* service:** Small-pool deployments with Judex; Assault Intercessor refit (half-helm, jump pack, **Wolf Talons** purified and re-wrought); ***Spina Cineris*** maintained by **Drusus**. Legend vignette (reef cult / **Slaughterbound**): [precipitation/chapter.md](../../../chronicles/dreadwolf/precipitation/chapter.md).
 * **168.M42 | Luna Sigma — terminis:** [terminus/chapter.md](../../../chronicles/dreadwolf/terminus/chapter.md) · [battle-of-sigma-moon/chapter.md](../../../chronicles/sigma-moon/battle-of-sigma-moon/chapter.md).

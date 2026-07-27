@@ -2,7 +2,7 @@
 
 **Operation:** VIGILAX PRIME — interdiction under Castra Vetera mandate  
 **Date:** 110.M42  
-**Unit:** **III** *Tertia* (Legatus command; Triumvirate elements attached)  
+**Unit:** **TERTIA** (Legatus command; Triumvirate elements attached)  
 **Classification:** *Vermilion* — inter-Astartes incident
 
 ---
@@ -14,7 +14,7 @@ Full narrative, witness testimony, and political aftermath: [vigilax-incident.md
 This AAR isolates the **certified tactical beat** for ***Alabarda* field 4**.
 
 **Full chronicle (complete incident — Varro, Serragris, *Gray Gargoyle*):** [vigilax-incident.md](../vigilax/vigilax-incident/chapter.md)  
-**III *Tertia* / triangulation / field 4 lens (Legatus Brach + Drusus + Marna-Down):** [vigilax-triangulation.md](../vexillum-chronicles/vigilax-triangulation/chapter.md)
+**TERTIA / triangulation / field 4 lens (Legatus Brach + Drusus + Marna-Down):** [vigilax-triangulation.md](../vexillum-chronicles/vigilax-triangulation/chapter.md)
 
 ## 2. Situation (summary)
 

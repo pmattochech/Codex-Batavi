@@ -2,10 +2,10 @@
 
 **Date:** 050.M42  
 **Theater:** Malakor V — peripheral sector of the Nine Phalanx, Cicatrix Maledictum influence zone  
-**Characters:** Alaric von Helis, Drusus (rear guard), Varro (doctrinal witness), the Versibar of the I Vexillatio  
+**Characters:** Alaric von Helis, Drusus (rear guard), Varro (doctrinal witness), the Versibar of the PRIMA  
 **Draft scaffold:** [SCAFFOLD.md](SCAFFOLD.md)
 
-**Scope:** **Valerian Heresy** — **I** *Prima* rot; **~300** Chapter losses (**KIA** / **Versibar**) in the wider Malakor theater; first **documented** **battlefield** ***Adversarii at Portas*** correlation ([`projection-aurea-wolfs-curse.md`](../../../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — **Exanimus Testament**).
+**Scope:** **Valerian Heresy** — **PRIMA** rot; **~300** Chapter losses (**KIA** / **Versibar**) in the wider Malakor theater; first **documented** **battlefield** ***Adversarii at Portas*** correlation ([`projection-aurea-wolfs-curse.md`](../../../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — **Exanimus Testament**).
 
 ---
 
@@ -25,7 +25,7 @@ That was the problem. And the solution.
 
 When the first report arrived, three engagements back, he had said:
 
-— Mobilize the III and V Vexillationes.
+— Mobilize the III and QVINTA.
 
 Then the second. Then the third, with logs of two squadrons wiped and enough survivors for the whole sector to know what had happened and have no doubt who had done it.
 
@@ -39,9 +39,9 @@ The only element Valerius lacked was forty-three years’ knowledge of how Valer
 
 ## II. THE FIELD
 
-**Valerian Heresy — theater accounting:** Malakor V was never only a corridor. **I** *Prima*’s treason had spread across **rot**-linked anchors; *the Cull* Tier 3 had **locked** **loyal Versibars** onto **traitor gene-seed** while Lord Castellan **Alpha** **imposed** **predation geometry** — irrational mass **aimed**, not Chapter-wide **catastrophe**. *Strategium* later files the engagement as the first **documented** **battlefield** ***Adversarii at Portas*** correlation: **distinct** from **terminal** Black Cell release (facility lost / indiscriminate **Portas**). Before Alaric met **Valerius** in the maze, the **blood-price** was already **~300** names — against **~500** brothers still **rational** when the **crucible** ended. **~200 Firstboot** would remain on line when the ash settled. The duel was **sentence** on the **First Legatus**, not the whole war.
+**Valerian Heresy — theater accounting:** Malakor V was never only a corridor. **PRIMA**’s treason had spread across **rot**-linked anchors; *the Cull* Tier 3 had **locked** **loyal Versibars** onto **traitor gene-seed** while Lord Castellan **Alpha** **imposed** **predation geometry** — irrational mass **aimed**, not Chapter-wide **catastrophe**. *Strategium* later files the engagement as the first **documented** **battlefield** ***Adversarii at Portas*** correlation: **distinct** from **terminal** Black Cell release (facility lost / indiscriminate **Portas**). Before Alaric met **Valerius** in the maze, the **blood-price** was already **~300** names — against **~500** brothers still **rational** when the **crucible** ended. **~200 Firstboot** would remain on line when the ash settled. The duel was **sentence** on the **First Legatus**, not the whole war.
 
-Parallel lanes in the same theater held *Prima* **witness** resistance against Valerius’s expunged **First Sword**, **Cassian Vorn** — the Chapter’s **second** **lucid Versibar** (adjunct **Warp** latch; weaker than the First Legatus) — while the Castellan’s hook closed. In one of those lanes **Corbec Ardens** — witness-brother, not yet *Legatus* — met Vorn with the **halberd** pattern *Prima* keeps on the **Legatus** close-combat register: *Alabarda* reach and hook geometry without the vexillum relay, shaft and head issued for **officer witness** work when the line refused the rot. *Apothecarion* afterward applied Drusus’s **Reading B** split: **conflict-hour** **Versibar** manifests versus **pre-crisis** hold cohorts, **separate** ledger lines so rot-surge counts stay honest.
+Parallel lanes in the same theater held PRIMA **witness** resistance against Valerius’s expunged **First Sword**, **Cassian Vorn** — the Chapter’s **second** **lucid Versibar** (adjunct **Warp** latch; weaker than the First Legatus) — while the Castellan’s hook closed. In one of those lanes **Corbec Ardens** — witness-brother, not yet *Legatus* — met Vorn with the **halberd** pattern PRIMA keeps on the **Legatus** close-combat register: *Alabarda* reach and hook geometry without the vexillum relay, shaft and head issued for **officer witness** work when the line refused the rot. *Apothecarion* afterward applied Drusus’s **Reading B** split: **conflict-hour** **Versibar** manifests versus **pre-crisis** hold cohorts, **separate** ledger lines so rot-surge counts stay honest.
 
 The interception sector was industrial — extraction platforms abandoned after Cicatrix pressure made mining unviable. Oxidized metal, choked vent chambers, scaffolding no one had inspected in decades. Geography Valerius knew from the same map Alaric had used to build the hook.
 
@@ -49,11 +49,11 @@ The Versibar arrived on the predicted vector.
 
 Alaric was waiting.
 
-No visible troop — the III and V Vexillationes in containment positions four hundred meters out, ordered not to advance regardless of sensor readings. Single combat had been part of the design from the start. Two commanders who had known each other for decades, in space both had mapped: any other geometry would introduce variables neither needed.
+No visible troop — the III and QVINTA in containment positions four hundred meters out, ordered not to advance regardless of sensor readings. Single combat had been part of the design from the start. Two commanders who had known each other for decades, in space both had mapped: any other geometry would introduce variables neither needed.
 
 The beast that entered the access corridor stood 4.5 meters. Alaric’s *Castra-Lupus* stood **~2.85** — **under** the Versibar horror, **over** anything a line company expects from a “marine.” Scale difference was irrelevant to either — both knew the other’s limits with precision no external sensor could measure.
 
-Across thirty years of war Alaric had taught Valerius the foundations of Batav close-combat doctrine: economy of motion, pressure geometry, the difference between the strike that closes distance and the strike that only seems to. The Versibar of the I Vexillatio used those foundations with competence that, in any other context, would have made the instructor proud.
+Across thirty years of war Alaric had taught Valerius the foundations of Batav close-combat doctrine: economy of motion, pressure geometry, the difference between the strike that closes distance and the strike that only seems to. The Versibar of the PRIMA used those foundations with competence that, in any other context, would have made the instructor proud.
 
 Alaric answered the pattern as one who had built the pattern.
 
@@ -185,7 +185,7 @@ Drusus did not approach.
 
 That night, aboard the return ship, Alaric spent three hours alone in the mobile *Apothecarion*. Drusus left the instrumentation running and walked out.
 
-When he returned, there were **~300** new plate pairs on the cord — the **Valerian Heresy** ledger, largest single-event accumulation since the **crucible** years: **I** *Prima* rot, loyal dead, **Versibars** judged and catalogued, without distinction of rank or length of service except what the *Apothecarion* required.
+When he returned, there were **~300** new plate pairs on the cord — the **Valerian Heresy** ledger, largest single-event accumulation since the **crucible** years: **PRIMA** rot, loyal dead, **Versibars** judged and catalogued, without distinction of rank or length of service except what the *Apothecarion* required.
 
 Drusus ran a recent-plate auspex scan.
 
@@ -239,7 +239,7 @@ The Silent Vigil would last **one hundred years**. What changed was the **weight
 
 ---
 
-*The period that follows (050.M42 – 150.M42) is catalogued internally as the Silent Vigil. The Chapter’s formal records from that span document campaigns, Vexillatio rotations, alliances, and losses. The informal records — corridor talk, neophyte accounts that never understood why the Castellan seemed to carry more weight than any cord could measure — were not filed.*
+*The period that follows (050.M42 – 150.M42) is catalogued internally as the Silent Vigil. The Chapter’s formal records from that span document campaigns, Vexilla rotations, alliances, and losses. The informal records — corridor talk, neophyte accounts that never understood why the Castellan seemed to carry more weight than any cord could measure — were not filed.*
 
 *They did not need to be.*
 
@@ -249,4 +249,4 @@ The Silent Vigil would last **one hundred years**. What changed was the **weight
 
 ---
 
-**End of Chapter 20** · **Next:** [decima-justice-vexillum](../../P5-reformation/decima-justice-vexillum/chapter.md)
+**End of Chapter 20** · **Next:** [DECIMA-justice-vexillum](../../P5-reformation/decima-justice-vexillum/chapter.md)

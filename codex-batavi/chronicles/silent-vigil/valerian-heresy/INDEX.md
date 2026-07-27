@@ -19,7 +19,7 @@
 | **P2** | ~065–080 | Cold rot — **why?**; pyrric bleed | [P2-cold-rot/INDEX.md](P2-cold-rot/INDEX.md) |
 | **P3** | ~080–085 | Hot rot — harvest; seal; open break | [P3-hot-rot/INDEX.md](P3-hot-rot/INDEX.md) |
 | **P4** | ~086 | Malakor V — **Castellan apex** (main serial) | [P4-malakor/INDEX.md](P4-malakor/INDEX.md) |
-| **P5** | ~086–092 | Reformation — *Decima*; vexilla; Primaris | [P5-reformation/INDEX.md](P5-reformation/INDEX.md) |
+| **P5** | ~086–092 | Reformation — DECIMA; vexilla; Primaris | [P5-reformation/INDEX.md](P5-reformation/INDEX.md) |
 
 ## Adjacent subsaga (parallel — not numbered here)
 
@@ -51,8 +51,8 @@
 | 18 | P3 | `weaponized-syntax` | *Weaponized Syntax* | scaffold | [SCAFFOLD](P3-hot-rot/weaponized-syntax/SCAFFOLD.md) | [chapter](P3-hot-rot/weaponized-syntax/chapter.md) |
 | 19 | P3 | `lupercal-hour` | *Lupercal Hour* | scaffold | [SCAFFOLD](P3-hot-rot/lupercal-hour/SCAFFOLD.md) | [chapter](P3-hot-rot/lupercal-hour/chapter.md) |
 | 20 | P4 | `malakor-v` | *Malakor V* | **draft** | [SCAFFOLD](P4-malakor/malakor-v/SCAFFOLD.md) | [chapter](P4-malakor/malakor-v/chapter.md) |
-| 21 | P5 | `decima-justice-vexillum` | *Decima Justice Vexillum* | **draft** | [SCAFFOLD](P5-reformation/decima-justice-vexillum/SCAFFOLD.md) | [chapter](P5-reformation/decima-justice-vexillum/chapter.md) |
-| 22 | P5 | `prima-obligation` | *Prima Obligation* | scaffold | [SCAFFOLD](P5-reformation/prima-obligation/SCAFFOLD.md) | [chapter](P5-reformation/prima-obligation/chapter.md) |
+| 21 | P5 | `DECIMA-justice-vexillum` | *DECIMA Justice Vexillum* | **draft** | [SCAFFOLD](P5-reformation/decima-justice-vexillum/SCAFFOLD.md) | [chapter](P5-reformation/decima-justice-vexillum/chapter.md) |
+| 22 | P5 | `PRIMA-obligation` | *PRIMA Obligation* | scaffold | [SCAFFOLD](P5-reformation/prima-obligation/SCAFFOLD.md) | [chapter](P5-reformation/prima-obligation/chapter.md) |
 | 23 | P5 | `vexilla-commission` | *Vexilla Commission* | scaffold | [SCAFFOLD](P5-reformation/vexilla-commission/SCAFFOLD.md) | [chapter](P5-reformation/vexilla-commission/chapter.md) |
 | 24 | P5 | `primaris-after-ash` | *Primaris After Ash* | scaffold | [SCAFFOLD](P5-reformation/primaris-after-ash/SCAFFOLD.md) | [chapter](P5-reformation/primaris-after-ash/chapter.md) |
 | 25 | P5 | `island-debt` | *Island Debt* | scaffold | [SCAFFOLD](P5-reformation/island-debt/SCAFFOLD.md) | [chapter](P5-reformation/island-debt/chapter.md) |
@@ -70,6 +70,6 @@
 | File | Role |
 |------|------|
 | [register-decima-malakor-justice.md](../../vexillum-register/register-decima-malakor-justice.md) | Malakor sentence annex |
-| [memorandum-prima-rectification-precedent.md](../../vexillum-register/memorandum-prima-rectification-precedent.md) | *Prima* obligation precedent |
+| [memorandum-prima-rectification-precedent.md](../../vexillum-register/memorandum-prima-rectification-precedent.md) | PRIMA obligation precedent |
 
 **Parent saga:** [../INDEX.md](../INDEX.md)

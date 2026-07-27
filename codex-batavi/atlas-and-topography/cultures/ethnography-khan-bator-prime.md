@@ -2,7 +2,7 @@
 
 **Status:** **Ratified** 2026-07-22 — Phase A capital upgrade to binding framework (maximum depth).  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding)  
-**Seat:** Vexillatio **III** (*Tertia*) · Legatus: **Theron Brach**  
+**Seat:** Vexilla **III** (TERTIA) · Legatus: **Theron Brach**  
 **Scope:** Mortal populi only — not full Vexilla doctrine. Chapter footprint via civilian habit until Phase B.  
 **Atlas / fork:** [system-i-central-bastion.md](../systems/system-i-central-bastion.md) · [worlds-central-bastion.md](worlds-central-bastion.md) § **Khan-Bator Prime**  
 **Basal / Ecclesiarchy:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md) · [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · [ecclesiarchy-on-the-frontier.md](../../political-relations/ecclesiarchy-on-the-frontier.md) · [grey-clerk-piety.md](../../political-relations/grey-clerk-piety.md)  
@@ -95,7 +95,7 @@ Citizens think in **yield**, **breath**, **elevator windows**, and **silo seals*
   - *Rabble color:* pocket starch, unlogged barge skim — survival that becomes charge when the chart blushes.  
   - *Common color:* window trading that becomes diversion if manifests diverge; “honest spoilage” that isn’t.  
   - *Upper color:* house-key diversion dressed as debt grace; route-marriage families diverting downwell slots — sky-touching and suspect.
-- **Legatus public read:** **the Seal Flame** — mortals do not recite *Tertia* doctrine; they know a burn-mask overseer whose hatch-nod precedes sealed openings, whose drills smell like chem-cert wax, and whose presence means charts get smoothed before the inspection window. Surface only — not gene-seed, not *Axiom*, not Furor clinical law.
+- **Legatus public read:** **the Seal Flame** — mortals do not recite TERTIA doctrine; they know a burn-mask overseer whose hatch-nod precedes sealed openings, whose drills smell like chem-cert wax, and whose presence means charts get smoothed before the inspection window. Surface only — not gene-seed, not *Axiom*, not Furor clinical law.
 
 ---
 
@@ -183,7 +183,7 @@ Death/name civic geography: chemical funerals and alkali pits after spore panic 
 
 ## 5. Economy
 
-**World function / export:** Caloric factory — algae, slime starch, bulk calories measured in **tons per breath**. Secondary: fertilizer chain from **Bator-Secundus** (Phase C wing stub) — marriage metaphors borrow stable compounds. Tertiary: **Vacuum Harvest Fields** neurochem — dosimetry piety; workers joke *glass tongue*; law treats batch contamination as soul risk. Atlas Elevator / Golden Grain Station is the export bottleneck; Bottle Fair windows hitch to load-swap. Wing: [worlds-central-bastion.md](worlds-central-bastion.md) § **III *Tertia* wing**.
+**World function / export:** Caloric factory — algae, slime starch, bulk calories measured in **tons per breath**. Secondary: fertilizer chain from **Bator-Secundus** (Phase C wing stub) — marriage metaphors borrow stable compounds. Tertiary: **Vacuum Harvest Fields** neurochem — dosimetry piety; workers joke *glass tongue*; law treats batch contamination as soul risk. Atlas Elevator / Golden Grain Station is the export bottleneck; Bottle Fair windows hitch to load-swap. Wing: [worlds-central-bastion.md](worlds-central-bastion.md) § **TERTIA wing**.
 
 **How work runs:** Monoculture plains on algorithm green; slime barge routes; silo vertical shifts; oxygen-monitor HSE as production religion; chart inspectors as hunger/famine toggles.
 
@@ -249,7 +249,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 | **Adeptus Administratum** | **Core** | Chart inspectors, plaque issuers, Atlas weigh protocol, diversion law. Grey-clerk piety: save silos or starve districts. Class access: common spine, upper registries, rabble as targets of skim charges. Sin in this robe = misfile that becomes diversion cover. Friction with Batavi shadow: inspection windows flatten queues; clerks smooth charts before patrol weather. |
 | **Adeptus Ministorum / Ecclesiarchy** | **Present** | Effort doctrine / paste communion / valve blessings. Accent conflict with spark law when missionaries import incense. Class: rabble fear incense; common prefer seal booth; upper patronage. Sin = foreign spark and idle silk. Batavi: Shared Sweat quiet priests rise; empty thunder falls — surface only. |
 | **Adeptus Arbites** | **Present** | Hard posture on diversion riots, Atlas choke violence, silo-marriage annulment feuds that threaten tithe. Rabble meet them as beatings; common as hearings; upper as patronage negotiations. Sin = open diversion at Throne-mouth scale. |
-| **Adeptus Mechanicus** (incl. local forge-priests) | **Thin** | Not Noviomagus forge capital — local tech is HSE/oxygen, lift gears, Atlas braid maintenance, fertilizer interface. Magos tourists and Genetor curiosity at slime blooms misread as miracles. Class: common gear prayer; upper Magos-liaison rare. Sin = unlogged machine scrap that risks spark. **No Prima forge bleed dump** — forge envy is joke sport, not institutional takeover. |
+| **Adeptus Mechanicus** (incl. local forge-priests) | **Thin** | Not Noviomagus forge capital — local tech is HSE/oxygen, lift gears, Atlas braid maintenance, fertilizer interface. Magos tourists and Genetor curiosity at slime blooms misread as miracles. Class: common gear prayer; upper Magos-liaison rare. Sin = unlogged machine scrap that risks spark. **No PRIMA forge bleed dump** — forge envy is joke sport, not institutional takeover. |
 | **Imperial Guard / Astra Militarum** (draft, billet, regiment links) | **Present** | Draft windows from silo stacks and barge guilds; billets as status for upper; fodder for rabble. Harvest calendars clash with draft. Shared Sweat pride without Chapter claim. Sin = desertion during chart spike (filed as both cowardice and diversion risk). |
 | **Planetary Defense Force / local militia** | **Core** | Spark-curfew, bloom-riot, Atlas pickets. Oxygen-monitor auxiliaries. Primary mortal force civilians meet daily. Class-banded as §1. Sin = licensed torch abuse. |
 | **Imperial Navy** | **Thin** | Felt at Golden Grain Station approaches and void escort rumor; surface civilians meet Navy as load schedules and sever-drill alerts more than admirals. Chart-Grace and cable guilds more than plains rabble. Absence of deep Navy culture on plains is information — breath budget, not void aristocracy. |
@@ -259,14 +259,14 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 | **Officio Assassinorum** | **Absent** | No mortal civic footprint on granary streets; absence is information — this world kills with chemistry and famine, not temple myth. |
 | **Adepta Sororitas** | **Absent** | No standing convent culture in Phase A lock; missionaries may be any robe, but Sisters are not a local sorting border. |
 | **Adeptus Custodes** | **Absent** | No civilian Custodes presence in day-to-day granary life; Denial Protocol kitchen scenes belong elsewhere. |
-| **Other Astartes Chapters** (guests, rivals, myths) | **Sealed/rumor only** | Batavi are the Astartes shadow civilians feel (III *Tertia* seat). Guest-Chapter myths stay rumor; do not import legacy Blood Angels tribunal cast into active populi fact. |
+| **Other Astartes Chapters** (guests, rivals, myths) | **Sealed/rumor only** | Batavi are the Astartes shadow civilians feel (TERTIA seat). Guest-Chapter myths stay rumor; do not import legacy Blood Angels tribunal cast into active populi fact. |
 | **Rogue Trader dynasties** | **Thin** | Bottle Fair / load-swap windows; rare charter blood in route marriage. Not a Core institution. |
 | **Chartist captains / void guilds** | **Present** | Golden Grain Station creole, Atlas braid slang, third-strand oaths. Mutually intelligible with system dock cant. Class: cable guild common; Chart-Grace upper bridge. Sin = unbalanced load. |
 | **Local noble houses / tithe dynasties** | **Core** | Silo nobility + tithe nobility; elevator keys; silo marriage; debt grace politics. Chart-Grace = lower-upper bridge. Sin = house diversion dressed as grace. |
 | **Criminal / underhive powers** (as civic fact) | **Present** | Barge skim syndicates, illegal braid climbers, false-spoilage rings. Civic fact when charts blush. Not romantic underhive kings — diversion networks. Sin = open diversion. |
 | **Oxygen-monitor orders (seat-specific)** | **Core** | Masked inspectors with real HSE power — angels who prevent fire-god; feared when red-tagging festal torch. Enforce secondary sorter. Class access across common; upper liaison; rabble labor. Sin = torch without permit / chemistry cover for diversion. |
-| **Cable / Atlas sever offices (seat-specific)** | **Present** | Honored and isolated sever engineers; *cut-day* drills; shared-fate theology. Cultural gravity at Golden Grain. Phase C wing stub: [worlds-central-bastion.md](worlds-central-bastion.md) § **III *Tertia* wing**; seat mortals still live the rumor. |
-| **Vacuum Harvest / neurochem gardens (orbit — Phase C wing)** | **Thin** | Dosimetry piety, *glass tongue*, batch contamination as soul risk. Workers and batch mothers as rumor on the surface; wing stub: [worlds-central-bastion.md](worlds-central-bastion.md) § **III *Tertia* wing**. |
+| **Cable / Atlas sever offices (seat-specific)** | **Present** | Honored and isolated sever engineers; *cut-day* drills; shared-fate theology. Cultural gravity at Golden Grain. Phase C wing stub: [worlds-central-bastion.md](worlds-central-bastion.md) § **TERTIA wing**; seat mortals still live the rumor. |
+| **Vacuum Harvest / neurochem gardens (orbit — Phase C wing)** | **Thin** | Dosimetry piety, *glass tongue*, batch contamination as soul risk. Workers and batch mothers as rumor on the surface; wing stub: [worlds-central-bastion.md](worlds-central-bastion.md) § **TERTIA wing**. |
 
 ---
 
@@ -292,17 +292,17 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 
 **Mortal → scene signal:** Filter/mask grade → plaque → which elevator car boarded without looking → whether a torch is licensed → whether the chart is already smoothed.
 
-**Wrong:** Treat Khan-Bator as Noviomagus forge culture; invent Founding/progenitor; collapse Batavi into God-Emperor worship; make incense processions “normal”; call diversion a cute crime; dump *Axiom*/Furor clinical law into barge mouths; absorb Bator-Secundus / Tertius / Vacuum Harvest as full ethnographies here; keep obsolete “Fifth Vexillatio” as seat doctrine.
+**Wrong:** Treat Khan-Bator as Noviomagus forge culture; invent Founding/progenitor; collapse Batavi into God-Emperor worship; make incense processions “normal”; call diversion a cute crime; dump *Axiom*/Furor clinical law into barge mouths; absorb Bator-Secundus / Tertius / Vacuum Harvest as full ethnographies here; keep obsolete “Fifth Vexilla” as seat doctrine.
 
-**Right:** Breath-as-budget; yield/elevator/silo/oxygen locks; diversion as local mortal sin; Seal Flame as public Legatus read; Chart-Grace bridge; III *Tertia* surface shadow; Hymn mood as exhausted loyalty under bright deadly sky; wing moons cross-link only.
+**Right:** Breath-as-budget; yield/elevator/silo/oxygen locks; diversion as local mortal sin; Seal Flame as public Legatus read; Chart-Grace bridge; TERTIA surface shadow; Hymn mood as exhausted loyalty under bright deadly sky; wing moons cross-link only.
 
 ---
 
 ## 9. Related / deferred
 
-- **Phase B bleed file:** [tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md) — III *Tertia* ↔ Khan-Bator (ratified). Do not mix Vexilla doctrine into populi body above.
-- **Wing periphery (Phase C):** [worlds-central-bastion.md](worlds-central-bastion.md) § **III *Tertia* wing** — Golden Grain / Vacuum Harvest / Bator-Secundus / Bator-Tertius (seat standard + local delta each). **Not** absorbed into this ethnography.
-- **Sibling seats:** Noviomagus / I *Prima* and Castra-Vetera / II *Secunda* — do not absorb; forge bleed and law-mother forms stay sibling, not Khan-Bator body.
+- **Phase B bleed file:** [tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md) — TERTIA ↔ Khan-Bator (ratified). Do not mix Vexilla doctrine into populi body above.
+- **Wing periphery (Phase C):** [worlds-central-bastion.md](worlds-central-bastion.md) § **TERTIA wing** — Golden Grain / Vacuum Harvest / Bator-Secundus / Bator-Tertius (seat standard + local delta each). **Not** absorbed into this ethnography.
+- **Sibling seats:** Noviomagus / PRIMA and Castra-Vetera / SECVNDA — do not absorb; forge bleed and law-mother forms stay sibling, not Khan-Bator body.
 - **External mortal relations (kept):** Noviomagus gear envy; Castra-Vetera law mother; Aethelgard salt brother; Bator-Tertius green horror recreation for elites (status hunt cant at silo gates — cross-link only).
 
 ---
@@ -326,4 +326,4 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 - [x] Phase B linked ([tertia-khan-bator-culture-bleed.md](tertia-khan-bator-culture-bleed.md)); Phase C wing linked without mixing doctrine into populi body  
 - [x] Yield / oxygen / elevator / silo locks retained  
 
-*Revision discipline:* dates and battle outcomes elsewhere in Codex supersede ethnographic generalizations if they conflict. System atlas “5th Company” diversion watch phrasing is **legacy topography shorthand** — seat lock for this ethnography is **Vexillatio III (*Tertia*) · Theron Brach**.
+*Revision discipline:* dates and battle outcomes elsewhere in Codex supersede ethnographic generalizations if they conflict. System atlas “5th Company” diversion watch phrasing is **legacy topography shorthand** — seat lock for this ethnography is **Vexilla TERTIA · Theron Brach**.

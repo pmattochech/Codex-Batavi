@@ -28,7 +28,7 @@ Batavi nonverbal affect is **not** “five thousand random twitch languages.” 
 1. **Reaction classes (molds):** For each broad affect category (e.g. **amusement**, **warning-without-words**, **shame**, **grief**, **tender acknowledgement**, **controlled threat**), there exists a **small pack** of **legitimate motor patterns** — suites of movement and stillness Batavi recognize as belonging to that **semantic slot**.
 2. **Personal variants:** Within each class, every brother expresses **his** tell-set — **accent**, not a different language: same **slot**, **unique** habitual micro-route (scar geometry, armor fit, curse tremor habit, cohort cadence).
 
-**Clustering:** Variants **cluster** by long shared exposure (**Vexillatio**, squad decades, forge rhythm). Brothers are not identical; they are **predictably neighboring** in gesture-space.
+**Clustering:** Variants **cluster** by long shared exposure (**Vexilla**, squad decades, forge rhythm). Brothers are not identical; they are **predictably neighboring** in gesture-space.
 
 **Interface split:**
 

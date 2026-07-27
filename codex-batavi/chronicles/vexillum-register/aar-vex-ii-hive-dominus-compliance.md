@@ -2,7 +2,7 @@
 
 **Operation:** HIVE DOMINUS (Castra-Vetera Prime)  
 **Date:** 078.M42  
-**Unit:** **II** *Secunda* (full Vexillatio, Legatus command)  
+**Unit:** **SECVNDA** (full Vexilla, Legatus command)  
 **Classification:** Chapter / *Strategium* — compliance under Castra Vetera mandate
 
 **Full chronicle:** [hive-dominus-compliance.md](../vexillum-chronicles/hive-dominus-compliance/chapter.md)
@@ -30,11 +30,11 @@ Legatus ordered **phase** clearance floor-by-floor; **Ruin** elements held in re
 
 ## 4. Losses
 
-**II** *Secunda*: 23 battle-brothers **incapacitated** (12 returned to line within 90 days).  
+**SECVNDA**: 23 battle-brothers **incapacitated** (12 returned to line within 90 days).  
 **Civilian collateral (attributed):** 6 deaths (enemy fire during extraction — logged separately).
 
 ## 5. *Strategium* certification (field 4)
 
-Victory metric certified for ***Alabarda* field 4:** **compliance** under **lethal restraint** — proof that **II** *Secunda* wins by **geometry**, not by **volume**.
+Victory metric certified for ***Alabarda* field 4:** **compliance** under **lethal restraint** — proof that **SECVNDA** wins by **geometry**, not by **volume**.
 
 **Chronology:** [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV.

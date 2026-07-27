@@ -1,15 +1,15 @@
 # [CHRONICLE] Wasted Talent
 
-**Classification:** Novel chapter — Iron Warriors POV · Batavi already scar-known from prior traitor contacts · **Vexillatio org still unknown** until Bifronte’s self-name  
+**Classification:** Novel chapter — Iron Warriors POV · Batavi already scar-known from prior traitor contacts · **Vexilla org still unknown** until Bifronte’s self-name  
 **When:** Present era — after Word Bearers / Red Corsairs / Black Legion (Haarken) / Thousand Sons (Ashen Spiral) first-contact scars have circulated  
 **Where:** **Bifrons-Ferrum** — vault armory under grey siege guard (dual-world gulf fortifications)  
-**Who:** **Warsmith Drogan Kalkas** (Iron Warriors siege warband); Iron Warriors breach cadre; Legatus **Gervas Bifronte** + **VI** *Sexta* (Siege Master / *Pater Murorum*) — identities spoken only when Bifronte reveals them
+**Who:** **Warsmith Drogan Kalkas** (Iron Warriors siege warband); Iron Warriors breach cadre; Legatus **Gervas Bifronte** + **SEXTA** (Siege Master / *Pater Murorum*) — identities spoken only when Bifronte reveals them
 
-**Intel premise:** Kalkas’s warbook already carries foreign scars — cellar silence, red failure-measure, claim-denied gauge, mute meter-gelded cobalt. He expects the Batavi to fight **like those encounters** (quiet wall, anti-choir, gauge-refusal, cobalt classification). He does **not** expect them to **defend** like Imperial Fists **and** Iron Warriors in one breath, then **counterattack** the same way — a polished, symmetrical **Iron Cage** that forces the IV to remember **Barabas Dantioch**. Traitor margins still **do not** understand Batavi Vexillatio / Praetor structure until this fight.  
-**Beat lock:** Bifronte self-names in full — **Gervas Bifronte**, Commander of **Sexta**, Father of Walls, proud Batavi of **Cohors Batavorum**, one of **Ten Vexillas**, one of **Ten Praetors of Castra Vetera** — then insults Kalkas as a **nameless wretch** / **wasted talent** from the **Man-Child of Olympia**. Warsmiths leave with rage, disgust, and a **theorized** filing of what a *vexilla* might be.
+**Intel premise:** Kalkas’s warbook already carries foreign scars — cellar silence, red failure-measure, claim-denied gauge, mute meter-gelded cobalt. He expects the Batavi to fight **like those encounters** (quiet wall, anti-choir, gauge-refusal, cobalt classification). He does **not** expect them to **defend** like Imperial Fists **and** Iron Warriors in one breath, then **counterattack** the same way — a polished, symmetrical **Iron Cage** that forces the IV to remember **Barabas Dantioch**. Traitor margins still **do not** understand Batavi Vexilla / Praetor structure until this fight.  
+**Beat lock:** Bifronte self-names in full — **Gervas Bifronte**, Commander of *SEXTA*, Father of Walls, proud Batavi of **Cohors Batavorum**, one of **Ten Vexilla**, one of **Ten Praetors of Castra Vetera** — then insults Kalkas as a **nameless wretch** / **wasted talent** from the **Man-Child of Olympia**. Warsmiths leave with rage, disgust, and a **theorized** filing of what a *vexilla* might be.
 
 **Series:** [INDEX.md](../INDEX.md)  
-**Cross-references:** [dossier-gervas-bifronte.md](../../../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md) · [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § *Sexta* · [claim-denied/chapter.md](../claim-denied/chapter.md) · [uninvited-road/chapter.md](../uninvited-road/chapter.md)
+**Cross-references:** [dossier-gervas-bifronte.md](../../../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md) · [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § SEXTA · [claim-denied/chapter.md](../claim-denied/chapter.md) · [uninvited-road/chapter.md](../uninvited-road/chapter.md)
 
 ---
 
@@ -71,7 +71,7 @@ Kalkas snarled the old truth Iron Warriors used like a prayer.
 
 The Tartaros cowl turned. Orange lenses. When the grey lord spoke, it was not sermon — construction truth, stamped so clean an enemy could not pretend he had misheard:
 
-— I am Gervas Bifronte, Commander of Sexta, the Father of Walls — a proud Batavi and Astartes of the Cohors Batavorum Chapter, one of its Ten Vexillas that hold the lines, and one of the Ten Praetors of Castra Vetera.
+— I am Gervas Bifronte, Commander of SEXTA, the Father of Walls — a proud Batavi and Astartes of the Cohors Batavorum Chapter, one of its Ten Vexilla that hold the lines, and one of the Ten Praetors of Castra Vetera.
 
 Hammer-haft shifted a degree. The next line closed like a vault seal.
 
@@ -87,7 +87,7 @@ Kalkas howled without poetry and tried to kill the sentence by killing the speak
 
 Bifronte did not howl back. He corrected. Plant. Hammer. A short bind that treated Warsmith fury as a thermal problem already solved before the first charge armed. His brothers sealed the angles so their commander did not need to become a whirlwind. Twin-gate. One count. The vault remained closed.
 
-Iron Warriors understood then, with the ugly clarity of men who respect only results: the Batavi scars from other Legions had been true and still incomplete. Against this force — this **Sexta**, if the mason’s word was true — the greys were not only cellar-quiet or claim-denying. They were a siege Chapter that could offend the IV by building a polished cage — defend like Fists and Iron Warriors, counterattack the same — and by refusing to waste what the IV had turned into spite under the Man-Child’s shadow.
+Iron Warriors understood then, with the ugly clarity of men who respect only results: the Batavi scars from other Legions had been true and still incomplete. Against this force — this *SEXTA*, if the mason’s word was true — the greys were not only cellar-quiet or claim-denying. They were a siege Chapter that could offend the IV by building a polished cage — defend like Fists and Iron Warriors, counterattack the same — and by refusing to waste what the IV had turned into spite under the Man-Child’s shadow.
 
 Kalkas disengaged when the armory throat became a meat-bill without a prize. Extract codes. Red on his own slate. His warband pulled back under covering fire that sounded, traitorously, a little like the greys’ own patience.
 
@@ -97,8 +97,8 @@ Cohors Batavorum — vault greys at Bifrons-Ferrum.
 Not the greys of the other scars alone.  
 Defend like Fists + Iron Warriors. Counterattack the same.  
 Polished Iron Cage. Symmetrical. Reminds of **Dantioch** — do not speak the name.  
-Their mason named himself: **Gervas Bifronte**. Commander of **Sexta**. **Father of Walls**.  
-Claims: proud Batavi; Astartes of Cohors Batavorum; **one of Ten Vexillas** that hold the lines; **one of Ten Praetors of Castra Vetera**.  
+Their mason named himself: **Gervas Bifronte**. Commander of *SEXTA*. **Father of Walls**.  
+Claims: proud Batavi; Astartes of Cohors Batavorum; **one of Ten Vexilla** that hold the lines; **one of Ten Praetors of Castra Vetera**.  
 Theory (unconfirmed): *Vexilla* = holding formation / siege slice of the Chapter; ten such slices; each with a Praetor-grade commander for Castra Vetera mesh. Not *Codex* companies. File to traitor margins. Refine on next blood.  
 He called us **nameless wretch**. **Wasted talent** from the **Man-Child of Olympia**.
 

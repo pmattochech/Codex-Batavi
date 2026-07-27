@@ -2,14 +2,14 @@
 
 **Operation:** WITNESS FORD — transit defense segment  
 **Date:** 096.M42  
-**Unit:** **VIII** *Octava* (primary boarding / corridor interlock); Black Templars crusade elements (allied fire discipline)
+**Unit:** **OCTAVA** (primary boarding / corridor interlock); Black Templars crusade elements (allied fire discipline)
 
 ---
 
 ## 1. Purpose of this extract
 
 **Full chronicle (Castellan / Helbrecht / faith audit):** [helbrecht-witness-ford-meeting.md](../audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md)  
-**VIII *Octava* / void net / field 4 lens (Legatus Malevent):** [witness-ford-octava.md](../vexillum-chronicles/witness-ford-octava/chapter.md)
+**OCTAVA / void net / field 4 lens (Legatus Malevent):** [witness-ford-octava.md](../vexillum-chronicles/witness-ford-octava/chapter.md)
 
 This AAR isolates the certified void beat for *Alabarda* field 4.
 
@@ -19,7 +19,7 @@ Opportunistic xenos pressure at **Witness Ford** — Drukhari raiders and satell
 
 ## 3. Execution
 
-**VIII** *Octava* deployed combat shields and compact bolters on bulkhead locks; melta breach teams sealed hull tears where boarding torpedoes punched.
+**OCTAVA** deployed combat shields and compact bolters on bulkhead locks; melta breach teams sealed hull tears where boarding torpedoes punched.
 
 Coordination: Batavi fire sectors nested with Templar assault lanes — minimal friendly overlap per pre-brief grid.
 
@@ -27,7 +27,7 @@ Outcome: ford held; transit continued under imperial authorization. Castellan–
 
 ## 4. Losses
 
-**VIII** *Octava*: cell count redacted — within Silent Vigil rolling reserve policy.
+**OCTAVA**: cell count redacted — within Silent Vigil rolling reserve policy.
 
 ## 5. *Strategium* certification (field 4)
 

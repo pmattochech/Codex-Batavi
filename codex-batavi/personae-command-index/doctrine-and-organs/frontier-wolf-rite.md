@@ -1,6 +1,6 @@
 # [WIKI] Frontier Wolf Rite
 
-Doctrinal protocol — classification: internal use / Triumvirate and Vexillationes
+Doctrinal protocol — classification: internal use / Triumvirate and Vexilla
 
 *Cross-reference: [friction-rites.md](friction-rites.md) § Greater rite | [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) § Execratio stage | [mortivigil-and-reclusiam-helm-law.md](mortivigil-and-reclusiam-helm-law.md) §VI–§VIII — standard death pipeline, Wall-name vs crypt, sacred offense to **Batavi** dead | [incus-gravis-campaign.md](../../chronicles/incus-gravis-tribunal/incus-gravis-campaign/chapter.md) — active Batavi beats | [proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md) — witness inheritance vs Judex-sanctioned rite | **Legacy narrative:** [blood-angels-batavi-legacy](../../chronicles/outdated/blood-angels-batavi-legacy/INDEX.md)*
 
@@ -26,7 +26,7 @@ The Chief Apothecary or designated representative approaches the body and perfor
 
 **On absence of harvest:** Execratio destroys progenoid glands — seeds of Astartes genetic continuity. There is no gene-seed to recover. The Versibar is absolute extinction: that specific Batavi DNA line will not pass to future neophytes. That is why the Apothecary keeps gauntlets empty at the funeral — no harvest flask, no continuity promise.
 
-**Machine oil:** Drusus anoints the shroud not with sacred oils or incense but with purified machine oil — the same lubricant that keeps the Vexillatio’s weapons running. *“Let iron return to earth. Let flesh return to the forge.”*
+**Machine oil:** Drusus anoints the shroud not with sacred oils or incense but with purified machine oil — the same lubricant that keeps the Vexilla’s weapons running. *“Let iron return to earth. Let flesh return to the forge.”*
 
 ---
 
@@ -34,7 +34,7 @@ The Chief Apothecary or designated representative approaches the body and perfor
 
 Varro performs the rite of the dead. With *Crozius Arcanum* vertical, he strikes ferrocrete base in three distinct blows, separated by silence, each rising in intensity. Each blow calls the warrior by name — not the beast’s name, but the name he carried before.
 
-> **First blow:** *“[Batavi name] of the [Vexillatio].”*  
+> **First blow:** *“[Batavi name] of the [Vexilla].”*  
 > **Second blow:** *“[Batavi name], Shield of Noviomagus.”*  
 > **Third blow:** *“[Batavi name], Son of the Wall.”*
 
@@ -42,7 +42,7 @@ The silence after the third blow is ratification. If the warrior does not answer
 
 > *“He does not answer the call. The watch is ended. Service is complete.”*
 
-The triad of titles is invariant: Vexillatio (unit), Shield (function), Son of the Wall (identity). They are called in ascending weight — soldier to function to belonging — because the rite summons the person, not the rank.
+The triad of titles is invariant: Vexilla (unit), Shield (function), Son of the Wall (identity). They are called in ascending weight — soldier to function to belonging — because the rite summons the person, not the rank.
 
 ---
 
@@ -90,14 +90,14 @@ The vigil does not end with death. It changes nature.
 
 Every citizen of Noviomagus frontier hives receives at birth a **civil ID plaque** — rough iron rectangle with civil name, home district, and registry number. The “seal of humanity,” issued by local *Administratum*. Material: untreated iron, prone to oxidation, therefore heavy with physical history.
 
-Every *Cohors Batavorum* Astartes receives at elevation a **service plaque** — grey ceramite aquila with Batavi name chosen at initiation, home Vexillatio, and year of elevation. Material: grey-iron ceramite, aquila in low relief.
+Every *Cohors Batavorum* Astartes receives at elevation a **service plaque** — grey ceramite aquila with Batavi name chosen at initiation, home Vexilla, and year of elevation. Material: grey-iron ceramite, aquila in low relief.
 
 The two plaques form an inseparable pair — full identity of a Batavi. A man who was citizen before warrior. For Versibars, that pair weighs more: it is all that remains of who they were before biology decided for them.
 
 | Plaque | Informal name | Material | Content |
 | --- | --- | --- | --- |
 | **Root plaque** | Cradle plaque | Rough iron | Civil name, district, civil registry no. |
-| **Iron plaque** | Line plaque | Ceramite | Batavi name, Vexillatio, year of elevation |
+| **Iron plaque** | Line plaque | Ceramite | Batavi name, Vexilla, year of elevation |
 
 ### The chain
 

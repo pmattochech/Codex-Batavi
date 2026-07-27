@@ -10,7 +10,7 @@ The extraction yard opened like a scar. Rails intersected at angles that once gu
 
 The records were already there.
 
-Bodies. Astartes. Some in *Prima* colors, some in stripped plates, some with sigils scraped away until the armor looked ashamed of its own history. They lay arranged around a crater lip in a rough semicircle, spaced like markers on a diagram.
+Bodies. Astartes. Some in PRIMA colors, some in stripped plates, some with sigils scraped away until the armor looked ashamed of its own history. They lay arranged around a crater lip in a rough semicircle, spaced like markers on a diagram.
 
 Brann stopped behind me. His vox was quiet.
 

@@ -13,7 +13,7 @@
 | **Friction geometry** | **Cold math war** — luck explained as **angles** | **grind trigonometry** — bar fight excuse |
 | **Axiom of Reason** | Folk etymology: **Axe of Reason** — justice cuts once | **axe marriage** — brutal divorce by arbiter |
 | **Geometria / zone mortalis** | **Ghost streets** where **silence** killed sound — exaggerated into **haunted vault** tales | **mort-list alley** |
-| ***Decima* justice cloth** | Misread **vexillum** pictogram — **tenth banner** thinks **tax festival** | **debt rag day** — illegal street luck ritual |
+| **DECIMA justice cloth** | Misread **vexillum** pictogram — **tenth banner** thinks **tax festival** | **debt rag day** — illegal street luck ritual |
 | **Wolf stance** | Drunk **stance** named after **wolf helm silhouette** — **no** linkage to curse theology in civilian mouth | **wolf tap** — three knocks before brawl |
 | **Relay doctrine** | **Pray at cable** — mortals mimic **silent watch** without clearance | **listen lunch** — meal taken without **vox** |
 | **Blindgate** | Physical **gate painted black** at dockyards — **wrong** but persistent | **blackmouth law** — don’t speak crossing |

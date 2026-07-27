@@ -137,7 +137,7 @@ If you ever run **stock** Operations without the class pack, use this **six-role
 
 **Cohort count:** You still have **exactly one cohort *stripe* color** for **Silence / Stasis / Nullity**, and **one** for **Shadows** shared by **Reiver + Eliminator** (two different mod kits, same cohort fiction).
 
-**Deathwatch:** Painting **all ten** in Watch black is a **loan / Steppenwolf** squad fantasy — valid OOC; not home **Vexillatio** livery; see §3.
+**Deathwatch:** Painting **all ten** in Watch black is a **loan / Steppenwolf** squad fantasy — valid OOC; not home **Vexilla** livery; see §3.
 
 ---
 

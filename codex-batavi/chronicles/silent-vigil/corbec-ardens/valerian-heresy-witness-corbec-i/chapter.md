@@ -6,7 +6,7 @@ Oxide. Hot dust. Old coolant pushed through ruptured seals until it turned sweet
 
 We were five, and that count mattered — not because five could hold ground or change a theater, but because five was the smallest unit that could still carry truth without becoming rumor. A single brother can be misread. Two can be dismissed as coincidence. Three becomes a narrative. Five becomes a ledger entry that refuses to vanish.
 
-Rauk Venn. Hadrik Sorn. Kessel Drave. Brann Oeric. And me. Line brothers. Not counselors. Not icon-bearers. Not the kind of men who get sculpted into marble on a world that still wastes stone on comforting fiction. We were *Prima* in the interval where *Prima* stopped being a Vexillatio and started being a stain.
+Rauk Venn. Hadrik Sorn. Kessel Drave. Brann Oeric. And me. Line brothers. Not counselors. Not icon-bearers. Not the kind of men who get sculpted into marble on a world that still wastes stone on comforting fiction. We were PRIMA in the interval where PRIMA stopped being a Vexilla and started being a stain.
 
 Our brief did not mention the stain. It did not name the man who made it. The brief was thinner than a ration slate: witness. Survive. Keep the line’s truth intact long enough to reach the Castellan.
 
@@ -144,7 +144,7 @@ He was already doing the work without waiting to be told: checking the periphery
 
 And then the sound arrived. Not a howl. Not a roar. Footsteps — heavy, deliberate, too slow for a man running and too confident for a man stalking. Kessel’s auspex pinged once, then filled with static. Rauk’s bolter rose. Hadrik stopped his tagging mid-motion, his hand frozen above a fallen pauldron as if he had been caught stealing. I lifted my own weapon and felt, with a clarity that made my mouth dry, that I did not want to meet whatever was walking toward us with a bolter. Bolters end things at range. Bolters also allow myths. If you kill a monster from far away, you can pretend it was never close enough to touch you. We needed something else. We needed sentence.
 
-I stepped back toward the crater lip where the bodies lay. Half-buried by grit, wrapped in the wind’s attempt to erase them, was a rack-case — *Prima* pattern, officer issue, stamped with a serial that meant nothing to anyone outside our own inventories. I knew the case. I had filed its checks. I had watched it move from ship to ship, from theater to theater, because *Prima* keeps certain tools close even when it pretends it does not believe in symbols. I released the clasps and drew out the halberd. Not the vexillum. Not the relay. Just steel and reach and hook geometry, honest in its function. The shaft was scarred from use. The head had been sharpened recently, the edge bright in a way that looked obscene against the dust.
+I stepped back toward the crater lip where the bodies lay. Half-buried by grit, wrapped in the wind’s attempt to erase them, was a rack-case — PRIMA pattern, officer issue, stamped with a serial that meant nothing to anyone outside our own inventories. I knew the case. I had filed its checks. I had watched it move from ship to ship, from theater to theater, because PRIMA keeps certain tools close even when it pretends it does not believe in symbols. I released the clasps and drew out the halberd. Not the vexillum. Not the relay. Just steel and reach and hook geometry, honest in its function. The shaft was scarred from use. The head had been sharpened recently, the edge bright in a way that looked obscene against the dust.
 
 Rauk’s vox snapped my name half-spoken.
 

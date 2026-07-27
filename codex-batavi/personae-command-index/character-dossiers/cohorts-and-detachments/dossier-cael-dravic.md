@@ -1,14 +1,14 @@
 # [WIKI] CHARACTER DOSSIER: CAEL DRAVIC
 
 **Rank:** Brother-Sergeant  
-**Vexillatio:** 10th (*Decima*) — Castellan escort lattice  
+**Vexilla:** 10th (DECIMA) — Castellan escort lattice  
 **Role:** Overwatch / scoped auspex; line NCO under Captain Graile on high-value detachments  
 
 ---
 
 ## 1. Profile
 
-**Cael Dravic** is a *Decima* non-commissioned anchor — not supremes material, not instructor-out. He exists where the Chapter needs **eyes** that hold when the Castellan walks alone: disciplined, unremarkable on parade, **accurate** under terror.
+**Cael Dravic** is a DECIMA non-commissioned anchor — not supremes material, not instructor-out. He exists where the Chapter needs **eyes** that hold when the Castellan walks alone: disciplined, unremarkable on parade, **accurate** under terror.
 
 **Voice:** Short reports. No metaphor.
 
@@ -30,4 +30,4 @@ Chronicles: [`garmr-witness-dravic.md`](../../../chronicles/silent-vigil/viggo-t
 
 * **Markus Graile:** Chain of command; Graile trusts Dravic to **watch** without improvising heroics.  
 * **Alaric von Helis:** Fear and loyalty — not hatred. Dravic does not want the Wall to become prey.  
-* **Varro:** Judex who forbade mess talk and assigned **hold geometry** as *Decima* lesson.
+* **Varro:** Judex who forbade mess talk and assigned **hold geometry** as DECIMA lesson.

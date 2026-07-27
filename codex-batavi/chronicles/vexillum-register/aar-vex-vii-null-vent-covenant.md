@@ -3,7 +3,7 @@
 **Operation:** NULL-VENT COVENANT  
 **Theater:** Vitreus lens-forge arcology — orbital plate Seven  
 **Date:** 112.M42  
-**Unit:** **VII** *Septima* (full Vexillatio; *Armourium* plasma auditors embedded)
+**Unit:** **SEPTIMA** (full Vexilla; *Armourium* plasma auditors embedded)
 
 **Full chronicle:** [null-vent-covenant.md](../vexillum-chronicles/null-vent-covenant/chapter.md)
 
@@ -19,7 +19,7 @@ Contain vent geometry without detonation; preserve the forge spine for Mechanicu
 
 ## 3. Execution
 
-**VII** *Septima* imposed Null-Vent protocol (Chapter Vitreus trial doctrine).
+**SEPTIMA** imposed Null-Vent protocol (Chapter Vitreus trial doctrine).
 
 Ruin teams isolated cascade nodes with sequential plasma incinerator underburn — full overcharge forbidden without Legatus and Techmarine dual sign-off per node. Suppression held the perimeter against cult meat waves and servitor rampage. Apothecary detachments stood by for thermal-burn mass casualties among skitarii allies; actual allied dead remain in treaty annex (redacted in Chapter file).
 
@@ -27,7 +27,7 @@ Outcome: manifold bled into vacuum ports per emergency schematics; no city-scale
 
 ## 4. Losses
 
-**VII** *Septima*: 19 killed.
+**SEPTIMA**: 19 killed.
 
 ## 5. *Strategium* certification (field 4)
 

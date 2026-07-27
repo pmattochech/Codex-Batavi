@@ -18,7 +18,7 @@
 | **~080–085** | **3 — Hot rot** | Resentment → hate; **harvest** theology; bulk of **Valerius host** aligns; **Corbec** + few **lawful witness** |
 | **~085** | **3b — Seal** | Lucid **Versibar**; **Daemon Prince** ascent; implicit-Horus **answer** (unnamed in register); open **Lupercal** claim |
 | **~086** | **4 — Malakor** | Trap / theater climax; apex **why?** exchange (wall vs tide); **Valerius** executed; **~300** mesh toll; **Silent Vigil begins** |
-| **~086–088** | **5 — Reformation** | Active spine **~1,000**; progenoid stock **≤500** (crisis); ***Prima* re-seat** Noviomagus; ***Alabarda* vexilla** commission **II–IX** + *Prima* **obligation field**; *Decima* **justice vexillum** |
+| **~086–088** | **5 — Reformation** | Active spine **~1,000**; progenoid stock **≤500** (crisis); **PRIMA re-seat** Noviomagus; ***Alabarda* vexilla** commission **SECVNDA–NONA** + PRIMA **obligation field**; DECIMA **justice vexillum** |
 | **~087–088** | **6 — Primaris** | Reinforcement **after** bloodletting; **~5,000** ceiling ratified; ***Limes Lupus*** collar |
 | **~091–092** | *(early Vigil)* | Viggo / Garmr’s Shelf *(was ~055)*; **Contingency Axiom Lupus** *(was ~056)* |
 | **~186** | *(Vigil)* | Parapet / Elara beat *(was ~150)* |
@@ -48,9 +48,9 @@ Apply **+36** to anchored Silent Vigil events unless a file declares **Castra Ve
 
 | Rule | Lock |
 |------|------|
-| During civil war | **No** four-field *Alabarda* vexilla for I–IX |
+| During civil war | **No** four-field *Alabarda* vexilla for PRIMA–NONA |
 | After Malakor | Commission; **Legati** from **specialty squad** lineages |
-| *Prima* field 4 | **Obligation / remembrance** (broken cog) — post-treason |
+| PRIMA field 4 | **Obligation / remembrance** (broken cog) — post-treason |
 | Old register dates **048–140** | **Pending sweep** — must post-date commission |
 
 ---

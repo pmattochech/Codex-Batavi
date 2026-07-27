@@ -2,7 +2,7 @@
 
 **Status:** Draft — 2026-07-22 (Phase A capital — maximum depth)  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding)  
-**Seat:** Vexillatio IX (*Nona*) · Legatus: Cassian Vetra  
+**Seat:** Vexilla NONA · Legatus: Cassian Vetra  
 **Scope:** Mortal populi only — not full Vexilla doctrine. Chapter footprint via civilian habit until Phase B.  
 **Atlas / fork:** [system-iii-threshold.md](../systems/system-iii-threshold.md) §4 · [worlds-threshold.md](worlds-threshold.md) § **Marco de Vetra** · [castra-vetera-galactic-lock.md](../castra-vetera-galactic-lock.md)  
 **Basal / Ecclesiarchy:** [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md) · [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · [ecclesiarchy-on-the-frontier.md](../../political-relations/ecclesiarchy-on-the-frontier.md)  
@@ -11,7 +11,7 @@
 **Local mortal sin (lock):** **Premature cry** (unbudgeted outbound — thermal, radio, or laser shout outside the release schedule)  
 **Legatus public read (mortal):** **the Warden** — bait-moon governor who buys seconds so the shout behind him stays clean
 
-**IX *Nona* bleed (ratified, separate file):** [`nona-marco-de-vetra-culture-bleed.md`](nona-marco-de-vetra-culture-bleed.md) · Legatus dossier (Chapter layer): [`dossier-cassian-vetra.md`](../../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md)
+**NONA bleed (ratified, separate file):** [`NONA-marco-de-vetra-culture-bleed.md`](nona-marco-de-vetra-culture-bleed.md) · Legatus dossier (Chapter layer): [`dossier-cassian-vetra.md`](../../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md)
 
 ---
 
@@ -29,7 +29,7 @@ Scale is **sparse** by Noviomagus measure: service castes, hereditary laser-hous
 
 **Not Noviomagus:** No Black Rain elevator theology, no forge throughput as primary holiness, no stack-plaque spine. Seals still matter, but the holy receipt is **scheduled silence kept** and **scheduled shout released** — not torque logged on a die.
 
-**Neighbor Threshold bodies (Phase C):** **Station-IX (*Sidus Silentii*)** is the **monastic receiver** — cold vow, listen-only, laser to Vitreus. Marco is the **bait and shout** — delay-and-deny until the cry flies or the moon burns. Do **not** collapse the two into one silence cult. Wing stubs: [worlds-threshold.md](worlds-threshold.md) § **IX *Nona* wing** — no Phase C essay in this ethnography file.
+**Neighbor Threshold bodies (Phase C):** **Station-IX (*Sidus Silentii*)** is the **monastic receiver** — cold vow, listen-only, laser to Vitreus. Marco is the **bait and shout** — delay-and-deny until the cry flies or the moon burns. Do **not** collapse the two into one silence cult. Wing stubs: [worlds-threshold.md](worlds-threshold.md) § **NONA wing** — no Phase C essay in this ethnography file.
 
 **Porta Nihili accent:** Throne is **heard when permitted**. Virtue is **hold** — *“shout only when budgeted.”* Sin is **premature cry**. Outsiders misread Marco as “quiet monks” (Station-IX error) or as “broadcast zealots” (Navy rumor). Locals are **neither**: they are **schedulers of permission**.
 
@@ -50,7 +50,7 @@ Scale is **sparse** by Noviomagus measure: service castes, hereditary laser-hous
 #### Worked intersections (fiction border)
 
 1. **Hash lock** — all strata wait; order of unlocking teaches class (rabble last out; upper already inside sealed galleries).  
-2. **Mast-foot corridor** — rabble/common meet; upper almost never without escort. Shared Sweat and *Nona* perimeter watches flatten pride here — briefly.  
+2. **Mast-foot corridor** — rabble/common meet; upper almost never without escort. Shared Sweat and NONA perimeter watches flatten pride here — briefly.  
 3. **Coupling bay after scorch drill** — common up with repair plaques; rabble reclaim; upper signs the denial ledger without smelling the melt if they can help it.  
 4. **Vitra-string pattern** — hereditary laser houses move between common peak and lower-upper bridge without claiming Chapter decks.
 
@@ -74,7 +74,7 @@ Scale is **sparse** by Noviomagus measure: service castes, hereditary laser-hous
 ### 0.5 Local mortal sin & Legatus read
 
 - **Local mortal sin — premature cry:** Any **unbudgeted outbound** — open vox beyond suit mesh, laser paint without clearance, antenna test outside the window, panic pulse during hash, “helpful” early warning that paints the moon. Enforced by delay clerks, farm magistrates, Arbites when blood follows, and social death when it does not. **Class-colored:** Rabble = panic ping / stolen suit beacon; Common = mis-stamped window / “just a calibration”; Upper = patronage leak / house rivalry shout disguised as piety. Wolf metaphor discouraged in chapel speech; **signal wolf** (someone who howls early) is allowed cant.
-- **Legatus public read:** Mortals call Cassian Vetra **the Warden** — the bait-moon’s governor. Surface rumor: he lets enemies spend shells on the moon so the shout behind him stays clean. Attribution (mortal retellings of a formal line): *“Let them spend shells on me. The shout is not mine — it is yours, behind me.”* Full *Nona* bleed mechanics: [`nona-marco-de-vetra-culture-bleed.md`](nona-marco-de-vetra-culture-bleed.md).
+- **Legatus public read:** Mortals call Cassian Vetra **the Warden** — the bait-moon’s governor. Surface rumor: he lets enemies spend shells on the moon so the shout behind him stays clean. Attribution (mortal retellings of a formal line): *“Let them spend shells on me. The shout is not mine — it is yours, behind me.”* Full NONA bleed mechanics: [`NONA-marco-de-vetra-culture-bleed.md`](nona-marco-de-vetra-culture-bleed.md).
 
 ---
 
@@ -85,13 +85,13 @@ Marco’s mortal force exists to **keep the beam legal and the moon expensive**.
 **By class**
 
 - **Rabble:** Levy fodder, suit pickets, cable-cut details under hash, “mute runner” drafts who carry chalk and never echo on open net. Riot experience = panic in a gallery when a scorch order lands twice on the net and bodies still try to save a coupling that must burn. Friend–foe discrimination at the mast foot is taught as **who stops transmitting**, not as elegant auspex faith.
-- **Common:** Career PDF and farm militia — rotation clocks, sustained pin drills borrowed from watching *Nona* without copying Chapter kit. Shared Sweat surfaces: parallel watches on array decks, civilian delay clerks feeding military windows, pride without speeches. Arbites posture is **corridor law** — premature cry that becomes riot is their meat; theology alone is not.
+- **Common:** Career PDF and farm militia — rotation clocks, sustained pin drills borrowed from watching NONA without copying Chapter kit. Shared Sweat surfaces: parallel watches on array decks, civilian delay clerks feeding military windows, pride without speeches. Arbites posture is **corridor law** — premature cry that becomes riot is their meat; theology alone is not.
 - **Upper:** Officer houses, dock magistrates with gun rights, vitra-string security patronage. They fund mast-foot canteens and memorial galleries for shout martyrs; they fear being the house whose leak forced a preemptive burn.
 
 **Worked examples**
 
 - **Draft:** Hash-weather levy — rabble sealed into outer runs; common keep trunk gates; refusal to mute suit-vox = premature cry charge before cowardice charge.
-- **Riot:** Post-scorch crowd at Coupling Bay Seven — families of reclaim dead vs delay clerks; Arbites break bones; *Nona* perimeter presence ends argument without sermon (surface only).
+- **Riot:** Post-scorch crowd at Coupling Bay Seven — families of reclaim dead vs delay clerks; Arbites break bones; NONA perimeter presence ends argument without sermon (surface only).
 - **Shared Sweat:** Civilian alignment crews and Chapter array watches sharing a dry gallery after EM storm — silence as courtesy, not doctrine class.
 
 ---
@@ -204,7 +204,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 | **Adeptus Arbites** | **Present** | Corridor and riot law at mast foot and trunk gates; premature cry that sheds blood. Not the primary sorter (clearance is), but the breaker when social death fails. Thin on outer reclaim; heavy after scorch drills. |
 | **Adeptus Mechanicus** (incl. local forge-priests) | **Present** | Laser-house tech-priests, coupling rites, reactor spine blessings. Accent: heat-as-noise and alignment-as-crop, not Noviomagus die theology. Upper house Magos-liaisons; common shift priests; rabble gutter tech. Friction: scorch orders vs repair instinct — denial product vs intact machine pride. |
 | **Imperial Guard / Astra Militarum** (draft, billet, regiment links) | **Thin** | Drafts leave for mesh wars; billets rare and temporary. Culture treats Guard as **elsewhere sweat**; local pride stays PDF/mast. Failure smell when returning veterans talk too loud on open net. |
-| **Planetary Defense Force / local militia** | **Core** | Mast-foot, farm security, hash pickets — civilian military identity. Shared Sweat contact surface with *Nona*. Class ladder from rabble levy to common career to upper officer houses. Sin: panic pulse / early beacon in drill. |
+| **Planetary Defense Force / local militia** | **Core** | Mast-foot, farm security, hash pickets — civilian military identity. Shared Sweat contact surface with NONA. Class ladder from rabble levy to common career to upper officer houses. Sin: panic pulse / early beacon in drill. |
 | **Imperial Navy** | **Thin** | Docking at bait-moon edges; crews mocked as “broadcast habits.” Present enough to import insults and spare parts; not cultural core. |
 | **Navis Nobilite / Navigator houses** | **Thin** | Insular chart-house traffic for Threshold lanes; mortal populi meet them as sealed passengers and tariff ghosts. No house capital here. Absence of familiarity is information — Navigators are weather, not neighbors. |
 | **Adeptus Astra Telepathica / Astropaths** | **Sealed/rumor only** | Relay doctrine prefers laser trunks and EM discipline; astropathic rumor treated as cognito-risk gossip. Mortals do not build culture on Choir intimacy. |
@@ -219,7 +219,7 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 | **Criminal / underhive powers** (as civic fact) | **Present** | Illegal beam-wedding rings, stolen beacons, chalk black-markets, heat-smuggling. Civic fact: under-gallery powers sell premature cry as a service and die for it. |
 | **Mute runner guilds (seat-specific)** | **Core** | Licensed and unlicensed couriers who never echo on open net — Threshold service caste made local law. Bridge between rabble survival and common licensing. |
 | **Delay clergy / signal clergy (seat-specific)** | **Core** | Civilian “priests of the window” — not Ministorum substitutes, but Porta accent specialists. Enforce premature cry as mortal sin alongside chapel. |
-| **Station-IX / Vigil-Lucis peripherals (Phase C wing)** | **Thin** (cultural import) | Cold-vow and listen-marriage gossip imported; **not** absorbed as Marco identity. Wing stubs: [worlds-threshold.md](worlds-threshold.md) § **IX *Nona* wing**. |
+| **Station-IX / Vigil-Lucis peripherals (Phase C wing)** | **Thin** (cultural import) | Cold-vow and listen-marriage gossip imported; **not** absorbed as Marco identity. Wing stubs: [worlds-threshold.md](worlds-threshold.md) § **NONA wing**. |
 
 ---
 
@@ -252,9 +252,9 @@ Score **every** row. Status values: **Core** · **Present** · **Thin** · **Abs
 
 ## 9. Related / deferred
 
-- Phase B bleed file: [`nona-marco-de-vetra-culture-bleed.md`](nona-marco-de-vetra-culture-bleed.md) (**ratified** — do not mix full bleed doctrine into this populi body)  
-- Wing periphery (Phase C): [worlds-threshold.md](worlds-threshold.md) § **IX *Nona* wing** — Station-IX, Silent Belt, Glass Eye, Vigil-Secundus, Ice Sentinels; no wing essay in this ethnography file  
-- Sibling seats: do **not** absorb *Octava* / Malevent reef culture, Noviomagus forge capital, or other Threshold capitals into this ethnography  
+- Phase B bleed file: [`NONA-marco-de-vetra-culture-bleed.md`](nona-marco-de-vetra-culture-bleed.md) (**ratified** — do not mix full bleed doctrine into this populi body)  
+- Wing periphery (Phase C): [worlds-threshold.md](worlds-threshold.md) § **NONA wing** — Station-IX, Silent Belt, Glass Eye, Vigil-Secundus, Ice Sentinels; no wing essay in this ethnography file  
+- Sibling seats: do **not** absorb OCTAVA / Malevent reef culture, Noviomagus forge capital, or other Threshold capitals into this ethnography  
 
 **Acceptance gate (Phase A):** §§0–9 present; physical frame + fork + sorting tables; local sin locked (**premature cry**); Legatus public read (**the Warden**); six categories deep and class-banded; Sound per class; institutional slices; Imperial orgs matrix complete; shards + Wrong/Right; Education substantive; Batavi creed not collapsed into Ministorum; no Founding/progenitor invention; no opaque friend–foe abbreviations; chronological blindness respected; Phase B linked separately; Phase C wing linked on worlds-threshold.
 

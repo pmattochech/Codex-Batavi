@@ -29,21 +29,21 @@ Post–**Valerian Heresy** doctrine splits what chimeric architecture **offers**
 
 * **Fuel:** Waaagh pressure, primal psychic noise, green-war mass. Scales with **presence size**, not a single skirmish.  
 * **Form:** Predatory assault discipline — closure speed, melee dominance, pack tempo. **Bolter-anvil** remains default; deep Hunt authorizes descent into blade geometry.  
-* **Cultural home:** **V** *Quinta* (storm assault, drop clearance) — **most frequent** deep Hunt; other vexes train **edge** Hunt as mission requires.  
+* **Cultural home:** **QVINTA** (storm assault, drop clearance) — **most frequent** deep Hunt; other vexes train **edge** Hunt as mission requires.  
 * **Rebound (post-harness norm):** Tremor, elevated **Furor** watch, pharmakon — **not** chapter-wide unconscious collapse. Mass hypovolemic “deck drop” is filed as **pre-*Curia*** hazard or **unauthorized** depth.
 
 ### 2.2 March of the Machine (Tyranid fleet / Shadow geometry)
 
 * **Fuel:** **Shadow in the Warp** and aggregate hive hunger drying local Immaterium — **not** “a Tyranid on the scope.” **Genestealer cults** and larval nets without fleet-scale shadow **do not** call deep March; **Silence Cohort**, *Lex Imperialis*, and allied intel cover that gap.  
 * **Form:** Analytical silence, pattern slaughter, dampened affect — **march-edge** for coalition void/boarding; **march-deep** only with logged Shadow threshold and clearance.  
-* **Cultural home:** **IV** *Quarta* (static grav-locked holds; registered Tyranid defense).  
+* **Cultural home:** **QVARTA** (static grav-locked holds; registered Tyranid defense).  
 * **Rebound:** Mental exhaustion, repetitive task fixation — managed by **rotation**, not public catatonia on allied decks.
 
 ### 2.3 The Cull (traitor Astartes / treason imprint)
 
 * **Fuel:** **Strand β** treason-recognition — corrupted Astartes sharing lineage root; intensity scales on **corruption depth** and **proximity to Horus Lupercal’s line**, not headcount.  
 * **Form:** Ice rectification — precise execution, not berserk release.  
-* **Cultural home:** **I** *Prima* (Valerian shame lattice; obligation fourth field on *Alabarda*).  
+* **Cultural home:** **PRIMA** (Valerian shame lattice; obligation fourth field on *Alabarda*).  
 * **Depth tiers:**
 
 | Tier | Trigger (summary) | Rebound risk |
@@ -70,13 +70,13 @@ Post–**Valerian Heresy** doctrine splits what chimeric architecture **offers**
 
 **Rotation law:** The same battle-brother or lance cycled into **deep** discipline repeatedly without stand-down **raises** Wolf’s Curse risk even when each sortie is **cleared**. Greedy command is a **logged sin** — medic warning ignored, chaplain vanity file open, Legatus override on the *Alabarda* relay.
 
-**Sustained theaters** (e.g. Armageddon-scale Ork war): *Quinta* may assault often, but **lances rotate**; cross-vex relief (*Sexta* hold, line vexillatio swap) is *Strategium* expectation, not hero preference.
+**Sustained theaters** (e.g. Armageddon-scale Ork war): QVINTA may assault often, but **lances rotate**; cross-vex relief (SEXTA hold, line Vexilla swap) is *Strategium* expectation, not hero preference.
 
 ---
 
 ## 4. The *Curia Vexilli* (banner court)
 
-Each **Vexillatio** I–IX maintains a **banner court** — informal Low Gothic: **“the three at the staff.”** ***Decima*** does **not** duplicate the lattice; **Triumvirate** authority applies directly ([`military-hierarchy.md`](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3).
+Each **Vexilla** PRIMA–NONA maintains a **banner court** — informal Low Gothic: **“the three at the staff.”** **DECIMA** does **not** duplicate the lattice; **Triumvirate** authority applies directly ([`military-hierarchy.md`](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3).
 
 | Seat | Title | Domain (**does not cross**) |
 |------|--------|-----------------------------|
@@ -126,9 +126,9 @@ Adjutant Chaplains and sub-cohort Apothecaries remain in the **500** table; **Ge
 
 | Phase | Event |
 |--------|--------|
-| **≤ 050.M42** | **Valerian Heresy** — *Prima* learns that rot survived “discipline as speech” alone. |
+| **≤ 050.M42** | **Valerian Heresy** — PRIMA learns that rot survived “discipline as speech” alone. |
 | **Informal** | **Corbec** lattice: Legatus + senior medic + chaplain **council before push** — not yet Chapter law. |
-| **Import** | Other Legati copy the **shape** after *Prima* remains standing; local flavor (*Quinta* Hunt, *Quarta* March). |
+| **Import** | Other Legati copy the **shape** after PRIMA remains standing; local flavor (QVINTA Hunt, QVARTA March). |
 | **~051.M42+** | Post–Malakor lattice: ***Curia Vexilli*** officialized; **Genetor Primus** / **Confessor Primus** recognized; Watch career gates align ([`deathwatch-and-batavorum.md`](../political-relations/deathwatch-and-batavorum.md) §4.2). |
 
 ---
@@ -152,7 +152,7 @@ Adjutant Chaplains and sub-cohort Apothecaries remain in the **500** table; **Ge
 *Polish done (2026-07-16): old “Judex-only wolf-skull / red-lens Varro” lines synced in key chronicles; Frontier Wolf Rite tied to death pipeline + plaque vs crypt split — [`frontier-wolf-rite.md`](../personae-command-index/doctrine-and-organs/frontier-wolf-rite.md) · [`mortivigil-and-reclusiam-helm-law.md`](../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md).*
 
 ### Naming / sites
-- **Name the Castra-Lupus triad** (Strategium–Monastery / Apothecarion / Reclusiam houses) and the **Chapter-supreme bone vault**; distinguish on maps from *Prima* capital crypt (both Noviomagus).
+- **Name the Castra-Lupus triad** (Strategium–Monastery / Apothecarion / Reclusiam houses) and the **Chapter-supreme bone vault**; distinguish on maps from PRIMA capital crypt (both Noviomagus).
 - **Name the nine Legatus capital crypts**; site plans per seat world.
 - Wall-fusion craft detail (how names enter foundations across hive / fort / station types).
 
@@ -162,7 +162,7 @@ Adjutant Chaplains and sub-cohort Apothecaries remain in the **500** table; **Ge
 
 ### Creative expansion
 - More **named battle-brothers** (beyond current dossiers / Einar arc).
-- **Imperial citizens** / mortal-side lore under Castra Vetera — **Noviomagus closed:** ethnography [`../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../atlas-and-topography/cultures/ethnography-noviomagus-prime.md) · *Prima* bleed [`../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md). **Castra-Vetera Prime Phase A closed (framework):** ethnography [`../atlas-and-topography/cultures/ethnography-castra-vetera-prime.md`](../atlas-and-topography/cultures/ethnography-castra-vetera-prime.md) — II *Secunda* / Kessler; Phase B bleed + Phase C wing deferred.
+- **Imperial citizens** / mortal-side lore under Castra Vetera — **Noviomagus closed:** ethnography [`../atlas-and-topography/cultures/ethnography-noviomagus-prime.md`](../atlas-and-topography/cultures/ethnography-noviomagus-prime.md) · PRIMA bleed [`../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md`](../atlas-and-topography/cultures/prima-noviomagus-culture-bleed.md). **Castra-Vetera Prime Phase A closed (framework):** ethnography [`../atlas-and-topography/cultures/ethnography-castra-vetera-prime.md`](../atlas-and-topography/cultures/ethnography-castra-vetera-prime.md) — SECVNDA / Kessler; Phase B bleed + Phase C wing deferred.
 - Optional: refresh [`varro-chaplain-judex.png`](../lore-images/varro-chaplain-judex.png) art ref to fire-orbs + incense jaws + pack thurible / flanking candles.
 - **Mortal mood / chronicle (Hymn of the Lost):** author mood lock done — [`HYMN-OF-THE-LOST-MOOD-LOCK.md`](HYMN-OF-THE-LOST-MOOD-LOCK.md) §1; backlog §2 culture-doc note (ethnography linked); backlog §3 pre-reconquest mortal chronicle.
 

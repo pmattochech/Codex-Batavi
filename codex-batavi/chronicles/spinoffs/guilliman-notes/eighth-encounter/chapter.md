@@ -32,7 +32,7 @@ He looked for the other half of the equation: the boundary line.
 
 The Batavi did not eat with the humans. They did not remove helms. They did not offer affection. They offered participation. It was colder than friendship and safer than worship.
 
-Beside Guilliman stood the escort he had requested: not a Triumvirate mask, but a watch-certified veteran from the local Vexillatio. Henric Kessler, Legatus of II Vexillatio — Secunda, wore his authority the way the Batavi wore everything: as function, not as theater. His armor bore the scars of this trenchworks’ geometry. His posture was not ceremonial. It was the posture of a man who had learned to keep a commander alive by telling him when the wall had hairline cracks.
+Beside Guilliman stood the escort he had requested: not a Triumvirate mask, but a watch-certified veteran from the local seat. Henric Kessler, Legatus of SECVNDA, wore his authority the way the Batavi wore everything: as function, not as theater. His armor bore the scars of this trenchworks’ geometry. His posture was not ceremonial. It was the posture of a man who had learned to keep a commander alive by telling him when the wall had hairline cracks.
 
 Guilliman watched a small rite occur without announcement.
 
@@ -72,7 +72,7 @@ He did not have to wait long.
 
 The objection came the way a bolt round came: unromantic, direct, inevitable.
 
-A battle-brother stepped forward from the edge of the hololith. Brother Jannik Voss, II Vexillatio — Secunda, did not preface the act with any formula. He did not ask permission to disagree. He did not posture. He spoke as if the plan were a machine part he could already hear failing.
+A battle-brother stepped forward from the edge of the hololith. Brother Jannik Voss, SECVNDA, did not preface the act with any formula. He did not ask permission to disagree. He did not posture. He spoke as if the plan were a machine part he could already hear failing.
 
 — Lord. The western traverse is a false economy. We will bleed there.
 

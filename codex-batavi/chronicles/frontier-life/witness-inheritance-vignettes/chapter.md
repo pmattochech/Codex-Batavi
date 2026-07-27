@@ -28,7 +28,7 @@ Within a decade, Third Shift knuckle-drummed the pipe **once** before crossing t
 
 The Needles families still spoke **salt-debt** when they loaded tithe crates: not religion on parchment, **contract** you could taste.
 
-A **Quinta** detachment waited on the pier while Munitorum tallies fought over tonnage. A girl — fifteen, maybe — broke rank from the labor gang and pressed a flake of **hardbread** into the nearest Batavi’s hand. Her eyes dared him to refuse. “Eat,” she said. “So the tide knows you’re not stealing weight.”
+A *QVINTA* detachment waited on the pier while Munitorum tallies fought over tonnage. A girl — fifteen, maybe — broke rank from the labor gang and pressed a flake of **hardbread** into the nearest Batavi’s hand. Her eyes dared him to refuse. “Eat,” she said. “So the tide knows you’re not stealing weight.”
 
 The Marine — **Brother Caeros**, elevation **068.M42** — hesitated one heartbeat. Then he placed the crumb on his tongue through the lower helm seal, locked it, and swallowed dry.
 

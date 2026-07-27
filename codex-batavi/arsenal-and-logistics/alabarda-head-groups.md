@@ -1,32 +1,46 @@
-# *Alabarda Vexillum* — head groups and haft law
+# *Alabarda* + Vexilla — head groups, haft law, and detachable cloth
 
-*Strategium* / *Armourium* register — Legatus battle standard, Vexillationes **I–IX**.*
+*Strategium* / *Armourium* register — Legatus battle pole and unit standard for **PRIMA**–**NONA**.*
+
+**Naming lock:** The tactical unit and its battle cloth share one name — **Vexilla** — spoken as the LATIN-CAPS seat (**PRIMA**, **SECVNDA**, **TERTIA**, **QVARTA**, **QVINTA**, **SEXTA**, **SEPTIMA**, **OCTAVA**, **NONA**; Castellan anchor **DECIMA**). Brothers do **not** say “Vexillatio” or “from the fifth Vexilla”; they say **QVINTA** (example: *Armin Sturmwahl, skywolf from QVINTA, Legatus of my Vexilla*).
 
 ---
 
-## 1. What stays fixed
+## 1. Two objects, carried together
 
-**Cloth law:** Every Legatus *Alabarda Vexillum* carries the **same four-field vexillum** (chapter icon, large Roman ordinal, anchor/specialty, fourth field per *Prima* shame vs triumph register) — [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md).
+**Alabarda:** The Legatus **halberd / polearm** — head group, haft relay, butt spike. Combat instrument and *Curia* telemetry spine.
 
-**Haft core:** Relay spine, *Genetor Vexilli* clearance flags, merged tactical *auspex*, biological-failure telemetry — same instrument class as [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) and [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
+**Vexilla (cloth):** The **four-field battle standard** of that Legatus’s unit — chapter icon, **LATIN-CAPS** ordinal (**PRIMA**–**NONA**), anchor/specialty, success or (PRIMA only) obligation/remembrance — [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md).
 
-**What varies:** Only the **head group** (and, for **IX** *Nona*, certified **haft length modes**) — *Armourium* **pattern** per Vexillatio seat, optional **named Legatus file** when *Strategium* registers a successor variant. The object remains ***Alabarda Vexillum***; the metal answers **theater geometry**.
+**Carry law:** Alabarda and Vexilla are **issued and carried together** as one Legatus rig. They are **not** permanently fixed as a single welded trophy.
 
-**Vexillatio X — *Decima*:** Flies the **justice vexillum**, not a ninth Legatus *Alabarda* clone — [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) §4.
+**Detach law (mandatory):** The Vexilla **can be detached** from the Alabarda and **pinned into the ground separately** (yard stake / butt plant / dedicated ground pin — *Armourium* pattern). Modes:
+
+| Mode | Use |
+|------|-----|
+| **Mounted** | Cloth on the Alabarda yard — march, assault carry, furled boarding |
+| **Detached plant** | Cloth pinned to ground as a separate standard; Alabarda free for strike / relay geometry |
+| **Dual plant** | Alabarda butt-planted **and** Vexilla ground-pinned on the same lattice node when the Legatus wants both steel and cloth locked |
+
+**Haft core (Alabarda):** Relay spine, *Genetor Vexilli* clearance flags, merged tactical *auspex*, biological-failure telemetry — same instrument class as [chapter-identity.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) and [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
+
+**What varies on the Alabarda:** Only the **head group** (and, for **NONA**, certified **haft length modes**) — *Armourium* **pattern** per Vexilla seat. The metal answers **theater geometry**; the cloth answers **unit identity**.
+
+**DECIMA:** Flies the separate **justice vexillum**, not a Legatus *Alabarda* clone — [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §4.
 
 ---
 
 ## 2. Bearer authority (all Legati)
 
-**Runtime actuation** — shaft length (where certified), furled/unfurled cloth, plant site, head use in contact — is **sole Legatus authority**. **No** captain, *Genetor Vexilli*, or *Strategium* consult is required to change mode in combat; **no** doctrine exists that treats subordinate **approval** as a gate on the bearer’s pole.
+**Runtime actuation** — shaft length (where certified), furled/unfurled cloth, **mount / detach / ground-pin**, Alabarda plant site, head use in contact — is **sole Legatus authority**. **No** captain, *Genetor Vexilli*, or *Strategium* consult is required to change mode in combat; **no** doctrine exists that treats subordinate **approval** as a gate on the bearer’s pole or cloth.
 
 The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes **solo** read of EM, plant load, corridor clearance, and timing. *Armourium* certifies **equipment safety** at manufacture/refit (machine law), not per-button **human** veto in the field.
 
 ---
 
-## 3. Type Primus — reference head (*Prima*)
+## 3. Type Primus — reference head (PRIMA)
 
-**Vexillatio:** **I** *Prima* (Noviomagus) — **reference** *Armourium* pattern all other types are measured against.
+**Vexilla:** **PRIMA** (Noviomagus) — **reference** *Armourium* pattern all other types are measured against.
 
 **Head:** **Power axe** cheek (cut, hook line) · **short power impaler** on the head (pierce gorget, joint, hull seam) · **power hammer** on the opposite cheek (stagger, breach fault) · **butt spike** for **ground plant** and relay anchor (primary pivot; not a routine fighting end).
 
@@ -36,9 +50,9 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 ---
 
-## 4. Type Hasta — spear-first (*Secunda*)
+## 4. Type Hasta — spear-first (SECVNDA)
 
-**Vexillatio:** **II** *Secunda* (Castra-Vetera).
+**Vexilla:** **SECVNDA** (Castra-Vetera).
 
 **Head:** **Power spear** / long **lance** spine as dominant plane — **stab and impale** primary. Narrow **impaler** as main killing edge (gorget, ministry aperture, viewport). **Small axe cheek** or **hook nub** behind the socket (rail drag, minimal sweep arc in populated stacks). **Hammer** reduced to **stun cap** (door fault, shock-lock). **Butt spike** — plant at Lex choke; thrust geometry default.
 
@@ -48,9 +62,9 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 ---
 
-## 5. Type Ignis — corrosive fault (*Tertia*)
+## 5. Type Ignis — corrosive fault (TERTIA)
 
-**Vexillatio:** **III** *Tertia* (Khan-Bator).
+**Vexilla:** **TERTIA** (Khan-Bator).
 
 **Head:** **Corrosive etch** capability — reservoir and delivery on **striking wedge** or **hammer cheek** (Administratum-ugly chemistry): opens laminate, seal packing, or ceramite so line **flamer/melta** volume admits the breach. **Short heated impaler** for suit laminate. **Flat insulated hammer** face for hatch knock without sparking pooled vapors. **Chem-sealed** haft; relay vents shielded from head contamination.
 
@@ -60,9 +74,9 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 ---
 
-## 6. Type Securis — cleave and drag (*Quarta*)
+## 6. Type Securis — cleave and drag (QVARTA)
 
-**Vexillatio:** **IV** *Quarta* (Incus-Gravis).
+**Vexilla:** **QVARTA** (Incus-Gravis).
 
 **Head:** **Massive power cleaver** / **guillotine** plane — **downstroke** certification (shingle, trench lip, massed xenos). **Sliding hook** on cleaver spine or rail — drag body, hatch lip, debris off the shield line after the drop. **Stub impaler** above cleaver line for finish in high-G grapple. **Broad maul** hammer opposite. **Heaviest butt spike** in the Chapter — plant-first March spine.
 
@@ -72,9 +86,9 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 ---
 
-## 7. Type Descensus — bardiche chainaxe, forward beard (*Quinta*)
+## 7. Type Descensus — bardiche chainaxe, forward beard (QVINTA)
 
-**Vexillatio:** **V** *Quinta* (Aethelgard).
+**Vexilla:** **QVINTA** (Aethelgard).
 
 **Head:** **Bardiche-profile**, not Primus three-face halberd. Primary is a **chainaxe** with a **long bardiche beard raked / pointing forward** (reach cleave along the enemy line — saw-mass after boltstorm landing). **No impaler.** **Long shaft** — standoff enough to eat assault meat before it closes. **Butt spike** for plant once the puncture exists. **Belt chainsword** for the close band; **power gladius** for the quick death. Dual-wield (bardiche + chainsword) certified when relay is **planted** or borne by escort — closed gantry, descent window, tight vertical clearance after lattice lock.
 
@@ -84,9 +98,9 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 ---
 
-## 8. Type Malleus — impact-first (*Sexta*)
+## 8. Type Malleus — impact-first (SEXTA)
 
-**Vexillatio:** **VI** *Sexta* (Bifrons-Ferrum).
+**Vexilla:** **SEXTA** (Bifrons-Ferrum).
 
 **Head:** **Hammer dominant** — **block maul** or **forge mallet** profile occupying largest head mass. **Axe** reduced to trimming edge (cable, bolt, clearance after the door dies). **Short thick impaler** — breaching pin through vault seal. **Reinforced haft** for two-hand plant at breach threshold. Minimal top spike where vault ceilings punish height.
 
@@ -96,9 +110,9 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 ---
 
-## 9. Type Lamina — monomolecular precision (*Septima*)
+## 9. Type Lamina — monomolecular precision (SEPTIMA)
 
-**Vexillatio:** **VII** *Septima* (Vitreus).
+**Vexilla:** **SEPTIMA** (Vitreus).
 
 **Head:** **Monomolecular-edged** primary cutting plane on narrow cheek — **blade-first** fault on lens forges and vent windows (**one** clean plane, no chain vibration). **Mono spike** impaler — minimal diameter, seal iris and conduit flange. **Small insulated hammer** — non-cutting seal tasks only; **no** promethium or chain on this head (contamination risk to mono lattice). Heat-shielded haft.
 
@@ -108,9 +122,9 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 ---
 
-## 10. Type Contus — void spear (*Octava*)
+## 10. Type Contus — void spear (OCTAVA)
 
-**Vexillatio:** **VIII** *Octava* (Maleventum / reef).
+**Vexilla:** **OCTAVA** (Maleventum / reef).
 
 **Head:** **Compact power spear** — depressed cross-section for corridor carry. **Micro hook** — boarding harness, cable, wreck snare. **Hammer cap** — bulkhead knock rhythm (melta follows). Cloth **furled** in fight; relay **skin-tight** under EM hash. **Power sword** on belt for pressurized passages where pole length is liability.
 
@@ -120,9 +134,9 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 ---
 
-## 11. Type Fulmen — relay mast and denial (*Nona*)
+## 11. Type Fulmen — relay mast and denial (NONA)
 
-**Vexillatio:** **IX** *Nona* (Marco de Vetra).
+**Vexilla:** **NONA** (Marco de Vetra).
 
 **Head:** **Coupling hammer** — broad **power maul** for **scorched** couplings, antenna joints, feed lines (deny **intact** capture). **Sabot spike** — short impaler for precision demolition on gland seals, fuse housings, coolant spines. **Axe cheek** vestigial or absent — killing is the line’s job; the pole **buys time and breaks hardware**.
 
@@ -138,22 +152,22 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 | Vex | *Strategium* name | Type | Dominant read |
 |-----|-------------------|------|----------------|
-| **I** | *Prima* | **Primus** | Reference power axe / impaler / hammer / plant |
-| **II** | *Secunda* | **Hasta** | Spear thrust, minimal sweep |
-| **III** | *Tertia* | **Ignis** | Corrosive etch + chem-sealed haft |
-| **IV** | *Quarta* | **Securis** | Guillotine cleaver + sliding hook |
-| **V** | *Quinta* | **Descensus** | Forward bardiche chain-beard · long shaft · belt chainsword · power gladius (no impaler) |
-| **VI** | *Sexta* | **Malleus** | Maul-first breach |
-| **VII** | *Septima* | **Lamina** | Mono blade + mono spike |
-| **VIII** | *Octava* | **Contus** | Void spear + hull cap |
-| **IX** | *Nona* | **Fulmen** | Maul + sabot spike + grav-lock haft |
+| **I** | PRIMA | **Primus** | Reference power axe / impaler / hammer / plant |
+| **II** | SECVNDA | **Hasta** | Spear thrust, minimal sweep |
+| **III** | TERTIA | **Ignis** | Corrosive etch + chem-sealed haft |
+| **IV** | QVARTA | **Securis** | Guillotine cleaver + sliding hook |
+| **V** | QVINTA | **Descensus** | Forward bardiche chain-beard · long shaft · belt chainsword · power gladius (no impaler) |
+| **VI** | SEXTA | **Malleus** | Maul-first breach |
+| **VII** | SEPTIMA | **Lamina** | Mono blade + mono spike |
+| **VIII** | OCTAVA | **Contus** | Void spear + hull cap |
+| **IX** | NONA | **Fulmen** | Maul + sabot spike + grav-lock haft |
 
 ---
 
 ## 13. Related
 
-- [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) — *Alabarda Vexillum* cloth and physical rig  
-- [vexilla-by-vexillatio-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexillatio-design.md) — four-field register  
+- [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) — *Alabarda* + Vexilla cloth and physical rig  
+- [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) — four-field register  
 - [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3 — Legatus / relay  
-- [vexillatio-operational-armory.md](vexillatio-operational-armory.md) — theater proficiency per Vex  
+- [vexilla-operational-armory.md](vexilla-operational-armory.md) — theater proficiency per Vex  
 - [lore-images/alabarda-vexillum-layout-reference.png](../lore-images/alabarda-vexillum-layout-reference.png) — yard and panel geometry  

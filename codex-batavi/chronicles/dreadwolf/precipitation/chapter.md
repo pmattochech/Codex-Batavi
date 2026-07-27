@@ -2,7 +2,7 @@
 
 **Classification:** Chapter tactical narrative — *Vermilion* adjunct (Judex witness; **not** *Alabarda* field 4)  
 **When:** *Amissi* era (date secondary; subject already **The Lost**)  
-**Where:** **V** *Quinta* theater — Aethelgard reef-chain, feral shrine-complex  
+**Where:** **QVINTA** theater — Aethelgard reef-chain, feral shrine-complex  
 **Who:** **Lieutenant Einar Dreadwolf** (*Amissi*); **Varro**; **Legatus Armin Sturmwahl**; line investigation element (sergeant + neophyte-qualified brothers)
 
 **Cross-references:** [dossier-einar-dreadwolf.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [amissi-the-lost.md](../../../personae-command-index/doctrine-and-organs/amissi-the-lost.md) · [steppenwolf-doctrine.md](../../../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md) §5.1 · [dossier-armin-sturmwahl.md](../../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [dossier-varro.md](../../../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [red-tide/chapter.md](../red-tide/chapter.md) · [terminus/chapter.md](../terminus/chapter.md)
@@ -15,14 +15,14 @@ The reef-chain did not keep secrets. It kept **smell**.
 
 Brack carried iron and burned incense from a hundred minor shrines the Administratum had never bothered to number — reed wicks, animal fat, the cheap resins poor worlds used when they could not afford temple grade. In the last week something else had joined the mix: a sweetness that was not floral, a copper that was not forge-work, a thin rot beneath both that made veteran nostrils tighten the way they tightened before a Furor ward in the Apothecarion corridors. Tide clerks on the gunboat blamed storm turnover. Navy pickets blamed smuggler scows. Auspex blamed nothing, which was how auspex usually behaved when the veil had been **touched** and did not yet want paperwork.
 
-The inner reef was *Quinta* business in the only sense that mattered on Aethelgard: close enough to Needles memory that assault brothers filed it as **home water**, far enough from parade grounds that the lattice did not smooth every edge. Mangrove throats opened and closed with tide. Salt pans flashed white between stands of black wood. Feral shrine-stacks rose on reef stone older than the Chapter’s claim, their spirals not Batavi, not Imperial — geometry written by people who believed hunger could be **invited**.
+The inner reef was QVINTA business in the only sense that mattered on Aethelgard: close enough to Needles memory that assault brothers filed it as **home water**, far enough from parade grounds that the lattice did not smooth every edge. Mangrove throats opened and closed with tide. Salt pans flashed white between stands of black wood. Feral shrine-stacks rose on reef stone older than the Chapter’s claim, their spirals not Batavi, not Imperial — geometry written by people who believed hunger could be **invited**.
 
 *Strategium* had not sent a Legatus for this insert. It had sent an **investigation element** — modest kit, modest timetable, modest hope of closing a cult net before the net learned how to **seat** something worse than prayer.
 
 
 The gunboat *Salt Ration* smelled of brine sealant and cold promethium — Navy austerity dressed as competence. The element mustered in the assault trunk while the reef slid past the armored slit in slow, grey layers: cloud over brack over the dull pinprick of cookfires on outer atolls where mortals still pretended the frontier was only poverty and not **theater**.
 
-A **sergeant** stood at the center of the trunk with the briefing slate in one hand and no intention of handing it off. He had served three Needles assaults without earning a name worth putting in this account. His pauldrons carried *Quinta* grey and the scuff marks of a man who had stopped expecting ceremonies to explain why he was still alive. Behind him, six brothers young enough that their ceramite still looked **new** beside the veterans’ battered plate — post-neophyte, pre-barracks myth, hungry for a first reef war that would fit on a training scroll.
+A **sergeant** stood at the center of the trunk with the briefing slate in one hand and no intention of handing it off. He had served three Needles assaults without earning a name worth putting in this account. His pauldrons carried QVINTA grey and the scuff marks of a man who had stopped expecting ceremonies to explain why he was still alive. Behind him, six brothers young enough that their ceramite still looked **new** beside the veterans’ battered plate — post-neophyte, pre-barracks myth, hungry for a first reef war that would fit on a training scroll.
 
 They had been told they were hunting a **cult**.
 
@@ -32,7 +32,7 @@ Warp-tainted murders along the inner reef. Bodies opened with enthusiasm that ex
 
 The youngest shifted weight at the word *legend*. Barracks had already done its work.
 
-On Noviomagus and in the assault bays of Aethelgard, *Quinta* youths traded stories about **Einar Dreadwolf** the way shore children traded storm warnings — half awe, half fear, none of it fit for official doctrine. The wolf who **never knelt**. The Lost brother under the Deathwolf’s jaws. A lieutenant who did not take neophytes because precedent might **copy** what should never be copied. Some said he had held Furor alone for a century before the ship broke him across something worse. Some said he screamed at the sky after kills because agony was the only honest language left. Veterans who had served beside him before Moraine-Nine did not correct the stories. Correction was cruelty. Silence was **melancholy** filed as discipline.
+On Noviomagus and in the assault bays of Aethelgard, QVINTA youths traded stories about **Einar Dreadwolf** the way shore children traded storm warnings — half awe, half fear, none of it fit for official doctrine. The wolf who **never knelt**. The Lost brother under the Deathwolf’s jaws. A lieutenant who did not take neophytes because precedent might **copy** what should never be copied. Some said he had held Furor alone for a century before the ship broke him across something worse. Some said he screamed at the sky after kills because agony was the only honest language left. Veterans who had served beside him before Moraine-Nine did not correct the stories. Correction was cruelty. Silence was **melancholy** filed as discipline.
 
 The sergeant had seen **Einar** once at distance on a reef convoy purge — red gauntlets and boot feet, black pauldrons, half-helm, mane and **Nails** free under salt light, **Varro** walking behind him like a shadow that weighed the same as a blade. He did not tell the youths that. Some truths were not for neophyte slates.
 
@@ -68,7 +68,7 @@ The first corpse lay in a mangrove throat where the water went black at noon eve
 
 A cultist — not disputed. Robes cut open from sternum to pubis, fabric parted with a precision that mocked the cheap stitching mortals used for temple dress. Organs arranged on the root-mat with the pedantry of men who believed arrangement pleased something listening: heart to the east, liver split and mirrored, tongues laid in a crescent that pointed toward the inner reef. Warp residue clung to the stones like oil on glass, throwing back the auspex’s sweep in a thin shriek that died when Brother **Kaelen** — youngest on the insert — flinched and looked away.
 
-The sergeant knelt. He did not touch the meat. He read **spacing** the way assault specialists read jump solutions: distance from the last shrine stub on the informant map, angle of entry, whether the killer had stood uphill or in the channel itself. Needles had taught *Quinta* the difference between zealot frenzy and **closure**. Frenzy spilled. Closure **filed**.
+The sergeant knelt. He did not touch the meat. He read **spacing** the way assault specialists read jump solutions: distance from the last shrine stub on the informant map, angle of entry, whether the killer had stood uphill or in the channel itself. Needles had taught QVINTA the difference between zealot frenzy and **closure**. Frenzy spilled. Closure **filed**.
 
 Too clean.
 
@@ -104,7 +104,7 @@ The sergeant circled the corpse once. On the far side, in dried brack that had h
 
 Transhuman scale. Heel plate scored in three short lines — traction claw doctrine, Batavi industrial, not Chaos trophy-work. Toe pressure deep enough to say the wearer had **run** here, then stood over the cultist long enough to finish the grammar anyway.
 
-The sergeant looked up the inward path. Mangroves darker ahead. Birds silent in a pocket he could not yet see. No vox crackle of friendly challenge. No *Quinta* call sign.
+The sergeant looked up the inward path. Mangroves darker ahead. Birds silent in a pocket he could not yet see. No vox crackle of friendly challenge. No QVINTA call sign.
 
 He dropped to one knee over the print the way he had knelt over the meat — not to worship evidence, to **conceal** it. The youngest was three paces back, still turned half away from the fourth body’s arrangement. The sergeant covered the brack with his knee until the heel scoring vanished under ceramite, then rose as if he had only been checking greave seal.
 
@@ -142,7 +142,7 @@ This was not a lone hunt. It was a **precipitation** — vectors converging beca
 
 ### Einar
 
-**Einar Dreadwolf** did not travel with the investigation element. He had not traveled with anyone in the sense *Quinta* meant when it spoke of **lines** — not since induction onto **The Lost**, not since **Varro**’s name replaced a Legatus on every mission slate that mattered. **Steppenwolf** tallies still carried him on the detached registry; *Amissi* carried him under the Deathwolf’s jaws. The two filings did not argue. They described the same distance from pack warmth in different ink.
+**Einar Dreadwolf** did not travel with the investigation element. He had not traveled with anyone in the sense QVINTA meant when it spoke of **lines** — not since induction onto **The Lost**, not since **Varro**’s name replaced a Legatus on every mission slate that mattered. **Steppenwolf** tallies still carried him on the detached registry; *Amissi* carried him under the Deathwolf’s jaws. The two filings did not argue. They described the same distance from pack warmth in different ink.
 
 He had come ashore hours before *Salt Ration* kissed mud — gunboat insert was line geometry, slow and witness-safe. Einar’s insert had been **absence**: a lighter craft, a quieter ramp, a corridor of mangroves that learned his weight the way Needles shore had learned it when he was only **Furor** and pride still passed for stability.
 
@@ -182,11 +182,11 @@ Ahead, the bind-site frequency sharpened. Somewhere on another bearing, a gunboa
 
 ### Armin
 
-**Armin Sturmwahl** came from the seaward approach on a second vector, alone, jump pack absent, assault load stripped to what mud war required. He had not ridden *Salt Ration*. A *Quinta* cutter had dropped him on the outer reef with the same modest timetable and a different **ledger** in his hand.
+**Armin Sturmwahl** came from the seaward approach on a second vector, alone, jump pack absent, assault load stripped to what mud war required. He had not ridden *Salt Ration*. A QVINTA cutter had dropped him on the outer reef with the same modest timetable and a different **ledger** in his hand.
 
 His reason was not on any slate the sergeant could read.
 
-**Caution** — the kind that was not fear of the World Eaters or cultists but fear of **necessity**: whether the slaughter ahead could still be folded back into duty without becoming appetite; whether the brother he had known before **Kzorn’s Maw** still lived inside the stride that had gone **wrong** after the ship. He did not call it love. *Quinta* did not award names to that filing. He called it **geometry** and followed it anyway.
+**Caution** — the kind that was not fear of the World Eaters or cultists but fear of **necessity**: whether the slaughter ahead could still be folded back into duty without becoming appetite; whether the brother he had known before **Kzorn’s Maw** still lived inside the stride that had gone **wrong** after the ship. He did not call it love. QVINTA did not award names to that filing. He called it **geometry** and followed it anyway.
 
 Moraine-Nine lived in his thumb on the grav-comp test stud he did not need — habit, not mission. He remembered the salt pan. He remembered eleven names. He remembered **withholding** the cull stroke when **Einar** stood in red hands and said *We hold, as the Needles hold the cold tide* and the ridge line chose **mercy** because Varro’s eyes had measured **bounded** before the gladius finished its argument.
 
@@ -352,7 +352,7 @@ He was on the spiral’s inner lip, claws through the join where possessed plate
 
 He withdrew upward again, not retreat, **re-angle**, **Wolf Talons** stuttering along the lord’s shoulder pauldron until ceramite screamed and the lacerator’s return swing arrived late. The daemonic claw raked air that had been chest a moment before. Warp heat spat from the bind center as if the bowl objected to being denied its seating.
 
-The lord roared without words — Brass frequency, not *Quinta* law.
+The lord roared without words — Brass frequency, not QVINTA law.
 
 **Einar** answered with silence and work.
 
@@ -380,7 +380,7 @@ For one heartbeat he was still a **marine visage** holding chains.
 
 No skull taken. No trophy chain. No open offering for Brass to count. The reef kept the receipt the way the reef kept smell — private, honest, unfit for *Alabarda* cloth.
 
-On the rim, the element did not cheer. *Quinta* did not cheer slaughter that had not been theirs. They breathed again because breathing had been withheld, not because victory had been shared.
+On the rim, the element did not cheer. QVINTA did not cheer slaughter that had not been theirs. They breathed again because breathing had been withheld, not because victory had been shared.
 
 The duel was over.
 
@@ -396,7 +396,7 @@ The next heartbeat after the chains held, **Einar** screamed at the sky.
 
 ### The scream
 
-Not words. Not cadence. Not the *Quinta* gift line, not *We hold*, not anything the assault bays taught neophytes to file under **conduct**. What came out of him was rabid, upward, stripped of law — throat open to brack cloud and warp-thin air as if the body needed the reef to witness what the body had refused to kneel to.
+Not words. Not cadence. Not the QVINTA gift line, not *We hold*, not anything the assault bays taught neophytes to file under **conduct**. What came out of him was rabid, upward, stripped of law — throat open to brack cloud and warp-thin air as if the body needed the reef to witness what the body had refused to kneel to.
 
 **Nails** answered first in the free mane — cable merge twitching along jaw line above the half-helm, dry hydraulic memory from a ship the youths had only heard about in legend. The **second beast** answered second, not *Versibar*, not Execratio terminal, but the Red frequency that lived inside tripartite bind and tested the bars when slaughter went long. Hours of cult clearance had fed it. Three Exalted dead had fed it. The Slaughterbound’s termination had fed it last. Victory did not soothe. Victory **invoiced**.
 
@@ -412,13 +412,13 @@ On the rim, the investigation element held because holding was all line geometry
 
 Neophytes felt **awe** before discipline issued permission — the awe of men who had seen a legend become kinetic and could not yet name what they had seen. Later they would call the enemy a greater daemon because young mouths needed **size** to match the eyes. Later they would speak of the wolf who never knelt in eternal agony as if agony were the same as glory. Veterans would not correct them. Correction was cruelty. Melancholy was **discipline**.
 
-Brother **Kaelen** shook once inside his helm and stopped shaking because stopping was what *Quinta* demanded. He had counted exchanges and failed. He had whispered *Emperor’s blood* at three Exalted dead. He would carry this pan in his sleep the way shore children carried storm warnings — without poetry, without relief.
+Brother **Kaelen** shook once inside his helm and stopped shaking because stopping was what QVINTA demanded. He had counted exchanges and failed. He had whispered *Emperor’s blood* at three Exalted dead. He would carry this pan in his sleep the way shore children carried storm warnings — without poetry, without relief.
 
 The sergeant felt **tension** — correct, earned, the kind that outlived missions. Not fear of the cult. Not fear of the Slaughterbound. Fear of **precedence**: that the print he had hidden on the fourth corpse belonged to the man still breathing in the spiral center; that the trail had been Chapter work all along; that he had brought youths to witness what Judex owned and Legatus could not order. His hand stayed on **Kaelen**’s chest plate until the scream ended, as if contact could keep the line from breaking inward.
 
 — **Hold** — he said again, though no one had moved. — **Hold.**
 
-No one cheered. *Quinta* did not cheer slaughter that had not been theirs.
+No one cheered. QVINTA did not cheer slaughter that had not been theirs.
 
 ---
 
@@ -512,7 +512,7 @@ Varro’s cowl dipped a second time — smaller motion, final inch of audit.
 
 — **Armor holds** — the Judex said. — **Corruption did not wear the plate. Watch interval resumes.**
 
-To the sergeant, that was the real terror: not that the wolf had failed, but that **failure had been measured** and found **bounded**. Terror with relief braided inside it, the way *Quinta* braided mercy and murder on Moraine-Nine and called the result **procedure**.
+To the sergeant, that was the real terror: not that the wolf had failed, but that **failure had been measured** and found **bounded**. Terror with relief braided inside it, the way QVINTA braided mercy and murder on Moraine-Nine and called the result **procedure**.
 
 **Armin** did not contradict the Judex. He did not assent aloud either. He filed *necessary* and *bounded* in different pockets and would live with the weight between them the way Legatuses lived with any weight that did not kill them on the ridge line.
 
@@ -540,7 +540,7 @@ No appeal to the youths. **Kaelen** opened his mouth. **Varro**’s cowl shifted
 
 The cadence was not for the line. It was for the Legatus who had once needed to hear it on a salt pan where eleven names burned and one name did not.
 
-**Varro** did not repeat the words. Judex did not borrow *Quinta* cadence unless liturgy required it. He only watched the wolf prepare to leave and measured, one last time, whether corruption would wear the armor when motion resumed.
+**Varro** did not repeat the words. Judex did not borrow QVINTA cadence unless liturgy required it. He only watched the wolf prepare to leave and measured, one last time, whether corruption would wear the armor when motion resumed.
 
 It did not.
 
@@ -562,7 +562,7 @@ Not retreat. **Hunt** — into mangroves, into wrong spacing, into the distance 
 
 **Varro** did not run after him. Judex did not chase wolves; Judex **measured** them and let distance do the work watch required. The cowl turned landward, following the frequency of motion without admitting pursuit. Watch interval resumed on the ledger the sergeant would never read.
 
-**Armin** did not run either. Legatuses did not chase Lost brothers into spacing that had already refused line geometry. He stood one more heartbeat on the salt pan with the *Quinta* cadence still in his ears and the Moraine-Nine annex still in his thumb, then turned toward the rim where his authority **did** reach.
+**Armin** did not run either. Legatuses did not chase Lost brothers into spacing that had already refused line geometry. He stood one more heartbeat on the salt pan with the QVINTA cadence still in his ears and the Moraine-Nine annex still in his thumb, then turned toward the rim where his authority **did** reach.
 
 ---
 
@@ -594,7 +594,7 @@ The sergeant would never mention the traction claw scoring he had hidden with hi
 
 ### What the reef kept
 
-**Armin** was the last Batavi to leave the bowl lip. He looked once at the three Exalted, once at the lord, once at the spiral stones that had been worship and had become a kill-box. He did not pray. *Quinta* did not pray at sites Brass had touched. He sealed his gorget and walked seaward to a cutter that would take him back to a war he could command.
+**Armin** was the last Batavi to leave the bowl lip. He looked once at the three Exalted, once at the lord, once at the spiral stones that had been worship and had become a kill-box. He did not pray. QVINTA did not pray at sites Brass had touched. He sealed his gorget and walked seaward to a cutter that would take him back to a war he could command.
 
 **Varro** had already vanished into mangrove shadow on his own bearing — not Einar’s bearing, never identical, parallel enough to keep corruption from wearing the armor when the next bind tried to seat.
 
@@ -614,7 +614,7 @@ The Lost wolf had walked back into distance — still **Unbent** in the only fil
 
 ### Precipitation (oral register)
 
-In *Quinta* mouths the pan would acquire a name slower than **Red Tide** and less fit for *Alabarda* cloth: **Precipitation** — the day the trail was already Chapter work, the day three Exalted died off-screen in wrong geometry, the day a Slaughterbound lord fell and a scream replaced liturgy. Barracks would compress it into one sentence for neophytes who needed a hook:
+In QVINTA mouths the pan would acquire a name slower than **Red Tide** and less fit for *Alabarda* cloth: **Precipitation** — the day the trail was already Chapter work, the day three Exalted died off-screen in wrong geometry, the day a Slaughterbound lord fell and a scream replaced liturgy. Barracks would compress it into one sentence for neophytes who needed a hook:
 
 *He was already out there when we arrived. We held the rim. Varro measured. Sturmwahl asked. The wolf ran.*
 

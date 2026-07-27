@@ -8,7 +8,7 @@
 
 ## I. Definition
 
-**The Lost** — registry Latin ***Amissi*** — is a **small Vermilion detachment** of **Exanimus**-staged battle-brothers who **cannot** hold stable obedience to ordinary *Vexillatio* / Legatus tasking. They are **not** a fifth cohort. They do **not** replace Silence, Shadows, Stasis, or Nullity.
+**The Lost** — registry Latin ***Amissi*** — is a **small Vermilion detachment** of **Exanimus**-staged battle-brothers who **cannot** hold stable obedience to ordinary *Vexilla* / Legatus tasking. They are **not** a fifth cohort. They do **not** replace Silence, Shadows, Stasis, or Nullity.
 
 *Strategium* analogy (open scrolls only): **terminal obedience debt** — brothers already past reliable command geometry, deployed only under **Chaplain** authority until death or cull (**no** guest-Chapter curse mechanics on active register).
 
@@ -25,7 +25,7 @@ Admission is **rare** and **Vermilion**:
 * **Still combat-viable** under Chaplain leash — not *Versibar*, not Execratio terminal.  
 * **No cult** — no copycat implantation, no open veneration.
 
-**Founding exemplar — first of The Lost:** **Lieutenant Einar Dreadwolf** (**074.M42** Moraine-Nine → **168.M42** Luna Sigma terminis). He is also the **first** brother on **Steppenwolf** detached registry to be inducted into *Amissi* — registry **stack**, not promotion from one status into the other. Pre–**074**, *Quinta* billet in name; **detached** assault geometry in practice. Post–**074**, **Varro** leash replaces pack rhythm; **Steppenwolf** tallies **remain**. Pool size remains **small** — headcount in low tens at peak, often fewer. **Not** all *Amissi* are Steppenwolves; **not** all Steppenwolves become *Amissi* ([steppenwolf-doctrine.md](steppenwolf-doctrine.md) §5.1).
+**Founding exemplar — first of The Lost:** **Lieutenant Einar Dreadwolf** (**074.M42** Moraine-Nine → **168.M42** Luna Sigma terminis). He is also the **first** brother on **Steppenwolf** detached registry to be inducted into *Amissi* — registry **stack**, not promotion from one status into the other. Pre–**074**, QVINTA billet in name; **detached** assault geometry in practice. Post–**074**, **Varro** leash replaces pack rhythm; **Steppenwolf** tallies **remain**. Pool size remains **small** — headcount in low tens at peak, often fewer. **Not** all *Amissi* are Steppenwolves; **not** all Steppenwolves become *Amissi* ([steppenwolf-doctrine.md](steppenwolf-doctrine.md) §5.1).
 
 ---
 
@@ -42,19 +42,19 @@ Admission is **rare** and **Vermilion**:
 
 ### IIIb. Standing escort — Einar Dreadwolf (Varro decree)
 
-After **074.M42** Moraine-Nine, **Varro** fixed a **standing mission slate**: a **veteran Chaplain of V *Quinta*** permanently accompanies **Lieutenant Einar Dreadwolf** on every *Amissi* deployment until terminis (**168.M42** Luna Sigma). The escort holds the **interval** — breath counts, Imperial friend–foe filing, *vox* law to the Judex — while Einar holds the kill geometry.
+After **074.M42** Moraine-Nine, **Varro** fixed a **standing mission slate**: a **veteran Chaplain of QVINTA** permanently accompanies **Lieutenant Einar Dreadwolf** on every *Amissi* deployment until terminis (**168.M42** Luna Sigma). The escort holds the **interval** — breath counts, Imperial friend–foe filing, *vox* law to the Judex — while Einar holds the kill geometry.
 
 **Draft chronicle (SW friction):** [iron-pack-at-the-kill-pool/chapter.md](../../chronicles/draft/amissi/iron-pack-at-the-kill-pool/chapter.md)
 
 | Field | Lock |
 |-------|------|
-| **Bearer** | **V** *Quinta* veteran Chaplain (e.g. **Ordin** in draft) — not Varro on ordinary sorties |
+| **Bearer** | **QVINTA** veteran Chaplain (e.g. **Ordin** in draft) — not Varro on ordinary sorties |
 | **Deploy gate** | ***licentia amissorum*** on slate + escort named in Vermilion register |
 | **Helm** | ***licentia lupina*** — **Executor-profile wolf-skull** (delegation of Judex office); **orange** lens read only — **no** ember-red eyes (Judex **Executor** mark reserved for Varro) |
 | **Mandible / feeding** | Same mechanical law as other licensed wolf-skull bearers — rails, manual access, never bare face in ranks |
 | **Open read (guest Chapters)** | “False Wolf Priest” / stolen skull — **misfile**; Batavi answer: **licensed sentence**, not Fenris saga |
 
-Other *Amissi* brothers: escort is **case-by-case** *Quinta* or *Reclusiam* delegate under the same pair of licenses; Einar is the **only** fixed dyad on record.
+Other *Amissi* brothers: escort is **case-by-case** QVINTA or *Reclusiam* delegate under the same pair of licenses; Einar is the **only** fixed dyad on record.
 
 ---
 

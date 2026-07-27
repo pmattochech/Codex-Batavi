@@ -8,7 +8,7 @@ Every corpse becomes a symbol if you allow the living to stare at it long enough
 
 The Strategium understood this before the rest of us did. Not as wisdom. As fear with a filing system.
 
-*Prima* had to carry the shame register, because *Prima* had been the vector. But *Prima* could not be allowed to carry it like a trophy skin. If shame becomes an emblem you show off, it turns into a different kind of pride.
+PRIMA had to carry the shame register, because PRIMA had been the vector. But PRIMA could not be allowed to carry it like a trophy skin. If shame becomes an emblem you show off, it turns into a different kind of pride.
 
 Pride was what opened the door.
 
@@ -24,7 +24,7 @@ After the heresy was broken — after the sentence had been delivered and the th
 
 It was not routine.
 
-They stripped the haft down to its core, rebuilt it around a relay spine, and carved a housing that could carry signal through the same shaft that could still break bone. They added the banner holder not as decoration, but as an enforced reminder that *Prima* does not get to move through the mesh as if Malakor V were only a story that ended.
+They stripped the haft down to its core, rebuilt it around a relay spine, and carved a housing that could carry signal through the same shaft that could still break bone. They added the banner holder not as decoration, but as an enforced reminder that PRIMA does not get to move through the mesh as if Malakor V were only a story that ended.
 
 The conversion was a doctrine act.
 
@@ -46,7 +46,7 @@ The halberd head remained functional — edge maintained, hook geometry intact.
 
 Weapon and signal. Sentence and warning.
 
-That is what *Prima* became after Valerius.
+That is what PRIMA became after Valerius.
 
 Not forgiven.
 

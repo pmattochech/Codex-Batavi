@@ -14,7 +14,7 @@ The Chapter kept the loanword **Steppenwolf** (plural **Steppenwolves**) as barr
 
 ## 2. What it means (thematic load)
 
-A **Steppenwolf** is a battle-brother for whom the **Vexillatio lattice** — cohort rhythm, parade *vox*, constant *Axiom* friction with neighbors — does **not** settle the **beast within** the way doctrine predicts. For most Batavi, that lattice **damps** chimeric predisposition oscillation and **channels** *Furor* into formation law. For a Steppenwolf, the **same** structure can **amplify** wildness: too much proximity, too much synchrony, wrong kind of pressure.
+A **Steppenwolf** is a battle-brother for whom the **Vexilla lattice** — cohort rhythm, parade *vox*, constant *Axiom* friction with neighbors — does **not** settle the **beast within** the way doctrine predicts. For most Batavi, that lattice **damps** chimeric predisposition oscillation and **channels** *Furor* into formation law. For a Steppenwolf, the **same** structure can **amplify** wildness: too much proximity, too much synchrony, wrong kind of pressure.
 
 **Detached operation** — long-range kill-geometry, sparse resupply, alien tempo — often reads on his biologis feed as **more stable** than garrisoned life. The Wall does **not** read that as treasonous “preference.” It reads it as **tooling**: one Marine, one **different appliance**.
 
@@ -34,7 +34,7 @@ Steppenwolves **remain** on **Chapter strength** and count toward the **5,000** 
 
 ## 4. Modal patterns (not exhaustive)
 
-**Perpetual Watch (common archetype).** The brother **does not** rotate back into a home Vexillatio cell as his primary home. He holds **open** Deathwatch assignment (or serial extensions under treaty), returning to Noviomagus **only** on **fixed intervals** to **brief command** and to complete the **Rites of Participation and Regulation** — *Medicinae* and *Reclusiam* protocols that re-seat him in the Chapter’s witness and discipline fabric before he ships out again. When the rites close, he returns to the **long watch**.
+**Perpetual Watch (common archetype).** The brother **does not** rotate back into a home Vexilla cell as his primary home. He holds **open** Deathwatch assignment (or serial extensions under treaty), returning to Noviomagus **only** on **fixed intervals** to **brief command** and to complete the **Rites of Participation and Regulation** — *Medicinae* and *Reclusiam* protocols that re-seat him in the Chapter’s witness and discipline fabric before he ships out again. When the rites close, he returns to the **long watch**.
 
 **Rites of Participation and Regulation — relation to Doctrine of Shared Sweat.** There is **no** separate dossier titled only for these rites; the name denotes a **Triumvirate-scheduled bundle** on each return. **Participation** is **re-entry into the civil mesh**: *Strategium* brief plus **condensed Shared Sweat** blocks — foundry, haulage, or infrastructure labor beside *Auxilia*, restoring the **Drusus** (endocrine burn) and **Varro** (mortal-anchor) effects that daily garrison life normally supplies ([pax-batavorum.md](pax-batavorum.md) §3). While detached, a Steppenwolf **does not** clock ordinary Shared Sweat; the rites **pay down** that absence in focused intervals. **Regulation** is *Medicinae* and *Reclusiam* clearance — clinical chimeric predisposition / *Furor* telemetry and *Axiom* audit so detached geometry does not become unsupervised drift.
 
@@ -46,13 +46,13 @@ Deathwatch is a **frequent** shell for Steppenwolves; it is **not** the **defini
 
 ## 5. Career lattice (short cross-note)
 
-Steppenwolf service is a **branch**, not a punishment detail. It is **not** a substitute path to **Legatus** or *Decima* eligibility unless *Strategium* separately certifies the **closed** prerequisites (including, where applicable, a full **certified *Watch cycle*** as defined in [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) §4.1 — perpetual detached files are **audited**, not assumed equivalent). Perpetual Watch Steppenwolves are budgeted under **Watch–Chapter** agreements; liaison and disclosure still run through *Medicinae* ([deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) §5).
+Steppenwolf service is a **branch**, not a punishment detail. It is **not** a substitute path to **Legatus** or DECIMA eligibility unless *Strategium* separately certifies the **closed** prerequisites (including, where applicable, a full **certified *Watch cycle*** as defined in [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) §4.1 — perpetual detached files are **audited**, not assumed equivalent). Perpetual Watch Steppenwolves are budgeted under **Watch–Chapter** agreements; liaison and disclosure still run through *Medicinae* ([deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) §5).
 
 ### 5.1 *Amissi* convergence — first of The Lost
 
 **Lieutenant Einar Dreadwolf** is the **only** recorded case where **Steppenwolf** filing and **The Lost** (*Amissi*) watch **stack** on one brother.
 
-* **Before Moraine-Nine:** Century at **Furor** only on **V** *Quinta* rolls — but *Medicinae* telemetry showed **garrison lattice** **amplified** wildness; *Strategium* kept him on **detached registry** (Needles shore vectors, reef relays, sparse mesh). Barracks called him **Steppenwolf** without exile-tone.  
+* **Before Moraine-Nine:** Century at **Furor** only on **QVINTA** rolls — but *Medicinae* telemetry showed **garrison lattice** **amplified** wildness; *Strategium* kept him on **detached registry** (Needles shore vectors, reef relays, sparse mesh). Barracks called him **Steppenwolf** without exile-tone.  
 * **074.M42:** Forced **first Exanimus**; inducted **first of The Lost** under **Varro**. **Steppenwolf** status **does not** lapse — Judex watch supersedes **Legatus** tasking, not distance-as-tooling.  
 * **Not** a template: **Valens Ritter** and other Steppenwolves never cross into *Amissi*; most *Amissi* were **never** Steppenwolves. Einar is the **founding exemplar** of the Vermilion pool, not the definition of either status.
 
@@ -64,7 +64,7 @@ See [dossier-einar-dreadwolf.md](../character-dossiers/cohorts-and-detachments/d
 
 ## 6. Related
 
-- [military-hierarchy.md](military-hierarchy.md) — Vexillatio grid; 5,000 count; Deathwatch prerequisites  
+- [military-hierarchy.md](military-hierarchy.md) — Vexilla grid; 5,000 count; Deathwatch prerequisites  
 - [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) — Watch policy; *Watch cycle* definition; *Pactum Clavis Sanguinis*  
 - [pax-batavorum.md](pax-batavorum.md) §3 — Doctrine of Shared Sweat (engine; **Participation** rites draw from this)  
 - [friction-rites.md](friction-rites.md) — tactile / liturgical anchors (contrast: Steppenwolf’s distance from daily lattice)  

@@ -31,7 +31,7 @@ Two years of *Magenta* partitions. Golden Projection symptom cards. Rebound ledg
 
 Malakor V proved it was only **half a map**.
 
-When drop-ships set down on black silica fortresses and **I** *Prima*’s profaned standards rose in the Cicatrix wind, biometric sensors in the loyal companies’ breastplates registered catastrophe. Graphs did not lean left toward March. They did not lean right toward Wild Hunt.
+When drop-ships set down on black silica fortresses and **PRIMA**’s profaned standards rose in the Cicatrix wind, biometric sensors in the loyal companies’ breastplates registered catastrophe. Graphs did not lean left toward March. They did not lean right toward Wild Hunt.
 
 They **rose**.
 

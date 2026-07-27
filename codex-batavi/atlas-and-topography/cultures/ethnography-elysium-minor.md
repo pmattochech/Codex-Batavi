@@ -2,7 +2,7 @@
 
 **Status:** Ratified — 2026-07-22  
 **Framework:** [`../../planning/vexilla-homeworld-culture-framework.md`](../../planning/vexilla-homeworld-culture-framework.md) (binding) — Phase A adapted for **shared Central Bastion civil world** (not a Legatus seat).  
-**Seat:** **Shared Central Bastion** · **Apothecarion demographic audit** (Chief Apothecary **Drusus**) — **not** a Vexillatio capital · **not** Prima–Secunda–Tertia wing.  
+**Seat:** **Shared Central Bastion** · **Apothecarion demographic audit** (Chief Apothecary **Drusus**) — **not** a Vexilla capital · **not** PRIMA–SECVNDA–TERTIA wing.  
 **Scope:** Mortal populi only — not Chapter clinical doctrine, not Vexilla battle law. Chapter footprint via civilian habit (rest-reward lease, soft auditors, Shared Sweat billet guests). **No Phase B Legatus bleed this run.**  
 **Atlas / fork:** [system-i-central-bastion.md](../systems/system-i-central-bastion.md) · [worlds-central-bastion.md](worlds-central-bastion.md) § **Elysium-Minor** · basal creed: [porta-nihili-and-basal-stratum.md](porta-nihili-and-basal-stratum.md) · shared terms: [porta-nihili-shared-vocabulary.md](../../lexicon-and-litanies/porta-nihili-shared-vocabulary.md) · Ecclesiarchy overlap: [ecclesiarchy-on-the-frontier.md](../../political-relations/ecclesiarchy-on-the-frontier.md) · paired Central Bastion ethnographies: [ethnography-noviomagus-prime.md](ethnography-noviomagus-prime.md) · [ethnography-khan-bator-prime.md](ethnography-khan-bator-prime.md)  
 **Basal / Ecclesiarchy:** Porta Nihili **rest virtue** accent — *“the Throne grants sleep to the useful.”* Conception offerings in private chapels; public Mass still Ministorum-legal.  
@@ -284,8 +284,8 @@ Not a fourth class — same strata, different boss / holy object.
 
 ## 9. Related / deferred
 
-- **Phase B bleed file:** **Deferred** — **no Legatus bleed** this run (world is **not** a Vexillatio seat). Any future Chapter ↔ populi seam file must not invent Legatus ownership.
-- **Wing periphery:** **N/A** — not Prima–Secunda–Tertia wing; do not absorb other seats’ worlds.
+- **Phase B bleed file:** **Deferred** — **no Legatus bleed** this run (world is **not** a Vexilla seat). Any future Chapter ↔ populi seam file must not invent Legatus ownership.
+- **Wing periphery:** **N/A** — not PRIMA–SECVNDA–TERTIA wing; do not absorb other seats’ worlds.
 - **Sibling seats / shared peers:** Noviomagus Prime (forge capital) · Khan-Bator Prime (granary) · Castra-Vetera Prime (administrative) — **do not steal**. Elysium remains **shared Central Bastion · Apothecarion demographic audit** civil world.
 - **Surface dossier only:** [`../../personae-command-index/character-dossiers/triumvirate/dossier-drusus.md`](../../personae-command-index/character-dossiers/triumvirate/dossier-drusus.md) — mortal nicknames (White Hand / soft auditors); no sealed clinical dump into populi body.
 

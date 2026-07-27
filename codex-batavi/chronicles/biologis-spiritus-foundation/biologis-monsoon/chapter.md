@@ -24,7 +24,7 @@ Disordered biological mass. Chaotic psychic effervescence — an affront to symm
 
 There are no tactical orders for this. The *Codex Astartes* does not foresee marrow voting in advance of command.
 
-I logged *pre-stimulus hypertrophy* and filed a suppressor cycle for the wall **Vexillationes**. I did not file hope.
+I logged *pre-stimulus hypertrophy* and filed a suppressor cycle for the wall **Vexilla**. I did not file hope.
 
 **[Medical self-analysis]**
 
@@ -72,7 +72,7 @@ Below us, Noviomagus filed itself: manifests, stamps, throughput theology expres
 
 **Day 0 — The Fall**
 
-Landing rocks split the ground. Fetid xenos spores and burned engine oil flooded trench geometry. Logical protocol dictated siege defense and friction. My **Vexillatio** brothers magnet-locked bolters to their waists as if firearms had become shame.
+Landing rocks split the ground. Fetid xenos spores and burned engine oil flooded trench geometry. Logical protocol dictated siege defense and friction. My **Vexilla** brothers magnet-locked bolters to their waists as if firearms had become shame.
 
 Through cranial servo-lenses I saw Sergeant **Kael** sheathe his firearm and draw his heavy trench knife. No *vox* order from command. No Castellan gesture on open channel. Pure chemical consensus along the South Wall — unanimous cellular detonation.
 

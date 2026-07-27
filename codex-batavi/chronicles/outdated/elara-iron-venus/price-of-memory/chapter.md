@@ -10,7 +10,7 @@ The transmission came through at 03:47 of the work cycle, encoded in *Carmine* p
 
 Elara Solis was eighteen and asleep in the room Martha had decorated with star charts when the vox chime woke her. She took the handset before the second signal.
 
-The voice was a First Vexillatio sergeant she knew by name:
+The voice was a First Vexilla sergeant she knew by name:
 
 — Miss Solis. The Castellan is in the *Apothecarion.* — A pause. — He was taken off the field.
 
@@ -170,7 +170,7 @@ She looked at the empty corridor where the Inquisitor had vanished.
 
 She got nothing more.
 
-Drusus answered medical questions with precision and tactical questions with “restriction protocol.” Tyvar, the auramite Custodes who stood guard beside the *Apothecarion*, answered no question — medical or tactical. First Vexillatio sergeants who had been on the field were polite and completely impenetrable. The Inquisitor left on the fifth day without speaking to her again.
+Drusus answered medical questions with precision and tactical questions with “restriction protocol.” Tyvar, the auramite Custodes who stood guard beside the *Apothecarion*, answered no question — medical or tactical. First Vexilla sergeants who had been on the field were polite and completely impenetrable. The Inquisitor left on the fifth day without speaking to her again.
 
 Tobias returned to Noviomagus on the tenth.
 
@@ -266,7 +266,7 @@ She thought the honest answer. The chair that had become her post. The eighty da
 
 Alaric was silent.
 
-Then said, low, on internal vox channel — not to an army, not to a Vexillatio:
+Then said, low, on internal vox channel — not to an army, not to a Vexilla:
 
 — *We hold.*
 

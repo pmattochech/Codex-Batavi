@@ -1,15 +1,15 @@
 # [CHRONICLE] No Encore
 
-**Classification:** Novel chapter — Emperor’s Children POV · Batavi scar-known · *Septima* + Stasis · Vitreus photonic theater  
-**When:** Present era — after circulating Batavi scars (Ten Vexillas temper-split, Shadows, Quinta, etc.)  
+**Classification:** Novel chapter — Emperor’s Children POV · Batavi scar-known · SEPTIMA + Stasis · Vitreus photonic theater  
+**When:** Present era — after circulating Batavi scars (Ten Vexilla temper-split, Shadows, QVINTA, etc.)  
 **Where:** **Vitreus** — lens-forge / photonic gallery approaches (Castra Vetera mesh)  
-**Who:** **Lord Cacophonist Vael Syrinx**; sword champion **Lirion the Gilded Cut**; Noise Marines; Legatus **Lucan Phaetron** + **VII** *Septima* + **Stasis Cohort** (gunmetal) — **Batavi speak nothing**
+**Who:** **Lord Cacophonist Vael Syrinx**; sword champion **Lirion the Gilded Cut**; Noise Marines; Legatus **Lucan Phaetron** + **SEPTIMA** + **Stasis Cohort** (gunmetal) — **Batavi speak nothing**
 
 **Intel premise:** EC know the greys are versatile and still dismiss them as industrial ugliness — until sensation finds no audience.  
 **Beat lock:** Curiosity → **boredom** → irritation → rage. Stasis won’t clap; Lucan edits without speech; no Batavi gift/taunt. Scar filing: *no encore*.
 
 **Series:** [INDEX.md](../INDEX.md)  
-**Cross-references:** [dossier-lucan-phaetron.md](../../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md) · [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § *Septima* · [cohort-standard-kit.md](../../../arsenal-and-logistics/cohort-standard-kit.md) §3 · [cellar-tenant/chapter.md](../cellar-tenant/chapter.md) · [no-joy/chapter.md](../no-joy/chapter.md)
+**Cross-references:** [dossier-lucan-phaetron.md](../../../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md) · [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § SEPTIMA · [cohort-standard-kit.md](../../../arsenal-and-logistics/cohort-standard-kit.md) §3 · [cellar-tenant/chapter.md](../cellar-tenant/chapter.md) · [no-joy/chapter.md](../no-joy/chapter.md)
 
 ---
 
@@ -45,7 +45,7 @@ Irritation climbed the warband’s spine. Emperor’s Children could endure hatr
 
 Lirion went forward like a prayer that expected stained glass.
 
-Industrial grey deeper in the gallery did not answer with theater. *Septima* plate — heat-filter brows, anti-glare panels, crimson trim that refused to sparkle — moved on Lucan’s lattice without speech. Plasma and las spoke in underburn windows. Bolters remained the boring backbone. A Legatus silhouette planted a long haft at a manifold node as if the fight were a containment problem: mono edge, clean plane, no chain-scream to compete with Noise. Ritual silence during overcharge. Not awe. Not insult speech. Just work.
+Industrial grey deeper in the gallery did not answer with theater. SEPTIMA plate — heat-filter brows, anti-glare panels, crimson trim that refused to sparkle — moved on Lucan’s lattice without speech. Plasma and las spoke in underburn windows. Bolters remained the boring backbone. A Legatus silhouette planted a long haft at a manifold node as if the fight were a containment problem: mono edge, clean plane, no chain-scream to compete with Noise. Ritual silence during overcharge. Not awe. Not insult speech. Just work.
 
 Lirion offered him a perfect cut — the Gilded Cut’s thesis, the line that had ended better artists than this forge-dog.
 
@@ -63,7 +63,7 @@ The Stasis wall did not watch.
 
 It held.
 
-*Septima* opened another window. Photonic stress punished careless excess harder than any sermon. Noise Marines discovered that volume without purchase was only hull damage. Syrinx poured newer horrors into the gallery and received the same answer: shield angles, assigned targets, a Legatus who would not speak, would not bow, would not grant the mercy of rivalry.
+SEPTIMA opened another window. Photonic stress punished careless excess harder than any sermon. Noise Marines discovered that volume without purchase was only hull damage. Syrinx poured newer horrors into the gallery and received the same answer: shield angles, assigned targets, a Legatus who would not speak, would not bow, would not grant the mercy of rivalry.
 
 Boredom had become irritation. Irritation became rage. Rage found nowhere to sit except extract codes.
 
@@ -76,7 +76,7 @@ No grey voice followed them into the void.
 On the extract, Vael Syrinx filed with hands that wanted to compose and could only account:
 
 Cohors Batavorum — confirmed.  
-*Septima* temper (VII filing match): glass / plasma / photonic editors. Gunmetal shield cohort — will not clap. Will not chase song. Will not duel for beauty.  
+SEPTIMA temper (VII filing match): glass / plasma / photonic editors. Gunmetal shield cohort — will not clap. Will not chase song. Will not duel for beauty.  
 **Vael Syrinx** / Noise: ignored.  
 **Lirion the Gilded Cut**: corrected, not rivaled. No speech from greys. No names gifted. No encore.  
 Scar-names: joyless glass / wall that won’t clap / editors / boring dogs.  
@@ -90,4 +90,4 @@ The Wall did not bow.
 
 *End of Chapter.*
 
-*Next:* [Oxygen Debt](../oxygen-debt/chapter.md) — Death Guard vs *Tertia* / *Quarta* / Nullity
+*Next:* [Oxygen Debt](../oxygen-debt/chapter.md) — Death Guard vs TERTIA / QVARTA / Nullity

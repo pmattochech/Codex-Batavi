@@ -25,7 +25,7 @@
 
 * **Primary office:** enforce reporting discipline when high command enters self-isolating loops.  
 * **Strategium role:** verifies that private burden never replaces formal command chain.  
-* **Escalation role:** when Triumvirate intervention approaches containment failure, Tyvar’s watch circuit acts as immediate readiness bridge for Decima and Council Orders.
+* **Escalation role:** when Triumvirate intervention approaches containment failure, Tyvar’s watch circuit acts as immediate readiness bridge for DECIMA and Council Orders.
 
 ---
 

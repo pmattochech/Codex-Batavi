@@ -3,10 +3,10 @@
 *(The Seal Flame / Khan-Bator Chem-Lord)*
 
 **Full name:** Theron Brach.  
-**Rank:** **Legatus**, 3rd Vexillatio (*Tertia*).  
+**Rank:** **Legatus**, TERTIA.  
 **Seat:** **Khan-Bator Prime** — agri-industrial hazard theater: silos, chemical moons, oxygen-rich fires.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda Vexillum* (*Tertia* lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexillatio-design.md](../../intro-and-heraldry/vexilla-by-vexillatio-design.md).  
+**Bearer of:** *Alabarda* + Vexilla (TERTIA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
 **Apparent service age:** ~200–250 Terran years (estimate).
 
 ---
@@ -26,7 +26,7 @@
   * **Greaves:** **Shrapnel lace** on **left greave** (Khan-Bator riot and bunker work, date classified).  
   * **Power pack:** **Vented** Mk X artificer backpack (thermal-weapon load).  
   * **Sensor habit:** Subordinates learn to wait for his nod before opening a sealed hatch — tied to helm *auspex* tick.  
-  * **Explicit negatives:** No Crux · no Watch honor block · no *Prima* chains · no Corvus beak · no Phobos silhouette · no sash · no pauldron thermal shroud · **Gravis** reserved for line/theater swap, not Legatus office plate.  
+  * **Explicit negatives:** No Crux · no Watch honor block · no PRIMA chains · no Corvus beak · no Phobos silhouette · no sash · no pauldron thermal shroud · **Gravis** reserved for line/theater swap, not Legatus office plate.  
 * **Visage protocol:** Helm sealed outside Triumvirate-authorized exceptions.
 
 ---
@@ -43,15 +43,15 @@
 ## 3\. Combat and doctrine
 
 * ***Alabarda* head — Type Ignis (corrosive fault):** etch chemistry on striking surfaces; chem-sealed haft — [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §5.  
-* **Theater fit:** [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) — *Tertia* **thermal breach**: flamers, meltas, pyreblaster-class burners, heavy bolt pistols in tight work.  
-* **Command style:** Ruin division is his **favorite hammer** — but he cycles Suppression through **live burn** certification so *Tertia* never becomes a one-note pyre.  
+* **Theater fit:** [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) — TERTIA **thermal breach**: flamers, meltas, pyreblaster-class burners, heavy bolt pistols in tight work.  
+* **Command style:** Ruin division is his **favorite hammer** — but he cycles Suppression through **live burn** certification so TERTIA never becomes a one-note pyre.  
 * **Siege coordination:** Pairs melta **tank touches** with **civilian evacuation windows** — Friction Geometry where **seconds** cost tons of harvest.
 
 ---
 
 ## 4\. History (in-universe — chronology access)
 
-* **Watch proof:** **Certified *Watch cycle*** logged before *Tertia* *Alabarda* confirmation.  
+* **Watch proof:** **Certified *Watch cycle*** logged before TERTIA *Alabarda* confirmation.  
 * **Rise:** Survivor of multiple **monoculture bunker** fires where Tyranid-adjacent spores and human cargo mixed; *Strategium* promoted him when Khan-Bator’s **chemical spine** needed a Legatus who had **smelled** lying air recyclers.
 
 ---
@@ -66,6 +66,6 @@
 
 ## 6\. Narrator notes
 
-POV for **industrial disaster**, **agri-moon horror**, and **thermal** set-pieces. Good contrast to measured-fire *Secunda*. **Legatus Ring:** command virtue **discipline under lying air**; failure-risk **treating inversion as purely biological plume geometry**.
+POV for **industrial disaster**, **agri-moon horror**, and **thermal** set-pieces. Good contrast to measured-fire SECVNDA. **Legatus Ring:** command virtue **discipline under lying air**; failure-risk **treating inversion as purely biological plume geometry**.
 
-**Cross-reference:** Armor — ***Typus Tertius — Brach*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § III. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §5; **110.M42 | Vigilax triangulation** — *Alabarda* field 4 (Legatus + Drusus, Marna-Down): [vigilax-triangulation.md](../../../chronicles/vexillum-chronicles/vigilax-triangulation/chapter.md); full incident: [vigilax-incident.md](../../../chronicles/vigilax/vigilax-incident/chapter.md) · [aar-vex-iii-vigilax-triangulation.md](../../../chronicles/vexillum-register/aar-vex-iii-vigilax-triangulation.md). [vexillatio-operational-armory.md](../../../arsenal-and-logistics/vexillatio-operational-armory.md) §3.3; [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).
+**Cross-reference:** Armor — ***Typus Tertius — Brach*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § III. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §5; **110.M42 | Vigilax triangulation** — *Alabarda* field 4 (Legatus + Drusus, Marna-Down): [vigilax-triangulation.md](../../../chronicles/vexillum-chronicles/vigilax-triangulation/chapter.md); full incident: [vigilax-incident.md](../../../chronicles/vigilax/vigilax-incident/chapter.md) · [aar-vex-iii-vigilax-triangulation.md](../../../chronicles/vexillum-register/aar-vex-iii-vigilax-triangulation.md). [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.3; [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).

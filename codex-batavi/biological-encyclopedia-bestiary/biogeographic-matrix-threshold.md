@@ -15,7 +15,7 @@
 
 ## Station-IX / Silent Belt / Glass Eye / Marco de Vetra
 * **Topology:** Distributed sensor net, listening asteroids, deep optical platform, **relay moon** (*Vacuum Shouter*).  
-* **Garrison note:** **Marco de Vetra** is the **Legatus seat** of **Vexillatio Nona** (*Strategium* IX); occupational loads below include **Batavi** on **laser-shout** duty, not only mortal crew.  
+* **Garrison note:** **Marco de Vetra** is the **Legatus seat** of **NONA** (*Strategium* IX); occupational loads below include **Batavi** on **laser-shout** duty, not only mortal crew.  
 * **Flora/Fauna:** Nearly null; relevant biology human (occupational sensory degradation).  
 * **Biological risk:** Vocal atrophy, neural ocular fatigue, murmur syndrome, psychoacoustic saturation.
 

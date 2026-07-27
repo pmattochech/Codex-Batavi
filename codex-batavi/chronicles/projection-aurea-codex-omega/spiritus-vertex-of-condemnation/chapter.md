@@ -40,11 +40,11 @@ I did not want a third direction. Theology prefers axes you can brace with both 
 
 Intelligence was planted three weeks in advance. Alaric built the hook alone on the *Strategium* table where he had once built campaigns beside Valerius — same geometry, inverted intent.
 
-I was not consulted on the bait. I was consulted on **containment**: III and V **Vexillationes** four hundred meters out, ordered not to advance regardless of sensor readings. Single combat by design. Two men who had mapped the same corridors for thirty years.
+I was not consulted on the bait. I was consulted on **containment**: III and V **Vexilla** four hundred meters out, ordered not to advance regardless of sensor readings. Single combat by design. Two men who had mapped the same corridors for thirty years.
 
 Drusus remained rear guard with auspex choir. I stood at auxiliary hinge where field sensors were deliberately blind — Chaplain as **witness**, not audience.
 
-The theater had already taken **~300** names. Rot-linked anchors. Loyal dead. **Versibars** judged under Tier III correlation. *Prima*’s treason was not an ambush; it was **weather** the Chapter had to survive before sentence could be pronounced on the First Legatus.
+The theater had already taken **~300** names. Rot-linked anchors. Loyal dead. **Versibars** judged under Tier III correlation. PRIMA’s treason was not an ambush; it was **weather** the Chapter had to survive before sentence could be pronounced on the First Legatus.
 
 When Versibar entered the access corridor — four and a half meters of taught doctrine turned profane — Alaric waited at **~2.85** meters of controlled intermediate lock. Instructor and student. Predator and predator. **Brother and error**.
 

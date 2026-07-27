@@ -3,7 +3,7 @@
 **Operation:** GUTGRIND DESCENT  
 **Theater:** Shepherd moon Selene-Black, Aethelgard system (gas-giant tide well)  
 **Date:** 121.M42  
-**Unit:** **V** *Quinta* (full Vexillatio)  
+**Unit:** **QVINTA** (full Vexilla)  
 **Enemy:** Orks — Waaagh! splinter Gutgrind (scrap-spire fortress)
 
 **Full chronicle:** [gutgrind-descent.md](../vexillum-chronicles/gutgrind-descent/chapter.md)
@@ -18,7 +18,7 @@ Strategic requirement: clear the spire for Navy targeting beacons while minimizi
 
 ## 2. Mission
 
-Assault clearance from the top and simultaneous hook landings on mid-spine platforms. **V** *Quinta* (jump-certified) primary.
+Assault clearance from the top and simultaneous hook landings on mid-spine platforms. **QVINTA** (jump-certified) primary.
 
 ## 3. Execution
 
@@ -32,11 +32,11 @@ Assault clearance from the top and simultaneous hook landings on mid-spine platf
 
 ## 4. Losses
 
-**V** *Quinta*: 31 battle-brothers permanent casualty or Dreadnought candidacy; eight void-suit breach fatalities.
+**QVINTA**: 31 battle-brothers permanent casualty or Dreadnought candidacy; eight void-suit breach fatalities.
 
 ## 5. *Strategium* note (field 4 register)
 
-The Foundation War **Aethelgard opening** predates modern four-field *Alabarda* certification logic for Legatus standards. **Gutgrind Descent** is the audit-grade Ork triumph filed for **V** *Quinta* field 4.
+The Foundation War **Aethelgard opening** predates modern four-field *Alabarda* certification logic for Legatus standards. **Gutgrind Descent** is the audit-grade Ork triumph filed for **QVINTA** field 4.
 
 ## 6. Certification
 

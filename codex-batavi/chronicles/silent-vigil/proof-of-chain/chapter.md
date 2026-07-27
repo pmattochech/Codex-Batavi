@@ -3,7 +3,7 @@
 **Classification:** sealed operational proof — continuity test under Castellan absence window  
 **When:** **~056.M42** (after [`war-game-black-mirror/chapter.md`](war-game-black-mirror/chapter.md))  
 **Where:** Noviomagus Prime periphery — live deployment corridor and command relay sectors  
-**Who:** Decima execution elements, line officers from multiple Vexillationes, oversight by **Tyvar**, **Varro**, **Drusus**; **Alaric** intentionally off-net for test window  
+**Who:** DECIMA execution elements, line officers from multiple Vexilla, oversight by **Tyvar**, **Varro**, **Drusus**; **Alaric** intentionally off-net for test window  
 **Cross-references:** [`war-game-black-mirror/chapter.md`](war-game-black-mirror/chapter.md) · [`../../../personae-command-index/doctrine-and-organs/protocol-access-matrix.md`](../../../personae-command-index/doctrine-and-organs/protocol-access-matrix.md)
 
 ---

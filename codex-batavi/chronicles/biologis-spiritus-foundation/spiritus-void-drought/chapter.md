@@ -19,7 +19,7 @@ The **Shadow in the Warp** reached Noviomagus long before bio-ships darkened Sec
 
 It is abyssal cold that does not touch skin but freezes the vital link between soul and the Emperor’s light — swarm-scale pressure, the kind that makes sane men reach for triggers early because waiting feels like consent. Normally an Astartes response to psychic terror is **Hate**: the sacred fire Chaplains keep lit with litanies and war-hymns to burn xenos fear before it roots.
 
-I prepared anchoring rites for **IV** *Quarta* on the line. I expected the fire-and-fury howl — the titanic will-struggle to cage the Beast while the galaxy screamed.
+I prepared anchoring rites for **QVARTA** on the line. I expected the fire-and-fury howl — the titanic will-struggle to cage the Beast while the galaxy screamed.
 
 When the first spore wave veiled the sky, there was no scream.
 

@@ -27,7 +27,7 @@ Armin’s countdown clicked on the private channel — three, two, one — and I
 
 We had argued before the march. That was also arithmetic.
 
-Armin walked beside me until the blocks split, pack housings singing their low grav hum. His helm carried the black wolf crown; mine carried the Iron Head. He sounded amused, which for *Quinta* always meant **danger dressed as sport**.
+Armin walked beside me until the blocks split, pack housings singing their low grav hum. His helm carried the black wolf crown; mine carried the Iron Head. He sounded amused, which for QVINTA always meant **danger dressed as sport**.
 
 — Bold move, Castellan — he said. — Stealing the kill from the Wolves of Russ. Idiotic move. Same sentence. For a man who keeps saying we must be **allied** and **polite** to every **predecessor** who spits on our vox.
 
@@ -53,7 +53,7 @@ The corner of my mouth almost moved. Almost.
 
 — Fenris was not the audience — I said. — **We** were.
 
-He clicked acknowledgment — *Quinta* shorthand for *understood, still think you’re an idiot*.
+He clicked acknowledgment — QVINTA shorthand for *understood, still think you’re an idiot*.
 
 — When we breach — he said — try not to emote on my descent window. I have a schedule.
 
