@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "slug": "vigil-secundus",
+    "system_slug": "system-iii-threshold",
+    "seed": null,
+    "spark": false,
+    "generated_at": "2026-07-26T16:45:33Z"
+  },
+  "locks": {
+    "sources": [
+      "/home/paulom/Codex-Batavi/tools/castra-biogen/data/locks/bodies/vigil-secundus.yaml",
+      "codex-batavi/biological-encyclopedia-bestiary/biogeographic-matrix-threshold.md"
+    ],
+    "topology": "Blind tectothermal moon.",
+    "planet_type": "ice_world",
+    "body_kind": "moon",
+    "biomes": [
+      {
+        "id": "vigil_abyssal",
+        "class": "abyssal",
+        "richness": "moderate",
+        "medium": "marine",
+        "overlay": false
+      },
+      {
+        "id": "vigil_ice",
+        "class": "ice_cryogenic",
+        "richness": "sparse",
+        "medium": "terrestrial",
+        "overlay": false
+      }
+    ],
+    "specimens": [
+      {
+        "id": "sonar_leviathans",
+        "name": "Sonar leviathans",
+        "primary_biome": "vigil_abyssal",
+        "trophic_slot": "apex",
+        "origin": "native",
+        "origin_subtype": "aboriginal",
+        "analogue": "sonar_leviathan_analogue"
+      }
+    ],
+    "risks": [
+      "Vibration predation",
+      "Cryogenic breach",
+      "Immediate thermal collapse"
+    ],
+    "notes": "",
+    "stellar": "pinned",
+    "local_notes": "Blind tectothermal moon; sonar leviathans.",
+    "system_slug": "system-iii-threshold",
+    "immaterium_stress": "majoris",
+    "geology": {
+      "gravity_g": 0.8,
+      "crust": "icy",
+      "volcanism": "moderate",
+      "connectivity": "isoterra",
+      "tidal_lock": true,
+      "hydrosphere_pct": 60
+    },
+    "chemistry_climate": {
+      "atmosphere": "thin",
+      "water": true,
+      "solvent": "water",
+      "cryosphere": "cold",
+      "climate_belts": [
+        "tectothermal",
+        "abyssal"
+      ],
+      "immaterium_stress": "majoris",
+      "immaterium_flavor_tags": [
+        "rift_adjacent"
+      ]
+    }
+  },
+  "layers": {
+    "planet_type": {
+      "planet_type": "ice_world",
+      "body_kind": "moon",
+      "local_notes": "Blind tectothermal moon; sonar leviathans."
+    },
+    "geology": {
+      "gravity_g": 0.8,
+      "crust": "icy",
+      "volcanism": "moderate",
+      "connectivity": "isoterra",
+      "tidal_lock": true,
+      "hydrosphere_pct": 60,
+      "insolation_hint": "standard (K-dwarf)",
+      "topology": "Blind tectothermal moon."
+    },
+    "chemistry_climate": {
+      "atmosphere": "thin",
+      "water": true,
+      "solvent": "water",
+      "cryosphere": "cold",
+      "climate_belts": [
+        "tectothermal",
+        "abyssal"
+      ],
+      "immaterium_stress": "majoris",
+      "immaterium_flavor_tags": [
+        "rift_adjacent"
+      ],
+      "immaterium_description": "Recurring veil weather; mutation/psychic pressure shapes niches"
+    },
+    "biomes": [
+      {
+        "id": "vigil_abyssal",
+        "class": "abyssal",
+        "richness": "moderate",
+        "medium": "marine",
+        "overlay": false
+      },
+      {
+        "id": "vigil_ice",
+        "class": "ice_cryogenic",
+        "richness": "sparse",
+        "medium": "terrestrial",
+        "overlay": false
+      }
+    ],
+    "trophic": {
+      "by_biome": {
+        "vigil_abyssal": [
+          {
+            "slot_id": "vigil_abyssal__apex__sonar_leviathans",
+            "slot": "apex",
+            "analogue": "sonar_leviathan_analogue",
+            "origin": "native",
+            "origin_subtype": "aboriginal",
+            "range": "single",
+            "primary_biome": "vigil_abyssal",
+            "secondary_biomes": [],
+            "medium": "marine",
+            "locked": true,
+            "name": "Sonar leviathans",
+            "dossier": null,
+            "notes": ""
+          },
+          {
+            "slot_id": "vigil_abyssal__producer",
+            "slot": "producer",
+            "analogue": "chemosynthetic_mat",
+            "origin": "native",
+            "origin_subtype": "aboriginal",
+            "range": "single",
+            "primary_biome": "vigil_abyssal",
+            "medium": "marine",
+            "locked": false,
+            "name": null
+          },
+          {
+            "slot_id": "vigil_abyssal__decomposer",
+            "slot": "decomposer",
+            "analogue": "abyssal_detritivore",
+            "origin": "native",
+            "origin_subtype": "aboriginal",
+            "range": "single",
+            "primary_biome": "vigil_abyssal",
+            "medium": "marine",
+            "locked": false,
+            "name": null
+          },
+          {
+            "slot_id": "vigil_abyssal__primary_consumer",
+            "slot": "primary_consumer",
+            "analogue": "benthic_filter",
+            "origin": "native",
+            "origin_subtype": "aboriginal",
+            "range": "single",
+            "primary_biome": "vigil_abyssal",
+            "medium": "marine",
+            "locked": false,
+            "name": null
+          },
+          {
+            "slot_id": "vigil_abyssal__mesopredator",
+            "slot": "mesopredator",
+            "analogue": "sonar_meso",
+            "origin": "native",
+            "origin_subtype": "aboriginal",
+            "range": "single",
+            "primary_biome": "vigil_abyssal",
+            "medium": "marine",
+            "locked": false,
+            "name": null
+          }
+        ],
+        "vigil_ice": [
+          {
+            "slot_id": "vigil_ice__producer",
+            "slot": "producer",
+            "analogue": "radiotrophic_lichen",
+            "origin": "native",
+            "origin_subtype": "aboriginal",
+            "range": "single",
+            "primary_biome": "vigil_ice",
+            "medium": "terrestrial",
+            "locked": false,
+            "name": null
+          },
+          {
+            "slot_id": "vigil_ice__decomposer",
+            "slot": "decomposer",
+            "analogue": "cryo_detritivore",
+            "origin": "native",
+            "origin_subtype": "aboriginal",
+            "range": "single",
+            "primary_biome": "vigil_ice",
+            "medium": "terrestrial",
+            "locked": false,
+            "name": null
+          }
+        ]
+      }
+    },
+    "bauplan": {
+      "by_slot": {
+        "vigil_abyssal__apex__sonar_leviathans": {
+          "slot_id": "vigil_abyssal__apex__sonar_leviathans",
+          "name": "Sonar leviathans",
+          "analogue": "sonar_leviathan_analogue",
+          "origin": "native",
+          "origin_subtype": "aboriginal",
+          "medium": "marine",
+          "locomotion": "swim",
+          "respiration": "gill_analogue",
+          "size_class": "large",
+          "size_ceiling": "leviathan",
+          "trophic_slot": "apex",
+          "primary_biome": "vigil_abyssal",
+          "locked": false
+        },
+        "vigil_abyssal__producer": {
+          "slot_id": "vigil_abyssal__producer",
+          "name": null,
+          "analogue": "chemosynthetic_mat",
+          "origin": "native",
+          "origin_subtype": "aboriginal",
+          "medium": "marine",
+          "locomotion": "swim",
+          "respiration": "gill_analogue",
+          "size_class": "medium",
+          "size_ceiling": "leviathan",
+          "trophic_slot": "producer",
+          "primary_biome": "vigil_abyssal",
+          "locked": false
+        },
+        "vigil_abyssal__decomposer": {
+          "slot_id": "vigil_abyssal__decomposer",
+          "name": null,
+          "analogue": "abyssal_detritivore",
+          "origin": "native",
+          "origin_subtype": "aboriginal",
+          "medium": "marine",
+          "locomotion": "swim",
+          "respiration": "gill_analogue",
+          "size_class": "small",
+          "size_ceiling": "leviathan",
+          "trophic_slot": "decomposer",
+          "primary_biome": "vigil_abyssal",
+          "locked": false
+        },
+        "vigil_abyssal__primary_consumer": {
+          "slot_id": "vigil_abyssal__primary_consumer",
+          "name": null,
+          "analogue": "benthic_filter",
+          "origin": "native",
+          "origin_subtype": "aboriginal",
+          "medium": "marine",
+          "locomotion": "swim",
+          "respiration": "gill_analogue",
+          "size_class": "medium",
+          "size_ceiling": "leviathan",
+          "trophic_slot": "primary_consumer",
+          "primary_biome": "vigil_abyssal",
+          "locked": false
+        },
+        "vigil_abyssal__mesopredator": {
+          "slot_id": "vigil_abyssal__mesopredator",
+          "name": null,
+          "analogue": "sonar_meso",
+          "origin": "native",
+          "origin_subtype": "aboriginal",
+          "medium": "marine",
+          "locomotion": "swim",
+          "respiration": "gill_analogue",
+          "size_class": "medium",
+          "size_ceiling": "leviathan",
+          "trophic_slot": "mesopredator",
+          "primary_biome": "vigil_abyssal",
+          "locked": false
+        },
+        "vigil_ice__producer": {
+          "slot_id": "vigil_ice__producer",
+          "name": null,
+          "analogue": "radiotrophic_lichen",
+          "origin": "native",
+          "origin_subtype": "aboriginal",
+          "medium": "terrestrial",
+          "locomotion": "cursorial",
+          "respiration": "pulmonary_analogue",
+          "size_class": "medium",
+          "size_ceiling": "large",
+          "trophic_slot": "producer",
+          "primary_biome": "vigil_ice",
+          "locked": false
+        },
+        "vigil_ice__decomposer": {
+          "slot_id": "vigil_ice__decomposer",
+          "name": null,
+          "analogue": "cryo_detritivore",
+          "origin": "native",
+          "origin_subtype": "aboriginal",
+          "medium": "terrestrial",
+          "locomotion": "cursorial",
+          "respiration": "pulmonary_analogue",
+          "size_class": "small",
+          "size_ceiling": "large",
+          "trophic_slot": "decomposer",
+          "primary_biome": "vigil_ice",
+          "locked": false
+        }
+      }
+    }
+  },
+  "warnings": [
+    "specimen sonar_leviathans slot apex not in richness ladder for vigil_abyssal; placing anyway (lock wins)"
+  ],
+  "render": {
+    "magos_path": "out/vigil-secundus/magos.md",
+    "literary_path": "out/vigil-secundus/literary.md"
+  }
+}
