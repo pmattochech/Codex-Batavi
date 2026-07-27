@@ -1,0 +1,338 @@
+"""WizardSession — guided roll/pick/skip/override over pipeline layers."""
+from __future__ import annotations
+
+import copy
+from typing import Any
+
+from . import locks as lockmod
+from . import packs as packsmod
+from . import pipeline
+from . import propose_codex
+from . import state as statemod
+from .layers import biomes as biomes_layer
+from .layers import stellar
+from .rngutil import make_rng, pick
+from .util import ENUMS, OUT, load_yaml, set_active_pack, warn
+
+
+Provenance = str  # rolled | picked | skipped | locked | overridden
+
+
+class WizardSession:
+    def __init__(
+        self,
+        *,
+        seed: int | None = None,
+        pack_id: str | None = None,
+    ) -> None:
+        self.seed = seed if seed is not None else 42
+        self.pack_id = pack_id
+        self.system: dict[str, Any] | None = None
+        self.body: dict[str, Any] | None = None
+        self.provenance: dict[str, Provenance] = {}
+        self.warnings: list[str] = []
+        self._rng = make_rng(self.seed)
+        if pack_id:
+            set_active_pack(pack_id)
+
+    def reset(self, *, keep_seed: bool = True, pack_id: str | None = None) -> None:
+        """Clear system/body for a fresh rite; used when returning to boot menu."""
+        seed = self.seed if keep_seed else 42
+        self.__init__(seed=seed, pack_id=pack_id)
+
+    def note(self, msg: str) -> None:
+        self.warnings.append(msg)
+        if self.system is not None:
+            warn(self.system, msg)
+        if self.body is not None:
+            warn(self.body, msg)
+
+    def set_provenance(self, field: str, how: Provenance) -> None:
+        self.provenance[field] = how
+
+    # --- system ---
+
+    def start_greenfield_system(self, slug: str, mode: str = "natural") -> dict[str, Any]:
+        self.pack_id = None
+        set_active_pack(None)
+        self.system = statemod.new_system_state(slug, seed=self.seed, spark=True)
+        self.system["locks"]["system_mode"] = mode
+        stellar.generate_system(self.system, mode=mode, existing=False)
+        self.set_provenance("system", "rolled")
+        return self.system
+
+    def load_pack_system(self, slug: str, pack_id: str | None = None) -> dict[str, Any]:
+        pack = pack_id or self.pack_id
+        if pack:
+            set_active_pack(pack)
+            self.pack_id = pack
+        self.system = pipeline.generate_system(
+            slug, seed=self.seed, spark=False, existing=True, pack=pack
+        )
+        self.set_provenance("system", "locked")
+        return self.system
+
+    def load_system_from_out(self, slug: str) -> dict[str, Any]:
+        """Load a previously generated system from out/systems/<slug>/."""
+        self.system = statemod.load_system(slug)
+        self.set_provenance("system", "locked")
+        return self.system
+
+    @staticmethod
+    def list_out_systems() -> list[str]:
+        root = OUT / "systems"
+        if not root.is_dir():
+            return []
+        return sorted(
+            p.name
+            for p in root.iterdir()
+            if p.is_dir() and (p / "system.json").is_file()
+        )
+
+    def roll_system_star(self) -> dict[str, Any]:
+        assert self.system is not None
+        enums = load_yaml(ENUMS / "star_classes.yaml")
+        spectral = pick(self._rng, enums["spectral"])
+        size_band = pick(self._rng, enums["size_bands"])
+        star = {
+            "spectral": spectral,
+            "size_band": size_band,
+            "label": f"{spectral}-{size_band}",
+        }
+        locked = (self.system.get("locks") or {}).get("star")
+        if locked and locked != star:
+            lockmod.override_field(self.system, "star", locked, star)
+            self.set_provenance("star", "overridden")
+        else:
+            self.set_provenance("star", "rolled")
+        self.system["layers"]["star"] = star
+        return star
+
+    def pick_system_star(self, spectral: str, size_band: str) -> dict[str, Any]:
+        assert self.system is not None
+        star = {
+            "spectral": spectral,
+            "size_band": size_band,
+            "label": f"{spectral}-{size_band}",
+        }
+        locked = (self.system.get("locks") or {}).get("star")
+        if locked and (
+            locked.get("spectral") != spectral or locked.get("size_band") != size_band
+        ):
+            lockmod.override_field(self.system, "star", locked, star)
+            self.set_provenance("star", "overridden")
+        else:
+            self.set_provenance("star", "picked")
+        self.system["layers"]["star"] = star
+        return star
+
+    def skip_system_star(self) -> dict[str, Any]:
+        assert self.system is not None
+        star = self.system["layers"].get("star") or {
+            "spectral": "G",
+            "size_band": "dwarf",
+            "label": "G-dwarf",
+        }
+        self.system["layers"]["star"] = star
+        self.set_provenance("star", "skipped")
+        return star
+
+    def set_system_mode(self, mode: str, *, how: Provenance = "picked") -> None:
+        assert self.system is not None
+        locked = (self.system.get("locks") or {}).get("system_mode")
+        if locked and locked != mode:
+            lockmod.override_field(self.system, "system_mode", locked, mode)
+            how = "overridden"
+        self.system["layers"]["system_mode"] = mode
+        self.system["locks"]["system_mode"] = mode
+        self.set_provenance("system_mode", how)
+
+    def save_system_out(self) -> str:
+        assert self.system is not None
+        path = statemod.save_system(self.system)
+        pipeline._write_system_md(self.system)
+        return str(path)
+
+    # --- body ---
+
+    def start_body(self, slug: str, *, use_lock: bool = True) -> dict[str, Any]:
+        assert self.system is not None
+        system_slug = self.system["meta"]["slug"]
+        self.body = statemod.new_world_state(
+            slug, system_slug=system_slug, seed=self.seed, spark=True
+        )
+        if use_lock:
+            try:
+                lock = lockmod.load_body_lock(slug, pack=self.pack_id)
+                lockmod.apply_body_lock(self.body, lock)
+                self.set_provenance("body_lock", "locked")
+            except FileNotFoundError:
+                self.note(f"no body lock for {slug}; greenfield body")
+                self.set_provenance("body_lock", "skipped")
+        pipeline.run_body_layers(self.body, self.system)
+        return self.body
+
+    def reroll_body_layers(self) -> None:
+        assert self.body is not None
+        self.body["meta"]["spark"] = True
+        locks = copy.deepcopy(self.body.get("locks") or {})
+        system_slug = self.body["meta"].get("system_slug")
+        slug = self.body["meta"]["slug"]
+        seed = self.body["meta"].get("seed")
+        self.body = statemod.new_world_state(
+            slug, system_slug=system_slug, seed=seed, spark=True
+        )
+        self.body["locks"] = locks
+        pipeline.run_body_layers(self.body, self.system)
+        self.set_provenance("body_layers", "rolled")
+
+    def pick_planet_type(self, planet_type: str, body_kind: str = "planet") -> None:
+        assert self.body is not None
+        locked = (self.body.get("locks") or {}).get("planet_type")
+        if locked and locked != planet_type:
+            lockmod.override_field(self.body, "planet_type", locked, planet_type)
+            self.set_provenance("planet_type", "overridden")
+        else:
+            self.set_provenance("planet_type", "picked")
+        self.body["locks"]["planet_type"] = planet_type
+        self.body["locks"]["body_kind"] = body_kind
+        pipeline.run_body_layers(self.body, self.system)
+
+    def pick_immaterium(self, grade: str) -> None:
+        assert self.body is not None
+        locked = (self.body.get("locks") or {}).get("immaterium_stress")
+        chem = (self.body.get("locks") or {}).get("chemistry_climate") or {}
+        locked = locked or chem.get("immaterium_stress")
+        if locked and locked != grade:
+            lockmod.override_field(self.body, "immaterium_stress", locked, grade)
+            self.set_provenance("immaterium_stress", "overridden")
+        else:
+            self.set_provenance("immaterium_stress", "picked")
+        self.body["locks"]["immaterium_stress"] = grade
+        self.body.setdefault("locks", {}).setdefault("chemistry_climate", {})[
+            "immaterium_stress"
+        ] = grade
+        pipeline.run_body_layers(self.body, self.system)
+
+    # --- biomes ---
+
+    def list_biome_classes(self) -> list[str]:
+        data = load_yaml(ENUMS / "biome_classes.yaml")
+        return [c["id"] for c in data.get("classes") or [] if c.get("id")]
+
+    def list_richness(self) -> list[str]:
+        return ["null", "barren", "sparse", "moderate", "rich"]
+
+    def current_biomes(self) -> list[dict[str, Any]]:
+        if not self.body:
+            return []
+        return list((self.body.get("layers") or {}).get("biomes") or [])
+
+    def _sync_biome_locks_and_rebuild(self, biomes: list[dict[str, Any]]) -> None:
+        assert self.body is not None
+        locked = (self.body.get("locks") or {}).get("biomes")
+        if locked and locked != biomes:
+            lockmod.override_field(self.body, "biomes", locked, biomes)
+            self.set_provenance("biomes", "overridden")
+        self.body.setdefault("locks", {})["biomes"] = copy.deepcopy(biomes)
+        pipeline.run_body_layers(self.body, self.system)
+
+    def add_biome(self, class_id: str, richness: str = "moderate") -> dict[str, Any]:
+        assert self.body is not None
+        biomes = copy.deepcopy(self.current_biomes())
+        idx = len(biomes)
+        meta = next(
+            (
+                c
+                for c in (load_yaml(ENUMS / "biome_classes.yaml").get("classes") or [])
+                if c.get("id") == class_id
+            ),
+            {},
+        )
+        entry = {
+            "id": f"{class_id}_{idx + 1}",
+            "class": class_id,
+            "richness": richness or meta.get("default_richness", "moderate"),
+            "medium": meta.get("medium", "terrestrial"),
+            "overlay": bool(meta.get("overlay")),
+        }
+        biomes.append(entry)
+        if self.provenance.get("biomes") != "overridden":
+            self.set_provenance("biomes", "picked")
+        self._sync_biome_locks_and_rebuild(biomes)
+        return entry
+
+    def remove_biome(self, biome_id: str) -> None:
+        assert self.body is not None
+        biomes = [b for b in self.current_biomes() if b.get("id") != biome_id]
+        if self.provenance.get("biomes") != "overridden":
+            self.set_provenance("biomes", "picked")
+        self._sync_biome_locks_and_rebuild(biomes)
+
+    def roll_biomes(self) -> list[dict[str, Any]]:
+        """Clear lock biomes and spark-infer a new set via layer."""
+        assert self.body is not None
+        locks = self.body.setdefault("locks", {})
+        old = locks.get("biomes")
+        if "biomes" in locks:
+            del locks["biomes"]
+        self.body["meta"]["spark"] = True
+        pipeline.run_body_layers(self.body, self.system)
+        self.body["layers"]["biomes"] = []
+        biomes_layer.apply(self.body)
+        new_biomes = copy.deepcopy(self.body["layers"]["biomes"])
+        if old and old != new_biomes:
+            lockmod.override_field(self.body, "biomes", old, new_biomes)
+            self.set_provenance("biomes", "overridden")
+        else:
+            self.set_provenance("biomes", "rolled")
+        locks["biomes"] = copy.deepcopy(new_biomes)
+        pipeline.run_body_layers(self.body, self.system)
+        return self.current_biomes()
+
+    def skip_biomes(self) -> list[dict[str, Any]]:
+        """Keep current biomes unchanged."""
+        assert self.body is not None
+        self.set_provenance("biomes", "skipped")
+        return self.current_biomes()
+
+    def finalize(self) -> dict[str, Any]:
+        assert self.body is not None
+        if self.system is not None:
+            self.save_system_out()
+        return pipeline.finalize_body(self.body)
+
+    def save_as_pack(
+        self,
+        pack_id: str,
+        *,
+        title: str | None = None,
+        description: str = "",
+    ) -> str:
+        root = packsmod.export_pack(
+            pack_id,
+            title=title,
+            description=description,
+            system=self.system,
+            body=self.body,
+        )
+        return str(root)
+
+    def propose_codex_text(self) -> str:
+        assert self.body is not None
+        return propose_codex.format_report(self.body)
+
+    def planet_types(self) -> list[str]:
+        return list(load_yaml(ENUMS / "planet_types.yaml").get("planet_types") or [])
+
+    def body_kinds(self) -> list[str]:
+        return list(load_yaml(ENUMS / "planet_types.yaml").get("body_kinds") or [])
+
+    def immaterium_grades(self) -> list[str]:
+        return list(load_yaml(ENUMS / "immaterium_stress.yaml").get("grades") or [])
+
+    def star_spectrals(self) -> list[str]:
+        return list(load_yaml(ENUMS / "star_classes.yaml").get("spectral") or [])
+
+    def star_sizes(self) -> list[str]:
+        return list(load_yaml(ENUMS / "star_classes.yaml").get("size_bands") or [])

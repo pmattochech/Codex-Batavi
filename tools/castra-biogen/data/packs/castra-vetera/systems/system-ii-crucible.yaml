@@ -1,0 +1,39 @@
+system_mode: engineered_mesh
+notes: "Crucible macro-system — training and trial worlds."
+star:
+  spectral: G
+  size_band: dwarf
+  label: G-dwarf
+formations:
+  - accretion_disk
+  - debris_field
+bodies:
+  - slug: incus-gravis-tertius
+    band: habitable
+    kind: rocky
+  - slug: incus-gravis-secundus
+    band: habitable
+    kind: rocky
+  - slug: incus-gravis-i
+    band: inner
+    kind: rocky
+  - slug: bifrons-ferrum
+    band: outer
+    kind: rocky
+  - slug: vitreus
+    band: outer
+    kind: rocky
+  - slug: logus-ring
+    band: outer
+    kind: belt
+  - slug: aethelgard-prime
+    band: habitable
+    kind: rocky
+  - slug: ignis-minor
+    band: inner
+    kind: rocky
+  - slug: tempestas-major-vii
+    band: habitable
+    kind: rocky
+companions:
+  type: none

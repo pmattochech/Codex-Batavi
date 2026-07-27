@@ -1,0 +1,81 @@
+system_slug: system-ii-crucible
+stellar: pinned
+body_kind: moon
+planet_type: death_world
+local_notes: "Cyclopean tide moon — Needles shoreline, swamps, taiga, snowy mountains."
+topology: "Snowy mountains, taiga, interior swamps, shoreline Needles/cliffs and intertidal spires."
+gravity_g: 1.0
+crust: rocky
+volcanism: moderate
+connectivity: semi_archipelago
+tidal_lock: false
+atmosphere: breathable
+water: true
+cryosphere: cool
+immaterium_stress: majoris
+immaterium_flavor_tags:
+  - storm_shadow
+sources:
+  - codex-batavi/biological-encyclopedia-bestiary/biogeographic-matrix-crucible.md
+  - codex-batavi/atlas-and-topography/cultures/geography-aethelgard-prime.md
+risks:
+  - Extreme osmotic pressure at tide line
+  - Territorial predation (Batav Wolf)
+  - Chemical burn in swamp belts
+biomes:
+  - id: aethelgard_shoreline
+    class: shoreline_intertidal
+    richness: rich
+    medium: marine
+    overlay: false
+  - id: aethelgard_swamp
+    class: swamp_wetland
+    richness: rich
+    medium: freshwater
+    overlay: false
+  - id: aethelgard_taiga
+    class: taiga
+    richness: moderate
+    medium: terrestrial
+    overlay: false
+  - id: aethelgard_montane
+    class: montane
+    richness: moderate
+    medium: terrestrial
+    overlay: false
+specimens:
+  - id: canis_batavorum
+    name: Canis Batavorum (Batav Wolf)
+    primary_biome: aethelgard_shoreline
+    secondary_biomes:
+      - aethelgard_swamp
+    range: multi
+    trophic_slot: apex
+    origin: native
+    origin_subtype: neo_endemic
+    analogue: wetland_ambush_apex
+    dossier: codex-batavi/biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md
+    notes: "Evolved on Aethelgard from colonizer canids; shoreline Spire drops and interior swamp stalking."
+  - id: leviathans_young
+    name: Leviathans (young)
+    primary_biome: aethelgard_shoreline
+    trophic_slot: secondary_consumer
+    origin: native
+    origin_subtype: aboriginal
+    analogue: tidal_piscivore
+    notes: "Batav prey in Great Tide folklore."
+geology:
+  gravity_g: 1.0
+  crust: rocky
+  volcanism: moderate
+  connectivity: semi_archipelago
+  tidal_lock: false
+  hydrosphere_pct: 70
+chemistry_climate:
+  atmosphere: breathable
+  water: true
+  solvent: water
+  cryosphere: cool
+  climate_belts: [polar_montane, taiga, swamp, shoreline]
+  immaterium_stress: majoris
+  immaterium_flavor_tags: [storm_shadow]

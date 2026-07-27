@@ -1,0 +1,9 @@
+id: castra-vetera
+title: Castra Vetera — Insula Tenebrarum mesh
+description: >
+  Optional example pack for the Cohors Batavorum subsector mesh
+  (Central Bastion, Crucible, Threshold). Not required for greenfield generation.
+systems:
+  - system-i-central-bastion
+  - system-ii-crucible
+  - system-iii-threshold
