@@ -1,0 +1,64 @@
+system_mode: natural
+star:
+  spectral: M
+  size_band: giant
+  label: M-giant
+formations:
+- asteroid_belt
+companions:
+  type: none
+orbit_bands:
+  inner:
+    typical_body_kinds:
+    - rocky
+    - greenhouse
+    - belt
+    typical_count:
+    - 0
+    - 2
+  habitable:
+    typical_body_kinds:
+    - rocky
+    - ocean
+    - greenhouse
+    typical_count:
+    - 1
+    - 3
+  outer:
+    typical_body_kinds:
+    - gas_giant
+    - ice
+    - rocky
+    - belt
+    typical_count:
+    - 0
+    - 3
+  ice:
+    typical_body_kinds:
+    - ice
+    - belt
+    - captured_giant
+    typical_count:
+    - 0
+    - 4
+bodies:
+- slug: wiz-test-habitable-1
+  band: habitable
+  kind: rocky
+  suggested: true
+- slug: wiz-test-habitable-2
+  band: habitable
+  kind: ocean
+  suggested: true
+- slug: wiz-test-outer-1
+  band: outer
+  kind: belt
+  suggested: true
+- slug: wiz-test-outer-2
+  band: outer
+  kind: belt
+  suggested: true
+- slug: wiz-test-outer-3
+  band: outer
+  kind: ice
+  suggested: true

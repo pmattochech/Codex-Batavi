@@ -1,0 +1,33 @@
+__type: res_desc_sso
+brandName: UiHeraldryLibrary
+clientDynamicLinks: []
+dynamicLinks: []
+links: []
+linksDedicated: []
+linksDesc:
+- res://ssl/ui/screens/codex/ui_chapter_info.sso.resource
+- res://ssl/ui/screens/codex/ui_customization_decal_desc.sso.resource
+- res://ssl/ui/screens/codex/ui_customization_pattern_desc.sso.resource
+- res://ssl/ui/screens/codex/ui_geom_region_desc.sso.resource
+- res://ssl/ui/screens/codex/ui_legion_info.sso.resource
+linksDescDedicated: []
+linksDescVisual: []
+linksDescWeak: []
+linksFgaMeta: []
+linksFont: []
+linksMr: []
+linksPct: []
+linksPreset: []
+linksSound: []
+linksSsl:
+- res://ssl/ui/screens/codex/ui_heraldry_library.ssc.resource
+linksSslDedicated: []
+linksSslVisual: []
+linksTpl: []
+linksVideo: []
+linksVisual: []
+parents: []
+serverDynamicLinks: []
+sso: ui_heraldry_library.sso
+tags: []
+typemask: []

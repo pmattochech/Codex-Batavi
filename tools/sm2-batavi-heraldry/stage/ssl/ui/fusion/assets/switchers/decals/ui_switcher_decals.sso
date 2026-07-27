@@ -1,0 +1,3692 @@
+childs   =   {
+   decals   =   {
+      pos   =   {
+         __type   =   "Vector3d"
+      }
+      combinedColorEffect   =   {
+         type   =   "ALPHA"
+         alpha   =   50
+         __type   =   "UiColorEffect"
+      }
+      componentsList   =   {
+         UiSwitcherWrapperComponent   =   {
+            switcher   =   "<SELF>"
+            errorHandling   =   "heresy"
+         }
+      }
+      childs   =   {
+         imperial_fists   =   {
+            type   =   {
+               isGuideObject   =   True
+               width   =   100
+               isSizeToContent   =   False
+               visible   =   False
+               textureAsset   =   "textures/ui/heraldy_editor/decals_imperial_fists.asset/decals_imperial_fists.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         skulls   =   {
+            type   =   {
+               isGuideObject   =   True
+               width   =   100
+               isSizeToContent   =   False
+               visible   =   False
+               textureAsset   =   "textures/ui/heraldy_editor/decals_skulls.asset/decals_skulls.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         ultramarine   =   {
+            type   =   {
+               isGuideObject   =   True
+               width   =   100
+               isSizeToContent   =   False
+               visible   =   False
+               textureAsset   =   "textures/ui/heraldy_editor/decals_ultramarine.asset/decals_ultramarine.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         heresy   =   {
+            type   =   {
+               pos   =   {
+                  x   =   20
+                  y   =   20
+                  __type   =   "Vector3d"
+               }
+               width   =   120
+               height   =   120
+               scale   =   {
+                  x   =   50
+                  y   =   50
+                  __type   =   "Vector2d"
+               }
+               isSizeToContent   =   False
+               visible   =   True
+               textureAsset   =   "textures/ui/misc/heresy_64x64.asset/heresy_64x64.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_alpha_legion   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_alpha_legion.asset/lpd_alpha_legion.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         blank   =   {
+            type   =   {
+               width   =   100
+               textureAsset   =   "textures/ui/decals_icons/blank.asset/blank.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_black_legion   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_black_legion.asset/lpd_black_legion.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_black_templars   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_black_templars.asset/lpd_black_templars.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_blood_angels   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_blood_angels.asset/lpd_blood_angels.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_blood_ravens   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_blood_ravens.asset/lpd_blood_ravens.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_brazen_consuls   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_brazen_consuls.asset/lpd_brazen_consuls.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_carcharodons   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_carcharodons.asset/lpd_carcharodons.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_carcharodons   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               width   =   100
+               textureAsset   =   "textures/ui/decals_icons/rpd_carcharodons.asset/rpd_carcharodons.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_castellans_of_the_rift   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_castellans_of_the_rift.asset/lpd_castellans_of_the_rift.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_dark_angels   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_dark_angels.asset/lpd_dark_angels.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_death_guard   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_death_guard.asset/lpd_death_guard.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_doom_eagles   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_doom_eagles.asset/lpd_doom_eagles.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_exorcists   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_exorcists.asset/lpd_exorcists.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_genesis_chapter   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_genesis_chapter.asset/lpd_genesis_chapter.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_hawk_lords   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_hawk_lords.asset/lpd_hawk_lords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_imperial_fists   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_imperial_fists.asset/lpd_imperial_fists.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_iron_hands   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_iron_hands.asset/lpd_iron_hands.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_iron_hounds   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_iron_hounds.asset/lpd_iron_hounds.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_iron_warriors   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_iron_warriors.asset/lpd_iron_warriors.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_libators   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_libators.asset/lpd_libators.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_minotaurs   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_minotaurs.asset/lpd_minotaurs.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_night_lords   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_night_lords.asset/lpd_night_lords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_novamarines   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_novamarines.asset/lpd_novamarines.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_omega_marines   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_omega_marines.asset/lpd_omega_marines.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_praetors_of_orpheus   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_praetors_of_orpheus.asset/lpd_praetors_of_orpheus.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_raven_guard   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_raven_guard.asset/lpd_raven_guard.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_red_scorpions   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_red_scorpions.asset/lpd_red_scorpions.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_salamanders   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_salamanders.asset/lpd_salamanders.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_scythes   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_scythes.asset/lpd_scythes.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_space_wolves   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_space_wolves.asset/lpd_space_wolves.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_storm_giants   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_storm_giants.asset/lpd_storm_giants.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_taurans   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_taurans.asset/lpd_taurans.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_tome_keepers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_tome_keepers.asset/lpd_tome_keepers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ultramarines   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ultramarines.asset/lpd_ultramarines.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_batavi   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_batavi.asset/lpd_batavi.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_luna_wolves   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_luna_wolves.asset/lpd_luna_wolves.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_void_tridents   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_void_tridents.asset/lpd_void_tridents.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_white_scars   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_white_scars.asset/lpd_white_scars.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_world_eaters   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_world_eaters.asset/lpd_world_eaters.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_black_templars   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_black_templars.asset/rgd_black_templars.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_black_templars   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rgd_black_templars.asset/rgd_black_templars.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_blood_ravens_watch_company_quartus   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rgd_blood_ravens_watch_company_quartus.asset/rgd_blood_ravens_watch_company_quartus.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_carcharodons_watch_company_secundus   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rgd_carcharodons_watch_company_secundus.asset/rgd_carcharodons_watch_company_secundus.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_castellans_of_the_rift_ultra   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rgd_castellans_of_the_rift_ultra.asset/rgd_castellans_of_the_rift_ultra.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_hawk_lords_dvet   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rgd_hawk_lords_dvet.asset/rgd_hawk_lords_dvet.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_iron_hounds_sergeant   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rgd_iron_hounds_sergeant.asset/rgd_iron_hounds_sergeant.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_novamarines_novamarines   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rgd_novamarines_novamarines.asset/rgd_novamarines_novamarines.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_omega_dvet_1   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rgd_omega_dvet_1.asset/rgd_omega_dvet_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_red_scorpions_watch_company_quintus   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rgd_red_scorpions_watch_company_quintus.asset/rgd_red_scorpions_watch_company_quintus.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_storm_dvet_2   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rgd_storm_dvet_2.asset/rgd_storm_dvet_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_taurans_watch_company_tertius   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rgd_taurans_watch_company_tertius.asset/rgd_taurans_watch_company_tertius.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_blood_ravens_watch_company_quartus   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_blood_ravens_watch_company_quartus.asset/rgd_blood_ravens_watch_company_quartus.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_carcharodons_watch_company_secundus   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_carcharodons_watch_company_secundus.asset/rgd_carcharodons_watch_company_secundus.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_castellans_of_the_rift_ultra   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_castellans_of_the_rift_ultra.asset/rgd_castellans_of_the_rift_ultra.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_hawk_lords_dvet   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_hawk_lords_dvet.asset/rgd_hawk_lords_dvet.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_iron_hounds_sergeant   =   {
+            type   =   {
+               pos   =   {
+                  y   =   0
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rgd_iron_hounds_sergeant.asset/rgd_iron_hounds_sergeant.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_novamarines_novamarines   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_novamarines_novamarines.asset/rgd_novamarines_novamarines.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_omega_dvet_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_omega_dvet_1.asset/rgd_omega_dvet_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_red_scorpions_watch_company_quintus   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_red_scorpions_watch_company_quintus.asset/rgd_red_scorpions_watch_company_quintus.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_storm_dvet_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_storm_dvet_2.asset/rgd_storm_dvet_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_taurans_watch_company_tertius   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_taurans_watch_company_tertius.asset/rgd_taurans_watch_company_tertius.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_alpha_legion_pre_heresy   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_alpha_legion_pre_heresy.asset/rpd_alpha_legion_pre_heresy.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_black_legion_pre_heresy   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_black_legion_pre_heresy.asset/rpd_black_legion_pre_heresy.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_blood_angels_1st_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_blood_angels_1st_company.asset/rpd_blood_angels_1st_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_dark_angels_veteran   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_dark_angels_veteran.asset/rpd_dark_angels_veteran.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_death_guard_pre_heresy   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_death_guard_pre_heresy.asset/rpd_death_guard_pre_heresy.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_doom_eagles_battleline_role   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_doom_eagles_battleline_role.asset/rpd_doom_eagles_battleline_role.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_genesis_chapter_close_support_role   =   {
+            type   =   {
+               pos   =   {
+                  y   =   0
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rpd_genesis_chapter_close_support_role.asset/rpd_genesis_chapter_close_support_role.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_imperial_fists_veteran_honour   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_imperial_fists_veteran_honour.asset/rpd_imperial_fists_veteran_honour.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_iron_hands_clan_avernii   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_iron_hands_clan_avernii.asset/rpd_iron_hands_clan_avernii.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_iron_hands_clan_garrsak   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_iron_hands_clan_garrsak.asset/rpd_iron_hands_clan_garrsak.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_iron_warriors_pre_heresy   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_iron_warriors_pre_heresy.asset/rpd_iron_warriors_pre_heresy.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_libators_fire_support_role   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_libators_fire_support_role.asset/rpd_libators_fire_support_role.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_night_lords_pre_heresy   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_night_lords_pre_heresy.asset/rpd_night_lords_pre_heresy.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_praetors_of_orpheus_command   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_praetors_of_orpheus_command.asset/rpd_praetors_of_orpheus_command.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_raven_guard   =   {
+            type   =   {
+               visible   =   True
+               textureAsset   =   "textures/ui/decals_icons/rpd_raven_guard.asset/rpd_raven_guard.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_salamanders   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_salamanders.asset/rpd_salamanders.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_scythes_of_the_emperor_veteran   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_scythes_of_the_emperor_veteran.asset/rpd_scythes_of_the_emperor_veteran.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_tome_keepers_lieutenant   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_tome_keepers_lieutenant.asset/rpd_tome_keepers_lieutenant.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_world_eaters_pre_heresy   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_world_eaters_pre_heresy.asset/rpd_world_eaters_pre_heresy.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_atlantian_spears   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_atlantian_spears.asset/lpd_atlantian_spears.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_imperius_reavers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_imperius_reavers.asset/lpd_imperius_reavers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sons_of_guilliman   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sons_of_guilliman.asset/lpd_sons_of_guilliman.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_acid_bomb   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_acid_bomb.asset/rgd_acid_bomb.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ancient_weapon   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ancient_weapon.asset/rgd_ancient_weapon.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_biotitan   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_biotitan.asset/rgd_biotitan.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_daemon_host   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_daemon_host.asset/rgd_daemon_host.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_fire_storm   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_fire_storm.asset/rgd_fire_storm.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_obelisk   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_obelisk.asset/rgd_obelisk.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_train   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_train.asset/rgd_train.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_trygon   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_trygon.asset/rgd_trygon.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_tyran   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_tyran.asset/rgd_tyran.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_thusand_sons   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_thusand_sons.asset/lpd_thusand_sons.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_angels_of_absolution   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_angels_of_absolution.asset/lpd_angels_of_absolution.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_angels_of_defiance   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_angels_of_defiance.asset/lpd_angels_of_defiance.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_angels_of_redemption   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_angels_of_redemption.asset/lpd_angels_of_redemption.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_angels_of_vengeance   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_angels_of_vengeance.asset/lpd_angels_of_vengeance.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_black_guard   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_black_guard.asset/lpd_black_guard.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_blades_of_vengeance   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_blades_of_vengeance.asset/lpd_blades_of_vengeance.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_bringers_of_judgement   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_bringers_of_judgement.asset/lpd_bringers_of_judgement.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_cowled_wardens   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_cowled_wardens.asset/lpd_cowled_wardens.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_da_halo   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_da_halo.asset/lpd_da_halo.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_death_spectress   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_death_spectress.asset/lpd_death_spectress.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_necropolis_hawks   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_necropolis_hawks.asset/lpd_necropolis_hawks.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_raptors   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_raptors.asset/lpd_raptors.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ravenwing   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ravenwing.asset/lpd_ravenwing.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_revilers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_revilers.asset/lpd_revilers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_the_unnamed   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_the_unnamed.asset/lpd_the_unnamed.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_3_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_3_company.asset/rgd_da_3_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_4_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_4_company.asset/rgd_da_4_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_5_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_5_company.asset/rgd_da_5_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_6_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_6_company.asset/rgd_da_6_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_7_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_7_company.asset/rgd_da_7_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_8_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_8_company.asset/rgd_da_8_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_9_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_9_company.asset/rgd_da_9_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_badge_halo   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_badge_halo.asset/rgd_da_badge_halo.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_badge_skull   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_badge_skull.asset/rgd_da_badge_skull.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_badge_swords   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_badge_swords.asset/rgd_da_badge_swords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_badge_sword_scull   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_badge_sword_scull.asset/rgd_da_badge_sword_scull.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_deathwing   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_deathwing.asset/rgd_da_deathwing.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_da_ravenwing   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_da_ravenwing.asset/rgd_da_ravenwing.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_rg_10_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_rg_10_company.asset/rgd_rg_10_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_rg_1_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_rg_1_company.asset/rgd_rg_1_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_rg_2_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_rg_2_company.asset/rgd_rg_2_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_rg_3_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_rg_3_company.asset/rgd_rg_3_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_rg_4_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_rg_4_company.asset/rgd_rg_4_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_rg_5_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_rg_5_company.asset/rgd_rg_5_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_rg_6_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_rg_6_company.asset/rgd_rg_6_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_rg_7_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_rg_7_company.asset/rgd_rg_7_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_rg_8_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_rg_8_company.asset/rgd_rg_8_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_rg_9_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_rg_9_company.asset/rgd_rg_9_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_angels_of_absolution_fire_support_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_angels_of_absolution_fire_support_1.asset/rpd_angels_of_absolution_fire_support_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_black_guard_fire_support_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_black_guard_fire_support_1.asset/rpd_black_guard_fire_support_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_death_spectres_battleline_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_death_spectres_battleline_1.asset/rpd_death_spectres_battleline_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_death_spectres_close_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_death_spectres_close_1.asset/rpd_death_spectres_close_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_revilers_fire_support_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_revilers_fire_support_2.asset/rpd_revilers_fire_support_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_revilers_fire_support_3   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_revilers_fire_support_3.asset/rpd_revilers_fire_support_3.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_rg_wings   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_rg_wings.asset/rpd_rg_wings.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_rift_iron_ravens_veteran_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_rift_iron_ravens_veteran_1.asset/rpd_rift_iron_ravens_veteran_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_rift_knights_of_the_raven_veteran_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_rift_knights_of_the_raven_veteran_2.asset/rpd_rift_knights_of_the_raven_veteran_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_rift_necropolis_hawks_close_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_rift_necropolis_hawks_close_1.asset/rpd_rift_necropolis_hawks_close_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_rift_necropolis_hawks_close_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_rift_necropolis_hawks_close_2.asset/rpd_rift_necropolis_hawks_close_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_rift_stalkers_battleline_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_rift_stalkers_battleline_2.asset/rpd_rift_stalkers_battleline_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_veteran   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rpd_veteran.asset/rpd_veteran.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_veteran_2   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               width   =   100
+               textureAsset   =   "textures/ui/decals_icons/rpd_veteran_2.asset/rpd_veteran_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_company_wolf   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_company_wolf.asset/lpd_company_wolf.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_the_blackmanes   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_the_blackmanes.asset/lpd_the_blackmanes.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_the_bloodmaws   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_the_bloodmaws.asset/lpd_the_bloodmaws.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_the_deathwolves   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_the_deathwolves.asset/lpd_the_deathwolves.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_the_drakeslayers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_the_drakeslayers.asset/lpd_the_drakeslayers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_the_firehowlers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_the_firehowlers.asset/lpd_the_firehowlers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_the_grimbloods   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_the_grimbloods.asset/lpd_the_grimbloods.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_the_ironwolves   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_the_ironwolves.asset/lpd_the_ironwolves.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_the_red_moons   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_the_red_moons.asset/lpd_the_red_moons.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_the_seawolves   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_the_seawolves.asset/lpd_the_seawolves.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_the_sons_of_morkai   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_the_sons_of_morkai.asset/lpd_the_sons_of_morkai.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_the_stormwolves   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_the_stormwolves.asset/lpd_the_stormwolves.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_battleline   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_battleline.asset/rgd_battleline.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_battleline_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_battleline_1.asset/rpd_battleline_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_battleline_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_battleline_2.asset/rpd_battleline_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_battleline_3   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_battleline_3.asset/rpd_battleline_3.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_close_support_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_close_support_1.asset/rpd_close_support_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_close_support_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_close_support_2.asset/rpd_close_support_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_fire_support_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_fire_support_1.asset/rpd_fire_support_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_fire_support_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_fire_support_2.asset/rpd_fire_support_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sw_veteran_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sw_veteran_1.asset/rpd_sw_veteran_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sw_veteran_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sw_veteran_2.asset/rpd_sw_veteran_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sw_veteran_3   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sw_veteran_3.asset/rpd_sw_veteran_3.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sw_veteran_4   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sw_veteran_4.asset/rpd_sw_veteran_4.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_wolf_scout_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_wolf_scout_1.asset/rpd_wolf_scout_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_wolf_scout_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_wolf_scout_2.asset/rpd_wolf_scout_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_chaos_alpha_legion   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_chaos_alpha_legion.asset/rpd_chaos_alpha_legion.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_chaos_black_legion   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_chaos_black_legion.asset/rpd_chaos_black_legion.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_chaos_death_guard   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_chaos_death_guard.asset/rpd_chaos_death_guard.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_chaos_iron_warriors   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_chaos_iron_warriors.asset/rpd_chaos_iron_warriors.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_chaos_night_lords   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_chaos_night_lords.asset/rpd_chaos_night_lords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_chaos_world_eaters   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_chaos_world_eaters.asset/rpd_chaos_world_eaters.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_bringers_of_judgement   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_bringers_of_judgement.asset/rpd_bringers_of_judgement.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sw_fire_support_3   =   {
+            type   =   {
+               width   =   100
+               textureAsset   =   "textures/ui/decals_icons/rpd_sw_fire_support_3.asset/rpd_sw_fire_support_3.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_honour_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_honour_1.asset/rgd_honour_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_honour_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_honour_2.asset/rgd_honour_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_honour_3   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_honour_3.asset/rgd_honour_3.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_honour_4   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_honour_4.asset/rgd_honour_4.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_honour_5   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_honour_5.asset/rgd_honour_5.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_honour_6   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_honour_6.asset/rgd_honour_6.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_wulfen_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_wulfen_1.asset/rgd_wulfen_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_wulfen_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_wulfen_2.asset/rgd_wulfen_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_wulfen_3   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_wulfen_3.asset/rgd_wulfen_3.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_wulfen_4   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_wulfen_4.asset/rgd_wulfen_4.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sw_fire_support_4   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sw_fire_support_4.asset/rpd_sw_fire_support_4.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_angels_penitent   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_angels_penitent.asset/lpd_angels_penitent.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_angels_sanguine   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_angels_sanguine.asset/lpd_angels_sanguine.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_blood_dragons   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_blood_dragons.asset/lpd_blood_dragons.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_blood_scythes   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_blood_scythes.asset/lpd_blood_scythes.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_flesh_eaters   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_flesh_eaters.asset/lpd_flesh_eaters.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_flesh_tearers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_flesh_tearers.asset/lpd_flesh_tearers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_lamenters   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_lamenters.asset/lpd_lamenters.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ba_1_2_11_12_squads   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ba_1_2_11_12_squads.asset/rgd_ba_1_2_11_12_squads.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ba_3_4_13_14_squads   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ba_3_4_13_14_squads.asset/rgd_ba_3_4_13_14_squads.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ba_5_6_15_16_squads   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ba_5_6_15_16_squads.asset/rgd_ba_5_6_15_16_squads.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ba_7_8_17_18_squads   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ba_7_8_17_18_squads.asset/rgd_ba_7_8_17_18_squads.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ba_9_10_19_20_squads   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ba_9_10_19_20_squads.asset/rgd_ba_9_10_19_20_squads.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ba_wings   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ba_wings.asset/rgd_ba_wings.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ba_10_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ba_10_company.asset/rpd_ba_10_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ba_2_5_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ba_2_5_company.asset/rpd_ba_2_5_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ba_6_9_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ba_6_9_company.asset/rpd_ba_6_9_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ba_arrow   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ba_arrow.asset/rpd_ba_arrow.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ba_cross   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ba_cross.asset/rpd_ba_cross.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ba_death_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ba_death_company.asset/rpd_ba_death_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ba_lieutenant   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ba_lieutenant.asset/rpd_ba_lieutenant.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ws_dark_hunters   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ws_dark_hunters.asset/lpd_ws_dark_hunters.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ws_destroyers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ws_destroyers.asset/lpd_ws_destroyers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ws_mantis_warriors   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ws_mantis_warriors.asset/lpd_ws_mantis_warriors.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ws_marauders   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ws_marauders.asset/lpd_ws_marauders.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ws_rampaqers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ws_rampaqers.asset/lpd_ws_rampaqers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ws_solar_hawks   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ws_solar_hawks.asset/lpd_ws_solar_hawks.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ws_storm_lords   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ws_storm_lords.asset/lpd_ws_storm_lords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ws_storm_reapers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ws_storm_reapers.asset/lpd_ws_storm_reapers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ws_11_squad   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ws_11_squad.asset/rgd_ws_11_squad.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ws_12_squad   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ws_12_squad.asset/rgd_ws_12_squad.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ws_13_squad   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ws_13_squad.asset/rgd_ws_13_squad.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ws_14_squad   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ws_14_squad.asset/rgd_ws_14_squad.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ws_16_squad   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ws_16_squad.asset/rgd_ws_16_squad.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ws_1_squad   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ws_1_squad.asset/rgd_ws_1_squad.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ws_2_squad   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ws_2_squad.asset/rgd_ws_2_squad.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ws_3_squad   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ws_3_squad.asset/rgd_ws_3_squad.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ws_4_squad   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ws_4_squad.asset/rgd_ws_4_squad.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ws_5_squad   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ws_5_squad.asset/rgd_ws_5_squad.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ws_arrow   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ws_arrow.asset/rgd_ws_arrow.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ws_lightning_saber   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ws_lightning_saber.asset/rpd_ws_lightning_saber.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ws_sabers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ws_sabers.asset/rpd_ws_sabers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ws_storm_lords   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/rpd_ws_storm_lords.asset/rpd_ws_storm_lords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ws_shuriken   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ws_shuriken.asset/rgd_ws_shuriken.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ws_triangles   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ws_triangles.asset/rpd_ws_triangles.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ultramarine_sgt   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ultramarine_sgt.asset/lpd_ultramarine_sgt.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ih_brazen_claws   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ih_brazen_claws.asset/lpd_ih_brazen_claws.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ih_iron_lords   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ih_iron_lords.asset/lpd_ih_iron_lords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ih_red_talons   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ih_red_talons.asset/lpd_ih_red_talons.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_slm_black_vipers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_slm_black_vipers.asset/lpd_slm_black_vipers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ih_sons_of_medusa   =   {
+            type   =   {
+               pos   =   {
+                  __type   =   "Vector3d"
+               }
+               textureAsset   =   "textures/ui/decals_icons/lpd_ih_sons_of_medusa.asset/lpd_ih_sons_of_medusa.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_slm_covenant_of_fire   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_slm_covenant_of_fire.asset/lpd_slm_covenant_of_fire.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_slm_dark_krakens   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_slm_dark_krakens.asset/lpd_slm_dark_krakens.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_slm_dragonspears   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_slm_dragonspears.asset/lpd_slm_dragonspears.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_slm_skull   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_slm_skull.asset/rgd_slm_skull.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ih_avernii   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ih_avernii.asset/rpd_ih_avernii.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ih_borrgos   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ih_borrgos.asset/rpd_ih_borrgos.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ih_dorrvok   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ih_dorrvok.asset/rpd_ih_dorrvok.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ih_garrsak   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ih_garrsak.asset/rpd_ih_garrsak.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ih_haarmek   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ih_haarmek.asset/rpd_ih_haarmek.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ih_kaargul   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ih_kaargul.asset/rpd_ih_kaargul.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ih_morlaag   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ih_morlaag.asset/rpd_ih_morlaag.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ih_raukaan   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ih_raukaan.asset/rpd_ih_raukaan.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ih_sorrgol   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ih_sorrgol.asset/rpd_ih_sorrgol.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_ih_vurgaan   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_ih_vurgaan.asset/rpd_ih_vurgaan.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_slm_battlebrother   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_slm_battlebrother.asset/rpd_slm_battlebrother.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_slm_battle_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_slm_battle_company.asset/rpd_slm_battle_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_slm_lieutenant   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_slm_lieutenant.asset/rpd_slm_lieutenant.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_slm_reserve_company   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_slm_reserve_company.asset/rpd_slm_reserve_company.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_slm_squad_marking_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_slm_squad_marking_1.asset/rpd_slm_squad_marking_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_slm_squad_marking_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_slm_squad_marking_2.asset/rpd_slm_squad_marking_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_slm_squad_marking_3   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_slm_squad_marking_3.asset/rpd_slm_squad_marking_3.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_slm_squad_marking_4   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_slm_squad_marking_4.asset/rpd_slm_squad_marking_4.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_slm_three_fire   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_slm_three_fire.asset/rpd_slm_three_fire.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_black_templars_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_black_templars.asset/lgd_black_templars.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_if_celestial_lions   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_if_celestial_lions.asset/lpd_if_celestial_lions.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_if_hammers_of_dorn   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_if_hammers_of_dorn.asset/lpd_if_hammers_of_dorn.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_if_invaders   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_if_invaders.asset/lpd_if_invaders.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_if_sons_of_phoenix   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_if_sons_of_phoenix.asset/lpd_if_sons_of_phoenix.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_if_subjugators   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_if_subjugators.asset/lpd_if_subjugators.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_red_templar   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_red_templar.asset/lpd_red_templar.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_if_fist   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_if_fist.asset/rgd_if_fist.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_if_fist_checker   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_if_fist_checker.asset/rgd_if_fist_checker.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_if_half_checker   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_if_half_checker.asset/rgd_if_half_checker.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_if_skull   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_if_skull.asset/rgd_if_skull.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_crimson_fists   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_crimson_fists.asset/rpd_crimson_fists.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_if_battleline_0   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_if_battleline_0.asset/rpd_if_battleline_0.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_if_battleline_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_if_battleline_1.asset/rpd_if_battleline_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_if_close_support_0   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_if_close_support_0.asset/rpd_if_close_support_0.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_if_close_support_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_if_close_support_1.asset/rpd_if_close_support_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_if_close_support_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_if_close_support_2.asset/rpd_if_close_support_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_if_command_0   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_if_command_0.asset/rpd_if_command_0.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_if_fire_support_0   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_if_fire_support_0.asset/rpd_if_fire_support_0.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_if_fire_support_1   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_if_fire_support_1.asset/rpd_if_fire_support_1.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_if_fire_support_2   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_if_fire_support_2.asset/rpd_if_fire_support_2.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_if_fire_support_3   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_if_fire_support_3.asset/rpd_if_fire_support_3.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_if_veteran_0   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_if_veteran_0.asset/rpd_if_veteran_0.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ultra_veteran   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ultra_veteran.asset/rgd_ultra_veteran.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ultra_battleline   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ultra_battleline.asset/rgd_ultra_battleline.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ultra_close_support   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ultra_close_support.asset/rgd_ultra_close_support.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ultra_command   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ultra_command.asset/rgd_ultra_command.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_ultra_fire_support   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_ultra_fire_support.asset/rgd_ultra_fire_support.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ultra_emperors_spears   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ultra_emperors_spears.asset/lpd_ultra_emperors_spears.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_engineer_default   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_engineer_default.asset/rpd_engineer_default.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_red_corsairs   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_red_corsairs.asset/lpd_red_corsairs.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ba_angels_encarmine   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ba_angels_encarmine.asset/lpd_ba_angels_encarmine.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ba_angels_vermillion   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ba_angels_vermillion.asset/lpd_ba_angels_vermillion.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ba_blood_drinkers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ba_blood_drinkers.asset/lpd_ba_blood_drinkers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ba_carmine_blades   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ba_carmine_blades.asset/lpd_ba_carmine_blades.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ba_cruor_blades   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ba_cruor_blades.asset/lpd_ba_cruor_blades.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ba_knights_of_the_chalice   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ba_knights_of_the_chalice.asset/lpd_ba_knights_of_the_chalice.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ba_sable_knights   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ba_sable_knights.asset/lpd_ba_sable_knights.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_unknown_black_dragons   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_unknown_black_dragons.asset/lpd_unknown_black_dragons.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_unknown_brazen_skulls   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_unknown_brazen_skulls.asset/lpd_unknown_brazen_skulls.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_unknown_dragon_lords   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_unknown_dragon_lords.asset/lpd_unknown_dragon_lords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_unknown_fire_lords   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_unknown_fire_lords.asset/lpd_unknown_fire_lords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_unknown_marines_malevolent   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_unknown_marines_malevolent.asset/lpd_unknown_marines_malevolent.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_unknown_mentors   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_unknown_mentors.asset/lpd_unknown_mentors.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_unknown_star_dragons   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_unknown_star_dragons.asset/lpd_unknown_star_dragons.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_unknown_tigers_argent   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_unknown_tigers_argent.asset/lpd_unknown_tigers_argent.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_unknown_white_templars_suspected   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_unknown_white_templars_suspected.asset/lpd_unknown_white_templars_suspected.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sw_wolfspear   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sw_wolfspear.asset/lpd_sw_wolfspear.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_brazen_beasts   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_brazen_beasts.asset/lpd_chaos_brazen_beasts.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_company_of_misery   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_company_of_misery.asset/lpd_chaos_company_of_misery.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_crimson_slaughter   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_crimson_slaughter.asset/lpd_chaos_crimson_slaughter.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_deathmongers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_deathmongers.asset/lpd_chaos_deathmongers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_emperors_children   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_emperors_children.asset/lpd_chaos_emperors_children.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_flawless_host   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_flawless_host.asset/lpd_chaos_flawless_host.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_iron_warriors_hazard_stripes   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_iron_warriors_hazard_stripes.asset/lpd_chaos_iron_warriors_hazard_stripes.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_magma_hounds   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_magma_hounds.asset/lpd_chaos_magma_hounds.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_red_corsairs   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_red_corsairs.asset/lpd_chaos_red_corsairs.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_the_cleaved   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_the_cleaved.asset/lpd_chaos_the_cleaved.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_the_grey_death   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_the_grey_death.asset/lpd_chaos_the_grey_death.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_the_purge   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_the_purge.asset/lpd_chaos_the_purge.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_the_scourged   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_the_scourged.asset/lpd_chaos_the_scourged.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_chaos_word_bearers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_chaos_word_bearers.asset/lpd_chaos_word_bearers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_da_prime_absolvers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_da_prime_absolvers.asset/lpd_da_prime_absolvers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_da_panitent_blades   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_da_panitent_blades.asset/lpd_da_panitent_blades.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_da_knights_of_abhorrence   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_da_knights_of_abhorrence.asset/lpd_da_knights_of_abhorrence.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_da_guardians_of_the_covenant   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_da_guardians_of_the_covenant.asset/lpd_da_guardians_of_the_covenant.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_da_disciples_of_caliban   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_da_disciples_of_caliban.asset/lpd_da_disciples_of_caliban.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_da_consecrators   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_da_consecrators.asset/lpd_da_consecrators.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ultramarines_silver_templars   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ultramarines_silver_templars.asset/lpd_ultramarines_silver_templars.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ultramarines_silver_skulls   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ultramarines_silver_skulls.asset/lpd_ultramarines_silver_skulls.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ultramarines_patriarchs_of_ulixis   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ultramarines_patriarchs_of_ulixis.asset/lpd_ultramarines_patriarchs_of_ulixis.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ultramarines_iron_snakes   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ultramarines_iron_snakes.asset/lpd_ultramarines_iron_snakes.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ultramarines_howling_griffons   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ultramarines_howling_griffons.asset/lpd_ultramarines_howling_griffons.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ultramarines_emperors_spears   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ultramarines_emperors_spears.asset/lpd_ultramarines_emperors_spears.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ultramarines_black_white_consuls   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ultramarines_black_white_consuls.asset/lpd_ultramarines_black_white_consuls.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ultramarines_aurora_chapter   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ultramarines_aurora_chapter.asset/lpd_ultramarines_aurora_chapter.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_full_covered   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_full_covered.asset/rgd_full_covered.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+		 lpd_retributors   =   {
+			type   =   {
+			   textureAsset   =   "textures/ui/decals_icons/lpd_retributors.asset/lpd_retributors.texture.asset"
+			   __type   =   "UiElementBitmap"
+			}
+			__type   =   "UiObjectDesc"
+		 }
+		 rpd_retributors   =   {
+			type   =   {
+			   textureAsset   =   "textures/ui/decals_icons/rpd_retributors.asset/rpd_retributors.texture.asset"
+			   __type   =   "UiElementBitmap"
+			}
+			__type   =   "UiObjectDesc"
+		 }
+		 lpd_apothecary   =   {
+			type   =   {
+			   textureAsset   =   "textures/ui/decals_icons/lpd_apothecary.asset/lpd_apothecary.texture.asset"
+			   __type   =   "UiElementBitmap"
+			}
+			__type   =   "UiObjectDesc"
+		 }
+         lpd_adjudicators   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_adjudicators.asset/lpd_adjudicators.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_dark_krakens   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_dark_krakens.asset/lpd_dark_krakens.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_iron_snakes   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_iron_snakes.asset/lpd_iron_snakes.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_ulixis   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_ulixis.asset/lpd_ulixis.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_obsidian_jaguars   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_obsidian_jaguars.asset/lpd_obsidian_jaguars.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_silver_skulls   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_silver_skulls.asset/lpd_silver_skulls.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_silver_templars   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_silver_templars.asset/lpd_silver_templars.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_umbral_templars   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_umbral_templars.asset/lpd_umbral_templars.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_train_01   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_train_01.asset/lgd_sh_train_01.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_malleus   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_malleus.asset/lgd_sh_malleus.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_sh_umbral_sgt   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_sh_umbral_sgt.asset/rgd_sh_umbral_sgt.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_void_krakens   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_void_krakens.asset/lpd_void_krakens.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_white_templars   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_white_templars.asset/lpd_white_templars.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_emperors_spears   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_emperors_spears.asset/lpd_emperors_spears.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sable_swords   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sable_swords.asset/lpd_sable_swords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_emperors_spears_runes   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_emperors_spears_runes.asset/rpd_emperors_spears_runes.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_byzantium   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_byzantium.asset/lpd_byzantium.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_abhorrence   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_abhorrence.asset/lpd_abhorrence.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_crimson_fists_battle   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_crimson_fists_battle.asset/rpd_crimson_fists_battle.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_crimson_fists_close   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_crimson_fists_close.asset/rpd_crimson_fists_close.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_crimson_fists_fire   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_crimson_fists_fire.asset/rpd_crimson_fists_fire.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_crimson_fists_vet   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_crimson_fists_vet.asset/rpd_crimson_fists_vet.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_crimson_fists_com   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_crimson_fists_com.asset/rpd_crimson_fists_com.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_celestial_lions   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_celestial_lions.asset/lpd_celestial_lions.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_shadow_hawks   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_shadow_hawks.asset/lpd_shadow_hawks.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sons_phoenix   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sons_phoenix.asset/lpd_sons_phoenix.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_covenant_fire   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_covenant_fire.asset/lpd_covenant_fire.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_covenant_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_covenant_02.asset/rpd_covenant_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_covenant_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_covenant_06.asset/rpd_covenant_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_consecrators   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_consecrators.asset/lpd_sh_consecrators.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_angels_rev   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_angels_rev.asset/lpd_sh_angels_rev.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_night_watch   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_night_watch.asset/lpd_sh_night_watch.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_astral_knights   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_astral_knights.asset/lpd_sh_astral_knights.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_nullificators   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_nullificators.asset/lpd_sh_nullificators.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_nullificators_lieut   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_nullificators_lieut.asset/rpd_sh_nullificators_lieut.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_nullificators_lieut_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_nullificators_lieut_02.asset/rpd_sh_nullificators_lieut_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_nullificators_com   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_nullificators_com.asset/rpd_sh_nullificators_com.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_dragon_lords   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_dragon_lords.asset/lpd_sh_dragon_lords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_griffon_lords   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_griffon_lords.asset/lpd_sh_griffon_lords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_griffon_lords_b_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_griffon_lords_b_02.asset/rpd_sh_griffon_lords_b_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_griffon_lords_c_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_griffon_lords_c_02.asset/rpd_sh_griffon_lords_c_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_griffon_lords_f_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_griffon_lords_f_02.asset/rpd_sh_griffon_lords_f_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_griffon_lords_v_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_griffon_lords_v_02.asset/rpd_sh_griffon_lords_v_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_marines_mirific   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_marines_mirific.asset/lpd_sh_marines_mirific.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_brazen_skulls   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_brazen_skulls.asset/lpd_sh_brazen_skulls.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_death_strike   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_death_strike.asset/lpd_sh_death_strike.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_death_strike_b   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_death_strike_b.asset/rpd_sh_death_strike_b.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_death_strike_c   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_death_strike_c.asset/rpd_sh_death_strike_c.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_death_strike_f   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_death_strike_f.asset/rpd_sh_death_strike_f.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_death_strike_v   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_death_strike_v.asset/rpd_sh_death_strike_v.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_black_vipers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_black_vipers.asset/lpd_sh_black_vipers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_destroyers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_destroyers.asset/lpd_sh_destroyers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_illuminators   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_illuminators.asset/lpd_sh_illuminators.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_wolfspears   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_wolfspears.asset/lpd_sh_wolfspears.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_wolfspears_bl   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_wolfspears_bl.asset/rpd_sh_wolfspears_bl.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_wolfspears_cs   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_wolfspears_cs.asset/rpd_sh_wolfspears_cs.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_wolfspears_fs   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_wolfspears_fs.asset/rpd_sh_wolfspears_fs.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_wolfspears_vt   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_wolfspears_vt.asset/rpd_sh_wolfspears_vt.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_sh_wolfspears_01   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_sh_wolfspears_01.asset/rgd_sh_wolfspears_01.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_sh_wolfspears_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_sh_wolfspears_02.asset/rgd_sh_wolfspears_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_sh_wolfspears_03   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_sh_wolfspears_03.asset/rgd_sh_wolfspears_03.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_sh_wolfspears_04   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_sh_wolfspears_04.asset/rgd_sh_wolfspears_04.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_sh_wolfspears_05   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_sh_wolfspears_05.asset/rgd_sh_wolfspears_05.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_sh_wolfspears_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_sh_wolfspears_06.asset/rgd_sh_wolfspears_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rgd_sh_wolfspears_07   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rgd_sh_wolfspears_07.asset/rgd_sh_wolfspears_07.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_charnel_guard   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_charnel_guard.asset/lpd_sh_charnel_guard.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_charnel_com   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_charnel_com.asset/rpd_sh_charnel_com.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_penitents   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_penitents.asset/lpd_sh_penitents.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_orar   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_orar.asset/lpd_sh_orar.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_orar_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_orar_02.asset/rpd_sh_orar_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_orar_03   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_orar_03.asset/rpd_sh_orar_03.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_orar_04   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_orar_04.asset/rpd_sh_orar_04.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_orar_05   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_orar_05.asset/rpd_sh_orar_05.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_orar_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_orar_06.asset/rpd_sh_orar_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_orar_02a   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_orar_02a.asset/rpd_sh_orar_02a.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_orar_03a   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_orar_03a.asset/rpd_sh_orar_03a.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_orar_04a   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_orar_04a.asset/rpd_sh_orar_04a.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_orar_05a   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_orar_05a.asset/rpd_sh_orar_05a.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_orar_06a   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_orar_06a.asset/rpd_sh_orar_06a.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_iron_hounds   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_iron_hounds.asset/lpd_sh_iron_hounds.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_star_phantoms   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_star_phantoms.asset/lpd_sh_star_phantoms.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_star_phantoms_sm   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_star_phantoms_sm.asset/lpd_sh_star_phantoms_sm.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_iron_lords   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_iron_lords.asset/lpd_sh_iron_lords.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_malevolent   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_malevolent.asset/lpd_sh_malevolent.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_relictors   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_relictors.asset/lpd_sh_relictors.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_confessors   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_confessors.asset/lpd_sh_confessors.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_boathousand   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_boathousand.asset/lpd_sh_boathousand.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_executioners   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_executioners.asset/lpd_sh_executioners.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_blood_tigers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_blood_tigers.asset/lpd_sh_blood_tigers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_blood_tigers_b   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_blood_tigers_b.asset/lpd_sh_blood_tigers_b.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_blood_tigers_x   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_blood_tigers_x.asset/lpd_sh_blood_tigers_x.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_blood_tigers_vx   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_blood_tigers_vx.asset/lpd_sh_blood_tigers_vx.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_blood_tigers_axe   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_blood_tigers_axe.asset/lpd_sh_blood_tigers_axe.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_red_wolves   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_red_wolves.asset/lpd_sh_red_wolves.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_soul_drinkers   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_soul_drinkers.asset/lpd_sh_soul_drinkers.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_marines_errant   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_marines_errant.asset/lpd_sh_marines_errant.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_salamanders_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_salamanders_02.asset/rpd_sh_salamanders_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_salamanders_03   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_salamanders_03.asset/rpd_sh_salamanders_03.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_salamanders_04   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_salamanders_04.asset/rpd_sh_salamanders_04.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_salamanders_05   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_salamanders_05.asset/rpd_sh_salamanders_05.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_salamanders_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_salamanders_06.asset/rpd_sh_salamanders_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_scorpions   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_scorpions.asset/lgd_sh_scorpions.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_user   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_user.asset/lpd_sh_user.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_unknown   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_unknown.asset/lpd_sh_unknown.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_knee_user   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_knee_user.asset/lgd_knee_user.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_clean   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_clean.asset/lgd_sh_clean.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_griffon_lords_b_03   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_griffon_lords_b_03.asset/rpd_sh_griffon_lords_b_03.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_griffon_lords_b_04   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_griffon_lords_b_04.asset/rpd_sh_griffon_lords_b_04.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_griffon_lords_b_05   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_griffon_lords_b_05.asset/rpd_sh_griffon_lords_b_05.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_griffon_lords_b_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_griffon_lords_b_06.asset/rpd_sh_griffon_lords_b_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_griffon_lords_c_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_griffon_lords_c_06.asset/rpd_sh_griffon_lords_c_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_griffon_lords_f_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_griffon_lords_f_06.asset/rpd_sh_griffon_lords_f_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_griffon_lords_v_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_griffon_lords_v_06.asset/rpd_sh_griffon_lords_v_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_high_b_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_high_b_02.asset/rpd_sh_pristine_high_b_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_high_b_03   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_high_b_03.asset/rpd_sh_pristine_high_b_03.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_high_b_04   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_high_b_04.asset/rpd_sh_pristine_high_b_04.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_high_b_05   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_high_b_05.asset/rpd_sh_pristine_high_b_05.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_high_b_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_high_b_06.asset/rpd_sh_pristine_high_b_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_high_c_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_high_c_06.asset/rpd_sh_pristine_high_c_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_high_f_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_high_f_06.asset/rpd_sh_pristine_high_f_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_high_f_06a   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_high_f_06a.asset/rpd_sh_pristine_high_f_06a.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_high_v_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_high_v_06.asset/rpd_sh_pristine_high_v_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_low_b_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_low_b_02.asset/rpd_sh_pristine_low_b_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_low_b_03   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_low_b_03.asset/rpd_sh_pristine_low_b_03.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_low_b_04   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_low_b_04.asset/rpd_sh_pristine_low_b_04.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_low_b_05   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_low_b_05.asset/rpd_sh_pristine_low_b_05.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_low_b_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_low_b_06.asset/rpd_sh_pristine_low_b_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_low_c_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_low_c_06.asset/rpd_sh_pristine_low_c_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_low_f_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_low_f_06.asset/rpd_sh_pristine_low_f_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_low_f_06a   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_low_f_06a.asset/rpd_sh_pristine_low_f_06a.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_pristine_low_v_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_pristine_low_v_06.asset/rpd_sh_pristine_low_v_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_sog_b_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_sog_b_02.asset/rpd_sh_sog_b_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_sog_b_03   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_sog_b_03.asset/rpd_sh_sog_b_03.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_sog_b_04   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_sog_b_04.asset/rpd_sh_sog_b_04.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_sog_b_05   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_sog_b_05.asset/rpd_sh_sog_b_05.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_sog_b_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_sog_b_06.asset/rpd_sh_sog_b_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_sog_c_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_sog_c_06.asset/rpd_sh_sog_c_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_sog_f_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_sog_f_06.asset/rpd_sh_sog_f_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_sog_v_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_sog_v_06.asset/rpd_sh_sog_v_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_highgothic_01   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_highgothic_01.asset/lgd_highgothic_01.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_highgothic_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_highgothic_02.asset/lgd_highgothic_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_highgothic_03   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_highgothic_03.asset/lgd_highgothic_03.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_highgothic_04   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_highgothic_04.asset/lgd_highgothic_04.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_highgothic_05   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_highgothic_05.asset/lgd_highgothic_05.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_highgothic_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_highgothic_06.asset/lgd_highgothic_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_highgothic_07   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_highgothic_07.asset/lgd_highgothic_07.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_highgothic_08   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_highgothic_08.asset/lgd_highgothic_08.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_highgothic_09   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_highgothic_09.asset/lgd_highgothic_09.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_highgothic_10   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_highgothic_10.asset/lgd_highgothic_10.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_highgothic_02_battle   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_highgothic_02_battle.asset/lgd_highgothic_02_battle.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_knee_battle   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_knee_battle.asset/lgd_sh_knee_battle.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_knee_fire   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_knee_fire.asset/lgd_sh_knee_fire.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_knee_close   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_knee_close.asset/lgd_sh_knee_close.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_knee_vet   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_knee_vet.asset/lgd_sh_knee_vet.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_hgc_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_hgc_02.asset/lgd_sh_hgc_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_hgc_03   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_hgc_03.asset/lgd_sh_hgc_03.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_hgc_04   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_hgc_04.asset/lgd_sh_hgc_04.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_hgc_05   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_hgc_05.asset/lgd_sh_hgc_05.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_hgc_06   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_hgc_06.asset/lgd_sh_hgc_06.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lgd_sh_sgt   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lgd_sh_sgt.asset/lgd_sh_sgt.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_angels_of_fire   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_angels_of_fire.asset/lpd_sh_angels_of_fire.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         rpd_sh_angels_of_fire_02   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/rpd_sh_angels_of_fire_02.asset/rpd_sh_angels_of_fire_02.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+         lpd_sh_thanatos   =   {
+            type   =   {
+               textureAsset   =   "textures/ui/decals_icons/lpd_sh_thanatos.asset/lpd_sh_thanatos.texture.asset"
+               __type   =   "UiElementBitmap"
+            }
+            __type   =   "UiObjectDesc"
+         }
+      }
+      __type   =   "UiSwitcher"
+   }
+}
+animation   =   {
+   type   =   {
+      __type   =   "fus_sequence"
+   }
+   __type   =   "FusionSequenceDesc"
+}
+__type   =   "UiFusionContainer"

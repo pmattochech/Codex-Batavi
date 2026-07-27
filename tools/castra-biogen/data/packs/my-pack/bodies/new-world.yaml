@@ -1,0 +1,36 @@
+system_slug: new-system
+stellar: generate
+planet_type: dead_world
+body_kind: planet
+topology: ''
+local_notes: ''
+notes: ''
+risks: []
+specimens: []
+biomes:
+- id: barren_null_1
+  class: barren_null
+  richness: null
+  medium: terrestrial
+  overlay: false
+geology:
+  gravity_g: 1.0
+  crust: rocky
+  volcanism: moderate
+  connectivity: pangaea
+  tidal_lock: false
+  hydrosphere_pct: 70
+  insolation_hint: bright (K-giant)
+  topology: ''
+chemistry_climate:
+  atmosphere: breathable
+  water: true
+  solvent: water
+  cryosphere: hot
+  climate_belts:
+  - equatorial
+  - temperate
+  - polar
+  immaterium_stress: neutral
+  immaterium_flavor_tags: []
+  immaterium_description: Stable realspace veil; no Warp-driven climate/mutation pressure

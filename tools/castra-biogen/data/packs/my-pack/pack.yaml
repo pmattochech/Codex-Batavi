@@ -1,0 +1,5 @@
+id: my-pack
+title: Custom mesh
+description: Exported from cogitator wizard
+systems:
+- new-system

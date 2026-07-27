@@ -1,0 +1,5 @@
+id: wiz-export
+title: Wizard export smoke
+description: ''
+systems:
+- wiz-test
