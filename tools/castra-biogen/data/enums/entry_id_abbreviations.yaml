@@ -1,0 +1,15 @@
+# Entry ID abbreviations — planet (AAAA) + biome (BBB).
+# Expand as other worlds/biomes get filings.
+# Entry ID: AAAA-BBB-NNN or AAAA-BBB-NNN-AA (variant).
+
+planets:
+  aethelgard-prime: AETH
+
+# biome id (body locks) → BBB
+biomes:
+  aethelgard_shoreline: SHR
+  aethelgard_swamp: SWP
+  aethelgard_taiga: TAI
+  aethelgard_montane: MON
+  aethelgard_shallow_waters: SHW
+  aethelgard_reefs: REF

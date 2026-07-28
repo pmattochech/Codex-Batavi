@@ -9,10 +9,11 @@ from textual.widgets import Button, Input, Label, Static
 from ...wizard_session import WizardSession
 from ..widgets.header import CogitatorHeader
 from ..widgets.warn_log import WarnLog
-from .boot import BootScreen
 
 
 class ReviewScreen(Screen):
+    TRACK_DIRTY = True
+
     def compose(self) -> ComposeResult:
         yield CogitatorHeader("LAYER L7 // SEAL & ARCHIVE")
         with VerticalScroll(id="main"):
@@ -68,24 +69,10 @@ class ReviewScreen(Screen):
         session = self._session()
         log = self.query_one(WarnLog)
         if event.button.id == "btn-back":
-            self.app.pop_screen()
+            self.app.request_back()  # type: ignore[attr-defined]
             return
         if event.button.id == "btn-done":
-            # Fresh session + return to boot (do not exit)
-            seed = session.seed
-            app = self.app
-            app.session = WizardSession(seed=seed)  # type: ignore[attr-defined]
-            # Pop back to BootScreen if present; otherwise switch to a new boot
-            while len(app.screen_stack) > 1 and not isinstance(app.screen, BootScreen):
-                app.pop_screen()
-            if not isinstance(app.screen, BootScreen):
-                app.switch_screen(BootScreen())
-            else:
-                # Re-mount warn log greeting
-                try:
-                    app.screen.query_one(WarnLog).push("rite sealed — cogitator ready for next mesh")
-                except Exception:
-                    pass
+            self.app.request_menu()  # type: ignore[attr-defined]
             return
         if event.button.id == "btn-out":
             if session.body is None:

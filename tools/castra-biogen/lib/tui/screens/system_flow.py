@@ -12,6 +12,8 @@ from ..widgets.warn_log import WarnLog
 
 
 class SystemFlowScreen(Screen):
+    TRACK_DIRTY = True
+
     def compose(self) -> ComposeResult:
         yield CogitatorHeader("LAYER L-1 // STELLAR RITE")
         with VerticalScroll(id="main"):
@@ -85,7 +87,7 @@ class SystemFlowScreen(Screen):
         session = self._session()
         log = self.query_one(WarnLog)
         if event.button.id == "btn-back":
-            self.app.pop_screen()
+            self.app.request_back()  # type: ignore[attr-defined]
             return
         if event.button.id == "btn-mode":
             mode = str(self.query_one("#mode-select", Select).value)

@@ -13,6 +13,8 @@ from ..widgets.warn_log import WarnLog
 
 
 class BodyFlowScreen(Screen):
+    TRACK_DIRTY = True
+
     def compose(self) -> ComposeResult:
         yield CogitatorHeader("LAYERS L1–L6 // BIOSPHERE RITE")
         with VerticalScroll(id="main"):
@@ -104,7 +106,7 @@ class BodyFlowScreen(Screen):
         session = self._session()
         log = self.query_one(WarnLog)
         if event.button.id == "btn-back":
-            self.app.pop_screen()
+            self.app.request_back()  # type: ignore[attr-defined]
             return
         if event.button.id == "btn-listed":
             slug = getattr(self, "_selected_body", None)

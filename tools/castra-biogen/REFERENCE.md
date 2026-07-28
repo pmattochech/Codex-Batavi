@@ -29,11 +29,28 @@ Lexicon for tags, categories, and fields used by the generator, packs, Magos dos
 | Path | Role |
 |------|------|
 | `cogitator-results/` | **Sealed finals** — Magos / literary / state (Archive + Seal target) |
+| `cogitator-results/<body>/species/<Entry-ID>/` | Per-species questionnaire + Midjourney + filing reminders |
+| `data/enums/entry_id_abbreviations.yaml` | Planet (AAAA) + biome (BBB) abbreviations for Entry IDs |
 | `out/` | Scratch / working only (gitignored) |
 | `templates/greenfield/` | Demo / greenfield stub layout (not mesh finals) |
+| `templates/species-generation-questionnaire.yaml` | **Cogitator questionnaire schema** (edit → restart / Reload schema) |
+| `templates/species-generation-questionnaire.md` | Human/chat copy of the same questionnaire |
 | `data/packs/<id>/` | Scenario locks (systems + bodies YAML) |
 | `data/enums/` | Controlled vocabularies |
 | `data/matrices/` | Spark / trait tables |
+
+### Entry ID (species filing key)
+
+Folder name = `profile.id`. Format: `AAAA-BBB-NNN` or variant `AAAA-BBB-NNN-AA`.
+
+| Segment | Length | Meaning |
+|---------|--------|---------|
+| AAAA | 4 letters | Planet / body abbreviation |
+| BBB | 3 letters | Primary biome abbreviation |
+| NNN | 3 digits | Serial per planet+biome (not global) |
+| -AA | optional | Variant / subspecies suffix |
+
+Not vernacular names and not Magos binomials (those live in questionnaire section A). Lifecycle stages stay inside one base archive unless explicitly filed as `-AA` / `-AB`. Abbreviations: `data/enums/entry_id_abbreviations.yaml`. Example: Spireback shoreline = `AETH-SHR-001`.
 
 | Artifact | Meaning |
 |----------|---------|

@@ -13,6 +13,8 @@ from ..widgets.warn_log import WarnLog
 
 
 class EditTagsScreen(Screen):
+    TRACK_DIRTY = True
+
     CSS = """
     #tags-main { height: 1fr; padding: 0 1; }
     #tags-toolbar { height: 3; }
@@ -101,7 +103,7 @@ class EditTagsScreen(Screen):
         log = self.query_one(WarnLog)
         pack = self._pack()
         if event.button.id == "btn-back":
-            self.app.pop_screen()
+            self.app.request_back()  # type: ignore[attr-defined]
             return
         if not pack and event.button.id != "btn-back":
             log.push("set pack_id on Edit hub / load from pack first")

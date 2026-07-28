@@ -12,6 +12,8 @@ from ..widgets.warn_log import WarnLog
 
 
 class BiomeFlowScreen(Screen):
+    TRACK_DIRTY = True
+
     def compose(self) -> ComposeResult:
         yield CogitatorHeader("LAYER L4 // BIOMES")
         with VerticalScroll(id="main"):
@@ -79,7 +81,7 @@ class BiomeFlowScreen(Screen):
         session = self._session()
         log = self.query_one(WarnLog)
         if event.button.id == "btn-back":
-            self.app.pop_screen()
+            self.app.request_back()  # type: ignore[attr-defined]
             return
         if session.body is None:
             log.push("no body — go back and init")

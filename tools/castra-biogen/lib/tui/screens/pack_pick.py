@@ -49,7 +49,7 @@ class PackPickScreen(Screen):
 
     def on_button_pressed(self, event: Button.Pressed) -> None:
         if event.button.id == "btn-back":
-            self.app.pop_screen()
+            self.app.request_back()  # type: ignore[attr-defined]
             return
         if event.button.id == "btn-load":
             slug = getattr(self, "_selected_sys", None)

@@ -12,6 +12,8 @@ from ..widgets.warn_log import WarnLog
 
 
 class EditProseScreen(Screen):
+    TRACK_DIRTY = True
+
     CSS = """
     #prose-main { height: 1fr; padding: 0 1; }
     #prose-toolbar { height: 3; }
@@ -53,12 +55,17 @@ class EditProseScreen(Screen):
     def _session(self) -> WizardSession:
         return self.app.session  # type: ignore[attr-defined]
 
+    def flush_unsaved(self) -> str | None:
+        ta = self.query_one("#prose-editor", TextArea)
+        self._session().set_prose_override(self.kind, ta.text)
+        return None
+
     def on_button_pressed(self, event: Button.Pressed) -> None:
         session = self._session()
         log = self.query_one(WarnLog)
         ta = self.query_one("#prose-editor", TextArea)
         if event.button.id == "btn-back":
-            self.app.pop_screen()
+            self.app.request_back()  # type: ignore[attr-defined]
             return
         if event.button.id == "btn-gen":
             ta.load_text(session.generated_prose_preview(self.kind))

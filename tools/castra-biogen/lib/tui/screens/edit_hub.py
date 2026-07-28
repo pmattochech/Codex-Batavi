@@ -12,6 +12,8 @@ from ..widgets.warn_log import WarnLog
 
 
 class EditHubScreen(Screen):
+    TRACK_DIRTY = True
+
     CSS = """
     #edit-hub { height: 1fr; padding: 0 1; }
     #edit-hub-toolbar { height: 3; }
@@ -52,6 +54,16 @@ class EditHubScreen(Screen):
     def _session(self) -> WizardSession:
         return self.app.session  # type: ignore[attr-defined]
 
+    def flush_unsaved(self) -> str | None:
+        pack = self.query_one("#pack-id", Input).value.strip() or self._session().pack_id
+        if not pack:
+            return "set pack id to save"
+        try:
+            self._session().save_pack_lock(pack)
+        except Exception as exc:
+            return str(exc)
+        return None
+
     def _refresh(self) -> None:
         session = self._session()
         body = session.body or {}
@@ -61,11 +73,12 @@ class EditHubScreen(Screen):
         specs = len(locks.get("specimens") or [])
         biomes = len((body.get("layers") or {}).get("biomes") or [])
         prose = locks.get("prose") or {}
+        profiles = len(session.species_profiles)
         text = (
             f"Body: {meta.get('slug')}  system={meta.get('system_slug')}\n"
             f"Pack: {session.pack_id or '(none)'}\n"
             f"Planet: {pt.get('planet_type')} / {pt.get('body_kind')}\n"
-            f"Biomes: {biomes}  Specimens: {specs}\n"
+            f"Biomes: {biomes}  Specimens: {specs}  Species profiles: {profiles}\n"
             f"Prose overrides: magos={'yes' if prose.get('magos') else 'no'} "
             f"literary={'yes' if prose.get('literary') else 'no'}"
         )
@@ -75,7 +88,7 @@ class EditHubScreen(Screen):
         session = self._session()
         log = self.query_one(WarnLog)
         if event.button.id == "btn-back":
-            self.app.pop_screen()
+            self.app.request_back()  # type: ignore[attr-defined]
             return
         if event.button.id == "btn-archive":
             slug = ((session.body or {}).get("meta") or {}).get("slug")

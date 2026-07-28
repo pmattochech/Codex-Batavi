@@ -2,7 +2,7 @@
 
 Reusable *Warhammer 40,000* **mesh workshop** — system + biosphere generator now; culture/atlas briefs and bidirectional `codex-batavi/` later.
 
-- **Interactive:** cogitator TUI — `./run wizard` (generate **and** browse sealed results)
+- **Interactive:** cogitator TUI — `biologis-cogitator` / `cogitator` / `init-cogitator` (or `./run wizard`)
 - **Scriptable CLI:** `generate-system` / `generate` / `show` / …
 - **Packs:** scenarios under `data/packs/` (Castra Vetera is an **optional example**, not the core)
 
@@ -17,9 +17,15 @@ Hardlocks / pack pins can be **overridden** in the wizard (warnings recorded). *
 ```bash
 cd tools/castra-biogen
 python3 -m pip install -r requirements.txt
-chmod +x run bin/cli.py
+chmod +x run bin/cli.py bin/biologis-cogitator
 
-# Cogitator wizard (guided L-1 → body → seal)
+# One-time: global commands → ~/.local/bin
+./install-cli.sh
+# then from any terminal:
+biologis-cogitator          # also: cogitator / init-cogitator
+cogitator --pack castra-vetera --seed 42
+
+# Local entry (no install)
 ./run wizard
 ./run wizard --pack castra-vetera --seed 42
 
@@ -54,9 +60,13 @@ Amber-phosphor full-screen TUI:
 4. **Biomes (L4)** — add/remove class+richness; **Roll / Skip**; trophic rebuilds from the list  
 5. **Review** — **Seal to results**, **Open in Archive**, Save as pack, propose-codex; **Return to menu** (does not exit)
 
-**Edit body:** load from pack or sealed results → edit classification / geology / climate / biomes / specimens / Magos & literary prose / custom tags → **Save pack** + **Seal results**.
+**Edit body:** load from pack or sealed results → edit… → **Save pack** + **Seal results**.
 
-**Archive (Browse results):** bodies and systems under `cogitator-results/` — view `magos.md` / `literary.md` / `state.json` (systems: `system.json` / `system.md`). Read-only; does not load into the active rite yet.
+**Chrome (every screen):** **Menu** (main menu) · **Reload** (schema + last body from disk) · **Terminate** (exit). Unsaved changes prompt Save / Don’t save / Cancel — also on **Back** / Return to menu.
+
+**Species questionnaire:** Specimens screen is **read-only**. **New** → pick primary biome → questionnaire with auto Entry ID (`AAAA-BBB-NNN`); **Edit** opens the selected specimen; **Add subspecies** clones answers into `…-AA` / `…-AB` (disk write only on Save). Schema: `templates/species-generation-questionnaire.yaml`.
+
+**Archive (Browse results):** bodies and systems under `cogitator-results/` — view `magos.md` / `literary.md` / `state.json` / `species/...` (systems: `system.json` / `system.md`). Read-only; does not load into the active rite yet.
 
 Biosphere only: pick a system from `cogitator-results/systems/` or a pack, then continue at body → biomes → review.
 

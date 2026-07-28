@@ -4,20 +4,31 @@ from __future__ import annotations
 from pathlib import Path
 from typing import Any
 
+from . import species_profile as speciesmod
 from .state import body_out_dir
 
 
-def render_all(world: dict[str, Any]) -> None:
+def render_all(
+    world: dict[str, Any],
+    *,
+    species_profiles: dict[str, dict[str, Any]] | None = None,
+) -> None:
     slug = world["meta"]["slug"]
     out = body_out_dir(slug)
     out.mkdir(parents=True, exist_ok=True)
+    profiles = species_profiles
+    if profiles is None:
+        profiles = speciesmod.load_all_profiles(slug)
+    elif profiles:
+        speciesmod.write_profiles_for_body(slug, profiles)
     magos = out / "magos.md"
     literary = out / "literary.md"
-    magos.write_text(_magos(world), encoding="utf-8")
-    literary.write_text(_literary(world), encoding="utf-8")
+    magos.write_text(_magos(world, profiles), encoding="utf-8")
+    literary.write_text(_literary(world, profiles), encoding="utf-8")
     world["render"] = {
         "magos_path": str(Path("cogitator-results") / slug / "magos.md"),
         "literary_path": str(Path("cogitator-results") / slug / "literary.md"),
+        "species_dir": str(Path("cogitator-results") / slug / "species"),
     }
 
 
@@ -30,7 +41,10 @@ def _prose_override(world: dict[str, Any], kind: str) -> str | None:
     return text if text else None
 
 
-def _magos(world: dict[str, Any]) -> str:
+def _magos(
+    world: dict[str, Any],
+    profiles: dict[str, dict[str, Any]] | None = None,
+) -> str:
     override = _prose_override(world, "magos")
     if override is not None:
         return override if override.endswith("\n") else override + "\n"
@@ -40,6 +54,8 @@ def _magos(world: dict[str, Any]) -> str:
     pt = layers.get("planet_type") or {}
     geo = layers.get("geology") or {}
     chem = layers.get("chemistry_climate") or {}
+    if profiles is None:
+        profiles = speciesmod.load_all_profiles(str(meta.get("slug") or ""))
     lines = [
         f"# Magos Biologis Dossier — {meta['slug']}",
         "",
@@ -112,6 +128,8 @@ def _magos(world: dict[str, Any]) -> str:
                 )
         lines.append("")
 
+    lines += speciesmod.magos_species_section(profiles or {})
+
     risks = locks.get("risks") or []
     lines += ["## Biological risks (locked)", ""]
     if risks:
@@ -131,7 +149,10 @@ def _magos(world: dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
-def _literary(world: dict[str, Any]) -> str:
+def _literary(
+    world: dict[str, Any],
+    profiles: dict[str, dict[str, Any]] | None = None,
+) -> str:
     override = _prose_override(world, "literary")
     if override is not None:
         return override if override.endswith("\n") else override + "\n"
@@ -141,6 +162,8 @@ def _literary(world: dict[str, Any]) -> str:
     chem = layers.get("chemistry_climate") or {}
     geo = layers.get("geology") or {}
     pt = layers.get("planet_type") or {}
+    if profiles is None:
+        profiles = speciesmod.load_all_profiles(str(meta.get("slug") or ""))
     stress = chem.get("immaterium_stress", "neutral")
 
     stress_line = {
@@ -190,6 +213,8 @@ def _literary(world: dict[str, Any]) -> str:
                 f"niche is held by {name}{link} — {provenance}."
             )
         lines.append("")
+
+    lines += speciesmod.literary_species_paragraphs(profiles or {})
 
     if locks.get("notes") or locks.get("local_notes"):
         lines.append("## Filed note")

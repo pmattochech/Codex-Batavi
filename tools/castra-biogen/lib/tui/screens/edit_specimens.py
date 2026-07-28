@@ -1,158 +1,201 @@
-"""Specimen list / add / edit / remove."""
+"""Specimen list — read-only dossier view; New / Edit / Add subspecies."""
 from __future__ import annotations
 
 from textual.app import ComposeResult
 from textual.containers import Horizontal, Vertical, VerticalScroll
 from textual.screen import Screen
-from textual.widgets import Button, Input, Label, ListItem, ListView, Select, Static
+from textual.widgets import Button, Label, ListItem, ListView, Static
 
+from ... import species_profile as speciesmod
 from ...wizard_session import WizardSession
 from ..widgets.header import CogitatorHeader
 from ..widgets.warn_log import WarnLog
+from . import species_form as form
 
 
 class EditSpecimensScreen(Screen):
+    # Read-only: do not mark session dirty from this screen
+    TRACK_DIRTY = False
+
     CSS = """
     #spec-main { height: 1fr; padding: 0 1; }
     #spec-toolbar { height: 3; }
     #spec-toolbar Button { margin: 0 1 0 0; min-width: 10; height: 3; }
     #spec-list { height: 8; border: solid #8a6a20; }
+    #spec-detail {
+        height: 1fr;
+        border: solid #8a6a20;
+        padding: 0 1;
+        color: #ffe08a;
+    }
+    #spec-hint { height: auto; color: #c9a227; margin: 0 0 1 0; }
     """
+
+    def __init__(self, **kwargs) -> None:
+        super().__init__(**kwargs)
+        self._selected_id: str | None = None
 
     def compose(self) -> ComposeResult:
         yield CogitatorHeader("EDITOR // SPECIMENS")
         with Vertical(id="spec-main"):
             with Horizontal(id="spec-toolbar"):
-                yield Button("Save specimen", id="btn-save", variant="primary")
+                yield Button("New", id="btn-new", variant="primary")
+                yield Button("Edit", id="btn-edit")
+                yield Button("Add subspecies", id="btn-subspecies")
                 yield Button("Remove", id="btn-remove")
                 yield Button("Back", id="btn-back")
+            yield Static(
+                "Select a specimen, then Edit. New asks for primary biome first "
+                "(Entry ID is generated; disk write only on Save).",
+                id="spec-hint",
+                classes="litany",
+            )
             yield Label("Specimens")
             yield ListView(id="spec-list")
-            with VerticalScroll():
-                yield Label("id")
-                yield Input(id="spec-id")
-                yield Label("name")
-                yield Input(id="spec-name")
-                yield Label("primary_biome (id)")
-                yield Input(id="spec-primary")
-                yield Label("secondary_biomes (comma ids)")
-                yield Input(id="spec-secondary")
-                yield Label("range (single|multi)")
-                yield Input(value="single", id="spec-range")
-                yield Label("trophic_slot")
-                yield Select([("apex", "apex")], id="spec-slot", allow_blank=False)
-                yield Label("origin")
-                yield Select(
-                    [("native", "native"), ("exotic", "exotic")],
-                    id="spec-origin",
-                    allow_blank=False,
-                )
-                yield Label("origin_subtype")
-                yield Input(id="spec-subtype")
-                yield Label("analogue")
-                yield Input(id="spec-analogue")
-                yield Label("dossier")
-                yield Input(id="spec-dossier")
-                yield Label("notes")
-                yield Input(id="spec-notes")
+            yield Label("Questionnaire (read-only)")
+            with VerticalScroll(id="spec-detail"):
+                yield Static("(select a specimen)", id="spec-ro")
             yield Static(id="biome-hint", classes="litany")
         yield WarnLog()
 
     def on_mount(self) -> None:
         self.query_one(WarnLog).boot()
-        session = self._session()
-        slots = [(s, s) for s in session.trophic_slots()]
-        self.query_one("#spec-slot", Select).set_options(slots or [("apex", "apex")])
-        self.query_one("#spec-slot", Select).value = "apex"
-        biomes = ", ".join(b.get("id", "") for b in session.current_biomes())
-        self.query_one("#biome-hint", Static).update(f"Biome ids on body: {biomes or '(none)'}")
+        biomes = ", ".join(b.get("id", "") for b in self._session().current_biomes())
+        self.query_one("#biome-hint", Static).update(
+            f"Biome ids on body: {biomes or '(none)'}"
+        )
         self._reload_list()
 
     def _session(self) -> WizardSession:
         return self.app.session  # type: ignore[attr-defined]
 
+    def flush_unsaved(self) -> str | None:
+        return None
+
+    def _reserved_ids(self) -> list[str]:
+        return [str(s.get("id") or "") for s in self._session().current_specimens()]
+
     def _reload_list(self) -> None:
         lv = self.query_one("#spec-list", ListView)
         lv.clear()
-        for spec in self._session().current_specimens():
-            label = f"{spec.get('id')} — {spec.get('name') or ''} [{spec.get('trophic_slot')}]"
+        session = self._session()
+        keep = self._selected_id
+        for spec in session.current_specimens():
+            sid = str(spec.get("id") or "")
+            prof = session.get_species_profile(sid) if sid else None
+            name = (
+                speciesmod.display_name(prof)
+                if prof
+                else str(spec.get("name") or sid)
+            )
+            slot = spec.get("trophic_slot") or ""
+            label = f"{sid} — {name}"
+            if slot:
+                label += f" [{slot}]"
             item = ListItem(Label(label))
-            item.spec_id = spec.get("id")  # type: ignore[attr-defined]
+            item.spec_id = sid  # type: ignore[attr-defined]
             lv.append(item)
+        if keep:
+            self._selected_id = keep
+            self._show_detail(keep)
+        else:
+            self.query_one("#spec-ro", Static).update("(select a specimen)")
 
-    def _load_form(self, sid: str) -> None:
-        spec = next((s for s in self._session().current_specimens() if s.get("id") == sid), None)
-        if not spec:
+    def _show_detail(self, sid: str) -> None:
+        session = self._session()
+        profile = session.get_species_profile(sid)
+        if not profile:
+            self.query_one("#spec-ro", Static).update(
+                f"(no questionnaire for {sid} — use Edit to create)"
+            )
             return
-        self.query_one("#spec-id", Input).value = str(spec.get("id") or "")
-        self.query_one("#spec-name", Input).value = str(spec.get("name") or "")
-        self.query_one("#spec-primary", Input).value = str(spec.get("primary_biome") or "")
-        self.query_one("#spec-secondary", Input).value = ", ".join(spec.get("secondary_biomes") or [])
-        self.query_one("#spec-range", Input).value = str(spec.get("range") or "single")
-        slot = spec.get("trophic_slot") or "apex"
-        try:
-            self.query_one("#spec-slot", Select).value = slot
-        except Exception:
-            pass
-        origin = spec.get("origin") or "native"
-        self.query_one("#spec-origin", Select).value = origin
-        self.query_one("#spec-subtype", Input).value = str(spec.get("origin_subtype") or "")
-        self.query_one("#spec-analogue", Input).value = str(spec.get("analogue") or "")
-        self.query_one("#spec-dossier", Input).value = str(spec.get("dossier") or "")
-        self.query_one("#spec-notes", Input).value = str(spec.get("notes") or "")
+        text = form.format_profile_readonly(
+            profile, trophic_slots=session.trophic_slots()
+        )
+        self.query_one("#spec-ro", Static).update(text)
 
     def on_list_view_selected(self, event: ListView.Selected) -> None:
         sid = getattr(event.item, "spec_id", None)
-        if sid:
-            self._load_form(sid)
+        if not sid:
+            return
+        self._selected_id = str(sid)
+        self._show_detail(self._selected_id)
+
+    def _open_editor(
+        self,
+        *,
+        species_id: str | None = None,
+        create: bool = False,
+        profile: dict | None = None,
+    ) -> None:
+        from .edit_species_profile import EditSpeciesProfileScreen
+
+        self.app.push_screen(
+            EditSpeciesProfileScreen(
+                species_id=species_id,
+                create=create,
+                profile=profile,
+            )
+        )
 
     def on_button_pressed(self, event: Button.Pressed) -> None:
         session = self._session()
         log = self.query_one(WarnLog)
         if event.button.id == "btn-back":
-            self.app.pop_screen()
+            # Read-only screen: pop without dirty trap
+            if len(self.app.screen_stack) > 1:
+                self.app.pop_screen()
             return
-        if event.button.id == "btn-remove":
-            sid = self.query_one("#spec-id", Input).value.strip()
-            if not sid:
-                log.push("no specimen id")
-                return
-            session.remove_specimen(sid)
-            log.push(f"removed {sid}")
-            self._reload_list()
+        if event.button.id == "btn-new":
+            from .species_wizard import NewSpeciesBiomeScreen
+
+            self.app.push_screen(NewSpeciesBiomeScreen())
             return
-        if event.button.id == "btn-save":
-            sid = self.query_one("#spec-id", Input).value.strip()
+        if event.button.id == "btn-edit":
+            sid = self._selected_id
             if not sid:
-                log.push("id required")
+                log.push("select a specimen from the list first")
                 return
-            secondary = [
-                x.strip()
-                for x in self.query_one("#spec-secondary", Input).value.split(",")
-                if x.strip()
-            ]
-            rng = self.query_one("#spec-range", Input).value.strip() or "single"
-            if secondary and rng == "single":
-                rng = "multi"
-            spec = {
-                "id": sid,
-                "name": self.query_one("#spec-name", Input).value.strip() or sid,
-                "primary_biome": self.query_one("#spec-primary", Input).value.strip(),
-                "secondary_biomes": secondary,
-                "range": rng,
-                "trophic_slot": str(self.query_one("#spec-slot", Select).value),
-                "origin": str(self.query_one("#spec-origin", Select).value),
-                "origin_subtype": self.query_one("#spec-subtype", Input).value.strip()
-                or "aboriginal",
-                "analogue": self.query_one("#spec-analogue", Input).value.strip() or None,
-                "dossier": self.query_one("#spec-dossier", Input).value.strip() or None,
-                "notes": self.query_one("#spec-notes", Input).value.strip() or "",
-            }
-            # drop None analogue/dossier for cleaner yaml
-            spec = {k: v for k, v in spec.items() if v is not None}
+            self._open_editor(species_id=sid, create=False)
+            return
+        if event.button.id == "btn-subspecies":
+            sid = self._selected_id
+            if not sid:
+                log.push("select a parent specimen first")
+                return
+            parent = session.get_species_profile(sid)
+            if not parent:
+                log.push(f"no profile to clone for {sid}")
+                return
             try:
-                session.upsert_specimen(spec)
-                log.push(f"saved specimen {sid}")
-                self._reload_list()
+                new_id = speciesmod.suggest_variant_id_for_session(
+                    session.body_slug(),
+                    sid,
+                    reserved_ids=self._reserved_ids(),
+                )
             except Exception as exc:
                 log.push(str(exc))
+                return
+            if not new_id:
+                log.push("could not allocate subspecies Entry ID")
+                return
+            clone = speciesmod.clone_profile_as_variant(parent, new_id)
+            self._open_editor(species_id=new_id, create=True, profile=clone)
+            return
+        if event.button.id == "btn-remove":
+            sid = self._selected_id
+            if not sid:
+                log.push("select a specimen first")
+                return
+            session.remove_specimen(sid)
+            self._selected_id = None
+            log.push(f"removed pack lock {sid} (disk archive not deleted)")
+            self._reload_list()
+            return
+
+    def on_screen_resume(self) -> None:
+        biomes = ", ".join(b.get("id", "") for b in self._session().current_biomes())
+        self.query_one("#biome-hint", Static).update(
+            f"Biome ids on body: {biomes or '(none)'}"
+        )
+        self._reload_list()

@@ -13,7 +13,7 @@ from ..widgets.warn_log import WarnLog
 
 
 class BootScreen(Screen):
-    BINDINGS = [("q", "quit_app", "Abort")]
+    BINDINGS = [("q", "request_terminate", "Terminate")]
 
     def compose(self) -> ComposeResult:
         yield CogitatorHeader("AWAITING RITE SELECTION")
@@ -49,12 +49,12 @@ class BootScreen(Screen):
     def on_list_view_selected(self, event: ListView.Selected) -> None:
         self._selected_pack = getattr(event.item, "pack_id", None)
 
-    def action_quit_app(self) -> None:
-        self.app.exit()
+    def action_request_terminate(self) -> None:
+        self.app.request_terminate()  # type: ignore[attr-defined]
 
     def on_button_pressed(self, event: Button.Pressed) -> None:
         if event.button.id == "btn-abort":
-            self.app.exit()
+            self.app.request_terminate()  # type: ignore[attr-defined]
             return
         if event.button.id == "btn-green":
             slug = self.query_one("#slug-input", Input).value.strip() or "new-system"

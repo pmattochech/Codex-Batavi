@@ -12,7 +12,7 @@ risks:
 - Territorial predation (Batav Wolf)
 - Chemical burn in swamp belts
 specimens:
-- id: canis_batavorum
+- id: AETH-SHR-002
   name: Canis Batavorum (Batav Wolf)
   primary_biome: aethelgard_shoreline
   secondary_biomes:
@@ -25,7 +25,7 @@ specimens:
   dossier: codex-batavi/biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md
   notes: Evolved on Aethelgard from colonizer canids; shoreline Spire drops and interior
     swamp stalking.
-- id: leviathans_young
+- id: AETH-SHR-001
   name: Leviathans (young)
   primary_biome: aethelgard_shoreline
   trophic_slot: secondary_consumer

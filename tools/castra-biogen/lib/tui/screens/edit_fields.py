@@ -12,6 +12,8 @@ from ..widgets.warn_log import WarnLog
 
 
 class EditFieldsScreen(Screen):
+    TRACK_DIRTY = True
+
     CSS = """
     #fields-main { height: 1fr; padding: 0 1; }
     #fields-toolbar { height: 3; }
@@ -113,54 +115,65 @@ class EditFieldsScreen(Screen):
     def _session(self) -> WizardSession:
         return self.app.session  # type: ignore[attr-defined]
 
+    def flush_unsaved(self) -> str | None:
+        """Apply field form into session (same as Apply)."""
+        try:
+            self._apply_fields()
+        except Exception as exc:
+            return str(exc)
+        return None
+
+    def _apply_fields(self) -> None:
+        session = self._session()
+        if self.section == "classification":
+            pt = str(self.query_one("#planet-type", Select).value)
+            bk = str(self.query_one("#body-kind", Select).value)
+            notes = self.query_one("#local-notes", Input).value
+            topo = self.query_one("#topology", Input).value
+            session.pick_planet_type(pt, bk)
+            session.update_lock_fields({"local_notes": notes, "topology": topo})
+        elif self.section == "geology":
+            fields: dict = {}
+            g = self.query_one("#gravity_g", Input).value.strip()
+            if g:
+                fields["gravity_g"] = float(g)
+            for key in ("crust", "volcanism", "connectivity"):
+                v = self.query_one(f"#{key}", Input).value.strip()
+                if v:
+                    fields[key] = v
+            h = self.query_one("#hydrosphere_pct", Input).value.strip()
+            if h:
+                fields["hydrosphere_pct"] = float(h)
+            tl = self.query_one("#tidal_lock", Input).value.strip().lower()
+            fields["tidal_lock"] = tl in ("1", "true", "yes", "y")
+            session.update_geology_lock(fields)
+        else:
+            fields = {
+                "immaterium_stress": str(self.query_one("#immaterium", Select).value),
+                "atmosphere": self.query_one("#atmosphere", Input).value.strip(),
+                "cryosphere": self.query_one("#cryosphere", Input).value.strip(),
+                "climate_belts": [
+                    x.strip()
+                    for x in self.query_one("#climate_belts", Input).value.split(",")
+                    if x.strip()
+                ],
+                "immaterium_flavor_tags": [
+                    x.strip()
+                    for x in self.query_one("#flavor_tags", Input).value.split(",")
+                    if x.strip()
+                ],
+            }
+            session.update_chem_lock(fields)
+
     def on_button_pressed(self, event: Button.Pressed) -> None:
         if event.button.id == "btn-back":
-            self.app.pop_screen()
+            self.app.request_back()  # type: ignore[attr-defined]
             return
         if event.button.id != "btn-apply":
             return
-        session = self._session()
         log = self.query_one(WarnLog)
         try:
-            if self.section == "classification":
-                pt = str(self.query_one("#planet-type", Select).value)
-                bk = str(self.query_one("#body-kind", Select).value)
-                notes = self.query_one("#local-notes", Input).value
-                topo = self.query_one("#topology", Input).value
-                session.pick_planet_type(pt, bk)
-                session.update_lock_fields({"local_notes": notes, "topology": topo})
-            elif self.section == "geology":
-                fields: dict = {}
-                g = self.query_one("#gravity_g", Input).value.strip()
-                if g:
-                    fields["gravity_g"] = float(g)
-                for key in ("crust", "volcanism", "connectivity"):
-                    v = self.query_one(f"#{key}", Input).value.strip()
-                    if v:
-                        fields[key] = v
-                h = self.query_one("#hydrosphere_pct", Input).value.strip()
-                if h:
-                    fields["hydrosphere_pct"] = float(h)
-                tl = self.query_one("#tidal_lock", Input).value.strip().lower()
-                fields["tidal_lock"] = tl in ("1", "true", "yes", "y")
-                session.update_geology_lock(fields)
-            else:
-                fields = {
-                    "immaterium_stress": str(self.query_one("#immaterium", Select).value),
-                    "atmosphere": self.query_one("#atmosphere", Input).value.strip(),
-                    "cryosphere": self.query_one("#cryosphere", Input).value.strip(),
-                    "climate_belts": [
-                        x.strip()
-                        for x in self.query_one("#climate_belts", Input).value.split(",")
-                        if x.strip()
-                    ],
-                    "immaterium_flavor_tags": [
-                        x.strip()
-                        for x in self.query_one("#flavor_tags", Input).value.split(",")
-                        if x.strip()
-                    ],
-                }
-                session.update_chem_lock(fields)
+            self._apply_fields()
             log.push("fields applied — layers rebuilt")
         except Exception as exc:
             log.push(str(exc))

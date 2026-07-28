@@ -8,6 +8,8 @@ from . import locks as lockmod
 from . import packs as packsmod
 from . import pipeline
 from . import propose_codex
+from . import entry_id as entryid
+from . import species_profile as speciesmod
 from . import state as statemod
 from .layers import biomes as biomes_layer
 from .layers import stellar
@@ -29,11 +31,24 @@ class WizardSession:
         self.pack_id = pack_id
         self.system: dict[str, Any] | None = None
         self.body: dict[str, Any] | None = None
+        self.species_profiles: dict[str, dict[str, Any]] = {}
         self.provenance: dict[str, Provenance] = {}
         self.warnings: list[str] = []
+        self._dirty: bool = False
+        # Last editor load target for Reload
+        self.edit_resume: dict[str, Any] | None = None
         self._rng = make_rng(self.seed)
         if pack_id:
             set_active_pack(pack_id)
+
+    def mark_dirty(self) -> None:
+        self._dirty = True
+
+    def clear_dirty(self) -> None:
+        self._dirty = False
+
+    def is_dirty(self) -> bool:
+        return bool(self._dirty)
 
     def reset(self, *, keep_seed: bool = True, pack_id: str | None = None) -> None:
         """Clear system/body for a fresh rite; used when returning to boot menu."""
@@ -192,6 +207,7 @@ class WizardSession:
         self.body["locks"]["planet_type"] = planet_type
         self.body["locks"]["body_kind"] = body_kind
         pipeline.run_body_layers(self.body, self.system)
+        self.mark_dirty()
 
     def pick_immaterium(self, grade: str) -> None:
         assert self.body is not None
@@ -208,6 +224,7 @@ class WizardSession:
             "immaterium_stress"
         ] = grade
         pipeline.run_body_layers(self.body, self.system)
+        self.mark_dirty()
 
     # --- biomes ---
 
@@ -232,6 +249,7 @@ class WizardSession:
             self.set_provenance("biomes", "overridden")
         self.body.setdefault("locks", {})["biomes"] = copy.deepcopy(biomes)
         pipeline.run_body_layers(self.body, self.system)
+        self.mark_dirty()
 
     def add_biome(self, class_id: str, richness: str = "moderate") -> dict[str, Any]:
         assert self.body is not None
@@ -286,6 +304,7 @@ class WizardSession:
             self.set_provenance("biomes", "rolled")
         locks["biomes"] = copy.deepcopy(new_biomes)
         pipeline.run_body_layers(self.body, self.system)
+        self.mark_dirty()
         return self.current_biomes()
 
     def skip_biomes(self) -> list[dict[str, Any]]:
@@ -298,7 +317,11 @@ class WizardSession:
         assert self.body is not None
         if self.system is not None:
             self.save_system_out()
-        return pipeline.finalize_body(self.body)
+        world = pipeline.finalize_body(
+            self.body, species_profiles=self.species_profiles or None
+        )
+        self.clear_dirty()
+        return world
 
     def save_pack_lock(self, pack_id: str | None = None) -> str:
         """Write current body (and system if present) into pack YAML locks."""
@@ -319,6 +342,7 @@ class WizardSession:
                 body=None,
             )
         self.set_provenance("pack_lock", "picked")
+        self.clear_dirty()
         return str(path)
 
     def set_prose_override(self, kind: str, text: str) -> None:
@@ -329,6 +353,7 @@ class WizardSession:
         prose[kind] = text
         self.body.setdefault("locks", {})["prose"] = prose
         self.set_provenance(f"prose_{kind}", "picked")
+        self.mark_dirty()
 
     def clear_prose_override(self, kind: str) -> None:
         assert self.body is not None
@@ -340,6 +365,7 @@ class WizardSession:
         else:
             self.body.setdefault("locks", {}).pop("prose", None)
         self.set_provenance(f"prose_{kind}", "skipped")
+        self.mark_dirty()
 
     def generated_prose_preview(self, kind: str) -> str:
         """Return what L7 would generate without override."""
@@ -348,9 +374,12 @@ class WizardSession:
 
         body = copy.deepcopy(self.body)
         body.setdefault("locks", {}).pop("prose", None)
+        profiles = self.species_profiles or speciesmod.load_all_profiles(
+            str((body.get("meta") or {}).get("slug") or "")
+        )
         if kind == "magos":
-            return rendermod._magos(body)
-        return rendermod._literary(body)
+            return rendermod._magos(body, profiles)
+        return rendermod._literary(body, profiles)
 
     def load_body_for_edit(
         self,
@@ -377,6 +406,13 @@ class WizardSession:
                         except Exception:
                             self.system = None
             self.set_provenance("edit", "locked")
+            self.reload_species_profiles()
+            self.edit_resume = {
+                "slug": slug,
+                "pack_id": self.pack_id,
+                "from_results": True,
+            }
+            self.clear_dirty()
             return self.body
         # From pack: need system then body layers
         lock = lockmod.load_body_lock(slug, pack=pack)
@@ -394,7 +430,15 @@ class WizardSession:
             self.system = statemod.new_system_state(
                 sys_slug or "unknown-system", seed=self.seed, spark=False
             )
-        return self.start_body(slug, use_lock=True)
+        body = self.start_body(slug, use_lock=True)
+        self.reload_species_profiles()
+        self.edit_resume = {
+            "slug": slug,
+            "pack_id": self.pack_id,
+            "from_results": False,
+        }
+        self.clear_dirty()
+        return body
 
     def update_lock_fields(self, updates: dict[str, Any]) -> None:
         """Patch body locks and rebuild layers."""
@@ -404,6 +448,7 @@ class WizardSession:
             locks[k] = v
         pipeline.run_body_layers(self.body, self.system)
         self.set_provenance("lock_fields", "picked")
+        self.mark_dirty()
 
     def update_geology_lock(self, fields: dict[str, Any]) -> None:
         assert self.body is not None
@@ -415,6 +460,7 @@ class WizardSession:
                 self.body["locks"][k] = v
         pipeline.run_body_layers(self.body, self.system)
         self.set_provenance("geology", "picked")
+        self.mark_dirty()
 
     def update_chem_lock(self, fields: dict[str, Any]) -> None:
         assert self.body is not None
@@ -425,6 +471,7 @@ class WizardSession:
             self.body["locks"]["immaterium_stress"] = fields["immaterium_stress"]
         pipeline.run_body_layers(self.body, self.system)
         self.set_provenance("chemistry_climate", "picked")
+        self.mark_dirty()
 
     def current_specimens(self) -> list[dict[str, Any]]:
         if not self.body:
@@ -436,6 +483,7 @@ class WizardSession:
         self.body.setdefault("locks", {})["specimens"] = copy.deepcopy(specimens)
         pipeline.run_body_layers(self.body, self.system)
         self.set_provenance("specimens", "picked")
+        self.mark_dirty()
 
     def upsert_specimen(self, spec: dict[str, Any]) -> None:
         specs = copy.deepcopy(self.current_specimens())
@@ -449,6 +497,60 @@ class WizardSession:
     def remove_specimen(self, specimen_id: str) -> None:
         specs = [s for s in self.current_specimens() if s.get("id") != specimen_id]
         self.set_specimens(specs)
+        self.species_profiles.pop(specimen_id, None)
+
+    def body_slug(self) -> str | None:
+        if not self.body:
+            return None
+        return str((self.body.get("meta") or {}).get("slug") or "") or None
+
+    def reload_species_profiles(self) -> None:
+        slug = self.body_slug()
+        self.species_profiles = {}
+        if not slug:
+            return
+        self.species_profiles = speciesmod.load_all_profiles(slug)
+        # Seed thin locks that lack a profile yet (edit existing specimen)
+        for spec in self.current_specimens():
+            sid = str(spec.get("id") or "")
+            if sid and sid not in self.species_profiles:
+                # keep memory empty until user opens questionnaire; do not invent
+                continue
+
+    def get_species_profile(self, species_id: str) -> dict[str, Any] | None:
+        if species_id in self.species_profiles:
+            return copy.deepcopy(self.species_profiles[species_id])
+        slug = self.body_slug()
+        if slug:
+            loaded = speciesmod.load_species_profile(slug, species_id)
+            if loaded:
+                self.species_profiles[species_id] = copy.deepcopy(loaded)
+                return copy.deepcopy(loaded)
+        spec = next(
+            (s for s in self.current_specimens() if s.get("id") == species_id), None
+        )
+        if spec:
+            return speciesmod.specimen_lock_to_profile_seed(spec)
+        return None
+
+    def save_species_profile(self, profile: dict[str, Any]) -> str:
+        """Validate minimum, write planet/species/<id>/, upsert thin pack lock."""
+        assert self.body is not None
+        slug = self.body_slug()
+        if not slug:
+            raise ValueError("body slug required")
+        errors = speciesmod.validate_minimum(profile)
+        if errors:
+            raise ValueError("; ".join(errors))
+        profile = copy.deepcopy(profile)
+        sid = entryid.normalize_entry_id(str(profile.get("id") or ""))
+        profile["id"] = sid
+        profile["magos_scaffold_id"] = sid
+        path = speciesmod.save_species_profile(slug, profile)
+        self.species_profiles[sid] = copy.deepcopy(profile)
+        self.upsert_specimen(speciesmod.profile_to_specimen_lock(profile))
+        self.set_provenance(f"species:{sid}", "picked")
+        return str(path)
 
     def save_as_pack(
         self,

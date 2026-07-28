@@ -74,7 +74,7 @@ class SystemPickScreen(Screen):
         session: WizardSession = self.app.session  # type: ignore[attr-defined]
         log = self.query_one(WarnLog)
         if event.button.id == "btn-back":
-            self.app.pop_screen()
+            self.app.request_back()  # type: ignore[attr-defined]
             return
         if event.button.id == "btn-out":
             slug = self._selected_out

@@ -167,8 +167,12 @@ def run_body_layers(world: dict[str, Any], system_state: dict[str, Any] | None) 
     bauplan.apply(world)
 
 
-def finalize_body(world: dict[str, Any]) -> dict[str, Any]:
-    render.render_all(world)
+def finalize_body(
+    world: dict[str, Any],
+    *,
+    species_profiles: dict[str, dict[str, Any]] | None = None,
+) -> dict[str, Any]:
+    render.render_all(world, species_profiles=species_profiles)
     statemod.save_world(world)
     return world
 

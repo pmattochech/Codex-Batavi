@@ -47,7 +47,7 @@
     ],
     "specimens": [
       {
-        "id": "canis_batavorum",
+        "id": "AETH-SHR-002",
         "name": "Canis Batavorum (Batav Wolf)",
         "primary_biome": "aethelgard_shoreline",
         "secondary_biomes": [
@@ -62,7 +62,7 @@
         "notes": "Evolved on Aethelgard from colonizer canids; shoreline Spire drops and interior swamp stalking."
       },
       {
-        "id": "leviathans_young",
+        "id": "AETH-SHR-001",
         "name": "Leviathans (young)",
         "primary_biome": "aethelgard_shoreline",
         "trophic_slot": "secondary_consumer",
@@ -175,7 +175,7 @@
       "by_biome": {
         "aethelgard_shoreline": [
           {
-            "slot_id": "aethelgard_shoreline__apex__canis_batavorum__primary",
+            "slot_id": "aethelgard_shoreline__apex__AETH-SHR-002__primary",
             "slot": "apex",
             "analogue": "wetland_ambush_apex",
             "origin": "native",
@@ -193,7 +193,7 @@
             "notes": "Evolved on Aethelgard from colonizer canids; shoreline Spire drops and interior swamp stalking."
           },
           {
-            "slot_id": "aethelgard_shoreline__secondary_consumer__leviathans_young__primary",
+            "slot_id": "aethelgard_shoreline__secondary_consumer__AETH-SHR-001__primary",
             "slot": "secondary_consumer",
             "analogue": "tidal_piscivore",
             "origin": "native",
@@ -328,7 +328,7 @@
             "link": false
           },
           {
-            "slot_id": "aethelgard_swamp__apex__canis_batavorum__link",
+            "slot_id": "aethelgard_swamp__apex__AETH-SHR-002__link",
             "slot": "apex",
             "analogue": "wetland_ambush_apex",
             "origin": "native",
@@ -459,8 +459,8 @@
     },
     "bauplan": {
       "by_slot": {
-        "aethelgard_shoreline__apex__canis_batavorum__primary": {
-          "slot_id": "aethelgard_shoreline__apex__canis_batavorum__primary",
+        "aethelgard_shoreline__apex__AETH-SHR-002__primary": {
+          "slot_id": "aethelgard_shoreline__apex__AETH-SHR-002__primary",
           "origin": "native",
           "origin_subtype": "neo_endemic",
           "medium": "marine",
@@ -469,8 +469,8 @@
           "name": "Canis Batavorum (Batav Wolf)",
           "note": "bauplan deferred to locked dossier — not rewritten"
         },
-        "aethelgard_shoreline__secondary_consumer__leviathans_young__primary": {
-          "slot_id": "aethelgard_shoreline__secondary_consumer__leviathans_young__primary",
+        "aethelgard_shoreline__secondary_consumer__AETH-SHR-001__primary": {
+          "slot_id": "aethelgard_shoreline__secondary_consumer__AETH-SHR-001__primary",
           "name": "Leviathans (young)",
           "analogue": "tidal_piscivore",
           "origin": "native",
@@ -619,8 +619,8 @@
           "primary_biome": "aethelgard_swamp",
           "locked": false
         },
-        "aethelgard_swamp__apex__canis_batavorum__link": {
-          "slot_id": "aethelgard_swamp__apex__canis_batavorum__link",
+        "aethelgard_swamp__apex__AETH-SHR-002__link": {
+          "slot_id": "aethelgard_swamp__apex__AETH-SHR-002__link",
           "origin": "native",
           "origin_subtype": "neo_endemic",
           "medium": "freshwater",
