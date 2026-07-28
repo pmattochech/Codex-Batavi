@@ -1,14 +1,14 @@
-# Species generation questionnaire
+# Species generation profile
 
 Reusable template for elevating Magos niche placeholders into named fauna/flora (dossier + Midjourney).
 
 **Registry order:** names + taxonomy → body/morphology → origin → ecology → look → filing.
 
-**Cogitator source of truth:** [`species-generation-questionnaire.yaml`](species-generation-questionnaire.yaml)  
+**Cogitator source of truth:** [`species-generation-profile.yaml`](species-generation-profile.yaml)  
 Edit the YAML to change fields/menus. Restart the cogitator, re-open the species screen, or hit **Reload schema** — no code patch needed. This Markdown file is the human/chat copy (keep roughly aligned).
 
-**Cogitator UI:** Edit body → **New species (wizard)** or Specimens → **Questionnaire**.  
-Answers seal under `cogitator-results/<planet>/species/<Entry-ID>/` (`questionnaire.yaml`, `midjourney.md`, `filing-reminders.md`).  
+**Cogitator UI:** Edit body → Specimens → **New** / **Edit**.  
+Answers seal under `cogitator-results/<planet>/species/<Entry-ID>/` (`profile.yaml`, `midjourney.md`, `filing-reminders.md`).  
 Minimum to save: **Entry ID** + **C17 origin** + **B6 bodyshape** + at least one name (YAML `minimum:`). Section G is reminder-only (no `codex-batavi/` writes).
 
 Copy this file (or answer in chat by number). Blank fields = invent later.

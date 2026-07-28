@@ -7,4 +7,4 @@ Cogitator does **not** write `codex-batavi/`. Use these as a manual checklist.
 - Update bestiary `INDEX.md`: no
 - Cross-link geography / Magos food web: no
 
-(Schema: templates/species-generation-questionnaire.yaml)
+(Schema: templates/species-generation-profile.yaml)

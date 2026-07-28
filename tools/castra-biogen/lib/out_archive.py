@@ -55,7 +55,12 @@ def list_species_artifacts(slug: str) -> list[str]:
     for sid_dir in sorted(root.iterdir()):
         if not sid_dir.is_dir():
             continue
-        for name in ("questionnaire.yaml", "midjourney.md", "filing-reminders.md"):
+        for name in (
+            "profile.yaml",
+            "questionnaire.yaml",  # legacy
+            "midjourney.md",
+            "filing-reminders.md",
+        ):
             if (sid_dir / name).is_file():
                 found.append(f"species/{sid_dir.name}/{name}")
     return found

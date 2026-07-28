@@ -1,5 +1,6 @@
 system_slug: system-ii-crucible
 stellar: pinned
+filing_id: AETH
 planet_type: death_world
 body_kind: moon
 topology: Snowy mountains, taiga, interior swamps, shoreline Needles/cliffs and intertidal
@@ -39,21 +40,25 @@ sources:
 - codex-batavi/atlas-and-topography/cultures/geography-aethelgard-prime.md
 biomes:
 - id: aethelgard_shoreline
+  filing_id: AETH-SHR
   class: shoreline_intertidal
   richness: rich
   medium: marine
   overlay: false
 - id: aethelgard_swamp
+  filing_id: AETH-SWP
   class: swamp_wetland
   richness: rich
   medium: freshwater
   overlay: false
 - id: aethelgard_taiga
+  filing_id: AETH-TAI
   class: taiga
   richness: moderate
   medium: terrestrial
   overlay: false
 - id: aethelgard_montane
+  filing_id: AETH-MON
   class: montane
   richness: moderate
   medium: terrestrial

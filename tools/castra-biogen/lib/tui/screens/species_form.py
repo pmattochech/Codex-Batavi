@@ -1,4 +1,4 @@
-"""Dynamic species questionnaire forms driven by templates/*.yaml schema."""
+"""Dynamic species profile forms driven by templates/*.yaml schema."""
 from __future__ import annotations
 
 from typing import Any, Callable
@@ -7,7 +7,7 @@ from textual.app import ComposeResult
 from textual.widget import Widget
 from textual.widgets import Input, Label, Select, Static
 
-from ... import questionnaire_schema as qschema
+from ... import profile_schema as qschema
 from ... import species_profile as speciesmod
 
 
@@ -238,7 +238,7 @@ def format_profile_readonly(
     *,
     trophic_slots: list[str] | None = None,
 ) -> str:
-    """Plain-text mirror of questionnaire fields for Specimens read-only pane."""
+    """Plain-text mirror of profile fields for Specimens read-only pane."""
     sch = schema or qschema.load_schema()
     lines: list[str] = []
     for step in qschema.steps(sch):

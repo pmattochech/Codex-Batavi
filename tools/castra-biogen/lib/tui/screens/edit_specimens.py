@@ -52,7 +52,7 @@ class EditSpecimensScreen(Screen):
             )
             yield Label("Specimens")
             yield ListView(id="spec-list")
-            yield Label("Questionnaire (read-only)")
+            yield Label("Profile (read-only)")
             with VerticalScroll(id="spec-detail"):
                 yield Static("(select a specimen)", id="spec-ro")
             yield Static(id="biome-hint", classes="litany")
@@ -106,7 +106,7 @@ class EditSpecimensScreen(Screen):
         profile = session.get_species_profile(sid)
         if not profile:
             self.query_one("#spec-ro", Static).update(
-                f"(no questionnaire for {sid} — use Edit to create)"
+                f"(no profile for {sid} — use Edit to create)"
             )
             return
         text = form.format_profile_readonly(

@@ -7,7 +7,7 @@ from typing import Any
 from textual.app import App
 from textual.widgets import Input, Select, TextArea
 
-from ..questionnaire_schema import clear_schema_cache
+from ..profile_schema import clear_schema_cache
 from ..wizard_session import WizardSession
 from .screens.boot import BootScreen
 from .theme import COGITATOR_CSS
@@ -27,22 +27,54 @@ class CogitatorApp(App[None]):
     ) -> None:
         super().__init__()
         self.session = WizardSession(seed=seed, pack_id=pack)
+        # Ignore widget Changed events until the new screen finishes hydrating
+        self._dirty_armed: bool = True
+        self._dirty_was_before_push: bool = False
 
     def on_mount(self) -> None:
         self.push_screen(BootScreen())
 
+    def push_screen(self, screen, *args, **kwargs):  # type: ignore[no-untyped-def]
+        """Disarm dirty tracking while the new screen hydrates widgets."""
+        self._dirty_was_before_push = self.session.is_dirty()
+        self._dirty_armed = False
+        result = super().push_screen(screen, *args, **kwargs)
+        self.call_after_refresh(self._arm_dirty_tracking)
+        return result
+
+    def _arm_dirty_tracking(self) -> None:
+        self._dirty_armed = True
+        # Drop false dirty from programmatic Input/Select fills on open
+        if not self._dirty_was_before_push:
+            self.session.clear_dirty()
+
+    def _should_track_widget_dirty(self, widget: object | None) -> bool:
+        if not self._dirty_armed:
+            return False
+        if not getattr(self.screen, "TRACK_DIRTY", False):
+            return False
+        if widget is None:
+            return False
+        # Programmatic .value / load_text during hydrate usually has no focus
+        try:
+            return bool(getattr(widget, "has_focus", False))
+        except Exception:
+            return False
+
     # --- dirty tracking from live edits ---
 
     def on_input_changed(self, event: Input.Changed) -> None:
-        if getattr(self.screen, "TRACK_DIRTY", False):
+        if self._should_track_widget_dirty(getattr(event, "input", None) or event.control):
             self.session.mark_dirty()
 
     def on_select_changed(self, event: Select.Changed) -> None:
-        if getattr(self.screen, "TRACK_DIRTY", False):
+        if self._should_track_widget_dirty(getattr(event, "select", None) or event.control):
             self.session.mark_dirty()
 
     def on_text_area_changed(self, event: TextArea.Changed) -> None:
-        if getattr(self.screen, "TRACK_DIRTY", False):
+        if self._should_track_widget_dirty(
+            getattr(event, "text_area", None) or event.control
+        ):
             self.session.mark_dirty()
 
     # --- navigation with unsaved guard ---
@@ -178,7 +210,7 @@ class CogitatorApp(App[None]):
                     from .widgets.warn_log import WarnLog
 
                     self.screen.query_one(WarnLog).push(
-                        f"reloaded {slug} + questionnaire schema"
+                        f"reloaded {slug} + profile schema"
                     )
                 except Exception:
                     pass

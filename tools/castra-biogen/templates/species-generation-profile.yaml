@@ -1,12 +1,12 @@
-# Species questionnaire — SOURCE OF TRUTH for the cogitator TUI.
+# Species profile — SOURCE OF TRUTH for the cogitator TUI.
 # Edit this file, then restart the cogitator OR re-open the species screen / Reload schema.
-# Human chat copy: species-generation-questionnaire.md (keep roughly aligned).
+# Human chat copy: species-generation-profile.md (keep roughly aligned).
 #
 # Registry order: A taxonomy+names → B body/morphology → C origin → D ecology → E look → G filing
 # Field types: text | select | yes_no | trophic_slot | comma_list
 
 id: species
-title: Species generation questionnaire
+title: Species generation profile
 version: 7
 
 minimum:

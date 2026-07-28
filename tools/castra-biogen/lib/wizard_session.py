@@ -180,6 +180,9 @@ class WizardSession:
                 self.note(f"no body lock for {slug}; greenfield body")
                 self.set_provenance("body_lock", "skipped")
         pipeline.run_body_layers(self.body, self.system)
+        from . import entry_id as entryid
+
+        entryid.ensure_world_filing_ids(self.body)
         return self.body
 
     def reroll_body_layers(self) -> None:
@@ -272,6 +275,15 @@ class WizardSession:
             "medium": meta.get("medium", "terrestrial"),
             "overlay": bool(meta.get("overlay")),
         }
+        from . import entry_id as entryid
+
+        slug = str((self.body.get("meta") or {}).get("slug") or "")
+        entry["filing_id"] = entryid.allocate_biome_filing_id(
+            str(entry["id"]),
+            body_slug=slug,
+            class_id=class_id,
+            label=class_id,
+        )
         biomes.append(entry)
         if self.provenance.get("biomes") != "overridden":
             self.set_provenance("biomes", "picked")
@@ -303,6 +315,9 @@ class WizardSession:
         else:
             self.set_provenance("biomes", "rolled")
         locks["biomes"] = copy.deepcopy(new_biomes)
+        from . import entry_id as entryid
+
+        entryid.ensure_world_filing_ids(self.body)
         pipeline.run_body_layers(self.body, self.system)
         self.mark_dirty()
         return self.current_biomes()
@@ -315,6 +330,9 @@ class WizardSession:
 
     def finalize(self) -> dict[str, Any]:
         assert self.body is not None
+        from . import entry_id as entryid
+
+        entryid.ensure_world_filing_ids(self.body)
         if self.system is not None:
             self.save_system_out()
         world = pipeline.finalize_body(
@@ -330,6 +348,9 @@ class WizardSession:
             raise ValueError("pack_id required to save lock")
         if self.body is None:
             raise ValueError("no body to save")
+        from . import entry_id as entryid
+
+        entryid.ensure_world_filing_ids(self.body)
         set_active_pack(pid)
         self.pack_id = pid
         path = packsmod.write_body_lock(self.body, pid)
@@ -407,6 +428,9 @@ class WizardSession:
                             self.system = None
             self.set_provenance("edit", "locked")
             self.reload_species_profiles()
+            from . import entry_id as entryid
+
+            entryid.ensure_world_filing_ids(self.body)
             self.edit_resume = {
                 "slug": slug,
                 "pack_id": self.pack_id,
@@ -514,7 +538,7 @@ class WizardSession:
         for spec in self.current_specimens():
             sid = str(spec.get("id") or "")
             if sid and sid not in self.species_profiles:
-                # keep memory empty until user opens questionnaire; do not invent
+                # keep memory empty until user opens profile; do not invent
                 continue
 
     def get_species_profile(self, species_id: str) -> dict[str, Any] | None:

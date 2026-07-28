@@ -157,6 +157,8 @@ def _world_to_lock(world: dict[str, Any]) -> dict[str, Any]:
     if world["meta"].get("system_slug"):
         out["system_slug"] = world["meta"]["system_slug"]
     out["stellar"] = locks.get("stellar") or "pinned"
+    if locks.get("filing_id") or (world.get("meta") or {}).get("filing_id"):
+        out["filing_id"] = locks.get("filing_id") or world["meta"].get("filing_id")
     pt = layers.get("planet_type") or {}
     if pt.get("planet_type") or locks.get("planet_type"):
         out["planet_type"] = pt.get("planet_type") or locks.get("planet_type")

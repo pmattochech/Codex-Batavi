@@ -61,7 +61,8 @@ class BiomeFlowScreen(Screen):
         session = self._session()
         biomes = session.current_biomes()
         text = (
-            f"Body: {(session.body or {}).get('meta', {}).get('slug')}\n"
+            f"Body: {(session.body or {}).get('meta', {}).get('slug')} "
+            f"[{(session.body or {}).get('meta', {}).get('filing_id') or '—'}]\n"
             f"Provenance: {session.provenance.get('biomes', '—')}\n"
             f"Count: {len(biomes)}"
         )
@@ -69,7 +70,8 @@ class BiomeFlowScreen(Screen):
         lv = self.query_one("#biome-list", ListView)
         lv.clear()
         for b in biomes:
-            label = f"{b.get('id')} — {b.get('class')} ({b.get('richness')})"
+            fid = b.get("filing_id") or ""
+            label = f"{fid + ' · ' if fid else ''}{b.get('id')} — {b.get('class')} ({b.get('richness')})"
             item = ListItem(Label(label))
             item.biome_id = b.get("id")  # type: ignore[attr-defined]
             lv.append(item)

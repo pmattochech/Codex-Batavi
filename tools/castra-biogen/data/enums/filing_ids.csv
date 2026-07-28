@@ -1,0 +1,8 @@
+kind,filing_id,slug,parent_filing_id,label
+body,AETH,aethelgard-prime,,Aethelgard Prime
+biome,AETH-SHR,aethelgard_shoreline,AETH,Shoreline
+biome,AETH-SWP,aethelgard_swamp,AETH,Swamp
+biome,AETH-TAI,aethelgard_taiga,AETH,Taiga
+biome,AETH-MON,aethelgard_montane,AETH,Montane
+biome,AETH-SHW,aethelgard_shallow_waters,AETH,Shallow waters
+biome,AETH-REF,aethelgard_reefs,AETH,Reefs

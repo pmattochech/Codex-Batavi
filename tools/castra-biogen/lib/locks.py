@@ -124,6 +124,7 @@ def apply_body_lock(world: dict[str, Any], lock: dict[str, Any]) -> None:
         "local_notes",
         "stellar",
         "system_slug",
+        "filing_id",
         "immaterium_stress",
         "gravity_g",
         "atmosphere",
@@ -136,6 +137,8 @@ def apply_body_lock(world: dict[str, Any], lock: dict[str, Any]) -> None:
     ):
         if key in lock and lock[key] is not None:
             wl[key] = lock[key]
+    if lock.get("filing_id"):
+        world.setdefault("meta", {})["filing_id"] = lock["filing_id"]
 
     if lock.get("biomes"):
         wl["biomes"] = list(lock["biomes"])

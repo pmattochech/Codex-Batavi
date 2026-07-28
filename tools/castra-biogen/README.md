@@ -64,7 +64,7 @@ Amber-phosphor full-screen TUI:
 
 **Chrome (every screen):** **Menu** (main menu) · **Reload** (schema + last body from disk) · **Terminate** (exit). Unsaved changes prompt Save / Don’t save / Cancel — also on **Back** / Return to menu.
 
-**Species questionnaire:** Specimens screen is **read-only**. **New** → pick primary biome → questionnaire with auto Entry ID (`AAAA-BBB-NNN`); **Edit** opens the selected specimen; **Add subspecies** clones answers into `…-AA` / `…-AB` (disk write only on Save). Schema: `templates/species-generation-questionnaire.yaml`.
+**Species profile:** Specimens screen is **read-only**. **New** → pick primary biome → profile with auto Entry ID (`AAAA-BBB-NNN`); **Edit** opens the selected specimen; **Add subspecies** clones answers into `…-AA` / `…-AB` (disk write only on Save). Schema: `templates/species-generation-profile.yaml`.
 
 **Archive (Browse results):** bodies and systems under `cogitator-results/` — view `magos.md` / `literary.md` / `state.json` / `species/...` (systems: `system.json` / `system.md`). Read-only; does not load into the active rite yet.
 

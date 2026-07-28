@@ -1,4 +1,4 @@
-"""Full species questionnaire editor — fields come from schema YAML."""
+"""Full species profile editor — fields come from schema YAML."""
 from __future__ import annotations
 
 import copy
@@ -8,7 +8,7 @@ from textual.containers import Horizontal, Vertical, VerticalScroll
 from textual.screen import Screen
 from textual.widgets import Button, Input, Static
 
-from ... import questionnaire_schema as qschema
+from ... import profile_schema as qschema
 from ... import species_profile as speciesmod
 from ...wizard_session import WizardSession
 from ..widgets.header import CogitatorHeader

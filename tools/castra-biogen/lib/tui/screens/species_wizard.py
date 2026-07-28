@@ -1,4 +1,4 @@
-"""New species — pick primary biome, then open questionnaire with allocated Entry ID."""
+"""New species — pick primary biome, then open profile with allocated Entry ID."""
 from __future__ import annotations
 
 from textual.app import ComposeResult
@@ -13,7 +13,7 @@ from ..widgets.warn_log import WarnLog
 
 
 class NewSpeciesBiomeScreen(Screen):
-    """Gate: choose primary biome on the current body, then open the questionnaire."""
+    """Gate: choose primary biome on the current body, then open the profile."""
 
     TRACK_DIRTY = False
 
@@ -85,7 +85,7 @@ class NewSpeciesBiomeScreen(Screen):
         text = (
             f"Body: {slug}\n"
             f"Primary biome: {self._biome_id or '—'}\n"
-            f"Entry ID preview: {sid or '(add planet/biome abbrev in entry_id_abbreviations.yaml)'}"
+            f"Entry ID preview: {sid or '(register body/biome in data/enums/filing_ids.csv)'}"
         )
         self.query_one("#new-preview", Static).update(text)
 
@@ -123,13 +123,13 @@ class NewSpeciesBiomeScreen(Screen):
         )
         if not sid:
             log.push(
-                "cannot allocate Entry ID — check data/enums/entry_id_abbreviations.yaml"
+                "cannot allocate Entry ID — check data/enums/filing_ids.csv / body filing_id"
             )
             return
         profile = speciesmod.empty_profile(sid, world_biome=self._biome_id)
         from .edit_species_profile import EditSpeciesProfileScreen
 
-        # Replace this gate with the questionnaire (no disk write yet)
+        # Replace this gate with the profile (no disk write yet)
         self.app.pop_screen()
         self.app.push_screen(
             EditSpeciesProfileScreen(

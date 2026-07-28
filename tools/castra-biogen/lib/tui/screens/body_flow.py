@@ -95,6 +95,7 @@ class BodyFlowScreen(Screen):
         biomes = layers.get("biomes") or []
         text = (
             f"Slug: {body['meta']['slug']}\n"
+            f"Filing ID: {body.get('meta', {}).get('filing_id') or (body.get('locks') or {}).get('filing_id') or '—'}\n"
             f"Planet type: {pt.get('planet_type')} ({pt.get('body_kind')})\n"
             f"Immaterium: {chem.get('immaterium_stress')}\n"
             f"Biomes: {len(biomes)} — {[b.get('id') for b in biomes]}\n"

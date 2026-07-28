@@ -1,4 +1,4 @@
-"""Load species questionnaire schema from YAML (edit file → restart / re-open screen)."""
+"""Load species profile schema from YAML (edit file → restart / re-open screen)."""
 from __future__ import annotations
 
 from pathlib import Path
@@ -6,7 +6,7 @@ from typing import Any
 
 from .util import TEMPLATES, load_yaml
 
-SCHEMA_PATH = TEMPLATES / "species-generation-questionnaire.yaml"
+SCHEMA_PATH = TEMPLATES / "species-generation-profile.yaml"
 
 _cache: dict[str, Any] | None = None
 _cache_mtime: float | None = None
@@ -17,19 +17,19 @@ def schema_path() -> Path:
 
 
 def load_schema(*, force: bool = False) -> dict[str, Any]:
-    """Load questionnaire schema; reloads when the YAML file changes on disk."""
+    """Load profile schema; reloads when the YAML file changes on disk."""
     global _cache, _cache_mtime
     path = SCHEMA_PATH
     if not path.is_file():
         raise FileNotFoundError(
-            f"questionnaire schema missing: {path} — restore templates/species-generation-questionnaire.yaml"
+            f"profile schema missing: {path} — restore templates/species-generation-profile.yaml"
         )
     mtime = path.stat().st_mtime
     if not force and _cache is not None and _cache_mtime == mtime:
         return _cache
     data = load_yaml(path)
     if not isinstance(data, dict) or not data.get("steps"):
-        raise ValueError(f"invalid questionnaire schema: {path}")
+        raise ValueError(f"invalid profile schema: {path}")
     _cache = data
     _cache_mtime = mtime
     return data

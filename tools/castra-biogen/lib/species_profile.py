@@ -1,16 +1,17 @@
-"""Named species questionnaire profiles under cogitator-results/<body>/species/<id>/."""
+"""Named species profiles under cogitator-results/<body>/species/<id>/."""
 from __future__ import annotations
 
 import copy
 from pathlib import Path
 from typing import Any
 
-from . import questionnaire_schema as qschema
+from . import profile_schema as qschema
 from . import entry_id as entryid
 from .state import body_out_dir
 from .util import dump_yaml, load_yaml
 
-QUESTIONNAIRE_FILE = "questionnaire.yaml"
+PROFILE_FILE = "profile.yaml"
+LEGACY_PROFILE_FILE = "questionnaire.yaml"
 MIDJOURNEY_FILE = "midjourney.md"
 REMINDERS_FILE = "filing-reminders.md"
 
@@ -343,15 +344,27 @@ def save_species_profile(body_slug: str, profile: dict[str, Any]) -> Path:
     profile["schema_version"] = sch.get("version")
     d = species_dir(body_slug, sid)
     d.mkdir(parents=True, exist_ok=True)
-    dump_yaml(d / QUESTIONNAIRE_FILE, profile)
+    dump_yaml(d / PROFILE_FILE, profile)
+    legacy = d / LEGACY_PROFILE_FILE
+    if legacy.is_file():
+        legacy.unlink()
     (d / MIDJOURNEY_FILE).write_text(build_midjourney_prompt(profile), encoding="utf-8")
     (d / REMINDERS_FILE).write_text(build_filing_reminders(profile), encoding="utf-8")
     return d
 
 
+def _profile_yaml_path(body_slug: str, species_id: str) -> Path | None:
+    d = species_dir(body_slug, species_id)
+    for name in (PROFILE_FILE, LEGACY_PROFILE_FILE):
+        path = d / name
+        if path.is_file():
+            return path
+    return None
+
+
 def load_species_profile(body_slug: str, species_id: str) -> dict[str, Any] | None:
-    path = species_dir(body_slug, species_id) / QUESTIONNAIRE_FILE
-    if not path.is_file():
+    path = _profile_yaml_path(body_slug, species_id)
+    if path is None:
         return None
     data = load_yaml(path)
     if not isinstance(data, dict):
@@ -365,7 +378,9 @@ def list_species_ids(body_slug: str) -> list[str]:
         return []
     ids: list[str] = []
     for p in sorted(root.iterdir()):
-        if p.is_dir() and (p / QUESTIONNAIRE_FILE).is_file():
+        if not p.is_dir():
+            continue
+        if (p / PROFILE_FILE).is_file() or (p / LEGACY_PROFILE_FILE).is_file():
             ids.append(p.name)
     return ids
 
@@ -500,7 +515,7 @@ def magos_species_section(profiles: dict[str, dict[str, Any]]) -> list[str]:
                 f"- **Filing reminder (manual):** dossier path `{g.get('dossier_path')}`"
             )
         lines.append(
-            f"- **Artifacts:** `species/{sid}/{QUESTIONNAIRE_FILE}`, "
+            f"- **Artifacts:** `species/{sid}/{PROFILE_FILE}`, "
             f"`species/{sid}/{MIDJOURNEY_FILE}`"
         )
         lines.append("")
