@@ -29,11 +29,11 @@ class SystemFlowScreen(Screen):
             with Horizontal():
                 yield Select([], id="spectral-select")
                 yield Select([], id="size-select")
-            with Horizontal():
+            with Horizontal(classes="-toolbar"):
                 yield Button("Roll star", id="btn-roll")
                 yield Button("Pick star", id="btn-pick", variant="primary")
                 yield Button("Skip star", id="btn-skip")
-            with Horizontal():
+            with Horizontal(classes="-toolbar"):
                 yield Button("Apply mode", id="btn-mode")
                 yield Button("Continue to body →", id="btn-next", variant="primary")
                 yield Button("Back", id="btn-back")

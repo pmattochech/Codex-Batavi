@@ -23,7 +23,7 @@ class BootScreen(Screen):
                 "The Emperor dictates, we comply. Greenfield, biosphere-only, load pack, edit body, or browse results.",
                 classes="litany",
             )
-            with Horizontal():
+            with Horizontal(classes="-toolbar"):
                 yield Button("New system (greenfield)", id="btn-green", variant="primary")
                 yield Button("Biosphere only", id="btn-bio")
                 yield Button("Load pack", id="btn-pack")

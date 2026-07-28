@@ -23,13 +23,13 @@ class ReviewScreen(Screen):
             yield Input(value="my-pack", id="pack-id")
             yield Label("Pack title:")
             yield Input(value="Custom mesh", id="pack-title")
-            with Horizontal():
+            with Horizontal(classes="-toolbar"):
                 yield Button("Seal to results (L7)", id="btn-out", variant="primary")
                 yield Button("Open in Archive", id="btn-archive")
                 yield Button("Save as pack", id="btn-pack")
                 yield Button("Propose codex (dry-run)", id="btn-propose")
             yield Static(id="propose-panel", classes="panel")
-            with Horizontal():
+            with Horizontal(classes="-toolbar"):
                 yield Button("Return to menu", id="btn-done", variant="primary")
                 yield Button("Back", id="btn-back")
         yield WarnLog()

@@ -30,7 +30,7 @@ class PackPickScreen(Screen):
                 yield Static(desc, classes="litany")
             yield Label("Systems in pack — select then Load system:")
             yield ListView(id="sys-list")
-            with Horizontal():
+            with Horizontal(classes="-toolbar"):
                 yield Button("Load system (pinned)", id="btn-load", variant="primary")
                 yield Button("Back", id="btn-back")
         yield WarnLog()

@@ -101,6 +101,41 @@ def add_custom_biome_class(
     return entry
 
 
+def register_biome_class(
+    class_id: str,
+    *,
+    medium: str = "terrestrial",
+    default_richness: str = "moderate",
+    overlay: bool = False,
+    pack_id: str | None = None,
+) -> dict[str, Any]:
+    """Register a new biome class (pack custom_enums if pack set, else global YAML)."""
+    cid = class_id.strip().replace(" ", "_").lower()
+    if not cid:
+        raise ValueError("biome class id required")
+    # Already known?
+    for existing in merged_biome_classes(pack_id):
+        if existing.get("id") == cid:
+            return dict(existing)
+    entry = {
+        "id": cid,
+        "medium": medium,
+        "overlay": bool(overlay),
+        "default_richness": default_richness,
+    }
+    pid = pack_id or get_active_pack()
+    if pid:
+        return add_custom_biome_class(entry, pid)
+    # No pack — write into global biome_classes.yaml
+    global_path = ENUMS / "biome_classes.yaml"
+    g = load_yaml(global_path) if global_path.is_file() else {"classes": []}
+    classes = list(g.get("classes") or [])
+    classes.append(entry)
+    g["classes"] = classes
+    dump_yaml(global_path, g)
+    return entry
+
+
 def add_custom_planet_type(value: str, pack_id: str | None = None) -> str:
     data = load_custom_enums(pack_id)
     pts = list(data.get("planet_types") or [])

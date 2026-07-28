@@ -28,7 +28,7 @@ class SystemPickScreen(Screen):
             yield Label("Or pack + pack system:")
             yield Select([], id="pack-select")
             yield ListView(id="pack-sys-list")
-            with Horizontal():
+            with Horizontal(classes="-toolbar"):
                 yield Button("Load from results", id="btn-out", variant="primary")
                 yield Button("Load from pack", id="btn-pack")
                 yield Button("Back", id="btn-back")
@@ -70,6 +70,22 @@ class SystemPickScreen(Screen):
         elif event.list_view.id == "pack-sys-list":
             self._selected_pack_sys = slug
 
+    def on_list_view_highlighted(self, event: ListView.Highlighted) -> None:
+        item = event.item
+        if item is None:
+            return
+        slug = getattr(item, "sys_slug", None)
+        if not slug:
+            return
+        # Track whichever list currently holds highlight
+        try:
+            if event.list_view.id == "out-sys-list":
+                self._selected_out = slug
+            elif event.list_view.id == "pack-sys-list":
+                self._selected_pack_sys = slug
+        except Exception:
+            pass
+
     def on_button_pressed(self, event: Button.Pressed) -> None:
         session: WizardSession = self.app.session  # type: ignore[attr-defined]
         log = self.query_one(WarnLog)
@@ -86,11 +102,17 @@ class SystemPickScreen(Screen):
                 log.push("select a system from results/")
                 return
             try:
-                session.load_system_from_out(slug)
+                system = session.load_system_from_out(slug)
             except FileNotFoundError as exc:
                 log.push(str(exc))
                 return
-            log.push(f"loaded system '{slug}' from results/")
+            slots = (system.get("layers") or {}).get("body_slots") or (
+                system.get("locks") or {}
+            ).get("bodies") or []
+            log.push(
+                f"loaded system '{slug}' from results/ "
+                f"({len(slots)} body slot(s)) — continuing to body rite"
+            )
             from .body_flow import BodyFlowScreen
 
             self.app.push_screen(BodyFlowScreen())
@@ -106,8 +128,14 @@ class SystemPickScreen(Screen):
             if not pack_id or not slug:
                 log.push("select pack and system")
                 return
-            session.load_pack_system(slug, pack_id)
-            log.push(f"loaded system '{slug}' from pack '{pack_id}'")
+            system = session.load_pack_system(slug, pack_id)
+            slots = (system.get("layers") or {}).get("body_slots") or (
+                system.get("locks") or {}
+            ).get("bodies") or []
+            log.push(
+                f"loaded system '{slug}' from pack '{pack_id}' "
+                f"({len(slots)} body slot(s)) — continuing to body rite"
+            )
             from .body_flow import BodyFlowScreen
 
             self.app.push_screen(BodyFlowScreen())
