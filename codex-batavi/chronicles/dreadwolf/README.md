@@ -11,7 +11,7 @@
 | Capture | [kzorns-maw/chapter.md](kzorns-maw/chapter.md) | Shepherd's Hook → **Kzorn's Maw**; conscious Nails |
 | Induction | [red-tide/chapter.md](red-tide/chapter.md) | Moraine-Nine recovery; **QVINTA cadence**; *Amissi* founding |
 | Mid-era | [precipitation/chapter.md](precipitation/chapter.md) | Reef cult; **Slaughterbound** duel; spectator legend |
-| Terminis | [terminus/chapter.md](terminus/chapter.md) | ***Spina Cineris***; companion to [battle-of-sigma-moon/chapter.md](../sigma-moon/battle-of-sigma-moon/chapter.md) |
+| Terminis | [terminus/chapter.md](terminus/chapter.md) | ***Spina Cineris***; companion to [battle-of-sigma-moon/chapter.md](../sigma-moon/battle-of-sigma-moon/chapter.md); last-fight scratch lock: [terminus/SCAFFOLD.md](terminus/SCAFFOLD.md) (Khârn naming = scratch until rewrite ordered) |
 
 **Register:** [aar-vex-v-dreadwolf-red-tide.md](../vexillum-register/aar-vex-v-dreadwolf-red-tide.md).
 

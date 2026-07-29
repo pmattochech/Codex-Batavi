@@ -9,7 +9,7 @@
 | 1 | `kzorns-maw` | **074.M42** (pre-crash) | [chapter.md](kzorns-maw/chapter.md) |
 | 2 | `red-tide` | **074.M42** Moraine-Nine | [chapter.md](red-tide/chapter.md) |
 | 3 | `precipitation` | *Amissi* era (date soft) | [chapter.md](precipitation/chapter.md) |
-| 4 | `terminus` | **168.M42** Luna Sigma | [chapter.md](terminus/chapter.md) |
+| 4 | `terminus` | **168.M42** Luna Sigma | [chapter.md](terminus/chapter.md) · scratch lock: [SCAFFOLD.md](terminus/SCAFFOLD.md) (Einar vs Khârn expansion — **not** published register) |
 
 **Documentary AAR:** [aar-vex-v-dreadwolf-red-tide.md](../vexillum-register/aar-vex-v-dreadwolf-red-tide.md) (*V* QVINTA — **not** *Alabarda* field 4).
 
