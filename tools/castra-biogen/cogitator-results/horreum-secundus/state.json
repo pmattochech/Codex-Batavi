@@ -2,13 +2,14 @@
   "meta": {
     "slug": "horreum-secundus",
     "system_slug": "system-i-central-bastion",
-    "seed": null,
-    "spark": false,
-    "generated_at": "2026-07-26T16:45:31Z"
+    "seed": 42,
+    "spark": true,
+    "generated_at": "2026-07-28T22:59:21Z",
+    "filing_id": "HORR"
   },
   "locks": {
     "sources": [
-      "/home/paulom/Codex-Batavi/tools/castra-biogen/data/locks/bodies/horreum-secundus.yaml",
+      "/home/paulom/Codex-Batavi/tools/castra-biogen/data/packs/castra-vetera/bodies/horreum-secundus.yaml",
       "codex-batavi/biological-encyclopedia-bestiary/biogeographic-matrix-central-bastion.md"
     ],
     "topology": "Ocean platforms, hydroponic towers, biomass processing infrastructure.",
@@ -20,14 +21,16 @@
         "class": "hydroponic",
         "richness": "sparse",
         "medium": "freshwater",
-        "overlay": true
+        "overlay": true,
+        "filing_id": "HORR-HYD"
       },
       {
         "id": "horreum_pelagic",
-        "class": "pelagic",
+        "class": "oceanic_pelagic",
         "richness": "sparse",
         "medium": "marine",
-        "overlay": false
+        "overlay": false,
+        "filing_id": "HORR-CNC"
       }
     ],
     "specimens": [
@@ -69,7 +72,8 @@
         "oceanic"
       ],
       "immaterium_stress": "minoris"
-    }
+    },
+    "filing_id": "HORR"
   },
   "layers": {
     "planet_type": {
@@ -105,21 +109,23 @@
         "class": "hydroponic",
         "richness": "sparse",
         "medium": "freshwater",
-        "overlay": true
+        "overlay": true,
+        "filing_id": "HORR-HYD"
       },
       {
         "id": "horreum_pelagic",
-        "class": "pelagic",
+        "class": "oceanic_pelagic",
         "richness": "sparse",
         "medium": "marine",
-        "overlay": false
+        "overlay": false,
+        "filing_id": "HORR-CNC"
       }
     ],
     "trophic": {
       "by_biome": {
         "horreum_hydro": [
           {
-            "slot_id": "horreum_hydro__producer__combat_algae",
+            "slot_id": "horreum_hydro__producer__combat_algae__primary",
             "slot": "producer",
             "analogue": "combat_algae",
             "origin": "exotic",
@@ -129,6 +135,7 @@
             "secondary_biomes": [],
             "medium": "freshwater",
             "locked": true,
+            "link": false,
             "name": "Combat algae",
             "dossier": null,
             "notes": ""
@@ -143,7 +150,8 @@
             "primary_biome": "horreum_hydro",
             "medium": "freshwater",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           }
         ],
         "horreum_pelagic": [
@@ -157,7 +165,8 @@
             "primary_biome": "horreum_pelagic",
             "medium": "marine",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "horreum_pelagic__decomposer",
@@ -169,21 +178,22 @@
             "primary_biome": "horreum_pelagic",
             "medium": "marine",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           }
         ]
       }
     },
     "bauplan": {
       "by_slot": {
-        "horreum_hydro__producer__combat_algae": {
-          "slot_id": "horreum_hydro__producer__combat_algae",
+        "horreum_hydro__producer__combat_algae__primary": {
+          "slot_id": "horreum_hydro__producer__combat_algae__primary",
           "name": "Combat algae",
           "analogue": "combat_algae",
           "origin": "exotic",
           "origin_subtype": "deliberate_transplant",
           "medium": "freshwater",
-          "locomotion": "swim",
+          "locomotion": "bottom_walk",
           "respiration": "gill_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -199,7 +209,7 @@
           "origin_subtype": "deliberate_transplant",
           "medium": "freshwater",
           "locomotion": "swim",
-          "respiration": "gill_analogue",
+          "respiration": "cutaneous",
           "size_class": "small",
           "size_ceiling": "large",
           "trophic_slot": "decomposer",
@@ -241,7 +251,8 @@
   },
   "warnings": [],
   "render": {
-    "magos_path": "out/horreum-secundus/magos.md",
-    "literary_path": "out/horreum-secundus/literary.md"
+    "magos_path": "cogitator-results/horreum-secundus/magos.md",
+    "literary_path": "cogitator-results/horreum-secundus/literary.md",
+    "species_dir": "cogitator-results/horreum-secundus/species"
   }
 }

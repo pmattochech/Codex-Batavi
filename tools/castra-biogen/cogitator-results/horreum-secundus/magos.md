@@ -1,9 +1,9 @@
 # Magos Biologis Dossier — horreum-secundus
 
 **System:** system-i-central-bastion
-**Seed:** None
-**Spark:** False
-**Generated:** 2026-07-26T16:45:31Z
+**Seed:** 42
+**Spark:** True
+**Generated:** 2026-07-28T22:59:21Z
 
 ## Classification
 
@@ -36,16 +36,16 @@
 ## Biomes
 
 - `horreum_hydro` — class `hydroponic`, richness `sparse`, medium `freshwater`, overlay=True
-- `horreum_pelagic` — class `pelagic`, richness `sparse`, medium `marine`, overlay=False
+- `horreum_pelagic` — class `oceanic_pelagic`, richness `sparse`, medium `marine`, overlay=False
 
 ## Trophic webs (per biome)
 
 ### horreum_hydro
 
 - **producer** — Combat algae | Origin: `exotic` / `deliberate_transplant` | analogue: `combat_algae`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `medium` (ceiling `large`)
+  - Bauplan: locomotion `bottom_walk`, respiration `gill_analogue`, size `medium` (ceiling `large`)
 - **decomposer** — filter_culture | Origin: `exotic` / `deliberate_transplant` | analogue: `filter_culture`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `small` (ceiling `large`)
+  - Bauplan: locomotion `swim`, respiration `cutaneous`, size `small` (ceiling `large`)
 
 ### horreum_pelagic
 

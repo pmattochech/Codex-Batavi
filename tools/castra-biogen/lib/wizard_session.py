@@ -254,12 +254,18 @@ class WizardSession:
         pipeline.run_body_layers(self.body, self.system)
         self.mark_dirty()
 
-    def add_biome(self, class_id: str, richness: str = "moderate") -> dict[str, Any]:
+    def add_biome(
+        self,
+        class_id: str,
+        richness: str = "moderate",
+        *,
+        instance_id: str | None = None,
+    ) -> dict[str, Any]:
         assert self.body is not None
         from . import custom_enums
+        from .layers import biomes as biomes_layer
 
         biomes = copy.deepcopy(self.current_biomes())
-        idx = len(biomes)
         meta = next(
             (
                 c
@@ -268,8 +274,15 @@ class WizardSession:
             ),
             {},
         )
+        slug = str((self.body.get("meta") or {}).get("slug") or "")
+        used = {str(b.get("id") or "") for b in biomes}
         entry = {
-            "id": f"{class_id}_{idx + 1}",
+            "id": biomes_layer.unique_biome_instance_id(
+                class_id,
+                body_slug=slug,
+                used=used,
+                preferred=instance_id,
+            ),
             "class": class_id,
             "richness": richness or meta.get("default_richness", "moderate"),
             "medium": meta.get("medium", "terrestrial"),
@@ -277,7 +290,6 @@ class WizardSession:
         }
         from . import entry_id as entryid
 
-        slug = str((self.body.get("meta") or {}).get("slug") or "")
         entry["filing_id"] = entryid.allocate_biome_filing_id(
             str(entry["id"]),
             body_slug=slug,
@@ -581,7 +593,7 @@ class WizardSession:
         pack_id: str,
         *,
         title: str | None = None,
-        description: str = "",
+        description: str | None = None,
     ) -> str:
         root = packsmod.export_pack(
             pack_id,
@@ -590,6 +602,8 @@ class WizardSession:
             system=self.system,
             body=self.body,
         )
+        self.pack_id = packsmod.slugify_pack_id(pack_id)
+        set_active_pack(self.pack_id)
         return str(root)
 
     def propose_codex_text(self) -> str:

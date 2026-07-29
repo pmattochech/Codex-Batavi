@@ -35,11 +35,11 @@ classes:
   medium: terrestrial
   overlay: false
   default_richness: sparse
-- id: abyssal
+- id: oceanic_abyssal
   medium: marine
   overlay: false
   default_richness: moderate
-- id: pelagic
+- id: oceanic_pelagic
   medium: marine
   overlay: false
   default_richness: moderate

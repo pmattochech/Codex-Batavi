@@ -1,9 +1,9 @@
 # Magos Biologis Dossier — vigil-secundus
 
 **System:** system-iii-threshold
-**Seed:** None
-**Spark:** False
-**Generated:** 2026-07-26T16:45:33Z
+**Seed:** 42
+**Spark:** True
+**Generated:** 2026-07-28T22:59:21Z
 
 ## Classification
 
@@ -28,14 +28,14 @@
 - Water: True
 - Solvent: water
 - Cryosphere: cold
-- Climate belts: tectothermal, abyssal
+- Climate belts: tectothermal, oceanic_abyssal
 - **Immaterium stress:** `majoris`
 - Stress reading: Recurring veil weather; mutation/psychic pressure shapes niches
 - Flavor tags: rift_adjacent
 
 ## Biomes
 
-- `vigil_abyssal` — class `abyssal`, richness `moderate`, medium `marine`, overlay=False
+- `vigil_abyssal` — class `oceanic_abyssal`, richness `moderate`, medium `marine`, overlay=False
 - `vigil_ice` — class `ice_cryogenic`, richness `sparse`, medium `terrestrial`, overlay=False
 
 ## Trophic webs (per biome)
@@ -43,15 +43,15 @@
 ### vigil_abyssal
 
 - **apex** — Sonar leviathans | Origin: `native` / `aboriginal` | analogue: `sonar_leviathan_analogue`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `large` (ceiling `leviathan`)
+  - Bauplan: locomotion `benthic_crawl`, respiration `gill_analogue`, size `large` (ceiling `leviathan`)
 - **producer** — chemosynthetic_mat | Origin: `native` / `aboriginal` | analogue: `chemosynthetic_mat`
   - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `medium` (ceiling `leviathan`)
 - **decomposer** — abyssal_detritivore | Origin: `native` / `aboriginal` | analogue: `abyssal_detritivore`
   - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `small` (ceiling `leviathan`)
 - **primary_consumer** — benthic_filter | Origin: `native` / `aboriginal` | analogue: `benthic_filter`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `medium` (ceiling `leviathan`)
+  - Bauplan: locomotion `benthic_crawl`, respiration `gill_analogue`, size `medium` (ceiling `leviathan`)
 - **mesopredator** — sonar_meso | Origin: `native` / `aboriginal` | analogue: `sonar_meso`
-  - Bauplan: locomotion `swim`, respiration `gill_analogue`, size `medium` (ceiling `leviathan`)
+  - Bauplan: locomotion `jet`, respiration `gill_analogue`, size `medium` (ceiling `leviathan`)
 
 ### vigil_ice
 

@@ -2,9 +2,10 @@
   "meta": {
     "slug": "aethelgard-prime",
     "system_slug": "system-ii-crucible",
-    "seed": 3,
+    "seed": 42,
     "spark": true,
-    "generated_at": "2026-07-27T20:24:34Z"
+    "generated_at": "2026-07-28T22:59:21Z",
+    "filing_id": "AETH"
   },
   "locks": {
     "sources": [
@@ -18,6 +19,7 @@
     "biomes": [
       {
         "id": "aethelgard_shoreline",
+        "filing_id": "AETH-SHR",
         "class": "shoreline_intertidal",
         "richness": "rich",
         "medium": "marine",
@@ -25,6 +27,7 @@
       },
       {
         "id": "aethelgard_swamp",
+        "filing_id": "AETH-SWP",
         "class": "swamp_wetland",
         "richness": "rich",
         "medium": "freshwater",
@@ -32,6 +35,7 @@
       },
       {
         "id": "aethelgard_taiga",
+        "filing_id": "AETH-TAI",
         "class": "taiga",
         "richness": "moderate",
         "medium": "terrestrial",
@@ -39,6 +43,7 @@
       },
       {
         "id": "aethelgard_montane",
+        "filing_id": "AETH-MON",
         "class": "montane",
         "richness": "moderate",
         "medium": "terrestrial",
@@ -81,6 +86,7 @@
     "stellar": "pinned",
     "local_notes": "Cyclopean tide moon — Needles shoreline, swamps, taiga, snowy mountains.",
     "system_slug": "system-ii-crucible",
+    "filing_id": "AETH",
     "immaterium_stress": "majoris",
     "geology": {
       "gravity_g": 1.0,
@@ -147,28 +153,32 @@
         "class": "shoreline_intertidal",
         "richness": "rich",
         "medium": "marine",
-        "overlay": false
+        "overlay": false,
+        "filing_id": "AETH-SHR"
       },
       {
         "id": "aethelgard_swamp",
         "class": "swamp_wetland",
         "richness": "rich",
         "medium": "freshwater",
-        "overlay": false
+        "overlay": false,
+        "filing_id": "AETH-SWP"
       },
       {
         "id": "aethelgard_taiga",
         "class": "taiga",
         "richness": "moderate",
         "medium": "terrestrial",
-        "overlay": false
+        "overlay": false,
+        "filing_id": "AETH-TAI"
       },
       {
         "id": "aethelgard_montane",
         "class": "montane",
         "richness": "moderate",
         "medium": "terrestrial",
-        "overlay": false
+        "overlay": false,
+        "filing_id": "AETH-MON"
       }
     ],
     "trophic": {
@@ -291,7 +301,7 @@
           {
             "slot_id": "aethelgard_swamp__primary_consumer",
             "slot": "primary_consumer",
-            "analogue": "amphibious_grazer",
+            "analogue": "wetland_browser",
             "origin": "native",
             "origin_subtype": "aboriginal",
             "range": "single",
@@ -351,7 +361,7 @@
           {
             "slot_id": "aethelgard_taiga__producer",
             "slot": "producer",
-            "analogue": "understory_shrub",
+            "analogue": "conifer_analogue",
             "origin": "native",
             "origin_subtype": "aboriginal",
             "range": "single",
@@ -377,7 +387,7 @@
           {
             "slot_id": "aethelgard_taiga__primary_consumer",
             "slot": "primary_consumer",
-            "analogue": "seed_forager",
+            "analogue": "taiga_browser",
             "origin": "native",
             "origin_subtype": "aboriginal",
             "range": "single",
@@ -476,7 +486,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "marine",
-          "locomotion": "swim",
+          "locomotion": "benthic_crawl",
           "respiration": "gill_analogue",
           "size_class": "medium",
           "size_ceiling": "leviathan",
@@ -491,7 +501,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "marine",
-          "locomotion": "benthic_crawl",
+          "locomotion": "swim",
           "respiration": "gill_analogue",
           "size_class": "medium",
           "size_ceiling": "leviathan",
@@ -506,7 +516,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "marine",
-          "locomotion": "benthic_crawl",
+          "locomotion": "swim",
           "respiration": "gill_analogue",
           "size_class": "small",
           "size_ceiling": "leviathan",
@@ -521,7 +531,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "marine",
-          "locomotion": "swim",
+          "locomotion": "benthic_crawl",
           "respiration": "gill_analogue",
           "size_class": "medium",
           "size_ceiling": "leviathan",
@@ -551,8 +561,8 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "freshwater",
-          "locomotion": "bottom_walk",
-          "respiration": "cutaneous",
+          "locomotion": "swim",
+          "respiration": "gill_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
           "trophic_slot": "producer",
@@ -566,7 +576,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "freshwater",
-          "locomotion": "bottom_walk",
+          "locomotion": "swim",
           "respiration": "gill_analogue",
           "size_class": "small",
           "size_ceiling": "large",
@@ -577,7 +587,7 @@
         "aethelgard_swamp__primary_consumer": {
           "slot_id": "aethelgard_swamp__primary_consumer",
           "name": null,
-          "analogue": "amphibious_grazer",
+          "analogue": "wetland_browser",
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "freshwater",
@@ -596,7 +606,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "freshwater",
-          "locomotion": "amphibious",
+          "locomotion": "bottom_walk",
           "respiration": "cutaneous",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -611,7 +621,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "freshwater",
-          "locomotion": "bottom_walk",
+          "locomotion": "swim",
           "respiration": "gill_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -632,7 +642,7 @@
         "aethelgard_taiga__producer": {
           "slot_id": "aethelgard_taiga__producer",
           "name": null,
-          "analogue": "understory_shrub",
+          "analogue": "conifer_analogue",
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
@@ -651,7 +661,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
-          "locomotion": "fossorial",
+          "locomotion": "cursorial",
           "respiration": "pulmonary_analogue",
           "size_class": "small",
           "size_ceiling": "large",
@@ -662,11 +672,11 @@
         "aethelgard_taiga__primary_consumer": {
           "slot_id": "aethelgard_taiga__primary_consumer",
           "name": null,
-          "analogue": "seed_forager",
+          "analogue": "taiga_browser",
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
-          "locomotion": "ambush_stalk",
+          "locomotion": "cursorial",
           "respiration": "pulmonary_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -711,7 +721,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
-          "locomotion": "ambush_stalk",
+          "locomotion": "cursorial",
           "respiration": "pulmonary_analogue",
           "size_class": "small",
           "size_ceiling": "large",
@@ -726,7 +736,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
-          "locomotion": "ambush_stalk",
+          "locomotion": "fossorial",
           "respiration": "pulmonary_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -741,7 +751,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "terrestrial",
-          "locomotion": "fossorial",
+          "locomotion": "cursorial",
           "respiration": "pulmonary_analogue",
           "size_class": "medium",
           "size_ceiling": "large",
@@ -755,6 +765,7 @@
   "warnings": [],
   "render": {
     "magos_path": "cogitator-results/aethelgard-prime/magos.md",
-    "literary_path": "cogitator-results/aethelgard-prime/literary.md"
+    "literary_path": "cogitator-results/aethelgard-prime/literary.md",
+    "species_dir": "cogitator-results/aethelgard-prime/species"
   }
 }

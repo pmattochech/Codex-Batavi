@@ -4,8 +4,9 @@ from __future__ import annotations
 from textual.app import ComposeResult
 from textual.containers import Horizontal, Vertical, VerticalScroll
 from textual.screen import Screen
-from textual.widgets import Button, Input, Static
+from textual.widgets import Button, Input, Select, Static
 
+from ... import packs as packsmod
 from ...wizard_session import WizardSession
 from ..widgets.header import CogitatorHeader
 from ..widgets.warn_log import WarnLog
@@ -32,7 +33,8 @@ class EditHubScreen(Screen):
                 yield Button("Archive", id="btn-archive")
                 yield Button("Back", id="btn-back")
             yield Static(id="edit-status", classes="panel")
-            yield Input(placeholder="pack id for save (if unset)", id="pack-id")
+            yield Select([("…", "__init__")], id="pack-select", allow_blank=False)
+            yield Input(placeholder="or type new pack id", id="pack-id")
             with VerticalScroll(id="edit-sections"):
                 yield Button("Classification (planet / kind / notes)", id="btn-class")
                 yield Button("Geology", id="btn-geo")
@@ -46,16 +48,48 @@ class EditHubScreen(Screen):
 
     def on_mount(self) -> None:
         self.query_one(WarnLog).boot()
-        session = self._session()
-        if session.pack_id:
-            self.query_one("#pack-id", Input).value = session.pack_id
+        self._setup_pack_select()
         self._refresh()
 
     def _session(self) -> WizardSession:
         return self.app.session  # type: ignore[attr-defined]
 
+    def _setup_pack_select(self) -> None:
+        session = self._session()
+        packs = packsmod.list_packs()
+        opts = [(str(p.get("id")), str(p.get("id"))) for p in packs if p.get("id")]
+        sel = self.query_one("#pack-select", Select)
+        if opts:
+            sel.set_options(opts)
+            prefer = session.pack_id or opts[0][1]
+            if any(v == prefer for _, v in opts):
+                sel.value = prefer
+            else:
+                sel.value = opts[0][1]
+            self.query_one("#pack-id", Input).value = str(sel.value)
+        else:
+            sel.set_options([("(none yet)", "")])
+            if session.pack_id:
+                self.query_one("#pack-id", Input).value = session.pack_id
+
+    def on_select_changed(self, event: Select.Changed) -> None:
+        if event.select.id != "pack-select":
+            return
+        if event.value in (Select.BLANK, "", None):
+            return
+        self.query_one("#pack-id", Input).value = str(event.value)
+
+    def _pack_id(self) -> str | None:
+        typed = self.query_one("#pack-id", Input).value.strip()
+        if typed:
+            return typed
+        sel = self.query_one("#pack-select", Select)
+        if sel.value not in (Select.BLANK, "", None):
+            return str(sel.value)
+        return self._session().pack_id
+
     def flush_unsaved(self) -> str | None:
-        pack = self.query_one("#pack-id", Input).value.strip() or self._session().pack_id
+        pack = self._pack_id()
         if not pack:
             return "set pack id to save"
         try:
@@ -101,15 +135,16 @@ class EditHubScreen(Screen):
             )
             return
         if event.button.id == "btn-save":
-            pack = self.query_one("#pack-id", Input).value.strip() or session.pack_id
+            pack = self._pack_id()
             if not pack:
-                log.push("set pack id first")
+                log.push("select or type a pack id first")
                 return
             try:
                 path = session.save_pack_lock(pack)
                 log.push(f"saved pack lock → {path}")
             except Exception as exc:
                 log.push(str(exc))
+            self._setup_pack_select()
             self._refresh()
             return
         if event.button.id == "btn-seal":

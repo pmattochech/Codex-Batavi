@@ -9,10 +9,10 @@ Sometimes the wind carries an omen that instruments refuse to name.
 In the hydroponic, the producer niche is held by Combat algae — exotic (deliberate transplant).
 In the hydroponic, the decomposer niche is held by filter_culture — exotic (deliberate transplant).
 
-## Pelagic
+## Oceanic Pelagic
 
-In the pelagic, the producer niche is held by phytoplankton — native (aboriginal).
-In the pelagic, the decomposer niche is held by marine_microbe — native (aboriginal).
+In the oceanic pelagic, the producer niche is held by phytoplankton — native (aboriginal).
+In the oceanic pelagic, the decomposer niche is held by marine_microbe — native (aboriginal).
 
 ## Filed note
 

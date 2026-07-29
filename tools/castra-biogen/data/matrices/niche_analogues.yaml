@@ -90,7 +90,7 @@ tundra:
   scavenger: [cold_scavenger]
   microbiota: [permafrost_microbes]
 
-abyssal:
+oceanic_abyssal:
   producer: [chemosynthetic_mat, marine_snow_consumer]
   decomposer: [abyssal_detritivore]
   primary_consumer: [benthic_filter]
@@ -100,7 +100,7 @@ abyssal:
   scavenger: [whale_fall_scavenger]
   microbiota: [chemosynthetic_microbes]
 
-pelagic:
+oceanic_pelagic:
   producer: [phytoplankton]
   decomposer: [marine_microbe]
   primary_consumer: [zooplankton_analogue, filter_feeder]

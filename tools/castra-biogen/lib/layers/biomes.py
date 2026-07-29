@@ -24,17 +24,23 @@ def apply(world: dict[str, Any]) -> None:
 
     locked_biomes = locks.get("biomes") or []
     biomes: list[dict] = []
+    body_slug = str((world.get("meta") or {}).get("slug") or "")
+    used_ids: set[str] = set()
 
     if locked_biomes:
         for i, b in enumerate(locked_biomes):
             if isinstance(b, str):
-                entry = _from_class(b, idx, i)
+                entry = _from_class(b, idx, i, body_slug=body_slug, used=used_ids)
             else:
-                entry = _from_dict(b, idx, i)
+                entry = _from_dict(b, idx, i, body_slug=body_slug, used=used_ids)
             biomes.append(entry)
     else:
         for class_id in _infer_classes(planet_type, stress, spark, rng):
-            biomes.append(_from_class(class_id, idx, len(biomes)))
+            biomes.append(
+                _from_class(
+                    class_id, idx, len(biomes), body_slug=body_slug, used=used_ids
+                )
+            )
 
     # Stress gating: terminus forbids lush garden overlays
     if stress == "terminus":
@@ -49,15 +55,83 @@ def apply(world: dict[str, Any]) -> None:
     world["layers"]["biomes"] = biomes
 
 
-def _from_class(class_id: str, idx: dict, i: int) -> dict:
+def body_biome_prefix(body_slug: str) -> str:
+    """Short body token for biome instance ids (aethelgard-prime → aethelgard)."""
+    raw = str(body_slug or "").strip().replace("-", "_")
+    if not raw:
+        return ""
+    parts = [p for p in raw.split("_") if p]
+    drop = {
+        "prime",
+        "secundus",
+        "tertius",
+        "quartus",
+        "i",
+        "ii",
+        "iii",
+        "iv",
+        "v",
+        "vi",
+        "vii",
+        "viii",
+        "ix",
+        "x",
+    }
+    while len(parts) > 1 and parts[-1].lower() in drop:
+        parts.pop()
+    return "_".join(parts)
+
+
+def unique_biome_instance_id(
+    class_id: str,
+    *,
+    body_slug: str = "",
+    used: set[str] | None = None,
+    preferred: str | None = None,
+) -> str:
+    """Stable local biome slug — never `{class}_{list_index}` from total count.
+
+    Prefer preferred id, else `{body}_{class}`, else class id; suffix _2+_ on clash.
+    """
+    taken = set(used or ())
+    prefix = body_biome_prefix(body_slug)
+    candidates: list[str] = []
+    if preferred:
+        candidates.append(str(preferred).strip())
+    if prefix:
+        candidates.append(f"{prefix}_{class_id}")
+    candidates.append(class_id)
+    for base in candidates:
+        if not base:
+            continue
+        if base not in taken:
+            return base
+        n = 2
+        while f"{base}_{n}" in taken:
+            n += 1
+        return f"{base}_{n}"
+    return class_id or "biome"
+
+
+def _from_class(
+    class_id: str,
+    idx: dict,
+    i: int,
+    *,
+    body_slug: str = "",
+    used: set[str] | None = None,
+) -> dict:
     meta = idx.get(class_id) or {
         "id": class_id,
         "medium": "terrestrial",
         "overlay": False,
         "default_richness": "moderate",
     }
+    bid = unique_biome_instance_id(class_id, body_slug=body_slug, used=used)
+    if used is not None:
+        used.add(bid)
     return {
-        "id": f"{class_id}_{i+1}",
+        "id": bid,
         "class": class_id,
         "richness": meta.get("default_richness", "moderate"),
         "medium": meta.get("medium", "terrestrial"),
@@ -65,17 +139,33 @@ def _from_class(class_id: str, idx: dict, i: int) -> dict:
     }
 
 
-def _from_dict(b: dict, idx: dict, i: int) -> dict:
+def _from_dict(
+    b: dict,
+    idx: dict,
+    i: int,
+    *,
+    body_slug: str = "",
+    used: set[str] | None = None,
+) -> dict:
     class_id = b.get("class") or b.get("id") or "barren_null"
-    base = _from_class(class_id, idx, i)
-    if b.get("id"):
-        base["id"] = b["id"]
+    preferred = str(b["id"]) if b.get("id") else None
+    base = _from_class(class_id, idx, i, body_slug=body_slug, used=None)
+    base["id"] = unique_biome_instance_id(
+        class_id,
+        body_slug=body_slug,
+        used=used,
+        preferred=preferred,
+    )
+    if used is not None:
+        used.add(base["id"])
     if b.get("richness"):
         base["richness"] = b["richness"]
     if b.get("medium"):
         base["medium"] = b["medium"]
     if "overlay" in b:
         base["overlay"] = bool(b["overlay"])
+    if b.get("filing_id"):
+        base["filing_id"] = b["filing_id"]
     return base
 
 
@@ -91,7 +181,7 @@ def _infer_classes(
         "agri_world": ["monoculture_plain", "grassland"],
         "death_world": ["jungle", "swamp_wetland", "shoreline_intertidal"],
         "feral_world": ["temperate_forest", "grassland"],
-        "ocean_world": ["pelagic", "shoreline_intertidal", "abyssal"],
+        "ocean_world": ["oceanic_pelagic", "shoreline_intertidal", "oceanic_abyssal"],
         "ice_world": ["ice_cryogenic", "tundra"],
         "desert_world": ["desert"],
         "jungle_world": ["jungle"],

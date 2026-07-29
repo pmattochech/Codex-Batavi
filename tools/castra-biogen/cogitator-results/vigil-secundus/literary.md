@@ -4,13 +4,13 @@ Blind tectothermal moon.
 
 Seasons fray at the edges; living things learn shapes the Magos call wrong.
 
-## Abyssal
+## Oceanic Abyssal
 
-In the abyssal, the apex niche is held by Sonar leviathans — native (aboriginal).
-In the abyssal, the producer niche is held by chemosynthetic_mat — native (aboriginal).
-In the abyssal, the decomposer niche is held by abyssal_detritivore — native (aboriginal).
-In the abyssal, the primary consumer niche is held by benthic_filter — native (aboriginal).
-In the abyssal, the mesopredator niche is held by sonar_meso — native (aboriginal).
+In the oceanic abyssal, the apex niche is held by Sonar leviathans — native (aboriginal).
+In the oceanic abyssal, the producer niche is held by chemosynthetic_mat — native (aboriginal).
+In the oceanic abyssal, the decomposer niche is held by abyssal_detritivore — native (aboriginal).
+In the oceanic abyssal, the primary consumer niche is held by benthic_filter — native (aboriginal).
+In the oceanic abyssal, the mesopredator niche is held by sonar_meso — native (aboriginal).
 
 ## Ice Cryogenic
 

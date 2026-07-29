@@ -13,7 +13,7 @@ risks:
   - Immediate thermal collapse
 biomes:
   - id: vigil_abyssal
-    class: abyssal
+    class: oceanic_abyssal
     richness: moderate
     medium: marine
     overlay: false
@@ -42,7 +42,7 @@ chemistry_climate:
   water: true
   solvent: water
   cryosphere: cold
-  climate_belts: [tectothermal, abyssal]
+  climate_belts: [tectothermal, oceanic_abyssal]
   immaterium_stress: majoris
   immaterium_flavor_tags: [rift_adjacent]
 sources:

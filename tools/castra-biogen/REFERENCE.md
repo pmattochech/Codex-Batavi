@@ -197,8 +197,8 @@ Each biome record has:
 | `jungle` | terrestrial | rich |
 | `temperate_forest` | terrestrial | moderate |
 | `tundra` | terrestrial | sparse |
-| `abyssal` | marine | moderate |
-| `pelagic` | marine | moderate |
+| `oceanic_abyssal` | marine | moderate |
+| `oceanic_pelagic` | marine | moderate |
 | `freshwater_river` | freshwater | moderate |
 | `cave_subterranean` | subterranean | sparse |
 | `volcanic_thermophile` | terrestrial | sparse |

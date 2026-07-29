@@ -60,7 +60,7 @@ def list_body_slugs(pack_id: str) -> list[str]:
     return sorted(p.stem for p in d.glob("*.yaml"))
 
 
-def _slugify(name: str) -> str:
+def slugify_pack_id(name: str) -> str:
     s = name.strip().lower()
     s = re.sub(r"[^a-z0-9]+", "-", s)
     return s.strip("-") or "pack"
@@ -70,14 +70,18 @@ def export_pack(
     pack_id: str,
     *,
     title: str | None = None,
-    description: str = "",
+    description: str | None = None,
     system: dict[str, Any] | None = None,
     body: dict[str, Any] | None = None,
     systems: list[dict[str, Any]] | None = None,
     bodies: list[dict[str, Any]] | None = None,
 ) -> Path:
-    """Write/update a pack from session state (system + body dicts)."""
-    pack_id = _slugify(pack_id)
+    """Write/update a pack from session state (system + body dicts).
+
+    Existing pack.yaml title/description are kept unless new values are passed.
+    Body/system YAML files are upserted; other pack members are left intact.
+    """
+    pack_id = slugify_pack_id(pack_id)
     root = pack_dir(pack_id)
     systems_path = root / "systems"
     bodies_path = root / "bodies"
@@ -112,17 +116,23 @@ def export_pack(
     # Merge with existing pack.yaml system list if present
     meta_path = root / "pack.yaml"
     existing_systems: list[str] = []
+    old_title = pack_id
+    old_desc = ""
     if meta_path.is_file():
         old = load_yaml(meta_path)
         existing_systems = list(old.get("systems") or [])
-    all_systems = sorted(set(existing_systems) | set(written_systems) | set(list_system_slugs(pack_id)))
+        old_title = str(old.get("title") or pack_id)
+        old_desc = str(old.get("description") or "")
+    all_systems = sorted(
+        set(existing_systems) | set(written_systems) | set(list_system_slugs(pack_id))
+    )
 
     dump_yaml(
         meta_path,
         {
             "id": pack_id,
-            "title": title or pack_id,
-            "description": description,
+            "title": title if title is not None else old_title,
+            "description": description if description is not None else old_desc,
             "systems": all_systems,
         },
     )

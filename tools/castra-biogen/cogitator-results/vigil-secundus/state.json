@@ -2,13 +2,14 @@
   "meta": {
     "slug": "vigil-secundus",
     "system_slug": "system-iii-threshold",
-    "seed": null,
-    "spark": false,
-    "generated_at": "2026-07-26T16:45:33Z"
+    "seed": 42,
+    "spark": true,
+    "generated_at": "2026-07-28T22:59:21Z",
+    "filing_id": "VIGI"
   },
   "locks": {
     "sources": [
-      "/home/paulom/Codex-Batavi/tools/castra-biogen/data/locks/bodies/vigil-secundus.yaml",
+      "/home/paulom/Codex-Batavi/tools/castra-biogen/data/packs/castra-vetera/bodies/vigil-secundus.yaml",
       "codex-batavi/biological-encyclopedia-bestiary/biogeographic-matrix-threshold.md"
     ],
     "topology": "Blind tectothermal moon.",
@@ -17,17 +18,19 @@
     "biomes": [
       {
         "id": "vigil_abyssal",
-        "class": "abyssal",
+        "class": "oceanic_abyssal",
         "richness": "moderate",
         "medium": "marine",
-        "overlay": false
+        "overlay": false,
+        "filing_id": "VIGI-CNC"
       },
       {
         "id": "vigil_ice",
         "class": "ice_cryogenic",
         "richness": "sparse",
         "medium": "terrestrial",
-        "overlay": false
+        "overlay": false,
+        "filing_id": "VIGI-CIE"
       }
     ],
     "specimens": [
@@ -66,13 +69,14 @@
       "cryosphere": "cold",
       "climate_belts": [
         "tectothermal",
-        "abyssal"
+        "oceanic_abyssal"
       ],
       "immaterium_stress": "majoris",
       "immaterium_flavor_tags": [
         "rift_adjacent"
       ]
-    }
+    },
+    "filing_id": "VIGI"
   },
   "layers": {
     "planet_type": {
@@ -97,7 +101,7 @@
       "cryosphere": "cold",
       "climate_belts": [
         "tectothermal",
-        "abyssal"
+        "oceanic_abyssal"
       ],
       "immaterium_stress": "majoris",
       "immaterium_flavor_tags": [
@@ -108,24 +112,26 @@
     "biomes": [
       {
         "id": "vigil_abyssal",
-        "class": "abyssal",
+        "class": "oceanic_abyssal",
         "richness": "moderate",
         "medium": "marine",
-        "overlay": false
+        "overlay": false,
+        "filing_id": "VIGI-CNC"
       },
       {
         "id": "vigil_ice",
         "class": "ice_cryogenic",
         "richness": "sparse",
         "medium": "terrestrial",
-        "overlay": false
+        "overlay": false,
+        "filing_id": "VIGI-CIE"
       }
     ],
     "trophic": {
       "by_biome": {
         "vigil_abyssal": [
           {
-            "slot_id": "vigil_abyssal__apex__sonar_leviathans",
+            "slot_id": "vigil_abyssal__apex__sonar_leviathans__primary",
             "slot": "apex",
             "analogue": "sonar_leviathan_analogue",
             "origin": "native",
@@ -135,6 +141,7 @@
             "secondary_biomes": [],
             "medium": "marine",
             "locked": true,
+            "link": false,
             "name": "Sonar leviathans",
             "dossier": null,
             "notes": ""
@@ -149,7 +156,8 @@
             "primary_biome": "vigil_abyssal",
             "medium": "marine",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "vigil_abyssal__decomposer",
@@ -161,7 +169,8 @@
             "primary_biome": "vigil_abyssal",
             "medium": "marine",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "vigil_abyssal__primary_consumer",
@@ -173,7 +182,8 @@
             "primary_biome": "vigil_abyssal",
             "medium": "marine",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "vigil_abyssal__mesopredator",
@@ -185,7 +195,8 @@
             "primary_biome": "vigil_abyssal",
             "medium": "marine",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           }
         ],
         "vigil_ice": [
@@ -199,7 +210,8 @@
             "primary_biome": "vigil_ice",
             "medium": "terrestrial",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           },
           {
             "slot_id": "vigil_ice__decomposer",
@@ -211,21 +223,22 @@
             "primary_biome": "vigil_ice",
             "medium": "terrestrial",
             "locked": false,
-            "name": null
+            "name": null,
+            "link": false
           }
         ]
       }
     },
     "bauplan": {
       "by_slot": {
-        "vigil_abyssal__apex__sonar_leviathans": {
-          "slot_id": "vigil_abyssal__apex__sonar_leviathans",
+        "vigil_abyssal__apex__sonar_leviathans__primary": {
+          "slot_id": "vigil_abyssal__apex__sonar_leviathans__primary",
           "name": "Sonar leviathans",
           "analogue": "sonar_leviathan_analogue",
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "marine",
-          "locomotion": "swim",
+          "locomotion": "benthic_crawl",
           "respiration": "gill_analogue",
           "size_class": "large",
           "size_ceiling": "leviathan",
@@ -270,7 +283,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "marine",
-          "locomotion": "swim",
+          "locomotion": "benthic_crawl",
           "respiration": "gill_analogue",
           "size_class": "medium",
           "size_ceiling": "leviathan",
@@ -285,7 +298,7 @@
           "origin": "native",
           "origin_subtype": "aboriginal",
           "medium": "marine",
-          "locomotion": "swim",
+          "locomotion": "jet",
           "respiration": "gill_analogue",
           "size_class": "medium",
           "size_ceiling": "leviathan",
@@ -330,7 +343,8 @@
     "specimen sonar_leviathans slot apex not in richness ladder for vigil_abyssal; placing anyway (lock wins)"
   ],
   "render": {
-    "magos_path": "out/vigil-secundus/magos.md",
-    "literary_path": "out/vigil-secundus/literary.md"
+    "magos_path": "cogitator-results/vigil-secundus/magos.md",
+    "literary_path": "cogitator-results/vigil-secundus/literary.md",
+    "species_dir": "cogitator-results/vigil-secundus/species"
   }
 }
