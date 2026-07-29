@@ -2,11 +2,11 @@
 
 **Classification:** *Reclusiam* Vermilion — Judex personal register (staging chronicle)  
 **When:** **146.M42**  
-**Where:** Noviomagus Prime — Black Cells / Dark Cells; *Reclusiam* approach  
-**Who:** **Varro** (Judex); Versibar wards (unnamed in hearing); **Atreus** (elder ward — not spoken at grille); **Bram** (*Reclusiam* mortal — first appearance)  
-**Book:** *Varro* — ***Keeper of Torment*** Part I (opening span)  
-**Span lock:** cold-day descent and vigil through **Bram’s first appearance** only  
-**Planning:** `[varro-book-elder-ward-collector.md](../../../planning/in-progress/varro-book-elder-ward-collector.md)`
+**Where:** Noviomagus Prime — Black Cells / Dark Cells; *Reclusiam*; Chapter *Librarium* / archives  
+**Who:** **Varro** (Judex); Versibar wards (unnamed in hearing); **Atreus** (elder ward — not spoken); **Bram**; **Helmar Ebbwacht** (Wolfkeeper); **Otho**; **Gideon** (tasked)  
+**Book:** *Varro* — ***Keeper of Torment*** Part I  
+**Span lock:** cold-day vigil → Bram #1 → Helmar message → **Librarium** (stop before exit)  
+**Planning:** [`varro-book-elder-ward-collector.md`](../../../planning/in-progress/varro-book-elder-ward-collector.md)
 
 ---
 
@@ -104,7 +104,85 @@ Varro did not take the water-skin. He did not refuse it with words either. He st
 
 Varro’s cowl inclined once more — weather acknowledged, not explained — and the cold day remained his private filing even after Bram had named it aloud.
 
+Bram went to the ledgers. The water-skin stayed on the shelf. The antechamber kept its ash and its forge-thunder, and for a span Varro was alone with the day he had labeled cold so it would walk.
+
+He did not sit. The Executor wolf-skull faced the empty petition niche as if petitions were a species of weather that could be waited out. Below him the Black Cells still breathed their pheromone into memory. The lowest grille still held its two temperatures. Presence had not reduced the duration. Filing had not thawed the century. He stood in that arithmetic until the arithmetic became simply standing.
+
+Bootsteps returned — Bram’s mortal weight, and another tread that knew ceramite.
+
+Bram stopped at the threshold with a Wolfkeeper beside him: red lenses in an Executor skull, plate that still carried a faint *Quinta* storm-scuff under *Reclusiam* black. **Helmar Ebbwacht** — elevated out of Aethelgard’s drop-yards into Varro’s house of ash. Bram’s mouth already held apology.
+
+— Forgive the interruption, my lord — Bram said. — Brother Helmar carries word. I would have held it at the ledgers, but he said it would not keep.
+
+Helmar did not bow as petitioners bowed. He inclined the wolf-skull the measure of office to office.
+
+— Chief Librarian Otho requests the Judex — Helmar said. — A Black Cell matter. He asked me first. I told him it sits above my jurisdiction. Only you hold that authority.
+
+Varro’s fire-orbs held. A Grid ask routed through a Wolfkeeper who had known enough to refuse — that was already a kind of map.
+
+He left the antechamber without taking the water-skin.
+
+The *Librarium* met him with wax, ozone, and the dry patience of stacks that outlived the hands that filed them. Haruspicium tables slept under cloth. Blindgate drills waited on slate like knives that preferred boredom to blood. Otho did not rise as if ceremony had entered. He looked up as if a coefficient had arrived on schedule — and then his helm-cluster ticked once, soft, as if the schedule had brought the wrong temperature.
+
+— Judex — Otho said. — I asked Helmar Ebbwacht. I feared his answer. He gave it.
+
+— He gave the only answer he owns — Varro said.
+
+— Yes. So I own the next sentence.
+
+Otho’s slate turned. The number on it was Administratum-ugly, built for cages rather than hymns: **EXC—LIB—IV—001847**.
+
+— Former *Librarium* — Otho said, and the word sat in the archive air like a broken instrument still expected to play. — I need what may still be left in him. Not a sermon. A residue. His last clear Grid thought when he fell — and a cant-fragment that matches a stack I cannot open clean. If the animal has not chewed both to pulp, I want them filed before the stacks finish rotting around the key.
+
+Varro remained standing. The *Crozius* at his side felt like a tribunal die that had not yet been asked to fall.
+
+— You want a Haruspex in my dark — he said.
+
+— I want a measure — Otho answered. — Size what remains of that mind. Reach the shard if a shard remains. Pull the datum if the datum still has edges. Biology below is Drusus’s. Soul-leash is yours. I will not pretend a Wolfkeeper’s crozius reads ego-file the way a Grid brother does.
+
+— Non-Wolfkeeper in Versibar air is a door I do not gift — Varro said.
+
+— Then gift it as clearance, not as mercy — Otho said. — Escort. Your shadow. His hands on the warp-bruise only. Refuse, and I keep repairing blind while **EXC—LIB—IV—001847** finishes becoming only hunger with a serial.
+
+Silence stretched. Forge-thunder far above changed shift-tone.
+
+Otho’s lenses narrowed a fraction — not at the slate. At Varro.
+
+— Your silence is wrong-shaped today — Otho said. — Not petition-cold. Cells-cold. The kind you wear when the lowest holds have already spent you and you pretend the spend was inventory.
+
+Varro did not offer Atreus. He offered geometry.
+
+— Presence has failed as medicine on a hold older than our paperwork — he said. — Duration without consent. I can stand beside a storm I cannot map. That is not your serial. That is mine.
+
+Otho was quiet long enough for wax to smell like judgment.
+
+— It’s him again?
+
+Varro answered with silence. The wolf-skull did not move. The fire-orbs held their furnace. In the archive, that was the whole of the confession.
+
+Otho let the unanswered question stand — the way Bram had let the cold stand — and turned the slate back to the number that could be spoken.
+
+— Then we do the work that can be spoken — he said. — Gideon.
+
+A summons left the chamber on a runner’s feet. Mid-scene, not prepared theater: a Haruspex called out of the stacks where pre-Reckoning scrolls still shed ash when handled. Gideon entered with dust on his gauntlets and the look of a man interrupted mid-repair. He stopped when he saw the Judex, then the slate, then the Chief Librarian’s stillness.
+
+— You will size the turmoil in **EXC—LIB—IV—001847** — Otho said. — Last clear Grid thought. Cant-shard if it survives. You will tell us how much mind remains under the animal. You will not free him with poetry.
+
+Gideon’s helm inclined.
+
+— Under Judex escort — Varro said. — My corridor. My leash. You touch what Otho named. You do not walk my dark without me. If the beast answers your gift with feast-hunger, you break contact on my word.
+
+— Understood — Gideon said.
+
+— Good — Otho said. — Maps are expensive. Especially when they prove a brother still had edges we failed to file.
+
+Varro’s fire-orbs held steady. Clearance had a taste like cold day — walkable, not light.
+
+— Send him when I call from the *Reclusiam* — Varro said. — Not before.
+
+The *Librarium* held them there: wax, ozone, a serial on slate, a Haruspex tasked, a Judex who had authorized a non-Wolfkeeper into Versibar air without ever answering the question that mattered more — and the archives kept their patience, as if patience were another kind of cage.
+
 ---
 
-*Opening span ends after Bram #1 (cold named; Judex does not answer it directly).*  
-*Next (when ordered): turn toward Otho / library → Bram #2 with Gideon → descent → Atreus’s door as chapter end.*
+*Span ends in the Librarium (task sealed; no exit yet).*  
+*Next (when ordered): leave with Gideon → Bram #2 + apprentice → probe EXC—LIB—IV—001847 → Varro’s personal ask for Atreus → Atreus’s door.*
