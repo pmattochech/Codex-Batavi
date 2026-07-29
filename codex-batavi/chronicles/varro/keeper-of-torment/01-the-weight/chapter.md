@@ -6,7 +6,7 @@
 **Who:** **Varro** (Judex); Versibar wards (unnamed in hearing); **Atreus** (elder ward — not spoken); **Bram**; **Helmar Ebbwacht** (Wolfkeeper); **Otho**; **Gideon** (tasked)  
 **Book:** *Varro* — ***Keeper of Torment*** Part I  
 **Span lock:** cold-day vigil → Bram #1 → Helmar message → **Librarium** (stop before exit)  
-**Planning:** [`varro-book-elder-ward-collector.md`](../../../planning/in-progress/varro-book-elder-ward-collector.md)
+**Planning:** `[varro-book-elder-ward-collector.md](../../../planning/in-progress/varro-book-elder-ward-collector.md)`
 
 ---
 
@@ -110,7 +110,7 @@ He did not sit. The Executor wolf-skull faced the empty petition niche as if pet
 
 Bootsteps returned — Bram’s mortal weight, and another tread that knew ceramite.
 
-Bram stopped at the threshold with a Wolfkeeper beside him: red lenses in an Executor skull, plate that still carried a faint *Quinta* storm-scuff under *Reclusiam* black. **Helmar Ebbwacht** — elevated out of Aethelgard’s drop-yards into Varro’s house of ash. Bram’s mouth already held apology.
+Bram stopped at the threshold with a Wolfkeeper beside him, plate that still carried a faint *Quinta* storm-scuff under *Reclusiam* black. **Helmar Ebbwacht** — elevated out of Aethelgard’s drop-yards into Varro’s house of ash. Bram’s mouth already held apology.
 
 — Forgive the interruption, my lord — Bram said. — Brother Helmar carries word. I would have held it at the ledgers, but he said it would not keep.
 
@@ -130,7 +130,7 @@ The *Librarium* met him with wax, ozone, and the dry patience of stacks that out
 
 — Yes. So I own the next sentence.
 
-Otho’s slate turned. The number on it was Administratum-ugly, built for cages rather than hymns: **EXC—LIB—IV—001847**.
+Otho’s slate turned. The number on it was Administratum-ugly, built for cages rather than hymns: **EXC-LIB-IV-001847**.
 
 — Former *Librarium* — Otho said, and the word sat in the archive air like a broken instrument still expected to play. — I need what may still be left in him. Not a sermon. A residue. His last clear Grid thought when he fell — and a cant-fragment that matches a stack I cannot open clean. If the animal has not chewed both to pulp, I want them filed before the stacks finish rotting around the key.
 
@@ -142,7 +142,7 @@ Varro remained standing. The *Crozius* at his side felt like a tribunal die that
 
 — Non-Wolfkeeper in Versibar air is a door I do not gift — Varro said.
 
-— Then gift it as clearance, not as mercy — Otho said. — Escort. Your shadow. His hands on the warp-bruise only. Refuse, and I keep repairing blind while **EXC—LIB—IV—001847** finishes becoming only hunger with a serial.
+— Then gift it as clearance, not as mercy — Otho said. — Escort. Your shadow. His hands on the warp-bruise only. Refuse, and I keep repairing blind while **EXC-LIB-IV-001847** finishes becoming only hunger with a serial.
 
 Silence stretched. Forge-thunder far above changed shift-tone.
 
@@ -166,7 +166,7 @@ Otho let the unanswered question stand — the way Bram had let the cold stand �
 
 A summons left the chamber on a runner’s feet. Mid-scene, not prepared theater: a Haruspex called out of the stacks where pre-Reckoning scrolls still shed ash when handled. Gideon entered with dust on his gauntlets and the look of a man interrupted mid-repair. He stopped when he saw the Judex, then the slate, then the Chief Librarian’s stillness.
 
-— You will size the turmoil in **EXC—LIB—IV—001847** — Otho said. — Last clear Grid thought. Cant-shard if it survives. You will tell us how much mind remains under the animal. You will not free him with poetry.
+— You will size the turmoil in **EXC-LIB-IV-001847** — Otho said. — Last clear Grid thought. Cant-shard if it survives. You will tell us how much mind remains under the animal. You will not free him with poetry.
 
 Gideon’s helm inclined.
 
@@ -185,4 +185,4 @@ The *Librarium* held them there: wax, ozone, a serial on slate, a Haruspex taske
 ---
 
 *Span ends in the Librarium (task sealed; no exit yet).*  
-*Next (when ordered): leave with Gideon → Bram #2 + apprentice → probe EXC—LIB—IV—001847 → Varro’s personal ask for Atreus → Atreus’s door.*
+*Next (when ordered): leave with Gideon → Bram #2 + apprentice → probe EXC-LIB-IV-001847 → Varro’s personal ask for Atreus → Atreus’s door.*
