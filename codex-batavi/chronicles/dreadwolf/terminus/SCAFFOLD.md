@@ -3,7 +3,8 @@
 **Tree:** Dreadwolf · terminis expansion  
 **Slug:** `terminus`  
 **Status:** **scratch lock** — beat geometry for a last-fight expansion. **Does not** supersede the published prose in [chapter.md](chapter.md) until an explicit rewrite is ordered.  
-**Prose (current lock):** [chapter.md](chapter.md) — pin → ***Spina Cineris*** → ash; opponent filed as unnamed World Eaters champion.
+**Prose (current lock):** [chapter.md](chapter.md) — pin → ***Spina Cineris*** → ash; opponent filed as unnamed World Eaters champion.  
+**Prose (draft scratch):** [`../../draft/dreadwolf/receipt-denied/chapter.md`](../../draft/dreadwolf/receipt-denied/chapter.md) — refinement novel body (Khârn named; brink-only; receipt denied).
 
 **Hub:** [`../INDEX.md`](../INDEX.md) · [`../README.md`](../README.md)  
 **Companions:** [battle-of-sigma-moon/chapter.md](../../sigma-moon/battle-of-sigma-moon/chapter.md) · [dossier-einar-dreadwolf.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [amissi-the-lost.md](../../../personae-command-index/doctrine-and-organs/amissi-the-lost.md)
