@@ -4,10 +4,11 @@
 **Slug:** `terminus`  
 **Status:** **scratch lock** — beat geometry for a last-fight expansion. **Does not** supersede the published prose in [chapter.md](chapter.md) until an explicit rewrite is ordered.  
 **Prose (current lock):** [chapter.md](chapter.md) — pin → ***Spina Cineris*** → ash; opponent filed as unnamed World Eaters champion.  
-**Prose (draft scratch):** [`../../draft/dreadwolf/receipt-denied/chapter.md`](../../draft/dreadwolf/receipt-denied/chapter.md) — refinement novel body (Khârn named; brink-only; receipt denied).
+**Prose (draft scratch):** [`../../draft/dreadwolf/receipt-denied/chapter.md`](../../draft/dreadwolf/receipt-denied/chapter.md) — Wild Hunt → Khârn → Versibar → terminis.
 
 **Hub:** [`../INDEX.md`](../INDEX.md) · [`../README.md`](../README.md)  
-**Companions:** [battle-of-sigma-moon/chapter.md](../../sigma-moon/battle-of-sigma-moon/chapter.md) · [dossier-einar-dreadwolf.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [amissi-the-lost.md](../../../personae-command-index/doctrine-and-organs/amissi-the-lost.md)
+**Companions:** [battle-of-sigma-moon/chapter.md](../../sigma-moon/battle-of-sigma-moon/chapter.md) · [dossier-einar-dreadwolf.md](../../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) · [amissi-the-lost.md](../../../personae-command-index/doctrine-and-organs/amissi-the-lost.md)  
+**Kit refs (tooling):** [`../../../lore-images/refs/einar/chain-claws/`](../../../lore-images/refs/einar/chain-claws/)
 
 ---
 
@@ -16,57 +17,67 @@
 | Field | Lock |
 |-------|------|
 | **When** | **168.M42** — Luna Sigma outer perimeter (Battle of Sigma Moon) |
-| **Theater** | Storage spine — *Amissi* / **V** *Quinta* cut before Angron descent |
+| **Theater** | Storage spine — *Amissi* / **QVINTA** cut before Angron descent |
 | **POV** | Close on **Einar**; **Varro** gauge; **Armin** late arrival |
 | **Opponent (scratch)** | **Khârn** — mythic upright champion silhouette |
 | **Opponent (published register)** | World Eaters champion (trophy geometry); *they never filed which* — **unchanged** until rewrite ordered |
+| **Kit (scratch)** | QVINTA **chain-claws** (three dorsal chainblade bars over clawed Exanimus hand) — published Wolf Talons lock unchanged until kit retcon ordered |
 
 ---
 
 ## Thesis
 
-Skull-denial is an unpaid Brass invoice. Khorne does not convert Einar — he **prolongs** the duel and **deepens the bleed** so the wolf pays in duration what he withheld in trophies. Einar’s refusal of the Red Demon still feeds heat he did not ask for. He dies on the **Execratio brink**, not as a completed **Versibar** receipt.
+Personal debt collected in World Eaters lives. Skulls starved. *Axiom of Reason* offline — **Wild Hunt** under dire leash-suspension. Versus **Khârn**, near-peer skill/will; **favour** decides duration. Crossing into **Versibar** frees him from Khorne (warp-immune war-form; soul-wolf kills the Red Demon) at the cost of the man; favour switches fully onto Khârn. Conscience lapse buys ***Spina Cineris***. Receipt denied on both columns.
 
 ---
 
 ## Beat locks
 
-### 1. Debt geometry (skull-denial → prolong / bleed)
+### 1. Wild Hunt opening (combat first)
 
-- **Khârn** takes skulls for the Skull Throne.
-- **Einar** destroys skulls (and finally himself) so Brass gets **no receipt**; he **names** the denial once — sharp, not sermon (“Red Tyrant” / equivalent). Seed already in [*precipitation*](../precipitation/chapter.md) (“No skull taken”) and published *terminus* (“Receipt denied” / “No skull. No spill.”).
-- Khorne wants **payment in duration and blood**, not worship. The Throne will not close the invoice early.
-- **Mutual prolong:** both last past mortal accounting — Khârn as favored butcher; Einar as unpaid ledger line.
+- Leash **suspended** because the moon/Angron geometry is worse than keeping Einar in check (Varro’s ugly choice).
+- Einar Tempo: visceral, rage-forward — Batavi bone, **not** *Axiom* calm, **not** World Eater liturgy copy.
+- Debt coin = **World Eaters lives** (Moraine-Nine / eleven brothers).
+- Working motto (scratch): **Purge the traitor. Starve the Throne.**
+- Destroys WE mass; **Eightbound / Exalted Eightbound** fall; lesser / lesser–Greater Khornate things begin to lose or be driven.
+- Skulls smashed / denied — no bowls lifted.
 
-### 2. Rejection paradox (Einar POV ≠ gift)
+### 2. Khârn — near peer + favour
 
-- The more Einar refuses the **Red Demon**, the hotter the duel runs.
-- **Metaphysical read (sealed / narrator / Varro):** Brass still “works” through the refusal — irony, not covenant.
-- **Einar POV:** duty, Nails, Wolf’s Curse stress — **not** a gift he accepts. He does **not** lecture “Khorne is empowering me.” Chronological blindness holds.
-- Optional sealed Judex gloss: the Throne wanted him to *become* the receipt; he unpaid **both** columns (skull **and** completed war-form).
+- Khârn arrives as Throne answer to unpaid riot.
+- Denial spoken once (“Red Tyrant” / starve line).
+- Peerage in skill/will; Khârn’s **boons** keep him solvent; prolong/bleed as interest.
+- Chain-claws destroyed mid-duel → fists / Exanimus claws → scavenged **chainaxes** (QVINTA saw-memory, not WE worship).
+- Animal creep (hair, mass) toward morph.
 
-### 3. Versibar brink only — not completed morph
+### 3. Versibar crossing (full, tragic)
 
-- Stress + Nails + Red Demon pressure drive Einar to the **Execratio brink** (jaw lock, mass wrongness, chain about to snap). Near-morph sensory horror is fair.
-- **Forbidden climax:** completed **Versibar** (~4.5 m Execratio war-form). *Amissi* files the Lost as combat-viable under Chaplain leash — **not Versibar**. Full morph would drag **Frontier Wolf** funeral logic and fight the published ledger (self-***Spina Cineris***, ash vault, watch file closed — not Castellan Versibar plaque rite).
-- Khorne’s joke: the duel **lasts long enough** to force the brink.
-- Final denial: ***Spina Cineris*** **before** Brass can claim a clean skull **or** a completed Versibar trophy.
+- Completed **Versibar** in this scratch (not brink-only).
+- Treat **Versibar warp-immunity** as always-true background: Khorne **cannot** ride/power Einar after crossing.
+- Favour pumps **Khârn** harder (socket switch).
+- Sealed Varro soul-read: was man vs wolf **and** demon → becomes **wolf free killing the demon** (freedom from Brass costs everything).
+- Do not make Versibar a power-up that *beats* Khârn; it almost hands Brass a perfect trophy.
 
-### 4. Scratch vs published canon (Khârn naming)
+### 4. Conscience lapse → terminis
 
-- Scratch prose / planning may name **Khârn**.
-- Published [chapter.md](chapter.md) register and companion Sigma Moon beats stay on **unnamed champion** until an **explicit** rewrite of *terminus* + register is ordered.
-- Do **not** silently patch dossier, *amissi*, or Sigma Moon companion to lock Khârn identity in this pass.
+- On verge of Khârn’s skull-lift: thin return of marine visage / duty muscle memory.
+- ***Spina Cineris*** — ash vault; no skull; no spill.
+- Irreversible: watch file closed; gene-seed null.
+
+### 5. Scratch vs published canon
+
+- Scratch may name **Khârn** and use **chain-claws** + full **Versibar**.
+- Published *terminus* / dossier / *amissi* / Sigma Moon companion **unchanged** until explicit rewrite/retcon orders.
 
 ---
 
 ## Scene spine (scratch)
 
-1. Storage-spine pressure; skulls denied earlier in the arc (already seeded).
-2. Khârn (scratch) / champion demands the head for the Throne; Einar answers with denial speech **once**.
-3. Duel elongates past sense; both bleed; Einar’s refusal feeds heat he did not ask for.
-4. Brink of Versibar — Varro’s gauge redlines; Armin too far.
-5. Atlas thumb — ash, no bowl, no jet. Varro: receipt denied.
+1. Dire leash-suspension; Wild Hunt carnage; skulls starved; Eightbound+ shredded.  
+2. Khârn; denial once; near-peer duel under favour.  
+3. Chain-claws die; fists → chainaxes; animal creep.  
+4. Versibar; demon killed in soul; Khârn pumped; duel continues.  
+5. Pin; conscience lapse; atlas thumb; ash. Varro: receipt denied.
 
 ---
 
@@ -78,25 +89,27 @@ Skull-denial is an unpaid Brass invoice. Khorne does not convert Einar — he **
 
 ## Chronicle law
 
-- Em-dash dialogue (ABNT-style) in any future prose body.
+- Em-dash dialogue (ABNT-style) in prose body.
 - No opaque **IFF** — friend–foe phrasing only.
 - No Strand α/β labels in field voice.
-- One continuous novel body if/when rewritten — no internal Part/Chapter section headers; one metadata `---` fence only.
-- Do not invent Founding / single-parent Legion on open record.
+- One continuous novel body — no internal Part/Chapter headers; one metadata `---` fence; optional one `---` before end matter only.
+- No in-body `---` as scene breaks.
 
 ## Voice / craft
 
-- Einar: tide-flat, duty-welded; one denial line, then geometry.
-- Khârn (scratch): amusement wearing a helmet — trophy liturgy.
-- Varro: gauge, not hope; tolerance math → flat receipt denial.
-- Implication first: Brass “empowerment” shown as unnatural duration / bleed, not wiki sermon.
+- Einar Tempo: short impact clauses, heat, blood, debt — not Strategium invoice calm.
+- Motto once, then geometry.
+- Khârn: amusement wearing a helmet.
+- Varro: gauge → sealed soul image → flat receipt denial.
 
 ## Chain
 
 - **Prior:** [precipitation](../precipitation/chapter.md) — skull denial seed  
 - **Published close:** [chapter.md](chapter.md)  
-- **Same battle:** [battle-of-sigma-moon](../../sigma-moon/battle-of-sigma-moon/chapter.md) (Angron / Castellan — minutes later)
+- **Same battle:** [battle-of-sigma-moon](../../sigma-moon/battle-of-sigma-moon/chapter.md)
 
 ## Open questions
 
-- *(none for this scratch lock — rewrite path and Khârn register promotion require explicit order)*
+- Motto final polish (working: *Purge the traitor. Starve the Throne.*)
+- Kit retcon order (chain-claws vs published Wolf Talons) — other chat / explicit order
+- Published *terminus* rewrite + Khârn register promotion — explicit order only
