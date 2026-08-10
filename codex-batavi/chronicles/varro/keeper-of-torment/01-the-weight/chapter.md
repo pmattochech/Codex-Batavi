@@ -3,9 +3,9 @@
 **Classification:** *Reclusiam* Vermilion — Judex personal register (staging chronicle)  
 **When:** **146.M42**  
 **Where:** Noviomagus Prime — Black Cells / Dark Cells; *Reclusiam*; Chapter *Librarium* / archives  
-**Who:** **Varro** (Judex); Versibar wards (unnamed in hearing); **Atreus** (elder ward — not spoken); **Bram**; **Helmar Ebbwacht** (Wolfkeeper); **Otho**; **Gideon** (tasked)  
+**Who:** **Varro** (Judex); Versibar wards; **Atreus** (not spoken); **Bram**; **Liese** (*Reclusiam* apprentice); **Helmar Ebbwacht**; **Otho**; **Gideon**  
 **Book:** *Varro* — ***Keeper of Torment*** Part I  
-**Span lock:** cold-day vigil → Bram #1 → Helmar message → **Librarium** (stop before exit)  
+**Span lock:** cold-day vigil → Bram #1 → Helmar → Librarium → Bram #2 / **Liese** → **EXC-LIB-IV-001847** cell opened (stop before probe)  
 **Planning:** `[varro-book-elder-ward-collector.md](../../../planning/in-progress/varro-book-elder-ward-collector.md)`
 
 ---
@@ -182,7 +182,79 @@ Varro’s fire-orbs held steady. Clearance had a taste like cold day — walkabl
 
 The *Librarium* held them there: wax, ozone, a serial on slate, a Haruspex tasked, a Judex who had authorized a non-Wolfkeeper into Versibar air without ever answering the question that mattered more — and the archives kept their patience, as if patience were another kind of cage.
 
+Varro left alone.
+
+Gideon remained under Otho’s roof with the serial still on the slate and the clearance still unspent — not because the Haruspex lacked courage, but because the Judex had ordered the door to open only from the *Reclusiam*, and law, even when it was only a manner of walking, was how Varro kept the dark from becoming theater.
+
+The climb back to ash and thurible-smoke was his. Cold day still correctly filed. Below, the Cells waited. Above, Bram waited.
+
+Bram was not alone. A girl stood with him — mortal, lean, hair bound for work, hands stained with ash and lamp-black the way novices stained themselves before they learned to call it duty. **Liese**. She did not flinch when the Death Wolf entered the antechamber. She stood straight, not like a marine, like someone taught that flinching wasted time in this house.
+
+Bram bowed — courtesy, not petition.
+
+— My lord — he said. — This is Liese. She tends the lower ledgers and the thurible stores when I cannot. I thought you might need a door kept without me being the door.
+
+— You are not the door — Varro said.
+
+— No, my lord. I am the ash.
+
+Varro looked at Bram.
+
+— You are well?
+
+The question was not medicine. It was inventory of a mortal the Chapter had spent a century learning to read.
+
+— Well enough to stand — Bram said. — Liese has the stores in better order than I left them at her age. That is either praise for her or indictment of my youth. I choose praise.
+
+Liese’s mouth almost smiled and did not, out of respect.
+
+— Do you have family waiting on you? — Varro asked.
+
+Bram’s answer came without theater.
+
+— The only family I have, and the only family I ever wanted, is the one I serve here — he said. — The Chapter. The *Reclusiam*. You, my lord, if you will permit an old man his ledger language. There was never another life I wanted more than this one.
+
+The words landed in the antechamber like ash settling after a forge pulse — quiet, final, without self-pity.
+
+Varro inclined the wolf-skull once.
+
+— Keep the petitions thin — he said. — Keep the ash honest. Send word to the *Librarium*. Tell Gideon to come to the descent stair. Not before my mark reaches him.
+
+— At once, my lord — Bram said.
+
+Liese was already moving before the last word cooled — runner’s feet, not chatter.
+
+Varro waited in the antechamber with the water-skin still untouched on the shelf and the cold still unlabeled in the air. When Gideon came, scroll-dust still on his gauntlets, the Haruspex stopped at the threshold as if the Death Wolf’s weather had to be measured before entry.
+
+— Judex — Gideon said.
+
+— You walk below at my side — Varro said. — Nothing before. Nothing after my word.
+
+— Understood.
+
+Gideon’s helm stayed level. Varro felt the younger Astartes’s stillness sharpen anyway — not at the order, at the room. Bram had returned to the ledgers without bowing to terror. Liese had gone on an errand through a house that held Versibar beneath it as if depth were a fact one learned young. Gideon carried apprehension at the Judex’s side; these mortals had spent it elsewhere, long ago, in ash and ledger language. Whatever name he would give that mismatch later, he gave it only in silence now.
+
+They descended.
+
+The Black Cells took them back into pressure change and pheromonal warning. Red lumens. Side holds breathing wrong. Upper air still carrying the ghost of the Hell Cage’s round mouth — pride’s lesson, empty today, still tasting of claws that had almost reached. Gideon’s pace did not falter. His gift would be needed soon; his fear did not get to arrive first.
+
+Wardens at the junction read the Judex and the serial on Varro’s gesture before words were necessary.
+
+— **EXC-LIB-IV-001847** — Varro said.
+
+Keys turned on his nod. Grille bolts answered. The cell mouth opened on a corridor hold that had once worn *Librarium* black in another life — and wore Versibar now.
+
+Varro stepped into the frame.
+
+Not to preach. To contain. The Death Wolf’s presence went ahead of him the way sentence went ahead of a verdict — feast-hunger in the air checking itself against a predator it had learned to fear. Gideon held at the clearance line. Bram and Liese were ash and memory above. Here, only leash law.
+
+Behind the opening bars: mass, wrong stillness, and the suggestion of a mind that had been Grid before it had been meat.
+
+The cell was open.
+
+Varro did not move aside.
+
 ---
 
-*Span ends in the Librarium (task sealed; no exit yet).*  
-*Next (when ordered): leave with Gideon → Bram #2 + apprentice → probe EXC-LIB-IV-001847 → Varro’s personal ask for Atreus → Atreus’s door.*
+*Span ends with **EXC-LIB-IV-001847** opened; Judex at the frame; probe not yet begun.*  
+*Next (when ordered): Gideon sizes the turmoil → link → Varro’s personal ask for Atreus → Atreus’s door.*

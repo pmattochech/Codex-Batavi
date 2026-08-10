@@ -76,7 +76,7 @@ def build_layers(
     size: int = 1024,
     scale: float = 1.72,
     offset_y: float = 56.0,
-    supersample: int = 2,
+    supersample: int = 4,
 ) -> tuple[np.ndarray, np.ndarray]:
     """Return albedo RGBA + _cc RGBA at `size`, supersampled then downscaled."""
     ss = max(1, int(supersample))
@@ -220,8 +220,8 @@ def main() -> int:
     ap.add_argument(
         "--supersample",
         type=int,
-        default=2,
-        help="Render factor before LANCZOS downscale (2 = 2048 work → 1024)",
+        default=4,
+        help="Render factor before LANCZOS downscale (4 = 4096 work → 1024)",
     )
     args = ap.parse_args()
     if not args.svg.is_file():

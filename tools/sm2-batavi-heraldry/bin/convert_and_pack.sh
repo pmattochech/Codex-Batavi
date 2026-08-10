@@ -59,7 +59,7 @@ if [[ ! -f "$ICON_HDR" ]]; then
 fi
 python3 "$ROOT/lib/svg_to_layer_tgas.py" --svg "$SVG" --out-dir "$TGA" \
   --scale "${SEAL_SCALE:-1.72}" --offset-y "${SEAL_OFFSET_Y:-56}" \
-  --supersample "${SEAL_SUPERSAMPLE:-2}"
+  --supersample "${SEAL_SUPERSAMPLE:-4}"
 
 echo "== 2) TexMipper (Wine + socat PTY) =="
 # Old-style resources for TexMipper mip emission
