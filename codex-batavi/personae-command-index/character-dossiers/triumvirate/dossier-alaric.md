@@ -6,7 +6,7 @@
 **Archetype:** Industrial beast / living wall  
 **Estimated age:** **TBD** — husk ingress and Reclamation are **pre-Cadia**; do not print a Terran year-count as fact this pass.
 
-**Origin war:** [`the-reclamation.md`](../../events-and-chronologies/the-reclamation.md). Execratio fall/return: **during the Reclamation** (year TBD). Naming: Campaign III.
+**Origin war:** [`the-reclamation.md`](../../events-and-chronologies/the-reclamation.md). Execratio fall/return: **during the Reclamation** (year TBD). **Name:** Aethelgard witnesses — [`der-batav-myth.md`](../../../lexicon-and-litanies/der-batav-myth.md).
 
 ## 1\. PSYCHOLOGICAL AND COMMAND PROFILE
 

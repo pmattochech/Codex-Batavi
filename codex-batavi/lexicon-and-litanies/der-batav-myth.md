@@ -1,13 +1,14 @@
-# [WIKI] The Der Batav myth and the naming of the Cohors Batavorum
+# [WIKI] The Der Batav myth
 
-**Classification:** Lexicon and litanies — Chapter identity  
-**Cross-references:** [Batav Wolf](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md) · [the-reclamation.md](../personae-command-index/events-and-chronologies/the-reclamation.md) · [campaign-iii-tide-names](../chronicles/reclamation/campaign-iii-tide-names/SCAFFOLD.md) · [chapter-identity.md](../personae-command-index/intro-and-heraldry/chapter-identity.md)
+**Classification:** Lexicon and litanies — civic myth and Chapter name  
+**Home of the name.** *Der Batav* / **Cohors Batavorum** are given by the **people of Aethelgard** who **see** the grey giants come out of the surf. This file is **not** a Reclamation campaign slug, council minutes, or a dated Campaign III receipt.  
+**Cross-references:** [Batav Wolf](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md) · [chapter-identity.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) · [mentality-and-philosophy.md](mentality-and-philosophy.md)
 
 ---
 
 > *“We did not choose the name. The name found us coming out of the surf with xenos blood on our hands. The people already knew what we were before we knew.”*
 >
-> — Alaric von Helis (**the Reclamation**, Campaign III — **pre-Cadia**, year TBD).
+> — attributed to Alaric von Helis
 
 ---
 
@@ -37,21 +38,25 @@ Natives expected something like the Batav at human scale. What they received was
 
 ---
 
-## III. The fulfillment (Reclamation — Campaign III)
+## III. The naming (Aethelgard witnesses)
 
-Staff truth: [`the-reclamation.md`](../personae-command-index/events-and-chronologies/the-reclamation.md). They become Batavi by taking the island. Campaign III is **witness-naming** — not a nine-pole novel.
+The Chapter does not mint its name in a council chamber first. The people of Aethelgard **see** it.
 
-On the shingle, coastal witnesses name the phenomenon before Imperial hymns do. *“Der Batav!”* is **verdict**. **Cohors Batavorum** follows from **lungs** in the same weather: humanity names the Chapter before the Throne does.
+On the shingle, at the bleeding edge of a tide that does not negotiate, coastal witnesses name the phenomenon before Imperial hymns do. *“Der Batav!”* is **verdict** — the sound a culture makes when myth walks out of the surf **and the enemy dies in the same frame**. **Cohors Batavorum** follows from **lungs** in the same weather: humanity names the Chapter before the Throne does.
 
-**Dual receipt:** witness voice, then council ink (pre-Cadia, year TBD). Neither alone is sufficient.
+They do not match a seal. They match what the swamp already taught them: **grey iron** under **black soot, algae, and gunk** — industrial plate fouled the way a wet Batav reads (charcoal guard, **iron-grey underpelt** in winter and surf). The Chapter **seal wolf stays white**. Biology: [batav-wolf-canis-batavorum.md](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md).
 
-The **origin hunt** is buried policy: taking Castra **is** the origin.
+*Der Batav* is the native gloss: *the iron that stayed*.
+
+Year and which island-war this falls in remain **TBD**. Do not file it as Campaign III staff. Do not restore deleted serial slugs.
 
 ---
 
-## IV. Alaric’s decision (adopting the name)
+## IV. Alaric keeps the name the people gave
 
-The renaming is pragmatic, not a sermon. *Cohors Batavorum* honors the people who will be recruitment and *Auxilia* under Shared Sweat, and it files a frontier-monster identity — the predator that drops from the rock onto the storm.
+The renaming is pragmatic, not a sermon. Alaric does not invent *Cohors Batavorum*. He **keeps** what the shore already shouted.
+
+*Cohors Batavorum* honors the people who will be recruitment and *Auxilia* under Shared Sweat, and it files a frontier-monster identity — the predator that drops from the rock onto the storm.
 
 ---
 
@@ -63,4 +68,4 @@ The Der Batav myth is not recited in rites. It is operated. Batavi systematicall
 
 ---
 
-*Compiled by the Chapter’s Chief Scribe — last revision: Reclamation lock (pre-Cadia timestamp; later M42 filings exist on other ledgers).*
+*Compiled by the Chapter’s Chief Scribe.*

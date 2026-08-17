@@ -49,7 +49,7 @@ The Batav Wolf is **not** only a coastal animal. It occupies **two** productive 
 
 * **Head and bite:** Still **wolf-proportioned** — **long enough** muzzle to read as *Canis* — but **zygomatic** width and **masseter** architecture push **bite force** toward **big-predator** performance in brackish water (Terran analogues cite **jaguar-scale** mechanics in a **canid** frame). Coastal tales claim **obsidian-dark** claws and **tooth** wear — **silica** inclusion or mineral accretion — strong enough to **punch** plated hide.
 
-* **Coat:** Base **charcoal**, **peat brown**, **brack green** — broken **marbling** and **ghost rosettes** (dock names: *weed-stain*, *mud rose*) that **break** outline in Needles dapple and swamp shade like **patterned wolf**, not imported cat pelage.
+* **Coat:** Guard hairs **charcoal**, **peat brown**, **brack green** — broken **marbling** and **ghost rosettes** (dock names: *weed-stain*, *mud rose*) that **break** outline in Needles dapple and swamp shade like **patterned wolf**, not imported cat pelage. **Underpelt** runs **iron-grey** to **salt-pale**, heaviest in **winter / high-water**; the same grey shows at **ruff** and **belly** in **mating** flush. When the animal is **wet**, guard hairs clump and the grey underpelt reads — surf, mist, and Needles dapple, not a second ghost-beast. Dry, it goes back to charcoal. **Not** a Fenris pale-wolf.
 
 * **Limbs:** Forelimbs **thick**; paws **broad**, toes **splayed** — mud and peat. Partial **webbing** in estuary lines; swamp lines favor **lunge** from sucking organic soil.
 
@@ -83,6 +83,8 @@ The Batav Wolf is **not** only a coastal animal. It occupies **two** productive 
 
 **Taboo / allegory:** **Der Batav** prophecy — fulcrum in [der-batav-myth.md](../lexicon-and-litanies/der-batav-myth.md).
 
+**Witness rhyme (grey plate):** Fishers do not need a paint match. They see **industrial grey** Astartes fouled with **black soot, algae, and swamp gunk** — grey iron under weed-stain, the same two-tone as wet Batav (grey underpelt, charcoal guard). Kill-shape first; pelt second.
+
 **Ministorum edge cases:** Allegory tolerated; **beast-worship** prosecutions **rare**.
 
 ---
@@ -93,7 +95,7 @@ The Batav Wolf is **not** only a coastal animal. It occupies **two** productive 
 
 * **Batav Wolf trial:** [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) (entry requirements).
 
-* **Heraldry:** Chapter **wolf** charges — **white** rectilinear seal / pauldron stencil; **not** a taxonomic claim on *Canis Batavorum* (species is **dark-coated**).
+* **Heraldry:** Chapter **wolf** charges — **white** rectilinear seal / pauldron stencil; **not** a taxonomic claim on *Canis Batavorum*. Living coat stays **dark guard** with **grey underpelt** (winter / wet / mating ruff). Seal stays **white**.
 
 ---
 
