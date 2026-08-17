@@ -13,7 +13,7 @@ Alaric understood that the Chapter’s biology was a time bomb and that the **is
 
 Studying the fall of Lufgt Huron (Badab War), Alaric knew that hoarding resources for defense was read as treason by Terra. To avoid censure, he inverted the logic.
 
-* **The super-tithe:** He ordered subsector productivity raised to brutal levels. The strategic goal is to send a tithe **15% above** the Administratum’s stated quota.  
+* **The super-tithe:** He ordered subsector productivity raised to brutal levels. Output is **always overproduced** — **≥15%** above Administratum quota as the floor. Between anomaly windows they **stockpile**; when the pylon opens (**~once per 20 years**) they dump a fat convoy. Isolation is not an excuse to short the Throne.  
 * **Economic indispensability:** That makes Castra Vetera Subsector economically indispensable. The Imperium tolerates the “monsters of Noviomagus” because they pay better than loyal governors.  
 * **Route security:** He ensured the **marsh channels** and **Witness Ford** cordon became the safest rated inward routes in the subsector, wiping out piracy through the sheer brutality of Friction Geometry.
 
