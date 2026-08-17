@@ -44,6 +44,8 @@ The Chapter does not mint its name in a council chamber first. The people of Aet
 
 On the shingle, at the bleeding edge of a tide that does not negotiate, coastal witnesses name the phenomenon before Imperial hymns do. *“Der Batav!”* is **verdict** — the sound a culture makes when myth walks out of the surf **and the enemy dies in the same frame**. **Cohors Batavorum** follows from **lungs** in the same weather: humanity names the Chapter before the Throne does.
 
+They do not match a seal. They match what the swamp already taught them: **grey iron** under **black soot, algae, and gunk** — industrial plate fouled the way a wet Batav reads (charcoal guard, **iron-grey underpelt** in winter and surf). The Chapter **seal wolf stays white**. Biology: [batav-wolf-canis-batavorum.md](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md).
+
 *Der Batav* is the native gloss: *the iron that stayed*.
 
 Year and which island-war this falls in remain **TBD**. Do not file it as Campaign III staff. Do not restore deleted serial slugs.
