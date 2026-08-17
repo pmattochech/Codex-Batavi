@@ -11,12 +11,13 @@
 
 ## Thesis
 
-Centuries. Still pre-Cadia. **~300 years** working. Nine Vexilla exist. Ghost tithe. Fence is cage. Codex revision matures. Valerian strife is a Hold war, after nine seats.
+Centuries. Still pre-Cadia. **~300 years** working. Isolated **most** of the time. Anomaly opens **~once per 20 years**. Tithe **always overproduced** (not Huron). Nine Vexilla exist. Codex revision matures. Valerian strife is a Hold war, after nine seats.
 
 ## Beat locks
 
 - No Cicatrix yet
 - **DECIMA** does not exist until **Valerian close** (then Alaric’s loyalists, **500** or more)
+- Anomaly **~once per 20 years**; tithe always overproduced (Badab lesson)
 - Raising already started in the Reclamation (neophytes + rare adult conversion); **5,000** ceiling continues across the Hold
 - Next: Valerian scaffold
 

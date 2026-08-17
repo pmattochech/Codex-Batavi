@@ -126,13 +126,13 @@ English thematic names — one regulated warp channel per system pair; **short w
 
 ## IV. Imperial tolerance (super-tithe)
 
-Terra tolerates non-*Codex* mass and biological horror because **removing the Batavi filter** opens the inward vector — and because **Insula Tenebrarum** pays **≥15% over** Administratum quota in arms, ore, and cordon intelligence.
+Terra tolerates non-*Codex* mass and biological horror because **removing the Batavi filter** opens the inward vector — and because **Insula Tenebrarum** **always overproduces** tithe (**≥15%** over quota): stockpile in the cage, dump when the **anomaly** opens (**~once per 20 years**). **Badab lesson** — they will not withhold like **Lufgt Huron**.
 
 ---
 
 ## V. Related files
 
-- [`insula-tenebrarum-isolation-fence.md`](insula-tenebrarum-isolation-fence.md) — MoI reflector, V-shield, navel, pylon jumps  
+- [`insula-tenebrarum-isolation-fence.md`](insula-tenebrarum-isolation-fence.md) — MoI reflector, V-shield, navel, anomaly **~20 years**  
 - [`the-reclamation.md`](../personae-command-index/events-and-chronologies/the-reclamation.md) — birth-war  
 - [`general-atlas.md`](general-atlas.md) — friction geometry detail  
 - [`border-political-relations.md`](../political-relations/border-political-relations.md) — indispensability  

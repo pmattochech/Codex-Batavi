@@ -32,7 +32,7 @@ The Reclamation **is** the birth. They become **Batavi** by taking **Castra Vete
 | **Campaign III** | Last of the three **macro-systems** — **end of the middle-section**. **Aethelgard conquest** lands here (exact I/II pairing of the other two systems **TBD**). **Naming** happens on that shingle — myth: [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md). |
 | **Campaign IV** | **Ford / Ribbon seal** — a **wall**, not another world-list. |
 | **Navel vortex** | Opens when they **beat the MoI** — **system failure**. Mechanicus **stabilize** enough that the Warp burst does **not** swallow the whole subsector. Still a painful comms wound and Chaos door. |
-| **the Hold** | **~300 years.** Still **pre-Cadia**. Nine Vexilla exist. Ghost tithe. Fence is cage. |
+| **the Hold** | **~300 years.** Still **pre-Cadia**. Nine Vexilla. Fence is cage **most of the time**. Anomaly opens **~once per 20 years**. Tithe **always overproduced** (Badab / Huron lesson). |
 | **Valerian strife** | During the Hold, **after** nine Vexilla. Thin lock: [`valerian-heresy.md`](valerian-heresy.md). **Trusted PRIMA replacement** slain by **Corbec**. **Valerius** slain by **Alaric** and the **Emperor’s Wolf**. **DECIMA** is then founded from Alaric’s loyalists (**500** or more). |
 | **Cicatrix** (~999.M41) | Hits the **reflector** and **splits**. Mesh sits in a **V** of still-realspace. Cage becomes **shield**. |
 | **Primaris method** | **After** the Rift. Technology, not imported brothers. [`primaris-rubicon-intake.md`](../doctrine-and-organs/primaris-rubicon-intake.md) |
@@ -64,7 +64,7 @@ Landing strength from the deleted serial is **not** carried forward. Do not repr
 
 Marines **die**. As they take world after world they **already draft** neophytes from captured populations. **Risky adult conversion** is used **rarely** — most of those candidates **do not survive**; it does not restock the Chapter by itself. This is **Firstborn** local raising, **not** Primaris method (Primaris stays **post-Cicatrix**).
 
-Exact headcounts **TBD** after Chapter **age** is locked. Do not invent a close-number this pass.
+Exact headcounts **TBD**. Do not invent a close-number this pass.
 
 ---
 
@@ -84,10 +84,10 @@ Exact headcounts **TBD** after Chapter **age** is locked. Do not invent a close-
 | Band | Working length | Clock |
 |------|----------------|-------|
 | **Reclamation** | **Decades** (four campaigns; not centuries) | Pre-Cadia. They **become** Batavi here. |
-| **the Hold** | **~300 years** (three centuries of cage) | Still **pre-Cadia**. Fence is cage. Nine Vexilla. Valerian is a Hold war. |
+| **the Hold** | **~300 years** (three centuries of cage) | Still **pre-Cadia**. Fence is cage **most of the time**. Anomaly **~once per 20 years**. Tithe **always overproduced** (not Huron / Badab). Nine Vexilla. Valerian is a Hold war. |
 | **Era Indomitus (present)** | **~12 Terran years** after Cicatrix (~999.M41) | **Actual days:** Indomitus **first phase** ends ~12 years in (Plague Wars / Raukos clock, 2021 retcon). **Not** the old ~100-year crusade. **Not** leftover **045–180.M42** paper. Working Imperial present: **~012.M42**. Chronostrife may print other years; **CV** stays the operational metronome. |
 
-**As Batavi (now):** Hold **~300** + Indomitus **~12** = **~310 years**.
+**As Batavi (now):** Hold **~300** + Indomitus **~12** = **~310 years**. Isolation is the culture engine: **~15** anomaly windows in the Hold, the rest closed.
 
 Grey Hound service **before** the Reclamation is **extra** and **TBD** (Alaric is older as a marine than he is as a Batavi).
 

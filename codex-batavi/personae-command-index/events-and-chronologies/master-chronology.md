@@ -12,7 +12,7 @@
 * **Husk ingress:** **Grey Hounds** (*Slate Cohort — Hound Pattern*) lured or wrecked onto **one** island. Mars **one-shot bore**; hole closes; ghost tithe. Identity mystery. [`husk-ingress/SCAFFOLD.md`](../../chronicles/reclamation/husk-ingress/SCAFFOLD.md).
 * **Campaigns I–III:** Three macro-systems. **Aethelgard** is the **last** of that middle-section (Campaign III by job). I vs II among the other two **TBD**. Naming on the Aethelgard shingle: [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md). [`campaign-iii-third-island/SCAFFOLD.md`](../../chronicles/reclamation/campaign-iii-third-island/SCAFFOLD.md).
 * **Campaign IV — the Seal:** Ford / Ribbon **wall**. [`campaign-iv-the-seal/SCAFFOLD.md`](../../chronicles/reclamation/campaign-iv-the-seal/SCAFFOLD.md).
-* **the Hold:** **~300 years**, still pre-Cadia. Nine Vexilla. Fence is cage. [`the-hold/SCAFFOLD.md`](../../chronicles/reclamation/the-hold/SCAFFOLD.md).
+* **the Hold:** **~300 years**, still pre-Cadia. Nine Vexilla. Fence is cage **most of the time**. Anomaly **~once per 20 years**. Tithe always overproduced (Badab lesson). [`the-hold/SCAFFOLD.md`](../../chronicles/reclamation/the-hold/SCAFFOLD.md).
 * **Valerian strife:** During the Hold, after nine seats. Trusted PRIMA replacement slain by **Corbec**. **Valerius** slain by **Alaric** and the **Emperor’s Wolf**. **DECIMA** founded at close from Alaric’s loyalists (**500** or more). [`valerian-heresy.md`](valerian-heresy.md).
 * **Cicatrix (~999.M41):** Hits the **reflector**; mesh sits in a **V** of still-realspace. Cage becomes shield. **Present** is **~12 years** later (**~012.M42** working). As Batavi **~310 years**.
 
@@ -20,7 +20,7 @@
 
 *Ghost tithe already **~300 years** old. Super-tithe and forges continue. **Era Indomitus** on the mesh is **~12 Terran years**, not a century. Headcounts from the deleted serial are **not** reused here. Legacy stamps in §III–VI (045–180.M42, 100-year Silent Vigil) are **unmined paper** — do not treat them as the actual-days clock.*
 
-* **Shared Sweat / super-tithe (Badab lesson):** Hard-commits **Aequalitas Machinae** labor and pushes industrial output **~15%** above quota — city-scale proof the mesh can **feed** plate. Expansion toward **~5,000** is **Hold-era local raising**, sealed later with Primaris **method** (§III) — not imported brothers.
+* **Shared Sweat / super-tithe (Badab lesson):** Hard-commits **Aequalitas Machinae** labor and **always overproduces** tithe (**≥15%** over quota as the floor). Stockpile between anomaly windows; dump a fat convoy **~once per 20 years**. They will **not** become **Lufgt Huron** — isolation is not an excuse to withhold. Expansion toward **~5,000** is **Hold-era local raising**, sealed later with Primaris **method** (§III) — not imported brothers.
 
 ## III. Golden Projection era (045.M42 – 051.M42) — *legacy M42 stamps*
 

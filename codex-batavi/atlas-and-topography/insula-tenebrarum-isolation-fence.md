@@ -15,7 +15,7 @@
 | Item | Lock |
 |------|------|
 | **Castra mortals** | **Old Imperial remnant** — forgotten tithe, not a never-Crusaded wild people. |
-| **Ghost tithe** | The tithe is **real**. Terra **cannot reach it**. Paper continues. Hulls and astropaths do not. |
+| **Ghost tithe** | The tithe is **real**. Terra **cannot reach it** except when the **anomaly** opens. Paper continues. Hulls go out **~once per 20 years**. Between windows they **overproduce** and stockpile. |
 | **How the Chapter got in** | **Mars** fires a **one-shot bore**. They enter. The hole **closes**. They **go dark** — no Imperium comms. |
 
 ---
@@ -46,15 +46,18 @@ The vortex is **not** a door the Men of Iron meant to open. It is **system failu
 
 ---
 
-## IV. Pylon / key
+## IV. Pylon / anomaly (one opening per ~20 years)
 
-A local **pylon** (Mechanicus **does not understand** it) can **briefly** open the fence.
+A local **pylon** (Mechanicus **does not understand** it) can **briefly** open the fence. This is the **anomaly**.
+
+They spend **most** of the Hold **closed**. Culture depth is cage-time, not traffic.
 
 | Item | Lock |
 |------|------|
-| **What may leave** | **Hulls** jump to **safe realspace beside the Rift** (**Nihilus or Sanctus**). |
-| **Recharge** | **Months to one–two years.** |
-| **What may not** | **Comms.** A jumped hull is not a vox to Terra. |
+| **Cadence** | **Able to open once per ~20 years.** Not months. Not a yearly tithe run. Across **~300** Hold years that is **~15** windows. |
+| **What may leave** | **Hulls** jump to **safe realspace beside the Rift** (**Nihilus or Sanctus**) — tithe, proof, rare bodies. |
+| **What may not** | **Comms** as a standing line. A jumped hull is not a vox to Terra. |
+| **Tithe law** | Output is **always overproduced** (super-tithe, **≥15%** over quota as the floor). Stockpile between windows; dump a **fat** convoy when the anomaly opens. **Badab lesson:** they will **not** become **Lufgt Huron** — no withheld tithe, no “the center abandoned us so we keep the guns.” Isolation is never an excuse to short the Throne. |
 | **Den law** | While the hull is **outside** the V, it is **outside the den**. Re-entry is mesh weather again. |
 
 ---
@@ -77,4 +80,4 @@ When a **standing wound** is allowed, **Witness Ford** is the working candidate 
 
 ---
 
-*Last aligned: MoI reflector fence; V-shield at Cicatrix; navel vortex as MoI-defeat failure (Mechanicus stabilize); pylon hull-jumps; mesh entry = den weather.*
+*Last aligned: MoI reflector fence; V-shield at Cicatrix; navel vortex as MoI-defeat failure; anomaly **once per ~20 years**; super-tithe always on (Badab lesson); mesh entry = den weather.*
