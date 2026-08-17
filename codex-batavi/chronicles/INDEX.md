@@ -1,12 +1,8 @@
 # Chronicles (by saga / theme)
 
-## foundation-war (canonical serial)
+## the Reclamation (birth-war — scaffold)
 
-**Canonical narrative:** slug tree — [foundation-war/INDEX.md](foundation-war/INDEX.md) · [foundation-war/README.md](foundation-war/README.md) · [prose scaffold](foundation-war/PROSE-SCAFFOLD.md) · [novel structure pass](foundation-war/NOVEL-STRUCTURE-PASS.md) · [legacy → slug map](foundation-war/legacy-map.md) · [chronicles legacy map](legacy-map.md). **Serial complete** (Q0 prelude + 38 chapters; density + novel structure passes closed May 2026). **Quarter hubs:** [Q0](foundation-war/Q0-prelude/INDEX.md) · [Q1](foundation-war/Q1-moon-hunt/INDEX.md) · [Q2](foundation-war/Q2-inverted-war/INDEX.md) · [Q3](foundation-war/Q3-gulf-and-beast/INDEX.md) · [Q4](foundation-war/Q4-der-batav/INDEX.md). **Start:** [distress-vector](foundation-war/Q0-prelude/distress-vector/chapter.md).
-
-**Staff summary** (nine poles, phases, casualty bands, cross-links): [foundation-war.md](../personae-command-index/events-and-chronologies/foundation-war.md).
-
-**Drusus retrospective (in-universe, moved to staff archives):** [drusus-retrospective-aethelgard-first-quarter.md](../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md) — early Aethelgard / hunter-enclave texture; **not** canonical for troop counts (see serial + [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md)).
+**Hub:** [reclamation/INDEX.md](reclamation/INDEX.md) · [reclamation/README.md](reclamation/README.md). **Staff:** [the-reclamation.md](../personae-command-index/events-and-chronologies/the-reclamation.md). **Fence:** [insula-tenebrarum-isolation-fence.md](../atlas-and-topography/insula-tenebrarum-isolation-fence.md). **Timestamp:** **pre-Cadia** (year TBD). **Forbidden name:** Foundation War (serial **deleted**).
 
 **Geography lock:** [`../atlas-and-topography/castra-vetera-galactic-lock.md`](../atlas-and-topography/castra-vetera-galactic-lock.md).
 
@@ -206,7 +202,7 @@ Longform narrative for field-4 certified operations (each links back to its AAR)
 - [INDEX.md](vexillum-chronicles/INDEX.md) — chronicle list + pointers to **III** / **VIII** / Malakor-adjacent material
 - [ruhe-defense.md](vexillum-chronicles/ruhe-defense/chapter.md) — **QVARTA**, **048.M42** Tyranid veil / shingle line; **Branimir Vorhalt** POV; Drusus coefficients; *Alabarda* *March of the Machine* reference hold.
 - *(moved)* **Einar Dreadwolf** closed arc — [dreadwolf/INDEX.md](dreadwolf/INDEX.md) (**074–168.M42**; **not** field 4)
-- [gutgrind-descent.md](vexillum-chronicles/gutgrind-descent/chapter.md) — **QVINTA**, **121.M42** Selene-Black; **Armin Sturmwahl** vs Warboss Gutgrind; Ork scrap-spire; *Alabarda* field 4 (post–**Foundation War / Aethelgard opening** register).
+- [gutgrind-descent.md](vexillum-chronicles/gutgrind-descent/chapter.md) — **QVINTA**, **121.M42** Selene-Black; **Armin Sturmwahl** vs Warboss Gutgrind; Ork scrap-spire; *Alabarda* field 4 (post–**Reclamation** Aethelgard opening is **not** the field-4 receipt).
 - [korvus-twin-breach.md](vexillum-chronicles/korvus-twin-breach/chapter.md) — **SEXTA**, **098.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; *Alabarda* field 4.
 - [null-vent-covenant.md](vexillum-chronicles/null-vent-covenant/chapter.md) — **SEPTIMA**, **112.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; *Alabarda* field 4.
 - [silent-hours-marco-de-vetra.md](vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) — **NONA**, **140.M42** Marco de Vetra; **Cassian Vetra**; Shouter relay under EM storm; *Alabarda* field 4.

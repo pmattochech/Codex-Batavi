@@ -2,7 +2,7 @@
 
 *This list orders edicts, protocols, and doctrines by date of institution, tracing Alaric’s evolution from isolated warlord to the Imperium’s “Iron Administrator.”*
 
-**Calendar hygiene:** **~M42** stamps are **Imperial / Administratum** cross-filings. **Foundation crucible** events in Chapter annals are tracked in **CV years** — see [`master-chronology.md`](master-chronology.md) §I and [`foundation-war.md`](foundation-war.md); dates here may **lag** formal ratification (e.g. *Axiom* practiced in field before record seal).
+**Calendar hygiene:** **~M42** stamps are **Imperial / Administratum** cross-filings. **the Reclamation** and **the Hold** are **pre-Cadia** (year TBD) — see [`master-chronology.md`](master-chronology.md) §I and [`the-reclamation.md`](the-reclamation.md); dates here may **lag** formal ratification (e.g. *Axiom* practiced in field before record seal).
 
 ## I. FOUNDATION AND SURVIVAL (015.M42 – 050.M42)
 

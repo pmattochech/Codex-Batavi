@@ -2,7 +2,7 @@
 
 **Scope:** Native **super-predator** of **Aethelgard Prime** — **wolf-shaped** (*canid* body plan), with **convergent** traits that mirror **big-cat** wetland ambush ecology elsewhere in the galaxy. **Not** Fenrisian **Thunderwolf** (*Canis fenrisianus*); **not** Chapter heraldic **Batav Wolf** charges except by analogy.
 
-**Geography:** [../atlas-and-topography/cultures/geography-aethelgard-prime.md](../atlas-and-topography/cultures/geography-aethelgard-prime.md) · **system atlas:** [../atlas-and-topography/systems/system-ii-crucible.md](../atlas-and-topography/systems/system-ii-crucible.md) · **myth / naming:** [../lexicon-and-litanies/der-batav-myth-foundation.md](../lexicon-and-litanies/der-batav-myth-foundation.md)
+**Geography:** [../atlas-and-topography/cultures/geography-aethelgard-prime.md](../atlas-and-topography/cultures/geography-aethelgard-prime.md) · **system atlas:** [../atlas-and-topography/systems/system-ii-crucible.md](../atlas-and-topography/systems/system-ii-crucible.md) · **myth / naming:** [../lexicon-and-litanies/der-batav-myth.md](../lexicon-and-litanies/der-batav-myth.md)
 
 ---
 
@@ -67,7 +67,7 @@ The Batav Wolf is **not** only a coastal animal. It occupies **two** productive 
 
 **Two dominant modes:**
 
-**Spire / shore — “drop” hunt:** **Position** on exposed stone; **wait** for surge to deliver quarry; **short vertical leap** onto **young leviathans** feeding in estuary algae — kill at **rear cranial joint**; **drag** toward high stone (classic witness pattern in [der-batav-myth-foundation.md](../lexicon-and-litanies/der-batav-myth-foundation.md)).
+**Spire / shore — “drop” hunt:** **Position** on exposed stone; **wait** for surge to deliver quarry; **short vertical leap** onto **young leviathans** feeding in estuary algae — kill at **rear cranial joint**; **drag** toward high stone (classic witness pattern in [der-batav-myth.md](../lexicon-and-litanies/der-batav-myth.md)).
 
 **Swamp — “margin” hunt:** **Stalk** along drowned channels and peat islands; **ambush** at **neck** or skull from cover — fish, **mud lunger** analogues, smaller armored **channel** beasts, and occasionally **juvenile** leviathan-class migrants in **brackish** choke points. Uses **water** as **lane** and **sound cover**; crosses open bog only when **calendar** forces prey.
 
@@ -81,7 +81,7 @@ The Batav Wolf is **not** only a coastal animal. It occupies **two** productive 
 
 **Economy:** Competes with **sonar meat** fisheries and **mud trappers**; shapes **Needles** schedules, **bridge** detours, and **swamp** peat routes **seasonally**.
 
-**Taboo / allegory:** **Der Batav** prophecy — fulcrum in [der-batav-myth-foundation.md](../lexicon-and-litanies/der-batav-myth-foundation.md).
+**Taboo / allegory:** **Der Batav** prophecy — fulcrum in [der-batav-myth.md](../lexicon-and-litanies/der-batav-myth.md).
 
 **Ministorum edge cases:** Allegory tolerated; **beast-worship** prosecutions **rare**.
 
@@ -99,7 +99,7 @@ The Batav Wolf is **not** only a coastal animal. It occupies **two** productive 
 
 ## Revision discipline
 
-If **`foundation-war.md`**, the **canonical slug serial** ([`foundation-war/INDEX.md`](../chronicles/foundation-war/INDEX.md)), or **`geography-aethelgard-prime.md`** revise **shoreline** or **swamp** mechanics, **leviathan** canon, or **prey** lists, reconcile hunting lore here — this entry is **symbol + ecology**, not alternate chronology.
+If **`the-reclamation.md`**, Reclamation scaffolds, or **`geography-aethelgard-prime.md`** revise **shoreline** or **swamp** mechanics, **leviathan** canon, or **prey** lists, reconcile hunting lore here — this entry is **symbol + ecology**, not alternate chronology.
 
 ---
 

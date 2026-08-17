@@ -115,11 +115,11 @@ Summary:
 - [ ] Triumvirate dossiers — **Varro / Drusus** psychology vs **Alaric** patriarch load ([`dossier-varro.md`](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [`dossier-drusus.md`](../personae-command-index/character-dossiers/triumvirate/dossier-drusus.md) · [`dossier-alaric.md`](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md)).
 - [ ] [`chassis-and-armor-catalog.md`](../arsenal-and-logistics/chassis-and-armor-catalog.md) / [`vexilla-operational-armory.md`](../arsenal-and-logistics/vexilla-operational-armory.md) — Firstborn vs Primaris era kit.
 - [ ] [`master-chronology.md`](../personae-command-index/events-and-chronologies/master-chronology.md) — **done this pass:** Primaris **method** (no imported brothers).
-- [x] [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md) — population / Valerian / **Adversarii** bullets (merged).
+- [x] [the Reclamation](../personae-command-index/events-and-chronologies/the-reclamation.md) — population / Valerian / **Adversarii** bullets (merged).
 
 ---
 
 ## 8. Cross-links
 
-- Foundation war / MoI / time layer: [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md)
+- the Reclamation / MoI fence / time layer: [the Reclamation](../personae-command-index/events-and-chronologies/the-reclamation.md) · [`insula-tenebrarum-isolation-fence.md`](../atlas-and-topography/insula-tenebrarum-isolation-fence.md)
 - Full clinical detail: [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)

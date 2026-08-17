@@ -41,7 +41,7 @@ When the Chapter became Batavi on this island, the loudest living bodies became 
 | Batavi (of the people, raised here or adopted here) **outside** the mesh | **Still carries it.** Geography is optional after the claim. Stages are not healed by leaving. |
 | Local aspirant / Rubicon brother, raised as Batavi | **Normal clinical law.** Crossing or implantation in the den is infection; **raising** is the difference between a brother and a Versibar on the dock. |
 
-**Frontier (this pass):** the claim line is **Castra Vetera weather** — the polity / mesh of **Insula Tenebrarum**, not “any warp jump.” This file does **not** split hull-in-void versus boots-on-Noviomagus. Both are inside the den until atlas says otherwise.
+**Frontier (this pass):** **Castra Vetera weather** = the **V / Insula Tenebrarum mesh**. Hull or boots — **same den**. Terra-side of the fence is not. Detail: [`insula-tenebrarum-isolation-fence.md`](../../atlas-and-topography/insula-tenebrarum-isolation-fence.md) §V.
 
 **Frequency:** the unraised cascade is **metaphysically true**. In-story it may be **once**, or never witnessed, or Varro’s private bet. Do not make dock-Versibars a routine import screen.
 
@@ -68,7 +68,11 @@ They must **not** conclude Russ, anti-Russ, or Morkai-with-another-accent. They 
 
 ## V. Mortals of the den
 
-The presence kept **the largest part** of Castra’s human remnant free of the big corruptions during isolation. It is **not** a perfect filter and **not** a mortal werewolf plague on the open record. Full hunter-office sits in **Astartes** sockets. Thinner mortal bite is **not** locked this pass.
+The presence kept **the largest part** of Castra’s human remnant free of the big corruptions during isolation. It is **not** a perfect filter and **not** a werewolf plague.
+
+**Thinner mortal bite (locked):** a **few** Castra humans carry a whisper — dreams, pack-superstition, wolf-marked folklore — **not** Furor / Exanimus / Execratio. Full hunter-office sits in **Astartes** sockets. Do not write mortal Versibars.
+
+**Den weather:** mesh entry (hull or boots — same V). See [`insula-tenebrarum-isolation-fence.md`](../../atlas-and-topography/insula-tenebrarum-isolation-fence.md) §V.
 
 ---
 

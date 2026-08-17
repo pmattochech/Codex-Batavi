@@ -44,7 +44,7 @@ Main sections use level-2 headings; subsections level-3; field labels **bold** w
 
 **Successor chapters:** **None registered.** The Chapter does not tithe gene-seed outward at a scale that would found named successors on open record.
 
-**Founding:** **Unknown** (numbered Founding not disclosed). Operational rebirth and name ratification cluster in the **Castra Vetera (CV)** annals (**Foundation War** crucible → **Cohors Batavorum** council, *ca.* CV y29–y37); Imperial cross-filings are **approximate** (*Chronostrife*, mesh variance). See [foundation-war.md](events-and-chronologies/foundation-war.md), [master-chronology.md](events-and-chronologies/master-chronology.md).
+**Founding:** **Unknown** (numbered Founding not disclosed). Operational rebirth and name ratification: **the Reclamation**, Campaign III (**pre-Cadia**, year TBD). Imperial cross-filings are **approximate**. See [the-reclamation.md](events-and-chronologies/the-reclamation.md), [master-chronology.md](events-and-chronologies/master-chronology.md).
 
 **Reason of Founding:** Hold **Insula Tenebrarum** — the **Castra Vetera** island mesh — as **filter against the tide**: transform the **Aethelgard** crucible and **Nine Phalanx** into a permanent **wall** (xenos, Chaos bleed, renegade void) — not a parade founding, a **friction** founding.
 
@@ -387,7 +387,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 ### Order of Battle
 
-**999.M41:** **Not applicable** — pre–Foundation crucible filings destroyed or **redacted**; Chapter in current form post-dates usable Administratum snapshot.
+**999.M41:** Cicatrix hits the **reflector**; mesh V-shield. Chapter birth is **pre-Cadia Reclamation**, not this stamp.
 
 **Current:** **Standard Order of Battle, ca. 570.M42** (frozen unless Triumvirate unanimous review):
 
@@ -443,7 +443,7 @@ Per-Vexilla split: [military-hierarchy.md](doctrine-and-organs/military-hierarch
 
 **Chief Librarian:** **Otho** — *Blood Augur*; [dossier-otho.md](character-dossiers/council-orders/dossier-otho.md).
 
-**Chapter history:** Foundation crucible → *Cohors Batavorum* ratification → Malakor treason → Silent Vigil → post-Vigil purges. [master-chronology.md](events-and-chronologies/master-chronology.md).
+**Chapter history:** Husk ingress → **the Reclamation** → **the Hold** → Valerian strife → Cicatrix V-shield → Silent Vigil (legacy M42 stamps) → post-Vigil purges. [master-chronology.md](events-and-chronologies/master-chronology.md).
 
 **Legendary figures:** Alaric (living); Drusus/Varro; expunged **Valerius**; Tobias (mortal martyr); Viggo (anchor beast, deceased).
 

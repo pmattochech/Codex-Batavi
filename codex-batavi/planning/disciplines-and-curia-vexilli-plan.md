@@ -19,7 +19,7 @@ Post–**Valerian Heresy** doctrine splits what chimeric architecture **offers**
 
 **Wolf’s Curse** is not a fourth discipline. It is **degeneration** when the fire is not held on the wall but allowed to eat the marrow.
 
-**Historical note:** Foundation War and early Ork/Tyranid contacts record **uncontrolled** mass responses — biology ahead of rite, before ***Curia Vexilli*** harness. Post–***ca.* 051.M42** field speech uses only the three discipline names below.
+**Historical note:** the Reclamation and early Ork/Tyranid contacts record **uncontrolled** mass responses — biology ahead of rite, before ***Curia Vexilli*** harness. Post–***ca.* 051.M42** field speech uses only the three discipline names below.
 
 ---
 

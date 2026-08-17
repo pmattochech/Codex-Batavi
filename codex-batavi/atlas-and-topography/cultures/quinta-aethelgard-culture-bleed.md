@@ -17,7 +17,7 @@
 | Layer | Owns | Does not own |
 |-------|------|--------------|
 | **Populi ethnography** ([Phase A](ethnography-aethelgard-prime.md)) | Mud-as-budget; tide exposure / embankment rights; salt-cup witness; river arbiter law; ghost haul as local mortal sin; fiction strata Rabble · Common · Upper · Span-ledger bridge band; Ministorum mud-boot compromise; Storm-Master as **route weather** (surface nickname only) | *Axiom*; Wild Hunt clinical law; jump-certification doctrine; Legatus shame lattice; *Alabarda* field register; sealed recovery / *Amissi* / Steppenwolf files |
-| **QVINTA** | Storm-assault war-culture; jump-pack density and descent certification; chainsword-primary pure-line exception; boltstorm landing → saw-mass closure; Type Descensus / contagion puncture command style; countdown cadence under Sturmwahl; Foundation crucible as **pedagogical myth** inside Chapter briefings; QVINTA cadence as Iron Protocol answer (*We hold, as the Needles hold the cold tide.*) | Stamp-booth holiness; salt-cup estuary court; civilian gate tallies; water-right fees; ghost-haul prosecution as civic religion; cliff-gallery tithe theater |
+| **QVINTA** | Storm-assault war-culture; jump-pack density and descent certification; chainsword-primary pure-line exception; boltstorm landing → saw-mass closure; Type Descensus / contagion puncture command style; countdown cadence under Sturmwahl; the Reclamation as **pedagogical myth** inside Chapter briefings; QVINTA cadence as Iron Protocol answer (*We hold, as the Needles hold the cold tide.*) | Stamp-booth holiness; salt-cup estuary court; civilian gate tallies; water-right fees; ghost-haul prosecution as civic religion; cliff-gallery tithe theater |
 | **This bleed file** | Bidirectional habits at the seam; hard edges; class contact misreads; institutions that actually touch plate; Wrong / Right fiction tells | Replacing Phase A; inventing Founding / progenitor; Phase C wing periphery stubs; street “facts” about Einar / *Amissi* |
 
 **One-sentence contract:** Mortals keep the **mud honest**; QVINTA keeps the **drop clock** honest — same moon, two ledgers, one Wall shadow.
@@ -34,7 +34,7 @@
 
 4. **Bridge ≠ billet:** **Span-ledger houses** (bridge-guild masters, salt elders with claw contracts, arbiter alumni) = named lower-upper **civil bridge** — witness-debt brokerage, face-hold when descent weather moves markets, quiet translation between mud court and seal booth. They are **not** QVINTA billet, not jump-certified, not *Alabarda* escorts. Kitchen / Shared Sweat embankment sweat is **parallel mud**, not a promotion ladder into plate.
 
-5. **Xenos / civic hate ≠ Chapter geometry:** Civic **Moon Hunt** grandmother law (unclassified mercenary hunting weather; wrong reek = evacuate) and Needles hate of hunting seasons ≠ Chapter Foundation crucible doctrine, Wild Hunt endocrine authorization, or friend–foe discrimination law inside the helm. Mortals run for embankments; QVINTA files threat geometry and drop slots. Ork scrap-spire triumph gossip (thin, allowed) ≠ street lectures on *Alabarda* field 4 register logic. No civic “welcome” for xenos retainers; no mortal ownership of sealed campaign labels.
+5. **Xenos / civic hate ≠ Chapter geometry:** Civic **Moon Hunt** grandmother law (unclassified mercenary hunting weather; wrong reek = evacuate) and Needles hate of hunting seasons ≠ Chapter the Reclamation doctrine, Wild Hunt endocrine authorization, or friend–foe discrimination law inside the helm. Mortals run for embankments; QVINTA files threat geometry and drop slots. Ork scrap-spire triumph gossip (thin, allowed) ≠ street lectures on *Alabarda* field 4 register logic. No civic “welcome” for xenos retainers; no mortal ownership of sealed campaign labels.
 
 ---
 
@@ -98,7 +98,7 @@
 
 3. **Quiet priests rise; foreign bells fall.** Helm permanence and countdown cool undercut idle cathedral theater during surge **and** during descent weather. Mud-boot priests who clear embankments beside Shared Sweat gain face; loud missionaries who demand Mass during Storm-Master windows lose it — same accent conflict as Phase A, now with a second clock.
 
-4. **Gutgrind / Ork scrap-spire (thin triumph gossip).** After certified QVINTA triumphs in-system (Selene-Black scrap-spire clearance), mortals may repeat **Ork weather broke** and take dark pride. They do **not** own *Alabarda* fourth-field register logic, Foundation War vs field-4 chronology, or sealed AAR taxonomy. Chronological blindness: grandparents’ Moon Hunt and later Ork clearances blur into “hunting weather” unless a clerk forces dates.
+4. **Gutgrind / Ork scrap-spire (thin triumph gossip).** After certified QVINTA triumphs in-system (Selene-Black scrap-spire clearance), mortals may repeat **Ork weather broke** and take dark pride. They do **not** own *Alabarda* fourth-field register logic, the Reclamation vs field-4 chronology, or sealed AAR taxonomy. Chronological blindness: grandparents’ Moon Hunt and later Ork clearances blur into “hunting weather” unless a clerk forces dates.
 
 ---
 

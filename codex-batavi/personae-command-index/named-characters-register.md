@@ -76,8 +76,8 @@
 | **Warboss Skarjaw** — Ork | South Wall; Green Tempest era |
 | **Warboss Gutgrind** — Ork (Selene-Black) | QVINTA descent kill |
 | **Threx** — *Lex Ignis* Genetor | Foundation salvage friction — [`dossier-threx.md`](character-dossiers/supporting/dossier-threx.md) |
-| **Captain Orwen** — Imperial Navy | Tide-naming witness — [`tide-names/chapter.md`](../chronicles/foundation-war/Q4-der-batav/tide-names/chapter.md) |
-| **Sergeant Kessler** — Militarum | Wounded witness (not Legatus Henric Kessler) — Q4 testimony [`der-batav-council/chapter.md`](../chronicles/foundation-war/Q4-der-batav/der-batav-council/chapter.md) |
+| **Captain Orwen** — Imperial Navy | Tide-naming witness — [the Reclamation](events-and-chronologies/the-reclamation.md) |
+| **Sergeant Kessler** — Militarum | Wounded witness (not Legatus Henric Kessler) — Q4 testimony [the Reclamation](events-and-chronologies/the-reclamation.md) |
 
 ### Guest Imperial personae (not Batavi roster)
 

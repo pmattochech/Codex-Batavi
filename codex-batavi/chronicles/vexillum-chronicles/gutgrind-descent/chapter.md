@@ -5,7 +5,7 @@
 **Where:** **Selene-Black** — shepherd moon, Aethelgard gas-giant tide well  
 **Who:** **QVINTA** under **Legatus Armin Sturmwahl**; Orks — Waaagh! splinter **Gutgrind**
 
-**Cross-references:** [dossier-armin-sturmwahl.md](../../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.5 · [vexilla-by-vexilla-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §3 · [drusus-retrospective-aethelgard-first-quarter.md](../../../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md) (Foundation War — Aethelgard archive lens; **not** field 4)
+**Cross-references:** [dossier-armin-sturmwahl.md](../../../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) · [master-chronology.md](../../../personae-command-index/events-and-chronologies/master-chronology.md) §IV · [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.5 · [vexilla-by-vexilla-design.md](../../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §3 · [drusus-retrospective-aethelgard-first-quarter.md](../../../personae-command-index/events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md) (the Reclamation — Aethelgard archive lens; **not** field 4)
 
 ---
 
@@ -79,13 +79,13 @@ There was no speech worth recording. There was only **beacon green** — eleven 
 
 Thirty-one brothers did not walk off Selene-Black under their own power — Dreadnought candidacy, permanent mutilation, or names added to slabs. QVINTA carried the tally the way Sturmwahl carried scuffed crimson trim: **visible**, **unromantic**.
 
-In later briefings he cited **Gutgrind** beside **Aethelgard Foundation War** jungle myths — different enemy, different decade, same lesson: **gravity** and **Orks** agree only that what falls should fall **hard**.
+In later briefings he cited **Gutgrind** beside **Aethelgard the Reclamation** jungle myths — different enemy, different decade, same lesson: **gravity** and **Orks** agree only that what falls should fall **hard**.
 
 ---
 
 ## VII. FIELD FOUR
 
-The Foundation campaign on Aethelgard had forged the Chapter in blood — the register still files under the **Foundation War** opening. That crucible predated the **public** fourth-field certification logic for Legatus *Alabarda* — the cloth law that would later demand an **audit-grade** named triumph per Vexilla grid.
+The Foundation campaign on Aethelgard had forged the Chapter in blood — the register still files under the **the Reclamation** opening. That crucible predated the **public** fourth-field certification logic for Legatus *Alabarda* — the cloth law that would later demand an **audit-grade** named triumph per Vexilla grid.
 
 **Gutgrind Descent** became QVINTA’s answer on the heraldic receipt: **Orks**, **jump closure**, **Aethelgard system** — proof assault Primaris culture was not **memory** but **ongoing** **proof**.
 

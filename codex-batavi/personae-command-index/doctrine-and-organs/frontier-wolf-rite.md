@@ -101,7 +101,7 @@ The two plaques form an inseparable pair — full identity of a Batavi. A man wh
 
 ### The chain
 
-The practice began during the Foundation War without formal doctrine — Alaric took the plaques from the first brother he executed and never stopped. The cord grew as the war grew and marines fell.
+The practice began during the the Reclamation without formal doctrine — Alaric took the plaques from the first brother he executed and never stopped. The cord grew as the war grew and marines fell.
 
 Alaric removes plaques from each Versibar he executes — by Testament ritual or on the battlefield — and binds them to a heavy steel cord wound in multiple turns on the right pauldron of *Castra-Lupus*, under Viggo’s white pelt. The pelt’s weight presses most metal against ceramite, silencing most plaques. Only those on the lower edge stay exposed to motion — they make the characteristic clink when Alaric walks: punctual, metallic, discreet.
 
@@ -111,16 +111,16 @@ Chapter veterans recognize that sound. Neophytes learn it in the first month of 
 
 **743 pairs** — 1,486 individual plaques. Roughly 97 kg of iron and ceramite pressed under Viggo’s pelt.
 
-Volume splits across two periods with radically different rates (Imperial calendar **approximate**; annals **CV y0–y29** for crucible — see [`foundation-war.md`](../events-and-chronologies/foundation-war.md), [`master-chronology.md`](../events-and-chronologies/master-chronology.md) §I):
+Volume splits across two periods with radically different rates (Imperial calendar **approximate**; annals **CV y0–y29** for crucible — see [the Reclamation](../events-and-chronologies/the-reclamation.md), [`master-chronology.md`](../events-and-chronologies/master-chronology.md) §I):
 
-* **Crucible / Foundation era (~015–045.M42 *approx*; annals ~CV y0–y29):** **~415 pairs** on the cord by the ratification era — the **largest** tranche because *Axiom of Reason* is young, chimeric predisposition poorly mapped, and replenishment waves keep feeding the furnace. Pair count is **not** identical to “first landing headcount”: it counts **every** **Versibar** Lord Castellan executes and binds under rite across the war, including brothers raised **during** the crucible. Older staff scrolls that assumed **~650** pairs assumed a different census model — **superseded** here (see [`foundation-war.md`](../events-and-chronologies/foundation-war.md) §3).
+* **Crucible / Foundation era (~015–045.M42 *approx*; annals ~CV y0–y29):** **~415 pairs** on the cord by the ratification era — the **largest** tranche because *Axiom of Reason* is young, chimeric predisposition poorly mapped, and replenishment waves keep feeding the furnace. Pair count is **not** identical to “first landing headcount”: it counts **every** **Versibar** Lord Castellan executes and binds under rite across the war, including brothers raised **during** the crucible. Older staff scrolls that assumed **~650** pairs assumed a different census model — **superseded** here (see [the Reclamation](../events-and-chronologies/the-reclamation.md) §3).
 * **Post-ratification (045–180.M42):** **~328 pairs** cumulative to the **180.M42** ledger (**743** total − **415** crucible), i.e. **far lower per decade** once Testament discipline and *Axiom* contain Execratio. Over **135+** years with a **5,000**-marine Chapter, accrual is **orders of magnitude** calmer than the crucible decades — functional doctrine, not mercy.
 
 The difference between the two periods is not only numeric. It is the physical-weight record of the cost of learning to be what Batavi are.
 
 Haldor is the most recent pair — added after Incus-Gravis. The root plaque carries the name he had before Noviomagus. The iron plaque carries the name the Chapter gave him.
 
-None of the 1,486 plaques bears Alaric’s name. He does not perform this rite for himself. There is a lone plaque on the cord — no pair, inserted among Foundation War pairs — that Drusus added without explanation after Alaric’s crucible Execratio (**~CV y19**; Imperial filings often cite **~031.M42** *approx*). It is the only piece on the cord that does not follow the pair system. Alaric never asked what is carved on it. Drusus never explained.
+None of the 1,486 plaques bears Alaric’s name. He does not perform this rite for himself. There is a lone plaque on the cord — no pair, inserted among the Reclamation pairs — that Drusus added without explanation after Alaric’s crucible Execratio (**~CV y19**; Imperial filings often cite **~031.M42** *approx*). It is the only piece on the cord that does not follow the pair system. Alaric never asked what is carved on it. Drusus never explained.
 
 ---
 
