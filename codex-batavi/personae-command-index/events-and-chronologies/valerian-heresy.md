@@ -1,21 +1,25 @@
 # VALERIAN HERESY (staff summary)
 
-**Status:** Thin lock. **When:** **the Hold**, **pre-Cadia**, after **nine Vexilla**. Year **TBD**.  
+**Status:** Thin lock. **When:** **the Hold**, **pre-Cadia**, after **nine Vexilla**. Year **TBD** (Chapter age first).  
 **Saga scaffold:** [`../../chronicles/silent-vigil/valerian-heresy/SCAFFOLD.md`](../../chronicles/silent-vigil/valerian-heresy/SCAFFOLD.md)  
 **Reclamation:** [`the-reclamation.md`](the-reclamation.md)
 
-**Forbidden this pass:** reprinting Foundation War close-math; using Malakor headcounts as origin; placing this war in a thirty-year M42 sprint after a deleted crucible.
+**Forbidden this pass:** reprinting Foundation War close-math; using Malakor headcounts as origin; placing this war in a thirty-year M42 sprint after a deleted crucible; mining published `chapter.md` (leave untouched until Valerian prose — **before** Reclamation novels, **not now**).
+
+**Malakor:** geography **to revise** — do not treat current Malakor stamps as origin law.
 
 ---
 
 ## Summary
 
-Brother-war during the Hold. **Valerius** (original **PRIMA** Legatus) becomes **Castellan-claimant**. A trusted man raised to PRIMA **dies** (how TBD). **Most** of the Chapter follows Valerius. **Alaric** keeps **SECVNDA (Kessler), SEXTA (Bifronte), NONA (Cassian)** — still first of those seats.
+Brother-war during the Hold. **Valerius** (original **PRIMA** Legatus) becomes **Castellan-claimant**. A trusted man raised to PRIMA is **slain by Corbec**. **Most** of the Chapter follows Valerius. **Alaric** keeps **SECVNDA (Kessler), SEXTA (Bifronte), NONA (Cassian)** — still first of those seats.
 
 **Traitor seats** (original Legati dead or expunged): PRIMA, TERTIA, QVARTA, QVINTA, SEPTIMA, OCTAVA.  
 **Captains who crossed** (today’s Legati): Corbec, Brach, Valestrand, Sturmwahl, Phaetron, Ivar. Crossed brothers → later **1st companies**.
 
-**The war ends with Valerius’s death** (how TBD). **DECIMA does not exist yet.**
+**The war ends** when **Valerius** is **slain by Alaric and the Emperor’s Wolf** (*LVPVS IMPERATORIS* office — first incumbent **TBD**; do not assume **Graile**).
+
+**DECIMA** does **not** exist as a tenth Vexillum **during** the war. At **close**, it is founded from the loyal marines who **stayed with Alaric** — locked as the **first 500 or more** (Vexilla scale). SECVNDA / SEXTA / NONA remain their own seats.
 
 ---
 
@@ -27,4 +31,4 @@ Not possession rewriting loyalty. A question (**why?**) answered over years. Fin
 
 ## Legacy prose
 
-Published `chapter.md` under `chronicles/silent-vigil/valerian-heresy/` is **unmined**. Scaffold beat sheets (P0–P5) are **deleted**. Mine later.
+Published `chapter.md` under `chronicles/silent-vigil/valerian-heresy/` is **unmined**. **Leave it untouched** this pass. Write Valerian prose **before** Reclamation novels — **not now**. Scaffold beat sheets (P0–P5) are **deleted**.

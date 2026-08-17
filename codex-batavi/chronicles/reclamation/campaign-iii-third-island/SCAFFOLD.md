@@ -11,13 +11,13 @@
 
 ## Thesis
 
-Third macro-system of the Nine Phalanx. They choose this war. Codex revision continues. Visible enemy is local and real.
+**End of the middle-section.** Last of the three macro-system wars. This is the **conquest of Aethelgard**. Codex revision continues. Visible enemy is local and real.
 
 ## Beat locks
 
-- Which macro-system is third: TBD (they choose)
-- Navel vortex may open mid-Reclamation (MoI) — exact campaign TBD
-- Chapter **name** lives in the myth: Aethelgard people seeing them — [`der-batav-myth.md`](../../../lexicon-and-litanies/der-batav-myth.md). Do not make this slug a naming chronicle.
+- Theater: **Aethelgard** (Crucible / Tempest-Major moon-world)
+- **Naming:** Aethelgard people see them on the shingle — [`der-batav-myth.md`](../../../lexicon-and-litanies/der-batav-myth.md). Wiki lock only; **no novel** this pass
+- Navel vortex is **MoI-defeat failure**, not this slug’s job to invent — [`insula-tenebrarum-isolation-fence.md`](../../../atlas-and-topography/insula-tenebrarum-isolation-fence.md)
 
 ## Chronicle law
 
@@ -25,9 +25,9 @@ Third macro-system of the Nine Phalanx. They choose this war. Codex revision con
 - No time dilation
 - No Foundation War name, poles, or restored slugs
 - Chronological blindness
+- **No novel prose this pass** — wiki/staff only
 
 ## Open questions
 
-- Exact years (later)
-- Husk Chapter name (later)
-- Order of the three macro-systems (they choose)
+- Exact years (after age lock)
+- Campaigns I vs II among the other two macro-systems

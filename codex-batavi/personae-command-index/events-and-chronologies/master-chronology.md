@@ -9,11 +9,11 @@
 
 *Birth-war and centuries of cage. **Forbidden name:** Foundation War. Serial deleted. Scaffolds: [`../../chronicles/reclamation/INDEX.md`](../../chronicles/reclamation/INDEX.md). Staff: [`the-reclamation.md`](the-reclamation.md).*
 
-* **Husk ingress:** Incomplete Chapter (name TBD) lured or wrecked onto **one** island. Mars **one-shot bore**; hole closes; ghost tithe. [`husk-ingress/SCAFFOLD.md`](../../chronicles/reclamation/husk-ingress/SCAFFOLD.md).
-* **Campaigns I–III:** Three macro-systems, order **chosen**. Campaign III is the last island-war, **not** a naming chronicle. [`campaign-iii-third-island/SCAFFOLD.md`](../../chronicles/reclamation/campaign-iii-third-island/SCAFFOLD.md). *Der Batav* / **Cohors Batavorum** named by **Aethelgard witnesses**: [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md).
+* **Husk ingress:** **Grey Hounds** (*Slate Cohort — Hound Pattern*) lured or wrecked onto **one** island. Mars **one-shot bore**; hole closes; ghost tithe. Identity mystery. [`husk-ingress/SCAFFOLD.md`](../../chronicles/reclamation/husk-ingress/SCAFFOLD.md).
+* **Campaigns I–III:** Three macro-systems. **Aethelgard** is the **last** of that middle-section (Campaign III by job). I vs II among the other two **TBD**. Naming on the Aethelgard shingle: [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md). [`campaign-iii-third-island/SCAFFOLD.md`](../../chronicles/reclamation/campaign-iii-third-island/SCAFFOLD.md).
 * **Campaign IV — the Seal:** Ford / Ribbon **wall**. [`campaign-iv-the-seal/SCAFFOLD.md`](../../chronicles/reclamation/campaign-iv-the-seal/SCAFFOLD.md).
 * **the Hold:** **Centuries**, still pre-Cadia. Nine Vexilla. Fence is cage. [`the-hold/SCAFFOLD.md`](../../chronicles/reclamation/the-hold/SCAFFOLD.md).
-* **Valerian strife:** During the Hold, after nine seats. Ends with **Valerius’s death** (how TBD). [`valerian-heresy.md`](valerian-heresy.md).
+* **Valerian strife:** During the Hold, after nine seats. Trusted PRIMA replacement slain by **Corbec**. **Valerius** slain by **Alaric** and the **Emperor’s Wolf**. **DECIMA** founded at close from Alaric’s loyalists (**500** or more). [`valerian-heresy.md`](valerian-heresy.md).
 * **Cicatrix (~999.M41):** Hits the **reflector**; mesh sits in a **V** of still-realspace. Cage becomes shield.
 
 ## II. Post-Rift bridge (Imperial ~M42 filings)

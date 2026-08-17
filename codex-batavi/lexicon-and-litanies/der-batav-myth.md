@@ -48,7 +48,7 @@ They do not match a seal. They match what the swamp already taught them: **grey 
 
 *Der Batav* is the native gloss: *the iron that stayed*.
 
-Year and which island-war this falls in remain **TBD**. Do not file it as Campaign III staff. Do not restore deleted serial slugs.
+Year remains **TBD** (Chapter age first). The **conquest of Aethelgard** is the **end of the middle-section** (last of the three macro-system wars). Naming happens **there**. Do not restore deleted serial slugs.
 
 ---
 

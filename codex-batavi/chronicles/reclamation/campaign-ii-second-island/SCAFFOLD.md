@@ -15,18 +15,18 @@ Second macro-system. Revision continues. Isolation fence already a fact of weath
 
 ## Beat locks
 
-- Second system TBD by choice-order
-- Navel vortex may open mid-Reclamation (MoI) — exact campaign TBD
+- Second system **TBD** — **not** Aethelgard
+- Navel vortex = **MoI-defeat failure** (not a mid-war gift-door) — exact beat when they beat the MoI, staff: fence file
 
 ## Chronicle law
 
-- Pre-Cadia; no invented M41 year this pass
+- Pre-Cadia; no invented M41 year this pass (Chapter **age** first)
 - No time dilation
 - No Foundation War name, poles, or restored slugs
 - Chronological blindness
+- **No novel prose this pass**
 
 ## Open questions
 
-- Exact years (later)
-- Husk Chapter name (later)
-- Order of the three macro-systems (they choose)
+- Exact years (after age lock)
+- Which of the two non-Aethelgard macro-systems is second

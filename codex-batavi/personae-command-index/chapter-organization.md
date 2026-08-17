@@ -44,7 +44,7 @@ Main sections use level-2 headings; subsections level-3; field labels **bold** w
 
 **Successor chapters:** **None registered.** The Chapter does not tithe gene-seed outward at a scale that would found named successors on open record.
 
-**Founding:** **Unknown** (numbered Founding not disclosed). Operational rebirth: **the Reclamation** (**pre-Cadia**, year TBD). **Name:** given by the **people of Aethelgard** who saw them — *Der Batav* / **Cohors Batavorum** ([der-batav-myth.md](../lexicon-and-litanies/der-batav-myth.md)); **not** a Campaign III chronicle. Imperial cross-filings are **approximate**. See [the-reclamation.md](events-and-chronologies/the-reclamation.md), [master-chronology.md](events-and-chronologies/master-chronology.md).
+**Founding:** **Unknown** (numbered Founding not disclosed). Paper husk: **Grey Hounds** / *Slate Cohort — Hound Pattern*. Operational rebirth: **the Reclamation** (**pre-Cadia**, year TBD — Chapter **age** first). **Name:** given by the **people of Aethelgard** at the **end of the middle-section** — *Der Batav* / **Cohors Batavorum** ([der-batav-myth.md](../lexicon-and-litanies/der-batav-myth.md)). Imperial cross-filings are **approximate**. See [the-reclamation.md](events-and-chronologies/the-reclamation.md), [master-chronology.md](events-and-chronologies/master-chronology.md).
 
 **Reason of Founding:** Hold **Insula Tenebrarum** — the **Castra Vetera** island mesh — as **filter against the tide**: transform the **Aethelgard** crucible and **Nine Phalanx** into a permanent **wall** (xenos, Chaos bleed, renegade void) — not a parade founding, a **friction** founding.
 

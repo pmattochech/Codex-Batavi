@@ -4,9 +4,9 @@
 **Other titles:** King of the Spines, Architect of Ashes, Void Warden, First Batavi  
 **Codename:** The Anchor / The Unbent  
 **Archetype:** Industrial beast / living wall  
-**Estimated age:** **TBD** — husk ingress and Reclamation are **pre-Cadia**; do not print a Terran year-count as fact this pass.
+**Estimated age:** **TBD** — lock Chapter age before printing a Terran year-count. Husk and Reclamation are **pre-Cadia**.
 
-**Origin war:** [`the-reclamation.md`](../../events-and-chronologies/the-reclamation.md). Execratio fall/return: **during the Reclamation** (year TBD). **Name:** Aethelgard witnesses — [`der-batav-myth.md`](../../../lexicon-and-litanies/der-batav-myth.md).
+**Origin war:** Grey Hounds → [`the-reclamation.md`](../../events-and-chronologies/the-reclamation.md). Execratio fall/return: **during the Reclamation** (year TBD). **Name:** Aethelgard witnesses at the **end of the middle-section** — [`der-batav-myth.md`](../../../lexicon-and-litanies/der-batav-myth.md). **Valerius:** slain by Alaric and the **Emperor’s Wolf**.
 
 ## 1\. PSYCHOLOGICAL AND COMMAND PROFILE
 

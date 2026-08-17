@@ -15,19 +15,20 @@ They choose the rest. First macro-system of the Nine Phalanx. Codex still the sp
 
 ## Beat locks
 
-- Which macro-system is first: TBD (they choose)
+- First macro-system **TBD** — **not** Aethelgard (Aethelgard is last of the middle)
 - Gradual Codex revision begins
 - Visible enemy is local and real
+- Raising: neophytes from taken worlds; rare adult conversion (few survive)
 
 ## Chronicle law
 
-- Pre-Cadia; no invented M41 year this pass
+- Pre-Cadia; no invented M41 year this pass (Chapter **age** first)
 - No time dilation
 - No Foundation War name, poles, or restored slugs
 - Chronological blindness
+- **No novel prose this pass**
 
 ## Open questions
 
-- Exact years (later)
-- Husk Chapter name (later)
-- Order of the three macro-systems (they choose)
+- Exact years (after age lock)
+- Which of the two non-Aethelgard macro-systems is first

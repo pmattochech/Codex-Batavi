@@ -21,13 +21,13 @@ Ford / Ribbon seal. A wall, not another world-list. They hold the tide at the ed
 
 ## Chronicle law
 
-- Pre-Cadia; no invented M41 year this pass
+- Pre-Cadia; no invented M41 year this pass (Chapter **age** first)
 - No time dilation
 - No Foundation War name, poles, or restored slugs
 - Chronological blindness
+- **No novel prose this pass**
 
 ## Open questions
 
-- Exact years (later)
-- Husk Chapter name (later)
-- Order of the three macro-systems (they choose)
+- Exact years (after age lock)
+- Atlas: Ford as point of the V — only if needed later

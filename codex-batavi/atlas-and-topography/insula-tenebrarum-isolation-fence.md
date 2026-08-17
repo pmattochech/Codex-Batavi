@@ -33,13 +33,15 @@ The **Men of Iron** built the fence. It is a **villain machine**, not a gift.
 
 ---
 
-## III. Navel vortex (mid-Reclamation)
+## III. Navel vortex (when the MoI are beaten)
 
-Mid-war, the MoI open a **vortex at the geographic navel** (systems **face** it; not literal orbits).
+The vortex is **not** a door the Men of Iron meant to open. It is **system failure** when they are **beaten**. It sits at the **geographic navel** (systems **face** it; not literal orbits).
 
 | Item | Lock |
 |------|------|
-| **Job** | The **only painful comms** toward the Imperium **and** a **Chaos invasion door**. |
+| **Cause** | MoI machine **fails** under defeat. |
+| **Mechanicus** | Can only **stabilize** enough that the Warp explosion does **not** engulf the whole **subsector**. |
+| **Job (after)** | The **only painful comms** toward the Imperium **and** a **Chaos invasion door**. |
 | **Cost** | Isolation is not purity. The den-spirit kept **most** mortals clean; this door still feeds the tide. |
 
 ---
@@ -75,4 +77,4 @@ When a **standing wound** is allowed, **Witness Ford** is the working candidate 
 
 ---
 
-*Last aligned: MoI reflector fence; V-shield at Cicatrix; navel vortex; pylon hull-jumps; mesh entry = den weather.*
+*Last aligned: MoI reflector fence; V-shield at Cicatrix; navel vortex as MoI-defeat failure (Mechanicus stabilize); pylon hull-jumps; mesh entry = den weather.*

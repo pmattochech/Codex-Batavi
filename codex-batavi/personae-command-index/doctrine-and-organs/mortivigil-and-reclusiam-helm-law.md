@@ -168,7 +168,7 @@ Holds skeletons (and sealed remnant cases) for:
 
 * **Triumvirate** and designated **heroes**
 * **The Lost (*Amissi*)**
-* Brothers with **no Castra soil-home** — e.g. **Grey Hounds** era (*Slate Cohort*) survivors, Foundation-war brothers never filed to a vex homeworld, other pre-mesh orphans
+* Brothers with **no Castra soil-home** — e.g. **Grey Hounds** era (*Slate Cohort*) survivors, Reclamation brothers never filed to a vex homeworld, other pre-mesh orphans
 
 Noviomagus also keeps a **name-index** (ledger) of Wall-fusions across the mesh so Varro can audit without nine pilgrimages. Frontier Wolf **plaque** chain remains a **Castellan Execratio / Versibar register** (root + iron plaque pairs on *Castra-Lupus* armor cord) — related honor, **not** the Astartes bone crypt and **not** the Wall-name itself; full split table: [frontier-wolf-rite.md](frontier-wolf-rite.md) §II addendum.
 

@@ -16,19 +16,19 @@ Centuries. Still pre-Cadia. Nine Vexilla exist. Ghost tithe. Fence is cage. Code
 ## Beat locks
 
 - No Cicatrix yet
-- DECIMA does not exist
-- 5,000 ceiling is local raising across the Hold (exact curve TBD)
+- **DECIMA** does not exist until **Valerian close** (then Alaric’s loyalists, **500** or more)
+- Raising already started in the Reclamation (neophytes + rare adult conversion); **5,000** ceiling continues across the Hold (exact curve after age lock)
 - Next: Valerian scaffold
 
 ## Chronicle law
 
-- Pre-Cadia; no invented M41 year this pass
+- Pre-Cadia; no invented M41 year this pass (Chapter **age** first)
 - No time dilation
 - No Foundation War name, poles, or restored slugs
 - Chronological blindness
+- **No novel prose this pass**
 
 ## Open questions
 
-- Exact years (later)
-- Husk Chapter name (later)
-- Order of the three macro-systems (they choose)
+- Exact years (after age lock)
+- Valerian / Malakor geography (revise later)

@@ -15,9 +15,11 @@
 
 The Reclamation **is** the birth. They become **Batavi** by taking **Castra Vetera**. The hunt for origin **is** the reconquest of the island — not a later genealogy quest.
 
-**Villain of the war:** **Men of Iron** — they built the **fence** and, mid-war, open the **navel vortex**. Visible enemies on each island are real; MoI puppetry stays **late and costly**, not a first-contact lecture.
+**Villain of the war:** **Men of Iron** — they built the **fence**. Visible enemies on each island are real; MoI puppetry stays **late and costly**, not a first-contact lecture. When the MoI are **beaten**, their machine **fails**: the **navel vortex** is that failure, not a door they meant to gift.
 
-**Keep:** unknown progenitor, **5,000** ceiling, **ten Vexilla** (DECIMA is **later**), no time-bubble, **wall against the tide**.
+**Keep:** unknown progenitor, **5,000** ceiling, **ten Vexilla** (**DECIMA** is founded at **Valerian close** from Alaric’s loyalists — [`valerian-heresy.md`](valerian-heresy.md)), no time-bubble, **wall against the tide**.
+
+**Age:** Chapter age (husk → present) is **not** stamped this pass. Hold remains **centuries**. Exact year **TBD**.
 
 ---
 
@@ -25,12 +27,13 @@ The Reclamation **is** the birth. They become **Batavi** by taking **Castra Vete
 
 | Beat | When |
 |------|------|
-| **Husk ingress** | **Pre-Cadia.** Incomplete Chapter (husk **name TBD**) lured/wrecked onto **one** island of the mesh. Mars **one-shot bore** put them in; the hole **closes**. They go dark. |
-| **Campaigns I–III** | Three **macro-systems** of the Nine Phalanx, in an order they **choose** after the first island. They are not handed the mesh. |
-| **Campaign III** | Last of the three **macro-systems**. They **choose** this war. |
+| **Husk ingress** | **Pre-Cadia.** **Grey Hounds** (fleet / auxilia mouth) — Administratum header ***Slate Cohort — Hound Pattern***. Incomplete Chapter; hull-born more than soil-born; **identity mystery** (they do not fully know why they were sent). Lured/wrecked onto **one** island. Mars **one-shot bore**; the hole **closes**. They go dark. |
+| **Campaigns I–II** | The other two **macro-systems** (not Aethelgard). Order **TBD**. |
+| **Campaign III** | Last of the three **macro-systems** — **end of the middle-section**. **Aethelgard conquest** lands here (exact I/II pairing of the other two systems **TBD**). **Naming** happens on that shingle — myth: [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md). |
 | **Campaign IV** | **Ford / Ribbon seal** — a **wall**, not another world-list. |
+| **Navel vortex** | Opens when they **beat the MoI** — **system failure**. Mechanicus **stabilize** enough that the Warp burst does **not** swallow the whole subsector. Still a painful comms wound and Chaos door. |
 | **the Hold** | **Centuries.** Still **pre-Cadia**. Nine Vexilla exist. Ghost tithe. Fence is cage. |
-| **Valerian strife** | During the Hold, **after** nine Vexilla. Thin lock: [`valerian-heresy.md`](valerian-heresy.md). War **ends with Valerius’s death** (how **TBD**). **DECIMA does not exist yet.** |
+| **Valerian strife** | During the Hold, **after** nine Vexilla. Thin lock: [`valerian-heresy.md`](valerian-heresy.md). **Trusted PRIMA replacement** slain by **Corbec**. **Valerius** slain by **Alaric** and the **Emperor’s Wolf**. **DECIMA** is then founded from Alaric’s loyalists (**500** or more). |
 | **Cicatrix** (~999.M41) | Hits the **reflector** and **splits**. Mesh sits in a **V** of still-realspace. Cage becomes **shield**. |
 | **Primaris method** | **After** the Rift. Technology, not imported brothers. [`primaris-rubicon-intake.md`](../doctrine-and-organs/primaris-rubicon-intake.md) |
 
@@ -44,18 +47,24 @@ Imperial **~M42** stamps on later events (Silent Vigil prose, collar, etc.) are 
 |---|-----|------|
 | **I** | First macro-system after the husk beachhead | They **choose** this war. *Codex* still the spine; applications start to strain. |
 | **II** | Second macro-system | Gradual **Codex** revision continues. MoI still not a briefing slide. |
-| **III** | Third macro-system | They **choose** this war. *Codex* revision continues. Chapter **name** lives in the myth (Aethelgard witnesses) — not this slug. |
+| **III** | Third macro-system — **end of the middle-section** | **Aethelgard** conquest. Naming is **witness**, not a novel slug. I vs II among the other two systems still **TBD**. |
 | **IV** | **Witness Ford** / **Tenebrarum Ribbon** seal | Wall. Not a catalogue of extra worlds. Standing wound / Ford as **point of the V** is **later atlas** — working note only. |
 
 Nine-pole Foundation War theater table is **void**. Do not rebuild it this pass.
 
 ---
 
-## IV. Husk
+## IV. Husk — Grey Hounds
 
-Vague **Firstborn** incomplete Chapter. Wreckage theology, not a planned crusade beachhead. **Name of the husk TBD.** Open record stays **unknown Founding**.
+**Grey Hounds** (common / fleet). Formal paper: ***Slate Cohort — Hound Pattern***. Vague **Firstborn** incomplete Chapter. **Mystery motive:** they hunt because a packet named them; they do not hold a clean Founding story. Wreckage theology, not a planned crusade beachhead. Open record stays **unknown Founding**.
 
-Landing strength, casualty bands, and “~500 at close” from the deleted serial are **not** carried forward. Do not reprint them as Reclamation math.
+Landing strength from the deleted serial is **not** carried forward. Do not reprint “~500 at close” as Reclamation math.
+
+### Raising during the war
+
+Marines **die**. As they take world after world they **already draft** neophytes from captured populations. **Risky adult conversion** is used **rarely** — most of those candidates **do not survive**; it does not restock the Chapter by itself. This is **Firstborn** local raising, **not** Primaris method (Primaris stays **post-Cicatrix**).
+
+Exact headcounts **TBD** after Chapter **age** is locked. Do not invent a close-number this pass.
 
 ---
 
