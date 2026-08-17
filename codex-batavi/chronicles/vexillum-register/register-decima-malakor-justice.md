@@ -21,7 +21,7 @@ The justice vexillum is not a battle honour in the **SECVNDA–NONA** sense. It 
 
 ## III. Bearer protocol
 
-Typically senior DECIMA Ancient-equivalent or Castellan honour guard — not interchanged with Legatus *Alabarda* logistics.
+Primary bearer: **LVPVS IMPERATORIS** (**Emperor’s Wolf**) — incumbent **Markus Graile** ([dossier-markus-graile.md](../../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-markus-graile.md)). Early logs: redacted **First Ancient** before the office stamp. Not interchanged with Legatus *Alabarda* logistics.
 
 ## IV. Cross-reference
 

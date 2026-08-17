@@ -26,7 +26,7 @@
 
 **What varies on the Alabarda:** Only the **head group** (and, for **NONA**, certified **haft length modes**) — *Armourium* **pattern** per Vexilla seat. The metal answers **theater geometry**; the cloth answers **unit identity**.
 
-**DECIMA:** Flies the separate **justice vexillum**, not a Legatus *Alabarda* clone — [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §4.
+**DECIMA:** Flies the separate **justice vexillum**, not a Legatus *Alabarda* clone — [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §4. **LVPVS IMPERATORIS** (Emperor’s Wolf) bears the justice cloth in field; **does not** receive a Legatus *Alabarda* head group or four-field Vexilla panel.
 
 ---
 

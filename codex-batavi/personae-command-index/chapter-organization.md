@@ -2,7 +2,7 @@
 
 **Classification:** Official Chapter organization record.  
 **Structure:** Mirrors the *Chapter Organization Template* section order (organizational worksheet; not a fill-in blank).  
-**Terminology lock:** Combat grid = **Vexilla** only — the word **Company** is not used for Batavi units. Where the template names *Codex* companies, this register maps the same slots to **PRIMA–DECIMA**.  
+**Terminology lock:** Seat / 500-cell block = **Vexilla** only (LATIN-CAPS **PRIMA–DECIMA**). **Company** names the captain’s **100** inside a Vexilla — not the Vexilla itself. Where the *Codex* template lists ten numbered companies as the Chapter’s top cut, this register maps those slots to **PRIMA–DECIMA**. Nested cut: [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §3.4.  
 **Authority:** Supersedes scattered summaries for organization; detail lives in linked doctrine files. Immutables: `.cursorrules`, [progenitor-classification.md](doctrine-and-organs/progenitor-classification.md).
 
 **Related:** [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) · [vexilla-and-visual-summary.md](../arsenal-and-logistics/vexilla-and-visual-summary.md) · [visual-identity-paint-guide.md](../visual-identity-paint-guide.md) · [master-chronology.md](events-and-chronologies/master-chronology.md)
@@ -14,6 +14,12 @@
 ### Description
 
 This document is the canonical, organized lore register for the **Batavian Iron-Guard** (*Cohors Batavorum*): identity, culture, recruitment, doctrine, command grid, strategy, and departmental detail. It follows a standard fan-community chapter worksheet layout so remembrancers, players, and authors can find any field in one place.
+
+### In a nutshell
+
+**Space Marines with social anxiety and an identity crisis.**
+
+They **adapt** to any biome, ally command style, and mesh culture — but **read wrong** at every joint briefing: no fixed Chapter template other Astartes can gossip about comfortably.
 
 ### Formatting
 
@@ -43,6 +49,8 @@ Main sections use level-2 headings; subsections level-3; field labels **bold** w
 **Reason of Founding:** Hold **Insula Tenebrarum** — the **Castra Vetera** island mesh — as **filter against the tide**: transform the **Aethelgard** crucible and **Nine Phalanx** into a permanent **wall** (xenos, Chaos bleed, renegade void) — not a parade founding, a **friction** founding.
 
 **Niche:** **Friction Geometry** — static kill-math, trench and void-boarding mastery, *Analytical Silence*, chimeric biology regulated by ***Axioma Rationis***, super-tithe indispensability. The Chapter is a **wall instrument**, not a crusade flèche.
+
+**Primary strategic objective:** **Do not get excommunicated** — avoid **Excommunicate Traitoris** and Chapter extinction. The Strategium pursues this through **many parallel lanes** (not one trick): super-tithe indispensability; **proactive** Inquisition joint operations and **Ordo infighting** so no bloc assembles unanimous excommunication; audit transparency (*Hell Cells*, *Vermilion*); mesh wall indispensability; *Limes Lupus* / Custodes collar; legal violence delivered for the Ordos when geometry demands; Deathwatch disclosure ledger for command-track gates — [inquisition-geometry.md](../political-relations/inquisition-geometry.md), [border-political-relations.md](../political-relations/border-political-relations.md). **Not** a goal: crusade brand, legible saga identity, or galactic conquest theater.
 
 ### Homeworld
 
@@ -88,7 +96,7 @@ Unique chambers include **Hell Cells**, **Vermilion** filing, **Iron and Blood T
 
 **Size:** **5,000** battle-brothers with full gene-seed and Chapter status — **ten Vexilla × 500**. Declared ***Codex Astartes* breach** (*Pax Batavorum*): friction-war replacement conveyor, not vanity expansion. Neophytes in pipeline, servitors, and auxilia **outside** the 5,000 ceiling. Table: [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §4.
 
-**Description:** The Chapter is a **Triumvirate-governed** war machine: **Alaric** (wall geometry), **Drusus** (biology), **Varro** (discipline / psychic risk). Nine **Legati** bear the ***Alabarda* + Vexilla** on nine seats; **Vexilla DECIMA** is the Castellan’s anchor guard without a Legatus. **Siege Master / mesh architect:** **Gervas Bifronte** (Legatus, SEXTA) — ***Maior Caementarius*** and ***Pater Murorum***; drafts capital fortresses with every Legatus while respecting each seat’s operational mode; supplies **Bifronte audit** weak-point slates to Alaric before major mesh commitments ([dossier-gervas-bifronte.md](character-dossiers/legati/dossier-gervas-bifronte.md)). Extended Council: **Kadmos** (*Armourium*), **Otho** (*Librarium*). Allies: Imperial Navy (Elara Solis), Mechanicus (conditional), Deathwatch (treaty), Inquisition (geometry of tolerance). Foes: traitor Astartes (Malakor register), Tyranids, Orks, genestealers, Necrons — theater-dependent.
+**Description:** The Chapter is a **Triumvirate-governed** war machine: **Alaric** (wall geometry), **Drusus** (biology), **Varro** (discipline / psychic risk). Nine **Legati** bear the ***Alabarda* + Vexilla** on nine seats; **Vexilla DECIMA** is the Castellan’s anchor guard without a Legatus. **Siege Master / mesh architect:** **Gervas Bifronte** (Legatus, SEXTA) — ***Maior Caementarius*** and ***Pater Murorum***; drafts capital fortresses with every Legatus while respecting each seat’s operational mode; supplies **Bifronte audit** weak-point slates to Alaric before major mesh commitments ([dossier-gervas-bifronte.md](character-dossiers/legati/dossier-gervas-bifronte.md)). Extended Council: **Kadmos** (*Armourium*), **Otho** (*Librarium*). Allies: Imperial Navy (Elara Solis), Mechanicus (conditional), Inquisition (purchased symbiosis). **Primary Astartes enemy:** **Marines Malevolent** (standing open-fire policy — [marines-malevolent-relations.md](../political-relations/marines-malevolent-relations.md)). Other foes: traitor Astartes (Malakor register), Tyranids, Orks, genestealers, Necrons — theater-dependent.
 
 ---
 
@@ -105,14 +113,14 @@ Unique chambers include **Hell Cells**, **Vermilion** filing, **Iron and Blood T
 | **4a** | Line battle-brother | Standard grey; orange lenses |
 | **4b** | Sergeant | As line; squad geometry on relay / pauldron rim |
 | **4c** | Veteran / Siege division | Gold rim cue on pauldron; helm may carry campaign marks |
-| **4d** | Apothecary / Chaplain / specialist | *Medicinae* white-surgical (Drusus pattern); *Reclusiam*: Chaplain Executor wolf-skull (red lenses) / Varro fire-orb Judex extras + thurible pack / Mortivigil human death-skull (orange); *Librarius* cipher helm |
+| **4d** | Apothecary / Chaplain / specialist | *Medicinae* white-surgical (Drusus pattern); *Reclusiam*: Chaplain Executor wolf-skull (red lenses) / Varro fire-orb Judex extras + thurible pack / Mortivigil human death-skull (orange) / **Judiciar** sealed death-skull (extinguished lenses); *Librarius* cipher helm |
 | **4e** | **Legatus** (PRIMA–NONA) | **Per-seat** kit (e.g. *Typus Primus* **Corvus** + crest; *Typus Quintus* **Mk V** + wolf/pelt; *Typus Sextus* **Tartaros TDA** + ornate halo). **Default crest:** crimson / white transverse. **Chest aquila**. Orange lenses. Reference: ***Typus Primus — Ardens*** — [legati-operational-register.md](../arsenal-and-logistics/legati-operational-register.md) § Legatus armor |
 
 **Shoulder insignia:** **Left:** **White** frontal-wolf on **crimson** field (or transfer). **Right:** Cohort color (Silence ivory, Shadows black, Stasis gunmetal, Nullity cobalt) + pure-line division rim (black / silver / gold). **Vexilla** identity on ***Alabarda*** four-field panel (LATIN-CAPS **PRIMA–NONA**), not a second shoulder chapter icon.
 
 **Weapon colors:** **Noviomagus-pattern** bolt weapons — gunmetal, black furniture, minimal crimson pinstripe; chainswords and gladii — steel / ceramite, utilitarian. Cawl-pattern bolt rifle per Munitorum sheet below.
 
-**Organizational markings:** **Vexilla** seat name (**PRIMA–NONA**) on Legatus ***Alabarda* + Vexilla** (LATIN-CAPS field). **Sub-cohort** captains command **100**; **lieutenants** **50**; **sergeants** **5–10** cells. No *Codex* company color trim. **Wolf’s Curse** clinical marks: **Furor** — horizontal crimson visor stripe; **Exanimus** — crimson gauntlets/forearms; **Hell Cell** penance — **vertical** helm stripe (distinct). Cohort and division tables: [vexilla-and-visual-summary.md](../arsenal-and-logistics/vexilla-and-visual-summary.md).
+**Organizational markings:** **Vexilla** seat name (**PRIMA–NONA**) on Legatus ***Alabarda* + Vexilla** (LATIN-CAPS field). **Company** captains command **100**; **demi-company** lieutenants **50**; **squad** sergeants **5–10**. No *Codex* company color trim on the 500. **Wolf’s Curse** clinical marks: **Furor** — horizontal crimson visor stripe; **Exanimus** — crimson gauntlets/forearms; **Hell Cell** penance — **vertical** helm stripe (distinct). Cohort and division tables: [vexilla-and-visual-summary.md](../arsenal-and-logistics/vexilla-and-visual-summary.md).
 
 **Chapter decorations and honor markings:** Campaign kill-tallies on greaves; DECIMA justice iconography; **no** trophy skull theatre on line troops; restrained oath-script on knee plates. Legatus panels carry **success** or (PRIMA only) **obligation** fourth field — [vexilla-by-vexilla-design.md](intro-and-heraldry/vexilla-by-vexilla-design.md). Gilding rare — forge austerity.
 
@@ -129,6 +137,12 @@ Official working layout for paint and insignia placement (fill completed art in 
 ---
 
 ## Chapter Culture
+
+### Identity and read (homebrew register)
+
+**Trope embraced:** **Super-adaptability** — any biome, allied command style, and mesh culture; chimeric biology mirrors “fits whatever slot the wall needs.”
+
+**Subversion:** **Uncanny unorthodoxy** — **5,000** mesh filing, open *Hell Cell* audits, permanent helms, witness clauses, archipelago quarantine: allied Chapters win beside them, then leave with **wrong aftertaste**. Social register: **social anxiety** and **identity crisis** — function everywhere; **legible personality nowhere**.
 
 ### Relation to humans
 
@@ -148,23 +162,25 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Adeptus Mechanicus:** **Transactional alliance.** Techmarines trained on Mars pattern; Noviomagus forges co-produce frontier patterns. Friction over **unauthorized modifications**; cooperation when salvage and siege math benefit the mesh ([dossier-kadmos.md](character-dossiers/council-orders/dossier-kadmos.md)).
 
-**Adeptus Astartes Chapters:** **Space Wolves** — reluctant allies; filing [`space-wolves-relations.md`](../political-relations/space-wolves-relations.md) (Garmr / Viggo **theater**: [`viggo-saga`](../chronicles/silent-vigil/viggo-the-heat-of-the-stone/viggo-saga/chapter.md)). Other Chapters: case-by-case; Deathwatch as structured bridge ([`deathwatch-and-batavorum.md`](../political-relations/deathwatch-and-batavorum.md)). No standing rivalry with Ultramarines-style *Codex* purists beyond bureaucratic suspicion of **5,000** strength.
+**Adeptus Astartes Chapters:** **Marines Malevolent** — **primary Astartes enemy**; **only** Chapter on **standing open-fire policy** under Castra Vetera mandate (Vigilax register, 110.M42) — [marines-malevolent-relations.md](../political-relations/marines-malevolent-relations.md). **Secondary friction only** (not shoot-on-sight): **Space Wolves** — irrational, filthy-animal register; reluctant joint axes — [`space-wolves-relations.md`](../political-relations/space-wolves-relations.md) (Garmr / Viggo **theater**: [`viggo-saga`](../chronicles/silent-vigil/viggo-the-heat-of-the-stone/viggo-saga/chapter.md)); **Dark Angels** — paranoid, self-ashamed inner-circle culture; ***Codex* purists** — bureaucratic suspicion of **5,000** strength. Other Chapters: case-by-case joint ops. **Deathwatch is not filed here** — multi-origin Ordo Xenos instrument; see § Deathwatch below.
 
-**Astra Militarum:** **Geometry-first.** Regiments that hold a line receive calculated support; abandonment is **policy** when math demands — breeds hatred in some regiments, loyalty in others (tithe-of-sweetness register).
+**Astra Militarum:** **Geometry-first.** Regiments that hold a line receive calculated support; abandonment is **policy** when math demands — breeds hatred in some regiments, loyalty in others (tithe-of-sweetness register). **Fragile ally** register: regiments burned by abandonment math.
 
 **Adeptus Astra Telepathica:** **Necessary infrastructure**; Astropaths aboard major hulls; Chapter does not outsource strategic memory to astropaths alone.
 
 **Ecclesiarchy:** **Functional respect, theological distance.** Emperor honored as **Ancestor-Sovereign** / Throne-weight — **not** Ministorum-style god-worship. Chapter resists cathedral pageantry. Shared Sweat overlaps with worker faith without converting Marines to priestly fanaticism.
 
-**Inquisition:** **High-friction symbiosis** — super-tithe buys tolerance; Ordo access negotiated; witness clauses; Malakor heresy purges documented. [inquisition-geometry.md](../political-relations/inquisition-geometry.md).
+**Inquisition:** **Purchased symbiosis** — the Chapter **requests** joint operations (legal purges, anomaly cages, frontier intelligence) rather than waiting passively for audit; **witness clause** builds loyalty paper trail; **Ordo infighting** (Hereticus / Xenos / Chronos agendas) exploited so no faction assembles unanimous **Excommunicate Traitoris** push; super-tithe and *Limes Lupus* buy baseline tolerance. **Cost:** Inquisitors in the mesh; audit exposure; Varro humiliation protocol when an Inquisitor performs ego, not truth. [inquisition-geometry.md](../political-relations/inquisition-geometry.md).
 
-**Deathwatch:** **Mandatory certified *Watch cycle*** for Legatus track and DECIMA admission (post-051.M42); voluntary capped rotation otherwise. Default livery: Watch black + **Batavi pauldron**. [deathwatch-and-batavorum.md](../political-relations/deathwatch-and-batavorum.md).
+**Deathwatch:** **Not an Adeptus Astartes Chapter relation** — Ordo Xenos **kill-team creditor** (multi-origin rotations). **Mandatory certified *Watch cycle*** for Legatus track and DECIMA admission (post-051.M42); voluntary capped rotation otherwise. Default livery on loan: Watch black + **Batavi pauldron**. Career / *Medicinae* gate only — [deathwatch-and-batavorum.md](../political-relations/deathwatch-and-batavorum.md).
 
 **Rogue Traders:** **Selective.** Passage economics through Loken route; no dominant dynasty named in open register.
 
 **Other:** **Adeptus Custodes** — Denial Protocol if ever present in kitchen prose *(no active chronicle; non-Batavi kitchen guests are **LEGACY** — [martha-kitchen-guest-astartes/INDEX.md](../../chronicles/outdated/martha-kitchen-guest-astartes/INDEX.md))*. **Adeptus Arbites** — legal architecture partner (e.g. Hive Vespera purge). **Imperial Navy** — Elara Solis / Outer Gate fleet geometry. **Adepta Sororitas** — no standing treaty file.
 
 ### Hated foes
+
+**Loyalist Adeptus Astartes:** **Marines Malevolent** — **primary Astartes enemy**; **only** Chapter Batavi will **open fire** on under Castra Vetera mandate without awaiting higher sanction — unauthorized purge, collateral-as-lesson doctrine, antithesis of Shared Sweat. Vigilax origin (110.M42): [vigilax-incident/chapter.md](../chronicles/vigilax/vigilax-incident/chapter.md); policy: [marines-malevolent-relations.md](../political-relations/marines-malevolent-relations.md). **All other loyalist Chapters:** secondary friction — not standing shoot-on-sight.
 
 **Chaos:** **Traitor Astartes** — First Legatus **Valerius** / **Malakor V** (050.M42) defines Chapter betrayal register; *Lupercal*-adjacent cadence without open Sons-of-Horus gene claim. **Daemons** — warp-tide incidents. **Cults** — Silence Cohort specialty.
 
@@ -186,7 +202,9 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Further trials:** Neophytes serve as **scouts / heavy labor** in war zones; prove coordination under *Analytical Silence*. DECIMA candidates face additional **Batav Wolf trial** (containment dominance) — [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §3.
 
-**Role of Neophytes:** Scout-equivalent cells attached to Vexilla operations; not a separate “Scout Vexilla.” Labor in forges when not deployed.
+**Ascent office:** **Custos Ascensum** is the **college of nine Procurators** (PRIMA–NONA). **Speaker** elected from any seat, rotates, keeps his home Procurator hat. **Genetor Primus** co-signs biology. Neophyte **full** circuit (eight any order, **PRIMA last**); young brothers **short** stamp-tour. **Wolfkeeper liaison** each cycle for *Axiom* / induction — [custos-ascensum-doctrine.md](doctrine-and-organs/custos-ascensum-doctrine.md). Speaker this rotation **unnamed**.
+
+**Role of Neophytes:** Scout-equivalent cells attached to Vexilla operations; not a separate “Scout Vexilla.” Labor in forges when not deployed. **Circuit:** full study at eight seats (any order), **PRIMA last** — [custos-ascensum-doctrine.md](doctrine-and-organs/custos-ascensum-doctrine.md) §V.
 
 **Process of becoming a Battle-Brother:** Black carapace completion → induction into **pure line** or cohort candidacy → power armor issue → sworn under *Faith Protocol* / *Axiom* registration. *Iron and Blood Tribunal* witness event for some cohorts (moral prep, not rank).
 
@@ -197,6 +215,8 @@ Official working layout for paint and insignia placement (fill completed art in 
 ## Doctrine
 
 **Chapter philosophy:** ***Axioma Rationis*** — reason regulates emotion; duty without theatrical faith. ***Instrumentum Solum*** — “only a tool.” War as **friction mathematics**, not honor performance.
+
+**Strategic objective:** **Do not get excommunicated** — see § Chapter Information → **Primary strategic objective** (multi-lane survival filing).
 
 **Highest values:** Discipline, kill efficiency, logistical honesty, **hold geometry**, biological self-control, mortal continuity (tithe / Shared Sweat).
 
@@ -216,43 +236,46 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 ### Command structure
 
-**General description:** **Lord Castellan** → **Triumvirate** (Alaric / Drusus / Varro) + **Extended Council** (Kadmos, Otho) → **Legatus** (500 each, PRIMA–NONA) → **captain** (100 sub-cohort) → **lieutenant** (50) → **sergeant** (5–10). **DECIMA:** Triumvirate direct; **captain** Markus Graile as Castellan line face. **Curia Vexilli** per vex: Legatus + **Genetor Vexilli** + **Confessor Vexilli**. [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md).
+**General description:** **Lord Castellan** → **Triumvirate** (Alaric / Drusus / Varro) + **Extended Council** (Kadmos, Otho) → **Legatus** (**Vexilla**, 500 each, PRIMA–NONA) → **captain** (**company**, 100) → **lieutenant** (**demi-company**, 50) → **sergeant** (**squad**, 5–10). **DECIMA:** **LVPVS IMPERATORIS** (**Emperor’s Wolf**) commands the **DECIMA** battle grid on Castellan orders (**Castellan → Emperor’s Wolf → execution**); five supreme posts (Alaric, Drusus, Varro, Kadmos, Otho) retain organ lanes. **Curia Vexilli** per vex: Legatus + **Genetor Vexilli** + **Confessor Vexilli**. Grid names: [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §3.4.
 
-**Standard role advancement:** Not *Codex* devastator→assault→tactical rotation. Path: neophyte → **pure line** (Suppression / Ruin / Siege) and/or **cohort** (Silence / Shadows / Stasis / Nullity) → sergeant → lieutenant → captain → Legatus (with Watch gate) or DECIMA track.
+**Standard role advancement:** Not *Codex* devastator→assault→tactical rotation. Path: neophyte → **pure line** (Suppression / Ruin / Siege) and/or **cohort** (Silence / Shadows / Stasis / Nullity) → sergeant → lieutenant → captain → Legatus (with Watch gate) or **DECIMA** track → **LVPVS IMPERATORIS** (Emperor’s Wolf) by Triumvirate appointment from DECIMA excellence lattice.
 
 **Climbing the ranks:** Documented kill ratio, *Axiom* audit cleanliness, logistics precision, **certified Watch cycle** (Legatus / DECIMA), cohort rotations, **Batav Wolf** (DECIMA), unanimous Triumvirate for supreme posts.
 
 **Chapter Master’s role:** **Alaric** sets wall geometry, tithe policy, and sector treaty posture; biological anchor protocol (Viggo era → post-Viggo registry); holds **Execratio** history under Type III Duty harness.
 
-**Captains’ roles:** **Sub-cohort captains** (100 brothers) execute planetary siege math under Legatus; bear iron-halo equivalents per *Armourium* issue; not independent Vexilla commanders.
+**Captains’ roles:** **1st–5th company** captains (~**five** per Vexilla; **100** brothers) execute planetary siege math under the Legatus. **Fixed mix:** 1st Silence+line, 2nd Shadows+line, 3rd Stasis+line, 4th Nullity+line, 5th line+line (two rims). Line half **biased** by seat; support **sprinkled**. Full table: [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §3.4. Bear iron-halo equivalents per *Armourium* issue; not independent Vexilla commanders. Spoken: *captain of the third company, QVINTA* — seat stays LATIN-CAPS.
 
 **Captains' specialist duties:**
 
-*Batavi do not use Codex “Master of the …” titles per captain. Functions below map to **organ delegates**, **Legatus seats**, or **Strategium** posts.*
+*Batavi assign **one Chapter mastery scroll** per **Legatus** (classic or invented). **Company** captains (~five per Vexilla) execute theater math under the Legatus — **not** *Codex* “Master of the …” per captain. Full map: [`legatus-chapter-mastery.md`](doctrine-and-organs/legatus-chapter-mastery.md).*
 
-**Master of the Keep —** **Strategium** vault / Castra-Lupus integrity — **Tyvar** (Senior Strategium Overseer) + Castellan staff.
+| *Codex* / office | **Holder** |
+| ---------------- | ---------- |
+| **I · Master of the Keep** | **Legatus PRIMA** · Corbec Ardens |
+| **II · Master of the Watch** | **Legatus NONA** · Cassian Vetra |
+| **III · Master of the Arsenal** | **Kadmos** (Master of the Forge) |
+| **IV · Master of the Fleet** | **Legatus OCTAVA** · Ivar Malevent |
+| **V · Master of the Marches** | **Lord Castellan** · Alaric (**ex officio** — no second hat) |
+| **VI · Master of the Rites** | **Varro** (Judex) |
+| **VII · Chief Victualler** | **—** (no Astartes counterpart) |
+| **VIII · Lord Executioner** | **Graile** · **LVPVS IMPERATORIS** |
+| **IX · Master of the Relics** | **Kadmos** (with Arsenal) |
+| **X · Master of the Ascent** | **Custos Ascensum** (college of nine Procurators; rotating Speaker) |
+| **Master of the Law** *(invented)* | **Legatus SECVNDA** · Henric Kessler |
+| **Master of the Breach** | **Legatus TERTIA** · Theron Brach |
+| **Master of the Anchor** | **Legatus QVARTA** · Orin Valestrand |
+| **Master of the Hunt** | **Legatus QVINTA** · Armin Sturmwahl |
+| **Master of the Siege** | **Legatus SEXTA** · Gervas Bifronte |
+| **Master of the Vent** | **Legatus SEPTIMA** · Lucan Phaetron |
 
-**Master of the Watch —** **Ivar Malevent** (OCTAVA) — reef, Maleventum station, Loken intercept; system watch geometry.
+**Culture / witness inheritance:** **No** mastery billet — veterans and commanders (**unofficial**); *Librarium* **files**; Judex **filters** rite elevation ([`proximity-substrata-and-witness-inheritance.md`](doctrine-and-organs/proximity-substrata-and-witness-inheritance.md) §VIII).
 
-**Master of the Arsenal —** **Kadmos** (*Armourium*) — forges, pattern certification, vehicle pools.
+**Elara Solis** — Outer Gate fleet ally; **not** Master of the Fleet or any Astartes mastery.
 
-**Master of the Fleet —** Shared: **Elara Solis** (mortal Outer Gate fleet) + Chapter void assets under *Strategium* / Legatus embarkation.
+**Cohort chiefs (lattice hats, not masteries):** Silence **Kessler** · Shadows **Cassian** · Stasis **Valestrand** · Nullity **Ivar**. Home Legatus owns the brother; chief owns stripe method only. [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §3.5.
 
-**Master of the Marches —** Rotating **Legatus** per deployed front; **Corbec Ardens** (PRIMA) for Noviomagus march when garrisoned.
-
-**Master of the Rites —** **Varro** (*Reclusiam*); **Confessor Primus** audits vex confessors.
-
-**Chief Victualler —** Khan-Bator / granary mesh — **Theron Brach** (TERTIA) for caloric war; tithe logistics on Noviomagus.
-
-**Lord Executioner —** **Varro** / Confessor lane — penance and execution rites; not a separate duelist post.
-
-**Master of Relics —** *Armourium* reliquary under Kadmos; Legatus panels and seal registry.
-
-**Master of Recruits —** Distributed *Apothecarion* + forge recruitment; no single named Master in register (**TBD** dossier).
-
-**Master of Reconnaissance —** **Silence Cohort** doctrine + **Branimir Vorhalt** (QVARTA *Decanus Primus*) for counter-infiltration standard.
-
-**Lieutenants:** **Zone Mortalis** executors — half sub-cohort; translate Legatus geometry to corridor war; rare weapons per *Armourium* ticket.
+**Lieutenants:** **Demi-company** commanders (**50**; two per company) — *Codex* size label, no extra Batavi coinage. **Zone Mortalis** executors; translate captain / Legatus geometry to corridor war; rare weapons per *Armourium* ticket. Cohort type (Silence, Suppression, etc.) may sit **inside** a demi-company as mix, not as the lieutenant’s title.
 
 **Sergeants:** **Squad calculators** — fire rhythm, cover, ammo; enforce harness bands per *Curia* clearance.
 
@@ -260,7 +283,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Command squads:** Legatus retinue around ***Alabarda*** — relay bearers, Confessor / Genetor aides, champion-grade duelists as needed; not *Codex* 10-man company command clone.
 
-**Other:** **Genetor Primus**, **Confessor Primus** — Chapter-wide banner-court audit ([`disciplines-and-curia-vexilli-plan.md`](../planning/disciplines-and-curia-vexilli-plan.md)). **Steppenwolf** detached registry ([steppenwolf-doctrine.md](doctrine-and-organs/steppenwolf-doctrine.md)).
+**Other:** **Genetor Primus**, **Confessor Primus** — Chapter-wide banner-court audit ([`disciplines-and-curia-vexilli-plan.md`](../planning/disciplines-and-curia-vexilli-plan.md)). **Custos Ascensum** + **Procurator Ascensum** — ascent / recruitment lattice ([`custos-ascensum-doctrine.md`](doctrine-and-organs/custos-ascensum-doctrine.md)). **Steppenwolf** detached registry ([steppenwolf-doctrine.md](doctrine-and-organs/steppenwolf-doctrine.md)).
 
 ### Specialist ranks
 
@@ -270,11 +293,11 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Techmarine —** **4** per Vexilla; Noviomagus rotation. Chief: **Kadmos**.
 
-**Chaplain —** **Mortivigils** (human death-skull, orange lenses) → **Chaplains** (shared Executor wolf-skull, red lenses) + **Confessor Vexilli**; **Varro** Judex + Master of the Judiciars. ***Licentia lupina*** = *Amissi* / Steppenwolf far-field leash — [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md).
+**Chaplain —** **Mortivigils** (human death-skull, orange lenses) → **Judiciars** (sealed death-skull, extinguished lenses; one per company) → **Wolfkeepers** (shared Executor wolf-skull, red lenses) + **Confessor Vexilli**; **Varro** Judex + Master of the Judiciars. ***Licentia lupina*** = *Amissi* / Steppenwolf far-field leash — [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md).
 
 **Apothecary —** **4** + **Genetor Vexilli** per vex; Chief **Drusus**. Furor triage absolute.
 
-**Champion —** Legatus-scale duelists; **Markus Graile** (Castellan captain) noted; no separate “Chapter Champion” parade post — see § Details.
+**Champion —** **LVPVS IMPERATORIS** (**Emperor’s Wolf**) — **Markus Graile** (incumbent); **Lord Executioner** (classic VIII); Imperial gloss **Emperor’s Champion** / **Chapter Champion**. **Not** a Legatus. Bears ***Par Ferrum Lupi*** (**Decreto** · **Termini**) and primary ***justice vexillum***. See § Details.
 
 **Ancient —** Vexillum / standard doctrine via ***Alabarda***; **Radulf LVI-1** (*The Old Wolf*) — Leviathan Dreadnought ancient.
 
@@ -290,17 +313,17 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Apothecary:** Narthecium, reductor, diagnostor helm; gene-seed recovery mandatory.
 
-**Champion:** Power sword / gladius geometry; bodyguard to Legatus or captain in void war.
+**Champion:** **LVPVS IMPERATORIS** — **Decreto** / **Termini** under ***Modus Binorum Ferrum***; answers enemy warlords so captains and Castellan keep command geometry.
 
 **Ancient:** Bears vexillum charge; rally under *Analytical Silence* — banner as instrument, not morale cheer.
 
-**Honor guard:** DECIMA five supremes + 279 line + cohorts; Terminator-capable Castellan guard moments.
+**Honor guard:** DECIMA five supremes + 274 line + cohorts; Terminator-capable Castellan guard moments.
 
 **Other:** Iron Fathers **not used**; Triumvirate absorbs supreme spiritual/medical command.
 
 ### Force composition
 
-**Organization description:** **Ten Vexilla × 500** = **5,000**. Each Vexilla = **4 cohorts × 50** + **pure line** + **16** organic specialists. **DECIMA** trades five pure-line slots for five supreme command posts.
+**Organization description:** **Ten Vexilla × 500** = **5,000**. Each Vexilla = **4 cohorts × 50** + **pure line** + **21** organic specialists. **DECIMA** trades five pure-line slots for five supreme command posts.
 
 **Unit types and roles:**
 
@@ -338,7 +361,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **9th Devastator Reserve Company —** **Vexilla NONA** — Marco de Vetra; relay/EM denial; **Legatus Cassian Vetra**.
 
-**10th Scout Company/Vanguard Company —** **Vexilla DECIMA** — **anchor guard**; no Legatus; **justice vexillum** (wolf slain by sword); Triumvirate + **Markus Graile** (captain) + **Cael Dravic** (sergeant).
+**10th Scout Company/Vanguard Company —** **Vexilla DECIMA** — **anchor guard** (not a scout company); no Legatus; **justice vexillum** (wolf slain by sword); **LVPVS IMPERATORIS** **Markus Graile**; Triumvirate supremes + **Cael Dravic** (Brother-Sergeant).
 
 **Fleet description:** Chapter-operated **strike cruisers** and escorts — e.g. ***Wrath of Noviomagus*** (Viggo-era register), ***Gray Gargoyle***. Full hull count **not frozen** in open register; embarkation sized for **500** per major deployment. Naval macro-logistics often coordinated with **Elara Solis** Outer Gate fleet. System defense: **Maleventum** station (VIII), Noviomagus yards, Crucible ring assets.
 
@@ -346,7 +369,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 ## Strategy
 
-**Way and size of deployment:** Default **Vexilla** (500) or sub-cohort **100** / **50** slices for *Zone Mortalis*. Full mesh mobilization rare — **friction** prefers minimum sufficient mass. Drop pod / boarding / trench static defense per theater.
+**Way and size of deployment:** Default **Vexilla** (500) or **company** (**100**) / **demi-company** (**50**) slices for *Zone Mortalis*. Full mesh mobilization rare — **friction** prefers minimum sufficient mass. Drop pod / boarding / trench static defense per theater.
 
 **Common formations:** **Testudo** siege walls; **Blade Wall** predatory line; boarding wedges with **Silence** forward; grav-locked ***Alabarda*** mast-plant on void decks (IX).
 
@@ -371,8 +394,8 @@ Official working layout for paint and insignia placement (fill completed art in 
 | Aggregate | Count |
 |-----------|------:|
 | Cohorts (10 × 200) | 2,000 |
-| Pure line (9×284 + 279) | 2,835 |
-| Organic support (10 × 16) | 160 |
+| Pure line (9×279 + 274) | 2,785 |
+| Organic support (10 × 21) | 210 |
 | Supreme command (DECIMA only) | 5 |
 | **Total battle-brothers** | **5,000** |
 
@@ -382,7 +405,7 @@ Per-Vexilla split: [military-hierarchy.md](doctrine-and-organs/military-hierarch
 
 **Chapter Master:** **Alaric von Helis** — see [dossier-alaric.md](character-dossiers/triumvirate/dossier-alaric.md). ***Castra-Lupus — Helis*** (Castellan artificer armor); ***Caput Ferreum Castellani***; *We hold*; protector geometry to Solis line. Office law: [castra-lupus-doctrine.md](../arsenal-and-logistics/castra-lupus-doctrine.md).
 
-**Chapter Champion:** **No standalone Codex “Chapter Champion” post.** Duelist excellence filed under **Legatus/captain** champions and **DECIMA** retinue. Closest analog: **Markus Graile** (Castellan captain-instructor) / **Radulf LVI-1** (Leviathan ancient).
+**Chapter Champion:** **LVPVS IMPERATORIS** (**Emperor’s Wolf**) — one office; heraldic stamp **LVPVS IMPERATORIS**; English **Emperor’s Wolf**; Imperial gloss **Emperor’s Champion**. **Incumbent:** **Markus Graile**. Commands **DECIMA** battle grid on Castellan orders; **not** a Legatus. ***Par Ferrum Lupi***: **Decreto** (power sword) + **Termini** (gladius). Primary ***justice vexillum*** bearer. [dossier-markus-graile.md](character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) · [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §3.
 
 **Notable Characters:** [named-characters-register.md](named-characters-register.md) — Triumvirate, Legati PRIMA–NONA, cohort anchors, Elara Solis, Martha line, expunged traitors **Valerius** / **Cassian Vorn**.
 
@@ -412,7 +435,7 @@ Per-Vexilla split: [military-hierarchy.md](doctrine-and-organs/military-hierarch
 
 ### Other
 
-**Triumvirate unanimous** law for structural table changes. **No** captain voting conclave — geometry flows Legatus → Strategium. **Vexilla** is the only tactical division term in official scrolls.
+**Triumvirate unanimous** law for structural table changes. **No** captain voting conclave — geometry flows Legatus → Strategium. Seat name in official scrolls remains **Vexilla** (LATIN-CAPS); **company** / **demi-company** / **squad** name the nested cuts.
 
 ---
 
@@ -436,7 +459,7 @@ Per-Vexilla split: [military-hierarchy.md](doctrine-and-organs/military-hierarch
 
 ## Reclusiam
 
-**Master of Sanctity:** **Varro** (Master Wolfkeeper / Judex; Imperial gloss Master Chaplain; **Master of the Judiciars**) — appoints Mortivigils and Wolfkeepers; [dossier-varro.md](character-dossiers/triumvirate/dossier-varro.md) · [wolfkeeper-and-reclusiam.md](doctrine-and-organs/wolfkeeper-and-reclusiam.md).
+**Master of Sanctity:** **Varro** (Master Wolfkeeper / Judex; Imperial gloss Master Chaplain; **Master of the Judiciars**) — appoints Mortivigils, Judiciars, and Wolfkeepers; [dossier-varro.md](character-dossiers/triumvirate/dossier-varro.md) · [wolfkeeper-and-reclusiam.md](doctrine-and-organs/wolfkeeper-and-reclusiam.md).
 
 **Prayers:** *The Emperor dictates, we comply.* *We hold.* Licensed liturgy: [tenets-of-the-grey-wolves.md](../lexicon-and-litanies/tenets-of-the-grey-wolves.md). Friction rites: [friction-rites.md](doctrine-and-organs/friction-rites.md).
 
@@ -448,7 +471,7 @@ Per-Vexilla split: [military-hierarchy.md](doctrine-and-organs/military-hierarch
 
 **Holy Relics:** Viggo talismans (regulated); Castellan reliquary; tribunal helm witness pieces.
 
-**Helm / rank / death law:** [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md). **Class name:** [wolfkeeper-and-reclusiam.md](doctrine-and-organs/wolfkeeper-and-reclusiam.md).
+**Helm / rank / death law:** [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md). **Class name:** [wolfkeeper-and-reclusiam.md](doctrine-and-organs/wolfkeeper-and-reclusiam.md). **Judiciar:** one per company; mute inward sentence; Varro prices, Judiciar closes.
 
 **Other:** *anima speculum* soul-read — Varro exclusive high-risk tool. Castra-Lupus **Reclusiam** house = Mortivigil HQ + Chapter-supreme vault.
 
@@ -582,4 +605,4 @@ Official expansion for **specific Vexilla**, chronicle prose, wargame lists, and
 
 ---
 
-*Last updated: aligned to Vexilla terminology lock and Munitorum template asset in `lore-images/`.*
+*Last updated: 2026-08-13 — Vexilla / company / demi-company / squad nested grid; Munitorum template in `lore-images/`.*

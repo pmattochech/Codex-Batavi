@@ -3,7 +3,7 @@
 *(The Glass Burn / Vitreus Voltaic)*
 
 **Full name:** Lucan Phaetron.  
-**Rank:** **Legatus**, SEPTIMA.  
+**Rank:** **Legatus**, SEPTIMA. **Chapter mastery (scroll):** **Master of the Vent** (*Magister Venti*).  
 **Seat:** **Vitreus** — thermal and photonic stress; glass seas, lens forges, plasma vent discipline.  
 **Chapter:** *Cohors Batavorum*.  
 **Bearer of:** *Alabarda* + Vexilla (SEPTIMA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Null-Vent Covenant** (112.M42) — plasma/photonic cascade contained without forgeship detonation.  

@@ -3,7 +3,7 @@
 *(The “Doctrinator” / Heir of Noviomagus / Iron Link)*
 
 **Full name:** Kadmos of Noviomagus.  
-**Rank:** Master of the Forge (primary Techmarine).  
+**Rank:** Master of the Forge (**Master of the Arsenal** · **Master of the Relics** — classic III & IX).  
 **Specialization:** Biomechanical engineering, siege architecture, heavy chassis maintenance.  
 **Chapter:** *Cohors Batavorum*.  
 **Origin:** Noviomagus Prime (civilized forge world).  

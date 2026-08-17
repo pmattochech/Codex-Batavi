@@ -6,11 +6,12 @@
 
 ---
 
-## I. Chapter tier — reluctant allies
+## I. Chapter tier — secondary friction (not primary enemy)
 
 | Field | Lock |
 |-------|------|
 | **Ceiling** | Joint axes when geometry demands — **not** pack, **not** friends, **not** exchange-program host by default |
+| **Batavi read** | Irrational, filthy-animal register — saga and beast-theater the Wall refuses |
 | **Pre-recognition (Fenris)** | **Muzzled wolves** |
 | **Post–ford witness (Fenris)** | **Wolves with swords in their mouths** — aimed brutality; not adoption |
 | **Batavi filing** | **Predecessors** — receipt diplomacy only |

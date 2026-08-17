@@ -38,7 +38,7 @@ Admission is **rare** and **Vermilion**:
 | **Legatus** | **No** standing ownership of *Amissi* roster |
 | **Drusus** | *Medicinae* — sheath maintenance, nail/cable trim, ***Spina Cineris*** protocol, instability charts |
 
-**Chaplain function:** Varro (or *Reclusiam* Chaplain under written ***licentia lupina***) is the **loyalty engine** — brothers hear orders as **sentence**, not suggestion. Without Chaplain presence on mission slate, *Amissi* **do not** deploy. ***Licentia lupina*** also covers **Steppenwolf** far-field leash (one seal, both pools); best licensed Chaplains are chained toward *Amissi*. **Mortivigils never** hold the license. See [mortivigil-and-reclusiam-helm-law.md](mortivigil-and-reclusiam-helm-law.md) §IV.
+**Chaplain function:** Varro (or *Reclusiam* Chaplain under written ***licentia lupina***) is the **loyalty engine** — brothers hear orders as **sentence**, not suggestion. Without Chaplain presence on mission slate, *Amissi* **do not** deploy. ***Licentia lupina*** also covers **Steppenwolf** far-field leash (one seal, both pools); best licensed Chaplains are chained toward *Amissi*. **Mortivigils** and **Judiciars** **never** hold the license. See [mortivigil-and-reclusiam-helm-law.md](mortivigil-and-reclusiam-helm-law.md) §IV.
 
 ### IIIb. Standing escort — Einar Dreadwolf (Varro decree)
 

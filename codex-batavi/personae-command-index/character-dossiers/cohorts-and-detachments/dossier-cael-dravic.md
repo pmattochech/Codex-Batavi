@@ -2,7 +2,7 @@
 
 **Rank:** Brother-Sergeant  
 **Vexilla:** 10th (DECIMA) — Castellan escort lattice  
-**Role:** Overwatch / scoped auspex; line NCO under Captain Graile on high-value detachments  
+**Role:** Overwatch / scoped auspex; line NCO under **LVPVS IMPERATORIS** (**Emperor’s Wolf** — Markus Graile) on high-value detachments  
 
 ---
 
@@ -28,6 +28,6 @@ Chronicles: [`garmr-witness-dravic.md`](../../../chronicles/silent-vigil/viggo-t
 
 ## 3. Relations
 
-* **Markus Graile:** Chain of command; Graile trusts Dravic to **watch** without improvising heroics.  
+* **Markus Graile (Emperor’s Wolf):** Chain of command; Graile trusts Dravic to **watch** without improvising heroics.  
 * **Alaric von Helis:** Fear and loyalty — not hatred. Dravic does not want the Wall to become prey.  
 * **Varro:** Judex who forbade mess talk and assigned **hold geometry** as DECIMA lesson.

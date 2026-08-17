@@ -2,7 +2,7 @@
 
 *Strategium* summary — **operational strategy**, **fighting identity**, and **armor baseline** for each **Legatus** seat. Castellan contrast: [`castra-lupus-doctrine.md`](castra-lupus-doctrine.md) §1.1 (*lupus in castra* vs *vir in acie*).
 
-**Shared Legatus law (all nine):** One **indivisible Vexilla** (~500); ***Alabarda* + Vexilla** (four-field panel — PRIMA fourth = obligation, not triumph); **sole runtime authority** on pole actuation ([`alabarda-head-groups.md`](alabarda-head-groups.md) §2); ***Curia Vexilli*** (Genetor + Confessor parallel); **certified *Watch cycle*** for post–**051.M42** appointments ([`deathwatch-and-batavorum.md`](../political-relations/deathwatch-and-batavorum.md)); **Triumvirate extension** within assigned Phalanx seat — **not** Castellan substitute.
+**Shared Legatus law (all nine):** One **indivisible Vexilla** (~500); ***Alabarda* + Vexilla** (four-field panel — PRIMA fourth = obligation, not triumph); **sole runtime authority** on pole actuation ([`alabarda-head-groups.md`](alabarda-head-groups.md) §2); ***Curia Vexilli*** (Genetor + Confessor parallel); **one Chapter mastery scroll** per Legatus ([`legatus-chapter-mastery.md`](../personae-command-index/doctrine-and-organs/legatus-chapter-mastery.md)); **certified *Watch cycle*** for post–**051.M42** appointments ([`deathwatch-and-batavorum.md`](../political-relations/deathwatch-and-batavorum.md)); **Triumvirate extension** within assigned Phalanx seat — **not** Castellan substitute.
 
 **Armor (Chapter law):** Legati wear **Legatus artificer** commissions — one configuration per incumbent (**rite of the block** with **Kadmos**; vault legacy parts **Mark V and later only**, **refitted** where applicable — always **artificer** grade). Default chassis: **Mark X Tacticus–class** Noviomagus (**line mass** among the five hundred). ***Typus Sextus — Bifronte*** **exception:** daily **Tartaros-pattern TDA** office plate only. **PRIMA** — **Corbec Ardens** — holds ***Typus Primus — Ardens***: the **reference gauge** other Legati briefs trace and PRIMA line plate is **vex-calibrated** against. **Not** *Castra-Lupus*. Per-incumbent kit: § **Armor** below; **PRIMA–NONA** locked.
 
@@ -50,16 +50,20 @@ Detail: [`noviomagus-standard-engineering.md`](noviomagus-standard-engineering.m
 ## Strategy map (quick reference)
 
 ```
-PRIMA  ── industrial baseline / rectification debt
-SECVNDA ─ measured fire / Lex geometry
-TERTIA  ─ thermal-chem breach
-QVARTA  ─ high-G static March hold
-QVINTA  ─ jump assault / chainsword closure
-SEXTA   ─ twin breach siege / Indomitor meatgrinder
-SEPTIMA ─ plasma-photonic vent discipline
-OCTAVA  ─ void boarding / reef EM
-NONA    ─ relay pin / delay until the shout
+Mastery scroll (Chapter-wide)     Seat theater (500-cell bias)
+─────────────────────────────────────────────────────────────
+PRIMA   · Master of the Keep      industrial baseline / rectification debt
+SECVNDA · Master of the Law        measured fire / Lex geometry
+TERTIA  · Master of the Breach     thermal-chem breach
+QVARTA  · Master of the Anchor    high-G static March hold
+QVINTA  · Master of the Hunt      jump assault / pursuit closure
+SEXTA   · Master of the Siege      twin breach siege / Indomitor meatgrinder
+SEPTIMA · Master of the Vent       plasma-photonic vent discipline
+OCTAVA  · Master of the Fleet      void boarding / reef EM
+NONA    · Master of the Watch      relay pin / delay until the shout
 ```
+
+Full scopes: [`legatus-chapter-mastery.md`](../personae-command-index/doctrine-and-organs/legatus-chapter-mastery.md).
 
 ---
 
@@ -73,6 +77,7 @@ NONA    ─ relay pin / delay until the shout
 | **Operational identity** | Ammunition economy as moral law; **Noviomagus austerity** (minimal heraldic deviation); tie-breaker via **live fire tallies**; all four specialty cohorts fed equally |
 | **Field 4** | **Obligation / remembrance** (Malakor–Valerius register) — broken-cog border; *debt we carry — not a crime you committed* |
 | **Legatus Ring** | Virtue: **continuity under humiliation** · Risk: **over-indexing throughput certainty when adaptive ambiguity is required** |
+| **Chapter mastery** | **Master of the Keep** (*Magister Castri*) |
 | **Signature ops** | Malakor witness (050.M42); Silent Vigil garrison; ~189 Hive Vespera purge lattice |
 | **Armor** | ***Typus Primus — Ardens*** — **locked** (see below) |
 | **Dossier** | [`dossier-corbec-ardens.md`](../personae-command-index/character-dossiers/legati/dossier-corbec-ardens.md) |
@@ -91,7 +96,7 @@ NONA    ─ relay pin / delay until the shout
 | **Operational identity** | Dry jurist in ceramite; Lex clauses to bind trigger fingers; high **Silence Cohort** joint certification; collateral filed as **Administratum liability** |
 | **Field 4** | **Hive Dominus compliance** (078.M42) — ministry spires held without collateral breach |
 | **Legatus Ring** | Virtue: **compliance without theater** · Risk: **refusing Tier III plain language because Administratum optics cannot absorb it** |
-| **Also** | **Castra-Vetera armory vault** / *Castra-Lupus* sustainment ledger ([`castra-lupus-doctrine.md`](castra-lupus-doctrine.md) §4) |
+| **Also** | **Master of the Law** (*Magister Legum*) · **Silence cohort-chief** (lattice hat — how ivory fights; not a second scroll) ([`military-hierarchy.md`](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.5) · **Castra-Vetera armory vault** / *Castra-Lupus* sustainment ledger ([`castra-lupus-doctrine.md`](castra-lupus-doctrine.md) §4) |
 | **Armor** | ***Typus Secundus — Kessler*** — **locked** (see below) |
 | **Dossier** | [`dossier-henric-kessler.md`](../personae-command-index/character-dossiers/legati/dossier-henric-kessler.md) |
 
@@ -109,6 +114,7 @@ NONA    ─ relay pin / delay until the shout
 | **Operational identity** | Controlled heat; ambient **O₂** tick before hatches; Ruin as hammer with Suppression **live-burn** rotation; melta paired with **civilian evacuation windows** |
 | **Field 4** | **Vigilax triangulation** (110.M42) — kill-box with Drusus; Varro held the square |
 | **Legatus Ring** | Virtue: **discipline under lying air** · Risk: **treating inversion as purely biological plume geometry** |
+| **Chapter mastery** | **Master of the Breach** (*Magister Rupturae*) |
 | **Armor** | ***Typus Tertius — Brach*** — **locked** (see below) |
 | **Dossier** | [`dossier-theron-brach.md`](../personae-command-index/character-dossiers/legati/dossier-theron-brach.md) |
 
@@ -126,6 +132,8 @@ NONA    ─ relay pin / delay until the shout
 | **Operational identity** | **March of the Machine** school (Chapter registered); boot debt and **rotation law**; anchor under **Shadow in the Warp**; Branimir’s Silence for cult work |
 | **Field 4** | **March defense / Ruhe** (048.M42) — grav-locked line under Tyranid veil |
 | **Legatus Ring** | Virtue: **hold without liturgy** · Risk: **treating Castellan absence as victory leave, not substitution chain** |
+| **Chapter mastery** | **Master of the Anchor** (*Magister Ancorae*) |
+| **Cohort-chief** | **Stasis** |
 | **Armor** | ***Typus Quartus — Valestrand*** — **locked** (see below) |
 | **Dossier** | [`dossier-orin-valestrand.md`](../personae-command-index/character-dossiers/legati/dossier-orin-valestrand.md) |
 
@@ -143,6 +151,7 @@ NONA    ─ relay pin / delay until the shout
 | **Operational identity** | **Closure speed** scoreboard; **frontline slaughter → plant → contagion spread** from failed pressure point; countdown vox; **Wild Hunt** when massed enemies spike tempo |
 | **Field 4** | **Gutgrind Descent** (121.M42) — jump clearance, Ork scrap-spire, Selene-Black |
 | **Legatus Ring** | Virtue: **decisive tempo under uncertainty** · Risk: **premature Tier escalation if stress lanes are skipped** |
+| **Chapter mastery** | **Master of the Hunt** (*Magister Venationis*) — pursuit of mesh-wrongdoers who **escaped** (cross-seat; inside or outside mesh) |
 | **Notable** | Dreadwolf Red Tide (074.M42) — withheld Einar cull; Luna Sigma outer ring (168.M42) |
 | **Armor** | ***Typus Quintus — Sturmwahl*** — **locked** (see below) |
 | **Dossier** | [`dossier-armin-sturmwahl.md`](../personae-command-index/character-dossiers/legati/dossier-armin-sturmwahl.md) |
@@ -157,6 +166,7 @@ NONA    ─ relay pin / delay until the shout
 | ----- | ---- |
 | **Seat** | **Bifrons-Ferrum** — dual-world gulf forts, vaults, stasis-adjacent logistics |
 | **Chapter offices** | **Siege Master**; ***Maior Caementarius***; ***Pater Murorum*** — mesh fortress architect; **Bifronte audit** to Castellan |
+| **Chapter mastery** | **Master of the Siege** (*Magister Obsidionis*) — Chapter-wide fortress reduction (scroll); seat offices = design audit |
 | **Theater strategy** | **Siege and vault war** — densest **TDA / Indomitor** pool; plasma cannons, cyclones, storm shields; Siege = cultural core |
 | ***Alabarda*** | **Type Malleus** — dominant power maul / forge hammer; reinforced breach plant haft |
 | **Operational identity** | **Gate A / Gate B** single equation; **twin-phase commit** (variable fast wave → homer **GREEN** anvil / **RED** extract); vigil-first patience → staccato breach minute; **Legati forge councils** per seat |
@@ -179,6 +189,7 @@ NONA    ─ relay pin / delay until the shout
 | **Operational identity** | Ritual silence during overcharge; **punishes careless plasma** harder than any other Vex; Mechanicus tension without Techmarine merge |
 | **Field 4** | **Null-Vent Covenant** (112.M42) — plasma/photonic cascade contained without forgeship detonation |
 | **Legatus Ring** | Virtue: **punishes careless fire** · Risk: **over-focusing material vent failure while command IFF collapses** |
+| **Chapter mastery** | **Master of the Vent** (*Magister Venti*) |
 | **Armor** | ***Typus Septimus — Phaetron*** — **locked** (see below) |
 | **Dossier** | [`dossier-lucan-phaetron.md`](../personae-command-index/character-dossiers/legati/dossier-lucan-phaetron.md) |
 
@@ -196,6 +207,8 @@ NONA    ─ relay pin / delay until the shout
 | **Operational identity** | Soft vox on open channels; **two void seals** counted pre-battle; corridor interlock; buys seconds for NONA relay |
 | **Field 4** | **Witness Ford intercept** (096.M42) — void net with Black Templars / Helbrecht |
 | **Legatus Ring** | Virtue: **void fire brigade pride without privatizing mesh law** · Risk: **blocking inland terminal law as “not OCTAVA theater”** |
+| **Chapter mastery** | **Master of the Fleet** (*Magister Classis*) |
+| **Cohort-chief** | **Nullity** (field; **Otho** trains) |
 | **Armor** | ***Typus Octavus — Malevent*** — **locked** (see below) |
 | **Dossier** | [`dossier-ivar-malevent.md`](../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md) |
 
@@ -213,6 +226,8 @@ NONA    ─ relay pin / delay until the shout
 | **Operational identity** | Expendable in *Strategium* math but **not cheap**; liturgical vox as **signal discipline**; manual vox redundancy beside *Alabarda* relay |
 | **Field 4** | **Silent Hours** (140.M42) — Shouter + laser farm through Maleventum-class EM storm |
 | **Legatus Ring** | Virtue: **ugly solutions that live** · Risk: **misreading Castellan suppression as jamming and false-escalating Tier II** |
+| **Chapter mastery** | **Master of the Watch** (*Magister Vigiliae*) |
+| **Cohort-chief** | **Shadows** |
 | **Armor** | ***Typus Nonus — Vetra*** — **locked** (see below) |
 | **Dossier** | [`dossier-cassian-vetra.md`](../personae-command-index/character-dossiers/legati/dossier-cassian-vetra.md) |
 
@@ -222,6 +237,9 @@ NONA    ─ relay pin / delay until the shout
 
 ## Related documents
 
+- [`legatus-chapter-mastery.md`](../personae-command-index/doctrine-and-organs/legatus-chapter-mastery.md) — *Codex* ten + nine Legatus scrolls  
+- [`military-hierarchy.md`](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.5 — cohort-chief lattice  
+- [`specialty-cohorts.md`](specialty-cohorts.md) §5 — cohort-chief employment  
 - [`military-hierarchy.md`](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3 — Legatus / Castellan chain  
 - [`castra-lupus-doctrine.md`](castra-lupus-doctrine.md) — Castellan kit only  
 - [`alabarda-head-groups.md`](alabarda-head-groups.md) — pole identity  

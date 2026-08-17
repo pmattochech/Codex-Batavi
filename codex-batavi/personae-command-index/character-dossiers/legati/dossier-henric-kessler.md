@@ -3,7 +3,7 @@
 *(The Measured Line / Castra-Vetera Caliper)*
 
 **Full name:** Henric Kessler.  
-**Rank:** **Legatus**, SECVNDA.  
+**Rank:** **Legatus**, SECVNDA. **Chapter mastery (scroll):** **Master of the Law** (*Magister Legum* on formal filings). **Cohort-chief lattice:** **Silence**.  
 **Seat:** **Castra-Vetera Prime** — Central Bastion macro-system; corridor, crowd, and legally sensitive kill geometry.  
 **Chapter:** *Cohors Batavorum*.  
 **Bearer of:** *Alabarda* + Vexilla (SECVNDA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  

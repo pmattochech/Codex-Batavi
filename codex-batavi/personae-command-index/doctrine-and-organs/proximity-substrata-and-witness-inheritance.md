@@ -2,7 +2,7 @@
 
 **Doctrinal classification:** internal — Reclusiam lattice / Triumvirate civics · **not** open Administratum annex
 
-**Cross-reference:** [pax-batavorum.md](pax-batavorum.md) §3 (Doctrine of Shared Sweat) · [friction-rites.md](friction-rites.md) (approved mysticism, clinical cover) · [friction-geometry.md](friction-geometry.md) · [frontier-wolf-rite.md](frontier-wolf-rite.md) · [batavi-affect-kinesics-and-mortal-literacy.md](batavi-affect-kinesics-and-mortal-literacy.md) · narrative vignettes: [witness-inheritance-vignettes.md](../../chronicles/frontier-life/witness-inheritance-vignettes/chapter.md)
+**Cross-reference:** [pax-batavorum.md](pax-batavorum.md) §3 (Doctrine of Shared Sweat) · [friction-rites.md](friction-rites.md) (approved mysticism, clinical cover) · [friction-geometry.md](friction-geometry.md) · [frontier-wolf-rite.md](frontier-wolf-rite.md) · [batavi-affect-kinesics-and-mortal-literacy.md](batavi-affect-kinesics-and-mortal-literacy.md) · [council-and-librarium.md](council-and-librarium.md) §2.4 (cultural archive) · narrative vignettes: [witness-inheritance-vignettes.md](../../chronicles/frontier-life/witness-inheritance-vignettes/chapter.md)
 
 ---
 
@@ -28,10 +28,10 @@ This document names the mechanism so Strategium staff stop mistaking borrowed ha
 
 ## III. Three operative layers (what Strategium may vs must not file)
 
-| Layer | Content | Typical owner | Filing expectation |
+| Layer | Content | Lived by (day-to-day) | Filing expectation |
 | --- | --- | --- | --- |
-| **1 — Operational substrata** | Slang, trench names, timing rhymes, factory metaphors, “who holds the beam” ethics | Line officers · mortal serfs · ship crews | **Do not file** unless it crosses *vox* law or allied briefings |
-| **2 — Threshold / proximity speech** | Launch bells, hangar cadence, **pre-close salt** echoes, mortal-oath fragments repeated under helm seal | Chaplain lattice (informal) · cohort habit | **Optional** marginalia — often lives as **noise discipline** |
+| **1 — Operational substrata** | Slang, trench names, timing rhymes, factory metaphors, “who holds the beam” ethics | Sergeants · lieutenants · captains · Legati · mortal serfs · ship crews | **Unofficial** at rank — *Librarium* indexes when it crosses allied briefings or seat-bleed audits (§VIII) |
+| **2 — Threshold / proximity speech** | Launch bells, hangar cadence, **pre-close salt** echoes, mortal-oath fragments repeated under helm seal | Veterans · commanders · Chaplain lattice (informal) · cohort habit | **Optional** *Librarium* marginalia — often lives as **noise discipline** until archived |
 | **3 — Sanctioned Chapter rite** | Entries matching **[friction-rites.md](friction-rites.md)** logic (clinical cover + visceral truth) · formal funeral law **[frontier-wolf-rite.md](frontier-wolf-rite.md)** | Chief Chaplain (**Judex**) · Triumvirate ratification where blood-bound | **Must** be citeable — vexillum law and allied liability |
 
 Promotion from layer **1 → 3** is **never** automatic. It requires passing **Judex filtration** (§V).
@@ -46,6 +46,7 @@ Neophytes drawn from **Noviomagus** and **Castra Vetera** spillways arrive as **
 
 * ***Apothecarion*** trims **biology** (compatibility, Furor vectors, seed stress).
 * **Judex lattice** trims **lyric** — what survives repeated induction without spiking **Furor** / **Exanimus** precursors becomes **new normal**, not folklore performance.
+* **Custos Ascensum** (nine Procurators) trims **mesh calendar** and **circuit** — which seat receives which dialect of panic, when forge labor rotates, when scout attachment deploys — without overriding **Genetor** clearance or **Wolfkeeper** induction ([custos-ascensum-doctrine.md](custos-ascensum-doctrine.md)).
 
 This is how substrata **drifts** without a reform council: each intake **nudges** Chapter speech the way a forge **wanders** if you never recalibrate the die — except here the die is **Varro’s silence law**, not a Magos calendar.
 
@@ -82,3 +83,19 @@ Strategium implication: any policy that **isolates** Batavi from forge floors to
 > **Castra Vetera did not teach us their myths on purpose; we learned the names they use for the same gravity — and those names became another layer of armor.**
 
 Use as **interior** ethos — not allied *vox* theology.
+
+---
+
+## VIII. Responsibility chain — no culture mastery billet
+
+The Chapter **does not** maintain a *Codex*-style **Master of the Culture** (or equivalent Legatus scroll title). Witness inheritance is **too distributed** to centralize in one throat without hollowing veteran command.
+
+**Day-to-day (unofficial, by rank):** Every **veteran** and **commander** — sergeant through **Legatus** — carries mesh habit as **ordinary duty**: Shared Sweat shifts, war council beside mortal command, reading a seat’s mortal weather, adapting without performing a foreign Chapter template at joint briefings. No billet, no *Alabarda* field, no Ring vote.
+
+**Archive (official):** The ***Librarium*** under **Chief Librarian Otho** (**Master of the Librarium**) **files** the Chapter’s cultural record — witness-inheritance lattice, per-seat **culture-bleed** cross-refs ([`atlas-and-topography/cultures/`](../../atlas-and-topography/cultures/)), habit drift, and promotion packets toward rite audit. Haruspices and campaign *Librarius* brothers supply field notes; Otho’s archive **describes and indexes** — it does **not** schedule forge labor, override Legatus deployment, or **sentence** habit.
+
+**Sentence (Reclusiam):** **Judex filtration** (§V) — elevate toward friction-rite or **burn** lyric that spikes **Furor** / hands rivals an insult vector.
+
+**Lex (SECVNDA):** **Legatus Henric Kessler** as **Master of the Law** — when culture touches **Imperial witness**, collateral geometry, or Silence + Arbites joint hunt ([`lex-imperialis-iron-justice.md`](../../political-relations/lex-imperialis-iron-justice.md)); not general substrata intake.
+
+**Explicit negation:** No **Magister Cultus**, no culture **Procurator**, no ninth invented mastery for mesh ethnography. Adaptability stays **Chapter character** — filed by *Librarium*, **lived** by the line, **judged** by *Reclusiam* when habit tries to become law.

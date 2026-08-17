@@ -3,7 +3,7 @@
 *(The Reef Key / Maleventum Static-Lord)*
 
 **Full name:** Ivar Malevent.  
-**Rank:** **Legatus**, OCTAVA. **Master of the Watch** (incumbent) — reef, Maleventum station, ford watch geometry.  
+**Rank:** **Legatus**, OCTAVA. **Chapter mastery (scroll):** **Master of the Fleet** (*Magister Classis*) — void embark, Maleventum, Witness Ford hull war. **Cohort-chief lattice:** **Nullity** (field employment; **Otho** supervises training).  
 **Seat:** **Great Reef / Station-Maleventum** theater — void fight, boarding, reef transit under ion scourge (Threshold macro-system).  
 **Chapter:** *Cohors Batavorum*.  
 **Bearer of:** *Alabarda* + Vexilla (OCTAVA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Witness Ford intercept** (096.M42) — joint void containment with Black Templars.  

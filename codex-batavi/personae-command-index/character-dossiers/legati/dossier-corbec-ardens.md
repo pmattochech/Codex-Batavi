@@ -3,7 +3,7 @@
 *(The Warden Gauge / PRIMA under the Watch lattice)*
 
 **Full name:** Corbec Ardens.  
-**Rank:** **Legatus**, PRIMA.  
+**Rank:** **Legatus**, PRIMA. **Chapter mastery (scroll):** **Master of the Keep** (*Magister Castri*).  
 **Seat:** **Noviomagus Prime** — governor of the Chapter’s reference forge and line-replacement tempo. **Law:** Holds PRIMA’s *Legatus* anchor **on** Noviomagus per **post–050.M42** *Strategium* **re-seat** (after the First Legatus **forward** geometry on the Cicatrix lip was **closed**); not a continuation of Valerius’s campaign HQ. *See* [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3 (PRIMA).  
 **Chapter:** *Cohors Batavorum*.  
 **Bearer of:** *Alabarda* + Vexilla (PRIMA lattice) — **four-field** face per [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md): fourth quadrant is **obligation / remembrance** (Malakor–Valerius register), **broken-cog** border; *Strategium* brief to PRIMA transfers: *debt we carry — not a crime you committed* (§2.2).  

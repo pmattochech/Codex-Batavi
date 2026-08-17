@@ -33,6 +33,18 @@ It is **not** a single relic chassis passed between Castellans. Each proclamatio
 
 **Explicit negative:** Legati do **not** receive ***Castra-Lupus***, ***Caput Ferreum***, or Castellan office regalia. Per-Legatus configuration is filed in [`legati-operational-register.md`](legati-operational-register.md) and dossiers §1.
 
+### 1.2 **LVPVS IMPERATORIS** (Emperor’s Wolf — third pole)
+
+| | **LVPVS IMPERATORIS** |
+| -- | ------------------ |
+| **Metaphor** | **Spear from the wall** — Throne wolf **sent** when the hold cannot afford the Castellan’s departure |
+| **Body** | **Legatus artificer** or equivalent Noviomagus commission — **not** *Castra-Lupus*; **not** Legatus *Alabarda* |
+| **Arms** | ***Par Ferrum Lupi*** — **Decreto** + **Termini**; ***Modus Binorum Ferrum*** |
+| **Cloth** | Primary field bearer of **DECIMA justice vexillum** — not a PRIMA–NONA four-field *Alabarda* cloth |
+| **Strategic read** | Alaric **holds**; Emperor’s Wolf **terminates** what the decree names |
+
+**Chapter Latin (heraldic stamp):** **LVPVS IMPERATORIS**. **English:** **Emperor’s Wolf**. **Not** a Legatus title. Command law: [`military-hierarchy.md`](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
+
 ---
 
 ## 2. *Caput Ferreum Castellani* (office — the helm)

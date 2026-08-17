@@ -51,6 +51,12 @@ The frontier’s most delicate relationship. The *Holy Ordos* keep the Chapter u
 
 The Deathwatch is treated as a **mission creditor**, not a brotherhood above politics: **vetted rotations**, *Medicinae* gates, **witness** requirements, and **tiered** gene-seed disclosure. **Chapter law** (*ca.* **051.M42**, **after** the First Legatus’s fall at Malakor V) makes a **certified *Watch cycle*** mandatory for **Legatus** and for **DECIMA** membership (except supreme posts). Utility against xenos buys tolerance; **Versibars**, unstable chimeric predisposition swings, and **Batavian Haruspices** are tightly constrained on loan. **Steppenwolves** — brothers who **stay** on detached / perpetual Watch (or other rim geometry) because the home **Vexilla** lattice destabilizes them — are a separate *Strategium* ledger; see [steppenwolf-doctrine.md](../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md).
 
+### [Marines Malevolent — Astartes enemy register](marines-malevolent-relations.md)
+
+*— The only Astartes the Wall shoots on sight*
+
+**Primary loyalist Astartes enemy.** Standing **open-fire policy** under Castra Vetera mandate; origin **Vigilax** (110.M42). All other Chapters: secondary friction only. **Deathwatch not filed on this lane.**
+
 ### [Space Wolves — frontier relations](space-wolves-relations.md)
 
 *— Reluctant allies; receipt diplomacy*

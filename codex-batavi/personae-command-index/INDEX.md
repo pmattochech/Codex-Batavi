@@ -14,11 +14,13 @@
 
 - [technical-datasheet.md](doctrine-and-organs/technical-datasheet.md) — Codex Batavorum technical sheet
 - [progenitor-classification.md](doctrine-and-organs/progenitor-classification.md) — founding / gene-line POV layers (open record vs sealed *Apothecarion*)
-- [council-and-librarium.md](doctrine-and-organs/council-and-librarium.md) — Extended Council; Haruspicium / Blindgate; **§5–§6** upstream quartet & downstream issuance
+- [council-and-librarium.md](doctrine-and-organs/council-and-librarium.md) — Extended Council; Haruspicium / Blindgate; **§2.4** cultural archive; **§5–§6** upstream quartet & downstream issuance
 - [batavi-affect-kinesics-and-mortal-literacy.md](doctrine-and-organs/batavi-affect-kinesics-and-mortal-literacy.md) — affect–display decoupling; reaction-class kinesics; mortal read-rights; Castellan mortal interface
-- [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md)
+- [legatus-chapter-mastery.md](doctrine-and-organs/legatus-chapter-mastery.md) — *Codex* ten + nine Legatus scrolls; Marches on Castellan; culture **no** mastery
+- [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) — friction chain; **§3.3** mastery; **§3.4** company mix; **§3.5** cohort chiefs; Curia; Custos
+- [custos-ascensum-doctrine.md](doctrine-and-organs/custos-ascensum-doctrine.md) — **Custos Ascensum** (college of nine Procurators); rotating Speaker; circuit **PRIMA last**; co-sign **Genetor Primus**
 - [friction-rites.md](doctrine-and-organs/friction-rites.md)
-- [proximity-substrata-and-witness-inheritance.md](doctrine-and-organs/proximity-substrata-and-witness-inheritance.md) — silent cultural intake via Castra Vetera proximity; Judex filtration; neophyte increment
+- [proximity-substrata-and-witness-inheritance.md](doctrine-and-organs/proximity-substrata-and-witness-inheritance.md) — witness inheritance; **no culture mastery billet**; veteran/commander day-to-day + *Librarium* filing; Judex filtration
 - [steppenwolf-doctrine.md](doctrine-and-organs/steppenwolf-doctrine.md) — detached brothers; perpetual Watch / rim teams; slang etymology (White Scars / Chogoris loan)
 - [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md) — Mortivigil → Chaplain / **Wolfkeeper** helm law; death pipeline; nine crypts + Chapter-supreme vault; Castra-Lupus triad
 - [wolfkeeper-and-reclusiam.md](doctrine-and-organs/wolfkeeper-and-reclusiam.md) — **Wolfkeeper** class (soul in life); Judex / Master Wolfkeeper; duties vs Mortivigil / Librarium; Tenets link

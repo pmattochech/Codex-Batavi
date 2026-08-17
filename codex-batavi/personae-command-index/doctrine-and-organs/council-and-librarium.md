@@ -20,6 +20,19 @@ Noviomagus’s *Librarium* acts as the Imperium’s coldest intelligence agency.
 
 **Rite audit:** Librarians codify Batavi tribal superstitions — such as the *Civilis* vow (helm soot) and the *Iron Trinity* (rhythmic metal tap). They filed these tactile tics not as shamanism but as behavioral code lines, neurokinetic algorithms that force the transhuman brain to reset and block *Exanimus* tension from advancing. The *Librarium* observes, measures, and prescribes superstition like software recalibration.
 
+### 2.4 Cultural archive (witness inheritance filing)
+
+The Chapter **does not** appoint a **Master of the Culture**. Mesh habit and **witness inheritance** are **lived unofficially** by veterans and commanders in daily operations ([proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md) §VIII); the ***Librarium*** owns the **written** side.
+
+**Scope:**
+
+* **Index** operational substrata and threshold speech when seat-bleed audits, allied liaison, or promotion toward friction-rite requires a citeable record.
+* **Maintain** cross-links to PRIMA–NONA **culture-bleed** ethnography under [`atlas-and-topography/cultures/`](../../atlas-and-topography/cultures/) — parallel keys for mortal populi vs Vexilla habit, not merged theology.
+* **Receive** field marginalia from **Batavian Haruspices** and campaign *Librarius* brothers (friction variables often carry idiom and grief-tempo tags).
+* **Package** layer **1 → 2 → 3** promotion packets for **Judex filtration** — the *Librarium* **files**; **Varro** **elevates or burns**; Otho does not replace *Reclusiam* sentence law.
+
+**Hard limits:** No authority to order Shared Sweat rotas, neophyte mesh calendars (**Custos Ascensum**), Lex kill packets (**Master of the Law** / SECVNDA), or penance marks (**Confessor Primus** / Judex lattice). Archive work sits beside **Haruspicium** and **rite audit** as **Chapter history made usable** — the *Codex* **Master of the Librarium** function extended to Batavi super-adaptability without inventing a eleventh mastery scroll.
+
 ### 2.1 Batavian Haruspices (embedded read)
 
 Each **Vexilla** embeds **five** **Batavian Haruspices** — *Librarius* battle-brothers trained exclusively in **Haruspicium Batavorum**. They are **not** a fifth specialty cohort; they sit in the **organic support** slice of the 500-cell grid, with **formal liaison** to the **Nullity Cohort** (psychic *vox* channel, *blank*-adjacent drills, witch-mark interdiction). Their output is **telemetry**: friction variables fed to the line, not theater-wide warp storms.
@@ -48,11 +61,11 @@ The **Master of the Forge** does not command a hidden “eleventh company”: he
 
 | Council pillar | Order | Relation to Vexilla |
 |----------------|--------|---------------------------|
-| **Otho** | *Librarium* | **Batavian Haruspices** in each Vexilla; **Haruspicium Batavorum** (passive); **Blindgate** (active mental defense); Nullity liaison. |
+| **Otho** | *Librarium* | **Batavian Haruspices** in each Vexilla; **Haruspicium Batavorum** (passive); **Blindgate** (active mental defense); **cultural archive** / witness-inheritance filing (§2.4); Nullity liaison. |
 | **Kadmos** | *Armourium* | Techmarines and Artificers; forge ↔ front rotation; ***Castra-Lupus* commissions** and incumbent sustainment. |
 | *(Triumvirate)* | *Medicinae* / *Reclusiam* | **Drusus** and **Varro** head Apothecary and Chaplain networks; bodies deployed **inside** the 500 per Vexilla. |
 
-None of these structures sit “outside” the ceiling: they are **layers** on the same **10 × 500** mesh. *Frozen table (4+4+3+5; Tenth +5):* [military-hierarchy.md](military-hierarchy.md) §4.3; operational adjustments §4.5.
+None of these structures sit “outside” the ceiling: they are **layers** on the same **10 × 500** mesh. *Frozen table (4+4+3+5+5; Tenth +5):* [military-hierarchy.md](military-hierarchy.md) §4.3; operational adjustments §4.5.
 
 ## 5. UPSTREAM QUARTET — CLARITY BUDGET
 
@@ -74,7 +87,7 @@ Four seats alone carry **full-resolution** perception of the Chapter’s recurri
 | Upstream | Downstream network | What the line receives |
 | --- | --- | --- |
 | **Drusus** | *Medicinae* / Apothecarion cadres | **Margins**, forbidden merges, interval rules, triage law — **procedure as mercy**; biomarkers without bedtime stories |
-| **Otho** | *Librarium* / Batavian Haruspices | **Anomaly classes**, Grid slang, Blindgate drills — **telemetry mysticism**; superstition filed as **neurokinetic / sensor script** where justified |
+| **Otho** | *Librarium* / Batavian Haruspices | **Anomaly classes**, Grid slang, Blindgate drills — **telemetry mysticism**; superstition filed as **neurokinetic / sensor script** where justified; **witness-inheritance index** and seat-bleed cross-refs (§2.4) |
 | **Varro** | *Reclusiam* / Chaplain lattice | **Bind-words**, silence discipline, licensed liturgy — **spiritual maintenance manuals**; terror as **audit**, not rant |
 | **Alaric** | Legati, **10th DECIMA** anchor lattice, formal **command exemplum** | **Friction geometry**, *We hold*, visibility of **humility-in-the-kitchen** — **command gravity** without catechism; NCOs learn **pattern** before **parable** |
 

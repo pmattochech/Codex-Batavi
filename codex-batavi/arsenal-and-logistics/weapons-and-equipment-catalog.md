@@ -22,6 +22,8 @@ Cross-reference for armament cited outside the arsenal. Full narrative specifica
 
 | Designation | Bearer | Notes | Document |
 |-------------|--------|-------|----------|
+| ***Par Ferrum Lupi*** — **Decreto** | Markus Graile (**LVPVS IMPERATORIS**) | Artificer **power sword** — decree **issued** (the **man** / Astartes order). First blade in champion summons. | [dossier-markus-graile.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) |
+| ***Par Ferrum Lupi*** — **Termini** | Markus Graile (**LVPVS IMPERATORIS**) | Artificer **gladius** — termination **delivered** (the **wolf** / seal’s bite). Prose: **the Bite**. Paired with **Decreto** under ***Modus Binorum Ferrum***. | [dossier-markus-graile.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) |
 | ***The Sentence*** (**Noviomagus-standard** force gladius) | Alaric von Helis | Gladius-scale sword body; *Zone Mortalis*, thrust geometry. | [dossier-alaric.md](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) §5 |
 | **Force gladius** (“clinical Second Blade”) | Drusus | Thrusts to vital points; support to field procedures. | [dossier-drusus.md](../personae-command-index/character-dossiers/triumvirate/dossier-drusus.md) |
 | ***Crozius Arcanum*** (*The Iron Verdict*) | Varro | Industrial hammer; Reeducation / Sentence modes. | [dossier-varro.md](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) §4 |
