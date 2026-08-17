@@ -19,7 +19,7 @@ Brother-war during the Hold. **Valerius** (original **PRIMA** Legatus) becomes *
 
 **The war ends** when **Valerius** is **slain by Alaric and the Emperor’s Wolf** (*LVPVS IMPERATORIS* office — first incumbent **TBD**; do not assume **Graile**).
 
-**DECIMA** does **not** exist as a tenth Vexillum **during** the war. At **close**, it is founded from the loyal marines who **stayed with Alaric** — locked as the **first 500 or more** (Vexilla scale). SECVNDA / SEXTA / NONA remain their own seats.
+**DECIMA** does **not** exist as a tenth Vexillum **during** the war. At **close**, it is founded from the loyal marines who **stayed with Alaric** — locked as the **first 500 or more** (Vexilla scale). SECVNDA / SEXTA / NONA remain their own seats. **Standing job after founding:** **core escort** of the **20-year tithe convoy** (spoil too fat to leave to chance) — fence: [`insula-tenebrarum-isolation-fence.md`](../../atlas-and-topography/insula-tenebrarum-isolation-fence.md) §IV.
 
 ---
 

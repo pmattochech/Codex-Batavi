@@ -20,7 +20,7 @@
 
 *Ghost tithe already **~300 years** old. Super-tithe and forges continue. **Era Indomitus** on the mesh is **~12 Terran years**, not a century. Headcounts from the deleted serial are **not** reused here. Legacy stamps in §III–VI (045–180.M42, 100-year Silent Vigil) are **unmined paper** — do not treat them as the actual-days clock.*
 
-* **Shared Sweat / super-tithe (Badab lesson):** Hard-commits **Aequalitas Machinae** labor and **always overproduces** tithe (**≥15%** over quota as the floor). Stockpile between anomaly windows; dump a fat convoy **~once per 20 years**. They will **not** become **Lufgt Huron** — isolation is not an excuse to withhold. Expansion toward **~5,000** is **Hold-era local raising**, sealed later with Primaris **method** (§III) — not imported brothers.
+* **Shared Sweat / super-tithe (Badab lesson):** Hard-commits **Aequalitas Machinae** labor and **always overproduces** tithe (**≥15%** over quota as the floor). Stockpile between anomaly windows; dump a fat convoy **~once per 20 years** with a **large Chapter escort** — **DECIMA** as **core** once it exists (Castellan holds; Emperor’s Wolf lunges). They will **not** become **Lufgt Huron**. Expansion toward **~5,000** is **Hold-era local raising**, sealed later with Primaris **method** (§III) — not imported brothers.
 
 ## III. Golden Projection era (045.M42 – 051.M42) — *legacy M42 stamps*
 

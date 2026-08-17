@@ -58,6 +58,7 @@ They spend **most** of the Hold **closed**. Culture depth is cage-time, not traf
 | **What may leave** | **Hulls** jump to **safe realspace beside the Rift** (**Nihilus or Sanctus**) — tithe, proof, rare bodies. |
 | **What may not** | **Comms** as a standing line. A jumped hull is not a vox to Terra. |
 | **Tithe law** | Output is **always overproduced** (super-tithe, **≥15%** over quota as the floor). Stockpile between windows; dump a **fat** convoy when the anomaly opens. **Badab lesson:** they will **not** become **Lufgt Huron** — no withheld tithe, no “the center abandoned us so we keep the guns.” Isolation is never an excuse to short the Throne. |
+| **Escort** | The spoil is **20 years** of overproduction. If it falls to pirates, Chaos, or a hungry lord, it **is** another Badab. A **big part of the Chapter** rides with the hulls. **After DECIMA exists:** **DECIMA** is the **core escort** — Castellan’s own 500, loyalty-locked at Valerian close. The Castellan **holds** the mesh; the **Emperor’s Wolf** **lunges** with the convoy. Other Vexilla may **attach** packets **under DECIMA command** for that run only. **Before DECIMA:** the same job under Castellan orders — still a large fraction, no tenth yet. |
 | **Den law** | While the hull is **outside** the V, it is **outside the den**. Re-entry is mesh weather again. |
 
 ---
@@ -80,4 +81,4 @@ When a **standing wound** is allowed, **Witness Ford** is the working candidate 
 
 ---
 
-*Last aligned: MoI reflector fence; V-shield at Cicatrix; navel vortex as MoI-defeat failure; anomaly **once per ~20 years**; super-tithe always on (Badab lesson); mesh entry = den weather.*
+*Last aligned: MoI reflector fence; V-shield at Cicatrix; navel vortex as MoI-defeat failure; anomaly **once per ~20 years**; DECIMA core-escorts tithe spoil; super-tithe always on (Badab lesson); mesh entry = den weather.*

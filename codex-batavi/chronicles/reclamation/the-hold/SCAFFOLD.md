@@ -17,7 +17,7 @@ Centuries. Still pre-Cadia. **~300 years** working. Isolated **most** of the tim
 
 - No Cicatrix yet
 - **DECIMA** does not exist until **Valerian close** (then Alaric’s loyalists, **500** or more)
-- Anomaly **~once per 20 years**; tithe always overproduced (Badab lesson)
+- Anomaly **~once per 20 years**; tithe always overproduced (Badab lesson); **DECIMA** core-escorts the convoy once founded (Castellan holds)
 - Raising already started in the Reclamation (neophytes + rare adult conversion); **5,000** ceiling continues across the Hold
 - Next: Valerian scaffold
 

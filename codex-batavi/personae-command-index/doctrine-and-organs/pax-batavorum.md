@@ -14,6 +14,7 @@ Alaric understood that the Chapter’s biology was a time bomb and that the **is
 Studying the fall of Lufgt Huron (Badab War), Alaric knew that hoarding resources for defense was read as treason by Terra. To avoid censure, he inverted the logic.
 
 * **The super-tithe:** He ordered subsector productivity raised to brutal levels. Output is **always overproduced** — **≥15%** above Administratum quota as the floor. Between anomaly windows they **stockpile**; when the pylon opens (**~once per 20 years**) they dump a fat convoy. Isolation is not an excuse to short the Throne.  
+* **Tithe escort:** A **big part of the Chapter** accompanies those hulls. The spoil in wrong hands is another Badab. **DECIMA** is the **core escort** once it exists (Castellan holds; Emperor’s Wolf lunges). Attachments from other Vexilla may ride **under DECIMA** for that run. Before the Tenth, the Castellan still sends a large fraction.  
 * **Economic indispensability:** That makes Castra Vetera Subsector economically indispensable. The Imperium tolerates the “monsters of Noviomagus” because they pay better than loyal governors.  
 * **Route security:** He ensured the **marsh channels** and **Witness Ford** cordon became the safest rated inward routes in the subsector, wiping out piracy through the sheer brutality of Friction Geometry.
 
