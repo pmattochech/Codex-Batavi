@@ -2,7 +2,7 @@
 
 **Status:** Tombstone for saga migrations off numbered `NN-*` folders. **Redirect folders deleted May 2026** after slug-tree migration; use this table for git history, Notion IDs, and old bookmarks.
 
-**Foundation War** has its own map: [`foundation-war/legacy-map.md`](foundation-war/legacy-map.md).
+**the Reclamation** has its own map: [the Reclamation](../personae-command-index/events-and-chronologies/the-reclamation.md).
 
 **Canonical chronicle index:** [`INDEX.md`](INDEX.md)
 
@@ -122,7 +122,7 @@
 
 | Legacy folder | Saga root |
 |---|---|
-| `00-foundation-war/` | [`foundation-war/`](foundation-war/INDEX.md) — see [`foundation-war/legacy-map.md`](foundation-war/legacy-map.md) |
+| `00-foundation-war/` | [the Reclamation](../personae-command-index/events-and-chronologies/the-reclamation.md) — see [the Reclamation](../personae-command-index/events-and-chronologies/the-reclamation.md) |
 | `01-green-tempest/` | [`green-tempest/`](green-tempest/INDEX.md) |
 | `02-biologis-spiritus-foundation/` | [`biologis-spiritus-foundation/`](biologis-spiritus-foundation/INDEX.md) |
 | `03-projection-aurea-codex-omega/` | [`projection-aurea-codex-omega/`](projection-aurea-codex-omega/INDEX.md) |

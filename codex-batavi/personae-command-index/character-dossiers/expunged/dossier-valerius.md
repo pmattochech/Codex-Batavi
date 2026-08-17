@@ -26,7 +26,7 @@ Valerius first marine formally designated Legatus *Cohors Batavorum*. Fought bes
 
 *Ledger contrast (public read vs. Castellan warrant):* On **pure** **warrior** and **visible** **campaign** **success** he **outperformed** **Alaric**; the *Reclusiam* **seal** for **Chapter** **Master** **succession** — witness **Varro** only, [dossier-alaric.md](../triumvirate/dossier-alaric.md) §1.0 — weighted **broad** **command** and **Throne** **fealty** over that **lone** axis, **without** the Castellan’s **prior** **knowledge**.
 
-While most founder marines progressively hit Furor stage under constant **Foundation War first-quarter** hunter pressure, Valerius’s PRIMA stayed stable. Valerius held squadrons on principle then governing whole Chapter — formulation becoming pre-doctrinal *Axiom Rationis* base:
+While most founder marines progressively hit Furor stage under constant **the Reclamation first-quarter** hunter pressure, Valerius’s PRIMA stayed stable. Valerius held squadrons on principle then governing whole Chapter — formulation becoming pre-doctrinal *Axiom Rationis* base:
 
 > *“Service demands reason instead of devotion. Reason directs duty without blind submission. Duty upheld through regulation of self. I serve the Emperor.”*  
 > — Garviel Loken, pre-Heresy record
@@ -53,9 +53,9 @@ Varro preached pride death because *had* pride — learned inside Furor pride bi
 
 ## IV. EROSION (045.M42 – 049.M42)
 
-**Crucible logistics register (pre-Malakor — canonical serial):** Same individual filed **parallel ledgers** and **double-stamp** embarkation discipline across poles — *witness routes* beside *throughput*, honest-zero supply slate, *witness attests: losses occurred* vs Navy *provisional* phrasing — [`der-batav-council/chapter.md`](../../../chronicles/foundation-war/Q4-der-batav/der-batav-council/chapter.md), [`instrumentum-solum/chapter.md`](../../../chronicles/foundation-war/Q4-der-batav/instrumentum-solum/chapter.md), Q3 bridge — [`maw-exercise/chapter.md`](../../../chronicles/foundation-war/Q3-gulf-and-beast/maw-exercise/chapter.md). Staff read: competence **before** the rot curve; not exculpation at Malakor.
+**Crucible logistics register (pre-Malakor — canonical serial):** Same individual filed **parallel ledgers** and **double-stamp** embarkation discipline across poles — *witness routes* beside *throughput*, honest-zero supply slate, *witness attests: losses occurred* vs Navy *provisional* phrasing — [the Reclamation](../../events-and-chronologies/the-reclamation.md), [the Reclamation](../../events-and-chronologies/the-reclamation.md), Q3 bridge — [the Reclamation](../../events-and-chronologies/the-reclamation.md). Staff read: competence **before** the rot curve; not exculpation at Malakor.
 
-Crucible close (**~045.M42**) left the Chapter on **~500** rational line; Valerius named **First Legatus** — highest post below Triumvirate — **before** Malakor and **before** **Primaris** reinforcement. The **~5,000** expansion and ***Limes Lupus*** seal (**051.M42**) come **later**; this interval is **still** *Codex*-scale ambition with **forward** trust. Appointment should maximum recognition. Worked partially insult.
+Crucible close (**~045.M42**) left the Chapter on **~500** rational line; Valerius named **First Legatus** — highest post below Triumvirate — **before** Malakor and **before** **Primaris method** (Rubicon / local intake). The **~5,000** expansion seal and ***Limes Lupus*** (**051.M42**) come **later**; this interval is **still** *Codex*-scale ambition with **forward** trust. Appointment should maximum recognition. Worked partially insult.
 
 Expected: Alaric honor guard. Closest Castellan position implicit successor role.
 
@@ -139,7 +139,7 @@ Alaric spoke nothing before during after.
 
 ### Alaric — expunging
 
-Valerius name removed all formal Chapter records forty-eight hours Malakor V return. Commemorative plates campaign records Legatus listings Foundation War honors — any mention replaced blank or designation *“PRIMA — expunged.”*
+Valerius name removed all formal Chapter records forty-eight hours Malakor V return. Commemorative plates campaign records Legatus listings the Reclamation honors — any mention replaced blank or designation *“PRIMA — expunged.”*
 
 Rare contexts reference inevitable — historical tactical reports doctrinal analysis present dossier — Alaric uses exclusively deprecatory terms. Common *“mangy one”*: sick marine contaminated touched. Chapter mythology lexicon distinction noble wolf mangy dog absolute — model founder antithesis. Alaric chose word precision.
 
@@ -181,7 +181,7 @@ Oath never needed fulfilling. Whether oath deterrence effectiveness *Axiom Ratio
 
 Valerius name not spoken ceremonies. Not honor listings. Not cited doctrine negative example — citing negative example still speaks name.
 
-Exists blank space Foundation War records where name was. Marines know blank represents need explanation. Marines don’t learn blank spaces not asked about.
+Exists blank space the Reclamation records where name was. Marines know blank represents need explanation. Marines don’t learn blank spaces not asked about.
 
 Drusus keeps *Inverted Stability Case* mandatory Apothecary reading. Case header name replaced numeric classification.
 

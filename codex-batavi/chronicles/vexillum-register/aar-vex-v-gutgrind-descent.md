@@ -36,7 +36,7 @@ Assault clearance from the top and simultaneous hook landings on mid-spine platf
 
 ## 5. *Strategium* note (field 4 register)
 
-The Foundation War **Aethelgard opening** predates modern four-field *Alabarda* certification logic for Legatus standards. **Gutgrind Descent** is the audit-grade Ork triumph filed for **QVINTA** field 4.
+The the Reclamation **Aethelgard opening** predates modern four-field *Alabarda* certification logic for Legatus standards. **Gutgrind Descent** is the audit-grade Ork triumph filed for **QVINTA** field 4.
 
 ## 6. Certification
 

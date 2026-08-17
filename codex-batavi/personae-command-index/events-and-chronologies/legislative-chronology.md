@@ -2,7 +2,7 @@
 
 *This list orders edicts, protocols, and doctrines by date of institution, tracing Alaric’s evolution from isolated warlord to the Imperium’s “Iron Administrator.”*
 
-**Calendar hygiene:** **~M42** stamps are **Imperial / Administratum** cross-filings. **Foundation crucible** events in Chapter annals are tracked in **CV years** — see [`master-chronology.md`](master-chronology.md) §I and [`foundation-war.md`](foundation-war.md); dates here may **lag** formal ratification (e.g. *Axiom* practiced in field before record seal).
+**Calendar hygiene:** **~M42** stamps are **Imperial / Administratum** cross-filings. **the Reclamation** and **the Hold** are **pre-Cadia** (year TBD) — see [`master-chronology.md`](master-chronology.md) §I and [`the-reclamation.md`](the-reclamation.md); dates here may **lag** formal ratification (e.g. *Axiom* practiced in field before record seal).
 
 ## I. FOUNDATION AND SURVIVAL (015.M42 – 050.M42)
 
@@ -17,10 +17,10 @@
 
 ## II. THE IRON DIPLOMACY ERA (051.M42 – 150.M42)
 
-*Mechanisms built to shield the Chapter politically from the Inquisition and Administratum — spanning **post–Primaris** expansion, collar politics, and the **Silent Vigil** (compressed century).*
+*Mechanisms built to shield the Chapter politically from the Inquisition and Administratum — spanning **post–Primaris method** expansion, collar politics, and the **Silent Vigil** (compressed century).*
 
 * ***051.M42 | Limes Lupus Treaty (“the iron collar”):***  
-  * *Definition: Ratified by Roboute Guilliman after the Chapter **commits** to non–*Codex* strength toward **~5,000** Marines — a decision the Triumvirate takes **following** *Indomitus*–era **Primaris** reinforcement (see [`master-chronology.md`](master-chronology.md) §III). Same cluster: **super-tithe** posture. Guarantees *Cohors Batavorum* jurisdictional sovereignty in exchange for full biological transparency with specific allies and perpetual Adeptus Custodes oversight (Shield-Captain Tyvar). The pact buys political immunity with economic efficiency and an iron shield in the void.*  
+  * *Definition: Ratified by Roboute Guilliman after the Chapter **commits** to non–*Codex* strength toward **~5,000** Marines — a decision the Triumvirate takes **following** *Indomitus*–era **Primaris method** (Rubicon of Firstborn, then **local** Primaris intake — **no** imported battle-brothers; see [`master-chronology.md`](master-chronology.md) §III · [`primaris-rubicon-intake.md`](../doctrine-and-organs/primaris-rubicon-intake.md)). Same cluster: **super-tithe** posture. Guarantees *Cohors Batavorum* jurisdictional sovereignty in exchange for full biological transparency with specific allies and perpetual Adeptus Custodes oversight (Shield-Captain Tyvar). The pact buys political immunity with economic efficiency and an iron shield in the void.*  
 * ***112.M42 | Critical Objection Protocol (*meo modo*)***  
   * *Definition: Response to the Porta Romuli incident. Alaric does not refuse Imperial orders, but if an order is inefficient he presents a logical alternative. If rejected, he executes the mission in *meo modo* — his own way — prioritizing asset preservation over blind obedience.*  
 * ***120.M42 | Hierarchical transparency policy:***  

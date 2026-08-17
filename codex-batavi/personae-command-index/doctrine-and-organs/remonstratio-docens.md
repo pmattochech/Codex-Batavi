@@ -4,7 +4,7 @@
 
 **Justification (core principle):** *Successus Missionis* — mission success authorizes and obligates structured objection during planning, because no command mind is immune to narrow vision.
 
-**Origin filing:** The Triumvirate tested this doctrine during the Foundation Wars after repeated failures traced to **voiced objections being ignored**. The Chapter’s conclusion was not “more permissive discipline,” but **better engineered reliability**. The Codex Astartes was filed as insufficient fit for Batavi operational reality; Remonstrance became universal and permanent.
+**Origin filing:** The Triumvirate tested this doctrine during the the Reclamations after repeated failures traced to **voiced objections being ignored**. The Chapter’s conclusion was not “more permissive discipline,” but **better engineered reliability**. The Codex Astartes was filed as insufficient fit for Batavi operational reality; Remonstrance became universal and permanent.
 
 **Boundary (absolute):** Remonstrance is permitted and expected **before** an order is sealed. **After** an order is sealed, compliance is absolute. Objection may never become a lever for treason, faction, or chain-of-command fracture. The Reclusiam enforces this boundary (instruction first; discipline when needed).
 

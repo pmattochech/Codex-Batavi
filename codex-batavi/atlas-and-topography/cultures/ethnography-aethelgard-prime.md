@@ -25,7 +25,7 @@
 
 **Provincial feel:** Imperial forms arrive late and wet. Administratum seals matter when they prevent drowning; Ministorum oils matter when priests wear **mud boots**. The Throne is honored when **gates shut on time**, **children are counted** before surge, and **nets** return with logged haul. This is a frontier barbaricum heart with estuary law — not Noviomagus gear stacks, not Khan-Bator grain plains.
 
-**Slow death:** drowning is fast; **brackish creep**, **mud lung**, **cliff fall on ebb misread**, and **tithe delay** that starves a winter are the ordinary killers. Foundation War memory (mortal register) still smells like **Needles hunting** — unclassified mercenary pressure that taught grandparents to treat **wrong reek** as evacuation, not sermon (see §0.2 chronological blindness).
+**Slow death:** drowning is fast; **brackish creep**, **mud lung**, **cliff fall on ebb misread**, and **tithe delay** that starves a winter are the ordinary killers. the Reclamation memory (mortal register) still smells like **Needles hunting** — unclassified mercenary pressure that taught grandparents to treat **wrong reek** as evacuation, not sermon (see §0.2 chronological blindness).
 
 ### 0.2 Fork
 
@@ -39,7 +39,7 @@
 
 **What outsiders misread:** mud boots in chapel as irreverence (it is survival liturgy); **tide silence** as superstition (it is social contract); **Der Batav** morality tales as beast-worship (usually allegory — clergy tolerate until it slides); QVINTA patrol schedules as “occupation theater” (civilians experience them as **weather** that moves markets).
 
-**Foundation War texture (mortal, chronologically blind):** grandparents speak of **Moon Hunt** seasons — open-record pressure from **unclassified xenos mercenaries** in Needles and swamp channels — as **hunting weather** that ate villages and taught **gate discipline** before Imperial forms returned thick. Mortals do **not** own Chapter doctrine, gene-line laundry, or sealed *Strategium* labels for that crucible. Rumor of “iron helms that fell like weather” is **habit memory**, not a street lecture on Vexilla law. Later QVINTA presence rhymes with that fear-geometry without explaining it.
+**the Reclamation texture (mortal, chronologically blind):** grandparents speak of **Moon Hunt** seasons — open-record pressure from **unclassified xenos mercenaries** in Needles and swamp channels — as **hunting weather** that ate villages and taught **gate discipline** before Imperial forms returned thick. Mortals do **not** own Chapter doctrine, gene-line laundry, or sealed *Strategium* labels for that crucible. Rumor of “iron helms that fell like weather” is **habit memory**, not a street lecture on Vexilla law. Later QVINTA presence rhymes with that fear-geometry without explaining it.
 
 ### 0.3 Sorting border (class police)
 
@@ -154,7 +154,7 @@ Mortal force on Aethelgard is **shore geometry** first: who dies holding a gate,
 - **Draft call after failed tithe seal:** Common districts offer second-shift volunteers to keep Rabble children off the list; Upper houses “gift” kit and take receipt piety.
 - **Riot on ebb plain:** Ghost-haul arrest sparks Needles satire poetry into stones; Arbites hold the bridge approach; PDF chooses whether to shoot into mud that must still fish tomorrow.
 - **Shared Sweat surface:** Batavi and PDF close the same gate during surge under violet storm light — mortals remember **who stood**, not Chapter creed. QVINTA descent windows empty markets; civilians treat it as weather.
-- **Foundation War echo (blind):** Old Needles stories of **mercenary hunting seasons** teach children to run for embankments when reek goes wrong — still taught as **grandmother law**, not as classified campaign history.
+- **the Reclamation echo (blind):** Old Needles stories of **mercenary hunting seasons** teach children to run for embankments when reek goes wrong — still taught as **grandmother law**, not as classified campaign history.
 
 ---
 

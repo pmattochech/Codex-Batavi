@@ -3,10 +3,10 @@
 **Valerian Heresy** · **Chapter 24 of 25** · *Primaris After Ash*
 **Strategium anchor:** ~088 *(timestamp sweep pending)*
 **Quarter:** P5 — Reformation
-**Theater:** Reinforcement after bloodletting
+**Theater:** Primaris **method** after bloodletting (no imported brothers)  
 **Status:** **Scaffold** — structure only; prose not drafted.
 
-*Beat lock:* ~5k ratification; Limes Lupus collar as insult.
+*Beat lock:* Rubicon of Firstborn, then local Primaris intake; ~5k ratification; Limes Lupus collar as insult (a manual, not sons).
 
 **Chronicle law:** two-power era until open break · **no** *Alabarda* vexilla PRIMA–NONA during civil war · chronological blindness on artifact origin · ABNT dialogue when drafting.
 

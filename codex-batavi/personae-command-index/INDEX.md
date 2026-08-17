@@ -14,6 +14,9 @@
 
 - [technical-datasheet.md](doctrine-and-organs/technical-datasheet.md) — Codex Batavorum technical sheet
 - [progenitor-classification.md](doctrine-and-organs/progenitor-classification.md) — founding / gene-line POV layers (open record vs sealed *Apothecarion*)
+- [wolfs-curse-origin-and-den.md](doctrine-and-organs/wolfs-curse-origin-and-den.md) — Wolf’s Curse **origin** (den + people, not the vial); visitor field; unraised cascade
+- [primaris-rubicon-intake.md](doctrine-and-organs/primaris-rubicon-intake.md) — Primaris **method** (no imported brothers); Rubicon first; then all new intake Primaris
+- [codex-batavorum-revision.md](doctrine-and-organs/codex-batavorum-revision.md) — living *Codex Astartes* revision (not a dump; not the curse)
 - [council-and-librarium.md](doctrine-and-organs/council-and-librarium.md) — Extended Council; Haruspicium / Blindgate; **§2.4** cultural archive; **§5–§6** upstream quartet & downstream issuance
 - [batavi-affect-kinesics-and-mortal-literacy.md](doctrine-and-organs/batavi-affect-kinesics-and-mortal-literacy.md) — affect–display decoupling; reaction-class kinesics; mortal read-rights; Castellan mortal interface
 - [legatus-chapter-mastery.md](doctrine-and-organs/legatus-chapter-mastery.md) — *Codex* ten + nine Legatus scrolls; Marches on Castellan; culture **no** mastery
@@ -70,7 +73,7 @@
 ### supporting
 
 - [dossier-valdric.md](character-dossiers/supporting/dossier-valdric.md)
-- [dossier-threx.md](character-dossiers/supporting/dossier-threx.md) — *Lex Ignis* Genetor; Foundation War friction partner
+- [dossier-threx.md](character-dossiers/supporting/dossier-threx.md) — *Lex Ignis* Genetor; Reclamation friction partner
 
 ### mortals
 
@@ -85,8 +88,7 @@
 
 ## events-and-chronologies
 
-- [foundation-war.md](events-and-chronologies/foundation-war.md) — *Foundation War* staff summary · **canonical prose:** [`../chronicles/foundation-war/INDEX.md`](../chronicles/foundation-war/INDEX.md)
-- [valerian-heresy.md](events-and-chronologies/valerian-heresy.md) — *Valerian Heresy* / brother civil war (scaffold **May 2026**) · **chronicle hub:** [`../chronicles/silent-vigil/valerian-heresy/README.md`](../chronicles/silent-vigil/valerian-heresy/README.md)
-- [drusus-retrospective-aethelgard-first-quarter.md](events-and-chronologies/drusus-retrospective-aethelgard-first-quarter.md) — archival Drusus lens (texture only; troop math superseded)
+- [the-reclamation.md](events-and-chronologies/the-reclamation.md) — **the Reclamation** (*Recuperatio Vetera*) birth-war · **canonical scaffolds:** [`../chronicles/reclamation/INDEX.md`](../chronicles/reclamation/INDEX.md)
+- [valerian-heresy.md](events-and-chronologies/valerian-heresy.md) — Hold brother-war (thin lock) · **scaffold:** [`../chronicles/silent-vigil/valerian-heresy/SCAFFOLD.md`](../chronicles/silent-vigil/valerian-heresy/SCAFFOLD.md)
 - [master-chronology.md](events-and-chronologies/master-chronology.md)
 - [legislative-chronology.md](events-and-chronologies/legislative-chronology.md)

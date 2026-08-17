@@ -9,7 +9,7 @@
 
 **Geography lock:** **Insula Tenebrarum** · **Castra Vetera** / **Nine Phalanx** mesh — [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md). **Noviomagus Prime** (*Castrum Ferrum*); outward detection at **Witness Ford** / **Threshold** deep-listening arrays. Retired in new prose: *Porta Nihili*, *Loken Passage*.
 
-**Precedent arc:** Foundation War closed on instrument — [`instrumentum-solum/chapter.md`](../foundation-war/Q4-der-batav/instrumentum-solum/chapter.md). This record opens the **expansion-threshold** era: the Chapter files war as geometry again, not ledger alone.
+**Precedent arc:** the Reclamation closed on instrument — [the Reclamation](../../../personae-command-index/events-and-chronologies/the-reclamation.md). This record opens the **expansion-threshold** era: the Chapter files war as geometry again, not ledger alone.
 
 **Historical hazard (staff filing):** Mass *Exanimus* coma and chapter-wide deck collapse after Ork clearance = **pre-***Curia Vexilli*** / unauthorized depth** — not post-~051.M42 harness norm ([`disciplines-and-curia-vexilli-plan.md`](../../../planning/disciplines-and-curia-vexilli-plan.md) §2.1).
 
@@ -47,7 +47,7 @@ As the Ork scrap fleet crossed the Threshold trench and began to foul Noviomagus
 
 For the Nine Phalanx garrison, the effect inverted.
 
-Controlled lethargy evaporated from fortress corridors. Radio silence fractured into electric tension. Battle-brothers abandoned maintenance rites on bolters and honed melee blades with manic, almost liturgical obsession. Ozone, coolant, and acidic transhuman sweat fouled barracks until serfs opened vents that had not been opened since the Foundation War’s last repayment clause was signed.
+Controlled lethargy evaporated from fortress corridors. Radio silence fractured into electric tension. Battle-brothers abandoned maintenance rites on bolters and honed melee blades with manic, almost liturgical obsession. Ozone, coolant, and acidic transhuman sweat fouled barracks until serfs opened vents that had not been opened since the the Reclamation’s last repayment clause was signed.
 
 That was not tactical anxiety. It was hunger.
 

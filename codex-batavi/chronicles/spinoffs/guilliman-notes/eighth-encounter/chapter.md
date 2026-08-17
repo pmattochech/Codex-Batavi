@@ -94,7 +94,7 @@ He waited, as if this question was expected too.
 
 Kessler stepped half a pace, not to shield the objector, but to translate the Chapter’s bone into language Guilliman could file.
 
-— No, my lord — Kessler said. — This is the chain functioning. We institutionalized it after the Foundation Wars, when objections were voiced and ignored and men died for the comfort of uninterrupted authority. We require structured dissent before an order is sealed because mission failure is a more lethal insubordination than disagreement.
+— No, my lord — Kessler said. — This is the chain functioning. We institutionalized it after the the Reclamations, when objections were voiced and ignored and men died for the comfort of uninterrupted authority. We require structured dissent before an order is sealed because mission failure is a more lethal insubordination than disagreement.
 
 Guilliman’s eyes narrowed.
 

@@ -6,7 +6,7 @@
 **Theater:** Post-crucible mesh; strength ~500; bisection inevitable.
 **Status:** **Scaffold** — structure only; prose not drafted.
 
-*Beat lock:* Foundation War coda handoff.
+*Beat lock:* the Reclamation coda handoff.
 
 **Chronicle law:** two-power era until open break · **no** *Alabarda* vexilla PRIMA–NONA during civil war · chronological blindness on artifact origin · ABNT dialogue when drafting.
 

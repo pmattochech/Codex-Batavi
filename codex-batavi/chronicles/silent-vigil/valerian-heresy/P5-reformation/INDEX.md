@@ -1,6 +1,6 @@
 # P5 — Reformation
 
-**~M42 span (draft):** ~086–092 · **Thesis:** DECIMA; vexilla; Primaris; island debt.
+**~M42 span (draft):** ~086–092 · **Thesis:** DECIMA; vexilla; Primaris **method** (Rubicon, then local intake); island debt.
 
 **Saga:** [../INDEX.md](../INDEX.md) · [../README.md](../README.md)
 

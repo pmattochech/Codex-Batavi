@@ -10,6 +10,6 @@ Monorepo with three areas at **repository root**:
 
 **Lore index:** [codex-batavi/README.md](codex-batavi/README.md)
 
-**Foundation War (canonical serial):** [codex-batavi/chronicles/foundation-war/INDEX.md](codex-batavi/chronicles/foundation-war/INDEX.md) — serial complete (density + novel structure passes closed May 2026); start at [*Distress Vector*](codex-batavi/chronicles/foundation-war/Q0-prelude/distress-vector/chapter.md).
+**the Reclamation (birth-war, scaffold):** [the Reclamation](codex-batavi/personae-command-index/events-and-chronologies/the-reclamation.md) — **pre-Cadia**; Hub [chronicles/reclamation/INDEX.md](codex-batavi/chronicles/reclamation/INDEX.md).
 
 Project rules (Cursor): canonical file is `codex-batavi/.cursorrules`; a **copy** with the same name exists at repo root for the IDE (keep both in sync when editing rules).

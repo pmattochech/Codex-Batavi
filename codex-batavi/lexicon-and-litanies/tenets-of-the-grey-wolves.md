@@ -2,7 +2,7 @@
 
 **Classification:** Lexicon and litanies — *Reclusiam* catechism / licensed liturgy  
 **Office:** Issued under the **Judex** (*Master Wolfkeeper* Varro); taught by **Wolfkeepers**; outsider gloss may still say *Chaplain litanies*  
-**Cross-references:** [wolfkeeper-and-reclusiam.md](../personae-command-index/doctrine-and-organs/wolfkeeper-and-reclusiam.md) · [mortivigil-and-reclusiam-helm-law.md](../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md) · [dossier-varro.md](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [der-batav-myth-foundation.md](der-batav-myth-foundation.md) · [GLOSSARY-EN.md](../GLOSSARY-EN.md)
+**Cross-references:** [wolfkeeper-and-reclusiam.md](../personae-command-index/doctrine-and-organs/wolfkeeper-and-reclusiam.md) · [mortivigil-and-reclusiam-helm-law.md](../personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md) · [dossier-varro.md](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [der-batav-myth.md](der-batav-myth.md) · [GLOSSARY-EN.md](../GLOSSARY-EN.md)
 
 ---
 

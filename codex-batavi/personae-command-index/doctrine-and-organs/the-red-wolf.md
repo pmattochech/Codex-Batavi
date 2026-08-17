@@ -67,6 +67,7 @@ Other Chaplains, Custodes **Tyvar**, and line Battle-Brothers are briefed to **c
 - Armor / arsenal: [`dossier-alaric.md`](../character-dossiers/triumvirate/dossier-alaric.md) §1.2, §5–6  
 - Judex Crozius modes: [`dossier-varro.md`](../character-dossiers/triumvirate/dossier-varro.md) §5  
 - Red code: [`projection-aurea-wolfs-curse.md`](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — **RED CODE**  
+- Origin (den + people): [`wolfs-curse-origin-and-den.md`](wolfs-curse-origin-and-den.md)  
 - Chassis catalog: [`chassis-and-armor-catalog.md`](../../arsenal-and-logistics/chassis-and-armor-catalog.md)
 - Silent Vigil protocol arc: [`fracture-recognition/chapter.md`](../../chronicles/silent-vigil/fracture-recognition/chapter.md) · [`old-voices-council/chapter.md`](../../chronicles/silent-vigil/old-voices-council/chapter.md) · [`post-voices-legatus-ring/chapter.md`](../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md) · [`decima-gatekeepers/chapter.md`](../../chronicles/silent-vigil/decima-gatekeepers/chapter.md) · [`protocol-forged-in-iron/chapter.md`](../../chronicles/silent-vigil/protocol-forged-in-iron/chapter.md) · [`war-game-black-mirror/chapter.md`](../../chronicles/silent-vigil/war-game-black-mirror/chapter.md) · [`proof-of-chain/chapter.md`](../../chronicles/silent-vigil/proof-of-chain/chapter.md)
 

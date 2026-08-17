@@ -40,11 +40,11 @@ Main sections use level-2 headings; subsections level-3; field labels **bold** w
 
 **Name:** **Cohors Batavorum** (formal); **Batavian Iron-Guard** (common Imperial rendering); civic myth frame **Der Batav** / *Der Batav’s Forge*.
 
-**Successors of:** **Unknown / redacted** on open Administratum and tithe scrolls. Observers note **Russ-line–adjacent** Primaris phenotype with **non-standard second-strand variance**; **no** confirmed single progenitor Chapter on the public record. Sealed *Apothecarion* taxonomy: [progenitor-classification.md](doctrine-and-organs/progenitor-classification.md).
+**Successors of:** **Unknown / redacted** on open Administratum and tithe scrolls. Observers note **wolf-marked** or **legion-echo** chimeric Primaris traits with **non-standard second-imprint variance**; **no** confirmed single progenitor Chapter on the public record. Sealed *Apothecarion* taxonomy: [progenitor-classification.md](doctrine-and-organs/progenitor-classification.md). **Forbidden as fact:** Russ / Fenris progenitor stamp.
 
 **Successor chapters:** **None registered.** The Chapter does not tithe gene-seed outward at a scale that would found named successors on open record.
 
-**Founding:** **Unknown** (numbered Founding not disclosed). Operational rebirth and name ratification cluster in the **Castra Vetera (CV)** annals (**Foundation War** crucible → **Cohors Batavorum** council, *ca.* CV y29–y37); Imperial cross-filings are **approximate** (*Chronostrife*, mesh variance). See [foundation-war.md](events-and-chronologies/foundation-war.md), [master-chronology.md](events-and-chronologies/master-chronology.md).
+**Founding:** **Unknown** (numbered Founding not disclosed). Operational rebirth and name ratification: **the Reclamation**, Campaign III (**pre-Cadia**, year TBD). Imperial cross-filings are **approximate**. See [the-reclamation.md](events-and-chronologies/the-reclamation.md), [master-chronology.md](events-and-chronologies/master-chronology.md).
 
 **Reason of Founding:** Hold **Insula Tenebrarum** — the **Castra Vetera** island mesh — as **filter against the tide**: transform the **Aethelgard** crucible and **Nine Phalanx** into a permanent **wall** (xenos, Chaos bleed, renegade void) — not a parade founding, a **friction** founding.
 
@@ -198,7 +198,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Failed aspirant treatment:** Death in trial common; survivors who fail implant readiness → **serf track** or industrial labor — not heralded. Servitor conversion reserved for severe Chapter sentences, not routine failure.
 
-**Gene-seed implementation rituals:** Standard Primaris implantation under *Apothecarion* with hypno-indoctrination; no public “drink the primarch’s blood” rite. Proximity-substrata witness inheritance during forge decade — [proximity-substrata-and-witness-inheritance.md](doctrine-and-organs/proximity-substrata-and-witness-inheritance.md).
+**Gene-seed implementation rituals:** After Primaris **method** seal (~**051.M42**), **new** brothers receive standard Primaris implantation under *Apothecarion* with hypno-indoctrination; no public “drink the primarch’s blood” rite. Pre-method line was **Firstborn**; eligible survivors **crossed the Rubicon** first. Unraised outsiders grown from this seed are **not** Batavi until the den claims them — [wolfs-curse-origin-and-den.md](doctrine-and-organs/wolfs-curse-origin-and-den.md) · [primaris-rubicon-intake.md](doctrine-and-organs/primaris-rubicon-intake.md). Proximity-substrata witness inheritance during forge decade — [proximity-substrata-and-witness-inheritance.md](doctrine-and-organs/proximity-substrata-and-witness-inheritance.md).
 
 **Further trials:** Neophytes serve as **scouts / heavy labor** in war zones; prove coordination under *Analytical Silence*. DECIMA candidates face additional **Batav Wolf trial** (containment dominance) — [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §3.
 
@@ -208,7 +208,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Process of becoming a Battle-Brother:** Black carapace completion → induction into **pure line** or cohort candidacy → power armor issue → sworn under *Faith Protocol* / *Axiom* registration. *Iron and Blood Tribunal* witness event for some cohorts (moral prep, not rank).
 
-**Reaction to Primaris:** Chapter **is** Primaris-forward (Cawl-era architecture). Rubicon and mixed marks accepted under *Armourium* maintenance law. No “reject Primaris” faction in register.
+**Reaction to Primaris:** **Method, not a shipment of sons.** Eligible Firstborn crossed the Rubicon; **thereafter all new marines are Primaris**, made and raised in Castra. No “reject Primaris” faction. Mixed marks under *Armourium* maintenance law. Foreign battle-brother tranches are **forbidden** by den-law. [primaris-rubicon-intake.md](doctrine-and-organs/primaris-rubicon-intake.md).
 
 ---
 
@@ -387,7 +387,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 ### Order of Battle
 
-**999.M41:** **Not applicable** — pre–Foundation crucible filings destroyed or **redacted**; Chapter in current form post-dates usable Administratum snapshot.
+**999.M41:** Cicatrix hits the **reflector**; mesh V-shield. Chapter birth is **pre-Cadia Reclamation**, not this stamp.
 
 **Current:** **Standard Order of Battle, ca. 570.M42** (frozen unless Triumvirate unanimous review):
 
@@ -443,7 +443,7 @@ Per-Vexilla split: [military-hierarchy.md](doctrine-and-organs/military-hierarch
 
 **Chief Librarian:** **Otho** — *Blood Augur*; [dossier-otho.md](character-dossiers/council-orders/dossier-otho.md).
 
-**Chapter history:** Foundation crucible → *Cohors Batavorum* ratification → Malakor treason → Silent Vigil → post-Vigil purges. [master-chronology.md](events-and-chronologies/master-chronology.md).
+**Chapter history:** Husk ingress → **the Reclamation** → **the Hold** → Valerian strife → Cicatrix V-shield → Silent Vigil (legacy M42 stamps) → post-Vigil purges. [master-chronology.md](events-and-chronologies/master-chronology.md).
 
 **Legendary figures:** Alaric (living); Drusus/Varro; expunged **Valerius**; Tobias (mortal martyr); Viggo (anchor beast, deceased).
 

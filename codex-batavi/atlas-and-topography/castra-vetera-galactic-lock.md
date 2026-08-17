@@ -1,6 +1,6 @@
 # Castra Vetera — galactic lock & Batavi identity charter
 
-**Status:** Authoritative for **new** atlas, organization, and political prose. **Staff companion (nine-pole roster, CV calendar, MoI rails):** [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md).
+**Status:** Authoritative for **new** atlas, organization, and political prose. **Origin war:** [`the-reclamation.md`](../personae-command-index/events-and-chronologies/the-reclamation.md). **Fence:** [`insula-tenebrarum-isolation-fence.md`](insula-tenebrarum-isolation-fence.md).
 
 **Supersedes (retired names):** ***Porta Nihili*** (strategic designation), **Loken Passage** (astrographic funnel). Legacy chronicles may still mention them; new wiki/atlas text uses this lock.
 
@@ -27,6 +27,8 @@ When a Space Wolf points at wolf-marked armor as **proof** of Russ lineage, a Ba
 — Look again. If you insist on reading our plate as genealogy, you will find **every old Legion** in us. We are not here to recover a formula. The only ancestor we count is the Emperor. Does your proof still matter?
 
 **Open record stays:** **unknown** — do not confirm Russ, Fenris, or any parent Chapter.
+
+**Den-field:** Guest Astartes of **any** Chapter feel watched, not-kin, and **unwelcome to rule** this land — same quality, different volume. Space Wolves (especially Rune Priests and Wolf Priests) feel it **most clearly** and recognize **no** Fenrisian god. Not a cousin of Fenris. Doctrine: [`wolfs-curse-origin-and-den.md`](../personae-command-index/doctrine-and-organs/wolfs-curse-origin-and-den.md) §IV.
 
 ---
 
@@ -105,7 +107,7 @@ English thematic names — one regulated warp channel per system pair; **short w
 
 ## III. Golden ground (two layers)
 
-1. **Identity** — Foundation crucible, **Der Batav**, **Cohors Batavorum** naming; where the Chapter stops being a shadow hunting parentage.  
+1. **Identity** — **the Reclamation**, **Der Batav**, **Cohors Batavorum** naming; where the Chapter stops being a shadow hunting parentage.  
 2. **Material** — Rare ore, industrial and agricultural throughput, fan **maiden** / **wraithbone-grade** bodies — why outsiders **war** for the island.
 
 ### Who wants the island (atlas / later eras)
@@ -118,7 +120,7 @@ English thematic names — one regulated warp channel per system pair; **short w
 | **Chaos** | Storm-ribbon cults + industrial soul |
 | **Imperium** | **Cannot lose the filter** — super-tithe + inward seal |
 
-**Foundation War:** antagonist roster unchanged (no Tyranid **fleet** driver). Splinter or rogue xenos **pressure** belongs to **post-crucible** or **rim** atlas, not crucible retcon.
+**the Reclamation:** antagonist roster is island-real; **Men of Iron** are the fence-villain. No Tyranid **fleet** as birth-war driver. Splinter or rogue xenos **pressure** belongs to Hold or rim atlas, not a restored nine-pole novel.
 
 ---
 
@@ -130,6 +132,8 @@ Terra tolerates non-*Codex* mass and biological horror because **removing the Ba
 
 ## V. Related files
 
+- [`insula-tenebrarum-isolation-fence.md`](insula-tenebrarum-isolation-fence.md) — MoI reflector, V-shield, navel, pylon jumps  
+- [`the-reclamation.md`](../personae-command-index/events-and-chronologies/the-reclamation.md) — birth-war  
 - [`general-atlas.md`](general-atlas.md) — friction geometry detail  
 - [`border-political-relations.md`](../political-relations/border-political-relations.md) — indispensability  
 - [`progenitor-classification.md`](../personae-command-index/doctrine-and-organs/progenitor-classification.md) — **unknown** open record  

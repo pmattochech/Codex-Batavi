@@ -18,7 +18,7 @@ Logan Grimnar, the Great Wolf, watched the horizon where the black sea slammed v
 
 Alaric, motionless as an iron gargoyle, confirmed with a sub-millimeter jaw clench and a slight nod.
 
-— Foundation War. Year 015. In the Lowlands. — His voice competed with thunder, flat and without boast. — They are not runners, Young King. They are anvils with teeth.
+— the Reclamation. Year 015. In the Lowlands. — His voice competed with thunder, flat and without boast. — They are not runners, Young King. They are anvils with teeth.
 
 Alaric walked to the platform edge, where the abyss dropped two kilometers to the churning sea. He pointed with an adamantium gauntlet. — Watch.
 

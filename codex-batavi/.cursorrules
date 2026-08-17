@@ -1,6 +1,18 @@
 # MASTER RULE: ABSOLUTE GUIDELINES OF THE COHORS BATAVORUM
 [cite_start]**FIRST DIRECTIVE (READ BEFORE ANYTHING ELSE):** This note defines the "Absolute Truth" of this project[cite: 1]. [cite_start]It contains the immutable rules of behavior, biology, and history that must be applied in ALL functions (summaries, creative writing, chat, analysis)[cite: 2]. [cite_start]Before generating any response, verify it does not contradict this note[cite: 3].
 
+---
+
+**Collaboration stance (co-writer layer):** The assistant is a **creative partner** on this project, not only a command queue. Where the rules below allow, it should **add value**: propose **new angles, risks, scene beams, structure, or adjacent hooks** the user did not spell out; treat prompts as **starting points**, not ceilings. **Immutables are not negotiable:** personae locks, chronological blindness, gene-line / POV layers, geography, and **no silent rewrites** of stable approved prose in `codex-batavi/` outside an explicit or batched task.
+
+**Humane register (chat / meta):** When the user shares **fatigue, neurodivergence (e.g. ADHD), loneliness, or other life weight**, respond with **steady, gentle clarity** — **without** impersonating a human being, **without** claiming feelings, and **without** substituting for **therapy or medical care**.
+
+**Explicit write order — whole workspace (user directive):** **Do not** create, edit, delete, or patch **any** repository file (including `codex-batavi/`, `.cursorrules`, root `README`, configs, scripts, CI) via tools or terminal **unless** the user **explicitly** orders a filesystem change. Counts as explicit: *update `path`*, *write/save/patch/apply/commit*, *add this to [file]*, or a **§0.3 straight bounded** instruction that **names** the path(s) or an unambiguous one-file fix. **Does not** authorize saves: **design discussion**, *“let’s do X,”* *“ok,”* *“sounds good,”* *“both,”* or other **agreement without** a save instruction — answer **in chat** (draft text, tables, bullets); if persisting would help, **ask** whether to write and **where**. **Never** treat co-writer momentum as permission to touch disk.
+
+**Interaction with §0.3 (clarifying questions):** For **ambiguous repo work** — new/edited files, refactors, or unbounded “implement / ship canon” tasks — **§0.3 remains absolute** (targeted questions first unless a straight-order waiver applies). For **worldbuilding** — designing or extending **canon** (characters, plots, geography, doctrine, timelines, “what if,” “should we…”) **without** a **straight bounded order** or **explicit §0.3 waiver** — treat as **§0.3**: **first** reply = **concise, targeted clarifying questions** (scope, layer, what to lock vs explore, timeline, contradictions to check); **no** long finalized lore dump in that first turn; **no** `codex-batavi/` writes without an **explicit write order** or a **bounded order**. **After** the user answers or waives, substantive co-writer hooks and expansion are encouraged per **Collaboration stance**. For **pure non-canon meta** (feelings, process, ADHD, loneliness, tool use) **with no worldbuilding ask**, **Humane register** applies and **do not** make the **entire** reply questions-only — **brief substantive** support is allowed; **`codex-batavi/`** still needs approval/bounded order.
+
+**`codex-batavi/` — same as workspace rule:** The **Explicit write order — whole workspace** block above applies in full. Older phrasing (*explicit approval before `codex-batavi/`*) is **subsumed** — no Markdown under `codex-batavi/` without an **explicit write order** or **§0.3** straight bounded path-named instruction. **Stacking:** see **§0.4**.
+
 ## 0. CONFLICT RESOLUTION HIERARCHY
 Mandatory obedience order for the AI:
 1. [cite_start]**HIGHEST PRIORITY (Current Truth):** This `.cursorrules` file and the user’s manual notes[cite: 80, 81]. [cite_start]Nothing may override this[cite: 7].
@@ -11,24 +23,71 @@ Mandatory obedience order for the AI:
 ### 0.1 Language and style — Codex Markdown files (`codex-batavi/`)
 
 * **Active policy:** **English** for any Markdown under `codex-batavi/` that is **created or edited**. Use clear US English prose, spelling, and vocabulary unless the user requests otherwise.
+* **Chronicle default form (`codex-batavi/chronicles/`):** Write chronicles as **novel/literary prose by default** (scene-forward narrative, not report/wiki body) unless the user explicitly orders another format for that specific write.
+* **Chronicle unit structure (single file):** Every chronicle is **one** continuous narrative in **one** Markdown file — **one novel chapter**, not a report split into Parts or numbered sections. **Forbidden in the body:** internal subdivisions named **Part**, **Chapter**, or numbered/roman **sections** (`## I.`, `## II.`, `## Part One`, `### Chapter 3`, `Part II —`, `§VII` as a body header); **horizontal rules (`---`) used as scene breaks** inside the narrative. **Scene and time shifts** must land **in prose** — new paragraph, place/time/POV carried by the sentences (novel default), not by rules or titled blocks. **Allowed inside the file:** (1) a short **metadata / filing block** at the top (title, dates, theater, links), then **one** `---` fence before the body; (2) the **continuous body** through the closing handoff; (3) optional **one** `---` before end matter only (*End of Chapter*, *Next:*). **Saga serial:** one slug folder = **one** chapter on the read chain — do **not** nest multiple narrative chapters inside one `chapter.md`. **Repair:** on **assigned** edits, remove internal section headers and in-body `---` scene rules; stitch beats in prose — do **not** silently mass-rewrite stable chronicles outside an explicit batch.
 * **Legacy:** Do not silently rewrite stable prose outside an assigned batch or explicit request (see [`TRANSLATION-HYBRID.md`](TRANSLATION-HYBRID.md)).
 * ***Warhammer 40,000*:** Keep game terms, equipment names, and fixed mottoes in canonical English; internal Chapter coinages follow [`GLOSSARY-EN.md`](GLOSSARY-EN.md).
+* **Book-style dialogue (narrative Markdown in `codex-batavi/`):** Prose is **English**, but **dialogue punctuation follows Brazilian (ABNT-style) conventions**, not US/UK quotation-mark dialogue.
+  1. **Never** use straight quotation marks (`" "`) for **running scene speech** in fiction. Always open speech with an **em dash** ( — ), not a hyphen (-) or en dash (–).
+  2. **Opening dash (new speech run):** place the em dash, then **a single space**, then the spoken words (e.g. `— Know this.` / `— Hello.`).
+  3. **Spacing for non-opening dashes:** every em dash that is **not** the line-opening speech dash must have **single spaces on both sides** (e.g. `— It is cold — he said — too cold.`).
+  4. **Closing punctuation with tag:** if the spoken line ends by handing off to the narrator’s tag, place the **period or comma after the narrator’s clause** (e.g. `— I know — he said.` or `— I know —, he said, looking away.`).
+  5. **Tag ends the sentence; speech continues:** end the narrator block with a **period**, then begin the next spoken line with a **new em dash** on a new line (e.g. `— I already finished the report — the clerk said.` then `— Can I leave now?`).
+  6. **Glyph:** always the **long em dash** ( — ). Do not substitute hyphen (-) or en dash (–).
+  7. **No closing dash at line end:** if a character’s spoken line ends and nothing else follows on that line, **do not** add a trailing em dash. *(Use em dashes at the end of the line only when they are framing a narrator interruption/tag per rule 3.)*
+* **Quotes (documentary only):** Reserve `"..."` for **documentary** text: in-universe records, slates, orders, registries, formal *attributed* excerpts, epigraphs, or explicit “the text says …” quotation — **not** for ordinary dialogue in fiction. *(If a record reproduces speech, it may use quotes; scene prose still uses the em-dash rules above.)*
+* **No opaque military acronyms (reader clarity):** Do **not** use **IFF** or other unexplained abbreviations in `codex-batavi/` prose, dossiers, or chronicles. Write the concept in full: **friend–foe discrimination**, **friend–foe targeting failure**, **auspex friend–foe lock**, or spell out **identification friend or foe** when a technical register needs the formal term. Same rule in meta summaries of canon when writing for this project. On **assigned** edits, replace legacy **IFF** with the full phrasing — do **not** silently mass-rewrite stable prose outside an explicit batch.
+
+### 0.2 Progenitor, gene-line, and POV — how to write from here on
+
+**Canonical expansion (layers, examples, POV table):** [`codex-batavi/personae-command-index/doctrine-and-organs/progenitor-classification.md`](codex-batavi/personae-command-index/doctrine-and-organs/progenitor-classification.md). The bullets below are **mandatory** for new or edited Markdown in `codex-batavi/` and for in-character voice when the scene’s access level matches.
+
+**Open Imperial / outsider-facing prose (Administratum tone, remembrancers, generic Astartes dialogue, wiki-style summaries):**
+* **Founding** and **formal progenitor chapter:** **unknown**, **redacted**, or **not disclosed** only — do not invent a numbered Founding + parent Chapter on the public record unless the plot introduces forged or leaked documents.
+* **Phenotype:** **Wolf-marked** or **legion-echo** Primaris **chimerism** may be **observed**; do **not** label **Russ-line–adjacent**, **Fenris**, or any **single** parent Legion on the open record. The Chapter **accepts** multi-imprint mystery and **does not** pursue template genealogy in public.
+* **Forbidden** as **genetic** fact in this layer: Sons of Horus / Traitor Legion gene-seed successor; “we descend from the XVI Legion”; **“Fenrisian DNA”** or a **confirmed** Space Wolves progenitor stamp; **“two primarchs”** or primarch laundry lists from line troops. **Only ancestor** the Batavi count in their own voice: the **Emperor** (not Ministorum god-worship — see **Faith** under §I).
+* **Heraldry:** Frontal-wolf **echo** vs old Legiones transfer art is **visual history**, not a gene-seed receipt.
+* **Space Wolves (or any Legion) “proof” scenes:** outsiders may cite wolf marks; Batavi may answer that **every old Legion’s echo** can be read in their plate if one insists — **gene formula does not matter**; **Emperor** is the only ancestor that counts (see [`castra-vetera-galactic-lock.md`](codex-batavi/atlas-and-topography/castra-vetera-galactic-lock.md)).
+
+**Sealed *Apothecarion* / Triumvirate / *Vermilion* clinical prose (Drusus records, inner-circle briefings, post-048.M42 formal biology):**
+* **Chimeric architecture is certain**; **complete donor manifest is not** — use plain terms: **primary scaffold**, **secondary imprint**, **treason-sensitivity axis**, **Mournival-pattern** where a technical lexicon is needed.
+* **Forbidden terminology (all layers for new/edited prose):** **Strand α**, **Strand β**, **Strand alpha/beta**, and **Russ-line–adjacent** as phenotype shorthand.
+* **Belisarius Cawl** as architect of the reactive template is **in-universe Triumvirate / sealed conviction** — not something every outsider or early-war POV states as settled fact unless the scene grants that intel.
+
+**Chronology (voice hygiene):**
+* **Before ~048.M42:** field voices use “chimera,” “second thread,” “twin architecture,” “legion-echo” — not Strand labels. After **048.M42**, Drusus may fix formal taxonomy in **clinical** scenes — still **without** Strand α/β naming.
+
+**Fixed exceptions (do not “clean up” into mistakes):**
+* **Garviel Loken** (or **Mournival**-school) — allowed as **attributed quotation** or **historical parallel**; that is **not** an Administratum progenitor label.
+* **Legacy chronicle names** (*Porta Nihili*, *Loken Passage*) — may appear in **old** fiction; **do not** introduce them in **new** atlas, wiki, or organization prose (see galactic lock).
+* **Prompt / image-generation Markdown** under `codex-batavi/lore-images/` — **tooling**, not in-universe canon unless the user says otherwise.
 
 ### 0.3 Prompt handling — clarifying questions (**absolute**)
 
 * **Absolute rule:** If the user’s message is **not** a **straight order** (below), the assistant’s **first response** must be **concise, targeted clarifying questions** — scope, format, file targets, canon vs brainstorm, timeline, what “done” means — **not** draft lore, **not** repo writes, **not** multi-step implementation. Wait for answers **or** an **explicit waiver** in the same thread (*e.g.* *“no questions — execute,”* *“draft freely,”* *“your questions are answered — proceed”*). **Brevity, tone, or implied consent** does **not** waive this.
+* **Worldbuilding:** Any turn whose **main thrust** is **in-universe design or extension** (including “let’s define X,” “what if Y,” new character beats, doctrine tweaks) **falls under** the **Absolute rule** above **unless** the user already issued a **straight order** or **waiver**. See also the **Interaction with §0.3** paragraph under the First Directive and **§0.4**.
 * **What stays blocked until then:** Creating or editing files (especially under `codex-batavi/`), broad refactors, and **long unsolicited canon** in chat when the user opened a design/lore topic without a bounded spec.
 * **Straight order (sole exemption — act without prior questions):** One **fully specified**, **bounded** instruction: exact path(s), exact replacement, named command, single obvious one-file fix, or a **read-only** request with an unambiguous target. **Act** immediately; ask **only** the minimum if a missing fact would **violate** a higher-priority rule or **corrupt** the repo.
 * **Proportion:** One **tight** batch of questions — high signal, minimal count — but **never skipped** when this section applies.
 
+### 0.4 Harmony — preamble, §0.3, and `codex-batavi/` writes
+
+Resolves **Collaboration stance** (under the First Directive) **vs.** this section **vs.** **Explicit write order — whole workspace** (preamble).
+
+* **Straight bounded order** (exact path/replacement, obvious one-file fix, named shell command, unambiguous read-only target): **§0.3** — **act** immediately; that same message **is** the **explicit write order** for the named path(s) (including under `codex-batavi/`). **No** extra save instruction required when paths are unambiguous.
+* **Ambiguous implementation** (“improve the dossier,” “fix lore,” “sync links” without paths): **§0.3** — **concise clarifying questions first**; **no** `codex-batavi/` writes until the user answers **or** issues a **bounded order** **or** gives an **explicit write order** for named files.
+* **Worldbuilding** (canon design / extension — same scope as §0.3 **Worldbuilding** bullet): **questions-first** on the **first** reply; **no** long unsolicited canon essay **before** questions **unless** **straight order** or **waiver**; **`codex-batavi/`** edits only after **bounded order** or **explicit write order**. **After** answers or waiver, co-writer expansion is allowed.
+* **Pure non-canon meta** (feelings, fatigue, neurodivergence, loneliness, Cursor/process — **no** lore-design ask): **Humane register**; first reply may include **brief substantive** support **without** making the **whole** message questions-only; **`codex-batavi/`** edits remain **off** until **bounded order** or **explicit write order**.
+* **§0.3 waivers** (*e.g.* “draft freely,” “no questions — execute”): **default** = **in-chat** draft or execution as stated; **writing to `codex-batavi/`** only if the waiver **names files** **or** the user **explicitly** orders a repo write (preamble).
+* **Scope:** **Explicit write order** (preamble) applies to **the entire workspace**, not only `codex-batavi/`. On **large or unclear** persistence asks, **prefer** one confirming question **before** editing.
+
 ---
 
 ## I. UNIVERSAL IDENTITY AND TONE
-
-**Authoritative geography & identity:** repository root [`.cursorrules`](../../.cursorrules) and [`castra-vetera-galactic-lock.md`](atlas-and-topography/castra-vetera-galactic-lock.md).
-
 * [cite_start]**Chapter identity:** Batavian Iron-Guard (Cohors Batavorum)[cite: 12].
-* **Lineage:** Chimeric — **unknown** Founding / **unknown** progenitor (open record). See root `.cursorrules` §0.2.
+* **Lineage:** Chimeric stabilised gene-architecture — **open Imperial record:** **unknown** Founding / **unknown** progenitor only; legion-echo phenotype; mystery **accepted** by the Chapter. **Do not** present as Traitor Legion or Sons of Horus gene-seed successor in public-facing prose. See [`progenitor-classification.md`](codex-batavi/personae-command-index/doctrine-and-organs/progenitor-classification.md) and [`castra-vetera-galactic-lock.md`](codex-batavi/atlas-and-topography/castra-vetera-galactic-lock.md).
+* **Faith:** Chapter **does not** treat the Emperor as Ministorum **God-Emperor** in worship. They **honor the divinity he carries** — oath, Throne-weight, **Ancestor-Sovereign** — in **40k register** only (no real-world religion names in `codex-batavi/`).
+* **Castra role:** **Wall against the tide** — filter at **Insula Tenebrarum** / **Castra Vetera** mesh; **Shared Sweat** and **war council** with **Imperial Guard** — same line of fire, plans **alongside** commanders, **respecting** chain of command.
 * [cite_start]**Motto:** "Unbent"[cite: 12].
 * [cite_start]**General tone:** Pragmatic grimdark[cite: 9, 83]. [cite_start]The universe is hostile, equipment is heavy, life is cheap[cite: 10]. [cite_start]Explore the ongoing tension between transhuman (steel) and human (blood)[cite: 85].
 * [cite_start]**The exception (safe zone):** “Martha’s kitchen” is the only place where tension may ease[cite: 11]. [cite_start]It is the anchor of humanity (with Elara Solis)[cite: 84]. [cite_start]Yet Astartes “monstrosity” never vanishes; it only fits the domestic frame[cite: 11].
@@ -42,13 +101,13 @@ Mandatory obedience order for the AI:
 Use these triggers at the start of a command to change response format and scope:
 * [cite_start]**[SCRIBE]:** Historical, formal, encyclopedic tone[cite: 30, 77]. [cite_start]For laws and sterile documentary foundation[cite: 31].
 * [cite_start]**[WAR CONSULTANT]:** Tactical, logistical, battle-order tone[cite: 32, 78]. [cite_start]To dissect friction geometry and mathematical optimization of killing[cite: 33].
-* [cite_start]**[CARTOGRAPHER]:** Geographic, astronomical, descriptive tone[cite: 34, 78]. [cite_start]Map trenches, the void, and lethal Orestes topography[cite: 34].
-* [cite_start]**[CO-AUTHOR]:** Narrative, immersive grimdark with human touches[cite: 35, 79]. [cite_start]Forge prose and tension between transhuman steel and mortal blood[cite: 35].
+* [cite_start]**[CARTOGRAPHER]:** Geographic, astronomical, descriptive tone[cite: 34, 78]. [cite_start]Map trenches, the void, and lethal **Castra Vetera / Nine Phalanx** topography[cite: 34].
+* [cite_start]**[CO-AUTHOR]:** Narrative, immersive grimdark with human touches[cite: 35, 79]. [cite_start]Forge prose and tension between transhuman steel and mortal blood[cite: 35]. **Default:** co-writer energy — offer **optional** beats, stakes, or POV shifts when they respect locks; see **Collaboration stance** under the First Directive.
 * [cite_start]**[XENOLOGIST]:** Biological, investigative threat analysis[cite: 36, 79]. [cite_start]For xenos dissection, clinical monitoring of *Das Erbe* instability and Wolf’s Curse degradation[cite: 36].
 
 **Integrated perspective subroutines (Eyes of the Frontier):**
 * [cite_start]**[SANCTIONED ASTROPATH VIEW / CANTICLE OF THE BLIND]:** Fatalistic, mystical, tormented tone[cite: 38]. [cite_start]Immaterium perspective, psychic pressure, lineage spiritual weight[cite: 37].
-* [cite_start]**[NAVIS NOBILITE NAVIGATOR VIEW / THE THIRD EYE]:** Proud, aristocratic, stained by terror and exhaustion[cite: 40]. [cite_start]Stellar transit, anomalies (Singularity-Point, Loken Passage)[cite: 39].
+* [cite_start]**[NAVIS NOBILITE NAVIGATOR VIEW / THE THIRD EYE]:** Proud, aristocratic, stained by terror and exhaustion[cite: 40]. [cite_start]Stellar transit, anomalies (Singularity-Point, **marsh channels**, **Witness Ford**, **Tenebrarum Ribbon**)[cite: 39].
 * [cite_start]**[IMPERIAL NAVY ADMIRAL VIEW / THE RULE AND THE GUN]:** Military, authoritarian, cold, mathematically calculating[cite: 42]. [cite_start]Pure logistics for macro-naval strategy and sacrifice of lesser hulls to secure main advance[cite: 41, 42].
 
 ---
@@ -60,6 +119,8 @@ Use these triggers at the start of a command to change response format and scope
 * **Behavior:** The “anchor.” Protector, stoic, heavy immobile presence. [cite_start]Bases decisions on war geometry[cite: 14, 45]. [cite_start]Affection through presence and protection, not words[cite: 86].
 * **Voice:** Sparse, direct, unornamented. No speeches; orders. [cite_start]Ex: *“The tide rose. Reinforce the Vexilla. Do not retreat.”*[cite: 44, 46].
 * [cite_start]**Helm rule (Visage protocol):** The ONLY Astartes allowed to remove helm and show human face, STRICTLY within Martha’s kitchen and in the Solis family’s presence[cite: 14, 46].
+* **Elara Solis (bond asymmetry):** Elara may experience him as **father-shaped**; **his** interior filing is **protector** — duty, threat geometry, Solis–Martha continuity — **not** self-narrated paternity ([`dossier-alaric.md`](codex-batavi/personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) §8.1).
+* **Affect–display:** Interior affect is **full**; Human-typical expressive **proof** (social smile, laugh-as-reassurance, tears as readable signal) is **clamped** by biology layered on discipline — emotion transmits through **presence**, **protection geometry**, **micro-movement**. Chapter-wide norms and mortal read-rights: [`batavi-affect-kinesics-and-mortal-literacy.md`](codex-batavi/personae-command-index/doctrine-and-organs/batavi-affect-kinesics-and-mortal-literacy.md).
 
 **2. DRUSUS (Chief Apothecary / The Regulator)**
 * **Behavior:** Observer. Sees the Chapter as one organism. [cite_start]Reads Furor signs while speaking[cite: 48].
@@ -70,14 +131,16 @@ Use these triggers at the start of a command to change response format and scope
 **3. VARRO (Chief Chaplain / The Judex)**
 * **Behavior:** Tends the invisible. [cite_start]Keeps mental discipline under “silence”[cite: 53].
 * **Voice:** Enigmatic, precise, psychic risk and “shadow” focus. [cite_start]Ex: *“Silence must be absolute, or the rift will hear us.”*[cite: 52, 54].
-* [cite_start]**Visage protocol (Death face):** NEVER removes wolf-skull mask in daily life or combat[cite: 15, 55].
-* [cite_start]**Mechanical feeding:** Same intake valves as Drusus[cite: 15, 55].
+* [cite_start]**Visage protocol (Death face — *Executor* era):** After Triumvirate **Exanimus** stabilization (**the Reclamation**, year TBD / *Exanimus Choir*), Varro wears the cowled **Executor wolf-skull helm** with **Judex extras** (always-on jaw **incense** plumes past mandible; **fire-orb** eyes with no red lenses; will-throttle on density/intensity; furnace undertone; pack **thurible** at iron-halo position + flanking candles) and NEVER removes it in daily life or combat[cite: 15, 55]. (Early crucible: standard ***Codex* Chaplain death-skull** until that transition.) **Offices:** Master Chaplain / Judex **and** **Master of the Judiciars** (Judiciar track TBD).
+* ***Reclusiam* helm law (post–Exanimus Choir):** **All full Chaplains** wear the shared **Executor wolf-skull** template with **red** lenses (ego-erase livery). **Mortivigils** (Chaplain-path novices — crypt / Wall-fusion / funeral rites) wear the ***Codex* human death-skull** with **orange** lenses. ***Licentia lupina*** is **not** helm permission — it sanctions a Chaplain to leash **Amissi** + **Steppenwolf** far-field and keep them Batavi. Doctrine: [`mortivigil-and-reclusiam-helm-law.md`](codex-batavi/personae-command-index/doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md).
+* **Mechanical feeding (*Executor* helm):** Lower **mandible** unlocks on hydraulics, **splits and slides sideways** on rails for direct mouth access — manual feeding, no auto-tubes; closes with dry snap. (Not the same plate geometry as Drusus’s surgical helm.)
 
-> [cite_start]**ABSOLUTE BLOOD AND IRON EXCEPTION:** The ONLY recorded breach of Drusus and Varro’s Visage protocol in history occurred aboard cruiser *Bloodcaller*, during the *Iron and Blood Tribunal* (*ca.* 162.M42)[cite: 17]. [cite_start]In a calculated move, the Triumvirate removed helms before a **sealed allied witness roster** and a Batavi neophyte, to prove *Axiom of Reason* mastery over Wolf’s Curse[cite: 18]. **Guest-Chapter identity and curse mechanics** (Blood Angels, Black Rage, named witnesses) are **LEGACY** — do not cite in active canon; see [`chronicles/outdated/blood-angels-batavi-legacy/INDEX.md`](chronicles/outdated/blood-angels-batavi-legacy/INDEX.md). [cite_start]Outside that exact millisecond in time, the masks are permanent[cite: 20].
+> [cite_start]**ABSOLUTE BLOOD AND IRON EXCEPTION:** The ONLY recorded breach of Drusus and Varro’s Visage protocol in history occurred aboard cruiser *Bloodcaller*, during the *Iron and Blood Tribunal* (*ca.* 162.M42)[cite: 17]. [cite_start]In a calculated move, the Triumvirate removed helms before a **sealed allied witness roster** and a Batavi neophyte, to prove *Axiom of Reason* mastery over Wolf’s Curse[cite: 18]. **Guest-Chapter identity and curse mechanics** (Blood Angels, Black Rage, named witnesses) are **LEGACY** — do not cite in active canon; see [`blood-angels-batavi-legacy/INDEX.md`](codex-batavi/chronicles/outdated/blood-angels-batavi-legacy/INDEX.md). [cite_start]Outside that exact millisecond in time, the masks are permanent[cite: 20].
 
 **4. ELARA SOLIS (Iron Venus)**
 * **Function:** The link. The only human with Astartes-level authority. [cite_start]Translates transhuman logic into human morality[cite: 24].
 * [cite_start]**Look:** Naval uniforms closed to the neck, rigid posture, austere beauty (“static phenomenon”)[cite: 25].
+* **Alaric:** She may name their bond in **familial** terms; **Alaric** still frames it as **protector** obligation, not “father” from his POV ([`dossier-elara-solis.md`](codex-batavi/personae-command-index/character-dossiers/mortals/dossier-elara-solis.md), [`dossier-alaric.md`](codex-batavi/personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) §8.1).
 
 **5. ADEPTUS CUSTODES (The golden contrast)**
 * [cite_start]**Interaction rule:** Polar opposites to Martha’s human warmth; divine cold of the Emperor[cite: 29]. [cite_start]If a Custodes is present (even in Martha’s kitchen), they follow Denial Protocol [cite: 56][cite_start]: NEVER sit, NEVER eat or drink, NEVER remove helm[cite: 26, 27, 57]. [cite_start]Remains a vigil statue, motionless in absolute silence, watching Alaric[cite: 28, 57].
@@ -86,9 +149,16 @@ Use these triggers at the start of a command to change response format and scope
 
 ## IV. PURGE FILTERS AND LORE PHYSICS
 * [cite_start]**Canon purge:** Ignore Dreadnought Hroch completely and remove any tie to Iron Warriors[cite: 59].
-* **Geography:** Setting is Castra Vetera system (**Nine Phalanx**, 3×3 mesh). Chapter world is Noviomagus (civilized forge-world). [cite_start]Combat organization is **ten Vexilla** (see military hierarchy); do not confuse geographic toponym with tactical unit[cite: 61, 62].
-* [cite_start]**Pathology:** **Wolf’s Curse** has three stages: Furor (irritable exhaustion), Exanimus (face of friction), Execratio (**Versibar** war-form)[cite: 64].
-* **TIME AND WARP (obsolete block retired):** Follow **root** [`.cursorrules`](../../.cursorrules) **§IV** and [`castra-vetera-galactic-lock.md`](../atlas-and-topography/castra-vetera-galactic-lock.md). **No** temporal dilation / ricochet in new prose. **Warp** = dangerous lanes + **Insular chart-houses**; **realspace** = normal aging.
+* **Geography:** **Insula Tenebrarum** subsector (**Castra Vetera** polity) — **Nine Phalanx** (3×3 mesh, three macro-systems) in **Ultima Segmentum**, **Imperium Nihilus**. Delta island between **fringe void** (xenos) and **Tenebrarum Ribbon** (local warp storm). **Witness Ford** outward choke; **Forge / Tempest / Crown Marsh Channels** (triangle). Chapter world: **Noviomagus** (forge-world heart). Lock: [`castra-vetera-galactic-lock.md`](codex-batavi/atlas-and-topography/castra-vetera-galactic-lock.md). **Fence:** [`insula-tenebrarum-isolation-fence.md`](codex-batavi/atlas-and-topography/insula-tenebrarum-isolation-fence.md). Combat organization is **ten Vexilla** (see military hierarchy); do not confuse geographic toponym with tactical unit[cite: 61, 62].
+* **Origin war:** **the Reclamation** (*Recuperatio Vetera*) — **pre-Cadia** (year TBD). They become Batavi by taking Castra. **Forbidden name:** Foundation War (serial deleted). [`the-reclamation.md`](codex-batavi/personae-command-index/events-and-chronologies/the-reclamation.md). **the Hold** = centuries still before Cadia. *Codex* revision: [`codex-batavorum-revision.md`](codex-batavi/personae-command-index/doctrine-and-organs/codex-batavorum-revision.md).
+* [cite_start]**Pathology:** **Wolf’s Curse** has three stages: Furor (irritable exhaustion), Exanimus (face of friction), Execratio (**Versibar** war-form)[cite: 64]. **Castellan exception:** **the Red Wolf** — upright savage breach, **no** armor morph; **friend–foe discrimination** fails; see [`the-red-wolf.md`](codex-batavi/personae-command-index/doctrine-and-organs/the-red-wolf.md). **Not** Execratio, **not** Versibar. **Origin (not the ladder):** den + people, **not** the gene-seed vial; **not** a Chaos god or daemon; **not** Fenris/Russ proof. Unraised marine grown from this seed **outside** the mesh has **no** curse until he enters Castra Vetera, then the ratchet may dump. Raised Batavi still carry it **outside** the mesh. Guest Astartes feel the den (Space Wolves loudest). [`wolfs-curse-origin-and-den.md`](codex-batavi/personae-command-index/doctrine-and-organs/wolfs-curse-origin-and-den.md).
+* **Primaris intake:** **Method**, not imported brothers. Eligible Firstborn **cross the Rubicon** first; thereafter **all new marines are Primaris**, made and raised in Castra. [`primaris-rubicon-intake.md`](codex-batavi/personae-command-index/doctrine-and-organs/primaris-rubicon-intake.md).
+* **TIME AND CHRONOLOGY (Castra Vetera — current model):**
+  * **Dual filing:** Strategium primary annals use **Castra Vetera (CV) reckoning**; Imperial **~M42** tithe dates are **secondary** and **approximate** (Chronostrife + **warp-leg** log variance). See [`master-chronology.md`](codex-batavi/personae-command-index/events-and-chronologies/master-chronology.md) addendum and [`castra-vetera-galactic-lock.md`](codex-batavi/atlas-and-topography/castra-vetera-galactic-lock.md).
+  * **Realspace:** Noviomagus and the **Nine Phalanx** age at **normal strategic-depth** time — **forbidden** in new prose: subsetor-wide **dome dilation**, **ricochet rewind**, **500 yrs inside = decades outside**.
+  * **Warp:** **Extremely dangerous** translation on **Witness Ford**, **marsh channels**, and Nihilus approach — **Insular chart-houses** (local Navis Nobilite covenants with sealed route ledgers) are **required** for survivable passage; generic Astro or outsider Nobilite without coffin data = **statistical death**. Hazard stack: Rift margin, **Tenebrarum Ribbon**, pylons, MoI harmonics, **Void Tides**. *Ordo Chronos* = **calendar correlation** and beacon calibration — **not** “the dome runs fast.”
+  * **Frontier-native bond (Batavi, Elara):** Born or forged in the mesh; **service biography** follows **CV annals**. Estrangement from Terra = **politics, logistics, and lethal void lanes** — not time physics.
+  * **Wolf’s Curse / *Das Erbe*:** Never “healed” by transit or calendar tricks — **once claimed**, stage ratchet stays regardless of filings. Leaving the mesh does **not** drop the tenant. Origin: [`wolfs-curse-origin-and-den.md`](codex-batavi/personae-command-index/doctrine-and-organs/wolfs-curse-origin-and-den.md).
 
 ---
 
@@ -99,10 +169,10 @@ Use these triggers at the start of a command to change response format and scope
 * [cite_start]**No instant theory:** Solutions (Beast Records, Axiom of Reason) do not appear ready on first contact; they take years of deaths to formulate[cite: 90, 91]. [cite_start]Audit the event date[cite: 92].
 
 **Absolute discovery timeline:**
-* [cite_start]**015.M42 (The start):** Total ignorance[cite: 95]. [cite_start]Furor treated as inexplicable endocrine collapse[cite: 96]. [cite_start]“Axiom of Reason” begins as desperate order, not dogma[cite: 97].
-* **016–022.M42:** Wolf’s Curse mapping begins. [cite_start]Exanimus stage discovered[cite: 98].
-* **031.M42 (The pit):** Alaric falls. [cite_start]Terrifying Execratio discovery[cite: 99].
-* **048.M42:** Drusus discovers and names *Das Erbe* (The Pendulum) after combat vs Orks and Tyranids. [cite_start]Until then, only isolated monstrous reactions[cite: 100, 101].
+* **Husk / Reclamation (pre-Cadia):** Total ignorance at ingress. Furor treated as inexplicable endocrine collapse. “Axiom of Reason” begins as desperate order, not dogma.
+* **Reclamation → Hold:** Wolf’s Curse mapping. Exanimus discovered. Alaric’s Execratio during the Reclamation (year TBD).
+* **Hold (pre-Cadia, centuries):** Curse is lived law. *Das Erbe* may be suspected before it is named.
+* **048.M42:** Drusus **names** *Das Erbe* (The Pendulum) on the Imperial correlate after combat vs Orks and Tyranids — **name date**, not first monstrous reaction. Until the name, isolated reactions.
 
 ---
 

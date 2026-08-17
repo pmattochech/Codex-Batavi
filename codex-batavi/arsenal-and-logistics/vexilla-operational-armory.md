@@ -101,7 +101,7 @@ Each **Legatus** commands one **indivisible** Vexilla of 500. The table maps *St
 
 ### QVINTA — QVINTA (Aethelgard Prime)
 
-**Proficiency:** **Storm assault** — tide moons, gas-giant theaters, vertical infrastructure, **jump** certification. Foundation crucible memory and **Wild Hunt**–class closure when enemy mass or Waaagh! resonance spikes endocrine assault tempo ([projection-aurea-wolfs-curse.md](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)).
+**Proficiency:** **Storm assault** — tide moons, gas-giant theaters, vertical infrastructure, **jump** certification. the Reclamation memory and **Wild Hunt**–class closure when enemy mass or Waaagh! resonance spikes endocrine assault tempo ([projection-aurea-wolfs-curse.md](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)).
 
 **Modal lean:** **Highest Chapter allocation** of **jump packs** and **assault Primaris** formations (Inceptor-class deployment where *Armourium* certifies). **Boltstorm** and **heavy bolt pistols** on descent; **power axes** where the strike needs mass behind the edge.
 

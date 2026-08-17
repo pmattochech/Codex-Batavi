@@ -1,12 +1,12 @@
 # Valerian Heresy — saga read order
 
-**Status:** **Serial structure (May 2026)** — **25** chapters in quarter tree (**main serial**); **7** adjacent witness chapters in [`../corbec-ardens/`](../corbec-ardens/INDEX.md) (**not** in this `Next:` chain). **10** draft prose · **15** scaffold stubs. Timestamps pending final sweep.
+**Status:** **Thin lock** supersedes the old 25-chapter plan. Published `chapter.md` files below are **legacy prose** pending mine. Scene **SCAFFOLD.md** beat sheets are **deleted**.
 
-**Locks:** [`SCAFFOLD.md`](SCAFFOLD.md) · **Plan:** [`CHAPTER-PLAN.md`](CHAPTER-PLAN.md) · **Saga map:** [`SAGA-MAP.md`](SAGA-MAP.md)
+**Locks:** [`SCAFFOLD.md`](SCAFFOLD.md) · [`SAGA-MAP.md`](SAGA-MAP.md) · [`CHRONOLOGY.md`](CHRONOLOGY.md)
 
-**Staff:** [`../../../personae-command-index/events-and-chronologies/valerian-heresy.md`](../../../personae-command-index/events-and-chronologies/valerian-heresy.md) · **Hub:** [`README.md`](README.md)
+**Staff:** [`../../../personae-command-index/events-and-chronologies/valerian-heresy.md`](../../../personae-command-index/events-and-chronologies/valerian-heresy.md)
 
-**Span:** **~045–092.M42** · **Malakor ~086** opens parent **Silent Vigil** (**~086–186**).
+**Span:** **the Hold**, **pre-Cadia** (year TBD). Not a ~045–092.M42 sprint.
 
 ---
 
@@ -19,7 +19,7 @@
 | **P2** | ~065–080 | Cold rot — **why?**; pyrric bleed | [P2-cold-rot/INDEX.md](P2-cold-rot/INDEX.md) |
 | **P3** | ~080–085 | Hot rot — harvest; seal; open break | [P3-hot-rot/INDEX.md](P3-hot-rot/INDEX.md) |
 | **P4** | ~086 | Malakor V — **Castellan apex** (main serial) | [P4-malakor/INDEX.md](P4-malakor/INDEX.md) |
-| **P5** | ~086–092 | Reformation — DECIMA; vexilla; Primaris | [P5-reformation/INDEX.md](P5-reformation/INDEX.md) |
+| **P5** | ~086–092 | Reformation — DECIMA; vexilla; Primaris **method** | [P5-reformation/INDEX.md](P5-reformation/INDEX.md) |
 
 ## Adjacent subsaga (parallel — not numbered here)
 

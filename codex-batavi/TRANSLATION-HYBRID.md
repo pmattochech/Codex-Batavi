@@ -76,7 +76,7 @@ Section **0.1** states the default language for **new and edited** Markdown. Thi
 
 **Assets:** PNG files live under [`lore-images/`](lore-images/); the `batavi-img` CLI defaults there.
 
-**Foundation War narrative:** Canonical slug serial — [`chronicles/foundation-war/INDEX.md`](chronicles/foundation-war/INDEX.md) (serial complete; novel structure pass closed May 2026). Prose scaffold — [`PROSE-SCAFFOLD.md`](chronicles/foundation-war/PROSE-SCAFFOLD.md). Legacy numbered serial deleted May 2026 — file map — [`legacy-map.md`](chronicles/foundation-war/legacy-map.md).
+**the Reclamation narrative:** Birth-war **scaffolds** — [`chronicles/reclamation/INDEX.md`](chronicles/reclamation/INDEX.md). Staff — [`personae-command-index/events-and-chronologies/the-reclamation.md`](personae-command-index/events-and-chronologies/the-reclamation.md). **Pre-Cadia.** The old Foundation War novel serial is **deleted**.
 
 **`forja/`:** Code, defaults, and path conventions match `codex-batavi/`. Top-level guides **`forja/README.md`**, **`TUTORIAL.md`**, and **`CHEATSHEET.md`** are **US English** (aligned with this doc). Regenerate **`PKG-INFO`** with `pip install -e ./forja` if you need the installed metadata to match `README.md` verbatim.
 

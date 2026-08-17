@@ -1,6 +1,7 @@
 # Atlas & topography
 
 - **[castra-vetera-galactic-lock.md](castra-vetera-galactic-lock.md)** — **authoritative** Insula Tenebrarum placement, marsh channels, identity charter
+- **[insula-tenebrarum-isolation-fence.md](insula-tenebrarum-isolation-fence.md)** — MoI reflector fence, V-shield, navel vortex, pylon jumps
 - [general-atlas.md](general-atlas.md) — macro context, summary atlas, links
 - **Human cultures (Castra Vetera; legacy path `porta-nihili-*`):** [cultures/porta-nihili-and-basal-stratum.md](cultures/porta-nihili-and-basal-stratum.md) · [cultures/worlds-central-bastion.md](cultures/worlds-central-bastion.md) · [cultures/worlds-crucible.md](cultures/worlds-crucible.md) · [cultures/worlds-threshold.md](cultures/worlds-threshold.md)
 - **Binding process:** [../planning/vexilla-homeworld-culture-framework.md](../planning/vexilla-homeworld-culture-framework.md)

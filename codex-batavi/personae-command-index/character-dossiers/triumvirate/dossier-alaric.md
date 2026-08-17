@@ -4,9 +4,9 @@
 **Other titles:** King of the Spines, Architect of Ashes, Void Warden, First Batavi  
 **Codename:** The Anchor / The Unbent  
 **Archetype:** Industrial beast / living wall  
-**Estimated age:** ~580 Terran years (Foundation War veteran)
+**Estimated age:** **TBD** — husk ingress and Reclamation are **pre-Cadia**; do not print a Terran year-count as fact this pass.
 
-**Canonical crucible serial:** [`../../../chronicles/foundation-war/INDEX.md`](../../../chronicles/foundation-war/INDEX.md). **Wound tags (earned):** Execratio fall/return ~**CV y19** — [`the-beast-chapter/chapter.md`](../../../chronicles/foundation-war/Q3-gulf-and-beast/the-beast-chapter/chapter.md); ***We hold anyway*** at **CV y28** — [`we-hold-anyway/chapter.md`](../../../chronicles/foundation-war/Q4-der-batav/we-hold-anyway/chapter.md); **priority holds** / MoI partial close — [`the-core-refuses/chapter.md`](../../../chronicles/foundation-war/Q4-der-batav/the-core-refuses/chapter.md); **continue** at council — [`der-batav-council/chapter.md`](../../../chronicles/foundation-war/Q4-der-batav/der-batav-council/chapter.md).
+**Origin war:** [`the-reclamation.md`](../../events-and-chronologies/the-reclamation.md). Execratio fall/return: **during the Reclamation** (year TBD). Naming: Campaign III.
 
 ## 1\. PSYCHOLOGICAL AND COMMAND PROFILE
 
@@ -26,7 +26,7 @@ Alaric embodies “pragmatic grimdark.” He is not a speech-giver but a presenc
 
 ### 1.1 THE PHYSIOGNOMY OF ALPHA ANOMALY
 
-Alaric von Helis’s face and human body map Foundation War scars and living proof **Wolf’s Curse** can be bent by will. Unlike official records simplifying his condition, Alaric is not pure Execratio (**Versibar**), nor at Exanimus stage. Forcing his own mutation to recede after falling into abyss, biology locked at undocumented intermediate stage.
+Alaric von Helis’s face and human body map the Reclamation scars and living proof **Wolf’s Curse** can be bent by will. Unlike official records simplifying his condition, Alaric is not pure Execratio (**Versibar**), nor at Exanimus stage. Forcing his own mutation to recede after falling into abyss, biology locked at undocumented intermediate stage.
 
 He inherited muscular density, traction strength, and aberrant scale vectors of **Versibar** (full expression **4–4.5 m**) but **stabilized** biped structural integrity at an **intermediate lock ~2.85 m** — far below Versibar monstrosity, still far above line Astartes. Face is geometric extrapolation, most brutal *Exanimus stage* seen in his generals. Alaric shows maxillary hypertrophy still more severe and massive than Varro and Drusus, widened bone structure built for crushing. From that foundation project long thick lower lupine canines escaping lip containment. Yet he imposes absolute military asepsis: grey hair and beard rigorously shaved, face carries millimetric scars of tension-relief micro-surgeries ensuring High Gothic articulation with icy perfection. Weathered face reads ~40 Terran years maturity. Free of Silent Vigil lethargy weight, Castellan dermis regained healthy hard transhuman forge pigment, fully shedding tomb-pallor and deep eye hollows, though heavy neural interface ports remain driven direct into skull and jaw. Framing this perfectly tamed abomination, eyes work as inhuman signature of his stasis: deep crimson iris with greened edges and permanently slit pupils.
 
@@ -63,7 +63,7 @@ Beyond anatomical changes, Alaric von Helis’s intermediate-stage stabilization
 
 Hidden under Viggo’s white pelt against *Castra-Lupus* right pauldron rests heavy steel cord wound in multiple turns from which hang **743 plate pairs** — 1,486 individual pieces, roughly 97 kg iron and ceramite pressed by wolf hide to armor ceramic.
 
-Practice began Foundation War without formal doctrine. Alaric took plates from first brother he executed and never stopped. The cord records **Versibar** alone — each pair a **Frontier Wolf** execution — not every **KIA** of the crucible. **~415** pairs accrue across the **crucible** (annals **~CV y0–y29**); **~328** more accrue from **ratification** through **180.M42**, for **743** weighed at last audit (see [`frontier-wolf-rite.md`](../../doctrine-and-organs/frontier-wolf-rite.md)). **Valerian Heresy** (**~050.M42**) costs **~300** further as **KIA** or **Versibar** against the **~500** rational spine the crucible **closed** on — only the **Versibar** fraction joins the chain. **~200 Firstboot** brothers remain on the effective line when **Primaris** mass arrives.
+Practice began the Reclamation without formal doctrine. Alaric took plates from first brother he executed and never stopped. The cord records **Versibar** alone — each pair a **Frontier Wolf** execution — not every **KIA** of the crucible. **~415** pairs accrue across the **crucible** (annals **~CV y0–y29**); **~328** more accrue from **ratification** through **180.M42**, for **743** weighed at last audit (see [`frontier-wolf-rite.md`](../../doctrine-and-organs/frontier-wolf-rite.md)). **Valerian Heresy** (**~050.M42**) costs **~300** further as **KIA** or **Versibar** against the **~500** rational spine the crucible **closed** on — only the **Versibar** fraction joins the chain. **~200 Firstboot** brothers remain on the effective line when **Primaris method** arrives (Rubicon + local intake — **no** imported battle-brothers).
 
 Each pair invariant:
 
@@ -74,7 +74,7 @@ Viggo pelt weight presses total metal volume to ceramic, silencing most plates. 
 
 Chain not trophy. Execratio destroys progenoid glands — those warriors survive in no neophyte. Name survives on chain, or nowhere.
 
-Single loose plate on chain — unpaired, inserted among Foundation War pairs — Drusus added after Alaric’s crucible Execratio (**~CV y19**; Imperial filings often cite **~031.M42** *approx*), without explanation. Alaric never asked what carved on it. Drusus never explained.
+Single loose plate on chain — unpaired, inserted among the Reclamation pairs — Drusus added after Alaric’s crucible Execratio (**~CV y19**; Imperial filings often cite **~031.M42** *approx*), without explanation. Alaric never asked what carved on it. Drusus never explained.
 
 ---
 
