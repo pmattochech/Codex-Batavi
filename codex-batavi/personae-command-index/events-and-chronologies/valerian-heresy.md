@@ -1,6 +1,6 @@
 # VALERIAN HERESY (staff summary)
 
-**Status:** Thin lock. **When:** **the Hold**, **pre-Cadia**, after **nine Vexilla**. Year **TBD** (Chapter age first).  
+**Status:** Thin lock. **When:** **the Hold**, **pre-Cadia**, after **nine Vexilla**, inside the **~300-year** cage. Exact year **TBD**.  
 **Saga scaffold:** [`../../chronicles/silent-vigil/valerian-heresy/SCAFFOLD.md`](../../chronicles/silent-vigil/valerian-heresy/SCAFFOLD.md)  
 **Reclamation:** [`the-reclamation.md`](the-reclamation.md)
 

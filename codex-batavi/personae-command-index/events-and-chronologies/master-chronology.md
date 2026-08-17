@@ -3,7 +3,7 @@
 * **Zero point:** Opening of the Cicatrix Maledictum (ca. 999.M41) — **fence becomes V-shield**, not the Chapter’s birth.  
 * **Enemy:** Time and entropy.
 
-**Chronology addendum (Strategium / *Ordos* filing):** Primary annals use **Castra Vetera (CV) reckoning**; **~M42** tithe dates are **approximate** cross-filings — **Chronostrife** and **warp-leg** log variance. **Realspace** on Noviomagus runs **strategic-depth normal** — **no** subsetor **time dilation** or **ricochet** physics. **Warp** in/out of **Insula Tenebrarum** is **extremely dangerous** without **Insular chart-houses** (Navis covenants with sealed routes for **Witness Ford** and marsh channels). *Ordo Chronos* = **calendar correlation** and beacon calibration, not “fast dome.” Atlas: [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Fence: [`insula-tenebrarum-isolation-fence.md`](../../atlas-and-topography/insula-tenebrarum-isolation-fence.md).
+**Chronology addendum (Strategium / *Ordos* filing):** Primary annals use **Castra Vetera (CV) reckoning**; **~M42** tithe dates are **approximate** cross-filings — **Chronostrife** and **warp-leg** log variance. **Realspace** on Noviomagus runs **strategic-depth normal** — **no** subsetor **time dilation** or **ricochet** physics. **Warp** in/out of **Insula Tenebrarum** is **extremely dangerous** without **Insular chart-houses** (Navis covenants with sealed routes for **Witness Ford** and marsh channels). *Ordo Chronos* = **calendar correlation** and beacon calibration, not “fast dome.” **Present (actual Indomitus days):** **~12 years after Cicatrix** — **not** the old 100-year crusade. **As Batavi:** **~310 years** (Hold **~300** + Indomitus **~12**). Staff: [`the-reclamation.md`](the-reclamation.md) §VI. Atlas: [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md). Fence: [`insula-tenebrarum-isolation-fence.md`](../../atlas-and-topography/insula-tenebrarum-isolation-fence.md).
 
 ## I. the Reclamation and the Hold (**pre-Cadia** — year TBD)
 
@@ -12,13 +12,13 @@
 * **Husk ingress:** **Grey Hounds** (*Slate Cohort — Hound Pattern*) lured or wrecked onto **one** island. Mars **one-shot bore**; hole closes; ghost tithe. Identity mystery. [`husk-ingress/SCAFFOLD.md`](../../chronicles/reclamation/husk-ingress/SCAFFOLD.md).
 * **Campaigns I–III:** Three macro-systems. **Aethelgard** is the **last** of that middle-section (Campaign III by job). I vs II among the other two **TBD**. Naming on the Aethelgard shingle: [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md). [`campaign-iii-third-island/SCAFFOLD.md`](../../chronicles/reclamation/campaign-iii-third-island/SCAFFOLD.md).
 * **Campaign IV — the Seal:** Ford / Ribbon **wall**. [`campaign-iv-the-seal/SCAFFOLD.md`](../../chronicles/reclamation/campaign-iv-the-seal/SCAFFOLD.md).
-* **the Hold:** **Centuries**, still pre-Cadia. Nine Vexilla. Fence is cage. [`the-hold/SCAFFOLD.md`](../../chronicles/reclamation/the-hold/SCAFFOLD.md).
+* **the Hold:** **~300 years**, still pre-Cadia. Nine Vexilla. Fence is cage. [`the-hold/SCAFFOLD.md`](../../chronicles/reclamation/the-hold/SCAFFOLD.md).
 * **Valerian strife:** During the Hold, after nine seats. Trusted PRIMA replacement slain by **Corbec**. **Valerius** slain by **Alaric** and the **Emperor’s Wolf**. **DECIMA** founded at close from Alaric’s loyalists (**500** or more). [`valerian-heresy.md`](valerian-heresy.md).
-* **Cicatrix (~999.M41):** Hits the **reflector**; mesh sits in a **V** of still-realspace. Cage becomes shield.
+* **Cicatrix (~999.M41):** Hits the **reflector**; mesh sits in a **V** of still-realspace. Cage becomes shield. **Present** is **~12 years** later (**~012.M42** working). As Batavi **~310 years**.
 
-## II. Post-Rift bridge (Imperial ~M42 filings)
+## II. Post-Rift bridge (Imperial ~M42 filings) — *actual days ~12 years*
 
-*Ghost tithe already centuries old. Super-tithe and forges continue. Headcounts from the deleted serial are **not** reused here.*
+*Ghost tithe already **~300 years** old. Super-tithe and forges continue. **Era Indomitus** on the mesh is **~12 Terran years**, not a century. Headcounts from the deleted serial are **not** reused here. Legacy stamps in §III–VI (045–180.M42, 100-year Silent Vigil) are **unmined paper** — do not treat them as the actual-days clock.*
 
 * **Shared Sweat / super-tithe (Badab lesson):** Hard-commits **Aequalitas Machinae** labor and pushes industrial output **~15%** above quota — city-scale proof the mesh can **feed** plate. Expansion toward **~5,000** is **Hold-era local raising**, sealed later with Primaris **method** (§III) — not imported brothers.
 

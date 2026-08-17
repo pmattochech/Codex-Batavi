@@ -1,7 +1,7 @@
 # the Reclamation (*Recuperatio Vetera*)
 
 **Status:** Authoritative origin lock. **Forbidden name in new/edited prose:** Foundation War (and “foundation crucible” as the war’s title). That serial is **deleted**.  
-**Timestamp this pass:** **pre-Cadia** — exact year **TBD** (a date will be set later). Do **not** invent an M41 stamp. Do **not** use time dilation to fake centuries.  
+**Timestamp this pass:** **pre-Cadia** Reclamation / Hold; **present** = **Era Indomitus**, **~12 years after Cicatrix** (actual Indomitus first-phase clock — **not** the old 100-year crusade, **not** leftover 045–180.M42 paper). Do **not** use time dilation to fake centuries.  
 **Atlas / fence:** [`insula-tenebrarum-isolation-fence.md`](../../atlas-and-topography/insula-tenebrarum-isolation-fence.md)  
 **Tactics (separate from curse):** [`codex-batavorum-revision.md`](../doctrine-and-organs/codex-batavorum-revision.md)  
 **Curse origin:** [`wolfs-curse-origin-and-den.md`](../doctrine-and-organs/wolfs-curse-origin-and-den.md)  
@@ -19,7 +19,7 @@ The Reclamation **is** the birth. They become **Batavi** by taking **Castra Vete
 
 **Keep:** unknown progenitor, **5,000** ceiling, **ten Vexilla** (**DECIMA** is founded at **Valerian close** from Alaric’s loyalists — [`valerian-heresy.md`](valerian-heresy.md)), no time-bubble, **wall against the tide**.
 
-**Age:** Chapter age (husk → present) is **not** stamped this pass. Hold remains **centuries**. Exact year **TBD**.
+**Age (working stamp — as Batavi, after the Reclamation):** **~310 years.** Hold **~300 years** (three centuries of cage, still **pre-Cadia**) + **~12 Terran years** of **Era Indomitus** after Cicatrix. See §VI.
 
 ---
 
@@ -32,7 +32,7 @@ The Reclamation **is** the birth. They become **Batavi** by taking **Castra Vete
 | **Campaign III** | Last of the three **macro-systems** — **end of the middle-section**. **Aethelgard conquest** lands here (exact I/II pairing of the other two systems **TBD**). **Naming** happens on that shingle — myth: [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md). |
 | **Campaign IV** | **Ford / Ribbon seal** — a **wall**, not another world-list. |
 | **Navel vortex** | Opens when they **beat the MoI** — **system failure**. Mechanicus **stabilize** enough that the Warp burst does **not** swallow the whole subsector. Still a painful comms wound and Chaos door. |
-| **the Hold** | **Centuries.** Still **pre-Cadia**. Nine Vexilla exist. Ghost tithe. Fence is cage. |
+| **the Hold** | **~300 years.** Still **pre-Cadia**. Nine Vexilla exist. Ghost tithe. Fence is cage. |
 | **Valerian strife** | During the Hold, **after** nine Vexilla. Thin lock: [`valerian-heresy.md`](valerian-heresy.md). **Trusted PRIMA replacement** slain by **Corbec**. **Valerius** slain by **Alaric** and the **Emperor’s Wolf**. **DECIMA** is then founded from Alaric’s loyalists (**500** or more). |
 | **Cicatrix** (~999.M41) | Hits the **reflector** and **splits**. Mesh sits in a **V** of still-realspace. Cage becomes **shield**. |
 | **Primaris method** | **After** the Rift. Technology, not imported brothers. [`primaris-rubicon-intake.md`](../doctrine-and-organs/primaris-rubicon-intake.md) |
@@ -74,3 +74,21 @@ Exact headcounts **TBD** after Chapter **age** is locked. Do not invent a close-
 - Identity charter: [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md)  
 - *Der Batav* myth and Chapter name (Aethelgard people seeing them): [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md)  
 - Master clock: [`master-chronology.md`](master-chronology.md) §I
+
+---
+
+## VI. Age lock (working)
+
+**Question answered:** how old they are **as Batavi** — after the Reclamation, not as Grey Hounds.
+
+| Band | Working length | Clock |
+|------|----------------|-------|
+| **Reclamation** | **Decades** (four campaigns; not centuries) | Pre-Cadia. They **become** Batavi here. |
+| **the Hold** | **~300 years** (three centuries of cage) | Still **pre-Cadia**. Fence is cage. Nine Vexilla. Valerian is a Hold war. |
+| **Era Indomitus (present)** | **~12 Terran years** after Cicatrix (~999.M41) | **Actual days:** Indomitus **first phase** ends ~12 years in (Plague Wars / Raukos clock, 2021 retcon). **Not** the old ~100-year crusade. **Not** leftover **045–180.M42** paper. Working Imperial present: **~012.M42**. Chronostrife may print other years; **CV** stays the operational metronome. |
+
+**As Batavi (now):** Hold **~300** + Indomitus **~12** = **~310 years**.
+
+Grey Hound service **before** the Reclamation is **extra** and **TBD** (Alaric is older as a marine than he is as a Batavi).
+
+**Do not:** stretch post-Rift mesh time to 50–180 years to match old Silent Vigil stamps. Those M42 bands are **legacy paper** — mine later. Primaris **method** lands **inside** the ~12-year Indomitus window, not in a fake year 51.

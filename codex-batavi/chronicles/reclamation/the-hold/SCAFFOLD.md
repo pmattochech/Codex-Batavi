@@ -11,18 +11,18 @@
 
 ## Thesis
 
-Centuries. Still pre-Cadia. Nine Vexilla exist. Ghost tithe. Fence is cage. Codex revision matures. Valerian strife is a Hold war, after nine seats.
+Centuries. Still pre-Cadia. **~300 years** working. Nine Vexilla exist. Ghost tithe. Fence is cage. Codex revision matures. Valerian strife is a Hold war, after nine seats.
 
 ## Beat locks
 
 - No Cicatrix yet
 - **DECIMA** does not exist until **Valerian close** (then Alaric’s loyalists, **500** or more)
-- Raising already started in the Reclamation (neophytes + rare adult conversion); **5,000** ceiling continues across the Hold (exact curve after age lock)
+- Raising already started in the Reclamation (neophytes + rare adult conversion); **5,000** ceiling continues across the Hold
 - Next: Valerian scaffold
 
 ## Chronicle law
 
-- Pre-Cadia; no invented M41 year this pass (Chapter **age** first)
+- Pre-Cadia; Hold **~300 years**; present is **~12 years** after Cicatrix
 - No time dilation
 - No Foundation War name, poles, or restored slugs
 - Chronological blindness

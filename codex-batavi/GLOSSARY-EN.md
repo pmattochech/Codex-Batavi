@@ -68,10 +68,10 @@ Use when writing or editing English prose. Extend as you go.
 | Silent Vigil | **~100-year** corridor era post–Malakor V (**050–150.M42** in primary annals); weight was **clinical**, not dome-time dilation |
 | Iron Venus | Elara epithet |
 | Nine Phalanx | 3×3 system mesh (Castra Vetera) |
-| **CV annals / CV y\*** | **Castra Vetera** operational year reckoning; **primary** timeline for mesh operations. **the Reclamation** / **the Hold** are **pre-Cadia** (year TBD). **~M42** entries are **approximate** Imperial cross-filings — **not** time dilation. See `master-chronology.md` addendum. |
-| **the Reclamation** (*Recuperatio Vetera*) | Birth-war: they become Batavi by taking Castra. **Pre-Cadia.** Husk: **Grey Hounds** / *Slate Cohort — Hound Pattern*. Scaffolds: [`chronicles/reclamation/INDEX.md`](chronicles/reclamation/INDEX.md). Staff: [`the-reclamation.md`](personae-command-index/events-and-chronologies/the-reclamation.md). **Forbidden name:** Foundation War. |
+| **CV annals / CV y\*** | **Castra Vetera** operational year reckoning; **primary** timeline for mesh operations. **As Batavi:** **~310 years** (Hold **~300** + Indomitus **~12**). Present **~012.M42** working. Leftover **~M42** bands (045–180) are **approximate / unmined paper** — **not** time dilation. See `the-reclamation.md` §VI. |
+| **the Reclamation** (*Recuperatio Vetera*) | Birth-war: they become Batavi by taking Castra. **Pre-Cadia.** Husk: **Grey Hounds** / *Slate Cohort — Hound Pattern*. **As Batavi now:** **~310 years**. Staff: [`the-reclamation.md`](personae-command-index/events-and-chronologies/the-reclamation.md) §VI. **Forbidden name:** Foundation War. |
 | **Grey Hounds** | Husk Chapter common name. Paper: ***Slate Cohort — Hound Pattern***. Incomplete, hull-born, **identity mystery**. Become Batavi by the Reclamation. |
-| **the Hold** | Centuries of cage **before Cadia**, after the Reclamation. Nine Vexilla. Ghost tithe. |
+| **the Hold** | **~300 years** of cage **before Cadia**, after the Reclamation. Nine Vexilla. Ghost tithe. |
 | **Isolation fence** | MoI realspace+Warp **reflector**; Cicatrix splits into a **V** of still-realspace. [`insula-tenebrarum-isolation-fence.md`](atlas-and-topography/insula-tenebrarum-isolation-fence.md) |
 | **Nine Phalanx** | Geographic 3×3 mesh — **not** a restored nine-pole war table. |
 | ***Instrumentum Solum*** | Tool-only doctrine — survival filed in forms. Reclamation / Hold law, not a deleted serial finale. |
