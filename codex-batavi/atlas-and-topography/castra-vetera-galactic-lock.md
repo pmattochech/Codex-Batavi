@@ -107,7 +107,7 @@ English thematic names — one regulated warp channel per system pair; **short w
 
 ## III. Golden ground (two layers)
 
-1. **Identity** — **the Reclamation**, **Der Batav**, **Cohors Batavorum** naming; where the Chapter stops being a shadow hunting parentage.  
+1. **Identity** — **the Reclamation** (they become Batavi by taking Castra); civic myth ***Der Batav*** ([`der-batav-myth.md`](../lexicon-and-litanies/der-batav-myth.md)) — **not** a dated naming campaign.  
 2. **Material** — Rare ore, industrial and agricultural throughput, fan **maiden** / **wraithbone-grade** bodies — why outsiders **war** for the island.
 
 ### Who wants the island (atlas / later eras)

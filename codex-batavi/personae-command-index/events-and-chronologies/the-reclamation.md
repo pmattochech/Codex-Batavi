@@ -27,7 +27,7 @@ The Reclamation **is** the birth. They become **Batavi** by taking **Castra Vete
 |------|------|
 | **Husk ingress** | **Pre-Cadia.** Incomplete Chapter (husk **name TBD**) lured/wrecked onto **one** island of the mesh. Mars **one-shot bore** put them in; the hole **closes**. They go dark. |
 | **Campaigns I–III** | Three **macro-systems** of the Nine Phalanx, in an order they **choose** after the first island. They are not handed the mesh. |
-| **Campaign III** | Last macro-system **and** **witness-naming** — *Der Batav* / **Cohors Batavorum**. This is the birth receipt. |
+| **Campaign III** | Last of the three **macro-systems**. They **choose** this war. |
 | **Campaign IV** | **Ford / Ribbon seal** — a **wall**, not another world-list. |
 | **the Hold** | **Centuries.** Still **pre-Cadia**. Nine Vexilla exist. Ghost tithe. Fence is cage. |
 | **Valerian strife** | During the Hold, **after** nine Vexilla. Thin lock: [`valerian-heresy.md`](valerian-heresy.md). War **ends with Valerius’s death** (how **TBD**). **DECIMA does not exist yet.** |
@@ -44,7 +44,7 @@ Imperial **~M42** stamps on later events (Silent Vigil prose, collar, etc.) are 
 |---|-----|------|
 | **I** | First macro-system after the husk beachhead | They **choose** this war. *Codex* still the spine; applications start to strain. |
 | **II** | Second macro-system | Gradual **Codex** revision continues. MoI still not a briefing slide. |
-| **III** | Third macro-system + **name** | Witness-naming. They are Batavi here. |
+| **III** | Third macro-system | They **choose** this war. *Codex* revision continues. *Der Batav* remains **myth** — not a campaign receipt. |
 | **IV** | **Witness Ford** / **Tenebrarum Ribbon** seal | Wall. Not a catalogue of extra worlds. Standing wound / Ford as **point of the V** is **later atlas** — working note only. |
 
 Nine-pole Foundation War theater table is **void**. Do not rebuild it this pass.
@@ -63,5 +63,5 @@ Landing strength, casualty bands, and “~500 at close” from the deleted seria
 
 - Isolation physics: [`insula-tenebrarum-isolation-fence.md`](../../atlas-and-topography/insula-tenebrarum-isolation-fence.md)  
 - Identity charter: [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md)  
-- *Der Batav* myth: [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md)  
+- *Der Batav* myth (civic lore only — not a naming beat): [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md)  
 - Master clock: [`master-chronology.md`](master-chronology.md) §I

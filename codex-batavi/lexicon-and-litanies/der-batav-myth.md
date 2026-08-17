@@ -1,13 +1,14 @@
-# [WIKI] The Der Batav myth and the naming of the Cohors Batavorum
+# [WIKI] The Der Batav myth
 
-**Classification:** Lexicon and litanies — Chapter identity  
-**Cross-references:** [Batav Wolf](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md) · [the-reclamation.md](../personae-command-index/events-and-chronologies/the-reclamation.md) · [campaign-iii-tide-names](../chronicles/reclamation/campaign-iii-tide-names/SCAFFOLD.md) · [chapter-identity.md](../personae-command-index/intro-and-heraldry/chapter-identity.md)
+**Classification:** Lexicon and litanies — civic myth  
+**This file is myth and living lore.** It is **not** a Reclamation campaign receipt, council minutes, or a dated naming beat.  
+**Cross-references:** [Batav Wolf](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md) · [chapter-identity.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) · [mentality-and-philosophy.md](mentality-and-philosophy.md)
 
 ---
 
 > *“We did not choose the name. The name found us coming out of the surf with xenos blood on our hands. The people already knew what we were before we knew.”*
 >
-> — Alaric von Helis (**the Reclamation**, Campaign III — **pre-Cadia**, year TBD).
+> — attributed to Alaric von Helis
 
 ---
 
@@ -37,25 +38,7 @@ Natives expected something like the Batav at human scale. What they received was
 
 ---
 
-## III. The fulfillment (Reclamation — Campaign III)
-
-Staff truth: [`the-reclamation.md`](../personae-command-index/events-and-chronologies/the-reclamation.md). They become Batavi by taking the island. Campaign III is **witness-naming** — not a nine-pole novel.
-
-On the shingle, coastal witnesses name the phenomenon before Imperial hymns do. *“Der Batav!”* is **verdict**. **Cohors Batavorum** follows from **lungs** in the same weather: humanity names the Chapter before the Throne does.
-
-**Dual receipt:** witness voice, then council ink (pre-Cadia, year TBD). Neither alone is sufficient.
-
-The **origin hunt** is buried policy: taking Castra **is** the origin.
-
----
-
-## IV. Alaric’s decision (adopting the name)
-
-The renaming is pragmatic, not a sermon. *Cohors Batavorum* honors the people who will be recruitment and *Auxilia* under Shared Sweat, and it files a frontier-monster identity — the predator that drops from the rock onto the storm.
-
----
-
-## V. The weight of the myth (living lore)
+## III. The weight of the myth (living lore)
 
 The Der Batav myth is not recited in rites. It is operated. Batavi systematically choose terrain the enemy considers unusable. The Batav is not a courage symbol. It is a geometry principle: turn adverse condition into positioning advantage.
 
@@ -63,4 +46,4 @@ The Der Batav myth is not recited in rites. It is operated. Batavi systematicall
 
 ---
 
-*Compiled by the Chapter’s Chief Scribe — last revision: Reclamation lock (pre-Cadia timestamp; later M42 filings exist on other ledgers).*
+*Compiled by the Chapter’s Chief Scribe.*

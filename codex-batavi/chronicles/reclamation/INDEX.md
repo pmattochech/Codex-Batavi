@@ -12,7 +12,7 @@ All slugs below are **scaffold only** — no novel chapters yet. One folder = on
 | 0 | [husk-ingress](husk-ingress/SCAFFOLD.md) | Incomplete Chapter; lure/wreckage onto **one** island; Mars bore closes |
 | I | [campaign-i-first-island](campaign-i-first-island/SCAFFOLD.md) | First macro-system they **choose** |
 | II | [campaign-ii-second-island](campaign-ii-second-island/SCAFFOLD.md) | Second macro-system |
-| III | [campaign-iii-tide-names](campaign-iii-tide-names/SCAFFOLD.md) | Third macro-system + **witness-naming** (birth) |
+| III | [campaign-iii-third-island](campaign-iii-third-island/SCAFFOLD.md) | Third macro-system |
 | IV | [campaign-iv-the-seal](campaign-iv-the-seal/SCAFFOLD.md) | Ford / Ribbon **wall** — not another world-list |
 | H | [the-hold](the-hold/SCAFFOLD.md) | **Centuries**, still pre-Cadia; nine Vexilla; ghost tithe |
 

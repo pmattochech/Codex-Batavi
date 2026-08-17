@@ -1,6 +1,6 @@
-# Campaign III — Tide Names
+# Campaign III — Third Island
 
-**the Reclamation** · Campaign III — Tide Names  
+**the Reclamation** · Campaign III — Third Island  
 **Timestamp:** pre-Cadia (year TBD)  
 **Status:** **Scaffold** — prose not drafted.
 

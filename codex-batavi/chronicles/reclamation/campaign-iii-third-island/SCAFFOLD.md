@@ -1,7 +1,7 @@
-# Scaffold — Campaign III — Tide Names
+# Scaffold — Campaign III — Third Island
 
 **Tree:** the Reclamation  
-**Slug:** `campaign-iii-tide-names`  
+**Slug:** `campaign-iii-third-island`  
 **Status:** **scaffold** — thin on purpose. Prose not drafted.  
 **Prose:** [chapter.md](chapter.md)  
 **Hub:** [../INDEX.md](../INDEX.md)  
@@ -11,13 +11,13 @@
 
 ## Thesis
 
-Third macro-system and witness-naming. They become Batavi here. Der Batav / Cohors Batavorum from lungs, then ink. This is the birth receipt.
+Third macro-system of the Nine Phalanx. They choose this war. Codex revision continues. Visible enemy is local and real.
 
 ## Beat locks
 
-- Dual receipt: witness voice then council ink (dates TBD, pre-Cadia)
-- Origin hunt buried as policy — taking the island is the origin
-- Alaric Execratio may land in this war (year TBD) — do not reuse deleted CV y19 serial
+- Which macro-system is third: TBD (they choose)
+- Navel vortex may open mid-Reclamation (MoI) — exact campaign TBD
+- *Der Batav* stays **myth** — [`der-batav-myth.md`](../../../lexicon-and-litanies/der-batav-myth.md). Do not make this slug a naming chronicle.
 
 ## Chronicle law
 

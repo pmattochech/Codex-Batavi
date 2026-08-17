@@ -1,6 +1,6 @@
 # Lexicon & litanies
 
-- [der-batav-myth.md](der-batav-myth.md) — *Der Batav* myth and naming (Campaign III; [`the-reclamation.md`](../personae-command-index/events-and-chronologies/the-reclamation.md))
+- [der-batav-myth.md](der-batav-myth.md) — *Der Batav* myth (civic lore; **not** a Reclamation campaign receipt)
 - [tenets-of-the-grey-wolves.md](tenets-of-the-grey-wolves.md) — *Reclusiam* catechism: Litany of Iron, Litany of the Batav, Ash-Oath, Closed Door, Sentence Cadence, Death Wolf Measure
 - [mentality-and-philosophy.md](mentality-and-philosophy.md) — operational philosophy of the Chapter
 - [porta-nihili-shared-vocabulary.md](porta-nihili-shared-vocabulary.md) — **mortal** Castra Vetera / Porta Nihili shared terms (faith of work, bottle creole, witness debt, etc.)
