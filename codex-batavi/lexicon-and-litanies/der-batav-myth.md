@@ -1,7 +1,7 @@
 # [WIKI] The Der Batav myth
 
-**Classification:** Lexicon and litanies — civic myth  
-**This file is myth and living lore.** It is **not** a Reclamation campaign receipt, council minutes, or a dated naming beat.  
+**Classification:** Lexicon and litanies — civic myth and Chapter name  
+**Home of the name.** *Der Batav* / **Cohors Batavorum** are given by the **people of Aethelgard** who **see** the grey giants come out of the surf. This file is **not** a Reclamation campaign slug, council minutes, or a dated Campaign III receipt.  
 **Cross-references:** [Batav Wolf](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md) · [chapter-identity.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) · [mentality-and-philosophy.md](mentality-and-philosophy.md)
 
 ---
@@ -38,7 +38,27 @@ Natives expected something like the Batav at human scale. What they received was
 
 ---
 
-## III. The weight of the myth (living lore)
+## III. The naming (Aethelgard witnesses)
+
+The Chapter does not mint its name in a council chamber first. The people of Aethelgard **see** it.
+
+On the shingle, at the bleeding edge of a tide that does not negotiate, coastal witnesses name the phenomenon before Imperial hymns do. *“Der Batav!”* is **verdict** — the sound a culture makes when myth walks out of the surf **and the enemy dies in the same frame**. **Cohors Batavorum** follows from **lungs** in the same weather: humanity names the Chapter before the Throne does.
+
+*Der Batav* is the native gloss: *the iron that stayed*.
+
+Year and which island-war this falls in remain **TBD**. Do not file it as Campaign III staff. Do not restore deleted serial slugs.
+
+---
+
+## IV. Alaric keeps the name the people gave
+
+The renaming is pragmatic, not a sermon. Alaric does not invent *Cohors Batavorum*. He **keeps** what the shore already shouted.
+
+*Cohors Batavorum* honors the people who will be recruitment and *Auxilia* under Shared Sweat, and it files a frontier-monster identity — the predator that drops from the rock onto the storm.
+
+---
+
+## V. The weight of the myth (living lore)
 
 The Der Batav myth is not recited in rites. It is operated. Batavi systematically choose terrain the enemy considers unusable. The Batav is not a courage symbol. It is a geometry principle: turn adverse condition into positioning advantage.
 

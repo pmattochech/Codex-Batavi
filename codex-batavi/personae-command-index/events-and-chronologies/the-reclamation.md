@@ -44,7 +44,7 @@ Imperial **~M42** stamps on later events (Silent Vigil prose, collar, etc.) are 
 |---|-----|------|
 | **I** | First macro-system after the husk beachhead | They **choose** this war. *Codex* still the spine; applications start to strain. |
 | **II** | Second macro-system | Gradual **Codex** revision continues. MoI still not a briefing slide. |
-| **III** | Third macro-system | They **choose** this war. *Codex* revision continues. *Der Batav* remains **myth** — not a campaign receipt. |
+| **III** | Third macro-system | They **choose** this war. *Codex* revision continues. Chapter **name** lives in the myth (Aethelgard witnesses) — not this slug. |
 | **IV** | **Witness Ford** / **Tenebrarum Ribbon** seal | Wall. Not a catalogue of extra worlds. Standing wound / Ford as **point of the V** is **later atlas** — working note only. |
 
 Nine-pole Foundation War theater table is **void**. Do not rebuild it this pass.
@@ -63,5 +63,5 @@ Landing strength, casualty bands, and “~500 at close” from the deleted seria
 
 - Isolation physics: [`insula-tenebrarum-isolation-fence.md`](../../atlas-and-topography/insula-tenebrarum-isolation-fence.md)  
 - Identity charter: [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md)  
-- *Der Batav* myth (civic lore only — not a naming beat): [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md)  
+- *Der Batav* myth and Chapter name (Aethelgard people seeing them): [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md)  
 - Master clock: [`master-chronology.md`](master-chronology.md) §I

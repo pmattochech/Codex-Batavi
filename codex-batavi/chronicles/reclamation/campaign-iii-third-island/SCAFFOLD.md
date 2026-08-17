@@ -17,7 +17,7 @@ Third macro-system of the Nine Phalanx. They choose this war. Codex revision con
 
 - Which macro-system is third: TBD (they choose)
 - Navel vortex may open mid-Reclamation (MoI) — exact campaign TBD
-- *Der Batav* stays **myth** — [`der-batav-myth.md`](../../../lexicon-and-litanies/der-batav-myth.md). Do not make this slug a naming chronicle.
+- Chapter **name** lives in the myth: Aethelgard people seeing them — [`der-batav-myth.md`](../../../lexicon-and-litanies/der-batav-myth.md). Do not make this slug a naming chronicle.
 
 ## Chronicle law
 

@@ -10,7 +10,7 @@
 *Birth-war and centuries of cage. **Forbidden name:** Foundation War. Serial deleted. Scaffolds: [`../../chronicles/reclamation/INDEX.md`](../../chronicles/reclamation/INDEX.md). Staff: [`the-reclamation.md`](the-reclamation.md).*
 
 * **Husk ingress:** Incomplete Chapter (name TBD) lured or wrecked onto **one** island. Mars **one-shot bore**; hole closes; ghost tithe. [`husk-ingress/SCAFFOLD.md`](../../chronicles/reclamation/husk-ingress/SCAFFOLD.md).
-* **Campaigns I–III:** Three macro-systems, order **chosen**. Campaign III is the last island-war, **not** a naming chronicle. [`campaign-iii-third-island/SCAFFOLD.md`](../../chronicles/reclamation/campaign-iii-third-island/SCAFFOLD.md). *Der Batav* lives as **myth**: [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md).
+* **Campaigns I–III:** Three macro-systems, order **chosen**. Campaign III is the last island-war, **not** a naming chronicle. [`campaign-iii-third-island/SCAFFOLD.md`](../../chronicles/reclamation/campaign-iii-third-island/SCAFFOLD.md). *Der Batav* / **Cohors Batavorum** named by **Aethelgard witnesses**: [`der-batav-myth.md`](../../lexicon-and-litanies/der-batav-myth.md).
 * **Campaign IV — the Seal:** Ford / Ribbon **wall**. [`campaign-iv-the-seal/SCAFFOLD.md`](../../chronicles/reclamation/campaign-iv-the-seal/SCAFFOLD.md).
 * **the Hold:** **Centuries**, still pre-Cadia. Nine Vexilla. Fence is cage. [`the-hold/SCAFFOLD.md`](../../chronicles/reclamation/the-hold/SCAFFOLD.md).
 * **Valerian strife:** During the Hold, after nine seats. Ends with **Valerius’s death** (how TBD). [`valerian-heresy.md`](valerian-heresy.md).
