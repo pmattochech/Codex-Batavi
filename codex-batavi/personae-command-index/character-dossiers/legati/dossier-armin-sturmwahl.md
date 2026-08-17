@@ -3,7 +3,7 @@
 *(The Descent Ledger / Aethelgard Storm-Master)*
 
 **Full name:** Armin Sturmwahl.  
-**Rank:** **Legatus**, QVINTA.  
+**Rank:** **Legatus**, QVINTA. **Chapter mastery (scroll):** **Master of the Hunt** (*Magister Venationis*) — pursuit of enemies who **wronged the mesh and escaped** (cross-seat; inside or outside mesh).  
 **Seat:** **Aethelgard Prime** — storm assault, tide moons, vertical infrastructure, jump certification hub.  
 **Chapter:** *Cohors Batavorum*.  
 **Bearer of:** *Alabarda* + Vexilla (QVINTA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  

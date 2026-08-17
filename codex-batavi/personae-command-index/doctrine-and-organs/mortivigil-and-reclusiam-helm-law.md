@@ -13,11 +13,12 @@
 | Rank | Helm | Lenses | Office |
 |------|------|--------|--------|
 | **Mortivigil** | ***Codex* / human death-skull** | **Orange** | Body, bone, name, crypt, first rites, Wall-fusion — **never** ***licentia lupina*** |
+| **Judiciar** | Same death-skull family; **mandible sealed** | **Extinguished** (not orange, not red, not fire-orbs) | Clock on the living — mute company officer; carries Varro’s priced sentence — **never** ***licentia lupina*** |
 | **Wolfkeeper** (gloss: Chaplain) | **Executor wolf-skull** (shared Chapter template) | **Red** | Soul in life — *Axiom*, silence geometry, crozius |
 | **Wolfkeeper + ***licentia lupina**** | Same wolf-skull | **Red** | Far-field leash: **Amissi** + **Steppenwolf** — keep them **Batavi**; deny identity drift |
-| **Varro** (Master Wolfkeeper / Judex; **Master of the Judiciars**) | Executor wolf-skull + **Judex extras** | **Fire-orbs** (no red lenses visible) | Apex *Reclusiam*; Judiciar track **TBD** |
+| **Varro** (Master Wolfkeeper / Judex; **Master of the Judiciars**) | Executor wolf-skull + **Judex extras** | **Fire-orbs** (no red lenses visible) | Apex *Reclusiam*; prices inward sentence; unseals Judiciars |
 
-**Doctrine line:** Mortivigils keep the brothers’ **bodies in death**; Wolfkeepers keep their **souls in life**.
+**Doctrine line:** Mortivigils keep the brothers’ **bodies in death**; Judiciars keep the **clock on the living**; Wolfkeepers keep their **souls in life**.
 
 **Ego-erase read:** After **CV y13** (*Exanimus Choir*), the wolf-skull is **Chapter Wolfkeeper livery** (Imperial gloss: Chaplain), not a personal Judex trophy. Shared mask = shared death of ego under the crozius.
 
@@ -25,7 +26,7 @@
 
 ## II. Mortivigil
 
-**Definition:** *Reclusiam* novice on the Wolfkeeper path — High Gothic office name **Mortivigil** (death-vigil). Not a Primaris **Judiciar**; not a magistrate. Judiciar office under Varro is a **separate** track (placeholder — evolve later).
+**Definition:** *Reclusiam* novice on the Wolfkeeper path — High Gothic office name **Mortivigil** (death-vigil). **Not** a Judiciar and **not** a magistrate. Crypt / Wall-fusion office — **not** a company combat officer. Judiciar is the **separate field office** after Mortivigil (§IIa).
 
 **Duties:**
 
@@ -40,16 +41,46 @@
 * **Nine capital crypts:** one per Legatus seat world (see §VII).
 * **Ships:** temporary ossuary custody until transfer.
 
-**Promotion:** Mandatory service years as Mortivigil before wolf-skull / full **Wolfkeeper**. **Varro** may skip the years for a brother already “Wolfkeeper-shaped” in mind — **almost impossible**, **very rare**.
+**Promotion:** Mandatory service years as Mortivigil before wolf-skull / full **Wolfkeeper**. **Judiciar** years are the **normal field gate** after Mortivigil (§IIa). **Varro** may skip Mortivigil years, or skip Judiciar years, for a brother already “Wolfkeeper-shaped” in mind — **almost impossible**, **very rare**, either skip.
 
-**Prohibitions:** **Never** hold ***licentia lupina***. No Executor wolf-skull. No far-field *Amissi* / Steppenwolf leash authority.
+**Prohibitions:** **Never** hold ***licentia lupina***. No Executor wolf-skull. No far-field *Amissi* / Steppenwolf leash authority. No company Judiciar hat while still Mortivigil.
+
+---
+
+## IIa. Judiciar
+
+**Definition:** *Reclusiam* field office under Varro as **Master of the Judiciars**. Mute **sentence-carrier** attached to a **company** (one per 100). *Codex* / Primaris Judiciar is the outsider gloss; Batavi office is **not** a second Mortivigil and **not** a junior Wolfkeeper waiting room.
+
+**Pipeline:** Mortivigil (mandatory for any wolf-skull) → Varro selects a subset → **Judiciar** → **stay mute** (terminal specialist) **or** Varro **unseals** → **Wolfkeeper**. Incumbent **unnamed** (doctrine only).
+
+**Job:** He does not preach. He walks with the 100. The glass runs only on a brother **Varro has already priced** (written seal). When the glass empties, the blade is **inward** — a brother, not a warlord. Captain owns the company’s war; he **cannot stay the blade** once the glass is empty.
+
+**Wargear:** Sealed death-skull; **hourglass** (Imperial gloss *tempormortis*; barracks **the glass**); **executioner blade**. No crozius until unseal. No wolf-skull until unseal.
+
+**Helm:** *Codex* human death-skull family (same bone geometry as Mortivigil). **Mandible sealed** — mute is **hardware**, not a vow the mouth can break. Lenses **extinguished**. Unseal = mandible restored, **Executor wolf-skull** issued, speech returned; the company slot is filled by a new Judiciar.
+
+**Density:** **Five** per Vexilla (PRIMA–DECIMA) — one per **company**, same attachment grain as Haruspices. Chapter standing pool **~50**. Sit in the **organic support** slice ([military-hierarchy.md](military-hierarchy.md) §4.3). Mortivigils remain crypt / ship — **not** this row.
+
+**Prohibitions:** **Never** ***licentia lupina***. Does not price Imperial Lex (Kessler). Does not take enemy high-value kills (Graile). Does not issue penance marks (Confessor Vexilli). Does not preach or reeducate with crozius (Wolfkeeper). **Varro prices; Judiciar closes.**
+
+**Fences:**
+
+| Office | Owns |
+|--------|------|
+| **Kessler** · Master of the Law | Imperial Lex; mortal / hive targets; Silence pricing |
+| **Graile** · Lord Executioner | Enemy high-value kills |
+| **Confessor Vexilli** | Penance and marks — not death |
+| **Wolfkeeper** | Soul in life; crozius reeducation |
+| **Varro** | Prices the soul-sentence; unseals |
+| **Judiciar** | Closes the priced inward sentence |
 
 ---
 
 ## III. Wolfkeeper helm law (post–CV y13)
 
 * **All full Wolfkeepers** wear the **Executor wolf-skull** template with **red** lenses — shared cast, shared ego-death.
-* **Mortivigils** remain on **human death-skull** + **orange** lenses until raised.
+* **Mortivigils** remain on **human death-skull** + **orange** lenses until raised (or selected as Judiciar).
+* **Judiciars** remain on **sealed** death-skull + **extinguished** lenses until Varro unseals them.
 * **Pre–CV y13:** Wolfkeepers (including Varro; then filed as Chaplains on Imperial paper) wore ***Codex* death-skull**; transition dated to *Exanimus Choir*.
 
 ---
@@ -63,6 +94,7 @@
 * **One license** covers **both** pools.
 * Internal ranking and capability evaluation chain the **better** licensed Wolfkeepers toward ***Amissi*** (small pool).
 * *Amissi* mission slate still requires Wolfkeeper presence — Varro or a ***licentia lupina*** bearer ([amissi-the-lost.md](amissi-the-lost.md) §III). Legacy stamp ***licentia amissorum*** is **absorbed** into this seal.
+* **Mortivigils** and **Judiciars** **never** hold the license.
 
 ---
 
@@ -76,7 +108,7 @@ Varro’s wolf-skull is the **same family** as line Wolfkeepers, plus **Judex-on
 * **Sound:** low **furnace** undertone.
 * **Pack:** **thurible** at iron-halo **position** (pack apex); **candles** flanking the thurible on the backpack sides — **not** a candle-halo ring; **no** formal iron halo.
 
-**Offices locked:** Master Wolfkeeper / Judex (Imperial gloss: Master Chaplain) **and** **Master of the Judiciars** (Judiciar doctrine **TBD**).
+**Offices locked:** Master Wolfkeeper / Judex (Imperial gloss: Master Chaplain) **and** **Master of the Judiciars** (pipeline §IIa).
 
 **Office voice (example):** — The moment I entered this world’s noosphere, the audit and judgment were already in course. Pray it does not end in execution.
 

@@ -4,7 +4,7 @@
 
 ## 1\. COHORTS AND VEXILLATIONES (GRID MODEL)
 
-The **four specialty cohorts** are not units “apart” from the Chapter: in **each** Vexilla there is an **organic contingent of fifty** warriors **per** cohort (4 × 50 = **200**). The remainder of the **500** ceiling is **pure line** (**284** in PRIMA–NONA; **279** in X), **organic support** (**16**: 4 Apothecaries, 4 Techmarines, 3 adjutant Chaplains, 5 **Batavian Haruspices**), and, **only in the Tenth**, **five** supreme posts — see [vexilla-and-visual-summary.md](vexilla-and-visual-summary.md) §1.1.
+The **four specialty cohorts** are not units “apart” from the Chapter: in **each** Vexilla there is an **organic contingent of fifty** warriors **per** cohort (4 × 50 = **200**). The remainder of the **500** ceiling is **pure line** (**279** in PRIMA–NONA; **274** in X), **organic support** (**21**: 4 Apothecaries, 4 Techmarines, 3 Wolfkeepers, 5 **Judiciars**, 5 **Batavian Haruspices**), and, **only in the Tenth**, **five** supreme posts — see [vexilla-and-visual-summary.md](vexilla-and-visual-summary.md) §1.1.
 
 **Instruction:** veterans of the **DECIMA** (*anchor guard*) rotate as **certified instructors** through the other nine Vexilla, so each fifty-Marine detachment reproduces the same tactical *standard* (Silence, Shadows, Stasis, Nullity) without doctrinal fragmentation.
 
@@ -74,4 +74,23 @@ Pattern analysis **does not replace** *Lex Imperialis* or custody for interrogat
 
 The **five Batavian Haruspices** per Vexilla are **not** a specialty-cohort stripe on the right pauldron; they wear *Librarius* order marks under the same grey–crimson base as other organic support. Their job is **Haruspicium Batavorum** — passive Warp telemetry and pattern translation — with **mandatory liaison** to **Nullity** for blank-adjacent tactics and sealed *vox* chains.
 
-**Nullity** carries the cobalt field; the haruspices **feed** it coordinates and hazard class, not the reverse. Full doctrine, **Blindgate**, triangulation with *Medicinae* / *Reclusiam*, and Wolf’s Curse interaction: [council-and-librarium.md](../personae-command-index/doctrine-and-organs/council-and-librarium.md). **Chief Librarian:** [dossier-otho.md](../personae-command-index/character-dossiers/council-orders/dossier-otho.md).
+**Nullity** carries the cobalt field; the haruspices **feed** it coordinates and hazard class, not the reverse. Full doctrine, **Blindgate**, triangulation with *Medicinae* / *Reclusiam*, and Wolf’s Curse interaction: [council-and-librarium.md](../personae-command-index/doctrine-and-organs/council-and-librarium.md). **Chief Librarian:** [dossier-otho.md](../personae-command-index/character-dossiers/council-orders/dossier-otho.md). **Training:** Otho supervises what Nullity may **hear**; **Ivar** (OCTAVA) owns field employment of the stripe (§5).
+
+---
+
+## 5\. COHORT-CHIEF LATTICE (FOUR LEGATI HATS)
+
+Mesh-wide **fighting standard** for each stripe. **Not** a tenth Vexilla. **Not** a second mastery scroll. Detail and priority: [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.5.
+
+| Cohort | Chief Legatus | Owns | Does not own |
+| ------ | ------------- | ---- | ------------ |
+| **Silence** | **Henric Kessler** (SECVNDA) | How ivory 50s **fight** (pattern, anomaly, urban sensor) Chapter-wide | *Lex* kill packets as **Master of the Law** (separate scroll); home company command |
+| **Shadows** | **Cassian Vetra** (NONA) | How black 50s **close** (vertical, deniable, rim) | Target **pricing** — still Silence (§3.1) |
+| **Stasis** | **Orin Valestrand** (QVARTA) | How gunmetal 50s **hold** (block, rotation, veil-static) | Home Legatus hold geometry when the order is not Stasis work |
+| **Nullity** | **Ivar Malevent** (OCTAVA) | How cobalt 50s **fight** the veil (interdiction, witch-mark, hull/trench occlusion) | **Otho**’s training / Grid / Blindgate |
+
+**Priority:** Home Legatus owns the **brother** and the **company**. Cohort chief owns the **stripe method** only when the task is that specialty.
+
+**No hat:** Corbec, Brach, Sturmwahl, Bifronte, Phaetron.
+
+**Street layer:** *Decanus Primus* **Branimir Vorhalt** (Silence, QVARTA) remains the urban/pattern exemplar — reports up Kessler’s lattice, not a fourth Legatus.

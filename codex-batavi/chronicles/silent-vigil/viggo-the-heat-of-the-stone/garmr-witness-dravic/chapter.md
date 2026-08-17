@@ -16,7 +16,7 @@ Varro did not sit.
 
 Dravic swallowed once. His mouth was dry enough that the motion hurt.
 
-— Captain Graile held the redoubt. Overlap lanes. Stable shelf. Lord Alaric ordered hold and took the ravine alone.
+— Graile held the redoubt. Overlap lanes. Stable shelf. Lord Alaric ordered hold and took the ravine alone.
 
 — Your order.
 

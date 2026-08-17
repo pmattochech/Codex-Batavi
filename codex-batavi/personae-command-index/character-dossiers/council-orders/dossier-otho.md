@@ -20,6 +20,7 @@
 * **Blindgate:** Where Haruspicium is **passive radar**, Blindgate is **active perimeter** on the mind: occlusion loops, command-code mantras, refusal to grant intruders **narrative purchase**. Otho trains haruspices to sever illusion and compulsion threads without mistaking the protocol for invulnerability.  
 * **Triumvirate adjacency:** He does not sit the Triumvirate — **Alaric**, **Drusus**, **Varro** do — but the Chapter’s psychic hygiene is a **three-legged stool** in practice: Otho (structured Immaterium read), **Drusus** (body and endocrine truth when the Grid slips), **Varro** (soul-language, rite law, *Reclusiam* veto). When all three align on compromise, the *Strategium* may order Warp **shutdown** regardless of intelligence cost.  
 * **Upstream Warp seat / downstream issuance:** At Chief Librarian resolution, Otho handles Immaterium phenomena that present as **truth-shaped coercion** — coherent **fragments**, not tidy genealogies. Batavian Haruspices inherit **Grid** discipline and **Blindgate** occlusion as **issued tooling**, not mandatory narrative theology. Full issuance model: [council-and-librarium.md](../../doctrine-and-organs/council-and-librarium.md) §5–§6.
+* **Cultural archive:** Otho’s *Librarium* **files** witness inheritance and seat culture-bleed; mesh habit is **lived** by veteran commanders without a culture mastery billet ([`proximity-substrata-and-witness-inheritance.md`](../../doctrine-and-organs/proximity-substrata-and-witness-inheritance.md) §VIII · [`council-and-librarium.md`](../../doctrine-and-organs/council-and-librarium.md) §2.4).
 
 ## 2\. \[WIKI\] VOICE AND PRESENTATION
 
@@ -44,7 +45,8 @@
 * **Varro:** Tension and respect. Varro names spiritual hazard; Otho names **immaterium topology**. Disputes are rare; when they occur, they are about **whether a rite or a grid closure** is the correct containment — not about whether containment is needed.  
 * **Kadmos:** Cordial **Extended Council** parity — Otho certifies *Haruspicium* readiness; Kadmos certifies *Machine Spirit* integrity. Joint audits on embarked **Geller**-adjacent systems are standing procedure.  
 * **Silent Vigil contingency interface (limited access):** Otho receives command-lock and psychic-threshold slices for anti-inversion protocol execution, without full matrix internals. His role is to classify coercive warp/noise states fast enough that DECIMA and forge-side executors can act without interpretive delay.  
-* **Batavian Haruspices:** Otho is the **only** full architect of the doctrine; haruspices are **readers**, not improvisers. Promotion to *Librarium* seniority is tied to ability to teach the grid **without** poetic drift.
+* **Batavian Haruspices:** Otho is the **only** full architect of the doctrine; haruspices are **readers**, not improvisers. Promotion to *Librarium* seniority is tied to ability to teach the grid **without** poetic drift.  
+* **Nullity Cohort:** Otho **supervises training** (Haruspicium, Blindgate, haruspex ↔ cobalt liaison — what they may **hear**). **Ivar Malevent** owns field **employment** of the stripe ([`military-hierarchy.md`](../../doctrine-and-organs/military-hierarchy.md) §3.5).
 
 ## 5\. \[WIKI\] RECORDED FEATS
 
@@ -52,6 +54,7 @@
 
 * **168.M42 | Luna Sigma — Broken Haruspicium:** Otho received **Henricus**’s *Apex* ping when **Haruspicium Batavorum** failed **as language**, not hardware. His warning to Alaric’s *Strategium* used **zero** daemonological theater — only scale, absence of signal, and vertical-axis inference. During the seventy-two hours before Angron’s manifestation, he monitored **forty-three** Batavian Haruspices at maximum alert; ordered **full Warp shutdown** when passive exposure drove **Furor** and **Exanimus** precursors without tactical gain. The *Librarium* archive term **Broken Haruspicium** names this failure mode: the grid consumed by the phenomenon it tried to classify. See [`battle-of-sigma-moon.md`](../../../chronicles/sigma-moon/battle-of-sigma-moon/chapter.md).  
 * **Ongoing | Rite audit program:** Codification of *Civilis* soot vow, *Iron Trinity* tap, and other “superstitions” as **neurokinetic reset scripts** — filed in the same archive family as Haruspicium tables ([`council-and-librarium.md`](../../doctrine-and-organs/council-and-librarium.md)).
+* **Ongoing | Cultural archive:** Witness-inheritance lattice, per-seat culture-bleed cross-refs, and habit-drift marginalia — **indexed** by *Librarium*, **lived** by veteran commanders without a culture mastery billet ([`proximity-substrata-and-witness-inheritance.md`](../../doctrine-and-organs/proximity-substrata-and-witness-inheritance.md) §VIII · [`council-and-librarium.md`](../../doctrine-and-organs/council-and-librarium.md) §2.4).
 
 ## 6\. \[WIKI\] QUOTES AND FORMULAE
 
@@ -65,7 +68,7 @@
 
 ## 7\. \[WIKI\] CROSS-REFERENCES
 
-*Doctrine:* [`council-and-librarium.md`](../../doctrine-and-organs/council-and-librarium.md) (§5–§6 upstream/downstream issuance) · [`military-hierarchy.md`](../../doctrine-and-organs/military-hierarchy.md) §4.3–§4.5 · [`specialty-cohorts.md`](../../../arsenal-and-logistics/specialty-cohorts.md) §4 · [`GLOSSARY-EN.md`](../../../GLOSSARY-EN.md) (Haruspicium Batavorum, Batavian Haruspex, Blindgate, Broken Haruspicium) · [`decima-gatekeepers/chapter.md`](../../../chronicles/silent-vigil/decima-gatekeepers/chapter.md) · [`war-game-black-mirror/chapter.md`](../../../chronicles/silent-vigil/war-game-black-mirror/chapter.md).
+*Doctrine:* [`council-and-librarium.md`](../../doctrine-and-organs/council-and-librarium.md) (§2.4 cultural archive; §5–§6 upstream/downstream issuance) · [`proximity-substrata-and-witness-inheritance.md`](../../doctrine-and-organs/proximity-substrata-and-witness-inheritance.md) §VIII · [`military-hierarchy.md`](../../doctrine-and-organs/military-hierarchy.md) §4.3–§4.5 · [`specialty-cohorts.md`](../../../arsenal-and-logistics/specialty-cohorts.md) §4 · [`GLOSSARY-EN.md`](../../../GLOSSARY-EN.md) (Haruspicium Batavorum, Batavian Haruspex, Blindgate, Broken Haruspicium, cultural archive) · [`decima-gatekeepers/chapter.md`](../../../chronicles/silent-vigil/decima-gatekeepers/chapter.md) · [`war-game-black-mirror/chapter.md`](../../../chronicles/silent-vigil/war-game-black-mirror/chapter.md).
 
 ---
 

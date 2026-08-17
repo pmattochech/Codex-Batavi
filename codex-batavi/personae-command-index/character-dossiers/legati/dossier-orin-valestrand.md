@@ -3,7 +3,7 @@
 *(The Shingle Warden / Grav Lock)*
 
 **Full name:** Orin Valestrand.  
-**Rank:** **Legatus**, QVARTA.  
+**Rank:** **Legatus**, QVARTA. **Chapter mastery (scroll):** **Master of the Anchor** (*Magister Ancorae*). **Cohort-chief lattice:** **Stasis**.  
 **Seat:** **Incus-Gravis sphere** (Tertius / Secundus jurisdiction) — high-gravity shingle seas, inverted hives, grav-locked trench war.  
 **Chapter:** *Cohors Batavorum*.  
 **Bearer of:** *Alabarda* + Vexilla (QVARTA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **March defense** — static grav-locked line under Tyranid **Shadow in the Warp** ([ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md)).  

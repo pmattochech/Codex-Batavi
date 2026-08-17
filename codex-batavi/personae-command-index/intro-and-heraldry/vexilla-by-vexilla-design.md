@@ -92,7 +92,7 @@ PRIMA uses the **same four-field grid** but **field 4 is not triumph** — it is
 | **Tertiary** | **Ordinal** | **DECIMA** — LATIN-CAPS; can be **stamped** on haft or **small canton** so the central image stays the wolf and blade. |
 | **Quaternary** | **Anchor** | **Triumvirate / anchor guard** — minimal **three-dot** or **triangle** (Wall–Scalpel–Judge) **or** plain **grey band** (*instrumentum*). |
 
-**Bearer:** Typically **senior DECIMA Ancient-equivalent** or **Castellan honour guard** — *not* interchangeable with Legatus *Alabarda* logistics; relay rules may **differ** (Triumvirate net).
+**Bearer:** **LVPVS IMPERATORIS** (**Emperor’s Wolf**) — primary field bearer; incumbent **Markus Graile**. Early commission logs name a redacted **First Ancient** before the office was stamped **LVPVS IMPERATORIS**. *Not* interchangeable with Legatus *Alabarda* logistics; relay rules may **differ** (Triumvirate net).
 
 ***Armourium* / *Reclusiam* register annex (justice charge precedent):** [register-decima-malakor-justice.md](../../chronicles/vexillum-register/register-decima-malakor-justice.md). **Narrative (051.M42 commission):** [decima-justice-vexillum.md](../../chronicles/silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md). **Sentence:** [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md).
 
@@ -113,7 +113,7 @@ PRIMA uses the **same four-field grid** but **field 4 is not triumph** — it is
 * [vexilla-and-visual-summary.md](../../arsenal-and-logistics/vexilla-and-visual-summary.md) — quick ref  
 * [visual-identity-paint-guide.md](../../visual-identity-paint-guide.md) — palette / panel notes  
 * [infantry-visual-identity.md](../../arsenal-and-logistics/infantry-visual-identity.md) — plate + vexillum cross-read  
-* [GLOSSARY-EN.md](../../GLOSSARY-EN.md) — *Alabarda* + Vexilla, *justice vexillum*  
+* [GLOSSARY-EN.md](../../GLOSSARY-EN.md) — *Alabarda* + Vexilla, *justice vexillum*, **LVPVS IMPERATORIS**, ***Par Ferrum Lupi***  
 * [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) — Legatus / *Alabarda* career lattice  
 * [dossier-valerius.md](../character-dossiers/expunged/dossier-valerius.md) — expunged First Legatus  
 * [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md) — execution context

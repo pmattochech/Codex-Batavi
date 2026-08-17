@@ -3,7 +3,7 @@
 *(The Vacuum Shouter’s Warden / Bait-Moon Governor)*
 
 **Full name:** Cassian Vetra.  
-**Rank:** **Legatus**, NONA.  
+**Rank:** **Legatus**, NONA. **Chapter mastery (scroll):** **Master of the Watch** (*Magister Vigiliae*) — approaches, relay mesh, early contact before wall mobilization. **Cohort-chief lattice:** **Shadows**.  
 **Seat:** **Marco de Vetra** — Threshold **bait-moon**; relay survival, sector cry, layered delay and denial around the **Vacuum Shouter** and critical antenna spines.  
 **Chapter:** *Cohors Batavorum*.  
 **Bearer of:** *Alabarda* + Vexilla (NONA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Silent Hours** (140.M42) — Shouter relay held through Maleventum-class EM storm.  

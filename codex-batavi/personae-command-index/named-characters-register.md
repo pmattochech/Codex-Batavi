@@ -20,9 +20,9 @@
 | **VII** | SEPTIMA | [Lucan Phaetron](character-dossiers/legati/dossier-lucan-phaetron.md) | — |
 | **VIII** | OCTAVA | [Ivar Malevent](character-dossiers/legati/dossier-ivar-malevent.md) | Valens Ritter (detached spend) |
 | **IX** | NONA | [Cassian Vetra](character-dossiers/legati/dossier-cassian-vetra.md) | — |
-| **X** | DECIMA | ** — ** (no Legatus; Triumvirate direct) | Alaric, Drusus, Varro, Kadmos, Otho; Markus Graile (Captain); Cael Dravic (Sergeant) |
+| **X** | DECIMA | ** — ** (no Legatus; Castellan + **LVPVS IMPERATORIS**) | Alaric, Drusus, Varro, Kadmos, Otho; **Markus Graile** (**Emperor’s Wolf**); Cael Dravic (Brother-Sergeant) |
 
-**Chapter organ delegates (not Legati):** **Genetor Primus** (*Medicinae*) and **Confessor Primus** (*Reclusiam*) — offices in [`disciplines-and-curia-vexilli-plan.md`](../planning/disciplines-and-curia-vexilli-plan.md); **named holders TBD**.
+**Chapter organ delegates (not Legati):** **Genetor Primus** (*Medicinae*) and **Confessor Primus** (*Reclusiam*) — offices in [`disciplines-and-curia-vexilli-plan.md`](../planning/disciplines-and-curia-vexilli-plan.md); **named holders TBD**. **Custos Ascensum** — college of nine **Procurators**; **Speaker** this rotation **unnamed** — [`custos-ascensum-doctrine.md`](doctrine-and-organs/custos-ascensum-doctrine.md).
 
 ---
 
@@ -32,8 +32,8 @@
 |----------------|----------------------|
 | **Alaric von Helis** — Lord Castellan / Chapter Master; *Castra-Lupus* | Living wall; *We hold*; Type III Duty Furor; intermediate Execratio lock (~2.85 m); Alpha frequency; Viggo anchor; Frontier Wolf plaque chain; Crimson Wolf risk; protector (not self-narrated father) to Elara |
 | **Drusus** — Chief Apothecary (Triumvirate) | Clinical triage; never removes helm; catalogs chimeric fuel and Wolf’s Curse; proved Viggo as Alaric’s biological anchor; Type III Duty |
-| **Varro** — Master Chaplain / Judex; **Master of the Judiciars** (Triumvirate) | Silent sentence; Executor wolf-skull + incense jaws / fire-orb eyes / thurible pack; *Axiom* auditor; *anima speculum*; Mortivigil/Chaplain helm law; Type III Duty; Crimson Wolf containment |
-| **Kadmos** — Master of the Forge | Noviomagus-born Techmarine; siege and biomechanical engineering; bronze arm; *Machine Spirit* and forge spine |
+| **Varro** — Master Chaplain / Judex; **Master of the Judiciars** (Triumvirate) | Silent sentence; Executor wolf-skull + incense jaws / fire-orb eyes / thurible pack; *Axiom* auditor; *anima speculum*; Mortivigil / Judiciar / Wolfkeeper helm law; Type III Duty; Crimson Wolf containment |
+| **Kadmos** — Master of the Forge; **Master of the Arsenal** & **Master of the Relics** (III & IX) | Noviomagus-born Techmarine; siege and biomechanical engineering; bronze arm; *Machine Spirit* and forge spine |
 | **Otho** — Chief Librarian | *Blood Augur*; Haruspicium Batavorum / Blindgate; treats Warp as telemetry |
 | **Tyvar** — Senior Strategium Overseer | Cold procedural brake; duty-pressure and chain-integrity audits |
 | **Corbec Ardens** — Legatus, PRIMA | Noviomagus forge governor; ammo economy; Malakor witness; Valerian shame on *Alabarda* fourth field |
@@ -48,8 +48,8 @@
 | **Cassian Vetra** — Legatus, NONA | Marco de Vetra relay; Vacuum Shouter denial geometry |
 | **Branimir Vorhalt** — *Decanus Primus*, Silence (QVARTA) | Urban counter-intel; 048.M42 March line veteran; cult/pattern doctrine; works under Valestrand |
 | **Soren Riis** — Apothecary; Liaison-Praefect (Deathwatch) | *Pactum Clavis Sanguinis*; tiered Watch disclosure |
-| **Markus Graile** — Captain, DECIMA | Castellan line face; instructor-out; pedagogical blade |
-| **Cael Dravic** — Brother-Sergeant, DECIMA | Overwatch; Garmr’s Shelf Crimson Wolf witness |
+| **Markus Graile** — **LVPVS IMPERATORIS** (Emperor’s Wolf); **Lord Executioner** (VIII) | Chapter Champion; **DECIMA** battle sovereign under Castellan; ***Par Ferrum Lupi*** (**Decreto** · **Termini**); ***justice vexillum*** bearer; instructor-out |
+| **Cael Dravic** — Brother-Sergeant, DECIMA | Overwatch under **Emperor’s Wolf** detachments; Garmr’s Shelf Crimson Wolf witness |
 | **Valens Ritter** — Battle-brother (PRIMA ledger, OCTAVA spend) | Silence + Shadows dual path; Exanimus; counter-infiltration |
 | **Radulf Castrin / LVI-1** — Leviathan Dreadnought, *The Old Wolf* | Mentor/siege Ancient; merit rites; Furor at interment |
 | **Valerius** *(expunged)* — First Legatus, PRIMA | Traitor *Lupercal* claim; Malakor V; lucid Versibar |

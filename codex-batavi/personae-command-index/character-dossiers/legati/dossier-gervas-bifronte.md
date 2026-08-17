@@ -3,7 +3,7 @@
 *(The Twin-Gate Warden / Greater Mason / Father of Walls)*
 
 **Full name:** Gervas Bifronte.  
-**Rank:** **Legatus**, SEXTA.  
+**Rank:** **Legatus**, SEXTA. **Chapter mastery (scroll):** **Master of the Siege** (*Magister Obsidionis*).  
 **Chapter offices:** **Siege Master** of the *Cohors Batavorum*; ***Maior Caementarius*** (**Greater Mason**); ***Pater Murorum*** (**Father of Walls** — Guard and mortal mesh coinage).  
 **Seat:** **Bifrons-Ferrum** — dual-world gulf fortifications, stasis-adjacent vault war, siege core of the Crucible macro-system.  
 **Chapter:** *Cohors Batavorum*.  

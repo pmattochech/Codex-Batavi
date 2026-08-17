@@ -3,7 +3,7 @@
 *(The Seal Flame / Khan-Bator Chem-Lord)*
 
 **Full name:** Theron Brach.  
-**Rank:** **Legatus**, TERTIA.  
+**Rank:** **Legatus**, TERTIA. **Chapter mastery (scroll):** **Master of the Breach** (*Magister Rupturae*).  
 **Seat:** **Khan-Bator Prime** — agri-industrial hazard theater: silos, chemical moons, oxygen-rich fires.  
 **Chapter:** *Cohors Batavorum*.  
 **Bearer of:** *Alabarda* + Vexilla (TERTIA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  

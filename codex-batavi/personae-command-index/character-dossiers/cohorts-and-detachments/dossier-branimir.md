@@ -67,6 +67,7 @@
 
 ## 6\. Relations
 
+* **Henric Kessler (Legatus SECVNDA, Silence cohort-chief):** Mesh **fighting standard** for ivory — Branimir remains *Decanus Primus* (street/pattern), not chief.  
 * **Orin Valestrand (Legatus, QVARTA):** Holds shingle **geometry** and March harness; Branimir holds **pattern** and cult lanes — parallel review on the banner court. Friction when Silence needs live assets the Legatus cannot shelter on the front.  
 * **Drusus:** Clinical respect; Branimir is live case study of 4th Cohort → Silence transition (biology vs. vigilance).  
 * **Arbites magistrates:** Frequent operational partner; avoids usurping sentence — prestige comes from **delivering** the living.  
@@ -78,4 +79,4 @@
 
 Character ready for **urban thriller** stories on Noviomagus: infiltrators, cults, sabotage. Useful as POV explaining why March of the Machine does **not** trigger against covert Genestealers — and why the Wall is not blind.
 
-**Cross-reference:** [ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md) (QVARTA / Branimir POV, 048.M42). [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md) §3; [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md) §III.
+**Cross-reference:** [ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md) (QVARTA / Branimir POV, 048.M42). [specialty-cohorts.md](../../../arsenal-and-logistics/specialty-cohorts.md) §3 · §5; [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3.5; [lex-imperialis-iron-justice.md](../../../political-relations/lex-imperialis-iron-justice.md) §III.

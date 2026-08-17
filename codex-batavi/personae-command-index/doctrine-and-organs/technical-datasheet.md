@@ -27,6 +27,8 @@ The Chapter operates under a rigid biological split between “tool” (tactical
 
 *Central philosophy: Non Herois, Sed Instrumentum (Not heroes, but tools).*
 
+**Mesh executive:** Trial calendars, seat routing, and the ascent **circuit** across the Nine Phalanx are filed under **Custos Ascensum** (college of nine Procurators) — biology remains *Medicinae*; induction liturgy remains **Wolfkeeper liaison** ([custos-ascensum-doctrine.md](custos-ascensum-doctrine.md)).
+
 Neophyte training in the *Cohors Batavorum* diverges sharply from standard *Codex Astartes*. While Ultramar lines seek the perfect soldier and Fenris tribes seek the glorious warrior, Lord Castellan Alaric von Helis seeks only the **friction tool**. The Chapter’s goal is not to raise flesh to divine status but to break human ego and rebuild it as logic-and-iron gearing able to endure pressures that would crush any other Astartes’ sanity. The process runs through five stages of continuous lethality.
 
 Raw material for the war machine is drawn from two opposed worlds: industrial order’s brutality (Noviomagus) and biological chaos’s brutality (Aethelgard).

@@ -118,7 +118,7 @@ When a brother is nominated for line duty or **deep** discipline, **Genetor Vexi
 
 **Liaison-Praefect** (Deathwatch correspondence, e.g. **Soren Riis**) serves under **Genetor Primus** for *Pactum Clavis Sanguinis* — not the organ head.
 
-Adjutant Chaplains and sub-cohort Apothecaries remain in the **500** table; **Genetor Vexilli** / **Confessor Vexilli** are the **senior** vex voices on the *Alabarda* relay (often drawn from those pools).
+Adjutant Chaplains / **Judiciars** and **company** Apothecaries remain in the **500** table; **Genetor Vexilli** / **Confessor Vexilli** are the **senior** vex voices on the *Alabarda* relay (often drawn from those pools).
 
 ---
 
@@ -157,7 +157,6 @@ Adjutant Chaplains and sub-cohort Apothecaries remain in the **500** table; **Ge
 - Wall-fusion craft detail (how names enter foundations across hive / fort / station types).
 
 ### Doctrine still open
-- **Judiciar track** under Varro as **Master of the Judiciars** — evolve later (separate from Mortivigil).
 - Optional: name Noviomagus incense resin blend for Varro’s thurible / jaw exhaustors.
 
 ### Creative expansion

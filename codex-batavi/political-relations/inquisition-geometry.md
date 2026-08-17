@@ -4,6 +4,8 @@ Where other Astartes Chapters answer the Inquisition with wounded pride or blind
 
 The lethal nature of chimeric predisposition and **Versibar** mutation always kept the Chapter in puritan crosshairs. During the Silent Vigil (050.M42 – 150.M42), Inquisitor Vane repeatedly tried to audit and annihilate the Batavi for genetic heresy. He failed because Alaric von Helis armored the Chapter with pure mathematics. Through the **super-tithe** (*Exactus Extremis*), Noviomagus voluntarily delivers 15% more war materiel than required. The Imperial Administratum calculated that snuffing Noviomagus would collapse sector logistics, forcing the Inquisition to stand down. The Chapter buys its immunity with industrial efficiency. **180.M42 (OUTDATED Elara arc):** Vane’s final subsector escalation attempt closes without Ordo leverage — narrative: [outer-gate-consolidation/chapter.md](../chronicles/outdated/elara-iron-venus/outer-gate-consolidation/chapter.md).
 
+**Primary strategic objective (Ordos lane):** **Do not get excommunicated.** The Triumvirate does not wait passively for audit — it **requests** joint operations (legal purges, anomaly cages, proof delivery for Inquisitorial hammer) and exploits **Ordo infighting** (Hereticus / Xenos / Chronos agendas) so no faction assembles unanimous **Excommunicate Traitoris** pressure against the Chapter file.
+
 To disarm Inquisitorial paranoia about isolationism, Alaric drafted three protocols that impose consented limits on the Chapter itself:
 
 * ***Limes Lupus* Treaty (The Iron Collar):** Alaric agreed to surrender privacy in exchange for absolute jurisdiction on the frontier, allowing perpetual watch by an Adeptus Custodes (Shield-Captain Tyvar). This guarantee of “personal *Exterminatus*” reassures the Ordos.  
