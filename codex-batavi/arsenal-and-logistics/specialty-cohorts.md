@@ -8,6 +8,8 @@ The **four specialty cohorts** are not units “apart” from the Chapter: in **
 
 **Instruction:** veterans of the **DECIMA** (*anchor guard*) rotate as **certified instructors** through the other nine Vexilla, so each fifty-Marine detachment reproduces the same tactical *standard* (Silence, Shadows, Stasis, Nullity) without doctrinal fragmentation.
 
+**Origin clock (wiki lock, not a chronicle):** The four stripes are **Hold** adaptations **after Valerian**. They do **not** exist as pauldron-law during the Reclamation or the brother-war. **DECIMA** is already founded when the scars are cut; Tenth instructors certify the 50s **once the stripes exist**. Invasion class, cost, and the knot who stayed — flavour in §§3–3.3. **No** named founding heroes this pass. Sequence of the four invasions **TBD**.
+
 **Path to the Tenth:** time in line + sequential service in all four specialty detachments + extreme merit + **Batav Wolf trial** (see [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3). Species / trial law: [batav-wolf-canis-batavorum.md](../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md). **Legacy symbolism (do not cite):** [gray-silence-of-fenris.md](../chronicles/outdated/martha-kitchen-guest-astartes/gray-silence-of-fenris/chapter.md), [diplomacy-aethelgard.md](../chronicles/outdated/space-wolves-alaric-relations/diplomacy-aethelgard/chapter.md).
 
 *Numeric map and summary heraldry:* [vexilla-and-visual-summary.md](vexilla-and-visual-summary.md).
@@ -21,22 +23,28 @@ The **four specialty cohorts** are not units “apart” from the Chapter: in **
 * **Silence Cohort (counter-intelligence):**  
   * *Color:* **ivory white**.  
   * *Iconography:* Wolf with an eye in its mouth.  
+  * *Origin scar:* **Alpha Legion** + implanted **Genestealer** cult in a hive city — §3.  
   * *Surface doctrine (pattern and anomaly):* see §3.  
 * **Shadows Cohort (infiltration):**  
   * *Color:* **matte black**.  
   * *Iconography:* Wolf skull with two crossed gladii.  
+  * *Origin scar:* **Night Lords** massacre on a **NONA** station — §3.1.  
   * *Command:* The fifty **Shadows** in each Vexilla **operate under Silence** — ivory owns mesh read, pattern debt, and lattice pricing; black pauldrons execute ducts, kill-boxes, and vertical closure **on Silence-signed targets** (or on Legatus emergency ticks). *Strategium* still books four cohorts; this is **tactical subordination**, not a merged stripe. Kit: [cohort-standard-kit.md](cohort-standard-kit.md) §§1–2.  
   * *Detached overlap:* Rim / **Halo Stars** work and long autonomous kill-geometry disproportionately file **Shadows** brothers as **Steppenwolves** — see [steppenwolf-doctrine.md](../personae-command-index/doctrine-and-organs/steppenwolf-doctrine.md).  
 * **Stasis Cohort (blocking and defense):**  
   * *Color:* **dark gunmetal grey**.  
   * *Iconography:* Closed fist gripping a gladius by the blade.  
+  * *Origin scar:* **Drukhari** raid they could not pursue — §3.2.  
 * **Nullity Cohort (anti-psychic):**  
   * *Color:* **cobalt blue**.  
-  * *Iconography:* Chains and null rune beneath an hourglass.
+  * *Iconography:* Chains and null rune beneath an hourglass.  
+  * *Origin scar:* **Thousand Sons** cabal at the **navel vortex** — §3.3.
 
 ---
 
 ## 3\. SILENCE COHORT — DOCTRINE OF PATTERN AND ANOMALY
+
+**Origin (Hold, post-Valerian — flavour, not a chronicle):** An **Alpha Legion** warband **implanted a Genestealer cult** in a hive city (unnamed). **Cost:** infrastructure and people — the hive’s working body. A small knot of brothers, already bent toward investigation, tracking, interrogation, stayed on the **pattern** of that corruption: the kind **naked eye and papers miss**. Ivory is that scar. Founders unnamed. The method below is the scar, not a second origin.
 
 The Silence Cohort is **not** reduced to *cogitator* analysts in bunkers. The *standard* demands **presence in the urban mesh**: patrols in service armor or discreet *aquila*, crossing worker districts, docks, ration markets, and service tunnels. Data feeds remain tools; the transhuman body is the **sensor package** against disguises the archive never predicted.
 
@@ -60,6 +68,8 @@ Pattern analysis **does not replace** *Lex Imperialis* or custody for interrogat
 
 ## 3.1\. SHADOWS COHORT — UNDER SILENCE (EXECUTION LAYER)
 
+**Origin (Hold, post-Valerian — flavour, not a chronicle):** **Night Lords** took a **NONA** space station (unnamed) and slaughtered almost everyone — mortals and Batavi. **Cost:** the massacre, and terror that **advanced Wolf’s Curse** in many survivors. One unnamed brother filed the answer: the only way to keep Night Lords **out of the dark** is to **be in the dark first**. Black is that scar. Do **not** assume the founder is **Cassian**.
+
 **Shadows** are not a parallel intelligence service competing with ivory. They are the **vertical and deniable hand** Silence (and the Legatus lattice) already priced.
 
 **Silence** selects: which mouth still has names, which duct map matches pay-cycle drops, which “perfect” civilian is a rehearsed infiltrator. **Shadows** close: rafters, chem pits, noble-shafts, promethium caches, the junction a steward thought was blind. Black pauldrons carry **combat knife** and **power gladius** as primary melee — not **chainsword** — because duct war cannot afford the saw’s signature ([cohort-standard-kit.md](cohort-standard-kit.md) §2).
@@ -70,9 +80,25 @@ Pattern analysis **does not replace** *Lex Imperialis* or custody for interrogat
 
 ---
 
+## 3.2\. STASIS COHORT — THE WALL THAT DOES NOT CHASE
+
+**Origin (Hold, post-Valerian — flavour, not a chronicle):** **Drukhari** raided a planet (unnamed). **Cost:** they could not **pursue** — the raid ended in empty air. The answer was an **immovable wall**: do not take the taunt into a chase; **taunt them onto the wall**; fight **dirty**; **no excess movement**; **do not break formation**. Gunmetal is that scar. Founders unnamed.
+
+Employment now: block, rotation, veil-static — chief lattice §5.
+
+---
+
+## 3.3\. NULLITY COHORT — REALITY HELD
+
+**Origin (Hold, post-Valerian — flavour, not a chronicle):** A **Thousand Sons** cabal tried to **increase the navel vortex**. **Cost:** the Chapter was **not prepared for sorcerers**. A **Batavian Haruspex** (unnamed — do **not** assume **Otho**) stood with a small squad: **stabilize reality**, **shield minds** against illusion and Warp-spell, and **instruct** the kill. Cobalt is that scar.
+
+That is why haruspex ↔ Nullity liaison is **mandatory**, not courtesy (§4).
+
+---
+
 ## 4\. EMBEDDED *LIBRARIUM* (BATAVIAN HARUSPICES)
 
-The **five Batavian Haruspices** per Vexilla are **not** a specialty-cohort stripe on the right pauldron; they wear *Librarius* order marks under the same grey–crimson base as other organic support. Their job is **Haruspicium Batavorum** — passive Warp telemetry and pattern translation — with **mandatory liaison** to **Nullity** for blank-adjacent tactics and sealed *vox* chains.
+The **five Batavian Haruspices** per Vexilla are **not** a specialty-cohort stripe on the right pauldron; they wear *Librarius* order marks under the same grey–crimson base as other organic support. Their job is **Haruspicium Batavorum** — passive Warp telemetry and pattern translation — with **mandatory liaison** to **Nullity** for blank-adjacent tactics and sealed *vox* chains. The liaison is the **Nullity origin** (§3.3), not later courtesy.
 
 **Nullity** carries the cobalt field; the haruspices **feed** it coordinates and hazard class, not the reverse. Full doctrine, **Blindgate**, triangulation with *Medicinae* / *Reclusiam*, and Wolf’s Curse interaction: [council-and-librarium.md](../personae-command-index/doctrine-and-organs/council-and-librarium.md). **Chief Librarian:** [dossier-otho.md](../personae-command-index/character-dossiers/council-orders/dossier-otho.md). **Training:** Otho supervises what Nullity may **hear**; **Ivar** (OCTAVA) owns field employment of the stripe (§5).
 

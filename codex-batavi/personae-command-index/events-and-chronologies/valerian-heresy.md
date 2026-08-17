@@ -21,6 +21,8 @@ Brother-war during the Hold. **Valerius** (original **PRIMA** Legatus) becomes *
 
 **DECIMA** does **not** exist as a tenth Vexillum **during** the war. At **close**, it is founded from the loyal marines who **stayed with Alaric** — locked as the **first 500 or more** (Vexilla scale). SECVNDA / SEXTA / NONA remain their own seats. **Standing job after founding:** **core escort** of the **20-year tithe convoy** (spoil too fat to leave to chance) — fence: [`insula-tenebrarum-isolation-fence.md`](../../atlas-and-topography/insula-tenebrarum-isolation-fence.md) §IV.
 
+**Specialty cohorts** (Silence / Shadows / Stasis / Nullity) do **not** exist as pauldron-law **during** this war. They are later **Hold** scars, **after** Valerian close — flavour lock: [`specialty-cohorts.md`](../../arsenal-and-logistics/specialty-cohorts.md) §§3–3.3. Do **not** put ivory / black / gunmetal / cobalt stripes on Valerian prose.
+
 ---
 
 ## Fall (keep)

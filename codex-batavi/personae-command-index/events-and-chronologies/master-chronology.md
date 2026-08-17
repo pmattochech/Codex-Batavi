@@ -14,6 +14,7 @@
 * **Campaign IV — the Seal:** Ford / Ribbon **wall**. [`campaign-iv-the-seal/SCAFFOLD.md`](../../chronicles/reclamation/campaign-iv-the-seal/SCAFFOLD.md).
 * **the Hold:** **~300 years**, still pre-Cadia. Nine Vexilla. Fence is cage **most of the time**. Anomaly **~once per 20 years**. Tithe always overproduced (Badab lesson). [`the-hold/SCAFFOLD.md`](../../chronicles/reclamation/the-hold/SCAFFOLD.md).
 * **Valerian strife:** During the Hold, after nine seats. Trusted PRIMA replacement slain by **Corbec**. **Valerius** slain by **Alaric** and the **Emperor’s Wolf**. **DECIMA** founded at close from Alaric’s loyalists (**500** or more). [`valerian-heresy.md`](valerian-heresy.md).
+* **Specialty cohorts:** **After Valerian**, still the Hold. Four scars, not Reclamation issue. Flavour: [`specialty-cohorts.md`](../../arsenal-and-logistics/specialty-cohorts.md) §§3–3.3. No chronicle this pass.
 * **Cicatrix (~999.M41):** Hits the **reflector**; mesh sits in a **V** of still-realspace. Cage becomes shield. **Present** is **~12 years** later (**~012.M42** working). As Batavi **~310 years**.
 
 ## II. Post-Rift bridge (Imperial ~M42 filings) — *actual days ~12 years*

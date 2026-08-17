@@ -105,6 +105,7 @@ Use when writing or editing English prose. Extend as you go.
 | **Company** (Batavi) | Captain’s **100** inside a **Vexilla** — **1st–5th**; mixed packet (two demi-companies). Pairing: Silence / Shadows / Stasis / Nullity + line (1st–4th); 5th = two line rims. Seat **line-half bias** + sprinkled support: [`military-hierarchy.md`](personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.4. **Not** the Vexilla. Spoken: *third company, QVINTA* |
 | **Demi-company** | Lieutenant’s **50** — two per company. *Codex* name kept |
 | **Cohort-chief (lattice hat)** | Second hat on four Legati — **how that stripe fights** mesh-wide; **not** a second mastery. Silence **Kessler** · Shadows **Cassian** · Stasis **Valestrand** · Nullity **Ivar**. Home Legatus owns the brother. [`military-hierarchy.md`](personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.5 · [`specialty-cohorts.md`](arsenal-and-logistics/specialty-cohorts.md) §5 |
+| **Specialty cohorts** | Four **Hold** scars **after Valerian** — not Reclamation issue. **Silence:** Alpha Legion + implanted Genestealer cult (hive). **Shadows:** Night Lords massacre (NONA station). **Stasis:** Drukhari raid they could not pursue. **Nullity:** Thousand Sons cabal at the navel vortex. Flavour only — no chronicle this pass. [`specialty-cohorts.md`](arsenal-and-logistics/specialty-cohorts.md) §§3–3.3 |
 | Castra Vetera | Subsector / operational frame |
 | Noviomagus | Chapter forge-world (civilized) |
 | Dark Age of Technology | Never **DAoT** as main form in EN |
