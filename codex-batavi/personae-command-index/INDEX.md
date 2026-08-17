@@ -14,6 +14,8 @@
 
 - [technical-datasheet.md](doctrine-and-organs/technical-datasheet.md) — Codex Batavorum technical sheet
 - [progenitor-classification.md](doctrine-and-organs/progenitor-classification.md) — founding / gene-line POV layers (open record vs sealed *Apothecarion*)
+- [wolfs-curse-origin-and-den.md](doctrine-and-organs/wolfs-curse-origin-and-den.md) — Wolf’s Curse **origin** (den + people, not the vial); visitor field; unraised cascade
+- [primaris-rubicon-intake.md](doctrine-and-organs/primaris-rubicon-intake.md) — Primaris **method** (no imported brothers); Rubicon first; then all new intake Primaris
 - [council-and-librarium.md](doctrine-and-organs/council-and-librarium.md) — Extended Council; Haruspicium / Blindgate; **§2.4** cultural archive; **§5–§6** upstream quartet & downstream issuance
 - [batavi-affect-kinesics-and-mortal-literacy.md](doctrine-and-organs/batavi-affect-kinesics-and-mortal-literacy.md) — affect–display decoupling; reaction-class kinesics; mortal read-rights; Castellan mortal interface
 - [legatus-chapter-mastery.md](doctrine-and-organs/legatus-chapter-mastery.md) — *Codex* ten + nine Legatus scrolls; Marches on Castellan; culture **no** mastery

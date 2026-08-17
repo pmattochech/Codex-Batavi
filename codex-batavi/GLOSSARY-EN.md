@@ -106,7 +106,10 @@ Use when writing or editing English prose. Extend as you go.
 | Noviomagus | Chapter forge-world (civilized) |
 | Dark Age of Technology | Never **DAoT** as main form in EN |
 | chimeric predisposition | Inheritance / biological triangle — German where canon uses it |
-| Furor / Exanimus / Execratio | Wolf’s Curse stages — proper labels |
+| Furor / Exanimus / Execratio | Wolf’s Curse stages — proper labels. **Origin** (den + people, not the vial): [`wolfs-curse-origin-and-den.md`](personae-command-index/doctrine-and-organs/wolfs-curse-origin-and-den.md). Clinical: [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) |
+| **Den / Old Terran wolf** (curse origin) | Presence that claims Batavi as hunters of Castra’s den — **not** a Chaos god, **not** Fenris, **not** in the gene-seed vial. [`wolfs-curse-origin-and-den.md`](personae-command-index/doctrine-and-organs/wolfs-curse-origin-and-den.md) |
+| **Unraised cascade** | Batavi-pattern marine grown **outside** the mesh: curse **off** until he enters Castra; without raising, stages may dump. Same file §III |
+| **Primaris method** | Rubicon of eligible Firstborn, then **all new** marines Primaris **local** — **no** imported brothers. [`primaris-rubicon-intake.md`](personae-command-index/doctrine-and-organs/primaris-rubicon-intake.md) |
 | **the Red Wolf** | Lord Castellan **discipline breach** — upright savage violence, **no** armor morph; **friend–foe discrimination** fails; **≤1** window per engagement when failure occurs. **I:** Malakor V (**050.M42**, full). **II:** Garmr’s Shelf (**~055.M42**, **Type B** abbreviated — Viggo pup). Third **full** window disputed. [`the-red-wolf.md`](personae-command-index/doctrine-and-organs/the-red-wolf.md) |
 | ***Ictus coercitionis*** | Varro’s **restraint stroke** — Crozius **Sentence** calibration to bind ***Castra-Lupus*** / carapace without killing Alaric |
 | **Death Wolf** | ***Reclusiam*** idiom for Varro when meeting **the Red Wolf** — curse’s skull-face, not living predator |

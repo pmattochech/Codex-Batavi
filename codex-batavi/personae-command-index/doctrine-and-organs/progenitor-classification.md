@@ -4,7 +4,7 @@
 
 **Workspace enforcement:** The same rules are summarized as mandatory AI/author instructions in **`.cursorrules` §0.2** (repository root).
 
-**Related:** [intro-and-heraldry.md](../intro-and-heraldry/chapter-identity.md) · [technical-datasheet.md](technical-datasheet.md) · [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) · [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md)
+**Related:** [intro-and-heraldry.md](../intro-and-heraldry/chapter-identity.md) · [technical-datasheet.md](technical-datasheet.md) · [projection-aurea-wolfs-curse.md](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) · [`wolfs-curse-origin-and-den.md`](wolfs-curse-origin-and-den.md) · [`castra-vetera-galactic-lock.md`](../../atlas-and-topography/castra-vetera-galactic-lock.md)
 
 ---
 
@@ -22,6 +22,8 @@ Use this layer for **broad-facing** descriptions, infobox-style summaries, and d
 ### Space Wolves pressure (dialogue beat)
 
 If a Space Wolf cites **wulfen** or wolf marks as **Russ proof**, Batavi may answer (flat tone): look again — **every old Legion** can be read in their plate if one insists; **formula does not matter**; **only the Emperor** counts as ancestor. **Still file unknown** on the tithe scroll.
+
+**Den-field (guest Astartes):** Any visiting Chapter feels **watched / not kin / do not rule here** — same quality, different volume. **Space Wolves** (Rune Priests, Wolf Priests) read it **clearest** and find **no** Fenrisian god. This is **anti-receipt**, not a cousin-cult. Full lock: [`wolfs-curse-origin-and-den.md`](wolfs-curse-origin-and-den.md) §IV.
 
 ---
 
@@ -57,4 +59,4 @@ If a Space Wolf cites **wulfen** or wolf marks as **Russ proof**, Batavi may ans
 
 ---
 
-*Last aligned: Insula Tenebrarum lock — unknown-only open record; Strand labels retired.*
+*Last aligned: Insula Tenebrarum lock — unknown-only open record; Strand labels retired; den-field visitor lock (not Russ).*

@@ -55,7 +55,7 @@ Varro preached pride death because *had* pride — learned inside Furor pride bi
 
 **Crucible logistics register (pre-Malakor — canonical serial):** Same individual filed **parallel ledgers** and **double-stamp** embarkation discipline across poles — *witness routes* beside *throughput*, honest-zero supply slate, *witness attests: losses occurred* vs Navy *provisional* phrasing — [`der-batav-council/chapter.md`](../../../chronicles/foundation-war/Q4-der-batav/der-batav-council/chapter.md), [`instrumentum-solum/chapter.md`](../../../chronicles/foundation-war/Q4-der-batav/instrumentum-solum/chapter.md), Q3 bridge — [`maw-exercise/chapter.md`](../../../chronicles/foundation-war/Q3-gulf-and-beast/maw-exercise/chapter.md). Staff read: competence **before** the rot curve; not exculpation at Malakor.
 
-Crucible close (**~045.M42**) left the Chapter on **~500** rational line; Valerius named **First Legatus** — highest post below Triumvirate — **before** Malakor and **before** **Primaris** reinforcement. The **~5,000** expansion and ***Limes Lupus*** seal (**051.M42**) come **later**; this interval is **still** *Codex*-scale ambition with **forward** trust. Appointment should maximum recognition. Worked partially insult.
+Crucible close (**~045.M42**) left the Chapter on **~500** rational line; Valerius named **First Legatus** — highest post below Triumvirate — **before** Malakor and **before** **Primaris method** (Rubicon / local intake). The **~5,000** expansion seal and ***Limes Lupus*** (**051.M42**) come **later**; this interval is **still** *Codex*-scale ambition with **forward** trust. Appointment should maximum recognition. Worked partially insult.
 
 Expected: Alaric honor guard. Closest Castellan position implicit successor role.
 

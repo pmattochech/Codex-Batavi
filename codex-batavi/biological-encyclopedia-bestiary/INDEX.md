@@ -1,8 +1,10 @@
 # Biological encyclopedia & bestiary
 
 ## Chapter biology
-- [projection-aurea-wolfs-curse.md](projection-aurea-wolfs-curse.md)
+- [projection-aurea-wolfs-curse.md](projection-aurea-wolfs-curse.md) — clinical ladder (stages, red code, testament)
+- *Origin (den + people, not the vial):* [`../personae-command-index/doctrine-and-organs/wolfs-curse-origin-and-den.md`](../personae-command-index/doctrine-and-organs/wolfs-curse-origin-and-den.md)
 - *Progenitor / classification layers (open vs sealed record):* [`../personae-command-index/doctrine-and-organs/progenitor-classification.md`](../personae-command-index/doctrine-and-organs/progenitor-classification.md)
+- *Primaris method (Rubicon, then local intake):* [`../personae-command-index/doctrine-and-organs/primaris-rubicon-intake.md`](../personae-command-index/doctrine-and-organs/primaris-rubicon-intake.md)
 - [viggo-relic.md](viggo-relic.md)
 
 ## Subsector ecology (atlas → encyclopedia)

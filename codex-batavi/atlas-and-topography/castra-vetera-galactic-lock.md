@@ -28,6 +28,8 @@ When a Space Wolf points at wolf-marked armor as **proof** of Russ lineage, a Ba
 
 **Open record stays:** **unknown** — do not confirm Russ, Fenris, or any parent Chapter.
 
+**Den-field:** Guest Astartes of **any** Chapter feel watched, not-kin, and **unwelcome to rule** this land — same quality, different volume. Space Wolves (especially Rune Priests and Wolf Priests) feel it **most clearly** and recognize **no** Fenrisian god. Not a cousin of Fenris. Doctrine: [`wolfs-curse-origin-and-den.md`](../personae-command-index/doctrine-and-organs/wolfs-curse-origin-and-den.md) §IV.
+
 ---
 
 ## II. Insula Tenebrarum — where the island sits

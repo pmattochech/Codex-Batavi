@@ -27,7 +27,7 @@ The **Valerian Heresy** is the Chapter’s **brother civil war** — not a sudde
 | **Central / receipt / council cheek** | **Alaric** | Castellan myth; elites; “king” | Protector geometry; filed credit to Valerius in annexes |
 | **Threshold / Chaos bleed cheek** | **Valerius** | Bleeding general; pyrric holds | Door-holder; trust vote on worst sector |
 
-**Growth:** post-crucible **~500** rational line → **~5,000** by late rot era (illegal scale **before** Malakor; **Primaris** and collar **after** bloodletting — see §5).
+**Growth:** post-crucible **~500** rational line → **~5,000** by late rot era (illegal scale **before** Malakor; **Primaris method** and collar **after** bloodletting — see §5).
 
 **Rot scale:** majority of **Valerius’s host** follows; **Corbec** + **few** hold lawful witness — not five hundred saints, not unanimous treason.
 
@@ -76,7 +76,7 @@ Valerius’s private completion (paraphrase lock):
 | **3** | **~080–~085** | **Hot rot** — harvest theology; open break; lucid Versibar |
 | **4** | **~086** | **Malakor V** — climax; execution; **Silent Vigil begins** |
 | **5** | **~086–~092** | **Reformation** — stock crisis; PRIMA shame field; **vexilla commission** |
-| **6** | **~087–~088** | **Primaris** + **~5,000** ratification + ***Limes Lupus*** (after Malakor) |
+| **6** | **~087–~088** | **Primaris method** (Rubicon, then local intake) + **~5,000** ratification + ***Limes Lupus*** (after Malakor) |
 
 Detail: [`CHRONOLOGY.md`](../../chronicles/silent-vigil/valerian-heresy/CHRONOLOGY.md).
 
@@ -88,7 +88,7 @@ Detail: [`CHRONOLOGY.md`](../../chronicles/silent-vigil/valerian-heresy/CHRONOLO
 |--------|------|
 | Post-crucible | **~500** rational line |
 | Pre-Malakor peak (two-power era) | **~5,000** |
-| Post-Malakor active spine (order-of-magnitude) | **~1,000** brothers; **≤500** progenoid sets (or fewer) until **Primaris** pipeline |
+| Post-Malakor active spine (order-of-magnitude) | **~1,000** brothers; **≤500** progenoid sets (or fewer) until **Primaris method** (Rubicon + local neophyte pipeline — **no** imported brothers) |
 | Theater toll at Malakor | **~300** KIA / Versibar (mesh-wide; not “half Chapter”) |
 | Lawful PRIMA witness core | **small** (Corbec lattice + restricted identities) |
 

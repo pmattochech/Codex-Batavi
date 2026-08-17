@@ -1,8 +1,11 @@
-# Wolf’s Curse × Primaris reinforcement — planning rules (not integrated canon)
+# Wolf’s Curse × Primaris — planning notes
 
-**Status:** Design notes for **Firstborn crucible → Primaris reinforcement** and **curse progression policy**. **Merged into canon:** **§6** (Exanimus Firstborn vs Primaris) now lives in [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md). Other bullets here remain **staging** until copied to dossiers / armory / chronology as needed.
+**Status:** Staging notes. **Canon locks now live in:**
+- Origin / den / unraised cascade / visitor field: [`wolfs-curse-origin-and-den.md`](../personae-command-index/doctrine-and-organs/wolfs-curse-origin-and-den.md)
+- Method (no imported brothers); Rubicon first; then all-new local Primaris: [`primaris-rubicon-intake.md`](../personae-command-index/doctrine-and-organs/primaris-rubicon-intake.md)
+- Clinical ladder + Exanimus Firstborn vs Primaris: [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)
 
-**Canonical biology:** [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md).
+**Superseded planning line:** “Primaris mass reinforcement / Grey Shield bodies.” Do not use in new staff text.
 
 **Update rule:** Refresh when the project owner prompts.
 
@@ -10,18 +13,18 @@
 
 ## 1. Strategic intent (two-era model)
 
-**Owner sequencing (planning lock):** Era **B** begins **shortly after** crucible war **victory** — “win the war, then the vaults open.” **Not** a long peace or a separate epoch decades later; exact **in-universe gap** (weeks vs few years) is **TBD at write**.
+**Owner sequencing:** Era **B** begins **after** Valerian bloodletting — method arrives, not a long separate epoch. Exact in-universe gap TBD at chronicle write.
 
 | Era | Force composition | Narrative job |
 |-----|-------------------|---------------|
-| **A — Founding / crucible war** | **Firstboot** majority | *Codex* breaks; **Furor / Exanimus / Versibar** math; **tiny survivor pool**. |
-| **B — Reinforcement (contiguous)** | **Primaris** inducted (Rubicon and/or new plate) | Rebuild **mass** right after the wall holds; **Tyvar / Indomitus / Throne** logic explains **why relief is timed to that window**, not a random later century. |
+| **A — Founding / crucible war** | **Firstboot** majority | *Codex* strain; **Furor / Exanimus / Versibar** math; **tiny survivor pool**. |
+| **B — Method (contiguous)** | Eligible Firstborn **Rubicon**; thereafter **all new** marines **Primaris** (local) | Rebuild **mass** without shipping unraised sons; **Tyvar / Indomitus / Throne** send **templates**. |
 
-**Design line:** *The Rubicon does not grant innocence. It buys mass. The first invoice is Furor.*
+**Design line:** *The Rubicon does not grant innocence. It buys chassis. The first invoice is Furor.*
 
 ---
 
-## 2. Reinforcement cohorts (policy sketch)
+## 2. Rubicon cohorts (policy — merged to `primaris-rubicon-intake.md`)
 
 | Cohort | Curse state (typical) | Rubicon / Primaris | Rationale |
 |--------|----------------------|--------------------|-----------|
@@ -111,7 +114,7 @@ Summary:
 - [x] [`projection-aurea-wolfs-curse.md`](../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — Firstborn vs Primaris Exanimus; Valerian **Adversarii** note (this pass).
 - [ ] Triumvirate dossiers — **Varro / Drusus** psychology vs **Alaric** patriarch load ([`dossier-varro.md`](../personae-command-index/character-dossiers/triumvirate/dossier-varro.md) · [`dossier-drusus.md`](../personae-command-index/character-dossiers/triumvirate/dossier-drusus.md) · [`dossier-alaric.md`](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md)).
 - [ ] [`chassis-and-armor-catalog.md`](../arsenal-and-logistics/chassis-and-armor-catalog.md) / [`vexilla-operational-armory.md`](../arsenal-and-logistics/vexilla-operational-armory.md) — Firstborn vs Primaris era kit.
-- [ ] [`master-chronology.md`](../personae-command-index/events-and-chronologies/master-chronology.md) — first reinforcement milestone **flush with** Foundation War terminus; **Valerian** casualty row if not already synced everywhere.
+- [ ] [`master-chronology.md`](../personae-command-index/events-and-chronologies/master-chronology.md) — **done this pass:** Primaris **method** (no imported brothers).
 - [x] [`foundation-war.md`](../personae-command-index/events-and-chronologies/foundation-war.md) — population / Valerian / **Adversarii** bullets (merged).
 
 ---

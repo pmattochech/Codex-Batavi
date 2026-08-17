@@ -19,7 +19,7 @@
 | **P2** | ~065–080 | Cold rot — **why?**; pyrric bleed | [P2-cold-rot/INDEX.md](P2-cold-rot/INDEX.md) |
 | **P3** | ~080–085 | Hot rot — harvest; seal; open break | [P3-hot-rot/INDEX.md](P3-hot-rot/INDEX.md) |
 | **P4** | ~086 | Malakor V — **Castellan apex** (main serial) | [P4-malakor/INDEX.md](P4-malakor/INDEX.md) |
-| **P5** | ~086–092 | Reformation — DECIMA; vexilla; Primaris | [P5-reformation/INDEX.md](P5-reformation/INDEX.md) |
+| **P5** | ~086–092 | Reformation — DECIMA; vexilla; Primaris **method** | [P5-reformation/INDEX.md](P5-reformation/INDEX.md) |
 
 ## Adjacent subsaga (parallel — not numbered here)
 

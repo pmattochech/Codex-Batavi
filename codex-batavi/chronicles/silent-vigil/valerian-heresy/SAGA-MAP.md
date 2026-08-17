@@ -18,7 +18,7 @@
 | **3b** | **~085** | **Seal / open break** | Lucid **Versibar**; **Daemon Prince** ascent; implicit-Horus answer; **Lupercal** claim |
 | **4** | **~086** | **Malakor V** | Trap; apex **why?**; execution; **~300** toll; **Silent Vigil begins** |
 | **5** | **~086–092** | **Reformation** | **~1,000** spine; stock crisis; PRIMA shame field; **vexilla** commission; DECIMA |
-| **6** | **~087–088** | **Primaris insult** | Reinforcement after bloodletting; **~5,000** ratified; ***Limes Lupus*** collar |
+| **6** | **~087–088** | **Primaris insult** | **Method** after bloodletting (Rubicon, then local Primaris); **no** imported brothers; **~5,000** ratified; ***Limes Lupus*** collar |
 
 **Parent corridor after phase 4:** Silent Vigil **~086–186** ([`../README.md`](../README.md)).
 
@@ -95,11 +95,11 @@ Scenes marked **✅ own** = covered by published prose (may need retcon pass). *
 | **PRIMA–NONA commission** — anti-concentration | Kadmos / Strategium | 📝 | User specialty-squad → Legatus pipeline (**detail TBD**) |
 | Corbec **Castellan vigil** seeded | Corbec / Varro | 📝 | Leads to Axiom Lupus (~091) — [`../viggo-the-heat-of-the-stone/`](../viggo-the-heat-of-the-stone/INDEX.md) |
 
-### Phase 6 — Primaris (~087–088)
+### Phase 6 — Primaris method (~087–088)
 
 | Scene | POV owner | Status | Notes |
 |-------|-----------|--------|-------|
-| **Gift after bloodletting** — ~5k ratification as insult | Alaric / Drusus / Administratum | 📝 | Collar ***Limes Lupus*** |
+| **Manual after bloodletting** — Rubicon + local intake; ~5k as insult | Alaric / Drusus / Administratum | 📝 | **No** imported brothers. Collar ***Limes Lupus***. Doctrine: `primaris-rubicon-intake.md` |
 | Island debt institutions hardened | Mortal / Shared Sweat | 📝 | Witness Ford; receipt parity — post-win epilogue |
 
 ---

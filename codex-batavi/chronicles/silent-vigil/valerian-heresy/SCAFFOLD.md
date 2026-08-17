@@ -35,7 +35,7 @@ Post-crucible (**~045.M42**), the mesh is too large for one spearhead. Chapter *
 
 **No *Alabarda* vexilla** for PRIMA–NONA during this era — only **two hosts**, two logistics souls.
 
-**Growth:** **~500** at crucible close → **~5,000** by **~080–085** (illegal scale **before** Malakor; collar + formal **~5,000** **after** Primaris).
+**Growth:** **~500** at crucible close → **~5,000** by **~080–085** (illegal scale **before** Malakor; collar + formal **~5,000** **after** Primaris **method** — Rubicon / local intake, **no** imported brothers).
 
 ### 2.2 Why two powers nearly broke the mesh
 
@@ -132,7 +132,7 @@ No conversion beat. Recognition that **language is exhausted** → execution / t
 | ***Alabarda* vexilla PRIMA–NONA** | **after** heresy | Anti-concentration; certified **field 4** wins |
 | PRIMA **obligation field** + broken cog | post-Malakor | Debt not inherited crime |
 | **DECIMA justice vexillum** | post-sentence | [`P5-reformation/decima-justice-vexillum/chapter.md`](P5-reformation/decima-justice-vexillum/chapter.md) |
-| **Primaris** + **~5,000** + collar | **~087–088** | After bloodletting — gift as insult |
+| **Primaris method** + **~5,000** + collar | **~087–088** | After bloodletting — **manual**, not sons; gift as insult |
 
 **User vexilla rationale (detail later):** commission follows **your** specialty-squad → Legatus pipeline.
 
@@ -199,7 +199,7 @@ Victory after brother-war → **island debt**:
 | Pre-war strength | **~500** until Malakor | **~5,000** peak; **~1,000** after |
 | Versibar | **~049** | **~085** (end only) |
 | Vexilla | implied pre-050 | **after** Malakor only |
-| Primaris / 5k / collar | **051** | **~087–088** |
+| Primaris method / 5k / collar | **051** | **~087–088** |
 | Viggo / Axiom Lupus | **055–056** | **~091–092** |
 | Elara parapet | **150** | **~186** (Vigil +100 rule) |
 | `malakor-v` years shared | forty-three | **~sixty+** (tune at prose pass) |
