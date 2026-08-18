@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, QVINTA. **Chapter mastery (scroll):** **Master of the Hunt** (*Magister Venationis*) — pursuit of enemies who **wronged the mesh and escaped** (cross-seat; inside or outside mesh).  
 **Seat:** **Aethelgard Prime** — storm assault, tide moons, vertical infrastructure, jump certification hub.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (QVINTA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **Ancient** (QVINTA). Default Chapter face + LATIN-CAPS; **not** 1st captain. Register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
 **Apparent service age:** ~210–260 Terran years (estimate).
 
 ---

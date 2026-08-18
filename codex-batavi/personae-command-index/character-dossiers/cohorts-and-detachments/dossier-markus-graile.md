@@ -7,7 +7,7 @@
 **Role:** **DECIMA** battle-grid sovereign on **Lord Castellan** orders — **not** a Legatus; extension of hold geometry, not a tenth semi-independent governor. Primary bearer of the ***justice vexillum***; wields ***Par Ferrum Lupi*** (**Decreto** · **Termini**).  
 **Chapter:** *Cohors Batavorum*.  
 **Reports to:** Lord Castellan **Alaric von Helis** — chain **Castellan → Emperor’s Wolf → DECIMA** execution.  
-**Standards:** Does **not** bear a Legatus *Alabarda*. Does **not** bear a four-field **Vexilla banner** (that is **1st company captain**, PRIMA–NONA). Primary bearer of the ***justice vexillum*** (DECIMA).  
+**Standards:** Does **not** bear a Legatus *Alabarda*. Does **not** bear a **Vexilla banner** (that is **Ancient**, PRIMA–NONA). Primary bearer of the ***justice vexillum*** (DECIMA). **No** DECIMA Ancient.  
 **Apparent service age:** Valerian-scarred; exact years **TBD** against the Hold clock. Do **not** print leftover **180–220** / **051.M42** / **168.M42** paper as his rise.
 
 **Fence:** Present incumbent and **first** Emperor’s Wolf. **Title earned** at Valerian close: he **fends Versibar** while **Alaric duels Valerius**; they fight **as one**; **Alaric** lands the **killing blow**. Graile assists — not a second killer of record. [`valerian-heresy.md`](../../events-and-chronologies/valerian-heresy.md).

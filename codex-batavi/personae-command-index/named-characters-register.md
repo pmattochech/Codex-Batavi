@@ -36,7 +36,7 @@
 | **Kadmos** — Master of the Forge; **Master of the Arsenal** & **Master of the Relics** (III & IX) | Noviomagus-born Techmarine; siege and biomechanical engineering; bronze arm; *Machine Spirit* and forge spine |
 | **Otho** — Chief Librarian | *Blood Augur*; Haruspicium Batavorum / Blindgate; treats Warp as telemetry |
 | **Tyvar** — Senior Strategium Overseer | Cold procedural brake; duty-pressure and chain-integrity audits |
-| **Corbec Ardens** — Legatus, PRIMA | Noviomagus forge governor; ammo economy; Malakor witness; Valerian shame on **PRIMA Vexilla banner** fourth field |
+| **Corbec Ardens** — Legatus, PRIMA | Noviomagus forge governor; ammo economy; Malakor witness; Valerian shame on **PRIMA Vexilla banner** (obligation mark; **Ancient** bears the cloth) |
 | **Henric Kessler** — Legatus, SECVNDA | Castra-Vetera; measured fire and legal kill geometry |
 | **Theron Brach** — Legatus, TERTIA | Khan-Bator chem–thermal war; Vigilax kill-box geometry |
 | **Orin Valestrand** — Legatus, QVARTA | Incus-Gravis high-G shingle war; March-of-the-Machine anchor doctrine; 048.M42 March defense; rotation discipline |

@@ -8,7 +8,7 @@
 ## intro-and-heraldry
 
 - [intro-and-heraldry.md](intro-and-heraldry/chapter-identity.md) — title, myth, and heraldry summary
-- [vexilla-by-vexilla-design.md](intro-and-heraldry/vexilla-by-vexilla-design.md) — Vexilla banner four-field register (1st captain); PRIMA obligation §2.2; DECIMA justice vexillum §4
+- [vexilla-by-vexilla-design.md](intro-and-heraldry/vexilla-by-vexilla-design.md) — Vexilla banner (Ancient; default Chapter face); PRIMA obligation §2.2; DECIMA justice vexillum §4
 
 ## doctrine-and-organs
 

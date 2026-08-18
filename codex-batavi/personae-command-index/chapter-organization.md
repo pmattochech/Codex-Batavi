@@ -96,7 +96,7 @@ Unique chambers include **Hell Cells**, **Vermilion** filing, **Iron and Blood T
 
 **Size:** **5,000** battle-brothers with full gene-seed and Chapter status — **ten Vexilla × 500**. Declared ***Codex Astartes* breach** (*Pax Batavorum*): friction-war replacement conveyor, not vanity expansion. Neophytes in pipeline, servitors, and auxilia **outside** the 5,000 ceiling. Table: [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §4.
 
-**Description:** The Chapter is a **Triumvirate-governed** war machine: **Alaric** (wall geometry), **Drusus** (biology), **Varro** (discipline / psychic risk). Nine **Legati** bear the ***Alabarda*** (weapon; relay / *auspex* on the haft) on nine seats; each **1st company captain** bears that seat’s **Vexilla banner**. **Vexilla DECIMA** is the Castellan’s anchor guard without a Legatus. **Siege Master / mesh architect:** **Gervas Bifronte** (Legatus, SEXTA) — ***Maior Caementarius*** and ***Pater Murorum***; drafts capital fortresses with every Legatus while respecting each seat’s operational mode; supplies **Bifronte audit** weak-point slates to Alaric before major mesh commitments ([dossier-gervas-bifronte.md](character-dossiers/legati/dossier-gervas-bifronte.md)). Extended Council: **Kadmos** (*Armourium*), **Otho** (*Librarium*). Allies: Imperial Navy (Elara Solis), Mechanicus (conditional), Inquisition (purchased symbiosis). **Primary Astartes enemy:** **Marines Malevolent** (standing open-fire policy — [marines-malevolent-relations.md](../political-relations/marines-malevolent-relations.md)). Other foes: traitor Astartes (Malakor register), Tyranids, Orks, genestealers, Necrons — theater-dependent.
+**Description:** The Chapter is a **Triumvirate-governed** war machine: **Alaric** (wall geometry), **Drusus** (biology), **Varro** (discipline / psychic risk). Nine **Legati** bear the ***Alabarda*** (weapon; relay / *auspex* on the haft) on nine seats; each **Ancient** bears that seat’s **Vexilla banner**. **Vexilla DECIMA** is the Castellan’s anchor guard without a Legatus. **Siege Master / mesh architect:** **Gervas Bifronte** (Legatus, SEXTA) — ***Maior Caementarius*** and ***Pater Murorum***; drafts capital fortresses with every Legatus while respecting each seat’s operational mode; supplies **Bifronte audit** weak-point slates to Alaric before major mesh commitments ([dossier-gervas-bifronte.md](character-dossiers/legati/dossier-gervas-bifronte.md)). Extended Council: **Kadmos** (*Armourium*), **Otho** (*Librarium*). Allies: Imperial Navy (Elara Solis), Mechanicus (conditional), Inquisition (purchased symbiosis). **Primary Astartes enemy:** **Marines Malevolent** (standing open-fire policy — [marines-malevolent-relations.md](../political-relations/marines-malevolent-relations.md)). Other foes: traitor Astartes (Malakor register), Tyranids, Orks, genestealers, Necrons — theater-dependent.
 
 ---
 
@@ -116,13 +116,13 @@ Unique chambers include **Hell Cells**, **Vermilion** filing, **Iron and Blood T
 | **4d** | Apothecary / Chaplain / specialist | *Medicinae* white-surgical (Drusus pattern); *Reclusiam*: Chaplain Executor wolf-skull (red lenses) / Varro fire-orb Judex extras + thurible pack / Mortivigil human death-skull (orange) / **Judiciar** sealed death-skull (extinguished lenses); *Librarius* cipher helm |
 | **4e** | **Legatus** (PRIMA–NONA) | **Per-seat** kit (e.g. *Typus Primus* **Corvus** + crest; *Typus Quintus* **Mk V** + wolf/pelt; *Typus Sextus* **Tartaros TDA** + ornate halo). **Default crest:** crimson / white transverse. **Chest aquila**. Orange lenses. Reference: ***Typus Primus — Ardens*** — [legati-operational-register.md](../arsenal-and-logistics/legati-operational-register.md) § Legatus armor |
 
-**Shoulder insignia:** **Left:** **White** frontal-wolf on **crimson** field (or transfer). **Right:** Cohort color (Silence ivory, Shadows black, Stasis gunmetal, Nullity cobalt) + pure-line division rim (black / silver / gold). **Vexilla** identity on the **Vexilla banner** four-field panel (LATIN-CAPS **PRIMA–NONA** — **1st company captain**), not a second shoulder chapter icon.
+**Shoulder insignia:** **Left:** **White** frontal-wolf on **crimson** field (or transfer). **Right:** Cohort color (Silence ivory, Shadows black, Stasis gunmetal, Nullity cobalt) + pure-line division rim (black / silver / gold). **Vexilla** identity on the **Vexilla banner** (LATIN-CAPS **PRIMA–NONA** — **Ancient**), not a second shoulder chapter icon.
 
 **Weapon colors:** **Noviomagus-pattern** bolt weapons — gunmetal, black furniture, minimal crimson pinstripe; chainswords and gladii — steel / ceramite, utilitarian. Cawl-pattern bolt rifle per Munitorum sheet below.
 
-**Organizational markings:** **Vexilla** seat name (**PRIMA–NONA**) on the **Vexilla banner** (LATIN-CAPS field — **1st company captain**). Legatus identity is the ***Alabarda*** (no cloth on the haft). **Company** captains command **100**; **demi-company** lieutenants **50**; **squad** sergeants **5–10**. No *Codex* company color trim on the 500. **Wolf’s Curse** clinical marks: **Furor** — horizontal crimson visor stripe; **Exanimus** — crimson gauntlets/forearms; **Hell Cell** penance — **vertical** helm stripe (distinct). Cohort and division tables: [vexilla-and-visual-summary.md](../arsenal-and-logistics/vexilla-and-visual-summary.md).
+**Organizational markings:** **Vexilla** seat name (**PRIMA–NONA**) on the **Vexilla banner** (LATIN-CAPS field — **Ancient**). Legatus identity is the ***Alabarda*** (no cloth on the haft). **Company** captains command **100**; **demi-company** lieutenants **50**; **squad** sergeants **5–10**. No *Codex* company color trim on the 500. **Wolf’s Curse** clinical marks: **Furor** — horizontal crimson visor stripe; **Exanimus** — crimson gauntlets/forearms; **Hell Cell** penance — **vertical** helm stripe (distinct). Cohort and division tables: [vexilla-and-visual-summary.md](../arsenal-and-logistics/vexilla-and-visual-summary.md).
 
-**Chapter decorations and honor markings:** Campaign kill-tallies on greaves; DECIMA justice iconography; **no** trophy skull theatre on line troops; restrained oath-script on knee plates. **Vexilla banners** carry **success** or (PRIMA only) **obligation** fourth field — [vexilla-by-vexilla-design.md](intro-and-heraldry/vexilla-by-vexilla-design.md). Gilding rare — forge austerity.
+**Chapter decorations and honor markings:** Campaign kill-tallies on greaves; DECIMA justice iconography; **no** trophy skull theatre on line troops; restrained oath-script on knee plates. **Vexilla banners** carry default Chapter face + ordinal, or (PRIMA only) **obligation** — [vexilla-by-vexilla-design.md](intro-and-heraldry/vexilla-by-vexilla-design.md). Gilding rare — forge austerity.
 
 **Symbolics meaning:** **Grey** = iron / civic burden / Noviomagus forge. **Crimson** = blood of the root (mortals the wall shields). **Orange lenses** = watchful machine predation regulated. **Wolf** = frontier predator mastered by geometry (not Fenris tribal god). **Horizontal gladius** = *second blade* / economical strike doctrine. **Waves** = amphibious myth and insertion that won the sector.
 
@@ -281,13 +281,13 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Veterans:** **Siege division** gold-rim pure line; cohort seniors; instructor cadre from *DECIMA* on rotation.
 
-**Command squads:** Legatus retinue around ***Alabarda*** — relay bearers, Confessor / Genetor aides, champion-grade duelists as needed; not *Codex* 10-man company command clone.
+**Command squads:** Legatus retinue around ***Alabarda*** — **Ancient** (banner), relay aides, Confessor / Genetor, champion-grade duelists as needed; not *Codex* 10-man company command clone.
 
 **Other:** **Genetor Primus**, **Confessor Primus** — Chapter-wide banner-court audit ([`disciplines-and-curia-vexilli-plan.md`](../planning/disciplines-and-curia-vexilli-plan.md)). **Custos Ascensum** + **Procurator Ascensum** — ascent / recruitment lattice ([`custos-ascensum-doctrine.md`](doctrine-and-organs/custos-ascensum-doctrine.md)). **Steppenwolf** detached registry ([steppenwolf-doctrine.md](doctrine-and-organs/steppenwolf-doctrine.md)).
 
 ### Specialist ranks
 
-**Prerequisites:** *Librarian* — born psyker, *Librarium* screening. *Techmarine* — technical aptitude, Mars training. *Chaplain* — stoic charisma, Varro selection. *Apothecary* — medical acuity, Drusus pipeline. *Champion* — melee supremacy. *Ancient* — steadfast bearer. *Honor guard* — DECIMA / Castellan retinue excellence.
+**Prerequisites:** *Librarian* — born psyker, *Librarium* screening. *Techmarine* — technical aptitude, Mars training. *Chaplain* — stoic charisma, Varro selection. *Apothecary* — medical acuity, Drusus pipeline. *Champion* — melee supremacy. *Ancient* — steadfast **Vexilla** standard bearer (one per PRIMA–NONA). *Honor guard* — DECIMA / Castellan retinue excellence.
 
 **Librarian —** **Batavian Haruspices** — passive Warp radar, coded rites; active defense **Blindgate**. Chief: **Otho**. [dossier-otho.md](character-dossiers/council-orders/dossier-otho.md).
 
@@ -299,7 +299,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Champion —** **LVPVS IMPERATORIS** (**Emperor’s Wolf**) — **Markus Graile** (incumbent); **Lord Executioner** (classic VIII); Imperial gloss **Emperor’s Champion** / **Chapter Champion**. **Not** a Legatus. Bears ***Par Ferrum Lupi*** (**Decreto** · **Termini**) and primary ***justice vexillum***. See § Details.
 
-**Ancient —** Vexillum / standard doctrine via the **Vexilla banner** (1st captain) and the Legatus ***Alabarda*** as fighting pole; **Radulf LVI-1** (*The Old Wolf*) — Leviathan Dreadnought ancient.
+**Ancient —** **Vexilla banner** bearer (vanilla English; one per **PRIMA–NONA**, Legatus retinue). The **1st captain** does **not** hold the cloth. **No** company Ancients. **Radulf LVI-1** (*The Old Wolf*) — Leviathan **Dreadnought ancient** (different office).
 
 **Honor guard —** **Vexilla DECIMA** — Castellan escort; five supreme posts embedded.
 
@@ -483,7 +483,7 @@ Per-Vexilla split: [military-hierarchy.md](doctrine-and-organs/military-hierarch
 
 **Relic Wargear:** ***The Sentence*** (Alaric force gladius); Legatus ***Alabarda*** patterns; Dreadnought *The Old Wolf*.
 
-**Chapter specific wargear:** ***Alabarda*** (Legatus weapon — relay / *auspex* on the haft); **Vexilla banner** (1st company captain); **Pillars of Noviomagus** traction boots; Noviomagus-pattern weapons — [weapons-and-equipment-catalog.md](../arsenal-and-logistics/weapons-and-equipment-catalog.md), [noviomagus-standard-engineering.md](../arsenal-and-logistics/noviomagus-standard-engineering.md).
+**Chapter specific wargear:** ***Alabarda*** (Legatus weapon — relay / *auspex* on the haft); **Vexilla banner** (**Ancient**); **Pillars of Noviomagus** traction boots; Noviomagus-pattern weapons — [weapons-and-equipment-catalog.md](../arsenal-and-logistics/weapons-and-equipment-catalog.md), [noviomagus-standard-engineering.md](../arsenal-and-logistics/noviomagus-standard-engineering.md).
 
 **Servitors:** Forge and crypt labor; modified for hazardous foundries — counts **not** published.
 

@@ -7,7 +7,7 @@
 **Chapter offices:** **Siege Master** of the *Cohors Batavorum*; ***Maior Caementarius*** (**Greater Mason**); ***Pater Murorum*** (**Father of Walls** — Guard and mortal mesh coinage).  
 **Seat:** **Bifrons-Ferrum** — dual-world gulf fortifications, stasis-adjacent vault war, siege core of the Crucible macro-system.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (SEXTA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **Ancient** (SEXTA). Default Chapter face + LATIN-CAPS; **not** 1st captain. Register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
 **Apparent service age:** ~240–290 Terran years (estimate).
 
 ---

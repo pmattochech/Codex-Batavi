@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, TERTIA. **Chapter mastery (scroll):** **Master of the Breach** (*Magister Rupturae*).  
 **Seat:** **Khan-Bator Prime** — agri-industrial hazard theater: silos, chemical moons, oxygen-rich fires.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (TERTIA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **Ancient** (TERTIA). Default Chapter face + LATIN-CAPS; **not** 1st captain. Register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
 **Apparent service age:** ~200–250 Terran years (estimate).
 
 ---

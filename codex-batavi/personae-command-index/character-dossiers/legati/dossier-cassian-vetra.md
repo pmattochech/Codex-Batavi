@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, NONA. **Chapter mastery (scroll):** **Master of the Watch** (*Magister Vigiliae*) — approaches, relay mesh, early contact before wall mobilization. **Cohort-chief lattice:** **Shadows**.  
 **Seat:** **Marco de Vetra** — Threshold **bait-moon**; relay survival, sector cry, layered delay and denial around the **Vacuum Shouter** and critical antenna spines.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (NONA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Silent Hours** (140.M42) — Shouter relay held through Maleventum-class EM storm.  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **Ancient** (NONA). Default Chapter face + LATIN-CAPS; **not** 1st captain. Register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Seat chronicle (not unique banner art):** **Silent Hours** (140.M42) — Shouter relay held through Maleventum-class EM storm.  
 **Apparent service age:** ~250–300 Terran years (estimate).
 
 ---

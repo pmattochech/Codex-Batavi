@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, SEPTIMA. **Chapter mastery (scroll):** **Master of the Vent** (*Magister Venti*).  
 **Seat:** **Vitreus** — thermal and photonic stress; glass seas, lens forges, plasma vent discipline.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (SEPTIMA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Null-Vent Covenant** (112.M42) — plasma/photonic cascade contained without forgeship detonation.  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **Ancient** (SEPTIMA). Default Chapter face + LATIN-CAPS; **not** 1st captain. Register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Seat chronicle (not unique banner art):** **Null-Vent Covenant** (112.M42) — plasma/photonic cascade contained without forgeship detonation.  
 **Apparent service age:** ~190–240 Terran years (estimate).
 
 ---

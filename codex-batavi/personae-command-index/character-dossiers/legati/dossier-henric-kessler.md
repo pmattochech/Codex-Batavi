@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, SECVNDA. **Chapter mastery (scroll):** **Master of the Law** (*Magister Legum* on formal filings). **Cohort-chief lattice:** **Silence**.  
 **Seat:** **Castra-Vetera Prime** — Central Bastion macro-system; corridor, crowd, and legally sensitive kill geometry.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (SECVNDA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **Ancient** (SECVNDA). Default Chapter face + LATIN-CAPS; **not** 1st captain. Register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
 **Apparent service age:** ~220–270 Terran years (estimate).
 
 ---

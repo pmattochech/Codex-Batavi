@@ -10,15 +10,15 @@
 
 **Alabarda:** The Legatus **halberd / polearm** — head group, haft **relay**, merged tactical ***auspex***, *Genetor Vexilli* flags, biological-failure telemetry, butt spike. **Combat instrument.** **No banner on the haft.**
 
-**Vexilla banner (cloth):** The **four-field battle standard** of that unit — chapter icon, **LATIN-CAPS** ordinal (**PRIMA**–**NONA**), anchor/specialty, success or (PRIMA only) obligation/remembrance — [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md). **Bearer:** **1st company captain** of that Vexilla. Furl, plant, and carry are **captain** authority.
+**Vexilla banner (cloth):** Default **Chapter** face + **LATIN-CAPS** ordinal (**PRIMA**–**NONA**); **PRIMA** adds **obligation / remembrance** — [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md). **Bearer:** **Ancient** of that Vexilla (Legatus retinue). Furl, plant, and carry are **Ancient** authority. The **1st company captain** does **not** hold the cloth. **No** company banners.
 
 **Carry law:** The pole and the cloth are **one lattice** (same seat name) and **two hands**. They are **not** mounted together.
 
 **Haft core (Alabarda):** Relay spine, *Genetor Vexilli* clearance flags, merged tactical *auspex*, biological-failure telemetry — same instrument class as [chapter-identity.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) and [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.
 
-**What varies on the Alabarda:** Only the **head group** (and, for **NONA**, certified **haft length modes**) — *Armourium* **pattern** per Vexilla seat. The metal answers **theater geometry**. The cloth answers **unit identity** in the captain’s hands.
+**What varies on the Alabarda:** Only the **head group** (and, for **NONA**, certified **haft length modes**) — *Armourium* **pattern** per Vexilla seat. The metal answers **theater geometry**. The cloth answers **unit identity** in the **Ancient’s** hands.
 
-**DECIMA:** Flies the separate **justice vexillum**, not a Legatus *Alabarda* clone — [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §4. **LVPVS IMPERATORIS** (Emperor’s Wolf) bears the justice cloth in field; **does not** receive a Legatus *Alabarda* head group. DECIMA has **no** four-field Vexilla banner on a 1st captain as PRIMA–NONA do.
+**DECIMA:** Flies the separate **justice vexillum**, not a Legatus *Alabarda* clone — [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §4. **LVPVS IMPERATORIS** (Emperor’s Wolf) bears the justice cloth in field; **does not** receive a Legatus *Alabarda* head group. DECIMA has **no** Vexilla **Ancient**.
 
 ---
 
@@ -26,7 +26,7 @@
 
 **Alabarda runtime** — shaft length (where certified), Alabarda plant site, head use in contact — is **sole Legatus authority**. **No** captain, *Genetor Vexilli*, or *Strategium* consult is required to change mode in combat.
 
-**Banner runtime** — furl, unfurl, ground-pin — is **1st company captain** authority under the Legatus’s geometry, not a second Legatus rig.
+**Banner runtime** — furl, unfurl, ground-pin — is **Ancient** authority under the Legatus’s geometry, not a second Legatus rig.
 
 The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes **solo** read of EM, plant load, corridor clearance, and timing. *Armourium* certifies **equipment safety** at manufacture/refit (machine law), not per-button **human** veto in the field.
 
@@ -120,9 +120,9 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 **Vexilla:** **OCTAVA** (Maleventum / reef).
 
-**Head:** **Compact power spear** — depressed cross-section for corridor carry. **Micro hook** — boarding harness, cable, wreck snare. **Hammer cap** — bulkhead knock rhythm (melta follows). Relay **skin-tight** under EM hash. **Power sword** on belt for pressurized passages where pole length is liability. Banner **furled** in the **1st captain’s** hands in the same fight — not on this haft.
+**Head:** **Compact power spear** — depressed cross-section for corridor carry. **Micro hook** — boarding harness, cable, wreck snare. **Hammer cap** — bulkhead knock rhythm (melta follows). Relay **skin-tight** under EM hash. **Power sword** on belt for pressurized passages where pole length is liability. Banner **furled** in the **Ancient’s** hands in the same fight — not on this haft.
 
-**Operational fit:** Boarding, passage containment — **lane axis control**; plant at bulkhead choke or prism face for **nested-fire** sector handoff; banner **furled** under EM hash (**1st captain**); **combat shield** left-lead when mounted (Legatus mount certification — **not** integral office plate).
+**Operational fit:** Boarding, passage containment — **lane axis control**; plant at bulkhead choke or prism face for **nested-fire** sector handoff; banner **furled** under EM hash (**Ancient**); **combat shield** left-lead when mounted (Legatus mount certification — **not** integral office plate).
 
 **Bearer dossier:** [dossier-ivar-malevent.md](../personae-command-index/character-dossiers/legati/dossier-ivar-malevent.md).
 
@@ -160,8 +160,8 @@ The Legatus seat is filed as proof of **judgment capacity**; the lattice assumes
 
 ## 13. Related
 
-- [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) — *Alabarda* weapon vs Vexilla banner (1st captain)  
-- [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) — four-field register  
+- [intro-and-heraldry.md](../personae-command-index/intro-and-heraldry/chapter-identity.md) — *Alabarda* weapon vs Vexilla banner (**Ancient**)  
+- [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) — default Chapter face; **Ancient** bearer  
 - [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3 — Legatus / relay  
 - [vexilla-operational-armory.md](vexilla-operational-armory.md) — theater proficiency per Vex  
 - [lore-images/alabarda-vexillum-layout-reference.png](../lore-images/alabarda-vexillum-layout-reference.png) — **legacy** yard-on-haft art; cloth is **not** on the Alabarda  

@@ -6,7 +6,7 @@
 - [Visual identity & paint guide (EN) — Citadel mapping](../visual-identity-paint-guide.md)
 - [specialty-cohorts.md](specialty-cohorts.md)
 - [vexilla-and-visual-summary.md](vexilla-and-visual-summary.md)
-- [../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) — Vexilla banner four-field register (1st captain); PRIMA §2.2; DECIMA justice vexillum
+- [../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) — Vexilla banner (Ancient; default Chapter face); PRIMA §2.2; DECIMA justice vexillum
 - [alabarda-head-groups.md](alabarda-head-groups.md) — *Alabarda* **head groups** per Vexilla (PRIMA–NONA); bearer authority; NONA grav-lock haft
 
 ## Vexilla armory (theater bias + cohort kit)

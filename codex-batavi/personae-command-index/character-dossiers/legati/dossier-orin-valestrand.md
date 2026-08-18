@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, QVARTA. **Chapter mastery (scroll):** **Master of the Anchor** (*Magister Ancorae*). **Cohort-chief lattice:** **Stasis**.  
 **Seat:** **Incus-Gravis sphere** (Tertius / Secundus jurisdiction) — high-gravity shingle seas, inverted hives, grav-locked trench war.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (QVARTA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **March defense** — static grav-locked line under Tyranid **Shadow in the Warp** ([ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md)).  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **Ancient** (QVARTA). Default Chapter face + LATIN-CAPS; **not** 1st captain. Register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Seat chronicle (not unique banner art):** **March defense** — static grav-locked line under Tyranid **Shadow in the Warp** ([ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md)).  
 **Apparent service age:** ~230–280 Terran years (estimate; frontier-native filing).
 
 ---

@@ -2,7 +2,7 @@
 
 *Strategium* summary — **operational strategy**, **fighting identity**, and **armor baseline** for each **Legatus** seat. Castellan contrast: [`castra-lupus-doctrine.md`](castra-lupus-doctrine.md) §1.1 (*lupus in castra* vs *vir in acie*).
 
-**Shared Legatus law (all nine):** One **indivisible Vexilla** (~500); ***Alabarda*** as **weapon** (haft relay / *auspex*; **no cloth**); **Vexilla banner** on the **1st company captain** (four-field panel — PRIMA fourth = obligation, not triumph); **sole runtime authority** on Alabarda actuation ([`alabarda-head-groups.md`](alabarda-head-groups.md) §2); ***Curia Vexilli*** (Genetor + Confessor parallel); **one Chapter mastery scroll** per Legatus ([`legatus-chapter-mastery.md`](../personae-command-index/doctrine-and-organs/legatus-chapter-mastery.md)); **certified *Watch cycle*** for post–**051.M42** appointments ([`deathwatch-and-batavorum.md`](../political-relations/deathwatch-and-batavorum.md)); **Triumvirate extension** within assigned Phalanx seat — **not** Castellan substitute.
+**Shared Legatus law (all nine):** One **indivisible Vexilla** (~500); ***Alabarda*** as **weapon** (haft relay / *auspex*; **no cloth**); **Vexilla banner** on the **Ancient** (default Chapter face + LATIN-CAPS — PRIMA obligation, not triumph); **sole runtime authority** on Alabarda actuation ([`alabarda-head-groups.md`](alabarda-head-groups.md) §2); ***Curia Vexilli*** (Genetor + Confessor parallel); **one Chapter mastery scroll** per Legatus ([`legatus-chapter-mastery.md`](../personae-command-index/doctrine-and-organs/legatus-chapter-mastery.md)); **certified *Watch cycle*** for post–**051.M42** appointments ([`deathwatch-and-batavorum.md`](../political-relations/deathwatch-and-batavorum.md)); **Triumvirate extension** within assigned Phalanx seat — **not** Castellan substitute.
 
 **Armor (Chapter law):** Legati wear **Legatus artificer** commissions — one configuration per incumbent (**rite of the block** with **Kadmos**; vault legacy parts **Mark V and later only**, **refitted** where applicable — always **artificer** grade). Default chassis: **Mark X Tacticus–class** Noviomagus (**line mass** among the five hundred). ***Typus Sextus — Bifronte*** **exception:** daily **Tartaros-pattern TDA** office plate only. **PRIMA** — **Corbec Ardens** — holds ***Typus Primus — Ardens***: the **reference gauge** other Legati briefs trace and PRIMA line plate is **vex-calibrated** against. **Not** *Castra-Lupus*. Per-incumbent kit: § **Armor** below; **PRIMA–NONA** locked.
 
@@ -75,7 +75,7 @@ Full scopes: [`legatus-chapter-mastery.md`](../personae-command-index/doctrine-a
 | **Theater strategy** | **Industrial war baseline** — bolt volume, chainswords, power gladii, sustained automatic fire; PRIMA = **calibration Vexilla** for the mesh |
 | ***Alabarda*** | **Type Primus** (reference) — power axe cheek, short power impaler, power hammer, butt plant |
 | **Operational identity** | Ammunition economy as moral law; **Noviomagus austerity** (minimal heraldic deviation); tie-breaker via **live fire tallies**; all four specialty cohorts fed equally |
-| **Field 4** | **Obligation / remembrance** (Malakor–Valerius register) — broken-cog border; *debt we carry — not a crime you committed* |
+| **Banner exception** | **Obligation / remembrance** (Malakor–Valerius register) — broken-cog border; *debt we carry — not a crime you committed* |
 | **Legatus Ring** | Virtue: **continuity under humiliation** · Risk: **over-indexing throughput certainty when adaptive ambiguity is required** |
 | **Chapter mastery** | **Master of the Keep** (*Magister Castri*) |
 | **Signature ops** | Malakor witness (050.M42); Silent Vigil garrison; ~189 Hive Vespera purge lattice |
@@ -94,7 +94,7 @@ Full scopes: [`legatus-chapter-mastery.md`](../personae-command-index/doctrine-a
 | **Theater strategy** | **Measured fire** — stalker optics, semi-auto discipline, grav-gun support; assigned targets, minimal mass-reactive sprawl |
 | ***Alabarda*** | **Type Hasta** — long power spear spine, thrust-primary, minimal sweep |
 | **Operational identity** | Dry jurist in ceramite; Lex clauses to bind trigger fingers; high **Silence Cohort** joint certification; collateral filed as **Administratum liability** |
-| **Field 4** | **Hive Dominus compliance** (078.M42) — ministry spires held without collateral breach |
+| **Seat chronicle** | **Hive Dominus compliance** (078.M42) — ministry spires held without collateral breach |
 | **Legatus Ring** | Virtue: **compliance without theater** · Risk: **refusing Tier III plain language because Administratum optics cannot absorb it** |
 | **Also** | **Master of the Law** (*Magister Legum*) · **Silence cohort-chief** (lattice hat — how ivory fights; not a second scroll) ([`military-hierarchy.md`](../personae-command-index/doctrine-and-organs/military-hierarchy.md) §3.5) · **Castra-Vetera armory vault** / *Castra-Lupus* sustainment ledger ([`castra-lupus-doctrine.md`](castra-lupus-doctrine.md) §4) |
 | **Armor** | ***Typus Secundus — Kessler*** — **locked** (see below) |
@@ -112,7 +112,7 @@ Full scopes: [`legatus-chapter-mastery.md`](../personae-command-index/doctrine-a
 | **Theater strategy** | **Thermal breach** — flamers, meltas, pyreblasters, heavy bolt pistols in tight stacks; chem-sealed doctrine |
 | ***Alabarda*** | **Type Ignis** — corrosive-fault chemistry on striking surfaces; chem-sealed haft |
 | **Operational identity** | Controlled heat; ambient **O₂** tick before hatches; Ruin as hammer with Suppression **live-burn** rotation; melta paired with **civilian evacuation windows** |
-| **Field 4** | **Vigilax triangulation** (110.M42) — kill-box with Drusus; Varro held the square |
+| **Seat chronicle** | **Vigilax triangulation** (110.M42) — kill-box with Drusus; Varro held the square |
 | **Legatus Ring** | Virtue: **discipline under lying air** · Risk: **treating inversion as purely biological plume geometry** |
 | **Chapter mastery** | **Master of the Breach** (*Magister Rupturae*) |
 | **Armor** | ***Typus Tertius — Brach*** — **locked** (see below) |
@@ -130,7 +130,7 @@ Full scopes: [`legatus-chapter-mastery.md`](../personae-command-index/doctrine-a
 | **Theater strategy** | **High-G static hold** — heavy bolt rifles, meltas, tac missiles, storm shields on chokes; semi-auto on crest |
 | ***Alabarda*** | **Type Securis** — power cleaver / guillotine plane, sliding hook, heaviest plant spike |
 | **Operational identity** | **March of the Machine** school (Chapter registered); boot debt and **rotation law**; anchor under **Shadow in the Warp**; Branimir’s Silence for cult work |
-| **Field 4** | **March defense / Ruhe** (048.M42) — grav-locked line under Tyranid veil |
+| **Seat chronicle** | **March defense / Ruhe** (048.M42) — grav-locked line under Tyranid veil |
 | **Legatus Ring** | Virtue: **hold without liturgy** · Risk: **treating Castellan absence as victory leave, not substitution chain** |
 | **Chapter mastery** | **Master of the Anchor** (*Magister Ancorae*) |
 | **Cohort-chief** | **Stasis** |
@@ -149,7 +149,7 @@ Full scopes: [`legatus-chapter-mastery.md`](../personae-command-index/doctrine-a
 | **Theater strategy** | **Storm assault** — highest jump allocation, Inceptor adjacency, boltstorm descent; **chainsword-primary** pure line (Chapter **exception**) |
 | ***Alabarda*** | **Type Descensus** — bardiche chainaxe (forward long beard), long shaft, no impaler; belt chainsword; power gladius finish; dual-wield when planted or escort-borne |
 | **Operational identity** | **Closure speed** scoreboard; **frontline slaughter → plant → contagion spread** from failed pressure point; countdown vox; **Wild Hunt** when massed enemies spike tempo |
-| **Field 4** | **Gutgrind Descent** (121.M42) — jump clearance, Ork scrap-spire, Selene-Black |
+| **Seat chronicle** | **Gutgrind Descent** (121.M42) — jump clearance, Ork scrap-spire, Selene-Black |
 | **Legatus Ring** | Virtue: **decisive tempo under uncertainty** · Risk: **premature Tier escalation if stress lanes are skipped** |
 | **Chapter mastery** | **Master of the Hunt** (*Magister Venationis*) — pursuit of mesh-wrongdoers who **escaped** (cross-seat; inside or outside mesh) |
 | **Notable** | Dreadwolf Red Tide (074.M42) — withheld Einar cull; Luna Sigma outer ring (168.M42) |
@@ -170,7 +170,7 @@ Full scopes: [`legatus-chapter-mastery.md`](../personae-command-index/doctrine-a
 | **Theater strategy** | **Siege and vault war** — densest **TDA / Indomitor** pool; plasma cannons, cyclones, storm shields; Siege = cultural core |
 | ***Alabarda*** | **Type Malleus** — dominant power maul / forge hammer; reinforced breach plant haft |
 | **Operational identity** | **Gate A / Gate B** single equation; **twin-phase commit** (variable fast wave → homer **GREEN** anvil / **RED** extract); vigil-first patience → staccato breach minute; **Legati forge councils** per seat |
-| **Field 4** | **Korvus twin breach** (098.M42) — climax of **Cage of Bifrons** (*Ferrum Cage*); two forts, one Strategium tick |
+| **Seat chronicle** | **Korvus twin breach** (098.M42) — climax of **Cage of Bifrons** (*Ferrum Cage*); two forts, one Strategium tick |
 | **Legatus Ring** | Virtue: **Gravis meatgrinder clarity** · Risk: **slowing redundancy activation until physical breach confirms command inversion** |
 | **Armor** | ***Typus Sextus — Bifronte*** — **locked** (see below) |
 | **Dossier** | [`dossier-gervas-bifronte.md`](../personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md) |
@@ -187,7 +187,7 @@ Full scopes: [`legatus-chapter-mastery.md`](../personae-command-index/doctrine-a
 | **Theater strategy** | **Energy stress** — plasma incinerators, las fusils, neo-volkite; bolters as failure backbone; signed **vent windows** |
 | ***Alabarda*** | **Type Lamina** — monomolecular edge cheek, mono spike, insulated hammer |
 | **Operational identity** | Ritual silence during overcharge; **punishes careless plasma** harder than any other Vex; Mechanicus tension without Techmarine merge |
-| **Field 4** | **Null-Vent Covenant** (112.M42) — plasma/photonic cascade contained without forgeship detonation |
+| **Seat chronicle** | **Null-Vent Covenant** (112.M42) — plasma/photonic cascade contained without forgeship detonation |
 | **Legatus Ring** | Virtue: **punishes careless fire** · Risk: **over-focusing material vent failure while command IFF collapses** |
 | **Chapter mastery** | **Master of the Vent** (*Magister Venti*) |
 | **Armor** | ***Typus Septimus — Phaetron*** — **locked** (see below) |
@@ -203,9 +203,9 @@ Full scopes: [`legatus-chapter-mastery.md`](../personae-command-index/doctrine-a
 | ----- | ---- |
 | **Seat** | **Great Reef / Station-Maleventum** — void fight, boarding, ion scourge |
 | **Theater strategy** | **Void fight** — combat shields, power swords, compact bolters, grav-chutes, hull melta; EM-filtered auspex |
-| ***Alabarda*** | **Type Contus** — compact void spear, micro hook, bulkhead hammer cap; **no cloth** on the haft (banner is 1st captain) |
+| ***Alabarda*** | **Type Contus** — compact void spear, micro hook, bulkhead hammer cap; **no cloth** on the haft (banner is **Ancient**) |
 | **Operational identity** | Soft vox on open channels; **two void seals** counted pre-battle; corridor interlock; buys seconds for NONA relay |
-| **Field 4** | **Witness Ford intercept** (096.M42) — void net with Black Templars / Helbrecht |
+| **Seat chronicle** | **Witness Ford intercept** (096.M42) — void net with Black Templars / Helbrecht |
 | **Legatus Ring** | Virtue: **void fire brigade pride without privatizing mesh law** · Risk: **blocking inland terminal law as “not OCTAVA theater”** |
 | **Chapter mastery** | **Master of the Fleet** (*Magister Classis*) |
 | **Cohort-chief** | **Nullity** (field; **Otho** trains) |
@@ -224,7 +224,7 @@ Full scopes: [`legatus-chapter-mastery.md`](../personae-command-index/doctrine-a
 | **Theater strategy** | **Relay survival** — sustained kinetic pin, tac missiles, scorched couplings; **time and signal** over local kill ratios; layered delay until Chapter mobilization |
 | ***Alabarda*** | **Type Fulmen** — coupling maul, sabot spike; **grav-lock** telescoping haft (relay extended / combat short) |
 | **Operational identity** | Expendable in *Strategium* math but **not cheap**; liturgical vox as **signal discipline**; manual vox redundancy beside *Alabarda* relay |
-| **Field 4** | **Silent Hours** (140.M42) — Shouter + laser farm through Maleventum-class EM storm |
+| **Seat chronicle** | **Silent Hours** (140.M42) — Shouter + laser farm through Maleventum-class EM storm |
 | **Legatus Ring** | Virtue: **ugly solutions that live** · Risk: **misreading Castellan suppression as jamming and false-escalating Tier II** |
 | **Chapter mastery** | **Master of the Watch** (*Magister Vigiliae*) |
 | **Cohort-chief** | **Shadows** |
