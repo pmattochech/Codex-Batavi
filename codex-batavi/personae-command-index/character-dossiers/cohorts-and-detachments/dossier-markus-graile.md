@@ -10,7 +10,7 @@
 **Standards:** Does **not** bear a Legatus *Alabarda* or four-field Vexilla cloth.  
 **Apparent service age:** Valerian-scarred; exact years **TBD** against the Hold clock. Do **not** print leftover **180–220** / **051.M42** / **168.M42** paper as his rise.
 
-**Fence:** Present incumbent. **Rise** is the **Valerian** war (Alaric’s side). Do **not** collapse him with the **first** Emperor’s Wolf at **Valerius**’s death — that incumbent remains **TBD**. [`valerian-heresy.md`](../../events-and-chronologies/valerian-heresy.md).
+**Fence:** Present incumbent and **first** Emperor’s Wolf. **Title earned** at Valerian close: he **fends Versibar** while **Alaric duels Valerius**; they fight **as one**; **Alaric** lands the **killing blow**. Graile assists — not a second killer of record. [`valerian-heresy.md`](../../events-and-chronologies/valerian-heresy.md).
 
 ---
 
@@ -21,7 +21,7 @@
 * **Physique:** Balanced — neither the tallest nor the heaviest in DECIMA, which is **deliberate**. Graile models **median** Batavi morphology so every rank sees **THE ASTARTES** as achievable geometry, not unreachable monument. The median is **persona**, not accident: he refuses a body the line cannot follow.  
 * **Armor:** **Legatus-grade artificer** Noviomagus commission — **not** *Castra-Lupus*; **not** a Legatus *Typus* seat pattern. **Balanced manifest** loadouts per [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.10 when instructing; field issue favors duelist mobility.  
 * **Arms — *Par Ferrum Lupi*:** **Decreto** (artificer **power sword** — order **issued**, the **man**) and **Termini** (artificer **gladius** — termination **delivered**, the **wolf**). Barracks: **“the Pair.”** Prose may call **Termini** **the Bite**.  
-* **Combat doctrine:** ***Modus Binorum Ferrum*** — paired long/short alternation under *Analytical Silence*; agile flow (not greatsword mass). **Decreto** opens; **Termini** closes. That sequence is also how he **leashes** Wolf’s Curse (§2.4).  
+* **Combat doctrine:** ***Modus Binorum Ferrum*** when the Pair is issued — paired long/short under *Analytical Silence*. **Decreto** opens; **Termini** closes. That sequence is also how he **leashes** Wolf’s Curse (§2.4). **Man-at-arms:** he fights with **precision, lethality, and perfection** with **any** weapon he holds — issued or **improvised**. The Pair is office kit, not the limit of the man.  
 * **Visage:** Helm **sealed**. No kitchen privilege. Not Drusus or Varro’s feeding geometry — ordinary DECIMA plate. Mortals and most brothers meet the **median helm**, not a face.
 
 ---
@@ -56,12 +56,13 @@ Mortals are **not** owed his tells. Martha learns **Alaric**. Serfs and hive cad
 
 ### 2.3 Relation with the Legati
 
-Not a peer. **Legatus-weight in honor**, no seat, no Ring vote (witness only when seated). He will enter their geometry on Castellan orders. They must swallow that.
+Not a peer. **Legatus-weight in honor**, no seat, no Ring vote (witness only when seated).
 
+* **Pairing (combat):** He can **pair with any Legatus** the way he pairs with **Alaric** — he **accompanies them in their own style** and **complements** it. Gauge with Corbec, measured fire with Kessler, assault with Sturmwahl, void with Ivar, and so on. He does not overwrite their geometry; he **fits** it. That is man-at-arms, not a tenth governor.  
 * **Loyal three** (**Kessler** SECVNDA, **Bifronte** SEXTA, **Cassian** NONA): wartime kin texture — they **stayed**. They do not need to perform trust. He still will not govern their 500.  
-* **The six who crossed** (today’s **Corbec, Brach, Valestrand, Sturmwahl, Phaetron, Ivar**): he is a **standing reminder** that loyalty was a choice. Professional. Not friends. He does not recite Valerian in their briefing rooms; the Pair and the justice cloth already do.  
+* **The six who crossed** (today’s **Corbec, Brach, Valestrand, Sturmwahl, Phaetron, Ivar**): in the briefing room he is a **standing reminder** that loyalty was a choice. In the fight he will still **pair** and complement. Professional. He does not recite Valerian at them; the justice cloth already does.  
 * **Corbec:** **Mutual audit** — PRIMA **gauge** vs DECIMA **teaching**. Respect tinged with **exhaustion**. Closest thing to a Legatus conversation Graile will have that is not an order.  
-* **Cohort chiefs** (Kessler Silence, Cassian Shadows, Valestrand Stasis, Ivar Nullity): he certifies the **50s** as Tenth instructor — **stripe method**, not brother-ownership. Home Legatus keeps the man.  
+* **Cohort chiefs** (Kessler Silence, Cassian Shadows, Valestrand Stasis, Ivar Nullity): he certifies the **50s** as Tenth instructor — **stripe method**, not brother-ownership. Home Legatus keeps the man. He **walked** those rotations himself (§3).  
 * He does not compete for *Alabarda* honor. A Legatus who treats him as a rival has already misread the office.
 
 ### 2.4 Wolf’s Curse
@@ -78,17 +79,21 @@ Not Alaric’s Type III **hold**. Graile’s curse wants the **lunge** — Furor
 
 ## 3\. Combat and doctrine
 
-* **Rise path (his, not later lattice):** Distinguished on **Alaric’s side** in the **Valerian** war. Specialty cohorts did **not** exist yet. Home seat **TBD**. He does **not** owe the later DECIMA checklist (Watch cycle, four cohort rotations, **051.M42** paper) as the story of how he **got** here — that lattice is what he now **teaches** to admissions after the stripes exist.  
-* **Champion function:** When the Castellan orders **champion weight**, Graile enters enemy **command geometry**, answers **warlords** and **highest threats** (and the **20-year tithe convoy** when that is the lunge), and returns — so **Alaric** does not leave the wall. **Decreto** names; **Termini** finishes.  
+* **Man-at-arms:** Precision, lethality, perfection — **any** weapon, including **improvised**. He is the Chapter’s copy-standard for **how a Batavi holds a tool**, not only for the Pair.  
+* **Pairing:** Fights **as one** with Alaric (Valerian close is the proof). Same faculty with **any Legatus**: enter their style, complement, do not steal the seat’s rhythm.  
+* **Champion earned (Valerian close):** He **fends Versibar** (Execratio war-forms pressing the ring) while **Alaric duels Valerius**. They fight **as one**. **Alaric** delivers the **killing blow**. Graile **assists**. That geometry **is** the title — first **LVPVS IMPERATORIS**. Wiki flavour only; no chronicle.  
+* **Cohort rotations:** Specialty stripes do **not** exist **during** the war. **After** they are cut (Hold scars), Graile **walks all four** (Silence, Shadows, Stasis, Nullity). He is **not** exempt. He is the man who then **teaches** the 50s. Do not file him as a champion who skipped the teeth. Line divisions (Suppression / Ruin / Siege) are inside the same man-at-arms file — he can fight any of them.  
+* **Champion function (standing):** When the Castellan orders **champion weight**, Graile enters enemy **command geometry**, answers **warlords** and **highest threats** (and the **20-year tithe convoy** when that is the lunge), and returns — so **Alaric** need not leave the wall. When a **Legatus** holds the wall, Graile can **lunge beside that seat’s style** the same way. **Decreto** names; **Termini** finishes — unless the tool in hand is whatever the corridor gave him.  
 * **DECIMA command:** Moves the battle grid when the Castellan orders; organ supremes keep their lanes. Certifies cohort modules on foreign Vexilla soil as **instructor-out** when tasked.
 
 ---
 
 ## 4\. History (in-universe — chronology access)
 
-* **Valerian (the rise):** Hold, pre-Cadia, after nine Vexilla. Graile **stays** with Alaric. That loyalty is the root of the present office **for this man**. Exact rank in the war **TBD**. **Not** assumed to be the unnamed first Wolf who slays Valerius with Alaric.  
-* **DECIMA:** Founded at Valerian **close** from Alaric’s loyalists (**500** or more). Graile’s place in that first body **follows** the rise — present Wolf, not a second origin story.  
-* **Present:** Bears ***justice vexillum*** in Castellan escort, high-judgment deployments, and tithe-window lunges; runs **closed** DECIMA refinement cages on Noviomagus — Alaric sometimes observes **without** announcement.
+* **Valerian (the rise and the title):** Hold, pre-Cadia, after nine Vexilla. Graile **stays** with Alaric. At **close:** he **fends Versibar** while Alaric **duels Valerius**; they fight **as one**; **Alaric** lands the **killing blow**. Graile is **first** Emperor’s Wolf from that proof. Home seat before DECIMA **TBD**.  
+* **DECIMA:** Founded at the same close from Alaric’s loyalists (**500** or more). Graile commands the battle grid on Castellan orders — first incumbent, not a later replacement.  
+* **After Valerian:** Walks the **four specialty-cohort rotations** once those scars exist; remains the man-at-arms standard.  
+* **Present:** Bears ***justice vexillum*** in Castellan escort, Legatus pairing, high-judgment deployments, and tithe-window lunges; runs **closed** DECIMA refinement cages on Noviomagus — Alaric sometimes observes **without** announcement.
 
 Leftover **Sigma Moon / 168.M42** captain-rise and **~051.M42** office-ratification stamps are **unmined paper**. Do not use them as Graile’s biography.
 
@@ -96,7 +101,7 @@ Leftover **Sigma Moon / 168.M42** captain-rise and **~051.M42** office-ratificat
 
 ## 5\. Relations
 
-* **Alaric:** Fear and love in Batavi proportions — **distance** and **pride**. Graile would die **without** expecting acknowledgment; Alaric has **once** nodded at him across a kill field (Graile treats it as **sufficient** canon). Hold vs lunge: Graile does not ask to share the wall.  
+* **Alaric:** They fight **as one** — proved at Valerian close (Alaric the duel and the killing blow; Graile the Versibar ring). Fear and love in Batavi proportions — **distance** and **pride**. Graile would die **without** expecting acknowledgment; Alaric has **once** nodded at him across a kill field (Graile treats it as **sufficient** canon). Hold vs lunge: Graile does not ask to share the wall.  
 * **Drusus / Varro / Kadmos / Otho:** Professional **clearance** — each supreme uses Graile as **sanity check** on whether DECIMA line still **matches** order reality; **not** his subordinates in organ law. Drusus owns curse telemetry; Varro owns *Axiom* when the spend goes wrong.  
 * **Legati:** §2.3.  
 * **Cael Dravic:** Line NCO under champion detachments — trusted overwatch; Garmr’s Shelf witness file intact.  

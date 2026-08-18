@@ -6,7 +6,7 @@
 **Archetype:** Industrial beast / living wall  
 **Estimated age:** **~310 years as Batavi** (Hold **~300** + Indomitus **~12**). Older as a **Grey Hound** (pre-Reclamation service **TBD**). Do not print leftover 180.M42 paper as his year-count.
 
-**Origin war:** Grey Hounds → [`the-reclamation.md`](../../events-and-chronologies/the-reclamation.md). Execratio fall/return: **during the Reclamation** (year TBD). **Name:** Aethelgard witnesses at the **end of the middle-section** — [`der-batav-myth.md`](../../../lexicon-and-litanies/der-batav-myth.md). **Valerius:** slain by Alaric and the **Emperor’s Wolf**.
+**Origin war:** Grey Hounds → [`the-reclamation.md`](../../events-and-chronologies/the-reclamation.md). Execratio fall/return: **during the Reclamation** (year TBD). **Name:** Aethelgard witnesses at the **end of the middle-section** — [`der-batav-myth.md`](../../../lexicon-and-litanies/der-batav-myth.md). **Valerius:** Alaric duels him and lands the **killing blow**; **Markus Graile** fends **Versibar** and fights **as one** with Alaric — **first** Emperor’s Wolf.
 
 ## 1\. PSYCHOLOGICAL AND COMMAND PROFILE
 
