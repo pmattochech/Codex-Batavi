@@ -23,6 +23,8 @@ Brother-war during the Hold. **Valerius** (original **PRIMA** Legatus) becomes *
 
 **Specialty cohorts** (Silence / Shadows / Stasis / Nullity) do **not** exist as pauldron-law **during** this war. They are later **Hold** scars, **after** Valerian close — flavour lock: [`specialty-cohorts.md`](../../arsenal-and-logistics/specialty-cohorts.md) §§3–3.3. Do **not** put ivory / black / gunmetal / cobalt stripes on Valerian prose.
 
+**Markus Graile:** **Rise** is this war — he **stays** with Alaric (home seat **TBD**). Present **Emperor’s Wolf**. Do **not** collapse him with the **first** incumbent at Valerius’s death (still **TBD**). Persona: [`dossier-markus-graile.md`](../character-dossiers/cohorts-and-detachments/dossier-markus-graile.md).
+
 ---
 
 ## Fall (keep)

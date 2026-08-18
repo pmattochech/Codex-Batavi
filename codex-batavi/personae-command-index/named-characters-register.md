@@ -48,7 +48,7 @@
 | **Cassian Vetra** — Legatus, NONA | Marco de Vetra relay; Vacuum Shouter denial geometry |
 | **Branimir Vorhalt** — *Decanus Primus*, Silence (QVARTA) | Urban counter-intel; 048.M42 March line veteran; cult/pattern doctrine; works under Valestrand |
 | **Soren Riis** — Apothecary; Liaison-Praefect (Deathwatch) | *Pactum Clavis Sanguinis*; tiered Watch disclosure |
-| **Markus Graile** — **LVPVS IMPERATORIS** (Emperor’s Wolf); **Lord Executioner** (VIII) | Chapter Champion; **DECIMA** battle sovereign under Castellan; ***Par Ferrum Lupi*** (**Decreto** · **Termini**); ***justice vexillum*** bearer; instructor-out |
+| **Markus Graile** — **LVPVS IMPERATORIS** (Emperor’s Wolf); **Lord Executioner** (VIII) | Chapter Champion; **DECIMA** battle sovereign under Castellan; ***Par Ferrum Lupi*** (**Decreto** · **Termini**); ***justice vexillum*** bearer; instructor-out. **Rise:** Valerian (Alaric’s side). **Not** assumed first Wolf at Valerius’s death. |
 | **Cael Dravic** — Brother-Sergeant, DECIMA | Overwatch under **Emperor’s Wolf** detachments; Garmr’s Shelf Crimson Wolf witness |
 | **Valens Ritter** — Battle-brother (PRIMA ledger, OCTAVA spend) | Silence + Shadows dual path; Exanimus; counter-infiltration |
 | **Radulf Castrin / LVI-1** — Leviathan Dreadnought, *The Old Wolf* | Mentor/siege Ancient; merit rites; Furor at interment |
