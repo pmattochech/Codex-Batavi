@@ -8,7 +8,7 @@
 
 **Full chronicle:** [red-tide/chapter.md](../dreadwolf/red-tide/chapter.md) · saga: [dreadwolf/INDEX.md](../dreadwolf/INDEX.md)
 
-**Register note:** **Not** certified for *Alabarda* **field 4** — precedent is **Judex watch** and *Vermilion* soul file, not heraldic triumph.
+**Register note:** **Not** certified for **Vexilla banner field 4** — precedent is **Judex watch** and *Vermilion* soul file, not heraldic triumph.
 
 ---
 

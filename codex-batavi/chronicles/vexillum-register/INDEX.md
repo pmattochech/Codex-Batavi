@@ -1,6 +1,6 @@
 # Vexillum register — *Strategium* after-actions
 
-Formal memoranda and after-action reports tied to ***Alabarda* + Vexilla field 4** (and PRIMA obligation / DECIMA justice register). Heraldic law: [vexilla-by-vexilla-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md).
+Formal memoranda and after-action reports tied to **Vexilla banner field 4** (and PRIMA obligation / DECIMA justice register). Heraldic law: [vexilla-by-vexilla-design.md](../../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md). The Legatus ***Alabarda*** is the **weapon** (no cloth).
 
 **Longform narratives:** [vexillum-chronicles/INDEX.md](../vexillum-chronicles/INDEX.md)
 

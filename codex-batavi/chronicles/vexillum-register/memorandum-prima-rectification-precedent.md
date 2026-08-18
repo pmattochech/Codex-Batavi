@@ -2,7 +2,7 @@
 
 **Classification:** *Strategium* / *Armourium* annex — tithe-facing register  
 **Date filed:** 051.M42  
-**Subject:** Precedent for **obligation field** on **I** *Vexilla* ***Alabarda*** (not a battle honour)
+**Subject:** Precedent for **obligation field** on the **PRIMA Vexilla banner** (not a battle honour; not mounted on the Legatus ***Alabarda***)
 
 ---
 

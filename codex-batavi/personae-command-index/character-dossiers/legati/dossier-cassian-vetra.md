@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, NONA. **Chapter mastery (scroll):** **Master of the Watch** (*Magister Vigiliae*) — approaches, relay mesh, early contact before wall mobilization. **Cohort-chief lattice:** **Shadows**.  
 **Seat:** **Marco de Vetra** — Threshold **bait-moon**; relay survival, sector cry, layered delay and denial around the **Vacuum Shouter** and critical antenna spines.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* + Vexilla (NONA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Silent Hours** (140.M42) — Shouter relay held through Maleventum-class EM storm.  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (NONA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Silent Hours** (140.M42) — Shouter relay held through Maleventum-class EM storm.  
 **Apparent service age:** ~250–300 Terran years (estimate).
 
 ---
@@ -55,7 +55,7 @@
 
 * **Watch proof:** **Certified *Watch cycle*** — **longest solo Watch extension** in Legatus peer group (months exterior, weeks interior — **tithe / warp-leg skew** irrelevant to Watch certification; **frontier-native**); **Watch honor block** on return plate.  
 * **Rise:** Promoted after **simulated** Shouter collapse exercise proved previous Legatus **overcommitted** kill ratio and **lost** antenna integrity; Vetra’s solution was **uglier** and **lived**.  
-* **140.M42 | Silent Hours:** Held **Vacuum Shouter** relay and laser farm through Maleventum-class EM storm; preemptive scorch on coupling bay; minimal-power pulse acknowledged by Noviomagus; twenty-seven NONA battle-brothers killed; certified *Alabarda* **field 4**. Narrative: [silent-hours-marco-de-vetra.md](../../../chronicles/vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) · [aar-vex-ix-silent-hours.md](../../../chronicles/vexillum-register/aar-vex-ix-silent-hours.md).
+* **140.M42 | Silent Hours:** Held **Vacuum Shouter** relay and laser farm through Maleventum-class EM storm; preemptive scorch on coupling bay; minimal-power pulse acknowledged by Noviomagus; twenty-seven NONA battle-brothers killed; certified **Vexilla banner field 4**. Narrative: [silent-hours-marco-de-vetra.md](../../../chronicles/vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) · [aar-vex-ix-silent-hours.md](../../../chronicles/vexillum-register/aar-vex-ix-silent-hours.md).
 
 ---
 

@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, SEPTIMA. **Chapter mastery (scroll):** **Master of the Vent** (*Magister Venti*).  
 **Seat:** **Vitreus** — thermal and photonic stress; glass seas, lens forges, plasma vent discipline.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* + Vexilla (SEPTIMA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Null-Vent Covenant** (112.M42) — plasma/photonic cascade contained without forgeship detonation.  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (SEPTIMA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Null-Vent Covenant** (112.M42) — plasma/photonic cascade contained without forgeship detonation.  
 **Apparent service age:** ~190–240 Terran years (estimate).
 
 ---
@@ -54,7 +54,7 @@
 
 * **Watch proof:** **Certified *Watch cycle***; includes xenos engagements where **EM and thermal** signatures were the primary intelligence channel.  
 * **Rise:** **Lieutenant** fame from holding a **lens dock** against Drukhari raiders with **controlled** plasma bloom — *Strategium* noted **zero** catastrophic vent chain.  
-* **112.M42 | Null-Vent Covenant:** Led **SEPTIMA** containment of plasma/photonic cascade on Vitreus orbital plate Seven; manifold bled to vacuum ports; nineteen SEPTIMA battle-brothers killed; allied skitarii dead redacted under Mechanicus treaty; certified *Alabarda* **field 4**. Narrative: [null-vent-covenant.md](../../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md) · [aar-vex-vii-null-vent-covenant.md](../../../chronicles/vexillum-register/aar-vex-vii-null-vent-covenant.md).
+* **112.M42 | Null-Vent Covenant:** Led **SEPTIMA** containment of plasma/photonic cascade on Vitreus orbital plate Seven; manifold bled to vacuum ports; nineteen SEPTIMA battle-brothers killed; allied skitarii dead redacted under Mechanicus treaty; certified **Vexilla banner field 4**. Narrative: [null-vent-covenant.md](../../../chronicles/vexillum-chronicles/null-vent-covenant/chapter.md) · [aar-vex-vii-null-vent-covenant.md](../../../chronicles/vexillum-register/aar-vex-vii-null-vent-covenant.md).
 
 ---
 

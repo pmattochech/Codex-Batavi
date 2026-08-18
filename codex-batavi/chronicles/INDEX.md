@@ -120,7 +120,7 @@
 - [helbrecht-witness-ford-meeting.md](audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) ✅ — **096.M42 | Silent Vigil.** First Helbrecht–Alaric meeting at **Witness Ford**; Templar crusade, xenos attack at the choke, *We hold*; faith vs. geometry. *(Parked: echoes in [wolf-daughter/chapter.md](outdated/elara-iron-venus/iron-venus/wolf-daughter/chapter.md) — OUTDATED.)*
 
 *Space Wolves ↔ Alaric:* **active policy** [`space-wolves-relations.md`](../political-relations/space-wolves-relations.md) · **legacy prose / kit** [outdated/space-wolves-alaric-relations/INDEX.md](outdated/space-wolves-alaric-relations/INDEX.md)
-- [witness-ford-octava.md](vexillum-chronicles/witness-ford-octava/chapter.md) — **OCTAVA** / *Alabarda* field 4 lens: **Ivar Malevent**, ford net, nested fire with Black Templars; companion to *helbrecht-witness-ford-meeting*.
+- [witness-ford-octava.md](vexillum-chronicles/witness-ford-octava/chapter.md) — **OCTAVA** / Vexilla banner field 4 lens: **Ivar Malevent**, ford net, nested fire with Black Templars; companion to *helbrecht-witness-ford-meeting*.
 
 ## frontier-life
 
@@ -144,7 +144,7 @@
 
 **Index:** [dreadwolf/INDEX.md](dreadwolf/INDEX.md) · **Hub:** [dreadwolf/README.md](dreadwolf/README.md)
 
-**Span:** **074.M42 – 168.M42** — **Lieutenant Einar Dreadwolf** (*Amissi*); Judex watch; **closed arc** (KIA Luna Sigma). *Vermilion* adjunct — **not** *Alabarda* field 4.
+**Span:** **074.M42 – 168.M42** — **Lieutenant Einar Dreadwolf** (*Amissi*); Judex watch; **closed arc** (KIA Luna Sigma). *Vermilion* adjunct — **not** Vexilla banner field 4.
 
 - [kzorns-maw/chapter.md](dreadwolf/kzorns-maw/chapter.md) — **074.M42** capture; Shepherd’s Hook, conscious Nails, **Kzorn’s Maw**.
 - [red-tide/chapter.md](dreadwolf/red-tide/chapter.md) — **074.M42** Moraine-Nine recovery; **QVINTA cadence**; *Amissi* founding.
@@ -178,7 +178,7 @@
 **Theater:** **Vigilax Prime** — civilians under Castra Vetera mandate; Marines Malevolent in unauthorized operation / disproportionate purge.
 
 - [vigilax-incident.md](vigilax/vigilax-incident/chapter.md) ✅ — **Novel** prose (literary narrative, grimdark); same beats: Varro (*Crozius* Reeducation mode, two MM killed, banner destroyed); Marna-Down (TERTIA triangulation, Drusus, *Vermilion*); *Gray Gargoyle* with Inquisitor and Black Templars; insult to the Castellan (Valerius / *Lupercal*); Alaric kills the MM Chapter Master with his hands; lasting dread in the Vigil.
-- [vigilax-triangulation.md](vexillum-chronicles/vigilax-triangulation/chapter.md) — **TERTIA** / *Alabarda* field 4 lens: Legatus **Theron Brach**, Drusus’s secondary-focus theorem, Marna-Down tube run; companion to *vigilax-incident* (read both).
+- [vigilax-triangulation.md](vexillum-chronicles/vigilax-triangulation/chapter.md) — **TERTIA** / Vexilla banner field 4 lens: Legatus **Theron Brach**, Drusus’s secondary-focus theorem, Marna-Down tube run; companion to *vigilax-incident* (read both).
 
 Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in Vigilax public records). No Elara (not yet born).
 
@@ -188,7 +188,7 @@ Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in
 
 ## vexillum-register
 
-*Strategium* after-actions and memoranda for ***Alabarda* field 4** (plus PRIMA obligation and DECIMA justice register). Master table: [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §3.
+*Strategium* after-actions and memoranda for **Vexilla banner field 4** (plus PRIMA obligation and DECIMA justice register). Master table: [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) §3.
 
 - [INDEX.md](vexillum-register/INDEX.md) — list of all register files
 
@@ -200,12 +200,12 @@ Main cast: Alaric, Varro, Drusus, Marines Malevolent, Inquisitor (name sealed in
 Longform narrative for field-4 certified operations (each links back to its AAR).
 
 - [INDEX.md](vexillum-chronicles/INDEX.md) — chronicle list + pointers to **III** / **VIII** / Malakor-adjacent material
-- [ruhe-defense.md](vexillum-chronicles/ruhe-defense/chapter.md) — **QVARTA**, **048.M42** Tyranid veil / shingle line; **Branimir Vorhalt** POV; Drusus coefficients; *Alabarda* *March of the Machine* reference hold.
+- [ruhe-defense.md](vexillum-chronicles/ruhe-defense/chapter.md) — **QVARTA**, **048.M42** Tyranid veil / shingle line; **Branimir Vorhalt** POV; Drusus coefficients; Vexilla banner *March of the Machine* reference hold.
 - *(moved)* **Einar Dreadwolf** closed arc — [dreadwolf/INDEX.md](dreadwolf/INDEX.md) (**074–168.M42**; **not** field 4)
-- [gutgrind-descent.md](vexillum-chronicles/gutgrind-descent/chapter.md) — **QVINTA**, **121.M42** Selene-Black; **Armin Sturmwahl** vs Warboss Gutgrind; Ork scrap-spire; *Alabarda* field 4 (post–**Reclamation** Aethelgard opening is **not** the field-4 receipt).
-- [korvus-twin-breach.md](vexillum-chronicles/korvus-twin-breach/chapter.md) — **SEXTA**, **098.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; *Alabarda* field 4.
-- [null-vent-covenant.md](vexillum-chronicles/null-vent-covenant/chapter.md) — **SEPTIMA**, **112.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; *Alabarda* field 4.
-- [silent-hours-marco-de-vetra.md](vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) — **NONA**, **140.M42** Marco de Vetra; **Cassian Vetra**; Shouter relay under EM storm; *Alabarda* field 4.
+- [gutgrind-descent.md](vexillum-chronicles/gutgrind-descent/chapter.md) — **QVINTA**, **121.M42** Selene-Black; **Armin Sturmwahl** vs Warboss Gutgrind; Ork scrap-spire; Vexilla banner field 4 (post–**Reclamation** Aethelgard opening is **not** the field-4 receipt).
+- [korvus-twin-breach.md](vexillum-chronicles/korvus-twin-breach/chapter.md) — **SEXTA**, **098.M42** Bifrons-Ferrum gulf; **Gervas Bifronte**; Korvus-A / Korvus-B single-tick breach; Vexilla banner field 4.
+- [null-vent-covenant.md](vexillum-chronicles/null-vent-covenant/chapter.md) — **SEPTIMA**, **112.M42** Vitreus plate Seven; **Lucan Phaetron**; Null-Vent protocol; plasma / photonic cascade; Vexilla banner field 4.
+- [silent-hours-marco-de-vetra.md](vexillum-chronicles/silent-hours-marco-de-vetra/chapter.md) — **NONA**, **140.M42** Marco de Vetra; **Cassian Vetra**; Shouter relay under EM storm; Vexilla banner field 4.
 - [decima-justice-vexillum/chapter.md](silent-vigil/valerian-heresy/decima-justice-vexillum/chapter.md) — **DECIMA** **justice vexillum** (indexed under Silent Vigil · *valerian-heresy*); companion to [malakor-v/chapter.md](silent-vigil/valerian-heresy/malakor-v/chapter.md).
 
 ---

@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, TERTIA. **Chapter mastery (scroll):** **Master of the Breach** (*Magister Rupturae*).  
 **Seat:** **Khan-Bator Prime** — agri-industrial hazard theater: silos, chemical moons, oxygen-rich fires.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* + Vexilla (TERTIA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (TERTIA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
 **Apparent service age:** ~200–250 Terran years (estimate).
 
 ---
@@ -68,4 +68,4 @@
 
 POV for **industrial disaster**, **agri-moon horror**, and **thermal** set-pieces. Good contrast to measured-fire SECVNDA. **Legatus Ring:** command virtue **discipline under lying air**; failure-risk **treating inversion as purely biological plume geometry**.
 
-**Cross-reference:** Armor — ***Typus Tertius — Brach*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § III. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §5; **110.M42 | Vigilax triangulation** — *Alabarda* field 4 (Legatus + Drusus, Marna-Down): [vigilax-triangulation.md](../../../chronicles/vexillum-chronicles/vigilax-triangulation/chapter.md); full incident: [vigilax-incident.md](../../../chronicles/vigilax/vigilax-incident/chapter.md) · [aar-vex-iii-vigilax-triangulation.md](../../../chronicles/vexillum-register/aar-vex-iii-vigilax-triangulation.md). [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.3; [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).
+**Cross-reference:** Armor — ***Typus Tertius — Brach*** (locked): [legati-operational-register.md](../../../arsenal-and-logistics/legati-operational-register.md) § III. [alabarda-head-groups.md](../../../arsenal-and-logistics/alabarda-head-groups.md) §5; **110.M42 | Vigilax triangulation** — Vexilla banner field 4 (Legatus + Drusus, Marna-Down): [vigilax-triangulation.md](../../../chronicles/vexillum-chronicles/vigilax-triangulation/chapter.md); full incident: [vigilax-incident.md](../../../chronicles/vigilax/vigilax-incident/chapter.md) · [aar-vex-iii-vigilax-triangulation.md](../../../chronicles/vexillum-register/aar-vex-iii-vigilax-triangulation.md). [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.3; [post-voices-legatus-ring/chapter.md](../../../chronicles/silent-vigil/post-voices-legatus-ring/chapter.md).

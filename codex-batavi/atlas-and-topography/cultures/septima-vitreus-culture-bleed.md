@@ -234,7 +234,7 @@ Photonic cargo and plate escort. Hate Silica approaches as **rumor** (wing stub 
 Rag film / guild smoked lenses / house lacquer → melt bell vs vent bell → who may speak during mute → whether a second stamp is demanded → whether grey plate rearranges the dock.
 
 **Brother → scene signal (compressed):**  
-Matte anti-glare panels; orange lenses; knuckle before window; pole planted at manifold / lens-array choke; cloth furled under hash; cold nod to Magos; no feast brightness.
+Matte anti-glare panels; orange lenses; knuckle before window; Legatus pole planted at manifold / lens-array choke; **1st captain** cloth furled under hash; cold nod to Magos; no feast brightness.
 
 ---
 

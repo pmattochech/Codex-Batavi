@@ -1,13 +1,13 @@
 # Vexilla by Vexilla — design register
 
 **Status:** **Locked** — ordinal, four-field layout, PRIMA shame, DECIMA justice charge (user decisions). Per-vex **greatest success** rows **SECVNDA**–**NONA** link to [vexillum-register](../../chronicles/vexillum-register/) after-actions unless marked otherwise.  
-**Law:** [chapter-identity.md](chapter-identity.md) (wolf, gladius, waves, **no moon**); [visual-identity-paint-guide.md](../../visual-identity-paint-guide.md); halberd layout [`alabarda-vexillum-layout-reference.png`](../../lore-images/alabarda-vexillum-layout-reference.png). **Line-art stencil (2×2 fields, yard, inverted triple-merlon base — *castellum* flavor, optional in final paint):** [`vexillum-template-lineart-castellum.png`](../../lore-images/vexillum-template-lineart-castellum.png).
+**Law:** [chapter-identity.md](chapter-identity.md) (wolf, gladius, waves, **no moon**); [visual-identity-paint-guide.md](../../visual-identity-paint-guide.md); banner stencil [`vexillum-template-lineart-castellum.png`](../../lore-images/vexillum-template-lineart-castellum.png). Legacy yard-on-haft art [`alabarda-vexillum-layout-reference.png`](../../lore-images/alabarda-vexillum-layout-reference.png) is **obsolete**.
 
 ---
 
 ## 1. Standard panel — four fields (SECVNDA–NONA)
 
-Every **Legatus** *Alabarda* + Vexilla for **SECVNDA–NONA** carries **four** readable images on the vertical face (quarters, stacked registers, or heraldic quarters — *Armourium* picks the stencil; logic is fixed):
+Every **Vexilla banner** (**SECVNDA–NONA**) carries **four** readable images on the vertical face (quarters, stacked registers, or heraldic quarters — *Armourium* picks the stencil; logic is fixed). **Bearer:** **1st company captain**. The Legatus *Alabarda* does **not** mount this cloth.
 
 | # | Field | Content |
 |---|--------|--------|
@@ -16,7 +16,7 @@ Every **Legatus** *Alabarda* + Vexilla for **SECVNDA–NONA** carries **four** r
 | **3** | **Anchor / specialty** | **One** icon for the Vexilla’s **seat world or war function** (industrial, law, chem, high-G, assault, siege, glass/plasma, void, relay) — **geometric / industrial** preference; avoid a second “chapter mascot.” |
 | **4** | **Greatest success** | **One** charge commemorating the **signal victory** or **defining hold** *Strategium* has certified for that Vexilla’s public register — not vanity tallies; **audit-grade** honour. *See table §3.* **TBD** = reserve for a named operation you add in chronicles later. |
 
-**Furled:** Field **1** + **2** must remain visible on the outer roll; **3** + **4** may compress to **haft ring code** if relay doctrine demands minimal signature.
+**Furled:** Field **1** + **2** must remain visible on the outer roll; **3** + **4** may compress to **staff ring code** if the **1st captain** needs minimal signature. Not an *Alabarda* problem.
 
 ---
 
@@ -107,13 +107,13 @@ PRIMA uses the **same four-field grid** but **field 4 is not triumph** — it is
 
 ## 6. Related
 
-* [alabarda-head-groups.md](../../arsenal-and-logistics/alabarda-head-groups.md) — *Alabarda* **head groups** per Vexilla (**PRIMA–NONA**); detach/plant law; bearer authority; cloth identity unchanged  
-* [chapter-identity.md](chapter-identity.md) — *Alabarda* + Vexilla doctrine  
+* [alabarda-head-groups.md](../../arsenal-and-logistics/alabarda-head-groups.md) — *Alabarda* **head groups** per Vexilla (**PRIMA–NONA**); plant law; banner on **1st captain**  
+* [chapter-identity.md](chapter-identity.md) — *Alabarda* weapon vs Vexilla banner  
 * [military-hierarchy.md](../doctrine-and-organs/military-hierarchy.md) §3 — Legatus / DECIMA  
 * [vexilla-and-visual-summary.md](../../arsenal-and-logistics/vexilla-and-visual-summary.md) — quick ref  
 * [visual-identity-paint-guide.md](../../visual-identity-paint-guide.md) — palette / panel notes  
 * [infantry-visual-identity.md](../../arsenal-and-logistics/infantry-visual-identity.md) — plate + vexillum cross-read  
-* [GLOSSARY-EN.md](../../GLOSSARY-EN.md) — *Alabarda* + Vexilla, *justice vexillum*, **LVPVS IMPERATORIS**, ***Par Ferrum Lupi***  
+* [GLOSSARY-EN.md](../../GLOSSARY-EN.md) — *Alabarda*, **Vexilla banner**, *justice vexillum*, **LVPVS IMPERATORIS**, ***Par Ferrum Lupi***  
 * [deathwatch-and-batavorum.md](../../political-relations/deathwatch-and-batavorum.md) — Legatus / *Alabarda* career lattice  
 * [dossier-valerius.md](../character-dossiers/expunged/dossier-valerius.md) — expunged First Legatus  
 * [malakor-v/chapter.md](../../chronicles/silent-vigil/valerian-heresy/malakor-v/chapter.md) — execution context

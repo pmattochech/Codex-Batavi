@@ -11,7 +11,7 @@
 **Full chronicle (Castellan / Helbrecht / faith audit):** [helbrecht-witness-ford-meeting.md](../audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md)  
 **OCTAVA / void net / field 4 lens (Legatus Malevent):** [witness-ford-octava.md](../vexillum-chronicles/witness-ford-octava/chapter.md)
 
-This AAR isolates the certified void beat for *Alabarda* field 4.
+This AAR isolates the certified void beat for Vexilla banner field 4.
 
 ## 2. Situation
 

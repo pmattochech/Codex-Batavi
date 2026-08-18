@@ -34,7 +34,7 @@
 
 4. **Bridge ≠ billet:** **Span-ledger houses** (bridge-guild masters, salt elders with claw contracts, arbiter alumni) = named lower-upper **civil bridge** — witness-debt brokerage, face-hold when descent weather moves markets, quiet translation between mud court and seal booth. They are **not** QVINTA billet, not jump-certified, not *Alabarda* escorts. Kitchen / Shared Sweat embankment sweat is **parallel mud**, not a promotion ladder into plate.
 
-5. **Xenos / civic hate ≠ Chapter geometry:** Civic **Moon Hunt** grandmother law (unclassified mercenary hunting weather; wrong reek = evacuate) and Needles hate of hunting seasons ≠ Chapter the Reclamation doctrine, Wild Hunt endocrine authorization, or friend–foe discrimination law inside the helm. Mortals run for embankments; QVINTA files threat geometry and drop slots. Ork scrap-spire triumph gossip (thin, allowed) ≠ street lectures on *Alabarda* field 4 register logic. No civic “welcome” for xenos retainers; no mortal ownership of sealed campaign labels.
+5. **Xenos / civic hate ≠ Chapter geometry:** Civic **Moon Hunt** grandmother law (unclassified mercenary hunting weather; wrong reek = evacuate) and Needles hate of hunting seasons ≠ Chapter the Reclamation doctrine, Wild Hunt endocrine authorization, or friend–foe discrimination law inside the helm. Mortals run for embankments; QVINTA files threat geometry and drop slots. Ork scrap-spire triumph gossip (thin, allowed) ≠ street lectures on Vexilla banner field 4 register logic. No civic “welcome” for xenos retainers; no mortal ownership of sealed campaign labels.
 
 ---
 

@@ -35,6 +35,6 @@ Legatus ordered **phase** clearance floor-by-floor; **Ruin** elements held in re
 
 ## 5. *Strategium* certification (field 4)
 
-Victory metric certified for ***Alabarda* field 4:** **compliance** under **lethal restraint** — proof that **SECVNDA** wins by **geometry**, not by **volume**.
+Victory metric certified for **Vexilla banner field 4:** **compliance** under **lethal restraint** — proof that **SECVNDA** wins by **geometry**, not by **volume**.
 
 **Chronology:** [master-chronology.md](../../personae-command-index/events-and-chronologies/master-chronology.md) §IV.

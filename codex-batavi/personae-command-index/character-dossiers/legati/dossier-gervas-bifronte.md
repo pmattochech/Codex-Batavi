@@ -7,7 +7,7 @@
 **Chapter offices:** **Siege Master** of the *Cohors Batavorum*; ***Maior Caementarius*** (**Greater Mason**); ***Pater Murorum*** (**Father of Walls** — Guard and mortal mesh coinage).  
 **Seat:** **Bifrons-Ferrum** — dual-world gulf fortifications, stasis-adjacent vault war, siege core of the Crucible macro-system.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* + Vexilla (SEXTA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (SEXTA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md).  
 **Apparent service age:** ~240–290 Terran years (estimate).
 
 ---
@@ -100,7 +100,7 @@ Three acts — staff map to *Vigilance* register (Foundation build · brother-wa
 * **~092.M42 | Cage of Bifrons opens (*Ferrum Cage*, sealed register):** **Iron Warriors**–aligned siege elements (**IV Legion throughput appetite** per [`castra-vetera-galactic-lock.md`](../../../atlas-and-topography/castra-vetera-galactic-lock.md)) press the **Bifrons vault mesh** for years. Public tithe scrolls file **undifferentiated heretic Astartes**; sealed *Strategium* names **Iron Warriors** doctrine mirrored and **out-engineered** on Batavi **redundancy mesh** — planned withdrawal where each meter **taxes** the attacker. Gervas commands **defensive redundancy** as **Greater Mason**; pain sustains **each plan observed**.  
 * **Watch proof:** **Certified *Watch cycle*** completed before SEXTA Legatus confirmation — includes at least one **void-station** siege rotation (file sealed).  
 * **Rise to Legatus:** **Captain** during earlier **dual-anchor** skyhook crisis; *Strategium* read his after-action as **textbook** gulf *Friction Geometry*. **Siege Master** and ***Maior Caementarius*** confirmed post-reformation (~087–092.M42) during vexilla commission rebuild.  
-* **098.M42 | Korvus twin breach (Cage climax):** Led **SEXTA** **simultaneous** assault on **Korvus-A** outer vault and **Korvus-B** inner spine within one Strategium tick — **counter-breach** that **breaks** the **Ferrum Cage** strangle; tether preserved; 44 battle-brothers killed or incapacitated; certified *Alabarda* **field 4**. Narrative: [korvus-twin-breach.md](../../../chronicles/vexillum-chronicles/korvus-twin-breach/chapter.md) · [aar-vex-vi-korvus-breach.md](../../../chronicles/vexillum-register/aar-vex-vi-korvus-breach.md).
+* **098.M42 | Korvus twin breach (Cage climax):** Led **SEXTA** **simultaneous** assault on **Korvus-A** outer vault and **Korvus-B** inner spine within one Strategium tick — **counter-breach** that **breaks** the **Ferrum Cage** strangle; tether preserved; 44 battle-brothers killed or incapacitated; certified **Vexilla banner field 4**. Narrative: [korvus-twin-breach.md](../../../chronicles/vexillum-chronicles/korvus-twin-breach/chapter.md) · [aar-vex-vi-korvus-breach.md](../../../chronicles/vexillum-register/aar-vex-vi-korvus-breach.md).
 
 ---
 

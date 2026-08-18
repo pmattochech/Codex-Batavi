@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, QVARTA. **Chapter mastery (scroll):** **Master of the Anchor** (*Magister Ancorae*). **Cohort-chief lattice:** **Stasis**.  
 **Seat:** **Incus-Gravis sphere** (Tertius / Secundus jurisdiction) — high-gravity shingle seas, inverted hives, grav-locked trench war.  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* + Vexilla (QVARTA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **March defense** — static grav-locked line under Tyranid **Shadow in the Warp** ([ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md)).  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (QVARTA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **March defense** — static grav-locked line under Tyranid **Shadow in the Warp** ([ruhe-defense.md](../../../chronicles/vexillum-chronicles/ruhe-defense/chapter.md)).  
 **Apparent service age:** ~230–280 Terran years (estimate; frontier-native filing).
 
 ---
@@ -51,7 +51,7 @@
 
 ## 4\. History (in-universe — chronology access)
 
-* **048.M42 | March line (Incus-Gravis):** Held the **shingle spine** under Tyranid **Shadow in the Warp** with **QVARTA** — the engagement *Strategium* registers as **March defense** and *Alabarda* **field 4**. Open-channel orders match archived trench logs (*hourly boot check*, *semi-auto only on crest*). Brother **Branimir Vorhalt** served in his line that day — pre–Silence certification.  
+* **048.M42 | March line (Incus-Gravis):** Held the **shingle spine** under Tyranid **Shadow in the Warp** with **QVARTA** — the engagement *Strategium* registers as **March defense** and **Vexilla banner field 4**. Open-channel orders match archived trench logs (*hourly boot check*, *semi-auto only on crest*). Brother **Branimir Vorhalt** served in his line that day — pre–Silence certification.  
 * **Rise:** Captaincy through grav-locked sieges where **one** broken seal line collapsed a trench company; selected when QVARTA needed a governor who treated **G** as logistics, not bravado.  
 * **Watch proof:** Certified **full *Watch cycle*** before formal **Legatus** seal on post–**051.M42** lattice (same career gate as peer Legati).  
 * **Post–Malakor:** Integrated ***Curia Vexilli*** on PRIMA’s model — **Genetor Vexilli** / **Confessor Vexilli** parallel review before deep March authorizations.

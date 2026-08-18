@@ -6,7 +6,7 @@
 **Rank:** **Legatus**, OCTAVA. **Chapter mastery (scroll):** **Master of the Fleet** (*Magister Classis*) — void embark, Maleventum, Witness Ford hull war. **Cohort-chief lattice:** **Nullity** (field employment; **Otho** supervises training).  
 **Seat:** **Great Reef / Station-Maleventum** theater — void fight, boarding, reef transit under ion scourge (Threshold macro-system).  
 **Chapter:** *Cohors Batavorum*.  
-**Bearer of:** *Alabarda* + Vexilla (OCTAVA lattice). **Vexillum register:** four-field panel (§3) — [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Witness Ford intercept** (096.M42) — joint void containment with Black Templars.  
+**Bearer of:** *Alabarda* (weapon — relay / *auspex* on the haft). **Vexilla banner:** **1st company** captain (OCTAVA). Four-field register: [vexilla-by-vexilla-design.md](../../intro-and-heraldry/vexilla-by-vexilla-design.md). **Field 4:** **Witness Ford intercept** (096.M42) — joint void containment with Black Templars.  
 **Apparent service age:** ~230–280 Terran years (estimate).
 
 ---
@@ -55,7 +55,7 @@
 
 * **Watch proof:** **Certified *Watch cycle*** with **heavy void** hours — kill-team adjacent experience referenced only as **Watch seal** numbers in open record; **Watch honor block** on return plate.  
 * **Rise:** Survivor-captain of a **reef transit** where three escort frigates were ion-flayed; held **Maleventum** station spine until NONA laser shout woke system-wide response.  
-* **096.M42 | Witness Ford intercept:** Led **OCTAVA** void net during Black Templars crusade transit; joint containment with Helbrecht fist; certified *Alabarda* **field 4**. Narrative: [witness-ford-octava.md](../../../chronicles/vexillum-chronicles/witness-ford-octava/chapter.md) · companion: [helbrecht-witness-ford-meeting.md](../../../chronicles/audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) · [aar-vex-viii-witness-ford-intercept.md](../../../chronicles/vexillum-register/aar-vex-viii-witness-ford-intercept.md).
+* **096.M42 | Witness Ford intercept:** Led **OCTAVA** void net during Black Templars crusade transit; joint containment with Helbrecht fist; certified **Vexilla banner field 4**. Narrative: [witness-ford-octava.md](../../../chronicles/vexillum-chronicles/witness-ford-octava/chapter.md) · companion: [helbrecht-witness-ford-meeting.md](../../../chronicles/audit-diplomacy/helbrecht-witness-ford-meeting/chapter.md) · [aar-vex-viii-witness-ford-intercept.md](../../../chronicles/vexillum-register/aar-vex-viii-witness-ford-intercept.md).
 
 ---
 

@@ -6,7 +6,7 @@
 
 - [vexilla-operational-armory.md](vexilla-operational-armory.md) — what each Vexilla **leans toward** (bolter vs plasma, jump vs siege, etc.).  
 - [cohort-standard-kit.md](cohort-standard-kit.md) — Silence / Shadows (under Silence) / Stasis / Nullity **job kit**; QVINTA **chainsword-primary** pure line (§6).  
-- [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) — Legatus ***Alabarda* + Vexilla** (four-field) and DECIMA **justice vexillum**.  
+- [vexilla-by-vexilla-design.md](../personae-command-index/intro-and-heraldry/vexilla-by-vexilla-design.md) — **Vexilla banner** (four-field, **1st company captain**) and DECIMA **justice vexillum**. ***Alabarda*** is the Legatus **weapon** (no cloth).  
 - [alabarda-head-groups.md](alabarda-head-groups.md) — *Alabarda* **head types** (Primus through Fulmen) and Legatus **bearer authority**.  
 - [frontier-patterns-primaris.md](frontier-patterns-primaris.md) — *World-pattern* names on **Primaris-grade** weapon classes.
 

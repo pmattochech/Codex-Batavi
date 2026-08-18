@@ -1,6 +1,6 @@
 # Vexillum chronicles
 
-Full narrative chronicles for operations certified on ***Alabarda* field 4** (and adjacent register events). Each entry has a short *Strategium* after-action in [vexillum-register/](../vexillum-register/).
+Full narrative chronicles for operations certified on **Vexilla banner field 4** (and adjacent register events). Each entry has a short *Strategium* after-action in [vexillum-register/](../vexillum-register/).
 
 | Chronicle | Seat | AAR |
 |-----------|------|-----|

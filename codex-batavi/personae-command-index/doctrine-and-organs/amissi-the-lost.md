@@ -94,7 +94,7 @@ Other *Amissi* brothers: escort is **case-by-case** QVINTA or *Reclusiam* delega
 
 * **No** neophyte instruction.  
 * **No** open *Reclusiam* soul-name taxonomy (Varro withholds liturgical naming).  
-* **No** *Alabarda* field 4 certification for *Amissi* actions.  
+* **No** Vexilla banner field 4 certification for *Amissi* actions.  
 * **No** independent deployment without Judex on slate.
 
 ---

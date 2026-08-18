@@ -2,7 +2,7 @@
 
 *Strategium* summary — **operational strategy**, **fighting identity**, and **armor baseline** for each **Legatus** seat. Castellan contrast: [`castra-lupus-doctrine.md`](castra-lupus-doctrine.md) §1.1 (*lupus in castra* vs *vir in acie*).
 
-**Shared Legatus law (all nine):** One **indivisible Vexilla** (~500); ***Alabarda* + Vexilla** (four-field panel — PRIMA fourth = obligation, not triumph); **sole runtime authority** on pole actuation ([`alabarda-head-groups.md`](alabarda-head-groups.md) §2); ***Curia Vexilli*** (Genetor + Confessor parallel); **one Chapter mastery scroll** per Legatus ([`legatus-chapter-mastery.md`](../personae-command-index/doctrine-and-organs/legatus-chapter-mastery.md)); **certified *Watch cycle*** for post–**051.M42** appointments ([`deathwatch-and-batavorum.md`](../political-relations/deathwatch-and-batavorum.md)); **Triumvirate extension** within assigned Phalanx seat — **not** Castellan substitute.
+**Shared Legatus law (all nine):** One **indivisible Vexilla** (~500); ***Alabarda*** as **weapon** (haft relay / *auspex*; **no cloth**); **Vexilla banner** on the **1st company captain** (four-field panel — PRIMA fourth = obligation, not triumph); **sole runtime authority** on Alabarda actuation ([`alabarda-head-groups.md`](alabarda-head-groups.md) §2); ***Curia Vexilli*** (Genetor + Confessor parallel); **one Chapter mastery scroll** per Legatus ([`legatus-chapter-mastery.md`](../personae-command-index/doctrine-and-organs/legatus-chapter-mastery.md)); **certified *Watch cycle*** for post–**051.M42** appointments ([`deathwatch-and-batavorum.md`](../political-relations/deathwatch-and-batavorum.md)); **Triumvirate extension** within assigned Phalanx seat — **not** Castellan substitute.
 
 **Armor (Chapter law):** Legati wear **Legatus artificer** commissions — one configuration per incumbent (**rite of the block** with **Kadmos**; vault legacy parts **Mark V and later only**, **refitted** where applicable — always **artificer** grade). Default chassis: **Mark X Tacticus–class** Noviomagus (**line mass** among the five hundred). ***Typus Sextus — Bifronte*** **exception:** daily **Tartaros-pattern TDA** office plate only. **PRIMA** — **Corbec Ardens** — holds ***Typus Primus — Ardens***: the **reference gauge** other Legati briefs trace and PRIMA line plate is **vex-calibrated** against. **Not** *Castra-Lupus*. Per-incumbent kit: § **Armor** below; **PRIMA–NONA** locked.
 
@@ -203,7 +203,7 @@ Full scopes: [`legatus-chapter-mastery.md`](../personae-command-index/doctrine-a
 | ----- | ---- |
 | **Seat** | **Great Reef / Station-Maleventum** — void fight, boarding, ion scourge |
 | **Theater strategy** | **Void fight** — combat shields, power swords, compact bolters, grav-chutes, hull melta; EM-filtered auspex |
-| ***Alabarda*** | **Type Contus** — compact void spear, micro hook, bulkhead hammer cap; cloth furled in fight |
+| ***Alabarda*** | **Type Contus** — compact void spear, micro hook, bulkhead hammer cap; **no cloth** on the haft (banner is 1st captain) |
 | **Operational identity** | Soft vox on open channels; **two void seals** counted pre-battle; corridor interlock; buys seconds for NONA relay |
 | **Field 4** | **Witness Ford intercept** (096.M42) — void net with Black Templars / Helbrecht |
 | **Legatus Ring** | Virtue: **void fire brigade pride without privatizing mesh law** · Risk: **blocking inland terminal law as “not OCTAVA theater”** |
