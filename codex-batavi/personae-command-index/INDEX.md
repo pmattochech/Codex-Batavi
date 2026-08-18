@@ -68,7 +68,7 @@
 - [dossier-markus-graile.md](character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) — Captain, 10th DECIMA (anchor guard / instructor face)
 - [dossier-valens-ritter.md](character-dossiers/cohorts-and-detachments/dossier-valens-ritter.md) — **Valens Ritter** — Silence + Shadows dual-path (folklore: *Silent Shadow* / *Two-Path Wolf*); ledger PRIMA, spend OCTAVA
 - [dossier-einar-dreadwolf.md](character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) — **Einar Dreadwolf** — **The Lost** (*Amissi*); **KIA 168.M42** — [amissi-the-lost.md](doctrine-and-organs/amissi-the-lost.md)
-- [dossier-radulf-castrin.md](character-dossiers/cohorts-and-detachments/dossier-radulf-castrin.md) — **Radulf Castrin**, **The Old Wolf** (Leviathan) — mentor / merit rites / siege line; entombment **TBD**
+- [dossier-radulf-castrin.md](character-dossiers/cohorts-and-detachments/dossier-radulf-castrin.md) — **Radulf Castrin**, **The Old Wolf** (**Contemptor**) — mentor / merit rites / siege line; entombment **TBD**
 
 ### supporting
 

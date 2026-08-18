@@ -1,6 +1,6 @@
-# [WIKI] CHARACTER DOSSIER: LVI-1 (LEVIATHAN — “THE OLD WOLF”)
+# [WIKI] CHARACTER DOSSIER: LVI-1 (CONTEMPTOR — “THE OLD WOLF”)
 
-*(Interred battle-brother — **Leviathan**-pattern siege Dreadnought. **Open fields** below stay **TBD** until you lock entombment and the rest of the register.)*
+*(Interred battle-brother — **Contemptor**-pattern Dreadnought. **Open fields** below stay **TBD** until you lock entombment and the rest of the register.)*
 
 | Field | Status |
 | --- | --- |
@@ -9,7 +9,7 @@
 | **Wolf’s Curse (at interment)** | **Furor** (confirmed). **Furor-engraved type** (chimeric predisposition / Type I–III) **TBD** — *Duty* (Type III) fits the mentor / wall file if you **lock** it. |
 | **Rank at interment** | **TBD** |
 | **Company / Vexilla** | **TBD** |
-| **Chassis** | **Leviathan** (siege / heavy support — loadout **TBD**) |
+| **Chassis** | **Contemptor** (Dreadnought — loadout **TBD**) |
 | **Location (typical)** | Stasis / arming vault **Bifrons-Ferrum** mesh ([system-ii-crucible.md](../../../atlas-and-topography/systems/system-ii-crucible.md)); wake protocol **TBD** |
 | **Sarcophagus / cognition** | **Batavi** somatic **repair** (and **Furor**-stage **draw** on **progenoid** **economy** — see [projection-aurea-wolfs-curse.md](../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md)) is filed as the **reason** his **mind** and **neuro-interface** **decay** curve runs **shallower** than **ordinary** *Dreadnought* **coffin** data for a chassis **this** old: **longer** **lucid** **wake** **windows**. This is **not** *Medicinae* remission of **Furor**; **warp transit** and **calendar skew** do **not** “heal” the Wolf’s Curse; *Reclusiam* still **files** **soul**-**wear** as a **real** **limit**. |
 | **the Reclamation tie** | **Intentionally unset** until you add a **death / entombment** beat |
@@ -30,7 +30,7 @@
 
 * **Reader mood (OOC):** *Out-of-universe* you can lean **dread**, **cage**, **memory decay** — the *feeling* a reader gets from the sarcophagus. That is **not** his in-character “voice.” On the page, his **vox** stays **Batavi**: spare, **tool**-like, **silence** where it costs.
 
-**Hard exclude:** This character is **not** *Castra-Lupus*; **Alaric** is **not** the **Old Wolf**. **Leviathan** = **Dreadnought** **interment**, not living hypertrophied **Terminator**.
+**Hard exclude:** This character is **not** *Castra-Lupus*; **Alaric** is **not** the **Old Wolf**. **Contemptor** = **Dreadnought** **interment**, not living hypertrophied **Terminator**. Not a **Leviathan** siege hull.
 
 ---
 
@@ -38,7 +38,7 @@
 
 * **Entombment** — theater, **who** signed, **TBD** (not bound to **the Reclamation** **until** you say).
 
-* **Loadout** — storm cannon vs grav vs claw: pick when you pick **siege** **story**.
+* **Loadout** — Kheres / fist / claw vs other Contemptor-legal mounts: pick when you pick **siege** **story**.
 
 * **Interior life** — **Furor**+**Batavi** **repair** model sets the **default**: **slower** **cognitive** **slip** vs **Lexicanum** Dreadnought **expectation**; **residual** **dread** (Varro) and **coffin** **as** **gear** (Kadmos) **TBD** by scene.
 

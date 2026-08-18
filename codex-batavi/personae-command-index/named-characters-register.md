@@ -51,7 +51,7 @@
 | **Markus Graile** — **LVPVS IMPERATORIS** (Emperor’s Wolf); **Lord Executioner** (VIII) | **First** and present Chapter Champion; **DECIMA** battle sovereign under Castellan; man-at-arms (any weapon); pairs with Alaric or any Legatus in that seat’s style; ***Par Ferrum Lupi***; ***justice vexillum*** bearer. Title earned Valerian close (fends Versibar; Alaric killing blow). Walks all four cohort rotations after those scars exist. |
 | **Cael Dravic** — Brother-Sergeant, DECIMA | Overwatch under **Emperor’s Wolf** detachments; Garmr’s Shelf Crimson Wolf witness |
 | **Valens Ritter** — Battle-brother (PRIMA ledger, OCTAVA spend) | Silence + Shadows dual path; Exanimus; counter-infiltration |
-| **Radulf Castrin / LVI-1** — Leviathan Dreadnought, *The Old Wolf* | Mentor/siege Ancient; merit rites; Furor at interment |
+| **Radulf Castrin / LVI-1** — Contemptor Dreadnought, *The Old Wolf* | Mentor/siege Ancient; merit rites; Furor at interment |
 | **Valerius** *(expunged)* — First Legatus, PRIMA | Traitor *Lupercal* claim; Malakor V; lucid Versibar |
 | **Cassian Vorn** *(expunged)* — Valerius’s First Sword | Second lucid Versibar; rot-era butcher |
 | **Elara Solis** — Iron Venus; Outer Gate fleet command | Martha-raised; protector bond to Alaric (asymmetric) |

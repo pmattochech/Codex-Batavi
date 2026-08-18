@@ -86,7 +86,7 @@ The air tightened. Not theatrically. Like a pressure door sealing.
 
 — The Old Wolf — Alaric said.
 
-— Leviathan chassis — Guilliman added, clinical.
+— Contemptor chassis — Guilliman added, clinical.
 
 — Yes.
 

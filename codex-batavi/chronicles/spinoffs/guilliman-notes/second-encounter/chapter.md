@@ -44,7 +44,7 @@ Alaric’s helm remained forward. Guilliman could not see eyes through the lense
 
 Guilliman’s expression did not change, but his tone did — fractionally, into something that acknowledged the insult without punishing it.
 
-— Leviathan chassis.
+— Contemptor chassis.
 
 Alaric’s reply came with the first hint of something like fracture. Not in the words. In the way he refused ornament so fiercely the refusal itself became a shape.
 
