@@ -12,7 +12,7 @@
 
 ## doctrine-and-organs
 
-- [combat-doctrine.md](doctrine-and-organs/combat-doctrine.md) — **Combat Doctrine hub** (hold the wall; pointer only, no new law)
+- [combat-doctrine.md](doctrine-and-organs/combat-doctrine.md) — **Combat Doctrine** (Index voice: hold the wall; four stripes + three rims as one grammar)
 - [technical-datasheet.md](doctrine-and-organs/technical-datasheet.md) — Codex Batavorum technical sheet
 - [progenitor-classification.md](doctrine-and-organs/progenitor-classification.md) — founding / gene-line POV layers (open record vs sealed *Apothecarion*)
 - [wolfs-curse-origin-and-den.md](doctrine-and-organs/wolfs-curse-origin-and-den.md) — Wolf’s Curse **origin** (den + people, not the vial); visitor field; unraised cascade

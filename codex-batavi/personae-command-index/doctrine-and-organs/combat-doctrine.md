@@ -1,7 +1,18 @@
 # Combat Doctrine — *Cohors Batavorum*
 
-**Status:** Wiki hub. **Pointer only.** This page does **not** add combat law.  
+**Status:** Wiki hub. **Index voice** below is the Chapter combat doctrine (two-paragraph form). Tables remain **pointers** — they do **not** add combat law.  
+**Chapter tactics (category):** defensive doctrine · siege-hold · attrition.  
 **Lean (one sentence):** The Batavian Iron-Guard prefer to **hold the wall** — attrition and siege-density under **Friction Geometry** — not lightning assault, terror-cult, or “better at everything.”
+
+---
+
+## Combat doctrine
+
+The Batavian Iron-Guard do not hunt the war. They price the ground until the war must come, and they make that coming ruinously expensive. In a galaxy where Space Marines of every denomination are defined by surgical strike and ceaseless force, the Batavi receive the tide. Refineries, silos, and hive corridors become channels already measured; interlocking bolt-fire waits where the mathematics said the bodies would arrive. They fight in *Analytical Silence* — no hymn, no howl — *scuta* magnet-locked into a walking wall, power gladius finding the joint, shoulder and fist the second blade that finishes what the thrust began. Pure line is three densities of that same hold: Suppression for the flesh that floods the channel, Ruin for the hull that would break it, Siege for the meter that must not be given.
+
+That hold is not one stripe’s vanity. Stasis is the wall that will not chase a taunt into empty air. Silence walks hab, dock, and tunnel as a sensor, hunting the face too perfect and the gait that does not belong, so the cage is not opened from within. Shadows close the dark already priced — ducts, rafters, the kill-box a steward thought was blind — knife and gladius, never the saw that would name them. Nullity keeps the hourglass upright, cobalt and haruspex together, so spell and veil cannot unmake the geometry the rest are dying to keep. One grammar, four scars, three rims: the enemy bleeds on static iron, and the victory that counts is the one no one cheers. They hold.
+
+Employment of the four specialty fifties and the three line rims remains [`specialty-cohorts.md`](../../arsenal-and-logistics/specialty-cohorts.md) and [`military-hierarchy.md`](military-hierarchy.md) §3.4. This block does not script a battle order.
 
 ---
 
@@ -33,6 +44,7 @@ They remain able to board, drop, and assault **per theater**. Those are tools. T
 | Layer | File | What it holds |
 | --- | --- | --- |
 | Strategic / tactical | [`friction-geometry.md`](friction-geometry.md) | Infrastructure as weapon; Iron Wall / *Analytical Silence*; **second blade**; logistical end-state; **SEXTA** Siege Master |
+| Specialty fifties | [`specialty-cohorts.md`](../../arsenal-and-logistics/specialty-cohorts.md) | Silence · Shadows · Stasis · Nullity — scars, not extra Chapter doctrines |
 | Datasheet short | [`technical-datasheet.md`](technical-datasheet.md) §2 | Friction geometry, second blade, analytical silence |
 | Org / chain | [`military-hierarchy.md`](military-hierarchy.md) | How Friction Geometry runs from squad to Vexilla |
 | Register fields | [`chapter-organization.md`](../chapter-organization.md) **Doctrine** / **Strategy** | Codex adherence; style of combat; strengths / weaknesses |
