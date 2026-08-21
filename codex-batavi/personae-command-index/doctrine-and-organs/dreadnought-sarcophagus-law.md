@@ -27,7 +27,7 @@ Interned brothers **count** inside their Vexilla’s **500**. The hull does not 
 |--------------------|-----|
 | **Furor** | Default coffin stage that can still **teach**. |
 | **Exanimus** | Only under **dual seal** (Varro + Drusus). Those brothers do **not** get the schola. |
-| **Execratio / Versibar** | **Never.** The body will not fit the tank, the mind is not a witness, the seed is void ([`frontier-wolf-rite.md`](frontier-wolf-rite.md)). |
+| **Execratio / Versibar** | **Never intern.** If an **already interned** brother reaches this stage anyway, the **coin** in §6 — **very rare**. |
 
 ---
 
@@ -65,4 +65,27 @@ Three-office split: **Drusus** vitals, **Varro** soul, **Kadmos** machine.
 
 **Second job:** guard dog of the polity. **War-wake only** on ***Adversarii at Portas***. He is the **only** Dreadnought deployed **on that protocol**; every other coffin was already spent. **Order:** **Alaric only**. Not Graile, not Gervas, not a Legatus.
 
-**Furor at interment (confirmed):** lucidity plus a little extra wake, as §3 — **not** a cheat code.
+**Furor at interment (confirmed):** lucidity plus a little extra wake, as §3 — **not** a cheat code. Internment does **not** freeze the ratchet; coffin-stage advance is **Chapter-rare** (§6), not a Radulf privilege.
+
+---
+
+## 6. Coffin ratchet (very rare)
+
+The tank does **not** halt the Wolf’s Curse. Internment is not *Medicinae* remission. A Furor coffin **can** still advance. This is **very rare** — not a campaign regular, not a Vexilla-season hazard, not a story that happens every war. Most interned brothers die in the box still **Furor**, or are spent as hulls before the flesh climbs. *Medicinae* files coffin-stage climb as **exception ledger**, not doctrine you plan a year around.
+
+**Furor → Exanimus (rare):** the remnant in the amniotic coffin still runs the stage — jaw and canines on whatever is left of the head, keratin in a closed volume, bone hypertrophy pressing the neural splice, heat and sedation climbing. The walker does not become a better machine. Kadmos sees interface strain; Drusus sees vitals; Varro sees the soul-shape shift. The Furor gift (clearer speech, a little extra wake) **does not stack**. It **narrows**: more present as predator, less as archive. **Schola charter is pulled.** Dual seal (Varro + Drusus) **reopens**: keep as war-iron only, never wake except under Triumvirate eyes, or **end him in the tank** while the box is still a box. That last option is the humane hour. Miss it, and §6.1 is in play.
+
+**Exanimus → Execratio (rarer still):** the remnant tries to become a **Versibar**. The box decides whether anything **walks**. Ego is gone. Gene-seed is void for harvest. This is **not** a Helbrute, **not** daemon-engine fusion, and **not** Alaric’s living-plate return from Execratio. There is **no** third face: a Dreadnought that *is* a Versibar, still walking, still aimed.
+
+The outcome is a **weighted coin**, not mystic luck. Weights: hull age, last Kadmos refit, how far Exanimus bone had already pressed the splice. **Either face expends the coffin.** Repair is hard. Sometimes it is impossible. *Strategium* treats every Exanimus coffin as iron the Chapter may never get back.
+
+| Face | What happens to the body | What is left |
+|------|--------------------------|--------------|
+| **Breach** | The template wins. Flesh **tears out** of the sarcophagus — the coffin was only armor. A Versibar (full **4–4.5 m** lupine war-form) leaves the vault. | Split tomb: amniotic flood, plates like shed armor. A beast in the stasis hall **and** a hole in the Dreadnought roster. The Versibar is then ordinary Versibar law (kill, cell, Portas instrument) — not a walker. |
+| **Hold** | The box wins. The remnant **cooks** against adamantium. No viable war-form. | Sealed bio-hazard: warped splice, poisoned bath, machine-spirit that will not take another brother. Opening is a **burn-job**, not a rescue. |
+
+**Hard exclude:** internment as a freeze on the curse; Execratio as a super-Dreadnought upgrade; frequent coffin-Versibar as Chapter colour.
+
+---
+
+*Cross-read:* [`projection-aurea-wolfs-curse.md`](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) (Execratio morphology; Testament); [`frontier-wolf-rite.md`](frontier-wolf-rite.md); [`adversarii-at-portas.md`](adversarii-at-portas.md) (Versibar spend after a **breach**, if any cells or beasts remain to file).

@@ -493,7 +493,7 @@ Per-Vexilla split: [military-hierarchy.md](doctrine-and-organs/military-hierarch
 
 **Vehicles:** Gunships, Rhinos/Razorback analogs, siege tanks — pool **theater-scaled**; SEXTA heaviest embarkation bias.
 
-**Dreadnoughts:** **Castraferrum** and other Codex-legal patterns as certified; spendable hulls at **Bifrons-Ferrum**; **Radulf LVI-1** (*The Old Wolf*) sleeps **Noviomagus** (**DECIMA** / Castellan cradle). Internment when body fails but mind required — Furor default; Exanimus dual seal; Versibar **never**. **Radulf** war-wake: ***Adversarii at Portas***, **Alaric** only. Law: [dreadnought-sarcophagus-law.md](doctrine-and-organs/dreadnought-sarcophagus-law.md) · [adversarii-at-portas.md](doctrine-and-organs/adversarii-at-portas.md).
+**Dreadnoughts:** **Castraferrum** and other Codex-legal patterns as certified; spendable hulls at **Bifrons-Ferrum**; **Radulf LVI-1** (*The Old Wolf*) sleeps **Noviomagus** (**DECIMA** / Castellan cradle). Internment when body fails but mind required — Furor default; Exanimus dual seal; Versibar **never**. Coffin-stage climb (**Furor → Exanimus → Execratio**) is **very rare**; Execratio in the tank is a **coin** (breach or cook) that **expends** the hull. **Radulf** war-wake: ***Adversarii at Portas***, **Alaric** only. Law: [dreadnought-sarcophagus-law.md](doctrine-and-organs/dreadnought-sarcophagus-law.md) §6 · [adversarii-at-portas.md](doctrine-and-organs/adversarii-at-portas.md).
 
 **Fleet:** See § **Fleet description**; in-depth hull roster **TBD** open register.
 

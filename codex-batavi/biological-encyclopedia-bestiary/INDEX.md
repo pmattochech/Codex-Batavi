@@ -3,7 +3,7 @@
 ## Chapter biology
 - [projection-aurea-wolfs-curse.md](projection-aurea-wolfs-curse.md) — clinical ladder (stages, red code, testament)
 - *Last measure / cell keys:* [`../personae-command-index/doctrine-and-organs/adversarii-at-portas.md`](../personae-command-index/doctrine-and-organs/adversarii-at-portas.md)
-- *Dreadnought coffin law:* [`../personae-command-index/doctrine-and-organs/dreadnought-sarcophagus-law.md`](../personae-command-index/doctrine-and-organs/dreadnought-sarcophagus-law.md)
+- *Dreadnought coffin law:* [`../personae-command-index/doctrine-and-organs/dreadnought-sarcophagus-law.md`](../personae-command-index/doctrine-and-organs/dreadnought-sarcophagus-law.md) — including **§6** coffin ratchet (**very rare**)
 - *Origin (den + people, not the vial):* [`../personae-command-index/doctrine-and-organs/wolfs-curse-origin-and-den.md`](../personae-command-index/doctrine-and-organs/wolfs-curse-origin-and-den.md)
 - *Progenitor / classification layers (open vs sealed record):* [`../personae-command-index/doctrine-and-organs/progenitor-classification.md`](../personae-command-index/doctrine-and-organs/progenitor-classification.md)
 - *Primaris method (Rubicon, then local intake):* [`../personae-command-index/doctrine-and-organs/primaris-rubicon-intake.md`](../personae-command-index/doctrine-and-organs/primaris-rubicon-intake.md)

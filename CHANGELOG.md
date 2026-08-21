@@ -7,7 +7,7 @@ All notable changes to the **Codex-Batavi** lore in this repository are document
 ### Added
 
 - **`adversarii-at-portas.md`:** Chapter last-measure protocol (remnant on Noviomagus under **DECIMA**); local Black Cell keys; Malakor as correlation only.
-- **`dreadnought-sarcophagus-law.md`:** Coffin pros/cons; shared wake clock; Furor lucidity; internment gate; **Radulf** as **DECIMA** **Castraferrum**.
+- **`dreadnought-sarcophagus-law.md`:** Coffin pros/cons; shared wake clock; Furor lucidity; internment gate; **Radulf** as **DECIMA** **Castraferrum**; **§6** coffin ratchet — **very rare** Furor→Exanimus→Execratio; Execratio **coin** (breach / hold); hull expended either face.
 
 ### Changed
 

@@ -30,7 +30,7 @@
 - [amissi-the-lost.md](doctrine-and-organs/amissi-the-lost.md) — The Lost (*Amissi*)
 - [frontier-wolf-rite.md](doctrine-and-organs/frontier-wolf-rite.md) — Execratio funeral protocol; plaque system and Alaric’s Chain of Names
 - [adversarii-at-portas.md](doctrine-and-organs/adversarii-at-portas.md) — Chapter last measure; local cell-open keys; Malakor correlation
-- [dreadnought-sarcophagus-law.md](doctrine-and-organs/dreadnought-sarcophagus-law.md) — coffin pros/cons; wake clock; **Radulf** **DECIMA** / **Castraferrum**
+- [dreadnought-sarcophagus-law.md](doctrine-and-organs/dreadnought-sarcophagus-law.md) — coffin pros/cons; wake clock; **Radulf** **DECIMA** / **Castraferrum**; **§6** coffin ratchet (**very rare** Execratio coin)
 - [friction-geometry.md](doctrine-and-organs/friction-geometry.md)
 - [pax-batavorum.md](doctrine-and-organs/pax-batavorum.md)
 
