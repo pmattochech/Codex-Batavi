@@ -97,13 +97,13 @@ Drusus walked ahead. Cell records were on his panel.
 
 — Operational history?
 
-— Two took part in *Adversarii at Portas* in the last hundred twenty years. Both survived the incidents. Protocol is no recovery after release — but in those two cases, circumstances allowed post-action containment. It is an exception, not the rule.
+— Two were released from Black Cells on seat warrant in the last hundred twenty years — not *Adversarii at Portas*. Both survived the incidents. Protocol is no recovery after release — but in those two cases, circumstances allowed post-action containment. It is an exception, not the rule.
 
 Trajann processed that in silence.
 
 — Adversarii at Portas — he repeated. — You release battle-brothers as area weapons.
 
-— We release instruments who chose to be area weapons — said Varro, without inflection. — The Testament is irrevocable because it was signed while the mind still worked. We honor the choice the man made before he became the beast.
+— Seat warrant opens a cage — said Varro, without inflection. — Portas is the hour the nine have already failed. The Testament is irrevocable because it was signed while the mind still worked. We honor the choice the man made before he became the beast.
 
 Trajann did not answer at once. Then he said:
 

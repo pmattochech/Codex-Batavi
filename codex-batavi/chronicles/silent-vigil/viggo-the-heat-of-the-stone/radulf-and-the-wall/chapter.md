@@ -12,7 +12,7 @@ The lower audience vault had been built for loads ordinary architecture refused 
 
 In the rear left quadrant, inside a maintenance shadow where heat flux stayed stable, a reinforced transport cradle sat bolted to deck rings. Thermal padding lined the interior; restraint webbing lay loose, not cinched. A small gray shape slept there in tight, wary spirals, ears twitching at each heavy mechanical note in the chamber.
 
-Alaric stood at center mark when the outer blast gate opened. The sequence announced itself in stages: hydraulic groan, chain release, servo-thunder, a flare of red caution lumens. Then the silhouette entered: **Contemptor** chassis, tall and old, more man-shape than bunker, still heavy enough that every step spoke to the floor. Across the front plate, repair welds over ancient damage made a cartography of wars nobody in the chamber had forgotten. On the sarcophagus face, worn white letters still legible beneath impact scoring: **RADULF CASTRIN**.
+Alaric stood at center mark when the outer blast gate opened. The sequence announced itself in stages: hydraulic groan, chain release, servo-thunder, a flare of red caution lumens. Then the silhouette entered: **Castraferrum** chassis, tall and old, more bunker than man-shape, heavy enough that every step spoke to the floor. Across the front plate, repair welds over ancient damage made a cartography of wars nobody in the chamber had forgotten. On the sarcophagus face, worn white letters still legible beneath impact scoring: **RADULF CASTRIN**.
 
 The Old Wolf stopped three meters from Alaric, pistons venting once in a short burst that rolled hot vapor through the vault’s cold air. He had no escort, no witness team, no ceremonial guard. He did not need one. His voice came through external vox in a low mineral rasp, like stone being cut with patience instead of speed.
 
@@ -52,7 +52,7 @@ He stepped forward. The deck rang with a low iron note.
 
 — I remember you before this armor looked like a fortress. I remember you with less rank, less silence, and more sleep. I remember when quiet in you meant calculation and not self-punishment dressed as discipline.
 
-He did not stop there. The old Contemptor voice continued in the same measured cadence, as if reading stones set decades earlier into a wall no one young enough to bleed had helped raise.
+He did not stop there. The old coffin voice continued in the same measured cadence, as if reading stones set decades earlier into a wall no one young enough to bleed had helped raise.
 
 — I remember the first winter trench at Incus, when your gauntlets froze to the firing rail and you still refused to rotate off because the replacement line was three minutes late. I remember you dragging two brothers out of a collapsed revetment with one shoulder dislocated and reporting it as “temporary load imbalance.” I remember you in the old campaign years when you had not yet learned how to hide pain behind doctrine words.
 
@@ -86,7 +86,7 @@ Radulf’s optics narrowed to pin-lights.
 
 — You know what arrogance looks like. You buried it at Malakor. You know what rot looks like. You survived Valerius. Do not offer me a cleaner strain of the same disease because this time it wears your face.
 
-The Contemptor paused and shifted weight with slow deliberation, like a siege engine re-aiming.
+The Castraferrum paused and shifted weight with slow deliberation, like a siege engine re-aiming.
 
 — Do you know what kills a fortress, Castellan? It is not the first shell. Not the second breach. Not the enemy standard on the outer wall. It is the hour when officers begin making private doctrine because command is absent. That is the hour the fortress starts dying from inside while the stone still looks perfect from outside.
 
@@ -110,7 +110,7 @@ Alaric’s right hand flexed once, then stopped.
 
 — Good. Then contain it as Castellan, not as penitent.
 
-Radulf leaned the Contemptor forward by a few degrees, enough to turn the next sentence into a hammer-blow.
+Radulf leaned the sarcophagus forward by a few degrees, enough to turn the next sentence into a hammer-blow.
 
 — Your self-hatred is not noble. It is expensive.
 
@@ -122,7 +122,7 @@ He paused just long enough to make the next line personal.
 
 — I did not wake to watch that happen.
 
-The chamber fans clicked up one notch under Contemptor heat discharge. Radulf’s optics remained fixed.
+The chamber fans clicked up one notch under Castraferrum heat discharge. Radulf’s optics remained fixed.
 
 — I have been interred long enough to watch generations turn into names on brass. I have seen brilliant captains become cautionary lines because no one struck them hard enough when they were still salvageable. I have also seen hard men return from worse than this because someone they respected refused to flatter their ruin.
 
@@ -214,11 +214,11 @@ A controlled pause.
 
 — If you were beyond recuperation, that cradle would be empty.
 
-A long, low servo note passed through the Contemptor frame as he settled his stance.
+A long, low servo note passed through the Castraferrum frame as he settled his stance.
 
 — Do not thank me for this talk. Do not admire it. Use it. I am old enough to know that wisdom is only maintenance spoken slowly.
 
-He did not turn away yet. The Contemptor frame stood in profile, and for a moment the old mentor voice came through the machine grain clear enough to sound almost like the man Alaric had known before entombment.
+He did not turn away yet. The Castraferrum frame stood in profile, and for a moment the old mentor voice came through the machine grain clear enough to sound almost like the man Alaric had known before entombment.
 
 — There is a lie commanders tell themselves when they get tired enough: if I carry this alone, I protect everyone else from weight. You already know that lie. You watched it bloom in better men and uglier men. It never protects. It only centralizes failure.
 
@@ -238,7 +238,7 @@ Radulf held still long enough to bind the promise.
 
 — See that I do.
 
-The blast gate reopened. Contemptor mass moved out beneath caution lights and disappeared into the palace throat, leaving heat, oil scent, and an absence that felt less like departure than a standard planted in stone.
+The blast gate reopened. Castraferrum mass moved out beneath caution lights and disappeared into the palace throat, leaving heat, oil scent, and an absence that felt less like departure than a standard planted in stone.
 
 Alaric remained at mark center for a long while after the gate sealed. When he finally keyed vox, it was the first proactive command traffic he had initiated since Garmr’s Shelf.
 

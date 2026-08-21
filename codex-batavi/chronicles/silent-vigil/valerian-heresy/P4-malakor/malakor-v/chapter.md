@@ -5,7 +5,7 @@
 **Characters:** Alaric von Helis, Drusus (rear guard), Varro (doctrinal witness), the Versibar of the PRIMA  
 **Draft scaffold:** [SCAFFOLD.md](SCAFFOLD.md)
 
-**Scope:** **Valerian Heresy** — **PRIMA** rot; **~300** Chapter losses (**KIA** / **Versibar**) in the wider Malakor theater; first **documented** **battlefield** ***Adversarii at Portas*** correlation ([`projection-aurea-wolfs-curse.md`](../../../../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — **Exanimus Testament**).
+**Scope:** **Valerian Heresy** — **PRIMA** rot; **~300** Chapter losses (**KIA** / **Versibar**) in the wider Malakor theater; first **documented** **battlefield** ***Adversarii at Portas*** correlation ([`adversarii-at-portas.md`](../../../../../personae-command-index/doctrine-and-organs/adversarii-at-portas.md) — **not** a full Portas declaration).
 
 ---
 
@@ -39,7 +39,7 @@ The only element Valerius lacked was forty-three years’ knowledge of how Valer
 
 ## II. THE FIELD
 
-**Valerian Heresy — theater accounting:** Malakor V was never only a corridor. **PRIMA**’s treason had spread across **rot**-linked anchors; *the Cull* Tier 3 had **locked** **loyal Versibars** onto **traitor gene-seed** while Lord Castellan **Alpha** **imposed** **predation geometry** — irrational mass **aimed**, not Chapter-wide **catastrophe**. *Strategium* later files the engagement as the first **documented** **battlefield** ***Adversarii at Portas*** correlation: **distinct** from **terminal** Black Cell release (facility lost / indiscriminate **Portas**). Before Alaric met **Valerius** in the maze, the **blood-price** was already **~300** names — against **~500** brothers still **rational** when the **crucible** ended. **~200 Firstboot** would remain on line when the ash settled. The duel was **sentence** on the **First Legatus**, not the whole war.
+**Valerian Heresy — theater accounting:** Malakor V was never only a corridor. **PRIMA**’s treason had spread across **rot**-linked anchors; *the Cull* Tier 3 had **locked** **loyal Versibars** onto **traitor gene-seed** while Lord Castellan **Alpha** **imposed** **predation geometry** — irrational mass **aimed**, not Chapter-wide **catastrophe**. *Strategium* later files the engagement as the first **documented** **battlefield** ***Adversarii at Portas*** correlation: **distinct** from **full** Portas (nine seats failed / remnant on Noviomagus) and from **local** two-key Black Cell open. Before Alaric met **Valerius** in the maze, the **blood-price** was already **~300** names — against **~500** brothers still **rational** when the **crucible** ended. **~200 Firstboot** would remain on line when the ash settled. The duel was **sentence** on the **First Legatus**, not the whole war.
 
 Parallel lanes in the same theater held PRIMA **witness** resistance against Valerius’s expunged **First Sword**, **Cassian Vorn** — the Chapter’s **second** **lucid Versibar** (adjunct **Warp** latch; weaker than the First Legatus) — while the Castellan’s hook closed. In one of those lanes **Corbec Ardens** — witness-brother, not yet *Legatus* — met Vorn with the **halberd** pattern PRIMA keeps on the **Legatus** close-combat register: *Alabarda* reach and hook geometry without the vexillum relay, shaft and head issued for **officer witness** work when the line refused the rot. *Apothecarion* afterward applied Drusus’s **Reading B** split: **conflict-hour** **Versibar** manifests versus **pre-crisis** hold cohorts, **separate** ledger lines so rot-surge counts stay honest.
 

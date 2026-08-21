@@ -130,6 +130,6 @@ None of the 1,486 plaques bears Alaric’s name. He does not perform this rite f
 
 **Case B — Execratio in the field (no Testament or failed prison Testament):** Full rite, no Testament reading. *Conclamatio* keeps three calls. Absence of formal choice does not change the farewell’s shape — only removes Varro’s first line.
 
-**Case C — Prison Versibar enters *Adversarii at Portas* and does not survive:** Rite on remains if recoverable. If body cannot be recovered from compromised sector, *Conclamatio* is performed with empty shroud — what Varro calls *“the absent rite.”* Plaques were already on Alaric’s cord from imprisonment; no second addition.
+**Case C — Prison Versibar is released from Black Cell (local open or *Adversarii at Portas*) and does not survive:** Rite on remains if recoverable. If body cannot be recovered from compromised sector, *Conclamatio* is performed with empty shroud — what Varro calls *“the absent rite.”* Plaques were already on Alaric’s cord from imprisonment; no second addition.
 
-**Case D — Prison Versibar survives *Adversarii at Portas* and returns to cell:** Plaques stay on chain. Alaric does not return them while the warrior lives. The only case where a pair of plaques hangs on the cord while the owner still exists.
+**Case D — Prison Versibar survives release (local open or *Adversarii at Portas*) and returns to cell:** Plaques stay on chain. Alaric does not return them while the warrior lives. The only case where a pair of plaques hangs on the cord while the owner still exists.

@@ -86,7 +86,7 @@ The air tightened. Not theatrically. Like a pressure door sealing.
 
 — The Old Wolf — Alaric said.
 
-— Contemptor chassis — Guilliman added, clinical.
+— Castraferrum chassis — Guilliman added, clinical.
 
 — Yes.
 

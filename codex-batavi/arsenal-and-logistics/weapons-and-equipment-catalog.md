@@ -51,4 +51,4 @@ Cross-reference for armament cited outside the arsenal. Full narrative specifica
 
 ## Related
 
-* **Dreadnoughts** in stasis (Bifrons-Ferrum) — see [system-ii-crucible](../atlas-and-topography/systems/system-ii-crucible.md) (Chapter vaults).
+* **Dreadnoughts** — **spendable** hulls in stasis (**Bifrons-Ferrum**); **Radulf** (*The Old Wolf*, **Castraferrum**) at **Noviomagus** — [system-ii-crucible](../atlas-and-topography/systems/system-ii-crucible.md); law: [dreadnought-sarcophagus-law.md](../personae-command-index/doctrine-and-organs/dreadnought-sarcophagus-law.md).

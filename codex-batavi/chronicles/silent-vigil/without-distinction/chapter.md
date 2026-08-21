@@ -86,7 +86,7 @@ The chaplain provided the calibration. Halvard left the meeting with the same we
 
 Phase four was the descent.
 
-The proximal sector’s cells were smaller and older than Noviomagus Prime’s. Four occupants total — two who had chosen the Iron Prison decades before, one contained before the Testament was formalized, one whose consciousness lapses were still consistent enough to keep him classed as active witness rather than relocate to *Adversarii at Portas*.
+The proximal sector’s cells were smaller and older than Noviomagus Prime’s. Four occupants total — two who had chosen the Iron Prison decades before, one contained before the Testament was formalized, one whose consciousness lapses were still consistent enough to keep him classed as active witness rather than reclassify for local cell-open spend or execution.
 
 Halvard went down alone. Always alone, in this phase. He brought young sergeants only on first visits — afterward each made the path alone, in the time needed, without audience and without mandatory report to the Legatus. The report went to the *Apothecarion* technician, who assessed duration and posture, not emotional content.
 

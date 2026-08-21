@@ -29,6 +29,8 @@
 - [wolfkeeper-and-reclusiam.md](doctrine-and-organs/wolfkeeper-and-reclusiam.md) — **Wolfkeeper** class (soul in life); Judex / Master Wolfkeeper; duties vs Mortivigil / Librarium; Tenets link
 - [amissi-the-lost.md](doctrine-and-organs/amissi-the-lost.md) — The Lost (*Amissi*)
 - [frontier-wolf-rite.md](doctrine-and-organs/frontier-wolf-rite.md) — Execratio funeral protocol; plaque system and Alaric’s Chain of Names
+- [adversarii-at-portas.md](doctrine-and-organs/adversarii-at-portas.md) — Chapter last measure; local cell-open keys; Malakor correlation
+- [dreadnought-sarcophagus-law.md](doctrine-and-organs/dreadnought-sarcophagus-law.md) — coffin pros/cons; wake clock; **Radulf** **DECIMA** / **Castraferrum**
 - [friction-geometry.md](doctrine-and-organs/friction-geometry.md)
 - [pax-batavorum.md](doctrine-and-organs/pax-batavorum.md)
 
@@ -68,7 +70,7 @@
 - [dossier-markus-graile.md](character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) — Captain, 10th DECIMA (anchor guard / instructor face)
 - [dossier-valens-ritter.md](character-dossiers/cohorts-and-detachments/dossier-valens-ritter.md) — **Valens Ritter** — Silence + Shadows dual-path (folklore: *Silent Shadow* / *Two-Path Wolf*); ledger PRIMA, spend OCTAVA
 - [dossier-einar-dreadwolf.md](character-dossiers/cohorts-and-detachments/dossier-einar-dreadwolf.md) — **Einar Dreadwolf** — **The Lost** (*Amissi*); **KIA 168.M42** — [amissi-the-lost.md](doctrine-and-organs/amissi-the-lost.md)
-- [dossier-radulf-castrin.md](character-dossiers/cohorts-and-detachments/dossier-radulf-castrin.md) — **Radulf Castrin**, **The Old Wolf** (**Contemptor**) — mentor / merit rites / siege line; entombment **TBD**
+- [dossier-radulf-castrin.md](character-dossiers/cohorts-and-detachments/dossier-radulf-castrin.md) — **Radulf Castrin**, **The Old Wolf** (**Castraferrum**, **DECIMA**) — mentor / guard dog; Portas war-wake **Alaric** only; entombment **TBD**
 
 ### supporting
 

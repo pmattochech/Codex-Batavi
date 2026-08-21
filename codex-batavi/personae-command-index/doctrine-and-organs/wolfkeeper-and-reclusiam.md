@@ -2,7 +2,7 @@
 
 *Vermilion / *Reclusiam* — Chapter class name for the living-soul office; Imperial parchment may still say Chaplain.*
 
-**Cross-references:** [mortivigil-and-reclusiam-helm-law.md](mortivigil-and-reclusiam-helm-law.md) · [dossier-varro.md](../character-dossiers/triumvirate/dossier-varro.md) · [tenets-of-the-grey-wolves.md](../../lexicon-and-litanies/tenets-of-the-grey-wolves.md) · [the-red-wolf.md](the-red-wolf.md) · [amissi-the-lost.md](amissi-the-lost.md) · [steppenwolf-doctrine.md](steppenwolf-doctrine.md) · [council-and-librarium.md](council-and-librarium.md) · [proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md) · [remonstratio-docens.md](remonstratio-docens.md) · [custos-ascensum-doctrine.md](custos-ascensum-doctrine.md) · [chapter-organization.md](../chapter-organization.md) § Reclusiam
+**Cross-references:** [mortivigil-and-reclusiam-helm-law.md](mortivigil-and-reclusiam-helm-law.md) · [dossier-varro.md](../character-dossiers/triumvirate/dossier-varro.md) · [tenets-of-the-grey-wolves.md](../../lexicon-and-litanies/tenets-of-the-grey-wolves.md) · [the-red-wolf.md](the-red-wolf.md) · [amissi-the-lost.md](amissi-the-lost.md) · [steppenwolf-doctrine.md](steppenwolf-doctrine.md) · [council-and-librarium.md](council-and-librarium.md) · [proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md) · [remonstratio-docens.md](remonstratio-docens.md) · [custos-ascensum-doctrine.md](custos-ascensum-doctrine.md) · [adversarii-at-portas.md](adversarii-at-portas.md) · [chapter-organization.md](../chapter-organization.md) § Reclusiam
 
 ---
 
@@ -22,7 +22,7 @@
 
 **Do not confuse with:**
 
-* **Confessor Vexilli / Confessor Primus** — banner-court *conduct* seats (penance and marks), not the class name for every crozius-bearer.  
+* **Confessor Vexilli / Confessor Primus** — banner-court *conduct* seats (penance and marks), not the class name for every crozius-bearer, and **not** by default the Black Cell soul-key.  
 * **Judiciar** — mute company sentence-carrier; **not** Mortivigil and **not** a speaking Wolfkeeper. Helm and pipeline: [mortivigil-and-reclusiam-helm-law.md](mortivigil-and-reclusiam-helm-law.md) §IIa.  
 * **Death Wolf** — *Reclusiam* idiom for Varro’s curse-face when closing on **the Red Wolf** / headsman silhouette; not the line class title.  
 * **Haruspex / Blindgate** — *Librarium* (Otho); warp telemetry and mind-terrain, not soul-law.
@@ -46,7 +46,8 @@ A Batavi Wolfkeeper is a **soul-warden of the living Wall**: priest of **mainten
 7. **Affect / soul-law teaching** — no demand for Human-readable “proof” faces; bind shame/story hazards the Warp eats ([batavi-affect-kinesics-and-mortal-literacy.md](batavi-affect-kinesics-and-mortal-literacy.md)).  
 8. **Judex filtration (lattice)** — elevate useful proximity habit into rite, or burn it as Furor / Ecclesiarchy hazard ([proximity-substrata-and-witness-inheritance.md](proximity-substrata-and-witness-inheritance.md)).  
 9. **Induction and rite stack** — *Axiom* induction; friction rites; spiritual close where funeral doctrine calls (Mortivigils lead body / Wall-fusion craft).  
-10. **Banner-court conduct lane** — when seated as **Confessor Vexilli**: penance and marks, parallel to Legatus / Genetor.
+10. **Banner-court conduct lane** — when seated as **Confessor Vexilli**: penance and marks, parallel to Legatus / Genetor.  
+11. **Chief Wolfkeeper of a Vexilla (cell-open soul-key)** — one of the three Wolfkeepers is the **chief** of that seat for **local Black Cell open** (with the **Legatus**). This is **not** automatically the Confessor hat. **DECIMA** has no such chief: cell-open is the **Triumvirate** as a court. Law: [adversarii-at-portas.md](adversarii-at-portas.md).
 
 ### With ***licentia lupina*** only
 

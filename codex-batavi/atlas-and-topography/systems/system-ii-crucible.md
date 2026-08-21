@@ -26,7 +26,7 @@ Clustered near the red dwarf’s flares lie worlds forged by weight and claustro
 
 Trapped in the white dwarf’s glare lie the Chapter’s vaults of the past:
 
-* **Bifrons-Ferrum (The Dual World):** A rocky world that survived the stellar explosion but split in two, its halves (Bifrons-Ferrum-I and Bifrons-Ferrum-II) separated by a 5,000 km vacuum gulf, linked only by colossal *adamantium* cables and magnetic bridges. The Chapter’s greatest arsenal and tomb where Venerable *Dreadnoughts* lie in deep stasis.
+* **Bifrons-Ferrum (The Dual World):** A rocky world that survived the stellar explosion but split in two, its halves (Bifrons-Ferrum-I and Bifrons-Ferrum-II) separated by a 5,000 km vacuum gulf, linked only by colossal *adamantium* cables and magnetic bridges. The Chapter’s greatest arsenal and tomb where **spendable** Venerable *Dreadnoughts* lie in deep stasis. **Radulf** (*The Old Wolf*) does **not** sleep here — **Noviomagus** DECIMA cradle ([dreadnought-sarcophagus-law.md](../../personae-command-index/doctrine-and-organs/dreadnought-sarcophagus-law.md)).
 * **Vitreus (The Lens World):** A planet whose surface is 90% vitrified silica, covered by oceans of molten glass. It serves as a blind laboratory for the Mechanicus and the sector’s main photonic processing hub.
 * **The Logus Ring (The Great Disk):** A massive accretion disk whirling around the white dwarf, trillions of tons of metallic dust and hull carcasses. A gigantic industrial breakers’ yard, lit constantly by “St. Elmo’s fire” in space — blue voltaic arcs from ionized dust friction.
 

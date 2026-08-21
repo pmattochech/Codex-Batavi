@@ -20,7 +20,7 @@
 | **VII** | SEPTIMA | [Lucan Phaetron](character-dossiers/legati/dossier-lucan-phaetron.md) | — |
 | **VIII** | OCTAVA | [Ivar Malevent](character-dossiers/legati/dossier-ivar-malevent.md) | Valens Ritter (detached spend) |
 | **IX** | NONA | [Cassian Vetra](character-dossiers/legati/dossier-cassian-vetra.md) | — |
-| **X** | DECIMA | ** — ** (no Legatus; Castellan + **LVPVS IMPERATORIS**) | Alaric, Drusus, Varro, Kadmos, Otho; **Markus Graile** (**Emperor’s Wolf**); Cael Dravic (Brother-Sergeant) |
+| **X** | DECIMA | ** — ** (no Legatus; Castellan + **LVPVS IMPERATORIS**) | Alaric, Drusus, Varro, Kadmos, Otho; **Markus Graile** (**Emperor’s Wolf**); Cael Dravic (Brother-Sergeant); **Radulf Castrin** (*The Old Wolf* — **Castraferrum**) |
 
 **Chapter organ delegates (not Legati):** **Genetor Primus** (*Medicinae*) and **Confessor Primus** (*Reclusiam*) — offices in [`disciplines-and-curia-vexilli-plan.md`](../planning/disciplines-and-curia-vexilli-plan.md); **named holders TBD**. **Custos Ascensum** — college of nine **Procurators**; **Speaker** this rotation **unnamed** — [`custos-ascensum-doctrine.md`](doctrine-and-organs/custos-ascensum-doctrine.md).
 
@@ -51,7 +51,7 @@
 | **Markus Graile** — **LVPVS IMPERATORIS** (Emperor’s Wolf); **Lord Executioner** (VIII) | **First** and present Chapter Champion; **DECIMA** battle sovereign under Castellan; man-at-arms (any weapon); pairs with Alaric or any Legatus in that seat’s style; ***Par Ferrum Lupi***; ***justice vexillum*** bearer. Title earned Valerian close (fends Versibar; Alaric killing blow). Walks all four cohort rotations after those scars exist. |
 | **Cael Dravic** — Brother-Sergeant, DECIMA | Overwatch under **Emperor’s Wolf** detachments; Garmr’s Shelf Crimson Wolf witness |
 | **Valens Ritter** — Battle-brother (PRIMA ledger, OCTAVA spend) | Silence + Shadows dual path; Exanimus; counter-infiltration |
-| **Radulf Castrin / LVI-1** — Contemptor Dreadnought, *The Old Wolf* | Mentor/siege Ancient; merit rites; Furor at interment |
+| **Radulf Castrin / LVI-1** — Castraferrum Dreadnought, *The Old Wolf* (**DECIMA**) | Chapter mentor (before-Batavi charter); polity guard dog; Furor lucidity; war-wake ***Adversarii at Portas***, **Alaric** only |
 | **Valerius** *(expunged)* — First Legatus, PRIMA | Traitor *Lupercal* claim; Malakor V; lucid Versibar |
 | **Cassian Vorn** *(expunged)* — Valerius’s First Sword | Second lucid Versibar; rot-era butcher |
 | **Elara Solis** — Iron Venus; Outer Gate fleet command | Martha-raised; protector bond to Alaric (asymmetric) |

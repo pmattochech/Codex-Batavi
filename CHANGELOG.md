@@ -2,6 +2,18 @@
 
 All notable changes to the **Codex-Batavi** lore in this repository are documented in this file. Release tags follow semantic-style increments (`v1.x.0`).
 
+## [Unreleased]
+
+### Added
+
+- **`adversarii-at-portas.md`:** Chapter last-measure protocol (remnant on Noviomagus under **DECIMA**); local Black Cell keys; Malakor as correlation only.
+- **`dreadnought-sarcophagus-law.md`:** Coffin pros/cons; shared wake clock; Furor lucidity; internment gate; **Radulf** as **DECIMA** **Castraferrum**.
+
+### Changed
+
+- **Radulf Castrin** retargeted from relic walker to **Castraferrum**; sleeps **Noviomagus**; war-wake **Alaric** only on *Adversarii at Portas*.
+- Glossary, Testament block, cell-open vs Portas, and assigned chronicle stitches (Malakor scope, Trajann briefing, Radulf vault silhouette).
+
 ## [1.3.0] — 2026-03-28
 
 ### Added

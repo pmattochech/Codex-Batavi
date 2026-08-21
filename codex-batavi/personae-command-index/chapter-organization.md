@@ -299,7 +299,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Champion —** **LVPVS IMPERATORIS** (**Emperor’s Wolf**) — **Markus Graile** (incumbent); **Lord Executioner** (classic VIII); Imperial gloss **Emperor’s Champion** / **Chapter Champion**. **Not** a Legatus. Bears ***Par Ferrum Lupi*** (**Decreto** · **Termini**) and primary ***justice vexillum***. See § Details.
 
-**Ancient —** **Vexilla banner** bearer (vanilla English; one per **PRIMA–NONA**, Legatus retinue). The **1st captain** does **not** hold the cloth. **No** company Ancients. **Radulf LVI-1** (*The Old Wolf*) — **Contemptor Dreadnought ancient** (different office).
+**Ancient —** **Vexilla banner** bearer (vanilla English; one per **PRIMA–NONA**, Legatus retinue). The **1st captain** does **not** hold the cloth. **No** company Ancients. **Radulf LVI-1** (*The Old Wolf*) — **Castraferrum Dreadnought ancient**, **DECIMA** (different office). [dreadnought-sarcophagus-law.md](doctrine-and-organs/dreadnought-sarcophagus-law.md).
 
 **Honor guard —** **Vexilla DECIMA** — Castellan escort; five supreme posts embedded.
 
@@ -493,7 +493,7 @@ Per-Vexilla split: [military-hierarchy.md](doctrine-and-organs/military-hierarch
 
 **Vehicles:** Gunships, Rhinos/Razorback analogs, siege tanks — pool **theater-scaled**; SEXTA heaviest embarkation bias.
 
-**Dreadnoughts:** **Contemptor** and Codex-standard patterns; **Radulf LVI-1**; interment when body fails but mind required — Varro/Drusus sign-off.
+**Dreadnoughts:** **Castraferrum** and other Codex-legal patterns as certified; spendable hulls at **Bifrons-Ferrum**; **Radulf LVI-1** (*The Old Wolf*) sleeps **Noviomagus** (**DECIMA** / Castellan cradle). Internment when body fails but mind required — Furor default; Exanimus dual seal; Versibar **never**. **Radulf** war-wake: ***Adversarii at Portas***, **Alaric** only. Law: [dreadnought-sarcophagus-law.md](doctrine-and-organs/dreadnought-sarcophagus-law.md) · [adversarii-at-portas.md](doctrine-and-organs/adversarii-at-portas.md).
 
 **Fleet:** See § **Fleet description**; in-depth hull roster **TBD** open register.
 
