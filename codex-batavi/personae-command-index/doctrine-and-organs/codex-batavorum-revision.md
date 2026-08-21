@@ -15,6 +15,8 @@ What changes is **application** and the strict **“in this situation, do this�
 
 **Batavi revision** = living field law: friction geometry, Shared Sweat, *Axiom of Reason*, Vexilla mesh, super-tithe, *Instrumentum Solum*. It is **rational**. Curse scenes may **interfere**. They do not **replace** this work.
 
+**Combat doctrine hub (pointer):** [`combat-doctrine.md`](combat-doctrine.md) — hold-the-wall lean; this file remains the *Codex* revision lock.
+
 ---
 
 ## II. What not to write

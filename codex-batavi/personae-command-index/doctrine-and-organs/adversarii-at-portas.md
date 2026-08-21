@@ -1,6 +1,6 @@
 # [WIKI] *Adversarii at Portas* — Chapter last measure
 
-**Status:** **Locked** — parent terminal protocol. **Not** a synonym for every Black Cell open.  
+**Status:** **Locked** — parent terminal protocol. **Not** a synonym for every Black Cell open. **Not** preferred combat doctrine — last measure only: [`combat-doctrine.md`](combat-doctrine.md).  
 **Clinical Versibar body:** [`projection-aurea-wolfs-curse.md`](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) (Exanimus Testament).  
 **Coffin / Old Wolf:** [`dreadnought-sarcophagus-law.md`](dreadnought-sarcophagus-law.md) · [`dossier-radulf-castrin.md`](../character-dossiers/cohorts-and-detachments/dossier-radulf-castrin.md).  
 **Seat keys:** [`wolfkeeper-and-reclusiam.md`](wolfkeeper-and-reclusiam.md) · [`military-hierarchy.md`](military-hierarchy.md) §3.

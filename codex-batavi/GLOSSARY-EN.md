@@ -85,7 +85,8 @@ Use when writing or editing English prose. Extend as you go.
 | **Lord Executioner** | **Graile** · LVPVS IMPERATORIS — apex duel kill; **not** Hunt (campaign pursuit) |
 | **witness routes only** | Margin law / folk liturgy: testimony and escort manifests stay **parallel** — no sample transit without escort manifest parity. |
 | **parallel filing** | Staff immune grammar: two ledgers under one timestamp (e.g. Mechanicus salvage assertion beside Navy escort losses) — **DO NOT MERGE** grief into throughput. |
-| Friction Geometry | Primary tactical doctrine |
+| **Combat doctrine** | Homebrew article heading: how the Chapter *prefers* to fight. Batavi lean: **hold the wall** (attrition / siege-hold under Friction Geometry). Hub (pointer, no new law): [`combat-doctrine.md`](personae-command-index/doctrine-and-organs/combat-doctrine.md). **Not** tabletop Combat Doctrines cycles. |
+| Friction Geometry | Primary tactical doctrine — body of the combat-doctrine lean: [`friction-geometry.md`](personae-command-index/doctrine-and-organs/friction-geometry.md) |
 | **Siege Master (Chapter office)** | **Gervas Bifronte** — supreme static-defense drafting across Nine Phalanx; peer Legati in battle command — [`dossier-gervas-bifronte.md`](personae-command-index/character-dossiers/legati/dossier-gervas-bifronte.md) §3.2 |
 | ***Maior Caementarius*** | **Greater Mason** — *Strategium* / *Armourium* title; mesh fortress architect (Gervas Bifronte) |
 | ***Pater Murorum*** | **Father of Walls** — Guard / mortal mesh coinage for Siege Master; Astartes liturgy prefers *Maior Caementarius* |

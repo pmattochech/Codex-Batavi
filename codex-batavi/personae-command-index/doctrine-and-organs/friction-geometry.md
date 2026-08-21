@@ -1,5 +1,7 @@
 # STRATEGIC DOCTRINE: FRICTION GEOMETRY
 
+**Wiki hub:** [combat-doctrine.md](combat-doctrine.md) — Chapter combat-doctrine lean (pointer; this file remains the law).
+
 *Friction Geometry turns war into an industrial elimination process, where the Batavian Iron-Guard are the gears that grind the enemy against the anvil of their own infrastructure.*
 
 ## 1. STRATEGIC CONCEPT: INFRASTRUCTURE AS WEAPON

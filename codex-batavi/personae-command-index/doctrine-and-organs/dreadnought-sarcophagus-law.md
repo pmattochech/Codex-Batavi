@@ -1,6 +1,6 @@
 # [WIKI] Dreadnought sarcophagus law
 
-**Status:** **Locked** — Chapter coffin rule. **Radulf** is an edge case of **Furor**, not a unique machine.  
+**Status:** **Locked** — Chapter coffin rule. **Radulf** is an edge case of **Furor**, not a unique machine. **Not** preferred combat doctrine — last-measure iron: [`combat-doctrine.md`](combat-doctrine.md).  
 **Chassis (Old Wolf):** **Castraferrum** (Codex box / walking tomb). **Not** Contemptor. **Not** Leviathan. **Not** *Castra-Lupus* (living Castellan plate).  
 **Portas war-wake:** [`adversarii-at-portas.md`](adversarii-at-portas.md).  
 **Clinical:** [`projection-aurea-wolfs-curse.md`](../../biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) (progenoid economy; Dreadnought edge).  

@@ -214,6 +214,8 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 ## Doctrine
 
+**Combat doctrine hub:** [combat-doctrine.md](doctrine-and-organs/combat-doctrine.md) — one-sentence lean (hold the wall); pointers only.
+
 **Chapter philosophy:** ***Axioma Rationis*** — reason regulates emotion; duty without theatrical faith. ***Instrumentum Solum*** — “only a tool.” War as **friction mathematics**, not honor performance.
 
 **Strategic objective:** **Do not get excommunicated** — see § Chapter Information → **Primary strategic objective** (multi-lane survival filing).
@@ -373,7 +375,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Common formations:** **Testudo** siege walls; **Blade Wall** predatory line; boarding wedges with **Silence** forward; grav-locked ***Alabarda*** mast-plant on void decks (IX).
 
-**Style of combat:** **Friction Geometry** — kill-zone overlap, trench mathematics, *Analytical Silence*, void static defense, counter-infiltration before purge. Rejects trophy charges and morale shouting.
+**Style of combat:** **Friction Geometry** — kill-zone overlap, trench mathematics, *Analytical Silence*, void static defense, counter-infiltration before purge. Rejects trophy charges and morale shouting. Hub: [combat-doctrine.md](doctrine-and-organs/combat-doctrine.md).
 
 **Favored weaponry:** **Noviomagus-pattern** bolt families; **power gladius** / chainsword (QVINTA); plasma (VII); void EM (IX); melta/breach (VI). Legatus ***Alabarda*** head type per vex: [alabarda-head-groups.md](../arsenal-and-logistics/alabarda-head-groups.md).
 
