@@ -1,6 +1,8 @@
 # Codex Batavorum — repository index
 
-Thematic structure. Immutable rules: `.cursorrules` (in this folder; copy also at repository root — keep both aligned).
+**Wiki front door:** [**INDEX.md**](INDEX.md) — who they are, the lean, where to read next.
+
+Thematic folder map below. Immutable rules: `.cursorrules` (in this folder; copy also at repository root — keep both aligned).
 
 **Policy and reference:** English-first lore maintenance — [**TRANSLATION-HYBRID.md**](TRANSLATION-HYBRID.md) · working terms: [**GLOSSARY-EN.md**](GLOSSARY-EN.md) · models / exact colours: [**visual-identity-paint-guide.md**](visual-identity-paint-guide.md). **Backlog scratchpad:** [**TOMORROW-TODOS.md**](planning/TOMORROW-TODOS.md).
 

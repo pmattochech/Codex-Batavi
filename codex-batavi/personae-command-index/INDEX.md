@@ -1,5 +1,7 @@
 # Index Personae & Command
 
+**Wiki hub:** [`../INDEX.md`](../INDEX.md) — front door.
+
 ## registers
 
 - [chapter-organization.md](chapter-organization.md) — **official** Chapter organization record (PDF section structure; **Vexilla** terminology)

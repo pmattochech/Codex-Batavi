@@ -5,7 +5,7 @@
 **Terminology lock:** Seat / 500-cell block = **Vexilla** only (LATIN-CAPS **PRIMA–DECIMA**). **Company** names the captain’s **100** inside a Vexilla — not the Vexilla itself. Where the *Codex* template lists ten numbered companies as the Chapter’s top cut, this register maps those slots to **PRIMA–DECIMA**. Nested cut: [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §3.4.  
 **Authority:** Supersedes scattered summaries for organization; detail lives in linked doctrine files. Immutables: `.cursorrules`, [progenitor-classification.md](doctrine-and-organs/progenitor-classification.md).
 
-**Related:** [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) · [vexilla-and-visual-summary.md](../arsenal-and-logistics/vexilla-and-visual-summary.md) · [visual-identity-paint-guide.md](../visual-identity-paint-guide.md) · [master-chronology.md](events-and-chronologies/master-chronology.md)
+**Related:** [wiki hub](../INDEX.md) · [combat-doctrine.md](doctrine-and-organs/combat-doctrine.md) · [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) · [vexilla-and-visual-summary.md](../arsenal-and-logistics/vexilla-and-visual-summary.md) · [visual-identity-paint-guide.md](../visual-identity-paint-guide.md) · [master-chronology.md](events-and-chronologies/master-chronology.md)
 
 ---
 

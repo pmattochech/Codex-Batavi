@@ -1,5 +1,7 @@
 # Combat Doctrine — *Cohors Batavorum*
 
+**Wiki hub:** [`INDEX.md`](../../INDEX.md) — front door. This file is the Doctrine room.
+
 **Status:** Wiki hub. **Index voice** is the Chapter combat doctrine (two-paragraph form). **Example battle plan** is a worked sequence, **not** law — the Chapter stays adaptable. Tables remain **pointers**.  
 **Chapter tactics (category):** defensive doctrine · siege-hold · attrition.  
 **Lean (one sentence):** The Batavian Iron-Guard prefer to **hold the wall** — attrition and siege-density under **Friction Geometry** — not lightning assault, terror-cult, or “better at everything.”
