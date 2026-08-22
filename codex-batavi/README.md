@@ -8,7 +8,7 @@ Thematic folder map below. Immutable rules: `.cursorrules` (in this folder; copy
 
 | Folder | Contents |
 |--------|-----------|
-| [personae-command-index](personae-command-index/INDEX.md) | Heraldry, doctrine (**[Combat Doctrine hub](personae-command-index/doctrine-and-organs/combat-doctrine.md)**), hierarchy, **[chapter organization](personae-command-index/chapter-organization.md)**, dossiers, events & chronologies |
+| [personae-command-index](personae-command-index/INDEX.md) | Heraldry, **[Doctrine hub](personae-command-index/doctrine-and-organs/INDEX.md)**, hierarchy, **[chapter organization](personae-command-index/chapter-organization.md)**, dossiers, events & chronologies |
 | [chronicles](chronicles/INDEX.md) | Prose by saga / narrative arc — **the Reclamation (scaffold):** [reclamation/INDEX.md](chronicles/reclamation/INDEX.md) |
 | [atlas-and-topography](atlas-and-topography/INDEX.md) | General atlas + `systems/` (per-system detail) |
 | [arsenal-and-logistics](arsenal-and-logistics/INDEX.md) | Noviomagus Standard chassis; **Vexilla** theater armory; cohort kit; frontier patterns; catalogs (cross-ref. dossiers) |

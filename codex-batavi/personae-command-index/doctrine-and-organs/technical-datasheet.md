@@ -15,7 +15,7 @@
 
 ## 2. War strategies
 
-*See also: [combat-doctrine.md](combat-doctrine.md) — Combat Doctrine hub (pointer; no new law).*
+*See also: [combat-doctrine.md](combat-doctrine.md) — combat page · [INDEX.md](INDEX.md) — Doctrine hub (pointers; no new law).*
 
 * **Friction geometry:** Primary combat style. Turn existing infrastructure into modular kill zones. Goal is mathematical wear of the enemy at lowest resource cost (ammo/lives).  
 * **“Second blade” style:** CQC where the marine uses free limbs (shoulders, elbows, gauntlets) as integrated blunt weapons with gladius strikes, chaining impacts and destabilization.  

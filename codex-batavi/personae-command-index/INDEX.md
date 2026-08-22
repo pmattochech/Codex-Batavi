@@ -14,28 +14,9 @@
 
 ## doctrine-and-organs
 
-- [combat-doctrine.md](doctrine-and-organs/combat-doctrine.md) — **Combat Doctrine** (Index voice + example battle plan; four stripes + three rims as one grammar)
-- [technical-datasheet.md](doctrine-and-organs/technical-datasheet.md) — Codex Batavorum technical sheet
-- [progenitor-classification.md](doctrine-and-organs/progenitor-classification.md) — founding / gene-line POV layers (open record vs sealed *Apothecarion*)
-- [wolfs-curse-origin-and-den.md](doctrine-and-organs/wolfs-curse-origin-and-den.md) — Wolf’s Curse **origin** (den + people, not the vial); visitor field; unraised cascade
-- [primaris-rubicon-intake.md](doctrine-and-organs/primaris-rubicon-intake.md) — Primaris **method** (no imported brothers); Rubicon first; then all new intake Primaris
-- [codex-batavorum-revision.md](doctrine-and-organs/codex-batavorum-revision.md) — living *Codex Astartes* revision (not a dump; not the curse)
-- [council-and-librarium.md](doctrine-and-organs/council-and-librarium.md) — Extended Council; Haruspicium / Blindgate; **§2.4** cultural archive; **§5–§6** upstream quartet & downstream issuance
-- [batavi-affect-kinesics-and-mortal-literacy.md](doctrine-and-organs/batavi-affect-kinesics-and-mortal-literacy.md) — affect–display decoupling; reaction-class kinesics; mortal read-rights; Castellan mortal interface
-- [legatus-chapter-mastery.md](doctrine-and-organs/legatus-chapter-mastery.md) — *Codex* ten + nine Legatus scrolls; Marches on Castellan; culture **no** mastery
-- [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) — friction chain; **§3.3** mastery; **§3.4** company mix; **§3.5** cohort chiefs; Curia; Custos
-- [custos-ascensum-doctrine.md](doctrine-and-organs/custos-ascensum-doctrine.md) — **Custos Ascensum** (college of nine Procurators); rotating Speaker; circuit **PRIMA last**; co-sign **Genetor Primus**
-- [friction-rites.md](doctrine-and-organs/friction-rites.md)
-- [proximity-substrata-and-witness-inheritance.md](doctrine-and-organs/proximity-substrata-and-witness-inheritance.md) — witness inheritance; **no culture mastery billet**; veteran/commander day-to-day + *Librarium* filing; Judex filtration
-- [steppenwolf-doctrine.md](doctrine-and-organs/steppenwolf-doctrine.md) — detached brothers; perpetual Watch / rim teams; slang etymology (White Scars / Chogoris loan)
-- [mortivigil-and-reclusiam-helm-law.md](doctrine-and-organs/mortivigil-and-reclusiam-helm-law.md) — Mortivigil → Chaplain / **Wolfkeeper** helm law; death pipeline; nine crypts + Chapter-supreme vault; Castra-Lupus triad
-- [wolfkeeper-and-reclusiam.md](doctrine-and-organs/wolfkeeper-and-reclusiam.md) — **Wolfkeeper** class (soul in life); Judex / Master Wolfkeeper; duties vs Mortivigil / Librarium; Tenets link
-- [amissi-the-lost.md](doctrine-and-organs/amissi-the-lost.md) — The Lost (*Amissi*)
-- [frontier-wolf-rite.md](doctrine-and-organs/frontier-wolf-rite.md) — Execratio funeral protocol; plaque system and Alaric’s Chain of Names
-- [adversarii-at-portas.md](doctrine-and-organs/adversarii-at-portas.md) — Chapter last measure; local cell-open keys; Malakor correlation
-- [dreadnought-sarcophagus-law.md](doctrine-and-organs/dreadnought-sarcophagus-law.md) — coffin pros/cons; wake clock; **Radulf** **DECIMA** / **Castraferrum**; **§6** coffin ratchet (**very rare** Execratio coin)
-- [friction-geometry.md](doctrine-and-organs/friction-geometry.md)
-- [pax-batavorum.md](doctrine-and-organs/pax-batavorum.md)
+**Door:** [Doctrine hub](doctrine-and-organs/INDEX.md) — combat, lattice, curse, last measure. Files stay in that folder; this list is not duplicated here.
+
+- [combat-doctrine.md](doctrine-and-organs/combat-doctrine.md) — combat page (Index voice + example battle plan)
 
 ## character-dossiers
 

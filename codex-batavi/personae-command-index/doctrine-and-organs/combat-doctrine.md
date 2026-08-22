@@ -1,8 +1,9 @@
 # Combat Doctrine — *Cohors Batavorum*
 
-**Wiki hub:** [`INDEX.md`](../../INDEX.md) — front door. This file is the Doctrine room.
+**Wiki hub:** [`INDEX.md`](../../INDEX.md) — front door.  
+**Doctrine hub:** [`INDEX.md`](INDEX.md) — this folder’s door. This file is the combat page.
 
-**Status:** Wiki hub. **Index voice** is the Chapter combat doctrine (two-paragraph form). **Example battle plan** is a worked sequence, **not** law — the Chapter stays adaptable. Tables remain **pointers**.  
+**Status:** Combat page. **Index voice** is the Chapter combat doctrine (two-paragraph form). **Example battle plan** is a worked sequence, **not** law — the Chapter stays adaptable. Tables remain **pointers**.  
 **Chapter tactics (category):** defensive doctrine · siege-hold · attrition.  
 **Lean (one sentence):** The Batavian Iron-Guard prefer to **hold the wall** — attrition and siege-density under **Friction Geometry** — not lightning assault, terror-cult, or “better at everything.”
 
@@ -42,7 +43,7 @@ Employment of the four specialty fifties and the three line rims remains [`speci
 
 Homebrew Chapter articles file a **Combat Doctrine**: how the Chapter *prefers* to fight (one or two specializations), not a list of every Adeptus Astartes capability. The *Codex Astartes* teaches a balanced combined-arms approach; every Chapter can still fight every mode. Doctrine is **emphasis**.
 
-This hub names that emphasis for the Batavi and points at the files that already hold the law.
+This page names that emphasis for the Batavi and points at the files that already hold the law. The Doctrine room door is [`INDEX.md`](INDEX.md).
 
 **Not this page:** tabletop army rules named “Combat Doctrines” (Devastator → Tactical → Assault cycles). Do not import that game cycle as Batavi field law.
 
