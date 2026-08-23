@@ -88,7 +88,7 @@ Parent terminal tools. Do **not** reuse for local cell-open or ordinary grind.
 | --- | --- |
 | [`disciplines-and-curia-vexilli.md`](disciplines-and-curia-vexilli.md) | Stub only → [`../../planning/disciplines-and-curia-vexilli-plan.md`](../../planning/disciplines-and-curia-vexilli-plan.md) |
 
-**People** (dossiers) stay on the [personae INDEX](../INDEX.md). **Clinic** stays on the [encyclopedia INDEX](../../biological-encyclopedia-bestiary/INDEX.md). **Kit** stays on the [arsenal INDEX](../../arsenal-and-logistics/INDEX.md).
+**People** stay on the [People hub](../character-dossiers/INDEX.md). **Clinic** stays on the [Apothecarion hub](../../biological-encyclopedia-bestiary/INDEX.md). **Kit** stays on the [Armourium hub](../../arsenal-and-logistics/INDEX.md).
 
 ---
 

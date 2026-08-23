@@ -23,10 +23,10 @@
 | --- | --- |
 | How they fight | [Doctrine hub](personae-command-index/doctrine-and-organs/INDEX.md) · [`combat-doctrine.md`](personae-command-index/doctrine-and-organs/combat-doctrine.md) — Index voice + example battle plan |
 | Who holds which hat | [`chapter-organization.md`](personae-command-index/chapter-organization.md) · [`military-hierarchy.md`](personae-command-index/doctrine-and-organs/military-hierarchy.md) |
-| Where they are | [`castra-vetera-galactic-lock.md`](atlas-and-topography/castra-vetera-galactic-lock.md) |
-| Named people | [`named-characters-register.md`](personae-command-index/named-characters-register.md) |
-| Time | [`master-chronology.md`](personae-command-index/events-and-chronologies/master-chronology.md) |
-| The wolf in the blood | [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — clinical; origin is den + people, not the vial |
+| Where they are | [Atlas hub](atlas-and-topography/INDEX.md) · [`castra-vetera-galactic-lock.md`](atlas-and-topography/castra-vetera-galactic-lock.md) |
+| Named people | [People hub](personae-command-index/character-dossiers/INDEX.md) · [`named-characters-register.md`](personae-command-index/named-characters-register.md) |
+| Time | [Annals hub](personae-command-index/events-and-chronologies/INDEX.md) · [`master-chronology.md`](personae-command-index/events-and-chronologies/master-chronology.md) |
+| The wolf in the blood | [Apothecarion hub](biological-encyclopedia-bestiary/INDEX.md) · [`projection-aurea-wolfs-curse.md`](biological-encyclopedia-bestiary/projection-aurea-wolfs-curse.md) — clinical; origin is den + people, not the vial |
 
 ---
 
@@ -37,13 +37,13 @@ Folders stay where they are. These are **doors**, not a file move.
 | Room | Door | Holds |
 | --- | --- | --- |
 | **Doctrine** | [Doctrine hub](personae-command-index/doctrine-and-organs/INDEX.md) | Combat lean, lattice, curse, last measure, *Codex* revision |
-| **People** | [personae INDEX](personae-command-index/INDEX.md) | Dossiers, Triumvirate, Legati, cohorts |
-| **Heraldry & language** | [`chapter-identity.md`](personae-command-index/intro-and-heraldry/chapter-identity.md) · [lexicon](lexicon-and-litanies/INDEX.md) · [`GLOSSARY-EN.md`](GLOSSARY-EN.md) | Seal, paint, *Der Batav*, litanies |
-| **Annals** | [`master-chronology.md`](personae-command-index/events-and-chronologies/master-chronology.md) | CV reckoning, Reclamation, Hold, Valerian |
-| **Atlas** | [atlas INDEX](atlas-and-topography/INDEX.md) | Mesh, isolation fence, cultures |
-| **Apothecarion** | [encyclopedia INDEX](biological-encyclopedia-bestiary/INDEX.md) | Wolf’s Curse clinic, specimens |
-| **Armourium** | [arsenal INDEX](arsenal-and-logistics/INDEX.md) | Kit, *Alabarda*, cohort tables |
-| **Relations** | [political INDEX](political-relations/INDEX.md) | Inquisition, Guard line, Marines Malevolent |
+| **People** | [People hub](personae-command-index/character-dossiers/INDEX.md) | Dossiers, Triumvirate, Legati, cohorts |
+| **Heraldry & language** | [Heraldry hub](personae-command-index/intro-and-heraldry/INDEX.md) · [Language door](lexicon-and-litanies/INDEX.md) | Seal, paint, *Der Batav*, litanies |
+| **Annals** | [Annals hub](personae-command-index/events-and-chronologies/INDEX.md) | CV reckoning, Reclamation, Hold, Valerian |
+| **Atlas** | [Atlas hub](atlas-and-topography/INDEX.md) | Mesh, isolation fence, cultures |
+| **Apothecarion** | [Apothecarion hub](biological-encyclopedia-bestiary/INDEX.md) | Wolf’s Curse clinic, specimens |
+| **Armourium** | [Armourium hub](arsenal-and-logistics/INDEX.md) | Kit, *Alabarda*, cohort tables |
+| **Relations** | [Relations hub](political-relations/INDEX.md) | Inquisition, Guard line, Marines Malevolent |
 | **Chronicle library** | [chronicles INDEX](chronicles/INDEX.md) | **Cite, do not absorb.** No new chapters from this hub |
 | **Workshop** | [planning/](planning/) | Specs and backlog — **not canon** until promoted |
 
@@ -58,3 +58,4 @@ Folders stay where they are. These are **doors**, not a file move.
 * Not a chronicle. Scene prose lives under `chronicles/`.
 * Not tabletop Combat Doctrines cycles.
 * Not a progenitor receipt. Open record stays unknown.
+* Not a second People / Heraldry / Annals dump. Those rooms have their own doors now. The personae INDEX is the folder map.
