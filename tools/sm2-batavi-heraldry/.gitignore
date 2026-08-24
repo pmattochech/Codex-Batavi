@@ -1,0 +1,8 @@
+vendor/
+tga/
+stage/
+stage_pct/
+pack/*.pak
+*.pct_mip
+*.tga
+preview_*.png

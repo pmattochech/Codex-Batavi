@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cmd="${1:-build}"
+shift || true
+case "$cmd" in
+  build|convert) exec bash "$ROOT/bin/convert_and_pack.sh" "$@" ;;
+  layers)
+    exec python3 "$ROOT/lib/svg_to_layer_tgas.py" \
+      --svg "${1:-$ROOT/../../codex-batavi/lore-images/chapter-seal.svg}" \
+      --out-dir "$ROOT/tga"
+    ;;
+  -h|--help)
+    echo "Usage: ./run build [path/to/chapter-seal.svg]"
+    echo "       ./run layers [path/to/chapter-seal.svg]"
+    ;;
+  *) echo "unknown: $cmd" >&2; exit 1 ;;
+esac
