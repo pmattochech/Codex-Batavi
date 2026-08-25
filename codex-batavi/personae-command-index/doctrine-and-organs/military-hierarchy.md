@@ -1,5 +1,7 @@
 # THE FRICTION CHAIN (CHAPTER MILITARY HIERARCHY)
 
+**Wiki hub:** [combat-doctrine.md](combat-doctrine.md) — Chapter combat-doctrine lean (pointer; this file remains the chain).
+
 The *Cohors Batavorum* war machine is a mathematical aberration sustained by survival thermodynamics. To run a 5,000-warrior contingent on the lethal **Insula Tenebrarum** / **Witness Ford** frontier, the Chapter ignored *Codex Astartes* bureaucracy and adopted a command chain built purely to kill logistical bottlenecks. The hierarchy below governs how our **Friction Geometry** applies from trench melee to macro-orbital obliteration.
 
 ## 1. RAW STOCK AND STANDARD TOOL (BASE OF EACH VEXILLA)

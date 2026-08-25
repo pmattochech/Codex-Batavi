@@ -5,7 +5,7 @@
 **Terminology lock:** Seat / 500-cell block = **Vexilla** only (LATIN-CAPS **PRIMA–DECIMA**). **Company** names the captain’s **100** inside a Vexilla — not the Vexilla itself. Where the *Codex* template lists ten numbered companies as the Chapter’s top cut, this register maps those slots to **PRIMA–DECIMA**. Nested cut: [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) §3.4.  
 **Authority:** Supersedes scattered summaries for organization; detail lives in linked doctrine files. Immutables: `.cursorrules`, [progenitor-classification.md](doctrine-and-organs/progenitor-classification.md).
 
-**Related:** [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) · [vexilla-and-visual-summary.md](../arsenal-and-logistics/vexilla-and-visual-summary.md) · [visual-identity-paint-guide.md](../visual-identity-paint-guide.md) · [master-chronology.md](events-and-chronologies/master-chronology.md)
+**Related:** [wiki hub](../INDEX.md) · [combat-doctrine.md](doctrine-and-organs/combat-doctrine.md) · [military-hierarchy.md](doctrine-and-organs/military-hierarchy.md) · [vexilla-and-visual-summary.md](../arsenal-and-logistics/vexilla-and-visual-summary.md) · [visual-identity-paint-guide.md](../visual-identity-paint-guide.md) · [master-chronology.md](events-and-chronologies/master-chronology.md)
 
 ---
 
@@ -214,6 +214,8 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 ## Doctrine
 
+**Combat doctrine hub:** [combat-doctrine.md](doctrine-and-organs/combat-doctrine.md) — one-sentence lean (hold the wall); pointers only.
+
 **Chapter philosophy:** ***Axioma Rationis*** — reason regulates emotion; duty without theatrical faith. ***Instrumentum Solum*** — “only a tool.” War as **friction mathematics**, not honor performance.
 
 **Strategic objective:** **Do not get excommunicated** — see § Chapter Information → **Primary strategic objective** (multi-lane survival filing).
@@ -373,7 +375,7 @@ Official working layout for paint and insignia placement (fill completed art in 
 
 **Common formations:** **Testudo** siege walls; **Blade Wall** predatory line; boarding wedges with **Silence** forward; grav-locked ***Alabarda*** mast-plant on void decks (IX).
 
-**Style of combat:** **Friction Geometry** — kill-zone overlap, trench mathematics, *Analytical Silence*, void static defense, counter-infiltration before purge. Rejects trophy charges and morale shouting.
+**Style of combat:** **Friction Geometry** — kill-zone overlap, trench mathematics, *Analytical Silence*, void static defense, counter-infiltration before purge. Rejects trophy charges and morale shouting. Hub: [combat-doctrine.md](doctrine-and-organs/combat-doctrine.md).
 
 **Favored weaponry:** **Noviomagus-pattern** bolt families; **power gladius** / chainsword (QVINTA); plasma (VII); void EM (IX); melta/breach (VI). Legatus ***Alabarda*** head type per vex: [alabarda-head-groups.md](../arsenal-and-logistics/alabarda-head-groups.md).
 

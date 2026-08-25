@@ -1,5 +1,7 @@
 # STRATEGIC ADDENDUM: THE PAX BATAVORUM
 
+**Wiki hub:** [combat-doctrine.md](combat-doctrine.md) — Chapter combat-doctrine lean (pointer; Shared Sweat and Codex-size law stay here).
+
 *With the Insula Tenebrarum seal proven and only five hundred survivors left, Alaric made decisions that defined subsector geopolitics for the following millennium, securing the Chapter’s survival under Terra’s gaze.*
 
 ## 1. THE ILLEGAL EXPANSION (THE CHAPTER)
