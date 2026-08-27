@@ -16,6 +16,16 @@
 
 ---
 
+## dreadwolf
+
+| Slug | File | Notes |
+|------|------|-------|
+| `receipt-denied` | [chapter.md](dreadwolf/receipt-denied/chapter.md) | Einar vs **Khârn** last-fight scratch — skull-denial debt, Versibar **brink**, ***Spina Cineris***; does **not** supersede published [*terminus*](../dreadwolf/terminus/chapter.md) |
+
+**Beat lock:** [`../dreadwolf/terminus/SCAFFOLD.md`](../dreadwolf/terminus/SCAFFOLD.md)
+
+---
+
 ## amissi
 
 **Index:** [amissi/INDEX.md](amissi/INDEX.md)
