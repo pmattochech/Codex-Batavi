@@ -27,7 +27,7 @@ Use when writing or editing English prose. Extend as you go.
 | ***Modus Binorum Ferrum*** | *Two-iron mode* — Emperor’s Wolf paired-blade doctrine (*Analytical Silence*; **Decreto** opens, **Termini** closes) |
 | **Emperor’s Wolf** | English scroll name for **LVPVS IMPERATORIS** |
 | ***Castra-Lupus*** | **Office:** Lord Castellan’s **artificer armor** — one bespoke commission per incumbent, not a passed-down chassis. **Incumbent tag:** *Castra-Lupus — Helis* (Alaric). [`castra-lupus-doctrine.md`](arsenal-and-logistics/castra-lupus-doctrine.md) |
-| ***Caput Ferreum Castellani*** | **Castellan regalia** — industrial **lupine head** helm (*Iron Head*); inherited with title; ***Institutum Capitis Ferrei***. Not skull geometry; not Fenris / Wolf Guard pattern. |
+| ***Caput Ferreum Castellani*** | **Castellan regalia** — industrial **lupine head** helm (*Iron Head*): **grey wolf** under a **red galea** (**Versibar** who remained a **soldier**). Inherited with title; ***Institutum Capitis Ferrei***. Not skull geometry; not a Furor visor stripe; not Fenris / Wolf Guard pattern. Lock: [`alaric-caput-ferreum-castellani.png`](lore-images/alaric-caput-ferreum-castellani.png). |
 | ***lupus in castra*** / ***vir in acie*** | Castellan vs Legatus identity metaphor — **wolf in the fortress** vs **man in the line**; [`castra-lupus-doctrine.md`](arsenal-and-logistics/castra-lupus-doctrine.md) §1.1 |
 | ***Institutum Capitis Ferrei*** | Chapter custom — Iron Head rite for Lord Castellan succession |
 | **Legatus (operational register)** | Per-vex strategy + identity — [`legati-operational-register.md`](arsenal-and-logistics/legati-operational-register.md) |

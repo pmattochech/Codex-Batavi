@@ -1,18 +1,20 @@
 # Prompt template — Alaric in Castra-Lupus (aligned with dossier-alaric.md §1.2).
-# Helm: matte Mechanicus Standard Grey ceramite (dossier technical canon). Pelt eyes: red (black wolf) / pale blue (Viggo).
-# Narrative variant (crimson helm): use template `alaric_castra_lupus_crimson_helm.toml`.
+# Helm lock: Caput Ferreum Castellani — grey industrial wolf wearing a red galea (Versibar still a soldier).
+# Official image: codex-batavi/lore-images/alaric-caput-ferreum-castellani.png
 # Usage: batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "rain on battlement, smoke"
 # Negative is not sent to the API automatically: copy into ComfyUI’s negative CLIP node.
 
-character = "Alaric von Helis — Castra-Lupus (Noviomagus-pattern exterminator, grey helm per dossier)"
+character = "Alaric von Helis — Castra-Lupus (Caput Ferreum Castellani lock)"
 
 positive_prefix = """
-vivid full color image, rich color saturation, not monochrome, crimson red cape and pauldrons, amber orange helm lenses, pale blue and red taxidermy eye glow, orange firelight and colored smoke,
+vivid full color image, rich color saturation, not monochrome, crimson red galea plates on a grey industrial wolf helm, crimson red cape and pauldrons, bright hot amber orange helm lenses, pale blue and red taxidermy eye glow, orange firelight and colored smoke,
 transhuman warlord approximately 2.85 meters tall half a head over nine foot custodes scale, massive armored silhouette roughly 1.7 tons,
 oversized tactical dreadnought inspired power armor hybrid terminator plates with selective dreadnought structural segments not full red wake kaiju scale,
 industrial mechanicus grey ceramite ninety percent of chassis arms and legs, weathered colored metal not grayscale, mephiston red strictly on pauldrons and forearm gauntlets only,
-full helmet is enlarged wolf skull sculpted in thick matte mechanicus grey ceramite, not red painted helm, pointed ceramite wolf ears, long projected muzzle, closed mechanical jaw, retracted steel lips in frozen snarl, lower adamantium fangs visible,
-amber orange lenses seated inside wolf eye sockets correct lateral anatomy, no flat human visor, no human face,
+helm is Caput Ferreum Castellani Iron Head: industrial lupine HEAD not skull, polygonal hard-surface two-piece upper head and lower jaw meeting at the bite,
+grey wolf SKIN is the muzzle inner ear slats mandible polygonal fangs and saw-teeth and stout ringed jaw cylinders at the mouth corners,
+red galea HELMET worn ON that wolf: crown plates central mohawk crest brow cheek plates outer ear shells rear galea plates, small refrigeration grille with horizontal slats on each cheek,
+bright hot amber-orange glowing eye lenses in recessed wolf sockets, not a flat human visor, no human face,
 taxidermy memorial pelts on massive pauldrons: on character right shoulder intact white thunderwolf head Viggo with pale blue glowing taxidermy eyes, white front paws crossed around neck collar like embrace,
 on character left shoulder black Aethelgard wolf pelt, missing lower jaw, lips curled perpetual snarl on grey ceramite, black front paws draped down upper chest, heavy imperial aquila brooch clasping the black pelt,
 crimson ballistic cape over back, triple mantle read as cape plus two asymmetric wolf trophies,
@@ -27,7 +29,7 @@ anchored stance, immovable wall, cold authority, Batavian iron guard aesthetic, 
 negative = """
 grayscale, monochrome, black and white, desaturated, sepia only, noir, ink wash only,
 cartoon, anime, bright pastel, clean chrome, toy, lowres, blurry, deformed hands, extra fingers, extra limbs,
-crimson red wolf helmet, red painted wolf skull helm, bright red entire wolf head helmet,
+fully red entire wolf head, fully grey entire wolf head with no red galea, crimson visor stripe across the eyes, wolf skull Chaplain death face, Fenris runes, pelt-hood over a human face, Viking totems,
 both wolf pelt heads with same eye color, yellow eyes on white wolf, amber eyes on taxidermy white wolf,
 quadruped wolf as subject, literal wolf walking, game UI frame, vector art,
 text, watermark, logo, modern military, cheerful, smiling helmet-off portrait

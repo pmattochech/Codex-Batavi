@@ -23,7 +23,7 @@ batavi-img templates
 batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "standing on battlements, lightning"
 ```
 
-**Alaric — canon visual (dossier §1.2):** `alaric_castra_lupus` uses a lupine helm in **grey ceramite** and pelts with **pale blue** eyes (Viggo, right shoulder) and **red** eyes (**Batav Wolf** / black wolf, left shoulder). **Crimson** helm (narrative prose): `alaric_castra_lupus_crimson_helm` (full body) and `alaric_bust_portrait_crimson_helm` (bust). Grey-helm bust: `alaric_bust_portrait`.
+**Alaric — canon visual (dossier §1.2):** `alaric_castra_lupus` uses ***Caput Ferreum Castellani*** — **grey industrial wolf** wearing a **red galea** (Versibar still a soldier), plus pelts with **pale blue** eyes (Viggo, right shoulder) and **red** eyes (**Batav Wolf** / black wolf, left shoulder). Official lock image: `codex-batavi/lore-images/alaric-caput-ferreum-castellani.png`. `alaric_castra_lupus_crimson_helm` and `alaric_bust_portrait_crimson_helm` are **aliases of the same helm lock**. Bust: `alaric_bust_portrait`.
 
 ```bash
 batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "lightning, battlements"
