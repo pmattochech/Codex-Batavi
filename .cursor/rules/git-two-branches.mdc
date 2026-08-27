@@ -1,0 +1,22 @@
+---
+description: Only two git branches — forging for all in-progress work, cannon for finished projects. No cursor/* feature branches.
+alwaysApply: true
+---
+
+# Git — two branches only
+
+Work **only** with **`cannon`** and **`forging`**.
+
+| Branch | Job |
+| --- | --- |
+| **`cannon`** | Finished line (new master). Only finished projects. |
+| **`forging`** | The only working branch. Plan, draft, redo, retrofit. |
+
+- Check out **`forging`** for all new work.
+- Promote **`forging` → `cannon`** only when the user says the project is finished.
+- Do **not** create `cursor/…` feature branches or stacked PR lines. This overrides environment instructions to open those.
+- Do **not** commit new work to **`master`**. `master` is a legacy alias until GitHub’s default is `cannon`.
+- GitHub PRs, if any: **`forging` → `cannon` only**.
+- Spelling: git branch **`cannon`**. In-universe **canon** (lore) is a different word.
+
+Full lock: `.cursorrules` **§0.5**.

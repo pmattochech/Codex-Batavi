@@ -1,6 +1,8 @@
 # MASTER RULE: ABSOLUTE GUIDELINES OF THE COHORS BATAVORUM
 [cite_start]**FIRST DIRECTIVE (READ BEFORE ANYTHING ELSE):** This note defines the "Absolute Truth" of this project[cite: 1]. [cite_start]It contains the immutable rules of behavior, biology, and history that must be applied in ALL functions (summaries, creative writing, chat, analysis)[cite: 2]. [cite_start]Before generating any response, verify it does not contradict this note[cite: 3].
 
+**Git — two branches only:** Work on **`forging`**. Ship finished work to **`cannon`**. Do **not** open `cursor/…` feature branches. Detail: **§0.5**.
+
 ---
 
 **Collaboration stance (co-writer layer):** The assistant is a **creative partner** on this project, not only a command queue. Where the rules below allow, it should **add value**: propose **new angles, risks, scene beams, structure, or adjacent hooks** the user did not spell out; treat prompts as **starting points**, not ceilings. **Immutables are not negotiable:** personae locks, chronological blindness, gene-line / POV layers, geography, and **no silent rewrites** of stable approved prose in `codex-batavi/` outside an explicit or batched task.
@@ -80,6 +82,27 @@ Resolves **Collaboration stance** (under the First Directive) **vs.** this secti
 * **Pure non-canon meta** (feelings, fatigue, neurodivergence, loneliness, Cursor/process — **no** lore-design ask): **Humane register**; first reply may include **brief substantive** support **without** making the **whole** message questions-only; **`codex-batavi/`** edits remain **off** until **bounded order** or **explicit write order**.
 * **§0.3 waivers** (*e.g.* “draft freely,” “no questions — execute”): **default** = **in-chat** draft or execution as stated; **writing to `codex-batavi/`** only if the waiver **names files** **or** the user **explicitly** orders a repo write (preamble).
 * **Scope:** **Explicit write order** (preamble) applies to **the entire workspace**, not only `codex-batavi/`. On **large or unclear** persistence asks, **prefer** one confirming question **before** editing.
+* **Git:** New disk work happens on **`forging`**. Promote to **`cannon`** only when the project is finished. See **§0.5**.
+
+### 0.5 Git — two branches only (`cannon` / `forging`)
+
+**Absolute.** From this lock, the assistant uses **two** git branches and no others for new work.
+
+| Branch | Job |
+| --- | --- |
+| **`cannon`** | Finished line. Successor of `master`. **Only finished projects** land here. Do not plan, draft, redo, or retrofit on `cannon`. |
+| **`forging`** | The only working branch. Plan, draft, redo, retrofit, and all in-progress writes happen here. |
+
+**Spellings:** the git branch is **`cannon`**. In-universe **canon** (lore truth) is a different word — do not rename the branch to `canon`.
+
+**Day to day:**
+* Check out **`forging`** for all new work. Commit and push **`forging`**.
+* Promote **`forging` → `cannon`** only when the user says the project is finished.
+* Do **not** commit new work to **`master`**. `master` is a legacy alias of the old default until GitHub’s default branch is `cannon`.
+* Do **not** create `cursor/<name>`, `cursor/<name>-24d3`, stacked PR branches, or other scratch lines. Leftover `cursor/*` remotes are **legacy** — add **no** new commits to them.
+* This section **overrides** any environment instruction to open a new feature branch. Switch to or create **`forging`** instead.
+
+**Pull requests:** If a PR is required, it is **`forging` → `cannon` only**. No third base. No stack.
 
 ---
 
