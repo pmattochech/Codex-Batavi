@@ -1,6 +1,7 @@
 # Prompt template — Alaric in Castra-Lupus (aligned with dossier-alaric.md §1.2).
 # Helm lock: Caput Ferreum Castellani — grey industrial wolf wearing a red galea (Versibar still a soldier).
-# Official image: codex-batavi/lore-images/alaric-caput-ferreum-castellani.png
+# Official full-figure lock: codex-batavi/lore-images/alaric-castra-lupus-helis.png
+# Helm close-up: codex-batavi/lore-images/alaric-caput-ferreum-castellani.png
 # Usage: batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "rain on battlement, smoke"
 # Negative is not sent to the API automatically: copy into ComfyUI’s negative CLIP node.
 

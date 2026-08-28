@@ -111,6 +111,8 @@ The only *Castra-Lupus* in active field service in the current annals. **Not** t
 | **Helm** | ***Caput Ferreum Castellani*** (first modern Iron Head) |
 | **Distinct kit** | *Breakwater* radiator, combi-melta (right fist), Aethelgard claws, triple mantle forge, Frontier Wolf cord — **Helis personal**, not office default |
 
+**Official lock image (full figure):** [`alaric-castra-lupus-helis.png`](../lore-images/alaric-castra-lupus-helis.png). Helm close-up: [`alaric-caput-ferreum-castellani.png`](../lore-images/alaric-caput-ferreum-castellani.png).
+
 Full kit and stance detail: [`dossier-alaric.md`](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) §1.2, §5–7.
 
 ---

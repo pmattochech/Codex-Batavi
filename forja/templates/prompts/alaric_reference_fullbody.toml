@@ -1,5 +1,5 @@
-# Full body — target close to reference image (Gemini + Codex lore tweaks).
-# Crimson helm; shoulders: viewer’s LEFT = WHITE wolf (Viggo), viewer’s RIGHT = BLACK wolf (Aethelgard).
+# Full body — defer to official lock: codex-batavi/lore-images/alaric-castra-lupus-helis.png
+# Wearer sides: RIGHT pauldron = WHITE Viggo; LEFT pauldron = BLACK Batav / Aethelgard (flank profile).
 # Taxidermy eyes: pale blue (white wolf), red (black wolf); black wolf missing lower jaw (dossier).
 # SDXL/Comfy: no ((weight)) syntax; use -m for extra scene. See TUTORIAL.md §9 (roadmap).
 # Usage: batavi-img generate --preset alaric_armor --template alaric_reference_fullbody -m "optional scene tweak"

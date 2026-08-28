@@ -1,5 +1,6 @@
 # Bust — Castra-Lupus with Caput Ferreum Castellani lock (dossier §1.2).
-# Official image: codex-batavi/lore-images/alaric-caput-ferreum-castellani.png
+# Official full-figure lock: codex-batavi/lore-images/alaric-castra-lupus-helis.png
+# Helm close-up: codex-batavi/lore-images/alaric-caput-ferreum-castellani.png
 # Usage: batavi-img generate --preset alaric_armor --template alaric_bust_portrait -m "three-quarter view, slight turn left"
 
 character = "Alaric von Helis — Castra-Lupus bust, Iron Head lock, triple mantle"

@@ -1,5 +1,5 @@
 # Alias of the official Iron Head lock (red galea on grey wolf). Kept so old CLI calls still hit canon.
-# Prefer `alaric_castra_lupus.toml`. Official image: codex-batavi/lore-images/alaric-caput-ferreum-castellani.png
+# Prefer `alaric_castra_lupus.toml`. Full-figure lock: codex-batavi/lore-images/alaric-castra-lupus-helis.png. Helm close-up: codex-batavi/lore-images/alaric-caput-ferreum-castellani.png
 # Usage: batavi-img generate --preset alaric_armor --template alaric_castra_lupus_crimson_helm -m "fire behind, smoke"
 
 character = "Alaric von Helis — Castra-Lupus (Caput Ferreum Castellani lock)"
