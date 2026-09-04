@@ -93,7 +93,9 @@ The Batav Wolf is **not** only a coastal animal. It occupies **two** productive 
 
 * **Specimens:** Rare **live** pulls — logistics, **dual-habitat** range, **containment** cost.
 
-* **Batav Wolf trial:** [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) (entry requirements).
+* **Batav Wolf trial:** [military-hierarchy.md](../personae-command-index/doctrine-and-organs/military-hierarchy.md) (DECIMA entry — **containment dominance**, specimen **lives**).
+
+* **Emperor’s Wolf game:** Office cloth after **Graile** — a **battlefield** Batav taken as **partial** stole (sleeping head, not a living helm-crown). **Not** the trial. **Not** a Versibar hide. Kit: [dossier-markus-graile.md](../personae-command-index/character-dossiers/cohorts-and-detachments/dossier-markus-graile.md) §1.2.
 
 * **Heraldry:** Chapter **wolf** charges — **white** rectilinear seal / pauldron stencil; **not** a taxonomic claim on *Canis Batavorum*. Living coat stays **dark guard** with **grey underpelt** (winter / wet / mating ruff). Seal stays **white**.
 
