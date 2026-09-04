@@ -55,9 +55,12 @@ It is **not** a single relic chassis passed between Castellans. Each proclamatio
 
 **Design lock:**
 
-- **Industrial lupine head** — forward muzzle, closed jaw, lateral **pointed ears**, plate seams, vent ribs, magnetic collar to the incumbent’s neck ring.
+- **Industrial lupine head** — polygonal hard-surface, **two-piece** (upper head + lower jaw at the bite), lateral **pointed ears**, magnetic collar to the incumbent’s neck ring.
+- **Grey wolf / red galea:** the **wolf skin** (muzzle, inner-ear slats, mandible, fangs and saw-teeth, jaw cylinders) is **industrial grey**; the **galea** worn on that head (crown, crest, brow, cheek-plates, outer ear shells, rear plates) is **crimson**. Compact **refrigeration grille** (horizontal slats) on each cheek. This is the Castellan read: **Versibar who remained a soldier** — the beast still wears a helmet. **Not** a Furor visor stripe across the lenses ([`chapter-identity.md`](../personae-command-index/intro-and-heraldry/chapter-identity.md)).
 - **Not skull anatomy** — no calvaria dome, no Chaplain **death-face** read, **no** Fenris / Wolf Guard lineage on the open record.
-- **Amber-orange lenses** in the wolf’s **orbital sockets**; Furor **crimson threshold stripe** crosses that plane ([`chapter-identity.md`](../personae-command-index/intro-and-heraldry/chapter-identity.md)).
+- **Bright amber-orange lenses** in the wolf’s **orbital sockets**, not a flat standard visor.
+
+**Official lock image:** [`alaric-caput-ferreum-castellani.png`](../lore-images/alaric-caput-ferreum-castellani.png).
 
 **Succession:** Whoever is proclaimed **Lord Castellan** inherits **title**, ***Caput Ferreum Castellani***, and the obligation to wear it on formal command and when *Castra-Lupus* is fielded. Kadmos re-collars and re-bores per wearer; the **wolf-head sculpt line** stays canonical. Alaric is **first holder** of the modern custom; successors inherit **the institution**, not his face in metal.
 
@@ -107,6 +110,8 @@ The only *Castra-Lupus* in active field service in the current annals. **Not** t
 | **Doctrine read** | **Wall / behemoth / friction math** — Second Blade, anchor, thermal ledger |
 | **Helm** | ***Caput Ferreum Castellani*** (first modern Iron Head) |
 | **Distinct kit** | *Breakwater* radiator, combi-melta (right fist), Aethelgard claws, triple mantle forge, Frontier Wolf cord — **Helis personal**, not office default |
+
+**Official lock image (full figure):** [`alaric-castra-lupus-helis.png`](../lore-images/alaric-castra-lupus-helis.png). Helm close-up: [`alaric-caput-ferreum-castellani.png`](../lore-images/alaric-caput-ferreum-castellani.png).
 
 Full kit and stance detail: [`dossier-alaric.md`](../personae-command-index/character-dossiers/triumvirate/dossier-alaric.md) §1.2, §5–7.
 

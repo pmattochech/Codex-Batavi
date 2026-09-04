@@ -19,10 +19,27 @@
 *The Chapter’s living seal — tool and predator at once. Copyable, not monumental.*
 
 * **Physique:** Balanced — neither the tallest nor the heaviest in DECIMA, which is **deliberate**. Graile models **median** Batavi morphology so every rank sees **THE ASTARTES** as achievable geometry, not unreachable monument. The median is **persona**, not accident: he refuses a body the line cannot follow.  
-* **Armor:** **Legatus-grade artificer** Noviomagus commission — **not** *Castra-Lupus*; **not** a Legatus *Typus* seat pattern. **Balanced manifest** loadouts per [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.10 when instructing; field issue favors duelist mobility.  
-* **Arms — *Par Ferrum Lupi*:** **Decreto** (artificer **power sword** — order **issued**, the **man**) and **Termini** (artificer **gladius** — termination **delivered**, the **wolf**). Barracks: **“the Pair.”** Prose may call **Termini** **the Bite**.  
+* **Armor:** **Legatus-grade artificer** Noviomagus commission — **Mk X Tacticus**, not *Castra-Lupus*, not a Legatus *Typus* seat pattern. ~**90% industrial grey**; **crimson pauldrons only** (forearms stay grey — Castellan crimson arms are not his). **Balanced manifest** loadouts per [vexilla-operational-armory.md](../../../arsenal-and-logistics/vexilla-operational-armory.md) §3.10 when instructing; field issue favors duelist mobility.  
+* **Arms — *Par Ferrum Lupi*:** **Decreto** (artificer **power sword** — order **issued**, the **man**) and **Termini** (artificer **gladius** — termination **delivered**, the **wolf**). Barracks: **“the Pair.”** Prose may call **Termini** **the Bite**. Standing read: **Decreto** drawn **right**; **Termini** sheathed; **left hand on the pommel**.  
 * **Combat doctrine:** ***Modus Binorum Ferrum*** when the Pair is issued — paired long/short under *Analytical Silence*. **Decreto** opens; **Termini** closes. That sequence is also how he **leashes** Wolf’s Curse (§2.4). **Man-at-arms:** he fights with **precision, lethality, and perfection** with **any** weapon he holds — issued or **improvised**. The Pair is office kit, not the limit of the man.  
-* **Visage:** Helm **sealed**. No kitchen privilege. Not Drusus or Varro’s feeding geometry — ordinary DECIMA plate. Mortals and most brothers meet the **median helm**, not a face.
+* **Visage:** Helm **sealed**. No kitchen privilege. Not Drusus or Varro’s feeding geometry. Mortals and most brothers meet the **office helm**, not a face.
+
+### 1.1 Official helm lock
+
+**Official lock image (helm):** [`graile-helm-lvpvs-imperatoris.png`](../../../lore-images/graile-helm-lvpvs-imperatoris.png) — relic **Mk X Tacticus** faceplate (not Kessler bronze, not a Legatus crest, not *Caput Ferreum*). **Crimson** bowl; **white** mouthplate / vox-grille; **orange** lenses; **iron** laurels with a small brow skull. **No** horizontal Furor visor bar — office exception: the **crimson bowl** carries the red (clinical Furor remains filed; pigment is the helm, not a stripe). Line Furor law is unchanged: [chapter-identity.md](../../intro-and-heraldry/chapter-identity.md).
+
+**Full-figure PNG:** **not** locked this pass. Standing studies exist as draft only; they do **not** override the kit law below (sleeping Batav head is **left** even if a generator flipped it).
+
+### 1.2 Cape, game, and cloth
+
+* **Cape:** Vivid **bright crimson** — Chapter red turned up. Distinct from Alaric’s **fosco** / soot-dark funeral cape.  
+* **Game (office tradition):** Graile wears it **first**. After him, each Emperor’s Wolf wears **game** — a battlefield quarry in this silhouette, not a pilgrimage hide and not a brother’s skin. Graile’s animal is a **Batav** (*Canis Batavorum*) taken **in war** (Aethelgard range), **not** the DECIMA **containment** trial (that specimen **lives**).  
+* **Pelt:** **Partial** stole **over** the cape — shoulders and **top of the pack** only; cape still reads below and behind. Charcoal / peat hide, iron-grey underpelt if the cut shows. **Left** pauldron: skinned wolf head **asleep** — lids shut, jaws closed, **no** glass eyes, **no** snarl. **Not** Alaric’s watching taxidermy. **Not** Sturmwahl’s living helm-crown. Right shoulder: fur only.  
+* ***Justice vexillum*:** **Escort only** — Castellan escort, Legatus pairing, high-judgment and tithe-window lunges. **Not** in the helm lock; **not** required on a first standing plate.
+
+### 1.3 Explicit negatives (kit)
+
+**Do not** file: Warp-tainted / daemon hide; **Versibar** pelt (desecration of Batavi dead); a dedicated hunting-world “Ground” trophy animal; full hide covering the cape; open-jaw or lensed wolf heads; *Breakwater*; Cataphractii slab; Castellan crimson forearms; Kessler bronze faceplate + gold eagle + transverse crest.
 
 ---
 
@@ -113,4 +130,4 @@ Leftover **Sigma Moon / 168.M42** captain-rise and **~051.M42** office-ratificat
 
 **Staff / wiki voice** for DECIMA line perspective and champion summons — **not** Alaric, **not** a Legatus. **No chronicle this pass.** Do not open a Graile serial.
 
-**Cross-reference:** [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3 (DECIMA, **LVPVS IMPERATORIS**); [castra-lupus-doctrine.md](../../../arsenal-and-logistics/castra-lupus-doctrine.md) §1.2; [weapons-and-equipment-catalog.md](../../../arsenal-and-logistics/weapons-and-equipment-catalog.md) (*Par Ferrum Lupi*); [insula-tenebrarum-isolation-fence.md](../../../atlas-and-topography/insula-tenebrarum-isolation-fence.md) §IV (tithe lunge); [valerian-heresy.md](../../events-and-chronologies/valerian-heresy.md). Legacy justice-vexillum prose remains **unmined**.
+**Cross-reference:** [military-hierarchy.md](../../doctrine-and-organs/military-hierarchy.md) §3 (DECIMA, **LVPVS IMPERATORIS**); [castra-lupus-doctrine.md](../../../arsenal-and-logistics/castra-lupus-doctrine.md) §1.2; [weapons-and-equipment-catalog.md](../../../arsenal-and-logistics/weapons-and-equipment-catalog.md) (*Par Ferrum Lupi*); [insula-tenebrarum-isolation-fence.md](../../../atlas-and-topography/insula-tenebrarum-isolation-fence.md) §IV (tithe lunge); [valerian-heresy.md](../../events-and-chronologies/valerian-heresy.md); [visual-identity-paint-guide.md](../../../visual-identity-paint-guide.md) (helm lock); [batav-wolf-canis-batavorum.md](../../../biological-encyclopedia-bestiary/batav-wolf-canis-batavorum.md) (game vs DECIMA trial). Legacy justice-vexillum prose remains **unmined**.

@@ -23,7 +23,7 @@ batavi-img templates
 batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "standing on battlements, lightning"
 ```
 
-**Alaric — canon visual (dossier §1.2):** `alaric_castra_lupus` uses a lupine helm in **grey ceramite** and pelts with **pale blue** eyes (Viggo, right shoulder) and **red** eyes (**Batav Wolf** / black wolf, left shoulder). **Crimson** helm (narrative prose): `alaric_castra_lupus_crimson_helm` (full body) and `alaric_bust_portrait_crimson_helm` (bust). Grey-helm bust: `alaric_bust_portrait`.
+**Alaric — canon visual (dossier §1.2):** `alaric_castra_lupus` uses the official full-figure lock `codex-batavi/lore-images/alaric-castra-lupus-helis.png` — ***Caput Ferreum Castellani*** (**grey industrial wolf** under a **red galea**), pelts **Batav** black **left** / **Viggo** white **right** (flank profile), *Breakwater*, *The Sentence*. Helm close-up: `codex-batavi/lore-images/alaric-caput-ferreum-castellani.png`. `alaric_castra_lupus_crimson_helm` and `alaric_bust_portrait_crimson_helm` remain **helm-lock aliases**. Bust: `alaric_bust_portrait`.
 
 ```bash
 batavi-img generate --preset alaric_armor --template alaric_castra_lupus -m "lightning, battlements"
@@ -31,7 +31,7 @@ batavi-img generate --preset alaric_armor --template alaric_castra_lupus_crimson
 batavi-img generate --preset alaric_armor --template alaric_bust_portrait -m "three-quarter view"
 ```
 
-**Reference image (full body, Gemini + lore):** `alaric_reference_fullbody` — crimson helm, white wolf on the **viewer’s left**, black on the **viewer’s right**, taxidermy blue/red eyes. Roadmap in **`TUTORIAL.md` §9**.
+**Reference image (full body):** use the official lock `codex-batavi/lore-images/alaric-castra-lupus-helis.png`. Template `alaric_reference_fullbody` still exists for Comfy runs; Roadmap in **`TUTORIAL.md` §9**.
 
 ```bash
 batavi-img generate --preset alaric_armor --template alaric_reference_fullbody -m "extra smoke, fire rim light"
