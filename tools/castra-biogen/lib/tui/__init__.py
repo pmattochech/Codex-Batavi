@@ -1,3 +1,0 @@
-"""
-castra-biogen TUI package.
-"""

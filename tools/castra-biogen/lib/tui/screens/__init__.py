@@ -1,3 +1,0 @@
-"""
-TUI screens package.
-"""

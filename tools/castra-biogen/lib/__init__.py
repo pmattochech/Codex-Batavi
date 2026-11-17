@@ -1,3 +1,0 @@
-"""
-castra-biogen library package.
-"""
