@@ -1,10 +1,131 @@
 # Chapter identity — remake notes
 
-Scratch only. Not canon. Chat lock so far, nothing else filled.
+Scratch only. Not canon. The 18 Nov 2026 answers are the current workshop direction. Older scratch under that section is kept.
 
 **Former canon inventory + remake gaps:** [`former-canon-inventory-and-remake-gaps.md`](former-canon-inventory-and-remake-gaps.md)  
 **Current canon summary (wiki + chronicle outcomes):** [`current-canon-summary-wiki.md`](current-canon-summary-wiki.md) — detailed Inquisition prose lives **in that file** between `*starts here` / `*ends here` per section (no extra detail files).  
-**Wiki category prune (source):** [`wiki-remake-categories.md`](wiki-remake-categories.md) — strikethrough there = disregarded; keep-list copied below.
+**Wiki category prune (source):** [`wiki-remake-categories.md`](wiki-remake-categories.md) — strikethrough there = disregarded; keep-list copied below.  
+**Gemini harvest (when an answer says Gemini):** [`stormcast-skaven-gemini-themes-summary.md`](stormcast-skaven-gemini-themes-summary.md).
+
+## 18 Nov 2026 — Paulo Mattochech’s answers from the question form
+
+Workshop direction only. Not canon. Where an answer in this section conflicts with an older note below, this section wins.
+
+These are his answers to the 26-question workshop form, in clean prose. Open items stay open. A Gemini line means the harvest linked above. This section does not copy that harvest out as a second text, and it does not fill a blank he left blank.
+
+### 1. Name
+
+The exact Chapter name is still open. The lean is **Batav Dreadwolfs**. The name stays discussable.
+
+### 2. Origin
+
+The Gemini birth picture is the one to rework for this schema. It is not accepted raw as the default. The harvest’s picture sits in §6. This answer does not seal a finished genesis.
+
+### 3. Home
+
+The home stays a multi-layer subsector or system. **Castra Vetera** becomes the Chapter monastery. The monastery’s name is still to be chosen.
+
+### 4. Combat doctrine
+
+Combat doctrine is still open. It will be reforged. No doctrine is written in this answer.
+
+### 5. Shared Sweat
+
+Shared Sweat stays. The tone moves grimmer.
+
+### 6. Domestic apex
+
+For politics outside the Chapter, the Castellan is the Chapter Master. The Chapter is led by the council that composes the Triumvirate (the Triumviratum).
+
+### 7. Charter strength
+
+Charter numbers stay inconsistent. Whether **Vexilla** and **Legatus** stay is still to be debated.
+
+### 8. Order of battle
+
+The order of battle is still to be rethought. The name Vexilla may be kept. Cohorts may be dropped, absorbed, or become Vexilla.
+
+### 9. Organs
+
+The new organ names stay. **Judex** stays as well, and Judex is the same character as Varro. Varro is still High Chaplain.
+
+### 10. Faith
+
+Faith is rebuilt. The Emperor remains the Ancestor-Sovereign. He achieved divinity. He is not a god. The Chapter holds that calling him a god is an insult, because he lived as a mortal once, by choice. The rest of the faith may take the Gemini line (§8 of the harvest).
+
+### 11. Self-image
+
+Both lines are used. The spine is the Gemini line. A brother is still only a tool, and not just any tool: one of the most valuable tools in the toolbox called the Imperium. They do not normally waste themselves on suicide missions.
+
+### 12. Culture
+
+Culture is remade toward the historical Batavians. The look is more Roman than Germanic, and it is still Germanic.
+
+### 13. Gene-seed, public and sealed
+
+Gene records are classified by the Inquisition. The working idea is that hints of the origin exist, including a Space Wolves hint. The Chapter does not use the Canis Helix on the gene-seed. That Space Wolves hint stays a hint. It is not filed as a confirmed progenitor.
+
+### 14. Making a marine, and the progenoid path
+
+Marine making and the progenoid path take the Gemini version. This answer does not restate a clinic past that adoption.
+
+### 15. Battle-cry
+
+The battle-cry is still open. A new cry has to be made. None is written here.
+
+### 16. Heraldry
+
+The seal now in the repo is official. His answer named `chapter-seal.png`. On `forging` that png has been removed. The official file is the refreshed [`chapter-seal.svg`](../lore-images/chapter-seal.svg).
+
+### 17. The enemy’s job
+
+The enemy’s job is still to be rethought. It should be read as an eternal containment conflict.
+
+### 18. The wound
+
+The wound itself is still open.
+
+### 19. Containment shape
+
+The old island filing is scraped so the three-rings model can be remade in its place. The model sits in §5 of the harvest.
+
+### 20. The sentence that governs the curse
+
+The notes and the Gemini lines are mixed. Wolf’s Curse is an engineered price, and a warp entity is present.
+
+### 21. Stages
+
+The three disk stages stay, and they change almost nothing. Stage 1 follows the Gemini description (§7 of the harvest). Each stage keeps its warp resistances and immunities. Those will be tinkered with.
+
+### 22. The Blood Rite
+
+The Blood Rite is a second initiation for a battle-brother. The transfusion puts him into stage 1 of the curse. The name of what he becomes is a placeholder. That name is still open.
+
+### 23. How a Versibar ends
+
+A Versibar is killed, captured for study, or locked, including more than one of those. Brothers taken that way can be used in a scorched-field strategy, as at *Adversarii at Portas*.
+
+### 24. How the curse is carried
+
+The Axiom of Reason stays. Wild Hunt, March of the Machine, and the Cull are removed entirely. The curse stays incurable, and each step is irreversible. A physical gradient is added so the change reads as natural and procedural. A brother in one stage can already show the next. Even in stage 1, a brother nearing stage 2 can show a little more fur, ears starting to point, and slightly greater muscle mass. The definitions that set each stage stay. Stage 2’s appearance sits closer to a wulfen look.
+
+### 25. Sponsor
+
+The Inquisition cabal is the sponsor direction. The Gemini face of that cabal is kept, and it will be refined.
+
+### 26. Why the deviation is suffered
+
+Only one Space Marine Chapter is focused on that ground. Hyper-production and the super-tithe are kept. The Gemini face is kept. Loyalty to the Inquisition is kept as well.
+
+### Left open
+
+- Exact Chapter name. The lean is Batav Dreadwolfs, and it is still discussable.
+- Monastery name. Castra Vetera becomes the monastery. The name comes later.
+- Combat doctrine. It will be reforged, and it is not written here.
+- Whether Vexilla and Legatus stay.
+- The wound itself.
+- The new battle-cry.
+- The Blood Rite’s name. The rite is a second initiation into stage 1. The name is a placeholder.
 
 **Kept:** chapter icon — wolf motif, gladius in the mouth. Waves may go.
 **Kept:** Triumvirate — three seats of power, a council, not a pipeline under a greater Castellan.
